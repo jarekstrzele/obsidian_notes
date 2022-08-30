@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "6f1d620cfb04cfa2",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8e0d3417fb59ca6",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "39b43aa2b990b3f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "7309f204701288b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04bc47a26b7598a7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ca32eba7f53d50b9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "json",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d8620bb078e166f1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "faa7e67ef6d9a902",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7036b4a7a06b882e",
+    "type": "split",
+    "children": [
+      {
+        "id": "27b664605e4010bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c14aaca8170032a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bb5471eb01b876eb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2c10840f95fd2771",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a777dbdfb940b863",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d8e0d3417fb59ca6",
+  "lastOpenFiles": [
+    "Billennium  info o tworzeniu kodów.md",
+    "Scieżki uczenia się.md",
+    "methodology/Agile/Master Agile principles udemy/6 Estimating in Agile.md",
+    "methodology/Agile/Master Agile principles udemy/0 Scrum.md",
+    "Git/ogólne.md",
+    "Git/W3school/_W3school GIT.md",
+    "Git/W3school/Git Adding (add, commit, log, status).md",
+    "Git/W3school/Git branch.md",
+    "Git/W3school/Git Help.md",
+    "Git/W3school/Git Getting Started.md"
+  ]
+}
