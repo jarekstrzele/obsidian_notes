@@ -13,10 +13,6 @@
       "path": "methodology/Agile/Master Agile principles udemy/0 Scrum.md"
     },
     {
-      "basename": "ogólne",
-      "path": "Git/ogólne.md"
-    },
-    {
       "basename": "_W3school GIT",
       "path": "Git/W3school/_W3school GIT.md"
     },
@@ -63,10 +59,6 @@
     {
       "basename": "2 Schemas (pydantic models)",
       "path": "API/Learn FastAPI by building_udemy/2 Schemas (pydantic models).md"
-    },
-    {
-      "basename": "PostgreSQL ogólne",
-      "path": "Data Bases/PostgreSQL/PostgreSQL ogólne.md"
     },
     {
       "basename": "Querying Data from PostgreSQL",
