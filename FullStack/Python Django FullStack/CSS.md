@@ -1,4 +1,4 @@
-[[HTML]]
+[[FullStack/Python Django FullStack/HTML]]
 [[JavaScript]]
 [[Python basic]]
 

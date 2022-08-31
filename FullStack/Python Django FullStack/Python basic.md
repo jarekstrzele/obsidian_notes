@@ -171,8 +171,7 @@ t_paterrn = ['[^!.?]+']
 
   
 ---
-# M O DU L E   and    P A C K A G E S  
-
+# MODULE and  PACKAGES  
 `import module_name  
 `module_name.func_inside()  
 
@@ -183,10 +182,10 @@ t_paterrn = ['[^!.?]+']
 `func()  
 
 ---
-# D E C O R A T E R S  
-**DECORATOR**     is a function that modiies the functionality  of another func  
+# DECORATERS  
+**DECORATOR**     is a function that modies the functionality  of another func  
 
-*locals()*         returns a dictionary of locals variables  
+*locals()*        returns a dictionary of locals variables  
 *globals()*      return a dictionary of global variables  
 
 ```python

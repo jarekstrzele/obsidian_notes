@@ -3,7 +3,6 @@
 3. [[Django Templates]]
 4. 
 
-
 ---
 
 # Start with Django
@@ -19,7 +18,7 @@ In Docker
 
 
 ----
-## High level Overview od Django
+## High level Overview of Django
 
 ![[overview_django.excalidraw | 700]]
 

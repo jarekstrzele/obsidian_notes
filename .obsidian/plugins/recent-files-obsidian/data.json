@@ -1,16 +1,112 @@
 {
   "recentFiles": [
     {
-      "basename": "Scieżki uczenia się",
-      "path": "Scieżki uczenia się.md"
+      "basename": "7 Python Advanced",
+      "path": "Django/Django 4 and Python Full-Stack/7 Python Advanced.md"
+    },
+    {
+      "basename": "_ 0 Django 4",
+      "path": "Django/Django 4 and Python Full-Stack/_ 0 Django 4.md"
+    },
+    {
+      "basename": "6 Python Basics",
+      "path": "Django/Django 4 and Python Full-Stack/6 Python Basics.md"
+    },
+    {
+      "basename": "Vim Plurasight Smash into VIM",
+      "path": "linux/Vim/Vim Plurasight Smash into VIM.md"
+    },
+    {
+      "basename": "4 CSS",
+      "path": "Django/Django 4 and Python Full-Stack/4 CSS.md"
+    },
+    {
+      "basename": "3 HTML Django4",
+      "path": "Django/Django 4 and Python Full-Stack/3 HTML Django4.md"
+    },
+    {
+      "basename": "Django Basics",
+      "path": "FullStack/Python Django FullStack/Django/Django Basics.md"
+    },
+    {
+      "basename": "Django views",
+      "path": "Django/Django views.md"
+    },
+    {
+      "basename": "Django include",
+      "path": "Django/Django include.md"
+    },
+    {
+      "basename": "_ wstęp Django Rest",
+      "path": "Django/Django rest framework/_ wstęp Django Rest.md"
+    },
+    {
+      "basename": "3 Demonstracja SQLite",
+      "path": "Django/Django rest framework/3 Demonstracja SQLite.md"
+    },
+    {
+      "basename": "3 Pierwszy ModelViewSet i podstawy CRUDa",
+      "path": "Django/Django rest framework/3 Pierwszy ModelViewSet i podstawy CRUDa.md"
+    },
+    {
+      "basename": "_ 0 Start Django4 and Python",
+      "path": "FullStack/Django 4 and Python FullStack/_ 0 Start Django4 and Python.md"
+    },
+    {
+      "basename": "_ start with Django",
+      "path": "FullStack/Python Django FullStack/Django/_ start with Django.md"
+    },
+    {
+      "basename": "0 python ogólne",
+      "path": "PYTHON/0 python ogólne.md"
+    },
+    {
+      "basename": "jQuery Events",
+      "path": "FullStack/Python Django FullStack/jQuery Events.md"
+    },
+    {
+      "basename": "jQuery Project",
+      "path": "FullStack/Python Django FullStack/jQuery Project.md"
+    },
+    {
+      "basename": "Python basic",
+      "path": "FullStack/Python Django FullStack/Python basic.md"
+    },
+    {
+      "basename": "_ 0 start",
+      "path": "FullStack/Web Development 2022/_ 0 start.md"
+    },
+    {
+      "basename": "Bootstrap",
+      "path": "FullStack/Python Django FullStack/Bootstrap.md"
+    },
+    {
+      "basename": "Booststrap NavBar",
+      "path": "FullStack/Python Django FullStack/Booststrap NavBar.md"
+    },
+    {
+      "basename": "7 Other Agile Roles",
+      "path": "methodology/Agile/Master Agile principles udemy/7 Other Agile Roles.md"
+    },
+    {
+      "basename": "the role triangle scrum.excalidraw",
+      "path": "Excalidraw/the role triangle scrum.excalidraw.md"
+    },
+    {
+      "basename": "3 Scrum Roles",
+      "path": "methodology/Agile/Master Agile principles udemy/3 Scrum Roles.md"
+    },
+    {
+      "basename": "0 Scrum",
+      "path": "methodology/Agile/Master Agile principles udemy/0 Scrum.md"
     },
     {
       "basename": "6 Estimating in Agile",
       "path": "methodology/Agile/Master Agile principles udemy/6 Estimating in Agile.md"
     },
     {
-      "basename": "0 Scrum",
-      "path": "methodology/Agile/Master Agile principles udemy/0 Scrum.md"
+      "basename": "Scieżki uczenia się",
+      "path": "Scieżki uczenia się.md"
     },
     {
       "basename": "_W3school GIT",
@@ -103,90 +199,6 @@
     {
       "basename": "Agile.excalidraw",
       "path": "Excalidraw/Agile.excalidraw.md"
-    },
-    {
-      "basename": "waterfall.excalidraw",
-      "path": "Excalidraw/waterfall.excalidraw.md"
-    },
-    {
-      "basename": "_ 0 HTTP fundementals",
-      "path": "network/HTTP/_ 0 HTTP fundementals.md"
-    },
-    {
-      "basename": "1 HTTP Resources",
-      "path": "network/HTTP/1 HTTP Resources.md"
-    },
-    {
-      "basename": "2 HTTP Messages",
-      "path": "network/HTTP/2 HTTP Messages.md"
-    },
-    {
-      "basename": "3 HTTP Connections",
-      "path": "network/HTTP/3 HTTP Connections.md"
-    },
-    {
-      "basename": "4. HTTP Architecture",
-      "path": "network/HTTP/4. HTTP Architecture.md"
-    },
-    {
-      "basename": "5 HTTP Security",
-      "path": "network/HTTP/5 HTTP Security.md"
-    },
-    {
-      "basename": "_ 0 Start",
-      "path": "network/Computer Networking/_ 0 Start.md"
-    },
-    {
-      "basename": "2 -  TCP IP OSI Models",
-      "path": "network/Computer Networking/2 -  TCP IP OSI Models.md"
-    },
-    {
-      "basename": "TCP_IP_MODEL.excalidraw",
-      "path": "Excalidraw/TCP_IP_MODEL.excalidraw.md"
-    },
-    {
-      "basename": "4 Sprint Backlog",
-      "path": "methodology/Agile/Master Agile principles udemy/4 Sprint Backlog.md"
-    },
-    {
-      "basename": "_ 0 React Docs Samouczek",
-      "path": "REACT/React/Docs React tutorial/_ 0 React Docs Samouczek.md"
-    },
-    {
-      "basename": "React render",
-      "path": "REACT/React/Docs React tutorial/React render.md"
-    },
-    {
-      "basename": "_ 0 Modern React 2022",
-      "path": "REACT/React/modern React/_ 0 Modern React 2022.md"
-    },
-    {
-      "basename": "JSON",
-      "path": "JSON.md"
-    },
-    {
-      "basename": "CI CD",
-      "path": "CI CD.md"
-    },
-    {
-      "basename": "static type",
-      "path": "static type.md"
-    },
-    {
-      "basename": "UBUNTU",
-      "path": "linux/UBUNTU.md"
-    },
-    {
-      "basename": "_0 Learn FastAPI by building a complate project",
-      "path": "API/Learn FastAPI by building_udemy/_0 Learn FastAPI by building a complate project.md"
-    },
-    {
-      "basename": "4 Sprint Review Meeting",
-      "path": "methodology/Agile/Master Agile principles udemy/4 Sprint Review Meeting.md"
-    },
-    {
-      "basename": "4 Sprint Retrospective",
-      "path": "methodology/Agile/Master Agile principles udemy/4 Sprint Retrospective.md"
     }
   ],
   "omittedPaths": [],

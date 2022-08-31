@@ -14,8 +14,8 @@
 [[5 Product Increment]]
 [[5 Product Backlog]]
 [[5 Working Agreements]]
-
-
+[[6 Estimating in Agile]]
+[[7 Other Agile Roles]]
 
 >[!important] definition
 >==scrum== is a lightweight framework designed to solve complex problems that required sprinting or iterating through a solution
