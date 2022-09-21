@@ -51,8 +51,6 @@ commit robi:
 -  tworzy obiekt tree w bazie  
 - tworzy informacje o nowym commicie w gałęzi, w której jesteśmy  
 - ustawia HEAD na najnowszą zmianę  
-    
-
   
 
 opis  `-m`
@@ -91,7 +89,7 @@ wyszukiwanie konkretnych commitów
 
 ---
 
-``git show //szczegółowe zobaczenie zmian w danych komicie
+`git show` //szczegółowe zobaczenie zmian w danych komicie
 `git show id_commitu`
 
 ---
@@ -106,119 +104,84 @@ to samo =>
 porównanie plików z różnymi commitami
 git diff id_cimmit id_commit  
 
-USUWANIE  
+---
 
-// usuwa pliki z kat.robo. i wersję z indeksu
+# USUWANIE  
+
+## `rm`
+// usuwa pliki z katalog roboczego i wersję z indeksu
 // nie usuwa tego pliku z historii repo
-**git rm plik**  
-
+`git rm plik`
 // trzeba potwierdzić commitem
 
 // usunięcie tylko z katologu roboczego  
-
-**rm plik**
+`rm plik`
 
 // usuwanie pliku z indeksu, ale nie z kat.robo.  
-
 // plik będzie untracked  
-
-**git rm --cached plik**
-
-  
+`git rm --cached plik`
+ 
 
 rm file                    // usuwa z kat.robo.
 git rm --cached file       // usuwa z indeksu  
-
 git rm file                // usuwa z kat.robo i z indeksu  
 
   
 
 git mv plik newNamedfile  
 
-  
-
-  
-
-**C H E C K O U T**   
-
-// wersja z kat.robo. jest usuwana  
-
+## `CHECKOUT`
+// wersja z katalogu roboczego jest usuwana  
 // wersja z indeksu jest przywracana  
-
 // jeżeli brak zmian w przechowalni, to przywracany stan z ostatniego commit
-**git checkout plik**   
+`git checkout plik`
 
 **lepsza wersja tej komendy**  
-
-                        **git checkout -- plik**  
+`git checkout -- plik`
 
 // bez kresek git może  
-
-// nie wiedzieć, że parametr jest nazwą pliku// gdy chcemy przywrócić stan kat.robo. z ostatniego commit**git checkout HEAD -- plik**   
+// nie wiedzieć, że parametr jest nazwą pliku
+// gdy chcemy przywrócić stan kat.robo. z ostatniego commit
+`git checkout HEAD -- plik`
 
 // przywrócić indeks ze stanu ostatniego commit
-git checkout id_num_of_commit   
+`git checkout id_num_of_commit`
 
   
 
 RESET  
-
-**git reset / reset HEAD**  
-
--   usuwa pliki ze staging area  
-    
--   pliki są nadal śledzone  
-    
+`git reset` lub `reset HEAD`
+- usuwa pliki ze staging area
+- pliki są nadal śledzone  
 -   pliki pozostają w kat.robo.  
-    
 -   stan staging area taki jak po ostatnim commit  
+-   `HEAD` - użycie tego jest czytelniejsze
     
--   HEAD - użcie tego jest czytelniejsze
-    
-    gdybyśmy chcieli z indeksu usunąć tylko konkretny plik/folder  
-    
-
-**git reset -- plik
-gir reset HEAD plik**  
+gdybyśmy chcieli z indeksu usunąć tylko konkretny plik/folder  
+`git reset -- plik`
+`git reset HEAD plik`  
 
 ---
+ 
 
-  
+# BRANCHES  
 
-  
+`git branch`      // na jakiej gałęzi jesteś
+`git branch` nazwa-nowego-brancha  
 
-B R A N C H E S  
+`git checkout nazwa-istniejącego_brancha`  // przełączanie się na inny branch  
 
-  
+`git merge nazwa-brancha`      // aktualną gałąż łączymy z nazwa-brancha  
 
-git branch      // na jakiej gałęzi jesteś
-git branch nazwa-nowego-brancha  
-
-git checkout nazwa-istniejącego brancha  // przełączanie się na inny branch  
-
-git merge nazwa-brancha      // aktualną gałąż łączymy z nazwa-brancha  
-
-**HEAD**  
-
+## HEAD
 -   określa, do której gałęzi się odnosimy,  
-    
--   wskazuje na ostatni commit  
-    
+-   wskazuje na ostatni commit      
 -   .git/HEAD/refs/master  
-    
 
-  
-
-  
-
-git P U S H  
-
+`git push`  
 przekazywanie zmian z local repo do remote repo  
 
-  
-
-git P U L L  
-
+`git pull`  
 pobieranie zmian z remote repo do local repo
 
 

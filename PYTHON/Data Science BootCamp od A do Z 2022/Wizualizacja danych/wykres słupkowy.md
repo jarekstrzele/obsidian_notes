@@ -11,7 +11,7 @@ fig.show()
 # paramet title można zamienić na title_text='Wykres słupkowy'
 ```
 
-![[plotly_plotly_slupkowy.png]]
+![[images/plotly_plotly_slupkowy.png]]
 
 Można taki wykres zapisać jako html, i taki wykres pozostanie interaktywny
 `fig.write_html('nazwa.html')`

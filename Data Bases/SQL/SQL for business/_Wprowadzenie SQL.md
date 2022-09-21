@@ -2,7 +2,7 @@
 #databases 
 
 [[constraints]]
-[[clean code]]
+[[Data Bases/SQL/SQL for business/clean code]]
 [[aggragate function]]
 [[base statement]]
 [[joins]]

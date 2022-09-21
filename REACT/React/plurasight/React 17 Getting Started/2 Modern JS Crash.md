@@ -56,7 +56,7 @@ const obj = {
 Objects are used to manage and to communicate data!!
 
 ## Desctructuring
-#javascrip/destructuring 
+#javascript/destructuring 
 
 It works with objects and arrays.
 ```javascript

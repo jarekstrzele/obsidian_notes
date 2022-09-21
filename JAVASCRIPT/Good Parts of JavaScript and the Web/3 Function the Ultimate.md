@@ -3,7 +3,7 @@
 
 ---
 # Function
-#javascrip/function
+#javascript/function
 
 Functions are really powerful bits of stuff.
 

@@ -22,7 +22,7 @@
 #git/checkout 
 `git checkout [commit_id]` 
 	- hey Git, take me back in time to this version `[commit_id]` of project
-	- it takes the version of the ptoject that we want to go to
+	- it takes the version of the  project that we want to go to
 
 ----
 ## Understanding Version Control

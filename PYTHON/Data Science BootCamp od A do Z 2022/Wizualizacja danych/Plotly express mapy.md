@@ -20,7 +20,7 @@ fig.update_layout(mapbox_style='carto-positron', margin={'r':10, 't':10, 'l':10,
 fig.show()
 ```
 
-![[plotly_map_1.png]]
+![[images/plotly_map_1.png]]
 
 
 

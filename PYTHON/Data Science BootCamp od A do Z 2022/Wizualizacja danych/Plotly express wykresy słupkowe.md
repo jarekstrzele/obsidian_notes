@@ -1,5 +1,5 @@
 [[0-Ploty Express wprowadzenie]]
-[[plotly_wykr_powierz.png]]
+[[images/plotly_wykr_powierz.png]]
 [[Plotly express mapy]]
 
 ---
@@ -21,14 +21,14 @@ df.head()
 px.bar(data_frame=df, x='year', y='passengers', color='year')
 ```
 
-![[plotly_slup_1.png]]
+![[images/plotly_slup_1.png]]
 
 
 ```py
 px.bar(data_frame=df, y='year', x='passengers', color='year', orientation='h')
 ```
 
-![[plotly_slup_2.png]]
+![[images/plotly_slup_2.png]]
 
 #histogram
 

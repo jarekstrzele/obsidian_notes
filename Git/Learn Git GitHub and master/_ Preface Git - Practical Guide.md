@@ -5,7 +5,7 @@
 [[- Basics Version Management]]
 [[- Diving Deeper into Git]]
 [[From Local to Remote - GitHub]]
-[[GitHun Deep Dive]]
+[[GitHub Deep Dive]]
 [[Real Project Example]]
 
 ## What is Git?

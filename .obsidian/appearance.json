@@ -1,4 +1,5 @@
 {
-  "cssTheme": "Kanagawa",
-  "baseFontSize": 20
+  "cssTheme": "Primary",
+  "baseFontSize": 24,
+  "theme": "system"
 }

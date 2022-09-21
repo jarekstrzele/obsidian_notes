@@ -1,204 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "7 Python Advanced",
-      "path": "Django/Django 4 and Python Full-Stack/7 Python Advanced.md"
+      "basename": "Structure & Comments",
+      "path": "methodology/clean code/Structure & Comments.md"
     },
     {
-      "basename": "_ 0 Django 4",
-      "path": "Django/Django 4 and Python Full-Stack/_ 0 Django 4.md"
+      "basename": "Clean Code Names",
+      "path": "methodology/clean code/Clean Code Names.md"
     },
     {
-      "basename": "6 Python Basics",
-      "path": "Django/Django 4 and Python Full-Stack/6 Python Basics.md"
+      "basename": "Clean Code",
+      "path": "methodology/clean code/Clean Code.md"
     },
     {
-      "basename": "Vim Plurasight Smash into VIM",
-      "path": "linux/Vim/Vim Plurasight Smash into VIM.md"
+      "basename": "alpine",
+      "path": "alpine.md"
     },
     {
-      "basename": "4 CSS",
-      "path": "Django/Django 4 and Python Full-Stack/4 CSS.md"
+      "basename": "CI CD",
+      "path": "CI CD.md"
     },
     {
-      "basename": "3 HTML Django4",
-      "path": "Django/Django 4 and Python Full-Stack/3 HTML Django4.md"
+      "basename": "ES refresh",
+      "path": "ES refresh.md"
     },
     {
-      "basename": "Django Basics",
-      "path": "FullStack/Python Django FullStack/Django/Django Basics.md"
+      "basename": "From Local to Remote - GitHub",
+      "path": "From Local to Remote - GitHub.md"
     },
     {
-      "basename": "Django views",
-      "path": "Django/Django views.md"
+      "basename": "GitHub Deep Dive",
+      "path": "GitHub Deep Dive.md"
     },
     {
-      "basename": "Django include",
-      "path": "Django/Django include.md"
+      "basename": "iloczyn kartezjański",
+      "path": "iloczyn kartezjański.md"
     },
     {
-      "basename": "_ wstęp Django Rest",
-      "path": "Django/Django rest framework/_ wstęp Django Rest.md"
-    },
-    {
-      "basename": "3 Demonstracja SQLite",
-      "path": "Django/Django rest framework/3 Demonstracja SQLite.md"
-    },
-    {
-      "basename": "3 Pierwszy ModelViewSet i podstawy CRUDa",
-      "path": "Django/Django rest framework/3 Pierwszy ModelViewSet i podstawy CRUDa.md"
-    },
-    {
-      "basename": "_ 0 Start Django4 and Python",
-      "path": "FullStack/Django 4 and Python FullStack/_ 0 Start Django4 and Python.md"
-    },
-    {
-      "basename": "_ start with Django",
-      "path": "FullStack/Python Django FullStack/Django/_ start with Django.md"
-    },
-    {
-      "basename": "0 python ogólne",
-      "path": "PYTHON/0 python ogólne.md"
-    },
-    {
-      "basename": "jQuery Events",
-      "path": "FullStack/Python Django FullStack/jQuery Events.md"
-    },
-    {
-      "basename": "jQuery Project",
-      "path": "FullStack/Python Django FullStack/jQuery Project.md"
-    },
-    {
-      "basename": "Python basic",
-      "path": "FullStack/Python Django FullStack/Python basic.md"
-    },
-    {
-      "basename": "_ 0 start",
-      "path": "FullStack/Web Development 2022/_ 0 start.md"
-    },
-    {
-      "basename": "Bootstrap",
-      "path": "FullStack/Python Django FullStack/Bootstrap.md"
-    },
-    {
-      "basename": "Booststrap NavBar",
-      "path": "FullStack/Python Django FullStack/Booststrap NavBar.md"
-    },
-    {
-      "basename": "7 Other Agile Roles",
-      "path": "methodology/Agile/Master Agile principles udemy/7 Other Agile Roles.md"
-    },
-    {
-      "basename": "the role triangle scrum.excalidraw",
-      "path": "Excalidraw/the role triangle scrum.excalidraw.md"
-    },
-    {
-      "basename": "3 Scrum Roles",
-      "path": "methodology/Agile/Master Agile principles udemy/3 Scrum Roles.md"
-    },
-    {
-      "basename": "0 Scrum",
-      "path": "methodology/Agile/Master Agile principles udemy/0 Scrum.md"
-    },
-    {
-      "basename": "6 Estimating in Agile",
-      "path": "methodology/Agile/Master Agile principles udemy/6 Estimating in Agile.md"
+      "basename": "JSON",
+      "path": "JSON.md"
     },
     {
       "basename": "Scieżki uczenia się",
       "path": "Scieżki uczenia się.md"
     },
     {
-      "basename": "_W3school GIT",
-      "path": "Git/W3school/_W3school GIT.md"
+      "basename": "static type",
+      "path": "static type.md"
     },
     {
-      "basename": "Git Adding (add, commit, log, status)",
-      "path": "Git/W3school/Git Adding (add, commit, log, status).md"
+      "basename": "_ 0 React Full",
+      "path": "REACT/React - the Complete Guide/_ 0 React Full.md"
     },
     {
-      "basename": "Git branch",
-      "path": "Git/W3school/Git branch.md"
+      "basename": "ES6 Refresh",
+      "path": "REACT/React/React Mosh/ES6 Refresh.md"
     },
     {
-      "basename": "Git Help",
-      "path": "Git/W3school/Git Help.md"
+      "basename": "1 ES6 refresher",
+      "path": "REACT/mosh/1 ES6 refresher.md"
     },
     {
-      "basename": "Git Getting Started",
-      "path": "Git/W3school/Git Getting Started.md"
+      "basename": "React.js Refresher",
+      "path": "REACT/REACT NATIVE/React Native Practical Guide/React.js Refresher.md"
+    },
+    {
+      "basename": "android studio",
+      "path": "REACT/REACT NATIVE/android studio.md"
+    },
+    {
+      "basename": "Tkinter 0",
+      "path": "PYTHON/GUI/Tkinter 0.md"
+    },
+    {
+      "basename": "Tkinter konwerter",
+      "path": "PYTHON/GUI/Tkinter konwerter.md"
+    },
+    {
+      "basename": "Tkinter",
+      "path": "PYTHON/GUI/Tkinter.md"
+    },
+    {
+      "basename": "2 Basic Types",
+      "path": "HASKELL/The Complete Haskell Course/2 Basic Types.md"
+    },
+    {
+      "basename": "_ 0 Complete Haskell Course",
+      "path": "HASKELL/The Complete Haskell Course/_ 0 Complete Haskell Course.md"
+    },
+    {
+      "basename": "1 Basics",
+      "path": "HASKELL/The Complete Haskell Course/1 Basics.md"
+    },
+    {
+      "basename": "haskell expression",
+      "path": "HASKELL/haskell expression.md"
+    },
+    {
+      "basename": "Practise jQuery Tic Tac Toe",
+      "path": "JAVASCRIPT/jQuery/Practise jQuery Tic Tac Toe.md"
+    },
+    {
+      "basename": "UBUNTU",
+      "path": "linux/UBUNTU.md"
+    },
+    {
+      "basename": "_ 0 React Native - Practical Guide",
+      "path": "REACT/REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md"
+    },
+    {
+      "basename": "3 React Basics",
+      "path": "REACT/React - the Complete Guide/3 React Basics.md"
+    },
+    {
+      "basename": "PySimpleGUI",
+      "path": "PYTHON/GUI/PySimpleGUI.md"
+    },
+    {
+      "basename": "2 Components React",
+      "path": "REACT/mosh/2 Components React.md"
     },
     {
       "basename": "_ 0 React Mosh",
-      "path": "REACT/React/React Mosh/_ 0 React Mosh.md"
+      "path": "REACT/mosh/_ 0 React Mosh.md"
+    },
+    {
+      "basename": "React Native Getting Started",
+      "path": "REACT/REACT NATIVE/plurasight/React Native Getting Started.md"
+    },
+    {
+      "basename": "React Native - The Big Picture 1",
+      "path": "REACT/REACT NATIVE/plurasight/React Native - The Big Picture 1.md"
+    },
+    {
+      "basename": "_ 0 start React Native",
+      "path": "REACT/REACT NATIVE/Master React Native Funds/_ 0 start React Native.md"
+    },
+    {
+      "basename": "_ 0 ReactNative docs",
+      "path": "REACT/REACT NATIVE/Docs reactnative/_ 0 ReactNative docs.md"
+    },
+    {
+      "basename": "React Native - XMLHttpRequest",
+      "path": "REACT/REACT NATIVE/Building Mobile Apps with React Native/React Native - XMLHttpRequest.md"
+    },
+    {
+      "basename": "React Native - Stack navigation",
+      "path": "REACT/REACT NATIVE/Building Mobile Apps with React Native/React Native - Stack navigation.md"
+    },
+    {
+      "basename": "React Native - Gesture handlers",
+      "path": "REACT/REACT NATIVE/Building Mobile Apps with React Native/React Native - Gesture handlers.md"
+    },
+    {
+      "basename": "5 - React Native - XMLHttpRequest",
+      "path": "REACT/REACT NATIVE/Building Mobile Apps with React Native/5 - React Native - XMLHttpRequest.md"
+    },
+    {
+      "basename": "4 - React Native - Gesture handlers",
+      "path": "REACT/REACT NATIVE/Building Mobile Apps with React Native/4 - React Native - Gesture handlers.md"
+    },
+    {
+      "basename": "3 - React Native - Stack navigation",
+      "path": "REACT/REACT NATIVE/Building Mobile Apps with React Native/3 - React Native - Stack navigation.md"
+    },
+    {
+      "basename": "_ 0 React Native Mobile Apps",
+      "path": "REACT/REACT NATIVE/Building Mobile Apps with React Native/_ 0 React Native Mobile Apps.md"
+    },
+    {
+      "basename": "_ 0 React Docs Samouczek",
+      "path": "REACT/React/Docs React tutorial/_ 0 React Docs Samouczek.md"
+    },
+    {
+      "basename": "React render",
+      "path": "REACT/React/Docs React tutorial/React render.md"
+    },
+    {
+      "basename": "_React Bob Ziroll",
+      "path": "REACT/React 1/React Bob Ziroll/_React Bob Ziroll.md"
+    },
+    {
+      "basename": "_ 0 w3school React",
+      "path": "REACT/w3school/_ 0 w3school React.md"
+    },
+    {
+      "basename": "2 React Render HTML",
+      "path": "REACT/w3school/2 React Render HTML.md"
+    },
+    {
+      "basename": "1 ES6",
+      "path": "REACT/w3school/1 ES6.md"
     },
     {
       "basename": "3.1 Component vidly project",
       "path": "REACT/React/React Mosh/3.1 Component vidly project.md"
     },
     {
-      "basename": "4 Composing Components",
-      "path": "REACT/React/React Mosh/4 Composing Components.md"
-    },
-    {
-      "basename": "4 the Star Match Game",
-      "path": "REACT/React/plurasight/React 17 Getting Started/4 the Star Match Game.md"
-    },
-    {
-      "basename": "3 Components",
-      "path": "REACT/React/React Mosh/3 Components.md"
-    },
-    {
-      "basename": "2 ES6 Refresh",
-      "path": "REACT/React/React Mosh/2 ES6 Refresh.md"
-    },
-    {
-      "basename": "2 Schemas (pydantic models)",
-      "path": "API/Learn FastAPI by building_udemy/2 Schemas (pydantic models).md"
-    },
-    {
-      "basename": "Querying Data from PostgreSQL",
-      "path": "Data Bases/PostgreSQL/Querying Data from PostgreSQL.md"
-    },
-    {
-      "basename": "1 Working with DBs",
-      "path": "API/Learn FastAPI by building_udemy/1 Working with DBs.md"
-    },
-    {
-      "basename": "8  Exceptions",
-      "path": "PYTHON/Plurasight Core Python/getting started/8  Exceptions.md"
-    },
-    {
-      "basename": "python_exceptions.excalidraw",
-      "path": "Excalidraw/python_exceptions.excalidraw.md"
-    },
-    {
-      "basename": "_ 0 Getting Started",
-      "path": "PYTHON/Plurasight Core Python/getting started/_ 0 Getting Started.md"
-    },
-    {
-      "basename": "_ 0 fast API  Fundamentals",
-      "path": "API/FasAPI Fundamentals/_ 0 fast API  Fundamentals.md"
-    },
-    {
-      "basename": "5 Product Increment",
-      "path": "methodology/Agile/Master Agile principles udemy/5 Product Increment.md"
-    },
-    {
-      "basename": "5 Working Agreements",
-      "path": "methodology/Agile/Master Agile principles udemy/5 Working Agreements.md"
-    },
-    {
-      "basename": "5 User Stories",
-      "path": "methodology/Agile/Master Agile principles udemy/5 User Stories.md"
-    },
-    {
-      "basename": "5 Product Backlog",
-      "path": "methodology/Agile/Master Agile principles udemy/5 Product Backlog.md"
-    },
-    {
-      "basename": "Agile.excalidraw",
-      "path": "Excalidraw/Agile.excalidraw.md"
+      "basename": "_ 0 React Hooks",
+      "path": "REACT/w3school/_ 0 React Hooks.md"
     }
   ],
   "omittedPaths": [],

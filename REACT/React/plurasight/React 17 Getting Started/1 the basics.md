@@ -25,7 +25,7 @@ React plus:
 	1. like functions
 	2. Input: props (immutable), state | Output: UI
 	3. Reusable and composable
-	4. >Component />
+	4. <Component />
 	5. Can manage a private state
 	6. types:
 		1. function component
@@ -104,7 +104,7 @@ Our useState() results:
 - updater function (setter)
 `const [counter, setCounter] = useState(0);`
 
-> [!Structure of  `useState`]
+> [!important] Structure of  `useState`
 > `const [currentStateValue, functionToSetNewStateValue] = useState(initialStateValue)
 
 React support `{expression}` syntax!!!!

@@ -84,7 +84,7 @@ var czyParzysta =  (x % 2 === 0) ? true : false;
 ```js
 function f_name(args) {  
             // body  
-            return; // przerywa działenie funkcji  
+            return; // przerywa działanie funkcji  
 }  
 
 f_name()
@@ -108,8 +108,17 @@ function test() { a=2; alert(a)  }  // ok, 2
 *funkcje anonimowe*
 ```js
 var x = function test() {} ; // to test jest funkcją o zasięgu lokalnym  
-                            // x ma zasięg globalny  
+
+// x ma zasięg globalny  
 var x = function() {} ;  
+
+// funkcja STRZAŁKOWA
+var y = (arg) => {
+
+	let p = "100";
+	arg = String(arg);
+	console.log(arg + p)
+}
 ```
     
 ---
@@ -147,7 +156,7 @@ function osoba (imie, nazwisko){
       }   
 }  
 
-var xx = **new osoba**("Arek", "Włodarczyk")  
+var xx = new osoba("Arek", "Włodarczyk")  
 ```
 
 **P R O T O T Y P**
@@ -221,7 +230,7 @@ tab1.splice(odKtórego, ileElementów, coDokleić)    //zmienia oryginalną ta
 ---
 
 ## P Ę T L A  
-#javascrip/for_in
+#javascript/for_in   
 `for in` szybko przechodzi przez obiekty (tablice też)  
 ```js
 for (var property in person)  

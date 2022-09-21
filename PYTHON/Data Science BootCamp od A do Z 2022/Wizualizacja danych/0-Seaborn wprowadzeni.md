@@ -41,7 +41,7 @@ df.describe(include=['category']) # -> statystyki typu 'category'
 wykres rozrzutu zmiennej `tip` i `total_bill`
 `sns.relplot(data=df, x='total_bill', y='tip')`
 
-![[seaborn_relplot_tip_total_bill.png]]
+![[images/seaborn_relplot_tip_total_bill.png]]
 
 zmiana wielkości _font_
 #python/seaborn_font
@@ -51,15 +51,15 @@ zmiana wielkości _font_
 dodanie nowego parametru `size` wielkość kropki, którą uzależnimy od wielkości grupy oraz parametrem `hue` zmienimy kolor
 `sns.relplot(data=df, x='total_bill', y='tip', size='size', hue='size')`
 
-![[seaborn_relplot_tip_total_bill_2.png]]
+![[images/seaborn_relplot_tip_total_bill_2.png]]
 rozbijemy nasz wykres na dwa ze względu na czas `time`
 `sns.relplot(data=df, x='total_bill', y='tip', size='size', hue='size', col='time')`
 
-![[seaborn_relplot_tip_total_bill_3.png]]
+![[images/seaborn_relplot_tip_total_bill_3.png]]
 Możemy rozbić również na wiersze; np. dotatkowo ze względu na palenie
 `sns.relplot(data=df, x='total_bill', y='tip', size='size', hue='size', col='time')`
 
-![[seaborn_relplot_tip_total_bill_4.png]]
+![[images/seaborn_relplot_tip_total_bill_4.png]]
 
 ---
 
@@ -67,13 +67,13 @@ Możemy rozbić również na wiersze; np. dotatkowo ze względu na palenie
 
 `_ = sns.catplot(data=df, x='day', y='total_bill')`
 
-![[seaborn_catplot_1.png]]
+![[images/seaborn_catplot_1.png]]
 dodatkowy parametr `kind` zmienia wygląd wykresy (np. `kind='box' ; kind='swarm' ; kind='violin'  ; kind='bar'`)
 
 Wizualizacja częstości dnia
 `_ = sns.catplot(data=df, x='day', y='total_bill')`
 
-![[seaborn_catplot_2.png]]
+![[images/seaborn_catplot_2.png]]
 W piątek (Fri) jest najmniej klientów
 
 ---
@@ -87,13 +87,13 @@ df.head()
 częstotliwość występowanie pokładu, z nową paletą kolorów
 `sns.catplot(data=df, x='deck', kind='count'`
 
-![[seaborn_catplot_titanic_1.png]]
+![[images/seaborn_catplot_titanic_1.png]]
 
 ## Iris
 wykres pairplot z kolorowanie ze wględu na gatunek
 `sns.pairplot(data=df, hue='species')`
 
-![[seaborn_catplot_iris_1.png]]
+![[images/seaborn_catplot_iris_1.png]]
 
 
 

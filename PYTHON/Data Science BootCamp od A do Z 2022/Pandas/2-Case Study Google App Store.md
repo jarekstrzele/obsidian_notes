@@ -99,9 +99,9 @@ sns.set()
 df.age_rating.value_counts().plot(kind='bar')
 ```
 
-![[age_rating_bar.png]]
+![[images/age_rating_bar.png]]
 
-![[age_rating_pie.png]]
+![[images/age_rating_pie.png]]
 
 
 ---

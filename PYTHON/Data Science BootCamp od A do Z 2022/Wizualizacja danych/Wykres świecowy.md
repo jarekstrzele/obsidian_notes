@@ -24,7 +24,7 @@ fig = go.Figure(data=go.Candlestick(x=df.Date, open=df.Open, high=df.High, low=d
 fig.show()
 ```
 
-![[wykres_świecowy.png]]
+![[images/wykres_świecowy.png]]
 
 
 

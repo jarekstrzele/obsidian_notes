@@ -15,7 +15,7 @@ fig = go.Figure(data=data, layout=go.Layout(width=800, height=400))
 fig.show()
 ```
 
-![[Snakey.png]]
+![[images/Snakey.png]]
 
 
 

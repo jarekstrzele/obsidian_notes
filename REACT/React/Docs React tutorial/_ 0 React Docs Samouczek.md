@@ -10,7 +10,6 @@ https://pl.reactjs.org/tutorial/tutorial.html
 	- elastyczna
 - budowanie interfejsów użytkowanika przy użyciu odizolowalny od siebie kawałków kodu, zwanych "komponentami"
 
-
 >[!important] Komponent
 > - Pozwala wytłumaczyć Reactowi, co chemy ujrzeć na ekranie
 > - gdy zmieniają się nasze dane, React w sposób efekwtywny aktualizuje i ponownie wyrenderuje komponenty
@@ -18,32 +17,35 @@ https://pl.reactjs.org/tutorial/tutorial.html
 
 ## Reactowy komponent klasowy
 ```javascript
-class ShoppingList extends React.Component {
-  render() {
-    return (
-      <div className="shopping-list">
-        <h1>{this.props.name} - lista zakupów</h1>
-        <ul>
-          <li>Instagram</li>
-          <li>WhatsApp</li>
-          <li>Oculus</li>
-        </ul>
-      </div>
+class Przestepca extends React.Component {
+ render() {
+  return (
+   <div className="views">
+    <h1>{this.props.name} poszukiwany przez</h1>
+     <ul>
+      <li>ABW</li>
+      <li>BBC</li>
+      <li>ZSRR</li>
+     </ul>
+   </div>
     );
   }
 }
+```
 
-// Przykład użycia: <ShoppingList name="Marek" />
-// <div /> jest przekształcany w React.createElement('div')
+Przykład użycia: `<ShoppingList name="Marek" />`
 
-// Powyższa składnia JSX jest przekształcana na
-// return ( React.createElement('div', {className: 'shopping-list'},
-//      React.createElement('h1', /* ... h1 children ... */),
-//      React.createElement('ul', /* ... ul children ... */)%%
-// );
+`<div />`  jest przekształcany w `React.createElement('div')`
+
+Powyższa składnia JSX jest przekształcana na
+```jsx
+ return ( React.createElement('div', {className: 'views'},
+ React.createElement('h1', /* ... h1 children ... */),
+ React.createElement('ul', /* ... ul children ... */)
+);
 ```
 Na **wejściu** komponent przyjmuje parametry (atrybuty/*props*. *properties*).
-Na **wyjściu** przy pomocy metody [[React render |  `render`]] zwraca strukturę widoków do wyświetlenia.
+Na **wyjściu** przy pomocy metody  [[React render |  `render`]] zwraca strukturę widoków do wyświetlenia.
 
 
 -----

@@ -31,7 +31,7 @@ df.head()
 px.area(data_frame=df, x='Date', y='Close', log_y=True, title='WYkres spółki Amazon')
 ```
 
-![[plotly_wykr_powierz.png]]
+![[images/plotly_wykr_powierz.png]]
 
 
 

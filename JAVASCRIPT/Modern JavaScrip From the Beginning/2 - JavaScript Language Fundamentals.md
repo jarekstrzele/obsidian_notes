@@ -56,8 +56,8 @@ typeof sym //-> symbol
 
 ## Type Conversion
 
-String(5) -> '5'    
-(5).toString()
+`String(5)` -> '5'    
+`(5).toString()`
 
 String(new Date())
 (new Date()).toString()

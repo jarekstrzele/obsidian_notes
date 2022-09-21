@@ -1,4 +1,4 @@
-[[0-React]]
+[[REACT/React/REACT (W3school%3f)/0-React]]
 
 
 
@@ -128,7 +128,7 @@ const myList = myArray.map((item) => <p>{item}</p>)
 ---
 
 ## DESTRUCTURING
-#javascrip/destructuring
+#javascript/destructuring 
 Destructuring is like making sanwich. To make it you take out of the refrigerator only what you need.
 
 >__destructuring__ makes it easy to extract only what you need

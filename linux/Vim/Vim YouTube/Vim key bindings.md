@@ -5,11 +5,11 @@
 ## Vim key bindings and Vim Key Functions
 
 in google: vim cheetsheet
-![[vim-commands-cheat-sheet-by-pnap.pdf]]
+![[images/vim-commands-cheat-sheet-by-pnap.pdf]]
 
-![[vim_cheet_sheet1.png|700]]
+![[images/vim_cheet_sheet1.png|700]]
 
-[[vim_cheet_sheet1.png]]
+[[images/vim_cheet_sheet1.png]]
 
 
 The change from insert mode to normal mode:

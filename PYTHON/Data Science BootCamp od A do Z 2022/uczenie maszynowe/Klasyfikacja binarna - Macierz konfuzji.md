@@ -35,7 +35,7 @@ cm = confusion_matrix(y_true, y_pred)
 plot_confusion_matrix(cm)
 ```
 
-![[confusion_matrix.png]]
+![[images/confusion_matrix.png]]
 
 ```python
 tn, fp, fn, tp = cm.ravel()

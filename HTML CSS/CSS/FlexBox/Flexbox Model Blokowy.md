@@ -3,7 +3,7 @@
 ---
 ## Model blokowy FlexBox
 
-![[flex_model.png | 700]]
+![[images/flex_model.png | 700]]
 
 Elementy blokowe w modelu *Flexbox* układają się względem dwóch osi: *main axis* oraz *cross axis*
 - **flex container** to rodzic, który ma ustawiony `display: flex` (w naszym przykładzie to `section`)

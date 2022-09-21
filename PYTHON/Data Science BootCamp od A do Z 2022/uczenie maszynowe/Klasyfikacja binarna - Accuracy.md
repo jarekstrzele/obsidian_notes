@@ -49,4 +49,4 @@ fig.show()
 ```
 
 
-![[klasyfikator_binarny.png]]
+![[images/klasyfikator_binarny.png]]

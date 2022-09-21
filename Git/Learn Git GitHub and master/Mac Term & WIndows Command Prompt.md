@@ -13,9 +13,6 @@ The "new" Windows Powershell (not used in the course) => [**https://docs.micros
 		
 # Mac ter & Windows Command Prompt
 
-
-
-
 ## In Mac:
 **terminal** text input environment ("hardware")
 **Shell** text input interface ("software")

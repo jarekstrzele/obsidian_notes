@@ -44,7 +44,7 @@ fig = go.Figure(
 fig.show()
 ```
 
-![[plotly_kolowy.png]]
+![[images/plotly_kolowy.png]]
 
 __WYKRES PIERŚCIENIOWY__
 dodajemy parametr hole w klasie Pie
@@ -56,4 +56,4 @@ fig = go.Figure(
 fig.show()
 ```
 
-![[plotply_pierscien.png]]
+![[images/plotply_pierscien.png]]

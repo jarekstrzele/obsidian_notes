@@ -11,11 +11,25 @@
       "query": "tag:#python",
       "color": {
         "a": 1,
-        "rgb": 5431413
+        "rgb": 2803281
+      }
+    },
+    {
+      "query": "#javascript",
+      "color": {
+        "a": 1,
+        "rgb": 16775501
+      }
+    },
+    {
+      "query": "react",
+      "color": {
+        "a": 1,
+        "rgb": 3274473
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
@@ -25,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.1166047727796614,
+  "scale": 0.34147441013882746,
   "close": false
 }

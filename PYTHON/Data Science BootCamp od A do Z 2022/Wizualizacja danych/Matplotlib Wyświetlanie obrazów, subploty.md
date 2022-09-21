@@ -33,7 +33,7 @@ plt.subplot(224)
 plt.imshow(mpimg.imread('workplace.jpg'))
 ```
 
-![[siatka_obrazow.png]]
+![[images/siatka_obrazow.png]]
 
 Wersja krótsza:
 ```py

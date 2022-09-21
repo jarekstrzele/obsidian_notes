@@ -9,8 +9,7 @@
 #udemy 
 
 
-
-**git to rozproszony system kontrolii wersji**  
+## git to rozproszony system kontrolii wersji
 -   **VCS** version control system służy do zarządzania projektem w czasie.  
 -   Tworzy historię projektu,  
 -   pozwala na współpracę wielu osób i łączenie ich pracy  
@@ -96,11 +95,11 @@ to będa dane lokalne, tylko dla danego projektu
 kasuje wartość user.email   
 
 ## PROJEKT KSIĄŻKI  
-git init --help       // dokumentacja  
+`git init --help`       // dokumentacja  
 
-git init -h            // o parametrach  
+`git init -h`            // o parametrach  
 
-_ls -a_            a       w      windowsie                  _dir -h_  
+`ls -a`        a       w      windowsie                  _dir -h_  
 
    
 mamy trzy obszary:
@@ -195,9 +194,9 @@ to w kursie proponują git reset, czyli przywróć stan staging area przed wykon
 
 pokazuje mi, że (na czerwono) że ten plik jest skasowany)  
 
-w kursie proponują `git checkout -- nazwa=pliku  
+w kursie proponują `git checkout -- nazwa_pliku  
 
-ale mi się wyświetla inna podpowiedź, aby użyć komendy `restor  
+ale mi się wyświetla inna podpowiedź, aby użyć komendy `restore  
 ```bash
 
 $ git status   

@@ -17,7 +17,7 @@ df = px.data.tips()
 px.scatter(data_frame=df, x='total_bill', y = 'tip', facet_col='day', category_orders={'day': [ 'Thur', 'Fri', 'Sat', 'Sun']}, trendline='ols', color='smoker')
 ```
 
-![[plotly_tips_1.png]]
+![[images/plotly_tips_1.png]]
 
 
 
@@ -26,7 +26,7 @@ px.scatter(data_frame=df, x='total_bill', y = 'tip', facet_row='time', trendline
 ```
 
 
-![[plotly_tips_2.png]]
+![[images/plotly_tips_2.png]]
 
 
 Do Danych KATEGORYCZNYCH
@@ -35,7 +35,7 @@ Do Danych KATEGORYCZNYCH
 px.parallel_categories(data_frame=df, color='size')
 ```
 
-![[plotly_tips_cat.png]]
+![[images/plotly_tips_cat.png]]
 
 
 

@@ -13,11 +13,10 @@ VS Code:
 [[4 CSS]]
 [[6 Python Basics]]
 [[7 Python Advanced]]
-
-
-
-
-
+[[8 Intro to Django framework]]
+[[9 Django - Views, Routing, and URLs]]
+[[10 Django Templates]]
+[[11 Django - Models, Databases, Queries]]
 
 
 

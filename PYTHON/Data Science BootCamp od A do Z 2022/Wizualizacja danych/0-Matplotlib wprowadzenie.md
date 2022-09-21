@@ -45,7 +45,7 @@ fig.show()
 pierwsz lista to OX, druga OY
 `plt.plot([0,1], [0,3])`
 
-![[linia_prosta_matplotlib.png]]
+![[images/linia_prosta_matplotlib.png]]
 
 Ustawiamy parametry
 ```py
@@ -71,7 +71,7 @@ plt.title("Wykres")
 _ = plt.legend()
 ```
 
-![[linia_prosta_matplotlib_zDodatkami.png]]
+![[images/linia_prosta_matplotlib_zDodatkami.png]]
 
 ---
 
@@ -85,7 +85,7 @@ plt.plot(x, x_cos)
 
 ```
 
-![[sin_cos_matplotlib.png]]
+![[images/sin_cos_matplotlib.png]]
 
 ---
 ## Wiele wykresów
@@ -106,7 +106,7 @@ plt.plot([0,1,2], [3,2,5], 'ro')
 
 ```
 
-![[trzy_wykresy_obok_matplotlib.png]]
+![[images/trzy_wykresy_obok_matplotlib.png]]
 
 
 Poza notebookie na koniec trzeba wydać komendę
@@ -115,11 +115,11 @@ Poza notebookie na koniec trzeba wydać komendę
 ---
 ## Wykresy słupkowe
 `plt.bar(x=[0,1,2,3], height=[1.2,3.2,1.2,5.2])`
-![[bar_matplotlib.png]]
+![[images/bar_matplotlib.png]]
 
 
 `plt.barh(y=['a', 'b', 'c', 'ddd'], width=[1.2,3.2,1.2,5.2])`
-![[barh_matplotlib.png]]
+![[images/barh_matplotlib.png]]
 
 ---
 
@@ -134,7 +134,7 @@ x3 = np.random.randn(300) * 50
 plt.scatter(x=x1, y=x2, s=x3, alpha=0.5)
 ```
 
-![[scatter_matplotlib.png]]
+![[images/scatter_matplotlib.png]]
 
 
 
