@@ -62,3 +62,11 @@ exp :: Floating a=> a->a
 cos :: Floating a=> a->a
 ```
 
+
+----
+Attention:
+- the negative sign with parentheses `(-22)`
+- `mod` and `rem` work differently with negative numbers
+- not identical `/=`
+
+

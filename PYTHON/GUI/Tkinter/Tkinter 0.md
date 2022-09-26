@@ -74,8 +74,11 @@ btn = Button(text="CLick Me")
 btn.grid(column=1, row=1)
 btn.config(padx=50, pady=50)
 # btn 2
-btn2 = Button(text="BTN2")
+btn2 = Button(text="BTN2", command=lambda: Label(root, text="I am clicked").grid(column=1, row=0))
 btn2.grid(column=3,row=0)
+# fg="blue" font color blue
+# bg = "#ffffff" background color black
+
 
 # Entry
 input = Entry(width=10)
@@ -85,7 +88,24 @@ input.grid(column=4,row=3)
 window.mainloop()
 ```
 
+```python
+from tkinter import *
 
+root = Tk()
+e = Entry(root, width=50)
+e.pack()
+# e.insert(0, "Enter your name: ")
+
+def myClick():
+	hello = "Hello "+ e.get()
+	myLabel = Label(root, text=hello)
+	myLabel.pack()
+
+myButton = Button(root, text="ENter your name", command=myClick)
+myButton.pack()
+
+root.mainloop()
+```
 
 
 

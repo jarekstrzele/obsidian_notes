@@ -21,8 +21,8 @@
 
 ## KEY POINTS
 1. [[Clean Code Names | Names]]
-2. [[Structure & Comments]]
-3. Functions
+2. [[Structure and Comments]]
+3. [[Functions and Methods]]
 4. Conditionals & Error Handling
 5. Classes & Data Structures
 

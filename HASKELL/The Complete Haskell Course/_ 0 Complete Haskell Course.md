@@ -2,8 +2,7 @@
 
 [[1 Basics]]
 [[2 Basic Types]]
-
-
+[[3 Functions]]
 
 
 -----

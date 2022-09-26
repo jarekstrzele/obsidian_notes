@@ -1,5 +1,20 @@
-poclean_code 
+
 [[Clean Code]]
+
+>[!imortant] Clean Code
+>- it is not about whether code works
+>- it is a code 
+>	- easy to **read** and **understand**
+>	- concise
+>	- avoid 
+>		- unintuitive names
+>		- complex nesting
+>		- big code blocks
+>	- follow common best practices and patterns
+
+>CLEAN CODE IS EASY TO UNDERSTAND
+
+>your code is like an essay
 
 
 # Names
@@ -75,7 +90,7 @@ function performs an operation | function computes a Boolean
 describe the operation | Answer a true/false question
 `getUser()`, `response.send()` | `isValid`, `purchase.isPaid()`
 with more details | with more details
-`getUserByEmail()` | `emailIsValid()
+`getUserByEmail()` | `emailIsValid()`
 
 what does the function do? | bad names | okay names | good names
 ---|---|---|---
