@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PYTHON/GUI/Python Tkinter GUI youtube/_ 0 Python Tkinter GUI.md",
+                "file": "PYTHON/GUI/Python Tkinter GUI youtube/More animations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "df4e5de05c1099d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PYTHON/GUI/Python Tkinter GUI youtube/Multi animations.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -129,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PYTHON/GUI/Python Tkinter GUI youtube/_ 0 Python Tkinter GUI.md",
+                "file": "PYTHON/GUI/Python Tkinter GUI youtube/Multi animations.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -146,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PYTHON/GUI/Python Tkinter GUI youtube/_ 0 Python Tkinter GUI.md",
+                "file": "PYTHON/GUI/Python Tkinter GUI youtube/Multi animations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PYTHON/GUI/Python Tkinter GUI youtube/_ 0 Python Tkinter GUI.md"
+                "file": "PYTHON/GUI/Python Tkinter GUI youtube/Multi animations.md"
               }
             }
           }
@@ -179,13 +192,13 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "86ea26330e3ce595",
+  "active": "df4e5de05c1099d5",
   "lastOpenFiles": [
-    "Git/git with Obsitdian.md",
     "PYTHON/GUI/Python Tkinter GUI youtube/More animations.md",
+    "PYTHON/GUI/Python Tkinter GUI youtube/_ 0 Python Tkinter GUI.md",
+    "Git/git with Obsitdian.md",
     "Git/git tortoise/tortoise youtube.md",
     "PYTHON/GUI/Python Tkinter GUI youtube/Drag and Drop.md",
-    "PYTHON/GUI/Python Tkinter GUI youtube/_ 0 Python Tkinter GUI.md",
     "PYTHON/GUI/Python Tkinter GUI youtube/move images.md",
     "PYTHON/GUI/Python Tkinter GUI youtube/new_window.md",
     "PYTHON/GUI/Python Tkinter GUI youtube/animations.md",
