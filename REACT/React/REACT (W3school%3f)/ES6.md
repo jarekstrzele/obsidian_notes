@@ -1,0 +1,280 @@
+[[0-React]]
+
+
+
+---
+
+# ES6
+
+>ES6 stands for ECMAScript 6.
+>It is the 6th version of ECMAScript
+
+Table of contents:
+
+[[#Arrow Functions]]
+[[#VARIABLES]]
+[[#ARRAY Methods]]
+[[#DESTRUCTURING]]
+[[#Spread operator]]
+[[#MODULES]]
+
+
+
+
+---
+
+## React ES6 Classes
+#rjavascript/class
+- A class is a type of function.
+- To initiate it you use the keyword `class` instead of the keyword `function`.
+- the properties are assigned inside a `constructor()` method
+
+```js
+class Car {
+  constructor(name) {
+    this.brand = name;
+  }
+
+  present(){
+	  return 'I have a ' + this.brand;
+  }
+
+}
+
+const mycar= = new Car("Ford");
+mycar.present();
+```
+
+
+```sql
+class Model extends Car{
+  constructor(name, mod){
+	  super(name);
+	  this.model = mod;
+	  
+  }
+  show(){}
+  
+}
+
+cinst mycar = new Model("Ford", "Mustang");
+mycar.show()
+```
+
+`super()` refers to the parent class
+
+
+
+---
+
+## Arrow Functions
+#react/arrow
+
+If function has onlu one statement:
+`hello = (val) => "Hello world " + val;`
+
+and if you have only one parameter, you can skip the parentheses as well:
+`hello = val => 'Hello ' + val;`
+
+### `this`
+In regular functions the `this` keyword represented the object that called the function (window, document, button ...).
+
+With arrow functions, the `this` keyword __always__ represents the object that defined the arrow function (with arrow functions there are no binding of `this`).
+
+---
+
+## VARIABLES
+`var`:
+- outside of a function, a variable has a global scope,
+- inside of a function,a variable belongs to that function,
+- inside of a block (i.e. a for loop), the variable is still available outside of the block
+>`var` has a function scope, not a block
+
+
+
+`let`:
+- is a block scope version of `var` (is limited to a block or expression where it is  defined)
+- inside of a block (i.e. for loop), the variable is only availble inside that loop
+>`let` has a block scope
+
+
+
+`const`:
+- it does not define  a constant value. 
+- it defines a constant reference to a value  
+ ->:
+	- you can change the elems of constant array
+	- you can change the properies  of constant object
+
+>`const` has a block scope
+
+---
+## ARRAY Methods
+#javascript/map
+
+One of the most useful method in React is the `.map()` array method.
+
+`.map()`:
+- runs a function on  each item in the array
+- returns a new array as a result
+
+ ```js
+ const myArray = ['apple', 'banana', 'orange'];
+
+const myList = myArray.map((item) => <p>{item}</p>)
+						   
+ ```
+
+---
+
+## DESTRUCTURING
+#javascript/destructuring 
+Destructuring is like making sanwich. To make it you take out of the refrigerator only what you need.
+
+>__destructuring__ makes it easy to extract only what you need
+
+### Desctructing arrays
+__the order is imporant__!!
+```js
+const vehicles = ['mustang', 'f-150', 'expedition'];
+
+const [car, truck, suv] = vehicles;
+```
+
+```js
+const vehicles = ['mustang', 'f-150', 'expedition'];
+
+const [car, , suv] = vehicles;
+```
+
+
+When a function return an array:
+```js
+function calculate(a, b) {
+  const add = a + b;
+  const subtract = a - b;
+  const multiply = a * b;
+  const divide = a / b;
+
+  return [add, subtract, multiply, divide];
+}
+```
+
+### Destructuring Objects
+__The order is not important!!!___
+
+```js
+const vehicleOne = {
+  brand: 'Ford',
+  model: 'Mustang',
+  type: 'car',
+  year: 2021, 
+  color: 'red'
+}
+
+myVehicle(vehicleOne);
+
+function myVehicle({type, color, brand, model}) {
+  const message = 'My ' + type + ' is a ' + color + ' ' + brand + ' ' + model + '.';
+}
+```
+
+---
+
+## Spread operator
+allows us to quickly copy all or part of an existing array or object into another array or object.
+```js
+const numbersOne = [1, 2, 3];
+const numbersTwo = [4, 5, 6];
+const numbersCombined = [...numbersOne, ...numbersTwo];
+```
+
+The spread operator is often used in combination with destructuring.
+Assign the first and second items from numbers to variables and put the rest in an array:
+```js
+const numbers = [1, 2, 3, 4, 5, 6];
+
+const [one, two, ...rest] = numbers;
+```
+
+object:
+```js
+const myVehicle = {
+  brand: 'Ford',
+  model: 'Mustang',
+  color: 'red'
+}
+
+const updateMyVehicle = {
+  type: 'car',
+  year: 2021, 
+  color: 'yellow'
+}
+
+const myUpdatedVehicle = {...myVehicle, ...updateMyVehicle}
+```
+Th color is a yellow!!!!.
+
+---
+## MODULES
+>ES modules rely on the `import` and `export` statements.
+
+
+### EXPORT
+#### export name
+in two ways:
+- in-line individually
+```js
+export const name = "Jesse"
+export const age = 40
+```
+- all at once at the bottom
+```js
+const name = "Jesse"
+const age = 40
+
+export { name, age }
+```
+
+#### export default
+>You can only have one default export in a file
+
+```js
+const message = () => {
+  const name = "Jesse";
+  const age = 40;
+  return name + ' is ' + age + 'years old.';
+};
+
+export default message;
+```
+
+
+### IMPORT
+in two ways (based on name export or default export)
+
+#### import from named exports
+it must be destructured using curly braces.
+```js
+import {name, age}  from "./person.js"
+```
+
+#### import from default exports
+```js
+import messafe from "./message.js"
+```
+
+---
+## Ternary operator
+`condition ? <expression if true> : <expression if false'
+
+```js
+authenticated ? renderApp() : renderLogin();
+```
+
+
+
+
+
+
+
