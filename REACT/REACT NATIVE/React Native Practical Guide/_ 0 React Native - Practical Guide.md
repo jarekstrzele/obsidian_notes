@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [https://snack.expo.dev](https://snack.expo.dev)
 https://codesandbox.io
 
@@ -13,6 +14,10 @@ https://codesandbox.io
 
 
 
+=======
+#udemy #Maximilian_Schwarzmuller #react_native 
+
+>>>>>>> remotes/origin/master
 
 ---
 # React Native Practical Guide
@@ -36,7 +41,11 @@ Web Browser (react-dom) | Native Component (Android) | Native Component (iOS) | 
 
 
 >[!important] React Native
+<<<<<<< HEAD
 >It maps and compiles re-usable components to respective platform equivalents
+=======
+>It mapds and compiles re-usable components to respective platform equivalents
+>>>>>>> remotes/origin/master
 
 
 

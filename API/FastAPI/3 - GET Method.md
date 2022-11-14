@@ -6,7 +6,11 @@
 
 ## Path parameters
 > 
+<<<<<<< HEAD
 > a value variable that we can provide inside our path
+=======
+> a value/a variable that we can provide inside our path
+>>>>>>> remotes/origin/master
 > 
 
 ```python
@@ -22,7 +26,11 @@ def index(id: int):
 	return {"message": f"Blog with id {id}"}
 ```
 
+<<<<<<< HEAD
 > FastAPI uses `Pydantic` to validate the passed params.
+=======
+> FastAPI uses '`Pydantic` to validate the passed params.
+>>>>>>> remotes/origin/master
 
 the order of functions is important (rule: more generic later)
 ```python
@@ -35,7 +43,11 @@ def get_all_blogs():
 	retrun {"message" : "all blogs"}
 ```
 this code generates error
+<<<<<<< HEAD
 but this one - no (because more generic is later):
+=======
+but this one - no:
+>>>>>>> remotes/origin/master
 ```python
 @app.get('/blog/all')
 def get_all_blogs():
@@ -51,10 +63,19 @@ def index(id: int):
 ---
 ## Predefined Path
 Predefined values with `Enum`
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> remotes/origin/master
 ```python
 from fastapi import FastAPI
 from enum import Enum
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> remotes/origin/master
 app =FastAPI()
 
 @app.get('/') # using my app to create get method on the home endpoint

@@ -17,6 +17,11 @@
 **POLIMORFIZM**
 jedna nazwa metody wiele różnych zachowań  
 
+<<<<<<< HEAD
+=======
+  
+
+>>>>>>> remotes/origin/master
 **etapy**  
 OOA      Object Oriented Analysis  
 OOD      Object Oriented Design  
@@ -32,6 +37,10 @@ OOP      Object Oriented Programming
 	> - są dynamiczne  
 	> 
 	
+<<<<<<< HEAD
+=======
+
+>>>>>>> remotes/origin/master
   
 
 PascalCase   aby nazywać klasy.  

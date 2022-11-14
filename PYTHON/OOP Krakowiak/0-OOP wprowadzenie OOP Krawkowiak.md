@@ -46,10 +46,21 @@ jupyter notebook --NotebookApp.allow_origin='https://colab.research.google.com' 
 
 trzeba usunąć '/'; w/w kodzie już to zrobiłem, ale na stronie są   
 
+<<<<<<< HEAD
+=======
+  
+
+>>>>>>> remotes/origin/master
 otrzymałem taki link do wklejenia  
 
 http://localhost:8888/?token=75735f695ba34f8251cd43b5d4c1cbce136ab41a41514795  
 
+<<<<<<< HEAD
+=======
+    
+
+
+>>>>>>> remotes/origin/master
 
  **A T R Y B U T Y**   
 
@@ -99,6 +110,12 @@ USUWANIE atrybutow
 del NazwaKlasy.nazwa_atr
 
 delattr(NazwaKlasy, nazwa_atrybutu)  
+<<<<<<< HEAD
+=======
+
+  
+
+>>>>>>> remotes/origin/master
   
 
 WYŁOWYWALNE ATRYBUTY (funkcje)  
@@ -113,6 +130,7 @@ class Phone:
 Phone.foo() -> 'Phone class.'
 Phone.__dict__ -> ... foo: function  
 
+<<<<<<< HEAD
 getattr(Phone, foo)() -> wywoła funkcję foo  
   
 
@@ -123,10 +141,35 @@ kolejność przeszukiwania klasy, aby znaleść odpowiednią metodę
 --------------------------------------------------------------------------------------  
 
 **INSTANCJA**  
+=======
+  
+
+getattr(Phone, foo)() -> wywoła funkcję foo  
+
+  
+
+METHOD RESOLUTION ORDER  
+
+NazwaKlasy.__mro__  
+
+kolejność przeszukiwania klasy, aby znaleść odpowiednią metodę  
+
+  
+
+--------------------------------------------------------------------------------------  
+
+**INSTANCJA**  
+
+>>>>>>> remotes/origin/master
   
 
 ATRUBUTY INSTANCJI  
 
+<<<<<<< HEAD
+=======
+  
+
+>>>>>>> remotes/origin/master
 wbudowane atrybuty  
 
 class Book:
@@ -146,7 +189,16 @@ book.__dict__  --> zwróci zwykły słownik
 book.lang -> 'ENG'
   
 
+<<<<<<< HEAD
 Python napierw przeszukuje przestrzeń nazw instancji, a jeżeli nie znajdzie przechodzi do przestrzeni klasy.  
+=======
+  
+
+  
+
+Python napierw przeszukuje przestrzeń nazw instancji, a jeżeli nie znajdzie przechodzi do przestrzeni klasy.  
+
+>>>>>>> remotes/origin/master
   
 
 class Book:

@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 [[_ Clean Code]]
+=======
+[[Clean Code]]
+>>>>>>> remotes/origin/master
 
 
 # Structure & Comments

@@ -4,5 +4,9 @@
     "description": "Backup your vault with Git.",
     "isDesktopOnly": false,
     "js": "main.js",
+<<<<<<< HEAD
     "version": "2.10.1"
+=======
+    "version": "2.1.1"
+>>>>>>> remotes/origin/master
 }

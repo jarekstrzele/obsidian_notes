@@ -1,6 +1,10 @@
 #react #udemy   #traversy_brad
 
+<<<<<<< HEAD
 [[2 - React Basics & JSX]]
+=======
+[[REACT/React/modern React/2 - React Basics & JSX]]
+>>>>>>> remotes/origin/master
 
 
 

@@ -1,15 +1,26 @@
 {
+<<<<<<< HEAD
   "vimMode": true,
   "spellcheckLanguages": [
     "pl",
     "en-GB"
   ],
   "spellcheck": false,
+=======
+  "alwaysUpdateLinks": true,
+  "vimMode": true,
+  "communityThemeSortOrder": "download",
+  "showLineNumber": true,
+>>>>>>> remotes/origin/master
   "pdfExportSettings": {
     "pageSize": "A4",
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100
   },
+<<<<<<< HEAD
   "alwaysUpdateLinks": true
+=======
+  "defaultViewMode": "preview"
+>>>>>>> remotes/origin/master
 }

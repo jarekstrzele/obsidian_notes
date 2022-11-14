@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 [[0-React]]
+=======
+[[REACT/React/REACT (W3school%3f)/0-React]]
+>>>>>>> remotes/origin/master
 
 
 

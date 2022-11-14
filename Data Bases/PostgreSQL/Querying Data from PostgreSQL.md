@@ -85,7 +85,10 @@ Pattern to match can include wildcards
 `LIKE` specify the pattern to compare against field
 `NOT` find those fileds that do not match the pattern
 
+<<<<<<< HEAD
 ## Operator Precedence
 - `AND` has higher ioerator precedence than `OR` <   (... and ...) or ...     >
 - 
+=======
+>>>>>>> remotes/origin/master
 

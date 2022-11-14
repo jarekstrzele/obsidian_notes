@@ -106,7 +106,11 @@ prod :: Int -> (Int->Int)
 ```
 
 
+<<<<<<< HEAD
 
+=======
+## Solve Problems -- Functions
+>>>>>>> remotes/origin/master
 
 
 

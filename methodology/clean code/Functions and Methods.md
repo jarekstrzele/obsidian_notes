@@ -237,6 +237,7 @@ We don't control how the email is validated <br> - we just want it to be validat
 This is easy to read - <br> there is no room for interpretation | This might be technically clear but <br> the interpretation must be added by the reader
 
 
+<<<<<<< HEAD
 HIGH LEVEL  < ====  ======> LOW LEVEL
 
 
@@ -488,6 +489,14 @@ AVOID UNEXPECTED SIDE EFFECTS
 1. Can you easily test a function?
 	1. YES -> Great, probably you have a clean code
 	2. NON -> Consider splitting your function, and return to firtst point
+=======
+### Why "Levels of Abstraction" Matter?
+
+
+
+
+
+>>>>>>> remotes/origin/master
 
 
 

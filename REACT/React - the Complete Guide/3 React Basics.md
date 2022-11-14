@@ -7,15 +7,27 @@
 React makes building complex, interactive and reactive user interfaces simpler
 
 React is all about "Component", because all user interfaces in the end are made up of components:
+<<<<<<< HEAD
 - reusability --> ==don't repeat yourself==
 - separation of concerns -->  ==don't do too many things in one and the same place (function)==
 
 ## How is a component built?
 We combine HTML, CSS and JS in all these components and then we combine all of theses components together  to build the entire user interface
+=======
+- reusability
+	- don't repeat yourself
+- separation of concerns
+	- don't do too many things in one and the same place (function)
+
+## How is a component built?
+We combine HTML, CSS and JS in all these components and then we combine all of thses components together  to build the entire user interface
+
+>>>>>>> remotes/origin/master
 
 > [!important] In React you define the desired target state(s) and let React figure out the actual JS DOM instructions
 
 
+<<<<<<< HEAD
 # To start a project
 ### `create-react-app`
 
@@ -608,6 +620,8 @@ export default ExpenseItem;
 
 
 
+=======
+>>>>>>> remotes/origin/master
 
 
 

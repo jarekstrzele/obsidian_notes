@@ -1,5 +1,11 @@
 #react/component
+<<<<<<< HEAD
 [[_ 0 React  Start]]
+=======
+[[REACT/mosh/_ 0 React Mosh]]o
+
+
+>>>>>>> remotes/origin/master
 
 
 # Components
@@ -17,7 +23,11 @@ in `src` folder add a new subfolder `components` next create `counter.jsx`
 
 You installed a plagin to VS Code `Simple React Snippets`.
 It have a lot of shortcuts. `imrc` import React component
+<<<<<<< HEAD
 counter.jsx:
+=======
+counter.js:
+>>>>>>> remotes/origin/master
 ```jsx
 import React, { Component } from 'react';
 
@@ -76,6 +86,7 @@ export default Counter;
 
 ## `state`
 `state = {}`  an object (a special property) that includes any data that this component needs
+<<<<<<< HEAD
 
  > `{  < expression > }` expression, this is  sth that produces a value
 
@@ -103,6 +114,8 @@ export default Counter;
 
 
 
+=======
+>>>>>>> remotes/origin/master
 ```jsx
 class Counter extends Component {
 	state = {
@@ -111,6 +124,7 @@ class Counter extends Component {
 	}
 	render() {
 		return (
+<<<<<<< HEAD
 		 <div>
 		 <img src={this.state.imageUrl} alt='image' />
 			<span>{this.formatCount()}</span>
@@ -118,6 +132,15 @@ class Counter extends Component {
 			</div>
 		);
 	}
+=======
+			<div>
+			<img src={this.state.imageUrl} alt='image' />
+			<span>{this.formatCount()}</span>
+			<button>BATON</button>
+			</div>
+			);
+		}
+>>>>>>> remotes/origin/master
  
 
 formatCount(){
@@ -127,14 +150,22 @@ formatCount(){
 }
 ```
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> remotes/origin/master
 ## attributes
 ```jsx
 import React, { Component } from 'react';
  class Counter extends Component {
   state = {
+<<<<<<< HEAD
    count: 0,
    imageUrl: 'https://picsum.photos/200'
+=======
+  count: 0,
+  imageUrl: 'https://picsum.photos/200'
+>>>>>>> remotes/origin/master
 };
 
 // styles = {

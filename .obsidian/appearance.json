@@ -1,5 +1,11 @@
 {
+<<<<<<< HEAD
   "accentColor": "",
   "cssTheme": "Sodalite",
   "baseFontSize": 20
+=======
+  "cssTheme": "Primary",
+  "baseFontSize": 24,
+  "theme": "system"
+>>>>>>> remotes/origin/master
 }

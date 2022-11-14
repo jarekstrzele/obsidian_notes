@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 [[REACT/plurasight/React 17 Getting Started/_ 0 Getting Started]]
+=======
+[[REACT/React/plurasight/React 17 Getting Started/_ 0 Getting Started]]
+>>>>>>> remotes/origin/master
 
 
 --------

@@ -1,5 +1,9 @@
 
+<<<<<<< HEAD
 [[_ Clean Code]]
+=======
+[[Clean Code]]
+>>>>>>> remotes/origin/master
 
 >[!imortant] Clean Code
 >- it is not about whether code works

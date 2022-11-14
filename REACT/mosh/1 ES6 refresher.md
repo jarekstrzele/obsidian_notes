@@ -497,6 +497,7 @@ function kuu(){
 export default foo;
 ```
 
+<<<<<<< HEAD
 PRZYKŁAD
 index.html
 ```html
@@ -537,6 +538,8 @@ export default foo;
 
 
 
+=======
+>>>>>>> remotes/origin/master
 
 
 

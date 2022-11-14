@@ -123,7 +123,11 @@ the value of `stuff` can be anything
 
 ----
 # git
+<<<<<<< HEAD
 [[JAVASCRIPT/Lear Node.js and Javascript/git]]
+=======
+[[git]]
+>>>>>>> remotes/origin/master
 
 
 ---

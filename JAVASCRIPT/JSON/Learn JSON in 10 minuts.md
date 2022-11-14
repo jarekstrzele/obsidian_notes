@@ -15,7 +15,11 @@ https://www.youtube.com/watch?v=iiADhChRriM&list=PLZlA0Gpn_vH85jM1TWO6TdCtSr6rug
 ## JSON Types
 - String     ``"Hello WOrld" "i"``
 - Numbers `10 1.5 -30 1.2e10`
+<<<<<<< HEAD
 - Booleans `true false`
+=======
+- Booleans t`rue false`
+>>>>>>> remotes/origin/master
 - null `null`
 - Arrays `[1,2,3], ["helo", "aa"]`
 - Object `{"key":"value" } { "age":30}`
