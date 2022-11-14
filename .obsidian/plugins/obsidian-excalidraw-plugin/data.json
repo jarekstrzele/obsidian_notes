@@ -5,11 +5,7 @@
   "scriptFolderPath": "Excalidraw/Scripts",
   "compress": false,
   "autosave": true,
-<<<<<<< HEAD
   "autosaveInterval": 15000,
-=======
-  "autosaveInterval": 10000,
->>>>>>> remotes/origin/master
   "drawingFilenamePrefix": "Drawing ",
   "drawingEmbedPrefixWithFilename": true,
   "drawingFilnameEmbedPostfix": " ",
@@ -29,12 +25,9 @@
   "zoomToFitMaxLevel": 2,
   "linkPrefix": "📍",
   "urlPrefix": "🌐",
-<<<<<<< HEAD
   "parseTODO": false,
   "todo": "☐",
   "done": "🗹",
-=======
->>>>>>> remotes/origin/master
   "hoverPreviewWithoutCTRL": false,
   "linkOpacity": 1,
   "openInAdjacentPane": false,
@@ -44,10 +37,7 @@
   "forceWrap": false,
   "pageTransclusionCharLimit": 200,
   "wordWrappingDefault": 0,
-<<<<<<< HEAD
   "removeTransclusionQuoteSigns": true,
-=======
->>>>>>> remotes/origin/master
   "iframelyAllowed": true,
   "pngExportScale": 1,
   "exportWithTheme": true,
@@ -56,10 +46,7 @@
   "keepInSync": false,
   "autoexportSVG": false,
   "autoexportPNG": false,
-<<<<<<< HEAD
   "autoExportLightAndDark": false,
-=======
->>>>>>> remotes/origin/master
   "autoexportExcalidraw": false,
   "embedType": "excalidraw",
   "embedWikiLink": true,
@@ -88,13 +75,8 @@
   "mdCSS": "",
   "scriptEngineSettings": {},
   "defaultTrayMode": false,
-<<<<<<< HEAD
   "previousRelease": "1.7.27",
   "showReleaseNotes": true,
   "showNewVersionNotification": true,
-=======
-  "previousRelease": "1.7.16",
-  "showReleaseNotes": true,
->>>>>>> remotes/origin/master
   "mathjaxSourceURL": "https://cdn.jsdelivr.net/npm/mathjax@3.2.1/es5/tex-svg.js"
 }

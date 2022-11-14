@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "_ 0 Python Tkinter GUI",
+      "path": "PYTHON/GUI/Python Tkinter GUI youtube/_ 0 Python Tkinter GUI.md"
+    },
+    {
       "basename": "Calculater",
       "path": "PYTHON/GUI/Tkinter/Calculater.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_ 0 React Native Mobile Apps",
       "path": "REACT/REACT NATIVE/Building Mobile Apps with React Native/_ 0 React Native Mobile Apps.md"
-    },
-    {
-      "basename": "_ 0 React Docs Samouczek",
-      "path": "REACT/React/Docs React tutorial/_ 0 React Docs Samouczek.md"
     }
   ],
   "omittedPaths": [],

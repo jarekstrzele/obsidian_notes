@@ -1,9 +1,6 @@
 [
-  "obsidian-excalidraw-plugin",
-<<<<<<< HEAD
-=======
   "obsidian-charts",
   "recent-files-obsidian",
->>>>>>> remotes/origin/master
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-excalidraw-plugin"
 ]

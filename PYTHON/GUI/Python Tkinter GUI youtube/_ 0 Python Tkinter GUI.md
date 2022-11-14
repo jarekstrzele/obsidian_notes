@@ -66,7 +66,7 @@ batman_img = PhotoImage(file='Batman-icon.png')
 superheros_imgs = [superman_img, spiderman_img, batman_img]
 
 
-def choose_superhero():
+def choose_superhero():  
     if (x.get() == 0):
         print("You choose superman")
     elif (x.get() == 1):
@@ -87,7 +87,7 @@ for index in range(len(superheros)):
         command = choose_superhero
         )
 
-    radio_btn.pack(anchor=W)
+    radio_btn.pack(anchor=W)      
 
 win.mainloop()
 ```

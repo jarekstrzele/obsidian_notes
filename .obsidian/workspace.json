@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PYTHON/GUI/Python Tkinter GUI youtube/More animations.md",
+                "file": "PYTHON/GUI/Python Tkinter GUI youtube/_ 0 Python Tkinter GUI.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,12 +100,20 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "59cca95b41db3755",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 338.5
+    "width": 484.5
   },
   "right": {
     "id": "ec7d1a70da2de581",
@@ -122,9 +129,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/git with Obsitdian.md",
-                "collapseAll": false,
-                "extraContext": false,
+                "file": "PYTHON/GUI/Python Tkinter GUI youtube/_ 0 Python Tkinter GUI.md",
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -139,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/git with Obsitdian.md",
+                "file": "PYTHON/GUI/Python Tkinter GUI youtube/_ 0 Python Tkinter GUI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/git with Obsitdian.md"
+                "file": "PYTHON/GUI/Python Tkinter GUI youtube/_ 0 Python Tkinter GUI.md"
               }
             }
           }
@@ -170,11 +177,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "f621f21825dbd82d",
+  "active": "86ea26330e3ce595",
   "lastOpenFiles": [
+    "Git/git with Obsitdian.md",
     "PYTHON/GUI/Python Tkinter GUI youtube/More animations.md",
     "Git/git tortoise/tortoise youtube.md",
     "PYTHON/GUI/Python Tkinter GUI youtube/Drag and Drop.md",
@@ -183,7 +190,6 @@
     "PYTHON/GUI/Python Tkinter GUI youtube/new_window.md",
     "PYTHON/GUI/Python Tkinter GUI youtube/animations.md",
     "PYTHON/GUI/the art of doing create 10 Python GUI/12 Weather ForeCast App.md",
-    "PYTHON/GUI/the art of doing create 10 Python GUI/4 Metric Helper.md",
-    "PYTHON/GUI/Tkinter/Tkinter.md"
+    "PYTHON/GUI/the art of doing create 10 Python GUI/4 Metric Helper.md"
   ]
 }

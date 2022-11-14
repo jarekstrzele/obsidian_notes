@@ -19,15 +19,8 @@
   "refreshSourceControl": true,
   "basePath": "",
   "differentIntervalCommitAndPush": false,
-<<<<<<< HEAD
-  "changedFilesInStatusBar": false,
+  "changedFilesInStatusBar": true,
   "showedMobileNotice": true,
   "refreshSourceControlTimer": 7000,
   "showBranchStatusBar": true
-=======
-  "changedFilesInStatusBar": true,
-  "username": "",
-  "showedMobileNotice": true,
-  "refreshSourceControlTimer": 7000
->>>>>>> remotes/origin/master
 }
