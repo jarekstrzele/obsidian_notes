@@ -32,11 +32,6 @@
 >> Graf nieskierowany (ang. *undirected graph*) to graf prosty, w którym zbiór krawędzi $E$ jest zbiorem nieuporządkowanych par wierzchołków. Oznacza to, że krawędź łączy dwa  różne  wierzchołki , a zbiory ${u, v}$ oraz ${v, u}$ gdzie $u, v∈V$ i $u != v$ oznaczają te same krawędzie.
 
 
-
-
-
-
-
 >[!note] graf skierowany
 >graf, w którym po krawędzi można przejść w określonym kierunku
 

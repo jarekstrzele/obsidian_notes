@@ -13,7 +13,7 @@ class Book:
         self.pages = pages
         
 
-b1 = Book("Koziołek Matołek", "Kornel Makuszyńsko", "komiks", "34")
+b1 = Book("Koziołek Matołek", "Kornel Makuszyńsrki","komiks", "34")
 print(b1) # <__main__.Book object at 0x7f733c189f10>
 
 ```

@@ -41,19 +41,12 @@ Web Browser (react-dom) | Native Component (Android) | Native Component (iOS) | 
 
 
 >[!important] React Native
-<<<<<<< HEAD
->It maps and compiles re-usable components to respective platform equivalents
-=======
 >It mapds and compiles re-usable components to respective platform equivalents
->>>>>>> remotes/origin/master
-
-
 
 ## Logic?
 Views are compiled to native views but logic not.
 JavaScript thread, hosted by React Native (in the app)
 JS code will be able to talk to the underlying native platform (iOS, Android) through a basic translation bridge
-
 
 ## To create project
 www.reactnative.dev
