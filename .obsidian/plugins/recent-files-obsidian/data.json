@@ -9,12 +9,44 @@
       "path": "REACT/REACT NATIVE/React Native Practical Guide/1.6 Press to Delete and Style it.md"
     },
     {
-      "basename": "1.5. Splitting Components into Smaller Components",
-      "path": "REACT/REACT NATIVE/React Native Practical Guide/1.5. Splitting Components into Smaller Components.md"
+      "basename": "Clock, date",
+      "path": "PYTHON/GUI/Python Tkinter GUI youtube/Clock, date.md"
+    },
+    {
+      "basename": "_ 0 Python Tkinter GUI",
+      "path": "PYTHON/GUI/Python Tkinter GUI youtube/_ 0 Python Tkinter GUI.md"
     },
     {
       "basename": "1.4. FlatList",
       "path": "REACT/REACT NATIVE/React Native Practical Guide/1.4. FlatList.md"
+    },
+    {
+      "basename": "2 Debugging React Native Apps",
+      "path": "REACT/REACT NATIVE/React Native Practical Guide/2 Debugging React Native Apps.md"
+    },
+    {
+      "basename": "_ 0 fast API  Fundamentals",
+      "path": "API/FasAPI Fundamentals/_ 0 fast API  Fundamentals.md"
+    },
+    {
+      "basename": "What is the Server",
+      "path": "Server/What is the Server.md"
+    },
+    {
+      "basename": "12 Weather ForeCast App",
+      "path": "PYTHON/GUI/the art of doing create 10 Python GUI/12 Weather ForeCast App.md"
+    },
+    {
+      "basename": "graf_nieskierowany_relacje_miłosne.excalidraw",
+      "path": "Excalidraw/graf_nieskierowany_relacje_miłosne.excalidraw.md"
+    },
+    {
+      "basename": "git with Obsitdian",
+      "path": "Git/git with Obsitdian.md"
+    },
+    {
+      "basename": "1.5. Splitting Components into Smaller Components",
+      "path": "REACT/REACT NATIVE/React Native Practical Guide/1.5. Splitting Components into Smaller Components.md"
     },
     {
       "basename": "1.2. Handling Events",
@@ -31,10 +63,6 @@
     {
       "basename": "Grafy",
       "path": "algorithmic/Grafy.md"
-    },
-    {
-      "basename": "graf_nieskierowany_relacje_miłosne.excalidraw",
-      "path": "Excalidraw/graf_nieskierowany_relacje_miłosne.excalidraw.md"
     },
     {
       "basename": "1. Wprowadzenie do grafów",
@@ -145,10 +173,6 @@
       "path": "PYTHON/GUI/Python Tkinter GUI youtube/Key event.md"
     },
     {
-      "basename": "_ 0 Python Tkinter GUI",
-      "path": "PYTHON/GUI/Python Tkinter GUI youtube/_ 0 Python Tkinter GUI.md"
-    },
-    {
       "basename": "Canvas",
       "path": "PYTHON/GUI/Python Tkinter GUI youtube/Canvas.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "Multi animations",
       "path": "PYTHON/GUI/Python Tkinter GUI youtube/Multi animations.md"
-    },
-    {
-      "basename": "More animations",
-      "path": "PYTHON/GUI/Python Tkinter GUI youtube/More animations.md"
-    },
-    {
-      "basename": "Calculater",
-      "path": "PYTHON/GUI/Tkinter/Calculater.md"
-    },
-    {
-      "basename": "PySimpleGUI",
-      "path": "PYTHON/GUI/PySimpleGUI.md"
-    },
-    {
-      "basename": "Tkinter 0",
-      "path": "PYTHON/GUI/Tkinter/Tkinter 0.md"
-    },
-    {
-      "basename": "Tkinter Pomidoro",
-      "path": "PYTHON/GUI/Tkinter/Tkinter Pomidoro.md"
-    },
-    {
-      "basename": "Tkinter konwerter",
-      "path": "PYTHON/GUI/Tkinter/Tkinter konwerter.md"
     }
   ],
   "omittedPaths": [],
