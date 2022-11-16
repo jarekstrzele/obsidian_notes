@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PYTHON/GUI/the art of doing create 10 Python GUI/12 Weather ForeCast App.md",
+                "file": "PYTHON/GUI/Python Tkinter GUI youtube/More animations.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -147,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PYTHON/GUI/the art of doing create 10 Python GUI/12 Weather ForeCast App.md",
+                "file": "PYTHON/GUI/Python Tkinter GUI youtube/More animations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PYTHON/GUI/the art of doing create 10 Python GUI/12 Weather ForeCast App.md"
+                "file": "PYTHON/GUI/Python Tkinter GUI youtube/More animations.md"
               }
             }
           },
@@ -198,8 +197,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c35632da66ce4504",
+  "active": "9dc5b1439d031558",
   "lastOpenFiles": [
+    "PYTHON/GUI/the art of doing create 10 Python GUI/12 Weather ForeCast App.md",
     "REACT/REACT NATIVE/React Native Practical Guide/1.7 Modal Screen.md",
     "REACT/REACT NATIVE/React Native Practical Guide/1.6 Press to Delete and Style it.md",
     "PYTHON/GUI/Python Tkinter GUI youtube/Clock, date.md",
@@ -208,7 +208,6 @@
     "REACT/REACT NATIVE/React Native Practical Guide/2 Debugging React Native Apps.md",
     "API/FasAPI Fundamentals/_ 0 fast API  Fundamentals.md",
     "Server/What is the Server.md",
-    "PYTHON/GUI/the art of doing create 10 Python GUI/12 Weather ForeCast App.md",
     "Excalidraw/graf_nieskierowany_relacje_miłosne.excalidraw.md"
   ]
 }
