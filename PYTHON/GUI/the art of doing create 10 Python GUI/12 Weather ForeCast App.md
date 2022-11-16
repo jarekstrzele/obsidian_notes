@@ -80,7 +80,29 @@ root.mainloop()
 https://openweathermap.org/api
 
 make an account: jsdydaktyk@gmail.com
+make your own api key
 
+look to the doc *current weather data* to see how to select by city, by zip
+
+> you will need `pip install requests`
+
+```python
+# define functions
+def search():
+    """Use open weather api to look up current weather conditions given a city, country"""
+    global response
+
+    # get API repsonse
+    url = 'https://https://api.openweathermap.org/data/2.5/weather'
+    api_key = 'dda71caf405d01b0091c6ff97588f0b0'
+
+    # search by the appropriate query, either city name ot zip
+    if search_method.get() == 1:
+        querystring = {'q':city_entry.get(), 'appid':api_key}
+    elif search_method.get() == 2:
+        querystring = {'zip':city_entry.get(), 'appid':api_key}}
+        
+```
 
 
 
