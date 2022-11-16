@@ -79,7 +79,8 @@ root.mainloop()
 # How to get API key?
 https://openweathermap.org/api
 
-make an account
+make an account: jsdydaktyk@gmail.com
+
 
 
 
