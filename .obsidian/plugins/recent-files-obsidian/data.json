@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Drawing 2022-11-17 22.10.10.excalidraw",
+      "path": "Excalidraw/Drawing 2022-11-17 22.10.10.excalidraw.md"
+    },
+    {
       "basename": "6 Styling React Component",
       "path": "REACT/React - the Complete Guide/6 Styling React Component.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Decimal 1",
       "path": "PYTHON/Deep Dive Python3/1/Decimal 1.md"
-    },
-    {
-      "basename": "_Data Structures & Algorithms",
-      "path": "PYTHON/Data Structures  Algorithms/_Data Structures & Algorithms.md"
     }
   ],
   "omittedPaths": [],

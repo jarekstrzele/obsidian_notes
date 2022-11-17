@@ -76,7 +76,15 @@ export default function App() {
   )
 }
 ```
+
+
+----
 # Simple List App
+simple stucture:
+
+
+
+
 
 App.jsx
 ```jsx
@@ -140,7 +148,6 @@ const App = () => {
 CourseInput.jsx
 ```jsx
 import React, { useState } from 'react';
-
 import Button from '../../UI/Button/Button';
 import './CourseInput.css';
 
@@ -204,7 +211,28 @@ export default CourseGoalList;
 ```
 
 
+CourseGoalItem.jsx
+```jsx
+import React from 'react';
+import './CourseGoalItem.css';
 
+const CourseGoalItem = props => {
+  // const [deleteText, setDeleteText] = useState('');
+  const deleteHandler = () => {
+    // setDeleteText('(Deleted!)');
+    props.onDelete(props.id);
+  };
+
+  return (
+    <li className="goal-item" onClick={deleteHandler}>
+      {props.children}
+    </li>
+  );
+};
+
+export default CourseGoalItem;
+
+```
 
 
 
