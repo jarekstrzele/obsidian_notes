@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "3 React Basics",
+      "path": "REACT/React - the Complete Guide/3 React Basics.md"
+    },
+    {
+      "basename": "_ 0 React Full",
+      "path": "REACT/React - the Complete Guide/_ 0 React Full.md"
+    },
+    {
+      "basename": "_ 0 intro APIs for beginners",
+      "path": "API/APIs_for_beginners_youtube/_ 0 intro APIs for beginners.md"
+    },
+    {
       "basename": "5 Rendering Lists and Conditional content",
       "path": "REACT/React - the Complete Guide/5 Rendering Lists and Conditional content.md"
     },
@@ -47,10 +59,6 @@
     {
       "basename": "Clock, date",
       "path": "PYTHON/GUI/Python Tkinter GUI youtube/Clock, date.md"
-    },
-    {
-      "basename": "_ 0 intro APIs for beginners",
-      "path": "API/APIs_for_beginners_youtube/_ 0 intro APIs for beginners.md"
     },
     {
       "basename": "React Full JS",
@@ -191,14 +199,6 @@
     {
       "basename": "Hash",
       "path": "PYTHON/Data Structures  Algorithms/Hash.md"
-    },
-    {
-      "basename": "Graphs",
-      "path": "PYTHON/Data Structures  Algorithms/Graphs.md"
-    },
-    {
-      "basename": "Classes and Pointers",
-      "path": "PYTHON/Data Structures  Algorithms/Classes and Pointers.md"
     }
   ],
   "omittedPaths": [],
