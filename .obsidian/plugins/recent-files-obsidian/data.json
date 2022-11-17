@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Mouse_events",
-      "path": "PYTHON/GUI/Python Tkinter GUI youtube/Mouse_events.md"
+      "basename": "Drag and Drop",
+      "path": "PYTHON/GUI/Python Tkinter GUI youtube/Drag and Drop.md"
     },
     {
       "basename": "_ 0 Python Tkinter GUI",
       "path": "PYTHON/GUI/Python Tkinter GUI youtube/_ 0 Python Tkinter GUI.md"
+    },
+    {
+      "basename": "Mouse_events",
+      "path": "PYTHON/GUI/Python Tkinter GUI youtube/Mouse_events.md"
     },
     {
       "basename": "Key event",
@@ -195,10 +199,6 @@
     {
       "basename": "Big O",
       "path": "PYTHON/Data Structures  Algorithms/Big O.md"
-    },
-    {
-      "basename": "4 Properties",
-      "path": "PYTHON/OOP Python udemy/4 Properties.md"
     }
   ],
   "omittedPaths": [],
