@@ -280,6 +280,97 @@ print(cm1==cookie_monster)
 
 ## `__gt__`
 
+```python
+class Book:
+    def __init__(self, title, author, book_type, pages):
+        self.title = title
+        self.author = author
+        self.book_type = book_type
+        self.pages = pages
+        
+    def __eq__(self, other):
+        if not isinstance(other, Book):
+            return False
+            
+        return self.title == other.title and self.author == other.author
+        
+    def __gt__(self, other):
+        if not isinstance(other, Book):
+            return NotImplemented
+            
+        return self.pages > other.pages
+
+    def __ge__(self, other):
+        if not isinstance(other, Book):
+            return NotImplemented
+            
+        return self.pages >= other.pages
+        
+    def __le__(self, other):
+        return NotImplemented
+        
+book1 = Book("Potom", "Sienkiewicz", "horror", 151900)
+book2 = Book("Hobbit", "Tolkien", "romansidło", 121)
+
+
+print(book1  > book2)
+print(book1  < book2)
+print(book1  >= book2)
+print(book1  <= book2)
+print(book1  > "nowa książka")
+```
+
+### Better way
+#### `functools` Higher order functions and operations on callable objects
+
+> `total_ordering`
+
+```python
+from functools import total_ordering
+
+@total_ordering
+class Book:
+    def __init__(self, title, author, book_type, pages):
+        self.title = title
+        self.author = author
+        self.book_type = book_type
+        self.pages = pages
+        
+    def __eq__(self, other):
+        if not isinstance(other, Book):
+            return False
+            
+        return self.title == other.title and self.author == other.author
+        
+    def __gt__(self, other):
+        if not isinstance(other, Book):
+            return NotImplemented
+            
+        return self.pages > other.pages
+
+# you need only __eq__ and one of {__gt__, lt, ge, le}
+# wrap you class by the total_ordering function
+# Book = total_ordering(Book)
+# or use decorator @total_ordering
+
+book1 = Book("Potom", "Sienkiewicz", "horror", 151900)
+book2 = Book("Hobbit", "Tolkien", "romansidło", 121)
+
+
+print(book1  > book2)
+print(book1  < book2)
+print(book1 >= book2)
+print(book1 <= book2)
+print(book1 == book2)
+print(book1 != book2)
+
+```
+
+
+
+
+
+
 
 
 
