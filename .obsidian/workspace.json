@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PYTHON/GUI/Python Tkinter GUI youtube/Canvas.md",
+                "file": "PYTHON/GUI/Python Tkinter GUI youtube/Mouse_events.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PYTHON/GUI/Python Tkinter GUI youtube/Canvas.md",
+                "file": "PYTHON/GUI/Python Tkinter GUI youtube/Mouse_events.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PYTHON/GUI/Python Tkinter GUI youtube/Canvas.md",
+                "file": "PYTHON/GUI/Python Tkinter GUI youtube/Mouse_events.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PYTHON/GUI/Python Tkinter GUI youtube/Canvas.md"
+                "file": "PYTHON/GUI/Python Tkinter GUI youtube/Mouse_events.md"
               }
             }
           },
@@ -201,14 +201,14 @@
   "active": "359db85befc1565c",
   "lastOpenFiles": [
     "PYTHON/GUI/Python Tkinter GUI youtube/_ 0 Python Tkinter GUI.md",
+    "PYTHON/GUI/Python Tkinter GUI youtube/Key event.md",
+    "PYTHON/GUI/Python Tkinter GUI youtube/Mouse_events.md",
+    "PYTHON/GUI/Python Tkinter GUI youtube/Canvas.md",
     "REACT/React - the Complete Guide/6 Chart.md",
     "REACT/React - the Complete Guide/5 Rendering Lists and Conditional content.md",
     "REACT/React - the Complete Guide/4 React State and Working with Events.md",
     "PYTHON/OOP Python udemy/3 Dunders.md",
     "PYTHON/GUI/Python Tkinter GUI youtube/Clock, date.md",
-    "API/APIs_for_beginners_youtube/_ 0 intro APIs for beginners.md",
-    "REACT/React Full JS.md",
-    "PYTHON/GUI/Python Tkinter GUI youtube/More animations.md",
-    "PYTHON/GUI/the art of doing create 10 Python GUI/12 Weather ForeCast App.md"
+    "API/APIs_for_beginners_youtube/_ 0 intro APIs for beginners.md"
   ]
 }
