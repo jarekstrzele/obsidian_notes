@@ -1,12 +1,10 @@
 #udemy #Maximilian_Schwarzmuller  #react 
-<<<<<<< HEAD
+
 [[3 React Basics]]
 [[4 React State and Working with Events]]
 [[5 Rendering Lists and Conditional content]]
+[[5.2 Chart]]
 
-
-=======
->>>>>>> remotes/origin/master
 
 
 # React Start

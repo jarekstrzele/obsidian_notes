@@ -1,20 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "3 React Basics",
-      "path": "REACT/React - the Complete Guide/3 React Basics.md"
+      "basename": "6 Styling React Component",
+      "path": "REACT/React - the Complete Guide/6 Styling React Component.md"
     },
     {
       "basename": "_ 0 React Full",
       "path": "REACT/React - the Complete Guide/_ 0 React Full.md"
     },
     {
-      "basename": "_ 0 intro APIs for beginners",
-      "path": "API/APIs_for_beginners_youtube/_ 0 intro APIs for beginners.md"
+      "basename": "5.2 Chart",
+      "path": "REACT/React - the Complete Guide/5.2 Chart.md"
     },
     {
       "basename": "5 Rendering Lists and Conditional content",
       "path": "REACT/React - the Complete Guide/5 Rendering Lists and Conditional content.md"
+    },
+    {
+      "basename": "3 React Basics",
+      "path": "REACT/React - the Complete Guide/3 React Basics.md"
+    },
+    {
+      "basename": "4 React State and Working with Events",
+      "path": "REACT/React - the Complete Guide/4 React State and Working with Events.md"
+    },
+    {
+      "basename": "_ 0 intro APIs for beginners",
+      "path": "API/APIs_for_beginners_youtube/_ 0 intro APIs for beginners.md"
     },
     {
       "basename": "_ basics GUI Python",
@@ -43,14 +55,6 @@
     {
       "basename": "Canvas",
       "path": "PYTHON/GUI/Python Tkinter GUI youtube/Canvas.md"
-    },
-    {
-      "basename": "6 Chart",
-      "path": "REACT/React - the Complete Guide/6 Chart.md"
-    },
-    {
-      "basename": "4 React State and Working with Events",
-      "path": "REACT/React - the Complete Guide/4 React State and Working with Events.md"
     },
     {
       "basename": "3 Dunders",
@@ -195,10 +199,6 @@
     {
       "basename": "_Data Structures & Algorithms",
       "path": "PYTHON/Data Structures  Algorithms/_Data Structures & Algorithms.md"
-    },
-    {
-      "basename": "Hash",
-      "path": "PYTHON/Data Structures  Algorithms/Hash.md"
     }
   ],
   "omittedPaths": [],
