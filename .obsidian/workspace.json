@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REACT/React - the Complete Guide/5 Rendering Lists and Conditional content.md",
+                "file": "REACT/React - the Complete Guide/6 Chart.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REACT/React - the Complete Guide/5 Rendering Lists and Conditional content.md",
+                "file": "REACT/React - the Complete Guide/6 Chart.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REACT/React - the Complete Guide/5 Rendering Lists and Conditional content.md",
+                "file": "REACT/React - the Complete Guide/6 Chart.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REACT/React - the Complete Guide/5 Rendering Lists and Conditional content.md"
+                "file": "REACT/React - the Complete Guide/6 Chart.md"
               }
             }
           },
@@ -200,9 +200,9 @@
   },
   "active": "359db85befc1565c",
   "lastOpenFiles": [
-    "REACT/React - the Complete Guide/4 React State and Working with Events.md",
     "REACT/React - the Complete Guide/5 Rendering Lists and Conditional content.md",
     "REACT/React - the Complete Guide/6 Chart.md",
+    "REACT/React - the Complete Guide/4 React State and Working with Events.md",
     "PYTHON/OOP Python udemy/3 Dunders.md",
     "PYTHON/GUI/Python Tkinter GUI youtube/Clock, date.md",
     "PYTHON/GUI/Python Tkinter GUI youtube/_ 0 Python Tkinter GUI.md",
