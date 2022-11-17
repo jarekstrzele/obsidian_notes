@@ -275,3 +275,11 @@ cm2 = Monster("Janusz", 3)
 print(cm1==cm2)
 print(cm1==cookie_monster)
 ```
+
+
+
+## `__gt__`
+
+
+
+
