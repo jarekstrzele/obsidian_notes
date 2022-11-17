@@ -113,7 +113,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323
+    "width": 323,
+    "collapsed": true
   },
   "right": {
     "id": "ec7d1a70da2de581",
@@ -197,7 +198,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c35632da66ce4504",
+  "active": "f621f21825dbd82d",
   "lastOpenFiles": [
     "REACT/React - the Complete Guide/_ 0 React Full.md",
     "API/APIs_for_beginners_youtube/_ 0 intro APIs for beginners.md",
