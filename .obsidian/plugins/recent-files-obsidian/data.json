@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Canvas",
+      "path": "PYTHON/GUI/Python Tkinter GUI youtube/Canvas.md"
+    },
+    {
+      "basename": "_ 0 Python Tkinter GUI",
+      "path": "PYTHON/GUI/Python Tkinter GUI youtube/_ 0 Python Tkinter GUI.md"
+    },
+    {
       "basename": "6 Chart",
       "path": "REACT/React - the Complete Guide/6 Chart.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "Clock, date",
       "path": "PYTHON/GUI/Python Tkinter GUI youtube/Clock, date.md"
-    },
-    {
-      "basename": "_ 0 Python Tkinter GUI",
-      "path": "PYTHON/GUI/Python Tkinter GUI youtube/_ 0 Python Tkinter GUI.md"
     },
     {
       "basename": "_ 0 intro APIs for beginners",
@@ -191,10 +195,6 @@
     {
       "basename": "Key event",
       "path": "PYTHON/GUI/Python Tkinter GUI youtube/Key event.md"
-    },
-    {
-      "basename": "Canvas",
-      "path": "PYTHON/GUI/Python Tkinter GUI youtube/Canvas.md"
     },
     {
       "basename": "Progress bar",
