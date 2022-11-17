@@ -1,5 +1,9 @@
 https://iconarchive.com/
 #udemy #gui #python #eramo_michael
+#exe  
+
+`pip install auto-py-to-exe`
+
 
 ---
 [[3 Hello GUI World]]
