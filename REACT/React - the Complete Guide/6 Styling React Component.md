@@ -81,10 +81,26 @@ export default function App() {
 ----
 # Simple List App
 simple stucture:
+![[simple_list_app.excalidraw | 500]]
 
 
+App.css
+```css
+#goals {
+  width: 35rem;
+  max-width: 90%;
+  margin: 3rem auto;
+}
 
-
+#goal-form {
+  width: 30rem;
+  max-width: 70%;
+  margin: 3rem auto;
+  padding: 2rem;
+  box-shadow: 0 2px 12px rgba(0,0,0, 0.3);
+  border-radius: 10px;
+}
+```
 
 App.jsx
 ```jsx
@@ -145,6 +161,36 @@ const App = () => {
 };
 ```
 
+
+
+CourseInput.css
+```css
+.form-control {
+  margin: 0.5rem 0;
+}
+
+.form-control label {
+  font-weight: bold;
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+.form-control input {
+  display: block;
+  width: 100%;
+  border: 1px solid #ccc;
+  font: inherit;
+  line-height: 1.5rem;
+  padding: 0 0.25rem;
+}
+
+.form-control input:focus {
+  outline: none;
+  background: #fad0ec;
+  border-color: #8b005d;
+}
+```
+
 CourseInput.jsx
 ```jsx
 import React, { useState } from 'react';
@@ -180,7 +226,14 @@ export default CourseInput;
 
 
 
-
+CourseGoalList.css
+```css
+.goal-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+```
 
 
 CourseGoalList.jsx
@@ -210,6 +263,18 @@ export default CourseGoalList;
 
 ```
 
+
+CourseGoalItem
+```css
+.goal-item {
+  margin: 1rem 0;
+  background: #8b005d;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+  color: white;
+  padding: 1rem 2rem;
+  cursor: pointer;
+}
+```
 
 CourseGoalItem.jsx
 ```jsx

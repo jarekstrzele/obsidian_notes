@@ -23,9 +23,11 @@
             "id": "87a46af3fe02b292",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2022-11-17 22.10.10.excalidraw.md"
+                "file": "REACT/React - the Complete Guide/6 Styling React Component.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -140,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2022-11-17 22.10.10.excalidraw.md",
+                "file": "REACT/React - the Complete Guide/6 Styling React Component.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -157,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2022-11-17 22.10.10.excalidraw.md",
+                "file": "REACT/React - the Complete Guide/6 Styling React Component.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2022-11-17 22.10.10.excalidraw.md"
+                "file": "REACT/React - the Complete Guide/6 Styling React Component.md"
               }
             }
           },
@@ -210,6 +212,7 @@
   },
   "active": "87a46af3fe02b292",
   "lastOpenFiles": [
+    "Excalidraw/simple_list_app.excalidraw.md",
     "REACT/React - the Complete Guide/6 Styling React Component.md",
     "REACT/React - the Complete Guide/_ 0 React Full.md",
     "REACT/React - the Complete Guide/5.2 Chart.md",
@@ -218,7 +221,6 @@
     "REACT/React - the Complete Guide/4 React State and Working with Events.md",
     "API/APIs_for_beginners_youtube/_ 0 intro APIs for beginners.md",
     "PYTHON/GUI/the art of doing create 10 Python GUI/_ basics GUI Python.md",
-    "PYTHON/GUI/the art of doing create 10 Python GUI/12 Weather ForeCast App.md",
-    "PYTHON/GUI/Python Tkinter GUI youtube/Drag and Drop.md"
+    "PYTHON/GUI/the art of doing create 10 Python GUI/12 Weather ForeCast App.md"
   ]
 }
