@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9dc5b1439d031558",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PYTHON/GUI/Python Tkinter GUI youtube/More animations.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6454e70a9dda6a8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "REACT/React Full JS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c35632da66ce4504",
             "type": "leaf",
             "state": {
@@ -66,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "359db85befc1565c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PYTHON/OOP Python udemy/3 Dunders.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -142,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "API/APIs_for_beginners_youtube/_ 0 intro APIs for beginners.md",
+                "file": "PYTHON/OOP Python udemy/3 Dunders.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -159,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "API/APIs_for_beginners_youtube/_ 0 intro APIs for beginners.md",
+                "file": "PYTHON/OOP Python udemy/3 Dunders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "API/APIs_for_beginners_youtube/_ 0 intro APIs for beginners.md"
+                "file": "PYTHON/OOP Python udemy/3 Dunders.md"
               }
             }
           },
@@ -210,17 +198,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c35632da66ce4504",
+  "active": "359db85befc1565c",
   "lastOpenFiles": [
-    "PYTHON/GUI/the art of doing create 10 Python GUI/12 Weather ForeCast App.md",
-    "REACT/React Full JS.md",
-    "PYTHON/GUI/Python Tkinter GUI youtube/More animations.md",
-    "REACT/REACT NATIVE/React Native Practical Guide/1.7 Modal Screen.md",
-    "REACT/REACT NATIVE/React Native Practical Guide/1.6 Press to Delete and Style it.md",
     "PYTHON/GUI/Python Tkinter GUI youtube/Clock, date.md",
     "PYTHON/GUI/Python Tkinter GUI youtube/_ 0 Python Tkinter GUI.md",
+    "API/APIs_for_beginners_youtube/_ 0 intro APIs for beginners.md",
+    "REACT/React Full JS.md",
+    "PYTHON/GUI/Python Tkinter GUI youtube/More animations.md",
+    "PYTHON/GUI/the art of doing create 10 Python GUI/12 Weather ForeCast App.md",
+    "REACT/REACT NATIVE/React Native Practical Guide/1.7 Modal Screen.md",
+    "REACT/REACT NATIVE/React Native Practical Guide/1.6 Press to Delete and Style it.md",
     "REACT/REACT NATIVE/React Native Practical Guide/1.4. FlatList.md",
-    "REACT/REACT NATIVE/React Native Practical Guide/2 Debugging React Native Apps.md",
-    "API/FasAPI Fundamentals/_ 0 fast API  Fundamentals.md"
+    "REACT/REACT NATIVE/React Native Practical Guide/2 Debugging React Native Apps.md"
   ]
 }

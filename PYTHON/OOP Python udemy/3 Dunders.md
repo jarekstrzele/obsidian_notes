@@ -108,7 +108,7 @@ print(s1==s2)
 print(id(s1), id(s2))
 ```
 
-our implementation fo `__eq__`:
+our implementation for  `__eq__`:
 ```python
 class Sparrow:
     def __init__(self, length, mass):
@@ -198,7 +198,7 @@ print(hash(c))
 >an object is hashable if it:
 >	- has a hash value that never changes over its life
 >	- is comparable to other objects, and
->	- shares the same has value   to as equal with objects it compares
+>	- shares the same hash  value   to as equal with objects it compares
 >
 >Immutable data types in python (imt, str, ...) are hashable.
 >Hashes are extremely useful in facilitating fast looups in:
@@ -217,7 +217,7 @@ print(my_set) # TypeError: unhashable type: 'list'
 >- by default , user-defined classes are hashable
 >- when we define dunder `__eq__`, python makes that class unhashable
 >- we make a class hashable again by defining dunder hash which should always return an integer
->- as it is closely related to equality, it's a good idea for dunder hash to consider the same attributes that `__eq__` uses in determinining euality
+>- as it is closely related to equality, it's a good idea for dunder hash to consider the same attributes that `__eq__` uses in determinining equality
 
 ```python
 class Monster:
