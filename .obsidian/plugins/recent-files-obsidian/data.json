@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "5 Rendering Lists and Conditional content",
+      "path": "REACT/React - the Complete Guide/5 Rendering Lists and Conditional content.md"
+    },
+    {
+      "basename": "6 Chart",
+      "path": "REACT/React - the Complete Guide/6 Chart.md"
+    },
+    {
       "basename": "3 Dunders",
       "path": "PYTHON/OOP Python udemy/3 Dunders.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "tabs.py",
       "path": "PYTHON/GUI/Python Tkinter GUI youtube/tabs.py.md"
-    },
-    {
-      "basename": "Listbox",
-      "path": "PYTHON/GUI/Python Tkinter GUI youtube/Listbox.md"
-    },
-    {
-      "basename": "Python Menu Bar",
-      "path": "PYTHON/GUI/Python Tkinter GUI youtube/Python Menu Bar.md"
     }
   ],
   "omittedPaths": [],
