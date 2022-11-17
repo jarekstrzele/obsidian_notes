@@ -189,7 +189,7 @@ export default ExpensesFilter;
 
 using `useState`
 `App.jsx`
-```js
+```jsx
 //....
 const addExpenseHandler = (expense) => {
  setExpenses((prevExpenses) => {

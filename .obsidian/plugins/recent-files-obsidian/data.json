@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "6 Chart",
+      "path": "REACT/React - the Complete Guide/6 Chart.md"
+    },
+    {
       "basename": "5 Rendering Lists and Conditional content",
       "path": "REACT/React - the Complete Guide/5 Rendering Lists and Conditional content.md"
     },
     {
-      "basename": "6 Chart",
-      "path": "REACT/React - the Complete Guide/6 Chart.md"
+      "basename": "4 React State and Working with Events",
+      "path": "REACT/React - the Complete Guide/4 React State and Working with Events.md"
     },
     {
       "basename": "3 Dunders",
@@ -195,10 +199,6 @@
     {
       "basename": "Progress bar",
       "path": "PYTHON/GUI/Python Tkinter GUI youtube/Progress bar.md"
-    },
-    {
-      "basename": "tabs.py",
-      "path": "PYTHON/GUI/Python Tkinter GUI youtube/tabs.py.md"
     }
   ],
   "omittedPaths": [],
