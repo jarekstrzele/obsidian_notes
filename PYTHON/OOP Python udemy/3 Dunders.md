@@ -441,7 +441,19 @@ jaskinia.add_dragon_to_dungeon(123)
 `__div__` and `__rdiv__`
 
 
+```python
+# ...
+misiek = Dragon("Misiek", 10)
+puchatek = Dragon("Puchatek", 100)
+zadziora = Dragon("Zadziora", 123)
 
+jaskinia = Cave(2)
+jaskinia + misiek #TypeError: unsupported operand type(s) for +: 'Cave' and 'Dragon'
+```
 
+add to Cave class:
+```python
+	def __add__(self, dragon: Drago) -> new+shelf:
+```
 
 
