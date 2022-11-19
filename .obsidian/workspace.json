@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REACT/React Mosh/3 Components.md",
+                "file": "REACT/React Mosh/_ 0 React Mosh.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REACT/React Mosh/3 Components.md",
+                "file": "REACT/React Mosh/_ 0 React Mosh.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REACT/React Mosh/3 Components.md",
+                "file": "REACT/React Mosh/_ 0 React Mosh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REACT/React Mosh/3 Components.md"
+                "file": "REACT/React Mosh/_ 0 React Mosh.md"
               }
             }
           },
@@ -212,6 +212,7 @@
   },
   "active": "87a46af3fe02b292",
   "lastOpenFiles": [
+    "REACT/React Mosh/3 Components.md",
     "REACT/React Mosh/_ 0 React Mosh.md",
     "Server/What is the Server.md",
     "static type.md",
@@ -220,7 +221,6 @@
     "iloczyn kartezjański.md",
     "GitHub Deep Dive.md",
     "From Local to Remote - GitHub.md",
-    "ES refresh.md",
-    "CI CD.md"
+    "ES refresh.md"
   ]
 }
