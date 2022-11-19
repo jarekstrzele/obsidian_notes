@@ -1,4 +1,4 @@
-[[REACT/React/React Mosh/_ 0 React Mosh]]
+[[_ 0 React Mosh]]
 
 #react/create  #bootstrap  
 # Components (Counter app)
@@ -7,7 +7,6 @@ I had some problems, to solve them:
  npm install -g react-scripts
  npm install
 ```
-
 
 
 ## Create an app

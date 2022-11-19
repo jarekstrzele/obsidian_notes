@@ -1,4 +1,4 @@
-[[REACT/React/React Mosh/_ 0 React Mosh]]
+[[_ 0 React Mosh]]
 
 # ES6 Refresh
 

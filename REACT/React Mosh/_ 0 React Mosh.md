@@ -34,9 +34,7 @@ Every React App is a tree of components
 - `sudo npm -i -g create-react-app@1.5.2` it is a package to create a new React app #react/create
 - VS Code: Simple React Snippets, Prettier (Settings>`editor.formatOnSave: true`)
 
-
 ## First app
-
 `npx create-react-app app_name`
 `create-react-app react-app` - will be installed:
 - development server

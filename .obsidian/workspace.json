@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REACT/React/React Front to Back 2022/0 - Intro React Front to Back 2022.md",
+                "file": "REACT/React Mosh/3 Components.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REACT/React/React Front to Back 2022/0 - Intro React Front to Back 2022.md",
+                "file": "REACT/React Mosh/3 Components.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REACT/React/React Front to Back 2022/0 - Intro React Front to Back 2022.md",
+                "file": "REACT/React Mosh/3 Components.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REACT/React/React Front to Back 2022/0 - Intro React Front to Back 2022.md"
+                "file": "REACT/React Mosh/3 Components.md"
               }
             }
           },
@@ -212,15 +212,15 @@
   },
   "active": "87a46af3fe02b292",
   "lastOpenFiles": [
-    "REACT/React/React Bob Ziroll/_React Bob Ziroll.md",
-    "REACT/React/modern React/2 - React Basics & JSX.md",
-    "REACT/React/modern React/_ 0 Modern React 2022.md",
-    "REACT/React/Docs React tutorial/_ 0 React Docs Samouczek.md",
-    "REACT/mosh/2 Components React.md",
-    "REACT/mosh/_ 0 React Mosh.md",
-    "REACT/mosh/1 ES6 refresher.md",
-    "REACT/mosh/_ 0 React  Start.md",
-    "API/REST API i Python Helion/example python with mongo.md",
-    "API/REST API i Python Helion/4 - testy.md"
+    "REACT/React Mosh/_ 0 React Mosh.md",
+    "Server/What is the Server.md",
+    "static type.md",
+    "Scieżki uczenia się.md",
+    "JSON.md",
+    "iloczyn kartezjański.md",
+    "GitHub Deep Dive.md",
+    "From Local to Remote - GitHub.md",
+    "ES refresh.md",
+    "CI CD.md"
   ]
 }

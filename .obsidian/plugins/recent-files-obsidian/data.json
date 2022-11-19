@@ -1,36 +1,96 @@
 {
   "recentFiles": [
     {
-      "basename": "0 - Intro React Front to Back 2022",
-      "path": "REACT/React/React Front to Back 2022/0 - Intro React Front to Back 2022.md"
+      "basename": "3 Components",
+      "path": "REACT/React Mosh/3 Components.md"
+    },
+    {
+      "basename": "_ 0 React Mosh",
+      "path": "REACT/React Mosh/_ 0 React Mosh.md"
+    },
+    {
+      "basename": "What is the Server",
+      "path": "Server/What is the Server.md"
+    },
+    {
+      "basename": "static type",
+      "path": "static type.md"
+    },
+    {
+      "basename": "Scieżki uczenia się",
+      "path": "Scieżki uczenia się.md"
+    },
+    {
+      "basename": "JSON",
+      "path": "JSON.md"
+    },
+    {
+      "basename": "iloczyn kartezjański",
+      "path": "iloczyn kartezjański.md"
+    },
+    {
+      "basename": "GitHub Deep Dive",
+      "path": "GitHub Deep Dive.md"
+    },
+    {
+      "basename": "From Local to Remote - GitHub",
+      "path": "From Local to Remote - GitHub.md"
+    },
+    {
+      "basename": "ES refresh",
+      "path": "ES refresh.md"
+    },
+    {
+      "basename": "CI CD",
+      "path": "CI CD.md"
+    },
+    {
+      "basename": "alpine",
+      "path": "alpine.md"
+    },
+    {
+      "basename": "React Full JS",
+      "path": "REACT/React Full JS.md"
+    },
+    {
+      "basename": "2 React Render HTML",
+      "path": "REACT/w3school/2 React Render HTML.md"
+    },
+    {
+      "basename": "1 ES6",
+      "path": "REACT/w3school/1 ES6.md"
+    },
+    {
+      "basename": "_ 0 w3school React",
+      "path": "REACT/w3school/_ 0 w3school React.md"
+    },
+    {
+      "basename": "_ 0 React Hooks",
+      "path": "REACT/w3school/_ 0 React Hooks.md"
+    },
+    {
+      "basename": "_React Bob Ziroll",
+      "path": "REACT/React Bob Ziroll/_React Bob Ziroll.md"
     },
     {
       "basename": "_React Bob Ziroll",
       "path": "REACT/React/React Bob Ziroll/_React Bob Ziroll.md"
     },
     {
+      "basename": "0 -  Intro React Front to Back 2022",
+      "path": "REACT/React/Udemy React Front to Back 2022/0 -  Intro React Front to Back 2022.md"
+    },
+    {
       "basename": "2 - React Basics & JSX",
-      "path": "REACT/React/modern React/2 - React Basics & JSX.md"
+      "path": "REACT/modern React/2 - React Basics & JSX.md"
     },
     {
       "basename": "_ 0 Modern React 2022",
-      "path": "REACT/React/modern React/_ 0 Modern React 2022.md"
+      "path": "REACT/modern React/_ 0 Modern React 2022.md"
     },
     {
       "basename": "_ 0 React Docs Samouczek",
-      "path": "REACT/React/Docs React tutorial/_ 0 React Docs Samouczek.md"
-    },
-    {
-      "basename": "2 Components React",
-      "path": "REACT/mosh/2 Components React.md"
-    },
-    {
-      "basename": "_ 0 React Mosh",
-      "path": "REACT/mosh/_ 0 React Mosh.md"
-    },
-    {
-      "basename": "1 ES6 refresher",
-      "path": "REACT/mosh/1 ES6 refresher.md"
+      "path": "REACT/Docs React tutorial/_ 0 React Docs Samouczek.md"
     },
     {
       "basename": "example python with mongo",
@@ -137,68 +197,8 @@
       "path": "PYTHON/GUI/Python Tkinter GUI youtube/Clock, date.md"
     },
     {
-      "basename": "React Full JS",
-      "path": "REACT/React Full JS.md"
-    },
-    {
       "basename": "More animations",
       "path": "PYTHON/GUI/Python Tkinter GUI youtube/More animations.md"
-    },
-    {
-      "basename": "1.7 Modal Screen",
-      "path": "REACT/REACT NATIVE/React Native Practical Guide/1.7 Modal Screen.md"
-    },
-    {
-      "basename": "1.6 Press to Delete and Style it",
-      "path": "REACT/REACT NATIVE/React Native Practical Guide/1.6 Press to Delete and Style it.md"
-    },
-    {
-      "basename": "1.4. FlatList",
-      "path": "REACT/REACT NATIVE/React Native Practical Guide/1.4. FlatList.md"
-    },
-    {
-      "basename": "2 Debugging React Native Apps",
-      "path": "REACT/REACT NATIVE/React Native Practical Guide/2 Debugging React Native Apps.md"
-    },
-    {
-      "basename": "_ 0 fast API  Fundamentals",
-      "path": "API/FasAPI Fundamentals/_ 0 fast API  Fundamentals.md"
-    },
-    {
-      "basename": "What is the Server",
-      "path": "Server/What is the Server.md"
-    },
-    {
-      "basename": "graf_nieskierowany_relacje_miłosne.excalidraw",
-      "path": "Excalidraw/graf_nieskierowany_relacje_miłosne.excalidraw.md"
-    },
-    {
-      "basename": "git with Obsitdian",
-      "path": "Git/git with Obsitdian.md"
-    },
-    {
-      "basename": "1.5. Splitting Components into Smaller Components",
-      "path": "REACT/REACT NATIVE/React Native Practical Guide/1.5. Splitting Components into Smaller Components.md"
-    },
-    {
-      "basename": "1.2. Handling Events",
-      "path": "REACT/REACT NATIVE/React Native Practical Guide/1.2. Handling Events.md"
-    },
-    {
-      "basename": "1 React Native Basics",
-      "path": "REACT/REACT NATIVE/React Native Practical Guide/1 React Native Basics.md"
-    },
-    {
-      "basename": "_ 0 React Native - Practical Guide",
-      "path": "REACT/REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md"
-    },
-    {
-      "basename": "Grafy",
-      "path": "algorithmic/Grafy.md"
-    },
-    {
-      "basename": "1. Wprowadzenie do grafów",
-      "path": "algorithmic/Grafy w Pythonie/1. Wprowadzenie do grafów.md"
     }
   ],
   "omittedPaths": [],
