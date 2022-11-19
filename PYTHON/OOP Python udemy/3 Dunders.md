@@ -385,16 +385,19 @@ add to Book class
 add to class Book
 ```python
 def __len__(self):
-	return self.pages
+	return self.pages if self.pages > 0 else 0
 ```
 
 
 If you don't define `__bool__`, Python search for `__len__`, so
-when you define `__len__`, you don't have to 
+when you define `__len__`, you don't have to define `__bool__`
 
 
+# Container Class 
+``
+```pyton
 
-
+```
 
 
 
