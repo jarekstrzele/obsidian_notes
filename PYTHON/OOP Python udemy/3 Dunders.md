@@ -453,7 +453,99 @@ jaskinia + misiek #TypeError: unsupported operand type(s) for +: 'Cave' and 'Dra
 
 add to Cave class:
 ```python
-	def __add__(self, dragon: Drago) -> new+shelf:
+	def __add__(self, dragon: 'Drago') -> 'new dungeons':
 ```
+
+```python
+class Dragon:
+    def __init__(self, name, power):
+        self.name=name
+        self.power=power
+    
+    def __repr__(self):
+        return f"I'am {self.name}" 
+        
+# container class
+class Cave:
+    def __init__(self, capacity):
+        self.dungeons=[]
+        self.capacity= capacity
+    
+    def add_dragon_to_dungeon(self, dragon):
+        if not isinstance(dragon, Dragon):
+            raise TypeError("Only dragons can be imprisoned in these types of dungeon ")
+        
+        if not self.capacity > len(self.dungeons):
+            raise OverflowError("Dungeons are full!")
+        
+        self.dungeons.append(dragon)
+        print(f" {dragon.name} added")
+    
+    def __repr__(self):
+        return str(self.dungeons)
+        
+    def __add__(self, dragon: 'Dragon') -> 'new dungeons':
+        if not isinstance(dragon, Dragon):
+            raise TypeError("Only dragons can be imprisoned in these types of dungeon ")
+        
+        new_dungeons = Cave(self.capacity)
+        
+        for d in self.dungeons:
+            new_dungeons.add_dragon_to_dungeon(d)
+        
+        new_dungeons.add_dragon_to_dungeon(dragon)
+        
+        return new_dungeons
+
+    def __radd__(self, dragon):
+         if not isinstance(dragon, Dragon):
+            raise TypeError("Only dragons can be imprisoned in these types of dungeon ")
+        
+         return self + dragon
+        
+
+misiek = Dragon("Misiek", 10)
+puchatek = Dragon("Puchatek", 100)
+zadziora = Dragon("Zadziora", 123)
+
+jaskinia = Cave(2)
+jaskinia.add_dragon_to_dungeon(misiek)
+# print('nowe lochy ', jaskinia + puchatek)
+# print(jaskinia)
+
+print('nowe lochy ', puchatek + jaskinia)
+
+
+
+```
+
+
+## `__getitem__`
+How to get dragon from the dungeon?
+You can define a new function `get_dragon()`, but also you can do this in more pythonic way redefining `__getitem__` method
+
+First way:
+```python
+
+misiek = Dragon("Misiek", 10)
+puchatek = Dragon("Puchatek", 100)
+zadziora = Dragon("Zadziora", 123)
+
+jaskinia = Cave(10)
+jaskinia.add_dragon_to_dungeon(misiek)
+jaskinia.add_dragon_to_dungeon(puchatek)
+jaskinia.add_dragon_to_dungeon(zadziora)
+print(jaskinia[2])
+```
+
+
+
+
+
+
+
+
+
+
 
 
