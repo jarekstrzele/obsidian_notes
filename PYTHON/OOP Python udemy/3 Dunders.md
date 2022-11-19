@@ -395,10 +395,41 @@ when you define `__len__`, you don't have to define `__bool__`
 
 # Container Class 
 ``
-```pyton
+```python
+class Dragon:
+    def __init__(self, name, power):
+        self.name=name
+        self.power=power
+        
+# container class
+class Cave:
+    def __init__(self, capacity):
+        self.dungeons=[]
+        self.capacity= capacity
+    
+    def add_dragon_to_dungeon(self, dragon):
+        if not isinstance(dragon, Dragon):
+            raise TypeError("Only dragons can be imprisoned in these types of dungeon ")
+        
+        if not self.capacity > len(self.dungeons):
+            raise OverflowError("Dungeons are full!")
+        
+        self.dungeons.append(dragon)
+        print(f" {dragon.name} added")
 
+misiek = Dragon("Misiek", 10)
+puchatek = Dragon("Puchatek", 100)
+zadziora = Dragon("Zadziora", 123)
+
+jaskinia = Cave(2)
+jaskinia.add_dragon_to_dungeon(misiek)
+jaskinia.add_dragon_to_dungeon(puchatek)
+jaskinia.add_dragon_to_dungeon(123)
+#jaskinia.add_dragon_to_dungeon(zadziora)
 ```
 
+
+## `__add__` dungeon + dragon
 
 
 
