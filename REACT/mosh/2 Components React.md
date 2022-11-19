@@ -1,11 +1,9 @@
 #react/component
-<<<<<<< HEAD
+
 [[_ 0 React  Start]]
-=======
+
 [[REACT/mosh/_ 0 React Mosh]]o
-
-
->>>>>>> remotes/origin/master
+remotes/origin/master
 
 
 # Components

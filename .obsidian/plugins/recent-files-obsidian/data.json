@@ -1,6 +1,78 @@
 {
   "recentFiles": [
     {
+      "basename": "0 - Intro React Front to Back 2022",
+      "path": "REACT/React/React Front to Back 2022/0 - Intro React Front to Back 2022.md"
+    },
+    {
+      "basename": "_React Bob Ziroll",
+      "path": "REACT/React/React Bob Ziroll/_React Bob Ziroll.md"
+    },
+    {
+      "basename": "2 - React Basics & JSX",
+      "path": "REACT/React/modern React/2 - React Basics & JSX.md"
+    },
+    {
+      "basename": "_ 0 Modern React 2022",
+      "path": "REACT/React/modern React/_ 0 Modern React 2022.md"
+    },
+    {
+      "basename": "_ 0 React Docs Samouczek",
+      "path": "REACT/React/Docs React tutorial/_ 0 React Docs Samouczek.md"
+    },
+    {
+      "basename": "2 Components React",
+      "path": "REACT/mosh/2 Components React.md"
+    },
+    {
+      "basename": "_ 0 React Mosh",
+      "path": "REACT/mosh/_ 0 React Mosh.md"
+    },
+    {
+      "basename": "1 ES6 refresher",
+      "path": "REACT/mosh/1 ES6 refresher.md"
+    },
+    {
+      "basename": "example python with mongo",
+      "path": "API/REST API i Python Helion/example python with mongo.md"
+    },
+    {
+      "basename": "4 - testy",
+      "path": "API/REST API i Python Helion/4 - testy.md"
+    },
+    {
+      "basename": "3 - Struktura projektu",
+      "path": "API/REST API i Python Helion/3 - Struktura projektu.md"
+    },
+    {
+      "basename": "2.3 MongoDB",
+      "path": "API/REST API i Python Helion/2.3 MongoDB.md"
+    },
+    {
+      "basename": "2.2 Modele Pydantic",
+      "path": "API/REST API i Python Helion/2.2 Modele Pydantic.md"
+    },
+    {
+      "basename": "2.1 Hello world",
+      "path": "API/REST API i Python Helion/2.1 Hello world.md"
+    },
+    {
+      "basename": "_ 0 start REST API i python",
+      "path": "API/REST API i Python Helion/_ 0 start REST API i python.md"
+    },
+    {
+      "basename": "GraphQL",
+      "path": "API/GraphQL/GraphQL.md"
+    },
+    {
+      "basename": "_0 Event-Driven (React&FastAPI)",
+      "path": "API/Event_DrivenReact_FastAPI)/_0 Event-Driven (React&FastAPI).md"
+    },
+    {
+      "basename": "_ 0 intro APIs for beginners",
+      "path": "API/APIs_for_beginners_youtube/_ 0 intro APIs for beginners.md"
+    },
+    {
       "basename": "6 Styling React Component",
       "path": "REACT/React - the Complete Guide/6 Styling React Component.md"
     },
@@ -31,10 +103,6 @@
     {
       "basename": "4 React State and Working with Events",
       "path": "REACT/React - the Complete Guide/4 React State and Working with Events.md"
-    },
-    {
-      "basename": "_ 0 intro APIs for beginners",
-      "path": "API/APIs_for_beginners_youtube/_ 0 intro APIs for beginners.md"
     },
     {
       "basename": "_ basics GUI Python",
@@ -131,74 +199,6 @@
     {
       "basename": "1. Wprowadzenie do grafów",
       "path": "algorithmic/Grafy w Pythonie/1. Wprowadzenie do grafów.md"
-    },
-    {
-      "basename": "_ 0 Grafy w Pythonie",
-      "path": "algorithmic/Grafy w Pythonie/_ 0 Grafy w Pythonie.md"
-    },
-    {
-      "basename": "graf_pomysł_na_wyjazd.excalidraw",
-      "path": "Excalidraw/graf_pomysł_na_wyjazd.excalidraw.md"
-    },
-    {
-      "basename": "_ 0 Python OOP",
-      "path": "PYTHON/OOP Python udemy/_ 0 Python OOP.md"
-    },
-    {
-      "basename": "2 Classes",
-      "path": "PYTHON/OOP Python udemy/2 Classes.md"
-    },
-    {
-      "basename": "_0 Event-Driven (React&FastAPI)",
-      "path": "API/Event_DrivenReact_FastAPI)/_0 Event-Driven (React&FastAPI).md"
-    },
-    {
-      "basename": "html module",
-      "path": "PYTHON/Deep Dive Python3/html module.md"
-    },
-    {
-      "basename": "2 - Deep Dive Intro",
-      "path": "PYTHON/Deep Dive Python3/2/2 - Deep Dive Intro.md"
-    },
-    {
-      "basename": "Nonlocal Scope",
-      "path": "PYTHON/Deep Dive Python3/1/Nonlocal Scope.md"
-    },
-    {
-      "basename": "Integers constructors and bases",
-      "path": "PYTHON/Deep Dive Python3/1/Integers constructors and bases.md"
-    },
-    {
-      "basename": "Integers",
-      "path": "PYTHON/Deep Dive Python3/1/Integers.md"
-    },
-    {
-      "basename": "Functions FC DOCSTRINGS and Annotations",
-      "path": "PYTHON/Deep Dive Python3/1/Functions FC DOCSTRINGS and Annotations.md"
-    },
-    {
-      "basename": "Floats Coercing to Integers",
-      "path": "PYTHON/Deep Dive Python3/1/Floats Coercing to Integers.md"
-    },
-    {
-      "basename": "Floats 1",
-      "path": "PYTHON/Deep Dive Python3/1/Floats 1.md"
-    },
-    {
-      "basename": "Float Rounding",
-      "path": "PYTHON/Deep Dive Python3/1/Float Rounding.md"
-    },
-    {
-      "basename": "Decorator (logger, Stacked Decorators)",
-      "path": "PYTHON/Deep Dive Python3/1/Decorator (logger, Stacked Decorators).md"
-    },
-    {
-      "basename": "decorator - timer app",
-      "path": "PYTHON/Deep Dive Python3/1/decorator - timer app.md"
-    },
-    {
-      "basename": "Decimal 1",
-      "path": "PYTHON/Deep Dive Python3/1/Decimal 1.md"
     }
   ],
   "omittedPaths": [],
