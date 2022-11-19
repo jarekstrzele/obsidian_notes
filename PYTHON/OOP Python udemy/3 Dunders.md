@@ -524,8 +524,16 @@ print('nowe lochy ', puchatek + jaskinia)
 How to get dragon from the dungeon?
 You can define a new function `get_dragon()`, but also you can do this in more pythonic way redefining `__getitem__` method
 
+> implementing `__getitem__` also makes our class iterable
+
+
 First way:
 ```python
+# ...
+	    
+    def __getitem__(self, item):
+        return self.dungeons[item]
+
 
 misiek = Dragon("Misiek", 10)
 puchatek = Dragon("Puchatek", 100)
@@ -538,8 +546,26 @@ jaskinia.add_dragon_to_dungeon(zadziora)
 print(jaskinia[2])
 ```
 
+==more sophisticated way==
+```python
+	   def __getitem__(self, item):
+        if isinstance(item, str):
+            return [dragon for dragon in self.dungeons if item in dragon.name]
+        
+        return self.dungeons[item]
 
 
+jaskinia = Cave(10)
+jaskinia.add_dragon_to_dungeon(misiek)
+jaskinia.add_dragon_to_dungeon(puchatek)
+jaskinia.add_dragon_to_dungeon(zadziora)
+print(jaskinia["Za"]) # -> [I'am Zadziora]
+print(jaskinia["ek"]) #->[I'am Misiek, I'am Puchatek]
+print(jaskinia[1:2])
+print(("-------"))
+for dragon in jaskinia:
+    print(dragon)
+```
 
 
 
