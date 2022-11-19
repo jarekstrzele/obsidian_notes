@@ -368,6 +368,35 @@ print(book1 != book2)
 
 
 
+# Truthiness `__bool__`
+- objects, including instances of user-defined classes. by default, are thruthy
+- to cusomize this behavior, we define special logic within dunder bool
+
+add to Book class
+```python
+	def __bool__(self):
+		return bool(self.pages) and not(self.pages < 1)
+```
+
+
+## `__len__`
+`len(book1)` => TypeError: object of type 'Book' has no len()
+
+add to class Book
+```python
+def __len__(self):
+	return self.pages
+```
+
+
+If you don't define `__bool__`, Python search for `__len__`, so
+when you define `__len__`, you don't have to 
+
+
+
+
+
+
 
 
 
