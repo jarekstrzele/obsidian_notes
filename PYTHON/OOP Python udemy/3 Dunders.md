@@ -431,6 +431,14 @@ jaskinia.add_dragon_to_dungeon(123)
 
 ## `__add__` dungeon + dragon
 
+- our custom class can support the plus operato -> we  have to implemente `__add__`
+- to guarantee commutativity ->implement  `__radd__`
+`obj1.__add__(obj2)` -> if it doesn't work -> `obj2.__radd__(obj1)`
+
+- other operators could be similarly overloaded to support user-defined classes
+`__sub__` and `__rsub__`
+`__mul__` and `__rmul__`
+`__div__` and `__rdiv__`
 
 
 
