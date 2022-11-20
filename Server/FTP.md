@@ -38,5 +38,24 @@ Serwer istnieje, aby móc udostępniać dane i zasoby:
 
 
 
->[!note]  FTPs. 
+>[!note]  FTPS, SFTP 
 >FTP, który szyfruje pakiety
+
+
+
+## FilZilla - client
+Do pobrania z https://filezilla-project.org/download.php?type=client
+*opcjonalne*: Pliki > Menadżer stron (zapisac dane serwera na przyszłość) :
+	- nowy adres
+		- server: adres IP lub domena serwera
+		- tryb logowania: 'Normal'
+		- użytkownik: nazwa użytkowanika FTP
+		- hasło: hasło
+
+
+## Jak działa FTP?
+- połączenie FTP wymaga dwóch 
+
+
+
+
