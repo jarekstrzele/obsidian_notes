@@ -54,8 +54,18 @@ Do pobrania z https://filezilla-project.org/download.php?type=client
 
 
 ## Jak działa FTP?
-- połączenie FTP wymaga dwóch 
+- połączenie FTP wymaga dwóch  stron **użytkowni** + **serwer**
+- użytkownik musi posiadać uprawnienia i wymagane poświadczenia
 
+### dwa tryby połączenia
+- **pasywny** serwer otwiera port i "nasłuchuje", a użytkownik się z nim łączy
+- **aktywyny** - użytkownik otwiera port i "nasłuchuje", a serwer aktywnie się z nim łączy
+
+domyślnie **pasywny** (firewall blokuje połączenia inicjowane z zewnątrz)
+
+### dwa różńe kanały komunikacji
+- kanał poleceń, w którym inicjuje się instrukcje/odpowiedzi
+- kanał danych, w którym odbywa się dystrybycja danych
 
 
 
