@@ -50,4 +50,26 @@ VALUES (1006, 'Pan Włodyjoski', 11, 234.21);
 
 ```
 
+defining a function
+```sql
+
+create or replace function book_copies(min_copies int)
+returns INT 
+as 
+$$
+declare 
+	copies int;
+begin 
+	select count(*) into copies from book where total_copies > min_copies;
+	return copies ;
+end ;
+ 
+$$ language plpgsql
+
+```
+
+to use
+`select book_copies(5)`
+
+
 

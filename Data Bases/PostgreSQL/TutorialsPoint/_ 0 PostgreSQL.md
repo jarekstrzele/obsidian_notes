@@ -2,5 +2,8 @@
 https://www.tutorialspoint.com/postgresql
 
 
+[[Create DB, tables]]
 
-[[Function PostGres]]
+[[Insert data]]
+
+[[Function PostGreSQL]]
