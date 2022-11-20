@@ -84,4 +84,15 @@ to use
 `select book_copies(5)`
 
 
+przykład
+funkcja dodająca 1 do podajnej liczby (PL/pgSQL)
+```PL/pgSQL
+CREATE FUNCTION dodaj_jeden(int4) RETURNS  int4 AS '
+	BEGIN
+		RETURN $1+1 ;
+	END ;
+'language 'plpgsql';
+```
+aby wyświetlić jej działanie:
+`SELECT dodaj_jeden(3) AS wynik ;`
 
