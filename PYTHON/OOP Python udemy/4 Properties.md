@@ -35,7 +35,7 @@ In Python:
 - it's considered best practice to start with plain, public attributes and evolve to controlled access only as needed
 
 
-
+We need to restrict the set of init values  for customers (only bronze, gold, platinum)
 
 
 
