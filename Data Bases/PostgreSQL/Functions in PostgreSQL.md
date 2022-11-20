@@ -96,3 +96,33 @@ CREATE FUNCTION dodaj_jeden(int4) RETURNS  int4 AS '
 aby wyświetlić jej działanie:
 `SELECT dodaj_jeden(3) AS wynik ;`
 
+aby skasować
+`DROP FUNCTIOn dpdak_jeden(int4);`
+
+## JĘZYK SQL
+aby zwrócić więcej niż jeden wiersz `setof`
+```sql
+CREATE FUNCTION klienci(text) RETURNS setof customer AS'
+
+SELECT * FROM customer WHERE town=$1;
+
+'LANGUAGE 'SQL';
+```
+
+
+## Język PL/pgSQL
+#pl/pgsql
+
+To język blokowo-strukturalny
+```sql
+[etykiera]
+[DECLARE deklaracje]
+BEGIN
+	instrukcje ;
+	[RETURN wyrażenie_zwracane] ;
+END;
+
+```
+
+
+**etykieta** , **deklarac
