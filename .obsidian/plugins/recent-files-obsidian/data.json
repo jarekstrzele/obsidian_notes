@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "FTP",
+      "path": "Server/FTP.md"
+    },
+    {
       "basename": "2 Filtering Records",
       "path": "Data Bases/PostgreSQL/Postgres Complete Guide/2 Filtering Records.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "GraphQL",
       "path": "API/GraphQL/GraphQL.md"
-    },
-    {
-      "basename": "_0 Event-Driven (React&FastAPI)",
-      "path": "API/Event_DrivenReact_FastAPI)/_0 Event-Driven (React&FastAPI).md"
     }
   ],
   "omittedPaths": [],
