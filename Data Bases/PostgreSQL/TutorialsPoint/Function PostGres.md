@@ -20,11 +20,23 @@ RETURNS return_datatype AS $variable_name$
 
 `[OR REPLACE]` allows to modify an existing function
 
+EXAMPLE
 
+testdb# select * from COMPANY;
+ id | name  | age | address   | salary
+---- | -------  | ----- | ----------- | --------
+  1 | Paul  |  32 | California|  20000
+  2 | Allen |  25 | Texas     |  15000
+  3 | Teddy |  23 | Norway    |  20000
+  4 | Mark  |  25 | Rich-Mond |  65000
+  5 | David |  27 | Texas     |  85000
+  6 | Kim   |  22 | South-Hall|  45000
+  7 | James |  24 | Houston   |  10000
 
+function that returns the total number f records in the COmpany table
+```sql
 
-
-
+```
 
 
 
