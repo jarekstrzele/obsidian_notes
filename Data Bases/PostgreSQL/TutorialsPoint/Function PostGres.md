@@ -35,7 +35,15 @@ testdb# select * from COMPANY;
 
 function that returns the total number f records in the COmpany table
 ```sql
-
+CREATE OR REPLACE FUNCTION totalRecords ()
+RETURNS integer AS $total$
+declare
+	total integer;
+BEGIN
+   SELECT count(*) into total FROM COMPANY;
+   RETURN total;
+END;
+$total$ LANGUAGE plpgsql;
 ```
 
 
