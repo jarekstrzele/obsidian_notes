@@ -570,7 +570,21 @@ for dragon in jaskinia:
 
 ## Defining our own magics
 
+- we could define our own dunders, but we shouldn't
+- ther is no guarantee that they will not clash with furture python dunders
 
+```python
+class Dragon:
+    
+    def __magic_method__(self):
+        return "Magic method"
+        
+
+dd = Dragon()
+print(dd.__magic_method__())
+print(dd.__dict__)
+print(Dragon.__dict__)
+```
 
 
 
