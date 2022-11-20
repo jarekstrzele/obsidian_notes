@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "_0 Strat",
+      "path": "Data Bases/PostgreSQL/Postgres Complete Guide/_0 Strat.md"
+    },
+    {
+      "basename": "Introduction",
+      "path": "Data Bases/PostgreSQL/Postgres_From_Zero_to_Hero 1/Introduction.md"
+    },
+    {
+      "basename": "_ intro sql postgresql",
+      "path": "Data Bases/PostgreSQL/SQL PostgreSQL Tutorial/_ intro sql postgresql.md"
+    },
+    {
+      "basename": "_ 0 PostgreSQL TUTORIAL",
+      "path": "Data Bases/PostgreSQL/Postgresql TUTORIAL/_ 0 PostgreSQL TUTORIAL.md"
+    },
+    {
       "basename": "Functions in PostgreSQL",
       "path": "Data Bases/PostgreSQL/Functions in PostgreSQL.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "6 Styling React Component",
       "path": "REACT/React - the Complete Guide/6 Styling React Component.md"
-    },
-    {
-      "basename": "simple_list_app.excalidraw",
-      "path": "Excalidraw/simple_list_app.excalidraw.md"
-    },
-    {
-      "basename": "_ 0 React Full",
-      "path": "REACT/React - the Complete Guide/_ 0 React Full.md"
-    },
-    {
-      "basename": "5.2 Chart",
-      "path": "REACT/React - the Complete Guide/5.2 Chart.md"
-    },
-    {
-      "basename": "5 Rendering Lists and Conditional content",
-      "path": "REACT/React - the Complete Guide/5 Rendering Lists and Conditional content.md"
     }
   ],
   "omittedPaths": [],
