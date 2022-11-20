@@ -132,21 +132,40 @@ END;
 ```pl/pgsql
 CREATE or REPLACE FUNCTION ex01()
 RETURNS text
-LANGUAGE plpgsql AS '
+LANGUAGE plpgsql AS $$
 	begin
-		return `hello world` ;
+		RETURN 'hello word'  ;
 	end ;	
-';
+$$;
 
-SELECT ex01();
+select ex01();
 ```
 
 
+### funkcja z argumentami
+```pl/pgsql
+create function zmienne1(int4) RETURNS float8 AS 
+$$
+DECLARE
+	n integer := 1;
+	my_pi CONSTANT float8 = pi();
+	r ALIAS FOR $1 ;
+BEGIN
+ 	return my_pi * r * r;
+END;
+$$ language 'plpgsql';
+```
 
+#### typ zmiennej określny przez atrybut tabeli
+#### `zmienna tabela.atrybut%TYPE`
 
-
-
-
+```sql
+CREATE TABLE ex05t(
+	id serial,
+	name varchar(10),
+	hiredate date
+);
+```
 
 
 
