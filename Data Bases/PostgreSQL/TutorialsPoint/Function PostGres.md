@@ -7,9 +7,18 @@
 
 ## Syntax
 ```sql
-CREATE [OR RE]
+CREATE [OR REPLACE] FUNCTION function_name (args)
+RETURNS return_datatype AS $variable_name$
+	DECLARE
+		declaration ;
+		[...]
+	BEGIN
+		< function_body >
+		return { variable_name | value }
+	END; LANGUAGE plpgsql ;
 ```
 
+`[OR REPLACE]` allows to modify an existing function
 
 
 
