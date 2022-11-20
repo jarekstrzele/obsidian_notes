@@ -43,8 +43,10 @@ BEGIN
    SELECT count(*) into total FROM COMPANY;
    RETURN total;
 END;
-$total$ LANGUAGE plpgsql;
+$total$ LANGUAGE plpgsql; 
 ```
 
+to call this function
+`testdb# select totalRecords();`
 
 
