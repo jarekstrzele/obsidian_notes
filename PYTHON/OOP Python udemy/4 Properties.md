@@ -53,9 +53,53 @@ class Customer:
 
     self.loyalty = level
 
-c1 = Customer("wwwfew")
+c1 = Customer("Niedopuszczalna wartość atrybuty")
+print("Done")
+
+####
+#->  ValueError: Invalid loyalty Niedopuszczalna wartość atrybuty specified
+```
+
+A problem:
+`c2=Customer("bronze")`
+`c2.loyalty = "Niedopuszczalna wartość atrybutu"` -> ok
+
+Solution `self.loyalty` -> `self._loyalty`
+
+```python
+class Customer:
+  loyalty_levels = {"bronze", "gold", "platinum"}
+  
+  def __init__(self, loyalty):
+    self.set_loyalty(loyalty)
+
+
+  def get_loyalty(self):
+    return self._loyalty
+
+  def set_loyalty(self, level):
+    if level not in self.__class__.loyalty_levels:
+      raise ValueError(f"Invalid loyalty {level} specified")
+
+    self._loyalty = level
+
+c1 = Customer("bronze")
+c1.loyalty = "Błędny atrybut, ale nowy"
+print(c1.__dict__)
+print(c1._loyalty)
 print("Done")
 ```
+
+
+# Private and Mangled Attributes
+
+
+
+
+
+
+
+
 
 
 
