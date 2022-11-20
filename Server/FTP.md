@@ -1,6 +1,7 @@
 
 # Serwer FTP - co to jest i jak uzyskać do niego dostę?
 https://strategiczni.pl/serwer-ftp-co-to-jest-i-jak-uzyskac-do-niego-dostep
+https://jchost.pl/blog/ftp/
 
 ### Serwer
 >[!info] serwer
@@ -23,7 +24,19 @@ Serwer istnieje, aby móc udostępniać dane i zasoby:
 > 		- login (nazwa użytkownika FTP/user)
 > 		- hasło (pass)
 
+>[!important] protokół
+>To zestaw reguł, z których korzystają komputery w sieci, aby móc się ze sobą komunikować
+>Te reguły obejmują:
+>- rodzaj przesyłanych danych,
+>- polecenia, których służą do wysyłania/odbierania danych
+>- sposoby potwierdzania
+
+
 ### Klient FTP
 >[!info] Klient FTP
 >urządzenie (najczęściej komputer osobisty), które wysyła żądanie o dane do serwera
 
+
+
+>[!note]  FTPs. 
+>FTP, który szyfruje pakiety
