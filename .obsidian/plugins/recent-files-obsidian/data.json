@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Functions in PostgreSQL",
+      "path": "Data Bases/PostgreSQL/Functions in PostgreSQL.md"
+    },
+    {
       "basename": "Create",
       "path": "Data Bases/PostgreSQL/TutorialsPoint/Create.md"
     },
     {
-      "basename": "Functions in PostgreSQL",
-      "path": "Data Bases/PostgreSQL/Functions in PostgreSQL.md"
+      "basename": "Insert data",
+      "path": "Data Bases/PostgreSQL/TutorialsPoint/Insert data.md"
     },
     {
       "basename": "Function PostGres",
@@ -195,10 +199,6 @@
     {
       "basename": "5 Rendering Lists and Conditional content",
       "path": "REACT/React - the Complete Guide/5 Rendering Lists and Conditional content.md"
-    },
-    {
-      "basename": "3 React Basics",
-      "path": "REACT/React - the Complete Guide/3 React Basics.md"
     }
   ],
   "omittedPaths": [],

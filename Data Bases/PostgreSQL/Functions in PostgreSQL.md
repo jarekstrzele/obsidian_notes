@@ -36,5 +36,18 @@ select func_name(
 ) ;
 ```
 
+example
+```sql
+CREATE TABLE book( 
+	isbn INT NOT NULL,
+	title VARCHAR(30),
+	total_copies int,
+	price float4
+) ;
+
+INSERT INTO book (isbn, title, total_copies, price)
+VALUES (1006, 'Pan Włodyjoski', 11, 234.21);
+
+```
 
 
