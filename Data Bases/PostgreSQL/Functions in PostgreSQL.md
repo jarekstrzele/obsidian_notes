@@ -167,7 +167,19 @@ CREATE TABLE ex05t(
 );
 ```
 
+```pl/pgsql
+RETURNS text
+LANGUAGE plpgsql AS 
+$$
+BEGIN
+ 	return $1||' '|| $2 ;
+end;
 
+$$ ;
+
+
+select ex05('Julia', '1009-01-01');
+```
 
 
 
