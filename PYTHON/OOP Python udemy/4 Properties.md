@@ -36,7 +36,26 @@ In Python:
 
 
 We need to restrict the set of init values  for customers (only bronze, gold, platinum)
+```python
+class Customer:
+  loyalty_levels = {"bronze", "gold", "platinum"}
+  
+  def __init__(self, loyalty):
+    self.set_loyalty(loyalty)
 
+
+  def get_loyalty(self):
+    return self.loyalty
+
+  def set_loyalty(self, level):
+    if level not in self.__class__.loyalty_levels:
+      raise ValueError(f"Invalid loyalty {level} specified")
+
+    self.loyalty = level
+
+c1 = Customer("wwwfew")
+print("Done")
+```
 
 
 
