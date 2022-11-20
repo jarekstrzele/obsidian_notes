@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Create",
+      "path": "Data Bases/PostgreSQL/TutorialsPoint/Create.md"
+    },
+    {
       "basename": "Functions in PostgreSQL",
       "path": "Data Bases/PostgreSQL/Functions in PostgreSQL.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "3 React Basics",
       "path": "REACT/React - the Complete Guide/3 React Basics.md"
-    },
-    {
-      "basename": "4 React State and Working with Events",
-      "path": "REACT/React - the Complete Guide/4 React State and Working with Events.md"
     }
   ],
   "omittedPaths": [],
