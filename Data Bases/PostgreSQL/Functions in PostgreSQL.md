@@ -125,4 +125,32 @@ END;
 ```
 
 
-**etykieta** , **deklarac
+- **etykieta** , **deklaracje** są opcjonalne dla każdego zbloków
+- blokowy zakres zmiennych (nazwy zmiennych w bloky wewnętrznym przesłaniają takie same nazwy z bloku zewnętrznego)
+
+### funkcja bez argumentów
+```pl/pgsql
+CREATE or REPLACE FUNCTION ex01()
+RETURNS text
+LANGUAGE plpgsql AS '
+	begin
+		return `hello world` ;
+	end ;	
+';
+
+SELECT ex01();
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
