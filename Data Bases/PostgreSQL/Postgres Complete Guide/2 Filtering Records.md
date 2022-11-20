@@ -9,6 +9,8 @@ THIRD: `SELECT name, area`
 Is equal? ` area = 8821`
 In not equal? `area != 8821`
 
+
+## Where
 ```sql
 SELECT name, area 
 FROM Cities 
@@ -26,6 +28,29 @@ WHERE
 SELECT name, area 
 FROM Cities 
 WHERE  
-		 area	NOT IN (3043, 4000)  AND name='Delhi';
+	area NOT IN (3043, 4000)  AND name='Delhi';
 ```
+
+
+```sql
+SELECT
+	name,
+	population / area AS population_density
+FROM
+	cities
+WHERE population / area > 6000 ;
+```
+
+## Update Rows
+
+
+
+
+
+
+
+
+
+
+
 

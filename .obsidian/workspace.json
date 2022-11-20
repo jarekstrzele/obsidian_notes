@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Bases/PostgreSQL/Postgres Complete Guide/_0 Strat PostgreSql CompleteGuide.md",
+                "file": "Data Bases/PostgreSQL/Postgres Complete Guide/2 Filtering Records.md",
                 "mode": "source",
                 "source": false
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Bases/PostgreSQL/Postgres Complete Guide/_0 Strat PostgreSql CompleteGuide.md",
+                "file": "Data Bases/PostgreSQL/Postgres Complete Guide/2 Filtering Records.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -231,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Bases/PostgreSQL/Postgres Complete Guide/_0 Strat PostgreSql CompleteGuide.md",
+                "file": "Data Bases/PostgreSQL/Postgres Complete Guide/2 Filtering Records.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Bases/PostgreSQL/Postgres Complete Guide/_0 Strat PostgreSql CompleteGuide.md"
+                "file": "Data Bases/PostgreSQL/Postgres Complete Guide/2 Filtering Records.md"
               }
             }
           },
@@ -284,9 +284,9 @@
   },
   "active": "770244da7a5dc4ef",
   "lastOpenFiles": [
+    "Data Bases/PostgreSQL/Postgres Complete Guide/_0 Strat PostgreSql CompleteGuide.md",
     "Data Bases/PostgreSQL/Postgres Complete Guide/2 Filtering Records.md",
     "Data Bases/PostgreSQL/Postgres Complete Guide/3 Working with Tables.md",
-    "Data Bases/PostgreSQL/Postgres Complete Guide/_0 Strat PostgreSql CompleteGuide.md",
     "Data Bases/PostgreSQL/Postgres_From_Zero_to_Hero/Introduction.md",
     "Data Bases/PostgreSQL/Postgres_From_Zero_to_Hero 1/Introduction.md",
     "Data Bases/PostgreSQL/PostgreSQL Praktyczna Administracja/_Wprowadzenie PostgreSQL.md",
