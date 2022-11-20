@@ -32,7 +32,7 @@ for customer in [c1,c2,c3]:
 
 In Python:
 - accessor methods (getters, setters) for attributes are best added when needed
-- it's considered best bractice to start with plain, public attributes and evolve to controlled access only as needed
+- it's considered best practice to start with plain, public attributes and evolve to controlled access only as needed
 
 
 
