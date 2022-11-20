@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Bases/PostgreSQL/TutorialsPoint/Function PostGreSQL.md",
+                "file": "Data Bases/PostgreSQL/Functions in PostgreSQL.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -226,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Server/FTP.md",
+                "file": "Data Bases/PostgreSQL/Functions in PostgreSQL.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -243,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Server/FTP.md",
+                "file": "Data Bases/PostgreSQL/Functions in PostgreSQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Server/FTP.md"
+                "file": "Data Bases/PostgreSQL/Functions in PostgreSQL.md"
               }
             }
           },
@@ -294,17 +294,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a7e39cb2bfb97097",
+  "active": "80febc296318b700",
   "lastOpenFiles": [
+    "Data Bases/PostgreSQL/TutorialsPoint/Function PostGreSQL.md",
     "Data Bases/PostgreSQL/Postgres Complete Guide/2 Filtering Records.md",
+    "PYTHON/GUI/Python Tkinter GUI youtube/_ 0 Python Tkinter GUI.md",
+    "Data Bases/PostgreSQL/TutorialsPoint/Insert data.md",
+    "Data Bases/PostgreSQL/TutorialsPoint/Create DB, tables.md",
+    "Server/FTP.md",
     "Data Bases/PostgreSQL/Postgres Complete Guide/_0 Strat PostgreSql CompleteGuide.md",
     "Data Bases/PostgreSQL/Postgres Complete Guide/3 Working with Tables.md",
     "Data Bases/PostgreSQL/Postgres_From_Zero_to_Hero/Introduction.md",
-    "Data Bases/PostgreSQL/Postgres_From_Zero_to_Hero 1/Introduction.md",
-    "Data Bases/PostgreSQL/PostgreSQL Praktyczna Administracja/_Wprowadzenie PostgreSQL.md",
-    "Data Bases/PostgreSQL/SQL PostgreSQL Tutorial/_ intro sql postgresql.md",
-    "Data Bases/PostgreSQL/Postgresql TUTORIAL/_ 0 PostgreSQL TUTORIAL.md",
-    "Data Bases/PostgreSQL/Functions in PostgreSQL.md",
-    "Data Bases/PostgreSQL/TutorialsPoint/_ 0 PostgreSQL.md"
+    "Data Bases/PostgreSQL/Postgres_From_Zero_to_Hero 1/Introduction.md"
   ]
 }

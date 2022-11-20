@@ -1,5 +1,6 @@
 #youtube #postgresql/function 
 https://www.youtube.com/watch?v=3K32mdb6h5E
+https://docplayer.pl/55003112-W-postgresql-mamy-do-dyspozycji-nie-tylko-funkcje-wbudowane-ale-rowniez-mozemy-tworzyc-wlasne-sa-one-zapisywane-w-tabeli-systemowej-pg_proc.html
 
 
 ```sql
@@ -18,6 +19,17 @@ $$
 
 to call
 `select func_name(args) ;`
+
+Funkcje są zapisywane w  w tabeli systemowej **pg_proc**
+Tworzenie własnych funkcji
+```sql
+CREATE [OR REPLACE] FUNCTION nazwa_funkcji([typ_funkcji])
+	RETURNS typ_wyniku_funkcji
+	AS definicja_funkcji
+	LANGUAGE 'nazwa hęzyka';
+```
+
+`SELECT * FROM pg_language;` list języków
 
 ### named notation
 ```
