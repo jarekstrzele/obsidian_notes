@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Functions in PostgreSQL",
+      "path": "Data Bases/PostgreSQL/Functions in PostgreSQL.md"
+    },
+    {
       "basename": "Function PostGres",
       "path": "Data Bases/PostgreSQL/TutorialsPoint/Function PostGres.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "4 React State and Working with Events",
       "path": "REACT/React - the Complete Guide/4 React State and Working with Events.md"
-    },
-    {
-      "basename": "_ basics GUI Python",
-      "path": "PYTHON/GUI/the art of doing create 10 Python GUI/_ basics GUI Python.md"
     }
   ],
   "omittedPaths": [],
