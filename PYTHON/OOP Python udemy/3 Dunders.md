@@ -568,6 +568,8 @@ for dragon in jaskinia:
 ```
 
 
+## Defining our own magics
+
 
 
 
