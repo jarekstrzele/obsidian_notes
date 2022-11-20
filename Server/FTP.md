@@ -65,7 +65,7 @@ domyślnie **pasywny** (firewall blokuje połączenia inicjowane z zewnątrz)
 
 ### dwa różńe kanały komunikacji
 - kanał poleceń, w którym inicjuje się instrukcje/odpowiedzi
-- kanał danych, w którym odbywa się dystrybycja danych
+- kanał danych, w którym odbywa się dystrybycja danych 
 
 
 
