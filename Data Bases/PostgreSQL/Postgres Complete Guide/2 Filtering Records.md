@@ -1,4 +1,4 @@
-[[_0 Strat]]
+[[_0 Strat PostgreSql CompleteGuide]]
 
 # Filtering Rows with `WHERE`
 `SELECT name, area FROM Cities WHERE area > 4000 ;`

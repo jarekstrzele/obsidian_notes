@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "_0 Strat",
-      "path": "Data Bases/PostgreSQL/Postgres Complete Guide/_0 Strat.md"
+      "basename": "2 Filtering Records",
+      "path": "Data Bases/PostgreSQL/Postgres Complete Guide/2 Filtering Records.md"
+    },
+    {
+      "basename": "_0 Strat PostgreSql CompleteGuide",
+      "path": "Data Bases/PostgreSQL/Postgres Complete Guide/_0 Strat PostgreSql CompleteGuide.md"
+    },
+    {
+      "basename": "3 Working with Tables",
+      "path": "Data Bases/PostgreSQL/Postgres Complete Guide/3 Working with Tables.md"
     },
     {
       "basename": "Introduction",
@@ -191,14 +199,6 @@
     {
       "basename": "_0 Event-Driven (React&FastAPI)",
       "path": "API/Event_DrivenReact_FastAPI)/_0 Event-Driven (React&FastAPI).md"
-    },
-    {
-      "basename": "_ 0 intro APIs for beginners",
-      "path": "API/APIs_for_beginners_youtube/_ 0 intro APIs for beginners.md"
-    },
-    {
-      "basename": "6 Styling React Component",
-      "path": "REACT/React - the Complete Guide/6 Styling React Component.md"
     }
   ],
   "omittedPaths": [],
