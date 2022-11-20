@@ -1,4 +1,4 @@
-[[0 Podstawy Angular]]
+[[JAVASCRIPT/Angular/Praktyczny kurs Angulara/0 Podstawy Angular]]
 
 
 ---

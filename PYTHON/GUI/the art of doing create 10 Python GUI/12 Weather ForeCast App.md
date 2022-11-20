@@ -55,7 +55,7 @@ temp_max_lbl.pack()
 humidity_lbl.pack()
 photo_lbl.pack(pady=8)
 
-# input frame laout
+# input frame layout
 
 #create  input frame btn and entry
 city_entry = Entry(input_frame, width=20, font=large_font)
