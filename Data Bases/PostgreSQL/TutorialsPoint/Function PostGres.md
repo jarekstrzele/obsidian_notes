@@ -1,4 +1,7 @@
 [[_ 0 PostgreSQL]]
+#postgresql/function
+
+
 
 > [! info] PostgreSQL functions / Sotred Procedures
 >- Allow you to carry out operations that would normally take several queries and round trips in a single function within the database.
