@@ -259,3 +259,33 @@ select ex06(taka.*) from ex06t taka;
 ```
 
 
+## Kwerenda, która nie zwraca rezultatu
+```sql
+CREATE table ex07t(id serial, name varchar(10), hiredate date) ;
+
+create or replace function ex07 (varchar, date)
+returns void 
+language plpgsql as
+$$
+ Begin 
+ 	insert into ex07t VALUES(default, $1, $2) ;
+	return ; 
+	end ;
+  
+$$ ;
+
+select ex07('Alibaba', '2123-07-02') ;
+select * from ex07t ;
+```
+
+### Kwerenda zwracające jeden wiersz
+
+
+
+
+
+
+
+
+
+
