@@ -213,7 +213,7 @@ CREATE TABLE ex05t(
 );
 ```
 
-```pl/pgsql
+```sql
 CREATE OR REPLACE FUNCTION ex05(ex05t.name%TYPE, ex05t.hiredate%TYPE)
 RETURNS text
 LANGUAGE plpgsql AS 
@@ -236,6 +236,26 @@ select ex05('Julia', '1009-01-01');
 aby skorzystać z pól: `zmienna.pole`
 
 `RECORD` ten typ jest wypełniany wartościami w czsie wykonani
+```sql
+CREATE TABLE ex06t(id serial, name varchar(10), hiredate date ) ;
 
+INSERT INTO ex06t VALUES (DEFAULT, 'KOWALSKI', '2007-01-01') ;
+INSERT INTO ex06t VALUES (DEFAULT, 'NOWAK', '2017-05-09') ;
+
+CREATE OR REPLACE FUNCTION ex06(ex06t)
+RETURNS text LANGUAGE plpgsql AS
+$$
+DECLARE
+	x ex06t;
+BEGIN
+	x.name := $1.name;
+	x.hiredate := $1.hiredate;
+	return x.name || '  zatrudniony od  ' || x.hiredate ;
+END
+
+$$;
+
+select ex06(taka.*) from ex06t taka;
+```
 
 
