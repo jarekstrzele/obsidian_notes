@@ -147,12 +147,28 @@ select ex01();
 
 CREATE OR REPLACE FUNCTION ex03(real)
 RETURNS real
-LANGUAGE plpgsql AS 
+LANGUAGE plpgsql AS
 $$
 BEGIN
-	returns $1*$1 ;
-END
+ RETURN $1*$1;
+END ;
+ 
 $$;
+
+
+CREATE OR REPLACE FUNCTION ex03(real, int)
+RETURNS real
+LANGUAGE plpgsql AS
+$$
+BEGIN
+ RETURN $1*$2;
+END ;
+ 
+$$;
+
+select ex03(10,21);
+
+
 
 
 
@@ -169,7 +185,24 @@ END;
 $$ language 'plpgsql';
 ```
 
-#### typ zmiennej określny przez atrybut tabeli
+
+### aliasy parametrów wejściowych
+```
+CREATE OR REPLACE FUNCTION ex04(real)
+RETURNS real
+$$
+DECLARE
+param ALIAS FOR $1;
+
+BEGIN
+	RETURN param*param ;
+END;
+$$
+```
+
+
+
+### typ zmiennej określny przez atrybut tabeli
 #### `zmienna tabela.atrybut%TYPE`
 
 ```sql
@@ -181,6 +214,7 @@ CREATE TABLE ex05t(
 ```
 
 ```pl/pgsql
+CREATE OR REPLACE FUNCTION ex05(ex05t.name%TYPE, ex05t.hiredate%TYPE)
 RETURNS text
 LANGUAGE plpgsql AS 
 $$
@@ -195,6 +229,8 @@ select ex05('Julia', '1009-01-01');
 ```
 
 
+### type wierszowy
 
+#### `nazwa tabela%ROWTYPE ;` -> wynikiem tej deklaracji jest zmienna zwierająca pola, po jednym dla każdej kolumny tabeli
 
 
