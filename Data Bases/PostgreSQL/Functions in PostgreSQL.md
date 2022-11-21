@@ -280,6 +280,54 @@ select * from ex07t ;
 
 ### Kwerenda zwracające jeden wiersz
 
+```sql
+INSERT INTO ex08t VALUES(Default, 'Anonim', '2222-02-02') ;
+
+
+create or replace function ex08 (varchar)
+returns text 
+language plpgsql as
+$$
+declare
+val record ;
+ Begin 
+ 	select * into val from ex08t where name=$1 ;
+	RETURN val.name || ' zatrudnionu ' || val.hiredate ;
+	end ;
+  
+$$ ;
+
+select ex08('Anonim') ;
+```
+
+### instrukcje warunkowe
+
+```sql
+create table ex10t (id serial, name varchar(10), sal numeric) ;
+
+CREATE or REPLACE FUNCTION ex10(varchar, numeric)
+returns integer 
+language plpgsql as
+$$
+DECLARE
+	err integer;
+BEGIN
+	if $2>=0 THEN
+		insert into ex10t values (default, $1, $2) ;
+	end if ;
+	get diagnostics err := row_count;
+	return err ;
+end ;
+$$ ;
+
+select ex10('kowalski', 1200); --zwraca 1
+select ex10('kiklok', -500) ; -- zwraca 0
+select * from ex10t; -- tylko jeden rekord
+```
+
+## Pętle
+
+
 
 
 
