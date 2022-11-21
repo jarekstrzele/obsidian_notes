@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REACT/React Mosh/3.1 Component vidly project.md",
+                "file": "REACT/React Mosh/3 Components.md",
                 "mode": "source",
                 "source": false
               }
@@ -225,7 +225,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REACT/React Mosh/3.1 Component vidly project.md",
+                "file": "REACT/React Mosh/3 Components.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -242,7 +242,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REACT/React Mosh/3.1 Component vidly project.md",
+                "file": "REACT/React Mosh/3 Components.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -265,7 +265,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REACT/React Mosh/3.1 Component vidly project.md"
+                "file": "REACT/React Mosh/3 Components.md"
               }
             }
           },
@@ -295,6 +295,7 @@
   },
   "active": "c35632da66ce4504",
   "lastOpenFiles": [
+    "REACT/React Mosh/3.1 Component vidly project.md",
     "REACT/React - the Complete Guide/_ 0 React Full.md",
     "Data Bases/PostgreSQL/Functions in PostgreSQL.md",
     "Data Bases/PostgreSQL/TutorialsPoint/Function PostGreSQL.md",
@@ -303,7 +304,6 @@
     "Data Bases/PostgreSQL/TutorialsPoint/Insert data.md",
     "Data Bases/PostgreSQL/TutorialsPoint/Create DB, tables.md",
     "Server/FTP.md",
-    "Data Bases/PostgreSQL/Postgres Complete Guide/_0 Strat PostgreSql CompleteGuide.md",
-    "Data Bases/PostgreSQL/Postgres Complete Guide/3 Working with Tables.md"
+    "Data Bases/PostgreSQL/Postgres Complete Guide/_0 Strat PostgreSql CompleteGuide.md"
   ]
 }
