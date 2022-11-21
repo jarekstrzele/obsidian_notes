@@ -231,6 +231,11 @@ select ex05('Julia', '1009-01-01');
 
 ### type wierszowy
 
-#### `nazwa tabela%ROWTYPE ;` -> wynikiem tej deklaracji jest zmienna zwierająca pola, po jednym dla każdej kolumny tabeli
+##### `nazwa tabela%ROWTYPE ;` -> wynikiem tej deklaracji jest zmienna zwierająca pola, po jednym dla każdej kolumny tabeli, na podstawie której powstała.
+
+aby skorzystać z pól: `zmienna.pole`
+
+`RECORD` ten typ jest wypełniany wartościami w czsie wykonani
+
 
 
