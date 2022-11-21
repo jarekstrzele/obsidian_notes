@@ -287,7 +287,7 @@ e.g. We have a list and we want to display items of the list or a msg if there a
 1. First way: define a method we these two conditions and in render method return `{this method with two condition}`
 2. Second way 
 `cond1 && cond2` if the first is true, JS checks the second, if this is true, return this last, so `true && "Hi"` returns `Hi` and `true && "Hi" && 1` returns `1`
-`{this.state.tags.length === 0 && "Please create a new tag"}`
+`{this.state.tags.length === 0 && "Please create a new tag" }`
 
 ## Handling Events
 
@@ -299,14 +299,16 @@ e.g. We have a list and we want to display items of the list or a msg if there a
  render() { 
         
         return (
-        <React.Fragment>
+ <React.Fragment>
            
-            <span  className={this.getBadgeClasses()} >{this.formatCount()} </span>
-            <button 
-                onClick={this.handleIncrement} 
-                className="btn btn-secondary btn-sm">
-            Increment 
-            </button>
+	  <span  className={this.getBadgeClasses()} >
+		  this.formatCount()} 
+	  </span>
+      <button 
+           onClick={this.handleIncrement} 
+           className="btn btn-secondary btn-sm">
+         Increment 
+       </button>
             
         </React.Fragment>
         );
