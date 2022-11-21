@@ -144,6 +144,19 @@ select ex01();
 
 ### funkcja z argumentami
 ```pl/pgsql
+
+CREATE OR REPLACE FUNCTION ex03(real)
+RETURNS real
+LANGUAGE plpgsql AS 
+$$
+BEGIN
+	returns $1*$1 ;
+END
+$$;
+
+
+
+
 create function zmienne1(int4) RETURNS float8 AS 
 $$
 DECLARE
