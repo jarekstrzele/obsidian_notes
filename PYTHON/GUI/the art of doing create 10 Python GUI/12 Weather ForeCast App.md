@@ -80,7 +80,8 @@ root.mainloop()
 https://openweathermap.org/api
 
 make an account: jsdydaktyk@gmail.com
-make your own api key
+make your own api key 
+
 
 look to the doc *current weather data* to see how to select by city, by zip
 
