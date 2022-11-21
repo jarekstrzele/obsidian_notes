@@ -326,7 +326,21 @@ select * from ex10t; -- tylko jeden rekord
 ```
 
 ## Pętle
+```sql
+create or replace function ex11(integer, integer)
+returns setof integer 
+language plpgsql AS
+$$
+begin
+	for i in $1 .. $2 LOOP
+		return next  2^i ;
+	end LOOP ;
+	return ;
+end
+$$;
 
+select * from ex11(3,10) ;
+```
 
 
 
