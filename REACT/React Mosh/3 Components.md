@@ -1,5 +1,23 @@
 [[_ 0 React Mosh]]
 
+---
+How to install the latest version of Node on Debian :
+https://phoenixnap.com/kb/debian-install-nodejs
+
+### Use `nvm`
+### to install `nvm`
+```
+curl https://raw.githubusercontent.com/creationix/nvm/master/install.sh | bash
+```
+
+`~./profile` restart terminal
+
+`nvm ls-remote` list
+`nvm install 18.12.1`
+
+---
+
+
 #react/create  #bootstrap  
 # Components (Counter app)
 I had some problems, to solve them:
