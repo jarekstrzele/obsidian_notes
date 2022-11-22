@@ -108,7 +108,36 @@ print("Done")
 # Property
 You can write `c1.loyalty` or `c1.__loyalty`. You have to write `c1.get_loyalty()`
 
-How 
+To get the functionality from function and notation from the dot notation => use property
+
+```python
+class Customer:
+  loyalty_levels = {"bronze", "gold", "platinum"}
+  
+  def __init__(self, loyalty):
+    #self.set_loyalty(loyalty)
+    self.loyalty = loyalty
+
+  def get_loyalty(self):
+    return self._loyalty
+
+  def set_loyalty(self, level):
+    if level not in self.__class__.loyalty_levels:
+      raise ValueError(f"Invalid loyalty {level} specified")
+
+    self._loyalty = level
+    
+  loyalty =property(fget=get_loyalty, fset=set_loyalty)
+
+c1 = Customer("bronze")
+
+print(c1.__dict__)
+print(c1.loyalty)
+c1.loyalty ="gold"
+print(c1.loyalty)
+
+print("Done")
+```
 
 
 
