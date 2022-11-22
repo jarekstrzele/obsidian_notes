@@ -2,6 +2,17 @@
 
 
 
+# Setting up our screen components
+
+
+add new folders:
+- `screen`, -> files 
+	- StartGameScreen.jsx
+	- GameScreen.jsx
+	- GameOverScreen.jsx
+- `components`
+
+StartGameScreen.jsx
 
 
 
