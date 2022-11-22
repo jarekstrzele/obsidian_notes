@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "1.7 Modal Screen",
+      "path": "REACT/REACT NATIVE/React Native Practical Guide/1.7 Modal Screen.md"
+    },
+    {
       "basename": "move images",
       "path": "PYTHON/GUI/Python Tkinter GUI youtube/move images.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "0 -  Intro React Front to Back 2022",
       "path": "REACT/React/Udemy React Front to Back 2022/0 -  Intro React Front to Back 2022.md"
-    },
-    {
-      "basename": "2 - React Basics & JSX",
-      "path": "REACT/modern React/2 - React Basics & JSX.md"
     }
   ],
   "omittedPaths": [],
