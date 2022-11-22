@@ -93,10 +93,22 @@ print("Done")
 
 # Private and Mangled Attributes
 
+the code above and changed by to dunderscore :
+```python
+   self.__loyalty = level
 
+c1 = Customer("bronze")
 
+print(c1.__dict__)
+print(c1.__loyalty)
+print(c1.__dict__) #{'_Customer__loyalty': 'bronze'}
+print("Done")
+```
 
+# Property
+You can write `c1.loyalty` or `c1.__loyalty`. You have to write `c1.get_loyalty()`
 
+How 
 
 
 
