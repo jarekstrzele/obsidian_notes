@@ -100,9 +100,18 @@ In your smartphone install `Expo Go` -> you can preview your Expo apps that are 
 ## Setting Up  a Local  Dev Environment
 
 https://snapcraft.io/install/android-studio/debian
+```bash
+
+sudo apt update
+sudo apt install snapd
+sudo snap install core
+
+
+sudo snap install android-studio --classic
+```
 
 INSTALL `Android Studio`
-- `More Actions` > `Vrtual Device Manager` > create virtual device (pixel 5 API 32) > play this virtual
+- `More Actions` > `Virtual Device Manager` > create virtual device (pixel 5 API 32) > play this virtual (play button to launch this emulator)-> exo need the Play Store play button
 
 `npm start` this process has to be running > `Press a | open Android` 
 
