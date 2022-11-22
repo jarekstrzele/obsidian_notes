@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Drag and Drop",
-      "path": "PYTHON/GUI/Python Tkinter GUI youtube/Drag and Drop.md"
+      "basename": "move images",
+      "path": "PYTHON/GUI/Python Tkinter GUI youtube/move images.md"
     },
     {
       "basename": "_ 0 Python Tkinter GUI",
       "path": "PYTHON/GUI/Python Tkinter GUI youtube/_ 0 Python Tkinter GUI.md"
+    },
+    {
+      "basename": "Canvas",
+      "path": "PYTHON/GUI/Python Tkinter GUI youtube/Canvas.md"
+    },
+    {
+      "basename": "Clock, date",
+      "path": "PYTHON/GUI/Python Tkinter GUI youtube/Clock, date.md"
+    },
+    {
+      "basename": "animations",
+      "path": "PYTHON/GUI/Python Tkinter GUI youtube/animations.md"
+    },
+    {
+      "basename": "new_window",
+      "path": "PYTHON/GUI/Python Tkinter GUI youtube/new_window.md"
+    },
+    {
+      "basename": "More animations",
+      "path": "PYTHON/GUI/Python Tkinter GUI youtube/More animations.md"
+    },
+    {
+      "basename": "Drag and Drop",
+      "path": "PYTHON/GUI/Python Tkinter GUI youtube/Drag and Drop.md"
     },
     {
       "basename": "Mouse_events",
@@ -175,30 +199,6 @@
     {
       "basename": "2 - React Basics & JSX",
       "path": "REACT/modern React/2 - React Basics & JSX.md"
-    },
-    {
-      "basename": "_ 0 Modern React 2022",
-      "path": "REACT/modern React/_ 0 Modern React 2022.md"
-    },
-    {
-      "basename": "_ 0 React Docs Samouczek",
-      "path": "REACT/Docs React tutorial/_ 0 React Docs Samouczek.md"
-    },
-    {
-      "basename": "example python with mongo",
-      "path": "API/REST API i Python Helion/example python with mongo.md"
-    },
-    {
-      "basename": "4 - testy",
-      "path": "API/REST API i Python Helion/4 - testy.md"
-    },
-    {
-      "basename": "3 - Struktura projektu",
-      "path": "API/REST API i Python Helion/3 - Struktura projektu.md"
-    },
-    {
-      "basename": "2.3 MongoDB",
-      "path": "API/REST API i Python Helion/2.3 MongoDB.md"
     }
   ],
   "omittedPaths": [],
