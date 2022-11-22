@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 [https://snack.expo.dev](https://snack.expo.dev)
 https://codesandbox.io
 
@@ -10,14 +10,9 @@ https://codesandbox.io
 [[2 Debugging React Native Apps]]
 [[3 mini game]]
 
-
-
-
-
-=======
 #udemy #Maximilian_Schwarzmuller #react_native 
 
->>>>>>> remotes/origin/master
+
 
 ---
 # React Native Practical Guide
