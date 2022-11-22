@@ -98,6 +98,8 @@ In your smartphone install `Expo Go` -> you can preview your Expo apps that are 
 
 
 ## Setting Up  a Local  Dev Environment
+
+
 INSTALL `Android Studio`
 - `More Actions` > `Vrtual Device Manager` > create virtual device (pixel 5 API 32) > play this virtual
 
