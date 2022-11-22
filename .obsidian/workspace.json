@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "efbf72bdfc996f2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "REACT/REACT NATIVE/React Native Practical Guide/3 mini game.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "87a46af3fe02b292",
             "type": "leaf",
             "state": {
@@ -151,7 +163,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -225,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REACT/REACT NATIVE/React Native Practical Guide/1.7 Modal Screen.md",
+                "file": "REACT/REACT NATIVE/React Native Practical Guide/3 mini game.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -242,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REACT/REACT NATIVE/React Native Practical Guide/1.7 Modal Screen.md",
+                "file": "REACT/REACT NATIVE/React Native Practical Guide/3 mini game.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -265,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REACT/REACT NATIVE/React Native Practical Guide/1.7 Modal Screen.md"
+                "file": "REACT/REACT NATIVE/React Native Practical Guide/3 mini game.md"
               }
             }
           },
@@ -293,17 +306,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c35632da66ce4504",
+  "active": "efbf72bdfc996f2e",
   "lastOpenFiles": [
+    "REACT/REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
+    "REACT/REACT NATIVE/React Native Practical Guide/3 mini game.md",
+    "REACT/REACT NATIVE/React Native Practical Guide/1.7 Modal Screen.md",
     "PYTHON/GUI/Python Tkinter GUI youtube/move images.md",
     "PYTHON/GUI/Python Tkinter GUI youtube/_ 0 Python Tkinter GUI.md",
     "PYTHON/GUI/Python Tkinter GUI youtube/Canvas.md",
     "PYTHON/GUI/Python Tkinter GUI youtube/Clock, date.md",
     "PYTHON/GUI/Python Tkinter GUI youtube/animations.md",
     "PYTHON/GUI/Python Tkinter GUI youtube/new_window.md",
-    "PYTHON/GUI/Python Tkinter GUI youtube/More animations.md",
-    "PYTHON/GUI/Python Tkinter GUI youtube/Drag and Drop.md",
-    "PYTHON/GUI/Python Tkinter GUI youtube/Mouse_events.md",
-    "PYTHON/GUI/Python Tkinter GUI youtube/Key event.md"
+    "PYTHON/GUI/Python Tkinter GUI youtube/More animations.md"
   ]
 }

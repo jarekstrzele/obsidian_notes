@@ -8,7 +8,7 @@ https://codesandbox.io
 ----
 [[1 React Native Basics]]
 [[2 Debugging React Native Apps]]
-
+[[3 mini game]]
 
 
 
