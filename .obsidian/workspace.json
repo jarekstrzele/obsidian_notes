@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PYTHON/GUI/Python Tkinter GUI youtube/Mouse_events.md",
+                "file": "PYTHON/GUI/Python Tkinter GUI youtube/Drag and Drop.md",
                 "mode": "source",
                 "source": false
               }
@@ -225,7 +225,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PYTHON/GUI/Python Tkinter GUI youtube/Mouse_events.md",
+                "file": "PYTHON/GUI/Python Tkinter GUI youtube/Drag and Drop.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -242,7 +242,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PYTHON/GUI/Python Tkinter GUI youtube/Mouse_events.md",
+                "file": "PYTHON/GUI/Python Tkinter GUI youtube/Drag and Drop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -265,7 +265,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PYTHON/GUI/Python Tkinter GUI youtube/Mouse_events.md"
+                "file": "PYTHON/GUI/Python Tkinter GUI youtube/Drag and Drop.md"
               }
             }
           },
@@ -296,6 +296,7 @@
   "active": "c35632da66ce4504",
   "lastOpenFiles": [
     "PYTHON/GUI/Python Tkinter GUI youtube/_ 0 Python Tkinter GUI.md",
+    "PYTHON/GUI/Python Tkinter GUI youtube/Mouse_events.md",
     "PYTHON/GUI/Python Tkinter GUI youtube/Key event.md",
     "PYTHON/GUI/the art of doing create 10 Python GUI/12 Weather ForeCast App.md",
     "REACT/React Mosh/3 Components.md",
@@ -303,7 +304,6 @@
     "REACT/React Mosh/4 Composing Components.md",
     "REACT/React - the Complete Guide/_ 0 React Full.md",
     "Data Bases/PostgreSQL/Functions in PostgreSQL.md",
-    "Data Bases/PostgreSQL/TutorialsPoint/Function PostGreSQL.md",
-    "Data Bases/PostgreSQL/Postgres Complete Guide/2 Filtering Records.md"
+    "Data Bases/PostgreSQL/TutorialsPoint/Function PostGreSQL.md"
   ]
 }

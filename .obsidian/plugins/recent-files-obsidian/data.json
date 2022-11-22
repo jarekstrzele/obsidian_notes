@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Mouse_events",
-      "path": "PYTHON/GUI/Python Tkinter GUI youtube/Mouse_events.md"
+      "basename": "Drag and Drop",
+      "path": "PYTHON/GUI/Python Tkinter GUI youtube/Drag and Drop.md"
     },
     {
       "basename": "_ 0 Python Tkinter GUI",
       "path": "PYTHON/GUI/Python Tkinter GUI youtube/_ 0 Python Tkinter GUI.md"
+    },
+    {
+      "basename": "Mouse_events",
+      "path": "PYTHON/GUI/Python Tkinter GUI youtube/Mouse_events.md"
     },
     {
       "basename": "Key event",
@@ -195,10 +199,6 @@
     {
       "basename": "2.3 MongoDB",
       "path": "API/REST API i Python Helion/2.3 MongoDB.md"
-    },
-    {
-      "basename": "2.2 Modele Pydantic",
-      "path": "API/REST API i Python Helion/2.2 Modele Pydantic.md"
     }
   ],
   "omittedPaths": [],
