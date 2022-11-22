@@ -5,6 +5,10 @@
       "path": "PYTHON/OOP Python udemy/4 Properties.md"
     },
     {
+      "basename": "3 Dunders",
+      "path": "PYTHON/OOP Python udemy/3 Dunders.md"
+    },
+    {
       "basename": "Functions in PostgreSQL",
       "path": "Data Bases/PostgreSQL/Functions in PostgreSQL.md"
     },
@@ -123,10 +127,6 @@
     {
       "basename": "_ 0 PostgreSQL",
       "path": "Data Bases/PostgreSQL/TutorialsPoint/_ 0 PostgreSQL.md"
-    },
-    {
-      "basename": "3 Dunders",
-      "path": "PYTHON/OOP Python udemy/3 Dunders.md"
     },
     {
       "basename": "2 ES6 Refresh",
