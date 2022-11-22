@@ -76,8 +76,25 @@ const PrimaryButton = (props) => {
 export default PrimaryButton ;
 ```
 
+PrimaryButton -> pressable and styling
+```jsx
+import {View, Text, Pressable} from 'react-native' ;
 
+const PrimaryButton = (props) => {
+  function pressHandler(){
+    console.log('Pressed!')
+  }
 
+  return (
+  <Pressable onPress={pressHandler}>
+    <View>
+      <Text> {props.children} </Text>
+    </View>
+  </Pressable>
+  )
+}
 
+export default PrimaryButton ;
+```
 
 
