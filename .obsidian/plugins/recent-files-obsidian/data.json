@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "3 Components",
+      "path": "REACT/React Mosh/3 Components.md"
+    },
+    {
+      "basename": "3.1 Component vidly project",
+      "path": "REACT/React Mosh/3.1 Component vidly project.md"
+    },
+    {
+      "basename": "4 Composing Components",
+      "path": "REACT/React Mosh/4 Composing Components.md"
+    },
+    {
+      "basename": "6 Styling React Component",
+      "path": "REACT/React - the Complete Guide/6 Styling React Component.md"
+    },
+    {
       "basename": "1.7 Modal Screen",
       "path": "REACT/REACT NATIVE/React Native Practical Guide/1.7 Modal Screen.md"
     },
@@ -101,18 +117,6 @@
       "path": "PYTHON/GUI/Python Tkinter GUI youtube/Key event.md"
     },
     {
-      "basename": "3 Components",
-      "path": "REACT/React Mosh/3 Components.md"
-    },
-    {
-      "basename": "3.1 Component vidly project",
-      "path": "REACT/React Mosh/3.1 Component vidly project.md"
-    },
-    {
-      "basename": "4 Composing Components",
-      "path": "REACT/React Mosh/4 Composing Components.md"
-    },
-    {
       "basename": "_ 0 React Full",
       "path": "REACT/React - the Complete Guide/_ 0 React Full.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "CI CD",
       "path": "CI CD.md"
-    },
-    {
-      "basename": "alpine",
-      "path": "alpine.md"
     }
   ],
   "omittedPaths": [],
