@@ -44,6 +44,30 @@
             }
           },
           {
+            "id": "d806c49cde14004c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "REACT/React Mosh/fake_movies.js.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6535780810e4b404",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "REACT/React Mosh/3.1 Component vidly project.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "87a46af3fe02b292",
             "type": "leaf",
             "state": {
@@ -116,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -258,17 +282,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b4758a4b8d2d5b9d",
+  "active": "6535780810e4b404",
   "lastOpenFiles": [
+    "REACT/React Mosh/fake_movies.js.md",
+    "REACT/React Mosh/fake_genders.js.md",
+    "REACT/React Mosh/3.1 Component vidly project.md",
     "REACT/React Mosh/3 Components.md",
     "REACT/REACT NATIVE/Android.md",
-    "REACT/React Mosh/3.1 Component vidly project.md",
     "REACT/React Mosh/4 Composing Components.md",
     "REACT/React - the Complete Guide/6 Styling React Component.md",
     "REACT/REACT NATIVE/React Native Practical Guide/1.7 Modal Screen.md",
     "REACT/REACT NATIVE/React Native Practical Guide/1.6 Press to Delete and Style it.md",
-    "REACT/REACT NATIVE/React Native Practical Guide/1.5. Splitting Components into Smaller Components.md",
-    "REACT/REACT NATIVE/React Native Practical Guide/1.2. Handling Events.md",
-    "REACT/REACT NATIVE/React Native Practical Guide/1 React Native Basics.md"
+    "REACT/REACT NATIVE/React Native Practical Guide/1.5. Splitting Components into Smaller Components.md"
   ]
 }

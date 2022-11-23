@@ -5,6 +5,14 @@
       "path": "REACT/React Mosh/3.1 Component vidly project.md"
     },
     {
+      "basename": "fake_movies.js",
+      "path": "REACT/React Mosh/fake_movies.js.md"
+    },
+    {
+      "basename": "fake_genders.js",
+      "path": "REACT/React Mosh/fake_genders.js.md"
+    },
+    {
       "basename": "3 Components",
       "path": "REACT/React Mosh/3 Components.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "GitHub Deep Dive",
       "path": "GitHub Deep Dive.md"
-    },
-    {
-      "basename": "From Local to Remote - GitHub",
-      "path": "From Local to Remote - GitHub.md"
-    },
-    {
-      "basename": "ES refresh",
-      "path": "ES refresh.md"
     }
   ],
   "omittedPaths": [],
