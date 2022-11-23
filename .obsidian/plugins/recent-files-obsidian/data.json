@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "1.7 Modal Screen",
+      "path": "REACT/REACT NATIVE/React Native Practical Guide/1.7 Modal Screen.md"
+    },
+    {
+      "basename": "1.6 Press to Delete and Style it",
+      "path": "REACT/REACT NATIVE/React Native Practical Guide/1.6 Press to Delete and Style it.md"
+    },
+    {
+      "basename": "1.5. Splitting Components into Smaller Components",
+      "path": "REACT/REACT NATIVE/React Native Practical Guide/1.5. Splitting Components into Smaller Components.md"
+    },
+    {
+      "basename": "1.2. Handling Events",
+      "path": "REACT/REACT NATIVE/React Native Practical Guide/1.2. Handling Events.md"
+    },
+    {
+      "basename": "1 React Native Basics",
+      "path": "REACT/REACT NATIVE/React Native Practical Guide/1 React Native Basics.md"
+    },
+    {
       "basename": "3 mini game",
       "path": "REACT/REACT NATIVE/React Native Practical Guide/3 mini game.md"
     },
@@ -47,10 +67,6 @@
     {
       "basename": "Create DB, tables",
       "path": "Data Bases/PostgreSQL/TutorialsPoint/Create DB, tables.md"
-    },
-    {
-      "basename": "1.7 Modal Screen",
-      "path": "REACT/REACT NATIVE/React Native Practical Guide/1.7 Modal Screen.md"
     },
     {
       "basename": "move images",
@@ -183,22 +199,6 @@
     {
       "basename": "alpine",
       "path": "alpine.md"
-    },
-    {
-      "basename": "React Full JS",
-      "path": "REACT/React Full JS.md"
-    },
-    {
-      "basename": "2 React Render HTML",
-      "path": "REACT/w3school/2 React Render HTML.md"
-    },
-    {
-      "basename": "1 ES6",
-      "path": "REACT/w3school/1 ES6.md"
-    },
-    {
-      "basename": "_ 0 w3school React",
-      "path": "REACT/w3school/_ 0 w3school React.md"
     }
   ],
   "omittedPaths": [],
