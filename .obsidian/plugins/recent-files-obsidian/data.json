@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Multi animations",
+      "path": "PYTHON/GUI/Python Tkinter GUI youtube/Multi animations.md"
+    },
+    {
+      "basename": "_ 0 Python Tkinter GUI",
+      "path": "PYTHON/GUI/Python Tkinter GUI youtube/_ 0 Python Tkinter GUI.md"
+    },
+    {
+      "basename": "move images",
+      "path": "PYTHON/GUI/Python Tkinter GUI youtube/move images.md"
+    },
+    {
+      "basename": "More animations",
+      "path": "PYTHON/GUI/Python Tkinter GUI youtube/More animations.md"
+    },
+    {
+      "basename": "Drag and Drop",
+      "path": "PYTHON/GUI/Python Tkinter GUI youtube/Drag and Drop.md"
+    },
+    {
       "basename": "3 Dunders",
       "path": "PYTHON/OOP Python udemy/3 Dunders.md"
     },
     {
       "basename": "Mouse_events",
       "path": "PYTHON/GUI/Python Tkinter GUI youtube/Mouse_events.md"
-    },
-    {
-      "basename": "_ 0 Python Tkinter GUI",
-      "path": "PYTHON/GUI/Python Tkinter GUI youtube/_ 0 Python Tkinter GUI.md"
     },
     {
       "basename": "7 Notepad",
@@ -153,24 +169,12 @@
       "path": "Data Bases/PostgreSQL/TutorialsPoint/Create DB, tables.md"
     },
     {
-      "basename": "move images",
-      "path": "PYTHON/GUI/Python Tkinter GUI youtube/move images.md"
-    },
-    {
       "basename": "Canvas",
       "path": "PYTHON/GUI/Python Tkinter GUI youtube/Canvas.md"
     },
     {
       "basename": "new_window",
       "path": "PYTHON/GUI/Python Tkinter GUI youtube/new_window.md"
-    },
-    {
-      "basename": "More animations",
-      "path": "PYTHON/GUI/Python Tkinter GUI youtube/More animations.md"
-    },
-    {
-      "basename": "Drag and Drop",
-      "path": "PYTHON/GUI/Python Tkinter GUI youtube/Drag and Drop.md"
     },
     {
       "basename": "Key event",
@@ -195,10 +199,6 @@
     {
       "basename": "_0 Strat PostgreSql CompleteGuide",
       "path": "Data Bases/PostgreSQL/Postgres Complete Guide/_0 Strat PostgreSql CompleteGuide.md"
-    },
-    {
-      "basename": "3 Working with Tables",
-      "path": "Data Bases/PostgreSQL/Postgres Complete Guide/3 Working with Tables.md"
     }
   ],
   "omittedPaths": [],

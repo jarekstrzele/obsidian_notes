@@ -10,7 +10,7 @@ https://www.youtube.com/watch?v=TuLxsvK4svQ
 [[Python Menu Bar]]     [[tabs.py]]    [[Progress bar]]   [[Canvas]]  
 [[Key event]]    [[Mouse_events]]     [[Drag and Drop]]   
 [[Move images]]       [[More animations]] 
-
+[[Multi animations]]
 
 
 ---------
