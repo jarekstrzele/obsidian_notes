@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "5.2 Chart",
+      "path": "REACT/React - the Complete Guide/5.2 Chart.md"
+    },
+    {
+      "basename": "5 Rendering Lists and Conditional content",
+      "path": "REACT/React - the Complete Guide/5 Rendering Lists and Conditional content.md"
+    },
+    {
+      "basename": "3.1 Component vidly project",
+      "path": "REACT/React Mosh/3.1 Component vidly project.md"
+    },
+    {
+      "basename": "4 Composing Components",
+      "path": "REACT/React Mosh/4 Composing Components.md"
+    },
+    {
       "basename": "Multi animations",
       "path": "PYTHON/GUI/Python Tkinter GUI youtube/Multi animations.md"
     },
@@ -81,10 +97,6 @@
       "path": "PYTHON/GUI/Tkinter/Calculater.md"
     },
     {
-      "basename": "3.1 Component vidly project",
-      "path": "REACT/React Mosh/3.1 Component vidly project.md"
-    },
-    {
       "basename": "fake_movies.js",
       "path": "REACT/React Mosh/fake_movies.js.md"
     },
@@ -99,10 +111,6 @@
     {
       "basename": "Android",
       "path": "REACT/REACT NATIVE/Android.md"
-    },
-    {
-      "basename": "4 Composing Components",
-      "path": "REACT/React Mosh/4 Composing Components.md"
     },
     {
       "basename": "6 Styling React Component",
@@ -191,14 +199,6 @@
     {
       "basename": "2 Filtering Records",
       "path": "Data Bases/PostgreSQL/Postgres Complete Guide/2 Filtering Records.md"
-    },
-    {
-      "basename": "FTP",
-      "path": "Server/FTP.md"
-    },
-    {
-      "basename": "_0 Strat PostgreSql CompleteGuide",
-      "path": "Data Bases/PostgreSQL/Postgres Complete Guide/_0 Strat PostgreSql CompleteGuide.md"
     }
   ],
   "omittedPaths": [],

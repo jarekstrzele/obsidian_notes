@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PYTHON/GUI/Python Tkinter GUI youtube/Multi animations.md",
+                "file": "REACT/React - the Complete Guide/5.2 Chart.md",
                 "mode": "source",
                 "source": false
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nvm",
+                "query": "list app",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -206,7 +206,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -226,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PYTHON/GUI/Python Tkinter GUI youtube/Multi animations.md",
+                "file": "REACT/React - the Complete Guide/5.2 Chart.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -243,7 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PYTHON/GUI/Python Tkinter GUI youtube/Multi animations.md",
+                "file": "REACT/React - the Complete Guide/5.2 Chart.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,7 +267,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PYTHON/GUI/Python Tkinter GUI youtube/Multi animations.md"
+                "file": "REACT/React - the Complete Guide/5.2 Chart.md"
               }
             }
           },
@@ -294,17 +295,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1308241a1dab0696",
+  "active": "71e065b19cb47489",
   "lastOpenFiles": [
-    "PYTHON/GUI/Python Tkinter GUI youtube/_ 0 Python Tkinter GUI.md",
+    "REACT/React - the Complete Guide/5 Rendering Lists and Conditional content.md",
+    "REACT/React Mosh/3.1 Component vidly project.md",
+    "REACT/React Mosh/4 Composing Components.md",
     "PYTHON/GUI/Python Tkinter GUI youtube/Multi animations.md",
+    "PYTHON/GUI/Python Tkinter GUI youtube/_ 0 Python Tkinter GUI.md",
     "PYTHON/GUI/Python Tkinter GUI youtube/move images.md",
     "PYTHON/GUI/Python Tkinter GUI youtube/More animations.md",
     "PYTHON/GUI/Python Tkinter GUI youtube/Drag and Drop.md",
     "PYTHON/OOP Python udemy/3 Dunders.md",
-    "PYTHON/GUI/Python Tkinter GUI youtube/Mouse_events.md",
-    "PYTHON/GUI/the art of doing create 10 Python GUI/7 Notepad.md",
-    "PYTHON/GUI/the art of doing create 10 Python GUI/_ basics GUI Python.md",
-    "PYTHON/GUI/the art of doing create 10 Python GUI/4 Metric Helper.md"
+    "PYTHON/GUI/Python Tkinter GUI youtube/Mouse_events.md"
   ]
 }
