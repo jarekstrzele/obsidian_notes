@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "3 Dunders",
+      "path": "PYTHON/OOP Python udemy/3 Dunders.md"
+    },
+    {
       "basename": "Mouse_events",
       "path": "PYTHON/GUI/Python Tkinter GUI youtube/Mouse_events.md"
     },
@@ -127,10 +131,6 @@
     {
       "basename": "4 Properties",
       "path": "PYTHON/OOP Python udemy/4 Properties.md"
-    },
-    {
-      "basename": "3 Dunders",
-      "path": "PYTHON/OOP Python udemy/3 Dunders.md"
     },
     {
       "basename": "Functions in PostgreSQL",
