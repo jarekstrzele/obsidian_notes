@@ -61,7 +61,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PYTHON/GUI/Tkinter/Tkinter 0.md",
+                "file": "PYTHON/GUI/the art of doing create 10 Python GUI/_ basics GUI Python.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1308241a1dab0696",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PYTHON/GUI/the art of doing create 10 Python GUI/7 Notepad.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -214,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PYTHON/GUI/Tkinter/Tkinter 0.md",
+                "file": "PYTHON/GUI/the art of doing create 10 Python GUI/7 Notepad.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -231,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PYTHON/GUI/Tkinter/Tkinter 0.md",
+                "file": "PYTHON/GUI/the art of doing create 10 Python GUI/7 Notepad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PYTHON/GUI/Tkinter/Tkinter 0.md"
+                "file": "PYTHON/GUI/the art of doing create 10 Python GUI/7 Notepad.md"
               }
             }
           },
@@ -282,17 +294,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6535780810e4b404",
+  "active": "1308241a1dab0696",
   "lastOpenFiles": [
+    "PYTHON/GUI/the art of doing create 10 Python GUI/_ basics GUI Python.md",
+    "PYTHON/GUI/the art of doing create 10 Python GUI/4 Metric Helper.md",
+    "PYTHON/GUI/the art of doing create 10 Python GUI/3 Hello GUI World.md",
+    "PYTHON/GUI/Tkinter/Tkinter 0.md",
     "PYTHON/GUI/Tkinter/Tkinter.md",
     "PYTHON/GUI/Tkinter/Icons, Images, Exit Button.md",
     "PYTHON/GUI/Python Tkinter GUI youtube/animations.md",
     "PYTHON/GUI/Python Tkinter GUI youtube/_ 0 Python Tkinter GUI.md",
     "PYTHON/GUI/Five most Popular Python Gui Libs.md",
-    "PYTHON/GUI/Tkinter/Widżety proste TkInter.md",
-    "PYTHON/GUI/Tkinter/Tkinter Pomidoro.md",
-    "PYTHON/GUI/Tkinter/Calculator simple.md",
-    "PYTHON/GUI/Tkinter/Calculater.md",
-    "REACT/React Mosh/3.1 Component vidly project.md"
+    "PYTHON/GUI/Tkinter/Widżety proste TkInter.md"
   ]
 }

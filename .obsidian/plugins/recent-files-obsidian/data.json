@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "7 Notepad",
+      "path": "PYTHON/GUI/the art of doing create 10 Python GUI/7 Notepad.md"
+    },
+    {
+      "basename": "_ basics GUI Python",
+      "path": "PYTHON/GUI/the art of doing create 10 Python GUI/_ basics GUI Python.md"
+    },
+    {
+      "basename": "4 Metric Helper",
+      "path": "PYTHON/GUI/the art of doing create 10 Python GUI/4 Metric Helper.md"
+    },
+    {
+      "basename": "3 Hello GUI World",
+      "path": "PYTHON/GUI/the art of doing create 10 Python GUI/3 Hello GUI World.md"
+    },
+    {
       "basename": "Tkinter 0",
       "path": "PYTHON/GUI/Tkinter/Tkinter 0.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "3 Working with Tables",
       "path": "Data Bases/PostgreSQL/Postgres Complete Guide/3 Working with Tables.md"
-    },
-    {
-      "basename": "Introduction",
-      "path": "Data Bases/PostgreSQL/Postgres_From_Zero_to_Hero 1/Introduction.md"
-    },
-    {
-      "basename": "_ intro sql postgresql",
-      "path": "Data Bases/PostgreSQL/SQL PostgreSQL Tutorial/_ intro sql postgresql.md"
-    },
-    {
-      "basename": "_ 0 PostgreSQL TUTORIAL",
-      "path": "Data Bases/PostgreSQL/Postgresql TUTORIAL/_ 0 PostgreSQL TUTORIAL.md"
-    },
-    {
-      "basename": "_ 0 PostgreSQL",
-      "path": "Data Bases/PostgreSQL/TutorialsPoint/_ 0 PostgreSQL.md"
     }
   ],
   "omittedPaths": [],
