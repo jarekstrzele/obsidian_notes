@@ -1,20 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "3.1 Component vidly project",
-      "path": "REACT/React Mosh/3.1 Component vidly project.md"
+      "basename": "6 Styling React Component (Simple React App)",
+      "path": "REACT/React - the Complete Guide/6 Styling React Component (Simple React App).md"
     },
     {
-      "basename": "_ basics GUI Python",
-      "path": "PYTHON/GUI/the art of doing create 10 Python GUI/_ basics GUI Python.md"
+      "basename": "Grafy",
+      "path": "algorithmic/Grafy.md"
+    },
+    {
+      "basename": "FTP",
+      "path": "Server/FTP.md"
+    },
+    {
+      "basename": "4 Properties",
+      "path": "PYTHON/OOP Python udemy/4 Properties.md"
+    },
+    {
+      "basename": "12 Weather ForeCast App",
+      "path": "PYTHON/GUI/the art of doing create 10 Python GUI/12 Weather ForeCast App.md"
     },
     {
       "basename": "5.2 Chart",
       "path": "REACT/React - the Complete Guide/5.2 Chart.md"
     },
     {
-      "basename": "Grafy",
-      "path": "algorithmic/Grafy.md"
+      "basename": "fake_movies.js",
+      "path": "REACT/React Mosh/fake_movies.js.md"
+    },
+    {
+      "basename": "3.1 Component vidly project",
+      "path": "REACT/React Mosh/3.1 Component vidly project.md"
+    },
+    {
+      "basename": "_ basics GUI Python",
+      "path": "PYTHON/GUI/the art of doing create 10 Python GUI/_ basics GUI Python.md"
     },
     {
       "basename": "_ 0 Grafy w Pythonie",
@@ -33,10 +53,6 @@
       "path": "PYTHON/3 simple ideas from functional programming to imporve your code.md"
     },
     {
-      "basename": "6 Styling React Component (Simple React App)",
-      "path": "REACT/React - the Complete Guide/6 Styling React Component (Simple React App).md"
-    },
-    {
       "basename": "3 Components",
       "path": "REACT/React Mosh/3 Components.md"
     },
@@ -47,18 +63,6 @@
     {
       "basename": "Functions in PostgreSQL",
       "path": "Data Bases/PostgreSQL/Functions in PostgreSQL.md"
-    },
-    {
-      "basename": "FTP",
-      "path": "Server/FTP.md"
-    },
-    {
-      "basename": "12 Weather ForeCast App",
-      "path": "PYTHON/GUI/the art of doing create 10 Python GUI/12 Weather ForeCast App.md"
-    },
-    {
-      "basename": "4 Properties",
-      "path": "PYTHON/OOP Python udemy/4 Properties.md"
     },
     {
       "basename": "5 Rendering Lists and Conditional content",
@@ -139,10 +143,6 @@
     {
       "basename": "Calculater",
       "path": "PYTHON/GUI/Tkinter/Calculater.md"
-    },
-    {
-      "basename": "fake_movies.js",
-      "path": "REACT/React Mosh/fake_movies.js.md"
     },
     {
       "basename": "fake_genders.js",
