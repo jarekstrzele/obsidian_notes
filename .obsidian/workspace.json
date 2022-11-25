@@ -173,14 +173,6 @@
               "type": "starred",
               "state": {}
             }
-          },
-          {
-            "id": "59cca95b41db3755",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
           }
         ]
       }
@@ -270,7 +262,40 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "80febc296318b700",
+  "floating": {
+    "id": "779604ea6c290a53",
+    "type": "floating",
+    "children": [
+      {
+        "id": "24c61f269216e836",
+        "type": "window",
+        "children": [
+          {
+            "id": "9f9cd394983834b9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "59cca95b41db3755",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1916,
+        "y": 19,
+        "width": 600,
+        "height": 600,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "59cca95b41db3755",
   "lastOpenFiles": [
     "PYTHON/GUI/the art of doing create 10 Python GUI/7 Notepad.md",
     "Data Bases/PostgreSQL/Functions in PostgreSQL.md",
