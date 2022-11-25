@@ -13,7 +13,7 @@
 
 > [!quotes] 
 > ==Graf prosty==  $G = (V, E)$ defniujemy jako:
-> uporządkowaną parę skªładającą się z :
+> uporządkowaną parę skąładającą się z :
 > 	- niepustego skończonego zbioru wierzchoªków $V$ , oraz ze 
 > 	- skończonego zbioru krawędzi $E$ (par wierzchołków) łączących te wierzchołki. Na rysunkach wierzchołki, inaczej nazywane węzłami, oznaczamy jako kółka z zapisaną w środku unikalną etykietą identyfikuącą wierzchołek, natomiast krawędzie jako proste odcinki pomiędzy nimi.
 
