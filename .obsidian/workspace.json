@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "algorithmic/Grafy w Pythonie/1. Wprowadzenie do grafów.md",
+                "file": "REACT/React - the Complete Guide/6 Styling React Component (Simple React App).md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithmic/Grafy w Pythonie/1. Wprowadzenie do grafów.md",
+                "file": "REACT/React - the Complete Guide/6 Styling React Component (Simple React App).md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorithmic/Grafy w Pythonie/1. Wprowadzenie do grafów.md",
+                "file": "REACT/React - the Complete Guide/6 Styling React Component (Simple React App).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algorithmic/Grafy w Pythonie/1. Wprowadzenie do grafów.md"
+                "file": "REACT/React - the Complete Guide/6 Styling React Component (Simple React App).md"
               }
             }
           },
@@ -155,6 +155,8 @@
   },
   "active": "0d9436e64a270afc",
   "lastOpenFiles": [
+    "REACT/React - the Complete Guide/5 Rendering Lists and Conditional content.md",
+    "algorithmic/Grafy w Pythonie/1. Wprowadzenie do grafów.md",
     "algorithmic/Grafy.md",
     "REACT/React - the Complete Guide/6 Styling React Component (Simple React App).md",
     "Server/FTP.md",
@@ -162,8 +164,6 @@
     "PYTHON/GUI/the art of doing create 10 Python GUI/12 Weather ForeCast App.md",
     "REACT/React - the Complete Guide/5.2 Chart.md",
     "REACT/React Mosh/fake_movies.js.md",
-    "REACT/React Mosh/3.1 Component vidly project.md",
-    "PYTHON/GUI/the art of doing create 10 Python GUI/_ basics GUI Python.md",
-    "algorithmic/Grafy w Pythonie/_ 0 Grafy w Pythonie.md"
+    "REACT/React Mosh/3.1 Component vidly project.md"
   ]
 }
