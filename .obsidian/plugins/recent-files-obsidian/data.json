@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "1. Wprowadzenie do grafów",
+      "path": "algorithmic/Grafy w Pythonie/1. Wprowadzenie do grafów.md"
+    },
+    {
+      "basename": "_ 0 Grafy w Pythonie",
+      "path": "algorithmic/Grafy w Pythonie/_ 0 Grafy w Pythonie.md"
+    },
+    {
+      "basename": "z 200 zadań z Pythona",
+      "path": "PYTHON/z 200 zadań z Pythona.md"
+    },
+    {
+      "basename": "3 simple ideas from functional programming to imporve your code",
+      "path": "PYTHON/3 simple ideas from functional programming to imporve your code.md"
+    },
+    {
       "basename": "6 Styling React Component (Simple React App)",
       "path": "REACT/React - the Complete Guide/6 Styling React Component (Simple React App).md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "Canvas",
       "path": "PYTHON/GUI/Python Tkinter GUI youtube/Canvas.md"
-    },
-    {
-      "basename": "new_window",
-      "path": "PYTHON/GUI/Python Tkinter GUI youtube/new_window.md"
-    },
-    {
-      "basename": "Key event",
-      "path": "PYTHON/GUI/Python Tkinter GUI youtube/Key event.md"
-    },
-    {
-      "basename": "_ 0 React Full",
-      "path": "REACT/React - the Complete Guide/_ 0 React Full.md"
-    },
-    {
-      "basename": "Function PostGreSQL",
-      "path": "Data Bases/PostgreSQL/TutorialsPoint/Function PostGreSQL.md"
     }
   ],
   "omittedPaths": [],
