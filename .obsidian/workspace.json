@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "algorithmic/Grafy.md",
-                "mode": "source",
+                "file": "algorithmic/Grafy w Pythonie/1. Wprowadzenie do grafów.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithmic/Grafy.md",
+                "file": "algorithmic/Grafy w Pythonie/1. Wprowadzenie do grafów.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorithmic/Grafy.md",
+                "file": "algorithmic/Grafy w Pythonie/1. Wprowadzenie do grafów.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algorithmic/Grafy.md"
+                "file": "algorithmic/Grafy w Pythonie/1. Wprowadzenie do grafów.md"
               }
             }
           },
@@ -155,8 +155,8 @@
   },
   "active": "0d9436e64a270afc",
   "lastOpenFiles": [
-    "REACT/React - the Complete Guide/6 Styling React Component (Simple React App).md",
     "algorithmic/Grafy.md",
+    "REACT/React - the Complete Guide/6 Styling React Component (Simple React App).md",
     "Server/FTP.md",
     "PYTHON/OOP Python udemy/4 Properties.md",
     "PYTHON/GUI/the art of doing create 10 Python GUI/12 Weather ForeCast App.md",
