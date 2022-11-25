@@ -121,14 +121,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "algorithmic/Grafy w Pythonie/1. Wprowadzenie do grafów.md",
+                "file": "algorithmic/Grafy.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -174,8 +174,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -195,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithmic/Grafy w Pythonie/1. Wprowadzenie do grafów.md",
+                "file": "REACT/React Mosh/3.1 Component vidly project.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -212,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorithmic/Grafy w Pythonie/1. Wprowadzenie do grafów.md",
+                "file": "REACT/React Mosh/3.1 Component vidly project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algorithmic/Grafy w Pythonie/1. Wprowadzenie do grafów.md"
+                "file": "REACT/React Mosh/3.1 Component vidly project.md"
               }
             }
           },
@@ -296,17 +295,17 @@
       }
     ]
   },
-  "active": "80febc296318b700",
+  "active": "efbf72bdfc996f2e",
   "lastOpenFiles": [
+    "PYTHON/GUI/the art of doing create 10 Python GUI/_ basics GUI Python.md",
+    "REACT/React - the Complete Guide/5.2 Chart.md",
+    "algorithmic/Grafy.md",
     "algorithmic/Grafy w Pythonie/_ 0 Grafy w Pythonie.md",
+    "algorithmic/Grafy w Pythonie/1. Wprowadzenie do grafów.md",
     "PYTHON/z 200 zadań z Pythona.md",
     "PYTHON/3 simple ideas from functional programming to imporve your code.md",
     "REACT/React - the Complete Guide/6 Styling React Component (Simple React App).md",
     "REACT/React Mosh/3 Components.md",
-    "PYTHON/GUI/the art of doing create 10 Python GUI/7 Notepad.md",
-    "Data Bases/PostgreSQL/Functions in PostgreSQL.md",
-    "Server/FTP.md",
-    "PYTHON/GUI/the art of doing create 10 Python GUI/12 Weather ForeCast App.md",
-    "PYTHON/OOP Python udemy/4 Properties.md"
+    "PYTHON/GUI/the art of doing create 10 Python GUI/7 Notepad.md"
   ]
 }
