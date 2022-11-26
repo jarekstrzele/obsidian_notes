@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "6 Styling React Component (Simple React App)",
-      "path": "REACT/React - the Complete Guide/6 Styling React Component (Simple React App).md"
+      "basename": "1. Wprowadzenie do grafów",
+      "path": "algorithmic/Grafy w Pythonie/1. Wprowadzenie do grafów.md"
+    },
+    {
+      "basename": "graf_skierowany.42.excalidraw",
+      "path": "Excalidraw/graf_skierowany.42.excalidraw.md"
     },
     {
       "basename": "Grafy",
       "path": "algorithmic/Grafy.md"
+    },
+    {
+      "basename": "6 Styling React Component (Simple React App)",
+      "path": "REACT/React - the Complete Guide/6 Styling React Component (Simple React App).md"
     },
     {
       "basename": "FTP",
@@ -39,10 +47,6 @@
     {
       "basename": "_ 0 Grafy w Pythonie",
       "path": "algorithmic/Grafy w Pythonie/_ 0 Grafy w Pythonie.md"
-    },
-    {
-      "basename": "1. Wprowadzenie do grafów",
-      "path": "algorithmic/Grafy w Pythonie/1. Wprowadzenie do grafów.md"
     },
     {
       "basename": "z 200 zadań z Pythona",
@@ -195,10 +199,6 @@
     {
       "basename": "Insert data",
       "path": "Data Bases/PostgreSQL/TutorialsPoint/Insert data.md"
-    },
-    {
-      "basename": "Create DB, tables",
-      "path": "Data Bases/PostgreSQL/TutorialsPoint/Create DB, tables.md"
     }
   ],
   "omittedPaths": [],

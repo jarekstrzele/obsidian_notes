@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REACT/React - the Complete Guide/6 Styling React Component (Simple React App).md",
-                "mode": "preview",
+                "file": "algorithmic/Grafy w Pythonie/1. Wprowadzenie do grafów.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -64,6 +64,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "aad6e2f11a660f1c",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REACT/React - the Complete Guide/6 Styling React Component (Simple React App).md",
+                "file": "algorithmic/Grafy w Pythonie/1. Wprowadzenie do grafów.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REACT/React - the Complete Guide/6 Styling React Component (Simple React App).md",
+                "file": "algorithmic/Grafy w Pythonie/1. Wprowadzenie do grafów.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REACT/React - the Complete Guide/6 Styling React Component (Simple React App).md"
+                "file": "algorithmic/Grafy w Pythonie/1. Wprowadzenie do grafów.md"
               }
             }
           },
@@ -155,15 +163,15 @@
   },
   "active": "0d9436e64a270afc",
   "lastOpenFiles": [
-    "REACT/React - the Complete Guide/5 Rendering Lists and Conditional content.md",
+    "Excalidraw/graf_skierowany.42.excalidraw.md",
     "algorithmic/Grafy w Pythonie/1. Wprowadzenie do grafów.md",
     "algorithmic/Grafy.md",
     "REACT/React - the Complete Guide/6 Styling React Component (Simple React App).md",
+    "REACT/React - the Complete Guide/5 Rendering Lists and Conditional content.md",
     "Server/FTP.md",
     "PYTHON/OOP Python udemy/4 Properties.md",
     "PYTHON/GUI/the art of doing create 10 Python GUI/12 Weather ForeCast App.md",
     "REACT/React - the Complete Guide/5.2 Chart.md",
-    "REACT/React Mosh/fake_movies.js.md",
-    "REACT/React Mosh/3.1 Component vidly project.md"
+    "REACT/React Mosh/fake_movies.js.md"
   ]
 }
