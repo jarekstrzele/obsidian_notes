@@ -5,6 +5,10 @@
       "path": "algorithmic/Grafy w Pythonie/1. Wprowadzenie do grafów.md"
     },
     {
+      "basename": "graf_prezesem.excalidraw",
+      "path": "Excalidraw/graf_prezesem.excalidraw.md"
+    },
+    {
       "basename": "graf_skierowany.42.excalidraw",
       "path": "Excalidraw/graf_skierowany.42.excalidraw.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Clock, date",
       "path": "PYTHON/GUI/Python Tkinter GUI youtube/Clock, date.md"
-    },
-    {
-      "basename": "Insert data",
-      "path": "Data Bases/PostgreSQL/TutorialsPoint/Insert data.md"
     }
   ],
   "omittedPaths": [],
