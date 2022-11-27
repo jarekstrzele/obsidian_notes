@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "collapse-filter": true,
   "search": "",
   "showTags": false,
@@ -9,39 +8,6 @@
   "collapse-color-groups": true,
   "colorGroups": [],
   "collapse-display": true,
-=======
-  "collapse-filter": false,
-  "search": "",
-  "showTags": false,
-  "showAttachments": true,
-  "hideUnresolved": true,
-  "showOrphans": true,
-  "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "tag:#python",
-      "color": {
-        "a": 1,
-        "rgb": 2803281
-      }
-    },
-    {
-      "query": "#javascript",
-      "color": {
-        "a": 1,
-        "rgb": 16775501
-      }
-    },
-    {
-      "query": "react",
-      "color": {
-        "a": 1,
-        "rgb": 3274473
-      }
-    }
-  ],
-  "collapse-display": false,
->>>>>>> remotes/origin/master
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
@@ -51,10 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-<<<<<<< HEAD
-  "scale": 0.10007261490236317,
-=======
-  "scale": 0.34147441013882746,
->>>>>>> remotes/origin/master
+  "scale": 0.09392927902846977,
   "close": false
 }
