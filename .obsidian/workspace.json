@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "algorithmic/Grafy w Pythonie/1. Wprowadzenie do grafów.md",
+                "file": "PYTHON/GUI/Python Tkinter GUI youtube/Clock, date.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithmic/Grafy w Pythonie/1. Wprowadzenie do grafów.md",
+                "file": "PYTHON/GUI/Python Tkinter GUI youtube/Clock, date.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorithmic/Grafy w Pythonie/1. Wprowadzenie do grafów.md",
+                "file": "PYTHON/GUI/Python Tkinter GUI youtube/Clock, date.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algorithmic/Grafy w Pythonie/1. Wprowadzenie do grafów.md"
+                "file": "PYTHON/GUI/Python Tkinter GUI youtube/Clock, date.md"
               }
             }
           },
@@ -163,15 +163,15 @@
   },
   "active": "0d9436e64a270afc",
   "lastOpenFiles": [
-    "Excalidraw/graf_ważony.excalidraw.md",
+    "PYTHON/GUI/Python Tkinter GUI youtube/File handler.md",
+    "PYTHON/GUI/Python Tkinter GUI youtube/New_window.md",
     "algorithmic/Grafy w Pythonie/1. Wprowadzenie do grafów.md",
+    "Excalidraw/graf_ważony.excalidraw.md",
     "Excalidraw/graf_prezesem.excalidraw.md",
     "algorithmic/Grafy w Pythonie/_ 0 Grafy w Pythonie.md",
     "Excalidraw/graf_skierowany.42.excalidraw.md",
     "algorithmic/Grafy.md",
     "REACT/React - the Complete Guide/6 Styling React Component (Simple React App).md",
-    "REACT/React - the Complete Guide/5 Rendering Lists and Conditional content.md",
-    "Server/FTP.md",
-    "PYTHON/OOP Python udemy/4 Properties.md"
+    "REACT/React - the Complete Guide/5 Rendering Lists and Conditional content.md"
   ]
 }

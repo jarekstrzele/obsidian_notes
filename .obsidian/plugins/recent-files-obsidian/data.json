@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Clock, date",
+      "path": "PYTHON/GUI/Python Tkinter GUI youtube/Clock, date.md"
+    },
+    {
+      "basename": "File handler",
+      "path": "PYTHON/GUI/Python Tkinter GUI youtube/File handler.md"
+    },
+    {
+      "basename": "New_window",
+      "path": "PYTHON/GUI/Python Tkinter GUI youtube/New_window.md"
+    },
+    {
       "basename": "1. Wprowadzenie do grafów",
       "path": "algorithmic/Grafy w Pythonie/1. Wprowadzenie do grafów.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "3 mini game",
       "path": "REACT/REACT NATIVE/React Native Practical Guide/3 mini game.md"
-    },
-    {
-      "basename": "_ 0 React Native - Practical Guide",
-      "path": "REACT/REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md"
-    },
-    {
-      "basename": "_ 0 React Native Mobile Apps",
-      "path": "REACT/REACT NATIVE/Building Mobile Apps with React Native/_ 0 React Native Mobile Apps.md"
-    },
-    {
-      "basename": "android studio",
-      "path": "REACT/REACT NATIVE/android studio.md"
     }
   ],
   "omittedPaths": [],
