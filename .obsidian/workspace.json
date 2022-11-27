@@ -11,11 +11,9 @@
             "id": "0d9436e64a270afc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "algorithmic/Grafy w Pythonie/1. Wprowadzenie do grafów.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/graf_prezesem.excalidraw.md"
               }
             }
           }
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithmic/Grafy w Pythonie/1. Wprowadzenie do grafów.md",
+                "file": "Excalidraw/graf_prezesem.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorithmic/Grafy w Pythonie/1. Wprowadzenie do grafów.md",
+                "file": "Excalidraw/graf_prezesem.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algorithmic/Grafy w Pythonie/1. Wprowadzenie do grafów.md"
+                "file": "Excalidraw/graf_prezesem.excalidraw.md"
               }
             }
           },
@@ -163,8 +161,8 @@
   },
   "active": "0d9436e64a270afc",
   "lastOpenFiles": [
-    "algorithmic/Grafy w Pythonie/_ 0 Grafy w Pythonie.md",
     "algorithmic/Grafy w Pythonie/1. Wprowadzenie do grafów.md",
+    "algorithmic/Grafy w Pythonie/_ 0 Grafy w Pythonie.md",
     "Excalidraw/graf_prezesem.excalidraw.md",
     "Excalidraw/graf_skierowany.42.excalidraw.md",
     "algorithmic/Grafy.md",
