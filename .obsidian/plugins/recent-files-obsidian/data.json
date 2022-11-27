@@ -5,6 +5,10 @@
       "path": "algorithmic/Grafy w Pythonie/1. Wprowadzenie do grafów.md"
     },
     {
+      "basename": "_ 0 Grafy w Pythonie",
+      "path": "algorithmic/Grafy w Pythonie/_ 0 Grafy w Pythonie.md"
+    },
+    {
       "basename": "graf_prezesem.excalidraw",
       "path": "Excalidraw/graf_prezesem.excalidraw.md"
     },
@@ -47,10 +51,6 @@
     {
       "basename": "_ basics GUI Python",
       "path": "PYTHON/GUI/the art of doing create 10 Python GUI/_ basics GUI Python.md"
-    },
-    {
-      "basename": "_ 0 Grafy w Pythonie",
-      "path": "algorithmic/Grafy w Pythonie/_ 0 Grafy w Pythonie.md"
     },
     {
       "basename": "z 200 zadań z Pythona",

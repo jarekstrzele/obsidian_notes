@@ -11,8 +11,12 @@
             "id": "0d9436e64a270afc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "algorithmic/Grafy w Pythonie/1. Wprowadzenie do grafów.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "algorithmic/Grafy w Pythonie/1. Wprowadzenie do grafów.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "algorithmic/Grafy w Pythonie/1. Wprowadzenie do grafów.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "algorithmic/Grafy w Pythonie/1. Wprowadzenie do grafów.md"
+              }
             }
           },
           {
@@ -155,6 +163,7 @@
   },
   "active": "0d9436e64a270afc",
   "lastOpenFiles": [
+    "algorithmic/Grafy w Pythonie/_ 0 Grafy w Pythonie.md",
     "algorithmic/Grafy w Pythonie/1. Wprowadzenie do grafów.md",
     "Excalidraw/graf_prezesem.excalidraw.md",
     "Excalidraw/graf_skierowany.42.excalidraw.md",
@@ -163,7 +172,6 @@
     "REACT/React - the Complete Guide/5 Rendering Lists and Conditional content.md",
     "Server/FTP.md",
     "PYTHON/OOP Python udemy/4 Properties.md",
-    "PYTHON/GUI/the art of doing create 10 Python GUI/12 Weather ForeCast App.md",
-    "REACT/React - the Complete Guide/5.2 Chart.md"
+    "PYTHON/GUI/the art of doing create 10 Python GUI/12 Weather ForeCast App.md"
   ]
 }
