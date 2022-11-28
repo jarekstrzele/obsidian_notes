@@ -1,4 +1,8 @@
+OBIEKTOWO
 
+
+
+----------
 First step
 ```python
 import tkinter
