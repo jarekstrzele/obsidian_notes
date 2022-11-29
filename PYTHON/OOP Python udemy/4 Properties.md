@@ -381,6 +381,10 @@ p.name="Matti Cash"
 ```
 
 
+## Managed properties/computed attributes, computed properties
+
+- these attributes don't have a variable supporting them byt are instead calculated dynamically
+- make a method and decorate it by `@property` , it will be read only property 
 
 
 
