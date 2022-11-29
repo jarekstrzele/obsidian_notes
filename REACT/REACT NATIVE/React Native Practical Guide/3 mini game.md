@@ -239,9 +239,22 @@ const styles = StyleSheet.create({
 ```
 
 
+#### imporoving btns
 
+in StartGameScreem
+```jsx
+const styles = StyleSheet.create({
 
+  inputContainer: {
 
+    justifyContent: 'center',
+
+    alignItems: 'center',
+```
+
+other changes
+
+to position buts next to each other you have to wrap them into seperated `View`
 
 
 
