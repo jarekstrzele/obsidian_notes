@@ -243,6 +243,8 @@ print("Done")
 >	- no change in the function passed as a argument
 
 ### some explanation
+
+#### functions
 ```python
 def ten_times(x):
     return x*10
@@ -288,7 +290,7 @@ xxx = outer()
 print(xxx())
 ```
 
-### closures
+#### closures
 #python/closure 
 
 >[! important] closure
@@ -306,7 +308,10 @@ greeting = greet("Hans Solo")
 greeting()
 ```
 
-`make_complex_greeting` remembers a 
+`make_complex_greeting` remembers the variable `how` and this function and variable `how` are closure
+
+### decorators
+
 
 
 
