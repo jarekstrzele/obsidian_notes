@@ -362,3 +362,32 @@ for i in range(6):
     print(lotto())
 ```
 
+
+## Read or Write Onlyt Properties
+
+==read only== set only getter property
+```python
+class Pirate:
+    def __init__(self, name):
+        self._name=name
+        
+    @property 
+    def name(self):
+        return self._name
+
+p = Pirate("Sparrow")
+print(p.name)
+p.name="Matti Cash"
+```
+
+
+
+
+
+
+
+
+
+
+
+
