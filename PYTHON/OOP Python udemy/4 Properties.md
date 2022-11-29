@@ -192,7 +192,51 @@ for k,v in Customer.__dict__.items():
 
 
 ## Decorator syntax
+```python
 
+class Customer:
+  loyalty_levels = {"bronze", "gold", "platinum"}
+  
+  def __init__(self, loyalty, membership):
+    self.loyalty = loyalty #self.set_loyalty(loyalty)
+    self.membership = membership
 
+  
+  @property    
+  def membership(self):
+    return self._membership
+  
+  @membership.setter
+  def membership(self, years):
+    if years < 0 or years > 30:
+      raise ValueError("Invalid years, allowed values: <0,30>")
+    self._membership = years
 
+  @property
+  def loyalty(self):
+    return self._loyalty
+
+  @loyalty.setter
+  def loyalty(self, level):
+    if level not in self.__class__.loyalty_levels:
+      raise ValueError(f"Invalid loyalty {level} specified")
+
+    self._loyalty = level
+   
+c1 = Customer("bronze", 12)
+
+print(c1.__dict__)
+print(c1.loyalty)
+c1.membership=12
+print(c1.membership)
+ 
+print("Done")
+```
+
+>[[!info]] decorator
+>It is a function that:
+>	- takes another function as an argument
+>	- adds some functionality
+>	- returns it
+>	- no change in the function passed as a argument
 
