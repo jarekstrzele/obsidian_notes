@@ -256,6 +256,79 @@ other changes
 
 to position buts next to each other you have to wrap them into seperated `View`
 
+```jsx
+  
+
+  return (
+
+<View style={styles.inputContainer}>
+
+  <TextInput style={styles.numberInput} maxLength={2}  
+
+            keyboardType="number-pad"
+
+            autoCapitalize="none" autoCorrect={false} />
+
+  <View>
+
+    <PrimaryButton> Reset </PrimaryButton>
+
+    <PrimaryButton> Confirm </PrimaryButton>
+
+  </View>
+
+</View>
+
+  );
+
+}
+
+  
+
+export default StartGameScreen ;
+
+  
+
+const styles = StyleSheet.create({
+
+  inputContainer: {
+
+    justifyContent: 'center',
+
+    alignItems: 'center',
+
+    marginTop: 100,
+
+    padding: 10,
+
+    marginHorizontal: 24,
+```
+
+
+another change
+add  to Style
+```jsx
+<View style={styles.btnsContainer}>
+
+    <PrimaryButton> Reset </PrimaryButton>
+
+    <PrimaryButton> Confirm </PrimaryButton>
+
+  </View>
+...
+btnsContainer:{
+
+    flexDirection: 'row'
+
+  }
+```
+
+
+
+
+
+
+
 
 
 
