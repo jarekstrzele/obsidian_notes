@@ -311,8 +311,54 @@ greeting()
 `make_complex_greeting` remembers the variable `how` and this function and variable `how` are closure
 
 ### decorators
+```python
+from random import randint
 
+def lotto():
+    return randint(1,49)
+    
+for i in range(6):
+    print(lotto())
+```
 
+with some decorator:
+```python
+from random import randint
 
+def lotto():
+    return randint(1,49)
+    
+for i in range(6):
+    print(lotto())
+    
+def even_or_odd(func):
+    def inner():
+        num=func()
+        print(f"The numer {num} is {'even' if num % 2 == 0 else 'odd'}" )
+    
+    return inner
 
+lotto = even_or_odd(lotto)
+for i in range(6):
+    print(lotto())
+```
+
+the same with `@`
+```python
+from random import randint
+    
+def even_or_odd(func):
+    def inner():
+        num=func()
+        print(f"The numer {num} is {'even' if num % 2 == 0 else 'odd'}" )
+    
+    return inner
+
+@even_or_odd
+def lotto():
+    return randint(1,49)
+
+for i in range(6):
+    print(lotto())
+```
 
