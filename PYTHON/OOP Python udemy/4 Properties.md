@@ -275,9 +275,39 @@ print(outer())
 
 ```
 
-	and return a reference to this inner function
+and return a reference to this inner function
 ```python
-
+def outer():
+    def inner():
+        return "inner function is comming"
+    
+    return inner
+    
+print(outer())
+xxx = outer()
+print(xxx())
 ```
+
+### closures
+#python/closure 
+
+>[! important] closure
+>It is a nested function that has access to a variable in its outer enclosing scope
+
+```python
+def greet(who):
+    how = " Hello my friend! You are "
+    def make_complex_greeting():
+        print(f"{how} {who}! And I come from inner function")
+    
+    return make_complex_greeting
+    
+greeting = greet("Hans Solo")
+greeting()
+```
+
+`make_complex_greeting` remembers a 
+
+
 
 
