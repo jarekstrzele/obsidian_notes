@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "_ 0 ReactNative docs",
+      "path": "REACT/REACT NATIVE/Docs reactnative/_ 0 ReactNative docs.md"
+    },
+    {
+      "basename": "_ 0 React Native Mobile Apps",
+      "path": "REACT/REACT NATIVE/Building Mobile Apps with React Native/_ 0 React Native Mobile Apps.md"
+    },
+    {
+      "basename": "4 - React Native - Gesture handlers",
+      "path": "REACT/REACT NATIVE/Building Mobile Apps with React Native/4 - React Native - Gesture handlers.md"
+    },
+    {
+      "basename": "5 - React Native - XMLHttpRequest",
+      "path": "REACT/REACT NATIVE/Building Mobile Apps with React Native/5 - React Native - XMLHttpRequest.md"
+    },
+    {
+      "basename": "React Native - Gesture handlers",
+      "path": "REACT/REACT NATIVE/Building Mobile Apps with React Native/React Native - Gesture handlers.md"
+    },
+    {
       "basename": "4 Properties",
       "path": "PYTHON/OOP Python udemy/4 Properties.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "_ 0 Python Tkinter GUI",
       "path": "PYTHON/GUI/Python Tkinter GUI youtube/_ 0 Python Tkinter GUI.md"
-    },
-    {
-      "basename": "Drag and Drop",
-      "path": "PYTHON/GUI/Python Tkinter GUI youtube/Drag and Drop.md"
-    },
-    {
-      "basename": "Mouse_events",
-      "path": "PYTHON/GUI/Python Tkinter GUI youtube/Mouse_events.md"
-    },
-    {
-      "basename": "Tkinter 0",
-      "path": "PYTHON/GUI/Tkinter/Tkinter 0.md"
-    },
-    {
-      "basename": "Tkinter",
-      "path": "PYTHON/GUI/Tkinter/Tkinter.md"
-    },
-    {
-      "basename": "Icons, Images, Exit Button",
-      "path": "PYTHON/GUI/Tkinter/Icons, Images, Exit Button.md"
     }
   ],
   "omittedPaths": [],

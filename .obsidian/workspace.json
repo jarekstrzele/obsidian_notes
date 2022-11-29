@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PYTHON/OOP Python udemy/4 Properties.md",
+                "file": "REACT/REACT NATIVE/Docs reactnative/_ 0 ReactNative docs.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 424.5
   },
   "right": {
     "id": "ec7d1a70da2de581",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PYTHON/OOP Python udemy/4 Properties.md",
+                "file": "REACT/REACT NATIVE/Docs reactnative/_ 0 ReactNative docs.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PYTHON/OOP Python udemy/4 Properties.md",
+                "file": "REACT/REACT NATIVE/Docs reactnative/_ 0 ReactNative docs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PYTHON/OOP Python udemy/4 Properties.md"
+                "file": "REACT/REACT NATIVE/Docs reactnative/_ 0 ReactNative docs.md"
               }
             }
           },
@@ -163,15 +163,15 @@
   },
   "active": "0d9436e64a270afc",
   "lastOpenFiles": [
-    "PYTHON/OOP Python udemy/3 Dunders.md",
+    "REACT/REACT NATIVE/Building Mobile Apps with React Native/_ 0 React Native Mobile Apps.md",
+    "REACT/REACT NATIVE/Building Mobile Apps with React Native/4 - React Native - Gesture handlers.md",
+    "REACT/REACT NATIVE/Building Mobile Apps with React Native/5 - React Native - XMLHttpRequest.md",
+    "REACT/REACT NATIVE/Building Mobile Apps with React Native/React Native - Gesture handlers.md",
     "PYTHON/OOP Python udemy/4 Properties.md",
+    "PYTHON/OOP Python udemy/3 Dunders.md",
     "PYTHON/GUI/Python Tkinter GUI youtube/Multi animations.md",
     "PYTHON/GUI/Python Tkinter GUI youtube/More animations.md",
     "PYTHON/GUI/the art of doing create 10 Python GUI/7 Notepad.md",
-    "PYTHON/GUI/the art of doing create 10 Python GUI/3 Hello GUI World.md",
-    "PYTHON/GUI/the art of doing create 10 Python GUI/4 Metric Helper.md",
-    "PYTHON/GUI/Python Tkinter GUI youtube/Clock, date.md",
-    "PYTHON/GUI/Python Tkinter GUI youtube/move images.md",
-    "Object Pascal/DB with Delphi/MySQL wit Delphi 10.md"
+    "PYTHON/GUI/the art of doing create 10 Python GUI/3 Hello GUI World.md"
   ]
 }
