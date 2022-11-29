@@ -139,7 +139,48 @@ print("Done")
 ```
 
 
+add a new attr membership
+```python
 
+class Customer:
+  loyalty_levels = {"bronze", "gold", "platinum"}
+  
+  def __init__(self, loyalty, membership):
+    self.loyalty = loyalty #self.set_loyalty(loyalty)
+    self.membership = membership
+
+  
+
+  def get_membership(self):
+    return self._membership
+
+  def set_membership(self, years):
+    if years < 0 or years > 30:
+      raise ValueError("Invalid years, allowed values: <0,30>")
+    self._membership = years
+
+
+  def get_loyalty(self):
+    return self._loyalty
+
+  def set_loyalty(self, level):
+    if level not in self.__class__.loyalty_levels:
+      raise ValueError(f"Invalid loyalty {level} specified")
+
+    self._loyalty = level
+    
+  loyalty = property(fget=get_loyalty, fset=set_loyalty)
+  membership = property(fget= get_membership, fset=set_membership) 
+
+c1 = Customer("bronze", 12)
+
+print(c1.__dict__)
+print(c1.loyalty)
+c1.membership=12
+print(c1.membership)
+# c1.membership +=33 # ValueError
+print("Done")
+```
 
 
 
