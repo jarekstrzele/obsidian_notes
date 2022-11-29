@@ -99,12 +99,87 @@ const PrimaryButton = (props) => {
 export default PrimaryButton ;
 ```
 
+#### styling button
 
 
+```jsx
+import {View, Text, Pressable, StyleSheet} from 'react-native' ;
+
+const PrimaryButton = (props) => {
+  function pressHandler(){
+    console.log('Pressed!')
+  }
+
+  return (
+   <View style={styles.btnContainer} android_ripple={{color:'dark'}}>
+      <Pressable onPress={pressHandler} >
+          <Text style={styles.btnText}> {props.children} </Text>  
+      </Pressable>  
+  </View>
+  )
+}
+
+export default PrimaryButton ;
+  
+
+const styles = StyleSheet.create({
+  btnContainer:{
+    backgroundColor: '#25979c',
+    borderRadius: 28,
+    paddingVertical: 8,
+    paddingHorizontal: 16,
+    elevation: 2,
+    margin: 4,
+  },
+
+  btnText:{
+    color:'white',
+    textAlign: 'center'
+  }
+
+});
+```
+
+to ripple effect inside:
+- change `View` with `Pressable` (like above)
+- and make two container styles
+
+```jsx
+return (
+
+   <View style={styles.btnOuterContainer} android_ripple={{color:'dark'}}>
+
+      <Pressable style={styles.btnInnerContainer} onPress={pressHandler} >
+
+          <Text style={styles.btnText}> {props.children} </Text>  
+
+      </Pressable>  
+
+  </View>
+
+  )
+ 
+const styles = StyleSheet.create({
+  btnOuterContainer:{
+    borderRadius: 28,
+    margin: 4,
+    overflow: 'hidden'
+  },
+  btnInnerContainer:{
+    backgroundColor: '#25979c',
+    paddingVertical: 8,
+    paddingHorizontal: 16,
+    elevation: 2,
+  },
+  btnText:{
+    color:'white',
+    textAlign: 'center'
+  }
+});
+```
 
 
-
-
+##### for iOS you have to add another style
 
 
 
