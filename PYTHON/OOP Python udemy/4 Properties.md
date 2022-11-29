@@ -363,7 +363,7 @@ for i in range(6):
 ```
 
 
-## Read or Write Onlyt Properties
+## Read  Only Properties
 
 ==read only== set only getter property
 ```python
