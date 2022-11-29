@@ -386,8 +386,61 @@ p.name="Matti Cash"
 - these attributes don't have a variable supporting them byt are instead calculated dynamically
 - make a method and decorate it by `@property` , it will be read only property 
 
+without property
+```python
+class Student:
+    def __init__(self, name):
+        self.name=name
+        self._marks=[]
+    
+    def add_mark(self, mark):
+        if type(mark) != int or 0 < mark < 6:
+            ValueError("This is not a correct value")
+            
+        self._marks.append(mark)
+        
+    def average(self):
+        return sum(self._marks) / len(self._marks)
+        
+
+kacper=Student("Kacper")
+kacper.add_mark(2)
+kacper.add_mark(6)
+kacper.add_mark(4)
+print(kacper.average())
+print(kacper.average)
+
+```
 
 
+with property
+```python
+class Student:
+    def __init__(self, name):
+        self.name=name
+        self._marks=[]
+    
+    def add_mark(self, mark):
+        if type(mark) != int or 0 < mark < 6:
+            ValueError("This is not a correct value")
+            
+        self._marks.append(mark)
+    
+    @property    
+    def average(self):
+        return sum(self._marks) / len(self._marks)
+        
+
+kacper=Student("Kacper")
+kacper.add_mark(2)
+kacper.add_mark(6)
+kacper.add_mark(4)
+
+print(kacper.average)
+
+
+
+```
 
 
 
