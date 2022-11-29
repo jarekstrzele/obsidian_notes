@@ -115,8 +115,7 @@ class Customer:
   loyalty_levels = {"bronze", "gold", "platinum"}
   
   def __init__(self, loyalty):
-    #self.set_loyalty(loyalty)
-    self.loyalty = loyalty
+    self.loyalty = loyalty #self.set_loyalty(loyalty)
 
   def get_loyalty(self):
     return self._loyalty
