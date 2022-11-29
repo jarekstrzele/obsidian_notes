@@ -191,7 +191,9 @@ for k,v in Customer.__dict__.items():
 - properties take precedence over instance attributes of the same name
 
 
-## Decorator syntax
+## Decorator 
+
+### syntax
 ```python
 
 class Customer:
@@ -239,4 +241,43 @@ print("Done")
 >	- adds some functionality
 >	- returns it
 >	- no change in the function passed as a argument
+
+### some explanation
+```python
+def ten_times(x):
+    return x*10
+
+print(ten_times(12))
+new_old_func=ten_times
+print(new_old_func(12))
+
+
+def pass_two_to(func):
+    two = 2
+    
+    return func(two)
+    
+print(pass_two_to(ten_times))
+```
+
+defining function within a another function
+	and return a result of this inner function
+```python
+def outer():
+    def inner():
+        return "inner function"
+    
+    result=inner()
+    
+    return result
+    
+print(outer())
+
+```
+
+	and return a reference to this inner function
+```python
+
+```
+
 
