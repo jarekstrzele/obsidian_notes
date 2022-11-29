@@ -115,7 +115,18 @@ INSTALL `Android Studio`
 
 `npm start` this process has to be running > `Press a | open Android` 
 
+> som problems in Mint
+> Had the same issue: ANDROID_HOME is set to a non-existing path I had to set the environment variables by adding the correct path (Linux Mint)   edit the .bashrc file using nano or gedit or whatever it is you use and add the following paths to that file
+```bash
+export ANDROID_HOME=${HOME}/Android/Sdk  
+export PATH=${ANDROID_HOME}/tools:${PATH}  
+export PATH=${ANDROID_HOME}/emulator:${PATH}  
+export PATH=${ANDROID_HOME}/platform-tools:${PATH}
+```
+then
+`source .bashrc`
 
+worked for me
 
 
 
