@@ -182,10 +182,16 @@ print(c1.membership)
 print("Done")
 ```
 
+### You find these properties in the class dict:
+```python
+for k,v in Customer.__dict__.items():
+    print(f'key ({k}): value({v}' )
+```
+-  all the properties we define live in the class' mappingproxy, not the instance dictionary
+- properties take precedence over instance attributes of the same name
 
 
-
-
+## Decorator syntax
 
 
 
