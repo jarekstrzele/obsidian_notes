@@ -323,7 +323,20 @@ btnsContainer:{
   }
 ```
 
+to make button equal width:
+```jsx
+<View>
 
+     <PrimaryButton> Reset </PrimaryButton>
+
+   </View>
+
+   <View>
+
+     <PrimaryButton> Confirm </PrimaryButton>
+
+   </View>
+```
 
 
 
