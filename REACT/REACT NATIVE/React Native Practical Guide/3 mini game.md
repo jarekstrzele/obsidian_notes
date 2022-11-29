@@ -147,9 +147,12 @@ to ripple effect inside:
 ```jsx
 return (
 
-   <View style={styles.btnOuterContainer} android_ripple={{color:'dark'}}>
+   <View style={styles.btnOuterContainer} >
 
-      <Pressable style={styles.btnInnerContainer} onPress={pressHandler} >
+      <Pressable 
+	      style={styles.btnInnerContainer} 
+	      onPress={pressHandler} 
+	      android_ripple={{color:'dark'}}>
 
           <Text style={styles.btnText}> {props.children} </Text>  
 
@@ -181,7 +184,59 @@ const styles = StyleSheet.create({
 
 ##### for iOS you have to add another style
 
+```jsx
+  
 
+  return (
+
+   <View style={styles.btnOuterContainer} >
+
+      <Pressable
+
+        style={(pressed) =>
+
+          pressed
+
+            ? [styles.btnInnerContainer, styles.pressed]
+
+            : styles.btnInnerContainer
+
+          }
+
+        onPress={pressHandler}
+
+        android_ripple={{color:'dark'}}
+
+      >
+
+          <Text style={styles.btnText}> {props.children} </Text>  
+
+      </Pressable>  
+
+  </View>
+
+  )
+
+}
+
+ btnText:{
+
+    color:'white',
+
+    textAlign: 'center'
+
+  },
+
+  pressed:{
+
+    opacity: 0.75,
+
+  }
+
+  
+
+});
+```
 
 
 
