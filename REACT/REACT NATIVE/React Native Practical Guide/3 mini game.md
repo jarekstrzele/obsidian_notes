@@ -23,7 +23,7 @@ function StartGameScreen() {
 <View style={styles.inputContainer}>
   <TextInput style={styles.numberInput} maxLength={2}  
             keyboardType="number-pad"
-            autoCapitalize="none" autoComplete={false} />
+            autoCapitalize="none" autoCorrect={false} />
   <PrimaryButton> Reset </PrimaryButton>
   <PrimaryButton> Confirm </PrimaryButton>
 </View>
@@ -76,7 +76,9 @@ const PrimaryButton = (props) => {
 export default PrimaryButton ;
 ```
 
-PrimaryButton -> pressable and styling
+
+
+## PrimaryButton -> pressable and styling
 ```jsx
 import {View, Text, Pressable} from 'react-native' ;
 
@@ -96,5 +98,22 @@ const PrimaryButton = (props) => {
 
 export default PrimaryButton ;
 ```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
