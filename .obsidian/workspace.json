@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REACT/REACT NATIVE/React Native Practical Guide/1 React Native Basics.md",
+                "file": "Data Bases/PostgreSQL/Postgres Complete Guide/2 Filtering Records.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REACT/REACT NATIVE/React Native Practical Guide/1 React Native Basics.md",
+                "file": "Data Bases/PostgreSQL/Postgres Complete Guide/2 Filtering Records.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REACT/REACT NATIVE/React Native Practical Guide/1 React Native Basics.md",
+                "file": "Data Bases/PostgreSQL/Postgres Complete Guide/2 Filtering Records.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REACT/REACT NATIVE/React Native Practical Guide/1 React Native Basics.md"
+                "file": "Data Bases/PostgreSQL/Postgres Complete Guide/2 Filtering Records.md"
               }
             }
           },
@@ -163,15 +163,15 @@
   },
   "active": "0d9436e64a270afc",
   "lastOpenFiles": [
+    "Data Bases/PostgreSQL/Postgres Complete Guide/3 Working with Tables.md",
+    "Data Bases/PostgreSQL/Postgres Complete Guide/_0 Strat PostgreSql CompleteGuide.md",
+    "REACT/REACT NATIVE/React Native Practical Guide/1 React Native Basics.md",
     "REACT/REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
     "REACT/REACT NATIVE/Android.md",
     "REACT/REACT NATIVE/React Native Practical Guide/3 mini game.md",
     "REACT/REACT NATIVE/React Native Practical Guide/2 Debugging React Native Apps.md",
     "REACT/REACT NATIVE/React Native Practical Guide/1.7 Modal Screen.md",
     "REACT/REACT NATIVE/React Native Practical Guide/1.6 Press to Delete and Style it.md",
-    "REACT/REACT NATIVE/React Native Practical Guide/1.5. Splitting Components into Smaller Components.md",
-    "REACT/REACT NATIVE/React Native Practical Guide/1.4. FlatList.md",
-    "REACT/REACT NATIVE/Docs reactnative/_ 0 ReactNative docs.md",
-    "REACT/REACT NATIVE/Building Mobile Apps with React Native/_ 0 React Native Mobile Apps.md"
+    "REACT/REACT NATIVE/React Native Practical Guide/1.5. Splitting Components into Smaller Components.md"
   ]
 }
