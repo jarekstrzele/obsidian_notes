@@ -456,6 +456,63 @@ print(n.nicosc)
 del n.nicosc
 ```
 
+```python
+class Nicosc:
+    def __init__(self):
+        self._nicosc=0
+        
+    @property
+    def nicosc(self):
+        return "nic istnieje"
+   
+    @nicosc.deleter
+    def nicosc(self):
+        del self._nicosc
+n = Nicosc()
+print(n.__dict__)
+del n.nicosc
+print(n.__dict__) # there is no nicosc attribute in the object
+print(Nicosc.__dict__) # property nicosc in class __dict__
+
+
+```
+
+Deleting property - you remove it from the object not from the class
+```python
+n2 = Nicosc()
+print(n2.__dict__)
+```
+
+
+### `property(fget=, fset=, fdel= )`
+```python
+class Nicosc:
+    def __init__(self):
+        self._nicosc=0
+        
+  
+    def nicosc_getter(self):
+        return "nic istnieje"
+   
+    def nicosc_setter(self, value):
+        self._nicosc=value
+        
+    
+    def nicosc_deleter(self):
+        del self._nicosc
+    
+    nicosc=property(nicosc_getter, nicosc_setter, nicosc_deleter)
+```
+
+
+
+
+
+
+
+
+
+
 
 
 
