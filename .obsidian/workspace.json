@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REACT/REACT NATIVE/Android.md",
+                "file": "PYTHON/GUI/the art of doing create 10 Python GUI/7 Notepad.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REACT/REACT NATIVE/Android.md",
+                "file": "PYTHON/GUI/the art of doing create 10 Python GUI/7 Notepad.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REACT/REACT NATIVE/Android.md",
+                "file": "PYTHON/GUI/the art of doing create 10 Python GUI/7 Notepad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REACT/REACT NATIVE/Android.md"
+                "file": "PYTHON/GUI/the art of doing create 10 Python GUI/7 Notepad.md"
               }
             }
           },
@@ -163,15 +163,15 @@
   },
   "active": "0d9436e64a270afc",
   "lastOpenFiles": [
+    "PYTHON/GUI/the art of doing create 10 Python GUI/3 Hello GUI World.md",
+    "PYTHON/GUI/the art of doing create 10 Python GUI/_ basics GUI Python.md",
+    "REACT/REACT NATIVE/Android.md",
     "REACT/REACT NATIVE/React Native Practical Guide/1.7 Modal Screen.md",
     "REACT/REACT NATIVE/React Native Practical Guide/1.5. Splitting Components into Smaller Components.md",
     "REACT/REACT NATIVE/React Native Practical Guide/1.6 Press to Delete and Style it.md",
     "REACT/REACT NATIVE/React Native Practical Guide/1.4. FlatList.md",
     "REACT/REACT NATIVE/React Native Practical Guide/1 React Native Basics.md",
     "REACT/React Mosh/3.1 Component vidly project.md",
-    "REACT/React Mosh/3 Components.md",
-    "PYTHON/OOP Python udemy/5 Inheritance.md",
-    "PYTHON/OOP Python udemy/4 Properties.md",
-    "Data Bases/PostgreSQL/Postgres Complete Guide/2 Filtering Records.md"
+    "REACT/React Mosh/3 Components.md"
   ]
 }

@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "7 Notepad",
+      "path": "PYTHON/GUI/the art of doing create 10 Python GUI/7 Notepad.md"
+    },
+    {
+      "basename": "3 Hello GUI World",
+      "path": "PYTHON/GUI/the art of doing create 10 Python GUI/3 Hello GUI World.md"
+    },
+    {
+      "basename": "_ basics GUI Python",
+      "path": "PYTHON/GUI/the art of doing create 10 Python GUI/_ basics GUI Python.md"
+    },
+    {
       "basename": "Android",
       "path": "REACT/REACT NATIVE/Android.md"
     },
@@ -97,14 +109,6 @@
       "path": "PYTHON/GUI/Python Tkinter GUI youtube/More animations.md"
     },
     {
-      "basename": "7 Notepad",
-      "path": "PYTHON/GUI/the art of doing create 10 Python GUI/7 Notepad.md"
-    },
-    {
-      "basename": "3 Hello GUI World",
-      "path": "PYTHON/GUI/the art of doing create 10 Python GUI/3 Hello GUI World.md"
-    },
-    {
       "basename": "4 Metric Helper",
       "path": "PYTHON/GUI/the art of doing create 10 Python GUI/4 Metric Helper.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "graf_prezesem.excalidraw",
       "path": "Excalidraw/graf_prezesem.excalidraw.md"
-    },
-    {
-      "basename": "_ 0 Grafy w Pythonie",
-      "path": "algorithmic/Grafy w Pythonie/_ 0 Grafy w Pythonie.md"
     }
   ],
   "omittedPaths": [],
