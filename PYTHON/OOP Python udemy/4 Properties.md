@@ -437,12 +437,24 @@ kacper.add_mark(6)
 kacper.add_mark(4)
 
 print(kacper.average)
-
-
-
 ```
 
-
+## delete property
+You can't delete a property
+```python
+class Nicosc:
+    def __init__(self):
+        self._nicosc=0
+        
+    @property
+    def nicosc(self):
+        return "nic istnieje"
+   
+        
+n = Nicosc()
+print(n.nicosc)
+del n.nicosc
+```
 
 
 
