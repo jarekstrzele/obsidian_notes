@@ -1,4 +1,5 @@
 [[_ 0 Python OOP]]
+#python/property 
 
 ```python
 class Customer:
@@ -504,7 +505,27 @@ class Nicosc:
     nicosc=property(nicosc_getter, nicosc_setter, nicosc_deleter)
 ```
 
+### Docstring in property
+Add dockstring to getter
+```python
+class Nicosc:
+    def __init__(self):
+        self._nicosc=0
+        
+    @property
+    def nicosc(self):
+        """ 
+        This is a property nicosc
+            It handlers a deleter
+        """
+        return "nic istnieje"
+   
+    @nicosc.deleter
+    def nicosc(self):
+        del self._nicosc
 
+print(help(Nicosc.nicosc))
+```
 
 
 
