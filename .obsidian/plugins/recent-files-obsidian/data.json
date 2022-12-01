@@ -5,6 +5,18 @@
       "path": "REACT/React Mosh/3 Components.md"
     },
     {
+      "basename": "4 Composing Components",
+      "path": "REACT/React Mosh/4 Composing Components.md"
+    },
+    {
+      "basename": "3.1 Component vidly project",
+      "path": "REACT/React Mosh/3.1 Component vidly project.md"
+    },
+    {
+      "basename": "2 ES6 Refresh",
+      "path": "REACT/React Mosh/2 ES6 Refresh.md"
+    },
+    {
       "basename": "_ 0 React Mosh",
       "path": "REACT/React Mosh/_ 0 React Mosh.md"
     },
@@ -51,10 +63,6 @@
     {
       "basename": "1 React Native Basics",
       "path": "REACT/REACT NATIVE/React Native Practical Guide/1 React Native Basics.md"
-    },
-    {
-      "basename": "3.1 Component vidly project",
-      "path": "REACT/React Mosh/3.1 Component vidly project.md"
     },
     {
       "basename": "2 Filtering Records",
@@ -191,14 +199,6 @@
     {
       "basename": "New_window",
       "path": "PYTHON/GUI/Python Tkinter GUI youtube/New_window.md"
-    },
-    {
-      "basename": "1. Wprowadzenie do grafów",
-      "path": "algorithmic/Grafy w Pythonie/1. Wprowadzenie do grafów.md"
-    },
-    {
-      "basename": "graf_ważony.excalidraw",
-      "path": "Excalidraw/graf_ważony.excalidraw.md"
     }
   ],
   "omittedPaths": [],
