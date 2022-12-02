@@ -41,216 +41,113 @@ else:
 kod
 ```
 
-ternary operator
-
-```
-
-  
 
 #### ternary operator
-
-  
-
 `<wartość_zwracana_gdy_prawda> if warunek else <wartość_zwracana_gdy_fałsz>'
 
-  
 
 ```python
-
 a = True
-
 "wszystko ok" if a else "jest źle"
-
 ```
 
-# ZADANIE 3
-
+## ZADANIE 3
 Napisz program, który oblicza pierwiastki równania kwadratowego $ax^2+bx+c=0$.
-
 Użytkownik wprowadza wartości dla $a$, $b$, $c$.
 
-  
 
 ------------------------------------------
 
-# # Zadanie 4
+##  Zadanie 4
 
 Napisz program, który za pomocą instrukcji `for`:
-
 - znajduje największą i najmniejszą liczbę ze zbioru $n$ wylosowanych liczb całkowitych,
-
 generowanych losowo, w przedziale od 0 do 100 (niech $n = 5$) oraz
-
 - oblicza wartość średnią ze wszystkich wylosowanych liczb.
 
-  
-
-import random
-
-  
-
-random.randint(0,100)
-
-  
-
-  
 
 ------------------
 
 # Metoda Monte Carlo
-
 Używamy jej, gdy próbujemy modelować bardzo złożone procesy.
-
 Ogólna idea:
-
 - losowo generujemy wielkości charakteryzyjące pewne zjawisko (w uproszczeniu: im więcej takich wielkości, tym dokłdniejszyw wynik, choć ogranicznikiem jest silnik losujący liczby losowe)
-
 - losowanie jest przeprowadzana zgodnie ze znamy dla danego procesu rozkładem
 
-  
-
-# ZADANIE 5
+## ZADANIE 5
 
 Obliczanie Pi:
-
 1. Wpisz koło o promieniu $r$ w kwadrat o boku $2r$.
-
 2. Losowo wygeneruj punkty i umieść je w kwadracie.
-
 3. Wyznacz liczbę punktów, które znajdują się jednocześnie w kwadracie i w kole.
-
 (spełniają nierówność $x^2+y^2<=r$)
-
 4. Niech promień $r$ będzie wyznaczony przez stosunek liczby punktów znajdujących się
-
 w kole do liczby punktów znajdujących się w kwadracie.
-
 5. $?$ ~ $4.0r$.
-
 )
 
 -------------------------
 
-  
-
 Znajdź liczby pierwsze z przedziału od 2 do 200.
-
 Funcja `all()` zwraca wartość `True`, gdy wysztkie elementy iterowalne są prawdziwe. W przeciwnym wypadku `False`.
 
-```
+``` python
 
 a = [1, 2, 'tak', True]
-
 all(a) # -> True
 
-  
-
 b = [1, 2, 'tak', '']
-
 all(a) # -> False
 
-  
 
 ```
 
-  
-
-# ZADANIE 6
-
+## ZADANIE 6
 Znajdź liczby pierwsze z przedziału od 2 do 200.
-
-  
-
-  
 
 --------------------
 
-Funkcje
-
-def nazwafunkcji(args):
-
-pass
-
 # Funkcje
-
-  
-
+```python
+def nazwafunkcji(args):
+	pass
 ```
 
-def nazwaFunkcji(argumenty):
-
-# ciało funkcji
-
-```
-
-# # ZADANIE 7
+## ZADANIE 7
 
 Napisz funkcję signum i wywołaj ją.
-
 Funkcja signum:
-
 - dla liczb rzeczywistych mniejszych od zera zwraca -1
-
 - dla zera zwraca 0
+- dla liczb rzeczywistych większych od zera zwraca 1
 
-# - dla liczb rzeczywistych większych od zera zwraca 1
-
-  
 
 # Rekurencja
 
 1. Funkcja, która wywołuje samą siebie.
-
 2. Jeżeli chcesz zrozumieć funkcje rekurencyjne, przeczytaj punkt 2.
 
-  
-
-# # ZADANIE 8
+## ZADANIE 8
 
 Napisz funkcję rekurencyjną, która wydrukuje $n$ razy napis "Jestem funkcją rekurencyhną". Wartość $n$ jest przekazywana do funkcji jako argument.
 
-  
-
-# # ZADANIE 9
-
+## ZADANIE 9
 Napisz funkcję rekurencyjną obliczającą silnię liczby $n$.
-
-$3! = 1*2*3$, $5! = 1*2*3*4*5$ <br>
-
-$0!=1$ <br>
-
+$3! = 1*2*3$, $5! = 1*2*3*4*5$ 
+$0!=1$ 
 $1!=1$
-
-  
-
-  
-
 # Funkcja anonimowa
-
-  
-
 `lambda ar1, ar2, ... : wartość zwracana`
 
-  
-
 Funkcje lambda można przypisać do zmiennej:
-
 `a=lambda x: x*100`
-
 `a(10)` wywołanie funkcji
 
-  
-
 funkcje lambda można bezpośrednio wywoływać
-
 `(lambda y, z : y + z)(22, 11)`
-
   
 
-  
-
-# ## ZADANIE 10
+## ZADANIE 10
 
 - utwórz trzy dowolne funkcje lambda i przypisz je do różnych zmiennych
-
 - wywołaj funkcje lambda używając przypisanych im zmiennych
