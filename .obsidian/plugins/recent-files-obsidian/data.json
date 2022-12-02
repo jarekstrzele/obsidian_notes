@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "1. Wprowadzenie do grafów",
+      "path": "algorithmic/Grafy w Pythonie/1. Wprowadzenie do grafów.md"
+    },
+    {
+      "basename": "!info",
+      "path": "!info.md"
+    },
+    {
+      "basename": "_ 0 Grafy w Pythonie",
+      "path": "algorithmic/Grafy w Pythonie/_ 0 Grafy w Pythonie.md"
+    },
+    {
       "basename": "Powtórzenie wiadomości Python imperatywnie",
       "path": "Powtórzenie wiadomości Python imperatywnie.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "SQLIte and Delphi",
       "path": "Object Pascal/DB with Delphi/SQLIte and Delphi.md"
-    },
-    {
-      "basename": "DB Connection full",
-      "path": "Object Pascal/DB with Delphi/DB Connection full.md"
-    },
-    {
-      "basename": "10 Databases",
-      "path": "Object Pascal/Beginner Crash Course/10 Databases.md"
-    },
-    {
-      "basename": "_ 0 intro APIs for beginners",
-      "path": "API/APIs_for_beginners_youtube/_ 0 intro APIs for beginners.md"
     }
   ],
   "omittedPaths": [],

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Powtórzenie wiadomości Python imperatywnie.md",
+                "file": "algorithmic/Grafy w Pythonie/1. Wprowadzenie do grafów.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Powtórzenie wiadomości Python imperatywnie.md",
+                "file": "algorithmic/Grafy w Pythonie/1. Wprowadzenie do grafów.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Powtórzenie wiadomości Python imperatywnie.md",
+                "file": "algorithmic/Grafy w Pythonie/1. Wprowadzenie do grafów.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Powtórzenie wiadomości Python imperatywnie.md"
+                "file": "algorithmic/Grafy w Pythonie/1. Wprowadzenie do grafów.md"
               }
             }
           },
@@ -176,15 +176,15 @@
   },
   "active": "1bbfe37c76844f1e",
   "lastOpenFiles": [
+    "!info.md",
+    "algorithmic/Grafy w Pythonie/1. Wprowadzenie do grafów.md",
+    "algorithmic/Grafy w Pythonie/_ 0 Grafy w Pythonie.md",
+    "Powtórzenie wiadomości Python imperatywnie.md",
     "REACT/React Mosh/3 Components.md",
     "REACT/React Mosh/4 Composing Components.md",
     "REACT/React Mosh/3.1 Component vidly project.md",
     "REACT/React Mosh/fake_movies.js.md",
     "REACT/React Mosh/2 ES6 Refresh.md",
-    "REACT/React Mosh/_ 0 React Mosh.md",
-    "PYTHON/OOP Python udemy/4 Properties.md",
-    "PYTHON/OOP Python udemy/5 Inheritance.md",
-    "PYTHON/GUI/the art of doing create 10 Python GUI/7 Notepad.md",
-    "PYTHON/GUI/the art of doing create 10 Python GUI/3 Hello GUI World.md"
+    "REACT/React Mosh/_ 0 React Mosh.md"
   ]
 }
