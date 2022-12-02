@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
       "basename": "3 Components",
       "path": "REACT/React Mosh/3 Components.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_ 0 intro APIs for beginners",
       "path": "API/APIs_for_beginners_youtube/_ 0 intro APIs for beginners.md"
-    },
-    {
-      "basename": "File handler",
-      "path": "PYTHON/GUI/Python Tkinter GUI youtube/File handler.md"
     }
   ],
   "omittedPaths": [],
