@@ -1,3 +1,4 @@
+#python #powtórzenie #imperative
 # Podstawowe informacje z Pythona
  
 
