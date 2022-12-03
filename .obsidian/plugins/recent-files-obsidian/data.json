@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "_ 0 PyQt5 From A-Z",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md"
+    },
+    {
       "basename": "_ 0 React Native - Practical Guide",
       "path": "REACT/REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "9 Functions",
       "path": "Object Pascal/Delphi programming for beginners/9 Functions.md"
-    },
-    {
-      "basename": "SQLIte and Delphi",
-      "path": "Object Pascal/DB with Delphi/SQLIte and Delphi.md"
     }
   ],
   "omittedPaths": [],
