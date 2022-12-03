@@ -4,37 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "4d930c0f71ac6b75",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0d9436e64a270afc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "REACT/React Mosh/3 Components.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1bbfe37c76844f1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "5057fe186764edf3",
         "type": "tabs",
         "children": [
@@ -44,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REACT/React Mosh/3 Components.md",
+                "file": "REACT/REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -125,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REACT/React Mosh/3 Components.md",
+                "file": "REACT/REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -142,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REACT/React Mosh/3 Components.md",
+                "file": "REACT/REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REACT/React Mosh/3 Components.md"
+                "file": "REACT/REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md"
               }
             }
           },
@@ -195,15 +163,15 @@
   },
   "active": "0faa3af80938233f",
   "lastOpenFiles": [
-    "REACT/React Mosh/_ 0 React Mosh.md",
+    "REACT/REACT NATIVE/React Native Practical Guide/1 React Native Basics.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md",
+    "REACT/React Mosh/3 Components.md",
+    "REACT/React Mosh/_ 0 React Mosh.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md",
     "REACT/REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
-    "REACT/REACT NATIVE/React Native Practical Guide/1 React Native Basics.md",
     "algorithmic/Grafy w Pythonie/1. Wprowadzenie do grafów.md",
     "!info.md",
     "algorithmic/Grafy w Pythonie/_ 0 Grafy w Pythonie.md",
-    "Powtórzenie wiadomości Python imperatywnie.md",
-    "REACT/React Mosh/3 Components.md"
+    "Powtórzenie wiadomości Python imperatywnie.md"
   ]
 }
