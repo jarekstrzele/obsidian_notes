@@ -33,7 +33,7 @@ Windows: `venv\Scripts\activate`, `venv/Scripts/activate`
 
 or use  PyCharm
 - you have your project made
-- settings > Project> Python interpreter
+- settings > Project> Python interpreter> '+' > write: `PyQt5` and install: `PyQtWebEngine`, `QDarkStyle`
 
 
 
