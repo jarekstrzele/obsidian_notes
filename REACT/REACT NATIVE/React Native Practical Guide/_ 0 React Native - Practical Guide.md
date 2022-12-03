@@ -114,7 +114,9 @@ sudo snap install android-studio --classic
 ```
 
 INSTALL `Android Studio`
-- `More Actions` > `Virtual Device Manager` > create virtual device (pixel 5 API 32) > play this virtual (play button to launch this emulator)-> exo need the Play Store play button
+- `More Actions` > `Virtual Device Manager` > create virtual device (pixel 5 API 32) > play this virtual (play button to launch this emulator)-> exo need the ==Play Store play button==!!!
+- launch to this emulator
+- 
 
 `npm start` this process has to be running > `Press a | open Android` 
 
