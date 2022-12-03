@@ -106,9 +106,9 @@ class DlgMain(QDialog):
   
   
 if __name__ == "__main__":  
-    app = QApplication(sys.argv)  
-    dlgMain = DlgMain()  
-    dlgMain.show()  
+    app = QApplication(sys.argv)  #create app
+    dlgMain = DlgMain()  # create main GUI canvas
+    dlgMain.show()  # show the GUI
     sys.exit(app.exec_()) # execute the app
 		
 
