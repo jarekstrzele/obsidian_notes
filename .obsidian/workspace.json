@@ -33,6 +33,24 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "5057fe186764edf3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0faa3af80938233f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "REACT/React Mosh/3 Components.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,7 +104,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -106,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md",
+                "file": "REACT/React Mosh/3 Components.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md",
+                "file": "REACT/React Mosh/3 Components.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md"
+                "file": "REACT/React Mosh/3 Components.md"
               }
             }
           },
@@ -174,17 +193,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1bbfe37c76844f1e",
+  "active": "0faa3af80938233f",
   "lastOpenFiles": [
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md",
+    "REACT/React Mosh/_ 0 React Mosh.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md",
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md",
     "REACT/REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
     "REACT/REACT NATIVE/React Native Practical Guide/1 React Native Basics.md",
     "algorithmic/Grafy w Pythonie/1. Wprowadzenie do grafów.md",
     "!info.md",
     "algorithmic/Grafy w Pythonie/_ 0 Grafy w Pythonie.md",
     "Powtórzenie wiadomości Python imperatywnie.md",
-    "REACT/React Mosh/3 Components.md",
-    "REACT/React Mosh/4 Composing Components.md"
+    "REACT/React Mosh/3 Components.md"
   ]
 }
