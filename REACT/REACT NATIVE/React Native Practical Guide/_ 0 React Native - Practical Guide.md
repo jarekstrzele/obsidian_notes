@@ -53,6 +53,9 @@ expo CLI Quickstart `npm install -g expo-cli`  (`-g` globally)
 #### `expo init AwesomeProject` - to start a new project
 (choose blank a minimal app as clean as an empty canvas)
 
+you can use #expo in your phone to see your  mobile app.
+
+
 **What is inside of this project just created?**
 
 `.expo-shared` some internal info
