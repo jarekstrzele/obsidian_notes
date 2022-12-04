@@ -95,7 +95,37 @@ print(sb.reproduce())
 
 inheritance:
 - add or modify functionality from an existing class without modifying that class
-- this contrubutes to code reuse and organization as well as object hirerchies that are easy to 
+- this contrubutes to code reuse and organization as well as object hirerchies that are easy to reason about
+
+--------
+# All classes inherit from object
+
+```python
+o1 = object()
+o2 = object()
+print(id(o1), id(o2))
+print('class: ', o1.__class__)
+print('repr: ', o1.__repr__)
+```
+
+
+## `__call__`
+
+>   
+>   object is callable - its type implement  `__call__`
+>   
+
+`ClassName()` - you call the class
+
+
+
+
+
+
+
+
+
+
 
 
 
