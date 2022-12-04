@@ -38,7 +38,8 @@ class Virus:
 	    raise AttributeError("Virus needs to infect a host")
 	     
 wirus_zombi = Virus("zombi", 2.93, 1)
-wirus_zombi.reproduce()
+# wirus_zombi.infect("human")
+print(wirus_zombi.reproduce())
 ```
 > 
 > Inheritance is a example of *is a* relationship
