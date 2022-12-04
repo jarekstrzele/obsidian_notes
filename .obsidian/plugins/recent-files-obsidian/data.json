@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "1 First Connect",
-      "path": "Object Pascal/DB with Delphi/mr Long/1 First Connect.md"
+      "basename": "4.1 Searching for ONE record in a table",
+      "path": "Object Pascal/DB with Delphi/mr Long/4.1 Searching for ONE record in a table.md"
+    },
+    {
+      "basename": "Functions in PostgreSQL",
+      "path": "Data Bases/PostgreSQL/Functions in PostgreSQL.md"
+    },
+    {
+      "basename": "waterfall.excalidraw",
+      "path": "Excalidraw/waterfall.excalidraw.md"
+    },
+    {
+      "basename": "DB Connection full",
+      "path": "Object Pascal/DB with Delphi/DB Connection full.md"
     },
     {
       "basename": "_ 0 DB (local .mdb) in Delphi",
       "path": "Object Pascal/DB with Delphi/mr Long/_ 0 DB (local .mdb) in Delphi.md"
+    },
+    {
+      "basename": "3 Extracting Data From a DB",
+      "path": "Object Pascal/DB with Delphi/mr Long/3 Extracting Data From a DB.md"
+    },
+    {
+      "basename": "1 First Connect",
+      "path": "Object Pascal/DB with Delphi/mr Long/1 First Connect.md"
     },
     {
       "basename": "5 Inheritance",
@@ -179,26 +199,6 @@
     {
       "basename": "1 Basics Delphi",
       "path": "Object Pascal/Learn to code in Delphi/1 Basics Delphi.md"
-    },
-    {
-      "basename": "User-Defined Types and File IO",
-      "path": "Object Pascal/Learn to Program with Delphi and Object Pascal/User-Defined Types and File IO.md"
-    },
-    {
-      "basename": "zeos install",
-      "path": "Object Pascal/zeos install.md"
-    },
-    {
-      "basename": "Delphi Files",
-      "path": "Object Pascal/Delphi Files.md"
-    },
-    {
-      "basename": "FTP",
-      "path": "Server/FTP.md"
-    },
-    {
-      "basename": "12 Strings",
-      "path": "Object Pascal/Delphi programming for beginners/12 Strings.md"
     }
   ],
   "omittedPaths": [],

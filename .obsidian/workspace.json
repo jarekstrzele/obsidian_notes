@@ -20,6 +20,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "c4322d283f93edd5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7c9c32589fd3f7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Object Pascal/DB with Delphi/mr Long/4.1 Searching for ONE record in a table.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -48,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nvm",
+                "query": "mdb",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +91,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Object Pascal/DB with Delphi/mr Long/1 First Connect.md",
+                "file": "Object Pascal/DB with Delphi/mr Long/4.1 Searching for ONE record in a table.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Object Pascal/DB with Delphi/mr Long/1 First Connect.md",
+                "file": "Object Pascal/DB with Delphi/mr Long/4.1 Searching for ONE record in a table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Object Pascal/DB with Delphi/mr Long/1 First Connect.md"
+                "file": "Object Pascal/DB with Delphi/mr Long/4.1 Searching for ONE record in a table.md"
               }
             }
           },
@@ -161,17 +180,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0faa3af80938233f",
+  "active": "e7c9c32589fd3f7b",
   "lastOpenFiles": [
+    "Data Bases/PostgreSQL/Functions in PostgreSQL.md",
+    "Excalidraw/waterfall.excalidraw.md",
+    "Object Pascal/DB with Delphi/DB Connection full.md",
     "Object Pascal/DB with Delphi/mr Long/_ 0 DB (local .mdb) in Delphi.md",
+    "Object Pascal/DB with Delphi/mr Long/3 Extracting Data From a DB.md",
+    "Object Pascal/DB with Delphi/mr Long/1 First Connect.md",
     "PYTHON/OOP Python udemy/5 Inheritance.md",
     "REACT/REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
     "REACT/REACT NATIVE/React Native Practical Guide/1 React Native Basics.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md",
-    "REACT/React Mosh/3 Components.md",
-    "REACT/React Mosh/_ 0 React Mosh.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md",
-    "algorithmic/Grafy w Pythonie/1. Wprowadzenie do grafów.md",
-    "!info.md"
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md"
   ]
 }
