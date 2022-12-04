@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PYTHON/OOP Python udemy/5 Inheritance.md",
+                "file": "Object Pascal/DB with Delphi/mr Long/1 First Connect.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PYTHON/OOP Python udemy/5 Inheritance.md",
+                "file": "Object Pascal/DB with Delphi/mr Long/1 First Connect.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PYTHON/OOP Python udemy/5 Inheritance.md",
+                "file": "Object Pascal/DB with Delphi/mr Long/1 First Connect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PYTHON/OOP Python udemy/5 Inheritance.md"
+                "file": "Object Pascal/DB with Delphi/mr Long/1 First Connect.md"
               }
             }
           },
@@ -163,6 +163,8 @@
   },
   "active": "0faa3af80938233f",
   "lastOpenFiles": [
+    "Object Pascal/DB with Delphi/mr Long/_ 0 DB (local .mdb) in Delphi.md",
+    "PYTHON/OOP Python udemy/5 Inheritance.md",
     "REACT/REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
     "REACT/REACT NATIVE/React Native Practical Guide/1 React Native Basics.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md",
@@ -170,8 +172,6 @@
     "REACT/React Mosh/_ 0 React Mosh.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md",
     "algorithmic/Grafy w Pythonie/1. Wprowadzenie do grafów.md",
-    "!info.md",
-    "algorithmic/Grafy w Pythonie/_ 0 Grafy w Pythonie.md",
-    "Powtórzenie wiadomości Python imperatywnie.md"
+    "!info.md"
   ]
 }

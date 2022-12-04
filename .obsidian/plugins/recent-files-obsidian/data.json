@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "1 First Connect",
+      "path": "Object Pascal/DB with Delphi/mr Long/1 First Connect.md"
+    },
+    {
+      "basename": "_ 0 DB (local .mdb) in Delphi",
+      "path": "Object Pascal/DB with Delphi/mr Long/_ 0 DB (local .mdb) in Delphi.md"
+    },
+    {
       "basename": "5 Inheritance",
       "path": "PYTHON/OOP Python udemy/5 Inheritance.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "12 Strings",
       "path": "Object Pascal/Delphi programming for beginners/12 Strings.md"
-    },
-    {
-      "basename": "11 Loops",
-      "path": "Object Pascal/Delphi programming for beginners/11 Loops.md"
-    },
-    {
-      "basename": "10 Graphics",
-      "path": "Object Pascal/Delphi programming for beginners/10 Graphics.md"
     }
   ],
   "omittedPaths": [],
