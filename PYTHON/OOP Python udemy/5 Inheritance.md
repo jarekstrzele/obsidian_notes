@@ -117,8 +117,14 @@ print('repr: ', o1.__repr__)
 
 `ClassName()` - you call the class
 
+---
 
+# Method resolution Order
 
+1. first Python checks `__dict_` of an object
+2. second checks `__dict__` of a class
+3. third checks `__dict__` of a parent class until `object`
+4.  if it doesn't find `AttributeError`
 
 
 
