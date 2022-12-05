@@ -126,7 +126,28 @@ print('repr: ', o1.__repr__)
 3. third checks `__dict__` of a parent class until `object`
 4.  if it doesn't find `AttributeError`
 
+```python
+class Roslina:
+    jakas_roslina="jakaś roślina"
 
+class Mniszek(Roslina):
+    rodzaj_class = "klasowy rodzaj"
+    
+    def __init__(self, rodzaj):
+        self.rodzaj = rodzaj
+
+m = Mniszek("Miniszkowaty")
+print(m.rodzaj)
+print(m.__dict__)
+print(m.rodzaj_class)
+print(m.jakas_roslina)
+print(Mniszek.__base__)
+print(Roslina.__base__)
+print(Mniszek.__mro__)
+print(Roslina.__mro__)
+print(object.__base__)
+
+```
 
 
 
