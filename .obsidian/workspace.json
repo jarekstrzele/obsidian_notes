@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PYTHON/GUI/the art of doing create 10 Python GUI/7 Notepad.md",
+                "file": "REACT/REACT NATIVE/React Native Practical Guide/3 mini game.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PYTHON/GUI/the art of doing create 10 Python GUI/7 Notepad.md",
+                "file": "REACT/REACT NATIVE/React Native Practical Guide/3 mini game.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PYTHON/GUI/the art of doing create 10 Python GUI/7 Notepad.md",
+                "file": "REACT/REACT NATIVE/React Native Practical Guide/3 mini game.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PYTHON/GUI/the art of doing create 10 Python GUI/7 Notepad.md"
+                "file": "REACT/REACT NATIVE/React Native Practical Guide/3 mini game.md"
               }
             }
           },
@@ -176,15 +176,15 @@
   },
   "active": "b304fb0b53583940",
   "lastOpenFiles": [
+    "REACT/REACT NATIVE/React Native Practical Guide/2 Debugging React Native Apps.md",
+    "REACT/REACT NATIVE/React Native Practical Guide/3 mini game.md",
+    "REACT/REACT NATIVE/React Native Practical Guide/React.js Refresher.md",
+    "REACT/React Mosh/3.1 Component vidly project.md",
+    "REACT/React Mosh/3 Components.md",
+    "PYTHON/GUI/the art of doing create 10 Python GUI/7 Notepad.md",
     "HTML CSS/FlexBox/Css FlexBox in Depth 2022/_ 0 Start FlexBox Css.md",
     "HTML CSS/FlexBox/Flexbox - praktyczny tutorial CSS dla początkujących.md",
     "HTML CSS/FlexBox/Flexbox the easy way.md",
-    "PYTHON/OOP Python udemy/5 Inheritance.md",
-    "Object Pascal/DB with Delphi/mr Long/3 Extracting Data From a DB.md",
-    "Object Pascal/DB with Delphi/mr Long/4.1 Searching for ONE record in a table.md",
-    "Object Pascal/DB with Delphi/mr Long/_ 0 DB (local .mdb) in Delphi.md",
-    "Object Pascal/DB with Delphi/mr Long/1 First Connect.md",
-    "Data Bases/PostgreSQL/Functions in PostgreSQL.md",
-    "Excalidraw/waterfall.excalidraw.md"
+    "PYTHON/OOP Python udemy/5 Inheritance.md"
   ]
 }

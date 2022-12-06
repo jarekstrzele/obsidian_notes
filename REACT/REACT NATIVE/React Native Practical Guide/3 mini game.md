@@ -185,56 +185,29 @@ const styles = StyleSheet.create({
 ##### for iOS you have to add another style
 
 ```jsx
-  
-
   return (
-
    <View style={styles.btnOuterContainer} >
-
       <Pressable
-
         style={(pressed) =>
-
           pressed
-
             ? [styles.btnInnerContainer, styles.pressed]
-
             : styles.btnInnerContainer
-
           }
-
         onPress={pressHandler}
-
         android_ripple={{color:'dark'}}
-
       >
-
           <Text style={styles.btnText}> {props.children} </Text>  
-
       </Pressable>  
-
   </View>
-
   )
-
 }
-
  btnText:{
-
     color:'white',
-
     textAlign: 'center'
-
   },
-
   pressed:{
-
     opacity: 0.75,
-
   }
-
-  
-
 });
 ```
 
@@ -246,61 +219,35 @@ in StartGameScreem
 const styles = StyleSheet.create({
 
   inputContainer: {
-
     justifyContent: 'center',
-
     alignItems: 'center',
 ```
 
 other changes
-
 to position buts next to each other you have to wrap them into seperated `View`
 
 ```jsx
-  
-
   return (
-
 <View style={styles.inputContainer}>
-
   <TextInput style={styles.numberInput} maxLength={2}  
-
             keyboardType="number-pad"
-
             autoCapitalize="none" autoCorrect={false} />
-
   <View>
-
     <PrimaryButton> Reset </PrimaryButton>
-
     <PrimaryButton> Confirm </PrimaryButton>
-
   </View>
-
 </View>
-
   );
-
 }
-
-  
 
 export default StartGameScreen ;
 
-  
-
 const styles = StyleSheet.create({
-
   inputContainer: {
-
     justifyContent: 'center',
-
     alignItems: 'center',
-
     marginTop: 100,
-
     padding: 10,
-
     marginHorizontal: 24,
 ```
 
@@ -309,32 +256,22 @@ another change
 add  to Style
 ```jsx
 <View style={styles.btnsContainer}>
-
     <PrimaryButton> Reset </PrimaryButton>
-
     <PrimaryButton> Confirm </PrimaryButton>
-
   </View>
 ...
 btnsContainer:{
-
     flexDirection: 'row'
-
   }
 ```
 
 to make button equal width:
 ```jsx
 <View>
-
      <PrimaryButton> Reset </PrimaryButton>
-
    </View>
-
    <View>
-
      <PrimaryButton> Confirm </PrimaryButton>
-
    </View>
 ```
 
