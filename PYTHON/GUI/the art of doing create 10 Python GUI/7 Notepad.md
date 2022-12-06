@@ -1,3 +1,13 @@
+dotęp do fontów
+```python
+import tkinter
+from tkinter import font
+root=tkinter.Tk()
+fonts=font.families()
+for f in fonts:
+  print(f)
+```
+
 OBIEKTOWO
 First:
 ```python
