@@ -2,6 +2,10 @@
 [https://snack.expo.dev](https://snack.expo.dev)
 https://codesandbox.io
 
+create a new NAT in general settings of VirtualBox
+link Android and Linux to that NAT
+run this two virual system
+
 first check IP in Android
 > [!important] android, android studio, reactnative project, virtualbox
 > ~$ **cd Android/Sdk/platform-tools/**  
@@ -9,6 +13,8 @@ first check IP in Android
 > **daemon not running; starting now at tcp:5037**
 > **daemon started successfully**  
 > **connected to 10.0.2.4:5555**
+
+`expo init reactNativeApp`
 
 
 ----
