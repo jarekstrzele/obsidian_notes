@@ -2,8 +2,14 @@
 [https://snack.expo.dev](https://snack.expo.dev)
 https://codesandbox.io
 
----
-#udemy #Maximilian_Schwarzmuller #react_native 
+first check IP in Android
+> [!important] android, android studio, reactnative project, virtualbox
+> ~$ **cd Android/Sdk/platform-tools/**  
+~/Android/Sdk/platform-tools$ **./adb connect 10.0.2.4:5555**
+> **daemon not running; starting now at tcp:5037**
+> **daemon started successfully**  
+> **connected to 10.0.2.4:5555**
+
 
 ----
 [[1 React Native Basics]]
