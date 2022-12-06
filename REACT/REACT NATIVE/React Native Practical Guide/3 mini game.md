@@ -275,6 +275,41 @@ to make button equal width:
    </View>
 ```
 
+==StartGameScreen==
+```jsx
+import {TextInput, View , StyleSheet} from 'react-native' ;
+import PrimaryButton from '../components/PrimaryButton.jsx' ;
+
+function StartGameScreen() {
+
+  return (
+<View style={styles.inputContainer}>
+  <TextInput style={styles.numberInput} maxLength={2}  
+            keyboardType="number-pad"
+            autoCapitalize="none"
+            autoCorrect={false}
+   />
+  <View style={styles.btnsContainer}>
+      <View style={styles.btnContainer}>
+        <PrimaryButton> Reset </PrimaryButton>
+        <PrimaryButton> Confirm </PrimaryButton>
+     </View>
+  </View>
+</View>
+  );
+}
+
+export default StartGameScreen ;
+```
+
+
+--------------------
+
+
+
+
+
+
 
 
 
