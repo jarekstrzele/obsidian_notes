@@ -330,9 +330,9 @@ backgroundColor: '#f8e7ff',
 ```
 
 ## Linear Gradiant
+### `expo install expo-linear-gradient`
 
-
-
+and than you can import `{LinearGradient}`
 
 
 
