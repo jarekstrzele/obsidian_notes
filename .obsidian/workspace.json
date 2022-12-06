@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML CSS/FlexBox/Css FlexBox in Depth 2022/_ 0 Start FlexBox Css.md",
+                "file": "PYTHON/GUI/the art of doing create 10 Python GUI/7 Notepad.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML CSS/FlexBox/Css FlexBox in Depth 2022/_ 0 Start FlexBox Css.md",
+                "file": "PYTHON/GUI/the art of doing create 10 Python GUI/7 Notepad.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML CSS/FlexBox/Css FlexBox in Depth 2022/_ 0 Start FlexBox Css.md",
+                "file": "PYTHON/GUI/the art of doing create 10 Python GUI/7 Notepad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML CSS/FlexBox/Css FlexBox in Depth 2022/_ 0 Start FlexBox Css.md"
+                "file": "PYTHON/GUI/the art of doing create 10 Python GUI/7 Notepad.md"
               }
             }
           },
@@ -176,6 +176,7 @@
   },
   "active": "b304fb0b53583940",
   "lastOpenFiles": [
+    "HTML CSS/FlexBox/Css FlexBox in Depth 2022/_ 0 Start FlexBox Css.md",
     "HTML CSS/FlexBox/Flexbox - praktyczny tutorial CSS dla początkujących.md",
     "HTML CSS/FlexBox/Flexbox the easy way.md",
     "PYTHON/OOP Python udemy/5 Inheritance.md",
@@ -184,7 +185,6 @@
     "Object Pascal/DB with Delphi/mr Long/_ 0 DB (local .mdb) in Delphi.md",
     "Object Pascal/DB with Delphi/mr Long/1 First Connect.md",
     "Data Bases/PostgreSQL/Functions in PostgreSQL.md",
-    "Excalidraw/waterfall.excalidraw.md",
-    "Object Pascal/DB with Delphi/DB Connection full.md"
+    "Excalidraw/waterfall.excalidraw.md"
   ]
 }
