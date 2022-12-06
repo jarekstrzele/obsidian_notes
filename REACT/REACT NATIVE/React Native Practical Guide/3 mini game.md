@@ -306,10 +306,30 @@ export default StartGameScreen ;
 --------------------
 # Background Coloring
 
-\
- 
+`<View>` takes only space that is needed
+`flex:1` take o many space that is possible
+App.jsx
+```jsx
+import { StyleSheet, Text, View, StatusBar } from 'react-native';
+import StartGameScreen from './screens/StartGameScreen.jsx' ;
 
+export default function App() {
+return (
+<View style={styles.mainContainer}>
+<StartGameScreen />
+</View>
+);
+}
 
+const styles = StyleSheet.create({
+mainContainer:{
+flex: 1,
+backgroundColor: '#f8e7ff',
+}
+});
+```
+
+## Linear Gradiant
 
 
 
