@@ -31,7 +31,7 @@ map factorial [0..5]
 	- compiler (ghc)
 	- interpreter (ghci)
 - code editor
-- termianl
+- terminal
 
 `sudo apt install ghc`
 

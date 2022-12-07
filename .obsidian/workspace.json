@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REACT/REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
+                "file": "HASKELL/The Complete Haskell Course/1 Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,6 +33,24 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "77855aeb2d1e83bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e16b07bb6c4d8cf0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PYTHON/OOP Python udemy/5 Inheritance.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +108,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ec7d1a70da2de581",
@@ -106,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REACT/REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
+                "file": "PYTHON/OOP Python udemy/5 Inheritance.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REACT/REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
+                "file": "PYTHON/OOP Python udemy/5 Inheritance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REACT/REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md"
+                "file": "PYTHON/OOP Python udemy/5 Inheritance.md"
               }
             }
           },
@@ -174,17 +193,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b304fb0b53583940",
+  "active": "f621f21825dbd82d",
   "lastOpenFiles": [
-    "REACT/REACT NATIVE/React Native Practical Guide/3 mini game.md",
+    "HASKELL/The Complete Haskell Course/1 Basics.md",
+    "HASKELL/The Complete Haskell Course/_ 0 Complete Haskell Course.md",
     "REACT/REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
+    "REACT/REACT NATIVE/React Native Practical Guide/3 mini game.md",
     "REACT/REACT NATIVE/React Native Practical Guide/1 React Native Basics.md",
     "REACT/REACT NATIVE/React Native Practical Guide/2 Debugging React Native Apps.md",
     "REACT/REACT NATIVE/React Native Practical Guide/React.js Refresher.md",
     "REACT/React Mosh/3.1 Component vidly project.md",
     "REACT/React Mosh/3 Components.md",
-    "PYTHON/GUI/the art of doing create 10 Python GUI/7 Notepad.md",
-    "HTML CSS/FlexBox/Css FlexBox in Depth 2022/_ 0 Start FlexBox Css.md",
-    "HTML CSS/FlexBox/Flexbox - praktyczny tutorial CSS dla początkujących.md"
+    "PYTHON/GUI/the art of doing create 10 Python GUI/7 Notepad.md"
   ]
 }
