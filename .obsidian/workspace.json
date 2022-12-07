@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PYTHON/OOP Python udemy/5 Inheritance.md",
+                "file": "HASKELL/The Complete Haskell Course/1 Basics.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PYTHON/OOP Python udemy/5 Inheritance.md",
+                "file": "HASKELL/The Complete Haskell Course/1 Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PYTHON/OOP Python udemy/5 Inheritance.md"
+                "file": "HASKELL/The Complete Haskell Course/1 Basics.md"
               }
             }
           },
@@ -193,8 +193,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f621f21825dbd82d",
+  "active": "b304fb0b53583940",
   "lastOpenFiles": [
+    "PYTHON/OOP Python udemy/5 Inheritance.md",
     "HASKELL/The Complete Haskell Course/1 Basics.md",
     "HASKELL/The Complete Haskell Course/_ 0 Complete Haskell Course.md",
     "REACT/REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
@@ -203,7 +204,6 @@
     "REACT/REACT NATIVE/React Native Practical Guide/2 Debugging React Native Apps.md",
     "REACT/REACT NATIVE/React Native Practical Guide/React.js Refresher.md",
     "REACT/React Mosh/3.1 Component vidly project.md",
-    "REACT/React Mosh/3 Components.md",
-    "PYTHON/GUI/the art of doing create 10 Python GUI/7 Notepad.md"
+    "REACT/React Mosh/3 Components.md"
   ]
 }
