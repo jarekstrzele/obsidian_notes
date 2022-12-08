@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "3 React Basics",
+      "path": "REACT/React - the Complete Guide/3 React Basics.md"
+    },
+    {
+      "basename": "_ 0 React Full",
+      "path": "REACT/React - the Complete Guide/_ 0 React Full.md"
+    },
+    {
       "basename": "_ 0 React Mosh",
       "path": "REACT/React Mosh/_ 0 React Mosh.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "_ 0 React Native Mobile Apps",
       "path": "REACT/REACT NATIVE/Building Mobile Apps with React Native/_ 0 React Native Mobile Apps.md"
-    },
-    {
-      "basename": "4 - React Native - Gesture handlers",
-      "path": "REACT/REACT NATIVE/Building Mobile Apps with React Native/4 - React Native - Gesture handlers.md"
-    },
-    {
-      "basename": "5 - React Native - XMLHttpRequest",
-      "path": "REACT/REACT NATIVE/Building Mobile Apps with React Native/5 - React Native - XMLHttpRequest.md"
     }
   ],
   "omittedPaths": [],
