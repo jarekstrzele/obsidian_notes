@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PYTHON/OOP Python udemy/4 Properties.md",
+                "file": "REACT/React Mosh/_ 0 React Mosh.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PYTHON/OOP Python udemy/4 Properties.md",
+                "file": "REACT/React Mosh/_ 0 React Mosh.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PYTHON/OOP Python udemy/4 Properties.md",
+                "file": "REACT/React Mosh/_ 0 React Mosh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PYTHON/OOP Python udemy/4 Properties.md"
+                "file": "REACT/React Mosh/_ 0 React Mosh.md"
               }
             }
           },
@@ -163,6 +163,7 @@
   },
   "active": "e16b07bb6c4d8cf0",
   "lastOpenFiles": [
+    "PYTHON/OOP Python udemy/4 Properties.md",
     "PYTHON/OOP Python udemy/_ 0 Python OOP.md",
     "PYTHON/OOP Python udemy/5 Inheritance.md",
     "HTML CSS/FlexBox/Flexbox - praktyczny tutorial CSS dla początkujących.md",
@@ -171,7 +172,6 @@
     "Data Bases/PostgreSQL/SQL PostgreSQL Tutorial/_ intro sql postgresql.md",
     "HASKELL/The Complete Haskell Course/1 Basics.md",
     "HASKELL/The Complete Haskell Course/_ 0 Complete Haskell Course.md",
-    "REACT/REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
-    "REACT/REACT NATIVE/React Native Practical Guide/3 mini game.md"
+    "REACT/REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md"
   ]
 }
