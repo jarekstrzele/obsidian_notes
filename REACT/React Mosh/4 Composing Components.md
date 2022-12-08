@@ -72,3 +72,14 @@ return (
 and now you can delete this `console.log`
 and poperty state change-> `{ count: this.props.value}` and in COunters.jsx change one  of values
 
+
+
+
+
+
+
+
+
+
+
+
