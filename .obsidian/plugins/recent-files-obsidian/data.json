@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "4 Composing Components",
-      "path": "REACT/React Mosh/4 Composing Components.md"
+      "basename": "3 Components",
+      "path": "REACT/React Mosh/3 Components.md"
     },
     {
       "basename": "3.1 Component vidly project",
       "path": "REACT/React Mosh/3.1 Component vidly project.md"
+    },
+    {
+      "basename": "4 Composing Components",
+      "path": "REACT/React Mosh/4 Composing Components.md"
+    },
+    {
+      "basename": "fake_genders.js",
+      "path": "REACT/React Mosh/fake_genders.js.md"
+    },
+    {
+      "basename": "fake_movies.js",
+      "path": "REACT/React Mosh/fake_movies.js.md"
+    },
+    {
+      "basename": "2 ES6 Refresh",
+      "path": "REACT/React Mosh/2 ES6 Refresh.md"
     },
     {
       "basename": "1. Wprowadzenie do grafów",
@@ -73,10 +89,6 @@
       "path": "REACT/REACT NATIVE/React Native Practical Guide/React.js Refresher.md"
     },
     {
-      "basename": "3 Components",
-      "path": "REACT/React Mosh/3 Components.md"
-    },
-    {
       "basename": "7 Notepad",
       "path": "PYTHON/GUI/the art of doing create 10 Python GUI/7 Notepad.md"
     },
@@ -137,14 +149,6 @@
       "path": "Powtórzenie wiadomości Python imperatywnie.md"
     },
     {
-      "basename": "fake_movies.js",
-      "path": "REACT/React Mosh/fake_movies.js.md"
-    },
-    {
-      "basename": "2 ES6 Refresh",
-      "path": "REACT/React Mosh/2 ES6 Refresh.md"
-    },
-    {
       "basename": "3 Hello GUI World",
       "path": "PYTHON/GUI/the art of doing create 10 Python GUI/3 Hello GUI World.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "5 - React Native - XMLHttpRequest",
       "path": "REACT/REACT NATIVE/Building Mobile Apps with React Native/5 - React Native - XMLHttpRequest.md"
-    },
-    {
-      "basename": "React Native - Gesture handlers",
-      "path": "REACT/REACT NATIVE/Building Mobile Apps with React Native/React Native - Gesture handlers.md"
     }
   ],
   "omittedPaths": [],

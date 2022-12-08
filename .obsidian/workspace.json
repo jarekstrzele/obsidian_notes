@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REACT/React Mosh/4 Composing Components.md",
+                "file": "REACT/React Mosh/3 Components.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REACT/React Mosh/4 Composing Components.md",
+                "file": "REACT/React Mosh/3 Components.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REACT/React Mosh/4 Composing Components.md",
+                "file": "REACT/React Mosh/3 Components.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REACT/React Mosh/4 Composing Components.md"
+                "file": "REACT/React Mosh/3 Components.md"
               }
             }
           },
@@ -164,14 +164,14 @@
   "active": "e16b07bb6c4d8cf0",
   "lastOpenFiles": [
     "REACT/React Mosh/3.1 Component vidly project.md",
+    "REACT/React Mosh/4 Composing Components.md",
+    "REACT/React Mosh/fake_genders.js.md",
+    "REACT/React Mosh/fake_movies.js.md",
+    "REACT/React Mosh/3 Components.md",
+    "REACT/React Mosh/2 ES6 Refresh.md",
     "algorithmic/Grafy w Pythonie/1. Wprowadzenie do grafów.md",
     "REACT/React Mosh/_ 0 React Mosh.md",
     "PYTHON/OOP Python udemy/4 Properties.md",
-    "PYTHON/OOP Python udemy/_ 0 Python OOP.md",
-    "PYTHON/OOP Python udemy/5 Inheritance.md",
-    "HTML CSS/FlexBox/Flexbox - praktyczny tutorial CSS dla początkujących.md",
-    "Data Bases/PostgreSQL/Postgres Complete Guide/_0 Strat PostgreSql CompleteGuide.md",
-    "Data Bases/PostgreSQL/Postgres_From_Zero_to_Hero 1/Introduction.md",
-    "Data Bases/PostgreSQL/SQL PostgreSQL Tutorial/_ intro sql postgresql.md"
+    "PYTHON/OOP Python udemy/_ 0 Python OOP.md"
   ]
 }
