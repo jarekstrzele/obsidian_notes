@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REACT/React Mosh/fake_movies.js.md",
+                "file": "algorithmic/Grafy w Pythonie/1. Wprowadzenie do grafów.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REACT/React Mosh/fake_movies.js.md",
+                "file": "algorithmic/Grafy w Pythonie/1. Wprowadzenie do grafów.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REACT/React Mosh/fake_movies.js.md",
+                "file": "algorithmic/Grafy w Pythonie/1. Wprowadzenie do grafów.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REACT/React Mosh/fake_movies.js.md"
+                "file": "algorithmic/Grafy w Pythonie/1. Wprowadzenie do grafów.md"
               }
             }
           },
@@ -163,15 +163,15 @@
   },
   "active": "e16b07bb6c4d8cf0",
   "lastOpenFiles": [
+    "algorithmic/Grafy.md",
+    "algorithmic/Grafy w Pythonie/1. Wprowadzenie do grafów.md",
+    "algorithmic/Grafy w Pythonie/_ 0 Grafy w Pythonie.md",
+    "REACT/React Mosh/fake_movies.js.md",
     "REACT/React Mosh/3.1 Component vidly project.md",
     "REACT/React Mosh/2 ES6 Refresh.md",
     "REACT/React Mosh/3 Components.md",
     "REACT/React Mosh/_ 0 React Mosh.md",
     "REACT/React - the Complete Guide/3 React Basics.md",
-    "REACT/React - the Complete Guide/_ 0 React Full.md",
-    "REACT/React Mosh/4 Composing Components.md",
-    "REACT/React Mosh/fake_genders.js.md",
-    "REACT/React Mosh/fake_movies.js.md",
-    "algorithmic/Grafy w Pythonie/1. Wprowadzenie do grafów.md"
+    "REACT/React - the Complete Guide/_ 0 React Full.md"
   ]
 }
