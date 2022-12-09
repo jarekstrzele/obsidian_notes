@@ -20,7 +20,6 @@ We combine HTML, CSS and JS in all these components and then we combine all of t
 > [!important] In React you define the desired target state(s) and let React figure out the actual JS DOM instructions
 
 
-<<<<<<< HEAD
 # To start a project
 ### `create-react-app`
 
