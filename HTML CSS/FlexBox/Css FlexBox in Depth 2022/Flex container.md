@@ -12,3 +12,21 @@
 }
 ```
 
+## changing the Main Axis direction
+`flex-direction: row;`
+`flex-direction: row-reverse;`
+`flex-direction: column;`
+`flex-direction: column-reverse;`
+
+
+## controlling the wrapping of items
+
+
+
+
+
+
+
+
+
+

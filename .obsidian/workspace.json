@@ -90,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 399
+    "width": 399,
+    "collapsed": true
   },
   "right": {
     "id": "ec7d1a70da2de581",
@@ -174,7 +175,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ffcdfd12285105d8",
+  "active": "f621f21825dbd82d",
   "lastOpenFiles": [
     "HTML CSS/FlexBox/Css FlexBox in Depth 2022/_ 0 Start FlexBox Css.md",
     "HTML CSS/FlexBox/Css FlexBox in Depth 2022/Flex container.md",
