@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "6 Styling React Component (Simple React App)",
+      "path": "REACT/React - the Complete Guide/6 Styling React Component (Simple React App).md"
+    },
+    {
       "basename": "Flex container",
       "path": "HTML CSS/FlexBox/Css FlexBox in Depth 2022/Flex container.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_ intro sql postgresql",
       "path": "Data Bases/PostgreSQL/SQL PostgreSQL Tutorial/_ intro sql postgresql.md"
-    },
-    {
-      "basename": "1 Basics",
-      "path": "HASKELL/The Complete Haskell Course/1 Basics.md"
     }
   ],
   "omittedPaths": [],

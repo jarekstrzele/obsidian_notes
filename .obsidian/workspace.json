@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML CSS/FlexBox/Css FlexBox in Depth 2022/Flex container.md",
+                "file": "REACT/React - the Complete Guide/6 Styling React Component (Simple React App).md",
                 "mode": "source",
                 "source": false
               }
@@ -90,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 399,
-    "collapsed": true
+    "width": 399
   },
   "right": {
     "id": "ec7d1a70da2de581",
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML CSS/FlexBox/Css FlexBox in Depth 2022/Flex container.md",
+                "file": "REACT/React - the Complete Guide/6 Styling React Component (Simple React App).md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML CSS/FlexBox/Css FlexBox in Depth 2022/Flex container.md",
+                "file": "REACT/React - the Complete Guide/6 Styling React Component (Simple React App).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML CSS/FlexBox/Css FlexBox in Depth 2022/Flex container.md"
+                "file": "REACT/React - the Complete Guide/6 Styling React Component (Simple React App).md"
               }
             }
           },
@@ -175,10 +174,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f621f21825dbd82d",
+  "active": "ffcdfd12285105d8",
   "lastOpenFiles": [
-    "HTML CSS/FlexBox/Css FlexBox in Depth 2022/_ 0 Start FlexBox Css.md",
     "HTML CSS/FlexBox/Css FlexBox in Depth 2022/Flex container.md",
+    "HTML CSS/FlexBox/Css FlexBox in Depth 2022/_ 0 Start FlexBox Css.md",
     "Docker/docker HELION Adam Raźniewski/_ start docker helion Raźniewski.md",
     "Docker/Plurasight/Getting Started with Docker.md",
     "Docker/Plurasight/Docker and Kubernetes - the Big Pucture.md",
