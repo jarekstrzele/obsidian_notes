@@ -61,14 +61,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REACT/React - the Complete Guide/6.1. Styling extra.md",
+                "file": "JAVASCRIPT/Lear Node.js and Javascript/- 2 JavaScript.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3216be8678b0fedb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JAVASCRIPT/NODE - the complete guide/_0 Node Complete Guide.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -97,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nvm",
+                "query": "node",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -142,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REACT/React - the Complete Guide/6.1. Styling extra.md",
+                "file": "JAVASCRIPT/NODE - the complete guide/_0 Node Complete Guide.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -159,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REACT/React - the Complete Guide/6.1. Styling extra.md",
+                "file": "JAVASCRIPT/NODE - the complete guide/_0 Node Complete Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REACT/React - the Complete Guide/6.1. Styling extra.md"
+                "file": "JAVASCRIPT/NODE - the complete guide/_0 Node Complete Guide.md"
               }
             }
           },
@@ -210,17 +222,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "aeca28485a339c49",
+  "active": "3216be8678b0fedb",
   "lastOpenFiles": [
+    "JAVASCRIPT/Lear Node.js and Javascript/- 2 JavaScript.md",
+    "JAVASCRIPT/Lear Node.js and Javascript/_ Node and JavaScript.md",
+    "JAVASCRIPT/Lear Node.js and Javascript/- 3 Node.md",
+    "REACT/React - the Complete Guide/6.1. Styling extra.md",
     "REACT/React - the Complete Guide/6 Styling React Component (Simple React App).md",
     "REACT/React - the Complete Guide/8 Login Project.md",
     "HTML CSS/FlexBox/Css FlexBox in Depth 2022/Flex container.md",
     "HTML CSS/FlexBox/Css FlexBox in Depth 2022/_ 0 Start FlexBox Css.md",
     "Docker/docker HELION Adam Raźniewski/_ start docker helion Raźniewski.md",
-    "Docker/Plurasight/Getting Started with Docker.md",
-    "Docker/Plurasight/Docker and Kubernetes - the Big Pucture.md",
-    "Docker/Plurasight/Building and Running your first docker app.md",
-    "Docker/For Absolute Beginner/Docker inspect.md",
-    "Docker/For Absolute Beginner/Docker image push to DockerHub.md"
+    "Docker/Plurasight/Getting Started with Docker.md"
   ]
 }

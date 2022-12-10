@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "_0 Node Complete Guide",
+      "path": "JAVASCRIPT/NODE - the complete guide/_0 Node Complete Guide.md"
+    },
+    {
+      "basename": "- 2 JavaScript",
+      "path": "JAVASCRIPT/Lear Node.js and Javascript/- 2 JavaScript.md"
+    },
+    {
+      "basename": "_ Node and JavaScript",
+      "path": "JAVASCRIPT/Lear Node.js and Javascript/_ Node and JavaScript.md"
+    },
+    {
+      "basename": "- 3 Node",
+      "path": "JAVASCRIPT/Lear Node.js and Javascript/- 3 Node.md"
+    },
+    {
       "basename": "6.1. Styling extra",
       "path": "REACT/React - the Complete Guide/6.1. Styling extra.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "4 Properties",
       "path": "PYTHON/OOP Python udemy/4 Properties.md"
-    },
-    {
-      "basename": "_ 0 Python OOP",
-      "path": "PYTHON/OOP Python udemy/_ 0 Python OOP.md"
-    },
-    {
-      "basename": "5 Inheritance",
-      "path": "PYTHON/OOP Python udemy/5 Inheritance.md"
-    },
-    {
-      "basename": "Flexbox - praktyczny tutorial CSS dla początkujących",
-      "path": "HTML CSS/FlexBox/Flexbox - praktyczny tutorial CSS dla początkujących.md"
-    },
-    {
-      "basename": "_0 Strat PostgreSql CompleteGuide",
-      "path": "Data Bases/PostgreSQL/Postgres Complete Guide/_0 Strat PostgreSql CompleteGuide.md"
     }
   ],
   "omittedPaths": [],
