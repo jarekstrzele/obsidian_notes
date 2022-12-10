@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/docker HELION Adam Raźniewski/_ start docker helion Raźniewski.md",
+                "file": "HTML CSS/FlexBox/Css FlexBox in Depth 2022/_ 0 Start FlexBox Css.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ffcdfd12285105d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTML CSS/FlexBox/Css FlexBox in Depth 2022/_ 0 Start FlexBox Css.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/docker HELION Adam Raźniewski/_ start docker helion Raźniewski.md",
+                "file": "HTML CSS/FlexBox/Css FlexBox in Depth 2022/_ 0 Start FlexBox Css.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/docker HELION Adam Raźniewski/_ start docker helion Raźniewski.md",
+                "file": "HTML CSS/FlexBox/Css FlexBox in Depth 2022/_ 0 Start FlexBox Css.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/docker HELION Adam Raźniewski/_ start docker helion Raźniewski.md"
+                "file": "HTML CSS/FlexBox/Css FlexBox in Depth 2022/_ 0 Start FlexBox Css.md"
               }
             }
           },
@@ -161,17 +174,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e16b07bb6c4d8cf0",
+  "active": "ffcdfd12285105d8",
   "lastOpenFiles": [
+    "HTML CSS/FlexBox/Css FlexBox in Depth 2022/Flex container.md",
+    "HTML CSS/FlexBox/Css FlexBox in Depth 2022/_ 0 Start FlexBox Css.md",
+    "Docker/docker HELION Adam Raźniewski/_ start docker helion Raźniewski.md",
     "Docker/Plurasight/Getting Started with Docker.md",
     "Docker/Plurasight/Docker and Kubernetes - the Big Pucture.md",
     "Docker/Plurasight/Building and Running your first docker app.md",
     "Docker/For Absolute Beginner/Docker inspect.md",
     "Docker/For Absolute Beginner/Docker image push to DockerHub.md",
     "Docker/For Absolute Beginner/DOCKER COMPOSE.md",
-    "Docker/For Absolute Beginner/Command vs Entrypoint.md",
-    "Docker/Docker Projektowanie i wdrażanie aplikacji ebook/_ wprowadzenie do dockera.md",
-    "Docker/Docker Projektowanie i wdrażanie aplikacji ebook/_start Docker Projektowanie i wdrażanie aplikacji.md",
-    "Docker/Docker Intro Essentials/2 Docker Containers and the Docker Engine.md"
+    "Docker/For Absolute Beginner/Command vs Entrypoint.md"
   ]
 }

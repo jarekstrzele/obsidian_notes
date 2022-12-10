@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "_ 0 Start FlexBox Css",
+      "path": "HTML CSS/FlexBox/Css FlexBox in Depth 2022/_ 0 Start FlexBox Css.md"
+    },
+    {
+      "basename": "Flex container",
+      "path": "HTML CSS/FlexBox/Css FlexBox in Depth 2022/Flex container.md"
+    },
+    {
       "basename": "_ start docker helion Raźniewski",
       "path": "Docker/docker HELION Adam Raźniewski/_ start docker helion Raźniewski.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "1 Basics",
       "path": "HASKELL/The Complete Haskell Course/1 Basics.md"
-    },
-    {
-      "basename": "_ 0 Complete Haskell Course",
-      "path": "HASKELL/The Complete Haskell Course/_ 0 Complete Haskell Course.md"
-    },
-    {
-      "basename": "_ 0 React Native - Practical Guide",
-      "path": "REACT/REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md"
     }
   ],
   "omittedPaths": [],

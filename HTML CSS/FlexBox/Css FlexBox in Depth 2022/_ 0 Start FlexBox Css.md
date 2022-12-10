@@ -1,5 +1,10 @@
 #flexbox  #udemy 
 
+---
+[[Flex container]]
+
+
+
 You need:
 - vs code (extentions: 
 				- Live Server
@@ -12,7 +17,8 @@ You need:
 > - 
 >
 
-
+Main Axis, Size Axis, Main start, Main End
+Cross Axis, Size Axis, Cross start, Cross End
 
 
 
