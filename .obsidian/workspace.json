@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REACT/React - the Complete Guide/8 Login Project.md",
+                "file": "REACT/React - the Complete Guide/6 Styling React Component (Simple React App).md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REACT/React - the Complete Guide/8 Login Project.md",
+                "file": "REACT/React - the Complete Guide/6 Styling React Component (Simple React App).md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REACT/React - the Complete Guide/8 Login Project.md",
+                "file": "REACT/React - the Complete Guide/6 Styling React Component (Simple React App).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REACT/React - the Complete Guide/8 Login Project.md"
+                "file": "REACT/React - the Complete Guide/6 Styling React Component (Simple React App).md"
               }
             }
           },
@@ -188,6 +188,7 @@
   },
   "active": "8731e1212cdfea16",
   "lastOpenFiles": [
+    "REACT/React - the Complete Guide/8 Login Project.md",
     "REACT/React - the Complete Guide/6 Styling React Component (Simple React App).md",
     "HTML CSS/FlexBox/Css FlexBox in Depth 2022/Flex container.md",
     "HTML CSS/FlexBox/Css FlexBox in Depth 2022/_ 0 Start FlexBox Css.md",
@@ -196,7 +197,6 @@
     "Docker/Plurasight/Docker and Kubernetes - the Big Pucture.md",
     "Docker/Plurasight/Building and Running your first docker app.md",
     "Docker/For Absolute Beginner/Docker inspect.md",
-    "Docker/For Absolute Beginner/Docker image push to DockerHub.md",
-    "Docker/For Absolute Beginner/DOCKER COMPOSE.md"
+    "Docker/For Absolute Beginner/Docker image push to DockerHub.md"
   ]
 }
