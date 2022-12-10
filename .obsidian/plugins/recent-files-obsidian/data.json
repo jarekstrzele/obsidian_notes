@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "6.1. Styling extra",
+      "path": "REACT/React - the Complete Guide/6.1. Styling extra.md"
+    },
+    {
       "basename": "6 Styling React Component (Simple React App)",
       "path": "REACT/React - the Complete Guide/6 Styling React Component (Simple React App).md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_0 Strat PostgreSql CompleteGuide",
       "path": "Data Bases/PostgreSQL/Postgres Complete Guide/_0 Strat PostgreSql CompleteGuide.md"
-    },
-    {
-      "basename": "Introduction",
-      "path": "Data Bases/PostgreSQL/Postgres_From_Zero_to_Hero 1/Introduction.md"
     }
   ],
   "omittedPaths": [],
