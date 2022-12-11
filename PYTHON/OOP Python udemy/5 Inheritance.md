@@ -153,7 +153,9 @@ print(object.__base__)
 
 # Parent Delegation
 
-
+- the pythonic way to reference the parent class from a subclass is to use the `super()`  built-in
+- `super()` returns an instance of the parent class, enabling us to directly reference its methods and attributes
+- `super()` could be called within any subclass method as well at any step, i.e. not necessarily thi first thing we do
 
 
 
