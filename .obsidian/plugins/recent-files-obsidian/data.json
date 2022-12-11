@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "3 Node Basics",
+      "path": "JAVASCRIPT/NODE - the complete guide/3 Node Basics.md"
+    },
+    {
       "basename": "_0 Node Complete Guide",
       "path": "JAVASCRIPT/NODE - the complete guide/_0 Node Complete Guide.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "fake_genders.js",
       "path": "REACT/React Mosh/fake_genders.js.md"
-    },
-    {
-      "basename": "4 Properties",
-      "path": "PYTHON/OOP Python udemy/4 Properties.md"
     }
   ],
   "omittedPaths": [],

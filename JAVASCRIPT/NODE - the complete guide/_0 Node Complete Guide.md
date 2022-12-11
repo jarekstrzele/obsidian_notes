@@ -1,5 +1,11 @@
-#udemy #node #Maximilian_Schwarzmuller  
+#udemy #node #Maximilian_Schwarzmuller 
 
+----
+[[3 Node Basics]]
+
+
+
+----
 >[!note] Node
 >It is a javascript runtime.
 >It use V8 (a javascript engine  built by Google that runs JS in the browser)
