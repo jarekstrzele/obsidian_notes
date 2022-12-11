@@ -74,7 +74,7 @@ console.log(req) ;
 server.listen(3000); 
 ```
 and now open browser on `localhost:3000`
-and then you will see in the cons
+and then you will see in the console result of `console.log(req)`
 
 
 
