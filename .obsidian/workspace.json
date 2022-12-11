@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REACT/React - the Complete Guide/6.1. Styling extra.md",
+                "file": "JAVASCRIPT/NODE - the complete guide/_0 Node Complete Guide.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REACT/React - the Complete Guide/6.1. Styling extra.md",
+                "file": "JAVASCRIPT/NODE - the complete guide/_0 Node Complete Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REACT/React - the Complete Guide/6.1. Styling extra.md"
+                "file": "JAVASCRIPT/NODE - the complete guide/_0 Node Complete Guide.md"
               }
             }
           },
@@ -241,13 +241,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ab3a887db297d3b3",
+  "active": "3216be8678b0fedb",
   "lastOpenFiles": [
+    "REACT/React - the Complete Guide/6.1. Styling extra.md",
     "JAVASCRIPT/NODE - the complete guide/_0 Node Complete Guide.md",
     "JAVASCRIPT/Lear Node.js and Javascript/- 2 JavaScript.md",
     "JAVASCRIPT/Lear Node.js and Javascript/_ Node and JavaScript.md",
     "JAVASCRIPT/Lear Node.js and Javascript/- 3 Node.md",
-    "REACT/React - the Complete Guide/6.1. Styling extra.md",
     "REACT/React - the Complete Guide/6 Styling React Component (Simple React App).md",
     "REACT/React - the Complete Guide/8 Login Project.md",
     "HTML CSS/FlexBox/Css FlexBox in Depth 2022/Flex container.md",

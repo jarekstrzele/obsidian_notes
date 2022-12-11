@@ -15,7 +15,7 @@ VS Code:
 - make a new file.js
 - in the terminal `node thatfile.js`
 
-
+to act with the system file `const fs = require('fs')`
 
 
 
