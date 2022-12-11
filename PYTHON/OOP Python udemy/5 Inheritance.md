@@ -95,7 +95,7 @@ print(sb.reproduce())
 
 inheritance:
 - add or modify functionality from an existing class without modifying that class
-- this contrubutes to code reuse and organization as well as object hirerchies that are easy to reason about
+- this contributes to code reuse and organization as well as object hirerchies that are easy to reason about
 
 --------
 # All classes inherit from object
@@ -124,7 +124,7 @@ print('repr: ', o1.__repr__)
 1. first Python checks `__dict_` of an object
 2. second checks `__dict__` of a class
 3. third checks `__dict__` of a parent class until `object`
-4.  if it doesn't find `AttributeError`
+4.  if it doesn't find,  raise  `AttributeError`
 
 ```python
 class Roslina:
@@ -149,7 +149,9 @@ print(object.__base__)
 
 ```
 
+---
 
+# Parent Delegation
 
 
 

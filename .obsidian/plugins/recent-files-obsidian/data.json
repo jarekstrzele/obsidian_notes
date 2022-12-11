@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "5 Inheritance",
+      "path": "PYTHON/OOP Python udemy/5 Inheritance.md"
+    },
+    {
+      "basename": "3.3 Encryption",
+      "path": "Flutter/Dart/3.3 Encryption.md"
+    },
+    {
+      "basename": "2.3. Polymorphism",
+      "path": "Flutter/Dart/2.3. Polymorphism.md"
+    },
+    {
+      "basename": "1.3 - Dart Collections",
+      "path": "Flutter/Dart/1.3 - Dart Collections.md"
+    },
+    {
       "basename": "3 Node Basics",
       "path": "JAVASCRIPT/NODE - the complete guide/3 Node Basics.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "2 ES6 Refresh",
       "path": "REACT/React Mosh/2 ES6 Refresh.md"
-    },
-    {
-      "basename": "3 React Basics",
-      "path": "REACT/React - the Complete Guide/3 React Basics.md"
-    },
-    {
-      "basename": "_ 0 React Full",
-      "path": "REACT/React - the Complete Guide/_ 0 React Full.md"
-    },
-    {
-      "basename": "4 Composing Components",
-      "path": "REACT/React Mosh/4 Composing Components.md"
-    },
-    {
-      "basename": "fake_genders.js",
-      "path": "REACT/React Mosh/fake_genders.js.md"
     }
   ],
   "omittedPaths": [],
