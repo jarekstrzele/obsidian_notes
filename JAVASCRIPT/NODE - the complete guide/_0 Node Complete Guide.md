@@ -16,8 +16,29 @@ VS Code:
 - in the terminal `node thatfile.js`
 
 to act with the system file `const fs = require('fs')`
+```js
+const fs = require('fs') ;
 
+fs.writeFileSync("hello.txt", "Witam z pliku wygenerowanego przez Node fs") ;
 
+console.log("done") ;
+```
+----
+==WE USE NODE TO RUN A SEVER CODE== BUT NODE IS SOME MORE THAN JUST ONLY server
+
+NodeJS  Role (in Web Dev):
+	- **run server** 
+		- create  server & 
+		- listen to incoming Requests
+	- **business logic** 
+		- handle requests
+		- Validate input
+		- connect to DB
+	- **response**
+		- return responses
+			- render HTML
+			- render JSON
+			- ...
 
 
 
