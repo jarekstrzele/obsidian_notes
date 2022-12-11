@@ -157,7 +157,35 @@ print(object.__base__)
 - `super()` returns an instance of the parent class, enabling us to directly reference its methods and attributes
 - `super()` could be called within any subclass method as well at any step, i.e. not necessarily thi first thing we do
 
+```python
+class Pies:
+    kolor = 'czerwony'
+    
+    def __init__(self, imie, rasa):
+        self.imie=imie
+        self.rasa=rasa
+        
+    def atakuj(self, wrog):
+        print(f'{self.imie} atakuje {wrog}' )
 
+class Doberman(Pies):
+    
+    def pokaz_kolor(self):
+        print(super().kolor)
+        
+class Bernenczyk(Pies):
+    
+    
+    def atakuj(self, wrog):
+        super().atakuj(wrog)
+        print("Berneńczyk tylko żartuje, że atakuje")
+
+d=Doberman('zabójca', 'doberman')
+d.pokaz_kolor()
+d.atakuj('złodziej')
+b=Bernenczyk('Figa', 'bernanski pies pasterski')
+b.atakuj('złodziej')
+```
 
 
 
