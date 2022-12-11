@@ -188,7 +188,20 @@ b.atakuj('złodziej')
 ```
 
 
+#### `__init__`
+```python
+class Parent:
+    def __init__(self, age):
+        self.age=age
+        print(f'{self} is {self.age} old')
+        
+class Child(Parent):
+    pass
 
+# man = Child()
+# TypeError: __init__() missing 1 required positional argument: 'age'
+man=Child(22)
+```
 
 
 
