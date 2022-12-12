@@ -109,12 +109,52 @@ export default AddUser;
 AddUser.module.css
 ```css
 .input {
+
     margin: 2rem auto;
+
     padding: 1rem;
+
     width: 90%;
+
     max-width: 40rem;
+
+  }
+
+  .input label {
+
+    display: flex;
+
+    font-weight: bold;
+
+    margin-bottom: 0.5rem;
+
+  }
+
+  .input input {
+
+    font: inherit;
+
+    display: flex;
+
+    width: 100%;
+
+    border: 1px solid #ccc;
+
+    padding: 0.15rem;
+
+    margin-bottom: 0.5rem;
+
+  }
+
+  .input input:focus {
+
+    outline: none;
+    border-color: #4f005f;
+
   }
 ```
+instead of `flex` you can use `block`
+
 
 ## Adding a reusable Button component
 
