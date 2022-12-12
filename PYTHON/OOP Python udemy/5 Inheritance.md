@@ -204,5 +204,21 @@ man=Child(22)
 ```
 
 
+---
+## Subclassing Properties
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
