@@ -207,6 +207,8 @@ man=Child(22)
 ---
 ## Subclassing Properties
 
+- properties defined in the parent coud be extended/modified in the subclass
+- properties live in the namespace of the class in which they-re defined, reffering to them from subclasses you have to use fullname `className.propertiName`
 
 
 
