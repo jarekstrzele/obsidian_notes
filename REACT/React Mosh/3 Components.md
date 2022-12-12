@@ -10,7 +10,7 @@ https://phoenixnap.com/kb/debian-install-nodejs
 curl https://raw.githubusercontent.com/creationix/nvm/master/install.sh | bash
 ```
 
-`source  ~./profile` restart terminal
+`source  ~/i.profile` restart terminal
 
 `nvm ls-remote` list
 `nvm install 18.12.1`

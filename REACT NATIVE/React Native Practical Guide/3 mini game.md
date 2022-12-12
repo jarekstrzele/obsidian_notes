@@ -306,7 +306,7 @@ export default StartGameScreen ;
 --------------------
 # Background Coloring
 
-`<View>` takes only space that is needed
+`<View>` takes only space that is needed ==!!!!!!==
 `flex:1` take o many space that is possible
 App.jsx
 ```jsx
@@ -323,21 +323,63 @@ return (
 
 const styles = StyleSheet.create({
 mainContainer:{
-flex: 1,
-backgroundColor: '#f8e7ff',
+	flex: 1,
+	backgroundColor: '#f8e7ff',
 }
 });
 ```
+if you set up a backgrund color in the App, the same color will be in other screens
+
 
 ## Linear Gradiant
+inside the project folder (maybe)
 ### `expo install expo-linear-gradient`
 
 and than you can import `{LinearGradient}`
+App.jsx
+```jsx
+import { StyleSheet,View, Text } from 'react-native';
+import StartScreen from './screens/StartScreen.jsx' ;
+import { LinearGradient } from 'expo-linear-gradient' ;
+
+export default function App() {
+  return (
+    <LinearGradient colors={['#f8e7ff','#2bb1b7' ]} style={styles.mainContainer}>
+      <StartScreen />
+    </LinearGradient>
+  );
+}
+  
+const styles = StyleSheet.create({
+  mainContainer:{
+    flex: 1,
+    backgroundColor: '#f8e7ff'
+  }
+});
+```
 
 
+## Adding a Background image
+You have to use `ImageBackground`  buit-in component!
+```jsx
+//..
+export default function App() {
+  return (
+    <LinearGradient colors={['#f8e7ff','#2bb1b7' ]} style={styles.mainContainer}>
+      <ImageBackground source={require('./assets/dices-unsplash.jpg')} resize="cover" style={styles.mainContainer}>
+      <StartScreen />
+        </ImageBackground>
+    </LinearGradient>
+  );
+}
+```
 
+resizeMode: 
+	- cover
+	- strech
+	- ...
+- 
 
-
-
+Gradient is disapeared
 
 
