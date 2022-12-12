@@ -50,15 +50,73 @@ index.css
 ```
 
 ## Adding Card component
+Our own components can interact only with their props, so they don't know e.g. `className` component
+
+in the Card component we want have two classes:
+- one from Card.module.css
+- second from the parent (App.js), so we can use props and `${..}` template literal
+
 UI> Card.jsx
 ```js
+import React from 'react'
+import classes from  './Card.module.css'
 
+
+const Card = props =>{
+    return(
+        <div className={`${classes.card} ${props.className}`}> {props.children} </div>
+    );
+}
+
+export default Card;
+```
+UI>Card.module.css
+```css
+.card{
+    background-color: white;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.26);
+    border-radius: 10px;
+}
 ```
 
+AddUserjs.
+```js
+import React from 'react' ;
+import Card from '../UI/Card' ;
+import classes from './AddUser.module.css' ;
 
+const AddUser = () =>
+{
+    const addUserHandler = (event) => {
+        event.preventDefault() ;
+    }
 
+    return (
+        <Card className={classes.input}>
+            <form onsSubmit={addUserHandler}>
+                <label htmlFor="username">Username</label>
+                <input id="username" type="text" />
+                <label htmlFor="age">Age (Years)</label>
+                <input id="age" type="Number" />
+                <button type="submit">Add user</button>
+            </form>
+        </Card>
+    )
+};
+export default AddUser;
+```
 
+AddUser.module.css
+```css
+.input {
+    margin: 2rem auto;
+    padding: 1rem;
+    width: 90%;
+    max-width: 40rem;
+  }
+```
 
+## Adding a reusable Button component
 
 
 

@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REACT/React - the Complete Guide/6.1. Styling extra.md",
+                "file": "REACT/React - the Complete Guide/8 Login Project.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REACT/React - the Complete Guide/6.1. Styling extra.md",
+                "file": "REACT/React - the Complete Guide/8 Login Project.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REACT/React - the Complete Guide/6.1. Styling extra.md",
+                "file": "REACT/React - the Complete Guide/8 Login Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REACT/React - the Complete Guide/6.1. Styling extra.md"
+                "file": "REACT/React - the Complete Guide/8 Login Project.md"
               }
             }
           },
@@ -236,6 +236,7 @@
   },
   "active": "abbcafcf19a8b6a6",
   "lastOpenFiles": [
+    "REACT/React - the Complete Guide/6.1. Styling extra.md",
     "REACT/React - the Complete Guide/8 Login Project.md",
     "PYTHON/OOP Python udemy/5 Inheritance.md",
     "Flutter/Dart/3.3 Encryption.md",
@@ -243,7 +244,6 @@
     "Flutter/Dart/1.3 - Dart Collections.md",
     "JAVASCRIPT/NODE - the complete guide/3 Node Basics.md",
     "JAVASCRIPT/NODE - the complete guide/_0 Node Complete Guide.md",
-    "REACT/React - the Complete Guide/6.1. Styling extra.md",
     "JAVASCRIPT/Lear Node.js and Javascript/- 2 JavaScript.md",
     "JAVASCRIPT/Lear Node.js and Javascript/_ Node and JavaScript.md"
   ]
