@@ -210,9 +210,49 @@ man=Child(22)
 - properties defined in the parent coud be extended/modified in the subclass
 - properties live in the namespace of the class in which they-re defined, reffering to them from subclasses you have to use fullname `className.propertiName`
 
+```jsx
+class Parent:
+    def __init__(self, gold):
+        self.gold=gold
+        
+    @property
+    def gold(self):
+        print("I am getter from Parent")
+        return self._gold
+    
+    @gold.setter
+    def gold(self, v):
+        print("I am setter from Parent")
+        if v < 1:
+            raise ValueError("Value must be greater than 1")
+        self._gold=v
 
+p = Parent(100)
+print(p.gold)
+p.gold=1
+print(p.gold)
 
+class Child(Parent):
+    pass
 
+ch = Child(10)
+print(ch.gold)
+ch.gold=-21
+```
+
+you can change `Child` class
+```jsx
+class Child(Parent):
+    @Parent.gold.setter
+    def gold(self, v):
+        print('I am setter from Child')
+        self._gold = v
+
+ch = Child(10)
+print(ch.gold)
+ch.gold=-21
+print(ch.gold)
+```
 
 
 
