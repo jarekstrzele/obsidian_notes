@@ -255,6 +255,30 @@ print(ch.gold)
 ```
 
 
+## Extending Built-ins
+- in python, you could extend the behavior of built-in data structures just like we do with regualr user-defined ones
+- to do that:
+	- define a subclass that inherits from the respective built-in
+	- modify/enhance only the behaviour you care about
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
