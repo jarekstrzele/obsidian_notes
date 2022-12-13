@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "7 Notepad",
-      "path": "PYTHON/GUI/the art of doing create 10 Python GUI/7 Notepad.md"
+      "basename": "4 Properties",
+      "path": "PYTHON/OOP Python udemy/4 Properties.md"
     },
     {
       "basename": "5 Inheritance",
       "path": "PYTHON/OOP Python udemy/5 Inheritance.md"
+    },
+    {
+      "basename": "7 Notepad",
+      "path": "PYTHON/GUI/the art of doing create 10 Python GUI/7 Notepad.md"
     },
     {
       "basename": "3 mini game",
@@ -195,10 +199,6 @@
     {
       "basename": "Grafy",
       "path": "algorithmic/Grafy.md"
-    },
-    {
-      "basename": "_ 0 Grafy w Pythonie",
-      "path": "algorithmic/Grafy w Pythonie/_ 0 Grafy w Pythonie.md"
     }
   ],
   "omittedPaths": [],
