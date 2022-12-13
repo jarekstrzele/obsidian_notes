@@ -6,7 +6,7 @@ FIRST:
 NEXT
 `npx create-expo-app my-app`
 
-
+Start your smartphon simulator and than `expo start` inside the project folder
 
 
 
