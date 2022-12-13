@@ -8,6 +8,9 @@ NEXT
 
 Start your smartphon simulator and than `expo start` inside the project folder
 
+TAILWIND to use univarsal css style in react native
+https://www.nativewind.dev/
+
 
 
 
