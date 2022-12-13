@@ -297,9 +297,44 @@ print(uczniowie['JAN'])
 Sorki, ale takiego ucznia
 ```
 
+other example
+```python
+my_list = [1,2,3,4,5,10]
+print(sum(my_list)/len(my_list))
 
+class ModernList(list):
+    @property
+    def avg(self):
+        return sum(self)/len(self)
+        
 
+ml = ModernList([1,2,3,4,5,10])
+print(ml.avg)
+```
 
+or
+```python
+my_list = [1,2,3,4,5,10]
+print(sum(my_list)/len(my_list))
+
+class ModernList(list):
+    
+    def __init__(self,*args):
+        if args and type(args[0]) != list:
+            super().__init__(args)
+        else:
+            super().__init__(args[0])
+            
+    @property
+    def avg(self):
+        return sum(self)/len(self)
+        
+
+ml = ModernList(1,2,3,4,5,10)
+print(ml.avg)
+ml = ModernList([1,2,3,4,5,10])
+print(ml.avg)
+```
 
 
 
