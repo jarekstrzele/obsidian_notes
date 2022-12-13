@@ -336,10 +336,21 @@ ml = ModernList([1,2,3,4,5,10])
 print(ml.avg)
 ```
 
+First, instead of overriding built-in type, look at https://docs.python.org/3/library/collections.html
+
+----
+# Composition
+Maybe instead of using inheritance use COMPOSITON:
+> one object is made to contain others and produce more complex constructs
 
 
+> [!info] inheritance
+> use inheritance for objects 
+> that naturally align in "is-a" relationships
 
-
+>[!info] composition
+>use composition for those objects 
+>that conceptually fit "has-a" relationships
 
 
 
