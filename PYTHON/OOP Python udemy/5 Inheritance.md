@@ -262,9 +262,40 @@ print(ch.gold)
 	- modify/enhance only the behaviour you care about
 
 
+```python
+uczniowie = {
+    "jan": [1,2,2,6],
+    "zuzia": [3,1,5],
+    "marek": [6,6,6]
+}
+print(uczniowie['jan'])
+print(uczniowie['JAN'])
 
+[1, 2, 2, 6]
+Traceback (most recent call last):
+  File "<string>", line 7, in <module>
+KeyError: 'JAN'
+```
 
+```python
+class ManagerUczniow(dict):
+    def __getitem__(self, item):
+        if item not in self:
+            return "Sorki, ale takiego ucznia"
+        
+        return super().__getitem__(item)
 
+uczniowie = ManagerUczniow({
+    "jan": [1,2,2,6],
+    "zuzia": [3,1,5],
+    "marek": [6,6,6]
+})
+print(uczniowie['jan'])
+print(uczniowie['JAN'])
+
+[1, 2, 2, 6]
+Sorki, ale takiego ucznia
+```
 
 
 
