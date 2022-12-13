@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PYTHON/OOP Python udemy/5 Inheritance.md",
+                "file": "PYTHON/OOP Python udemy/4 Properties.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PYTHON/OOP Python udemy/5 Inheritance.md",
+                "file": "PYTHON/OOP Python udemy/4 Properties.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PYTHON/OOP Python udemy/5 Inheritance.md",
+                "file": "PYTHON/OOP Python udemy/4 Properties.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PYTHON/OOP Python udemy/5 Inheritance.md"
+                "file": "PYTHON/OOP Python udemy/4 Properties.md"
               }
             }
           },
@@ -163,9 +163,9 @@
   },
   "active": "99ef4c5f7ac88ad0",
   "lastOpenFiles": [
+    "PYTHON/OOP Python udemy/5 Inheritance.md",
     "PYTHON/OOP Python udemy/_ 0 Python OOP.md",
     "PYTHON/OOP Python udemy/4 Properties.md",
-    "PYTHON/OOP Python udemy/5 Inheritance.md",
     "PYTHON/GUI/the art of doing create 10 Python GUI/7 Notepad.md",
     "REACT NATIVE/React Native Practical Guide/3 mini game.md",
     "REACT NATIVE/React Native Practical Guide/2 Debugging React Native Apps.md",
