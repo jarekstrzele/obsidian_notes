@@ -11,8 +11,12 @@
             "id": "99ef4c5f7ac88ad0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "REACT NATIVE/youtube_RN_Crush_course/_ 0 React Native Crush Course.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "REACT NATIVE/youtube_RN_Crush_course/_ 0 React Native Crush Course.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "REACT NATIVE/youtube_RN_Crush_course/_ 0 React Native Crush Course.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "REACT NATIVE/youtube_RN_Crush_course/_ 0 React Native Crush Course.md"
+              }
             }
           },
           {
