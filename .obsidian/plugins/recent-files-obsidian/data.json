@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "React Native Getting Started",
+      "path": "REACT NATIVE/plurasight/React Native Getting Started.md"
+    },
+    {
+      "basename": "React Native - The Big Picture 1",
+      "path": "REACT NATIVE/plurasight/React Native - The Big Picture 1.md"
+    },
+    {
+      "basename": "_ 0 React Native Mobile Apps",
+      "path": "REACT NATIVE/plurasight/Building Mobile Apps with React Native/_ 0 React Native Mobile Apps.md"
+    },
+    {
+      "basename": "3 - React Native - Stack navigation",
+      "path": "REACT NATIVE/plurasight/Building Mobile Apps with React Native/3 - React Native - Stack navigation.md"
+    },
+    {
+      "basename": "4 - React Native - Gesture handlers",
+      "path": "REACT NATIVE/plurasight/Building Mobile Apps with React Native/4 - React Native - Gesture handlers.md"
+    },
+    {
+      "basename": "React Native - Stack navigation",
+      "path": "REACT NATIVE/plurasight/Building Mobile Apps with React Native/React Native - Stack navigation.md"
+    },
+    {
       "basename": "6 Slots",
       "path": "PYTHON/OOP Python udemy/6 Slots.md"
     },
@@ -163,42 +187,6 @@
     {
       "basename": "3.5. Logi",
       "path": "Docker/docker HELION Adam Raźniewski/3.5. Logi.md"
-    },
-    {
-      "basename": "3.4. statystyki i procesy",
-      "path": "Docker/docker HELION Adam Raźniewski/3.4. statystyki i procesy.md"
-    },
-    {
-      "basename": "3.3. Sieci dockerowe",
-      "path": "Docker/docker HELION Adam Raźniewski/3.3. Sieci dockerowe.md"
-    },
-    {
-      "basename": "3.2. Wolumeny",
-      "path": "Docker/docker HELION Adam Raźniewski/3.2. Wolumeny.md"
-    },
-    {
-      "basename": "3.1.  tryb interaktywny",
-      "path": "Docker/docker HELION Adam Raźniewski/3.1.  tryb interaktywny.md"
-    },
-    {
-      "basename": "3 Jupyter Lab For Data Science",
-      "path": "Docker/Docker essentials for Python Developers/3 Quick Start/3 Jupyter Lab For Data Science.md"
-    },
-    {
-      "basename": "3 Jupyter Notebook with ML Model and TensorBroad",
-      "path": "Docker/Docker essentials for Python Developers/3 Quick Start/3 Jupyter Notebook with ML Model and TensorBroad.md"
-    },
-    {
-      "basename": "3 Build and Run Django Web Sever Container",
-      "path": "Docker/Docker essentials for Python Developers/3 Quick Start/3 Build and Run Django Web Sever Container.md"
-    },
-    {
-      "basename": "3 Basic Python Runtime Environment in Docker",
-      "path": "Docker/Docker essentials for Python Developers/3 Quick Start/3 Basic Python Runtime Environment in Docker.md"
-    },
-    {
-      "basename": "_intro quick start docker",
-      "path": "Docker/Docker essentials for Python Developers/3 Quick Start/_intro quick start docker.md"
     }
   ],
   "omittedPaths": [],
