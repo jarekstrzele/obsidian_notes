@@ -20,6 +20,23 @@ slots replace an object `__dict__` into **fixed-size array**:
 	- fixed-array -> $O(1)$
 
 but `slots` cause the loss of flexibility (we can't add any new attributes)
+```python
+class Humburger:
+    __slots__ = ('name', 'price', 'weight')
+    
+    def __init__(self, name, price, weight):
+        self.name=name
+        self.price=price
+        self.weight=weight
+        
+h = Humburger('Drwala', 33.5, '125g')
+print(h.name)
+h.name="Wieśmak"
+print(h.name)
+h.pro = "hum"
+
+AttributeError: 'Humburger' object has no attribute 'pro'
+```
 
 
 
