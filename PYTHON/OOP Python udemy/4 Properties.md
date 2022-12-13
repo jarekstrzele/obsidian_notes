@@ -236,7 +236,7 @@ print(c1.membership)
 print("Done")
 ```
 
->[[!info]] decorator
+>[!info] decorator
 >It is a function that:
 >	- takes another function as an argument
 >	- adds some functionality
