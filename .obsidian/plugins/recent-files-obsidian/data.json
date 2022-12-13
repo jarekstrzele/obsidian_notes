@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "7 Notepad",
+      "path": "PYTHON/GUI/the art of doing create 10 Python GUI/7 Notepad.md"
+    },
+    {
       "basename": "5 Inheritance",
       "path": "PYTHON/OOP Python udemy/5 Inheritance.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_ 0 Grafy w Pythonie",
       "path": "algorithmic/Grafy w Pythonie/_ 0 Grafy w Pythonie.md"
-    },
-    {
-      "basename": "fake_movies.js",
-      "path": "REACT/React Mosh/fake_movies.js.md"
     }
   ],
   "omittedPaths": [],
