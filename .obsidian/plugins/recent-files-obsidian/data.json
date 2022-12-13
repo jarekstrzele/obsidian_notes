@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "6 Slots",
+      "path": "PYTHON/OOP Python udemy/6 Slots.md"
+    },
+    {
       "basename": "6.1. Styling extra",
       "path": "REACT/React - the Complete Guide/6.1. Styling extra.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_intro quick start docker",
       "path": "Docker/Docker essentials for Python Developers/3 Quick Start/_intro quick start docker.md"
-    },
-    {
-      "basename": "_ 0 React Mosh",
-      "path": "REACT/React Mosh/_ 0 React Mosh.md"
     }
   ],
   "omittedPaths": [],
