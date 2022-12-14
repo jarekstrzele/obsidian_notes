@@ -76,6 +76,19 @@ server.listen(3000);
 and now open browser on `localhost:3000`
 and then you will see in the console result of `console.log(req)`
 
+------
+## Node Lifecycle and Event Loop
+#node/event_loop
+
+>[!info] Event Loop
+>a loop process which is managed by nodejs which keeps on running as long as there is work to do (keeps on running as long as there are event listeners registered)
+
+to quit `process.exit()`
+
+---
+## Request object
+It is the object that nodejs generetes for us with all the data of the incoming request
+
 
 
 
