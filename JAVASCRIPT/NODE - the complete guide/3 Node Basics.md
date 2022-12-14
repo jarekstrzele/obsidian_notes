@@ -87,7 +87,7 @@ to quit `process.exit()`
 
 ---
 ## Request object
-It is the object that nodejs generetes for us with all the data of the incoming request
+It is the object that nodejs generetes for us with all the data of the incoming request when we visiting e.g. `localhost:3000`
 
 
 
