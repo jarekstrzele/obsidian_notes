@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
+      "basename": "Scieżki uczenia się",
+      "path": "Scieżki uczenia się.md"
+    },
+    {
+      "basename": "static type",
+      "path": "static type.md"
+    },
+    {
       "basename": "3 mini game",
       "path": "REACT NATIVE/React Native Practical Guide/3 mini game.md"
     },
@@ -187,14 +199,6 @@
     {
       "basename": "3.7. Historia obrazu",
       "path": "Docker/docker HELION Adam Raźniewski/3.7. Historia obrazu.md"
-    },
-    {
-      "basename": "3.6 limity zasobów",
-      "path": "Docker/docker HELION Adam Raźniewski/3.6 limity zasobów.md"
-    },
-    {
-      "basename": "3.5. Logi",
-      "path": "Docker/docker HELION Adam Raźniewski/3.5. Logi.md"
     }
   ],
   "omittedPaths": [],
