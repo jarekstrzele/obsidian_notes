@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "_ 0 React Native - Practical Guide",
+      "path": "REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md"
+    },
+    {
       "basename": "Untitled",
       "path": "Untitled.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "3.8. Uruchamianie kontenera",
       "path": "Docker/docker HELION Adam Raźniewski/3.8. Uruchamianie kontenera.md"
-    },
-    {
-      "basename": "3.7. Historia obrazu",
-      "path": "Docker/docker HELION Adam Raźniewski/3.7. Historia obrazu.md"
     }
   ],
   "omittedPaths": [],

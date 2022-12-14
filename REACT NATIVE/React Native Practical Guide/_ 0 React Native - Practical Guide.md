@@ -62,7 +62,7 @@ www.reactnative.dev
 expo CLI Quickstart `npm install -g expo-cli`  (`-g` globally)
 (you can use third-party service for free), expo is easier than React Native CLI (it is more advance)
 
-#### `expo init AwesomeProject` - to start a new project
+## `expo init AwesomeProject` - to start a new project
 (choose blank a minimal app as clean as an empty canvas)
 
 you can use #expo in your phone to see your  mobile app.

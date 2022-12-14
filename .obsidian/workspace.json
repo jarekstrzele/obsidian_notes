@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
-                "mode": "preview",
+                "file": "REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md"
               }
             }
           },
@@ -176,6 +176,7 @@
   },
   "active": "5c452f4194009633",
   "lastOpenFiles": [
+    "Untitled.md",
     "Scieżki uczenia się.md",
     "static type.md",
     "REACT NATIVE/React Native Practical Guide/3 mini game.md",
@@ -184,7 +185,6 @@
     "REACT NATIVE/Building Mobile Apps with React Native/4 - React Native - Gesture handlers.md",
     "REACT NATIVE/Building Mobile Apps with React Native/3 - React Native - Stack navigation.md",
     "REACT NATIVE/Building Mobile Apps with React Native/_ 0 React Native Mobile Apps.md",
-    "REACT NATIVE/plurasight/React Native Getting Started.md",
-    "REACT NATIVE/plurasight/React Native - The Big Picture 1.md"
+    "REACT NATIVE/plurasight/React Native Getting Started.md"
   ]
 }
