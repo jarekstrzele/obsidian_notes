@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "_ 0 PostgreSQL TUTORIAL",
+      "path": "Data Bases/PostgreSQL/Postgresql TUTORIAL/_ 0 PostgreSQL TUTORIAL.md"
+    },
+    {
+      "basename": "Introduction",
+      "path": "Data Bases/PostgreSQL/Postgres_From_Zero_to_Hero 1/Introduction.md"
+    },
+    {
+      "basename": "3 Working with Tables",
+      "path": "Data Bases/PostgreSQL/Postgres Complete Guide/3 Working with Tables.md"
+    },
+    {
+      "basename": "2 Filtering Records",
+      "path": "Data Bases/PostgreSQL/Postgres Complete Guide/2 Filtering Records.md"
+    },
+    {
       "basename": "_0 Strat PostgreSql CompleteGuide",
       "path": "Data Bases/PostgreSQL/Postgres Complete Guide/_0 Strat PostgreSql CompleteGuide.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "2 Docker Containers and the Docker Engine",
       "path": "Docker/Docker Intro Essentials/2 Docker Containers and the Docker Engine.md"
-    },
-    {
-      "basename": "Docker Images",
-      "path": "Docker/Docker Intro Essentials/Docker Images.md"
-    },
-    {
-      "basename": "3 Docker Images in Depth",
-      "path": "Docker/Docker Intro Essentials/3 Docker Images in Depth.md"
-    },
-    {
-      "basename": "_ Intro Docker Essentials",
-      "path": "Docker/Docker Intro Essentials/_ Intro Docker Essentials.md"
-    },
-    {
-      "basename": "3.10  terminal kontenera",
-      "path": "Docker/docker HELION Adam Raźniewski/3.10  terminal kontenera.md"
     }
   ],
   "omittedPaths": [],
