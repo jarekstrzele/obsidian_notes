@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "_0 Strat PostgreSql CompleteGuide",
+      "path": "Data Bases/PostgreSQL/Postgres Complete Guide/_0 Strat PostgreSql CompleteGuide.md"
+    },
+    {
       "basename": "3 Node Basics",
       "path": "JAVASCRIPT/NODE - the complete guide/3 Node Basics.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "3.10  terminal kontenera",
       "path": "Docker/docker HELION Adam Raźniewski/3.10  terminal kontenera.md"
-    },
-    {
-      "basename": "3.8. Uruchamianie kontenera",
-      "path": "Docker/docker HELION Adam Raźniewski/3.8. Uruchamianie kontenera.md"
     }
   ],
   "omittedPaths": [],
