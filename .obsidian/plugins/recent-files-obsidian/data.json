@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "3 Components",
+      "path": "REACT/React Mosh/3 Components.md"
+    },
+    {
       "basename": "4 Properties",
       "path": "PYTHON/OOP Python udemy/4 Properties.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_start Docker Projektowanie i wdrażanie aplikacji",
       "path": "Docker/Docker Projektowanie i wdrażanie aplikacji ebook/_start Docker Projektowanie i wdrażanie aplikacji.md"
-    },
-    {
-      "basename": "2 Docker Containers and the Docker Engine",
-      "path": "Docker/Docker Intro Essentials/2 Docker Containers and the Docker Engine.md"
     }
   ],
   "omittedPaths": [],

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PYTHON/OOP Python udemy/4 Properties.md",
+                "file": "REACT/React Mosh/3 Components.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PYTHON/OOP Python udemy/4 Properties.md",
+                "file": "REACT/React Mosh/3 Components.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PYTHON/OOP Python udemy/4 Properties.md",
+                "file": "REACT/React Mosh/3 Components.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PYTHON/OOP Python udemy/4 Properties.md"
+                "file": "REACT/React Mosh/3 Components.md"
               }
             }
           },
@@ -176,6 +176,7 @@
   },
   "active": "5c452f4194009633",
   "lastOpenFiles": [
+    "PYTHON/OOP Python udemy/4 Properties.md",
     "Data Bases/PostgreSQL/Postgresql TUTORIAL/_ 0 PostgreSQL TUTORIAL.md",
     "Data Bases/PostgreSQL/Postgres_From_Zero_to_Hero 1/Introduction.md",
     "Data Bases/PostgreSQL/Postgres Complete Guide/3 Working with Tables.md",
@@ -184,7 +185,6 @@
     "JAVASCRIPT/NODE - the complete guide/3 Node Basics.md",
     "JAVASCRIPT/NODE - the complete guide/_0 Node Complete Guide.md",
     "REACT NATIVE/React Native Practical Guide/3 mini game.md",
-    "REACT NATIVE/youtube_RN_Crush_course/_ 0 React Native Crush Course.md",
-    "REACT NATIVE/React Native Practical Guide/1 React Native Basics.md"
+    "REACT NATIVE/youtube_RN_Crush_course/_ 0 React Native Crush Course.md"
   ]
 }
