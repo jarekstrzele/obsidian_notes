@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scieżki uczenia się.md",
+                "file": "REACT/React Mosh/3 Components.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithmic/Grafy w Pythonie/1. Wprowadzenie do grafów.md",
+                "file": "REACT/React Mosh/3 Components.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorithmic/Grafy w Pythonie/1. Wprowadzenie do grafów.md",
+                "file": "REACT/React Mosh/3 Components.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algorithmic/Grafy w Pythonie/1. Wprowadzenie do grafów.md"
+                "file": "REACT/React Mosh/3 Components.md"
               }
             }
           },
@@ -174,8 +173,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5c452f4194009633",
+  "active": "99ef4c5f7ac88ad0",
   "lastOpenFiles": [
+    "Scieżki uczenia się.md",
+    "algorithmic/Grafy w Pythonie/1. Wprowadzenie do grafów.md",
     "REACT/React Mosh/3 Components.md",
     "REACT/React Mosh/3.1 Component vidly project.md",
     "PYTHON/OOP Python udemy/4 Properties.md",
@@ -183,8 +184,6 @@
     "Data Bases/PostgreSQL/Postgres_From_Zero_to_Hero 1/Introduction.md",
     "Data Bases/PostgreSQL/Postgres Complete Guide/3 Working with Tables.md",
     "Data Bases/PostgreSQL/Postgres Complete Guide/2 Filtering Records.md",
-    "Data Bases/PostgreSQL/Postgres Complete Guide/_0 Strat PostgreSql CompleteGuide.md",
-    "JAVASCRIPT/NODE - the complete guide/3 Node Basics.md",
-    "JAVASCRIPT/NODE - the complete guide/_0 Node Complete Guide.md"
+    "Data Bases/PostgreSQL/Postgres Complete Guide/_0 Strat PostgreSql CompleteGuide.md"
   ]
 }
