@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "1. Wprowadzenie do grafów",
+      "path": "algorithmic/Grafy w Pythonie/1. Wprowadzenie do grafów.md"
+    },
+    {
       "basename": "3 Components",
       "path": "REACT/React Mosh/3 Components.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Command vs Entrypoint",
       "path": "Docker/For Absolute Beginner/Command vs Entrypoint.md"
-    },
-    {
-      "basename": "_ wprowadzenie do dockera",
-      "path": "Docker/Docker Projektowanie i wdrażanie aplikacji ebook/_ wprowadzenie do dockera.md"
     }
   ],
   "omittedPaths": [],
