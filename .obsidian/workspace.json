@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REACT/React Mosh/3 Components.md",
+                "file": "algorithmic/Grafy w Pythonie/1. Wprowadzenie do grafów.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REACT/React Mosh/3 Components.md",
+                "file": "algorithmic/Grafy w Pythonie/1. Wprowadzenie do grafów.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REACT/React Mosh/3 Components.md"
+                "file": "algorithmic/Grafy w Pythonie/1. Wprowadzenie do grafów.md"
               }
             }
           },
@@ -173,11 +174,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "99ef4c5f7ac88ad0",
+  "active": "5c452f4194009633",
   "lastOpenFiles": [
+    "REACT/React Mosh/3 Components.md",
     "Scieżki uczenia się.md",
     "algorithmic/Grafy w Pythonie/1. Wprowadzenie do grafów.md",
-    "REACT/React Mosh/3 Components.md",
     "REACT/React Mosh/3.1 Component vidly project.md",
     "PYTHON/OOP Python udemy/4 Properties.md",
     "Data Bases/PostgreSQL/Postgresql TUTORIAL/_ 0 PostgreSQL TUTORIAL.md",
