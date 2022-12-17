@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "_ 0 Advenced Python",
+      "path": "PYTHON/Advanced Python_Youtube/_ 0 Advenced Python.md"
+    },
+    {
       "basename": "1. Wprowadzenie do grafów",
       "path": "algorithmic/Grafy w Pythonie/1. Wprowadzenie do grafów.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "DOCKER COMPOSE",
       "path": "Docker/For Absolute Beginner/DOCKER COMPOSE.md"
-    },
-    {
-      "basename": "Command vs Entrypoint",
-      "path": "Docker/For Absolute Beginner/Command vs Entrypoint.md"
     }
   ],
   "omittedPaths": [],

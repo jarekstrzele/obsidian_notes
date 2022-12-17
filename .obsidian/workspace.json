@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6de99def80c59f06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PYTHON/Advanced Python_Youtube/_ 0 Advenced Python.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithmic/Grafy w Pythonie/1. Wprowadzenie do grafów.md",
+                "file": "PYTHON/Advanced Python_Youtube/_ 0 Advenced Python.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorithmic/Grafy w Pythonie/1. Wprowadzenie do grafów.md",
+                "file": "PYTHON/Advanced Python_Youtube/_ 0 Advenced Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algorithmic/Grafy w Pythonie/1. Wprowadzenie do grafów.md"
+                "file": "PYTHON/Advanced Python_Youtube/_ 0 Advenced Python.md"
               }
             }
           },
@@ -174,11 +186,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5c452f4194009633",
+  "active": "6de99def80c59f06",
   "lastOpenFiles": [
+    "algorithmic/Grafy w Pythonie/1. Wprowadzenie do grafów.md",
     "REACT/React Mosh/3 Components.md",
     "Scieżki uczenia się.md",
-    "algorithmic/Grafy w Pythonie/1. Wprowadzenie do grafów.md",
     "REACT/React Mosh/3.1 Component vidly project.md",
     "PYTHON/OOP Python udemy/4 Properties.md",
     "Data Bases/PostgreSQL/Postgresql TUTORIAL/_ 0 PostgreSQL TUTORIAL.md",
