@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "_ Uczenie Maszynowe  Helion Piotr Szajowski",
+      "path": "A I/uczenie maszynowe/_ Uczenie Maszynowe  Helion Piotr Szajowski.md"
+    },
+    {
       "basename": "_ 0 Advenced Python",
       "path": "PYTHON/Advanced Python_Youtube/_ 0 Advenced Python.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Docker image push to DockerHub",
       "path": "Docker/For Absolute Beginner/Docker image push to DockerHub.md"
-    },
-    {
-      "basename": "DOCKER COMPOSE",
-      "path": "Docker/For Absolute Beginner/DOCKER COMPOSE.md"
     }
   ],
   "omittedPaths": [],

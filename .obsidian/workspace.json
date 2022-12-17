@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PYTHON/Advanced Python_Youtube/_ 0 Advenced Python.md",
+                "file": "A I/uczenie maszynowe/_ Uczenie Maszynowe  Helion Piotr Szajowski.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PYTHON/Advanced Python_Youtube/_ 0 Advenced Python.md",
+                "file": "A I/uczenie maszynowe/_ Uczenie Maszynowe  Helion Piotr Szajowski.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PYTHON/Advanced Python_Youtube/_ 0 Advenced Python.md",
+                "file": "A I/uczenie maszynowe/_ Uczenie Maszynowe  Helion Piotr Szajowski.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PYTHON/Advanced Python_Youtube/_ 0 Advenced Python.md"
+                "file": "A I/uczenie maszynowe/_ Uczenie Maszynowe  Helion Piotr Szajowski.md"
               }
             }
           },
@@ -188,6 +188,7 @@
   },
   "active": "6de99def80c59f06",
   "lastOpenFiles": [
+    "PYTHON/Advanced Python_Youtube/_ 0 Advenced Python.md",
     "algorithmic/Grafy w Pythonie/1. Wprowadzenie do grafów.md",
     "REACT/React Mosh/3 Components.md",
     "Scieżki uczenia się.md",
@@ -196,7 +197,6 @@
     "Data Bases/PostgreSQL/Postgresql TUTORIAL/_ 0 PostgreSQL TUTORIAL.md",
     "Data Bases/PostgreSQL/Postgres_From_Zero_to_Hero 1/Introduction.md",
     "Data Bases/PostgreSQL/Postgres Complete Guide/3 Working with Tables.md",
-    "Data Bases/PostgreSQL/Postgres Complete Guide/2 Filtering Records.md",
-    "Data Bases/PostgreSQL/Postgres Complete Guide/_0 Strat PostgreSql CompleteGuide.md"
+    "Data Bases/PostgreSQL/Postgres Complete Guide/2 Filtering Records.md"
   ]
 }
