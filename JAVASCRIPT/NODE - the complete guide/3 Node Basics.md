@@ -158,6 +158,17 @@ const server = http.createServer((req,res) => {
 server.listen(3000) ;
 ```
 
+#### Streams and Buffers
+the request is simply read by Node in **chunks**
+	stream ---Request part 1---Request part 2-- ... --> Fully Parsed
+
+**buffer** is a construct which allows you to hold multiple chunks and work with tem before ther are released.
+
+
+
+
+
+
 
 
 
