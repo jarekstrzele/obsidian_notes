@@ -178,7 +178,9 @@ so in the file above add:
         });
         req.on('end', () => {
             const parsedBody = Buffer.concat(body).toString();
-            console.log(parsedBody);
+        console.log(parsedBody);
+        message  = parsedBody.split('=')[1] //parsedBody is 'msg=Hello%21'
+            fs.writeFileSync('./message.txt', message);
         });
  // new -----------------------
         fs.writeFileSync('./message.txt', 'DUMMY');
@@ -193,10 +195,10 @@ so in the file above add:
 msg=to+jest+nowe+info
 ```
 
+in `message will ne write what you write in the input`
 
 
-
-
+### Event driven Code execustion
 
 
 
