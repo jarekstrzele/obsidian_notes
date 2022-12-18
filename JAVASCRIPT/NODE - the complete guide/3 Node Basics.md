@@ -164,6 +164,11 @@ the request is simply read by Node in **chunks**
 
 **buffer** is a construct which allows you to hold multiple chunks and work with tem before ther are released.
 
+`req.on('<event>', <functionThatWillBeExecuted>)` it turns on some listener e.g. `req.on('data', (chunk) => { ... })` (data event will be firefd whenever a new chink is ready to be read)
+
+
+
+
 
 
 
