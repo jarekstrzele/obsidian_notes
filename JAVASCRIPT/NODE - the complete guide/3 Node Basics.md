@@ -166,7 +166,32 @@ the request is simply read by Node in **chunks**
 
 `req.on('<event>', <functionThatWillBeExecuted>)` it turns on some listener e.g. `req.on('data', (chunk) => { ... })` (data event will be firefd whenever a new chink is ready to be read)
 
+so in the file above add:
 
+```jsx
+  if(url==='/message' && method === 'POST'){
+        const body=[] ;
+//new piece ------------------
+        req.on('data', (chunk)=>{
+            console.log(chunk);
+            body.push(chunk);
+        });
+        req.on('end', () => {
+            const parsedBody = Buffer.concat(body).toString();
+            console.log(parsedBody);
+        });
+ // new -----------------------
+        fs.writeFileSync('./message.txt', 'DUMMY');
+        res.statusCode=302
+        res.setHeader('Location', '/');
+        return res.end()
+    }
+```
+
+```bash
+<Buffer 6d 73 67 3d 74 6f 2b 6a 65 73 74 2b 6e 6f 77 65 2b 69 6e 66 6f 72>
+msg=to+jest+nowe+info
+```
 
 
 
