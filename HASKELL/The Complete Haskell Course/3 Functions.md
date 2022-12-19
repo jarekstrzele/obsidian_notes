@@ -107,9 +107,13 @@ prod :: Int -> (Int->Int)
 
 
 ## Solve Problems -- Functions
- remotes/origin/master
 
 
+
+
+## Prime Number
+>[!info] Prime Number
+>It is a whole number greater than 1 whose only factors are 1 and itsself.
 
 
 
