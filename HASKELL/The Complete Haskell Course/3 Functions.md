@@ -56,7 +56,7 @@ valAbs n
 ```
 Guard evaluation is top-down and returns the result of the first true branch.
 
-Pattern definitions can also habe guards.
+Pattern definitions can also have guards.
 
 ## Local Definitions
 to define local names in an expression it is used the `let-in`:
@@ -92,7 +92,7 @@ The indentation of the `where` defines its scope.
 
 ## Currying
 All functions have a single parameter.
-Functions of more htan one parameter actually return a new function.
+Functions of more than one parameter actually return a new function.
 No need to pass all parameters (partial application)
 **Example:**
 `prod 3 5` is, i reality, `(prod 3) 5` First we apply `3` and the result is a function that expects another integer.
@@ -106,11 +106,8 @@ prod :: Int -> (Int->Int)
 ```
 
 
-<<<<<<< HEAD
-
-=======
 ## Solve Problems -- Functions
->>>>>>> remotes/origin/master
+ remotes/origin/master
 
 
 
