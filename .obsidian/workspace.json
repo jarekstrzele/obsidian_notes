@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVASCRIPT/NODE - the complete guide/3 Node Basics.md",
+                "file": "N_O_D_E/Lear Node.js and Javascript/_ Node and JavaScript.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVASCRIPT/NODE - the complete guide/3 Node Basics.md",
+                "file": "N_O_D_E/Lear Node.js and Javascript/_ Node and JavaScript.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVASCRIPT/NODE - the complete guide/3 Node Basics.md",
+                "file": "N_O_D_E/Lear Node.js and Javascript/_ Node and JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVASCRIPT/NODE - the complete guide/3 Node Basics.md"
+                "file": "N_O_D_E/Lear Node.js and Javascript/_ Node and JavaScript.md"
               }
             }
           },
@@ -186,17 +186,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6de99def80c59f06",
+  "active": "f621f21825dbd82d",
   "lastOpenFiles": [
-    "JAVASCRIPT/NODE - the complete guide/_0 Node Complete Guide.md",
+    "N_O_D_E/Lear Node.js and Javascript/- 4 MySQL with Node.js.md",
+    "N_O_D_E/NODE - the complete guide/3 Node Basics.md",
+    "N_O_D_E/NODE - the complete guide/_0 Node Complete Guide.md",
     "A I/uczenie maszynowe/_ Uczenie Maszynowe  Helion Piotr Szajowski.md",
     "PYTHON/Advanced Python_Youtube/_ 0 Advenced Python.md",
     "algorithmic/Grafy w Pythonie/1. Wprowadzenie do grafów.md",
     "REACT/React Mosh/3 Components.md",
     "Scieżki uczenia się.md",
     "REACT/React Mosh/3.1 Component vidly project.md",
-    "PYTHON/OOP Python udemy/4 Properties.md",
-    "Data Bases/PostgreSQL/Postgresql TUTORIAL/_ 0 PostgreSQL TUTORIAL.md",
-    "Data Bases/PostgreSQL/Postgres_From_Zero_to_Hero 1/Introduction.md"
+    "PYTHON/OOP Python udemy/4 Properties.md"
   ]
 }

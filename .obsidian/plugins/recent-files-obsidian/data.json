@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "_ Node and JavaScript",
+      "path": "N_O_D_E/Lear Node.js and Javascript/_ Node and JavaScript.md"
+    },
+    {
+      "basename": "- 4 MySQL with Node.js",
+      "path": "N_O_D_E/Lear Node.js and Javascript/- 4 MySQL with Node.js.md"
+    },
+    {
       "basename": "3 Node Basics",
-      "path": "JAVASCRIPT/NODE - the complete guide/3 Node Basics.md"
+      "path": "N_O_D_E/NODE - the complete guide/3 Node Basics.md"
     },
     {
       "basename": "_0 Node Complete Guide",
-      "path": "JAVASCRIPT/NODE - the complete guide/_0 Node Complete Guide.md"
+      "path": "N_O_D_E/NODE - the complete guide/_0 Node Complete Guide.md"
     },
     {
       "basename": "_ Uczenie Maszynowe  Helion Piotr Szajowski",
@@ -158,15 +166,11 @@
     },
     {
       "basename": "- 2 JavaScript",
-      "path": "JAVASCRIPT/Lear Node.js and Javascript/- 2 JavaScript.md"
-    },
-    {
-      "basename": "_ Node and JavaScript",
-      "path": "JAVASCRIPT/Lear Node.js and Javascript/_ Node and JavaScript.md"
+      "path": "N_O_D_E/Lear Node.js and Javascript/- 2 JavaScript.md"
     },
     {
       "basename": "- 3 Node",
-      "path": "JAVASCRIPT/Lear Node.js and Javascript/- 3 Node.md"
+      "path": "N_O_D_E/Lear Node.js and Javascript/- 3 Node.md"
     },
     {
       "basename": "Flex container",
@@ -195,10 +199,6 @@
     {
       "basename": "Docker inspect",
       "path": "Docker/For Absolute Beginner/Docker inspect.md"
-    },
-    {
-      "basename": "Docker image push to DockerHub",
-      "path": "Docker/For Absolute Beginner/Docker image push to DockerHub.md"
     }
   ],
   "omittedPaths": [],

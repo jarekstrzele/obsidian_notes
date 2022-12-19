@@ -124,9 +124,9 @@ the value of `stuff` can be anything
 ----
 # git
 <<<<<<< HEAD
-[[JAVASCRIPT/Lear Node.js and Javascript/git]]
+[[N_O_D_E/Lear Node.js and Javascript/git]]
 =======
-[[git]]
+[[N_O_D_E/Lear Node.js and Javascript/git]]
 >>>>>>> remotes/origin/master
 
 
