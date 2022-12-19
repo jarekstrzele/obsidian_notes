@@ -415,7 +415,13 @@ const styles = StyleSheet.create({
 
 ## Game logic
 
+in App.js add:
+- `const [enteredNumber, setEnteredNumber] = useState('');`
+- function `numberInputHandler`, `confirmInputHandler`
+- in `TextInput` `value={enteredNumber}`
+- in `PrimaryButton` a new attribute `onPress={confirmInputHandler}`
 
 
-
+in PrimaryButton.js add
+- change `props` into `{children, onPress}`
 
