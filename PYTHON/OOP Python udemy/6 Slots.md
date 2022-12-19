@@ -40,7 +40,9 @@ h.pro = "hum"
 AttributeError: 'Humburger' object has no attribute 'pro'
 ```
 
-`__slots__` creates a descriptor( an object that implement one of three methods: get(), set(), delete()) for each mapped attribute, thereby overriding the default `__getattribute__` behav
+`__slots__` creates a descriptor( an object that implement one of three methods: get(), set(), delete()) for each mapped attribute, thereby overriding the default `__getattribute__` behavior
+
+`__slots__` attributes resides in the class' mappingproxy
 
 
 
