@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "3 Functions",
+      "path": "HASKELL/The Complete Haskell Course/3 Functions.md"
+    },
+    {
+      "basename": "2 Basic Types",
+      "path": "HASKELL/The Complete Haskell Course/2 Basic Types.md"
+    },
+    {
+      "basename": "1 Basics",
+      "path": "HASKELL/The Complete Haskell Course/1 Basics.md"
+    },
+    {
+      "basename": "_ 0 Complete Haskell Course",
+      "path": "HASKELL/The Complete Haskell Course/_ 0 Complete Haskell Course.md"
+    },
+    {
       "basename": "6 Slots",
       "path": "PYTHON/OOP Python udemy/6 Slots.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "_ start docker helion Raźniewski",
       "path": "Docker/docker HELION Adam Raźniewski/_ start docker helion Raźniewski.md"
-    },
-    {
-      "basename": "Getting Started with Docker",
-      "path": "Docker/Plurasight/Getting Started with Docker.md"
-    },
-    {
-      "basename": "Docker and Kubernetes - the Big Pucture",
-      "path": "Docker/Plurasight/Docker and Kubernetes - the Big Pucture.md"
-    },
-    {
-      "basename": "Building and Running your first docker app",
-      "path": "Docker/Plurasight/Building and Running your first docker app.md"
-    },
-    {
-      "basename": "Docker inspect",
-      "path": "Docker/For Absolute Beginner/Docker inspect.md"
     }
   ],
   "omittedPaths": [],
