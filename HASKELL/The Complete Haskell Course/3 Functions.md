@@ -101,7 +101,7 @@ No need to pass all parameters (partial application)
 prod :: Int -> Int -> Int
 prod :: Int -> (Int->Int)
 
-(prode 3) :: (Int->Int)
+(prod 3) :: (Int->Int)
 (prod 3) 5 :: Int
 ```
 
