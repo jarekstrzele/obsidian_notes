@@ -420,8 +420,148 @@ in App.js add:
 - function `numberInputHandler`, `confirmInputHandler`
 - in `TextInput` `value={enteredNumber}`
 - in `PrimaryButton` a new attribute `onPress={confirmInputHandler}`
+```jsx
+  
 
+import {TextInput, View , StyleSheet} from 'react-native' ;
+import PrimaryButton from '../components/PrimaryButton.jsx' ;
+import { useState } from 'react' ;
+
+function StartScreen() {
+  const [enteredNumber, setEnteredNumber] = useState('');
+
+  function numberInputHandler(enteredText){
+    setEnteredNumber(enteredText) ;
+  }
+
+  function confirmInputHandler(){
+  }
+
+  return (
+<View style={styles.inputContainer}>
+  <TextInput  style={styles.numberInput}
+             maxLength={2}  
+             keyboardType="number-pad"
+             autoCapitalize="none"
+             autoCorrect={false}
+             onChangeText={numberInputHandler}
+             value={enteredNumber}
+   />
+  <View style={styles.btnsContainer}>
+     <View style={styles.btnContainer}>
+        <PrimaryButton> Reset </PrimaryButton>
+        <PrimaryButton onPress={confirmInputHandler}> Confirm </PrimaryButton>
+     </View>
+  </View>
+</View>
+  );
+}
+
+export default StartScreen ;
+ 
+
+const styles = StyleSheet.create({
+    inputContainer: {
+      alignItems: 'center',
+      marginTop: 100,
+      padding: 10,
+      marginHorizontal: 24,
+      backgroundColor: '#2aa1b7',
+      borderRadius: 8,
+      // css boxShadow
+      elevation: 5, // android
+       // shadowColor, shadowOffse(width: number, height: number), shadowOpacity{: 0.23}, shadowRadius(: number)
+    },
+    numberInput: {
+      height: 50,
+      width: 50,
+      fontSize: 25,
+      borderBottomColor: '#f8e7ff',
+      borderBottomWidth: 2,
+      color: '#f8e7ff',
+      marginVertical: 8,
+      fontWeight: 'bold',
+      textAlign: 'center'
+    },
+
+    btnsContainer:{
+      flexDirection: 'row'
+    },
+    btnContainer:{
+      flex:1
+    }
+  }) ;
+```
 
 in PrimaryButton.js add
-- change `props` into `{children, onPress}`
+- change `props` into `{children, onPress} =>`
+- in `Pressable` attribute `onPress={onPress}`
+```jsx
+import {View, Text, Pressable, StyleSheet} from 'react-native' ;
+
+const PrimaryButton = ({children, onPress }) => {
+  return (
+   <View style={styles.btnOuterContainer} >
+      <Pressable
+        style={(pressed) =>
+          pressed
+            ? [styles.btnInnerContainer, styles.pressed]
+            : styles.btnInnerContainer
+          }
+        onPress={onPress}
+        android_ripple={{color:'white'}}
+      >
+         <Text style={styles.btnText}> {children} </Text>  
+     </Pressable>  
+  </View>
+  )
+}
+
+  export default PrimaryButton ;
+
+
+const styles = StyleSheet.create({
+  btnOuterContainer:{
+    borderRadius: 28,
+    margin: 4,
+    overflow: 'hidden'
+  },
+
+  btnInnerContainer:{
+    backgroundColor: '#25979c',
+    paddingVertical: 8,
+    paddingHorizontal: 16,
+    elevation: 2,
+  },
+
+  btnText:{
+    color:'white',
+    textAlign: 'center'
+
+  },
+
+  pressed:{
+    opacity: 0.75,
+  }
+});
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
