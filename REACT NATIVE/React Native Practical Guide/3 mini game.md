@@ -361,12 +361,15 @@ const styles = StyleSheet.create({
 
 ## Adding a Background image
 You have to use `ImageBackground`  buit-in component!
+https://unsplash.com
+
 ```jsx
 //..
 export default function App() {
   return (
     <LinearGradient colors={['#f8e7ff','#2bb1b7' ]} style={styles.mainContainer}>
-      <ImageBackground source={require('./assets/dices-unsplash.jpg')} resize="cover" style={styles.mainContainer}>
+	      <ImageBackground source={require('./assets/dices-unsplash.jpg')}          resize="cover" 
+	                       style={styles.mainContainer}>
       <StartScreen />
         </ImageBackground>
     </LinearGradient>
@@ -380,7 +383,38 @@ resizeMode:
 	- ...
 - 
 
-Gradient is disapeared
+Gradient is disapeared, but if you delete `backgroundColor:...` from `mainContainer` you obtain a background image and gradiant
+App.js
+```js
+import { StyleSheet, ImageBackground } from 'react-native';
+import StartScreen from './screens/StartScreen.jsx' ;
+import { LinearGradient } from 'expo-linear-gradient' ;
+
+export default function App() {
+  return (
+    <LinearGradient colors={['#111aa7', '#18eFff' ]} style={styles.mainContainer}>
+      <ImageBackground source={require('./assets/dices-unsplash.jpg')}
+                       resizeMode="strech"
+                       style={styles.mainContainer}
+                       imageStyle={styles.backgroundIMG}>
+          <StartScreen />
+        </ImageBackground>
+    </LinearGradient>
+  );
+}
+
+const styles = StyleSheet.create({
+  mainContainer:{
+    flex: 1,
+    },
+    backgroundIMG:{
+      opacity: 0.2
+    }
+});
+```
+
+## Game logic
+
 
 
 
