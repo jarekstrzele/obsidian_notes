@@ -307,7 +307,7 @@ export default StartGameScreen ;
 # Background Coloring
 
 `<View>` takes only space that is needed ==!!!!!!==
-`flex:1` take o many space that is possible
+`flex:1` take a many space that is possible
 App.jsx
 ```jsx
 import { StyleSheet, Text, View, StatusBar } from 'react-native';
@@ -381,5 +381,7 @@ resizeMode:
 - 
 
 Gradient is disapeared
+
+
 
 
