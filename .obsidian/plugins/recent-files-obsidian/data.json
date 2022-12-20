@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "_ basics GUI Python",
+      "path": "PYTHON/GUI/the art of doing create 10 Python GUI/_ basics GUI Python.md"
+    },
+    {
+      "basename": "PySimpleGUI",
+      "path": "PYTHON/GUI/PySimpleGUI.md"
+    },
+    {
+      "basename": "Five most Popular Python Gui Libs",
+      "path": "PYTHON/GUI/Five most Popular Python Gui Libs.md"
+    },
+    {
+      "basename": "7 Notepad",
+      "path": "PYTHON/GUI/the art of doing create 10 Python GUI/7 Notepad.md"
+    },
+    {
+      "basename": "4 Metric Helper",
+      "path": "PYTHON/GUI/the art of doing create 10 Python GUI/4 Metric Helper.md"
+    },
+    {
+      "basename": "3 Hello GUI World",
+      "path": "PYTHON/GUI/the art of doing create 10 Python GUI/3 Hello GUI World.md"
+    },
+    {
       "basename": "3 Functions",
       "path": "HASKELL/The Complete Haskell Course/3 Functions.md"
     },
@@ -157,10 +181,6 @@
       "path": "PYTHON/OOP Python udemy/_ 0 Python OOP.md"
     },
     {
-      "basename": "7 Notepad",
-      "path": "PYTHON/GUI/the art of doing create 10 Python GUI/7 Notepad.md"
-    },
-    {
       "basename": "2 Debugging React Native Apps",
       "path": "REACT NATIVE/React Native Practical Guide/2 Debugging React Native Apps.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "1.3 - Dart Collections",
       "path": "Flutter/Dart/1.3 - Dart Collections.md"
-    },
-    {
-      "basename": "- 2 JavaScript",
-      "path": "N_O_D_E/Lear Node.js and Javascript/- 2 JavaScript.md"
-    },
-    {
-      "basename": "- 3 Node",
-      "path": "N_O_D_E/Lear Node.js and Javascript/- 3 Node.md"
-    },
-    {
-      "basename": "Flex container",
-      "path": "HTML CSS/FlexBox/Css FlexBox in Depth 2022/Flex container.md"
-    },
-    {
-      "basename": "_ 0 Start FlexBox Css",
-      "path": "HTML CSS/FlexBox/Css FlexBox in Depth 2022/_ 0 Start FlexBox Css.md"
-    },
-    {
-      "basename": "_ start docker helion Raźniewski",
-      "path": "Docker/docker HELION Adam Raźniewski/_ start docker helion Raźniewski.md"
     }
   ],
   "omittedPaths": [],

@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HASKELL/The Complete Haskell Course/3 Functions.md",
+                "file": "PYTHON/GUI/the art of doing create 10 Python GUI/_ basics GUI Python.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/The Complete Haskell Course/3 Functions.md",
+                "file": "PYTHON/GUI/the art of doing create 10 Python GUI/_ basics GUI Python.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/The Complete Haskell Course/3 Functions.md",
+                "file": "PYTHON/GUI/the art of doing create 10 Python GUI/_ basics GUI Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/The Complete Haskell Course/3 Functions.md"
+                "file": "PYTHON/GUI/the art of doing create 10 Python GUI/_ basics GUI Python.md"
               }
             }
           },
@@ -188,15 +188,15 @@
   },
   "active": "6de99def80c59f06",
   "lastOpenFiles": [
+    "PYTHON/GUI/PySimpleGUI.md",
+    "PYTHON/GUI/Five most Popular Python Gui Libs.md",
+    "PYTHON/GUI/the art of doing create 10 Python GUI/7 Notepad.md",
+    "PYTHON/GUI/the art of doing create 10 Python GUI/4 Metric Helper.md",
+    "PYTHON/GUI/the art of doing create 10 Python GUI/3 Hello GUI World.md",
+    "PYTHON/GUI/the art of doing create 10 Python GUI/_ basics GUI Python.md",
+    "HASKELL/The Complete Haskell Course/3 Functions.md",
     "HASKELL/The Complete Haskell Course/2 Basic Types.md",
     "HASKELL/The Complete Haskell Course/1 Basics.md",
-    "HASKELL/The Complete Haskell Course/_ 0 Complete Haskell Course.md",
-    "PYTHON/OOP Python udemy/6 Slots.md",
-    "REACT NATIVE/React Native Practical Guide/3 mini game.md",
-    "N_O_D_E/Lear Node.js and Javascript/_ Node and JavaScript.md",
-    "N_O_D_E/Lear Node.js and Javascript/- 4 MySQL with Node.js.md",
-    "N_O_D_E/NODE - the complete guide/3 Node Basics.md",
-    "N_O_D_E/NODE - the complete guide/_0 Node Complete Guide.md",
-    "A I/uczenie maszynowe/_ Uczenie Maszynowe  Helion Piotr Szajowski.md"
+    "HASKELL/The Complete Haskell Course/_ 0 Complete Haskell Course.md"
   ]
 }
