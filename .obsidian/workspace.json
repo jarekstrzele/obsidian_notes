@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PYTHON/OOP Python udemy/5 Inheritance.md",
+                "file": "HASKELL/The Complete Haskell Course/3 Functions.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PYTHON/OOP Python udemy/5 Inheritance.md",
+                "file": "HASKELL/The Complete Haskell Course/3 Functions.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PYTHON/OOP Python udemy/5 Inheritance.md",
+                "file": "HASKELL/The Complete Haskell Course/3 Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PYTHON/OOP Python udemy/5 Inheritance.md"
+                "file": "HASKELL/The Complete Haskell Course/3 Functions.md"
               }
             }
           },
@@ -188,6 +188,8 @@
   },
   "active": "6de99def80c59f06",
   "lastOpenFiles": [
+    "HASKELL/The Complete Haskell Course/2 Basic Types.md",
+    "PYTHON/OOP Python udemy/5 Inheritance.md",
     "PYTHON/GUI/the art of doing create 10 Python GUI/_ basics GUI Python.md",
     "PYTHON/GUI/PySimpleGUI.md",
     "PYTHON/GUI/Five most Popular Python Gui Libs.md",
@@ -195,8 +197,6 @@
     "PYTHON/GUI/the art of doing create 10 Python GUI/4 Metric Helper.md",
     "PYTHON/GUI/the art of doing create 10 Python GUI/3 Hello GUI World.md",
     "HASKELL/The Complete Haskell Course/3 Functions.md",
-    "HASKELL/The Complete Haskell Course/2 Basic Types.md",
-    "HASKELL/The Complete Haskell Course/1 Basics.md",
-    "HASKELL/The Complete Haskell Course/_ 0 Complete Haskell Course.md"
+    "HASKELL/The Complete Haskell Course/1 Basics.md"
   ]
 }
