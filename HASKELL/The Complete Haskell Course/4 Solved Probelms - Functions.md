@@ -36,7 +36,26 @@ power x p
 >It is a whole number greater than 1 whose only factors are 1 and itsself.
 
 
+```haskell
+isPrime :: Int -> Bool
 
+isPrime 0 = False
+isPrime 1 = False
+
+isPrime x = not (hasDivisor (x-1))
+	where
+		hasDivisor :: Int -> Bool
+		hasDivisor 1 = False
+		hasDivisor n = mod x n == 0 || hasDivisor(n-1)
+```
+
+## Fibonacci Sequence
+>[!info] Fibonacci Sequence
+>each number is a sum of tow preceding ones
+
+$fib(0)=0$
+$fib(1)=1$
+$fib(n)=fib(n-1)+fib(n-2)$ for $n>=2$
 
 
 
