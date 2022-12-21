@@ -54,7 +54,8 @@ distance p1 p2 = sqrt (sqr dx + sqr dy)
 distance (x1, y1) (x2, y2) = sqrt ((x1 -x2)^2 + (y1-y2)^2)
 ```
 
-
+## Empty Tuple (Unit)
+There exists the tuple type without any data, which has only one possible value: the empty data.
 
 
 
