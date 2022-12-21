@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "3 Functions",
+      "path": "HASKELL/The Complete Haskell Course/3 Functions.md"
+    },
+    {
+      "basename": "_ 0 Complete Haskell Course",
+      "path": "HASKELL/The Complete Haskell Course/_ 0 Complete Haskell Course.md"
+    },
+    {
+      "basename": "4 Solved Probelms - Functions",
+      "path": "HASKELL/The Complete Haskell Course/4 Solved Probelms - Functions.md"
+    },
+    {
+      "basename": "2 Basic Types",
+      "path": "HASKELL/The Complete Haskell Course/2 Basic Types.md"
+    },
+    {
       "basename": "_ basics GUI Python",
       "path": "PYTHON/GUI/the art of doing create 10 Python GUI/_ basics GUI Python.md"
     },
@@ -11,14 +27,6 @@
     {
       "basename": "7 Notepad",
       "path": "PYTHON/GUI/the art of doing create 10 Python GUI/7 Notepad.md"
-    },
-    {
-      "basename": "3 Functions",
-      "path": "HASKELL/The Complete Haskell Course/3 Functions.md"
-    },
-    {
-      "basename": "2 Basic Types",
-      "path": "HASKELL/The Complete Haskell Course/2 Basic Types.md"
     },
     {
       "basename": "5 Inheritance",
@@ -39,10 +47,6 @@
     {
       "basename": "1 Basics",
       "path": "HASKELL/The Complete Haskell Course/1 Basics.md"
-    },
-    {
-      "basename": "_ 0 Complete Haskell Course",
-      "path": "HASKELL/The Complete Haskell Course/_ 0 Complete Haskell Course.md"
     },
     {
       "basename": "6 Slots",
@@ -195,10 +199,6 @@
     {
       "basename": "2.3. Polymorphism",
       "path": "Flutter/Dart/2.3. Polymorphism.md"
-    },
-    {
-      "basename": "1.3 - Dart Collections",
-      "path": "Flutter/Dart/1.3 - Dart Collections.md"
     }
   ],
   "omittedPaths": [],
