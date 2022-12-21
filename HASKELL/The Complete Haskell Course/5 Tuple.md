@@ -30,6 +30,34 @@ timeDecomposition seconds = (h, m, s)
 
 ```haskell
 fst :: (a, b) -> a
-
+snd :: (a, b) -> b
 ```
+
+```haskell
+first (x, _, _) = x
+third (_,_, z) = z
+```
+
+
+## Decomposition fo Tuples into Patterns
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
