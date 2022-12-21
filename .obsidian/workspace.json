@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HASKELL/The Complete Haskell Course/3 Functions.md",
+                "file": "HASKELL/The Complete Haskell Course/4 Solved Probelms - Functions.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/The Complete Haskell Course/3 Functions.md",
+                "file": "HASKELL/The Complete Haskell Course/4 Solved Probelms - Functions.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/The Complete Haskell Course/3 Functions.md",
+                "file": "HASKELL/The Complete Haskell Course/4 Solved Probelms - Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/The Complete Haskell Course/3 Functions.md"
+                "file": "HASKELL/The Complete Haskell Course/4 Solved Probelms - Functions.md"
               }
             }
           },
@@ -212,9 +212,9 @@
   },
   "active": "00fac20e508afa1d",
   "lastOpenFiles": [
-    "HASKELL/The Complete Haskell Course/_ 0 Complete Haskell Course.md",
-    "HASKELL/The Complete Haskell Course/4 Solved Probelms - Functions.md",
     "HASKELL/The Complete Haskell Course/3 Functions.md",
+    "HASKELL/The Complete Haskell Course/4 Solved Probelms - Functions.md",
+    "HASKELL/The Complete Haskell Course/_ 0 Complete Haskell Course.md",
     "HASKELL/The Complete Haskell Course/2 Basic Types.md",
     "PYTHON/GUI/the art of doing create 10 Python GUI/_ basics GUI Python.md",
     "PYTHON/GUI/the art of doing create 10 Python GUI/4 Metric Helper.md",
