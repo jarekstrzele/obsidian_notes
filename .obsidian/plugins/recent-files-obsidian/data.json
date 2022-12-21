@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "5 Tuple",
+      "path": "HASKELL/The Complete Haskell Course/5 Tuple.md"
+    },
+    {
+      "basename": "_ 0 Complete Haskell Course",
+      "path": "HASKELL/The Complete Haskell Course/_ 0 Complete Haskell Course.md"
+    },
+    {
       "basename": "4 Solved Probelms - Functions",
       "path": "HASKELL/The Complete Haskell Course/4 Solved Probelms - Functions.md"
     },
     {
       "basename": "3 Functions",
       "path": "HASKELL/The Complete Haskell Course/3 Functions.md"
-    },
-    {
-      "basename": "_ 0 Complete Haskell Course",
-      "path": "HASKELL/The Complete Haskell Course/_ 0 Complete Haskell Course.md"
     },
     {
       "basename": "2 Basic Types",
@@ -195,10 +199,6 @@
     {
       "basename": "3.3 Encryption",
       "path": "Flutter/Dart/3.3 Encryption.md"
-    },
-    {
-      "basename": "2.3. Polymorphism",
-      "path": "Flutter/Dart/2.3. Polymorphism.md"
     }
   ],
   "omittedPaths": [],

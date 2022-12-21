@@ -3,6 +3,10 @@
 [[1 Basics]]
 [[2 Basic Types]]
 [[3 Functions]]
+[[4 Solved Probelms - Functions]]
+[[5 Tuple]]
+
+
 
 
 -----
