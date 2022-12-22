@@ -162,9 +162,9 @@ server.listen(3000) ;
 the request is simply read by Node in **chunks**
 	stream ---Request part 1---Request part 2-- ... --> Fully Parsed
 
-**buffer** is a construct which allows you to hold multiple chunks and work with tem before ther are released.
+**buffer** is a construct which allows you to hold multiple chunks and work with them before they are released.
 
-`req.on('<event>', <functionThatWillBeExecuted>)` it turns on some listener e.g. `req.on('data', (chunk) => { ... })` (data event will be firefd whenever a new chink is ready to be read)
+`req.on('<event>', <functionThatWillBeExecuted>)` it turns on some listener e.g. `req.on('data', (chunk) => { ... })` (data event will be firefd whenever a new chunk is ready to be read)
 
 so in the file above add:
 
@@ -195,10 +195,10 @@ so in the file above add:
 msg=to+jest+nowe+info
 ```
 
-in `message will ne write what you write in the input`
+in `message will be write what you write in the input`
 
 
-### Event driven Code execustion
+### Event driven Code execution
 
 
 
