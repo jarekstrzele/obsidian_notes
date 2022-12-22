@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REACT/React - the Complete Guide/5 Rendering Lists and Conditional content.md",
+                "file": "Data Bases/PostgreSQL/Postgres Complete Guide/_0 Strat PostgreSql CompleteGuide.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REACT/React - the Complete Guide/5 Rendering Lists and Conditional content.md",
+                "file": "Data Bases/PostgreSQL/Postgres Complete Guide/_0 Strat PostgreSql CompleteGuide.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REACT/React - the Complete Guide/5 Rendering Lists and Conditional content.md",
+                "file": "Data Bases/PostgreSQL/Postgres Complete Guide/_0 Strat PostgreSql CompleteGuide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REACT/React - the Complete Guide/5 Rendering Lists and Conditional content.md"
+                "file": "Data Bases/PostgreSQL/Postgres Complete Guide/_0 Strat PostgreSql CompleteGuide.md"
               }
             }
           },
@@ -236,6 +236,7 @@
   },
   "active": "d8aceb0dff9a3529",
   "lastOpenFiles": [
+    "REACT/React - the Complete Guide/5 Rendering Lists and Conditional content.md",
     "HASKELL/The Complete Haskell Course/6 Lists.md",
     "HASKELL/The Complete Haskell Course/_ 0 Complete Haskell Course.md",
     "HASKELL/The Complete Haskell Course/5 Tuple.md",
@@ -244,7 +245,6 @@
     "HASKELL/The Complete Haskell Course/2 Basic Types.md",
     "PYTHON/GUI/the art of doing create 10 Python GUI/_ basics GUI Python.md",
     "PYTHON/GUI/the art of doing create 10 Python GUI/4 Metric Helper.md",
-    "PYTHON/GUI/the art of doing create 10 Python GUI/7 Notepad.md",
-    "PYTHON/OOP Python udemy/5 Inheritance.md"
+    "PYTHON/GUI/the art of doing create 10 Python GUI/7 Notepad.md"
   ]
 }
