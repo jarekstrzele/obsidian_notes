@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "My SQL",
+      "path": "My SQL.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
       "basename": "_0 Strat PostgreSql CompleteGuide",
       "path": "Data Bases/PostgreSQL/Postgres Complete Guide/_0 Strat PostgreSql CompleteGuide.md"
     },
@@ -145,10 +153,6 @@
       "path": "REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md"
     },
     {
-      "basename": "Untitled",
-      "path": "Untitled.md"
-    },
-    {
       "basename": "static type",
       "path": "static type.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2 Debugging React Native Apps",
       "path": "REACT NATIVE/React Native Practical Guide/2 Debugging React Native Apps.md"
-    },
-    {
-      "basename": "1.7 Modal Screen",
-      "path": "REACT NATIVE/React Native Practical Guide/1.7 Modal Screen.md"
     }
   ],
   "omittedPaths": [],

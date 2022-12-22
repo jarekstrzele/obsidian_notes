@@ -78,9 +78,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d4688a49c77db3cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "059d892e2b2e0844",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "My SQL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -154,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Bases/PostgreSQL/Postgres Complete Guide/_0 Strat PostgreSql CompleteGuide.md",
+                "file": "My SQL.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -171,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Bases/PostgreSQL/Postgres Complete Guide/_0 Strat PostgreSql CompleteGuide.md",
+                "file": "My SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Bases/PostgreSQL/Postgres Complete Guide/_0 Strat PostgreSql CompleteGuide.md"
+                "file": "My SQL.md"
               }
             }
           },
@@ -234,17 +258,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d8aceb0dff9a3529",
+  "active": "059d892e2b2e0844",
   "lastOpenFiles": [
+    "Untitled.md",
+    "My SQL.md",
+    "Data Bases/PostgreSQL/Postgres Complete Guide/_0 Strat PostgreSql CompleteGuide.md",
     "REACT/React - the Complete Guide/5 Rendering Lists and Conditional content.md",
     "HASKELL/The Complete Haskell Course/6 Lists.md",
     "HASKELL/The Complete Haskell Course/_ 0 Complete Haskell Course.md",
     "HASKELL/The Complete Haskell Course/5 Tuple.md",
     "HASKELL/The Complete Haskell Course/4 Solved Probelms - Functions.md",
     "HASKELL/The Complete Haskell Course/3 Functions.md",
-    "HASKELL/The Complete Haskell Course/2 Basic Types.md",
-    "PYTHON/GUI/the art of doing create 10 Python GUI/_ basics GUI Python.md",
-    "PYTHON/GUI/the art of doing create 10 Python GUI/4 Metric Helper.md",
-    "PYTHON/GUI/the art of doing create 10 Python GUI/7 Notepad.md"
+    "HASKELL/The Complete Haskell Course/2 Basic Types.md"
   ]
 }
