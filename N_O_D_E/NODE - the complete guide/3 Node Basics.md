@@ -199,7 +199,7 @@ in `message will be write what you write in the input`
 
 
 ### Event driven Code execution
-
+`req.on(...)` it will be registred, and will be executed when the event will hapend
 
 
 
