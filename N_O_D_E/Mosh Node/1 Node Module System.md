@@ -202,37 +202,41 @@ Listener called  { id: 1, url: 'http://' }
 
 
 ### Extending EventEmmiter
+moshLogger.js
+```js
+const EventEmitter = require('events') ;
+// var url ='http://myogger.io/loh' ;
+
+class Logger extends EventEmitter{
+    log(msg){
+        //Send an Http request
+        console.log(msg) ;
+  
+        // Raise en event
+        this.emit('messageLogged', {id: 1, url: 'http://'} )
+    }
+}
+
+module.exports = Logger ;
+```
+
+main.js
+``` js
+const Logger = require('./moshLogger') ;
+const logger = new Logger();
+
+// Register a listener
+logger.on('messageLogged', (arg) => {
+    console.log('Listener called ', arg) ;
+    }
+) ;
+
+logger.log('meeeesssage') ;
+```
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+----
+## HTTP Module
 
 
 
