@@ -24,6 +24,28 @@ It includes some basic information about your app (metdata):
 
 
 # Installing a Node Package
+How to add third party packages?
+www.npmjs.com
+`npm i underscore`
+```shell
+> npm i underscore
+npm WARN config global `--global`, `--local` are deprecated. Use `--location=global` instead.
+
+added 1 package, and audited 2 packages in 1s
+
+found 0 vulnerabilities
+```
+
+in package.json
+```json
+//...
+ "author": "",
+ "license": "ISC",
+ "dependencies": {
+   "underscore": "^1.13.6"
+  }
+```
+
 
 
 # Using a Package
