@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "2 Node Package Manager",
+      "path": "N_O_D_E/Mosh Node/2 Node Package Manager.md"
+    },
+    {
       "basename": "1 Node Module System",
       "path": "N_O_D_E/Mosh Node/1 Node Module System.md"
+    },
+    {
+      "basename": "_ 0 Node (Mosh)",
+      "path": "N_O_D_E/Mosh Node/_ 0 Node (Mosh).md"
     },
     {
       "basename": "_0 Node Complete Guide",
@@ -19,10 +27,6 @@
     {
       "basename": "- 3 Node",
       "path": "N_O_D_E/Lear Node.js and Javascript/- 3 Node.md"
-    },
-    {
-      "basename": "_ 0 Node (Mosh)",
-      "path": "N_O_D_E/Mosh Node/_ 0 Node (Mosh).md"
     },
     {
       "basename": "3 Node Basics",
@@ -195,10 +199,6 @@
     {
       "basename": "_ Uczenie Maszynowe  Helion Piotr Szajowski",
       "path": "A I/uczenie maszynowe/_ Uczenie Maszynowe  Helion Piotr Szajowski.md"
-    },
-    {
-      "basename": "_ 0 Advenced Python",
-      "path": "PYTHON/Advanced Python_Youtube/_ 0 Advenced Python.md"
     }
   ],
   "omittedPaths": [],
