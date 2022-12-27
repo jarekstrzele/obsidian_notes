@@ -10,7 +10,17 @@ to install
 
 # Package.json
 
+It includes some basic information about your app (metdata):
+- name
+- version
+- authors
+- git repo 
+- ...
+`npm init`
 
+==Before adding any node packages to your project , you need to create a package.json file==
+
+`npm init --yes`
 
 
 # Installing a Node Package
