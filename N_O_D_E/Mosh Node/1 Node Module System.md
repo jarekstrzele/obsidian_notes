@@ -183,8 +183,17 @@ Listener called
 ```
 
 ### Event args
-When we want to send some data
+When we want to send some data 
+```js
+const EventEmitter = require('events') ;
+const emitter = new EventEmitter();
 
+//Register a listener
+emitter.on('messageLogged', (eventArg)=> console.log('Listener called ', eventArg)) ;
+
+// Raise an event
+emitter.emit('messageLogged', {id:1, url: 'http://'}) ;
+```
 
 
 
