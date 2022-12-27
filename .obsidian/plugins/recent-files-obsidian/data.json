@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2 Installing PyQt5",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md"
+    },
+    {
+      "basename": "_ 0 PyQt5 From A-Z",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md"
+    },
+    {
       "basename": "3 Node Basics",
       "path": "N_O_D_E/NODE - the complete guide/3 Node Basics.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "6 Styling React Component (Simple React App)",
       "path": "REACT/React - the Complete Guide/6 Styling React Component (Simple React App).md"
-    },
-    {
-      "basename": "_ 0 Python OOP",
-      "path": "PYTHON/OOP Python udemy/_ 0 Python OOP.md"
-    },
-    {
-      "basename": "2 Debugging React Native Apps",
-      "path": "REACT NATIVE/React Native Practical Guide/2 Debugging React Native Apps.md"
     }
   ],
   "omittedPaths": [],

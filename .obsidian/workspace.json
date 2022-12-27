@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "N_O_D_E/NODE - the complete guide/3 Node Basics.md",
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "N_O_D_E/NODE - the complete guide/3 Node Basics.md",
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "N_O_D_E/NODE - the complete guide/3 Node Basics.md",
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "N_O_D_E/NODE - the complete guide/3 Node Basics.md"
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md"
               }
             }
           },
@@ -175,15 +175,15 @@
   },
   "active": "2d00f6e4b53e749f",
   "lastOpenFiles": [
-    "N_O_D_E/NODE - the complete guide/_0 Node Complete Guide.md",
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md",
     "N_O_D_E/NODE - the complete guide/3 Node Basics.md",
+    "N_O_D_E/NODE - the complete guide/_0 Node Complete Guide.md",
     "N_O_D_E/Lear Node.js and Javascript/- 4 MySQL with Node.js.md",
     "N_O_D_E/Lear Node.js and Javascript/_ Node and JavaScript.md",
     "My SQL.md",
     "Untitled.md",
     "Data Bases/PostgreSQL/Postgres Complete Guide/_0 Strat PostgreSql CompleteGuide.md",
     "HASKELL/The Complete Haskell Course/5 Tuple.md",
-    "HASKELL/The Complete Haskell Course/4 Solved Probelms - Functions.md",
-    "HASKELL/The Complete Haskell Course/3 Functions.md"
+    "HASKELL/The Complete Haskell Course/4 Solved Probelms - Functions.md"
   ]
 }
