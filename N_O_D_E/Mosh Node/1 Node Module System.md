@@ -195,6 +195,21 @@ emitter.on('messageLogged', (eventArg)=> console.log('Listener called ', eventAr
 emitter.emit('messageLogged', {id:1, url: 'http://'}) ;
 ```
 
+```bash
+PS C:\Users\jarek\Prog\NODE> node .\moshmodule.js
+Listener called  { id: 1, url: 'http://' }
+```
+
+
+### Extending EventEmmiter
+
+
+
+
+
+
+
+
 
 
 
