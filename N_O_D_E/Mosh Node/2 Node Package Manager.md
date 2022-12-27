@@ -49,11 +49,23 @@ in package.json
 
 
 # Using a Package
-
+index.js
+```js
+var _ = require('underscore') ;
+//order to find:
+//1. core moduel
+//2. File or folder
+//3. node_modules
+var result = _.contains([1,2,3], 3) ;
+console.log(result);
+// true
+```
 
 
 
 # Package Dependecies
+`npm i mongoose` installs a mongoose module
+
 
 
 
