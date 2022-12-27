@@ -5,18 +5,6 @@
       "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/4 Pre-defined dialogs and basic data types.md"
     },
     {
-      "basename": "_ 0 PyQt5 From A-Z",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md"
-    },
-    {
-      "basename": "Qt Designer and Python",
-      "path": "PYTHON/GUI/PyQt/Qt Designer and Python.md"
-    },
-    {
-      "basename": "13 The Qt Model_view Architecture",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/13 The Qt Model_view Architecture.md"
-    },
-    {
       "basename": "12 Database Apps with Qt",
       "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/12 Database Apps with Qt.md"
     },
@@ -33,20 +21,32 @@
       "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md"
     },
     {
-      "basename": "5 Simple QWidgets",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md"
-    },
-    {
-      "basename": "6 Using Qt Layouts to simplify your designs",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md"
+      "basename": "8 Qt Style Sheets",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/8 Qt Style Sheets.md"
     },
     {
       "basename": "7 Advenced widgets",
       "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advenced widgets.md"
     },
     {
-      "basename": "8 Qt Style Sheets",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/8 Qt Style Sheets.md"
+      "basename": "_ 0 PyQt5 From A-Z",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md"
+    },
+    {
+      "basename": "Qt Designer and Python",
+      "path": "PYTHON/GUI/PyQt/Qt Designer and Python.md"
+    },
+    {
+      "basename": "13 The Qt Model_view Architecture",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/13 The Qt Model_view Architecture.md"
+    },
+    {
+      "basename": "5 Simple QWidgets",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md"
+    },
+    {
+      "basename": "6 Using Qt Layouts to simplify your designs",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md"
     },
     {
       "basename": "2 Installing PyQt5",

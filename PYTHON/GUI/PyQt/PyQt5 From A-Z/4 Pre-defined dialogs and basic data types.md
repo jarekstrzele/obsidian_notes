@@ -19,11 +19,12 @@
 		- QMessageBox.No., ... 
 - method 2 - **QMessageBox**
 	- `msgDiskFull = QMessageBox()`
-	- `msgDiskFull.setText("You hard drive is almpst full")` `
-	- `msgDiskFull.setDetailedText("Please make some ....")`
+	- `msgDiskFull.setText("You hard drive is almpst full")
+	- `msgDiskFull.setDetailedText("Please make some ....")` 
 	- `msgDiskFull.setIcon(QMessageBox.Information)` 
-	- `msgDiskFull
-	- `msgDiskFull
+	- `msgDiskFull.setWindowTitle("Full Drive")` 
+	-  `msgDiskFull.SetStandardButtons(QMessageBox.Ok | QMessagebox.Cancel )` 
+	- `msgDiskFull.exec_()` 
 
 
 
