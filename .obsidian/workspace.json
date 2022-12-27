@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "384862e5cecb05ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "N_O_D_E/Mosh Node/_ 0 Node (Mosh).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "518ee29a90f6b363",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "N_O_D_E/Mosh Node/_ 0 Node (Mosh).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -106,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "N_O_D_E/NODE - the complete guide/3 Node Basics.md",
+                "file": "N_O_D_E/Mosh Node/_ 0 Node (Mosh).md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "N_O_D_E/NODE - the complete guide/3 Node Basics.md",
+                "file": "N_O_D_E/Mosh Node/_ 0 Node (Mosh).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "N_O_D_E/NODE - the complete guide/3 Node Basics.md"
+                "file": "N_O_D_E/Mosh Node/_ 0 Node (Mosh).md"
               }
             }
           },
@@ -186,17 +210,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "99c6c4289b8bfb16",
+  "active": "518ee29a90f6b363",
   "lastOpenFiles": [
+    "N_O_D_E/Mosh Node/1 Node Module System.md",
+    "N_O_D_E/Mosh Node/_ 0 Node (Mosh).md",
+    "N_O_D_E/NODE - the complete guide/3 Node Basics.md",
+    "N_O_D_E/NODE - the complete guide/_0 Node Complete Guide.md",
     "N_O_D_E/Lear Node.js and Javascript/- 2 JavaScript.md",
     "N_O_D_E/Lear Node.js and Javascript/_ Node and JavaScript.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/4 Pre-defined dialogs and basic data types.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/12 Database Apps with Qt.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/11 Multi-Threaded apps.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/10 QMainWindow class - Professional apps.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/8 Qt Style Sheets.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advenced widgets.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md"
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/10 QMainWindow class - Professional apps.md"
   ]
 }

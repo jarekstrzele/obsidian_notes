@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "_ 0 Node (Mosh)",
+      "path": "N_O_D_E/Mosh Node/_ 0 Node (Mosh).md"
+    },
+    {
+      "basename": "1 Node Module System",
+      "path": "N_O_D_E/Mosh Node/1 Node Module System.md"
+    },
+    {
       "basename": "3 Node Basics",
       "path": "N_O_D_E/NODE - the complete guide/3 Node Basics.md"
+    },
+    {
+      "basename": "_0 Node Complete Guide",
+      "path": "N_O_D_E/NODE - the complete guide/_0 Node Complete Guide.md"
     },
     {
       "basename": "- 2 JavaScript",
@@ -79,10 +91,6 @@
     {
       "basename": "Closures",
       "path": "PYTHON/Deep Dive Python3/1/Closures.md"
-    },
-    {
-      "basename": "_0 Node Complete Guide",
-      "path": "N_O_D_E/NODE - the complete guide/_0 Node Complete Guide.md"
     },
     {
       "basename": "- 4 MySQL with Node.js",
@@ -191,14 +199,6 @@
     {
       "basename": "3.1 Component vidly project",
       "path": "REACT/React Mosh/3.1 Component vidly project.md"
-    },
-    {
-      "basename": "4 Properties",
-      "path": "PYTHON/OOP Python udemy/4 Properties.md"
-    },
-    {
-      "basename": "_ 0 PostgreSQL TUTORIAL",
-      "path": "Data Bases/PostgreSQL/Postgresql TUTORIAL/_ 0 PostgreSQL TUTORIAL.md"
     }
   ],
   "omittedPaths": [],
