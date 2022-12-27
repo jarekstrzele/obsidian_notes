@@ -238,6 +238,35 @@ logger.log('meeeesssage') ;
 ----
 ## HTTP Module
 
+```js
+const http = require('http');
+
+const server = http.createServer() ; // this server is an EventEmmiter
+
+server.on('connection', (socket)=>{console.log('New connection ....')}) ;
+
+server.listen(3000);
+
+console.log("I'm listing on 3000 ...")
+```
+
+```bash
+PS C:\Users\jarek\Prog\NODE> node .\moshmodule.js
+I'm listing on 3000 ...
+New connection ....
+```
+
+
+better way:
+
+
+
+
+
+
+
+
+
 
 
 
