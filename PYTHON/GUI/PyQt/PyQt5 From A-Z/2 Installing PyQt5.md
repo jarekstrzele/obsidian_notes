@@ -10,6 +10,9 @@
 ## setting up your envirenment on Windows
 
 
+## `pip install pyqt5 pyqt5-tools`
+
+
 cmd > `python --version`
 ```powershell
 C:\Users\jarek>python
@@ -29,7 +32,10 @@ $ source venv/bin/activate
 (venv) $ pip install pyqt5 pyqt5-tools
 ```
 
-Windows: `venv\Scripts\activate`, `venv/Scripts/activate`
+>
+>Windows: `venv\Scripts\activate`, `venv/Scripts/activate`
+>
+
 
 or use  PyCharm
 - you have your project made
