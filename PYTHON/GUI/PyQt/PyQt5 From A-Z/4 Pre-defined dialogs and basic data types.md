@@ -27,4 +27,47 @@
 	- `msgDiskFull.exec_()` 
 
 
+```python
+import sys  
+from PyQt5.QtWidgets import *  
+  
+class Main(QDialog):  
+    def __init__(self):  
+        super().__init__()  
+        self.resize(200,200)  
+        self.setWindowTitle("my G u I")  
+  
+        self.btn = QPushButton("show Message", self)  
+        self.btn.move(40, 40)  
+        self.btn.clicked.connect(self.evt_btn_clicked)  
+  
+    def evt_btn_clicked(self):  
+        res = QMessageBox.question(self, "Disk Full", "your disk drive is almost full")  
+        # res = QMessageBox.critical(self, "Disk Full", "your disk drive is almost full")  
+        # res = QMessageBox.information(self, "Disk Full", "your disk drive is almost full")        # print(res)  
+        if res == QMessageBox.Yes:  
+            QMessageBox.information(self, "", "You clicked YES")  
+  
+        else:  
+            QMessageBox.information(self, "Title No", "You clicked No!!!!")  
+  
+if __name__=="__main__":  
+    app = QApplication(sys.argv)  
+    main = Main()  
+    main.show()  
+    sys.exit(app.exec_())
+```
+
+
+# QInputDialog
+
+
+
+
+
+
+
+
+
+
 
