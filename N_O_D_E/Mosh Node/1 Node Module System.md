@@ -109,6 +109,9 @@ Total Memory 29909643264, freeMemory 15869329408
 
 
 ## FileSystem Module
+[[_0 Node Complete Guide#First app]]
+
+### Sync
 ```js
 const fs = require('fs') ;
 
@@ -127,6 +130,75 @@ PS C:\Users\jarek\Prog\NODE> node .\moshmodule.js
   'server.js'
 ]
 ```
+
+### Async
+> all asynchronous methods take a function as their last arg. Node will call this function  when that asynchronous completes -- this function is *call back*
+> 
+
+```js
+const fs = require('fs') ;
+
+const files = fs.readdir('./', function(err,  files){
+    if (err) console.log("Error ", err)
+    else
+        console.log(files) ;
+}) ;
+console.log(files);
+```
+
+
+```bash
+PS C:\Users\jarek\Prog\NODE> node .\moshmodule.js
+undefined
+[
+  'first.js',
+  'hello.txt',
+  'message.txt',
+  'moshmodule.js',
+  'server.js'
+]
+```
+
+
+## Event Module
+
+>[!info] EVENT
+>A signal that something has happened
+
+### EventEmitter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

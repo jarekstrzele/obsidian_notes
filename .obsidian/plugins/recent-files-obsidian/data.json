@@ -5,6 +5,22 @@
       "path": "N_O_D_E/Mosh Node/1 Node Module System.md"
     },
     {
+      "basename": "_0 Node Complete Guide",
+      "path": "N_O_D_E/NODE - the complete guide/_0 Node Complete Guide.md"
+    },
+    {
+      "basename": "git",
+      "path": "N_O_D_E/Lear Node.js and Javascript/git.md"
+    },
+    {
+      "basename": "_ Node and JavaScript",
+      "path": "N_O_D_E/Lear Node.js and Javascript/_ Node and JavaScript.md"
+    },
+    {
+      "basename": "- 3 Node",
+      "path": "N_O_D_E/Lear Node.js and Javascript/- 3 Node.md"
+    },
+    {
       "basename": "_ 0 Node (Mosh)",
       "path": "N_O_D_E/Mosh Node/_ 0 Node (Mosh).md"
     },
@@ -13,16 +29,8 @@
       "path": "N_O_D_E/NODE - the complete guide/3 Node Basics.md"
     },
     {
-      "basename": "_0 Node Complete Guide",
-      "path": "N_O_D_E/NODE - the complete guide/_0 Node Complete Guide.md"
-    },
-    {
       "basename": "- 2 JavaScript",
       "path": "N_O_D_E/Lear Node.js and Javascript/- 2 JavaScript.md"
-    },
-    {
-      "basename": "_ Node and JavaScript",
-      "path": "N_O_D_E/Lear Node.js and Javascript/_ Node and JavaScript.md"
     },
     {
       "basename": "4 Pre-defined dialogs and basic data types",
@@ -191,14 +199,6 @@
     {
       "basename": "_ 0 Advenced Python",
       "path": "PYTHON/Advanced Python_Youtube/_ 0 Advenced Python.md"
-    },
-    {
-      "basename": "Scieżki uczenia się",
-      "path": "Scieżki uczenia się.md"
-    },
-    {
-      "basename": "3.1 Component vidly project",
-      "path": "REACT/React Mosh/3.1 Component vidly project.md"
     }
   ],
   "omittedPaths": [],
