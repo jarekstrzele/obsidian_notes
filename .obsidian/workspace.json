@@ -296,6 +296,8 @@
   },
   "active": "faae8e2c3a998dee",
   "lastOpenFiles": [
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md",
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/4 Pre-defined dialogs and basic data types.md",
     "PYTHON/GUI/PyQt/Qt Designer and Python.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/13 The Qt Model_view Architecture.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/12 Database Apps with Qt.md",
@@ -303,8 +305,6 @@
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/10 QMainWindow class - Professional apps.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advenced widgets.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/8 Qt Style Sheets.md"
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md"
   ]
 }

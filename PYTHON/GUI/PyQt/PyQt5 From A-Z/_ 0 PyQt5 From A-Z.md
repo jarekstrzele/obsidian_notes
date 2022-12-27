@@ -1,5 +1,8 @@
 #python #gui #pyqt5
 
+# https://doc.qt.io
+
+
 - PyQt began in 1998 by Riverbank computing
 - SIP is technology developed by Riverbank to create python binings
 - SIP is open source and has been used in other projects

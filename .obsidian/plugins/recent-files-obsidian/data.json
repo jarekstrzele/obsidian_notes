@@ -5,6 +5,10 @@
       "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/4 Pre-defined dialogs and basic data types.md"
     },
     {
+      "basename": "_ 0 PyQt5 From A-Z",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md"
+    },
+    {
       "basename": "Qt Designer and Python",
       "path": "PYTHON/GUI/PyQt/Qt Designer and Python.md"
     },
@@ -43,10 +47,6 @@
     {
       "basename": "8 Qt Style Sheets",
       "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/8 Qt Style Sheets.md"
-    },
-    {
-      "basename": "_ 0 PyQt5 From A-Z",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md"
     },
     {
       "basename": "2 Installing PyQt5",
