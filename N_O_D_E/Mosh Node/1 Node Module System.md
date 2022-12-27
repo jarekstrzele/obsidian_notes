@@ -76,9 +76,57 @@ Node wraps w module inside the function
 
 ## Path Module
 
+```js
+const path = require('path') ;
+var pathObj = path.parse(__filename);
+console.log(pathObj) ;
+```
+
+```bash
+PS C:\Users\jarek\Prog\NODE> node .\moshmodule.js
+{
+  root: 'C:\\',
+  dir: 'C:\\Users\\jarek\\Prog\\NODE',
+  base: 'moshmodule.js',
+  ext: '.js',
+  name: 'moshmodule'
+}
+```
 
 
+## OS Module
+```js
+const os = require('os') ;
+var totalMemory = os.totalmem() ;
+var freeMemory = os.freemem();
+console.log(`Total Memory ${totalMemory}, freeMemory ${freeMemory}`)
+```
 
+```bash
+PS C:\Users\jarek\Prog\NODE> node .\moshmodule.js
+Total Memory 29909643264, freeMemory 15869329408
+```
+
+
+## FileSystem Module
+```js
+const fs = require('fs') ;
+
+const files = fs.readdirSync('./') ;
+
+console.log(files);
+```
+
+```bash
+PS C:\Users\jarek\Prog\NODE> node .\moshmodule.js
+[
+  'first.js',
+  'hello.txt',
+  'message.txt',
+  'moshmodule.js',
+  'server.js'
+]
+```
 
 
 
