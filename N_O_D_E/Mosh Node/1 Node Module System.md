@@ -166,11 +166,24 @@ undefined
 >A signal that something has happened
 
 ### EventEmitter
+```jsx
+const EventEmitter = require('events') ;
+const emitter = new EventEmitter();
 
+//Register a listener
+emitter.on('messageLogged', ()=> console.log('Listener called')) ;
 
+// Raise an event
+emitter.emit('messageLogged') ;
+```
 
+```bash
+PS C:\Users\jarek\Prog\NODE> node .\moshmodule.js
+Listener called
+```
 
-
+### Event args
+When we want to send some data
 
 
 
