@@ -34,12 +34,44 @@ logger.js
 ```js
 var url = 'http://mylogger.io/log';
 
-function log(ms)
+function log(msg){
+//send an HTTP request
+ console.log(msg);
+}
+print(module);
+
+module.exports.log = log;
+// module.exports.endPoint = url;
+```
+if you want to export only single function:
+`module.exports = log ;`
+than in the app.js: `logger("some message")`
+
+
+## Load a module
+app.js
+```js
+const logger = require('./logger') ;
+console.log(logger) ;
+
+logger.log("some info") ;
+
 ```
 
+## Module Wrapper Function
+Node wraps w module inside the function
+```js
+(function (exports, require, module, __filename, __dirname){
+	 var url = 'http://mylogger.io/log';
 
+	function log(msg){
+		//send an HTTP request
+		console.log(msg);
+}
+	module.exports = log;
 
-
+}) ;
+```
 
 
 
