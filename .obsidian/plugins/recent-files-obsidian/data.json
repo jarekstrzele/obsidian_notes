@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Closures",
+      "path": "PYTHON/Deep Dive Python3/1/Closures.md"
+    },
+    {
+      "basename": "decorator - timer app",
+      "path": "PYTHON/Deep Dive Python3/1/decorator - timer app.md"
+    },
+    {
+      "basename": "Complex Number",
+      "path": "PYTHON/Deep Dive Python3/1/Complex Number.md"
+    },
+    {
+      "basename": "Decimal 1",
+      "path": "PYTHON/Deep Dive Python3/1/Decimal 1.md"
+    },
+    {
       "basename": "2 Installing PyQt5",
       "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "4 - React Native - Gesture handlers",
       "path": "REACT NATIVE/plurasight/Building Mobile Apps with React Native/4 - React Native - Gesture handlers.md"
-    },
-    {
-      "basename": "React Native - Stack navigation",
-      "path": "REACT NATIVE/plurasight/Building Mobile Apps with React Native/React Native - Stack navigation.md"
-    },
-    {
-      "basename": "6.1. Styling extra",
-      "path": "REACT/React - the Complete Guide/6.1. Styling extra.md"
-    },
-    {
-      "basename": "8 Login Project",
-      "path": "REACT/React - the Complete Guide/8 Login Project.md"
-    },
-    {
-      "basename": "6 Styling React Component (Simple React App)",
-      "path": "REACT/React - the Complete Guide/6 Styling React Component (Simple React App).md"
     }
   ],
   "omittedPaths": [],

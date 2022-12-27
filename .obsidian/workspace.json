@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md",
+                "file": "PYTHON/Deep Dive Python3/1/Closures.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 388.5
   },
   "right": {
     "id": "ec7d1a70da2de581",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md",
+                "file": "PYTHON/Deep Dive Python3/1/Closures.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md",
+                "file": "PYTHON/Deep Dive Python3/1/Closures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md"
+                "file": "PYTHON/Deep Dive Python3/1/Closures.md"
               }
             }
           },
@@ -175,15 +175,15 @@
   },
   "active": "2d00f6e4b53e749f",
   "lastOpenFiles": [
+    "PYTHON/Deep Dive Python3/1/decorator - timer app.md",
+    "PYTHON/Deep Dive Python3/1/Complex Number.md",
+    "PYTHON/Deep Dive Python3/1/Decimal 1.md",
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md",
     "N_O_D_E/NODE - the complete guide/3 Node Basics.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md",
     "N_O_D_E/NODE - the complete guide/_0 Node Complete Guide.md",
     "N_O_D_E/Lear Node.js and Javascript/- 4 MySQL with Node.js.md",
     "N_O_D_E/Lear Node.js and Javascript/_ Node and JavaScript.md",
-    "My SQL.md",
-    "Untitled.md",
-    "Data Bases/PostgreSQL/Postgres Complete Guide/_0 Strat PostgreSql CompleteGuide.md",
-    "HASKELL/The Complete Haskell Course/5 Tuple.md"
+    "My SQL.md"
   ]
 }
