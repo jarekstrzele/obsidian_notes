@@ -9,6 +9,13 @@
 
 ## setting up your envirenment on Windows
 
+PyCharm:
+- File > Settings > NameOfProject:
+	- Python Interpreter > +(add) 
+		- PyQt5, 
+		- PyQtWebEngine (webbrowser into your widget)
+		- QDarkStyle
+	- Project Structure
 
 ## `pip install pyqt5 pyqt5-tools`
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PYTHON/Deep Dive Python3/1/Closures.md",
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PYTHON/Deep Dive Python3/1/Closures.md",
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PYTHON/Deep Dive Python3/1/Closures.md",
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PYTHON/Deep Dive Python3/1/Closures.md"
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md"
               }
             }
           },
@@ -175,15 +175,15 @@
   },
   "active": "2d00f6e4b53e749f",
   "lastOpenFiles": [
-    "PYTHON/Deep Dive Python3/1/decorator - timer app.md",
-    "PYTHON/Deep Dive Python3/1/Complex Number.md",
     "PYTHON/Deep Dive Python3/1/Decimal 1.md",
+    "PYTHON/Deep Dive Python3/1/Complex Number.md",
+    "PYTHON/Deep Dive Python3/1/decorator - timer app.md",
+    "PYTHON/Deep Dive Python3/1/Closures.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md",
     "N_O_D_E/NODE - the complete guide/3 Node Basics.md",
     "N_O_D_E/NODE - the complete guide/_0 Node Complete Guide.md",
     "N_O_D_E/Lear Node.js and Javascript/- 4 MySQL with Node.js.md",
-    "N_O_D_E/Lear Node.js and Javascript/_ Node and JavaScript.md",
-    "My SQL.md"
+    "N_O_D_E/Lear Node.js and Javascript/_ Node and JavaScript.md"
   ]
 }
