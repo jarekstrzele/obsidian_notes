@@ -18,8 +18,129 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cec561865b5b4f20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/4 Pre-defined dialogs and basic data types.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f1acfe6fb5b1dc54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c7c56ced59ec4256",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7e4584c69387c9c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advenced widgets.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5f252b84884b7ce0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/8 Qt Style Sheets.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "411117b49c625188",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9f29f26b55b751b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/10 QMainWindow class - Professional apps.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "61aa0c4fe7744455",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/11 Multi-Threaded apps.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e0bec010119741ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/12 Database Apps with Qt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "faae8e2c3a998dee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/4 Pre-defined dialogs and basic data types.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -93,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md",
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/4 Pre-defined dialogs and basic data types.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md",
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/4 Pre-defined dialogs and basic data types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md"
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/4 Pre-defined dialogs and basic data types.md"
               }
             }
           },
@@ -173,17 +294,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d00f6e4b53e749f",
+  "active": "faae8e2c3a998dee",
   "lastOpenFiles": [
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md",
-    "PYTHON/Deep Dive Python3/1/Decimal 1.md",
-    "PYTHON/Deep Dive Python3/1/Complex Number.md",
-    "PYTHON/Deep Dive Python3/1/decorator - timer app.md",
-    "PYTHON/Deep Dive Python3/1/Closures.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md",
-    "N_O_D_E/NODE - the complete guide/3 Node Basics.md",
-    "N_O_D_E/NODE - the complete guide/_0 Node Complete Guide.md",
-    "N_O_D_E/Lear Node.js and Javascript/- 4 MySQL with Node.js.md",
-    "N_O_D_E/Lear Node.js and Javascript/_ Node and JavaScript.md"
+    "PYTHON/GUI/PyQt/Qt Designer and Python.md",
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/13 The Qt Model_view Architecture.md",
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/12 Database Apps with Qt.md",
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/11 Multi-Threaded apps.md",
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/10 QMainWindow class - Professional apps.md",
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md",
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md",
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advenced widgets.md",
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/8 Qt Style Sheets.md"
   ]
 }

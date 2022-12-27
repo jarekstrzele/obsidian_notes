@@ -127,6 +127,7 @@ old syntax `self.connect(obj, SIGNAL("signal"), self.method))`
 to define yourown siglnals:
 `signal  = pyqt5Signal(*args)`
 `signal.emit(*args)`
+old syntax: `self.emit(SIGNAL("signal"), *args)`
 
 ### slots
 analogous to event handlers

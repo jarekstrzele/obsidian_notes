@@ -1,6 +1,50 @@
 {
   "recentFiles": [
     {
+      "basename": "4 Pre-defined dialogs and basic data types",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/4 Pre-defined dialogs and basic data types.md"
+    },
+    {
+      "basename": "Qt Designer and Python",
+      "path": "PYTHON/GUI/PyQt/Qt Designer and Python.md"
+    },
+    {
+      "basename": "13 The Qt Model_view Architecture",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/13 The Qt Model_view Architecture.md"
+    },
+    {
+      "basename": "12 Database Apps with Qt",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/12 Database Apps with Qt.md"
+    },
+    {
+      "basename": "11 Multi-Threaded apps",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/11 Multi-Threaded apps.md"
+    },
+    {
+      "basename": "10 QMainWindow class - Professional apps",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/10 QMainWindow class - Professional apps.md"
+    },
+    {
+      "basename": "9 QtDesigner",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md"
+    },
+    {
+      "basename": "5 Simple QWidgets",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md"
+    },
+    {
+      "basename": "6 Using Qt Layouts to simplify your designs",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md"
+    },
+    {
+      "basename": "7 Advenced widgets",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advenced widgets.md"
+    },
+    {
+      "basename": "8 Qt Style Sheets",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/8 Qt Style Sheets.md"
+    },
+    {
       "basename": "_ 0 PyQt5 From A-Z",
       "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md"
     },
@@ -155,50 +199,6 @@
     {
       "basename": "Introduction",
       "path": "Data Bases/PostgreSQL/Postgres_From_Zero_to_Hero 1/Introduction.md"
-    },
-    {
-      "basename": "3 Working with Tables",
-      "path": "Data Bases/PostgreSQL/Postgres Complete Guide/3 Working with Tables.md"
-    },
-    {
-      "basename": "2 Filtering Records",
-      "path": "Data Bases/PostgreSQL/Postgres Complete Guide/2 Filtering Records.md"
-    },
-    {
-      "basename": "_ 0 React Native Crush Course",
-      "path": "REACT NATIVE/youtube_RN_Crush_course/_ 0 React Native Crush Course.md"
-    },
-    {
-      "basename": "1 React Native Basics",
-      "path": "REACT NATIVE/React Native Practical Guide/1 React Native Basics.md"
-    },
-    {
-      "basename": "_ 0 React Native - Practical Guide",
-      "path": "REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md"
-    },
-    {
-      "basename": "static type",
-      "path": "static type.md"
-    },
-    {
-      "basename": "React Native Getting Started",
-      "path": "REACT NATIVE/plurasight/React Native Getting Started.md"
-    },
-    {
-      "basename": "React Native - The Big Picture 1",
-      "path": "REACT NATIVE/plurasight/React Native - The Big Picture 1.md"
-    },
-    {
-      "basename": "_ 0 React Native Mobile Apps",
-      "path": "REACT NATIVE/plurasight/Building Mobile Apps with React Native/_ 0 React Native Mobile Apps.md"
-    },
-    {
-      "basename": "3 - React Native - Stack navigation",
-      "path": "REACT NATIVE/plurasight/Building Mobile Apps with React Native/3 - React Native - Stack navigation.md"
-    },
-    {
-      "basename": "4 - React Native - Gesture handlers",
-      "path": "REACT NATIVE/plurasight/Building Mobile Apps with React Native/4 - React Native - Gesture handlers.md"
     }
   ],
   "omittedPaths": [],
