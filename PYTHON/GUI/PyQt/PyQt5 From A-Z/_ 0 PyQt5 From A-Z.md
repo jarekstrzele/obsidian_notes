@@ -115,3 +115,27 @@ if __name__ == "__main__":
 
 
 ```
+
+
+## Signals and Slots
+
+### signals
+analohous to events
+`obj.signal.connect(self.method)`
+old syntax `self.connect(obj, SIGNAL("signal"), self.method))`
+
+to define yourown siglnals:
+`signal  = pyqt5Signal(*args)`
+`signal.emit(*args)`
+
+### slots
+analogous to event handlers
+
+
+
+
+
+
+
+
+
