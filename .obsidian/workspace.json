@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "N_O_D_E/Mosh Node/2 Node Package Manager.md",
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "N_O_D_E/Mosh Node/2 Node Package Manager.md",
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "N_O_D_E/Mosh Node/2 Node Package Manager.md",
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "N_O_D_E/Mosh Node/2 Node Package Manager.md"
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md"
               }
             }
           },
@@ -236,6 +236,7 @@
   },
   "active": "c079aef54cf8405d",
   "lastOpenFiles": [
+    "N_O_D_E/Mosh Node/2 Node Package Manager.md",
     "N_O_D_E/Mosh Node/1 Node Module System.md",
     "N_O_D_E/Mosh Node/_ 0 Node (Mosh).md",
     "N_O_D_E/NODE - the complete guide/_0 Node Complete Guide.md",
@@ -244,7 +245,6 @@
     "N_O_D_E/Lear Node.js and Javascript/- 3 Node.md",
     "N_O_D_E/NODE - the complete guide/3 Node Basics.md",
     "N_O_D_E/Lear Node.js and Javascript/- 2 JavaScript.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/4 Pre-defined dialogs and basic data types.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/12 Database Apps with Qt.md"
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/4 Pre-defined dialogs and basic data types.md"
   ]
 }

@@ -67,6 +67,19 @@ Windows: `venv\Scripts\activate`, `venv/Scripts/activate`
 			- all QtWidget have predefined signals that they emit
 			- you can also create your own custom signals
 
+>[!important] (PyQt)
+>`app = QApplication([])`
+>This is a requirement of Qt: Every GUI app must have exactly one instance of `QApplication`.
+>`[]` represent the command line args passed to the application
+
+
+>[!note] QWigets
+>Every thing you see in a (Py)Qt app is a widget
+>Widgets can be nested
+>some widgets: `QLabel`
+
+
+
 ## First program -procedal approche
 ```python
 import sys   
