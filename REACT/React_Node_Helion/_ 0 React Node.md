@@ -4,9 +4,29 @@
 - `npm install webpack --save-dev` (tryb deweloperski) (`--save` tylko na produkcji) (`-D` tylko deweloperski tryb, `-S` w każdym trybie)
 
 `npm i`  sprawdza *package.json* i kompiluje wszystkie paczki, jakie odnajdzie (==pliki json nie moga mieć przecinków na końcu bloków!!==)
-
+add to package.json
+```json
+"license": "ISC",
+   "devDependencies": {
+   "webpack": "^5.75.0",
+   "webpack-cli": "5.0.1"
+  }
+```
 `npm i react  react-dom -S`
 
+### Checking `webpack`
+add /src/index.js (`console.log("Hey") ;`)
 
+in package.json:
+```json
+//..
+ "main": "index.js",
+  "scripts": {
+    "start": "webpack ==mode development"
+  },
+//...
+```
+
+w terminalu: `npm start`
 
 
