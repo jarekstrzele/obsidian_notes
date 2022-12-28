@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "e5e2e4ba4082fdf2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linux/Vim/Vim Masterclass udemy/_ 0 Vim Masterclass.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "bbb5eb5362e95428",
             "type": "leaf",
             "state": {
@@ -44,67 +32,19 @@
             }
           },
           {
-            "id": "d590d4f338740484",
+            "id": "7b442c5a63e3c6ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/Vim/Vim Masterclass udemy/4 The Vim Help System.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a78396d2bb0610f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linux/Vim/Vim Masterclass udemy/5 Deleting, Yanking, Putting.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4fd4da5efc0ba6c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linux/Vim/Vim Masterclass udemy/6 Transforming and Substituting Text.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a971e0e5ad9da11f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linux/Vim/Vim Masterclass udemy/7 Text Objects and Macros.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "237714a9dc201f7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md",
+                "file": "HASKELL/for_great_good/1 - Haskell Lists.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -178,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/Vim/Vim Masterclass udemy/7 Text Objects and Macros.md",
+                "file": "HASKELL/for_great_good/1 - Haskell Lists.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -195,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/Vim/Vim Masterclass udemy/7 Text Objects and Macros.md",
+                "file": "HASKELL/for_great_good/1 - Haskell Lists.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/Vim/Vim Masterclass udemy/7 Text Objects and Macros.md"
+                "file": "HASKELL/for_great_good/1 - Haskell Lists.md"
               }
             }
           },
@@ -258,17 +198,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a971e0e5ad9da11f",
+  "active": "7b442c5a63e3c6ab",
   "lastOpenFiles": [
+    "HASKELL/for_great_good/0 - Haskell intro.md",
+    "HASKELL/for_great_good/1 - Haskell Lists.md",
+    "linux/Vim/Vim Masterclass udemy/3 Vim Essentials.md",
+    "linux/Vim/Vim Masterclass udemy/4 The Vim Help System.md",
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/4 Pre-defined dialogs and basic data types.md",
+    "linux/Vim/Vim Masterclass udemy/_ 0 Vim Masterclass.md",
+    "linux/Vim/Vim Masterclass udemy/7 Text Objects and Macros.md",
     "linux/Vim/Vim Masterclass udemy/6 Transforming and Substituting Text.md",
     "linux/Vim/Vim Masterclass udemy/5 Deleting, Yanking, Putting.md",
-    "linux/Vim/Vim Masterclass udemy/4 The Vim Help System.md",
-    "linux/Vim/Vim Masterclass udemy/_ 0 Vim Masterclass.md",
-    "linux/Vim/Vim Masterclass udemy/3 Vim Essentials.md",
-    "linux/Vim/Vim udemy/Untitled.canvas",
-    "linux/Vim/Mastering vi and vim/5 Deleting, Yanking, Putting.md",
-    "linux/Vim/Mastering vi and vim/4 vim help system.md",
-    "linux/Vim/Mastering vi and vim/_ Intoduction.md",
-    "linux/Vim/Praktyczna administracja Vim/0 _ Vim wprowadzenie.md"
+    "linux/Vim/Vim udemy/Untitled.canvas"
   ]
 }

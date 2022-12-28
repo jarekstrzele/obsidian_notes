@@ -51,7 +51,7 @@ ghci> "Tomek pije mleko" !! 4
 
 __to compare lists__
 `>   >=   <   <=`
-the are compard in lexicographical order. First the heads are compared. If they are equal then the second elements are compared, ...
+they are compard in lexicographical order. First the heads are compared. If they are equal then the second elements are compared, ...
 ```haskel
 ghci> [3,2,1] > [2,1,0]
 True
@@ -165,9 +165,8 @@ ghci> take 10 (repeat 5)
 
 ```
 
+---
 ## a list comprehension
-
-
 `[elem | elem <- from, predicate1, ...]`
 ```haskell
 ghci> [x*2 | x <- [1..10]]
@@ -180,7 +179,6 @@ ghci> [x*2 | x <- [50..100], x `mod` 7 == 3]
 [104,118,132,146,160,174,188]
 ```
 
-
 `[elem | elem <- from, elem1 <-from, pred1, ...]`
 ```haskell
 ghci> [x ++ y | x<- ["2", "5","10"], y <-["8","10","11"]]
@@ -191,11 +189,14 @@ ghci>
 
 ```
 
-The function that replaces every elemtn of  a list with *1* and the sums that up:
+The function that replaces every element of  a list with *1* and the sums that up:
 `length' xs = sum[1 | _ <- xs]`
 `_` we don't care what we'll draw from the list 
 
 
+---
+## Tuples
+They are like
 
 
 

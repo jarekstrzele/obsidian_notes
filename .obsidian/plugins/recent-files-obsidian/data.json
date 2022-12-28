@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "1 - Haskell Lists",
+      "path": "HASKELL/for_great_good/1 - Haskell Lists.md"
+    },
+    {
+      "basename": "0 - Haskell intro",
+      "path": "HASKELL/for_great_good/0 - Haskell intro.md"
+    },
+    {
+      "basename": "3 Vim Essentials",
+      "path": "linux/Vim/Vim Masterclass udemy/3 Vim Essentials.md"
+    },
+    {
+      "basename": "4 The Vim Help System",
+      "path": "linux/Vim/Vim Masterclass udemy/4 The Vim Help System.md"
+    },
+    {
+      "basename": "4 Pre-defined dialogs and basic data types",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/4 Pre-defined dialogs and basic data types.md"
+    },
+    {
+      "basename": "_ 0 Vim Masterclass",
+      "path": "linux/Vim/Vim Masterclass udemy/_ 0 Vim Masterclass.md"
+    },
+    {
       "basename": "7 Text Objects and Macros",
       "path": "linux/Vim/Vim Masterclass udemy/7 Text Objects and Macros.md"
     },
@@ -11,18 +35,6 @@
     {
       "basename": "5 Deleting, Yanking, Putting",
       "path": "linux/Vim/Vim Masterclass udemy/5 Deleting, Yanking, Putting.md"
-    },
-    {
-      "basename": "4 The Vim Help System",
-      "path": "linux/Vim/Vim Masterclass udemy/4 The Vim Help System.md"
-    },
-    {
-      "basename": "_ 0 Vim Masterclass",
-      "path": "linux/Vim/Vim Masterclass udemy/_ 0 Vim Masterclass.md"
-    },
-    {
-      "basename": "3 Vim Essentials",
-      "path": "linux/Vim/Vim Masterclass udemy/3 Vim Essentials.md"
     },
     {
       "basename": "5 Deleting, Yanking, Putting",
@@ -79,10 +91,6 @@
     {
       "basename": "_ 0 React Node",
       "path": "REACT/React_Node_Helion/_ 0 React Node.md"
-    },
-    {
-      "basename": "4 Pre-defined dialogs and basic data types",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/4 Pre-defined dialogs and basic data types.md"
     },
     {
       "basename": "_ 0 PyQt5 From A-Z",
@@ -191,14 +199,6 @@
     {
       "basename": "My SQL",
       "path": "My SQL.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Untitled.md"
-    },
-    {
-      "basename": "_0 Strat PostgreSql CompleteGuide",
-      "path": "Data Bases/PostgreSQL/Postgres Complete Guide/_0 Strat PostgreSql CompleteGuide.md"
     }
   ],
   "omittedPaths": [],
