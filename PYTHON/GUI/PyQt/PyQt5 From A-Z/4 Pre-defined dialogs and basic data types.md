@@ -105,9 +105,12 @@ if __name__ == "__main__":
 
 `iAge, bOk = QInputDialog.getInt(self, "Text", "Enter your age:", 22, 18, 65, 1)`
 
+```python
+lstColor = ['Red', 'Green', 'Blue']  
+iAge, bOk = QInputDialog.getItem(self, "Text", "Enter your favorite color:", lstColor, editable=False)
+```
 
 
-
-
+# Choosing a File using 
 
 
