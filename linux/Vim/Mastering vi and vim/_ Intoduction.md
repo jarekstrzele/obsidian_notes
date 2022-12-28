@@ -4,7 +4,7 @@
 # Mastering the vi and Vim Editors on the Linux, Unix, Mac, and Windows Operating Systems
 
 [[4 vim help system]]
-[[5 Deleting, Yanking, Putting]]
+[[linux/Vim/Mastering vi and vim/5 Deleting, Yanking, Putting]]
 [[6 Transformin and Substituting TEXT]]
 [[6 Inserting, Changing, Replacing, and Joining]]
 [[7 - Text Object]]

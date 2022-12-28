@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "7 Text Objects and Macros",
+      "path": "linux/Vim/Vim Masterclass udemy/7 Text Objects and Macros.md"
+    },
+    {
+      "basename": "6 Transforming and Substituting Text",
+      "path": "linux/Vim/Vim Masterclass udemy/6 Transforming and Substituting Text.md"
+    },
+    {
+      "basename": "5 Deleting, Yanking, Putting",
+      "path": "linux/Vim/Vim Masterclass udemy/5 Deleting, Yanking, Putting.md"
+    },
+    {
+      "basename": "4 The Vim Help System",
+      "path": "linux/Vim/Vim Masterclass udemy/4 The Vim Help System.md"
+    },
+    {
+      "basename": "_ 0 Vim Masterclass",
+      "path": "linux/Vim/Vim Masterclass udemy/_ 0 Vim Masterclass.md"
+    },
+    {
+      "basename": "3 Vim Essentials",
+      "path": "linux/Vim/Vim Masterclass udemy/3 Vim Essentials.md"
+    },
+    {
+      "basename": "5 Deleting, Yanking, Putting",
+      "path": "linux/Vim/Mastering vi and vim/5 Deleting, Yanking, Putting.md"
+    },
+    {
+      "basename": "4 vim help system",
+      "path": "linux/Vim/Mastering vi and vim/4 vim help system.md"
+    },
+    {
+      "basename": "_ Intoduction",
+      "path": "linux/Vim/Mastering vi and vim/_ Intoduction.md"
+    },
+    {
+      "basename": "0 _ Vim wprowadzenie",
+      "path": "linux/Vim/Praktyczna administracja Vim/0 _ Vim wprowadzenie.md"
+    },
+    {
       "basename": "rejestry",
       "path": "linux/Vim/Praktyczna administracja Vim/rejestry.md"
     },
@@ -15,10 +55,6 @@
     {
       "basename": "Bufory i okna",
       "path": "linux/Vim/Praktyczna administracja Vim/Bufory i okna.md"
-    },
-    {
-      "basename": "0 _ Vim wprowadzenie",
-      "path": "linux/Vim/Praktyczna administracja Vim/0 _ Vim wprowadzenie.md"
     },
     {
       "basename": "Vim Settings",
@@ -163,42 +199,6 @@
     {
       "basename": "_0 Strat PostgreSql CompleteGuide",
       "path": "Data Bases/PostgreSQL/Postgres Complete Guide/_0 Strat PostgreSql CompleteGuide.md"
-    },
-    {
-      "basename": "5 Tuple",
-      "path": "HASKELL/The Complete Haskell Course/5 Tuple.md"
-    },
-    {
-      "basename": "4 Solved Probelms - Functions",
-      "path": "HASKELL/The Complete Haskell Course/4 Solved Probelms - Functions.md"
-    },
-    {
-      "basename": "3 Functions",
-      "path": "HASKELL/The Complete Haskell Course/3 Functions.md"
-    },
-    {
-      "basename": "1. Wprowadzenie do grafów",
-      "path": "algorithmic/Grafy w Pythonie/1. Wprowadzenie do grafów.md"
-    },
-    {
-      "basename": "3 Components",
-      "path": "REACT/React Mosh/3 Components.md"
-    },
-    {
-      "basename": "5 Rendering Lists and Conditional content",
-      "path": "REACT/React - the Complete Guide/5 Rendering Lists and Conditional content.md"
-    },
-    {
-      "basename": "6 Lists",
-      "path": "HASKELL/The Complete Haskell Course/6 Lists.md"
-    },
-    {
-      "basename": "_ 0 Complete Haskell Course",
-      "path": "HASKELL/The Complete Haskell Course/_ 0 Complete Haskell Course.md"
-    },
-    {
-      "basename": "2 Basic Types",
-      "path": "HASKELL/The Complete Haskell Course/2 Basic Types.md"
     }
   ],
   "omittedPaths": [],
