@@ -18,7 +18,7 @@ PyCharm:
 	- Project Structure
 
 ## `pip install pyqt5 pyqt5-tools`
-
+`pip install PyQt5`
 
 cmd > `python --version`
 ```powershell

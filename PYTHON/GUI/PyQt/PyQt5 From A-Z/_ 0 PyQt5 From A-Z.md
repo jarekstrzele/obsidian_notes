@@ -76,7 +76,7 @@ Windows: `venv\Scripts\activate`, `venv/Scripts/activate`
 >[!note] QWigets
 >Every thing you see in a (Py)Qt app is a widget
 >Widgets can be nested
->some widgets: `QLabel`
+>some widgets: `QLabel, QComboBox, QCheckBox, QRadioButton, QPushButton, QTableWidget. QLineEdit, QSlider, QProgressBar, ....`
 
 
 
