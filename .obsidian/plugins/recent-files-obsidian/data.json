@@ -5,6 +5,18 @@
       "path": "HASKELL/The Complete Haskell Course/3 Functions.md"
     },
     {
+      "basename": "6 Lists",
+      "path": "HASKELL/The Complete Haskell Course/6 Lists.md"
+    },
+    {
+      "basename": "5 Tuple",
+      "path": "HASKELL/The Complete Haskell Course/5 Tuple.md"
+    },
+    {
+      "basename": "4 Solved Probelms - Functions",
+      "path": "HASKELL/The Complete Haskell Course/4 Solved Probelms - Functions.md"
+    },
+    {
       "basename": "2 Basic Types",
       "path": "HASKELL/The Complete Haskell Course/2 Basic Types.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "12 Database Apps with Qt",
       "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/12 Database Apps with Qt.md"
-    },
-    {
-      "basename": "11 Multi-Threaded apps",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/11 Multi-Threaded apps.md"
-    },
-    {
-      "basename": "10 QMainWindow class - Professional apps",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/10 QMainWindow class - Professional apps.md"
-    },
-    {
-      "basename": "9 QtDesigner",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md"
     }
   ],
   "omittedPaths": [],
