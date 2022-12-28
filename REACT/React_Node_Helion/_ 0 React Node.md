@@ -27,6 +27,24 @@ in package.json:
 //...
 ```
 
-w terminalu: `npm start`
+w terminalu: `npm start` -> nowy folder `dist` > `main.js`
 
+
+### aby app była dostępna w sieci bez możliwości sprawdzenia kodu:
+do package.json dodaj:
+```json
+  "scripts": {
+    "start": "webpack --mode development",
+    "build":  "webpack --mode development"
+
+  },
+```
+
+`npm run build`
+
+to install Babel:
+https://medium.com/@JedaiSaboteur/creating-a-react-app-from-scratch-f3c693b84658
+```bash
+npm install --save-dev @babel/core@7.1.0 @babel/cli@7.1.0 @babel/preset-env@7.1.0 @babel/preset-react@7.0.0
+```
 
