@@ -91,8 +91,28 @@ const Index = () => {
 
 nowy plik index.html
 ```html
-
+<!DOCTYPE html>
+<html lang="pl" dir="ltr">
+    <head>
+        <meta charset="utf-8" />
+    </head>
+    <body>
+        <div id="app">
+        </div>
+    </body>
+</html>
 ```
+
+`> npm i babel-loader -D`
+`> npm start `
+
+aby /src/index.html został skopiowany do /dist/ jeszcze:
+`> npm i html-webpack-plugin -D`
+oraz zmiana w `webpack.config.js`
+
+
+
+
 
 
 
