@@ -48,3 +48,78 @@ https://medium.com/@JedaiSaboteur/creating-a-react-app-from-scratch-f3c693b84658
 npm install --save-dev @babel/core@7.1.0 @babel/cli@7.1.0 @babel/preset-env@7.1.0 @babel/preset-react@7.0.0
 ```
 
+teraz plik konfiguracyjny dla Babela
+- w głównej ścieżce projektu `.babelrc`
+- z w/w/ strony wklej do pliku, jakich paczek chcesz używać
+```
+{
+
+"presets": ["@babel/env", "@babel/preset-react"]
+
+}
+```
+
+
+teraz nowy plik `webpack.config.js` (główna ścieżka) (definicja sposobu korzystania z bibliotek babela)
+```js
+module.exports = {
+    module: {
+        rules: [
+            {
+                test: /\.js$/,
+                exclude: "/node_modules/",
+                use: {
+                    loader: "babel-loader"
+               }
+            }
+        ]
+    }
+}
+```
+
+teraz w pliku /src/`index.js` tworzymy pierwszą app:
+```js
+import React from 'react' ;
+import ReactDOM from 'react-dom' ;
+
+const Index = () => {
+    return <div>Hello React </div> ;
+}
+
+	ReactDOM.render(<Index/>,   document.getElementById("app"));
+```
+
+nowy plik index.html
+```html
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
