@@ -111,6 +111,16 @@ iAge, bOk = QInputDialog.getItem(self, "Text", "Enter your favorite color:", lst
 ```
 
 
-# Choosing a File using 
+---
+# Choosing a File wit QFileDialog
+
+QFileDialog class:
+- uses the operating systems file dialogs to open or save a filename
+- QFileDialog.getOpenFIleName(parent, "Title", directory, types)
+	- directory is a string
+	- types is a string
+		- "Shape files (\*.shp )"
+
+
 
 
