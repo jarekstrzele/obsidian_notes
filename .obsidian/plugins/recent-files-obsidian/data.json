@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "rejestry",
+      "path": "linux/Vim/Praktyczna administracja Vim/rejestry.md"
+    },
+    {
+      "basename": "obiekty tekstowe",
+      "path": "linux/Vim/Praktyczna administracja Vim/obiekty tekstowe.md"
+    },
+    {
+      "basename": "Makra",
+      "path": "linux/Vim/Praktyczna administracja Vim/Makra.md"
+    },
+    {
+      "basename": "Bufory i okna",
+      "path": "linux/Vim/Praktyczna administracja Vim/Bufory i okna.md"
+    },
+    {
+      "basename": "0 _ Vim wprowadzenie",
+      "path": "linux/Vim/Praktyczna administracja Vim/0 _ Vim wprowadzenie.md"
+    },
+    {
+      "basename": "Vim Settings",
+      "path": "linux/Vim/Vim YouTube/Vim Settings.md"
+    },
+    {
+      "basename": "Vim searching and replacing",
+      "path": "linux/Vim/Vim YouTube/Vim searching and replacing.md"
+    },
+    {
+      "basename": "Vim key bindings",
+      "path": "linux/Vim/Vim YouTube/Vim key bindings.md"
+    },
+    {
+      "basename": "insert mode",
+      "path": "linux/Vim/Vim YouTube/insert mode.md"
+    },
+    {
+      "basename": "_ Vim intro",
+      "path": "linux/Vim/Vim YouTube/_ Vim intro.md"
+    },
+    {
       "basename": "_ 0 React Node",
       "path": "REACT/React_Node_Helion/_ 0 React Node.md"
     },
@@ -159,46 +199,6 @@
     {
       "basename": "2 Basic Types",
       "path": "HASKELL/The Complete Haskell Course/2 Basic Types.md"
-    },
-    {
-      "basename": "_ basics GUI Python",
-      "path": "PYTHON/GUI/the art of doing create 10 Python GUI/_ basics GUI Python.md"
-    },
-    {
-      "basename": "4 Metric Helper",
-      "path": "PYTHON/GUI/the art of doing create 10 Python GUI/4 Metric Helper.md"
-    },
-    {
-      "basename": "7 Notepad",
-      "path": "PYTHON/GUI/the art of doing create 10 Python GUI/7 Notepad.md"
-    },
-    {
-      "basename": "5 Inheritance",
-      "path": "PYTHON/OOP Python udemy/5 Inheritance.md"
-    },
-    {
-      "basename": "PySimpleGUI",
-      "path": "PYTHON/GUI/PySimpleGUI.md"
-    },
-    {
-      "basename": "Five most Popular Python Gui Libs",
-      "path": "PYTHON/GUI/Five most Popular Python Gui Libs.md"
-    },
-    {
-      "basename": "3 Hello GUI World",
-      "path": "PYTHON/GUI/the art of doing create 10 Python GUI/3 Hello GUI World.md"
-    },
-    {
-      "basename": "1 Basics",
-      "path": "HASKELL/The Complete Haskell Course/1 Basics.md"
-    },
-    {
-      "basename": "6 Slots",
-      "path": "PYTHON/OOP Python udemy/6 Slots.md"
-    },
-    {
-      "basename": "3 mini game",
-      "path": "REACT NATIVE/React Native Practical Guide/3 mini game.md"
     }
   ],
   "omittedPaths": [],
