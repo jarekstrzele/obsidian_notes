@@ -1,6 +1,54 @@
 {
   "recentFiles": [
     {
+      "basename": "3 Functions",
+      "path": "HASKELL/The Complete Haskell Course/3 Functions.md"
+    },
+    {
+      "basename": "2 Basic Types",
+      "path": "HASKELL/The Complete Haskell Course/2 Basic Types.md"
+    },
+    {
+      "basename": "1 Basics",
+      "path": "HASKELL/The Complete Haskell Course/1 Basics.md"
+    },
+    {
+      "basename": "3.1 - Pattern matching",
+      "path": "HASKELL/for_great_good/3.1 - Pattern matching.md"
+    },
+    {
+      "basename": "3 - Syntax in Function",
+      "path": "HASKELL/for_great_good/3 - Syntax in Function.md"
+    },
+    {
+      "basename": "2 - Types and Typeclasses",
+      "path": "HASKELL/for_great_good/2 - Types and Typeclasses.md"
+    },
+    {
+      "basename": "_ Haskell plac ćwiczeń dla uczonych",
+      "path": "HASKELL/Haskell plac ćwiczeń/_ Haskell plac ćwiczeń dla uczonych.md"
+    },
+    {
+      "basename": "3.5 Case expressions",
+      "path": "HASKELL/for_great_good/3.5 Case expressions.md"
+    },
+    {
+      "basename": "3.4 let it be",
+      "path": "HASKELL/for_great_good/3.4 let it be.md"
+    },
+    {
+      "basename": "3.3 Where",
+      "path": "HASKELL/for_great_good/3.3 Where.md"
+    },
+    {
+      "basename": "3.2 - Guards",
+      "path": "HASKELL/for_great_good/3.2 - Guards.md"
+    },
+    {
+      "basename": "1 - Haskell Tuples",
+      "path": "HASKELL/for_great_good/1 - Haskell Tuples.md"
+    },
+    {
       "basename": "1 - Haskell Lists",
       "path": "HASKELL/for_great_good/1 - Haskell Lists.md"
     },
@@ -151,54 +199,6 @@
     {
       "basename": "9 QtDesigner",
       "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md"
-    },
-    {
-      "basename": "8 Qt Style Sheets",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/8 Qt Style Sheets.md"
-    },
-    {
-      "basename": "7 Advenced widgets",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advenced widgets.md"
-    },
-    {
-      "basename": "Qt Designer and Python",
-      "path": "PYTHON/GUI/PyQt/Qt Designer and Python.md"
-    },
-    {
-      "basename": "13 The Qt Model_view Architecture",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/13 The Qt Model_view Architecture.md"
-    },
-    {
-      "basename": "5 Simple QWidgets",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md"
-    },
-    {
-      "basename": "6 Using Qt Layouts to simplify your designs",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md"
-    },
-    {
-      "basename": "Decimal 1",
-      "path": "PYTHON/Deep Dive Python3/1/Decimal 1.md"
-    },
-    {
-      "basename": "Complex Number",
-      "path": "PYTHON/Deep Dive Python3/1/Complex Number.md"
-    },
-    {
-      "basename": "decorator - timer app",
-      "path": "PYTHON/Deep Dive Python3/1/decorator - timer app.md"
-    },
-    {
-      "basename": "Closures",
-      "path": "PYTHON/Deep Dive Python3/1/Closures.md"
-    },
-    {
-      "basename": "- 4 MySQL with Node.js",
-      "path": "N_O_D_E/Lear Node.js and Javascript/- 4 MySQL with Node.js.md"
-    },
-    {
-      "basename": "My SQL",
-      "path": "My SQL.md"
     }
   ],
   "omittedPaths": [],

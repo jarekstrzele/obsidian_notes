@@ -194,9 +194,11 @@ The function that replaces every element of  a list with *1* and the sums that u
 `_` we don't care what we'll draw from the list 
 
 
----
-## Tuples
-They are like
+
+
+
+
+
 
 
 
