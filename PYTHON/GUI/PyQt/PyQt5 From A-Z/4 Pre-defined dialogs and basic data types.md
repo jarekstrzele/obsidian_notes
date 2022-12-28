@@ -65,8 +65,10 @@ QInputDiolog:
 - `QInputDialog.getText(parent, "Title", "Prompt", text="Default")`
 - `QInputDialog.getInt(parent, "Title", "Prompt", iDef, iMin, iMax, iStep)`
 - `QInputDialog.getDouble(parent, "Title", "Prompt", dDef, dMin, dMax, dDigits)`
-- sList=[""]
+- `sList=["it1", "it2", ]` 
+- `QInputDialog.getItem(parent, "Title", "Promp", sList, editable=False)` 
 
+res = QInputDialog.getText(prent, ....) -> (val, status)
 
 
 
