@@ -60,7 +60,9 @@ if __name__=="__main__":
 
 
 # QInputDialog
-
+QInputDiolog:
+- parent = dialog that the InputDialog will be centered in
+- `QInputDialog.getText(parent, "Title", "Prompt", text="Default")`
 
 
 
