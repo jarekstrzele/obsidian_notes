@@ -161,6 +161,76 @@ color = QColorDialog.getColor(QColor, parent, "Title")
 ```
 
 
+```python
+import sys  
+  
+from PyQt5.QtGui import QColor  
+from PyQt5.QtWidgets import *  
+  
+  
+class DlgMain(QDialog):  
+    def __init__(self):  
+        super().__init__()  
+        self.setWindowTitle("My Gui")  
+        self.resize(200,200)  
+        self.btn=QPushButton("Choose color", self)  
+        self.btn.move(40,40)  
+        self.btn.clicked.connect(self.evt_btn_clicked)  
+  
+    def evt_btn_clicked(self):  
+        color = QColorDialog.getColor(QColor("#FF0000"), self, "Choose Color")  
+        print(color.value())  
+    
+if __name__ == "__main__":  
+    app = QApplication([])  
+    dlgMain = DlgMain()  
+    dlgMain.show()  
+    sys.exit(app.exec_())
+```
+
+----
+# QFonts and the QFontDialog
+**QFont object**
+- `QFont("Arial", 24)` 
+- QFont(type, height, weight, italic) -> `QFont("Arial", 24, 81, true)`
+- `QFont()`
+	- setFamily(), setWeight(), setPointSize(), ...
+- `font, bOk = QFontDialog.getFont()`
+
+```python
+from PyQt5.QtWidgets import QFontDialog, QLabel
+
+font, ok = QFontDialog.getFont()
+if ok:
+    label = QLabel('Wybrana czcionka: {}'.format(font.family()))
+    label.setFont(font)
+    label.show()
+```
+
+```python
+class DlgMain(QDialog):  
+    def __init__(self):  
+        super().__init__()  
+        self.setWindowTitle("My Gui")  
+        self.resize(200,200)  
+  
+        self.btn=QPushButton("Choose font", self)  
+  
+        self.btn.move(40,40)  
+        self.btn.clicked.connect(self.evt_btn_clicked)  
+  
+    def evt_btn_clicked(self):  
+        font, ok = QFontDialog.getFont()  
+        print(font, ok)
+```
+
+
+
+
+
+
+
+
 
 
 
