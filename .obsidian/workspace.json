@@ -54,19 +54,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "2446ba5443b1962d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.9"
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -220,7 +210,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2446ba5443b1962d",
+  "active": "fce0681ee93e991e",
   "lastOpenFiles": [
     "HASKELL/The Complete Haskell Course/6 Lists.md",
     "HASKELL/The Complete Haskell Course/5 Tuple.md",
