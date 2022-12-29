@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "_React Bob Ziroll",
+      "path": "REACT/React Bob Ziroll/_React Bob Ziroll.md"
+    },
+    {
       "basename": "33 API Endpoints and API Parameters ISS Overhead Notifier",
       "path": "PYTHON/Master_Python_100/33 API Endpoints and API Parameters ISS Overhead Notifier.md"
     },
@@ -191,14 +195,6 @@
     {
       "basename": "_ 0 Node (Mosh)",
       "path": "N_O_D_E/Mosh Node/_ 0 Node (Mosh).md"
-    },
-    {
-      "basename": "git",
-      "path": "N_O_D_E/Lear Node.js and Javascript/git.md"
-    },
-    {
-      "basename": "_ Node and JavaScript",
-      "path": "N_O_D_E/Lear Node.js and Javascript/_ Node and JavaScript.md"
     }
   ],
   "omittedPaths": [],
