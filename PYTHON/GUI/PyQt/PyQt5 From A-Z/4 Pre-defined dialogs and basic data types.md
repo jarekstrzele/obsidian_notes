@@ -26,7 +26,6 @@
 	-  `msgDiskFull.SetStandardButtons(QMessageBox.Ok | QMessagebox.Cancel )` 
 	- `msgDiskFull.exec_()` 
 
-
 ```python
 import sys  
 from PyQt5.QtWidgets import *  
@@ -116,10 +115,17 @@ iAge, bOk = QInputDialog.getItem(self, "Text", "Enter your favorite color:", lst
 
 QFileDialog class:
 - uses the operating systems file dialogs to open or save a filename
-- QFileDialog.getOpenFIleName(parent, "Title", directory, types)
+- `QFileDialog.getOpenFIleName(parent, "Title", directory, types)`
 	- directory is a string
 	- types is a string
-		- "Shape files (\*.shp )"
+		- *"Shape files (\*.shp )"*
+- `QFileDialog.getSaveFileDialog(parent, "Title", dir, types)`
+	- you can add a name that doesn't exist
+- `QFileDialog.getOpenFileNames(parent, "Title", Directory, types)`
+	- can select multiple files
+	- return values is an array of filenames
+
+
 
 
 
