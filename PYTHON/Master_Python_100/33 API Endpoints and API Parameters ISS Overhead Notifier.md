@@ -22,7 +22,7 @@ that the programmer can use to
 >- you want some data, so you have to know where this data are store
 >-  e.g. `api.coinbase.com`
 
-## Request
+# Request
 If you know an API endpoint to have to make a request 
 	like a teller in the bank"
 		you ask him/her about money and he/she gives you money controling that process
@@ -75,7 +75,50 @@ print(iss_position)
 
 https://www.latlong.net/Show-Latitude-Longitude.html
 
+---
+# Kany api
+```python
+from tkinter import *
 
+import requests
+
+def get_quote():
+    res = requests.get(url="https://api.kanye.rest")
+    res.raise_for_status()
+
+		data = res.json()
+
+    canvas.itemconfig(quote_text, text=data["quote"])
+
+window = Tk()
+window.title("Kanye Says...")
+window.config(padx=50, pady=50)
+
+canvas = Canvas(width=300, height=414)
+background_img = PhotoImage(file="background.png")
+canvas.create_image(150, 207, image=background_img)
+
+quote_text = canvas.create_text(150, 207, text="Kanye Quote Goes HERE", width=250, font=("Arial", 30, "bold"), fill="white")
+canvas.grid(row=0, column=0)
+
+kanye_img = PhotoImage(file="kanye.png")
+kanye_button = Button(image=kanye_img, highlightthickness=0, command=get_quote)
+kanye_button.grid(row=1, column=0)
+
+
+window.mainloop()
+```
+
+you need two images.
+
+----
+# API parameters
+They allows you to give an input when you are making your API request
+
+## Sunset and sunrise times API
+https://sunrise-sunset.org/api
+
+this is an endpoint: https://api.sunrise-sunset.org/json
 
 
 
