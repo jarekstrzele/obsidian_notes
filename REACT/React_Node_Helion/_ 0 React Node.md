@@ -103,7 +103,7 @@ nowy plik index.html
 </html>
 ```
 
-`> npm i babel-loader -D`
+`> npm i babel-loader -D`  -- OK
 `> npm start `
 
 aby /src/index.html został skopiowany do /dist/ jeszcze:
