@@ -5,6 +5,10 @@
       "path": "PYTHON/Master_Python_100/33 API Endpoints and API Parameters ISS Overhead Notifier.md"
     },
     {
+      "basename": "API.excalidraw",
+      "path": "PYTHON/Master_Python_100/API.excalidraw.md"
+    },
+    {
       "basename": "i",
       "path": "PYTHON/Master_Python_100/i.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_ Node and JavaScript",
       "path": "N_O_D_E/Lear Node.js and Javascript/_ Node and JavaScript.md"
-    },
-    {
-      "basename": "- 3 Node",
-      "path": "N_O_D_E/Lear Node.js and Javascript/- 3 Node.md"
     }
   ],
   "omittedPaths": [],
