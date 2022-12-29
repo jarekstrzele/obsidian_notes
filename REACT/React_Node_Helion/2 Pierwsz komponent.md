@@ -133,8 +133,21 @@ tworzymy nowy /MenuButton/styles/menuButton.less
 
 i zmieniamy MenuButton.js
 ```js
+import React, { Component } from 'react' ;
+import './styles/menuButton.less'
 
+export default class MenuButton extends Component{
+    render(){
+        return (
+                <li className="menu-button">{this.props.children} </li>
+          )
+    }
+}
 ```
+
+
+
+
 
 
 
