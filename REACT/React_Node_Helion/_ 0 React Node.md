@@ -12,7 +12,8 @@ add to package.json
    "webpack-cli": "5.0.1"
   }
 ```
-`npm i react  react-dom -S`
+
+## `npm i react  react-dom -S`
 
 ### Checking `webpack`
 add /src/index.js (`console.log("Hey") ;`)
@@ -22,7 +23,7 @@ in package.json:
 //..
  "main": "index.js",
   "scripts": {
-    "start": "webpack ==mode development"
+    "start": "webpack --mode development"
   },
 //...
 ```
@@ -30,7 +31,7 @@ in package.json:
 w terminalu: `npm start` -> nowy folder `dist` > `main.js`
 
 
-### aby app była dostępna w sieci bez możliwości sprawdzenia kodu:
+### aby aplikacja była dostępna w sieci bez możliwości sprawdzenia kodu:
 do package.json dodaj:
 ```json
   "scripts": {
@@ -107,10 +108,11 @@ nowy plik index.html
 `> npm start `
 
 aby /src/index.html został skopiowany do /dist/ jeszcze:
-`> npm i html-webpack-plugin -D`
+`> npm i html-webpack-plugin -D`  -- OK (skopiuje /src/index.html do /dist/index.html)
 oraz zmiana w `webpack.config.js`
 
-
+```
+```
 
 
 
