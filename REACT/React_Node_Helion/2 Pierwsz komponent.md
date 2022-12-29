@@ -98,6 +98,52 @@ export default class MenuButton extends Component{
 ```
 
 do stylizacji użyjemy **less** 
+`npm install less less-loader --save-dev`
+
+zmiana w `webpack.config.js`
+```js
+   rules: [
+            {
+                test: /\.js$/,
+                exclude: "/node_modules/",
+                use: {
+                    loader: "babel-loader"
+                },
+            },
+            {
+                test: /\.less$/i,
+                use: [
+                  // compiles Less to CSS
+                  "style-loader", // creatres style nodes from JS strings
+                  "css-loader", // translates CSS into CommonJS
+                  "less-loader", // compiles Less to CSS
+                ],
+              },
+        ]
+    },
+```
+
+tworzymy nowy /MenuButton/styles/menuButton.less
+```less
+@menuColor: #009 ;
+.menu-button{
+    color: @menuColor;
+}
+```
+
+i zmieniamy MenuButton.js
+```js
+
+```
+
+
+
+
+
+
+
+
+
 
 
 
