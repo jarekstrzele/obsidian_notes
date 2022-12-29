@@ -45,8 +45,17 @@ javascript
 you can write into the browser http://api.open-notify.org/iss-now.json and you get:
 `{"message": "success", "timestamp": 1672319872, "iss_position": {"latitude": "45.0201", "longitude": "-156.2389"}}`
 
+add to chrom # JSON Viewer Pro
+#plugin #json #chrome 
 
+http://open-notify.org/Open-Notify-API/ISS-Location-Now/
+```python
+import requests
 
+response = requests.get(url="http://api.open-notify.org/iss-now.json")
+
+print(response) # -> <Response [200]>
+```
 
 
 
