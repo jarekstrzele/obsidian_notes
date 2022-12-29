@@ -225,7 +225,45 @@ class DlgMain(QDialog):
 ```
 
 
+```python
+import sys  
+  
+from PyQt5.QtGui import QColor, QFont  
+from PyQt5.QtWidgets import *  
+  
+  
+class DlgMain(QDialog):  
+    def __init__(self):  
+        super().__init__()  
+        self.setWindowTitle("My Gui")  
+        self.resize(200,200)  
+  
+        self.btn=QPushButton("Choose font", self)  
+        font = QFont("Times New Roman", 20, 75, True)  
+        self.btn.setFont(font)  
+        self.btn.move(40, 40)  
+        self.btn.clicked.connect(self.evt_btn_clicked)  
+  
+    def evt_btn_clicked(self):  
+        font, ok = QFontDialog.getFont()  
+        if ok:  
+            print(font.family())  
+            print(font.italic())  
+            print(font.bold())  
+            print(font.weight())  
+            print(font.pointSize())  
+            self.btn.setFont(font)  
+  
+if __name__ == "__main__":  
+    app = QApplication([])  
+    dlgMain = DlgMain()  
+    dlgMain.show()  
+    sys.exit(app.exec_())
+```
 
+
+---
+# Data and time handler 
 
 
 
