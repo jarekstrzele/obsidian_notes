@@ -125,6 +125,51 @@ QFileDialog class:
 	- can select multiple files
 	- return values is an array of filenames
 
+```python
+  
+class DlgMain(QDialog):  
+    def __init__(self):  
+        super().__init__()  
+        self.setWindowTitle("My Gui")  
+        self.resize(200,200)  
+  
+        self.btn=QPushButton("Open File", self)  
+        self.btn.move(40,40)  
+        self.btn.clicked.connect(self.evt_btn_clicked)  
+  
+    def evt_btn_clicked(self):  
+        res = QFileDialog.getOpenFileName(self, "Open File", "C:\\Users\\jarek\\Prog", "JPG File (*.jpg);; PNG Files(*.png);; All files (*.*)")  
+        print(res)
+```
+
+---
+# Colors in Qt
+**QColor object** 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
