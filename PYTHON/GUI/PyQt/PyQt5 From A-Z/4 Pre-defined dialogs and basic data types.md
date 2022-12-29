@@ -145,9 +145,20 @@ class DlgMain(QDialog):
 ---
 # Colors in Qt
 **QColor object** 
+```python
+color = QColor(255, 0, 0)  # czerwony
+color = QColor('blue')  # niebieski
+color = QColor('#2df1c3')
+color = QColor(255,0,0,125) # przeźroczystość
+color = QColor()
+	- setRed(100), setGreen(219), etc.
+color = QColor.fromRgb(255, 255, 0)  # żółty
+```
 
-
-
+User can choose the color:
+```python
+color = QColorDialog.getColor(QColor, parent, "Title")
+```
 
 
 
