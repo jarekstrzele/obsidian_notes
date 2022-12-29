@@ -6,9 +6,9 @@
 allows to develop a single app in JavaScript for iOS and Android
 
 Three important features in mobile apps:
-1. navigation [[3 - React Native - Stack navigation]]
-2. gestures [[4 - React Native - Gesture handlers]]
-3. data exchange with Web APIs [[5 - React Native - XMLHttpRequest]]
+1. navigation [[REACT NATIVE/REACT NATIVE/Building Mobile Apps with React Native/3 - React Native - Stack navigation]]
+2. gestures [[REACT NATIVE/REACT NATIVE/Building Mobile Apps with React Native/4 - React Native - Gesture handlers]]
+3. data exchange with Web APIs [[REACT NATIVE/REACT NATIVE/Building Mobile Apps with React Native/5 - React Native - XMLHttpRequest]]
 
 ##### React Native 3.27
 ##### Node.js 12.19

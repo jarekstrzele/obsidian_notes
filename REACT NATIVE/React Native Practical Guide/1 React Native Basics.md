@@ -1,6 +1,6 @@
 [https://snack.expo.dev](https://snack.expo.dev)
 
-[[_ 0 React Native - Practical Guide]]
+[[REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide]]
 
 	[[1.2. Handling Events]]
 	[[1.3. Scrolling]]
