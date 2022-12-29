@@ -111,15 +111,50 @@ aby /src/index.html został skopiowany do /dist/ jeszcze:
 `> npm i html-webpack-plugin -D`  -- OK (skopiuje /src/index.html do /dist/index.html)
 oraz zmiana w `webpack.config.js`
 
+```js
+const HTMLWebPackPlugin = require("html-webpack-plugin")  ;
+
+module.exports = {
+    module: {
+        rules: [
+            {
+                test: /\.js$/,
+                exclude: "/node_modules/",
+                use: {
+                    loader: "babel-loader"
+                }
+            }
+        ]
+    },
+
+    plugins: [
+        new HTMLWebPackPlugin({
+            template: './src/index.html',
+            filename: './index.html'
+        })
+    ]
+}
 ```
+
+---
+teraz potrzebujemy paczki
+### `webpack-dev-server`
+https://github.com/webpack/webpack-dev-server
+
+`npm install webpack-dev-server --save-dev`
+
+teraz zmiana w *package.json*:
+```json
+  "scripts": {
+
+    "start": "webpack-dev-server --mode development --open",
+
+    "build": "webpack --mode development"
+
+  },
 ```
 
-
-
-
-
-
-
+a instrukcja `npm start` uruchomi aplikację wraz z serverem (otworzy domyślną przeglądarkę)
 
 
 
