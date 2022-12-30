@@ -32,6 +32,13 @@ l2 = 4:l1
 -- 4->3->2->1->x
 ```
 
+---
+# Lists and Patterns
+Pattern discrimination allows to decompose lists:
+```haskell
+sum [] = 0
+sum (x:xs) = x + sum xs
+```
 
 
 

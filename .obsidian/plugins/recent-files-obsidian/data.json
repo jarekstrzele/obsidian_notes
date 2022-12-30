@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "6 Lists",
+      "path": "HASKELL/The Complete Haskell Course/6 Lists.md"
+    },
+    {
       "basename": "3.4 Case expressions",
       "path": "HASKELL/for_great_good/3.4 Case expressions.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "1 - Haskell Tuples",
       "path": "HASKELL/for_great_good/1 - Haskell Tuples.md"
-    },
-    {
-      "basename": "6 Lists",
-      "path": "HASKELL/The Complete Haskell Course/6 Lists.md"
     },
     {
       "basename": "5 Tuple",

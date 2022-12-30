@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HASKELL/for_great_good/3.4 Case expressions.md",
+                "file": "HASKELL/The Complete Haskell Course/6 Lists.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/for_great_good/3.4 Case expressions.md",
+                "file": "HASKELL/The Complete Haskell Course/6 Lists.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/for_great_good/3.4 Case expressions.md",
+                "file": "HASKELL/The Complete Haskell Course/6 Lists.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/for_great_good/3.4 Case expressions.md"
+                "file": "HASKELL/The Complete Haskell Course/6 Lists.md"
               }
             }
           },
@@ -212,6 +212,7 @@
   },
   "active": "43cd68b6b11fd1b9",
   "lastOpenFiles": [
+    "HASKELL/for_great_good/3.4 Case expressions.md",
     "HASKELL/for_great_good/3.2 - Guards.md",
     "HASKELL/for_great_good/3.3 let it be.md",
     "HASKELL/for_great_good/3.3 Where.md",
@@ -220,7 +221,6 @@
     "HASKELL/for_great_good/2 - Types and Typeclasses.md",
     "HASKELL/for_great_good/1 - Haskell Tuples.md",
     "HASKELL/The Complete Haskell Course/6 Lists.md",
-    "HASKELL/The Complete Haskell Course/5 Tuple.md",
-    "HASKELL/The Complete Haskell Course/4 Solved Probelms - Functions.md"
+    "HASKELL/The Complete Haskell Course/5 Tuple.md"
   ]
 }
