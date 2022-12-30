@@ -40,6 +40,7 @@ sum [] = 0
 sum (x:xs) = x + sum xs
 ```
 
+### `list = first_elem : rest_list`
 
 
 
