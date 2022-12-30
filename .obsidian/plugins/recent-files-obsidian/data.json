@@ -5,10 +5,6 @@
       "path": "HASKELL/for_great_good/3.2 - Guards.md"
     },
     {
-      "basename": "3.3 Where",
-      "path": "HASKELL/for_great_good/3.3 Where.md"
-    },
-    {
       "basename": "3.1 - Pattern matching",
       "path": "HASKELL/for_great_good/3.1 - Pattern matching.md"
     },
@@ -93,8 +89,8 @@
       "path": "HASKELL/for_great_good/3.5 Case expressions.md"
     },
     {
-      "basename": "3.4 let it be",
-      "path": "HASKELL/for_great_good/3.4 let it be.md"
+      "basename": "3.3 let it be",
+      "path": "HASKELL/for_great_good/3.3 let it be.md"
     },
     {
       "basename": "1 - Haskell Lists",
