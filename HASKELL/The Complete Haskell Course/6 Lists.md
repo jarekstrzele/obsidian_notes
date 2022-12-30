@@ -1,3 +1,4 @@
+# Definition
 >[!info] List
 >a list is a structured type that contains a sequence of elements, 
 >==all of the same type==
@@ -11,8 +12,16 @@
 
 
 
+# List Constructors
+Lists have two **constructors**
+> `[]` 
+> `[] :: [a]`
 
+> and `:`:
+> `(:) :: a -> [a] ->[a]`
 
+`[15,12,21` is a shortcut for `15 : 12 : 21 : []` 
+which means `15 : (12 : (21: []))`
 
 
 
