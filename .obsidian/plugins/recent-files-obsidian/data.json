@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "3.4 Case expressions",
+      "path": "HASKELL/for_great_good/3.4 Case expressions.md"
+    },
+    {
       "basename": "3.2 - Guards",
       "path": "HASKELL/for_great_good/3.2 - Guards.md"
+    },
+    {
+      "basename": "3.3 let it be",
+      "path": "HASKELL/for_great_good/3.3 let it be.md"
     },
     {
       "basename": "3.1 - Pattern matching",
@@ -83,14 +91,6 @@
     {
       "basename": "_ Haskell plac ćwiczeń dla uczonych",
       "path": "HASKELL/Haskell plac ćwiczeń/_ Haskell plac ćwiczeń dla uczonych.md"
-    },
-    {
-      "basename": "3.5 Case expressions",
-      "path": "HASKELL/for_great_good/3.5 Case expressions.md"
-    },
-    {
-      "basename": "3.3 let it be",
-      "path": "HASKELL/for_great_good/3.3 let it be.md"
     },
     {
       "basename": "1 - Haskell Lists",
