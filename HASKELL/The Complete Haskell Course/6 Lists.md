@@ -24,7 +24,13 @@ Lists have two **constructors**
 which means `15 : (12 : (21: []))`
 
 
+Lists in Haskell are simply linked lists.
+```haskell
+l1 = 3:2:1:[]
+l2 = 4:l1
 
+-- 4->3->2->1->x
+```
 
 
 

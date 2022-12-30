@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HASKELL/The Complete Haskell Course/6 Lists.md",
+                "file": "HASKELL/for_great_good/3.2 - Guards.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/The Complete Haskell Course/6 Lists.md",
+                "file": "HASKELL/for_great_good/3.2 - Guards.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/The Complete Haskell Course/6 Lists.md",
+                "file": "HASKELL/for_great_good/3.2 - Guards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/The Complete Haskell Course/6 Lists.md"
+                "file": "HASKELL/for_great_good/3.2 - Guards.md"
               }
             }
           },
@@ -212,15 +212,15 @@
   },
   "active": "43cd68b6b11fd1b9",
   "lastOpenFiles": [
-    "HASKELL/The Complete Haskell Course/5 Tuple.md",
+    "HASKELL/for_great_good/3.3 Where.md",
+    "HASKELL/for_great_good/3.2 - Guards.md",
+    "HASKELL/for_great_good/3.1 - Pattern matching.md",
+    "HASKELL/for_great_good/3 - Syntax in Function.md",
+    "HASKELL/for_great_good/2 - Types and Typeclasses.md",
+    "HASKELL/for_great_good/1 - Haskell Tuples.md",
     "HASKELL/The Complete Haskell Course/6 Lists.md",
+    "HASKELL/The Complete Haskell Course/5 Tuple.md",
     "HASKELL/The Complete Haskell Course/4 Solved Probelms - Functions.md",
-    "HASKELL/The Complete Haskell Course/3 Functions.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/4 Pre-defined dialogs and basic data types.md",
-    "PYTHON/Master_Python_100/34 API GUI Quiz App.md",
-    "PYTHON/Master_Python_100/33 API Endpoints and API Parameters ISS Overhead Notifier.md",
-    "PYTHON/Master_Python_100/Scope Python.md",
-    "REACT/React_Node_Helion/2 Pierwsz komponent.md",
-    "REACT/React_Node_Helion/_ 0 React Node.md"
+    "HASKELL/The Complete Haskell Course/3 Functions.md"
   ]
 }

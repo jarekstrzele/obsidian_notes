@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "3.2 - Guards",
+      "path": "HASKELL/for_great_good/3.2 - Guards.md"
+    },
+    {
+      "basename": "3.3 Where",
+      "path": "HASKELL/for_great_good/3.3 Where.md"
+    },
+    {
+      "basename": "3.1 - Pattern matching",
+      "path": "HASKELL/for_great_good/3.1 - Pattern matching.md"
+    },
+    {
+      "basename": "3 - Syntax in Function",
+      "path": "HASKELL/for_great_good/3 - Syntax in Function.md"
+    },
+    {
+      "basename": "2 - Types and Typeclasses",
+      "path": "HASKELL/for_great_good/2 - Types and Typeclasses.md"
+    },
+    {
+      "basename": "1 - Haskell Tuples",
+      "path": "HASKELL/for_great_good/1 - Haskell Tuples.md"
+    },
+    {
       "basename": "6 Lists",
       "path": "HASKELL/The Complete Haskell Course/6 Lists.md"
     },
@@ -61,18 +85,6 @@
       "path": "HASKELL/The Complete Haskell Course/1 Basics.md"
     },
     {
-      "basename": "3.1 - Pattern matching",
-      "path": "HASKELL/for_great_good/3.1 - Pattern matching.md"
-    },
-    {
-      "basename": "3 - Syntax in Function",
-      "path": "HASKELL/for_great_good/3 - Syntax in Function.md"
-    },
-    {
-      "basename": "2 - Types and Typeclasses",
-      "path": "HASKELL/for_great_good/2 - Types and Typeclasses.md"
-    },
-    {
       "basename": "_ Haskell plac ćwiczeń dla uczonych",
       "path": "HASKELL/Haskell plac ćwiczeń/_ Haskell plac ćwiczeń dla uczonych.md"
     },
@@ -83,18 +95,6 @@
     {
       "basename": "3.4 let it be",
       "path": "HASKELL/for_great_good/3.4 let it be.md"
-    },
-    {
-      "basename": "3.3 Where",
-      "path": "HASKELL/for_great_good/3.3 Where.md"
-    },
-    {
-      "basename": "3.2 - Guards",
-      "path": "HASKELL/for_great_good/3.2 - Guards.md"
-    },
-    {
-      "basename": "1 - Haskell Tuples",
-      "path": "HASKELL/for_great_good/1 - Haskell Tuples.md"
     },
     {
       "basename": "1 - Haskell Lists",
