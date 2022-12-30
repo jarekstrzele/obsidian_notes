@@ -265,6 +265,16 @@ if __name__ == "__main__":
 ---
 # Data and time handler 
 
+==Dates in Qt(QtCore)==
+- QDate object
+	- `QDate(YYYY, MM, DD)`
+	- `addDays(), addMonths(), toJulianDay(), dayOfWeek(), dayOfYear(), daysTo(QDate)`
+- Qtime object
+	- `QTime(HH, MM, SS, ms)`
+	- `addSeconds(). swcsTo(QTime), toString()`
+- QTimeZone object
+	- 
+
 
 
 

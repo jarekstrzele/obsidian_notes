@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "43cd68b6b11fd1b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/4 Pre-defined dialogs and basic data types.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "bccb6f87950e5797",
             "type": "leaf",
             "state": {
@@ -55,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -129,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PYTHON/Master_Python_100/33 API Endpoints and API Parameters ISS Overhead Notifier.md",
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/4 Pre-defined dialogs and basic data types.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -146,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PYTHON/Master_Python_100/33 API Endpoints and API Parameters ISS Overhead Notifier.md",
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/4 Pre-defined dialogs and basic data types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PYTHON/Master_Python_100/33 API Endpoints and API Parameters ISS Overhead Notifier.md"
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/4 Pre-defined dialogs and basic data types.md"
               }
             }
           },
@@ -209,17 +222,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c079aef54cf8405d",
+  "active": "43cd68b6b11fd1b9",
   "lastOpenFiles": [
-    "PYTHON/Master_Python_100/Scope Python.md",
+    "PYTHON/Master_Python_100/34 API GUI Quiz App.md",
     "PYTHON/Master_Python_100/33 API Endpoints and API Parameters ISS Overhead Notifier.md",
+    "PYTHON/Master_Python_100/Scope Python.md",
     "REACT/React_Node_Helion/2 Pierwsz komponent.md",
     "REACT/React_Node_Helion/_ 0 React Node.md",
     "REACT/React Bob Ziroll/_React Bob Ziroll.md",
     "REACT/React 1/React Bob Ziroll/_React Bob Ziroll.md",
     "PYTHON/Master_Python_100/API.excalidraw.md",
     "PYTHON/Master_Python_100/API.canvas",
-    "PYTHON/Master_Python_100/16 _ OOP.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/4 Pre-defined dialogs and basic data types.md"
+    "PYTHON/Master_Python_100/16 _ OOP.md"
   ]
 }

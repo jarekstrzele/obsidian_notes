@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "4 Pre-defined dialogs and basic data types",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/4 Pre-defined dialogs and basic data types.md"
+    },
+    {
+      "basename": "34 API GUI Quiz App",
+      "path": "PYTHON/Master_Python_100/34 API GUI Quiz App.md"
+    },
+    {
       "basename": "33 API Endpoints and API Parameters ISS Overhead Notifier",
       "path": "PYTHON/Master_Python_100/33 API Endpoints and API Parameters ISS Overhead Notifier.md"
     },
@@ -27,10 +35,6 @@
     {
       "basename": "16 _ OOP",
       "path": "PYTHON/Master_Python_100/16 _ OOP.md"
-    },
-    {
-      "basename": "4 Pre-defined dialogs and basic data types",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/4 Pre-defined dialogs and basic data types.md"
     },
     {
       "basename": "3 Functions",
@@ -195,10 +199,6 @@
     {
       "basename": "1 Node Module System",
       "path": "N_O_D_E/Mosh Node/1 Node Module System.md"
-    },
-    {
-      "basename": "_ 0 Node (Mosh)",
-      "path": "N_O_D_E/Mosh Node/_ 0 Node (Mosh).md"
     }
   ],
   "omittedPaths": [],
