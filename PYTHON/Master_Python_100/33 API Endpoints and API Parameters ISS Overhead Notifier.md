@@ -120,7 +120,9 @@ https://sunrise-sunset.org/api
 
 this is an endpoint: https://api.sunrise-sunset.org/json
 `endpoint?param1Name=value&param2Name=value`
+
 `https://api.sunrise-sunset.org/json?lat=21.23123&lng=-3.3424543`
+
 
 
 
