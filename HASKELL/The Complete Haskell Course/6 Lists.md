@@ -40,9 +40,13 @@ sum [] = 0
 sum (x:xs) = x + sum xs
 ```
 
-### `list = first_elem : rest_list`
+### `list = head : tail`
 
-
+> $e_1$ matches $e_2$ if there exists a subsitution for the variables of $e_1$ that make it the same as $e_2$
+> examples:
+> - `x:xs` matches `[2,5,8]` because you can substitute `x` by `2` and `xs` by `5: 8: []`
+> - `x:xs` does not matche `[]`
+> - `x1:x2:[]` matches `[2,5,8]` because `x1=`
 
 
 
