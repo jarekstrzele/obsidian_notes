@@ -46,7 +46,7 @@ sum (x:xs) = x + sum xs
 > examples:
 > - `x:xs` matches `[2,5,8]` because you can substitute `x` by `2` and `xs` by `5: 8: []`
 > - `x:xs` does not matche `[]`
-> - `x1:x2:[]` matches `[2,5,8]` because `x1=`
+> - `x1:x2:[]` matches `[2,5,8]` because `x1=2`,`x2=5`, `x=[8]`
 
 
 
