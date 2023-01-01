@@ -95,18 +95,18 @@ last :: [a] -> a
 1
 *Main> last [1..6]
 6
-
+--------------------------------
 tail :: [a] -> [a]
 init :: [a] -> [a]
 *Main> tail [1..4] -- the list without its first elem
 [2,3,4] 
 *Main> init [1..4] -- the list without its last elem
 [1,2,3]
-
+---------------------------
 reverse :: [a] -> [a]
 *Main> reverse [1..4]
 [4,3,2,1] -- the list backwards
-
+-------------------------------
 length :: [a]-> Int
 length []
 0
@@ -114,19 +114,36 @@ length [1..5]
 5
 length "Angela"
 6
-
+----------------------
 null :: [a] -> Bool
 *Main> null [] -- is the list empty?
 True -- 
 *Main> null [1..5]
 False
-
+---------------------------------
 -- elem x xs indicates if x is in the list xs
 elem :: (Foldable t, Eq a) => a -> t a -> Bool
 *Main> elem 6 [1..10]
 True
 *Main> 'k' `elem` "Dom"
 False
+--------------------------------------------
+(!!) :: [a] -> Int -> a
+*Main> ['a'..'f']
+"abcdef"
+*Main> ['a'..'f'] !! 2
+'c'
+---------------------------------------
+*Main> :t (++)
+(++) :: [a] -> [a] -> [a]
+*Main> "JIM" ++ "My"
+"JIMMy"
+*Main> [1..5] ++ [1.3]
+[1.0,2.0,3.0,4.0,5.0,1.3]
+
+--------------
+*Main> :t maximum
+maximum :: (Foldable t, Ord a) => t a -> a
 
 ```
 
