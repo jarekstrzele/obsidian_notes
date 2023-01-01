@@ -49,6 +49,24 @@ sum (x:xs) = x + sum xs
 > - `x1:x2:[]` matches `[2,5,8]` because `x1=2`,`x2=5`, `x=[8]`
 
 
+---
+# Syntax in Patterns
+Pattern decomposition can also be used in the case `where` and `let`.
+```haskell
+sum list = 
+	case list of
+		[] -> 0
+		x:xs -> x + sum xs
+
+ divImod n m
+	 | n < m = (0, n)
+	 | otherwise = (q + 1, r)
+	 where (q,r) = divImod (n-m) m
+
+firstAndsecond list = 
+	let first:second:rest = list
+	in (first, second)
+```
 
 
 
