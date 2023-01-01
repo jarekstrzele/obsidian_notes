@@ -144,6 +144,49 @@ False
 --------------
 *Main> :t maximum
 maximum :: (Foldable t, Ord a) => t a -> a
+*Main> :t minimum
+minimum :: (Foldable t, Ord a) => t a -> a
+
+*Main> :t sum
+sum :: (Foldable t, Num a) => t a -> a
+*Main> :t product
+product :: (Foldable t, Num a) => t a -> a
+---------------
+
+*Main> :t take
+take :: Int -> [a] -> [a]
+*Main> :t drop
+drop :: Int -> [a] -> [a]
+*Main> take 3 [1..9]
+[1,2,3]
+*Main> drop 3 [1..9]
+[4,5,6,7,8,9]
+
+-------------------------------------------
+*Main> :t zip
+zip :: [a] -> [b] -> [(a, b)]
+*Main> zip [1,2,3] ['a', 'b', 'c']
+[(1,'a'),(2,'b'),(3,'c')]
+
+
+-----------------------------------------
+-- repeat x is the infinite list where all elements are x
+Prelude> :t repeat
+repeat :: a -> [a]
+Prelude> take 4 (repeat 8)
+[8,8,8,8]
+
+--------------------------------------
+Prelude> :t concat
+concat :: Foldable t => t [a] -> [a]
+Prelude> concat [[1,2,3], [], [3],[1,2]]
+[1,2,3,3,1,2]
+
+
+
+
+
+
 
 ```
 

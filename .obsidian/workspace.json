@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "a0cc137f67fb7551",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HASKELL/The Complete Haskell Course/7 List Problems.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "bccb6f87950e5797",
             "type": "leaf",
             "state": {
@@ -56,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/The Complete Haskell Course/6 Lists and Text.md",
+                "file": "HASKELL/The Complete Haskell Course/7 List Problems.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -147,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/The Complete Haskell Course/6 Lists and Text.md",
+                "file": "HASKELL/The Complete Haskell Course/7 List Problems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/The Complete Haskell Course/6 Lists and Text.md"
+                "file": "HASKELL/The Complete Haskell Course/7 List Problems.md"
               }
             }
           },
@@ -210,17 +222,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f621f21825dbd82d",
+  "active": "a0cc137f67fb7551",
   "lastOpenFiles": [
-    "HASKELL/for_great_good/3.4 Case expressions.md",
-    "HASKELL/for_great_good/3.2 - Guards.md",
-    "HASKELL/for_great_good/3.3 let it be.md",
-    "HASKELL/for_great_good/3.3 Where.md",
-    "HASKELL/for_great_good/3.1 - Pattern matching.md",
-    "HASKELL/for_great_good/3 - Syntax in Function.md",
-    "HASKELL/for_great_good/2 - Types and Typeclasses.md",
-    "HASKELL/for_great_good/1 - Haskell Tuples.md",
     "HASKELL/The Complete Haskell Course/6 Lists and Text.md",
-    "HASKELL/The Complete Haskell Course/5 Tuple.md"
+    "HASKELL/The Complete Haskell Course/5 Tuple.md",
+    "HASKELL/The Complete Haskell Course/4 Solved Probelms - Functions.md",
+    "HASKELL/The Complete Haskell Course/3 Functions.md",
+    "HASKELL/The Complete Haskell Course/2 Basic Types.md",
+    "HASKELL/The Complete Haskell Course/1 Basics.md",
+    "HASKELL/Haskell plac ćwiczeń/1 Haskell i Myślenie Funkcyjne.md",
+    "HASKELL/Haskell plac ćwiczeń/_ Haskell plac ćwiczeń dla uczonych.md",
+    "HASKELL/for_great_good/3.4 Case expressions.md",
+    "HASKELL/for_great_good/3.2 - Guards.md"
   ]
 }
