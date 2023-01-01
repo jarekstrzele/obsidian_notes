@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HASKELL/The Complete Haskell Course/6 Lists.md",
+                "file": "HASKELL/The Complete Haskell Course/6 Lists and Text.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/The Complete Haskell Course/6 Lists.md",
+                "file": "HASKELL/The Complete Haskell Course/6 Lists and Text.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/The Complete Haskell Course/6 Lists.md",
+                "file": "HASKELL/The Complete Haskell Course/6 Lists and Text.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/The Complete Haskell Course/6 Lists.md"
+                "file": "HASKELL/The Complete Haskell Course/6 Lists and Text.md"
               }
             }
           },
@@ -210,7 +210,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "43cd68b6b11fd1b9",
+  "active": "f621f21825dbd82d",
   "lastOpenFiles": [
     "HASKELL/for_great_good/3.4 Case expressions.md",
     "HASKELL/for_great_good/3.2 - Guards.md",
@@ -220,7 +220,7 @@
     "HASKELL/for_great_good/3 - Syntax in Function.md",
     "HASKELL/for_great_good/2 - Types and Typeclasses.md",
     "HASKELL/for_great_good/1 - Haskell Tuples.md",
-    "HASKELL/The Complete Haskell Course/6 Lists.md",
+    "HASKELL/The Complete Haskell Course/6 Lists and Text.md",
     "HASKELL/The Complete Haskell Course/5 Tuple.md"
   ]
 }

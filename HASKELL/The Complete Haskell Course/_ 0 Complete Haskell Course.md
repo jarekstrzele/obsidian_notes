@@ -5,7 +5,7 @@
 [[3 Functions]]
 [[4 Solved Probelms - Functions]]
 [[5 Tuple]]
-[[6 Lists]]
+[[6 Lists and Text]]
 
 
 

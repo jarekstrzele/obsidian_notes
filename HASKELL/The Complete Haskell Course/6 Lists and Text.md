@@ -69,7 +69,20 @@ firstAndsecond list =
 ```
 
 
+----
+# Text
+==Texts (strings) in Haskell are ;osts pf characters== 
 
+`String` is a synonum of `[Char]` .
+Double quates are syntactic sugar for defininf texts.
+
+```haskell
+name1 :: [Char]
+name1 = 'j':'i':'m': []
+
+name2 :: String
+name2 = "jimael"
+```
 
 
 
