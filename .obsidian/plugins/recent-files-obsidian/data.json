@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "_ 0 start REST API i python",
+      "path": "API/REST API i Python Helion/_ 0 start REST API i python.md"
+    },
+    {
+      "basename": "example python with mongo",
+      "path": "API/REST API i Python Helion/example python with mongo.md"
+    },
+    {
+      "basename": "4 - testy",
+      "path": "API/REST API i Python Helion/4 - testy.md"
+    },
+    {
+      "basename": "3 - Struktura projektu",
+      "path": "API/REST API i Python Helion/3 - Struktura projektu.md"
+    },
+    {
+      "basename": "2.3 MongoDB",
+      "path": "API/REST API i Python Helion/2.3 MongoDB.md"
+    },
+    {
+      "basename": "2.2 Modele Pydantic",
+      "path": "API/REST API i Python Helion/2.2 Modele Pydantic.md"
+    },
+    {
+      "basename": "2.1 Hello world",
+      "path": "API/REST API i Python Helion/2.1 Hello world.md"
+    },
+    {
+      "basename": "_0 Learn FastAPI by building a complate project",
+      "path": "API/Learn FastAPI by building_udemy/_0 Learn FastAPI by building a complate project.md"
+    },
+    {
+      "basename": "4 serving data with FasAPI",
+      "path": "API/FasAPI Fundamentals/4 serving data with FasAPI.md"
+    },
+    {
+      "basename": "_ 0 fast API  Fundamentals",
+      "path": "API/FasAPI Fundamentals/_ 0 fast API  Fundamentals.md"
+    },
+    {
       "basename": "data base",
       "path": "Studia/Python BackEnd/data base.md"
     },
@@ -159,46 +199,6 @@
     {
       "basename": "5 Deleting, Yanking, Putting",
       "path": "linux/Vim/Mastering vi and vim/5 Deleting, Yanking, Putting.md"
-    },
-    {
-      "basename": "4 vim help system",
-      "path": "linux/Vim/Mastering vi and vim/4 vim help system.md"
-    },
-    {
-      "basename": "_ Intoduction",
-      "path": "linux/Vim/Mastering vi and vim/_ Intoduction.md"
-    },
-    {
-      "basename": "0 _ Vim wprowadzenie",
-      "path": "linux/Vim/Praktyczna administracja Vim/0 _ Vim wprowadzenie.md"
-    },
-    {
-      "basename": "rejestry",
-      "path": "linux/Vim/Praktyczna administracja Vim/rejestry.md"
-    },
-    {
-      "basename": "obiekty tekstowe",
-      "path": "linux/Vim/Praktyczna administracja Vim/obiekty tekstowe.md"
-    },
-    {
-      "basename": "Makra",
-      "path": "linux/Vim/Praktyczna administracja Vim/Makra.md"
-    },
-    {
-      "basename": "Bufory i okna",
-      "path": "linux/Vim/Praktyczna administracja Vim/Bufory i okna.md"
-    },
-    {
-      "basename": "Vim Settings",
-      "path": "linux/Vim/Vim YouTube/Vim Settings.md"
-    },
-    {
-      "basename": "Vim searching and replacing",
-      "path": "linux/Vim/Vim YouTube/Vim searching and replacing.md"
-    },
-    {
-      "basename": "Vim key bindings",
-      "path": "linux/Vim/Vim YouTube/Vim key bindings.md"
     }
   ],
   "omittedPaths": [],

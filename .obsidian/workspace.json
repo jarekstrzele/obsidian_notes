@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studia/Python BackEnd/data base.md",
+                "file": "API/REST API i Python Helion/_ 0 start REST API i python.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studia/Python BackEnd/data base.md",
+                "file": "API/REST API i Python Helion/_ 0 start REST API i python.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studia/Python BackEnd/data base.md",
+                "file": "API/REST API i Python Helion/_ 0 start REST API i python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studia/Python BackEnd/data base.md"
+                "file": "API/REST API i Python Helion/_ 0 start REST API i python.md"
               }
             }
           },
@@ -236,15 +236,15 @@
   },
   "active": "fc3970a55c7f353e",
   "lastOpenFiles": [
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/4 Pre-defined dialogs and basic data types.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advenced widgets.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/8 Qt Style Sheets.md",
-    "HASKELL/The Complete Haskell Course/7 List Problems.md",
-    "HASKELL/The Complete Haskell Course/6 Lists and Text.md",
-    "PYTHON/Master_Python_100/33 API Endpoints and API Parameters ISS Overhead Notifier.md",
-    "HASKELL/The Complete Haskell Course/5 Tuple.md"
+    "API/REST API i Python Helion/example python with mongo.md",
+    "API/REST API i Python Helion/4 - testy.md",
+    "API/REST API i Python Helion/3 - Struktura projektu.md",
+    "API/REST API i Python Helion/2.3 MongoDB.md",
+    "API/REST API i Python Helion/2.2 Modele Pydantic.md",
+    "API/REST API i Python Helion/2.1 Hello world.md",
+    "API/REST API i Python Helion/_ 0 start REST API i python.md",
+    "API/Learn FastAPI by building_udemy/_0 Learn FastAPI by building a complate project.md",
+    "API/FasAPI Fundamentals/4 serving data with FasAPI.md",
+    "API/FasAPI Fundamentals/_ 0 fast API  Fundamentals.md"
   ]
 }
