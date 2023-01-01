@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "4 Pre-defined dialogs and basic data types",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/4 Pre-defined dialogs and basic data types.md"
+    },
+    {
+      "basename": "2 Installing PyQt5",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md"
+    },
+    {
+      "basename": "7 Advenced widgets",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advenced widgets.md"
+    },
+    {
+      "basename": "6 Using Qt Layouts to simplify your designs",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md"
+    },
+    {
+      "basename": "8 Qt Style Sheets",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/8 Qt Style Sheets.md"
+    },
+    {
       "basename": "7 List Problems",
       "path": "HASKELL/The Complete Haskell Course/7 List Problems.md"
     },
     {
       "basename": "6 Lists and Text",
       "path": "HASKELL/The Complete Haskell Course/6 Lists and Text.md"
+    },
+    {
+      "basename": "33 API Endpoints and API Parameters ISS Overhead Notifier",
+      "path": "PYTHON/Master_Python_100/33 API Endpoints and API Parameters ISS Overhead Notifier.md"
     },
     {
       "basename": "5 Tuple",
@@ -65,16 +89,8 @@
       "path": "HASKELL/for_great_good/1 - Haskell Tuples.md"
     },
     {
-      "basename": "4 Pre-defined dialogs and basic data types",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/4 Pre-defined dialogs and basic data types.md"
-    },
-    {
       "basename": "34 API GUI Quiz App",
       "path": "PYTHON/Master_Python_100/34 API GUI Quiz App.md"
-    },
-    {
-      "basename": "33 API Endpoints and API Parameters ISS Overhead Notifier",
-      "path": "PYTHON/Master_Python_100/33 API Endpoints and API Parameters ISS Overhead Notifier.md"
     },
     {
       "basename": "Scope Python",
@@ -183,22 +199,6 @@
     {
       "basename": "_ Vim intro",
       "path": "linux/Vim/Vim YouTube/_ Vim intro.md"
-    },
-    {
-      "basename": "_ 0 PyQt5 From A-Z",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md"
-    },
-    {
-      "basename": "_0 Node Complete Guide",
-      "path": "N_O_D_E/NODE - the complete guide/_0 Node Complete Guide.md"
-    },
-    {
-      "basename": "2 Installing PyQt5",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md"
-    },
-    {
-      "basename": "2 Node Package Manager",
-      "path": "N_O_D_E/Mosh Node/2 Node Package Manager.md"
     }
   ],
   "omittedPaths": [],

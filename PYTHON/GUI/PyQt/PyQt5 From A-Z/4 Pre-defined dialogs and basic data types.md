@@ -1,5 +1,18 @@
 [[_ 0 PyQt5 From A-Z]]
 
+----
+[[#QMessageBox]]
+[[#QInputDialog]]
+[[#Choosing a File wit QFileDialog]]
+[[#Colors in Qt]]
+[[#QFonts and the QFontDialog]]
+[[#Data and time handler]]
+
+
+
+----
+
+
 
 # QMessageBox
 - provide output to user
@@ -276,7 +289,8 @@ if __name__ == "__main__":
 	- `QTimeZone(seconds)`
 - QDateTime object
 	- `QDateTime(QDate, QTime)`
-	- `QDateTime(QDate, QTime                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      `
+	- `QDateTime(QDate, QTime, QTimeZone)`
+	- `addSecs(), toString(). toSecsSinceEpoch(), secsTo(), daysTo()`
 
 
 
