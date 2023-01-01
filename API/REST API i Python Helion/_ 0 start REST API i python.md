@@ -22,7 +22,7 @@
 >Interfejs API seici WEB (lub usługa sieci Web) zgodny ze stylem architektownicznym REST to interfejs REST API
 
 
- KLIENT - aplikacja/usługa uzyskująca dostęp do zasobów 
+KLIENT - aplikacja/usługa uzyskująca dostęp do zasobów 
 SERWER - aplikacja/usługa, w której znajdują się zasoby (np. SOAP serwer api nie jest rest, narzuca bardzo określone struktury)
 
 ## 6 zasad Rest
@@ -42,8 +42,8 @@ ograniczenia architektoniczne
 5. ==Warstwowa architektura systemu==
 	1. wywołania i odpowiedzi przechodzą przez różne warstwy
 	2. ani serwer ani klient nie powinni wiedzieć, czy komunikują się z elementem pośredniczącą czy aplikacją końcową
-6. kod na żądanie (opcjonalnie)
-	1. kod wykonywalny tylko na żądani
+6. ==kod na żądanie (opcjonalnie)==
+	1. kod wykonywalny tylko na żądanie
 		
 ---
 ## HTTP
