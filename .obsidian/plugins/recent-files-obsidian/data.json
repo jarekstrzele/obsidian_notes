@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "data base",
+      "path": "Studia/Python BackEnd/data base.md"
+    },
+    {
+      "basename": "5 Simple QWidgets",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md"
+    },
+    {
       "basename": "4 Pre-defined dialogs and basic data types",
       "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/4 Pre-defined dialogs and basic data types.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Vim key bindings",
       "path": "linux/Vim/Vim YouTube/Vim key bindings.md"
-    },
-    {
-      "basename": "insert mode",
-      "path": "linux/Vim/Vim YouTube/insert mode.md"
-    },
-    {
-      "basename": "_ Vim intro",
-      "path": "linux/Vim/Vim YouTube/_ Vim intro.md"
     }
   ],
   "omittedPaths": [],

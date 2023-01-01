@@ -7,7 +7,7 @@
 [[#Colors in Qt]]
 [[#QFonts and the QFontDialog]]
 [[#Data and time handler]]
-
+[[#Images in Qt]]
 
 
 ----
@@ -338,9 +338,19 @@ if __name__ == "__main__":
 
 --------
 # Images in Qt
-==QPixmap
+==QPixmap(w,h)==:
+	- fill(QColor), load(file)
 
+==QPixmap(file)==
 
+`size(), height(), width(), scaled(w,h)`
+
+`scaledToWidth(w), scaledToHeight(h)`
+
+`save(file)`
+
+Other classes
+`QImage, QPicture, QBitmap, QPainter`
 
 
 
