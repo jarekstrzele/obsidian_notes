@@ -85,7 +85,50 @@ name2 = "jimael"
 ```
 
 
+---
+# Common Functions
+```haskell
+head :: [a] -> a
+last :: [a] -> a
 
+*Main> head [1..6]
+1
+*Main> last [1..6]
+6
+
+tail :: [a] -> [a]
+init :: [a] -> [a]
+*Main> tail [1..4] -- the list without its first elem
+[2,3,4] 
+*Main> init [1..4] -- the list without its last elem
+[1,2,3]
+
+reverse :: [a] -> [a]
+*Main> reverse [1..4]
+[4,3,2,1] -- the list backwards
+
+length :: [a]-> Int
+length []
+0
+length [1..5]
+5
+length "Angela"
+6
+
+null :: [a] -> Bool
+*Main> null [] -- is the list empty?
+True -- 
+*Main> null [1..5]
+False
+
+-- elem x xs indicates if x is in the list xs
+elem :: (Foldable t, Eq a) => a -> t a -> Bool
+*Main> elem 6 [1..10]
+True
+*Main> 'k' `elem` "Dom"
+False
+
+```
 
 
 
