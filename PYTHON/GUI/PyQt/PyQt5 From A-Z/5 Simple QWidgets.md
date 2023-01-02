@@ -15,6 +15,11 @@
 ---------------------
 # QLabel
 
+constructor: `QLabel(str, parent)`
+methods:
+- `setText(str)`
+- `setNum(int or dbl)`
+- `setPixmap(QPixmap)`
 
 
 
