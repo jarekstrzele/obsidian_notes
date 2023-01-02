@@ -9,12 +9,12 @@
       "path": "HASKELL/The Complete Haskell Course/7 List Problems.md"
     },
     {
-      "basename": "5 Tuple",
-      "path": "HASKELL/The Complete Haskell Course/5 Tuple.md"
-    },
-    {
       "basename": "6 Lists and Text",
       "path": "HASKELL/The Complete Haskell Course/6 Lists and Text.md"
+    },
+    {
+      "basename": "5 Tuple",
+      "path": "HASKELL/The Complete Haskell Course/5 Tuple.md"
     },
     {
       "basename": "4 Solved Probelms - Functions",

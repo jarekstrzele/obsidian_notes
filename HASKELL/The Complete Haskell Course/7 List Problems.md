@@ -1,6 +1,8 @@
 [[_ 0 Complete Haskell Course]]
+[[6 Lists and Text]]
 
 
+---
 # Last element
 ```Haskell
 myLast :: [a] -> a
