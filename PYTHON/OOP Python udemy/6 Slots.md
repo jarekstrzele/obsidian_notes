@@ -72,10 +72,48 @@ class RegularEmployee(object):
     self.salary = salary
 
     
+e1 = SlottedEmployee("Dobromir", "Dobrotliwy", 40, "FT", 4600)
+e2 = RegularEmployee("Zosia", "Złośliwa", 30, "FT", 4600)
 
+from pympler.asizeof import asizeof
 
-
-
+e1_slotted_memory = asizeof(e1)
+e2_regular_memory = asizeof(e2)
+percent_reduction = (e1_slotted_memory - e2_regular_memory)/e2_regular_memory
+print(f"slotted {e1_slotted_memory}")
+print(f"Regular {e2_regular_memory}")
+print(f"% reduction: {percent_reduction:.2%}")
 
 
 ```
+
+
+---------
+# Inheriting Slots
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
