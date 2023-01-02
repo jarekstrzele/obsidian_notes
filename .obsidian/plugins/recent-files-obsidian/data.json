@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "SQL Server",
+      "path": "Studia/Python BackEnd/SQL Server.md"
+    },
+    {
+      "basename": "MySql data base",
+      "path": "Studia/Python BackEnd/MySql data base.md"
+    },
+    {
       "basename": "_ 0 start REST API i python",
       "path": "API/REST API i Python Helion/_ 0 start REST API i python.md"
     },
@@ -39,10 +47,6 @@
     {
       "basename": "_ 0 fast API  Fundamentals",
       "path": "API/FasAPI Fundamentals/_ 0 fast API  Fundamentals.md"
-    },
-    {
-      "basename": "data base",
-      "path": "Studia/Python BackEnd/data base.md"
     },
     {
       "basename": "5 Simple QWidgets",
@@ -195,10 +199,6 @@
     {
       "basename": "5 Deleting, Yanking, Putting",
       "path": "linux/Vim/Vim Masterclass udemy/5 Deleting, Yanking, Putting.md"
-    },
-    {
-      "basename": "5 Deleting, Yanking, Putting",
-      "path": "linux/Vim/Mastering vi and vim/5 Deleting, Yanking, Putting.md"
     }
   ],
   "omittedPaths": [],

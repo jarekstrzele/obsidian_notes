@@ -49,7 +49,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "API/REST API i Python Helion/_ 0 start REST API i python.md",
+                "file": "Studia/Python BackEnd/MySql data base.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e1288fc43ce4ebf7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studia/Python BackEnd/SQL Server.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -154,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "API/REST API i Python Helion/_ 0 start REST API i python.md",
+                "file": "Studia/Python BackEnd/SQL Server.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -171,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "API/REST API i Python Helion/_ 0 start REST API i python.md",
+                "file": "Studia/Python BackEnd/SQL Server.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "API/REST API i Python Helion/_ 0 start REST API i python.md"
+                "file": "Studia/Python BackEnd/SQL Server.md"
               }
             }
           },
@@ -234,17 +246,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fc3970a55c7f353e",
+  "active": "e1288fc43ce4ebf7",
   "lastOpenFiles": [
+    "Studia/Python BackEnd/MySql data base.md",
+    "API/REST API i Python Helion/_ 0 start REST API i python.md",
     "API/REST API i Python Helion/example python with mongo.md",
     "API/REST API i Python Helion/4 - testy.md",
     "API/REST API i Python Helion/3 - Struktura projektu.md",
     "API/REST API i Python Helion/2.3 MongoDB.md",
     "API/REST API i Python Helion/2.2 Modele Pydantic.md",
     "API/REST API i Python Helion/2.1 Hello world.md",
-    "API/REST API i Python Helion/_ 0 start REST API i python.md",
     "API/Learn FastAPI by building_udemy/_0 Learn FastAPI by building a complate project.md",
-    "API/FasAPI Fundamentals/4 serving data with FasAPI.md",
-    "API/FasAPI Fundamentals/_ 0 fast API  Fundamentals.md"
+    "API/FasAPI Fundamentals/4 serving data with FasAPI.md"
   ]
 }
