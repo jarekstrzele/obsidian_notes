@@ -15,7 +15,7 @@ FizzBuzz
 #fizzbuzz
 ```haskell
 threes = cycle ["","", "Fizz"]
-fives = cyckle ["","", "", "", "Buzz"]
+fives = cycle ["","", "", "", "Buzz"]
 fizzbyzz = zipWith (++) threes fives
 main = putStr (unlines fizzbuzz)
  ```
