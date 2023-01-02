@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studia/Python BackEnd/MySql data base.md",
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studia/Python BackEnd/SQL Server.md",
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studia/Python BackEnd/SQL Server.md",
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studia/Python BackEnd/SQL Server.md"
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md"
               }
             }
           },
@@ -246,9 +246,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e1288fc43ce4ebf7",
+  "active": "fc3970a55c7f353e",
   "lastOpenFiles": [
     "Studia/Python BackEnd/MySql data base.md",
+    "Studia/Python BackEnd/SQL Server.md",
     "API/REST API i Python Helion/_ 0 start REST API i python.md",
     "API/REST API i Python Helion/example python with mongo.md",
     "API/REST API i Python Helion/4 - testy.md",
@@ -256,7 +257,6 @@
     "API/REST API i Python Helion/2.3 MongoDB.md",
     "API/REST API i Python Helion/2.2 Modele Pydantic.md",
     "API/REST API i Python Helion/2.1 Hello world.md",
-    "API/Learn FastAPI by building_udemy/_0 Learn FastAPI by building a complate project.md",
-    "API/FasAPI Fundamentals/4 serving data with FasAPI.md"
+    "API/Learn FastAPI by building_udemy/_0 Learn FastAPI by building a complate project.md"
   ]
 }
