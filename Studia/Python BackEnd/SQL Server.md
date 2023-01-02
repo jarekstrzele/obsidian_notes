@@ -4,12 +4,23 @@
 
 > [!info] tabela
 > obiekt, w którym przechowywane są dane
+> każda baza danych musi mieć zdefiniowaną przynajmniej jedną tabelę
+
+**kolumna** - zbiór komórek w porządku pionowo
+**wiersz** - zbiór komórek w porządku poziomym
+**programy** procedury składowane (np. zmiana nazwy kolumny bez utraty danych w kolumnie)
+**indeks** obiekt podobny do indeksów na końcu podręczników (przyspieszają wyszukiwanie w bazie danych)
+**widok** to takie wirtualne tabele
+**funkcja** obiekt podobny do procedury składowanej, ale przetwarza bądź zwraca JEDEN WIERSZ danych
+
+---
+# Rodzaje baz danych
+# OLTP
+- fundament bazy, cały czas dochodzi do różnych zmian
+- baza w tym systemie musi działać bardzo szybko
 
 
-
-
-
-
+# OLAP
 
 
 
