@@ -75,7 +75,12 @@ average x = sumElem/len
 
 ---------------
 # Insertion in Position
-insertIn :: a -> [a] -> Int
+insertIn :: a -> [a] -> Int -> [a] *inserts an element in a given position into a list*
+
+`insertIn 8 [1,5,2,7] 3` -> `[1,5,8,2,7]`
+`insertIn 'X' "abcd" 2` -> `"aXbcd"`
+
+
 
 
 
