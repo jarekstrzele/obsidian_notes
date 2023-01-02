@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "6 Slots",
+      "path": "PYTHON/OOP Python udemy/6 Slots.md"
+    },
+    {
+      "basename": "_ 0 React Node",
+      "path": "REACT/React_Node_Helion/_ 0 React Node.md"
+    },
+    {
+      "basename": "SQL Server",
+      "path": "Studia/Python BackEnd/SQL Server.md"
+    },
+    {
+      "basename": "6 Lists and Text",
+      "path": "HASKELL/The Complete Haskell Course/6 Lists and Text.md"
+    },
+    {
       "basename": "5 Simple QWidgets",
       "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md"
     },
     {
       "basename": "MySql data base",
       "path": "Studia/Python BackEnd/MySql data base.md"
-    },
-    {
-      "basename": "SQL Server",
-      "path": "Studia/Python BackEnd/SQL Server.md"
     },
     {
       "basename": "_ 0 start REST API i python",
@@ -75,10 +87,6 @@
     {
       "basename": "7 List Problems",
       "path": "HASKELL/The Complete Haskell Course/7 List Problems.md"
-    },
-    {
-      "basename": "6 Lists and Text",
-      "path": "HASKELL/The Complete Haskell Course/6 Lists and Text.md"
     },
     {
       "basename": "33 API Endpoints and API Parameters ISS Overhead Notifier",
@@ -153,10 +161,6 @@
       "path": "REACT/React_Node_Helion/2 Pierwsz komponent.md"
     },
     {
-      "basename": "_ 0 React Node",
-      "path": "REACT/React_Node_Helion/_ 0 React Node.md"
-    },
-    {
       "basename": "_React Bob Ziroll",
       "path": "REACT/React Bob Ziroll/_React Bob Ziroll.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "6 Transforming and Substituting Text",
       "path": "linux/Vim/Vim Masterclass udemy/6 Transforming and Substituting Text.md"
-    },
-    {
-      "basename": "5 Deleting, Yanking, Putting",
-      "path": "linux/Vim/Vim Masterclass udemy/5 Deleting, Yanking, Putting.md"
     }
   ],
   "omittedPaths": [],

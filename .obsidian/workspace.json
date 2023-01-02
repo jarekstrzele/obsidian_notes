@@ -32,30 +32,6 @@
             }
           },
           {
-            "id": "a0cc137f67fb7551",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fc3970a55c7f353e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e1288fc43ce4ebf7",
             "type": "leaf",
             "state": {
@@ -73,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REACT/React_Node_Helion/_ 0 React Node.md",
+                "file": "PYTHON/OOP Python udemy/6 Slots.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md",
+                "file": "PYTHON/OOP Python udemy/6 Slots.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -183,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md",
+                "file": "PYTHON/OOP Python udemy/6 Slots.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md"
+                "file": "PYTHON/OOP Python udemy/6 Slots.md"
               }
             }
           },
@@ -246,17 +222,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fc3970a55c7f353e",
+  "active": "bccb6f87950e5797",
   "lastOpenFiles": [
-    "Studia/Python BackEnd/MySql data base.md",
+    "REACT/React_Node_Helion/_ 0 React Node.md",
     "Studia/Python BackEnd/SQL Server.md",
+    "HASKELL/The Complete Haskell Course/6 Lists and Text.md",
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md",
+    "Studia/Python BackEnd/MySql data base.md",
     "API/REST API i Python Helion/_ 0 start REST API i python.md",
     "API/REST API i Python Helion/example python with mongo.md",
     "API/REST API i Python Helion/4 - testy.md",
     "API/REST API i Python Helion/3 - Struktura projektu.md",
-    "API/REST API i Python Helion/2.3 MongoDB.md",
-    "API/REST API i Python Helion/2.2 Modele Pydantic.md",
-    "API/REST API i Python Helion/2.1 Hello world.md",
-    "API/Learn FastAPI by building_udemy/_0 Learn FastAPI by building a complate project.md"
+    "API/REST API i Python Helion/2.3 MongoDB.md"
   ]
 }
