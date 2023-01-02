@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "7 List Problems",
+      "path": "HASKELL/The Complete Haskell Course/7 List Problems.md"
+    },
+    {
+      "basename": "5 Tuple",
+      "path": "HASKELL/The Complete Haskell Course/5 Tuple.md"
+    },
+    {
+      "basename": "6 Lists and Text",
+      "path": "HASKELL/The Complete Haskell Course/6 Lists and Text.md"
+    },
+    {
+      "basename": "4 Solved Probelms - Functions",
+      "path": "HASKELL/The Complete Haskell Course/4 Solved Probelms - Functions.md"
+    },
+    {
+      "basename": "3 Functions",
+      "path": "HASKELL/The Complete Haskell Course/3 Functions.md"
+    },
+    {
+      "basename": "2 Basic Types",
+      "path": "HASKELL/The Complete Haskell Course/2 Basic Types.md"
+    },
+    {
+      "basename": "_ 0 Complete Haskell Course",
+      "path": "HASKELL/The Complete Haskell Course/_ 0 Complete Haskell Course.md"
+    },
+    {
       "basename": "6 Slots",
       "path": "PYTHON/OOP Python udemy/6 Slots.md"
     },
@@ -11,10 +39,6 @@
     {
       "basename": "SQL Server",
       "path": "Studia/Python BackEnd/SQL Server.md"
-    },
-    {
-      "basename": "6 Lists and Text",
-      "path": "HASKELL/The Complete Haskell Course/6 Lists and Text.md"
     },
     {
       "basename": "5 Simple QWidgets",
@@ -85,28 +109,8 @@
       "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/8 Qt Style Sheets.md"
     },
     {
-      "basename": "7 List Problems",
-      "path": "HASKELL/The Complete Haskell Course/7 List Problems.md"
-    },
-    {
       "basename": "33 API Endpoints and API Parameters ISS Overhead Notifier",
       "path": "PYTHON/Master_Python_100/33 API Endpoints and API Parameters ISS Overhead Notifier.md"
-    },
-    {
-      "basename": "5 Tuple",
-      "path": "HASKELL/The Complete Haskell Course/5 Tuple.md"
-    },
-    {
-      "basename": "4 Solved Probelms - Functions",
-      "path": "HASKELL/The Complete Haskell Course/4 Solved Probelms - Functions.md"
-    },
-    {
-      "basename": "3 Functions",
-      "path": "HASKELL/The Complete Haskell Course/3 Functions.md"
-    },
-    {
-      "basename": "2 Basic Types",
-      "path": "HASKELL/The Complete Haskell Course/2 Basic Types.md"
     },
     {
       "basename": "1 Basics",
@@ -195,10 +199,6 @@
     {
       "basename": "7 Text Objects and Macros",
       "path": "linux/Vim/Vim Masterclass udemy/7 Text Objects and Macros.md"
-    },
-    {
-      "basename": "6 Transforming and Substituting Text",
-      "path": "linux/Vim/Vim Masterclass udemy/6 Transforming and Substituting Text.md"
     }
   ],
   "omittedPaths": [],

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HASKELL/The Complete Haskell Course/6 Lists and Text.md",
+                "file": "HASKELL/The Complete Haskell Course/7 List Problems.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PYTHON/OOP Python udemy/6 Slots.md",
+                "file": "HASKELL/The Complete Haskell Course/7 List Problems.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PYTHON/OOP Python udemy/6 Slots.md",
+                "file": "HASKELL/The Complete Haskell Course/7 List Problems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PYTHON/OOP Python udemy/6 Slots.md"
+                "file": "HASKELL/The Complete Haskell Course/7 List Problems.md"
               }
             }
           },
@@ -222,17 +222,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bccb6f87950e5797",
+  "active": "43cd68b6b11fd1b9",
   "lastOpenFiles": [
-    "REACT/React_Node_Helion/_ 0 React Node.md",
-    "Studia/Python BackEnd/SQL Server.md",
+    "HASKELL/The Complete Haskell Course/5 Tuple.md",
     "HASKELL/The Complete Haskell Course/6 Lists and Text.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md",
-    "Studia/Python BackEnd/MySql data base.md",
-    "API/REST API i Python Helion/_ 0 start REST API i python.md",
-    "API/REST API i Python Helion/example python with mongo.md",
-    "API/REST API i Python Helion/4 - testy.md",
-    "API/REST API i Python Helion/3 - Struktura projektu.md",
-    "API/REST API i Python Helion/2.3 MongoDB.md"
+    "HASKELL/The Complete Haskell Course/7 List Problems.md",
+    "HASKELL/The Complete Haskell Course/4 Solved Probelms - Functions.md",
+    "HASKELL/The Complete Haskell Course/3 Functions.md",
+    "HASKELL/The Complete Haskell Course/2 Basic Types.md",
+    "HASKELL/The Complete Haskell Course/_ 0 Complete Haskell Course.md",
+    "PYTHON/OOP Python udemy/6 Slots.md",
+    "REACT/React_Node_Helion/_ 0 React Node.md",
+    "Studia/Python BackEnd/SQL Server.md"
   ]
 }

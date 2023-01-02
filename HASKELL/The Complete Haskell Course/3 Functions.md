@@ -1,6 +1,8 @@
 #haskell/function 
+[[_ 0 Complete Haskell Course]]
 
 
+---
 # Functions
 
 - functions in Haskell are *pures*: they only return results calculated relative to their parameters

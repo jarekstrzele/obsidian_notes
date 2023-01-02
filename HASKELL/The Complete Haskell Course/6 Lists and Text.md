@@ -1,3 +1,5 @@
+[[_ 0 Complete Haskell Course]]
+
 # Definition
 >[!info] List
 >a list is a structured type that contains a sequence of elements, 

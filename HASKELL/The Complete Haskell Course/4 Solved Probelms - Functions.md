@@ -1,8 +1,12 @@
+[[_ 0 Complete Haskell Course]]
 
+---
 [[1 Basics]]
 
 
-# SOlved Problems - Functions
+---
+
+# Solved Problems - Functions
 
 ## Absolute Value
 Write a function `absValue:: Int->Int`

@@ -1,5 +1,7 @@
 #haskell/types
+[[_ 0 Complete Haskell Course]]
 
+---
 # Basic Type
 
 Booleans: `Bool`
