@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/Haskell plac ćwiczeń/1 Haskell i Myślenie Funkcyjne.md",
+                "file": "Studia/Python BackEnd/SQL Server.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/Haskell plac ćwiczeń/1 Haskell i Myślenie Funkcyjne.md",
+                "file": "Studia/Python BackEnd/SQL Server.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/Haskell plac ćwiczeń/1 Haskell i Myślenie Funkcyjne.md"
+                "file": "Studia/Python BackEnd/SQL Server.md"
               }
             }
           },
@@ -246,8 +246,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "515b36f3e607b305",
+  "active": "e1288fc43ce4ebf7",
   "lastOpenFiles": [
+    "HASKELL/Haskell plac ćwiczeń/1 Haskell i Myślenie Funkcyjne.md",
     "HASKELL/Haskell plac ćwiczeń/_ Haskell plac ćwiczeń dla uczonych.md",
     "HASKELL/The Complete Haskell Course/9 Solved Problems - HOFs.md",
     "HASKELL/The Complete Haskell Course/8 Higher Order Functions.md",
@@ -256,7 +257,6 @@
     "HASKELL/The Complete Haskell Course/5 Tuple.md",
     "HASKELL/The Complete Haskell Course/4 Solved Probelms - Functions.md",
     "HASKELL/The Complete Haskell Course/3 Functions.md",
-    "HASKELL/The Complete Haskell Course/2 Basic Types.md",
-    "HASKELL/The Complete Haskell Course/_ 0 Complete Haskell Course.md"
+    "HASKELL/The Complete Haskell Course/2 Basic Types.md"
   ]
 }

@@ -28,8 +28,13 @@
 ----
 # Normalizacja baz danych
 
+## pierwsza postać normalna
+tabele muszą być pogrupowane w taki sposób, że
+- dane w kolumnach są atomowe
+- jest klucz główny
 
-
+## druga postać normalna
+- tabela 
 
 
 

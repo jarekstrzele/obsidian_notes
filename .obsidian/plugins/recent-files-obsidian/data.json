@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "SQL Server",
+      "path": "Studia/Python BackEnd/SQL Server.md"
+    },
+    {
       "basename": "1 Haskell i Myślenie Funkcyjne",
       "path": "HASKELL/Haskell plac ćwiczeń/1 Haskell i Myślenie Funkcyjne.md"
     },
@@ -51,10 +55,6 @@
     {
       "basename": "_ 0 React Node",
       "path": "REACT/React_Node_Helion/_ 0 React Node.md"
-    },
-    {
-      "basename": "SQL Server",
-      "path": "Studia/Python BackEnd/SQL Server.md"
     },
     {
       "basename": "5 Simple QWidgets",
