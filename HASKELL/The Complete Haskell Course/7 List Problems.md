@@ -24,21 +24,31 @@ myLast2 = head . reverse
 "Tomorrow"
 ```
 
-
+---
 # Penultimate element
+
+`myButLast :: [a] -> a`
+`myButLast [1,2,3,4]` 
+`3`
+`myButLast ['a'..'z']`
+`'y'`
+
 
 ```haskell
 myButLast :: [a] -> a
-myButLast [1,2,3,4]
-3
-myButLast ['a'..'z']
-'y'
+myButLast :: [a]->a
+myButLast [x,y] = x 
+myButLast (_ : xs) = myButLast xs
 
-
-
+myButLast2 :: [a] -> a
+myButLast2 = head . tail . reverse
 ```
 
+----
+# Duplicate Elements
 
-
+`dipli::[a]->[a]`
+dupli [1,2,3]
+[1,1,2,2,3,3]
 
 
