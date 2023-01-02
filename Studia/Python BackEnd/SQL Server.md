@@ -25,5 +25,22 @@
 - system będący podstawą do zadań analitycznych
 
 
+----
+# Normalizacja baz danych
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
