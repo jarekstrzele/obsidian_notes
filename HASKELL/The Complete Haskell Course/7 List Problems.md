@@ -80,7 +80,16 @@ insertIn :: a -> [a] -> Int -> [a] *inserts an element in a given position into 
 `insertIn 8 [1,5,2,7] 3` -> `[1,5,8,2,7]`
 `insertIn 'X' "abcd" 2` -> `"aXbcd"`
 
+```haskell
+insertIn :: a -> [a] -> Int -> [a]
+insertIn x ys 1 = x:ys          
+insertIn x (y:ys) n = y: insertIn x ys (n-1)
 
+--  10 [1,2,3,4] 2 -> 
+--  10 [2,3,4] 1 -> 10:[2,3,4]
+--  1:10:[2,3,4]
+
+```
 
 
 

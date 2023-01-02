@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "8 Higher Order Functions",
+      "path": "HASKELL/The Complete Haskell Course/8 Higher Order Functions.md"
+    },
+    {
       "basename": "7 List Problems",
       "path": "HASKELL/The Complete Haskell Course/7 List Problems.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_ 0 Vim Masterclass",
       "path": "linux/Vim/Vim Masterclass udemy/_ 0 Vim Masterclass.md"
-    },
-    {
-      "basename": "7 Text Objects and Macros",
-      "path": "linux/Vim/Vim Masterclass udemy/7 Text Objects and Macros.md"
     }
   ],
   "omittedPaths": [],

@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "5b0b0b9afec0b679",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HASKELL/The Complete Haskell Course/8 Higher Order Functions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e1288fc43ce4ebf7",
             "type": "leaf",
             "state": {
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -142,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/The Complete Haskell Course/7 List Problems.md",
+                "file": "HASKELL/The Complete Haskell Course/8 Higher Order Functions.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -159,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/The Complete Haskell Course/7 List Problems.md",
+                "file": "HASKELL/The Complete Haskell Course/8 Higher Order Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/The Complete Haskell Course/7 List Problems.md"
+                "file": "HASKELL/The Complete Haskell Course/8 Higher Order Functions.md"
               }
             }
           },
@@ -222,11 +234,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "43cd68b6b11fd1b9",
+  "active": "5b0b0b9afec0b679",
   "lastOpenFiles": [
+    "HASKELL/The Complete Haskell Course/7 List Problems.md",
     "HASKELL/The Complete Haskell Course/5 Tuple.md",
     "HASKELL/The Complete Haskell Course/6 Lists and Text.md",
-    "HASKELL/The Complete Haskell Course/7 List Problems.md",
     "HASKELL/The Complete Haskell Course/4 Solved Probelms - Functions.md",
     "HASKELL/The Complete Haskell Course/3 Functions.md",
     "HASKELL/The Complete Haskell Course/2 Basic Types.md",
