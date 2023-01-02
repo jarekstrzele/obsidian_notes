@@ -1,6 +1,7 @@
 [[_ 0 Complete Haskell Course]]
+[[9 Solved Problems - HOFs]]
 
-
+----
 # HOF
 
 >[!info] Higher Order Function (HOF)
@@ -82,7 +83,38 @@ Ok, one module loaded.
 ###### `\x -> (\y -> x+y)`
 
 
+-------
+# SECTIONS
+#haskell/section
 
+>[!info] Sections
+>They allow partial infix operators to be applied
 
+On the right | On the left
+--- | ---
+`(@ y) <=> \x -> x @ y` | `(y @) <=> \x -> y @ x`
+
+```haskell
+*Main> double = (* 2)
+*Main> double 5
+10
+
+*Main> map (* 2) [1,2,3]
+[2,4,6]
+
+*Main> half = (/ 2) -- (2 /) this is different
+*Main> half 6
+3.0
+*Main> half = (2 /)
+*Main> half 6
+0.3333333333333333
+
+*Main> isUppercase = (`elem` ['A'..'Z'])
+*Main> isUppercase 'c'
+False
+*Main> isUppercase 'A'
+True
+
+```
 
 
