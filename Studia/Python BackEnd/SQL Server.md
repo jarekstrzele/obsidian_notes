@@ -34,12 +34,19 @@ tabele muszą być pogrupowane w taki sposób, że
 - jest klucz główny
 
 ## druga postać normalna
-- tabela 
+dana tabela dotyczy jednej klasy obiektu
+(błąd: np. jedna tabela z danymi o klientach i produktach)
 
 
+## trzecia postać normalna
+tu trzeba wiedzieć, czym jest klucz główny
+**klucz główny** to zbiór kolumn, które nie mogą się powtarzać 
+w tabeli są kolumny, które zależą od klucza głównego, ale nie zależą od pozostałych kolumn
 
+(30"00)
 
-
+---
+# Pobieranie danych z bazy
 
 
 
