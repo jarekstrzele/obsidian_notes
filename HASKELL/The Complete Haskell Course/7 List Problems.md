@@ -64,8 +64,18 @@ dupli (x:xs) = x: x : dupli xs
 average::[int]->Float
 average [1,2,3] -> 2.0
 average [8,1,3,9] -> 5.25
+```haskell
+average::[Int]-> Float
+average x = sumElem/len
+  where
+    sumElem = fromIntegral (sum x) :: Float
+    len = fromIntegral(length x) :: Float
 
+```
 
+---------------
+# Insertion in Position
+insertIn :: a -> [a] -> Int
 
 
 
