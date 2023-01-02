@@ -51,4 +51,31 @@ myButLast2 = head . tail . reverse
 dupli [1,2,3]
 [1,1,2,2,3,3]
 
+```haskell
+dupli :: [a]->[a]
+dupli [] = []
+dupli (x:xs) = x: x : dupli xs
+
+
+```
+
+---
+# Average
+average::[int]->Float
+average [1,2,3] -> 2.0
+average [8,1,3,9] -> 5.25
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
