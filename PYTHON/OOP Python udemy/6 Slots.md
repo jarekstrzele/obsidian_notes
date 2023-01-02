@@ -45,7 +45,10 @@ AttributeError: 'Humburger' object has no attribute 'pro'
 `__slots__` attributes resides in the class' mappingproxy
 
 
+## Memory usage
+>[!info] Pympler
+> Pympler is a tool for analyzing and monitoring memory usage by Python applications
 
-
+`pip install pympler`
 
 
