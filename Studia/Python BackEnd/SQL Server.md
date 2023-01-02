@@ -21,7 +21,8 @@
 
 
 # OLAP
-
+- zmiany w systemie będa robione bardzo żadko 
+- system będący podstawą do zadań analitycznych
 
 
 
