@@ -51,4 +51,31 @@ AttributeError: 'Humburger' object has no attribute 'pro'
 
 `pip install pympler`
 
+```python
+class SlottedEmployee(object):
+  __slots__ = ('name', 'surname', 'age', 'status', 'salary')
 
+  def __init__(self, name, surname, age, status, salary):
+    self.name = name
+    self.surname = surname
+    self.age = age
+    self.status = status
+    self.salary = salary
+
+class RegularEmployee(object):
+  
+  def __init__(self, name, surname, age, status, salary):
+    self.name = name
+    self.surname = surname
+    self.age = age
+    self.status = status
+    self.salary = salary
+
+    
+
+
+
+
+
+
+```
