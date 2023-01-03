@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Calculator simple",
+      "path": "PYTHON/GUI/Tkinter/Calculator simple.md"
+    },
+    {
+      "basename": "Calculater",
+      "path": "PYTHON/GUI/Tkinter/Calculater.md"
+    },
+    {
+      "basename": "Tkinter konwerter",
+      "path": "PYTHON/GUI/Tkinter/Tkinter konwerter.md"
+    },
+    {
+      "basename": "Tkinter 0",
+      "path": "PYTHON/GUI/Tkinter/Tkinter 0.md"
+    },
+    {
+      "basename": "Tkinter",
+      "path": "PYTHON/GUI/Tkinter/Tkinter.md"
+    },
+    {
       "basename": "4 Pre-defined dialogs and basic data types",
       "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/4 Pre-defined dialogs and basic data types.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "Scope Python",
       "path": "PYTHON/Master_Python_100/Scope Python.md"
-    },
-    {
-      "basename": "2 Pierwsz komponent",
-      "path": "REACT/React_Node_Helion/2 Pierwsz komponent.md"
-    },
-    {
-      "basename": "_React Bob Ziroll",
-      "path": "REACT/React Bob Ziroll/_React Bob Ziroll.md"
-    },
-    {
-      "basename": "API.excalidraw",
-      "path": "PYTHON/Master_Python_100/API.excalidraw.md"
-    },
-    {
-      "basename": "16 _ OOP",
-      "path": "PYTHON/Master_Python_100/16 _ OOP.md"
-    },
-    {
-      "basename": "1 - Haskell Lists",
-      "path": "HASKELL/for_great_good/1 - Haskell Lists.md"
     }
   ],
   "omittedPaths": [],

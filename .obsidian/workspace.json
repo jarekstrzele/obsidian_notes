@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/4 Pre-defined dialogs and basic data types.md",
+                "file": "PYTHON/GUI/Tkinter/Calculator simple.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/4 Pre-defined dialogs and basic data types.md",
+                "file": "PYTHON/GUI/Tkinter/Calculator simple.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/4 Pre-defined dialogs and basic data types.md",
+                "file": "PYTHON/GUI/Tkinter/Calculator simple.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/4 Pre-defined dialogs and basic data types.md"
+                "file": "PYTHON/GUI/Tkinter/Calculator simple.md"
               }
             }
           },
@@ -248,15 +248,15 @@
   },
   "active": "e1288fc43ce4ebf7",
   "lastOpenFiles": [
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md",
+    "PYTHON/GUI/Tkinter/Calculater.md",
+    "PYTHON/GUI/Tkinter/Tkinter konwerter.md",
+    "PYTHON/GUI/Tkinter/Tkinter 0.md",
+    "PYTHON/GUI/Tkinter/Tkinter.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/4 Pre-defined dialogs and basic data types.md",
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md",
     "PYTHON/OOP Python udemy/_ 0 Python OOP.md",
     "PYTHON/z 200 zadań z Pythona.md",
-    "Studia/Python BackEnd/SQL Server.md",
-    "HASKELL/Haskell plac ćwiczeń/1 Haskell i Myślenie Funkcyjne.md",
-    "HASKELL/Haskell plac ćwiczeń/_ Haskell plac ćwiczeń dla uczonych.md",
-    "HASKELL/The Complete Haskell Course/9 Solved Problems - HOFs.md",
-    "HASKELL/The Complete Haskell Course/8 Higher Order Functions.md"
+    "Studia/Python BackEnd/SQL Server.md"
   ]
 }
