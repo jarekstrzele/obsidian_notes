@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "4 Pre-defined dialogs and basic data types",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/4 Pre-defined dialogs and basic data types.md"
+    },
+    {
+      "basename": "2 Installing PyQt5",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md"
+    },
+    {
+      "basename": "_ 0 PyQt5 From A-Z",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md"
+    },
+    {
+      "basename": "_ 0 Python OOP",
+      "path": "PYTHON/OOP Python udemy/_ 0 Python OOP.md"
+    },
+    {
+      "basename": "z 200 zadań z Pythona",
+      "path": "PYTHON/z 200 zadań z Pythona.md"
+    },
+    {
       "basename": "SQL Server",
       "path": "Studia/Python BackEnd/SQL Server.md"
     },
@@ -105,14 +125,6 @@
       "path": "API/FasAPI Fundamentals/_ 0 fast API  Fundamentals.md"
     },
     {
-      "basename": "4 Pre-defined dialogs and basic data types",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/4 Pre-defined dialogs and basic data types.md"
-    },
-    {
-      "basename": "2 Installing PyQt5",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md"
-    },
-    {
       "basename": "7 Advenced widgets",
       "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advenced widgets.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "1 - Haskell Lists",
       "path": "HASKELL/for_great_good/1 - Haskell Lists.md"
-    },
-    {
-      "basename": "0 - Haskell intro",
-      "path": "HASKELL/for_great_good/0 - Haskell intro.md"
-    },
-    {
-      "basename": "3 Vim Essentials",
-      "path": "linux/Vim/Vim Masterclass udemy/3 Vim Essentials.md"
-    },
-    {
-      "basename": "4 The Vim Help System",
-      "path": "linux/Vim/Vim Masterclass udemy/4 The Vim Help System.md"
     }
   ],
   "omittedPaths": [],
