@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "_ 0 React Native Mobile Apps",
+      "path": "REACT NATIVE/REACT NATIVE/Building Mobile Apps with React Native/_ 0 React Native Mobile Apps.md"
+    },
+    {
+      "basename": "_ 0 React Native - Practical Guide",
+      "path": "REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md"
+    },
+    {
+      "basename": "1 React Native Basics",
+      "path": "REACT NATIVE/React Native Practical Guide/1 React Native Basics.md"
+    },
+    {
       "basename": "3 mini game",
       "path": "REACT NATIVE/React Native Practical Guide/3 mini game.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "3 - Syntax in Function",
       "path": "HASKELL/for_great_good/3 - Syntax in Function.md"
-    },
-    {
-      "basename": "2 - Types and Typeclasses",
-      "path": "HASKELL/for_great_good/2 - Types and Typeclasses.md"
-    },
-    {
-      "basename": "1 - Haskell Tuples",
-      "path": "HASKELL/for_great_good/1 - Haskell Tuples.md"
-    },
-    {
-      "basename": "34 API GUI Quiz App",
-      "path": "PYTHON/Master_Python_100/34 API GUI Quiz App.md"
     }
   ],
   "omittedPaths": [],
