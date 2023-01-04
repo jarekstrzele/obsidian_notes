@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "3 mini game",
+      "path": "REACT NATIVE/React Native Practical Guide/3 mini game.md"
+    },
+    {
       "basename": "33 API Endpoints and API Parameters ISS Overhead Notifier",
       "path": "PYTHON/Master_Python_100/33 API Endpoints and API Parameters ISS Overhead Notifier.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "34 API GUI Quiz App",
       "path": "PYTHON/Master_Python_100/34 API GUI Quiz App.md"
-    },
-    {
-      "basename": "Scope Python",
-      "path": "PYTHON/Master_Python_100/Scope Python.md"
     }
   ],
   "omittedPaths": [],

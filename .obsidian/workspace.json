@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PYTHON/Master_Python_100/33 API Endpoints and API Parameters ISS Overhead Notifier.md",
+                "file": "REACT NATIVE/React Native Practical Guide/3 mini game.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,8 +91,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,8 +145,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -167,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PYTHON/GUI/Tkinter/Calculator simple.md",
+                "file": "REACT NATIVE/React Native Practical Guide/3 mini game.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -184,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PYTHON/GUI/Tkinter/Calculator simple.md",
+                "file": "REACT NATIVE/React Native Practical Guide/3 mini game.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PYTHON/GUI/Tkinter/Calculator simple.md"
+                "file": "REACT NATIVE/React Native Practical Guide/3 mini game.md"
               }
             }
           },
@@ -247,8 +245,9 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "aad6e2f11a660f1c",
+  "active": "c079aef54cf8405d",
   "lastOpenFiles": [
+    "PYTHON/Master_Python_100/33 API Endpoints and API Parameters ISS Overhead Notifier.md",
     "PYTHON/GUI/Tkinter/Calculater.md",
     "PYTHON/GUI/Tkinter/Tkinter konwerter.md",
     "PYTHON/GUI/Tkinter/Tkinter 0.md",
@@ -257,7 +256,6 @@
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md",
     "PYTHON/OOP Python udemy/_ 0 Python OOP.md",
-    "PYTHON/z 200 zadań z Pythona.md",
-    "Studia/Python BackEnd/SQL Server.md"
+    "PYTHON/z 200 zadań z Pythona.md"
   ]
 }
