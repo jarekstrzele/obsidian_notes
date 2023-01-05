@@ -8,11 +8,7 @@
 - SIP is open source and has been used in other projects
 - PyQt uses GPL license
 - PySIde is another set of python bindings for Qt using SIP
-
-
-
 ```shell
-
 $ python3 -m venv ./venv
 $ source venv/bin/activate
 (venv) $ pip install pyqt5 pyqt5-tools
@@ -118,7 +114,6 @@ if __name__ == "__main__":
 ```python
 import sys  
 from PyQt5.QtWidgets import *  
-  
   
 class DlgMain(QDialog):  
     def __init__(self):  

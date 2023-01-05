@@ -11,9 +11,6 @@
 
 
 ----
-
-
-
 # QMessageBox
 - provide output to user
 - can be used for simple input queries (yes/no)
