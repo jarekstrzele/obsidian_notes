@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "_ DML SQLite",
+      "path": "Data Bases/SQL/SQL Bootcamp SQLite/3 - DML/_ DML SQLite.md"
+    },
+    {
       "basename": "3 mini game",
       "path": "REACT NATIVE/React Native Practical Guide/3 mini game.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "3.1 - Pattern matching",
       "path": "HASKELL/for_great_good/3.1 - Pattern matching.md"
-    },
-    {
-      "basename": "3 - Syntax in Function",
-      "path": "HASKELL/for_great_good/3 - Syntax in Function.md"
     }
   ],
   "omittedPaths": [],
