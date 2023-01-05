@@ -41,9 +41,9 @@ wirus_zombi = Virus("zombi", 2.93, 1)
 # wirus_zombi.infect("human")
 print(wirus_zombi.reproduce())
 ```
-> 
-> Inheritance is a example of *is a* relationship
-> 
+
+
+> Inheritance is a example of **is-a** relationship
 ```python
 class Virus: 
 	def __init__(self, name, reproduction_rate, virus_number):
@@ -208,7 +208,7 @@ man=Child(22)
 ## Subclassing Properties
 
 - properties defined in the parent coud be extended/modified in the subclass
-- properties live in the namespace of the class in which they-re defined, reffering to them from subclasses you have to use fullname `className.propertiName`
+- properties live in the namespace of the class in which they-re defined, reffering to them from subclasses you have to use fullname `className.propertyName`
 
 ```jsx
 class Parent:

@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "5 Inheritance",
+      "path": "PYTHON/OOP Python udemy/5 Inheritance.md"
+    },
+    {
+      "basename": "6 Slots",
+      "path": "PYTHON/OOP Python udemy/6 Slots.md"
+    },
+    {
+      "basename": "7 DataClasses",
+      "path": "PYTHON/OOP Python udemy/7 DataClasses.md"
+    },
+    {
+      "basename": "4 Properties",
+      "path": "PYTHON/OOP Python udemy/4 Properties.md"
+    },
+    {
       "basename": "8 Login Project",
       "path": "REACT/React - the Complete Guide/8 Login Project.md"
     },
@@ -145,10 +161,6 @@
       "path": "HASKELL/The Complete Haskell Course/_ 0 Complete Haskell Course.md"
     },
     {
-      "basename": "6 Slots",
-      "path": "PYTHON/OOP Python udemy/6 Slots.md"
-    },
-    {
       "basename": "_ 0 React Node",
       "path": "REACT/React_Node_Helion/_ 0 React Node.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "2.1 Hello world",
       "path": "API/REST API i Python Helion/2.1 Hello world.md"
-    },
-    {
-      "basename": "_0 Learn FastAPI by building a complate project",
-      "path": "API/Learn FastAPI by building_udemy/_0 Learn FastAPI by building a complate project.md"
-    },
-    {
-      "basename": "4 serving data with FasAPI",
-      "path": "API/FasAPI Fundamentals/4 serving data with FasAPI.md"
-    },
-    {
-      "basename": "_ 0 fast API  Fundamentals",
-      "path": "API/FasAPI Fundamentals/_ 0 fast API  Fundamentals.md"
     }
   ],
   "omittedPaths": [],

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REACT/React - the Complete Guide/8 Login Project.md",
+                "file": "PYTHON/OOP Python udemy/5 Inheritance.md",
                 "mode": "source",
                 "source": false
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REACT/React - the Complete Guide/8 Login Project.md",
+                "file": "PYTHON/OOP Python udemy/5 Inheritance.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REACT/React - the Complete Guide/8 Login Project.md",
+                "file": "PYTHON/OOP Python udemy/5 Inheritance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REACT/React - the Complete Guide/8 Login Project.md"
+                "file": "PYTHON/OOP Python udemy/5 Inheritance.md"
               }
             }
           },
@@ -247,15 +247,15 @@
   },
   "active": "c079aef54cf8405d",
   "lastOpenFiles": [
+    "PYTHON/OOP Python udemy/6 Slots.md",
+    "PYTHON/OOP Python udemy/7 DataClasses.md",
+    "PYTHON/OOP Python udemy/5 Inheritance.md",
+    "PYTHON/OOP Python udemy/4 Properties.md",
+    "REACT/React - the Complete Guide/8 Login Project.md",
     "REACT/React - the Complete Guide/6.1. Styling extra.md",
     "REACT/React - the Complete Guide/6 Styling React Component (Simple React App).md",
     "REACT/React - the Complete Guide/5.2 Chart.md",
     "REACT/React - the Complete Guide/5 Rendering Lists and Conditional content.md",
-    "REACT/React - the Complete Guide/4 React State and Working with Events.md",
-    "REACT/React - the Complete Guide/8 Login Project.md",
-    "REACT/React - the Complete Guide/_ 0 React Full.md",
-    "REACT/React - the Complete Guide/3 React Basics.md",
-    "Data Bases/SQL/SQL Bootcamp SQLite/3 - DML/_ DML SQLite.md",
-    "REACT NATIVE/React Native Practical Guide/3 mini game.md"
+    "REACT/React - the Complete Guide/4 React State and Working with Events.md"
   ]
 }
