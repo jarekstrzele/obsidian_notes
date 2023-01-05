@@ -147,7 +147,7 @@ if __name__ == "__main__":
 ## Signals and Slots
 
 ### signals
-analohous to events
+analogous to events
 `obj.signal.connect(self.method)`
 old syntax `self.connect(obj, SIGNAL("signal"), self.method))`
 
