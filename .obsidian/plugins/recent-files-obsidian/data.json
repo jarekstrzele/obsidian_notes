@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "8 Login Project",
+      "path": "REACT/React - the Complete Guide/8 Login Project.md"
+    },
+    {
+      "basename": "6.1. Styling extra",
+      "path": "REACT/React - the Complete Guide/6.1. Styling extra.md"
+    },
+    {
+      "basename": "6 Styling React Component (Simple React App)",
+      "path": "REACT/React - the Complete Guide/6 Styling React Component (Simple React App).md"
+    },
+    {
+      "basename": "5.2 Chart",
+      "path": "REACT/React - the Complete Guide/5.2 Chart.md"
+    },
+    {
+      "basename": "5 Rendering Lists and Conditional content",
+      "path": "REACT/React - the Complete Guide/5 Rendering Lists and Conditional content.md"
+    },
+    {
+      "basename": "4 React State and Working with Events",
+      "path": "REACT/React - the Complete Guide/4 React State and Working with Events.md"
+    },
+    {
+      "basename": "_ 0 React Full",
+      "path": "REACT/React - the Complete Guide/_ 0 React Full.md"
+    },
+    {
+      "basename": "3 React Basics",
+      "path": "REACT/React - the Complete Guide/3 React Basics.md"
+    },
+    {
       "basename": "_ DML SQLite",
       "path": "Data Bases/SQL/SQL Bootcamp SQLite/3 - DML/_ DML SQLite.md"
     },
@@ -167,38 +199,6 @@
     {
       "basename": "_ 0 fast API  Fundamentals",
       "path": "API/FasAPI Fundamentals/_ 0 fast API  Fundamentals.md"
-    },
-    {
-      "basename": "7 Advenced widgets",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advenced widgets.md"
-    },
-    {
-      "basename": "6 Using Qt Layouts to simplify your designs",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md"
-    },
-    {
-      "basename": "8 Qt Style Sheets",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/8 Qt Style Sheets.md"
-    },
-    {
-      "basename": "1 Basics",
-      "path": "HASKELL/The Complete Haskell Course/1 Basics.md"
-    },
-    {
-      "basename": "3.4 Case expressions",
-      "path": "HASKELL/for_great_good/3.4 Case expressions.md"
-    },
-    {
-      "basename": "3.2 - Guards",
-      "path": "HASKELL/for_great_good/3.2 - Guards.md"
-    },
-    {
-      "basename": "3.3 let it be",
-      "path": "HASKELL/for_great_good/3.3 let it be.md"
-    },
-    {
-      "basename": "3.1 - Pattern matching",
-      "path": "HASKELL/for_great_good/3.1 - Pattern matching.md"
     }
   ],
   "omittedPaths": [],

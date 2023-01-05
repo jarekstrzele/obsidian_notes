@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Bases/SQL/SQL Bootcamp SQLite/3 - DML/_ DML SQLite.md",
+                "file": "REACT/React - the Complete Guide/8 Login Project.md",
                 "mode": "source",
                 "source": false
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Bases/SQL/SQL Bootcamp SQLite/3 - DML/_ DML SQLite.md",
+                "file": "REACT/React - the Complete Guide/8 Login Project.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Bases/SQL/SQL Bootcamp SQLite/3 - DML/_ DML SQLite.md",
+                "file": "REACT/React - the Complete Guide/8 Login Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Bases/SQL/SQL Bootcamp SQLite/3 - DML/_ DML SQLite.md"
+                "file": "REACT/React - the Complete Guide/8 Login Project.md"
               }
             }
           },
@@ -247,15 +247,15 @@
   },
   "active": "c079aef54cf8405d",
   "lastOpenFiles": [
-    "REACT NATIVE/React Native Practical Guide/3 mini game.md",
-    "REACT NATIVE/REACT NATIVE/Building Mobile Apps with React Native/_ 0 React Native Mobile Apps.md",
-    "REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
-    "REACT NATIVE/React Native Practical Guide/1 React Native Basics.md",
-    "PYTHON/Master_Python_100/33 API Endpoints and API Parameters ISS Overhead Notifier.md",
-    "PYTHON/GUI/Tkinter/Calculater.md",
-    "PYTHON/GUI/Tkinter/Tkinter konwerter.md",
-    "PYTHON/GUI/Tkinter/Tkinter 0.md",
-    "PYTHON/GUI/Tkinter/Tkinter.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/4 Pre-defined dialogs and basic data types.md"
+    "REACT/React - the Complete Guide/6.1. Styling extra.md",
+    "REACT/React - the Complete Guide/6 Styling React Component (Simple React App).md",
+    "REACT/React - the Complete Guide/5.2 Chart.md",
+    "REACT/React - the Complete Guide/5 Rendering Lists and Conditional content.md",
+    "REACT/React - the Complete Guide/4 React State and Working with Events.md",
+    "REACT/React - the Complete Guide/8 Login Project.md",
+    "REACT/React - the Complete Guide/_ 0 React Full.md",
+    "REACT/React - the Complete Guide/3 React Basics.md",
+    "Data Bases/SQL/SQL Bootcamp SQLite/3 - DML/_ DML SQLite.md",
+    "REACT NATIVE/React Native Practical Guide/3 mini game.md"
   ]
 }
