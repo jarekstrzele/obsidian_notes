@@ -23,7 +23,7 @@ timeDecomposition seconds = (h, m, s)
 	where
 		h = div seconds 3600
 		m = div (mod seconds 3600) 60
-		s = mod seconds
+		s = mod seconds 60
 ```
 
 ## Access to Tuples

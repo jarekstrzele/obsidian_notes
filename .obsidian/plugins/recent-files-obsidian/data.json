@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "6 Lists and Text",
+      "path": "HASKELL/The Complete Haskell Course/6 Lists and Text.md"
+    },
+    {
       "basename": "5 Tuple",
       "path": "HASKELL/The Complete Haskell Course/5 Tuple.md"
+    },
+    {
+      "basename": "7 List Problems",
+      "path": "HASKELL/The Complete Haskell Course/7 List Problems.md"
     },
     {
       "basename": "4 Solved Probelms - Functions",
@@ -19,10 +27,6 @@
     {
       "basename": "1 Basics",
       "path": "HASKELL/The Complete Haskell Course/1 Basics.md"
-    },
-    {
-      "basename": "6 Lists and Text",
-      "path": "HASKELL/The Complete Haskell Course/6 Lists and Text.md"
     },
     {
       "basename": "SQL Server",
@@ -175,10 +179,6 @@
     {
       "basename": "8 Higher Order Functions",
       "path": "HASKELL/The Complete Haskell Course/8 Higher Order Functions.md"
-    },
-    {
-      "basename": "7 List Problems",
-      "path": "HASKELL/The Complete Haskell Course/7 List Problems.md"
     },
     {
       "basename": "_ 0 Complete Haskell Course",

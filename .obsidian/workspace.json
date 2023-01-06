@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HASKELL/The Complete Haskell Course/5 Tuple.md",
+                "file": "HASKELL/The Complete Haskell Course/6 Lists and Text.md",
                 "mode": "source",
                 "source": false
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/The Complete Haskell Course/5 Tuple.md",
+                "file": "HASKELL/The Complete Haskell Course/6 Lists and Text.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/The Complete Haskell Course/5 Tuple.md",
+                "file": "HASKELL/The Complete Haskell Course/6 Lists and Text.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/The Complete Haskell Course/5 Tuple.md"
+                "file": "HASKELL/The Complete Haskell Course/6 Lists and Text.md"
               }
             }
           },
@@ -247,15 +247,15 @@
   },
   "active": "c079aef54cf8405d",
   "lastOpenFiles": [
+    "HASKELL/The Complete Haskell Course/5 Tuple.md",
+    "HASKELL/The Complete Haskell Course/7 List Problems.md",
+    "HASKELL/The Complete Haskell Course/6 Lists and Text.md",
     "HASKELL/The Complete Haskell Course/4 Solved Probelms - Functions.md",
     "HASKELL/The Complete Haskell Course/3 Functions.md",
     "HASKELL/The Complete Haskell Course/2 Basic Types.md",
     "HASKELL/The Complete Haskell Course/1 Basics.md",
-    "HASKELL/The Complete Haskell Course/6 Lists and Text.md",
-    "HASKELL/The Complete Haskell Course/5 Tuple.md",
     "Studia/Python BackEnd/SQL Server.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/4 Pre-defined dialogs and basic data types.md"
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md"
   ]
 }
