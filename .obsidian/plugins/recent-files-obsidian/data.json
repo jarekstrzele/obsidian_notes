@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "5 Tuple",
+      "path": "HASKELL/The Complete Haskell Course/5 Tuple.md"
+    },
+    {
+      "basename": "4 Solved Probelms - Functions",
+      "path": "HASKELL/The Complete Haskell Course/4 Solved Probelms - Functions.md"
+    },
+    {
+      "basename": "3 Functions",
+      "path": "HASKELL/The Complete Haskell Course/3 Functions.md"
+    },
+    {
+      "basename": "2 Basic Types",
+      "path": "HASKELL/The Complete Haskell Course/2 Basic Types.md"
+    },
+    {
+      "basename": "1 Basics",
+      "path": "HASKELL/The Complete Haskell Course/1 Basics.md"
+    },
+    {
+      "basename": "6 Lists and Text",
+      "path": "HASKELL/The Complete Haskell Course/6 Lists and Text.md"
+    },
+    {
       "basename": "SQL Server",
       "path": "Studia/Python BackEnd/SQL Server.md"
     },
@@ -157,26 +181,6 @@
       "path": "HASKELL/The Complete Haskell Course/7 List Problems.md"
     },
     {
-      "basename": "6 Lists and Text",
-      "path": "HASKELL/The Complete Haskell Course/6 Lists and Text.md"
-    },
-    {
-      "basename": "5 Tuple",
-      "path": "HASKELL/The Complete Haskell Course/5 Tuple.md"
-    },
-    {
-      "basename": "4 Solved Probelms - Functions",
-      "path": "HASKELL/The Complete Haskell Course/4 Solved Probelms - Functions.md"
-    },
-    {
-      "basename": "3 Functions",
-      "path": "HASKELL/The Complete Haskell Course/3 Functions.md"
-    },
-    {
-      "basename": "2 Basic Types",
-      "path": "HASKELL/The Complete Haskell Course/2 Basic Types.md"
-    },
-    {
       "basename": "_ 0 Complete Haskell Course",
       "path": "HASKELL/The Complete Haskell Course/_ 0 Complete Haskell Course.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "example python with mongo",
       "path": "API/REST API i Python Helion/example python with mongo.md"
-    },
-    {
-      "basename": "4 - testy",
-      "path": "API/REST API i Python Helion/4 - testy.md"
     }
   ],
   "omittedPaths": [],
