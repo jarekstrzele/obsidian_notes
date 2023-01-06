@@ -149,7 +149,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5
+    "width": 273.5,
+    "collapsed": true
   },
   "right": {
     "id": "ec7d1a70da2de581",
@@ -245,7 +246,7 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "c079aef54cf8405d",
+  "active": "f621f21825dbd82d",
   "lastOpenFiles": [
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/4 Pre-defined dialogs and basic data types.md",
