@@ -13,7 +13,55 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HASKELL/The Complete Haskell Course/6 Lists and Text.md",
+                "file": "HASKELL/haskell expression.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cfde3ac2448d5dc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HASKELL/learning haskell programming/_ 0 Learining Haskell Programming.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f50e18c8656eb34a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HASKELL/learning haskell programming/1 Getting Started with Haskell.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f2f6008f30539185",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HASKELL/learning haskell programming/2 Developing a Word Game.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5a3c417180db0533",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HASKELL/learning haskell programming/_ 0 Learining Haskell Programming.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,7 +139,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -165,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/The Complete Haskell Course/6 Lists and Text.md",
+                "file": "HASKELL/learning haskell programming/_ 0 Learining Haskell Programming.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -182,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/The Complete Haskell Course/6 Lists and Text.md",
+                "file": "HASKELL/learning haskell programming/_ 0 Learining Haskell Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/The Complete Haskell Course/6 Lists and Text.md"
+                "file": "HASKELL/learning haskell programming/_ 0 Learining Haskell Programming.md"
               }
             }
           },
@@ -245,17 +294,17 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "c079aef54cf8405d",
+  "active": "5a3c417180db0533",
   "lastOpenFiles": [
-    "HASKELL/The Complete Haskell Course/5 Tuple.md",
-    "HASKELL/The Complete Haskell Course/7 List Problems.md",
+    "HASKELL/learning haskell programming/3 Polishing the Word Game.md",
+    "HASKELL/learning haskell programming/2 Developing a Word Game.md",
+    "HASKELL/learning haskell programming/1 Getting Started with Haskell.md",
+    "HASKELL/learning haskell programming/_ 0 Learining Haskell Programming.md",
+    "HASKELL/haskell expression.md",
+    "HASKELL/Installing.md",
+    "HASKELL/for_great_good/0 - Haskell intro.md",
     "HASKELL/The Complete Haskell Course/6 Lists and Text.md",
-    "HASKELL/The Complete Haskell Course/4 Solved Probelms - Functions.md",
-    "HASKELL/The Complete Haskell Course/3 Functions.md",
-    "HASKELL/The Complete Haskell Course/2 Basic Types.md",
-    "HASKELL/The Complete Haskell Course/1 Basics.md",
-    "Studia/Python BackEnd/SQL Server.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md"
+    "HASKELL/The Complete Haskell Course/5 Tuple.md",
+    "HASKELL/The Complete Haskell Course/7 List Problems.md"
   ]
 }

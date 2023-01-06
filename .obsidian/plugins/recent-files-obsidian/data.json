@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "_ 0 Learining Haskell Programming",
+      "path": "HASKELL/learning haskell programming/_ 0 Learining Haskell Programming.md"
+    },
+    {
+      "basename": "3 Polishing the Word Game",
+      "path": "HASKELL/learning haskell programming/3 Polishing the Word Game.md"
+    },
+    {
+      "basename": "2 Developing a Word Game",
+      "path": "HASKELL/learning haskell programming/2 Developing a Word Game.md"
+    },
+    {
+      "basename": "1 Getting Started with Haskell",
+      "path": "HASKELL/learning haskell programming/1 Getting Started with Haskell.md"
+    },
+    {
+      "basename": "haskell expression",
+      "path": "HASKELL/haskell expression.md"
+    },
+    {
+      "basename": "Installing",
+      "path": "HASKELL/Installing.md"
+    },
+    {
+      "basename": "0 - Haskell intro",
+      "path": "HASKELL/for_great_good/0 - Haskell intro.md"
+    },
+    {
       "basename": "6 Lists and Text",
       "path": "HASKELL/The Complete Haskell Course/6 Lists and Text.md"
     },
@@ -171,34 +199,6 @@
     {
       "basename": "_ Haskell plac ćwiczeń dla uczonych",
       "path": "HASKELL/Haskell plac ćwiczeń/_ Haskell plac ćwiczeń dla uczonych.md"
-    },
-    {
-      "basename": "9 Solved Problems - HOFs",
-      "path": "HASKELL/The Complete Haskell Course/9 Solved Problems - HOFs.md"
-    },
-    {
-      "basename": "8 Higher Order Functions",
-      "path": "HASKELL/The Complete Haskell Course/8 Higher Order Functions.md"
-    },
-    {
-      "basename": "_ 0 Complete Haskell Course",
-      "path": "HASKELL/The Complete Haskell Course/_ 0 Complete Haskell Course.md"
-    },
-    {
-      "basename": "_ 0 React Node",
-      "path": "REACT/React_Node_Helion/_ 0 React Node.md"
-    },
-    {
-      "basename": "MySql data base",
-      "path": "Studia/Python BackEnd/MySql data base.md"
-    },
-    {
-      "basename": "_ 0 start REST API i python",
-      "path": "API/REST API i Python Helion/_ 0 start REST API i python.md"
-    },
-    {
-      "basename": "example python with mongo",
-      "path": "API/REST API i Python Helion/example python with mongo.md"
     }
   ],
   "omittedPaths": [],
