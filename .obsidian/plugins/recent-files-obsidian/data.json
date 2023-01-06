@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "SQL Server",
+      "path": "Studia/Python BackEnd/SQL Server.md"
+    },
+    {
       "basename": "_ 0 PyQt5 From A-Z",
       "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md"
     },
@@ -131,10 +135,6 @@
     {
       "basename": "z 200 zadań z Pythona",
       "path": "PYTHON/z 200 zadań z Pythona.md"
-    },
-    {
-      "basename": "SQL Server",
-      "path": "Studia/Python BackEnd/SQL Server.md"
     },
     {
       "basename": "1 Haskell i Myślenie Funkcyjne",
