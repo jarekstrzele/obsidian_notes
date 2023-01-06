@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "1 Haskell i Myślenie Funkcyjne",
+      "path": "HASKELL/Haskell plac ćwiczeń/1 Haskell i Myślenie Funkcyjne.md"
+    },
+    {
+      "basename": "_ Haskell plac ćwiczeń dla uczonych",
+      "path": "HASKELL/Haskell plac ćwiczeń/_ Haskell plac ćwiczeń dla uczonych.md"
+    },
+    {
       "basename": "_ 0 Learining Haskell Programming",
       "path": "HASKELL/learning haskell programming/_ 0 Learining Haskell Programming.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "z 200 zadań z Pythona",
       "path": "PYTHON/z 200 zadań z Pythona.md"
-    },
-    {
-      "basename": "1 Haskell i Myślenie Funkcyjne",
-      "path": "HASKELL/Haskell plac ćwiczeń/1 Haskell i Myślenie Funkcyjne.md"
-    },
-    {
-      "basename": "_ Haskell plac ćwiczeń dla uczonych",
-      "path": "HASKELL/Haskell plac ćwiczeń/_ Haskell plac ćwiczeń dla uczonych.md"
     }
   ],
   "omittedPaths": [],

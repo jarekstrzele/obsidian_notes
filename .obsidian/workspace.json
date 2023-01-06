@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HASKELL/learning haskell programming/_ 0 Learining Haskell Programming.md",
+                "file": "HASKELL/Haskell plac ćwiczeń/1 Haskell i Myślenie Funkcyjne.md",
                 "mode": "source",
                 "source": false
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/learning haskell programming/_ 0 Learining Haskell Programming.md",
+                "file": "HASKELL/Haskell plac ćwiczeń/1 Haskell i Myślenie Funkcyjne.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -231,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/learning haskell programming/_ 0 Learining Haskell Programming.md",
+                "file": "HASKELL/Haskell plac ćwiczeń/1 Haskell i Myślenie Funkcyjne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/learning haskell programming/_ 0 Learining Haskell Programming.md"
+                "file": "HASKELL/Haskell plac ćwiczeń/1 Haskell i Myślenie Funkcyjne.md"
               }
             }
           },
@@ -296,15 +296,15 @@
   },
   "active": "5a3c417180db0533",
   "lastOpenFiles": [
+    "HASKELL/Haskell plac ćwiczeń/_ Haskell plac ćwiczeń dla uczonych.md",
+    "HASKELL/learning haskell programming/_ 0 Learining Haskell Programming.md",
     "HASKELL/learning haskell programming/3 Polishing the Word Game.md",
     "HASKELL/learning haskell programming/2 Developing a Word Game.md",
     "HASKELL/learning haskell programming/1 Getting Started with Haskell.md",
-    "HASKELL/learning haskell programming/_ 0 Learining Haskell Programming.md",
     "HASKELL/haskell expression.md",
     "HASKELL/Installing.md",
     "HASKELL/for_great_good/0 - Haskell intro.md",
     "HASKELL/The Complete Haskell Course/6 Lists and Text.md",
-    "HASKELL/The Complete Haskell Course/5 Tuple.md",
-    "HASKELL/The Complete Haskell Course/7 List Problems.md"
+    "HASKELL/The Complete Haskell Course/5 Tuple.md"
   ]
 }
