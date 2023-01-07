@@ -5,16 +5,32 @@
       "path": "HASKELL/Learning Path Haskell/_ 0 Fundamentals of Practical Haskell Programming.md"
     },
     {
+      "basename": "7 List Problems",
+      "path": "HASKELL/The Complete Haskell Course/7 List Problems.md"
+    },
+    {
+      "basename": "_ 0 Learining Haskell Programming",
+      "path": "HASKELL/learning haskell programming/_ 0 Learining Haskell Programming.md"
+    },
+    {
+      "basename": "2 Developing a Word Game",
+      "path": "HASKELL/learning haskell programming/2 Developing a Word Game.md"
+    },
+    {
+      "basename": "1 Getting Started with Haskell",
+      "path": "HASKELL/learning haskell programming/1 Getting Started with Haskell.md"
+    },
+    {
+      "basename": "haskell expression",
+      "path": "HASKELL/haskell expression.md"
+    },
+    {
       "basename": "2 Haskell in Depth",
       "path": "HASKELL/Learning Path Haskell/2 Haskell in Depth.md"
     },
     {
       "basename": "1 Exploring Haskell",
       "path": "HASKELL/Learning Path Haskell/1 Exploring Haskell.md"
-    },
-    {
-      "basename": "_ 0 Learining Haskell Programming",
-      "path": "HASKELL/learning haskell programming/_ 0 Learining Haskell Programming.md"
     },
     {
       "basename": "5 Simple QWidgets",
@@ -49,18 +65,6 @@
       "path": "HASKELL/learning haskell programming/3 Polishing the Word Game.md"
     },
     {
-      "basename": "2 Developing a Word Game",
-      "path": "HASKELL/learning haskell programming/2 Developing a Word Game.md"
-    },
-    {
-      "basename": "1 Getting Started with Haskell",
-      "path": "HASKELL/learning haskell programming/1 Getting Started with Haskell.md"
-    },
-    {
-      "basename": "haskell expression",
-      "path": "HASKELL/haskell expression.md"
-    },
-    {
       "basename": "Installing",
       "path": "HASKELL/Installing.md"
     },
@@ -75,10 +79,6 @@
     {
       "basename": "5 Tuple",
       "path": "HASKELL/The Complete Haskell Course/5 Tuple.md"
-    },
-    {
-      "basename": "7 List Problems",
-      "path": "HASKELL/The Complete Haskell Course/7 List Problems.md"
     },
     {
       "basename": "4 Solved Probelms - Functions",

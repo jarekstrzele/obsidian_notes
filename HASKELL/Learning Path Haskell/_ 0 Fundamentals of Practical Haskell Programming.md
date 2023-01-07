@@ -165,5 +165,12 @@ main = do
 `do` is pronounce *from the code* or *drawn form*
 *content is drawn from read file applied to nums.txt*
 
+#haskell/print
+`print` can be applied to any value that implements the Show type class and is typically used to display a representation of a value for diagnostic purposes 
+
+`putStrLn` is used to output a string folow ya newline character
+
+
+
 
 
