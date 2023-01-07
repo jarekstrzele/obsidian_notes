@@ -119,14 +119,32 @@ main = print result
 - args are evaluated on demand and the results will memorized for future use
 - that lazy evalutation allow us to build our own control structures
 
+```haskell
+main :: IO ()
+myIf :: Bool -> p -> p -> p
+myIf True thenFunc elseFunc = thenFunc
+myIf False thenFunc elseFunc = elseFunc
+
+main =
+    let x = 5
+    in print $ myIf (x==5) "is five" "is not five"
+```
 
 
+## Strong and Static Type System
+- catch as many potential defects at compile time as possible
+- generate the most efficient code as possible
+- types are deleted at compile time
 
 
+----
+# First Haskell Programs
 
-
-
-
+```haskell
+-- main is putStrLn hello world
+main = putStrLn "Hello world"
+--- semanthis program binds 
+```
 
 
 
