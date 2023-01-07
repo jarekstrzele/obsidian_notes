@@ -152,7 +152,18 @@ in the terminal:
 `stack runghc Program.hs`
 `runghc` it is an interpreter 
 
-
 `main::IO()` this means `main` is a finction that evaluates to an action which produces no value
+
+```haskell
+main :: IO ()
+
+main = do
+    content <- readFile "nums.txt"
+    putStrLn content
+```
+
+`do` is pronounce *from the code* or *drawn form*
+*content is drawn from read file applied to nums.txt*
+
 
 
