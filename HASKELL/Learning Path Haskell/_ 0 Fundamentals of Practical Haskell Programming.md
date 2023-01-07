@@ -84,7 +84,7 @@ main = print $ map (g . f) [1,2,3]
 ----
 # The Haskell Way
 
-FP Features of Haskell
+## FP Features of Haskell
 - functions are first-class values
 - higher-order functions can be elegantly expressed
 - Haskell does not support standard loop control flow
@@ -99,10 +99,16 @@ main = print result
 
 `stack runghc fileName.hs` - this takes a Haskell source file and runs it as if it is an interpreter and so it takes the code and executes it without going through compilation past first 
 
+```powershell
+> stack runghc .\app\Main.hs
+["[one]","[two]","[three]"]
+```
 
 
-
-
+## Pure Functions Everywhere
+- all functions are pure in Haskell
+- Not a requirement for an FP PL
+- Core to generating efficient code
 
 
 
