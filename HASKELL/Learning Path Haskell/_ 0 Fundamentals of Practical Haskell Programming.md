@@ -91,8 +91,12 @@ main = print $ map (g . f) [1,2,3]
 - Haskell is about expressions and declarations
 
 ```haskell
+main :: IO ()
+addBrackets :: [Char] -> [Char]
 addBrackets s = "[" ++ s ++ "]"
-result = map addBrackets ["one", "two", "three"]
+
+result :: [[Char]]
+result = map addBrackets [ "one", "two", "three"]
 
 main = print result
 ```
@@ -110,8 +114,10 @@ main = print result
 - Not a requirement for an FP PL
 - Core to generating efficient code
 
-
-
+## Non-strict evaluation
+- function args are not eveluatated unless they'ar actually used
+- args are evaluated on demand and the results will memorized for future use
+- that lazy evalutation allow us to build our own control structures
 
 
 
