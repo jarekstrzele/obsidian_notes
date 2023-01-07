@@ -69,17 +69,35 @@ main = print $ foldr (+) 0 [1,2,3]
 
 **filtering** iterate over a collection of elements and extract the subser for which some predicate holds true
 ```haskell
-
+main = print $ filter (> 3) [1,2,3,4,5,6]
 ```
 
 **compostion** join two or more function together to produce a bigger function
 ```haskell
+f x = x + 10
+g x = x * x
 
+main = print $ map (g . f) [1,2,3]
 ```
 
 
+----
+# The Haskell Way
 
+FP Features of Haskell
+- functions are first-class values
+- higher-order functions can be elegantly expressed
+- Haskell does not support standard loop control flow
+- Haskell is about expressions and declarations
 
+```haskell
+addBrackets s = "[" ++ s ++ "]"
+result = map addBrackets ["one", "two", "three"]
+
+main = print result
+```
+
+`stack runghc fileName.hs` - this takes a Haskell source file and runs it as if it is an interpreter and so it takes the code and executes it without going through compilation past first 
 
 
 
