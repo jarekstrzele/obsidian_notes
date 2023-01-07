@@ -143,11 +143,14 @@ main =
 ```haskell
 -- main is putStrLn hello world
 main = putStrLn "Hello world"
---- semanthis program binds 
+--- semantically, this program binds the name `main` to the expression 
 ```
 
+`putStrLn` the func that takes a single artg of type string and eveluates to an action that when executable string s the terminal and produce no result
 
-
+in the terminal:
+`stack runghc Program.hs`
+`runghc` it is an interpreter 
 
 
 
