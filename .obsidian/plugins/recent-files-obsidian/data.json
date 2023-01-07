@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "_ 0 Fundamentals of Practical Haskell Programming",
+      "path": "HASKELL/Learning Path Haskell/_ 0 Fundamentals of Practical Haskell Programming.md"
+    },
+    {
+      "basename": "2 Haskell in Depth",
+      "path": "HASKELL/Learning Path Haskell/2 Haskell in Depth.md"
+    },
+    {
+      "basename": "1 Exploring Haskell",
+      "path": "HASKELL/Learning Path Haskell/1 Exploring Haskell.md"
+    },
+    {
+      "basename": "_ 0 Learining Haskell Programming",
+      "path": "HASKELL/learning haskell programming/_ 0 Learining Haskell Programming.md"
+    },
+    {
       "basename": "5 Simple QWidgets",
       "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md"
     },
@@ -27,10 +43,6 @@
     {
       "basename": "_ Haskell plac ćwiczeń dla uczonych",
       "path": "HASKELL/Haskell plac ćwiczeń/_ Haskell plac ćwiczeń dla uczonych.md"
-    },
-    {
-      "basename": "_ 0 Learining Haskell Programming",
-      "path": "HASKELL/learning haskell programming/_ 0 Learining Haskell Programming.md"
     },
     {
       "basename": "3 Polishing the Word Game",
@@ -187,18 +199,6 @@
     {
       "basename": "Tkinter 0",
       "path": "PYTHON/GUI/Tkinter/Tkinter 0.md"
-    },
-    {
-      "basename": "Tkinter",
-      "path": "PYTHON/GUI/Tkinter/Tkinter.md"
-    },
-    {
-      "basename": "_ 0 Python OOP",
-      "path": "PYTHON/OOP Python udemy/_ 0 Python OOP.md"
-    },
-    {
-      "basename": "z 200 zadań z Pythona",
-      "path": "PYTHON/z 200 zadań z Pythona.md"
     }
   ],
   "omittedPaths": [],
