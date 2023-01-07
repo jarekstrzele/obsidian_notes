@@ -11,7 +11,7 @@ https://docs.haskellstack.org/en/stable/
 >[!info] The Haskell Tool Stack
 >It is a cross-platform program for developing Haskell projects
 
-install
+# install on Windows
 
 verify 
 ```powershell
@@ -31,6 +31,48 @@ Downloading template "new-template" to create project "first-stack-project" in f
 - go to that folder
 - `stack build` - will build the template project and create an executable named `first-stack-project-exe.exe`
 - `stack exec first-stack-project-exe` will run (execute) the built executable
+
+
+--------------
+# Install on Linux
+
+
+
+----
+
+# Fundamentals of Practical Haskell Programming
+
+### FP - Functional Programming
+### PL - Programming Language
+
+
+## FP Way
+- it is an alternative model of computation
+- treats computation as the evaluation of mathematical functions
+- is declarative, emphasizing the "what" over the "how"
+
+### FP programs:
+- contain expressions and declarations
+- avoid chaging globale state
+- avoid mutating data
+- avoid looping and, instead, employ recursin or h
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
