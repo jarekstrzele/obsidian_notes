@@ -55,7 +55,29 @@ Downloading template "new-template" to create project "first-stack-project" in f
 - contain expressions and declarations
 - avoid chaging globale state
 - avoid mutating data
-- avoid looping and, instead, employ recursin or h
+- avoid looping and, instead, employ recursin or higher-order abstractions
+
+**traversal** (a.k.a. `mapping`) the process of iterating over elements and performing an action on each item
+```haskell
+main = print $ map (+ 10) [1,2,3]
+```
+
+**reduction**(a.k.a. `floding`)the process of iterating over a collection of elements in order to produce some kind of summaryy such as a total
+```haskell
+main = print $ foldr (+) 0 [1,2,3]
+```
+
+**filtering** iterate over a collection of elements and extract the subser for which some predicate holds true
+```haskell
+
+```
+
+**compostion** join two or more function together to produce a bigger function
+```haskell
+
+```
+
+
 
 
 
