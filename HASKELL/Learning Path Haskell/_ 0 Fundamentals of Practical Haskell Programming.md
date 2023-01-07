@@ -153,6 +153,6 @@ in the terminal:
 `runghc` it is an interpreter 
 
 
-
+`main::IO()` this means `main` is a finction that evaluates to an action which produces no value
 
 
