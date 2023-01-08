@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8d80e949e22803b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OCaml/OCaml Programming/OCaml Programming.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/learning haskell programming/1 Getting Started with Haskell.md",
+                "file": "OCaml/OCaml Programming/OCaml Programming.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/learning haskell programming/1 Getting Started with Haskell.md",
+                "file": "OCaml/OCaml Programming/OCaml Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/learning haskell programming/1 Getting Started with Haskell.md"
+                "file": "OCaml/OCaml Programming/OCaml Programming.md"
               }
             }
           },
@@ -173,11 +186,11 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "37b813f718400a21",
+  "active": "8d80e949e22803b0",
   "lastOpenFiles": [
+    "HASKELL/learning haskell programming/1 Getting Started with Haskell.md",
     "HASKELL/learning haskell programming/_ 0 Learining Haskell Programming.md",
     "HASKELL/learning haskell programming/2 Developing a Word Game.md",
-    "HASKELL/learning haskell programming/1 Getting Started with Haskell.md",
     "HASKELL/learning haskell programming/3 Polishing the Word Game.md",
     "HASKELL/Learning Path Haskell/_ 0 Fundamentals of Practical Haskell Programming.md",
     "HASKELL/Learning Path Haskell/1 Exploring Haskell.md",

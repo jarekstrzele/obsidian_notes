@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "OCaml Programming",
+      "path": "OCaml/OCaml Programming/OCaml Programming.md"
+    },
+    {
       "basename": "1 Getting Started with Haskell",
       "path": "HASKELL/learning haskell programming/1 Getting Started with Haskell.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "5 Rendering Lists and Conditional content",
       "path": "REACT/React - the Complete Guide/5 Rendering Lists and Conditional content.md"
-    },
-    {
-      "basename": "4 React State and Working with Events",
-      "path": "REACT/React - the Complete Guide/4 React State and Working with Events.md"
     }
   ],
   "omittedPaths": [],
