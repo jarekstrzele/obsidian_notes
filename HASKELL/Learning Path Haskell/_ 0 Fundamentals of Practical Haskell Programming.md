@@ -171,6 +171,65 @@ main = do
 `putStrLn` is used to output a string folow ya newline character
 
 
+```haskell
+readInts :: String -> [Int]
+readInts s = let ws = words s in map read ws
+
+minMax :: Ord a => [a] -> Maybe (a, a)
+minMax (h : t) = Just $ foldr
+    (\x (min, max) -> (if x < min then x else min, if x > max then x else max))
+    (h, h)
+    t
+minMax _ = Nothing
+
+main :: IO ()
+main = do
+    content <- readFile "nums.txt"
+    let values = readInts content
+        count = length values
+        total = sum values
+        mean = fromIntegral total / fromIntegral count
+        range = minMax values
+    print count
+    print total
+    print mean
+    print range
+```
+
+
+------------------
+# Whitespace, Layout and Scoping
+- Haskell is a white space sensitive language
+- Haskell is an "off-side rule" language
+- enforced by compiler
+- rules are usually intuitive
+- used in `where`, `let`, `do`, and `case ... of` constructs
+
+```haskell
+main =
+	let
+		x = 5
+		y = 6
+	in print (x + y)
+```
+
+`stack ghc -- --fno-code fileName.hs` compile the file but not produce any executable file; it checks only the syntactic correctness
+
+
+```haskell
+f = do
+
+```
+
+
+
+
+
+
+
+
+
+
 
 
 
