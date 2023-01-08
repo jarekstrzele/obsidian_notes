@@ -1,6 +1,54 @@
 {
   "recentFiles": [
     {
+      "basename": "1 Wprowadzenie Wzorce projektowe",
+      "path": "methodology/Wzorce projektowe Rusz Głową/1 Wprowadzenie Wzorce projektowe.md"
+    },
+    {
+      "basename": "alpine",
+      "path": "alpine.md"
+    },
+    {
+      "basename": "CI CD",
+      "path": "CI CD.md"
+    },
+    {
+      "basename": "ES refresh",
+      "path": "ES refresh.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
+      "basename": "static type",
+      "path": "static type.md"
+    },
+    {
+      "basename": "Scieżki uczenia się",
+      "path": "Scieżki uczenia się.md"
+    },
+    {
+      "basename": "Powtórzenie wiadomości Python imperatywnie",
+      "path": "Powtórzenie wiadomości Python imperatywnie.md"
+    },
+    {
+      "basename": "My SQL",
+      "path": "Data Bases/My SQL.md"
+    },
+    {
+      "basename": "vim-commands-cheat-sheet-by-pnap",
+      "path": "methodology/images/vim-commands-cheat-sheet-by-pnap.pdf"
+    },
+    {
+      "basename": "age_rating_pie",
+      "path": "methodology/images/age_rating_pie.png"
+    },
+    {
+      "basename": "age_rating_bar",
+      "path": "methodology/images/age_rating_bar.png"
+    },
+    {
       "basename": "_ 0 Fundamentals of Practical Haskell Programming",
       "path": "HASKELL/Learning Path Haskell/_ 0 Fundamentals of Practical Haskell Programming.md"
     },
@@ -151,54 +199,6 @@
     {
       "basename": "4 React State and Working with Events",
       "path": "REACT/React - the Complete Guide/4 React State and Working with Events.md"
-    },
-    {
-      "basename": "_ 0 React Full",
-      "path": "REACT/React - the Complete Guide/_ 0 React Full.md"
-    },
-    {
-      "basename": "3 React Basics",
-      "path": "REACT/React - the Complete Guide/3 React Basics.md"
-    },
-    {
-      "basename": "_ DML SQLite",
-      "path": "Data Bases/SQL/SQL Bootcamp SQLite/3 - DML/_ DML SQLite.md"
-    },
-    {
-      "basename": "3 mini game",
-      "path": "REACT NATIVE/React Native Practical Guide/3 mini game.md"
-    },
-    {
-      "basename": "_ 0 React Native Mobile Apps",
-      "path": "REACT NATIVE/REACT NATIVE/Building Mobile Apps with React Native/_ 0 React Native Mobile Apps.md"
-    },
-    {
-      "basename": "_ 0 React Native - Practical Guide",
-      "path": "REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md"
-    },
-    {
-      "basename": "1 React Native Basics",
-      "path": "REACT NATIVE/React Native Practical Guide/1 React Native Basics.md"
-    },
-    {
-      "basename": "33 API Endpoints and API Parameters ISS Overhead Notifier",
-      "path": "PYTHON/Master_Python_100/33 API Endpoints and API Parameters ISS Overhead Notifier.md"
-    },
-    {
-      "basename": "Calculator simple",
-      "path": "PYTHON/GUI/Tkinter/Calculator simple.md"
-    },
-    {
-      "basename": "Calculater",
-      "path": "PYTHON/GUI/Tkinter/Calculater.md"
-    },
-    {
-      "basename": "Tkinter konwerter",
-      "path": "PYTHON/GUI/Tkinter/Tkinter konwerter.md"
-    },
-    {
-      "basename": "Tkinter 0",
-      "path": "PYTHON/GUI/Tkinter/Tkinter 0.md"
     }
   ],
   "omittedPaths": [],
