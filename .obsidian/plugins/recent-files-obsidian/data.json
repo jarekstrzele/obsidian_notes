@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "_ 0 Fundamentals of Practical Haskell Programming",
+      "path": "HASKELL/Learning Path Haskell/_ 0 Fundamentals of Practical Haskell Programming.md"
+    },
+    {
+      "basename": "1 Exploring Haskell",
+      "path": "HASKELL/Learning Path Haskell/1 Exploring Haskell.md"
+    },
+    {
+      "basename": "1 Getting Started with Haskell",
+      "path": "HASKELL/learning haskell programming/1 Getting Started with Haskell.md"
+    },
+    {
+      "basename": "_ 0 Learining Haskell Programming",
+      "path": "HASKELL/learning haskell programming/_ 0 Learining Haskell Programming.md"
+    },
+    {
       "basename": "1 Wprowadzenie Wzorce projektowe",
       "path": "methodology/Wzorce projektowe Rusz Głową/1 Wprowadzenie Wzorce projektowe.md"
     },
@@ -49,24 +65,12 @@
       "path": "methodology/images/age_rating_bar.png"
     },
     {
-      "basename": "_ 0 Fundamentals of Practical Haskell Programming",
-      "path": "HASKELL/Learning Path Haskell/_ 0 Fundamentals of Practical Haskell Programming.md"
-    },
-    {
       "basename": "7 List Problems",
       "path": "HASKELL/The Complete Haskell Course/7 List Problems.md"
     },
     {
-      "basename": "_ 0 Learining Haskell Programming",
-      "path": "HASKELL/learning haskell programming/_ 0 Learining Haskell Programming.md"
-    },
-    {
       "basename": "2 Developing a Word Game",
       "path": "HASKELL/learning haskell programming/2 Developing a Word Game.md"
-    },
-    {
-      "basename": "1 Getting Started with Haskell",
-      "path": "HASKELL/learning haskell programming/1 Getting Started with Haskell.md"
     },
     {
       "basename": "haskell expression",
@@ -75,10 +79,6 @@
     {
       "basename": "2 Haskell in Depth",
       "path": "HASKELL/Learning Path Haskell/2 Haskell in Depth.md"
-    },
-    {
-      "basename": "1 Exploring Haskell",
-      "path": "HASKELL/Learning Path Haskell/1 Exploring Haskell.md"
     },
     {
       "basename": "5 Simple QWidgets",
