@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HASKELL/Learning Path Haskell/_ 0 Fundamentals of Practical Haskell Programming.md",
+                "file": "HASKELL/learning haskell programming/_ 0 Learining Haskell Programming.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/Learning Path Haskell/_ 0 Fundamentals of Practical Haskell Programming.md",
+                "file": "HASKELL/learning haskell programming/_ 0 Learining Haskell Programming.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/Learning Path Haskell/_ 0 Fundamentals of Practical Haskell Programming.md",
+                "file": "HASKELL/learning haskell programming/_ 0 Learining Haskell Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/Learning Path Haskell/_ 0 Fundamentals of Practical Haskell Programming.md"
+                "file": "HASKELL/learning haskell programming/_ 0 Learining Haskell Programming.md"
               }
             }
           },
@@ -175,15 +175,15 @@
   },
   "active": "37b813f718400a21",
   "lastOpenFiles": [
-    "HASKELL/Learning Path Haskell/1 Exploring Haskell.md",
-    "HASKELL/Learning Path Haskell/_ 0 Fundamentals of Practical Haskell Programming.md",
     "HASKELL/learning haskell programming/1 Getting Started with Haskell.md",
+    "HASKELL/learning haskell programming/2 Developing a Word Game.md",
+    "HASKELL/learning haskell programming/3 Polishing the Word Game.md",
     "HASKELL/learning haskell programming/_ 0 Learining Haskell Programming.md",
+    "HASKELL/Learning Path Haskell/_ 0 Fundamentals of Practical Haskell Programming.md",
+    "HASKELL/Learning Path Haskell/1 Exploring Haskell.md",
     "methodology/Wzorce projektowe Rusz Głową/1 Wprowadzenie Wzorce projektowe.md",
     "!info.md",
     "alpine.md",
-    "CI CD.md",
-    "ES refresh.md",
-    "Untitled.md"
+    "CI CD.md"
   ]
 }

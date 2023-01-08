@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "_ 0 Fundamentals of Practical Haskell Programming",
-      "path": "HASKELL/Learning Path Haskell/_ 0 Fundamentals of Practical Haskell Programming.md"
-    },
-    {
-      "basename": "1 Exploring Haskell",
-      "path": "HASKELL/Learning Path Haskell/1 Exploring Haskell.md"
+      "basename": "_ 0 Learining Haskell Programming",
+      "path": "HASKELL/learning haskell programming/_ 0 Learining Haskell Programming.md"
     },
     {
       "basename": "1 Getting Started with Haskell",
       "path": "HASKELL/learning haskell programming/1 Getting Started with Haskell.md"
     },
     {
-      "basename": "_ 0 Learining Haskell Programming",
-      "path": "HASKELL/learning haskell programming/_ 0 Learining Haskell Programming.md"
+      "basename": "2 Developing a Word Game",
+      "path": "HASKELL/learning haskell programming/2 Developing a Word Game.md"
+    },
+    {
+      "basename": "3 Polishing the Word Game",
+      "path": "HASKELL/learning haskell programming/3 Polishing the Word Game.md"
+    },
+    {
+      "basename": "_ 0 Fundamentals of Practical Haskell Programming",
+      "path": "HASKELL/Learning Path Haskell/_ 0 Fundamentals of Practical Haskell Programming.md"
+    },
+    {
+      "basename": "1 Exploring Haskell",
+      "path": "HASKELL/Learning Path Haskell/1 Exploring Haskell.md"
     },
     {
       "basename": "1 Wprowadzenie Wzorce projektowe",
@@ -69,10 +77,6 @@
       "path": "HASKELL/The Complete Haskell Course/7 List Problems.md"
     },
     {
-      "basename": "2 Developing a Word Game",
-      "path": "HASKELL/learning haskell programming/2 Developing a Word Game.md"
-    },
-    {
       "basename": "haskell expression",
       "path": "HASKELL/haskell expression.md"
     },
@@ -107,10 +111,6 @@
     {
       "basename": "_ Haskell plac ćwiczeń dla uczonych",
       "path": "HASKELL/Haskell plac ćwiczeń/_ Haskell plac ćwiczeń dla uczonych.md"
-    },
-    {
-      "basename": "3 Polishing the Word Game",
-      "path": "HASKELL/learning haskell programming/3 Polishing the Word Game.md"
     },
     {
       "basename": "Installing",

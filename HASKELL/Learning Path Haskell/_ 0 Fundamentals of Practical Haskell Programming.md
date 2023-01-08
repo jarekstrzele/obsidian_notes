@@ -218,17 +218,47 @@ main =
 
 ```haskell
 f = do
+	a
+	b
+	c
+g = do a
+	   b
+	   c
 
+a:: IO()
+a = indefined; b = udefined; c = undefined
+main = undefined
+
+	   
 ```
 
 
+```haskell
+f x y = a + b
+	where
+		a = x
+		b = y
+
+g x y = a + b
+	where x = b
+		  y = b
+		  
+```
 
 
+```haskell
+f x = case x of p0 -> a
+				p1 -> b
+
+g x = case x of
+		p0 -> a
+		p1 -> b
+```
 
 
-
-
-
+```haskell
+main = let { x = 5; y= 6} in print (x + y)
+```
 
 
 
