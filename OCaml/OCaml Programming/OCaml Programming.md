@@ -12,7 +12,7 @@ A functional language:
 - avoids mutable state
 
 **state** the infrmation maintained by a computation
-**mutable*8 can be changed
+**mutable** can be changed
 
 
 
