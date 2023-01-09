@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HASKELL/learning haskell programming/1 Getting Started with Haskell.md",
+                "file": "HASKELL/Learning Path Haskell/_ 0 Fundamentals of Practical Haskell Programming.md",
                 "mode": "source",
                 "source": false
               }
@@ -35,16 +35,11 @@
             "id": "9dd4d789496d8c03",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md",
+                "file": "HASKELL/Learning Path Haskell/_ 0 Fundamentals of Practical Haskell Programming.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -135,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test.md",
+                "file": "HASKELL/Learning Path Haskell/_ 0 Fundamentals of Practical Haskell Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test.md"
+                "file": "HASKELL/Learning Path Haskell/_ 0 Fundamentals of Practical Haskell Programming.md"
               }
             }
           },
@@ -198,16 +193,16 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "9dd4d789496d8c03",
+  "active": "37b813f718400a21",
   "lastOpenFiles": [
+    "HASKELL/Learning Path Haskell/1 Exploring Haskell.md",
+    "HASKELL/learning haskell programming/1 Getting Started with Haskell.md",
     "HASKELL/Learning Path Haskell/_ 0 Fundamentals of Practical Haskell Programming.md",
     "linux/UBUNTU.md",
     "OCaml/OCaml Programming/OCaml Programming.md",
-    "HASKELL/learning haskell programming/1 Getting Started with Haskell.md",
     "HASKELL/learning haskell programming/_ 0 Learining Haskell Programming.md",
     "HASKELL/learning haskell programming/2 Developing a Word Game.md",
     "HASKELL/learning haskell programming/3 Polishing the Word Game.md",
-    "HASKELL/Learning Path Haskell/1 Exploring Haskell.md",
     "methodology/Wzorce projektowe Rusz Głową/1 Wprowadzenie Wzorce projektowe.md",
     "!info.md"
   ]

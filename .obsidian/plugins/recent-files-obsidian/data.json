@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "test",
-      "path": "test.md"
-    },
-    {
       "basename": "_ 0 Fundamentals of Practical Haskell Programming",
       "path": "HASKELL/Learning Path Haskell/_ 0 Fundamentals of Practical Haskell Programming.md"
+    },
+    {
+      "basename": "1 Exploring Haskell",
+      "path": "HASKELL/Learning Path Haskell/1 Exploring Haskell.md"
+    },
+    {
+      "basename": "1 Getting Started with Haskell",
+      "path": "HASKELL/learning haskell programming/1 Getting Started with Haskell.md"
     },
     {
       "basename": "UBUNTU",
@@ -15,10 +19,6 @@
     {
       "basename": "OCaml Programming",
       "path": "OCaml/OCaml Programming/OCaml Programming.md"
-    },
-    {
-      "basename": "1 Getting Started with Haskell",
-      "path": "HASKELL/learning haskell programming/1 Getting Started with Haskell.md"
     },
     {
       "basename": "_ 0 Learining Haskell Programming",
@@ -31,10 +31,6 @@
     {
       "basename": "3 Polishing the Word Game",
       "path": "HASKELL/learning haskell programming/3 Polishing the Word Game.md"
-    },
-    {
-      "basename": "1 Exploring Haskell",
-      "path": "HASKELL/Learning Path Haskell/1 Exploring Haskell.md"
     },
     {
       "basename": "1 Wprowadzenie Wzorce projektowe",
