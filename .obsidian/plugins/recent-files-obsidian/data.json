@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "5 Simple QWidgets",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md"
+    },
+    {
       "basename": "2 Installing PyQt5",
       "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "2 Haskell in Depth",
       "path": "HASKELL/Learning Path Haskell/2 Haskell in Depth.md"
-    },
-    {
-      "basename": "5 Simple QWidgets",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md"
     },
     {
       "basename": "4 Pre-defined dialogs and basic data types",
