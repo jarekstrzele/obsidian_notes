@@ -305,8 +305,20 @@ if __name__ == "__main__":
 
 ----
 # QLineEdit
+`QLineEdit(parent)
+`QLineEdit(str, parent)`
+methods
+- `text(), setText(), clear()`
+- `setPlaceHolderText(str)`
+- `setReadOnly(bool)`
+- `setEchoMode(QLineEdit.Password)`
+- `setAlignment(Qt.Alignment)`
+- `setMaxLength(init)`
 
-
+signals
+- `textCHanged(str)`
+- `textEdited(str)`
+- `editingFinished()`
 
 
 ----
