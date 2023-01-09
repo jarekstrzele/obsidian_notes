@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HASKELL/Haskell for Imperative Programmers/1 Functions.md",
+                "file": "HASKELL/Haskell for Imperative Programmers/2 Recursion, Guards, Patterns.md",
                 "mode": "source",
                 "source": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/Haskell for Imperative Programmers/1 Functions.md",
+                "file": "HASKELL/Haskell for Imperative Programmers/2 Recursion, Guards, Patterns.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/Haskell for Imperative Programmers/1 Functions.md",
+                "file": "HASKELL/Haskell for Imperative Programmers/2 Recursion, Guards, Patterns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/Haskell for Imperative Programmers/1 Functions.md"
+                "file": "HASKELL/Haskell for Imperative Programmers/2 Recursion, Guards, Patterns.md"
               }
             }
           },
@@ -232,9 +232,9 @@
   },
   "active": "ca254123e7c361e4",
   "lastOpenFiles": [
-    "HASKELL/Haskell for Imperative Programmers/2 Recursion.md",
-    "HASKELL/Haskell for Imperative Programmers/1 Functions.md",
     "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md",
+    "HASKELL/Haskell for Imperative Programmers/2 Recursion, Guards, Patterns.md",
+    "HASKELL/Haskell for Imperative Programmers/1 Functions.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md",
     "HASKELL/Learning Path Haskell/_ 0 Fundamentals of Practical Haskell Programming.md",
