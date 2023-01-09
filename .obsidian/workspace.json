@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OCaml/OCaml Programming/OCaml Programming.md",
+                "file": "linux/UBUNTU.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cook",
+                "query": "opera",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OCaml/OCaml Programming/OCaml Programming.md",
+                "file": "linux/UBUNTU.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OCaml/OCaml Programming/OCaml Programming.md",
+                "file": "linux/UBUNTU.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OCaml/OCaml Programming/OCaml Programming.md"
+                "file": "linux/UBUNTU.md"
               }
             }
           },
@@ -188,6 +188,7 @@
   },
   "active": "8d80e949e22803b0",
   "lastOpenFiles": [
+    "OCaml/OCaml Programming/OCaml Programming.md",
     "HASKELL/learning haskell programming/1 Getting Started with Haskell.md",
     "HASKELL/learning haskell programming/_ 0 Learining Haskell Programming.md",
     "HASKELL/learning haskell programming/2 Developing a Word Game.md",
@@ -196,7 +197,6 @@
     "HASKELL/Learning Path Haskell/1 Exploring Haskell.md",
     "methodology/Wzorce projektowe Rusz Głową/1 Wprowadzenie Wzorce projektowe.md",
     "!info.md",
-    "alpine.md",
-    "CI CD.md"
+    "alpine.md"
   ]
 }

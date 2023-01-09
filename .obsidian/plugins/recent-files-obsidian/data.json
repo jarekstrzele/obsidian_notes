@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "UBUNTU",
+      "path": "linux/UBUNTU.md"
+    },
+    {
       "basename": "OCaml Programming",
       "path": "OCaml/OCaml Programming/OCaml Programming.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "5.2 Chart",
       "path": "REACT/React - the Complete Guide/5.2 Chart.md"
-    },
-    {
-      "basename": "5 Rendering Lists and Conditional content",
-      "path": "REACT/React - the Complete Guide/5 Rendering Lists and Conditional content.md"
     }
   ],
   "omittedPaths": [],
