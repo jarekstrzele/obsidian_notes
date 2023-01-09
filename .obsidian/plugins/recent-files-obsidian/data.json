@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2 Installing PyQt5",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md"
+    },
+    {
       "basename": "_ 0 Fundamentals of Practical Haskell Programming",
       "path": "HASKELL/Learning Path Haskell/_ 0 Fundamentals of Practical Haskell Programming.md"
     },
@@ -99,10 +103,6 @@
     {
       "basename": "4 Pre-defined dialogs and basic data types",
       "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/4 Pre-defined dialogs and basic data types.md"
-    },
-    {
-      "basename": "2 Installing PyQt5",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md"
     },
     {
       "basename": "6 Using Qt Layouts to simplify your designs",
