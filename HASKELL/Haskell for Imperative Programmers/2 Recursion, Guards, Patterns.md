@@ -2,7 +2,8 @@
 
 https://www.youtube.com/watch?v=y6xiaSkVlvs&list=PLe7Ei6viL6jGp1Rfu0dil1JH1SHk9bgDV&index=3
 
----
+#haskell/recursion
+
 # Recursion
 `name <args> = ... name <args'>`
 
