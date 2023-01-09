@@ -383,7 +383,9 @@ signals
 - `textChange(str)`
 - `valueChanged(int)`
 
-for `QDoubleSpinBox`
+for `QDoubleSpinBox`:
+- `setDecimals(int)`
+- 
 
 
 
