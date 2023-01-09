@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "1 Functions",
+      "path": "HASKELL/Haskell for Imperative Programmers/1 Functions.md"
+    },
+    {
+      "basename": "2 Recursion",
+      "path": "HASKELL/Haskell for Imperative Programmers/2 Recursion.md"
+    },
+    {
       "basename": "_ 0 Haskell for Imperative Programmers",
       "path": "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "8 Login Project",
       "path": "REACT/React - the Complete Guide/8 Login Project.md"
-    },
-    {
-      "basename": "6.1. Styling extra",
-      "path": "REACT/React - the Complete Guide/6.1. Styling extra.md"
-    },
-    {
-      "basename": "6 Styling React Component (Simple React App)",
-      "path": "REACT/React - the Complete Guide/6 Styling React Component (Simple React App).md"
     }
   ],
   "omittedPaths": [],
