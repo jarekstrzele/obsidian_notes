@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "012d3d9b38ab14b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HASKELL/Haskell for Imperative Programmers/1 Functions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "8d80e949e22803b0",
             "type": "leaf",
             "state": {
@@ -76,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -150,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/Haskell for Imperative Programmers/2 Recursion, Guards, Patterns.md",
+                "file": "HASKELL/Haskell for Imperative Programmers/1 Functions.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -167,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/Haskell for Imperative Programmers/2 Recursion, Guards, Patterns.md",
+                "file": "HASKELL/Haskell for Imperative Programmers/1 Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/Haskell for Imperative Programmers/2 Recursion, Guards, Patterns.md"
+                "file": "HASKELL/Haskell for Imperative Programmers/1 Functions.md"
               }
             }
           },
@@ -230,17 +242,17 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "ca254123e7c361e4",
+  "active": "012d3d9b38ab14b7",
   "lastOpenFiles": [
     "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md",
     "HASKELL/Haskell for Imperative Programmers/2 Recursion, Guards, Patterns.md",
     "HASKELL/Haskell for Imperative Programmers/1 Functions.md",
+    "HASKELL/Haskell for Imperative Programmers/3 Lists.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md",
     "HASKELL/Learning Path Haskell/_ 0 Fundamentals of Practical Haskell Programming.md",
     "HASKELL/Learning Path Haskell/1 Exploring Haskell.md",
     "HASKELL/learning haskell programming/1 Getting Started with Haskell.md",
-    "linux/UBUNTU.md",
-    "OCaml/OCaml Programming/OCaml Programming.md"
+    "linux/UBUNTU.md"
   ]
 }

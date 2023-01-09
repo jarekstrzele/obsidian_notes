@@ -1,6 +1,8 @@
 [[_ 0 Haskell for Imperative Programmers]]
 
+https://www.youtube.com/watch?v=y6xiaSkVlvs&list=PLe7Ei6viL6jGp1Rfu0dil1JH1SHk9bgDV&index=3
 
+---
 # Recursion
 `name <args> = ... name <args'>`
 
@@ -18,7 +20,19 @@ fac n = aux n 1
 			| n <=1 = acc
 			| otherwise = aux (n-1) (n*acc)
 ```
-
+imperative version:
+```
+fac n;
+acc=1;
+while(True){
+	if(n<=1){ 
+		return acc 
+	} else {
+		n=n-1;
+		acc=n*acc;	
+	}
+}
+```
 
 
 

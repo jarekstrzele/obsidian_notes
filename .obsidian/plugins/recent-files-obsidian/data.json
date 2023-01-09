@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "2 Recursion, Guards, Patterns",
-      "path": "HASKELL/Haskell for Imperative Programmers/2 Recursion, Guards, Patterns.md"
+      "basename": "1 Functions",
+      "path": "HASKELL/Haskell for Imperative Programmers/1 Functions.md"
     },
     {
       "basename": "_ 0 Haskell for Imperative Programmers",
       "path": "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md"
     },
     {
-      "basename": "1 Functions",
-      "path": "HASKELL/Haskell for Imperative Programmers/1 Functions.md"
+      "basename": "2 Recursion, Guards, Patterns",
+      "path": "HASKELL/Haskell for Imperative Programmers/2 Recursion, Guards, Patterns.md"
+    },
+    {
+      "basename": "3 Lists",
+      "path": "HASKELL/Haskell for Imperative Programmers/3 Lists.md"
     },
     {
       "basename": "5 Simple QWidgets",
@@ -195,10 +199,6 @@
     {
       "basename": "7 DataClasses",
       "path": "PYTHON/OOP Python udemy/7 DataClasses.md"
-    },
-    {
-      "basename": "8 Login Project",
-      "path": "REACT/React - the Complete Guide/8 Login Project.md"
     }
   ],
   "omittedPaths": [],

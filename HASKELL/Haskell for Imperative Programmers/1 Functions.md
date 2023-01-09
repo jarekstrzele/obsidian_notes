@@ -1,5 +1,6 @@
 [[_ 0 Haskell for Imperative Programmers]]
 
+#haskell/function 
 
 # Functions 
 https://www.youtube.com/watch?v=pitjnqRKyyI&list=PLe7Ei6viL6jGp1Rfu0dil1JH1SHk9bgDV&index=2
