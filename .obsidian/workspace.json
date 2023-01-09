@@ -188,9 +188,7 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
-      "juggl:Juggl global graph": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "37b813f718400a21",
