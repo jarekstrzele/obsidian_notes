@@ -444,8 +444,14 @@ It inherits from QAbstractSpinBox
 `QDateTimeEdit(QTime, parent), QDateTimeEdit(QDate, parent)`
 `QDateTimeEdit(QDateTime, parent), QDateTimeEdit(parent)`
 methods
-- `setCalendarPopup(bool)`
-
+- `setCalendarPopup(bool), setCalendarWidget(QCalendarWidget)`
+- `date(), time(), dateTime()`
+- `setDate(), setTime(0, setDateTime()` 
+- `setMinimumDate(QDate), setMaximumDate(QDate), setDateRange(QDate, QDate)`
+- `setDisplayFormat(str)`
+signals:
+- `dateChanged(QDate), dateTimeChanged(QDateTime), timeChanged(Qtime)`
+- inherited by `QDateEdit, QTimeEdit`
 
 
 
