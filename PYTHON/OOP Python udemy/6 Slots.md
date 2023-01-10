@@ -124,15 +124,54 @@ class DomekWiejski(Dom):
 
 domek_wiejski = DomekWiejski(233, 333444, '01-01-1900')
 print(domek_wiejski.__dict__)
+domek_wiejski.lokalizacja = "Stary Olsztyn"
+print(domek_wiejski.lokalizacja )
+print(domek_wiejski.__dict__)
 ```
 
 ```
 {}
+Stary Olsztyn
+{'lokalizacja': 'Stary Olsztyn'}
 ```
 
+```python
+class Dom:
+    __slots__=('wielkosc', 'cena', 'data_budowy')
+    
+    def __init__(self, wielkosc, cena, data_budowy):
+        self.wielkosc=wielkosc
+        self.cena=cena
+        self.data_budowy=data_budowy
+        
 
+class DomNaMarsie(Dom):
+    __slots__=("material", "lokalizacja")
+    def __init__(self, material, lokalizacja):
+        self.material=material
+        self.lokalizacja=lokalizacja
+        
+dom_na_marsie = DomNaMarsie("X54", "Alba Patera")
+print(dom_na_marsie.material, dom_na_marsie.lokalizacja)
+print(dom_na_marsie.__slots__)
+print('-'*10)
+dom_na_marsie.cena = 14567
+print(dom_na_marsie.cena)
+print('-'*10)
+print(dom_na_marsie.__dict__)
+```
 
-
+```
+X54 Alba Patera
+('material', 'lokalizacja')
+----------
+14567
+----------
+Traceback (most recent call last):
+File "<string>", line 23, in <module>
+AttributeError: 'DomNaMarsie' object has no attribute '__dict__'. Did you mean: '__dir__'?
+> 
+```
 
 
 
