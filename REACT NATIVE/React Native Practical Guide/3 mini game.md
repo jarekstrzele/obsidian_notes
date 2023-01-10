@@ -374,7 +374,7 @@ https://unsplash.com
 export default function App() {
   return (
     <LinearGradient colors={['#f8e7ff','#2bb1b7' ]} style={styles.mainContainer}>
-	      <ImageBackground source={require('./assets/dices-unsplash.jpg')}          resize="cover" 
+	      <ImageBackground source={require('./assets/dices-unsplash.jpg')}          resizeMode="cover" 
 	                       style={styles.mainContainer}>
       <StartScreen />
         </ImageBackground>
@@ -391,7 +391,7 @@ resizeMode:
 
 Gradient is disapeared, but if you delete `backgroundColor:...` from `mainContainer` you obtain a background image and gradiant
 App.js
-```js
+```jsx
 import { StyleSheet, ImageBackground } from 'react-native';
 import StartScreen from './screens/StartScreen.jsx' ;
 import { LinearGradient } from 'expo-linear-gradient' ;
