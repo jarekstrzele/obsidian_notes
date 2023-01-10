@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "_ 0 React Native - Practical Guide",
+      "path": "REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md"
+    },
+    {
+      "basename": "1 React Native Basics",
+      "path": "REACT NATIVE/React Native Practical Guide/1 React Native Basics.md"
+    },
+    {
       "basename": "3 mini game",
       "path": "REACT NATIVE/React Native Practical Guide/3 mini game.md"
+    },
+    {
+      "basename": "1.2. Handling Events",
+      "path": "REACT NATIVE/React Native Practical Guide/1.2. Handling Events.md"
+    },
+    {
+      "basename": "1.7 Modal Screen",
+      "path": "REACT NATIVE/React Native Practical Guide/1.7 Modal Screen.md"
+    },
+    {
+      "basename": "2 Debugging React Native Apps",
+      "path": "REACT NATIVE/React Native Practical Guide/2 Debugging React Native Apps.md"
     },
     {
       "basename": "3 Lists",
@@ -179,26 +199,6 @@
     {
       "basename": "2 Haskell in Depth",
       "path": "HASKELL/Learning Path Haskell/2 Haskell in Depth.md"
-    },
-    {
-      "basename": "4 Pre-defined dialogs and basic data types",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/4 Pre-defined dialogs and basic data types.md"
-    },
-    {
-      "basename": "6 Using Qt Layouts to simplify your designs",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md"
-    },
-    {
-      "basename": "1 Haskell i Myślenie Funkcyjne",
-      "path": "HASKELL/Haskell plac ćwiczeń/1 Haskell i Myślenie Funkcyjne.md"
-    },
-    {
-      "basename": "_ Haskell plac ćwiczeń dla uczonych",
-      "path": "HASKELL/Haskell plac ćwiczeń/_ Haskell plac ćwiczeń dla uczonych.md"
-    },
-    {
-      "basename": "0 - Haskell intro",
-      "path": "HASKELL/for_great_good/0 - Haskell intro.md"
     }
   ],
   "omittedPaths": [],
