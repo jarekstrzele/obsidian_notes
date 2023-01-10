@@ -356,6 +356,13 @@ const styles = StyleSheet.create({
 });
 ```
 but if you run the app as a web react native, you have to use 
+````js
+import LinearGradient from 'react-native-linear-gradient';
+````
+but first you have to install it:
+``npm install react-native-linear-gradient``
+
+
 
 ---
 ## Adding a Background image
