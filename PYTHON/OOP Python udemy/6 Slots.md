@@ -96,8 +96,39 @@ print(f"% reduction: {percent_reduction:.2%}")
 - if both the parent and child classes are slotted, the child loses its `__dict__`
 - if the parent class is not slotted, but the child is is, the child retains its instance ``_dict__
 
+```python
+class Dom:
+    __slots__=('wielkosc', 'cena', 'data_budowy')
+    
+    def __init__(self, wielkosc, cena, data_budowy):
+        self.wielkosc=wielkosc
+        self.cena=cena
+        self.data_budowy=data_budowy
+        
 
+dom =Dom(150, 511222, '01-01-2000')
+print(dom.wielkosc, dom.cena, dom.data_budowy)
+print(dom.__dict__)
+```
 
+```
+150 511222 01-01-2000
+Traceback (most recent call last):
+  File "<string>", line 12, in <module>
+AttributeError: 'Dom' object has no attribute '__dict__'. Did you mean: '__dir__'?
+```
+
+```python
+class DomekWiejski(Dom):
+    pass
+
+domek_wiejski = DomekWiejski(233, 333444, '01-01-1900')
+print(domek_wiejski.__dict__)
+```
+
+```
+{}
+```
 
 
 
