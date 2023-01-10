@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REACT NATIVE/plurasight/Building Mobile Apps with React Native/3 - React Native - Stack navigation.md",
+                "file": "REACT NATIVE/React Native Practical Guide/3 mini game.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REACT NATIVE/plurasight/Building Mobile Apps with React Native/3 - React Native - Stack navigation.md",
+                "file": "REACT NATIVE/React Native Practical Guide/3 mini game.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REACT NATIVE/plurasight/Building Mobile Apps with React Native/3 - React Native - Stack navigation.md",
+                "file": "REACT NATIVE/React Native Practical Guide/3 mini game.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REACT NATIVE/plurasight/Building Mobile Apps with React Native/3 - React Native - Stack navigation.md"
+                "file": "REACT NATIVE/React Native Practical Guide/3 mini game.md"
               }
             }
           },
@@ -224,15 +224,15 @@
   },
   "active": "0433cd385b11cc06",
   "lastOpenFiles": [
+    "REACT NATIVE/REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
+    "REACT NATIVE/REACT NATIVE/Building Mobile Apps with React Native/_ 0 React Native Mobile Apps.md",
+    "REACT NATIVE/plurasight/Building Mobile Apps with React Native/3 - React Native - Stack navigation.md",
     "REACT NATIVE/plurasight/Building Mobile Apps with React Native/_ 0 React Native Mobile Apps.md",
     "REACT NATIVE/Docs reactnative/_ 0 ReactNative docs.md",
     "REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
     "REACT/React_Node_Helion/_ 0 React Node.md",
     "REACT/React Mosh/fake_movies.js.md",
     "REACT/React Mosh/fake_genders.js.md",
-    "REACT/React Mosh/4 Composing Components.md",
-    "REACT/React Mosh/3.1 Component vidly project.md",
-    "REACT/React Mosh/3 Components.md",
-    "REACT/React Mosh/2 ES6 Refresh.md"
+    "REACT/React Mosh/4 Composing Components.md"
   ]
 }
