@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "3 mini game",
+      "path": "REACT NATIVE/React Native Practical Guide/3 mini game.md"
+    },
+    {
       "basename": "3 Lists",
       "path": "HASKELL/Haskell for Imperative Programmers/3 Lists.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "0 - Haskell intro",
       "path": "HASKELL/for_great_good/0 - Haskell intro.md"
-    },
-    {
-      "basename": "6 Lists and Text",
-      "path": "HASKELL/The Complete Haskell Course/6 Lists and Text.md"
     }
   ],
   "omittedPaths": [],

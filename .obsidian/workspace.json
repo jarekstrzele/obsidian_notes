@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HASKELL/Haskell for Imperative Programmers/3 Lists.md",
+                "file": "REACT NATIVE/React Native Practical Guide/3 mini game.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/Haskell for Imperative Programmers/3 Lists.md",
+                "file": "REACT NATIVE/React Native Practical Guide/3 mini game.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/Haskell for Imperative Programmers/3 Lists.md",
+                "file": "REACT NATIVE/React Native Practical Guide/3 mini game.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/Haskell for Imperative Programmers/3 Lists.md"
+                "file": "REACT NATIVE/React Native Practical Guide/3 mini game.md"
               }
             }
           },
@@ -200,6 +200,7 @@
   },
   "active": "0433cd385b11cc06",
   "lastOpenFiles": [
+    "HASKELL/Haskell for Imperative Programmers/3 Lists.md",
     "HASKELL/Haskell for Imperative Programmers/2 Recursion, Guards, Patterns.md",
     "HASKELL/Haskell for Imperative Programmers/1 Functions.md",
     "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md",
@@ -208,7 +209,6 @@
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md",
     "HASKELL/First steps.md",
-    "HASKELL/Installing.md",
-    "HASKELL/Learning Path Haskell/_ 0 Fundamentals of Practical Haskell Programming.md"
+    "HASKELL/Installing.md"
   ]
 }
