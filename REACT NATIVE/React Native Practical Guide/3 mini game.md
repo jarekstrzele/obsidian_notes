@@ -355,8 +355,9 @@ const styles = StyleSheet.create({
   }
 });
 ```
+but if you run the app as a web react native, you have to use 
 
-
+---
 ## Adding a Background image
 You have to use `ImageBackground`  buit-in component!
 https://unsplash.com
