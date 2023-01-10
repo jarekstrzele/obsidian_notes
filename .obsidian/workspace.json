@@ -4,91 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "d930890b6c4550eb",
+        "id": "737cdcbd9cfbe44c",
         "type": "tabs",
         "children": [
           {
-            "id": "37b813f718400a21",
+            "id": "70d6337dcb0c00c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md",
+                "file": "HASKELL/Installing.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6473f5bdebcaaf70",
+            "id": "e4b1efaa576efc24",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md",
+                "file": "HASKELL/First steps.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "dc1dc3f85c4ded2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HASKELL/Haskell for Imperative Programmers/1 Functions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ca254123e7c361e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HASKELL/Haskell for Imperative Programmers/2 Recursion, Guards, Patterns.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "012d3d9b38ab14b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HASKELL/Haskell for Imperative Programmers/3 Lists.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8d80e949e22803b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HASKELL/Learning Path Haskell/_ 0 Fundamentals of Practical Haskell Programming.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9dd4d789496d8c03",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/Haskell for Imperative Programmers/3 Lists.md",
+                "file": "HASKELL/First steps.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -179,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/Haskell for Imperative Programmers/3 Lists.md",
+                "file": "HASKELL/First steps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/Haskell for Imperative Programmers/3 Lists.md"
+                "file": "HASKELL/First steps.md"
               }
             }
           },
@@ -242,17 +186,17 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "012d3d9b38ab14b7",
+  "active": "e4b1efaa576efc24",
   "lastOpenFiles": [
-    "HASKELL/Haskell for Imperative Programmers/2 Recursion, Guards, Patterns.md",
-    "HASKELL/Haskell for Imperative Programmers/1 Functions.md",
-    "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md",
-    "HASKELL/Haskell for Imperative Programmers/3 Lists.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md",
+    "HASKELL/Installing.md",
     "HASKELL/Learning Path Haskell/_ 0 Fundamentals of Practical Haskell Programming.md",
-    "HASKELL/Learning Path Haskell/1 Exploring Haskell.md",
-    "HASKELL/learning haskell programming/1 Getting Started with Haskell.md",
-    "linux/UBUNTU.md"
+    "Git/Helion Git/_ 0 Git Helion VideoPoint.md",
+    "Git/Helion Git/6 Strategie pracy.md",
+    "Git/Helion Git/5 Git Remote.md",
+    "Git/Helion Git/4 Commit.md",
+    "Git/Helion Git/3 Gałęzie.md",
+    "Git/Helion Git/2 Podstawowe komendy.md",
+    "Git/Learn Git GitHub and master/Deeper Merging Branches.md",
+    "HASKELL/Haskell for Imperative Programmers/2 Recursion, Guards, Patterns.md"
   ]
 }

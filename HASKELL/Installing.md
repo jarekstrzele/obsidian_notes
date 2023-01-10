@@ -1,3 +1,4 @@
+https://www.haskell.org/ghcup/steps/
 
 [[0 - Haskell intro]]
 
