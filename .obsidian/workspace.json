@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REACT/React Mosh/_ 0 React Mosh.md",
+                "file": "REACT NATIVE/plurasight/Building Mobile Apps with React Native/3 - React Native - Stack navigation.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REACT/React Mosh/_ 0 React Mosh.md",
+                "file": "REACT NATIVE/plurasight/Building Mobile Apps with React Native/3 - React Native - Stack navigation.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REACT/React Mosh/_ 0 React Mosh.md",
+                "file": "REACT NATIVE/plurasight/Building Mobile Apps with React Native/3 - React Native - Stack navigation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REACT/React Mosh/_ 0 React Mosh.md"
+                "file": "REACT NATIVE/plurasight/Building Mobile Apps with React Native/3 - React Native - Stack navigation.md"
               }
             }
           },
@@ -224,15 +224,15 @@
   },
   "active": "0433cd385b11cc06",
   "lastOpenFiles": [
-    "REACT/React/Docs React tutorial/_ 0 React Docs Samouczek.md",
-    "REACT/React Bob Ziroll/_React Bob Ziroll.md",
-    "REACT/React/Udemy React Front to Back 2022/0 -  Intro React Front to Back 2022.md",
-    "REACT/React/React Bob Ziroll/_React Bob Ziroll.md",
-    "REACT/React/plurasight/React 17 Getting Started/4 the Star Match Game.md",
-    "REACT/React/plurasight/React 17 Getting Started/3 The GitHub Cards App.md",
-    "REACT/React/plurasight/React 17 Getting Started/2 Modern JS Crash.md",
-    "REACT/React/plurasight/React 17 Getting Started/1 the basics.md",
-    "REACT/React/plurasight/React 17 Getting Started/_ 0 Getting Started.md",
-    "REACT/React/plurasight/build web app with React/React The Big Picture.md"
+    "REACT NATIVE/plurasight/Building Mobile Apps with React Native/_ 0 React Native Mobile Apps.md",
+    "REACT NATIVE/Docs reactnative/_ 0 ReactNative docs.md",
+    "REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
+    "REACT/React_Node_Helion/_ 0 React Node.md",
+    "REACT/React Mosh/fake_movies.js.md",
+    "REACT/React Mosh/fake_genders.js.md",
+    "REACT/React Mosh/4 Composing Components.md",
+    "REACT/React Mosh/3.1 Component vidly project.md",
+    "REACT/React Mosh/3 Components.md",
+    "REACT/React Mosh/2 ES6 Refresh.md"
   ]
 }
