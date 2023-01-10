@@ -91,8 +91,10 @@ print(f"% reduction: {percent_reduction:.2%}")
 ---------
 # Inheriting Slots
 
-- slots in the parent class will be used for the child's attribute lookup ()
-
+- slots in the parent class will be used for the child's attribute lookup (they are available)
+- the child class by default also retains its instance `__dict__`
+- if both the parent and child classes are slotted, the child loses its `__dict__`
+- if the parent class is not slotted, but the child is is, the child retains its instance ``_dict__
 
 
 
