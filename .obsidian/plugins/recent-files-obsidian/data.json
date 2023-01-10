@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "_ 0 React Native - Practical Guide",
-      "path": "REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md"
+      "basename": "_ 0 React Mosh",
+      "path": "REACT/React Mosh/_ 0 React Mosh.md"
+    },
+    {
+      "basename": "_React Bob Ziroll",
+      "path": "REACT/React Bob Ziroll/_React Bob Ziroll.md"
+    },
+    {
+      "basename": "1.4. FlatList",
+      "path": "REACT NATIVE/React Native Practical Guide/1.4. FlatList.md"
     },
     {
       "basename": "3 Components",
       "path": "REACT/React Mosh/3 Components.md"
+    },
+    {
+      "basename": "6 Slots",
+      "path": "PYTHON/OOP Python udemy/6 Slots.md"
+    },
+    {
+      "basename": "_ 0 React Native - Practical Guide",
+      "path": "REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md"
     },
     {
       "basename": "3 React Basics",
@@ -15,10 +31,6 @@
     {
       "basename": "_ 0 React Full",
       "path": "REACT/React - the Complete Guide/_ 0 React Full.md"
-    },
-    {
-      "basename": "1.4. FlatList",
-      "path": "REACT NATIVE/React Native Practical Guide/1.4. FlatList.md"
     },
     {
       "basename": "1.3. Scrolling",
@@ -63,10 +75,6 @@
     {
       "basename": "links OCaml",
       "path": "OCaml/links OCaml.md"
-    },
-    {
-      "basename": "6 Slots",
-      "path": "PYTHON/OOP Python udemy/6 Slots.md"
     },
     {
       "basename": "5 Simple QWidgets",
@@ -147,58 +155,6 @@
     {
       "basename": "OCaml Programming",
       "path": "OCaml/OCaml Programming/OCaml Programming.md"
-    },
-    {
-      "basename": "_ 0 Learining Haskell Programming",
-      "path": "HASKELL/learning haskell programming/_ 0 Learining Haskell Programming.md"
-    },
-    {
-      "basename": "2 Developing a Word Game",
-      "path": "HASKELL/learning haskell programming/2 Developing a Word Game.md"
-    },
-    {
-      "basename": "3 Polishing the Word Game",
-      "path": "HASKELL/learning haskell programming/3 Polishing the Word Game.md"
-    },
-    {
-      "basename": "1 Wprowadzenie Wzorce projektowe",
-      "path": "methodology/Wzorce projektowe Rusz Głową/1 Wprowadzenie Wzorce projektowe.md"
-    },
-    {
-      "basename": "alpine",
-      "path": "alpine.md"
-    },
-    {
-      "basename": "CI CD",
-      "path": "CI CD.md"
-    },
-    {
-      "basename": "ES refresh",
-      "path": "ES refresh.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Untitled.md"
-    },
-    {
-      "basename": "static type",
-      "path": "static type.md"
-    },
-    {
-      "basename": "Scieżki uczenia się",
-      "path": "Scieżki uczenia się.md"
-    },
-    {
-      "basename": "Powtórzenie wiadomości Python imperatywnie",
-      "path": "Powtórzenie wiadomości Python imperatywnie.md"
-    },
-    {
-      "basename": "My SQL",
-      "path": "Data Bases/My SQL.md"
-    },
-    {
-      "basename": "vim-commands-cheat-sheet-by-pnap",
-      "path": "methodology/images/vim-commands-cheat-sheet-by-pnap.pdf"
     }
   ],
   "omittedPaths": [],
