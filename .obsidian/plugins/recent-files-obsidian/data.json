@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "6 Slots",
+      "path": "PYTHON/OOP Python udemy/6 Slots.md"
+    },
+    {
       "basename": "5 Simple QWidgets",
       "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "5 Tuple",
       "path": "HASKELL/The Complete Haskell Course/5 Tuple.md"
-    },
-    {
-      "basename": "4 Solved Probelms - Functions",
-      "path": "HASKELL/The Complete Haskell Course/4 Solved Probelms - Functions.md"
     }
   ],
   "omittedPaths": [],

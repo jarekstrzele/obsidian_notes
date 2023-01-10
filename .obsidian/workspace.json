@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md",
+                "file": "PYTHON/OOP Python udemy/6 Slots.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md",
+                "file": "PYTHON/OOP Python udemy/6 Slots.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md",
+                "file": "PYTHON/OOP Python udemy/6 Slots.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md"
+                "file": "PYTHON/OOP Python udemy/6 Slots.md"
               }
             }
           },
@@ -188,6 +188,7 @@
   },
   "active": "e4b1efaa576efc24",
   "lastOpenFiles": [
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md",
     "HASKELL/First steps.md",
     "HASKELL/Installing.md",
@@ -196,7 +197,6 @@
     "Git/Helion Git/6 Strategie pracy.md",
     "Git/Helion Git/5 Git Remote.md",
     "Git/Helion Git/4 Commit.md",
-    "Git/Helion Git/3 Gałęzie.md",
-    "Git/Helion Git/2 Podstawowe komendy.md"
+    "Git/Helion Git/3 Gałęzie.md"
   ]
 }

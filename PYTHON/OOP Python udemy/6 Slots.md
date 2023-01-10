@@ -91,7 +91,7 @@ print(f"% reduction: {percent_reduction:.2%}")
 ---------
 # Inheriting Slots
 
-
+- slots in the parent class will be used for the child's attribute lookup ()
 
 
 
