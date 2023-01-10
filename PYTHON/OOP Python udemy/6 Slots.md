@@ -170,7 +170,7 @@ X54 Alba Patera
 Traceback (most recent call last):
 File "<string>", line 23, in <module>
 AttributeError: 'DomNaMarsie' object has no attribute '__dict__'. Did you mean: '__dir__'?
-> 
+>  
 ```
 
 
