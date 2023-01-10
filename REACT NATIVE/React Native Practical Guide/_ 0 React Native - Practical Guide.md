@@ -18,7 +18,8 @@ first check IP in Android
 1. Node 16 (2023)
 2. `npm install -g expo-cli`
 3. `expo init project-name`
-4. 
+4. `cd project-name`
+5. `expo start`
 
 ----
 [[1 React Native Basics]]

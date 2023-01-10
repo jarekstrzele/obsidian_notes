@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/1.7 Modal Screen.md",
+                "file": "REACT NATIVE/React Native Practical Guide/1.2. Handling Events.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
+                "file": "REACT NATIVE/React Native Practical Guide/1.2. Handling Events.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
+                "file": "REACT NATIVE/React Native Practical Guide/1.2. Handling Events.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md"
+                "file": "REACT NATIVE/React Native Practical Guide/1.2. Handling Events.md"
               }
             }
           },
@@ -210,14 +210,14 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "6c722fb9b5b68c30",
+  "active": "0433cd385b11cc06",
   "lastOpenFiles": [
     "REACT NATIVE/React Native Practical Guide/1 React Native Basics.md",
+    "REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
+    "REACT NATIVE/React Native Practical Guide/1.7 Modal Screen.md",
     "REACT NATIVE/React Native Practical Guide/3 mini game.md",
     "REACT NATIVE/React Native Practical Guide/1.2. Handling Events.md",
-    "REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
     "REACT NATIVE/React Native Practical Guide/Untitled.md",
-    "REACT NATIVE/React Native Practical Guide/1.7 Modal Screen.md",
     "REACT NATIVE/React Native Practical Guide/2 Debugging React Native Apps.md",
     "HASKELL/Haskell for Imperative Programmers/3 Lists.md",
     "HASKELL/Haskell for Imperative Programmers/2 Recursion, Guards, Patterns.md",

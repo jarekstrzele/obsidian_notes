@@ -452,13 +452,8 @@ const styles = StyleSheet.create({
 
 goalsContainer: {
   flex:5,
-
 },
-
-
 });
-
-  
 
 export default App ;
 ```
