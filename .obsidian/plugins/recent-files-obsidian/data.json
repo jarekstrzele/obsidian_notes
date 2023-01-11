@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "_ 0 Fundamentals of Practical Haskell Programming",
+      "path": "HASKELL/Learning Path Haskell/_ 0 Fundamentals of Practical Haskell Programming.md"
+    },
+    {
+      "basename": "1 Exploring Haskell",
+      "path": "HASKELL/Learning Path Haskell/1 Exploring Haskell.md"
+    },
+    {
+      "basename": "_ 0 React Native - Practical Guide",
+      "path": "REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md"
+    },
+    {
+      "basename": "3 Components",
+      "path": "REACT/React Mosh/3 Components.md"
+    },
+    {
       "basename": "_ DML SQLite",
       "path": "Data Bases/SQL/SQL Bootcamp SQLite/3 - DML/_ DML SQLite.md"
+    },
+    {
+      "basename": "0 - Haskell intro",
+      "path": "HASKELL/for_great_good/0 - Haskell intro.md"
+    },
+    {
+      "basename": "Installing",
+      "path": "HASKELL/Installing.md"
     },
     {
       "basename": "_ Groupowanie danych SQLite",
@@ -25,10 +49,6 @@
       "path": "REACT NATIVE/Docs reactnative/_ 0 ReactNative docs.md"
     },
     {
-      "basename": "_ 0 React Native - Practical Guide",
-      "path": "REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md"
-    },
-    {
       "basename": "_ 0 React Node",
       "path": "REACT/React_Node_Helion/_ 0 React Node.md"
     },
@@ -47,10 +67,6 @@
     {
       "basename": "3.1 Component vidly project",
       "path": "REACT/React Mosh/3.1 Component vidly project.md"
-    },
-    {
-      "basename": "3 Components",
-      "path": "REACT/React Mosh/3 Components.md"
     },
     {
       "basename": "2 ES6 Refresh",
@@ -133,14 +149,6 @@
       "path": "HASKELL/First steps.md"
     },
     {
-      "basename": "Installing",
-      "path": "HASKELL/Installing.md"
-    },
-    {
-      "basename": "_ 0 Fundamentals of Practical Haskell Programming",
-      "path": "HASKELL/Learning Path Haskell/_ 0 Fundamentals of Practical Haskell Programming.md"
-    },
-    {
       "basename": "_ 0 Git Helion VideoPoint",
       "path": "Git/Helion Git/_ 0 Git Helion VideoPoint.md"
     },
@@ -185,20 +193,12 @@
       "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md"
     },
     {
-      "basename": "1 Exploring Haskell",
-      "path": "HASKELL/Learning Path Haskell/1 Exploring Haskell.md"
-    },
-    {
       "basename": "1 Getting Started with Haskell",
       "path": "HASKELL/learning haskell programming/1 Getting Started with Haskell.md"
     },
     {
       "basename": "UBUNTU",
       "path": "linux/UBUNTU.md"
-    },
-    {
-      "basename": "OCaml Programming",
-      "path": "OCaml/OCaml Programming/OCaml Programming.md"
     }
   ],
   "omittedPaths": [],
