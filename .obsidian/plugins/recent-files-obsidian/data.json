@@ -9,6 +9,10 @@
       "path": "REACT/React - the Complete Guide/6.1. Styling extra.md"
     },
     {
+      "basename": "6 Styling React Component (Simple React App)",
+      "path": "REACT/React - the Complete Guide/6 Styling React Component (Simple React App).md"
+    },
+    {
       "basename": "5 Simple QWidgets",
       "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "7 Git TAG",
       "path": "Git/Helion Git/7 Git TAG.md"
-    },
-    {
-      "basename": "Deeper - git reflog - Bringing Lost Data back",
-      "path": "Git/Learn Git GitHub and master/Deeper - git reflog - Bringing Lost Data back.md"
     }
   ],
   "omittedPaths": [],
