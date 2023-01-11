@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "5 Simple QWidgets",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md"
+    },
+    {
+      "basename": "4 Pre-defined dialogs and basic data types",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/4 Pre-defined dialogs and basic data types.md"
+    },
+    {
+      "basename": "2 Installing PyQt5",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md"
+    },
+    {
       "basename": "3 mini game",
       "path": "REACT NATIVE/React Native Practical Guide/3 mini game.md"
     },
@@ -137,10 +149,6 @@
       "path": "OCaml/links OCaml.md"
     },
     {
-      "basename": "5 Simple QWidgets",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md"
-    },
-    {
       "basename": "_ 0 PyQt5 From A-Z",
       "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md"
     },
@@ -189,16 +197,8 @@
       "path": "Git/Learn Git GitHub and master/_ Preface Git - Practical Guide.md"
     },
     {
-      "basename": "2 Installing PyQt5",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md"
-    },
-    {
       "basename": "1 Getting Started with Haskell",
       "path": "HASKELL/learning haskell programming/1 Getting Started with Haskell.md"
-    },
-    {
-      "basename": "UBUNTU",
-      "path": "linux/UBUNTU.md"
     }
   ],
   "omittedPaths": [],

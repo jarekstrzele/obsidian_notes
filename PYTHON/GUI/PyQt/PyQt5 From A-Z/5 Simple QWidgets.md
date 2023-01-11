@@ -493,7 +493,10 @@ if __name__ == "__main__":
 
 -----
 # ComboBox
-
+constructor: `QComboBox(parent)`
+methods:
+- `addItem(QIcon, txt, obj)`, `insertItem(idx, QIcon, txt, obje)`, `insertSeperator(idx)`
+- 
 
 
 
