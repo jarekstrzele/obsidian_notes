@@ -496,7 +496,18 @@ if __name__ == "__main__":
 constructor: `QComboBox(parent)`
 methods:
 - `addItem(QIcon, txt, obj)`, `insertItem(idx, QIcon, txt, obje)`, `insertSeperator(idx)`
-- 
+- `addItems(list), insertItems(idx, list)`
+- `removeItem(idx), clear()`
+- `count(), currentIndex(), currentData(), currentText()`
+- `itemText(idx)`, `itemData(idx), itemIcon(idx)`
+- `setitemText(idx, txt),setItemData(idx, obj), setItemIcon(idx, QIcon)`
+- `setMaxCount(int), setMaxVisibleItems(int), setPlaceHolderText(int)`
+- `setCurrentIndex(idx), setCurrentText(idx)`
+
+Signals:
+- `currentIndexChanged(idx), currentTextChanged(txt)`
+- `activate(idx), textActivated9txt)`
+- `highighted(idx)`, `textHighighted(txt)`
 
 
 
