@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "8 Login Project",
+      "path": "REACT/React - the Complete Guide/8 Login Project.md"
+    },
+    {
+      "basename": "6.1. Styling extra",
+      "path": "REACT/React - the Complete Guide/6.1. Styling extra.md"
+    },
+    {
       "basename": "5 Simple QWidgets",
       "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Deeper - git reflog - Bringing Lost Data back",
       "path": "Git/Learn Git GitHub and master/Deeper - git reflog - Bringing Lost Data back.md"
-    },
-    {
-      "basename": "_ Preface Git - Practical Guide",
-      "path": "Git/Learn Git GitHub and master/_ Preface Git - Practical Guide.md"
-    },
-    {
-      "basename": "1 Getting Started with Haskell",
-      "path": "HASKELL/learning haskell programming/1 Getting Started with Haskell.md"
     }
   ],
   "omittedPaths": [],
