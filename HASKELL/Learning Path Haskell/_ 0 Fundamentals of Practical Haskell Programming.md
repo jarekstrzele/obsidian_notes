@@ -310,10 +310,12 @@ Num :: * -> Constraint
 ### debugging with 
 `> echo %APPDATA%`
 
+GHCI can privde powerful insights into the *runtime* behaviour of programs
 
-
-
-
+`:break <name>` -> `:break minMax` (where `minMax is a function defined in a file`)
+	`:sprint ...`
+	`:continue`
+	`:list`
 
 
 
