@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HASKELL/Learning Path Haskell/_ 0 Fundamentals of Practical Haskell Programming.md",
+                "file": "REACT NATIVE/React Native Practical Guide/3 mini game.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/Learning Path Haskell/_ 0 Fundamentals of Practical Haskell Programming.md",
+                "file": "REACT NATIVE/React Native Practical Guide/3 mini game.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/Learning Path Haskell/_ 0 Fundamentals of Practical Haskell Programming.md",
+                "file": "REACT NATIVE/React Native Practical Guide/3 mini game.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/Learning Path Haskell/_ 0 Fundamentals of Practical Haskell Programming.md"
+                "file": "REACT NATIVE/React Native Practical Guide/3 mini game.md"
               }
             }
           },
@@ -175,6 +175,7 @@
   },
   "active": "986a8068b440667d",
   "lastOpenFiles": [
+    "HASKELL/Learning Path Haskell/_ 0 Fundamentals of Practical Haskell Programming.md",
     "HASKELL/Learning Path Haskell/1 Exploring Haskell.md",
     "REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
     "REACT/React Mosh/3 Components.md",
@@ -183,7 +184,6 @@
     "HASKELL/Installing.md",
     "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/_ Groupowanie danych SQLite.md",
     "REACT NATIVE/React Native Practical Guide/3 mini game.md",
-    "REACT NATIVE/REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
-    "REACT NATIVE/REACT NATIVE/Building Mobile Apps with React Native/_ 0 React Native Mobile Apps.md"
+    "REACT NATIVE/REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md"
   ]
 }

@@ -547,8 +547,18 @@ const styles = StyleSheet.create({
 });
 ```
 
+---
 
+new file `GameScreen`
+```jsx
+import { Text } from 'react-native' ;
 
+function GameScreen(){
+    return <Text> Game Screen </Text>
+}
+
+export default GameScreen ;
+```
 
 
 
