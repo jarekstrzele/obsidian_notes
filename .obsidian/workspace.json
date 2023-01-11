@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/3 mini game.md",
+                "file": "Data Bases/SQL/SQL Bootcamp SQLite/3 - DML/_ DML SQLite.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/3 mini game.md",
+                "file": "Data Bases/SQL/SQL Bootcamp SQLite/3 - DML/_ DML SQLite.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/3 mini game.md",
+                "file": "Data Bases/SQL/SQL Bootcamp SQLite/3 - DML/_ DML SQLite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/3 mini game.md"
+                "file": "Data Bases/SQL/SQL Bootcamp SQLite/3 - DML/_ DML SQLite.md"
               }
             }
           },
@@ -224,6 +224,8 @@
   },
   "active": "0433cd385b11cc06",
   "lastOpenFiles": [
+    "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/_ Groupowanie danych SQLite.md",
+    "REACT NATIVE/React Native Practical Guide/3 mini game.md",
     "REACT NATIVE/REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
     "REACT NATIVE/REACT NATIVE/Building Mobile Apps with React Native/_ 0 React Native Mobile Apps.md",
     "REACT NATIVE/plurasight/Building Mobile Apps with React Native/3 - React Native - Stack navigation.md",
@@ -231,8 +233,6 @@
     "REACT NATIVE/Docs reactnative/_ 0 ReactNative docs.md",
     "REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
     "REACT/React_Node_Helion/_ 0 React Node.md",
-    "REACT/React Mosh/fake_movies.js.md",
-    "REACT/React Mosh/fake_genders.js.md",
-    "REACT/React Mosh/4 Composing Components.md"
+    "REACT/React Mosh/fake_movies.js.md"
   ]
 }
