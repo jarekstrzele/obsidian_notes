@@ -52,6 +52,7 @@ index.css
 }
 ```
 
+---
 ## Adding Card component
 Our own components can interact only with their props, so they don't know e.g. `className` component
 
@@ -59,7 +60,7 @@ in the Card component we want have two classes:
 - one from Card.module.css
 - second from the parent (App.js), so we can use props and `${..}` template literal
 
-UI> Card.jsx
+#### UI> Card.jsx
 ```js
 import React from 'react'
 import classes from  './Card.module.css'
