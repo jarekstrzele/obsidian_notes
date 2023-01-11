@@ -560,11 +560,69 @@ function GameScreen(){
 export default GameScreen ;
 ```
 
+same changes in `StartGameScreen`
+```jsx
+function StartGameScreen({onPickedNumber}) {
+  const [enteredNumber, setEnteredNumber] = useState('') ;
 
+  function enterNumberHandler(enteredNumber){
+    setEnteredNumber(enteredNumber) ;
+  }
 
+  function resetInputHandler(){
+    setEnteredNumber('') ;
+  }
 
+  function confirmHandler(){
+    const chosenNumber  = parseInt(enteredNumber) ;
 
+    if (isNaN(chosenNumber) || chosenNumber <= 0 || chosenNumber > 99){
+      // show alert (Alert is not a component)
+      // Alert.alert(title, message, button([text:'', style:'' onPress:{eventHandler}]), )
 
+      Alert.alert('Invalid number',
+                    'The number must be between 1  and 99',
+                    [{text:"Okey", style:"destructive", onPress:{resetInputHandler}}])
+      //console.log('Invalid number') ;
+      return ;
+    }
+
+    //console.log('Valid Number') ;
+    onPickedNumber(chosenNumber) ;
+  }
+```
+
+some changes in `App.js`
+```jsx
+import GameScreen from './screens/GameScreen';
+
+import StartGameScreen from './screens/StartGameScreen' ;
+
+export default function App() {
+
+  const [userNamber, setUserNumber] = useState() ;
+  function pickedNumberHandler(pickedNumber){
+    setUserNumber(pickedNumber) ;
+  }
+
+  let screen = <StartGameScreen onPickedNumber={pickedNumberHandler}/>
+  if (userNamber) {
+    screen = <GameScreen  />
+  }
+  return (
+    <LinearGradient colors={['#f8e7ff','#2bb1b7' ]} style={styles.mainContainer}>
+      <ImageBackground source={require('./assets/dices.jpg')}
+                       resizeMode="cover"
+                       style={styles.mainContainer}
+                       imageStyle={styles.backgroundIMG}
+      >  
+          {screen}
+      </ImageBackground>
+    </LinearGradient>
+
+  );
+}
+```
 
 
 
