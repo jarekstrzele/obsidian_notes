@@ -1,7 +1,10 @@
+
+### `npx create-react-app login_app`
+
 components
 	- UI
 	- Users
-		- AddUser.jsx
+		- AddUser.js
 
 
 App.jsx
