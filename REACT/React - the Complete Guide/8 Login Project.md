@@ -54,6 +54,46 @@ index.css
 
 ---
 ## Adding Card component
+
+
+>[!important] IMPORTANT
+>You always need to import what you wan use
+
+UI>Card.js
+```jsx
+import React from 'react' ;
+import classes from './Card.module.css' ;
+
+const Card = props => {
+    return (
+    <div className={classes.card}>
+        {props.children}
+    </div>
+    )
+}
+
+export default Card ;
+```
+
+UI>Card.module.css
+```jsx
+.card {
+    background: white;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.26);
+    border-radius: 10px;
+}
+```
+
+
+
+
+
+
+
+
+
+
+
 Our own components can interact only with their props, so they don't know e.g. `className` component
 
 in the Card component we want have two classes:
