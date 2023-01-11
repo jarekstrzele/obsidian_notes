@@ -265,8 +265,50 @@ main = let { x = 5; y= 6} in print (x + y)
 # GHCI
 #ghci
 
-**ghc** stands for "Glasgow Haskell Com"
+**ghc** stands for "Glasgow Haskell Compiler"
+**ghci** is "GLasgow Haskell Compiler Interactive"
 
+`:!` you can use bashh command
+`:!dir`
+
+### `it`
+```ghci
+ghci> it
+
+<interactive>:3:1: error:
+    * Variable not in scope: it
+    * Perhaps you meant `id' (imported from Prelude)
+ghci> x = 1
+ghci> y = 11
+ghci> x+y
+12
+ghci> it
+12
+ghci>
+```
+
+`:type <value>` 
+`:kind <class>`
+
+```ghci
+ghci> :t x
+x :: Num a => a
+ghci> :t Num
+
+<interactive>:1:1: error:
+    * Illegal term-level use of the type constructor `Num'
+        imported from `Prelude' (and originally defined in `GHC.Num')
+    * In the expression: Num
+ghci> :kind Num
+Num :: * -> Constraint
+```
+
+`prettyPrint`
+`:run`
+`:main`
+
+### debugging with 
+`> echo %APPDATA%`
 
 
 
