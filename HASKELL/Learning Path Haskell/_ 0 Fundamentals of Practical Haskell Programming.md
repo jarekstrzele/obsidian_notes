@@ -316,9 +316,63 @@ GHCI can privde powerful insights into the *runtime* behaviour of programs
 	`:sprint ...`
 	`:continue`
 	`:list`
+	`:show breaks`
+	`:show bindings`
+	`:abondon`
+
+
+----
+# Values and Expressions
+
+## values of primitive types
+- Char
+- Integer
+- Int
+- Float, Double
+- almost everything else is defined in terms of these
+
+```haskell
+ghci> a :: Int ; a = 1234
+ghci> :sprint a
+a = _  -- a is not yet eveluated
+ghci> :type a
+a :: Int
+ghci> a
+1234
+ghci> :sprint a
+a = 1234
+ghci>
+```
+
+```haskell
+ghci> b :: Integer ;  b = 2 ^ 70
+ghci> :sprint b
+b = _
+ghci> b
+1180591620717411303424
+ghci> :sprint b
+b = 1180591620717411303424
+ghci> a :: Int ; a = 2 ^ 70
+ghci> a
+0
+```
 
 
 
+## Functions as values
+
+
+
+## Function application
+
+
+## Function composition
+
+
+## Anonymous functions
+
+
+## Infix functions, sections and partial application
 
 
 
