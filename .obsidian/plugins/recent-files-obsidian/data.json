@@ -5,6 +5,22 @@
       "path": "REACT/React - the Complete Guide/8 Login Project.md"
     },
     {
+      "basename": "3 mini game",
+      "path": "REACT NATIVE/React Native Practical Guide/3 mini game.md"
+    },
+    {
+      "basename": "5 Simple QWidgets",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md"
+    },
+    {
+      "basename": "5 Inheritance",
+      "path": "PYTHON/OOP Python udemy/5 Inheritance.md"
+    },
+    {
+      "basename": "6 Slots",
+      "path": "PYTHON/OOP Python udemy/6 Slots.md"
+    },
+    {
       "basename": "6.1. Styling extra",
       "path": "REACT/React - the Complete Guide/6.1. Styling extra.md"
     },
@@ -13,20 +29,12 @@
       "path": "REACT/React - the Complete Guide/6 Styling React Component (Simple React App).md"
     },
     {
-      "basename": "5 Simple QWidgets",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md"
-    },
-    {
       "basename": "4 Pre-defined dialogs and basic data types",
       "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/4 Pre-defined dialogs and basic data types.md"
     },
     {
       "basename": "2 Installing PyQt5",
       "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md"
-    },
-    {
-      "basename": "3 mini game",
-      "path": "REACT NATIVE/React Native Practical Guide/3 mini game.md"
     },
     {
       "basename": "_ 0 Fundamentals of Practical Haskell Programming",
@@ -107,10 +115,6 @@
     {
       "basename": "1.4. FlatList",
       "path": "REACT NATIVE/React Native Practical Guide/1.4. FlatList.md"
-    },
-    {
-      "basename": "6 Slots",
-      "path": "PYTHON/OOP Python udemy/6 Slots.md"
     },
     {
       "basename": "3 React Basics",
@@ -195,10 +199,6 @@
     {
       "basename": "Deeper Merging Branches",
       "path": "Git/Learn Git GitHub and master/Deeper Merging Branches.md"
-    },
-    {
-      "basename": "7 Git TAG",
-      "path": "Git/Helion Git/7 Git TAG.md"
     }
   ],
   "omittedPaths": [],

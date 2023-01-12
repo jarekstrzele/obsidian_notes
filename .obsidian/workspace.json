@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md",
+                "file": "REACT/React - the Complete Guide/8 Login Project.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REACT/React - the Complete Guide/8 Login Project.md",
+                "file": "PYTHON/OOP Python udemy/5 Inheritance.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,17 +185,17 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "2985571479bf5f74",
+  "active": "986a8068b440667d",
   "lastOpenFiles": [
+    "REACT NATIVE/React Native Practical Guide/3 mini game.md",
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md",
+    "PYTHON/OOP Python udemy/5 Inheritance.md",
+    "PYTHON/OOP Python udemy/6 Slots.md",
+    "REACT/React - the Complete Guide/8 Login Project.md",
     "REACT/React - the Complete Guide/6.1. Styling extra.md",
     "REACT/React - the Complete Guide/6 Styling React Component (Simple React App).md",
-    "REACT/React - the Complete Guide/8 Login Project.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/4 Pre-defined dialogs and basic data types.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md",
-    "REACT NATIVE/React Native Practical Guide/3 mini game.md",
-    "HASKELL/Learning Path Haskell/_ 0 Fundamentals of Practical Haskell Programming.md",
-    "HASKELL/Learning Path Haskell/1 Exploring Haskell.md",
-    "REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md"
+    "HASKELL/Learning Path Haskell/_ 0 Fundamentals of Practical Haskell Programming.md"
   ]
 }
