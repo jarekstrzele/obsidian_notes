@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "2 Właściwości grafów",
+      "path": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md"
+    },
+    {
+      "basename": "1. Wprowadzenie do grafów",
+      "path": "algorithmic/Grafy w Pythonie/1. Wprowadzenie do grafów.md"
+    },
+    {
+      "basename": "_ 0 Grafy w Pythonie",
+      "path": "algorithmic/Grafy w Pythonie/_ 0 Grafy w Pythonie.md"
+    },
+    {
+      "basename": "3 - Algorytmy grafowe",
+      "path": "algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md"
+    },
+    {
+      "basename": "4 drzewo binarnych wyszukiwań",
+      "path": "algorithmic/Grafy w Pythonie/4 drzewo binarnych wyszukiwań.md"
+    },
+    {
       "basename": "6.1. Styling extra",
       "path": "REACT/React - the Complete Guide/6.1. Styling extra.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "6 Strategie pracy",
       "path": "Git/Helion Git/6 Strategie pracy.md"
-    },
-    {
-      "basename": "5 Git Remote",
-      "path": "Git/Helion Git/5 Git Remote.md"
-    },
-    {
-      "basename": "4 Commit",
-      "path": "Git/Helion Git/4 Commit.md"
-    },
-    {
-      "basename": "3 Gałęzie",
-      "path": "Git/Helion Git/3 Gałęzie.md"
-    },
-    {
-      "basename": "2 Podstawowe komendy",
-      "path": "Git/Helion Git/2 Podstawowe komendy.md"
-    },
-    {
-      "basename": "Deeper Merging Branches",
-      "path": "Git/Learn Git GitHub and master/Deeper Merging Branches.md"
     }
   ],
   "omittedPaths": [],

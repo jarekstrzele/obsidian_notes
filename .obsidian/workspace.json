@@ -13,7 +13,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REACT/React - the Complete Guide/6.1. Styling extra.md",
+                "file": "algorithmic/Grafy w Pythonie/_ 0 Grafy w Pythonie.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "65036df4bce9c6b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c78526aad4828cfc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f64c337d8abcfba2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -105,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REACT/React - the Complete Guide/6.1. Styling extra.md",
+                "file": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -122,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REACT/React - the Complete Guide/6.1. Styling extra.md",
+                "file": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REACT/React - the Complete Guide/6.1. Styling extra.md"
+                "file": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md"
               }
             }
           },
@@ -185,17 +222,17 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "986a8068b440667d",
+  "active": "f64c337d8abcfba2",
   "lastOpenFiles": [
+    "algorithmic/Grafy w Pythonie/1. Wprowadzenie do grafów.md",
+    "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
+    "algorithmic/Grafy w Pythonie/_ 0 Grafy w Pythonie.md",
+    "algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md",
+    "algorithmic/Grafy w Pythonie/4 drzewo binarnych wyszukiwań.md",
+    "REACT/React - the Complete Guide/6.1. Styling extra.md",
     "REACT/React - the Complete Guide/6 Styling React Component (Simple React App).md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md",
-    "PYTHON/OOP Python udemy/6 Slots.md",
-    "REACT/React - the Complete Guide/8 Login Project.md",
-    "REACT NATIVE/React Native Practical Guide/3 mini game.md",
-    "PYTHON/OOP Python udemy/5 Inheritance.md",
-    "REACT/React - the Complete Guide/6.1. Styling extra.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/4 Pre-defined dialogs and basic data types.md"
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md"
   ]
 }
