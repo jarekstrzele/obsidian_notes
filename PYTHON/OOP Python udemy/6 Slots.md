@@ -174,14 +174,17 @@ AttributeError: 'DomNaMarsie' object has no attribute '__dict__'. Did you mean: 
 ```
 
 You can write:
-`__slots__=('atr1', 'atr2', ... , '__dict__')` -> now you can add attributes dynamaclly but you lost the optimalization
+`__slots__=('atr1', 'atr2', ... , '__dict__')` -> now you can add attributes dynamically but you lost the optimizationi
 
 
 # Should We Alway Use Slots?
 - slots should be used for memory and performance optimization  when we have a specific need to optimize, typically indicated by profiling
+- when using slots we should be mindful of the side effects, e.g. instance `__dict__` inheritance rules, etc.
+- we should not use slots for the side effects
 
 
-
+> **Dolnald Knuth**
+> "premature optimization is the root of all evils"
 
 
 
