@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md",
+                "file": "REACT/React - the Complete Guide/6.1. Styling extra.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md",
+                "file": "REACT/React - the Complete Guide/6.1. Styling extra.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md",
+                "file": "REACT/React - the Complete Guide/6.1. Styling extra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md"
+                "file": "REACT/React - the Complete Guide/6.1. Styling extra.md"
               }
             }
           },
@@ -187,15 +187,15 @@
   },
   "active": "986a8068b440667d",
   "lastOpenFiles": [
+    "REACT/React - the Complete Guide/6 Styling React Component (Simple React App).md",
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md",
     "PYTHON/OOP Python udemy/6 Slots.md",
     "REACT/React - the Complete Guide/8 Login Project.md",
     "REACT NATIVE/React Native Practical Guide/3 mini game.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md",
     "PYTHON/OOP Python udemy/5 Inheritance.md",
     "REACT/React - the Complete Guide/6.1. Styling extra.md",
-    "REACT/React - the Complete Guide/6 Styling React Component (Simple React App).md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/4 Pre-defined dialogs and basic data types.md"
   ]
 }
