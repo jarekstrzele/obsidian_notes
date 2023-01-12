@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PYTHON/OOP Python udemy/6 Slots.md",
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5,
-    "collapsed": true
+    "width": 273.5
   },
   "right": {
     "id": "ec7d1a70da2de581",
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PYTHON/OOP Python udemy/6 Slots.md",
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PYTHON/OOP Python udemy/6 Slots.md",
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PYTHON/OOP Python udemy/6 Slots.md"
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md"
               }
             }
           },
@@ -188,11 +187,11 @@
   },
   "active": "986a8068b440667d",
   "lastOpenFiles": [
+    "PYTHON/OOP Python udemy/6 Slots.md",
     "REACT/React - the Complete Guide/8 Login Project.md",
     "REACT NATIVE/React Native Practical Guide/3 mini game.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md",
     "PYTHON/OOP Python udemy/5 Inheritance.md",
-    "PYTHON/OOP Python udemy/6 Slots.md",
     "REACT/React - the Complete Guide/6.1. Styling extra.md",
     "REACT/React - the Complete Guide/6 Styling React Component (Simple React App).md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/4 Pre-defined dialogs and basic data types.md",
