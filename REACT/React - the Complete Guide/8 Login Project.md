@@ -86,14 +86,6 @@ UI>Card.module.css
 
 
 
-
-
-
-
-
-
-
-
 Our own components can interact only with their props, so they don't know e.g. `className` component
 
 in the Card component we want have two classes:
