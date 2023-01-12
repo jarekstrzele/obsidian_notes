@@ -1,6 +1,9 @@
 
 ### `npx create-react-app login_app`
 
+Na szczęście dla nas, moduły CSS są obsługiwane przez `Create-react-app` domyślnie. Jedyne, co mamy do zrobienia, to nadanie odpowiedniej nazwy naszym plikom CSS. Jeśli zaimportujemy plik z rozszerzeniem `.module.css`, to `createe-react-app` automatycznie potraktuje go jako moduł CSS.
+
+
 components
 	- UI
 	- Users
