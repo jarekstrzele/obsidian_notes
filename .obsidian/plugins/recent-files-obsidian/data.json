@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "1 Getting Started with Haskell",
+      "path": "HASKELL/learning haskell programming/1 Getting Started with Haskell.md"
+    },
+    {
+      "basename": "2 Developing a Word Game",
+      "path": "HASKELL/learning haskell programming/2 Developing a Word Game.md"
+    },
+    {
+      "basename": "_ 0 Learining Haskell Programming",
+      "path": "HASKELL/learning haskell programming/_ 0 Learining Haskell Programming.md"
+    },
+    {
+      "basename": "5 Inheritance",
+      "path": "PYTHON/OOP Python udemy/5 Inheritance.md"
+    },
+    {
       "basename": "9 QtDesigner",
       "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md"
     },
@@ -67,10 +83,6 @@
     {
       "basename": "3 mini game",
       "path": "REACT NATIVE/React Native Practical Guide/3 mini game.md"
-    },
-    {
-      "basename": "5 Inheritance",
-      "path": "PYTHON/OOP Python udemy/5 Inheritance.md"
     },
     {
       "basename": "_ 0 Fundamentals of Practical Haskell Programming",
@@ -187,18 +199,6 @@
     {
       "basename": "2 Recursion, Guards, Patterns",
       "path": "HASKELL/Haskell for Imperative Programmers/2 Recursion, Guards, Patterns.md"
-    },
-    {
-      "basename": "1 Functions",
-      "path": "HASKELL/Haskell for Imperative Programmers/1 Functions.md"
-    },
-    {
-      "basename": "_ 0 Haskell for Imperative Programmers",
-      "path": "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md"
-    },
-    {
-      "basename": "links OCaml",
-      "path": "OCaml/links OCaml.md"
     }
   ],
   "omittedPaths": [],

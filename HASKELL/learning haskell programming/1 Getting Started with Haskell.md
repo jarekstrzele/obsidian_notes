@@ -39,8 +39,26 @@ instance Bounded Bool -- Defined in `GHC.Enum'
 ghci>
 ```
 
+---
+# Built-in Data Structures
+
+```haskell
+ghci> [1..10]
+[1,2,3,4,5,6,7,8,9,10]
+
+ghci> :i []
+type [] :: * -> *
+data [] a = [] | a : [a]
+
+ghci> [1,2] ++ [3,4]
+[1,2,3,4]
 
 
 
+```
+
+
+
+# Editing Haskell Source Code
 
 

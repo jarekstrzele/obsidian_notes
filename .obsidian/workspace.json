@@ -8,42 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "986a8068b440667d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "algorithmic/Grafy w Pythonie/_ 0 Grafy w Pythonie.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "65036df4bce9c6b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c78526aad4828cfc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f64c337d8abcfba2",
             "type": "leaf",
             "state": {
@@ -61,14 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PYTHON/OOP Python udemy/5 Inheritance.md",
+                "file": "HASKELL/learning haskell programming/1 Getting Started with Haskell.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
+                "file": "HASKELL/learning haskell programming/1 Getting Started with Haskell.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -159,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
+                "file": "HASKELL/learning haskell programming/1 Getting Started with Haskell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md"
+                "file": "HASKELL/learning haskell programming/1 Getting Started with Haskell.md"
               }
             }
           },
@@ -222,17 +186,17 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "f64c337d8abcfba2",
+  "active": "2985571479bf5f74",
   "lastOpenFiles": [
+    "HASKELL/learning haskell programming/2 Developing a Word Game.md",
+    "HASKELL/learning haskell programming/1 Getting Started with Haskell.md",
+    "HASKELL/learning haskell programming/_ 0 Learining Haskell Programming.md",
+    "PYTHON/OOP Python udemy/5 Inheritance.md",
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advenced widgets.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/4 Pre-defined dialogs and basic data types.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md",
-    "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
-    "algorithmic/Grafy w Pythonie/1. Wprowadzenie do grafów.md",
-    "REACT/React - the Complete Guide/8 Login Project.md",
-    "REACT/React - the Complete Guide/6.1. Styling extra.md",
-    "REACT/React - the Complete Guide/6 Styling React Component (Simple React App).md"
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md"
   ]
 }
