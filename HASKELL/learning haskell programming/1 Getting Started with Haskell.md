@@ -43,6 +43,7 @@ ghci>
 # Built-in Data Structures
 
 ```haskell
+--list
 ghci> [1..10]
 [1,2,3,4,5,6,7,8,9,10]
 
@@ -57,6 +58,30 @@ ghci> [1,2] ++ [3,4]
 
 ```
 
+
+```haskell
+-- tuple
+ghci> :t (1,2,3,4)
+(1,2,3,4) :: (Num a, Num b, Num c, Num d) => (a, b, c, d)
+ghci> :t (1,2,'3',4)
+(1,2,'3',4) :: (Num a, Num b, Num d) => (a, b, Char, d)
+ghci> :t (1,2,'3',4, "coś")
+(1,2,'3',4, "coś")
+  :: (Num a, Num b, Num d) => (a, b, Char, d, String)
+
+[("one",1),("two",2),("three",3)]
+ghci> :i lookup
+lookup :: Eq a => a -> [(a, b)] -> Maybe b
+        -- Defined in `GHC.List'
+ghci> let dict = [("one",1), ("two", 2), ("three",3)]
+ghci> lookup "one" dict
+Just 1
+ghci> lookup "four" dict
+Nothing
+```
+
+#haskell/maybe
+**Maybe** is a data type that might return a value or might not
 
 
 # Editing Haskell Source Code
