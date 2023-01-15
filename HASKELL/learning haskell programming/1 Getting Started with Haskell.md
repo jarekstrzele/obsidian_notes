@@ -140,19 +140,40 @@ to do some optymalization:
 >[!info] Haskell functions
 >THey are very much lik mathematical functions in that they map from values of a certain type like strings to values of another type like integers
 
+```haskell
+ghci> add a b = a + b
+ghci> add 1 3
+4
 
 
-----
-# Build Your Own Data Structures
+```
+
 ```haskell
 add :: Int -> Int -> Int
 add a b = a + b
+
+ghci> add1 b = add 1 b
+ghci> add1 10
+11
+
+ghci> :t add
+add :: Num a => a -> a -> a
+ghci> :t add 1
+add 1 :: Num a => a -> a
 ```
 
+----
+# Build Your Own Data Structures
+
+## Type synonyms
 
 
 
 
+
+
+
+## Composite data types (ADT - *Abstract Data Type*)
 
 
 
