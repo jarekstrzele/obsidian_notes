@@ -166,7 +166,20 @@ add 1 :: Num a => a -> a
 # Build Your Own Data Structures
 
 ## Type synonyms
+```haskell
+type Count = Int
 
+processString :: [Char] -> Count
+processString = undefined
+
+---------------------------------------
+ghci> :l func_haskell.hs
+[1 of 1] Compiling Main             ( func_haskell.hs, interpreted )
+Ok, one module loaded.
+ghci> :t processString
+processString :: [Char] -> Count
+ghci>
+```
 
 
 
@@ -175,6 +188,48 @@ add 1 :: Num a => a -> a
 
 ## Composite data types (ADT - *Abstract Data Type*)
 
+### Pattern
+```haskell
+ghci> :info Bool
+type Bool :: *
+data Bool = False | True
+```
+
+```haskell
+data Compass = North | East | Sount | West
+
+
+----------
+ghci> :i Compass
+type Compass :: *
+data Compass = North | East | Sount | West
+        -- Defined at data_haskell.hs:1:1
+```
+
+to show Compass
+```haskell
+
+data Compass = North | East | Sount | West
+
+instance Show Compass where
+  show North = "North"
+  show East = "East"
+  show South = "South"
+  show West = "West"
+
+ghci> :r
+Ok, one module loaded.
+ghci> North
+North
+ghci> ABs
+
+<interactive>:22:1: error: Data constructor not in scope: ABs
+```
+
+to compare Compass
+```haskell
+instance 
+```
 
 
 
