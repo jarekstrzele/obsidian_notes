@@ -9,6 +9,14 @@
       "path": "HASKELL/learning haskell programming/2 Developing a Word Game.md"
     },
     {
+      "basename": "HaskelFunc.excalidraw",
+      "path": "Excalidraw/HaskelFunc.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2023-01-15 21.36.15.excalidraw",
+      "path": "Excalidraw/Drawing 2023-01-15 21.36.15.excalidraw.md"
+    },
+    {
       "basename": "_ 0 Learining Haskell Programming",
       "path": "HASKELL/learning haskell programming/_ 0 Learining Haskell Programming.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "2 Debugging React Native Apps",
       "path": "REACT NATIVE/React Native Practical Guide/2 Debugging React Native Apps.md"
-    },
-    {
-      "basename": "3 Lists",
-      "path": "HASKELL/Haskell for Imperative Programmers/3 Lists.md"
-    },
-    {
-      "basename": "2 Recursion, Guards, Patterns",
-      "path": "HASKELL/Haskell for Imperative Programmers/2 Recursion, Guards, Patterns.md"
     }
   ],
   "omittedPaths": [],

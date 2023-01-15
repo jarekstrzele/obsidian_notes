@@ -129,15 +129,30 @@ PS C:\Users\jaros\Desktop\Prog\haskell_simple_console> .\first_haskell.exe
 New ONE, World
 ```
 
+to do some optymalization:
+`stack ghc -- -dynamic file.hs`
+
+
 ----
 # Intro to Function
 
-
+![[HaskelFunc.excalidraw | 500 ]]
+>[!info] Haskell functions
+>THey are very much lik mathematical functions in that they map from values of a certain type like strings to values of another type like integers
 
 
 
 ----
 # Build Your Own Data Structures
+```haskell
+add :: Int -> Int -> Int
+add a b = a + b
+```
+
+
+
+
+
 
 
 
