@@ -1,5 +1,12 @@
 **[[_ 0 Learining Haskell Programming]]
 
+[[#Built-in Data Structures]]
+[[#Editing Haskell Source Code]]
+[[#Intro to Function]]
+[[#Build Your Own Data Structures]]
+[[#Pattern Matching]]
+
+----
 
 ```haskell
 > ghci
@@ -84,6 +91,36 @@ Nothing
 **Maybe** is a data type that might return a value or might not
 
 
+----
 # Editing Haskell Source Code
+
+`vim test.hs`
+
+
+
+----
+# Intro to Function
+
+
+
+
+
+----
+# Build Your Own Data Structures
+
+
+
+
+
+
+----
+# Pattern Matching
+
+
+
+
+
+
+
 
 
