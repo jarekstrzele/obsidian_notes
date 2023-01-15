@@ -228,12 +228,42 @@ ghci> ABs
 
 to compare Compass
 ```haskell
-instance 
+instance Eq Compass where 
+	North == North = True
+--- .....
+```
+
+you can use `deriving` :
+
+#### addition
+```haskell
+--- that referrring to addition
+data Compass = North | East | South | West
+   deriving (Eq, Ord, Enum, Show)
+
+---------------
+[1 of 1] Compiling Main  ( data_haskell.hs, interpreted )
+Ok, one module loaded.
+ghci> East > North
+True
+ghci> North
+North
+ghci> South == West
+False
+ghci> succ West
+East 
 ```
 
 
-
-
+#### multiplication
+`data Maybe a = Nothing | Just a`
+**the constructor takes additional parameters**
+```haskell
+data Expression = Number Int
+				| Add Expression Expression
+				| Substract Expression Expression
+				deriving (Eq, Ord, Show)
+```
 
 ----
 # Pattern Matching
