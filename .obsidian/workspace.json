@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md"
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md"
               }
             }
           },
@@ -224,15 +224,15 @@
   },
   "active": "f64c337d8abcfba2",
   "lastOpenFiles": [
-    "algorithmic/Grafy w Pythonie/1. Wprowadzenie do grafów.md",
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advenced widgets.md",
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md",
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/4 Pre-defined dialogs and basic data types.md",
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md",
     "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
+    "algorithmic/Grafy w Pythonie/1. Wprowadzenie do grafów.md",
     "REACT/React - the Complete Guide/8 Login Project.md",
     "REACT/React - the Complete Guide/6.1. Styling extra.md",
     "REACT/React - the Complete Guide/6 Styling React Component (Simple React App).md",
-    "algorithmic/Grafy w Pythonie/_ 0 Grafy w Pythonie.md",
-    "algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md",
-    "algorithmic/Grafy w Pythonie/4 drzewo binarnych wyszukiwań.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md"
+    "algorithmic/Grafy w Pythonie/_ 0 Grafy w Pythonie.md"
   ]
 }
