@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "9 QtDesigner",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md"
+    },
+    {
       "basename": "6 Using Qt Layouts to simplify your designs",
       "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "links OCaml",
       "path": "OCaml/links OCaml.md"
-    },
-    {
-      "basename": "First steps",
-      "path": "HASKELL/First steps.md"
     }
   ],
   "omittedPaths": [],
