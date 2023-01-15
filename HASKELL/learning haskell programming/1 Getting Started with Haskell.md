@@ -95,8 +95,39 @@ Nothing
 # Editing Haskell Source Code
 
 `vim test.hs`
+```haskell
+main = putStrLn "Hello from Haskkel!!!"
+```
+load it to ghci `:l test.hs`
+run the function `main`
 
+```haskell
+main = putStrLn (greet "World")
 
+greeting = "Hello"
+greet who = greeting ++ ", " ++ who 
+```
+ghci> :r
+[1 of 1] Compiling Main             ( first_haskell.hs, interpreted )
+Ok, one module loaded.
+ghci> main
+Hello, World
+
+## to trigger the editor from `ghci`
+`:set editor vim`
+`:edit `
+
+## to compile
+`>stack ghc file.hs`
+`>./file`
+
+```bash
+e> stack ghc .\first_haskell.hs
+[1 of 1] Compiling Main             ( first_haskell.hs, first_haskell.o )
+Linking first_haskell.exe ...
+PS C:\Users\jaros\Desktop\Prog\haskell_simple_console> .\first_haskell.exe
+New ONE, World
+```
 
 ----
 # Intro to Function
