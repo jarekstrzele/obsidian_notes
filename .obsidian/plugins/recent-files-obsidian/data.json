@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Drawing 2023-01-16 15.13.48.excalidraw",
+      "path": "Excalidraw/Drawing 2023-01-16 15.13.48.excalidraw.md"
+    },
+    {
+      "basename": "6.1 Layouts Summary",
+      "path": "PYTHON/GUI/PyQt/6.1 Layouts Summary.md"
+    },
+    {
       "basename": "6 Using Qt Layouts to simplify your designs",
       "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "1 React Native Basics",
       "path": "REACT NATIVE/React Native Practical Guide/1 React Native Basics.md"
-    },
-    {
-      "basename": "1.7 Modal Screen",
-      "path": "REACT NATIVE/React Native Practical Guide/1.7 Modal Screen.md"
-    },
-    {
-      "basename": "2 Debugging React Native Apps",
-      "path": "REACT NATIVE/React Native Practical Guide/2 Debugging React Native Apps.md"
     }
   ],
   "omittedPaths": [],

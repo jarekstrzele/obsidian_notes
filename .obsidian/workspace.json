@@ -4,34 +4,58 @@
     "type": "split",
     "children": [
       {
-        "id": "941e0296eca4f20e",
-        "type": "tabs",
+        "id": "405ae0444987b2a5",
+        "type": "split",
         "children": [
           {
-            "id": "f64c337d8abcfba2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md",
-                "mode": "source",
-                "source": false
+            "id": "941e0296eca4f20e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2985571479bf5f74",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "HASKELL/learning haskell programming/2 Developing a Word Game.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "8cc4a33a8e411571",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Excalidraw/Drawing 2023-01-16 15.13.48.excalidraw.md"
+                  }
+                }
               }
-            }
+            ],
+            "currentTab": 1
           },
           {
-            "id": "2985571479bf5f74",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HASKELL/learning haskell programming/2 Developing a Word Game.md",
-                "mode": "source",
-                "source": false
+            "id": "3bd771159f90242c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f64c337d8abcfba2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -105,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md",
+                "file": "Excalidraw/Drawing 2023-01-16 15.13.48.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -122,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md",
+                "file": "Excalidraw/Drawing 2023-01-16 15.13.48.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md"
+                "file": "Excalidraw/Drawing 2023-01-16 15.13.48.excalidraw.md"
               }
             }
           },
@@ -185,8 +209,10 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "f64c337d8abcfba2",
+  "active": "8cc4a33a8e411571",
   "lastOpenFiles": [
+    "PYTHON/GUI/PyQt/6.1 Layouts Summary.md",
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
     "HASKELL/learning haskell programming/2 Developing a Word Game.md",
@@ -194,8 +220,6 @@
     "HASKELL/learning haskell programming/1 Getting Started with Haskell.md",
     "Excalidraw/HaskelFunc.excalidraw.md",
     "Excalidraw/Drawing 2023-01-15 21.36.15.excalidraw.md",
-    "PYTHON/OOP Python udemy/5 Inheritance.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advenced widgets.md"
+    "PYTHON/OOP Python udemy/5 Inheritance.md"
   ]
 }
