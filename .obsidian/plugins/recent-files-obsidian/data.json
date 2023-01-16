@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "6 Using Qt Layouts to simplify your designs",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md"
+    },
+    {
+      "basename": "_ 0 PyQt5 From A-Z",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md"
+    },
+    {
+      "basename": "9 QtDesigner",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md"
+    },
+    {
       "basename": "2 Developing a Word Game",
       "path": "HASKELL/learning haskell programming/2 Developing a Word Game.md"
     },
@@ -23,14 +35,6 @@
     {
       "basename": "5 Inheritance",
       "path": "PYTHON/OOP Python udemy/5 Inheritance.md"
-    },
-    {
-      "basename": "9 QtDesigner",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md"
-    },
-    {
-      "basename": "6 Using Qt Layouts to simplify your designs",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md"
     },
     {
       "basename": "7 Advenced widgets",
@@ -79,10 +83,6 @@
     {
       "basename": "4 drzewo binarnych wyszukiwań",
       "path": "algorithmic/Grafy w Pythonie/4 drzewo binarnych wyszukiwań.md"
-    },
-    {
-      "basename": "_ 0 PyQt5 From A-Z",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md"
     },
     {
       "basename": "6 Slots",
