@@ -234,7 +234,7 @@ Project:
 # QStackedLaout
 
 ## LAYOUTS:
-### - Absolute positioning
+### Absolute positioning
 	- lots of work
 	- not elastic
 ### Layouts
@@ -243,7 +243,11 @@ Project:
 - QFormLayout
 - QGridLayout
 - QStackedLayout
-- 
+	- achieve similar functionality to a tabbed form but use QComboBox ot QListBox ot QRadioButtons to select layout
+	- `addWidget(), setCurrentIndex(idx)`
+	can contain several diffeten widgets, but only one of them will be visible at a time and will decide which one is visible at a time by electing it from  a Combobox
+
+
 
 
 
