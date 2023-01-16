@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HASKELL/learning haskell programming/1 Getting Started with Haskell.md",
+                "file": "HASKELL/learning haskell programming/2 Developing a Word Game.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/learning haskell programming/1 Getting Started with Haskell.md",
+                "file": "HASKELL/learning haskell programming/2 Developing a Word Game.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/learning haskell programming/1 Getting Started with Haskell.md",
+                "file": "HASKELL/learning haskell programming/2 Developing a Word Game.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/learning haskell programming/1 Getting Started with Haskell.md"
+                "file": "HASKELL/learning haskell programming/2 Developing a Word Game.md"
               }
             }
           },
@@ -188,11 +188,11 @@
   },
   "active": "2985571479bf5f74",
   "lastOpenFiles": [
-    "HASKELL/learning haskell programming/2 Developing a Word Game.md",
+    "HASKELL/learning haskell programming/_ 0 Learining Haskell Programming.md",
     "HASKELL/learning haskell programming/1 Getting Started with Haskell.md",
+    "HASKELL/learning haskell programming/2 Developing a Word Game.md",
     "Excalidraw/HaskelFunc.excalidraw.md",
     "Excalidraw/Drawing 2023-01-15 21.36.15.excalidraw.md",
-    "HASKELL/learning haskell programming/_ 0 Learining Haskell Programming.md",
     "PYTHON/OOP Python udemy/5 Inheritance.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md",

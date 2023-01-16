@@ -314,7 +314,16 @@ ghci> calc (Add (Number 34) (Subtract (Number 56) (Number 21)))
 69
 ```
 
+### list
+```haskell
+newHead :: [a] -> a
+newHead [] = error "empty list"
+newHead (x:xs) = x
 
+newTail :: [a] -> [a]
+newTail [] = error "empty list"
+newTail (X:Xs) = xs
 
+```
 
 
