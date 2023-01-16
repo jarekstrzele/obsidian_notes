@@ -268,7 +268,26 @@ data Expression = Number Int
 ----
 # Pattern Matching
 
+```haskell
+data Expression = Number Int
+   | Add Expression Expression
+   | Substract Expression Expression
+   deriving (Eq, Ord, Show)
+   
+calc :: Expression -> Int
+calc (Number x) = x
 
+---------
+ghci> calc (Number 1)
+1
+ghci> calc (Number 119)
+119
+ghci> calc (Add (Number 1) (Number 10))
+*** Exception: data_haskell.hs:11:1-19: Non-exhaustive patterns in function calc
+
+
+
+```
 
 
 
