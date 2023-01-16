@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "7 Advanced widgets",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced widgets.md"
+    },
+    {
       "basename": "6 Using Qt Layouts to simplify your designs",
       "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md"
     },
@@ -43,10 +47,6 @@
     {
       "basename": "5 Inheritance",
       "path": "PYTHON/OOP Python udemy/5 Inheritance.md"
-    },
-    {
-      "basename": "7 Advenced widgets",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advenced widgets.md"
     },
     {
       "basename": "5 Simple QWidgets",
