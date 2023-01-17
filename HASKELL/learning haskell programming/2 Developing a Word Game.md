@@ -58,7 +58,31 @@ you can change metadata in `projectName.cabal` (e.g. add to `ghc-option`  `-dyna
 `stack test`
 by default is not implemented
 you can add som code to `test/Spec.hs`
+first-maybe-`stack install hspec`
+add to the file 
+```haskell
+import Test.Hspec
 
+
+```
+
+
+but you have to add to `.cabal` to `build-depends:`  `hspec`
+```haskell
+test-suite wordgame-test
+  type: exitcode-stdio-1.0
+  main-is: Spec.hs
+  other-modules:
+      Paths_wordgame
+  hs-source-dirs:
+      test
+  ghc-options: -Wall -Wcompat -Widentities -Wincomplete-record-updates -Wincomplete-uni-patterns -Wmissing-export-lists -Wmissing-home-modules -Wpartial-fields -Wredundant-constraints -threaded -rtsopts -with-rtsopts=-N
+  build-depends:
+      base >=4.7 && <5
+    , wordgame
+    , hspec
+  default-language: Haskell2010
+```
 
 
 ----
