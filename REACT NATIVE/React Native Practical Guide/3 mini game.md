@@ -766,4 +766,51 @@ const styles = StyleSheet.create({
 })
 ```
 
+--------
+# Managing Colors globaly
+- make a new folder `constants`
+- inside it make a JS file `colors.js`
+```js
+const Colors= {
+	colorName: '#221144' // some color values
+}
+export default Colors;
+```
+
+inside every components, instead of using `color: someValue`:
+- import `Colors` (`import Colors from '../colors/colors'`)
+- use `Color.colorname`
+
+
+----
+# Random Number
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
