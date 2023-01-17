@@ -15,7 +15,7 @@
 
 # Creating a Project with Stack
 
-
+`stack new projectName`
 
 
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md",
+                "file": "HASKELL/learning haskell programming/2 Developing a Word Game.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md",
+                "file": "HASKELL/learning haskell programming/2 Developing a Word Game.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md",
+                "file": "HASKELL/learning haskell programming/2 Developing a Word Game.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md"
+                "file": "HASKELL/learning haskell programming/2 Developing a Word Game.md"
               }
             }
           },
@@ -187,15 +187,15 @@
   },
   "active": "f64c337d8abcfba2",
   "lastOpenFiles": [
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced widgets.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md",
     "HASKELL/learning haskell programming/2 Developing a Word Game.md",
     "PYTHON/GUI/PyQt/6.1 Layouts Summary.md",
     "Excalidraw/qt_layouts.excalidraw.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
     "HASKELL/learning haskell programming/_ 0 Learining Haskell Programming.md",
-    "HASKELL/learning haskell programming/1 Getting Started with Haskell.md",
-    "Excalidraw/HaskelFunc.excalidraw.md"
+    "HASKELL/learning haskell programming/1 Getting Started with Haskell.md"
   ]
 }
