@@ -785,9 +785,141 @@ inside every components, instead of using `color: someValue`:
 ----
 # Random Number
 
+add `Title.jsx` component:
+```jsx
+import { Text, StyleSheet } from 'react-native' ;
+
+function Title({children}){
+
+    return <Text style={styles.title}> {children} </Text>
+}
+
+export default Title ;
+
+const styles = StyleSheet.create({
+    title:{
+        fontSize: 18,
+        fontWeight: 'bold',
+        color: "#E0FFFF",
+        textAlign: 'center',
+        borderWidth: 2,
+        borderColor: '#E0FFFF'
+    }
+})
+```
+
+a new component `NumberContainer.jsx`
+```jsx
+import {View, Text, StyleSheet} from 'react-native' ;
+
+//import Colors from '../constants/colors';
+
+  
+
+function NumberContainer(props){
+
+    return (
+
+        <View style={styles.container}>
+
+            <Text style={styles.numberText}> { props.children } </Text>
+
+        </View>
+
+    );
+
+}
+
+  
+
+export default NumberContainer ;
+
+  
+  
+
+const styles = StyleSheet.create({
+
+    container:{
+
+        borderWidth: 4,
+
+        borderColor: 'white',
+
+        padding: 24,
+
+        margin: 24,
+
+        borderRadius: 8,
+
+        alignItems: "center",
+
+        justifyContent: "center"
+
+    },
+
+    numberText:{
+
+        color: 'white',
+
+        fontSize: 36,
+
+        fontWeight: 'bold'
+
+  
+
+    }
+
+})
+```
 
 
 
+
+and use them  in `GameScreen.jsx`
+and add new function to that file:
+```jsx
+import { useState } from 'react';
+import { View, Text, StyleSheet } from 'react-native' ;
+import Title from '../components/Title';
+import NumberContainer from '../components/NumberContainer';
+
+function generateRandomBetween(min, max, exclude){
+    const rndNum = Math.floor(Math.random() * (max-min)) + min ;
+
+    if (rndNum === exclude){
+      return generateRandomBetween(min, max, exclude);
+    }else {
+        return rndNum;
+    }
+}
+
+function GameScreen(props){
+
+    const initGuess = generateRandomBetween(1, 100, props.userNumber)
+    const [currentGuess, setCurrentGuess] = useState(initGuess) ;
+
+    return ( <View style={styles.screen}>
+                <Title style={styles.title}>Oppenent's Guess</Title>
+                <NumberContainer> {currentGuess} </NumberContainer>
+                <View>
+                    <Text>Higher or lower? </Text>
+                </View>
+                <View>
+
+                </View>
+            </View>
+    );
+}
+
+export default GameScreen ;
+
+const styles = StyleSheet.create({
+    screen: {
+        flex: 1,
+        padding:25
+    },
+})
+```
 
 
 
