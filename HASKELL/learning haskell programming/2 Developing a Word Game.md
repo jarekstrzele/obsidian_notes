@@ -62,12 +62,15 @@ first-maybe-`stack install hspec`
 add to the file 
 ```haskell
 import Test.Hspec
-
-
+main :: IO ()
+main = hspec $ do
+    describe "How to write a test" $ do
+        it "Should be able to run test" $ do
+            someFunc `shouldBe` "someFunc"
 ```
 
 
-	but you have to add to `.cabal` to `build-depends:`  `hspec`
+but you have to add to `.cabal` to `build-depends:`  `hspec`
 ```haskell
 test-suite wordgame-test
   type: exitcode-stdio-1.0
