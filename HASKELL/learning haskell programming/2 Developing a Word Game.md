@@ -32,9 +32,19 @@ that command create a project folder and gives you some info:
 `vim C:\sf\config.yaml`
 
 again : `stack new wordgame`
-in that new folder: `stack ghci` to compile the code
+in that new folder: `stack ghci` to **compile** the code
+look at
+- `app/Main.hs` 
+- `src/Lib.hs`
+- `test/Spec.hs`
 
+`projectName.cabal` has all info to build the project
 
+**build** project
+`stack build` (it creates `Linking .stack-work\dist\8a54c84f\build\wordgame-exe\wordgame-exe.exe ...` )
+->
+`> stack exec wordgame-exe.exe`
+`someFunc`
 
 
 
