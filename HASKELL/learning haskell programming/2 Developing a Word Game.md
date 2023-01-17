@@ -29,7 +29,10 @@ that command create a project folder and gives you some info:
       stack new wordgame new-template -p "author-email:value" -p "author-name:value" -p "category:value" -p
       "copyright:value" -p "github-username:value"* 
 
-`vim ~/config.yaml`
+`vim C:\sf\config.yaml`
+
+again : `stack new wordgame`
+in that new folder: `stack ghci` to compile the code
 
 
 
