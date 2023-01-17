@@ -653,56 +653,68 @@ export default function App() {
 
 
 # Save Area View
+
+>[!info] SaveAreaView
+>SafeAreaView is a React Native component that is used to **embed content in a safe area of the screen**. The SafeAreaView component allows you to avoid overlap of content with system elements such as power buttons and connection notifications that may be visible on the top or bottom of the screen.
+
+
+
 some changes in GameScreen
 ```jsx
-  
-
 function GameScreen(){
 
-  
-
     return ( <View style={styles.screen}>
-
                 <Text>Oppent's Guess</Text>
-
                 {/*guess  */}
-
                 <View>
-
                     <Text>Higher or lower? </Text>
-
                    {/* + - */}
-
                 </View>
-
                 <View> {/* LOG ROUNDS */ }</View>
-
             </View>
-
     );
-
 }
-
-  
 
 export default GameScreen ;
 
-  
-
 const styles = StyleSheet.create({
-
     screen: {
-
         flex: 1,
-
         padding:12
-
     }
-
 })
 ```
 
+in App.js :
+- import SafeAreaView, 
+- packed {screen} in that components
+```jsx
+import { View, StyleSheet , ImageBackground, SafeAreaView} from 'react-native';
 
+...
+
+ <LinearGradient colors={['#f8e7ff','#2bb1b7' ]} style={styles.mainContainer}>
+
+      <ImageBackground source={require('./assets/dices.jpg')}
+
+                       resizeMode="cover"
+
+                       style={styles.mainContainer}
+
+                       imageStyle={styles.backgroundIMG}
+
+  
+
+      >  
+
+       <SafeAreaView> {screen}</SafeAreaView>
+
+             </ImageBackground>
+
+  
+
+    </LinearGradient>
+```
 
 
 
