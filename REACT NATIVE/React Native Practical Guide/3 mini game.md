@@ -694,27 +694,26 @@ import { View, StyleSheet , ImageBackground, SafeAreaView} from 'react-native';
 ...
 
  <LinearGradient colors={['#f8e7ff','#2bb1b7' ]} style={styles.mainContainer}>
-
       <ImageBackground source={require('./assets/dices.jpg')}
-
                        resizeMode="cover"
-
                        style={styles.mainContainer}
-
                        imageStyle={styles.backgroundIMG}
-
-  
-
       >  
-
-       <SafeAreaView> {screen}</SafeAreaView>
+       <SafeAreaView> 
+	       {screen}
+       </SafeAreaView>
 
              </ImageBackground>
-
-  
-
     </LinearGradient>
 ```
+
+>[!important] formating
+>You can't write `<SafeAreaView> ...` in one line
+>You have to write like above
+>
+
+---
+# Title component
 
 
 
