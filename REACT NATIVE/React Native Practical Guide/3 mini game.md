@@ -714,8 +714,56 @@ import { View, StyleSheet , ImageBackground, SafeAreaView} from 'react-native';
 
 ---
 # Title component
+```jsx
+import { Text, StyleSheet } from 'react-native' ;
 
+function Title({children}){
 
+    return <Text style={styles.title}> {children} </Text>
+}
 
+export default Title ;
+
+const styles = StyleSheet.create({
+    title:{
+        fontSize: 18,
+        fontWeight: 'bold',
+        color: "white",
+        textAlign: 'center',
+        borderWidth: 2,
+        borderColor: 'white'
+    }
+})
+```
+
+and GameScreen:
+```jsx
+import { View, Text, StyleSheet } from 'react-native' ;
+import Title from '../components/Title';
+
+function GameScreen(){
+
+    return ( <View style={styles.screen}>
+                <Title style={styles.title}>Oppenent's Guess</Title>
+                <View>
+                    <Text>Higher or lower? </Text>
+                </View>
+                <View>
+
+                </View>
+            </View>
+    );
+}
+
+export default GameScreen ;
+
+const styles = StyleSheet.create({
+    screen: {
+        flex: 1,
+        padding:25
+    },
+
+})
+```
 
 
