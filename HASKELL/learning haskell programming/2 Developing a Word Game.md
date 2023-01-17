@@ -67,7 +67,7 @@ import Test.Hspec
 ```
 
 
-but you have to add to `.cabal` to `build-depends:`  `hspec`
+	but you have to add to `.cabal` to `build-depends:`  `hspec`
 ```haskell
 test-suite wordgame-test
   type: exitcode-stdio-1.0
