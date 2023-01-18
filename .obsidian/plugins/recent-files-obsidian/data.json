@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "5 Simple QWidgets",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md"
+    },
+    {
       "basename": "6 Using Qt Layouts to simplify your designs",
       "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md"
     },
@@ -43,10 +47,6 @@
     {
       "basename": "9 QtDesigner",
       "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md"
-    },
-    {
-      "basename": "5 Simple QWidgets",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md"
     },
     {
       "basename": "7 Advanced widgets",
