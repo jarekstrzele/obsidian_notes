@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/8 Qt Style Sheets.md",
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/8 Qt Style Sheets.md",
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/8 Qt Style Sheets.md",
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/8 Qt Style Sheets.md"
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md"
               }
             }
           },
@@ -188,6 +188,7 @@
   },
   "active": "2985571479bf5f74",
   "lastOpenFiles": [
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/8 Qt Style Sheets.md",
     "HASKELL/learning haskell programming/2 Developing a Word Game.md",
     "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Klucz obcy.md",
     "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Indeksy.md",
@@ -196,7 +197,6 @@
     "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/LEFT JOIN SQLIte.md",
     "REACT NATIVE/React Native Practical Guide/3 mini game.md",
     "REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md"
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md"
   ]
 }
