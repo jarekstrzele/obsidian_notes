@@ -133,58 +133,32 @@ class Main(QDialog):
         self.btn9 = QPushButton("9")
 
         self.btn_calc = QPushButton("Calculate")
-
-  
-
+        
         self.setupLayout()
 
-  
-
     def setupLayout(self):
-
         # layout
-
         self.mainLayout = QGridLayout()
-
         #              .addWidget(object, row, column, spanrow, spancol)
-
         self.mainLayout.addWidget(self.btn1, 4, 0)
-
         self.mainLayout.addWidget(self.btn2, 4, 1)
-
         self.mainLayout.addWidget(self.btn3, 4, 2)
-
         self.mainLayout.addWidget(self.btn4, 3, 0)
-
         self.mainLayout.addWidget(self.btn5, 3, 1)
-
         self.mainLayout.addWidget(self.btn6, 3, 2)
-
         self.mainLayout.addWidget(self.btn7, 2, 0)
-
         self.mainLayout.addWidget(self.btn8, 2, 1)
-
         self.mainLayout.addWidget(self.btn9, 2, 2)
-
         self.mainLayout.addWidget(self.btn0, 5, 1)
-
         self.mainLayout.addWidget(self.btn_calc, 0,0, 1, 3)
 
-  
-
         self.setLayout(self.mainLayout)
-
   
 
 if __name__ == "__main__":
-
     app =QApplication(sys.argv)
-
     main=Main()
-
     main.show()
-
-  
 
     sys.exit(app.exec_())
 ```
@@ -232,49 +206,26 @@ Project:
 
 ```python
 import sys
-
 from PyQt5.QtWidgets import *
-
 from PyQt5.QtGui import *
-
 from PyQt5.QtCore import QDate
 
-  
-
 class Main(QDialog):
-
     def __init__(self):
-
         super().__init__()
-
         self.setWindowTitle("QGrid")
 
-  
-
         # create widgets
-
         self.cmbSelector = QComboBox()
-
         self.cmbSelector.addItems(["General", "Species", "Location", "Surveys"])
-
         self.cmbSelector.currentIndexChanged.connect(self.evt_cmbSelector_changed)
-
-  
-
         self.wdgGeneral = QWidget()
-
         self.wdgSpecies = QWidget()
-
         self.wdgLocation = QWidget()
-
         self.wdgSurveys = QWidget()
 
-  
-
         ## general widgets
-
         self.lblNestID = QLabel("34")
-
         self.dteFound = QDateTimeEdit(QDate(2016, 5, 13))
 
         self.dteLast = QDateTimeEdit(QDate(2020,4,14))
