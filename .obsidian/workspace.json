@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/3 mini game.md",
+                "file": "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Klucz obcy.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HASKELL/learning haskell programming/2 Developing a Word Game.md",
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/8 Qt Style Sheets.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 320.5
   },
   "right": {
     "id": "ec7d1a70da2de581",
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/3 mini game.md",
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/8 Qt Style Sheets.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/3 mini game.md",
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/8 Qt Style Sheets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/3 mini game.md"
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/8 Qt Style Sheets.md"
               }
             }
           },
@@ -185,17 +186,17 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "f64c337d8abcfba2",
+  "active": "2985571479bf5f74",
   "lastOpenFiles": [
-    "REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
     "HASKELL/learning haskell programming/2 Developing a Word Game.md",
+    "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Klucz obcy.md",
+    "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Indeksy.md",
+    "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Create i DROP table SQLIte.md",
+    "Data Bases/SQL/SQL Bootcamp SQLite/3 - DML/_ DML SQLite.md",
+    "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/LEFT JOIN SQLIte.md",
+    "REACT NATIVE/React Native Practical Guide/3 mini game.md",
+    "REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced widgets.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md",
-    "PYTHON/GUI/PyQt/6.1 Layouts Summary.md",
-    "Excalidraw/qt_layouts.excalidraw.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md",
-    "HASKELL/learning haskell programming/_ 0 Learining Haskell Programming.md"
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md"
   ]
 }
