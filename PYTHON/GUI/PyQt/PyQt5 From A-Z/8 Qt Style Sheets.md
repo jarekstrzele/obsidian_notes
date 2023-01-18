@@ -25,7 +25,16 @@ selector{
 - `background-color`
 - `background-image: url(:urlfotos/bear.jpg`
 - `border:width style color`
-	- `border: 2px das`
+	- `border: 2px dashed rgb(255,0,0)`
+- `border-radius: 5px`
+- `font: bold italic large "Times New Roman"`
+- `height: 10px`
+- `width:20px`
+- `lineedit-password-character: 9679`
+- `margin, padding`
+	- `Qt Box Model` (margin(border(*padding*(**content**)*padding*)border)margin)
+- `text-align`
 
 
+## Qt Style sheets Reference
 
