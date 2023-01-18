@@ -113,41 +113,23 @@ class Main(QDialog):
 # QGridLayout
 ```python
 import sys
-
 from PyQt5.QtWidgets import *
 
-  
-
 class Main(QDialog):
-
     def __init__(self):
-
         super().__init__()
-
         self.setWindowTitle("QGrid")
 
-  
-
         # widgeets
-
         self.btn0 = QPushButton("0")
-
         self.btn1 = QPushButton("1")
-
         self.btn2 = QPushButton("2")
-
         self.btn3 = QPushButton("3")
-
         self.btn4 = QPushButton("4")
-
         self.btn5 = QPushButton("5")
-
         self.btn6 = QPushButton("6")
-
         self.btn7 = QPushButton("7")
-
         self.btn8 = QPushButton("8")
-
         self.btn9 = QPushButton("9")
 
         self.btn_calc = QPushButton("Calculate")
