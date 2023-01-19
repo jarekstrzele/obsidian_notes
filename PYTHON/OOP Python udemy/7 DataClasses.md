@@ -14,6 +14,14 @@ INTRO:
 # Another alternative
 # Namedtuple
 
+- use to encapsulate data with named attributes 
+- creates tuple-like objects, with 
+	- convenient defaults,
+	- nice representations
+	- easy access by
+		- index
+		- attribute name
+
 ```python
 from collections import namedtuple
 
@@ -38,9 +46,30 @@ print(koszalek.wzrost)
 10
 ```
 
+### from namedtuple to normal dict
+```python
+from collections import namedtuple
 
 
+Kr = namedtuple("Krasnoludek", ["ksywa", "wzrost", "wiek"], defaults=("",10, 100))
+koszalek = Kr()
+print(koszalek.wzrost)
 
+slownikiwoy_koszalek = koszalek._asdict()
+print(koszalek)
+print(slownikiwoy_koszalek)
+```
 
+a new syntax for attrs:
+```python
+from collections import namedtuple
 
+Herbata = namedtuple("Hebratka", "nazwa rodzaj cena")
+zielona_herbata = Herbata("Słodka zielen", "zielona", 9.54)
+print(zielona_herbata)
+```
+
+### immutability
+```python
+```
 
