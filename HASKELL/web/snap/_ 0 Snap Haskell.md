@@ -16,7 +16,10 @@ http://snapframework.com/
 - an HTML-based templating sys for generating pages
 
 ----
+# Installing SNAP
+http://snapframework.com/download
 
+Snap require GHC Haskell compiler
 
 
 
