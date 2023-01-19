@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/Happy Learn Haskell/_ 0 Happy Learn Haskell.md",
+                "file": "HASKELL/web/snap/_ 0 Snap Haskell.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/Happy Learn Haskell/_ 0 Happy Learn Haskell.md",
+                "file": "HASKELL/web/snap/_ 0 Snap Haskell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/Happy Learn Haskell/_ 0 Happy Learn Haskell.md"
+                "file": "HASKELL/web/snap/_ 0 Snap Haskell.md"
               }
             }
           },
@@ -210,8 +210,9 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "6274159d5250c693",
+  "active": "6d1974a4e4ecc37d",
   "lastOpenFiles": [
+    "HASKELL/Happy Learn Haskell/_ 0 Happy Learn Haskell.md",
     "HASKELL/web/snap/_ 0 Snap Haskell.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md",
     "PYTHON/OOP Python udemy/7 DataClasses.md",
@@ -220,7 +221,6 @@
     "PYTHON/OOP Python udemy/6 Slots.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/8 Qt Style Sheets.md",
-    "HASKELL/learning haskell programming/2 Developing a Word Game.md",
-    "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Klucz obcy.md"
+    "HASKELL/learning haskell programming/2 Developing a Word Game.md"
   ]
 }
