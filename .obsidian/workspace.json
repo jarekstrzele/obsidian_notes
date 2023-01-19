@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PYTHON/OOP Python udemy/9 Enum.md",
+                "file": "PYTHON/OOP Python udemy/7 DataClasses.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PYTHON/OOP Python udemy/9 Enum.md",
+                "file": "PYTHON/OOP Python udemy/7 DataClasses.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PYTHON/OOP Python udemy/9 Enum.md",
+                "file": "PYTHON/OOP Python udemy/7 DataClasses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PYTHON/OOP Python udemy/9 Enum.md"
+                "file": "PYTHON/OOP Python udemy/7 DataClasses.md"
               }
             }
           },
@@ -188,6 +188,7 @@
   },
   "active": "2985571479bf5f74",
   "lastOpenFiles": [
+    "PYTHON/OOP Python udemy/9 Enum.md",
     "PYTHON/OOP Python udemy/8 Descriptors.md",
     "PYTHON/OOP Python udemy/7 DataClasses.md",
     "PYTHON/OOP Python udemy/6 Slots.md",
@@ -196,7 +197,6 @@
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/8 Qt Style Sheets.md",
     "HASKELL/learning haskell programming/2 Developing a Word Game.md",
     "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Klucz obcy.md",
-    "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Indeksy.md",
-    "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Create i DROP table SQLIte.md"
+    "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Indeksy.md"
   ]
 }
