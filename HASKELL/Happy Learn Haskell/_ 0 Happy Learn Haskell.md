@@ -45,4 +45,27 @@ main = putStrLn "Polly wants a cracker"
 >	- we **use it to name expressions, is all**. 
 >	- **The name does not “contain” the value**, so we cannot re-define the same name at a different point in our program, or change the name’s “content” or definition after it has been defined.
 
+### `main`
+- this is the term/variable.
+- veray program must defin `main`
+	- it is evaluated and 
+	- executed by Haskell to run your progam
+- if you named it `pain` instead of `main` - the program would not work
+- it is **the entry point** 
+- it is **a value** and **input/output** action (**IO** action for short)
+
+>[!info] EXPRESSIONs
+>- Expression sare how we express values
+>they have a type, too
+
+
+
+
+
+
+
+
+
+
+
 
