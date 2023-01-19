@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "_ 0 Snap Haskell",
+      "path": "HASKELL/web/snap/_ 0 Snap Haskell.md"
+    },
+    {
       "basename": "5 Simple QWidgets",
       "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "3.1 Component vidly project",
       "path": "REACT/React Mosh/3.1 Component vidly project.md"
-    },
-    {
-      "basename": "2 ES6 Refresh",
-      "path": "REACT/React Mosh/2 ES6 Refresh.md"
     }
   ],
   "omittedPaths": [],
