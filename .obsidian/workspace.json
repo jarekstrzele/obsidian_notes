@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md",
+                "file": "PYTHON/OOP Python udemy/9 Enum.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md",
+                "file": "PYTHON/OOP Python udemy/9 Enum.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md",
+                "file": "PYTHON/OOP Python udemy/9 Enum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md"
+                "file": "PYTHON/OOP Python udemy/9 Enum.md"
               }
             }
           },
@@ -188,15 +188,15 @@
   },
   "active": "2985571479bf5f74",
   "lastOpenFiles": [
+    "PYTHON/OOP Python udemy/8 Descriptors.md",
+    "PYTHON/OOP Python udemy/7 DataClasses.md",
+    "PYTHON/OOP Python udemy/6 Slots.md",
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/8 Qt Style Sheets.md",
     "HASKELL/learning haskell programming/2 Developing a Word Game.md",
     "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Klucz obcy.md",
     "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Indeksy.md",
-    "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Create i DROP table SQLIte.md",
-    "Data Bases/SQL/SQL Bootcamp SQLite/3 - DML/_ DML SQLite.md",
-    "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/LEFT JOIN SQLIte.md",
-    "REACT NATIVE/React Native Practical Guide/3 mini game.md",
-    "REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md"
+    "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Create i DROP table SQLIte.md"
   ]
 }

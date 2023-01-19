@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "9 Enum",
+      "path": "PYTHON/OOP Python udemy/9 Enum.md"
+    },
+    {
+      "basename": "8 Descriptors",
+      "path": "PYTHON/OOP Python udemy/8 Descriptors.md"
+    },
+    {
+      "basename": "7 DataClasses",
+      "path": "PYTHON/OOP Python udemy/7 DataClasses.md"
+    },
+    {
+      "basename": "6 Slots",
+      "path": "PYTHON/OOP Python udemy/6 Slots.md"
+    },
+    {
       "basename": "5 Simple QWidgets",
       "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md"
     },
@@ -125,10 +141,6 @@
       "path": "algorithmic/Grafy w Pythonie/4 drzewo binarnych wyszukiwań.md"
     },
     {
-      "basename": "6 Slots",
-      "path": "PYTHON/OOP Python udemy/6 Slots.md"
-    },
-    {
       "basename": "_ 0 Fundamentals of Practical Haskell Programming",
       "path": "HASKELL/Learning Path Haskell/_ 0 Fundamentals of Practical Haskell Programming.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "2 ES6 Refresh",
       "path": "REACT/React Mosh/2 ES6 Refresh.md"
-    },
-    {
-      "basename": "_ 0 React Mosh",
-      "path": "REACT/React Mosh/_ 0 React Mosh.md"
-    },
-    {
-      "basename": "_React Bob Ziroll",
-      "path": "REACT/React Bob Ziroll/_React Bob Ziroll.md"
-    },
-    {
-      "basename": "1.4. FlatList",
-      "path": "REACT NATIVE/React Native Practical Guide/1.4. FlatList.md"
     }
   ],
   "omittedPaths": [],
