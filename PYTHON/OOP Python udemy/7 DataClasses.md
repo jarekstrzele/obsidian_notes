@@ -2,6 +2,8 @@
 #python/dataclass
 
 INTRO:
+*problem* : you want to have a structure to save some data without behaviors
+
 - often in programming we need instances whose sole purpose is to encapsulate data
 - built-in data structures (list, tuple, dict) are not usefull in large projects
 - defining a new class for that purpose is overhead
@@ -26,7 +28,15 @@ print(row1)
 
 ```
 
+```python
+from collections import namedtuple
 
+Kr = namedtuple("Krasnoludek", ["ksywa", "wzrost", "wiek"], defaults=("",10, 100))
+koszalek = Kr()
+print(koszalek.wzrost)
+###
+10
+```
 
 
 
