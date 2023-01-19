@@ -71,5 +71,13 @@ print(zielona_herbata)
 
 ### immutability
 ```python
+from collections import namedtuple
+
+Herbata = namedtuple("Hebratka", "nazwa rodzaj cena")
+zielona_herbata = Herbata("Słodka zielen", "zielona", 9.54)
+print(zielona_herbata)
+zielona_herbata.nowyAtrybut = "coś nowego"
+##
+-> AttributeError: 'Hebratka' object has no attribute 'nowyAtrybut'
 ```
 
