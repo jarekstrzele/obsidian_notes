@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "_ 0 Happy Learn Haskell",
+      "path": "HASKELL/Happy Learn Haskell/_ 0 Happy Learn Haskell.md"
+    },
+    {
       "basename": "_ 0 Snap Haskell",
       "path": "HASKELL/web/snap/_ 0 Snap Haskell.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "4 Composing Components",
       "path": "REACT/React Mosh/4 Composing Components.md"
-    },
-    {
-      "basename": "3.1 Component vidly project",
-      "path": "REACT/React Mosh/3.1 Component vidly project.md"
     }
   ],
   "omittedPaths": [],
