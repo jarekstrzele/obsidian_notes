@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "_ 0 Fundamentals of Practical Haskell Programming",
-      "path": "HASKELL/Learning Path Haskell/_ 0 Fundamentals of Practical Haskell Programming.md"
+      "basename": "1.2. Values and Expressions",
+      "path": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.2. Values and Expressions.md"
     },
     {
-      "basename": "1 Exploring Haskell",
-      "path": "HASKELL/Learning Path Haskell/1 Exploring Haskell.md"
+      "basename": "1 Fundamentals",
+      "path": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1 Fundamentals.md"
     },
     {
-      "basename": "2 Haskell in Depth",
-      "path": "HASKELL/Learning Path Haskell/2 Haskell in Depth.md"
+      "basename": "1.1 Whitespace, Layout and Scoping",
+      "path": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.1 Whitespace, Layout and Scoping.md"
+    },
+    {
+      "basename": "_ 0 Learing Path Haskell",
+      "path": "HASKELL/Learning Path Haskell/_ 0 Learing Path Haskell.md"
+    },
+    {
+      "basename": "3 Mastering Haskell Programming",
+      "path": "HASKELL/Learning Path Haskell/3 Mastering Haskell Programming/3 Mastering Haskell Programming.md"
+    },
+    {
+      "basename": "2 Exploring Haskell",
+      "path": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2 Exploring Haskell.md"
     },
     {
       "basename": "4 the Main Road",
@@ -187,18 +199,6 @@
     {
       "basename": "3 - React Native - Stack navigation",
       "path": "REACT NATIVE/plurasight/Building Mobile Apps with React Native/3 - React Native - Stack navigation.md"
-    },
-    {
-      "basename": "_ 0 React Native Mobile Apps",
-      "path": "REACT NATIVE/plurasight/Building Mobile Apps with React Native/_ 0 React Native Mobile Apps.md"
-    },
-    {
-      "basename": "_ 0 ReactNative docs",
-      "path": "REACT NATIVE/Docs reactnative/_ 0 ReactNative docs.md"
-    },
-    {
-      "basename": "_ 0 React Node",
-      "path": "REACT/React_Node_Helion/_ 0 React Node.md"
     }
   ],
   "omittedPaths": [],

@@ -61,7 +61,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HASKELL/Learning Path Haskell/_ 0 Fundamentals of Practical Haskell Programming.md",
+                "file": "HASKELL/Learning Path Haskell/_ 0 Learing Path Haskell.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "427a298a407aeef2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1 Fundamentals.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1d5ab0cf1fc64c0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1 Fundamentals.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3ff6ba71a2388547",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.2. Values and Expressions.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -154,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/Learning Path Haskell/_ 0 Fundamentals of Practical Haskell Programming.md",
+                "file": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.2. Values and Expressions.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -171,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/Learning Path Haskell/_ 0 Fundamentals of Practical Haskell Programming.md",
+                "file": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.2. Values and Expressions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/Learning Path Haskell/_ 0 Fundamentals of Practical Haskell Programming.md"
+                "file": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.2. Values and Expressions.md"
               }
             }
           },
@@ -234,17 +270,17 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "42a7518b83f01830",
+  "active": "3ff6ba71a2388547",
   "lastOpenFiles": [
-    "HASKELL/Learning Path Haskell/1 Exploring Haskell.md",
-    "HASKELL/Learning Path Haskell/2 Haskell in Depth.md",
-    "HASKELL/Learning Path Haskell/_ 0 Fundamentals of Practical Haskell Programming.md",
+    "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1 Fundamentals.md",
+    "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.2. Values and Expressions.md",
+    "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.1 Whitespace, Layout and Scoping.md",
+    "HASKELL/Learning Path Haskell/_ 0 Learing Path Haskell.md",
+    "HASKELL/Learning Path Haskell/3 Mastering Haskell Programming/3 Mastering Haskell Programming.md",
+    "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2 Exploring Haskell.md",
     "HASKELL/Happy Learn Haskell/4 the Main Road.md",
     "HASKELL/Happy Learn Haskell/3 Types as Jigsaw Pieces.md",
     "HASKELL/Happy Learn Haskell/_ 0 Happy Learn Haskell.md",
-    "HASKELL/web/snap/_ 0 Snap Haskell.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md",
-    "PYTHON/OOP Python udemy/7 DataClasses.md",
-    "PYTHON/OOP Python udemy/9 Enum.md"
+    "HASKELL/web/snap/_ 0 Snap Haskell.md"
   ]
 }
