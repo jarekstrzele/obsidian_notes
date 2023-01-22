@@ -377,18 +377,36 @@ ghci> addTen x = x  + 10
 ghci> doubleIt x = x * 2
 ghci> addTen 5
 15
--- COMPOSE
+-----------------------
+-- COMPOSite FUNCTIONS
+-----------------------
 ghci> addTen (doubleIt 5)
 20
 ghci> addTen $ doubleIt 5
 20
 ghci> (addTen . doubleIt) 5
 20
-
+ghci> show (addTen (doubleIt 5))
+"20"
 ghci> (show . addTen . doubleIt) 5
 "20"
 ghci> show . addTen . doubleIt $ 5
 "20"
+
+ghci> f = show . addTen . doubleIt
+ghci> :t f
+f :: (Show b, Num b) => b -> String
+ghci> map f [10,11,12,13,14]
+["30","32","34","36","38"]
+```
+
+#haskell/lambda
+`\x -> x + 1`
+```haskell
+\x -> x + 1
+\x y -> x + y
+\x -> \y -> x + y
+\x -> (\y -> x + y)
 ```
 
 ## Function application
