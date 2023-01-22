@@ -16,7 +16,8 @@ you define a name `m` as being the String that is literally `Dolly wants a crack
 - `putStrLn` has type `String` to `IO()` action 
 - `putStrLn` ia a function from `String` value to `IO` action
 
-
+`putStrLn "Dolly wants a cracker" :: IO()`
+`putStrLn ("Dolly wants a cracker" :: String) :: IO() `
 
 
 
