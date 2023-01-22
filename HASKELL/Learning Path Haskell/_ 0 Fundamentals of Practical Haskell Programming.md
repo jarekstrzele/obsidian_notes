@@ -400,6 +400,8 @@ ghci> map f [10,11,12,13,14]
 ["30","32","34","36","38"]
 ```
 
+
+### anonymous functions
 #haskell/lambda
 `\x -> x + 1`
 ```haskell
@@ -408,6 +410,27 @@ ghci> map f [10,11,12,13,14]
 \x -> \y -> x + y
 \x -> (\y -> x + y)
 ```
+
+```haskell
+ghci> words "this is something"
+["this","is","something"]
+ghci> unwords ["to", "jest", "coś"]
+"to jest co\347"
+
+ghci> :{
+ghci| parenthesizeWords s = unwords $ map parenthesizeWord (words s)
+ghci|     where parenthesizeWord s = "(" ++ s ++ ")"
+ghci| :}
+ghci> parenthesizeWords "We love Haskell"
+"(We) (love) (Haskell)"
+ghci>
+ghci> parenthesizeWords s = unwords $ map (\s -> "(" ++ s ++ ")") (words s)
+ghci> parenthesizeWords "We love Haskell"
+"(We) (love) (Haskell)"
+```
+``
+
+
 
 ## Function application
 
