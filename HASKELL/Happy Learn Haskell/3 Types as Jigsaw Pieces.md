@@ -18,9 +18,16 @@ you define a name `m` as being the String that is literally `Dolly wants a crack
 
 `putStrLn "Dolly wants a cracker" :: IO()`
 `putStrLn ("Dolly wants a cracker" :: String) :: IO() `
+`putStrLn m :: IO()`
+**type inference** - Haskell can works out the types from the context
 
+```haskell
+m :: String
+m = "Dolly wants wants a cracker"
 
-
+main :: IO()
+main = putStrLn m
+```
 
 
 
