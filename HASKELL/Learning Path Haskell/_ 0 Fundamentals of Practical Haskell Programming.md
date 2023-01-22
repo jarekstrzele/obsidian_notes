@@ -427,9 +427,38 @@ ghci>
 ghci> parenthesizeWords s = unwords $ map (\s -> "(" ++ s ++ ")") (words s)
 ghci> parenthesizeWords "We love Haskell"
 "(We) (love) (Haskell)"
+ghci> parWord = \s -> "(" ++ s ++ ")"
+ghci> parWord "we"
+"(we)"
+ghci> parWord s = "(" ++ s ++ ")"
+ghci> parWord "love"
+"(love)"
+ghci> parWord = ( "(" ++) . (++ ")" )
+ghci> parWord "function"
+"(function)"
+ghci>
 ```
 ``
-
+```haskell
+ghci> foo x y z = x ++ y ++ z
+ghci> foo "aa" "bb" "cc"
+"aabbcc"
+ghci> :t foo
+foo :: [a] -> [a] -> [a] -> [a]
+ghci> x = foo "aa"
+ghci> :t x
+ghci> x "bb" "cc"
+"aabbcc"
+x :: [Char] -> [Char] -> [Char]
+ghci> y = x "bb"
+ghci> :t y
+y :: [Char] -> [Char]
+ghci> z = y "cc"
+ghci> :t z
+z :: [Char]
+ghci> z
+"aabbcc"
+```
 
 
 ## Function application
