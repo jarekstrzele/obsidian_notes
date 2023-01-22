@@ -40,7 +40,11 @@ main = putStrLn m
 `putStrLn`  relates `String` values to particular kinds of `IO actions`
 
 
-
+## `main`
+- Haskell requires that `main` is an `IO` action
+- its type is written `IO()` -- `IO` action that returns **nothing of interest** (but does some action when executed)
+- value **Unit**  is a nothing of interes and it's written `()`
+- 
 
 
 
