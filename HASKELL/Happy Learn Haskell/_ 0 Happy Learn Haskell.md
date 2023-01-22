@@ -6,18 +6,18 @@ http://www.happylearnhaskelltutorial.com/1/how_to_enjoy_learning.html#s1
 >- all values have a type
 
 >[!info] **Types**
->- a type is a name for a set ot group of values that atr similar
+>- a type is a name for a set ot group of values that are similar
 >- e.g. Integer - the type for representing values like `5`, `32`, ...
 >- `5 :: Integer`
 >- Haskell lets u make our own type
 >- Types are important:
->	- decide how the pieces of your program can fir together
+>	- decide how the pieces of your program can fix together
 >	- which values are allowed to go where
 
 >[!infor] **DEFINITIONS
 > ` = ` this symbol tells Haskel that we want it to remember a name for an **expression**
 >`name = expression` 
->the symbol ` = `  **binds** (relates) the name  or patternn on the left of it with the expression on the right of it
+>the symbol ` = `  **binds** (relates) the name  or pattern on the left of it with the expression on the right of it
 >`five = 5` name `five` means the value `5`
 >
 
@@ -42,12 +42,12 @@ main = putStrLn "Polly wants a cracker"
 
 >It’s important to realise that the “ ` = `” symbol:
 >	- **doesn’t mean we’re “setting” anything here**, or “putting” anything into anything else. 
->	- we **use it to name expressions, is all**. 
+>	- we **use it to name expressions, it's all**. 
 >	- **The name does not “contain” the value**, so we cannot re-define the same name at a different point in our program, or change the name’s “content” or definition after it has been defined.
 
 ### `main`
 - this is the term/variable.
-- veray program must defin `main`
+- every program must defin `main`
 	- it is evaluated and 
 	- executed by Haskell to run your progam
 - if you named it `pain` instead of `main` - the program would not work
@@ -55,7 +55,7 @@ main = putStrLn "Polly wants a cracker"
 - it is **a value** and **input/output** action (**IO** action for short)
 
 >[!info] EXPRESSIONs
->- Expression sare how we express values
+>- Expression share how we express values
 >they have a type, too
 
 

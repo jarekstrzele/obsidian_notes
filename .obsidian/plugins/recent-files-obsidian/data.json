@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "_ 0 Snap Haskell",
-      "path": "HASKELL/web/snap/_ 0 Snap Haskell.md"
+      "basename": "3 Types as Jigsaw Pieces",
+      "path": "HASKELL/Happy Learn Haskell/3 Types as Jigsaw Pieces.md"
     },
     {
       "basename": "_ 0 Happy Learn Haskell",
       "path": "HASKELL/Happy Learn Haskell/_ 0 Happy Learn Haskell.md"
+    },
+    {
+      "basename": "_ 0 Snap Haskell",
+      "path": "HASKELL/web/snap/_ 0 Snap Haskell.md"
     },
     {
       "basename": "5 Simple QWidgets",
@@ -195,10 +199,6 @@
     {
       "basename": "fake_genders.js",
       "path": "REACT/React Mosh/fake_genders.js.md"
-    },
-    {
-      "basename": "4 Composing Components",
-      "path": "REACT/React Mosh/4 Composing Components.md"
     }
   ],
   "omittedPaths": [],
