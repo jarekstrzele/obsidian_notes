@@ -29,6 +29,25 @@ main :: IO()
 main = putStrLn m
 ```
 
+### function
+>[!info] FUNTION
+>a function is:
+>- a value that expreses
+>	- a particular relationship between:
+>		- the values of types
+>it relates one set of values to another set of values 
+
+`putStrLn`  relates `String` values to particular kinds of `IO actions`
+
+
+
+
+
+
+
+
+
+
 
 
 
