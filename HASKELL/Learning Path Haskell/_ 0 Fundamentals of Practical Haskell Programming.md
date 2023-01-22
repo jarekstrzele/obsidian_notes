@@ -215,7 +215,6 @@ main =
 
 `stack ghc -- --fno-code fileName.hs` compile the file but not produce any executable file; it checks only the syntactic correctness
 
-
 ```haskell
 f = do
 	a
@@ -268,7 +267,7 @@ main = let { x = 5; y= 6} in print (x + y)
 **ghc** stands for "Glasgow Haskell Compiler"
 **ghci** is "GLasgow Haskell Compiler Interactive"
 
-`:!` you can use bashh command
+`:!` you can use bash command
 `:!dir`
 
 ### `it`
@@ -358,9 +357,8 @@ ghci> a
 ```
 
 
-
 ## Functions as values
-
+`import Data.List` - this gives us access to the intercalated function
 
 
 ## Function application
