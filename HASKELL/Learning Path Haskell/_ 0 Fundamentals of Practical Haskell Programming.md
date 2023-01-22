@@ -359,7 +359,37 @@ ghci> a
 
 ## Functions as values
 `import Data.List` - this gives us access to the intercalated function
+```haskell
+ghci> intercalate ":" ["/path/to/dir0", "/path/to/dir1"]
+"/path/to/dir0:/path/to/dir1"
+ghci> formatList s e sep xs = s ++ (intercalate sep(map show xs)) ++ e
+ghci> formatList "(" ")" ", " [1,2,3,4]
+"(1, 2, 3, 4)"
+ghci> formatList "(" ")" "- " [1,2,3,4]
+"(1- 2- 3- 4)"
+ghci>
+ghci> f = let s = "hello world" in putStrLn $ "(" ++ s ++ ")"
+ghci> f
+(hello world)
 
+-----
+ghci> addTen x = x  + 10
+ghci> doubleIt x = x * 2
+ghci> addTen 5
+15
+-- COMPOSE
+ghci> addTen (doubleIt 5)
+20
+ghci> addTen $ doubleIt 5
+20
+ghci> (addTen . doubleIt) 5
+20
+
+ghci> (show . addTen . doubleIt) 5
+"20"
+ghci> show . addTen . doubleIt $ 5
+"20"
+```
 
 ## Function application
 
