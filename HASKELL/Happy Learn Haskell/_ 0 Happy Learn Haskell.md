@@ -1,5 +1,9 @@
 http://www.happylearnhaskelltutorial.com/1/how_to_enjoy_learning.html#s1
 
+[[3 Types as Jigsaw Pieces]]
+[[4 the Main Road]]
+
+
 >[!info] **VALUES**
 >- a value in  Haskell is any data
 >- e.g. "step"

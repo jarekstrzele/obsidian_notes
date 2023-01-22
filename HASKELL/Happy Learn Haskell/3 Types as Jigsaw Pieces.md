@@ -1,4 +1,6 @@
+[[_ 0 Happy Learn Haskell]]
 
+----
 ### data
 **data** is like a magical puzzle piece (it can shrink and grow) as needed to fit together
 
@@ -41,6 +43,7 @@ main = putStrLn m
 
 
 ## `main`
+#haskell/main
 - Haskell requires that `main` is an `IO` action
 - its type is written `IO()` -- `IO` action that returns **nothing of interest** (but does some action when executed)
 - value **Unit**  is a nothing of interes and it's written `()`

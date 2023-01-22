@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "4 the Main Road",
+      "path": "HASKELL/Happy Learn Haskell/4 the Main Road.md"
+    },
+    {
       "basename": "3 Types as Jigsaw Pieces",
       "path": "HASKELL/Happy Learn Haskell/3 Types as Jigsaw Pieces.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "fake_movies.js",
       "path": "REACT/React Mosh/fake_movies.js.md"
-    },
-    {
-      "basename": "fake_genders.js",
-      "path": "REACT/React Mosh/fake_genders.js.md"
     }
   ],
   "omittedPaths": [],

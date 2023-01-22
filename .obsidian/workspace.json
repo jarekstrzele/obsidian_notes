@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "42a7518b83f01830",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HASKELL/Happy Learn Haskell/4 the Main Road.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6274159d5250c693",
             "type": "leaf",
             "state": {
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -142,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/Happy Learn Haskell/3 Types as Jigsaw Pieces.md",
+                "file": "HASKELL/Happy Learn Haskell/4 the Main Road.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -159,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/Happy Learn Haskell/3 Types as Jigsaw Pieces.md",
+                "file": "HASKELL/Happy Learn Haskell/4 the Main Road.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/Happy Learn Haskell/3 Types as Jigsaw Pieces.md"
+                "file": "HASKELL/Happy Learn Haskell/4 the Main Road.md"
               }
             }
           },
@@ -222,8 +234,10 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "74285dc1d18c5a80",
+  "active": "42a7518b83f01830",
   "lastOpenFiles": [
+    "HASKELL/Happy Learn Haskell/3 Types as Jigsaw Pieces.md",
+    "HASKELL/Happy Learn Haskell/4 the Main Road.md",
     "HASKELL/Happy Learn Haskell/_ 0 Happy Learn Haskell.md",
     "HASKELL/web/snap/_ 0 Snap Haskell.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md",
@@ -231,8 +245,6 @@
     "PYTHON/OOP Python udemy/9 Enum.md",
     "PYTHON/OOP Python udemy/8 Descriptors.md",
     "PYTHON/OOP Python udemy/6 Slots.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/8 Qt Style Sheets.md",
-    "HASKELL/learning haskell programming/2 Developing a Word Game.md"
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md"
   ]
 }
