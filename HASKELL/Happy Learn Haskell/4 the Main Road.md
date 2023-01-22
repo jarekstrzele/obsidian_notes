@@ -16,11 +16,17 @@
 
 ## pure
 #haskell/pure
-are:
+**are**:
 - definitions
 - values (values that produce actions)
 - expressions
 - functions
 
-means
+**means** they are:
+- consistent
+- equational
+- express truths about values
+
+**pure** 1 + 5 = 6 (it's always. it's never get a different result; true/false absolutly)
+**real** the current time is NOT pure value because it is ALWAYS changing
 

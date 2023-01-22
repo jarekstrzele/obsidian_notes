@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HASKELL/Happy Learn Haskell/4 the Main Road.md",
+                "file": "HASKELL/Learning Path Haskell/_ 0 Fundamentals of Practical Haskell Programming.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/Happy Learn Haskell/4 the Main Road.md",
+                "file": "HASKELL/Learning Path Haskell/_ 0 Fundamentals of Practical Haskell Programming.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/Happy Learn Haskell/4 the Main Road.md",
+                "file": "HASKELL/Learning Path Haskell/_ 0 Fundamentals of Practical Haskell Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/Happy Learn Haskell/4 the Main Road.md"
+                "file": "HASKELL/Learning Path Haskell/_ 0 Fundamentals of Practical Haskell Programming.md"
               }
             }
           },
@@ -236,15 +236,15 @@
   },
   "active": "42a7518b83f01830",
   "lastOpenFiles": [
-    "HASKELL/Happy Learn Haskell/3 Types as Jigsaw Pieces.md",
+    "HASKELL/Learning Path Haskell/1 Exploring Haskell.md",
+    "HASKELL/Learning Path Haskell/2 Haskell in Depth.md",
+    "HASKELL/Learning Path Haskell/_ 0 Fundamentals of Practical Haskell Programming.md",
     "HASKELL/Happy Learn Haskell/4 the Main Road.md",
+    "HASKELL/Happy Learn Haskell/3 Types as Jigsaw Pieces.md",
     "HASKELL/Happy Learn Haskell/_ 0 Happy Learn Haskell.md",
     "HASKELL/web/snap/_ 0 Snap Haskell.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md",
     "PYTHON/OOP Python udemy/7 DataClasses.md",
-    "PYTHON/OOP Python udemy/9 Enum.md",
-    "PYTHON/OOP Python udemy/8 Descriptors.md",
-    "PYTHON/OOP Python udemy/6 Slots.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md"
+    "PYTHON/OOP Python udemy/9 Enum.md"
   ]
 }

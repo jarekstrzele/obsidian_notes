@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "_ 0 Fundamentals of Practical Haskell Programming",
+      "path": "HASKELL/Learning Path Haskell/_ 0 Fundamentals of Practical Haskell Programming.md"
+    },
+    {
+      "basename": "1 Exploring Haskell",
+      "path": "HASKELL/Learning Path Haskell/1 Exploring Haskell.md"
+    },
+    {
+      "basename": "2 Haskell in Depth",
+      "path": "HASKELL/Learning Path Haskell/2 Haskell in Depth.md"
+    },
+    {
       "basename": "4 the Main Road",
       "path": "HASKELL/Happy Learn Haskell/4 the Main Road.md"
     },
@@ -157,14 +169,6 @@
       "path": "algorithmic/Grafy w Pythonie/4 drzewo binarnych wyszukiwań.md"
     },
     {
-      "basename": "_ 0 Fundamentals of Practical Haskell Programming",
-      "path": "HASKELL/Learning Path Haskell/_ 0 Fundamentals of Practical Haskell Programming.md"
-    },
-    {
-      "basename": "1 Exploring Haskell",
-      "path": "HASKELL/Learning Path Haskell/1 Exploring Haskell.md"
-    },
-    {
       "basename": "3 Components",
       "path": "REACT/React Mosh/3 Components.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_ 0 React Node",
       "path": "REACT/React_Node_Helion/_ 0 React Node.md"
-    },
-    {
-      "basename": "fake_movies.js",
-      "path": "REACT/React Mosh/fake_movies.js.md"
     }
   ],
   "omittedPaths": [],
