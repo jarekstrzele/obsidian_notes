@@ -11,11 +11,10 @@
 `m = "Dolly wants a cracker"`
 you define a name `m` as being the String that is literally `Dolly wants a cracker`
 
-
-
-
-
-
+### types for functions
+`putStrLn :: String -> IO()`:
+- `putStrLn` has type `String` to `IO()` action 
+- `putStrLn` ia a function from `String` value to `IO` action
 
 
 
