@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2 Types and Functions",
+      "path": "HASKELL/Real World Haskell/2 Types and Functions.md"
+    },
+    {
       "basename": "1 Getting Started",
       "path": "HASKELL/Real World Haskell/1 Getting Started.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "4 drzewo binarnych wyszukiwań",
       "path": "algorithmic/Grafy w Pythonie/4 drzewo binarnych wyszukiwań.md"
-    },
-    {
-      "basename": "3 Components",
-      "path": "REACT/React Mosh/3 Components.md"
     }
   ],
   "omittedPaths": [],
