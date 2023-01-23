@@ -170,7 +170,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -270,7 +271,7 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "3ff6ba71a2388547",
+  "active": "aad6e2f11a660f1c",
   "lastOpenFiles": [
     "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1 Fundamentals.md",
     "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.2. Values and Expressions.md",
