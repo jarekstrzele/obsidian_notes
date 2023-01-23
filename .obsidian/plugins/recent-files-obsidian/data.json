@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "_ 0 Happy Learn Haskell",
+      "path": "HASKELL/Happy Learn Haskell/_ 0 Happy Learn Haskell.md"
+    },
+    {
+      "basename": "3 Types as Jigsaw Pieces",
+      "path": "HASKELL/Happy Learn Haskell/3 Types as Jigsaw Pieces.md"
+    },
+    {
+      "basename": "4 the Main Road",
+      "path": "HASKELL/Happy Learn Haskell/4 the Main Road.md"
+    },
+    {
       "basename": "1 Fundamentals",
       "path": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1 Fundamentals.md"
     },
@@ -33,24 +45,12 @@
       "path": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2 Exploring Haskell.md"
     },
     {
-      "basename": "4 the Main Road",
-      "path": "HASKELL/Happy Learn Haskell/4 the Main Road.md"
-    },
-    {
-      "basename": "3 Types as Jigsaw Pieces",
-      "path": "HASKELL/Happy Learn Haskell/3 Types as Jigsaw Pieces.md"
-    },
-    {
-      "basename": "_ 0 Happy Learn Haskell",
-      "path": "HASKELL/Happy Learn Haskell/_ 0 Happy Learn Haskell.md"
-    },
-    {
       "basename": "_ 0 Snap Haskell",
       "path": "HASKELL/web/snap/_ 0 Snap Haskell.md"
     },
     {
       "basename": "5 Simple QWidgets",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md"
+      "path": "PYTHON/Deep Dive Python3/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md"
     },
     {
       "basename": "7 DataClasses",
@@ -70,11 +70,11 @@
     },
     {
       "basename": "6 Using Qt Layouts to simplify your designs",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md"
+      "path": "PYTHON/Deep Dive Python3/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md"
     },
     {
       "basename": "8 Qt Style Sheets",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/8 Qt Style Sheets.md"
+      "path": "PYTHON/Deep Dive Python3/PyQt/PyQt5 From A-Z/8 Qt Style Sheets.md"
     },
     {
       "basename": "2 Developing a Word Game",
@@ -110,15 +110,15 @@
     },
     {
       "basename": "9 QtDesigner",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md"
+      "path": "PYTHON/Deep Dive Python3/PyQt/PyQt5 From A-Z/9 QtDesigner.md"
     },
     {
       "basename": "7 Advanced widgets",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced widgets.md"
+      "path": "PYTHON/Deep Dive Python3/PyQt/PyQt5 From A-Z/7 Advanced widgets.md"
     },
     {
       "basename": "6.1 Layouts Summary",
-      "path": "PYTHON/GUI/PyQt/6.1 Layouts Summary.md"
+      "path": "PYTHON/Deep Dive Python3/PyQt/6.1 Layouts Summary.md"
     },
     {
       "basename": "qt_layouts.excalidraw",
@@ -126,7 +126,7 @@
     },
     {
       "basename": "_ 0 PyQt5 From A-Z",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md"
+      "path": "PYTHON/Deep Dive Python3/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md"
     },
     {
       "basename": "_ 0 Learining Haskell Programming",
@@ -150,11 +150,11 @@
     },
     {
       "basename": "4 Pre-defined dialogs and basic data types",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/4 Pre-defined dialogs and basic data types.md"
+      "path": "PYTHON/Deep Dive Python3/PyQt/PyQt5 From A-Z/4 Pre-defined dialogs and basic data types.md"
     },
     {
       "basename": "2 Installing PyQt5",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md"
+      "path": "PYTHON/Deep Dive Python3/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md"
     },
     {
       "basename": "2 Właściwości grafów",
