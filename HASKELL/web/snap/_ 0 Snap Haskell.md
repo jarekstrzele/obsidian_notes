@@ -20,8 +20,15 @@ http://snapframework.com/
 http://snapframework.com/download
 
 Snap require GHC Haskell compiler
+```bash
+$ cabal update
+$ cabal install snap snap-templates
+$ mkdir foo; cd foo; snap init
+```
 
-
+--- 
+# Quick Start
+http://snapframework.com/docs/quickstart
 
 
 
