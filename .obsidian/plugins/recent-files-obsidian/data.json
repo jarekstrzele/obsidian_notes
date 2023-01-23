@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "1.3 Types and Type Signatures",
+      "path": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.3 Types and Type Signatures.md"
+    },
+    {
       "basename": "1.2. Values and Expressions",
       "path": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.2. Values and Expressions.md"
     },
@@ -195,12 +199,9 @@
     {
       "basename": "_ Groupowanie danych SQLite",
       "path": "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/_ Groupowanie danych SQLite.md"
-    },
-    {
-      "basename": "3 - React Native - Stack navigation",
-      "path": "REACT NATIVE/plurasight/Building Mobile Apps with React Native/3 - React Native - Stack navigation.md"
     }
   ],
   "omittedPaths": [],
-  "maxLength": null
+  "maxLength": null,
+  "openType": "tab"
 }
