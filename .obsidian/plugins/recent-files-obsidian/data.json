@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "5 Function Magic",
+      "path": "HASKELL/Happy Learn Haskell/5 Function Magic.md"
+    },
+    {
+      "basename": "_ 0 Happy Learn Haskell",
+      "path": "HASKELL/Happy Learn Haskell/_ 0 Happy Learn Haskell.md"
+    },
+    {
       "basename": "4 the Main Road",
       "path": "HASKELL/Happy Learn Haskell/4 the Main Road.md"
     },
     {
       "basename": "3 Types as Jigsaw Pieces",
       "path": "HASKELL/Happy Learn Haskell/3 Types as Jigsaw Pieces.md"
-    },
-    {
-      "basename": "_ 0 Happy Learn Haskell",
-      "path": "HASKELL/Happy Learn Haskell/_ 0 Happy Learn Haskell.md"
     },
     {
       "basename": "1 Fundamentals",
@@ -195,10 +199,6 @@
     {
       "basename": "0 - Haskell intro",
       "path": "HASKELL/for_great_good/0 - Haskell intro.md"
-    },
-    {
-      "basename": "Installing",
-      "path": "HASKELL/Installing.md"
     }
   ],
   "omittedPaths": [],
