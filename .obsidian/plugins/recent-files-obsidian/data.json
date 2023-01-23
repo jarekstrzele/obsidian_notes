@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "1 Fundamentals",
+      "path": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1 Fundamentals.md"
+    },
+    {
+      "basename": "1.4 Algebraic Data Types",
+      "path": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.4 Algebraic Data Types.md"
+    },
+    {
       "basename": "1.3 Types and Type Signatures",
       "path": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.3 Types and Type Signatures.md"
     },
     {
       "basename": "1.2. Values and Expressions",
       "path": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.2. Values and Expressions.md"
-    },
-    {
-      "basename": "1 Fundamentals",
-      "path": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1 Fundamentals.md"
     },
     {
       "basename": "1.1 Whitespace, Layout and Scoping",
@@ -195,10 +199,6 @@
     {
       "basename": "Installing",
       "path": "HASKELL/Installing.md"
-    },
-    {
-      "basename": "_ Groupowanie danych SQLite",
-      "path": "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/_ Groupowanie danych SQLite.md"
     }
   ],
   "omittedPaths": [],

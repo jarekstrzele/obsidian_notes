@@ -1,6 +1,9 @@
 [[_ 0 Learing Path Haskell]]
 [[1.1 Whitespace, Layout and Scoping]]
 [[1.2. Values and Expressions]]
+[[1.3 Types and Type Signatures]]
+[[1.4 Algebraic Data Types]]
+
 
 [[2 Exploring Haskell]]
 [[3 Mastering Haskell Programming]]
