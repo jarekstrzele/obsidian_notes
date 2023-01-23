@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HASKELL/Happy Learn Haskell/_ 0 Happy Learn Haskell.md",
+                "file": "HASKELL/Happy Learn Haskell/4 the Main Road.md",
                 "mode": "source",
                 "source": false
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/Happy Learn Haskell/_ 0 Happy Learn Haskell.md",
+                "file": "HASKELL/Happy Learn Haskell/4 the Main Road.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -231,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/Happy Learn Haskell/_ 0 Happy Learn Haskell.md",
+                "file": "HASKELL/Happy Learn Haskell/4 the Main Road.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/Happy Learn Haskell/_ 0 Happy Learn Haskell.md"
+                "file": "HASKELL/Happy Learn Haskell/4 the Main Road.md"
               }
             }
           },
@@ -297,6 +297,7 @@
   "active": "f6a258af0d7cde29",
   "lastOpenFiles": [
     "HASKELL/Happy Learn Haskell/3 Types as Jigsaw Pieces.md",
+    "HASKELL/Happy Learn Haskell/_ 0 Happy Learn Haskell.md",
     "HASKELL/Happy Learn Haskell/4 the Main Road.md",
     "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1 Fundamentals.md",
     "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.4 Algebraic Data Types.md",
@@ -304,7 +305,6 @@
     "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.2. Values and Expressions.md",
     "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.1 Whitespace, Layout and Scoping.md",
     "HASKELL/Learning Path Haskell/_ 0 Learing Path Haskell.md",
-    "HASKELL/Learning Path Haskell/3 Mastering Haskell Programming/3 Mastering Haskell Programming.md",
-    "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2 Exploring Haskell.md"
+    "HASKELL/Learning Path Haskell/3 Mastering Haskell Programming/3 Mastering Haskell Programming.md"
   ]
 }

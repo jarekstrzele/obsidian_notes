@@ -30,3 +30,20 @@
 **pure** 1 + 5 = 6 (it's always. it's never get a different result; true/false absolutly)
 **real** the current time is NOT pure value because it is ALWAYS changing
 
+
+- a Haskell program is pure (it only expresses pure values and functions)
+- `IO` type allows us to describe and contain computations and values that deal with the non-pure real world
+	- `IO` actions can be excuted which is what happens when `IO ` nehaviour is activated
+	- this `IO` behaviour is effectively invisible to the pure world (the pure world can never ""see outside"" to the real `IO` world)
+
+
+
+
+
+
+
+
+
+
+
+
