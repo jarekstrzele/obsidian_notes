@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HASKELL/Happy Learn Haskell/5 Function Magic.md",
+                "file": "HASKELL/web/snap/_ 0 Snap Haskell.md",
                 "mode": "source",
                 "source": false
               }
@@ -226,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/Happy Learn Haskell/5 Function Magic.md",
+                "file": "HASKELL/web/snap/_ 0 Snap Haskell.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -243,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/Happy Learn Haskell/5 Function Magic.md",
+                "file": "HASKELL/web/snap/_ 0 Snap Haskell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/Happy Learn Haskell/5 Function Magic.md"
+                "file": "HASKELL/web/snap/_ 0 Snap Haskell.md"
               }
             }
           },
@@ -308,8 +308,8 @@
   },
   "active": "d23a52054ec4e0d8",
   "lastOpenFiles": [
-    "HASKELL/Happy Learn Haskell/_ 0 Happy Learn Haskell.md",
     "HASKELL/Happy Learn Haskell/5 Function Magic.md",
+    "HASKELL/Happy Learn Haskell/_ 0 Happy Learn Haskell.md",
     "HASKELL/Happy Learn Haskell/4 the Main Road.md",
     "HASKELL/Happy Learn Haskell/3 Types as Jigsaw Pieces.md",
     "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1 Fundamentals.md",
