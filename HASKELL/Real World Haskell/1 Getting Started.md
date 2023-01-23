@@ -46,7 +46,43 @@ Here's a newline -->
 ```
 
 # Types
+```haskell
+ghci> :set +t
+ghci> 'c'
+'c'
+it :: Char
+ghci> "foo"
+"foo"
+it :: String
+ghci> it ++ "bar"
+"foobar"
+it :: [Char]
+ghci> it ++3
 
+<interactive>:24:6: error:
+    * No instance for (Num [Char]) arising from the literal `3'
+    * In the second argument of `(++)', namely `3'
+      In the expression: it ++ 3
+      In an equation for `it': it = it ++ 3
+ghci> :t 'a'
+'a' :: Char
+ghci> :t "a"
+"a" :: String
+ghci> 3+2
+5
+it :: Num a => a
+ghci> :t it
+it :: Num a => a
+ghci> pred 9
+8
+it :: (Enum a, Num a) => a
+ghci> :t it
+it :: (Enum a, Num a) => a
+ghci> sin (pi/2)
+1.0
+it :: Floating a => a
+ghci> :?
+```
 
 
 
