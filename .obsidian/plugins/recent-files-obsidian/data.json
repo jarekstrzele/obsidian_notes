@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "1 Getting Started",
+      "path": "HASKELL/Real World Haskell/1 Getting Started.md"
+    },
+    {
       "basename": "_ 0 Snap Haskell",
       "path": "HASKELL/web/snap/_ 0 Snap Haskell.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "3 Components",
       "path": "REACT/React Mosh/3 Components.md"
-    },
-    {
-      "basename": "0 - Haskell intro",
-      "path": "HASKELL/for_great_good/0 - Haskell intro.md"
     }
   ],
   "omittedPaths": [],
