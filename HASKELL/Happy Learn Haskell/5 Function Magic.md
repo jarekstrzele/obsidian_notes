@@ -53,6 +53,14 @@ lambdaCoinTakesTwo :: Bool -> (Bool -> Bool) lambdaCoinTakesTwo = \_ -> lambdaCo
 lambdaCoinTakesTwo' :: Bool -> Bool -> Bool lambdaCoinTakesTwo' = \_ -> (\_ -> True)
 ```
 
+```haskell
+-- using two lambdas, 
+-- without parentheses 
+lambdaCoinTakesTwo'1 :: Bool -> Bool -> Bool lambdaCoinTakesTwo'1 = \_ -> \_ -> True 
+
+-- using just one lambda 
+lambdaCoinTakesTwo'2 :: Bool -> Bool -> Bool lambdaCoinTakesTwo'2 = \_ _ -> True
+```
 
 
 
