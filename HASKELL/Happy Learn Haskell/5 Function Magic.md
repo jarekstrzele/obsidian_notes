@@ -40,7 +40,10 @@ newCoinAgain' :: Bool
 newCoinAgain' = lambdaCoin (lambdaCoin False)
 ```
 
-##
+## Functions that Return Function
+
+
+
 
 
 
