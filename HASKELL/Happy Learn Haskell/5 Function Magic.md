@@ -9,7 +9,8 @@
 - function like othe values can be passed into other function or return from functions
 
 `\x->x`, `\x->True`
-
+`(\x -> True) False` -- equals True
+`(\x->True)((\x->True) False)` -- equals True
 
 
 
