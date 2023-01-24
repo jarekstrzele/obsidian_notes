@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HASKELL/Real World Haskell/2 Types and Functions.md",
+                "file": "HASKELL/The Complete Haskell Course/7 List Problems.md",
                 "mode": "source",
                 "source": false
               }
@@ -250,7 +250,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/Real World Haskell/2 Types and Functions.md",
+                "file": "HASKELL/The Complete Haskell Course/7 List Problems.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -267,7 +267,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/Real World Haskell/2 Types and Functions.md",
+                "file": "HASKELL/The Complete Haskell Course/7 List Problems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -290,7 +290,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/Real World Haskell/2 Types and Functions.md"
+                "file": "HASKELL/The Complete Haskell Course/7 List Problems.md"
               }
             }
           },
@@ -332,15 +332,15 @@
   },
   "active": "7846ecdb13f1e475",
   "lastOpenFiles": [
-    "HASKELL/Real World Haskell/1 Getting Started.md",
-    "HASKELL/web/snap/_ 0 Snap Haskell.md",
-    "HASKELL/Happy Learn Haskell/5 Function Magic.md",
-    "HASKELL/Happy Learn Haskell/_ 0 Happy Learn Haskell.md",
-    "HASKELL/Happy Learn Haskell/4 the Main Road.md",
-    "HASKELL/Happy Learn Haskell/3 Types as Jigsaw Pieces.md",
-    "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1 Fundamentals.md",
-    "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.4 Algebraic Data Types.md",
-    "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.3 Types and Type Signatures.md",
-    "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.2. Values and Expressions.md"
+    "HASKELL/The Complete Haskell Course/6 Lists and Text.md",
+    "HASKELL/The Complete Haskell Course/5 Tuple.md",
+    "HASKELL/The Complete Haskell Course/4 Solved Probelms - Functions.md",
+    "HASKELL/The Complete Haskell Course/3 Functions.md",
+    "HASKELL/The Complete Haskell Course/8 Higher Order Functions.md",
+    "HASKELL/The Complete Haskell Course/9 Solved Problems - HOFs.md",
+    "HASKELL/The Complete Haskell Course/7 List Problems.md",
+    "HASKELL/The Complete Haskell Course/2 Basic Types.md",
+    "HASKELL/The Complete Haskell Course/1 Basics.md",
+    "HASKELL/The Complete Haskell Course/_ 0 Complete Haskell Course.md"
   ]
 }
