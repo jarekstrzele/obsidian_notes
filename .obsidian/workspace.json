@@ -8,175 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f64c337d8abcfba2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Klucz obcy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2985571479bf5f74",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PYTHON/Deep Dive Python3/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6d1974a4e4ecc37d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HASKELL/Happy Learn Haskell/_ 0 Happy Learn Haskell.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "74285dc1d18c5a80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HASKELL/Happy Learn Haskell/3 Types as Jigsaw Pieces.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "42a7518b83f01830",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HASKELL/Learning Path Haskell/_ 0 Learing Path Haskell.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "427a298a407aeef2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1 Fundamentals.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1d5ab0cf1fc64c0e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1 Fundamentals.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3ff6ba71a2388547",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.2. Values and Expressions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5c803cefda23bf62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.3 Types and Type Signatures.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f6a258af0d7cde29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HASKELL/Happy Learn Haskell/4 the Main Road.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d23a52054ec4e0d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HASKELL/web/snap/_ 0 Snap Haskell.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "18d4731a2d6d4f99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HASKELL/Real World Haskell/1 Getting Started.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7846ecdb13f1e475",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HASKELL/The Complete Haskell Course/9 Solved Problems - HOFs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6274159d5250c693",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HASKELL/Happy Learn Haskell/_ 0 Happy Learn Haskell.md",
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced widgets.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 12
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nvm",
+                "query": "pyqt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -250,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/The Complete Haskell Course/9 Solved Problems - HOFs.md",
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced widgets.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -267,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/The Complete Haskell Course/9 Solved Problems - HOFs.md",
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced widgets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -290,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/The Complete Haskell Course/9 Solved Problems - HOFs.md"
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced widgets.md"
               }
             }
           },
@@ -330,17 +173,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7846ecdb13f1e475",
+  "active": "6274159d5250c693",
   "lastOpenFiles": [
-    "HASKELL/The Complete Haskell Course/8 Higher Order Functions.md",
-    "HASKELL/The Complete Haskell Course/7 List Problems.md",
-    "HASKELL/The Complete Haskell Course/6 Lists and Text.md",
-    "HASKELL/The Complete Haskell Course/5 Tuple.md",
-    "HASKELL/The Complete Haskell Course/4 Solved Probelms - Functions.md",
-    "HASKELL/The Complete Haskell Course/3 Functions.md",
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md",
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md",
+    "HASKELL/Happy Learn Haskell/_ 0 Happy Learn Haskell.md",
     "HASKELL/The Complete Haskell Course/9 Solved Problems - HOFs.md",
-    "HASKELL/The Complete Haskell Course/2 Basic Types.md",
-    "HASKELL/The Complete Haskell Course/1 Basics.md",
-    "HASKELL/The Complete Haskell Course/_ 0 Complete Haskell Course.md"
+    "HASKELL/Real World Haskell/1 Getting Started.md",
+    "HASKELL/web/snap/_ 0 Snap Haskell.md",
+    "HASKELL/Happy Learn Haskell/4 the Main Road.md",
+    "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.3 Types and Type Signatures.md",
+    "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.2. Values and Expressions.md"
   ]
 }

@@ -1,8 +1,60 @@
 {
   "recentFiles": [
     {
+      "basename": "7 Advanced widgets",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced widgets.md"
+    },
+    {
+      "basename": "6 Using Qt Layouts to simplify your designs",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md"
+    },
+    {
+      "basename": "9 QtDesigner",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md"
+    },
+    {
+      "basename": "_ 0 PyQt5 From A-Z",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md"
+    },
+    {
+      "basename": "_ 0 Happy Learn Haskell",
+      "path": "HASKELL/Happy Learn Haskell/_ 0 Happy Learn Haskell.md"
+    },
+    {
       "basename": "9 Solved Problems - HOFs",
       "path": "HASKELL/The Complete Haskell Course/9 Solved Problems - HOFs.md"
+    },
+    {
+      "basename": "1 Getting Started",
+      "path": "HASKELL/Real World Haskell/1 Getting Started.md"
+    },
+    {
+      "basename": "_ 0 Snap Haskell",
+      "path": "HASKELL/web/snap/_ 0 Snap Haskell.md"
+    },
+    {
+      "basename": "4 the Main Road",
+      "path": "HASKELL/Happy Learn Haskell/4 the Main Road.md"
+    },
+    {
+      "basename": "1.3 Types and Type Signatures",
+      "path": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.3 Types and Type Signatures.md"
+    },
+    {
+      "basename": "1.2. Values and Expressions",
+      "path": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.2. Values and Expressions.md"
+    },
+    {
+      "basename": "1 Fundamentals",
+      "path": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1 Fundamentals.md"
+    },
+    {
+      "basename": "_ 0 Learing Path Haskell",
+      "path": "HASKELL/Learning Path Haskell/_ 0 Learing Path Haskell.md"
+    },
+    {
+      "basename": "3 Types as Jigsaw Pieces",
+      "path": "HASKELL/Happy Learn Haskell/3 Types as Jigsaw Pieces.md"
     },
     {
       "basename": "8 Higher Order Functions",
@@ -45,10 +97,6 @@
       "path": "HASKELL/Learning Path Haskell/3 Mastering Haskell Programming/3 Mastering Haskell Programming.md"
     },
     {
-      "basename": "1 Fundamentals",
-      "path": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1 Fundamentals.md"
-    },
-    {
       "basename": "1.1 Whitespace, Layout and Scoping",
       "path": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.1 Whitespace, Layout and Scoping.md"
     },
@@ -57,44 +105,12 @@
       "path": "HASKELL/Real World Haskell/2 Types and Functions.md"
     },
     {
-      "basename": "1 Getting Started",
-      "path": "HASKELL/Real World Haskell/1 Getting Started.md"
-    },
-    {
-      "basename": "_ 0 Snap Haskell",
-      "path": "HASKELL/web/snap/_ 0 Snap Haskell.md"
-    },
-    {
       "basename": "5 Function Magic",
       "path": "HASKELL/Happy Learn Haskell/5 Function Magic.md"
     },
     {
-      "basename": "_ 0 Happy Learn Haskell",
-      "path": "HASKELL/Happy Learn Haskell/_ 0 Happy Learn Haskell.md"
-    },
-    {
-      "basename": "4 the Main Road",
-      "path": "HASKELL/Happy Learn Haskell/4 the Main Road.md"
-    },
-    {
-      "basename": "3 Types as Jigsaw Pieces",
-      "path": "HASKELL/Happy Learn Haskell/3 Types as Jigsaw Pieces.md"
-    },
-    {
       "basename": "1.4 Algebraic Data Types",
       "path": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.4 Algebraic Data Types.md"
-    },
-    {
-      "basename": "1.3 Types and Type Signatures",
-      "path": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.3 Types and Type Signatures.md"
-    },
-    {
-      "basename": "1.2. Values and Expressions",
-      "path": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.2. Values and Expressions.md"
-    },
-    {
-      "basename": "_ 0 Learing Path Haskell",
-      "path": "HASKELL/Learning Path Haskell/_ 0 Learing Path Haskell.md"
     },
     {
       "basename": "2 Exploring Haskell",
@@ -102,7 +118,7 @@
     },
     {
       "basename": "5 Simple QWidgets",
-      "path": "PYTHON/Deep Dive Python3/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md"
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md"
     },
     {
       "basename": "7 DataClasses",
@@ -121,12 +137,8 @@
       "path": "PYTHON/OOP Python udemy/6 Slots.md"
     },
     {
-      "basename": "6 Using Qt Layouts to simplify your designs",
-      "path": "PYTHON/Deep Dive Python3/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md"
-    },
-    {
       "basename": "8 Qt Style Sheets",
-      "path": "PYTHON/Deep Dive Python3/PyQt/PyQt5 From A-Z/8 Qt Style Sheets.md"
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/8 Qt Style Sheets.md"
     },
     {
       "basename": "2 Developing a Word Game",
@@ -161,24 +173,12 @@
       "path": "REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md"
     },
     {
-      "basename": "9 QtDesigner",
-      "path": "PYTHON/Deep Dive Python3/PyQt/PyQt5 From A-Z/9 QtDesigner.md"
-    },
-    {
-      "basename": "7 Advanced widgets",
-      "path": "PYTHON/Deep Dive Python3/PyQt/PyQt5 From A-Z/7 Advanced widgets.md"
-    },
-    {
       "basename": "6.1 Layouts Summary",
-      "path": "PYTHON/Deep Dive Python3/PyQt/6.1 Layouts Summary.md"
+      "path": "PYTHON/GUI/PyQt/6.1 Layouts Summary.md"
     },
     {
       "basename": "qt_layouts.excalidraw",
       "path": "Excalidraw/qt_layouts.excalidraw.md"
-    },
-    {
-      "basename": "_ 0 PyQt5 From A-Z",
-      "path": "PYTHON/Deep Dive Python3/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md"
     },
     {
       "basename": "_ 0 Learining Haskell Programming",
