@@ -12,9 +12,14 @@
 `(\x -> True) False` -- equals True
 `(\x->True)((\x->True) False)` -- equals True
 
+```haskell
+lambdaCoin :: Bool -> Bool
+lambdaCoin = \x -> True
+```
 
-
-
+```haskell
+-- the function that always returns True no matter what Bool it gets lambdaCoin :: Bool -> Bool lambdaCoin = \_ -> True -- the value True, by applying the above lambdaCoin -- function to the value False newCoin :: Bool newCoin = lambdaCoin False -- the value True, by applying the above lambdaCoin -- function to newCoin which is itself arrived at by -- applying lambdaCoin to False newCoinAgain :: Bool newCoinAgain = lambdaCoin newCoin -- this is another way to write newCoinAgain, -- but explicitly spelling out -- all of the applications of lambdaCoin newCoinAgain' :: Bool newCoinAgain' = lambdaCoin (lambdaCoin False)
+```
 
 
 
