@@ -41,6 +41,20 @@ newCoinAgain' = lambdaCoin (lambdaCoin False)
 ```
 
 ## Functions that Return Function
+`(\_ -> lambdaCoin) :: Bool -> (Bool -> Bool)`
+
+functions are values like `Bool`, `String`, `...`
+
+```haskell
+lambdaCoinTakesTwo :: Bool -> (Bool -> Bool) lambdaCoinTakesTwo = \_ -> lambdaCoin
+```
+
+```haskell
+lambdaCoinTakesTwo' :: Bool -> Bool -> Bool lambdaCoinTakesTwo' = \_ -> (\_ -> True)
+```
+
+
+
 
 
 
