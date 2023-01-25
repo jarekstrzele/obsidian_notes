@@ -117,8 +117,12 @@ select * from Customers where City in('Gdańsk', 'Wrocław');
 # .NET
 
 
-
-
+*Visual Studio 2022* (2019) 
+-> Nowy projekt
+-> aplikacja konsoli 
+-> w projekcie musimy zainstalować KLIENTASQL
+	-> Projekt>Zarządzanie pakietamy NuGet
+		-> w wyszukiwarce: `Microsoft.Data.SqlClient`
 
 
 
