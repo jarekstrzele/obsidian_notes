@@ -124,7 +124,54 @@ select * from Customers where City in('Gdańsk', 'Wrocław');
 	-> Projekt>Zarządzanie pakietamy NuGet
 		-> w wyszukiwarce: `Microsoft.Data.SqlClient` teraz jest `System.Data.SqlClient`
 
+```c#
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Data.SqlClient;
 
+namespace ConnectionExampleCorret
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            try
+            {
+                SqlConnectionStringBuilder builder = new SqlConnectionStringBuilder();
+                builder.DataSource = "DESKTOP-2AAK5H9\\SQLEXPRESS_FIRST";
+                builder.InitialCatalog = "ShopDB";
+                builder.IntegratedSecurity= true;
+                using (SqlConnection connection = new SqlConnection(builder.ConnectionString))
+                {
+                    Console.WriteLine("Imiona z tabeli Cusomers");
+                    Console.WriteLine("==========================");
+                    String sql = "SELECT FirstName from Customers";
+                    using (SqlCommand command = new SqlCommand(sql, connection))
+                    {
+                        connection.Open();
+                        using (SqlDataReader reader = command.ExecuteReader())
+                        {
+                            while (reader.Read())
+                            {
+                                Console.WriteLine(reader.GetString(0));
+                            }
+                        }
+                    }
+                }
+            }
+            catch(SqlException e)
+            {
+                Console.WriteLine(e.ToString());
+            }
+            Console.WriteLine();
+        }
+    }
+}
+
+```
 
 
 
