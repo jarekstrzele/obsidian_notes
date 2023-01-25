@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "linux",
+      "path": "Studia/Python BackEnd/linux.md"
+    },
+    {
       "basename": "5 Function Magic",
       "path": "HASKELL/Happy Learn Haskell/5 Function Magic.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Drawing 2023-01-15 21.36.15.excalidraw",
       "path": "Excalidraw/Drawing 2023-01-15 21.36.15.excalidraw.md"
-    },
-    {
-      "basename": "5 Inheritance",
-      "path": "PYTHON/OOP Python udemy/5 Inheritance.md"
     }
   ],
   "omittedPaths": [],
