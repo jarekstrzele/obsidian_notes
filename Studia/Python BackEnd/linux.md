@@ -144,10 +144,43 @@ CMD - jaka komenda została użyta, aby ten proces wystartował
 
 $ grep -E few nowy.txt
 fewf
+`grep` (Global Regular Expression Print) jest to polecenie linuksowe, które pozwala na wyszukiwanie tekstu w plikach lub wyjściu innych komend.
+
+Składnia komendy jest następująca:
+
+`grep [opcje] wzorzec plik(i)`
+
+-   `wzorzec` to ciąg znaków, który chcemy wyszukać
+-   `plik(i)` to plik(i), w których chcemy przeszukać, jeśli nie podamy pliku komenda przeszuka wyjście pipe'a
+-   `opcje` to opcjonalne argumenty, które pozwalają na kontrolowanie działania komendy.
+
+Przykłady użycia:
+
+-   `grep "example" file.txt` - wyszuka w pliku file.txt wszystkie linie zawierające ciąg znaków "example"
+-   `ls -l | grep "root"` - wyszuka w wyjściu polecenia ls -l wszystkie linie zawierające ciąg znaków "root"
+-   `grep -r "example" /etc` - rekursywnie przeszuka katalog /etc i jego podkatalogi w poszukiwaniu plików zawierających ciąg znaków "example".
+
+Dzięki różnym opcjom, komenda grep jest bardzo elastyczna i pozwala na różnego rodzaju wyszukiwania.
+
 
  ----
  ## Piping `|` tworzenie nowych komend
 
+`cat file | grep -E "r"` wyświetl/pobierz całą zawartość pliky `file` i wybierz z niego tylko te słowa, które zawierają `r` i tak przygotowane dane wyświel w konsoli
+
+```bash
+jarek@DESKTOP-2AAK5H9:~$ cat file.txt | grep -E "r"
+sdvbdfr
+rvfdfv
+drsvdsvs
+cdsvrew
+saaefrsz
+sdvbdfr
+rvfdfv
+drsvdsvs
+cdsvrew
+saaefrsz
+```
 
 
 
