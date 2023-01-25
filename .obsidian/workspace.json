@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studia/Python BackEnd/linux.md",
+                "file": "Studia/Python BackEnd/MySql data base.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studia/Python BackEnd/linux.md",
+                "file": "Studia/Python BackEnd/MySql data base.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studia/Python BackEnd/linux.md",
+                "file": "Studia/Python BackEnd/MySql data base.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studia/Python BackEnd/linux.md"
+                "file": "Studia/Python BackEnd/MySql data base.md"
               }
             }
           },
@@ -200,15 +200,15 @@
   },
   "active": "a29e380448282899",
   "lastOpenFiles": [
+    "Studia/Python BackEnd/SQL Server.md",
+    "Studia/Python BackEnd/MySql data base.md",
+    "Studia/Python BackEnd/linux.md",
     "HASKELL/Happy Learn Haskell/5 Function Magic.md",
     "HASKELL/Happy Learn Haskell/4 the Main Road.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced widgets.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md",
-    "HASKELL/Happy Learn Haskell/_ 0 Happy Learn Haskell.md",
-    "HASKELL/The Complete Haskell Course/9 Solved Problems - HOFs.md",
-    "HASKELL/Real World Haskell/1 Getting Started.md",
-    "HASKELL/web/snap/_ 0 Snap Haskell.md"
+    "HASKELL/Happy Learn Haskell/_ 0 Happy Learn Haskell.md"
   ]
 }

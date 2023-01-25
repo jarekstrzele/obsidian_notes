@@ -53,6 +53,8 @@ w tabeli są kolumny, które zależą od klucza głównego, ale nie zależą od 
 
 
 
+---
+# podstawowe komendy
 
 
 

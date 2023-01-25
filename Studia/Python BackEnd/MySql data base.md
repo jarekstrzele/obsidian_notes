@@ -149,57 +149,70 @@ select aktwny, count(aktywny) from user ;  <-- zliczy wszystkich ale bez null
 
 ---
 # Dodawanie i pobieranie danych z tabeli
---- 28"10 Dodawanie i pobieranie danych z tabeli  
+## 28"10 Dodawanie i pobieranie danych z tabeli  
+```sql
+insert into klient( imie, nazwisko, email)
+values ("Zdziśo", "Śmietana", "zsy@aapp.pl") ;
 
-> insert into klient( imie, nazwisko, email)
-> 
-> values ("Zdziśo", "Śmietana", "zsy@aapp.pl") ;
-> 
-> select id_klienta as Num, imie as Imie, nazwisko as Naz 
-> 
-> from klient
-> 
-> where id_klienta > 1;
+select id_klienta as Num,
+			 imie as Imie, 
+			 nazwisko as Naz 
+from klient
+where id_klienta > 1;
 
-**Po _where_ nie ma przecinków**
-
+-- **Po _where_ nie ma przecinków**
 SELECT imie as Imie, nazwisko as Nazwisko from user ;
-
 INSERT INTO user  values( ... )
 
+```
   
 
----13"55 Tworzenie tabel i baz danych
-
+## 13"55 Tworzenie tabel i baz danych
+```sql
 create table user (  
-   id_user int auto_increment primary key,    imie text (50) not null,    nazwisko varchar(200) not null,    data_urodzenia date not null,    aktywny boolean,    plec enum('K', 'M'),    pesel int unique);
-
+   id_user int auto_increment primary key,
+   imie text (50) not null,
+   nazwisko varchar(200) not null,
+   data_urodzenia date not null,
+   aktywny boolean,
+   plec enum('K', 'M'),
+   pesel int unique);
+```
 describe
+ 
+`create database uzytkownicy default character set utf8 collate utf8_polish_ci`  - utworzy bazę danych z obsługą polskich znaków  
 
-  
+`drop database  uzytkownicy;`
+`use ;`
 
-_create database uzytkownicy default character set utf8 collate utf8_polish_ci ;_ utworzy bazę danych z obsługą polskich znaków  
-drop database  uzytkownicy;   
+`select database();` -> jaką bazę używamy
 
-use ;
-
-select database(); -> jaką bazę używamy
-
-show databases;  
-show tables;
-
-drop database uzytkownicy;
-
-  
+`show databases;`  
+`show tables;`
+`drop database uzytkownicy;`
 
 -----
 
 pracujemy z Workbanch
 
-services.msc - program z usługami w windowsi, szukamy mysql
-
+`services.msc` - program z usługami w windowsie, szukamy mysql
 instalacja MySQL (serwer, shell, ... porty domyślne 3306
 
-DDL (Data Definition Language (operacje na tabelach: tworzenie, modyfikacja, usuwanie)  
-DML(Data Manipulation Language (wybieranie, manipulowanie danymi)  
-DCL (Data Control Language) (bezpieczeństwo dostępu do danyCH)
+**DDL** (*Data Definition Language*) -operacje na tabelach: - 
+- tworzenie, 
+- modyfikacja, 
+- usuwanie)  
+
+**DML**(*Data Manipulation Language*):
+- wybieranie, 
+- manipulowanie danymi
+
+**DCL** (*Data Control Language*) bezpieczeństwo dostępu do danyCH
+
+
+
+
+
+
+
+
