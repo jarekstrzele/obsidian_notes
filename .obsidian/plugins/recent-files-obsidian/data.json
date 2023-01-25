@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "6 Dockets and Plugs",
+      "path": "HASKELL/Happy Learn Haskell/6 Dockets and Plugs.md"
+    },
+    {
+      "basename": "5 Function Magic",
+      "path": "HASKELL/Happy Learn Haskell/5 Function Magic.md"
+    },
+    {
+      "basename": "4 the Main Road",
+      "path": "HASKELL/Happy Learn Haskell/4 the Main Road.md"
+    },
+    {
+      "basename": "_ 0 Happy Learn Haskell",
+      "path": "HASKELL/Happy Learn Haskell/_ 0 Happy Learn Haskell.md"
+    },
+    {
+      "basename": "3 Types as Jigsaw Pieces",
+      "path": "HASKELL/Happy Learn Haskell/3 Types as Jigsaw Pieces.md"
+    },
+    {
+      "basename": "7 Advanced widgets",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced widgets.md"
+    },
+    {
       "basename": "SQL Server",
       "path": "Studia/Python BackEnd/SQL Server.md"
     },
@@ -13,18 +37,6 @@
       "path": "Studia/Python BackEnd/linux.md"
     },
     {
-      "basename": "5 Function Magic",
-      "path": "HASKELL/Happy Learn Haskell/5 Function Magic.md"
-    },
-    {
-      "basename": "4 the Main Road",
-      "path": "HASKELL/Happy Learn Haskell/4 the Main Road.md"
-    },
-    {
-      "basename": "7 Advanced widgets",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced widgets.md"
-    },
-    {
       "basename": "6 Using Qt Layouts to simplify your designs",
       "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md"
     },
@@ -35,10 +47,6 @@
     {
       "basename": "_ 0 PyQt5 From A-Z",
       "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md"
-    },
-    {
-      "basename": "_ 0 Happy Learn Haskell",
-      "path": "HASKELL/Happy Learn Haskell/_ 0 Happy Learn Haskell.md"
     },
     {
       "basename": "9 Solved Problems - HOFs",
@@ -67,10 +75,6 @@
     {
       "basename": "_ 0 Learing Path Haskell",
       "path": "HASKELL/Learning Path Haskell/_ 0 Learing Path Haskell.md"
-    },
-    {
-      "basename": "3 Types as Jigsaw Pieces",
-      "path": "HASKELL/Happy Learn Haskell/3 Types as Jigsaw Pieces.md"
     },
     {
       "basename": "8 Higher Order Functions",
@@ -195,10 +199,6 @@
     {
       "basename": "_ 0 Learining Haskell Programming",
       "path": "HASKELL/learning haskell programming/_ 0 Learining Haskell Programming.md"
-    },
-    {
-      "basename": "1 Getting Started with Haskell",
-      "path": "HASKELL/learning haskell programming/1 Getting Started with Haskell.md"
     }
   ],
   "omittedPaths": [],
