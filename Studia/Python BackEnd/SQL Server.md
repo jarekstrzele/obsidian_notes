@@ -103,3 +103,24 @@ select * from Customers where City > 'Warszawa';
 
 `all()`, `any()`
 
+```sql
+select * from Customers where idCutomer between 2 and 3;
+
+select * from Customers where City in('Gdańsk', 'Wrocław');
+
+```
+
+`like 'r%'' zaczyna się od r
+`not like 'r%'' nie zaczyna się od r
+
+--------
+# .NET
+
+
+
+
+
+
+
+
+
