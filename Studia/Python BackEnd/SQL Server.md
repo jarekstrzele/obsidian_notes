@@ -124,6 +124,16 @@ select * from Customers where City in('Gdańsk', 'Wrocław');
 	-> Projekt>Zarządzanie pakietamy NuGet
 		-> w wyszukiwarce: `Microsoft.Data.SqlClient` teraz jest `System.Data.SqlClient`
 
+> obiekt `SqlConnectionStringBuilder`  jest używany do określenia parametrów połączenia z bazą danych, takich jak nazwa hosta, nazwa bazy danych i metoda uwierzytelniania.
+
+> Obiekt `SqlConnection` jest klasą w bibliotece ADO.NET, która jest używana do połączenia z bazą danych SQL Server. Klasa ta pozwala na otwarcie i zamknięcie połączenia, a także na konfigurację parametrów połączenia, takich jak nazwa hosta, nazwa bazy danych, nazwa użytkownika i hasło.
+
+> **Słowo kluczowe "using"** jest używane w C# do automatycznego zarządzania zasobami. W przypadku użycia "using" przed definicją obiektu, po zakończeniu działania kodu w bloku using, obiekt jest automatycznie zamykany i jego zasoby są zwolnione.
+> Głównym celem tego mechanizmu jest uniknięcie problemów związanych z brakiem zwolnienia zasobów przez programistę, co może prowadzić do problemów z wydajnością i stabilnością aplikacji.
+
+> Obiekt `SqlCommand` jest klasą w bibliotece ADO.NET, która jest używana do **wykonywania zapytań** SQL na bazie danych SQL Server. Klasa ta pozwala na utworzenie i wykonanie zapytania, a także na konfigurację parametrów zapytania, takich jak tekst zapytania i połączenie z bazą danych.
+> Obiekt SqlCommand jest tworzony za pomocą konstruktora, który przyjmuje dwa argumenty: tekst zapytania oraz obiekt połączenia z bazą danych. Następnie, zapytanie jest wykonywane przy użyciu metody ExecuteReader(), ExecuteNonQuery() lub ExecuteScalar(), w zależności od typu zapytania.
+
 ```c#
 using System;
 using System.Collections.Generic;
@@ -140,35 +150,34 @@ namespace ConnectionExampleCorret
         {
             try
             {
-                SqlConnectionStringBuilder builder = new SqlConnectionStringBuilder();
-                builder.DataSource = "DESKTOP-2AAK5H9\\SQLEXPRESS_FIRST";
-                builder.InitialCatalog = "ShopDB";
-                builder.IntegratedSecurity= true;
-                using (SqlConnection connection = new SqlConnection(builder.ConnectionString))
+   SqlConnectionStringBuilder builder = new SqlConnectionStringBuilder();
+   builder.DataSource = "DESKTOP-2AAK5H9\\SQLEXPRESS_FIRST";
+    builder.InitialCatalog = "ShopDB";
+    builder.IntegratedSecurity= true;
+    using (SqlConnection connection = new SqlConnection(builder.ConnectionString))
                 {
-                    Console.WriteLine("Imiona z tabeli Cusomers");
-                    Console.WriteLine("==========================");
-                    String sql = "SELECT FirstName from Customers";
-                    using (SqlCommand command = new SqlCommand(sql, connection))
-                    {
-                        connection.Open();
-                        using (SqlDataReader reader = command.ExecuteReader())
-                        {
-                            while (reader.Read())
-                            {
-                                Console.WriteLine(reader.GetString(0));
+    Console.WriteLine("Imiona z tabeli Cusomers");
+    Console.WriteLine("==========================");
+    String sql = "SELECT FirstName from Customers";
+    using (SqlCommand command = new SqlCommand(sql, connection))
+    {
+     connection.Open();
+     using (SqlDataReader reader = command.ExecuteReader())
+     {
+      while (reader.Read())
+	      Console.WriteLine(reader.GetString(0));
                             }
                         }
                     }
                 }
             }
-            catch(SqlException e)
-            {
-                Console.WriteLine(e.ToString());
-            }
-            Console.WriteLine();
-        }
-    }
+catch(SqlException e)
+  {
+   Console.WriteLine(e.ToString());
+   }
+   Console.WriteLine();
+   }
+ }
 }
 
 ```
