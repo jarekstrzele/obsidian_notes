@@ -60,8 +60,15 @@ w tabeli są kolumny, które zależą od klucza głównego, ale nie zależą od 
 ---
 # Pobieranie danych z bazy
 
+`select Count(FirstName) from Customers;` - ok
+`select Count(FirstName), SecondName from Customer;` - error
+
+` select top 3 FirstName, SecondName from Customers;`
+` select top 20 percent FirstName, SecondName from Customers;`
 
 
+` select top 3 *, SecondName from Customers;`
+` select top 20 percent FirstName, SecondName from Customers;`
 
 
 
