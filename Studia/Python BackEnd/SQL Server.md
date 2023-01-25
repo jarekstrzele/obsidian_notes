@@ -60,31 +60,38 @@ w tabeli są kolumny, które zależą od klucza głównego, ale nie zależą od 
 ---
 # Pobieranie danych z bazy
 ```sql
-select Count(FirstName) from Customers;` - ok
-select Count(FirstName), SecondName from Customer;rror
+select Count(FirstName) from Customers;
+select Count(FirstName), SecondName from Customer;
 select top 3 FirstName, SecondName from Customers;
 select top 20 percent FirstName, SecondName from Customers;
-
 
 select top 3 * from Customers;
 select top 20 percent * from Customers;
 
 select top 4  FirstName as [First Name], ContactName as [Constact Name] from Customers
 
-
 select distinct FirstName  from Customers;
-
 
 ALTER TABLE Customers
 ALTER COLUMN Phone   VARCHAR(100);
+
+
+select Address + ' ' + City + ' ' + Country as TwojAdres from Customers;
+
 ```
 
 
-
-
-
 ---
-# podstawowe komendy
+# Wyświetlanie danych - operatory logiczne
+
+`>,    <,    =,    >=,     <=`
+
+
+```sql
+ select * from Customers where idCutomer >3;
+
+
+```
 
 
 
