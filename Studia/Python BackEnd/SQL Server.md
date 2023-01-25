@@ -124,15 +124,22 @@ select * from Customers where City in('Gdańsk', 'Wrocław');
 	-> Projekt>Zarządzanie pakietamy NuGet
 		-> w wyszukiwarce: `Microsoft.Data.SqlClient` teraz jest `System.Data.SqlClient`
 
-> obiekt `SqlConnectionStringBuilder`  jest używany do określenia parametrów połączenia z bazą danych, takich jak nazwa hosta, nazwa bazy danych i metoda uwierzytelniania.
+> obiekt `SqlConnectionStringBuilder`  jest używany do **określenia parametrów połączenia** z bazą danych, takich jak nazwa hosta, nazwa bazy danych i metoda uwierzytelniania.
 
-> Obiekt `SqlConnection` jest klasą w bibliotece ADO.NET, która jest używana do połączenia z bazą danych SQL Server. Klasa ta pozwala na otwarcie i zamknięcie połączenia, a także na konfigurację parametrów połączenia, takich jak nazwa hosta, nazwa bazy danych, nazwa użytkownika i hasło.
+> Obiekt `SqlConnection` jest klasą w bibliotece ADO.NET, która jest używana **do połączenia z bazą danych SQL Server.** Klasa ta pozwala na otwarcie i zamknięcie połączenia, a także na konfigurację parametrów połączenia, takich jak nazwa hosta, nazwa bazy danych, nazwa użytkownika i hasło.
 
 > **Słowo kluczowe "using"** jest używane w C# do automatycznego zarządzania zasobami. W przypadku użycia "using" przed definicją obiektu, po zakończeniu działania kodu w bloku using, obiekt jest automatycznie zamykany i jego zasoby są zwolnione.
-> Głównym celem tego mechanizmu jest uniknięcie problemów związanych z brakiem zwolnienia zasobów przez programistę, co może prowadzić do problemów z wydajnością i stabilnością aplikacji.
+> Głównym celem tego mechanizmu jest **uniknięcie problemów związanych z brakiem zwolnienia zasobów przez programistę**, co może prowadzić do problemów z wydajnością i stabilnością aplikacji.
 
 > Obiekt `SqlCommand` jest klasą w bibliotece ADO.NET, która jest używana do **wykonywania zapytań** SQL na bazie danych SQL Server. Klasa ta pozwala na utworzenie i wykonanie zapytania, a także na konfigurację parametrów zapytania, takich jak tekst zapytania i połączenie z bazą danych.
-> Obiekt SqlCommand jest tworzony za pomocą konstruktora, który przyjmuje dwa argumenty: tekst zapytania oraz obiekt połączenia z bazą danych. Następnie, zapytanie jest wykonywane przy użyciu metody ExecuteReader(), ExecuteNonQuery() lub ExecuteScalar(), w zależności od typu zapytania.
+> Obiekt SqlCommand jest tworzony za pomocą konstruktora, który przyjmuje dwa argumenty: 
+> 	- tekst zapytania oraz 
+> 	- obiekt połączenia z bazą danych. 
+> Następnie, zapytanie jest wykonywane przy użyciu metody 
+> 	- `ExecuteReader()`,
+> 	- `ExecuteNonQuery()` lub
+> 	- `ExecuteScalar()`, 
+> w zależności od typu zapytania.
 
 ```c#
 using System;
@@ -181,6 +188,22 @@ catch(SqlException e)
 }
 
 ```
+
+'18:00
+
+
+----------------
+
+
+
+
+
+
+
+
+
+
+
 
 
 
