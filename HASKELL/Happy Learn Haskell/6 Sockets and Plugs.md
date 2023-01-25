@@ -18,6 +18,9 @@ e.g.
 `53` this is a Int value (it is like a plugin);type `Int`
 `plus5 53` -> `58` this is a Int value (you connected the plugin to the socket); type `Int`
 
+### So in the graphic, we “plug” `53` into this `plus5` box, and it displays `58`.
 
 
+When you plug `53` to `plus5` the type `Int->Int` changes to `Int` (`58 :: Int`), so you can plug `58 ` to other function
+`plus5 (plus5 53)` -> `63`
 
