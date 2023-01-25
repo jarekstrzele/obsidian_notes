@@ -1,3 +1,16 @@
+**Bazy danych**:
+- Oracle (elastyczna, nieprzyjazna)
+- Microsoft (nieelastyczna, przyjazna)
+**Wersje SQL Server** :  
+- Express Edition (free)  
+  - custom, na dysku D, New SQL Server
+- Standard, Enterprise  
+  
+**Potrzebna oprogramowanie**:  
+- Visual Studio 2019 Express  
+- SQL Sever 2019 Express oraz Mangement Studio
+
+
 > [!info] baza danych
 > to zestaw obiektów, na których można wykonać CRUD
 > te obiekty to tabele, widoki, indeksy, funkcje ...
@@ -18,7 +31,6 @@
 # OLTP
 - fundament bazy, cały czas dochodzi do różnych zmian
 - baza w tym systemie musi działać bardzo szybko
-
 
 # OLAP
 - zmiany w systemie będa robione bardzo żadko 

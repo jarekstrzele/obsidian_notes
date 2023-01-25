@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studia/Python BackEnd/MySql data base.md",
+                "file": "Studia/Python BackEnd/SQL Server.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studia/Python BackEnd/MySql data base.md",
+                "file": "Studia/Python BackEnd/SQL Server.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studia/Python BackEnd/MySql data base.md",
+                "file": "Studia/Python BackEnd/SQL Server.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studia/Python BackEnd/MySql data base.md"
+                "file": "Studia/Python BackEnd/SQL Server.md"
               }
             }
           },
@@ -200,8 +200,8 @@
   },
   "active": "a29e380448282899",
   "lastOpenFiles": [
-    "Studia/Python BackEnd/SQL Server.md",
     "Studia/Python BackEnd/MySql data base.md",
+    "Studia/Python BackEnd/SQL Server.md",
     "Studia/Python BackEnd/linux.md",
     "HASKELL/Happy Learn Haskell/5 Function Magic.md",
     "HASKELL/Happy Learn Haskell/4 the Main Road.md",
