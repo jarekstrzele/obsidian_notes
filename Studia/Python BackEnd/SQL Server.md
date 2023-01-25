@@ -101,5 +101,5 @@ select * from Customers where City > 'Warszawa';
 
 ```
 
-
+`all()`, `any()`
 
