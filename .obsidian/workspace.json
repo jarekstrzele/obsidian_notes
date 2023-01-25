@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HASKELL/Happy Learn Haskell/6 Dockets and Plugs.md",
+                "file": "HASKELL/Happy Learn Haskell/6 Sockets and Plugs.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/Happy Learn Haskell/6 Dockets and Plugs.md",
+                "file": "HASKELL/Happy Learn Haskell/6 Sockets and Plugs.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/Happy Learn Haskell/6 Dockets and Plugs.md",
+                "file": "HASKELL/Happy Learn Haskell/6 Sockets and Plugs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/Happy Learn Haskell/6 Dockets and Plugs.md"
+                "file": "HASKELL/Happy Learn Haskell/6 Sockets and Plugs.md"
               }
             }
           },
@@ -216,7 +216,7 @@
     "HASKELL/Happy Learn Haskell/4 the Main Road.md",
     "HASKELL/Happy Learn Haskell/_ 0 Happy Learn Haskell.md",
     "HASKELL/Happy Learn Haskell/3 Types as Jigsaw Pieces.md",
-    "HASKELL/Happy Learn Haskell/6 Dockets and Plugs.md",
+    "HASKELL/Happy Learn Haskell/6 Sockets and Plugs.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced widgets.md",
     "Studia/Python BackEnd/SQL Server.md",
     "Studia/Python BackEnd/MySql data base.md",
