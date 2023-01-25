@@ -24,3 +24,11 @@ e.g.
 When you plug `53` to `plus5` the type `Int->Int` changes to `Int` (`58 :: Int`), so you can plug `58 ` to other function
 `plus5 (plus5 53)` -> `63`
 
+
+```haskell
+plus6' :: Int -> Int 
+plus6' number = (+) number 6
+
+
+```
+
