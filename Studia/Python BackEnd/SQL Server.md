@@ -82,13 +82,21 @@ select Address + ' ' + City + ' ' + Country as TwojAdres from Customers;
 
 
 ---
-# Wyświetlanie danych - operatory logiczne
+# Wyświetlanie danych - operatory prównania i logiczne
 
-`>,    <,    =,    >=,     <=`
+`>,    <,    =,    >=,     <=,  <>`
 
 
 ```sql
  select * from Customers where idCutomer >3;
+
+ select idCutomer, FirstName as [Imię], SecondName as [Nazwisko] from Customers where idCutomer =3;
+
+ select idCutomer, FirstName as [Imię], SecondName as [Nazwisko] from Customers where idCutomer <> 3;
+
+select * from Customers where City <> 'Warszawa';
+
+select * from Customers where City > 'Warszawa';
 
 
 ```
