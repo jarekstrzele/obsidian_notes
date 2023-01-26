@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "1.4 Algebraic Data Types",
+      "path": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.4 Algebraic Data Types.md"
+    },
+    {
       "basename": "1 Getting Started",
       "path": "HASKELL/Real World Haskell/1 Getting Started.md"
     },
@@ -135,10 +139,6 @@
     {
       "basename": "1.1 Whitespace, Layout and Scoping",
       "path": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.1 Whitespace, Layout and Scoping.md"
-    },
-    {
-      "basename": "1.4 Algebraic Data Types",
-      "path": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.4 Algebraic Data Types.md"
     },
     {
       "basename": "2 Exploring Haskell",
