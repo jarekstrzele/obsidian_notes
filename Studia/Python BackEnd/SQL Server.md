@@ -1,3 +1,6 @@
+F
+
+
 **Bazy danych**:
 - Oracle (elastyczna, nieprzyjazna)
 - Microsoft (nieelastyczna, przyjazna)

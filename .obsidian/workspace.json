@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/Happy Learn Haskell/8 Make Decisions.md",
+                "file": "Studia/Python BackEnd/SQL Server.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/Happy Learn Haskell/8 Make Decisions.md",
+                "file": "Studia/Python BackEnd/SQL Server.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/Happy Learn Haskell/8 Make Decisions.md"
+                "file": "Studia/Python BackEnd/SQL Server.md"
               }
             }
           },
@@ -234,8 +234,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dcb298c832c44859",
+  "active": "f621f21825dbd82d",
   "lastOpenFiles": [
+    "HASKELL/Happy Learn Haskell/8 Make Decisions.md",
     "HASKELL/Happy Learn Haskell/7 Outputs.md",
     "HASKELL/Happy Learn Haskell/6 Sockets and Plugs.md",
     "HASKELL/Happy Learn Haskell/5 Function Magic.md",
@@ -244,7 +245,6 @@
     "HASKELL/Happy Learn Haskell/3 Types as Jigsaw Pieces.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced widgets.md",
     "Studia/Python BackEnd/SQL Server.md",
-    "Studia/Python BackEnd/MySql data base.md",
-    "Studia/Python BackEnd/linux.md"
+    "Studia/Python BackEnd/MySql data base.md"
   ]
 }
