@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Wybrane zagadnienia z psychologii",
+      "path": "Studia/Przygotowanie pedagogiczne/Wybrane zagadnienia z psychologii.md"
+    },
+    {
       "basename": "SQL Server",
       "path": "Studia/Python BackEnd/SQL Server.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_ 0 React Native - Practical Guide",
       "path": "REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md"
-    },
-    {
-      "basename": "6.1 Layouts Summary",
-      "path": "PYTHON/GUI/PyQt/6.1 Layouts Summary.md"
     }
   ],
   "omittedPaths": [],

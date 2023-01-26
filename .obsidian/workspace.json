@@ -78,9 +78,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9b995a1c7b7697ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studia/Przygotowanie pedagogiczne/Wybrane zagadnienia z psychologii.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -154,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studia/Python BackEnd/SQL Server.md",
+                "file": "Studia/Przygotowanie pedagogiczne/Wybrane zagadnienia z psychologii.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -171,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studia/Python BackEnd/SQL Server.md",
+                "file": "Studia/Przygotowanie pedagogiczne/Wybrane zagadnienia z psychologii.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studia/Python BackEnd/SQL Server.md"
+                "file": "Studia/Przygotowanie pedagogiczne/Wybrane zagadnienia z psychologii.md"
               }
             }
           },
@@ -234,8 +246,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f621f21825dbd82d",
+  "active": "9b995a1c7b7697ae",
   "lastOpenFiles": [
+    "Studia/Python BackEnd/SQL Server.md",
     "HASKELL/Happy Learn Haskell/8 Make Decisions.md",
     "HASKELL/Happy Learn Haskell/7 Outputs.md",
     "HASKELL/Happy Learn Haskell/6 Sockets and Plugs.md",
@@ -244,7 +257,6 @@
     "HASKELL/Happy Learn Haskell/_ 0 Happy Learn Haskell.md",
     "HASKELL/Happy Learn Haskell/3 Types as Jigsaw Pieces.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced widgets.md",
-    "Studia/Python BackEnd/SQL Server.md",
     "Studia/Python BackEnd/MySql data base.md"
   ]
 }
