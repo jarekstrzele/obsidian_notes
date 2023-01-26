@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "7 Outputs",
+      "path": "HASKELL/Happy Learn Haskell/7 Outputs.md"
+    },
+    {
       "basename": "6 Sockets and Plugs",
       "path": "HASKELL/Happy Learn Haskell/6 Sockets and Plugs.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "qt_layouts.excalidraw",
       "path": "Excalidraw/qt_layouts.excalidraw.md"
-    },
-    {
-      "basename": "_ 0 Learining Haskell Programming",
-      "path": "HASKELL/learning haskell programming/_ 0 Learining Haskell Programming.md"
     }
   ],
   "omittedPaths": [],
