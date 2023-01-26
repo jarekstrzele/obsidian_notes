@@ -8,7 +8,7 @@ willNotWork = (3 :: Int) + (5 :: Integer)
 ```
 
 
-```bash
+```haskell
 *Main> :t (+)
 (+) :: Num a => a -> a -> a
 ```
@@ -52,7 +52,39 @@ W tym przypadku funkcja `length` zwraca liczbę całkowitą, a `fromIntegral` ko
 
 # The Show Typeclass
 
-There is a typeclass called `Show` and this provides a single function `show`
+There is a typeclass called `Show` and this provides a single function `show` that can take any instance of `Show` and makes a `String` version og it
+
+```haskell
+*Main> :t show
+show :: Show a => a -> String
+
+Prelude> :t print
+print :: Show a => a -> IO ()
+```
+
+> Printing things to the screen is such a common thing to do that many types have an instance of `Show` already, including of course, `Integer` and `Int`
+
+## show
+```haskell
+number :: Integer 
+number = 100390 + 29389 
+
+main :: IO() 
+main = putStrLn (show number)
+
+-- that will generate an error
+-- main = putStrLn number
+```
+
+
+## print
+
+
+
+
+
+
+
 
 
 
