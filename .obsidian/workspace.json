@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "d0b4764c27db04c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.5 Type classes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "dcb298c832c44859",
             "type": "leaf",
             "state": {
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -142,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.4 Algebraic Data Types.md",
+                "file": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.5 Type classes.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -159,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.4 Algebraic Data Types.md",
+                "file": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.5 Type classes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.4 Algebraic Data Types.md"
+                "file": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.5 Type classes.md"
               }
             }
           },
@@ -222,8 +234,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "00f10831d43fd3f7",
+  "active": "d0b4764c27db04c7",
   "lastOpenFiles": [
+    "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.4 Algebraic Data Types.md",
     "HASKELL/Real World Haskell/1 Getting Started.md",
     "HASKELL/Real World Haskell/2 Types and Functions.md",
     "HASKELL/The Complete Haskell Course/9 Solved Problems - HOFs.md",
@@ -232,7 +245,6 @@
     "HASKELL/Happy Learn Haskell/6 Sockets and Plugs.md",
     "HASKELL/The Complete Haskell Course/8 Higher Order Functions.md",
     "HASKELL/The Complete Haskell Course/7 List Problems.md",
-    "HASKELL/Happy Learn Haskell/5 Function Magic.md",
-    "Studia/Przygotowanie pedagogiczne/Wybrane zagadnienia z psychologii.md"
+    "HASKELL/Happy Learn Haskell/5 Function Magic.md"
   ]
 }
