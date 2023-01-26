@@ -29,6 +29,16 @@ When you plug `53` to `plus5` the type `Int->Int` changes to `Int` (`58 :: Int`)
 plus6' :: Int -> Int 
 plus6' number = (+) number 6
 
+sevenPlus :: Int -> Int 
+sevenPlus number = (7+) number 
 
+sevenPlus' :: Int -> Int 
+sevenPlus' = (7+) 
+
+plusSeven :: Int -> Int 
+plusSeven number = (+7) 
+
+number plusSeven' :: Int -> Int 
+plusSeven' = (+7)
 ```
 
