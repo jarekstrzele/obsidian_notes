@@ -1,6 +1,21 @@
-F
+# Framework ADO.net
+**ADO.NET** (ActiveX Data Objects for .NET) to interfejs programowania aplikacji (API) firmy Microsoft, który umożliwia aplikacjom:
+- połączenie z bazami danych
+- wykonywanie operacji na danych. 
+
+**ADO.NET** jest częścią platformy .NET Framework i jest dostępny dla różnych języków programowania, takich jak C# i Visual Basic.
+
+**ADO.NET** składa się z dwóch głównych części:
+- `Data Provider` - warstwa połączenia z bazą danych, która umożliwia aplikacji:
+	- wykonywanie zapytań
+	- aktyalizowanie danych
+- `DataSet`  to  warstwa pośrednicząca między aplikacją a bazą danych, która przechowuje dane w pamięci w postaci tabel i relacji, co pozwala na pracę z danymi niezależnie od źródła danych.
+
+**ADO.NET** umożliwia dostęp do różnych typów baz danych, takich jak Microsoft SQL Server, Oracle, MySQL, itp. pozwala na tworzenie aplikacji korzystających z baz danych relacyjnych oraz pozwala na pracę z danymi w trybie offline.
 
 
+
+---------------
 **Bazy danych**:
 - Oracle (elastyczna, nieprzyjazna)
 - Microsoft (nieelastyczna, przyjazna)
