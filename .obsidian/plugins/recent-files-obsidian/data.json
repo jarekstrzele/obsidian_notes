@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "1 Getting Started",
+      "path": "HASKELL/Real World Haskell/1 Getting Started.md"
+    },
+    {
+      "basename": "2 Types and Functions",
+      "path": "HASKELL/Real World Haskell/2 Types and Functions.md"
+    },
+    {
       "basename": "9 Solved Problems - HOFs",
       "path": "HASKELL/The Complete Haskell Course/9 Solved Problems - HOFs.md"
     },
@@ -73,10 +81,6 @@
       "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md"
     },
     {
-      "basename": "1 Getting Started",
-      "path": "HASKELL/Real World Haskell/1 Getting Started.md"
-    },
-    {
       "basename": "_ 0 Snap Haskell",
       "path": "HASKELL/web/snap/_ 0 Snap Haskell.md"
     },
@@ -131,10 +135,6 @@
     {
       "basename": "1.1 Whitespace, Layout and Scoping",
       "path": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.1 Whitespace, Layout and Scoping.md"
-    },
-    {
-      "basename": "2 Types and Functions",
-      "path": "HASKELL/Real World Haskell/2 Types and Functions.md"
     },
     {
       "basename": "1.4 Algebraic Data Types",

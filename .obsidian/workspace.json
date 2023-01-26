@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HASKELL/The Complete Haskell Course/9 Solved Problems - HOFs.md",
+                "file": "HASKELL/Real World Haskell/1 Getting Started.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/The Complete Haskell Course/9 Solved Problems - HOFs.md",
+                "file": "HASKELL/Real World Haskell/1 Getting Started.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/The Complete Haskell Course/9 Solved Problems - HOFs.md",
+                "file": "HASKELL/Real World Haskell/1 Getting Started.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/The Complete Haskell Course/9 Solved Problems - HOFs.md"
+                "file": "HASKELL/Real World Haskell/1 Getting Started.md"
               }
             }
           },
@@ -224,15 +224,15 @@
   },
   "active": "00f10831d43fd3f7",
   "lastOpenFiles": [
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced widgets.md",
+    "HASKELL/Real World Haskell/2 Types and Functions.md",
+    "HASKELL/Real World Haskell/1 Getting Started.md",
     "HASKELL/The Complete Haskell Course/9 Solved Problems - HOFs.md",
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced widgets.md",
     "HASKELL/Happy Learn Haskell/7 Outputs.md",
     "HASKELL/Happy Learn Haskell/6 Sockets and Plugs.md",
     "HASKELL/The Complete Haskell Course/8 Higher Order Functions.md",
     "HASKELL/The Complete Haskell Course/7 List Problems.md",
     "HASKELL/Happy Learn Haskell/5 Function Magic.md",
-    "Studia/Przygotowanie pedagogiczne/Wybrane zagadnienia z psychologii.md",
-    "Studia/Python BackEnd/SQL Server.md",
-    "HASKELL/Happy Learn Haskell/8 Make Decisions.md"
+    "Studia/Przygotowanie pedagogiczne/Wybrane zagadnienia z psychologii.md"
   ]
 }
