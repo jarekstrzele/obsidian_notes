@@ -56,13 +56,28 @@ prodEvens = prod1 . filter even  -- equvalate prodEvens l = prod1 (filter even 
 ```haskell
 ghci> iterate (*2) 1       
 [1,2,4,8,16,32,64,128,256,512,1024,2048,4 ....
+
+ghci> take 10 $ iterate (*2) 1
+[1,2,4,8,16,32,64,128,256,512]
+ghci>
+```
+In Haskell, the `iterate` function is a built-in function that takes:
+- a function and
+- an initial value as arguments, 
+- and returns an infinite list of repeated applications of the function to the initial value.
+
+```haskell
+powersOf2 :: [Int]
+powersOf2 = iterate (*2) 1
+
+ghci> take 10 powersOf2
+[1,2,4,8,16,32,64,128,256,512]
+ghci>
 ```
 
 
-
-
-
-
+---------
+## scalar product
 
 
 
