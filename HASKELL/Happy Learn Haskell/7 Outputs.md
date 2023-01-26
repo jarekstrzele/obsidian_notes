@@ -79,6 +79,19 @@ main = putStrLn (show number)
 
 ## print
 
+```haskell
+Prelude> :t print
+print :: Show a => a -> IO ()
+```
+
+```haskell
+
+number :: Integer 
+number = 100390 + 29389 
+
+main :: IO () 
+main = print number
+```
 
 
 

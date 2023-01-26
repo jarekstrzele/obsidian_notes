@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "dcb298c832c44859",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HASKELL/Happy Learn Haskell/8 Make Decisions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a29e380448282899",
             "type": "leaf",
             "state": {
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -142,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/Happy Learn Haskell/7 Outputs.md",
+                "file": "HASKELL/Happy Learn Haskell/8 Make Decisions.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -159,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/Happy Learn Haskell/7 Outputs.md",
+                "file": "HASKELL/Happy Learn Haskell/8 Make Decisions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/Happy Learn Haskell/7 Outputs.md"
+                "file": "HASKELL/Happy Learn Haskell/8 Make Decisions.md"
               }
             }
           },
@@ -222,8 +234,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d3170213a4369f53",
+  "active": "dcb298c832c44859",
   "lastOpenFiles": [
+    "HASKELL/Happy Learn Haskell/7 Outputs.md",
     "HASKELL/Happy Learn Haskell/6 Sockets and Plugs.md",
     "HASKELL/Happy Learn Haskell/5 Function Magic.md",
     "HASKELL/Happy Learn Haskell/4 the Main Road.md",
@@ -232,7 +245,6 @@
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced widgets.md",
     "Studia/Python BackEnd/SQL Server.md",
     "Studia/Python BackEnd/MySql data base.md",
-    "Studia/Python BackEnd/linux.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md"
+    "Studia/Python BackEnd/linux.md"
   ]
 }
