@@ -7,7 +7,7 @@ dziedziny psychologii:
 - psychologia psychometryczna
 
 osobowść (wielka piątka):
-- neurotyczność 
+- neurotyczność  
 
 
 
