@@ -138,20 +138,36 @@ add = (+) -- add is simplu a synonym or binding for the plus operator
 # Data Structure
 
 ## synonym - for more readability
-`type String = [Char]`
 ```haskell
-ty
-rocessString :: 
+type String = [Char]
+type Count = Int
+processString :: String -> Count
+
 ```
 
 
 
+# data type
+### data types referring to addition
+```haskell
+data Compass = North | East | South | West
+
+instance Show Compass where
+  show North = "North"
+  show East = "East"
+  show South = "South"
+  show West = "West"
+                     
+```
+
+```haskell
+data Compass = North | East | South | West
+  deriving (Eq, Ord, Enum, Show)
+                     
+```
 
 
-
-
-
-
+### d
 
 
 
