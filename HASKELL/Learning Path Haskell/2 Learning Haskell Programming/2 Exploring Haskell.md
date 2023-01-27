@@ -97,7 +97,15 @@ or
 # Functions
 #haskell/function 
 
+```haskell
+add a b = a + b
+--- Int -> (Int -> Int)
+-- 1 -> (2 -> 3)
+-- 
 
+-- length "str" -> 3
+
+```
 
 
 
