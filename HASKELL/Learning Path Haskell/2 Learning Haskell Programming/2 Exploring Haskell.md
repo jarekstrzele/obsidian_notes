@@ -69,6 +69,41 @@ Hello World!
 ```
 
 
+```haskell
+main :: IO()
+main = putStrLn $ greet  "World!"
+
+greeting = "Hello"
+greet who = greeting  ++ ", " ++ who
+
+----
+ghci> main
+Hello, World!
+ghci> greet "Me"
+"Hello, Me"
+ghci> greeting
+"Hello"
+
+```
+
+In GHCI `:set editor vim` -> `:edit`
+
+in the terminal:
+`stack ghc fileName.hs`-> after compilation `./fileName`
+or
+`stack ghc -- -dynamic fileName`
+
+-----------
+# Functions
+#haskell/function 
+
+
+
+
+
+
+
+
 
 
 
