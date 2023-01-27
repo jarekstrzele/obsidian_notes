@@ -101,11 +101,59 @@ or
 add a b = a + b
 --- Int -> (Int -> Int)
 -- 1 -> (2 -> 3)
--- 
-
+ghci>:t add 1
+add 1 :: Int -> Int
+> add1 = add 1
+> add1 2
+3
 -- length "str" -> 3
 
 ```
+
+If you have two functions with parameters on the right you can simply get rid of them and instead use what's called a **partially applied function**.
+```haskell
+add a b = a + b
+add 1 2 
+3
+
+add1 = add 1
+add1 2
+3
+
+add1 b = add 1 b
+add1 2
+3
+
+add a b = (+) a b
+add a = (+) a
+add = (+) -- add is simplu a synonym or binding for the plus operator
+
+
+
+
+```
+
+
+----
+# Data Structure
+
+## synonym - for more readability
+`type String = [Char]`
+```haskell
+ty
+rocessString :: 
+```
+
+
+
+
+
+
+
+
+
+
+
 
 
 
