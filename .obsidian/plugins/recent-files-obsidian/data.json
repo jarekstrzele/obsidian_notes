@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "1 Fundamentals",
+      "path": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1 Fundamentals.md"
+    },
+    {
+      "basename": "1.6 Pattern Matching",
+      "path": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.6 Pattern Matching.md"
+    },
+    {
       "basename": "1.5 Type classes",
       "path": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.5 Type classes.md"
     },
@@ -101,10 +109,6 @@
       "path": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.2. Values and Expressions.md"
     },
     {
-      "basename": "1 Fundamentals",
-      "path": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1 Fundamentals.md"
-    },
-    {
       "basename": "_ 0 Learing Path Haskell",
       "path": "HASKELL/Learning Path Haskell/_ 0 Learing Path Haskell.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "LEFT JOIN SQLIte",
       "path": "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/LEFT JOIN SQLIte.md"
-    },
-    {
-      "basename": "3 mini game",
-      "path": "REACT NATIVE/React Native Practical Guide/3 mini game.md"
     }
   ],
   "omittedPaths": [],

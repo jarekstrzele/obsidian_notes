@@ -3,8 +3,10 @@
 [[1.2. Values and Expressions]]
 [[1.3 Types and Type Signatures]]
 [[1.4 Algebraic Data Types]]
+[[1.5 Type classes]]
+[[1.6 Pattern Matching]]
 
-
+----
 [[2 Exploring Haskell]]
 [[3 Mastering Haskell Programming]]
 
