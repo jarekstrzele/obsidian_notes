@@ -167,12 +167,33 @@ data Compass = North | East | South | West
 ```
 
 
-### d
+### data types referring to product
+the constructors take additional parameters
+like `Maybe` type
+
+```haskell
+
+data Expression = Number Int
+   | Add Expression Expression
+   | Subtract Expression Expression
+   deriving (Eq, Ord, Show)
 
 
 
+ghci> Number 1
+Number 1
+ghci> Number 11
+Number 11
+ghci> Add (Number 1) (Number 2)
+Add (Number 1) (Number 2)
+ghci> Add (Number 1) (Subtract (Number 2) (Number 20))
+Add (Number 1) (Subtract (Number 2) (Number 20))
+ghci> 
 
+```
 
+--------
+# Pattern Matching
 
 
 
