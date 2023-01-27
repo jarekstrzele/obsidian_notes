@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2 Exploring Haskell",
+      "path": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2 Exploring Haskell.md"
+    },
+    {
       "basename": "1.6 Pattern Matching",
       "path": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.6 Pattern Matching.md"
     },
@@ -147,10 +151,6 @@
     {
       "basename": "1.1 Whitespace, Layout and Scoping",
       "path": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.1 Whitespace, Layout and Scoping.md"
-    },
-    {
-      "basename": "2 Exploring Haskell",
-      "path": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2 Exploring Haskell.md"
     },
     {
       "basename": "5 Simple QWidgets",
