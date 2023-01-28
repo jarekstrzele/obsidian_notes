@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "2 Types and Functions",
+      "path": "HASKELL/Real World Haskell/2 Types and Functions.md"
+    },
+    {
+      "basename": "1 Getting Started",
+      "path": "HASKELL/Real World Haskell/1 Getting Started.md"
+    },
+    {
+      "basename": "1.4 Algebraic Data Types",
+      "path": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.4 Algebraic Data Types.md"
+    },
+    {
       "basename": "2 Exploring Haskell",
       "path": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2 Exploring Haskell.md"
     },
@@ -15,18 +27,6 @@
     {
       "basename": "1 Fundamentals",
       "path": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1 Fundamentals.md"
-    },
-    {
-      "basename": "1.4 Algebraic Data Types",
-      "path": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.4 Algebraic Data Types.md"
-    },
-    {
-      "basename": "1 Getting Started",
-      "path": "HASKELL/Real World Haskell/1 Getting Started.md"
-    },
-    {
-      "basename": "2 Types and Functions",
-      "path": "HASKELL/Real World Haskell/2 Types and Functions.md"
     },
     {
       "basename": "9 Solved Problems - HOFs",
