@@ -28,7 +28,12 @@ The compiler knows the type of every value and expression at compile time, befor
 Finally, a Haskell compiler can automatically deduce the types of almost all expressions in a program. This process is known as _type inference_. Haskell allows us to explicitly declare the type of any value, but the presence of type inference means that this is almost always optional, not something we are required to do.
 
 
-# Some common basic types
+list, tuple**  
+**Haskell tuples aren't immutable lists**
+
+
+
+
 
 
 
