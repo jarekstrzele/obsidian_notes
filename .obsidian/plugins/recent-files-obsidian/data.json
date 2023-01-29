@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/Untitled.md"
+    },
+    {
       "basename": "2.2 Stack Project",
       "path": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2.2 Stack Project.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Create i DROP table SQLIte",
       "path": "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Create i DROP table SQLIte.md"
-    },
-    {
-      "basename": "_ DML SQLite",
-      "path": "Data Bases/SQL/SQL Bootcamp SQLite/3 - DML/_ DML SQLite.md"
     }
   ],
   "omittedPaths": [],
