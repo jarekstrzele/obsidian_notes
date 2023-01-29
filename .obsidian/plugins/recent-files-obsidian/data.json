@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2 Exploring Haskell",
+      "path": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2 Exploring Haskell.md"
+    },
+    {
+      "basename": "7 Advanced widgets",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced widgets.md"
+    },
+    {
       "basename": "2 Types and Functions",
       "path": "HASKELL/Real World Haskell/2 Types and Functions.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "1.4 Algebraic Data Types",
       "path": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.4 Algebraic Data Types.md"
-    },
-    {
-      "basename": "2 Exploring Haskell",
-      "path": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2 Exploring Haskell.md"
     },
     {
       "basename": "1.6 Pattern Matching",
@@ -31,10 +35,6 @@
     {
       "basename": "9 Solved Problems - HOFs",
       "path": "HASKELL/The Complete Haskell Course/9 Solved Problems - HOFs.md"
-    },
-    {
-      "basename": "7 Advanced widgets",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced widgets.md"
     },
     {
       "basename": "7 Outputs",

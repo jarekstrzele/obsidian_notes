@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/Real World Haskell/2 Types and Functions.md",
+                "file": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2 Exploring Haskell.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/Real World Haskell/2 Types and Functions.md",
+                "file": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2 Exploring Haskell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/Real World Haskell/2 Types and Functions.md"
+                "file": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2 Exploring Haskell.md"
               }
             }
           },
@@ -246,17 +246,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "00f10831d43fd3f7",
+  "active": "d0b4764c27db04c7",
   "lastOpenFiles": [
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced widgets.md",
+    "HASKELL/Real World Haskell/2 Types and Functions.md",
     "HASKELL/Real World Haskell/1 Getting Started.md",
     "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.4 Algebraic Data Types.md",
     "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2 Exploring Haskell.md",
     "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.6 Pattern Matching.md",
     "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.5 Type classes.md",
     "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1 Fundamentals.md",
-    "HASKELL/Real World Haskell/2 Types and Functions.md",
     "HASKELL/The Complete Haskell Course/9 Solved Problems - HOFs.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced widgets.md",
     "HASKELL/Happy Learn Haskell/7 Outputs.md"
   ]
 }
