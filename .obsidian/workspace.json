@@ -37,7 +37,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2 Exploring Haskell.md",
+                "file": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2.1 Exploring Haskell.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "de00a8f08525fac5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2.2 Stack Project.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -166,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2 Exploring Haskell.md",
+                "file": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2.2 Stack Project.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -183,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2 Exploring Haskell.md",
+                "file": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2.2 Stack Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2 Exploring Haskell.md"
+                "file": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2.2 Stack Project.md"
               }
             }
           },
@@ -246,13 +258,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d0b4764c27db04c7",
+  "active": "de00a8f08525fac5",
   "lastOpenFiles": [
+    "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2.1 Exploring Haskell.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced widgets.md",
     "HASKELL/Real World Haskell/2 Types and Functions.md",
     "HASKELL/Real World Haskell/1 Getting Started.md",
     "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.4 Algebraic Data Types.md",
-    "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2 Exploring Haskell.md",
     "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.6 Pattern Matching.md",
     "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.5 Type classes.md",
     "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1 Fundamentals.md",

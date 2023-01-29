@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "2 Exploring Haskell",
-      "path": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2 Exploring Haskell.md"
+      "basename": "2.2 Stack Project",
+      "path": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2.2 Stack Project.md"
+    },
+    {
+      "basename": "2.1 Exploring Haskell",
+      "path": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2.1 Exploring Haskell.md"
     },
     {
       "basename": "7 Advanced widgets",
@@ -195,10 +199,6 @@
     {
       "basename": "_ DML SQLite",
       "path": "Data Bases/SQL/SQL Bootcamp SQLite/3 - DML/_ DML SQLite.md"
-    },
-    {
-      "basename": "LEFT JOIN SQLIte",
-      "path": "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/LEFT JOIN SQLIte.md"
     }
   ],
   "omittedPaths": [],

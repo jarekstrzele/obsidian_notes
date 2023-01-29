@@ -1,6 +1,6 @@
 #udemy #haskell  #cook_richard
 [[1 Fundamentals]]
-[[2 Exploring Haskell]]
+[[2.1 Exploring Haskell]]
 [[3 Mastering Haskell Programming]]
 
 ----
