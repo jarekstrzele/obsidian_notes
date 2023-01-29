@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "3a89f4619f42860c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2.2.1 Grid of Words Game.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "39766fc87436718e",
             "type": "leaf",
             "state": {
@@ -104,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -178,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2.2 Stack Project.md",
+                "file": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2.2.1 Grid of Words Game.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -195,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2.2 Stack Project.md",
+                "file": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2.2.1 Grid of Words Game.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2.2 Stack Project.md"
+                "file": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2.2.1 Grid of Words Game.md"
               }
             }
           },
@@ -258,8 +270,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f621f21825dbd82d",
+  "active": "3a89f4619f42860c",
   "lastOpenFiles": [
+    "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2.2 Stack Project.md",
     "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2.1 Exploring Haskell.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced widgets.md",
     "HASKELL/Real World Haskell/2 Types and Functions.md",
@@ -268,7 +281,6 @@
     "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.6 Pattern Matching.md",
     "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.5 Type classes.md",
     "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1 Fundamentals.md",
-    "HASKELL/The Complete Haskell Course/9 Solved Problems - HOFs.md",
-    "HASKELL/Happy Learn Haskell/7 Outputs.md"
+    "HASKELL/The Complete Haskell Course/9 Solved Problems - HOFs.md"
   ]
 }
