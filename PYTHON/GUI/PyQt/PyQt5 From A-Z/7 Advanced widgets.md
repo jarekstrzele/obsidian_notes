@@ -1,20 +1,7 @@
 [[_ 0 PyQt5 From A-Z]]
 
 [[7.1 QTabwidget]]
-
-
-# 
-
-
-
-
-
-
-
-
-
-
-
+[[7.2 QListWidget]]
 
 
 --------

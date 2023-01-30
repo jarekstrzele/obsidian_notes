@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/Untitled.md",
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.2 QListWidget.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/Untitled.md",
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.2 QListWidget.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/Untitled.md",
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.2 QListWidget.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/Untitled.md"
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.2 QListWidget.md"
               }
             }
           },
@@ -201,6 +201,7 @@
   "active": "b52734076c9a2270",
   "lastOpenFiles": [
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced widgets.md",
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.2 QListWidget.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.1 QTabwidget.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md",
     "N_O_D_E/NODE - the complete guide/3 Node Basics.md",
@@ -208,7 +209,6 @@
     "N_O_D_E/Mosh Node/1 Node Module System.md",
     "N_O_D_E/Mosh Node/_ 0 Node (Mosh).md",
     "N_O_D_E/Lear Node.js and Javascript/git.md",
-    "N_O_D_E/Lear Node.js and Javascript/docker mysql node phpmyadmin.md",
-    "N_O_D_E/Lear Node.js and Javascript/- 5 Stock Market App with Node and JavaScript.md"
+    "N_O_D_E/Lear Node.js and Javascript/docker mysql node phpmyadmin.md"
   ]
 }
