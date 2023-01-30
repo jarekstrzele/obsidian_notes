@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "_ 0 Haskell for Imperative Programmers",
+      "path": "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md"
+    },
+    {
+      "basename": "8 Make Decisions",
+      "path": "HASKELL/Happy Learn Haskell/8 Make Decisions.md"
+    },
+    {
+      "basename": "7 Outputs",
+      "path": "HASKELL/Happy Learn Haskell/7 Outputs.md"
+    },
+    {
+      "basename": "permutacje",
+      "path": "maths/khan academy/prawdopodobieńśtwo/permutacje.md"
+    },
+    {
+      "basename": "_Intro pradwdopodobieństwo",
+      "path": "maths/khan academy/prawdopodobieńśtwo/_Intro pradwdopodobieństwo.md"
+    },
+    {
+      "basename": "_ Statistics",
+      "path": "maths/statistics/_ Statistics.md"
+    },
+    {
       "basename": "7 DataClasses",
       "path": "PYTHON/OOP Python udemy/7 DataClasses.md"
     },
@@ -85,10 +109,6 @@
       "path": "Studia/Python BackEnd/SQL Server.md"
     },
     {
-      "basename": "8 Make Decisions",
-      "path": "HASKELL/Happy Learn Haskell/8 Make Decisions.md"
-    },
-    {
       "basename": "1 Fundamentals",
       "path": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1 Fundamentals.md"
     },
@@ -131,10 +151,6 @@
     {
       "basename": "9 Solved Problems - HOFs",
       "path": "HASKELL/The Complete Haskell Course/9 Solved Problems - HOFs.md"
-    },
-    {
-      "basename": "7 Outputs",
-      "path": "HASKELL/Happy Learn Haskell/7 Outputs.md"
     },
     {
       "basename": "6 Sockets and Plugs",
@@ -183,22 +199,6 @@
     {
       "basename": "_ 0 Snap Haskell",
       "path": "HASKELL/web/snap/_ 0 Snap Haskell.md"
-    },
-    {
-      "basename": "1.3 Types and Type Signatures",
-      "path": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.3 Types and Type Signatures.md"
-    },
-    {
-      "basename": "1.2. Values and Expressions",
-      "path": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.2. Values and Expressions.md"
-    },
-    {
-      "basename": "_ 0 Learing Path Haskell",
-      "path": "HASKELL/Learning Path Haskell/_ 0 Learing Path Haskell.md"
-    },
-    {
-      "basename": "6 Lists and Text",
-      "path": "HASKELL/The Complete Haskell Course/6 Lists and Text.md"
     }
   ],
   "omittedPaths": [],

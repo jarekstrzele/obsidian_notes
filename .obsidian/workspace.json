@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PYTHON/OOP Python udemy/7 DataClasses.md",
+                "file": "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PYTHON/OOP Python udemy/7 DataClasses.md",
+                "file": "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PYTHON/OOP Python udemy/7 DataClasses.md",
+                "file": "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PYTHON/OOP Python udemy/7 DataClasses.md"
+                "file": "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md"
               }
             }
           },
@@ -212,15 +212,15 @@
   },
   "active": "f427a176a3edc97d",
   "lastOpenFiles": [
+    "HASKELL/Happy Learn Haskell/8 Make Decisions.md",
+    "HASKELL/Happy Learn Haskell/7 Outputs.md",
+    "maths/khan academy/prawdopodobieńśtwo/permutacje.md",
+    "maths/khan academy/prawdopodobieńśtwo/_Intro pradwdopodobieństwo.md",
+    "maths/statistics/_ Statistics.md",
+    "PYTHON/OOP Python udemy/7 DataClasses.md",
     "PYTHON/Learn Python (Basic, BUI, Web, FullStack)/1 Python Database.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.1 QTabWidget.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced widgets.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.3 QTreeWidgets.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.2 QListWidget.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md",
-    "N_O_D_E/NODE - the complete guide/3 Node Basics.md",
-    "N_O_D_E/Mosh Node/2 Node Package Manager.md",
-    "N_O_D_E/Mosh Node/1 Node Module System.md",
-    "N_O_D_E/Mosh Node/_ 0 Node (Mosh).md"
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.3 QTreeWidgets.md"
   ]
 }
