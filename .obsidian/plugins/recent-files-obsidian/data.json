@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/Untitled.md"
+    },
+    {
       "basename": "7 Advanced widgets",
       "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced widgets.md"
+    },
+    {
+      "basename": "7.1 QTabwidget",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.1 QTabwidget.md"
     },
     {
       "basename": "6 Using Qt Layouts to simplify your designs",
@@ -191,14 +199,6 @@
     {
       "basename": "4 Solved Probelms - Functions",
       "path": "HASKELL/The Complete Haskell Course/4 Solved Probelms - Functions.md"
-    },
-    {
-      "basename": "3 Functions",
-      "path": "HASKELL/The Complete Haskell Course/3 Functions.md"
-    },
-    {
-      "basename": "2 Basic Types",
-      "path": "HASKELL/The Complete Haskell Course/2 Basic Types.md"
     }
   ],
   "omittedPaths": [],
