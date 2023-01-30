@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "_0 Node Complete Guide",
+      "path": "N_O_D_E/NODE - the complete guide/_0 Node Complete Guide.md"
+    },
+    {
+      "basename": "Wybrane zagadnienia z psychologii",
+      "path": "Studia/Przygotowanie pedagogiczne/Wybrane zagadnienia z psychologii.md"
+    },
+    {
+      "basename": "SQL Server",
+      "path": "Studia/Python BackEnd/SQL Server.md"
+    },
+    {
+      "basename": "8 Make Decisions",
+      "path": "HASKELL/Happy Learn Haskell/8 Make Decisions.md"
+    },
+    {
+      "basename": "1 Fundamentals",
+      "path": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1 Fundamentals.md"
+    },
+    {
       "basename": "1 Python Database",
       "path": "PYTHON/Learn Python (Basic, BUI, Web, FullStack)/1 Python Database.md"
     },
@@ -45,10 +65,6 @@
       "path": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.5 Type classes.md"
     },
     {
-      "basename": "1 Fundamentals",
-      "path": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1 Fundamentals.md"
-    },
-    {
       "basename": "9 Solved Problems - HOFs",
       "path": "HASKELL/The Complete Haskell Course/9 Solved Problems - HOFs.md"
     },
@@ -71,18 +87,6 @@
     {
       "basename": "5 Function Magic",
       "path": "HASKELL/Happy Learn Haskell/5 Function Magic.md"
-    },
-    {
-      "basename": "Wybrane zagadnienia z psychologii",
-      "path": "Studia/Przygotowanie pedagogiczne/Wybrane zagadnienia z psychologii.md"
-    },
-    {
-      "basename": "SQL Server",
-      "path": "Studia/Python BackEnd/SQL Server.md"
-    },
-    {
-      "basename": "8 Make Decisions",
-      "path": "HASKELL/Happy Learn Haskell/8 Make Decisions.md"
     },
     {
       "basename": "4 the Main Road",
@@ -195,10 +199,6 @@
     {
       "basename": "2 Developing a Word Game",
       "path": "HASKELL/learning haskell programming/2 Developing a Word Game.md"
-    },
-    {
-      "basename": "Klucz obcy",
-      "path": "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Klucz obcy.md"
     }
   ],
   "omittedPaths": [],

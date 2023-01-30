@@ -4,143 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "759a76201ee52a94",
+        "id": "5ef66713567970a1",
         "type": "tabs",
         "children": [
           {
-            "id": "6274159d5250c693",
+            "id": "df74dc83b0138a7c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced widgets.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "00f10831d43fd3f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HASKELL/Real World Haskell/2 Types and Functions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d0b4764c27db04c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2.1 Exploring Haskell.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "de00a8f08525fac5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2.2 Stack Project.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3a89f4619f42860c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2.2.1 Grid of Words Game.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b12c58c4993d2ff1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PYTHON/Learn Python (Basic, BUI, Web, FullStack)/0 _ Learn Python From Zero to Hero (basic, Bui, Web, Full Stack).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ee2c8be2ac4e68f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PYTHON/Learn Python (Basic, BUI, Web, FullStack)/1 Python Database.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "39766fc87436718e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1 Fundamentals.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dcb298c832c44859",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HASKELL/Happy Learn Haskell/8 Make Decisions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a29e380448282899",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Studia/Python BackEnd/SQL Server.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9b995a1c7b7697ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Studia/Przygotowanie pedagogiczne/Wybrane zagadnienia z psychologii.md",
+                "file": "N_O_D_E/NODE - the complete guide/_0 Node Complete Guide.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PYTHON/Learn Python (Basic, BUI, Web, FullStack)/1 Python Database.md",
+                "file": "N_O_D_E/NODE - the complete guide/_0 Node Complete Guide.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -231,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PYTHON/Learn Python (Basic, BUI, Web, FullStack)/1 Python Database.md",
+                "file": "N_O_D_E/NODE - the complete guide/_0 Node Complete Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PYTHON/Learn Python (Basic, BUI, Web, FullStack)/1 Python Database.md"
+                "file": "N_O_D_E/NODE - the complete guide/_0 Node Complete Guide.md"
               }
             }
           },
@@ -294,17 +173,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ee2c8be2ac4e68f1",
+  "active": "df74dc83b0138a7c",
   "lastOpenFiles": [
-    "PYTHON/Learn Python (Basic, BUI, Web, FullStack)/0 _ Learn Python From Zero to Hero (basic, Bui, Web, Full Stack).md",
+    "Studia/Przygotowanie pedagogiczne/Wybrane zagadnienia z psychologii.md",
+    "Studia/Python BackEnd/SQL Server.md",
+    "HASKELL/Happy Learn Haskell/8 Make Decisions.md",
+    "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1 Fundamentals.md",
     "PYTHON/Learn Python (Basic, BUI, Web, FullStack)/1 Python Database.md",
+    "PYTHON/Learn Python (Basic, BUI, Web, FullStack)/0 _ Learn Python From Zero to Hero (basic, Bui, Web, Full Stack).md",
     "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2.2.1 Grid of Words Game.md",
     "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2.2 Stack Project.md",
     "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2.1 Exploring Haskell.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced widgets.md",
-    "HASKELL/Real World Haskell/2 Types and Functions.md",
-    "HASKELL/Real World Haskell/1 Getting Started.md",
-    "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.4 Algebraic Data Types.md",
-    "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.6 Pattern Matching.md"
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced widgets.md"
   ]
 }
