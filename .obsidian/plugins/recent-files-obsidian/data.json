@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "0 _ Lear Python From Zero to Hero (basic, Bui, Web, Full Stack)",
-      "path": "PYTHON/Learn Python (Basic, BUI, Web, FullStack)/0 _ Lear Python From Zero to Hero (basic, Bui, Web, Full Stack).md"
+      "basename": "1 Python Database",
+      "path": "PYTHON/Learn Python (Basic, BUI, Web, FullStack)/1 Python Database.md"
+    },
+    {
+      "basename": "0 _ Learn Python From Zero to Hero (basic, Bui, Web, Full Stack)",
+      "path": "PYTHON/Learn Python (Basic, BUI, Web, FullStack)/0 _ Learn Python From Zero to Hero (basic, Bui, Web, Full Stack).md"
     },
     {
       "basename": "2.2.1 Grid of Words Game",
@@ -195,10 +199,6 @@
     {
       "basename": "Klucz obcy",
       "path": "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Klucz obcy.md"
-    },
-    {
-      "basename": "Indeksy",
-      "path": "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Indeksy.md"
     }
   ],
   "omittedPaths": [],
