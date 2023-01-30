@@ -63,6 +63,23 @@ main = do
 ```
 
 ## Writing to a file
+```haskell
+import System.IO
+
+main :: IO()
+main = do
+    fileHandler <- openFile "newFile.txt" WriteMode
+    hPutStr fileHandler "Hello"
+    hPutStrLn fileHandler " world!!!"
+    hPutStrLn fileHandler "Polskie naki żźćęóń"
+    hPutStrLn fileHandler "end of the file"
+    hClose fileHandler
+    writeFile "newFile_2.txt" "abc"
+    appendFile "newFile_3.txt" "abc"
+```
+
+
+
 
 
 
