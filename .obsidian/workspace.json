@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "N_O_D_E/NODE - the complete guide/3 Node Basics.md",
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced widgets.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "N_O_D_E/NODE - the complete guide/3 Node Basics.md",
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced widgets.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "N_O_D_E/NODE - the complete guide/3 Node Basics.md",
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced widgets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "N_O_D_E/NODE - the complete guide/3 Node Basics.md"
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced widgets.md"
               }
             }
           },
@@ -175,6 +175,8 @@
   },
   "active": "df74dc83b0138a7c",
   "lastOpenFiles": [
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md",
+    "N_O_D_E/NODE - the complete guide/3 Node Basics.md",
     "N_O_D_E/Mosh Node/2 Node Package Manager.md",
     "N_O_D_E/Mosh Node/1 Node Module System.md",
     "N_O_D_E/Mosh Node/_ 0 Node (Mosh).md",
@@ -182,8 +184,6 @@
     "N_O_D_E/Lear Node.js and Javascript/docker mysql node phpmyadmin.md",
     "N_O_D_E/Lear Node.js and Javascript/- 5 Stock Market App with Node and JavaScript.md",
     "N_O_D_E/Lear Node.js and Javascript/- 4 MySQL with Node.js.md",
-    "N_O_D_E/Lear Node.js and Javascript/- 3 Node.md",
-    "N_O_D_E/Lear Node.js and Javascript/- 2 JavaScript.md",
-    "N_O_D_E/Lear Node.js and Javascript/_ Node and JavaScript.md"
+    "N_O_D_E/Lear Node.js and Javascript/- 3 Node.md"
   ]
 }

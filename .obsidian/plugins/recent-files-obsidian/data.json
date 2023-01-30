@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "7 Advanced widgets",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced widgets.md"
+    },
+    {
+      "basename": "6 Using Qt Layouts to simplify your designs",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md"
+    },
+    {
       "basename": "3 Node Basics",
       "path": "N_O_D_E/NODE - the complete guide/3 Node Basics.md"
     },
@@ -85,10 +93,6 @@
       "path": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2.1 Exploring Haskell.md"
     },
     {
-      "basename": "7 Advanced widgets",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced widgets.md"
-    },
-    {
       "basename": "2 Types and Functions",
       "path": "HASKELL/Real World Haskell/2 Types and Functions.md"
     },
@@ -151,10 +155,6 @@
     {
       "basename": "linux",
       "path": "Studia/Python BackEnd/linux.md"
-    },
-    {
-      "basename": "6 Using Qt Layouts to simplify your designs",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md"
     },
     {
       "basename": "9 QtDesigner",
