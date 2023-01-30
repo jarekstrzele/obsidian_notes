@@ -62,7 +62,7 @@ main = do
     hClose fileHandler
 ```
 
-
+## Writing to a file
 
 
 
