@@ -30,9 +30,50 @@ if __name__== '__main__':
 use SQLiteStudio to manage your db.
 
 ## create table
+```python
+import sqlite3 as lit  
+  
+  
+def main():  
+    try:  
+        db = lit.connect('employee.db')  
+        cur = db.cursor()  
+  
+        query = "CREATE TABLE users (id INT, name TEXT, email TEXT)"  
+        cur.execute(query)  
+        print("Table is created")  
+    except:  
+        print("Unable to create table")  
+  
+  
+if __name__ == '__main__':  
+    main()
+```
 
-
-
+## INSERT DATA
+```python
+import sqlite3 as lit  
+  
+  
+def main():  
+    mysuers = (  
+        (1, 'Tom', 'tom@gom.ollk'),  
+        (2, 'Jerry', 'jr@google.com'),  
+        (3, 'HAKU', 'haku@wp.pl')  
+    )  
+  
+    db = lit.connect('employee.db')  
+    with db:  
+        cur = db.cursor()  
+        cur.executemany("INSERT INTO users VALUES (?,?,?)", mysuers)  
+        print("Data inserted")  
+  
+  
+  
+  
+if __name__ == '__main__':  
+    main()
+```
 
 
 
