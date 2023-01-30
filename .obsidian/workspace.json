@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "N_O_D_E/NODE - the complete guide/_0 Node Complete Guide.md",
+                "file": "N_O_D_E/NODE - the complete guide/3 Node Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "N_O_D_E/NODE - the complete guide/_0 Node Complete Guide.md",
+                "file": "N_O_D_E/NODE - the complete guide/3 Node Basics.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "N_O_D_E/NODE - the complete guide/_0 Node Complete Guide.md",
+                "file": "N_O_D_E/NODE - the complete guide/3 Node Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "N_O_D_E/NODE - the complete guide/_0 Node Complete Guide.md"
+                "file": "N_O_D_E/NODE - the complete guide/3 Node Basics.md"
               }
             }
           },
@@ -175,15 +175,15 @@
   },
   "active": "df74dc83b0138a7c",
   "lastOpenFiles": [
-    "Studia/Przygotowanie pedagogiczne/Wybrane zagadnienia z psychologii.md",
-    "Studia/Python BackEnd/SQL Server.md",
-    "HASKELL/Happy Learn Haskell/8 Make Decisions.md",
-    "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1 Fundamentals.md",
-    "PYTHON/Learn Python (Basic, BUI, Web, FullStack)/1 Python Database.md",
-    "PYTHON/Learn Python (Basic, BUI, Web, FullStack)/0 _ Learn Python From Zero to Hero (basic, Bui, Web, Full Stack).md",
-    "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2.2.1 Grid of Words Game.md",
-    "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2.2 Stack Project.md",
-    "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2.1 Exploring Haskell.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced widgets.md"
+    "N_O_D_E/Mosh Node/2 Node Package Manager.md",
+    "N_O_D_E/Mosh Node/1 Node Module System.md",
+    "N_O_D_E/Mosh Node/_ 0 Node (Mosh).md",
+    "N_O_D_E/Lear Node.js and Javascript/git.md",
+    "N_O_D_E/Lear Node.js and Javascript/docker mysql node phpmyadmin.md",
+    "N_O_D_E/Lear Node.js and Javascript/- 5 Stock Market App with Node and JavaScript.md",
+    "N_O_D_E/Lear Node.js and Javascript/- 4 MySQL with Node.js.md",
+    "N_O_D_E/Lear Node.js and Javascript/- 3 Node.md",
+    "N_O_D_E/Lear Node.js and Javascript/- 2 JavaScript.md",
+    "N_O_D_E/Lear Node.js and Javascript/_ Node and JavaScript.md"
   ]
 }

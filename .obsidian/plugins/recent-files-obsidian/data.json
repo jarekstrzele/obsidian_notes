@@ -1,6 +1,50 @@
 {
   "recentFiles": [
     {
+      "basename": "3 Node Basics",
+      "path": "N_O_D_E/NODE - the complete guide/3 Node Basics.md"
+    },
+    {
+      "basename": "2 Node Package Manager",
+      "path": "N_O_D_E/Mosh Node/2 Node Package Manager.md"
+    },
+    {
+      "basename": "1 Node Module System",
+      "path": "N_O_D_E/Mosh Node/1 Node Module System.md"
+    },
+    {
+      "basename": "_ 0 Node (Mosh)",
+      "path": "N_O_D_E/Mosh Node/_ 0 Node (Mosh).md"
+    },
+    {
+      "basename": "git",
+      "path": "N_O_D_E/Lear Node.js and Javascript/git.md"
+    },
+    {
+      "basename": "docker mysql node phpmyadmin",
+      "path": "N_O_D_E/Lear Node.js and Javascript/docker mysql node phpmyadmin.md"
+    },
+    {
+      "basename": "- 5 Stock Market App with Node and JavaScript",
+      "path": "N_O_D_E/Lear Node.js and Javascript/- 5 Stock Market App with Node and JavaScript.md"
+    },
+    {
+      "basename": "- 4 MySQL with Node.js",
+      "path": "N_O_D_E/Lear Node.js and Javascript/- 4 MySQL with Node.js.md"
+    },
+    {
+      "basename": "- 3 Node",
+      "path": "N_O_D_E/Lear Node.js and Javascript/- 3 Node.md"
+    },
+    {
+      "basename": "- 2 JavaScript",
+      "path": "N_O_D_E/Lear Node.js and Javascript/- 2 JavaScript.md"
+    },
+    {
+      "basename": "_ Node and JavaScript",
+      "path": "N_O_D_E/Lear Node.js and Javascript/_ Node and JavaScript.md"
+    },
+    {
       "basename": "_0 Node Complete Guide",
       "path": "N_O_D_E/NODE - the complete guide/_0 Node Complete Guide.md"
     },
@@ -155,50 +199,6 @@
     {
       "basename": "2 Basic Types",
       "path": "HASKELL/The Complete Haskell Course/2 Basic Types.md"
-    },
-    {
-      "basename": "1 Basics",
-      "path": "HASKELL/The Complete Haskell Course/1 Basics.md"
-    },
-    {
-      "basename": "_ 0 Complete Haskell Course",
-      "path": "HASKELL/The Complete Haskell Course/_ 0 Complete Haskell Course.md"
-    },
-    {
-      "basename": "3 Mastering Haskell Programming",
-      "path": "HASKELL/Learning Path Haskell/3 Mastering Haskell Programming/3 Mastering Haskell Programming.md"
-    },
-    {
-      "basename": "1.1 Whitespace, Layout and Scoping",
-      "path": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.1 Whitespace, Layout and Scoping.md"
-    },
-    {
-      "basename": "5 Simple QWidgets",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md"
-    },
-    {
-      "basename": "7 DataClasses",
-      "path": "PYTHON/OOP Python udemy/7 DataClasses.md"
-    },
-    {
-      "basename": "9 Enum",
-      "path": "PYTHON/OOP Python udemy/9 Enum.md"
-    },
-    {
-      "basename": "8 Descriptors",
-      "path": "PYTHON/OOP Python udemy/8 Descriptors.md"
-    },
-    {
-      "basename": "6 Slots",
-      "path": "PYTHON/OOP Python udemy/6 Slots.md"
-    },
-    {
-      "basename": "8 Qt Style Sheets",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/8 Qt Style Sheets.md"
-    },
-    {
-      "basename": "2 Developing a Word Game",
-      "path": "HASKELL/learning haskell programming/2 Developing a Word Game.md"
     }
   ],
   "omittedPaths": [],
