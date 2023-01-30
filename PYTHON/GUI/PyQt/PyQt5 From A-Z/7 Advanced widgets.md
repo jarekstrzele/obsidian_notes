@@ -1,36 +1,11 @@
 [[_ 0 PyQt5 From A-Z]]
 
-[[7.1 QTabwidget]]
+[[7.1 QTabWidget]]
 [[7.2 QListWidget]]
-
-
---------
-# QTreeWidgets
-
-
-
-
-
-
-
-
-
-
-
-
-
+[[7.3 QTreeWidgets]]
 
 --------
 # QPlainTextEdit
-
-
-
-
-
-
-
-
-
 
 
 
@@ -40,23 +15,8 @@
 
 
 
-
-
-
-
-
-
-
-
-
 ----------
 # QTextBrowser
-
-
-
-
-
-
 
 ----
 # QWeb

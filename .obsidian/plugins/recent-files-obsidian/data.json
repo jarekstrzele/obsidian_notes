@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "7.2 QListWidget",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.2 QListWidget.md"
+      "basename": "7 DataClasses",
+      "path": "PYTHON/OOP Python udemy/7 DataClasses.md"
+    },
+    {
+      "basename": "1 Python Database",
+      "path": "PYTHON/Learn Python (Basic, BUI, Web, FullStack)/1 Python Database.md"
+    },
+    {
+      "basename": "7.1 QTabWidget",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.1 QTabWidget.md"
     },
     {
       "basename": "7 Advanced widgets",
       "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced widgets.md"
     },
     {
-      "basename": "7.1 QTabwidget",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.1 QTabwidget.md"
+      "basename": "7.3 QTreeWidgets",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.3 QTreeWidgets.md"
+    },
+    {
+      "basename": "7.2 QListWidget",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.2 QListWidget.md"
     },
     {
       "basename": "6 Using Qt Layouts to simplify your designs",
@@ -79,10 +91,6 @@
     {
       "basename": "1 Fundamentals",
       "path": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1 Fundamentals.md"
-    },
-    {
-      "basename": "1 Python Database",
-      "path": "PYTHON/Learn Python (Basic, BUI, Web, FullStack)/1 Python Database.md"
     },
     {
       "basename": "0 _ Learn Python From Zero to Hero (basic, Bui, Web, Full Stack)",
@@ -191,14 +199,6 @@
     {
       "basename": "6 Lists and Text",
       "path": "HASKELL/The Complete Haskell Course/6 Lists and Text.md"
-    },
-    {
-      "basename": "5 Tuple",
-      "path": "HASKELL/The Complete Haskell Course/5 Tuple.md"
-    },
-    {
-      "basename": "4 Solved Probelms - Functions",
-      "path": "HASKELL/The Complete Haskell Course/4 Solved Probelms - Functions.md"
     }
   ],
   "omittedPaths": [],
