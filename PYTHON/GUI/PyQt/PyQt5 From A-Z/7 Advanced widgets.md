@@ -1,7 +1,13 @@
 [[_ 0 PyQt5 From A-Z]]
 
 # QTabWidget
-**it allows to select between certain groups of related widgets
+
+>[!info] QTabWidget
+> - it allows to select between certain groups of related widgets
+>- QTabWidget jest kontenerem, który pozwala na organizowanie różnych widżetów w kartach. Użytkownik może nawigować pomiędzy kartami, aby uzyskać dostęp do różnych funkcji aplikacji.
+
+
+
 `QTabWidget(parent)`
 methods:
 - `addTab(QWidget, label) addTabb(QWidget, QIcon, label)`
