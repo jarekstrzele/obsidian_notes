@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "0 _ Lear Python From Zero to Hero (basic, Bui, Web, Full Stack)",
+      "path": "PYTHON/Learn Python (Basic, BUI, Web, FullStack)/0 _ Lear Python From Zero to Hero (basic, Bui, Web, Full Stack).md"
+    },
+    {
       "basename": "2.2.1 Grid of Words Game",
       "path": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2.2.1 Grid of Words Game.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Indeksy",
       "path": "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Indeksy.md"
-    },
-    {
-      "basename": "Create i DROP table SQLIte",
-      "path": "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Create i DROP table SQLIte.md"
     }
   ],
   "omittedPaths": [],
