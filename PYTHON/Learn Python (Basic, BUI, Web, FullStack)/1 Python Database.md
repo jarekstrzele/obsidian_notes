@@ -99,9 +99,40 @@ if __name__=='__main__':
 ```
 
 ## select all data
+```python
+import sqlite3 as lit  
+  
+def main():  
+    db = lit.connect('employee.db')  
+  
+    with db:  
+        cur = db.cursor()  
+        query = "SELECT * FROM users"  
+        cur.execute(query)  
+  
+        rows = cur.fetchall()  
+  
+        for data in rows:  
+            print(data)  
+  
+if __name__ == "__main__":  
+    main()
+```
 
-
-
+## delete data
+IMPORTANT: TUPLE!!! in `execute` function
+```python
+import sqlite3  
+  
+db = sqlite3.connect('employee.db')  
+  
+with db:  
+    user_id = 1  
+    cur = db.cursor()  
+    cur.execute("DELETE FROM users WHERE id = ?", (user_id,))  
+    db.commit()  
+    print("data deleted")
+```
 
 
 
