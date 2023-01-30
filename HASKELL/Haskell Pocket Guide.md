@@ -33,6 +33,36 @@ main = do
 
 ## Reading a file
 
+read two first lines from the file:
+```haskell
+import System.IO
+
+main :: IO()
+main = do
+    fileHandler <- openFile "myFile.txt" ReadMode
+    size <- hFileSize fileHandler
+    print size
+    oneLine <- hGetLine fileHandler
+    putStrLn oneLine
+    oneLine <- hGetLine fileHandler
+    putStrLn oneLine
+    hClose fileHandler
+```
+
+read all line from the file
+```haskell
+import System.IO
+
+main :: IO()
+main = do
+    fileHandler <- openFile "myFile.txt" ReadMode
+    -- oneLine <- hGetLine fileHandler
+    contents <- hGetContents fileHandler
+    putStrLn contents
+    hClose fileHandler
+```
+
+
 
 
 
