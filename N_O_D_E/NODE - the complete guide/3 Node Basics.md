@@ -92,8 +92,8 @@ It is the object that nodejs generetes for us with all the data of the incoming 
 some important attributes
 ```js
     console.log(req.url, 
-						    req.method,
-						    req.headers) ;
+			    req.method,
+			    req.headers) ;
 
 ```
 
@@ -162,7 +162,9 @@ server.listen(3000) ;
 the request is simply read by Node in **chunks**
 	stream ---Request part 1---Request part 2-- ... --> Fully Parsed
 
-**buffer** is a construct which allows you to hold multiple chunks and work with them before they are released.
+
+>**buffer** is a construct which allows you to hold multiple chunks and work with them before they are released.
+
 
 `req.on('<event>', <functionThatWillBeExecuted>)` it turns on some listener e.g. `req.on('data', (chunk) => { ... })` (data event will be firefd whenever a new chunk is ready to be read)
 
@@ -177,67 +179,40 @@ const server = http.createServer((req,res) => {
     const method = req.method ;
 
     if (url==='/'){
-
         res.setHeader('Content-Type', 'text/html') ;
-
         res.write('<html>') ;
-
         res.write('<head> <title> First page </title></head>') ;
-
         res.write('<body><form action="/message" method="POST"><input type="text" name="msg"><button type="submit">Send</button> </form></body>') ;
-
         res.write('</html>') ;
-
     return res.end();
-
     }
 
     if(url==='/message' && method === 'POST'){
-
         const body=[] ;
-
         req.on('data', (chunk)=>{
-
             console.log(chunk);
-
             body.push(chunk);
-
         });
 
         req.on('end', () => {
-
             const parsedBody = Buffer.concat(body).toString();
-
             console.log(parsedBody);
-
             message  = parsedBody.split('=')[1] //parsedBody is 'msg=Hello%21'
-
             fs.writeFileSync('./message.txt', message);
-
             res.statusCode=302
-
             res.setHeader('Location', '/');
-
             return res.end()
-
         });
 
     }
 
     res.setHeader('Content-Type', 'text/html') ;
-
     res.write('<html>') ;
-
     res.write('<head> <title> First page </title></head>') ;
-
     res.write('<body><h1>Hello fro my Node.js Server</h1> </body>') ;
-
     res.write('</html>') ;
-
     res.end();
-
 })
-
   
 
 server.listen(3000) ;
@@ -253,10 +228,6 @@ in `message will be write what you write in the input`
 
 ### Event driven Code execution
 `req.on(...)` it will be registred, and will be executed when the event will hapend
-
-
-
-
 
 
 
