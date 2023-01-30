@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d32a5c91010e502a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HASKELL/Haskell Pocket Guide.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md",
+                "file": "HASKELL/Haskell Pocket Guide.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -147,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md",
+                "file": "HASKELL/Haskell Pocket Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md"
+                "file": "HASKELL/Haskell Pocket Guide.md"
               }
             }
           },
@@ -210,8 +222,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f427a176a3edc97d",
+  "active": "d32a5c91010e502a",
   "lastOpenFiles": [
+    "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md",
     "HASKELL/Happy Learn Haskell/8 Make Decisions.md",
     "HASKELL/Happy Learn Haskell/7 Outputs.md",
     "maths/khan academy/prawdopodobieńśtwo/permutacje.md",
@@ -220,7 +233,6 @@
     "PYTHON/OOP Python udemy/7 DataClasses.md",
     "PYTHON/Learn Python (Basic, BUI, Web, FullStack)/1 Python Database.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.1 QTabWidget.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced widgets.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.3 QTreeWidgets.md"
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced widgets.md"
   ]
 }

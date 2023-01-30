@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Haskell Pocket Guide",
+      "path": "HASKELL/Haskell Pocket Guide.md"
+    },
+    {
       "basename": "_ 0 Haskell for Imperative Programmers",
       "path": "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_ 0 PyQt5 From A-Z",
       "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md"
-    },
-    {
-      "basename": "_ 0 Snap Haskell",
-      "path": "HASKELL/web/snap/_ 0 Snap Haskell.md"
     }
   ],
   "omittedPaths": [],
