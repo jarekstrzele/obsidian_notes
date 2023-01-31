@@ -32,7 +32,8 @@ if __name__== '__main__':
 
 use SQLiteStudio to manage your db.
 
-## create table
+## create table (sqlite)
+[[#create a table (mysql)]] 
 ```python
 import sqlite3 as lit  
   
@@ -143,7 +144,7 @@ https://pypi.org/project/mysqlclient/
 
 ### `pip install mysqlclient`
 
-## connection
+## connect to db
 ```python
 import MySQLdb as mdb
 
@@ -159,8 +160,37 @@ except mdb.Eroor as e:
     print(f"Database is not connected {e}")
 ```
 
+## create a table (mysql)
+[[#create table (sqlite)]] 
+```python
+import MySQLdb as mdb
 
+DBNAME = "pydb"
+DBHOST = "localhost"
+BPASS = "Filozofia2!@"
+DBUSER = "root"
 
+try:
+    db = mdb.connect(DBHOST, DBUSER, DBPASS, DBNAME)
+    print("Database is connected")
+
+	cur = db.cursor()
+    cur.execute("DROP TABLE IF EXISTS Employee")
+
+    query = """
+    CREATE TABLE Employee (
+        Name Char(20) NOT NULL,
+        Email CHAR(20),
+        Age INT
+    )
+    """
+    cur.execute(query)
+    print("Table is created")
+except mdb.Eroor as e:
+    print(f"Error {e}")
+```
+
+## Insert data
 
 
 
