@@ -73,14 +73,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
+                "file": "network/HTTP/3 HTTP Connections.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "77a029cea7770c95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "network/Full HTTP Networking Course – Fetch and REST APIs in JavaScript/_ 0 Full HTTP Networking Course – Fetch and REST APIs in JavaScript.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -154,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
+                "file": "network/Full HTTP Networking Course – Fetch and REST APIs in JavaScript/_ 0 Full HTTP Networking Course – Fetch and REST APIs in JavaScript.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -171,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
+                "file": "network/Full HTTP Networking Course – Fetch and REST APIs in JavaScript/_ 0 Full HTTP Networking Course – Fetch and REST APIs in JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md"
+                "file": "network/Full HTTP Networking Course – Fetch and REST APIs in JavaScript/_ 0 Full HTTP Networking Course – Fetch and REST APIs in JavaScript.md"
               }
             }
           },
@@ -234,17 +246,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0b922cc04b1cf450",
+  "active": "77a029cea7770c95",
   "lastOpenFiles": [
+    "network/HTTP/3 HTTP Connections.md",
+    "network/HTTP/2 HTTP Messages.md",
+    "network/HTTP/1 HTTP Resources.md",
+    "network/HTTP/_ 0 HTTP fundementals.md",
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.3 QTreeWidgets.md",
     "PYTHON/Learn Python (Basic, BUI, Web, FullStack)/1 Python Database.md",
     "HASKELL/for_great_good/4 Recursion.md",
     "HASKELL/for_great_good/0 - Haskell intro.md",
-    "HASKELL/for_great_good/3.4 Case expressions.md",
-    "HASKELL/for_great_good/3.3 let it be.md",
-    "HASKELL/for_great_good/3.2 - Guards.md",
-    "HASKELL/for_great_good/3.1 - Pattern matching.md",
-    "HASKELL/for_great_good/3 - Syntax in Function.md",
-    "HASKELL/for_great_good/2 - Types and Typeclasses.md"
+    "HASKELL/for_great_good/3.4 Case expressions.md"
   ]
 }

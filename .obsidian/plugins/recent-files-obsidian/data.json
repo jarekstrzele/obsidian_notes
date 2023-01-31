@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "_ 0 Full HTTP Networking Course – Fetch and REST APIs in JavaScript",
+      "path": "network/Full HTTP Networking Course – Fetch and REST APIs in JavaScript/_ 0 Full HTTP Networking Course – Fetch and REST APIs in JavaScript.md"
+    },
+    {
+      "basename": "3 HTTP Connections",
+      "path": "network/HTTP/3 HTTP Connections.md"
+    },
+    {
+      "basename": "2 HTTP Messages",
+      "path": "network/HTTP/2 HTTP Messages.md"
+    },
+    {
+      "basename": "1 HTTP Resources",
+      "path": "network/HTTP/1 HTTP Resources.md"
+    },
+    {
+      "basename": "_ 0 HTTP fundementals",
+      "path": "network/HTTP/_ 0 HTTP fundementals.md"
+    },
+    {
       "basename": "9 QtDesigner",
       "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "_0 Node Complete Guide",
       "path": "N_O_D_E/NODE - the complete guide/_0 Node Complete Guide.md"
-    },
-    {
-      "basename": "Wybrane zagadnienia z psychologii",
-      "path": "Studia/Przygotowanie pedagogiczne/Wybrane zagadnienia z psychologii.md"
-    },
-    {
-      "basename": "SQL Server",
-      "path": "Studia/Python BackEnd/SQL Server.md"
-    },
-    {
-      "basename": "1 Fundamentals",
-      "path": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1 Fundamentals.md"
-    },
-    {
-      "basename": "0 _ Learn Python From Zero to Hero (basic, Bui, Web, Full Stack)",
-      "path": "PYTHON/Learn Python (Basic, BUI, Web, FullStack)/0 _ Learn Python From Zero to Hero (basic, Bui, Web, Full Stack).md"
-    },
-    {
-      "basename": "2.2.1 Grid of Words Game",
-      "path": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2.2.1 Grid of Words Game.md"
     }
   ],
   "omittedPaths": [],
