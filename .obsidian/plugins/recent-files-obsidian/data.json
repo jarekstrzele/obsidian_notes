@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "9 Solved Problems - HOFs",
+      "path": "HASKELL/The Complete Haskell Course/9 Solved Problems - HOFs.md"
+    },
+    {
+      "basename": "8 Higher Order Functions",
+      "path": "HASKELL/The Complete Haskell Course/8 Higher Order Functions.md"
+    },
+    {
+      "basename": "7 List Problems",
+      "path": "HASKELL/The Complete Haskell Course/7 List Problems.md"
+    },
+    {
+      "basename": "6 Lists and Text",
+      "path": "HASKELL/The Complete Haskell Course/6 Lists and Text.md"
+    },
+    {
+      "basename": "5 Tuple",
+      "path": "HASKELL/The Complete Haskell Course/5 Tuple.md"
+    },
+    {
+      "basename": "4 Solved Probelms - Functions",
+      "path": "HASKELL/The Complete Haskell Course/4 Solved Probelms - Functions.md"
+    },
+    {
+      "basename": "3 Functions",
+      "path": "HASKELL/The Complete Haskell Course/3 Functions.md"
+    },
+    {
+      "basename": "2 Basic Types",
+      "path": "HASKELL/The Complete Haskell Course/2 Basic Types.md"
+    },
+    {
       "basename": "1 Basics",
       "path": "HASKELL/The Complete Haskell Course/1 Basics.md"
     },
@@ -157,20 +189,8 @@
       "path": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.5 Type classes.md"
     },
     {
-      "basename": "9 Solved Problems - HOFs",
-      "path": "HASKELL/The Complete Haskell Course/9 Solved Problems - HOFs.md"
-    },
-    {
       "basename": "6 Sockets and Plugs",
       "path": "HASKELL/Happy Learn Haskell/6 Sockets and Plugs.md"
-    },
-    {
-      "basename": "8 Higher Order Functions",
-      "path": "HASKELL/The Complete Haskell Course/8 Higher Order Functions.md"
-    },
-    {
-      "basename": "7 List Problems",
-      "path": "HASKELL/The Complete Haskell Course/7 List Problems.md"
     },
     {
       "basename": "5 Function Magic",
@@ -179,26 +199,6 @@
     {
       "basename": "4 the Main Road",
       "path": "HASKELL/Happy Learn Haskell/4 the Main Road.md"
-    },
-    {
-      "basename": "_ 0 Happy Learn Haskell",
-      "path": "HASKELL/Happy Learn Haskell/_ 0 Happy Learn Haskell.md"
-    },
-    {
-      "basename": "3 Types as Jigsaw Pieces",
-      "path": "HASKELL/Happy Learn Haskell/3 Types as Jigsaw Pieces.md"
-    },
-    {
-      "basename": "MySql data base",
-      "path": "Studia/Python BackEnd/MySql data base.md"
-    },
-    {
-      "basename": "linux",
-      "path": "Studia/Python BackEnd/linux.md"
-    },
-    {
-      "basename": "9 QtDesigner",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md"
     }
   ],
   "omittedPaths": [],
