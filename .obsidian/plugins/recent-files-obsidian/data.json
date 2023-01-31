@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "_ 0 Full HTTP Networking Course – Fetch and REST APIs in JavaScript",
+      "path": "network/Full HTTP Networking Course – Fetch and REST APIs in JavaScript/_ 0 Full HTTP Networking Course – Fetch and REST APIs in JavaScript.md"
+    },
+    {
       "basename": "_ 0 Testy automatyczne Python",
       "path": "Testowanie/Testy automatyczne w języku Python/_ 0 Testy automatyczne Python.md"
     },
     {
-      "basename": "_ 0 Full HTTP Networking Course – Fetch and REST APIs in JavaScript",
-      "path": "network/Full HTTP Networking Course – Fetch and REST APIs in JavaScript/_ 0 Full HTTP Networking Course – Fetch and REST APIs in JavaScript.md"
+      "basename": "2. PyTest",
+      "path": "Testowanie/Testy automatyczne w języku Python/2. PyTest.md"
     },
     {
       "basename": "3 HTTP Connections",
@@ -195,10 +199,6 @@
     {
       "basename": "- 2 JavaScript",
       "path": "N_O_D_E/Lear Node.js and Javascript/- 2 JavaScript.md"
-    },
-    {
-      "basename": "_ Node and JavaScript",
-      "path": "N_O_D_E/Lear Node.js and Javascript/_ Node and JavaScript.md"
     }
   ],
   "omittedPaths": [],

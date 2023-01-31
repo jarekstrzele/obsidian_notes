@@ -1,4 +1,7 @@
 #helion 
+[[2. PyTest]]
+
+
 
 >[!info] test jednostkowy
 >test, który sprawdza pojedyczną funkjonalność (jedna funkcja, jedna metoda)

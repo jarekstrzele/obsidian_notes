@@ -102,9 +102,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d06954c4e4543777",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Testowanie/Testy automatyczne w języku Python/_ 0 Testy automatyczne Python.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -178,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testowanie/Testy automatyczne w języku Python/_ 0 Testy automatyczne Python.md",
+                "file": "network/Full HTTP Networking Course – Fetch and REST APIs in JavaScript/_ 0 Full HTTP Networking Course – Fetch and REST APIs in JavaScript.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -195,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Testowanie/Testy automatyczne w języku Python/_ 0 Testy automatyczne Python.md",
+                "file": "network/Full HTTP Networking Course – Fetch and REST APIs in JavaScript/_ 0 Full HTTP Networking Course – Fetch and REST APIs in JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Testowanie/Testy automatyczne w języku Python/_ 0 Testy automatyczne Python.md"
+                "file": "network/Full HTTP Networking Course – Fetch and REST APIs in JavaScript/_ 0 Full HTTP Networking Course – Fetch and REST APIs in JavaScript.md"
               }
             }
           },
@@ -258,8 +270,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4bff1e7d98a9aeb9",
+  "active": "77a029cea7770c95",
   "lastOpenFiles": [
+    "Testowanie/Testy automatyczne w języku Python/_ 0 Testy automatyczne Python.md",
+    "Testowanie/Testy automatyczne w języku Python/2. PyTest.md",
     "network/Full HTTP Networking Course – Fetch and REST APIs in JavaScript/_ 0 Full HTTP Networking Course – Fetch and REST APIs in JavaScript.md",
     "network/HTTP/3 HTTP Connections.md",
     "network/HTTP/2 HTTP Messages.md",
@@ -267,8 +281,6 @@
     "network/HTTP/_ 0 HTTP fundementals.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.3 QTreeWidgets.md",
-    "PYTHON/Learn Python (Basic, BUI, Web, FullStack)/1 Python Database.md",
-    "HASKELL/for_great_good/4 Recursion.md",
-    "HASKELL/for_great_good/0 - Haskell intro.md"
+    "PYTHON/Learn Python (Basic, BUI, Web, FullStack)/1 Python Database.md"
   ]
 }
