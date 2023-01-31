@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "9 QtDesigner",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md"
+    },
+    {
       "basename": "7.3 QTreeWidgets",
       "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.3 QTreeWidgets.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2.2.1 Grid of Words Game",
       "path": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2.2.1 Grid of Words Game.md"
-    },
-    {
-      "basename": "2.2 Stack Project",
-      "path": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2.2 Stack Project.md"
     }
   ],
   "omittedPaths": [],

@@ -4,7 +4,7 @@ QtDesinger
 https://build-system.fman.io/qt-designer-download
 
 **Qt Designer is pure Qt**
-- id doesn't know ANYTHING about Python
+- it doesn't know ANYTHING about Python
 - it does allow you to visually design your interface
 - it also allows you to connect pre-defined signals to predefined slots
 - custom slots must be written and connected after-the-fact in Python
@@ -14,13 +14,21 @@ https://build-system.fman.io/qt-designer-download
 1. defign interface
 2. connect signals to slots (pre-defined slots only)
 3. save
-4. compule to python
-5. write cystom slots in python t
+4. compile to python
+5. write custom slots in python 
 6. test
 7. modyfy interface (return to 3.)
 
+## `ctr+r` -> Preview
+
+## Edit > Edit Tab order
 
 
+# Slots, Signals
+- Find *Signals, Slots Editor* (View)
+- add sender, signal, receiver, slot (ctr+r -> you can see)
 
-
+OR
+- Edit> *Edit Signals, Slots*
+- attach by mouse widgets that you want to connect
 

@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.3 QTreeWidgets.md",
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.3 QTreeWidgets.md",
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.3 QTreeWidgets.md",
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.3 QTreeWidgets.md"
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md"
               }
             }
           },
@@ -236,6 +236,7 @@
   },
   "active": "0b922cc04b1cf450",
   "lastOpenFiles": [
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.3 QTreeWidgets.md",
     "PYTHON/Learn Python (Basic, BUI, Web, FullStack)/1 Python Database.md",
     "HASKELL/for_great_good/4 Recursion.md",
     "HASKELL/for_great_good/0 - Haskell intro.md",
@@ -244,7 +245,6 @@
     "HASKELL/for_great_good/3.2 - Guards.md",
     "HASKELL/for_great_good/3.1 - Pattern matching.md",
     "HASKELL/for_great_good/3 - Syntax in Function.md",
-    "HASKELL/for_great_good/2 - Types and Typeclasses.md",
-    "HASKELL/for_great_good/1 - Haskell Tuples.md"
+    "HASKELL/for_great_good/2 - Types and Typeclasses.md"
   ]
 }
