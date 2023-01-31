@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "1 Basics",
+      "path": "HASKELL/The Complete Haskell Course/1 Basics.md"
+    },
+    {
       "basename": "Haskell Pocket Guide",
       "path": "HASKELL/Haskell Pocket Guide.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "9 QtDesigner",
       "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md"
-    },
-    {
-      "basename": "_ 0 PyQt5 From A-Z",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md"
     }
   ],
   "omittedPaths": [],

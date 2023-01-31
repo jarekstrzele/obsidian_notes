@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HASKELL/Haskell Pocket Guide.md",
+                "file": "HASKELL/The Complete Haskell Course/1 Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/Haskell Pocket Guide.md",
+                "file": "HASKELL/The Complete Haskell Course/1 Basics.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/Haskell Pocket Guide.md",
+                "file": "HASKELL/The Complete Haskell Course/1 Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/Haskell Pocket Guide.md"
+                "file": "HASKELL/The Complete Haskell Course/1 Basics.md"
               }
             }
           },
@@ -224,6 +224,7 @@
   },
   "active": "d32a5c91010e502a",
   "lastOpenFiles": [
+    "HASKELL/Haskell Pocket Guide.md",
     "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md",
     "HASKELL/Happy Learn Haskell/8 Make Decisions.md",
     "HASKELL/Happy Learn Haskell/7 Outputs.md",
@@ -232,7 +233,6 @@
     "maths/statistics/_ Statistics.md",
     "PYTHON/OOP Python udemy/7 DataClasses.md",
     "PYTHON/Learn Python (Basic, BUI, Web, FullStack)/1 Python Database.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.1 QTabWidget.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced widgets.md"
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.1 QTabWidget.md"
   ]
 }
