@@ -191,6 +191,33 @@ except mdb.Eroor as e:
 ```
 
 ## Insert data
+```python
+import MySQLdb as mdb
+
+DBNAME = "pydb"
+DBHOST = "localhost"
+DBPASS = "Filozofia2!@"
+DBUSER = "root"
+
+try:
+    db = mdb.connect(DBHOST, DBUSER, DBPASS, DBNAME)
+    cur = db.cursor()
+ 
+    query = """
+     INSERT INTO pydb.employee (Name, Email, Age)
+     VALUES ('ToNowe', 'kipi@nowe.pl', 77);
+    """
+    cur.execute(query)
+    db.commit()
+    print("Data is inserted")
+except mdb.Err as e:
+    print(f"Error {e}")
+```
+
+## update data (mysql)
+
+
+
 
 
 
