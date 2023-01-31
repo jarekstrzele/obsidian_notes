@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "3.3 let it be",
+      "path": "HASKELL/for_great_good/3.3 let it be.md"
+    },
+    {
+      "basename": "3.4 Case expressions",
+      "path": "HASKELL/for_great_good/3.4 Case expressions.md"
+    },
+    {
+      "basename": "3.2 - Guards",
+      "path": "HASKELL/for_great_good/3.2 - Guards.md"
+    },
+    {
+      "basename": "3.1 - Pattern matching",
+      "path": "HASKELL/for_great_good/3.1 - Pattern matching.md"
+    },
+    {
+      "basename": "3 - Syntax in Function",
+      "path": "HASKELL/for_great_good/3 - Syntax in Function.md"
+    },
+    {
+      "basename": "2 - Types and Typeclasses",
+      "path": "HASKELL/for_great_good/2 - Types and Typeclasses.md"
+    },
+    {
+      "basename": "1 - Haskell Tuples",
+      "path": "HASKELL/for_great_good/1 - Haskell Tuples.md"
+    },
+    {
       "basename": "9 Solved Problems - HOFs",
       "path": "HASKELL/The Complete Haskell Course/9 Solved Problems - HOFs.md"
     },
@@ -171,34 +199,6 @@
     {
       "basename": "2 Types and Functions",
       "path": "HASKELL/Real World Haskell/2 Types and Functions.md"
-    },
-    {
-      "basename": "1 Getting Started",
-      "path": "HASKELL/Real World Haskell/1 Getting Started.md"
-    },
-    {
-      "basename": "1.4 Algebraic Data Types",
-      "path": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.4 Algebraic Data Types.md"
-    },
-    {
-      "basename": "1.6 Pattern Matching",
-      "path": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.6 Pattern Matching.md"
-    },
-    {
-      "basename": "1.5 Type classes",
-      "path": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.5 Type classes.md"
-    },
-    {
-      "basename": "6 Sockets and Plugs",
-      "path": "HASKELL/Happy Learn Haskell/6 Sockets and Plugs.md"
-    },
-    {
-      "basename": "5 Function Magic",
-      "path": "HASKELL/Happy Learn Haskell/5 Function Magic.md"
-    },
-    {
-      "basename": "4 the Main Road",
-      "path": "HASKELL/Happy Learn Haskell/4 the Main Road.md"
     }
   ],
   "omittedPaths": [],

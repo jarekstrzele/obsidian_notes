@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HASKELL/The Complete Haskell Course/9 Solved Problems - HOFs.md",
+                "file": "HASKELL/for_great_good/3.3 let it be.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/The Complete Haskell Course/9 Solved Problems - HOFs.md",
+                "file": "HASKELL/for_great_good/3.3 let it be.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/The Complete Haskell Course/9 Solved Problems - HOFs.md",
+                "file": "HASKELL/for_great_good/3.3 let it be.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/The Complete Haskell Course/9 Solved Problems - HOFs.md"
+                "file": "HASKELL/for_great_good/3.3 let it be.md"
               }
             }
           },
@@ -224,15 +224,15 @@
   },
   "active": "d32a5c91010e502a",
   "lastOpenFiles": [
+    "HASKELL/for_great_good/3.4 Case expressions.md",
+    "HASKELL/for_great_good/3.3 let it be.md",
+    "HASKELL/for_great_good/3.2 - Guards.md",
+    "HASKELL/for_great_good/3.1 - Pattern matching.md",
+    "HASKELL/for_great_good/3 - Syntax in Function.md",
+    "HASKELL/for_great_good/2 - Types and Typeclasses.md",
+    "HASKELL/for_great_good/1 - Haskell Tuples.md",
+    "HASKELL/The Complete Haskell Course/9 Solved Problems - HOFs.md",
     "HASKELL/The Complete Haskell Course/8 Higher Order Functions.md",
-    "HASKELL/The Complete Haskell Course/7 List Problems.md",
-    "HASKELL/The Complete Haskell Course/6 Lists and Text.md",
-    "HASKELL/The Complete Haskell Course/5 Tuple.md",
-    "HASKELL/The Complete Haskell Course/4 Solved Probelms - Functions.md",
-    "HASKELL/The Complete Haskell Course/3 Functions.md",
-    "HASKELL/The Complete Haskell Course/2 Basic Types.md",
-    "HASKELL/The Complete Haskell Course/1 Basics.md",
-    "HASKELL/Haskell Pocket Guide.md",
-    "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md"
+    "HASKELL/The Complete Haskell Course/7 List Problems.md"
   ]
 }
