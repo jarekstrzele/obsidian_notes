@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HASKELL/for_great_good/4 Recursion.md",
+                "file": "PYTHON/Learn Python (Basic, BUI, Web, FullStack)/1 Python Database.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/for_great_good/4 Recursion.md",
+                "file": "PYTHON/Learn Python (Basic, BUI, Web, FullStack)/1 Python Database.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/for_great_good/4 Recursion.md",
+                "file": "PYTHON/Learn Python (Basic, BUI, Web, FullStack)/1 Python Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/for_great_good/4 Recursion.md"
+                "file": "PYTHON/Learn Python (Basic, BUI, Web, FullStack)/1 Python Database.md"
               }
             }
           },
@@ -236,8 +236,8 @@
   },
   "active": "0b922cc04b1cf450",
   "lastOpenFiles": [
-    "HASKELL/for_great_good/0 - Haskell intro.md",
     "HASKELL/for_great_good/4 Recursion.md",
+    "HASKELL/for_great_good/0 - Haskell intro.md",
     "HASKELL/for_great_good/3.4 Case expressions.md",
     "HASKELL/for_great_good/3.3 let it be.md",
     "HASKELL/for_great_good/3.2 - Guards.md",

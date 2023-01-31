@@ -11,6 +11,7 @@
 
 
 # SQLite
+#python/sqlite 
 ## create db
 ```python
 import sqlite3 as lit  
@@ -135,18 +136,10 @@ with db:
 ```
 
 
-
-
-
-
-
-
-
-
-
-
-
+----
 # MySql
+#python/mysql 
+### `pip install mysqlclient`
 
 
 

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "1 Python Database",
+      "path": "PYTHON/Learn Python (Basic, BUI, Web, FullStack)/1 Python Database.md"
+    },
+    {
       "basename": "4 Recursion",
       "path": "HASKELL/for_great_good/4 Recursion.md"
     },
@@ -103,10 +107,6 @@
     {
       "basename": "7 DataClasses",
       "path": "PYTHON/OOP Python udemy/7 DataClasses.md"
-    },
-    {
-      "basename": "1 Python Database",
-      "path": "PYTHON/Learn Python (Basic, BUI, Web, FullStack)/1 Python Database.md"
     },
     {
       "basename": "7.1 QTabWidget",
