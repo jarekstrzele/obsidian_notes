@@ -139,10 +139,38 @@ with db:
 ----
 # MySql
 #python/mysql 
+https://pypi.org/project/mysqlclient/
+
 ### `pip install mysqlclient`
 
+## connection
+```python
+import MySQLdb as mdb
+
+DBNAME = "pydb"
+DBHOST = "localhost"
+DBPASS = "Filozofia2!@"
+DBUSER = "root"
+
+try:
+    db = mdb.connect(DBHOST, DBUSER, DBPASS, DBNAME)
+    print("Database is connected")
+except mdb.Eroor as e:
+    print(f"Database is not connected {e}")
+```
 
 
+
+
+
+
+
+
+
+
+
+
+----
 # Postgres
 
 
