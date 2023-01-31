@@ -215,6 +215,70 @@ except mdb.Err as e:
 ```
 
 ## update data (mysql)
+```python
+try:
+    db = mdb.connect(DBHOST, DBUSER, DBPASS, DBNAME)
+    cur = db.cursor()
+
+    query = """
+     UPDATE employee SET Name="Zmienione Imię" where Age=77
+    """
+    cur.execute(query)
+    db.commit()
+    print("Data is updated")
+except mdb.Err as e:
+    print(f"Error {e}")
+```
+
+
+## select data (mysql)
+```python
+import MySQLdb as mdb
+
+DBNAME = "pydb"
+DBHOST = "localhost"
+DBPASS = "Filozofia2!@"
+DBUSER = "root"
+
+try:
+    db = mdb.connect(DBHOST, DBUSER, DBPASS, DBNAME)
+    cur = db.cursor()
+
+    query = "SELECT * from employee"
+    cur.execute(query)
+    results = cur.fetchall()
+    print(f"Results: {results}")
+
+    for row in results:
+        print(f"Name: {row[0]}")
+        print(f"email: {row[1]}")
+        print(f"age: {row[2]}")
+except mdb.Err as e:
+    print(f"Error {e}")
+```
+
+```bash
+Results: (('Kira', 'kir@kkk.com', 22), ('Turaa', 'r@oo.com', 122), ('Ooo', 'qqq@pp.pl', 33), ('Zmienione Imię', 'kipi@nowe.pl', 77))
+Name: Kira
+email: kir@kkk.com
+age: 22
+```
+
+
+## delete data (mysql)
+```python
+try:
+    db = mdb.connect(DBHOST, DBUSER, DBPASS, DBNAME)
+    cur = db.cursor()
+
+    query = "DELETE FROM employee WHERE Age=33"
+    cur.execute(query)
+    db.commit()
+    print("Data is deleted")
+except mdb.Err as e:
+    print(f"Error {e}")
+```
+
 
 
 
