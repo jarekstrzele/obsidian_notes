@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "7.3 QTreeWidgets",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.3 QTreeWidgets.md"
+    },
+    {
       "basename": "1 Python Database",
       "path": "PYTHON/Learn Python (Basic, BUI, Web, FullStack)/1 Python Database.md"
     },
@@ -115,10 +119,6 @@
     {
       "basename": "7 Advanced widgets",
       "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced widgets.md"
-    },
-    {
-      "basename": "7.3 QTreeWidgets",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.3 QTreeWidgets.md"
     },
     {
       "basename": "7.2 QListWidget",
