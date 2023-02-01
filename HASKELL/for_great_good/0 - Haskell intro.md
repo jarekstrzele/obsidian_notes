@@ -1,13 +1,15 @@
 # _ Lern you a Haskell for Great Good
+#haskell 
 
 ---
+
 [[Installing]]
 [[1 - Haskell Lists]]
 [[1 - Haskell Tuples]]
 [[2 - Types and Typeclasses]]
 [[3 - Syntax in Function]]
 [[4 Recursion]]
-
+[[5 Higher order functions]]
 
 
 

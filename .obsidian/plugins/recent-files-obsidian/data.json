@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "5 Higher order functions",
+      "path": "HASKELL/for_great_good/5 Higher order functions.md"
+    },
+    {
+      "basename": "1 - Haskell Lists",
+      "path": "HASKELL/for_great_good/1 - Haskell Lists.md"
+    },
+    {
+      "basename": "0 - Haskell intro",
+      "path": "HASKELL/for_great_good/0 - Haskell intro.md"
+    },
+    {
       "basename": "4 Recursion",
       "path": "HASKELL/for_great_good/4 Recursion.md"
     },
@@ -153,10 +165,6 @@
       "path": "PYTHON/Learn Python (Basic, BUI, Web, FullStack)/1 Python Database.md"
     },
     {
-      "basename": "0 - Haskell intro",
-      "path": "HASKELL/for_great_good/0 - Haskell intro.md"
-    },
-    {
       "basename": "3.3 let it be",
       "path": "HASKELL/for_great_good/3.3 let it be.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "3 Functions",
       "path": "HASKELL/The Complete Haskell Course/3 Functions.md"
-    },
-    {
-      "basename": "2 Basic Types",
-      "path": "HASKELL/The Complete Haskell Course/2 Basic Types.md"
-    },
-    {
-      "basename": "Haskell Pocket Guide",
-      "path": "HASKELL/Haskell Pocket Guide.md"
     }
   ],
   "omittedPaths": [],
