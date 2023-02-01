@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Data.List and operator !!",
-      "path": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/Data.List and operator !!.md"
+      "basename": "2.2.1 Grid of Words Game",
+      "path": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2.2.1 Grid of Words Game.md"
+    },
+    {
+      "basename": "Data.List and operator `!!`",
+      "path": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/Data.List and operator `!!`.md"
     },
     {
       "basename": "2.2 Stack Project",
       "path": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2.2 Stack Project.md"
     },
     {
-      "basename": "2.2.1 Grid of Words Game",
-      "path": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2.2.1 Grid of Words Game.md"
+      "basename": "_ 0 Learing Path Haskell",
+      "path": "HASKELL/Learning Path Haskell/_ 0 Learing Path Haskell.md"
     },
     {
       "basename": "_ 0 Testy automatyczne Python",
@@ -195,10 +199,6 @@
     {
       "basename": "7 DataClasses",
       "path": "PYTHON/OOP Python udemy/7 DataClasses.md"
-    },
-    {
-      "basename": "7.1 QTabWidget",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.1 QTabWidget.md"
     }
   ],
   "omittedPaths": [],

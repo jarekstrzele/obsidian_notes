@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2.2 Stack Project.md",
+                "file": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2.2.1 Grid of Words Game.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,14 +97,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/Data.List and operator !!.md",
+                "file": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/Data.List and operator `!!`.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/Data.List and operator !!.md",
+                "file": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2.2.1 Grid of Words Game.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/Data.List and operator !!.md",
+                "file": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2.2.1 Grid of Words Game.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/Data.List and operator !!.md"
+                "file": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2.2.1 Grid of Words Game.md"
               }
             }
           },
@@ -258,17 +258,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a2e6a89708775da4",
+  "active": "4bff1e7d98a9aeb9",
   "lastOpenFiles": [
-    "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2.2 Stack Project.md",
+    "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/Data.List and operator `!!`.md",
     "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2.2.1 Grid of Words Game.md",
+    "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2.2 Stack Project.md",
+    "HASKELL/Learning Path Haskell/_ 0 Learing Path Haskell.md",
     "Testowanie/Testy automatyczne w języku Python/_ 0 Testy automatyczne Python.md",
     "HASKELL/for_great_good/3.4 Case expressions.md",
     "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced widgets.md",
     "FullStack/Full Stack Web Development  Bootcamp/Appendixes/Shell vs Terminal.md",
-    "FullStack/Full Stack Web Development  Bootcamp/_ 0 Full stack Web Dev Bootcamp.md",
-    "FullStack/Full Stack tutorialspoint/HTML tutorials point.md",
-    "FullStack/Full Stack tutorialspoint/Git.md"
+    "FullStack/Full Stack Web Development  Bootcamp/_ 0 Full stack Web Dev Bootcamp.md"
   ]
 }
