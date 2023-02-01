@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "2.2 Stack Project",
+      "path": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2.2 Stack Project.md"
+    },
+    {
+      "basename": "2.2.1 Grid of Words Game",
+      "path": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2.2.1 Grid of Words Game.md"
+    },
+    {
+      "basename": "_ 0 Testy automatyczne Python",
+      "path": "Testowanie/Testy automatyczne w języku Python/_ 0 Testy automatyczne Python.md"
+    },
+    {
+      "basename": "3.4 Case expressions",
+      "path": "HASKELL/for_great_good/3.4 Case expressions.md"
+    },
+    {
+      "basename": "_ 0 Haskell for Imperative Programmers",
+      "path": "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md"
+    },
+    {
+      "basename": "7 Advanced widgets",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced widgets.md"
+    },
+    {
       "basename": "Shell vs Terminal",
       "path": "FullStack/Full Stack Web Development  Bootcamp/Appendixes/Shell vs Terminal.md"
     },
@@ -41,10 +65,6 @@
       "path": "network/Full HTTP Networking Course – Fetch and REST APIs in JavaScript/_ 0 Full HTTP Networking Course – Fetch and REST APIs in JavaScript.md"
     },
     {
-      "basename": "_ 0 Testy automatyczne Python",
-      "path": "Testowanie/Testy automatyczne w języku Python/_ 0 Testy automatyczne Python.md"
-    },
-    {
       "basename": "2. PyTest",
       "path": "Testowanie/Testy automatyczne w języku Python/2. PyTest.md"
     },
@@ -83,10 +103,6 @@
     {
       "basename": "0 - Haskell intro",
       "path": "HASKELL/for_great_good/0 - Haskell intro.md"
-    },
-    {
-      "basename": "3.4 Case expressions",
-      "path": "HASKELL/for_great_good/3.4 Case expressions.md"
     },
     {
       "basename": "3.3 let it be",
@@ -153,10 +169,6 @@
       "path": "HASKELL/Haskell Pocket Guide.md"
     },
     {
-      "basename": "_ 0 Haskell for Imperative Programmers",
-      "path": "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md"
-    },
-    {
       "basename": "8 Make Decisions",
       "path": "HASKELL/Happy Learn Haskell/8 Make Decisions.md"
     },
@@ -185,20 +197,8 @@
       "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.1 QTabWidget.md"
     },
     {
-      "basename": "7 Advanced widgets",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced widgets.md"
-    },
-    {
       "basename": "7.2 QListWidget",
       "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.2 QListWidget.md"
-    },
-    {
-      "basename": "6 Using Qt Layouts to simplify your designs",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md"
-    },
-    {
-      "basename": "3 Node Basics",
-      "path": "N_O_D_E/NODE - the complete guide/3 Node Basics.md"
     }
   ],
   "omittedPaths": [],
