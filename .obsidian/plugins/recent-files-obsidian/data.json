@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "1 Basics",
+      "path": "HASKELL/The Complete Haskell Course/1 Basics.md"
+    },
+    {
+      "basename": "9 Solved Problems - HOFs",
+      "path": "HASKELL/The Complete Haskell Course/9 Solved Problems - HOFs.md"
+    },
+    {
+      "basename": "3 Polishing the Word Game",
+      "path": "HASKELL/learning haskell programming/3 Polishing the Word Game.md"
+    },
+    {
+      "basename": "2 Developing a Word Game",
+      "path": "HASKELL/learning haskell programming/2 Developing a Word Game.md"
+    },
+    {
+      "basename": "1 Getting Started with Haskell",
+      "path": "HASKELL/learning haskell programming/1 Getting Started with Haskell.md"
+    },
+    {
+      "basename": "_ 0 Learining Haskell Programming",
+      "path": "HASKELL/learning haskell programming/_ 0 Learining Haskell Programming.md"
+    },
+    {
+      "basename": "1.2. Values and Expressions",
+      "path": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.2. Values and Expressions.md"
+    },
+    {
+      "basename": "1 Fundamentals",
+      "path": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1 Fundamentals.md"
+    },
+    {
       "basename": "2.2.1 Grid of Words Game",
       "path": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2.2.1 Grid of Words Game.md"
     },
@@ -137,10 +169,6 @@
       "path": "HASKELL/for_great_good/1 - Haskell Tuples.md"
     },
     {
-      "basename": "9 Solved Problems - HOFs",
-      "path": "HASKELL/The Complete Haskell Course/9 Solved Problems - HOFs.md"
-    },
-    {
       "basename": "8 Higher Order Functions",
       "path": "HASKELL/The Complete Haskell Course/8 Higher Order Functions.md"
     },
@@ -169,36 +197,8 @@
       "path": "HASKELL/The Complete Haskell Course/2 Basic Types.md"
     },
     {
-      "basename": "1 Basics",
-      "path": "HASKELL/The Complete Haskell Course/1 Basics.md"
-    },
-    {
       "basename": "Haskell Pocket Guide",
       "path": "HASKELL/Haskell Pocket Guide.md"
-    },
-    {
-      "basename": "8 Make Decisions",
-      "path": "HASKELL/Happy Learn Haskell/8 Make Decisions.md"
-    },
-    {
-      "basename": "7 Outputs",
-      "path": "HASKELL/Happy Learn Haskell/7 Outputs.md"
-    },
-    {
-      "basename": "permutacje",
-      "path": "maths/khan academy/prawdopodobieńśtwo/permutacje.md"
-    },
-    {
-      "basename": "_Intro pradwdopodobieństwo",
-      "path": "maths/khan academy/prawdopodobieńśtwo/_Intro pradwdopodobieństwo.md"
-    },
-    {
-      "basename": "_ Statistics",
-      "path": "maths/statistics/_ Statistics.md"
-    },
-    {
-      "basename": "7 DataClasses",
-      "path": "PYTHON/OOP Python udemy/7 DataClasses.md"
     }
   ],
   "omittedPaths": [],
