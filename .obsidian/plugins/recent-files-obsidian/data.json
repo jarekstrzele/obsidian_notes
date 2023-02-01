@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "7.3 QTreeWidgets",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.3 QTreeWidgets.md"
+    },
+    {
+      "basename": "7.2 QListWidget",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.2 QListWidget.md"
+    },
+    {
+      "basename": "7.1 QTabWidget",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.1 QTabWidget.md"
+    },
+    {
+      "basename": "Shell vs Terminal",
+      "path": "FullStack/Full Stack Web Development  Bootcamp/Appendixes/Shell vs Terminal.md"
+    },
+    {
+      "basename": "4 Recursion",
+      "path": "HASKELL/for_great_good/4 Recursion.md"
+    },
+    {
+      "basename": "_ 0 Full stack Web Dev Bootcamp",
+      "path": "FullStack/Full Stack Web Development  Bootcamp/_ 0 Full stack Web Dev Bootcamp.md"
+    },
+    {
+      "basename": "3 HTTP Connections",
+      "path": "network/HTTP/3 HTTP Connections.md"
+    },
+    {
+      "basename": "7 Advanced widgets",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced widgets.md"
+    },
+    {
+      "basename": "3.4 Case expressions",
+      "path": "HASKELL/for_great_good/3.4 Case expressions.md"
+    },
+    {
+      "basename": "_ 0 Haskell for Imperative Programmers",
+      "path": "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md"
+    },
+    {
       "basename": "5 Higher order functions",
       "path": "HASKELL/for_great_good/5 Higher order functions.md"
     },
@@ -11,14 +51,6 @@
     {
       "basename": "0 - Haskell intro",
       "path": "HASKELL/for_great_good/0 - Haskell intro.md"
-    },
-    {
-      "basename": "4 Recursion",
-      "path": "HASKELL/for_great_good/4 Recursion.md"
-    },
-    {
-      "basename": "3.4 Case expressions",
-      "path": "HASKELL/for_great_good/3.4 Case expressions.md"
     },
     {
       "basename": "3.2 - Guards",
@@ -85,22 +117,6 @@
       "path": "Testowanie/Testy automatyczne w języku Python/_ 0 Testy automatyczne Python.md"
     },
     {
-      "basename": "_ 0 Haskell for Imperative Programmers",
-      "path": "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md"
-    },
-    {
-      "basename": "7 Advanced widgets",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced widgets.md"
-    },
-    {
-      "basename": "Shell vs Terminal",
-      "path": "FullStack/Full Stack Web Development  Bootcamp/Appendixes/Shell vs Terminal.md"
-    },
-    {
-      "basename": "_ 0 Full stack Web Dev Bootcamp",
-      "path": "FullStack/Full Stack Web Development  Bootcamp/_ 0 Full stack Web Dev Bootcamp.md"
-    },
-    {
       "basename": "HTML tutorials point",
       "path": "FullStack/Full Stack tutorialspoint/HTML tutorials point.md"
     },
@@ -137,10 +153,6 @@
       "path": "Testowanie/Testy automatyczne w języku Python/2. PyTest.md"
     },
     {
-      "basename": "3 HTTP Connections",
-      "path": "network/HTTP/3 HTTP Connections.md"
-    },
-    {
       "basename": "2 HTTP Messages",
       "path": "network/HTTP/2 HTTP Messages.md"
     },
@@ -155,10 +167,6 @@
     {
       "basename": "9 QtDesigner",
       "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md"
-    },
-    {
-      "basename": "7.3 QTreeWidgets",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.3 QTreeWidgets.md"
     },
     {
       "basename": "1 Python Database",
@@ -191,14 +199,6 @@
     {
       "basename": "5 Tuple",
       "path": "HASKELL/The Complete Haskell Course/5 Tuple.md"
-    },
-    {
-      "basename": "4 Solved Probelms - Functions",
-      "path": "HASKELL/The Complete Haskell Course/4 Solved Probelms - Functions.md"
-    },
-    {
-      "basename": "3 Functions",
-      "path": "HASKELL/The Complete Haskell Course/3 Functions.md"
     }
   ],
   "omittedPaths": [],

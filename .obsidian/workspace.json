@@ -20,30 +20,6 @@
             }
           },
           {
-            "id": "f427a176a3edc97d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d32a5c91010e502a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HASKELL/for_great_good/3.4 Case expressions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0b922cc04b1cf450",
             "type": "leaf",
             "state": {
@@ -73,50 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FullStack/Full Stack Web Development  Bootcamp/Appendixes/Shell vs Terminal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4bff1e7d98a9aeb9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HASKELL/for_great_good/4 Recursion.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0fa8e6633c94290d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HASKELL/for_great_good/5 Higher order functions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a2e6a89708775da4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/Data.List and operator `!!`.md",
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.3 QTreeWidgets.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -190,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/for_great_good/5 Higher order functions.md",
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.3 QTreeWidgets.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -207,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/for_great_good/5 Higher order functions.md",
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.3 QTreeWidgets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/for_great_good/5 Higher order functions.md"
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.3 QTreeWidgets.md"
               }
             }
           },
@@ -270,17 +210,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0fa8e6633c94290d",
+  "active": "3151020a4b10e6b1",
   "lastOpenFiles": [
-    "HASKELL/for_great_good/1 - Haskell Lists.md",
-    "HASKELL/for_great_good/0 - Haskell intro.md",
-    "HASKELL/for_great_good/5 Higher order functions.md",
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.2 QListWidget.md",
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.1 QTabWidget.md",
+    "FullStack/Full Stack Web Development  Bootcamp/Appendixes/Shell vs Terminal.md",
     "HASKELL/for_great_good/4 Recursion.md",
+    "FullStack/Full Stack Web Development  Bootcamp/_ 0 Full stack Web Dev Bootcamp.md",
+    "network/HTTP/3 HTTP Connections.md",
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced widgets.md",
     "HASKELL/for_great_good/3.4 Case expressions.md",
-    "HASKELL/for_great_good/3.2 - Guards.md",
-    "HASKELL/for_great_good/3.1 - Pattern matching.md",
-    "HASKELL/for_great_good/2 - Types and Typeclasses.md",
-    "HASKELL/The Complete Haskell Course/1 Basics.md",
-    "HASKELL/The Complete Haskell Course/9 Solved Problems - HOFs.md"
+    "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md",
+    "HASKELL/for_great_good/5 Higher order functions.md"
   ]
 }
