@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "8 Qt Style Sheets",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/8 Qt Style Sheets.md"
+    },
+    {
       "basename": "7.3 QTreeWidgets",
       "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.3 QTreeWidgets.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "6 Lists and Text",
       "path": "HASKELL/The Complete Haskell Course/6 Lists and Text.md"
-    },
-    {
-      "basename": "5 Tuple",
-      "path": "HASKELL/The Complete Haskell Course/5 Tuple.md"
     }
   ],
   "omittedPaths": [],

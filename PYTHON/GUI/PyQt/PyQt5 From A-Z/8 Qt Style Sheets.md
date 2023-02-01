@@ -1,7 +1,7 @@
 [[_ 0 PyQt5 From A-Z]]
 
 
-- `setStyleSheet(str)` - QApplication, WWidget
+- `setStyleSheet(str)` - QApplication, QWidget
 - similar to CSS
 ```css
 selector{
@@ -14,8 +14,8 @@ selector{
 - class name - apply to all elements in a class
 - `className#variableName` - apply to a specific instance of class
 - `className:state` - apply to a specific state
-- `className::subcontrol` - applu to specific sub-controls, up-arrow, etc.
-- `className[property=value]` apply to all elements that staistfy the property condition
+- `className::subcontrol` - apply to specific sub-controls, up-arrow, etc.
+- `className[property=value]` apply to all elements that satisfy the property condition
 - `classname1 classname2` apply to all elements fo classname2 that are children of classname1
 - `classnam1, classnam2` - apply to both classname 1 and classname2
 - 

@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.3 QTreeWidgets.md",
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/8 Qt Style Sheets.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.3 QTreeWidgets.md",
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/8 Qt Style Sheets.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.3 QTreeWidgets.md",
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/8 Qt Style Sheets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.3 QTreeWidgets.md"
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/8 Qt Style Sheets.md"
               }
             }
           },
@@ -212,6 +212,7 @@
   },
   "active": "3151020a4b10e6b1",
   "lastOpenFiles": [
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.3 QTreeWidgets.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.2 QListWidget.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.1 QTabWidget.md",
     "FullStack/Full Stack Web Development  Bootcamp/Appendixes/Shell vs Terminal.md",
@@ -220,7 +221,6 @@
     "network/HTTP/3 HTTP Connections.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced widgets.md",
     "HASKELL/for_great_good/3.4 Case expressions.md",
-    "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md",
-    "HASKELL/for_great_good/5 Higher order functions.md"
+    "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md"
   ]
 }
