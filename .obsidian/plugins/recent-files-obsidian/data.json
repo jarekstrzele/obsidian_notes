@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "_ Django 1 start Mosh",
+      "path": "Django/Mosh/1/_ Django 1 start Mosh.md"
+    },
+    {
       "basename": "_ 0 Full HTTP Networking Course – Fetch and REST APIs in JavaScript",
       "path": "network/Full HTTP Networking Course – Fetch and REST APIs in JavaScript/_ 0 Full HTTP Networking Course – Fetch and REST APIs in JavaScript.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "- 3 Node",
       "path": "N_O_D_E/Lear Node.js and Javascript/- 3 Node.md"
-    },
-    {
-      "basename": "- 2 JavaScript",
-      "path": "N_O_D_E/Lear Node.js and Javascript/- 2 JavaScript.md"
     }
   ],
   "omittedPaths": [],

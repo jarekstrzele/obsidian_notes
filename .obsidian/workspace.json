@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "network/Full HTTP Networking Course – Fetch and REST APIs in JavaScript/_ 0 Full HTTP Networking Course – Fetch and REST APIs in JavaScript.md",
+                "file": "Django/Mosh/1/_ Django 1 start Mosh.md",
                 "mode": "source",
                 "source": false
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "network/Full HTTP Networking Course – Fetch and REST APIs in JavaScript/_ 0 Full HTTP Networking Course – Fetch and REST APIs in JavaScript.md",
+                "file": "Django/Mosh/1/_ Django 1 start Mosh.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "network/Full HTTP Networking Course – Fetch and REST APIs in JavaScript/_ 0 Full HTTP Networking Course – Fetch and REST APIs in JavaScript.md",
+                "file": "Django/Mosh/1/_ Django 1 start Mosh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "network/Full HTTP Networking Course – Fetch and REST APIs in JavaScript/_ 0 Full HTTP Networking Course – Fetch and REST APIs in JavaScript.md"
+                "file": "Django/Mosh/1/_ Django 1 start Mosh.md"
               }
             }
           },
@@ -272,9 +272,9 @@
   },
   "active": "77a029cea7770c95",
   "lastOpenFiles": [
+    "network/Full HTTP Networking Course – Fetch and REST APIs in JavaScript/_ 0 Full HTTP Networking Course – Fetch and REST APIs in JavaScript.md",
     "Testowanie/Testy automatyczne w języku Python/_ 0 Testy automatyczne Python.md",
     "Testowanie/Testy automatyczne w języku Python/2. PyTest.md",
-    "network/Full HTTP Networking Course – Fetch and REST APIs in JavaScript/_ 0 Full HTTP Networking Course – Fetch and REST APIs in JavaScript.md",
     "network/HTTP/3 HTTP Connections.md",
     "network/HTTP/2 HTTP Messages.md",
     "network/HTTP/1 HTTP Resources.md",
