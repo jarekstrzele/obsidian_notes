@@ -33,7 +33,16 @@
 		- and clients make consolidated requests for data using such a single endpoint
 	- REST API and GraphQL work over HTTPS
 
-- **responsiv
+- **responsive layout**
+	- layout of the frontend app that smoothly adjusts itself depending on the screen size and other device parameters
+	- layout should be also adjusted depending on the device orientation
+	- how to make it:
+		- mobile first design
+		- CSS Media Queries
+		- Elements sizing in relative units (REM Sizing of the elements relative to the root element)
+		- CSS FlexBox (position)
+		- Separate CSS files for mobile and desktop
+		- subdomain for mobile application
 
 
 
