@@ -1,5 +1,5 @@
 
-[[_ 0 intro]]
+[[Object Pascal/Delphi programming for beginners/_ 0 intro]]
 
 # Handling a Button Press Event
 >[!quote]

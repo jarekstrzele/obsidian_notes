@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "_ 0 Full stack Web Dev Bootcamp",
+      "path": "FullStack/Full Stack Web Development  Bootcamp/_ 0 Full stack Web Dev Bootcamp.md"
+    },
+    {
+      "basename": "HTML tutorials point",
+      "path": "FullStack/Full Stack tutorialspoint/HTML tutorials point.md"
+    },
+    {
+      "basename": "Git",
+      "path": "FullStack/Full Stack tutorialspoint/Git.md"
+    },
+    {
+      "basename": "css",
+      "path": "FullStack/Full Stack tutorialspoint/css.md"
+    },
+    {
+      "basename": "0 start full stack tutorialspoint",
+      "path": "FullStack/Full Stack tutorialspoint/0 start full stack tutorialspoint.md"
+    },
+    {
+      "basename": "_ 0 start",
+      "path": "FullStack/Web Development 2022/_ 0 start.md"
+    },
+    {
+      "basename": "_ Node and JavaScript",
+      "path": "JAVASCRIPT/Lear Node.js and Javascript/_ Node and JavaScript.md"
+    },
+    {
       "basename": "_ Django 1 start Mosh",
       "path": "Django/Mosh/1/_ Django 1 start Mosh.md"
     },
@@ -171,34 +199,6 @@
     {
       "basename": "2 Node Package Manager",
       "path": "N_O_D_E/Mosh Node/2 Node Package Manager.md"
-    },
-    {
-      "basename": "1 Node Module System",
-      "path": "N_O_D_E/Mosh Node/1 Node Module System.md"
-    },
-    {
-      "basename": "_ 0 Node (Mosh)",
-      "path": "N_O_D_E/Mosh Node/_ 0 Node (Mosh).md"
-    },
-    {
-      "basename": "git",
-      "path": "N_O_D_E/Lear Node.js and Javascript/git.md"
-    },
-    {
-      "basename": "docker mysql node phpmyadmin",
-      "path": "N_O_D_E/Lear Node.js and Javascript/docker mysql node phpmyadmin.md"
-    },
-    {
-      "basename": "- 5 Stock Market App with Node and JavaScript",
-      "path": "N_O_D_E/Lear Node.js and Javascript/- 5 Stock Market App with Node and JavaScript.md"
-    },
-    {
-      "basename": "- 4 MySQL with Node.js",
-      "path": "N_O_D_E/Lear Node.js and Javascript/- 4 MySQL with Node.js.md"
-    },
-    {
-      "basename": "- 3 Node",
-      "path": "N_O_D_E/Lear Node.js and Javascript/- 3 Node.md"
     }
   ],
   "omittedPaths": [],

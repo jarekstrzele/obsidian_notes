@@ -1,4 +1,4 @@
-[[_ 0 intro]]
+[[Object Pascal/Delphi programming for beginners/_ 0 intro]]
 
 # Conditional Execution in Program. IF…THEN…ELSE statement
 

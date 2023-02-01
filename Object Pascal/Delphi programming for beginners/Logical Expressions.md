@@ -1,4 +1,4 @@
-[[_ 0 intro]]
+[[Object Pascal/Delphi programming for beginners/_ 0 intro]]
 # Logical Expressions. Variables of Boolean Type. Logical Operations
 
 ```pascal

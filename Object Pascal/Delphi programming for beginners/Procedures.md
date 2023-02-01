@@ -1,5 +1,5 @@
 #object_pascal/procedure
-[[_ 0 intro]]
+[[Object Pascal/Delphi programming for beginners/_ 0 intro]]
 
 
 # Procedures

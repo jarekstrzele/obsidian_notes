@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Django/Mosh/1/_ Django 1 start Mosh.md",
+                "file": "FullStack/Full Stack Web Development  Bootcamp/_ 0 Full stack Web Dev Bootcamp.md",
                 "mode": "source",
                 "source": false
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Django/Mosh/1/_ Django 1 start Mosh.md",
+                "file": "FullStack/Full Stack Web Development  Bootcamp/_ 0 Full stack Web Dev Bootcamp.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Django/Mosh/1/_ Django 1 start Mosh.md",
+                "file": "FullStack/Full Stack Web Development  Bootcamp/_ 0 Full stack Web Dev Bootcamp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Django/Mosh/1/_ Django 1 start Mosh.md"
+                "file": "FullStack/Full Stack Web Development  Bootcamp/_ 0 Full stack Web Dev Bootcamp.md"
               }
             }
           },
@@ -272,15 +272,15 @@
   },
   "active": "77a029cea7770c95",
   "lastOpenFiles": [
+    "FullStack/Full Stack tutorialspoint/HTML tutorials point.md",
+    "FullStack/Full Stack tutorialspoint/Git.md",
+    "FullStack/Full Stack tutorialspoint/css.md",
+    "FullStack/Full Stack tutorialspoint/0 start full stack tutorialspoint.md",
+    "FullStack/Web Development 2022/_ 0 start.md",
+    "FullStack/Full Stack Web Development  Bootcamp/_ 0 Full stack Web Dev Bootcamp.md",
+    "JAVASCRIPT/Lear Node.js and Javascript/_ Node and JavaScript.md",
+    "Django/Mosh/1/_ Django 1 start Mosh.md",
     "network/Full HTTP Networking Course – Fetch and REST APIs in JavaScript/_ 0 Full HTTP Networking Course – Fetch and REST APIs in JavaScript.md",
-    "Testowanie/Testy automatyczne w języku Python/_ 0 Testy automatyczne Python.md",
-    "Testowanie/Testy automatyczne w języku Python/2. PyTest.md",
-    "network/HTTP/3 HTTP Connections.md",
-    "network/HTTP/2 HTTP Messages.md",
-    "network/HTTP/1 HTTP Resources.md",
-    "network/HTTP/_ 0 HTTP fundementals.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.3 QTreeWidgets.md",
-    "PYTHON/Learn Python (Basic, BUI, Web, FullStack)/1 Python Database.md"
+    "Testowanie/Testy automatyczne w języku Python/_ 0 Testy automatyczne Python.md"
   ]
 }
