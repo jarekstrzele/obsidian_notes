@@ -36,5 +36,5 @@ selector{
 - `text-align`
 
 
-## Qt Style sheets Reference
+## Qt Style sheets in practice 
 
