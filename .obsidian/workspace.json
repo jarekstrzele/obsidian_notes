@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HASKELL/The Complete Haskell Course/1 Basics.md",
+                "file": "HASKELL/for_great_good/4 Recursion.md",
                 "mode": "source",
                 "source": false
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/The Complete Haskell Course/1 Basics.md",
+                "file": "HASKELL/for_great_good/4 Recursion.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/The Complete Haskell Course/1 Basics.md",
+                "file": "HASKELL/for_great_good/4 Recursion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/The Complete Haskell Course/1 Basics.md"
+                "file": "HASKELL/for_great_good/4 Recursion.md"
               }
             }
           },
@@ -260,15 +260,15 @@
   },
   "active": "4bff1e7d98a9aeb9",
   "lastOpenFiles": [
+    "HASKELL/for_great_good/3.4 Case expressions.md",
+    "HASKELL/for_great_good/3.2 - Guards.md",
+    "HASKELL/for_great_good/3.1 - Pattern matching.md",
+    "HASKELL/for_great_good/2 - Types and Typeclasses.md",
+    "HASKELL/The Complete Haskell Course/1 Basics.md",
     "HASKELL/The Complete Haskell Course/9 Solved Problems - HOFs.md",
     "HASKELL/learning haskell programming/3 Polishing the Word Game.md",
     "HASKELL/learning haskell programming/2 Developing a Word Game.md",
     "HASKELL/learning haskell programming/1 Getting Started with Haskell.md",
-    "HASKELL/learning haskell programming/_ 0 Learining Haskell Programming.md",
-    "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.2. Values and Expressions.md",
-    "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1 Fundamentals.md",
-    "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2.2.1 Grid of Words Game.md",
-    "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/Data.List and operator `!!`.md",
-    "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2.2 Stack Project.md"
+    "HASKELL/learning haskell programming/_ 0 Learining Haskell Programming.md"
   ]
 }

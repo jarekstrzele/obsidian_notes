@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "4 Recursion",
+      "path": "HASKELL/for_great_good/4 Recursion.md"
+    },
+    {
+      "basename": "3.4 Case expressions",
+      "path": "HASKELL/for_great_good/3.4 Case expressions.md"
+    },
+    {
+      "basename": "3.2 - Guards",
+      "path": "HASKELL/for_great_good/3.2 - Guards.md"
+    },
+    {
+      "basename": "3.1 - Pattern matching",
+      "path": "HASKELL/for_great_good/3.1 - Pattern matching.md"
+    },
+    {
+      "basename": "2 - Types and Typeclasses",
+      "path": "HASKELL/for_great_good/2 - Types and Typeclasses.md"
+    },
+    {
       "basename": "1 Basics",
       "path": "HASKELL/The Complete Haskell Course/1 Basics.md"
     },
@@ -51,10 +71,6 @@
     {
       "basename": "_ 0 Testy automatyczne Python",
       "path": "Testowanie/Testy automatyczne w języku Python/_ 0 Testy automatyczne Python.md"
-    },
-    {
-      "basename": "3.4 Case expressions",
-      "path": "HASKELL/for_great_good/3.4 Case expressions.md"
     },
     {
       "basename": "_ 0 Haskell for Imperative Programmers",
@@ -137,10 +153,6 @@
       "path": "PYTHON/Learn Python (Basic, BUI, Web, FullStack)/1 Python Database.md"
     },
     {
-      "basename": "4 Recursion",
-      "path": "HASKELL/for_great_good/4 Recursion.md"
-    },
-    {
       "basename": "0 - Haskell intro",
       "path": "HASKELL/for_great_good/0 - Haskell intro.md"
     },
@@ -149,20 +161,8 @@
       "path": "HASKELL/for_great_good/3.3 let it be.md"
     },
     {
-      "basename": "3.2 - Guards",
-      "path": "HASKELL/for_great_good/3.2 - Guards.md"
-    },
-    {
-      "basename": "3.1 - Pattern matching",
-      "path": "HASKELL/for_great_good/3.1 - Pattern matching.md"
-    },
-    {
       "basename": "3 - Syntax in Function",
       "path": "HASKELL/for_great_good/3 - Syntax in Function.md"
-    },
-    {
-      "basename": "2 - Types and Typeclasses",
-      "path": "HASKELL/for_great_good/2 - Types and Typeclasses.md"
     },
     {
       "basename": "1 - Haskell Tuples",
