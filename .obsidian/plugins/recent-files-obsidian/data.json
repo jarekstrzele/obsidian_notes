@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Data.List and operator !!",
+      "path": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/Data.List and operator !!.md"
+    },
+    {
       "basename": "2.2 Stack Project",
       "path": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2.2 Stack Project.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "7.1 QTabWidget",
       "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.1 QTabWidget.md"
-    },
-    {
-      "basename": "7.2 QListWidget",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.2 QListWidget.md"
     }
   ],
   "omittedPaths": [],

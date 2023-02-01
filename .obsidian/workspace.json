@@ -90,9 +90,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a2e6a89708775da4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/Data.List and operator !!.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -166,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2.2 Stack Project.md",
+                "file": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/Data.List and operator !!.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -183,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2.2 Stack Project.md",
+                "file": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/Data.List and operator !!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2.2 Stack Project.md"
+                "file": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/Data.List and operator !!.md"
               }
             }
           },
@@ -246,8 +258,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4bff1e7d98a9aeb9",
+  "active": "a2e6a89708775da4",
   "lastOpenFiles": [
+    "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2.2 Stack Project.md",
     "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2.2.1 Grid of Words Game.md",
     "Testowanie/Testy automatyczne w języku Python/_ 0 Testy automatyczne Python.md",
     "HASKELL/for_great_good/3.4 Case expressions.md",
@@ -256,7 +269,6 @@
     "FullStack/Full Stack Web Development  Bootcamp/Appendixes/Shell vs Terminal.md",
     "FullStack/Full Stack Web Development  Bootcamp/_ 0 Full stack Web Dev Bootcamp.md",
     "FullStack/Full Stack tutorialspoint/HTML tutorials point.md",
-    "FullStack/Full Stack tutorialspoint/Git.md",
-    "FullStack/Full Stack tutorialspoint/css.md"
+    "FullStack/Full Stack tutorialspoint/Git.md"
   ]
 }
