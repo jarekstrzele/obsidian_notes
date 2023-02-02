@@ -61,6 +61,21 @@ if __name__ == '__main__':
 ```
 
 ## INSERT DATA
+przekazując datę umieść ją w apostrofach
+np.
+```python
+ def insert_data(self, my_hours, my_date):
+        print(f"{my_hours =} {type(my_hours)}")
+        print(f"{my_date =} , {type(my_date)}")
+        query = f"""INSERT INTO Testy (hours_number, word_date)
+                    VALUES ({my_hours}, '{my_date}')"""
+        print(query)
+        self.cur.execute(query)
+        self.db.commit()
+        print("Data inserted")
+```
+
+
 ```python
 import sqlite3 as lit  
   
@@ -76,6 +91,7 @@ def main():
     with db:  
         cur = db.cursor()  
         cur.executemany("INSERT INTO users VALUES (?,?,?)", mysuers)  
+        db.commit()
         print("Data inserted")  
   
   
