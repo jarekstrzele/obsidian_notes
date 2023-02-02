@@ -153,10 +153,33 @@ reverseHOF = foldl (flip (:)) []
 
 -------
 ## Occurrences
+```haskell
+--returns the list that less how many times x appiears in each sublist
+-- countIn [[3,2,3],[3], [], [2,2]] 3 -> [2,1,0,0]
+countIn :: [[Int]] -> Int -> [Int]
+countIn list value = map count list
+	where
+		count :: [Int] -> Int
+		count = length . filter (==value)
+-- countIn [[5,2,1], [3], [5], [1,5,5]] 5
+-- map count [[5,2,1], [3], [5], [1,5,5]]
+----- count [5,2,1] -> length . filter (==5) [5,2,1] -
+----- length [5] -> 1
+-- ...
+```
 
 
-
-
+-----
+# FirstWord
+```haskell
+firstWord :: String -> String -- it returns the first word in the string
+-- firstWord " Good moring I sar " -> "Good"
+--- dropWhile (<3) [1,2,3,4,5]
+--- output: [3,4,5]
+--- takeWhile (<3) [1,2,3,4,5]
+--- output: [1,2]
+firstWord = takeWhile (/=' ') . dropWhile (== ' ')
+```
 
 
 

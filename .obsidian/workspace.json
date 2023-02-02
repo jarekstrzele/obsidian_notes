@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HASKELL/The Complete Haskell Course/9 Solved Problems - HOFs.md",
+                "file": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2.2.1 Grid of Words Game.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/The Complete Haskell Course/9 Solved Problems - HOFs.md",
+                "file": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2.2.1 Grid of Words Game.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/The Complete Haskell Course/9 Solved Problems - HOFs.md",
+                "file": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2.2.1 Grid of Words Game.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/The Complete Haskell Course/9 Solved Problems - HOFs.md"
+                "file": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2.2.1 Grid of Words Game.md"
               }
             }
           },
@@ -212,15 +212,15 @@
   },
   "active": "8ddb336811498547",
   "lastOpenFiles": [
+    "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2.2 Stack Project.md",
+    "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2.1 Exploring Haskell.md",
+    "HASKELL/Learning Path Haskell/3 Mastering Haskell Programming/3 Mastering Haskell Programming.md",
+    "HASKELL/The Complete Haskell Course/9 Solved Problems - HOFs.md",
     "HASKELL/The Complete Haskell Course/8 Higher Order Functions.md",
     "HASKELL/The Complete Haskell Course/7 List Problems.md",
     "HASKELL/The Complete Haskell Course/4 Solved Probelms - Functions.md",
     "HASKELL/The Complete Haskell Course/3 Functions.md",
     "HASKELL/The Complete Haskell Course/2 Basic Types.md",
-    "HASKELL/The Complete Haskell Course/1 Basics.md",
-    "HASKELL/The Complete Haskell Course/_ 0 Complete Haskell Course.md",
-    "PYTHON/GUI/the art of doing create 10 Python GUI/_ basics GUI Python.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/8 Qt Style Sheets.md",
-    "network/HTTP/3 HTTP Connections.md"
+    "HASKELL/The Complete Haskell Course/1 Basics.md"
   ]
 }

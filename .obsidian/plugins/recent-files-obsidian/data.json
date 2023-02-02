@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "2.2.1 Grid of Words Game",
+      "path": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2.2.1 Grid of Words Game.md"
+    },
+    {
+      "basename": "2.2 Stack Project",
+      "path": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2.2 Stack Project.md"
+    },
+    {
+      "basename": "2.1 Exploring Haskell",
+      "path": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2.1 Exploring Haskell.md"
+    },
+    {
+      "basename": "3 Mastering Haskell Programming",
+      "path": "HASKELL/Learning Path Haskell/3 Mastering Haskell Programming/3 Mastering Haskell Programming.md"
+    },
+    {
       "basename": "9 Solved Problems - HOFs",
       "path": "HASKELL/The Complete Haskell Course/9 Solved Problems - HOFs.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "1 Fundamentals",
       "path": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1 Fundamentals.md"
-    },
-    {
-      "basename": "2.2.1 Grid of Words Game",
-      "path": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2.2.1 Grid of Words Game.md"
-    },
-    {
-      "basename": "Data.List and operator `!!`",
-      "path": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/Data.List and operator `!!`.md"
-    },
-    {
-      "basename": "2.2 Stack Project",
-      "path": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2.2 Stack Project.md"
-    },
-    {
-      "basename": "_ 0 Learing Path Haskell",
-      "path": "HASKELL/Learning Path Haskell/_ 0 Learing Path Haskell.md"
     }
   ],
   "omittedPaths": [],
