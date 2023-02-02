@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "2.2.1 Grid of Words Game",
-      "path": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2.2.1 Grid of Words Game.md"
-    },
-    {
       "basename": "2.2 Stack Project",
       "path": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2.2 Stack Project.md"
     },
     {
       "basename": "2.1 Exploring Haskell",
       "path": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2.1 Exploring Haskell.md"
+    },
+    {
+      "basename": "2.2.1 Grid of Words Game",
+      "path": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2.2.1 Grid of Words Game.md"
+    },
+    {
+      "basename": "8 Qt Style Sheets",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/8 Qt Style Sheets.md"
     },
     {
       "basename": "3 Mastering Haskell Programming",
@@ -51,10 +55,6 @@
     {
       "basename": "_ basics GUI Python",
       "path": "PYTHON/GUI/the art of doing create 10 Python GUI/_ basics GUI Python.md"
-    },
-    {
-      "basename": "8 Qt Style Sheets",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/8 Qt Style Sheets.md"
     },
     {
       "basename": "3 HTTP Connections",
