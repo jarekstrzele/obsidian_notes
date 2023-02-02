@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8ddb336811498547",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PYTHON/GUI/the art of doing create 10 Python GUI/_ basics GUI Python.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/8 Qt Style Sheets.md",
+                "file": "PYTHON/GUI/the art of doing create 10 Python GUI/_ basics GUI Python.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -147,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/8 Qt Style Sheets.md",
+                "file": "PYTHON/GUI/the art of doing create 10 Python GUI/_ basics GUI Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/8 Qt Style Sheets.md"
+                "file": "PYTHON/GUI/the art of doing create 10 Python GUI/_ basics GUI Python.md"
               }
             }
           },
@@ -210,17 +222,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3151020a4b10e6b1",
+  "active": "8ddb336811498547",
   "lastOpenFiles": [
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.3 QTreeWidgets.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.2 QListWidget.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.1 QTabWidget.md",
-    "FullStack/Full Stack Web Development  Bootcamp/Appendixes/Shell vs Terminal.md",
-    "HASKELL/for_great_good/4 Recursion.md",
-    "FullStack/Full Stack Web Development  Bootcamp/_ 0 Full stack Web Dev Bootcamp.md",
-    "network/HTTP/3 HTTP Connections.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced widgets.md",
-    "HASKELL/for_great_good/3.4 Case expressions.md",
-    "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md"
+    "PYTHON/GUI/Tkinter/Widżety proste TkInter.md",
+    "PYTHON/GUI/Tkinter/Tkinter Pomidoro.md",
+    "PYTHON/GUI/Tkinter/Tkinter konwerter.md",
+    "PYTHON/GUI/Tkinter/Tkinter 0.md",
+    "PYTHON/GUI/Tkinter/Tkinter.md",
+    "PYTHON/GUI/Tkinter.md",
+    "PYTHON/GUI/Five most Popular Python Gui Libs.md",
+    "PYTHON/GUI/Python Tkinter GUI youtube/_ 0 Python Tkinter GUI.md",
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/8 Qt Style Sheets.md",
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.3 QTreeWidgets.md"
   ]
 }
