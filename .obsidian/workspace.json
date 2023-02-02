@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced widgets.md",
+                "file": "PYTHON/Learn Python (Basic, BUI, Web, FullStack)/1 Python Database.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PYTHON/GUI/the art of doing create 10 Python GUI/_ basics GUI Python.md",
+                "file": "PYTHON/Learn Python (Basic, BUI, Web, FullStack)/1 Python Database.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -159,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PYTHON/GUI/the art of doing create 10 Python GUI/_ basics GUI Python.md",
+                "file": "PYTHON/Learn Python (Basic, BUI, Web, FullStack)/1 Python Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PYTHON/GUI/the art of doing create 10 Python GUI/_ basics GUI Python.md"
+                "file": "PYTHON/Learn Python (Basic, BUI, Web, FullStack)/1 Python Database.md"
               }
             }
           },
@@ -222,17 +221,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8ddb336811498547",
+  "active": "df74dc83b0138a7c",
   "lastOpenFiles": [
-    "PYTHON/GUI/Tkinter/Widżety proste TkInter.md",
-    "PYTHON/GUI/Tkinter/Tkinter Pomidoro.md",
-    "PYTHON/GUI/Tkinter/Tkinter konwerter.md",
-    "PYTHON/GUI/Tkinter/Tkinter 0.md",
-    "PYTHON/GUI/Tkinter/Tkinter.md",
-    "PYTHON/GUI/Tkinter.md",
-    "PYTHON/GUI/Five most Popular Python Gui Libs.md",
-    "PYTHON/GUI/Python Tkinter GUI youtube/_ 0 Python Tkinter GUI.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/8 Qt Style Sheets.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.3 QTreeWidgets.md"
+    "PYTHON/Learn Python (Basic, BUI, Web, FullStack)/0 _ Learn Python From Zero to Hero (basic, Bui, Web, Full Stack).md",
+    "FullStack/Full Stack Web Development  Bootcamp/_ 0 Full stack Web Dev Bootcamp.md",
+    "FullStack/Full Stack tutorialspoint/HTML tutorials point.md",
+    "FullStack/Full Stack tutorialspoint/Git.md",
+    "FullStack/Full Stack tutorialspoint/css.md",
+    "FullStack/Full Stack tutorialspoint/0 start full stack tutorialspoint.md",
+    "FullStack/Full Stack Web Development  Bootcamp/Appendixes/Shell vs Terminal.md",
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced widgets.md",
+    "PYTHON/GUI/the art of doing create 10 Python GUI/_ basics GUI Python.md",
+    "PYTHON/GUI/Tkinter/Widżety proste TkInter.md"
   ]
 }

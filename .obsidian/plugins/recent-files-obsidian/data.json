@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "1 Python Database",
+      "path": "PYTHON/Learn Python (Basic, BUI, Web, FullStack)/1 Python Database.md"
+    },
+    {
+      "basename": "0 _ Learn Python From Zero to Hero (basic, Bui, Web, Full Stack)",
+      "path": "PYTHON/Learn Python (Basic, BUI, Web, FullStack)/0 _ Learn Python From Zero to Hero (basic, Bui, Web, Full Stack).md"
+    },
+    {
+      "basename": "_ 0 Full stack Web Dev Bootcamp",
+      "path": "FullStack/Full Stack Web Development  Bootcamp/_ 0 Full stack Web Dev Bootcamp.md"
+    },
+    {
+      "basename": "HTML tutorials point",
+      "path": "FullStack/Full Stack tutorialspoint/HTML tutorials point.md"
+    },
+    {
+      "basename": "Git",
+      "path": "FullStack/Full Stack tutorialspoint/Git.md"
+    },
+    {
+      "basename": "css",
+      "path": "FullStack/Full Stack tutorialspoint/css.md"
+    },
+    {
+      "basename": "0 start full stack tutorialspoint",
+      "path": "FullStack/Full Stack tutorialspoint/0 start full stack tutorialspoint.md"
+    },
+    {
+      "basename": "Shell vs Terminal",
+      "path": "FullStack/Full Stack Web Development  Bootcamp/Appendixes/Shell vs Terminal.md"
+    },
+    {
+      "basename": "7 Advanced widgets",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced widgets.md"
+    },
+    {
       "basename": "_ basics GUI Python",
       "path": "PYTHON/GUI/the art of doing create 10 Python GUI/_ basics GUI Python.md"
     },
@@ -53,24 +89,12 @@
       "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.1 QTabWidget.md"
     },
     {
-      "basename": "Shell vs Terminal",
-      "path": "FullStack/Full Stack Web Development  Bootcamp/Appendixes/Shell vs Terminal.md"
-    },
-    {
       "basename": "4 Recursion",
       "path": "HASKELL/for_great_good/4 Recursion.md"
     },
     {
-      "basename": "_ 0 Full stack Web Dev Bootcamp",
-      "path": "FullStack/Full Stack Web Development  Bootcamp/_ 0 Full stack Web Dev Bootcamp.md"
-    },
-    {
       "basename": "3 HTTP Connections",
       "path": "network/HTTP/3 HTTP Connections.md"
-    },
-    {
-      "basename": "7 Advanced widgets",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced widgets.md"
     },
     {
       "basename": "3.4 Case expressions",
@@ -157,22 +181,6 @@
       "path": "Testowanie/Testy automatyczne w języku Python/_ 0 Testy automatyczne Python.md"
     },
     {
-      "basename": "HTML tutorials point",
-      "path": "FullStack/Full Stack tutorialspoint/HTML tutorials point.md"
-    },
-    {
-      "basename": "Git",
-      "path": "FullStack/Full Stack tutorialspoint/Git.md"
-    },
-    {
-      "basename": "css",
-      "path": "FullStack/Full Stack tutorialspoint/css.md"
-    },
-    {
-      "basename": "0 start full stack tutorialspoint",
-      "path": "FullStack/Full Stack tutorialspoint/0 start full stack tutorialspoint.md"
-    },
-    {
       "basename": "_ 0 start",
       "path": "FullStack/Web Development 2022/_ 0 start.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "2. PyTest",
       "path": "Testowanie/Testy automatyczne w języku Python/2. PyTest.md"
-    },
-    {
-      "basename": "2 HTTP Messages",
-      "path": "network/HTTP/2 HTTP Messages.md"
-    },
-    {
-      "basename": "1 HTTP Resources",
-      "path": "network/HTTP/1 HTTP Resources.md"
     }
   ],
   "omittedPaths": [],
