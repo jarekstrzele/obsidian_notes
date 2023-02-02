@@ -12,6 +12,11 @@
 
 # SQLite
 #python/sqlite 
+
+### `SELECT (rowid), * FROM tableName;`
+in Python you don't have to use `()`
+
+
 ## create db
 ```python
 import sqlite3 as lit  
