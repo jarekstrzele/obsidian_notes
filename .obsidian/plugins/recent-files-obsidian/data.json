@@ -1,6 +1,50 @@
 {
   "recentFiles": [
     {
+      "basename": "9 Solved Problems - HOFs",
+      "path": "HASKELL/The Complete Haskell Course/9 Solved Problems - HOFs.md"
+    },
+    {
+      "basename": "8 Higher Order Functions",
+      "path": "HASKELL/The Complete Haskell Course/8 Higher Order Functions.md"
+    },
+    {
+      "basename": "7 List Problems",
+      "path": "HASKELL/The Complete Haskell Course/7 List Problems.md"
+    },
+    {
+      "basename": "4 Solved Probelms - Functions",
+      "path": "HASKELL/The Complete Haskell Course/4 Solved Probelms - Functions.md"
+    },
+    {
+      "basename": "3 Functions",
+      "path": "HASKELL/The Complete Haskell Course/3 Functions.md"
+    },
+    {
+      "basename": "2 Basic Types",
+      "path": "HASKELL/The Complete Haskell Course/2 Basic Types.md"
+    },
+    {
+      "basename": "1 Basics",
+      "path": "HASKELL/The Complete Haskell Course/1 Basics.md"
+    },
+    {
+      "basename": "_ 0 Complete Haskell Course",
+      "path": "HASKELL/The Complete Haskell Course/_ 0 Complete Haskell Course.md"
+    },
+    {
+      "basename": "_ basics GUI Python",
+      "path": "PYTHON/GUI/the art of doing create 10 Python GUI/_ basics GUI Python.md"
+    },
+    {
+      "basename": "8 Qt Style Sheets",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/8 Qt Style Sheets.md"
+    },
+    {
+      "basename": "3 HTTP Connections",
+      "path": "network/HTTP/3 HTTP Connections.md"
+    },
+    {
       "basename": "1 Python Database",
       "path": "PYTHON/Learn Python (Basic, BUI, Web, FullStack)/1 Python Database.md"
     },
@@ -37,10 +81,6 @@
       "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced widgets.md"
     },
     {
-      "basename": "_ basics GUI Python",
-      "path": "PYTHON/GUI/the art of doing create 10 Python GUI/_ basics GUI Python.md"
-    },
-    {
       "basename": "Widżety proste TkInter",
       "path": "PYTHON/GUI/Tkinter/Widżety proste TkInter.md"
     },
@@ -73,10 +113,6 @@
       "path": "PYTHON/GUI/Python Tkinter GUI youtube/_ 0 Python Tkinter GUI.md"
     },
     {
-      "basename": "8 Qt Style Sheets",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/8 Qt Style Sheets.md"
-    },
-    {
       "basename": "7.3 QTreeWidgets",
       "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.3 QTreeWidgets.md"
     },
@@ -91,10 +127,6 @@
     {
       "basename": "4 Recursion",
       "path": "HASKELL/for_great_good/4 Recursion.md"
-    },
-    {
-      "basename": "3 HTTP Connections",
-      "path": "network/HTTP/3 HTTP Connections.md"
     },
     {
       "basename": "3.4 Case expressions",
@@ -127,14 +159,6 @@
     {
       "basename": "2 - Types and Typeclasses",
       "path": "HASKELL/for_great_good/2 - Types and Typeclasses.md"
-    },
-    {
-      "basename": "1 Basics",
-      "path": "HASKELL/The Complete Haskell Course/1 Basics.md"
-    },
-    {
-      "basename": "9 Solved Problems - HOFs",
-      "path": "HASKELL/The Complete Haskell Course/9 Solved Problems - HOFs.md"
     },
     {
       "basename": "3 Polishing the Word Game",
@@ -175,30 +199,6 @@
     {
       "basename": "_ 0 Learing Path Haskell",
       "path": "HASKELL/Learning Path Haskell/_ 0 Learing Path Haskell.md"
-    },
-    {
-      "basename": "_ 0 Testy automatyczne Python",
-      "path": "Testowanie/Testy automatyczne w języku Python/_ 0 Testy automatyczne Python.md"
-    },
-    {
-      "basename": "_ 0 start",
-      "path": "FullStack/Web Development 2022/_ 0 start.md"
-    },
-    {
-      "basename": "_ Node and JavaScript",
-      "path": "JAVASCRIPT/Lear Node.js and Javascript/_ Node and JavaScript.md"
-    },
-    {
-      "basename": "_ Django 1 start Mosh",
-      "path": "Django/Mosh/1/_ Django 1 start Mosh.md"
-    },
-    {
-      "basename": "_ 0 Full HTTP Networking Course – Fetch and REST APIs in JavaScript",
-      "path": "network/Full HTTP Networking Course – Fetch and REST APIs in JavaScript/_ 0 Full HTTP Networking Course – Fetch and REST APIs in JavaScript.md"
-    },
-    {
-      "basename": "2. PyTest",
-      "path": "Testowanie/Testy automatyczne w języku Python/2. PyTest.md"
     }
   ],
   "omittedPaths": [],
