@@ -305,11 +305,17 @@ except mdb.Err as e:
 
 ----
 # Postgres
-*elephan SQL*
+*Elephant SQL*
+- create an instance of Postgres on `Elephant SQL`
+- in PGAdmin create/register a new server:
+	- add a name
+	- hostname from ElephantSQL (`kandula.db.elephantsql.com`)
+	- changed username and maintenance database (get from ElephantSQL; `fidgdqfp`)
+	- from ElephantSQL copy password
+	- save
+	- in PGAdmin find your server (`fidgdqfp`) 
 
-
-
-
+### `pip install pyscopg2`
 
 
 ----
