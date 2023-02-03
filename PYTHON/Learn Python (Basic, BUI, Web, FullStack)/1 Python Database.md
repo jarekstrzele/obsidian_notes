@@ -1,4 +1,5 @@
 [[0 _ Learn Python From Zero to Hero (basic, Bui, Web, Full Stack)]]
+#python/database 
 
 >[!info] Database
 >It is a organized collection of data that can be easily accessed and amanaged
@@ -302,10 +303,8 @@ except mdb.Err as e:
 
 
 
-
-
-
-
+----
+# Postgres
 
 
 
@@ -313,10 +312,6 @@ except mdb.Err as e:
 
 
 ----
-# Postgres
-
-
-
 # MS Access
 
 
