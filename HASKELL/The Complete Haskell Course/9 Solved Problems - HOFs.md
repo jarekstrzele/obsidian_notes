@@ -184,6 +184,44 @@ firstWord = takeWhile (/=' ') . dropWhile (== ' ')
 
 ---------
 # Conditional Count
+```haskell
+countIf::(Int->Bool)->[Int]->Int -- returns the number of elmenets in the list that satisfy the predicate
+--countIf (>5) [1..10] -> 5
+--countIf even [3,4,6,1] ->2
+-- filter (>3) [1,2,3,4,5,6,7,8]
+--- output: [4,5,6,7,8]
+countIf p x = length $ filter p x
+```
+
+
+---
+# combination
+```haskell
+combined :: [Int] -> [Int -> Int] -> [[Int]]
+-- returns the list consisting of applying each of the functions
+-- in the second list to the elements in the first list
+-- combined [1,2,3] [(+1), (*2), (^2)] -> [[2,3,4],[2,4,6], [1,4,9]]
+combined list fs = [map f list | f <- fs]
+```
+----
+
+# consecutive functions
+```haskell
+
+
+```
+
+
+---
+# filter fold
+```haskell
+
+
+```
+
+
+
+
 
 
 
