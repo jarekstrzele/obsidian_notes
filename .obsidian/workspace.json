@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testowanie/Testy automatyczne w języku Python/2. PyTest.md",
+                "file": "linux/Vim/Mastering vi and vim/_ Intoduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testowanie/Testy automatyczne w języku Python/2. PyTest.md",
+                "file": "linux/Vim/Mastering vi and vim/_ Intoduction.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Testowanie/Testy automatyczne w języku Python/2. PyTest.md",
+                "file": "linux/Vim/Mastering vi and vim/_ Intoduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Testowanie/Testy automatyczne w języku Python/2. PyTest.md"
+                "file": "linux/Vim/Mastering vi and vim/_ Intoduction.md"
               }
             }
           },
@@ -236,15 +236,15 @@
   },
   "active": "77a029cea7770c95",
   "lastOpenFiles": [
-    "Testowanie/Testy automatyczne w języku Python/_ 0 Testy automatyczne Python.md",
-    "PYTHON/Learn Python (Basic, BUI, Web, FullStack)/1 Python Database.md",
-    "FullStack/Full Stack Web Development  Bootcamp/_ 0 Full stack Web Dev Bootcamp.md",
-    "HASKELL/The Complete Haskell Course/10 Inifite Lists Problems.md",
-    "HASKELL/The Complete Haskell Course/9 Solved Problems - HOFs.md",
-    "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2.2 Stack Project.md",
-    "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2.1 Exploring Haskell.md",
-    "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2.2.1 Grid of Words Game.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/8 Qt Style Sheets.md",
-    "HASKELL/Learning Path Haskell/3 Mastering Haskell Programming/3 Mastering Haskell Programming.md"
+    "linux/Vim/Vim Masterclass udemy/_ 0 Vim Masterclass.md",
+    "linux/Vim/Vim Masterclass udemy/3 Vim Essentials.md",
+    "linux/Vim/Vim Masterclass udemy/4 The Vim Help System.md",
+    "linux/Vim/Vim Masterclass udemy/5 Deleting, Yanking, Putting.md",
+    "linux/Vim/Vim Masterclass udemy/6 Transforming and Substituting Text.md",
+    "linux/Vim/Vim Masterclass udemy/7 Text Objects and Macros.md",
+    "linux/Vim/Mastering vi and vim/_ Intoduction.md",
+    "linux/Vim/Mastering vi and vim/7 - Macros.md",
+    "linux/Vim/Mastering vi and vim/7 - Text Object.md",
+    "Testowanie/Testy automatyczne w języku Python/2. PyTest.md"
   ]
 }

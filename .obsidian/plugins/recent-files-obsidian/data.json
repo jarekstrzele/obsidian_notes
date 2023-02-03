@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "_ Intoduction",
+      "path": "linux/Vim/Mastering vi and vim/_ Intoduction.md"
+    },
+    {
+      "basename": "7 - Macros",
+      "path": "linux/Vim/Mastering vi and vim/7 - Macros.md"
+    },
+    {
+      "basename": "7 - Text Object",
+      "path": "linux/Vim/Mastering vi and vim/7 - Text Object.md"
+    },
+    {
       "basename": "2. PyTest",
       "path": "Testowanie/Testy automatyczne w języku Python/2. PyTest.md"
     },
@@ -163,42 +175,6 @@
     {
       "basename": "_ 0 Haskell for Imperative Programmers",
       "path": "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md"
-    },
-    {
-      "basename": "5 Higher order functions",
-      "path": "HASKELL/for_great_good/5 Higher order functions.md"
-    },
-    {
-      "basename": "1 - Haskell Lists",
-      "path": "HASKELL/for_great_good/1 - Haskell Lists.md"
-    },
-    {
-      "basename": "0 - Haskell intro",
-      "path": "HASKELL/for_great_good/0 - Haskell intro.md"
-    },
-    {
-      "basename": "3.2 - Guards",
-      "path": "HASKELL/for_great_good/3.2 - Guards.md"
-    },
-    {
-      "basename": "3.1 - Pattern matching",
-      "path": "HASKELL/for_great_good/3.1 - Pattern matching.md"
-    },
-    {
-      "basename": "2 - Types and Typeclasses",
-      "path": "HASKELL/for_great_good/2 - Types and Typeclasses.md"
-    },
-    {
-      "basename": "3 Polishing the Word Game",
-      "path": "HASKELL/learning haskell programming/3 Polishing the Word Game.md"
-    },
-    {
-      "basename": "2 Developing a Word Game",
-      "path": "HASKELL/learning haskell programming/2 Developing a Word Game.md"
-    },
-    {
-      "basename": "1 Getting Started with Haskell",
-      "path": "HASKELL/learning haskell programming/1 Getting Started with Haskell.md"
     }
   ],
   "omittedPaths": [],
