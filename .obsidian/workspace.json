@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9a7796a9c8479914",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HASKELL/The Complete Haskell Course/10 Inifite Lists Problems.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -142,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/The Complete Haskell Course/9 Solved Problems - HOFs.md",
+                "file": "HASKELL/The Complete Haskell Course/10 Inifite Lists Problems.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -159,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/The Complete Haskell Course/9 Solved Problems - HOFs.md",
+                "file": "HASKELL/The Complete Haskell Course/10 Inifite Lists Problems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/The Complete Haskell Course/9 Solved Problems - HOFs.md"
+                "file": "HASKELL/The Complete Haskell Course/10 Inifite Lists Problems.md"
               }
             }
           },
@@ -222,14 +234,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c54d14b16b70bc00",
+  "active": "9a7796a9c8479914",
   "lastOpenFiles": [
+    "HASKELL/The Complete Haskell Course/9 Solved Problems - HOFs.md",
     "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2.2 Stack Project.md",
     "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2.1 Exploring Haskell.md",
     "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2.2.1 Grid of Words Game.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/8 Qt Style Sheets.md",
     "HASKELL/Learning Path Haskell/3 Mastering Haskell Programming/3 Mastering Haskell Programming.md",
-    "HASKELL/The Complete Haskell Course/9 Solved Problems - HOFs.md",
     "HASKELL/The Complete Haskell Course/8 Higher Order Functions.md",
     "HASKELL/The Complete Haskell Course/7 List Problems.md",
     "HASKELL/The Complete Haskell Course/4 Solved Probelms - Functions.md",

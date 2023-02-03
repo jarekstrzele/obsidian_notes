@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "10 Inifite Lists Problems",
+      "path": "HASKELL/The Complete Haskell Course/10 Inifite Lists Problems.md"
+    },
+    {
       "basename": "9 Solved Problems - HOFs",
       "path": "HASKELL/The Complete Haskell Course/9 Solved Problems - HOFs.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "1.2. Values and Expressions",
       "path": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.2. Values and Expressions.md"
-    },
-    {
-      "basename": "1 Fundamentals",
-      "path": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1 Fundamentals.md"
     }
   ],
   "omittedPaths": [],
