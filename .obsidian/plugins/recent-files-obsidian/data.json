@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2. PyTest",
+      "path": "Testowanie/Testy automatyczne w języku Python/2. PyTest.md"
+    },
+    {
+      "basename": "_ 0 Testy automatyczne Python",
+      "path": "Testowanie/Testy automatyczne w języku Python/_ 0 Testy automatyczne Python.md"
+    },
+    {
       "basename": "1 Python Database",
       "path": "PYTHON/Learn Python (Basic, BUI, Web, FullStack)/1 Python Database.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "1 Getting Started with Haskell",
       "path": "HASKELL/learning haskell programming/1 Getting Started with Haskell.md"
-    },
-    {
-      "basename": "_ 0 Learining Haskell Programming",
-      "path": "HASKELL/learning haskell programming/_ 0 Learining Haskell Programming.md"
-    },
-    {
-      "basename": "1.2. Values and Expressions",
-      "path": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.2. Values and Expressions.md"
     }
   ],
   "omittedPaths": [],

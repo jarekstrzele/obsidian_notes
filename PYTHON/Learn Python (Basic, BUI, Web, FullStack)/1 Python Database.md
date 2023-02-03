@@ -335,7 +335,34 @@ except:
     print("Database is not connected")
 ```
 
-
+## create a table
+```python
+# postgres  
+import psycopg2  
+  
+DB_NAME = "fidgdqfp"  
+DB_USER = "fidgdqfp"  
+DB_PASS = "QicWTKtLo0SBt6z_YuijOYA5beotbz5Z"  
+DB_HOST = "kandula.db.elephantsql.com"  
+DB_PORT = 5432  
+  
+try:  
+    conn = psycopg2.connect(database=DB_NAME, user=DB_USER, password=DB_PASS, host=DB_HOST, port=DB_PORT)  
+    print("Database is connected")  
+    cur = conn.cursor()  
+    cur.execute(  
+        """  
+    CREATE TABLE Employee
+    (ID INT PRIMARY KEY NOT NULL
+    , NAME TEXT NOT NULL
+    , EMAIL TEXT NOT NULL
+    )        """ 
+    )  
+    conn.commit()  
+    print("Table is created")  
+except:  
+    print("Database is not connected")
+```
 
 
 
