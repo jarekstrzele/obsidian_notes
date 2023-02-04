@@ -7,7 +7,10 @@
 [[5 Tuple]]
 [[6 Lists and Text]]
 [[7 List Problems]]
-
+[[8 Higher Order Functions]]
+[[9 Solved Problems - HOFs]]
+[[10 Inifite Lists Problems]]
+[[11 Binary trees]]
 
 -----
 # Haskell start 
