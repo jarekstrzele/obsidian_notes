@@ -5,6 +5,14 @@
       "path": "linux/Vim/Mastering vi and vim/_ Intoduction.md"
     },
     {
+      "basename": "_ Vim intro",
+      "path": "linux/Vim/Vim YouTube/_ Vim intro.md"
+    },
+    {
+      "basename": "insert mode",
+      "path": "linux/Vim/Vim YouTube/insert mode.md"
+    },
+    {
       "basename": "7 - Macros",
       "path": "linux/Vim/Mastering vi and vim/7 - Macros.md"
     },
