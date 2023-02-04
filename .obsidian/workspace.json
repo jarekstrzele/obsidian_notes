@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.4 QPlainTextEdit.md",
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md",
                 "mode": "source",
                 "source": false
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.4 QPlainTextEdit.md",
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.4 QPlainTextEdit.md",
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.4 QPlainTextEdit.md"
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md"
               }
             }
           },
@@ -260,6 +260,8 @@
   },
   "active": "ab5265806630095c",
   "lastOpenFiles": [
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md",
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.4 QPlainTextEdit.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.3 QTreeWidgets.md",
     "HASKELL/The Complete Haskell Course/_ 0 Complete Haskell Course.md",
     "HASKELL/The Complete Haskell Course/11 Binary trees.md",
@@ -267,8 +269,6 @@
     "HASKELL/The Complete Haskell Course/9 Solved Problems - HOFs.md",
     "linux/Vim/Mastering vi and vim/_ Intoduction.md",
     "linux/Vim/Vim YouTube/_ Vim intro.md",
-    "linux/Vim/Vim YouTube/insert mode.md",
-    "linux/Vim/Vim Masterclass udemy/_ 0 Vim Masterclass.md",
-    "linux/Vim/Vim Masterclass udemy/3 Vim Essentials.md"
+    "linux/Vim/Vim YouTube/insert mode.md"
   ]
 }
