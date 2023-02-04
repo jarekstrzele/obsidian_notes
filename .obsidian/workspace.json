@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HASKELL/The Complete Haskell Course/9 Solved Problems - HOFs.md",
+                "file": "HASKELL/The Complete Haskell Course/10 Inifite Lists Problems.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/Vim/Mastering vi and vim/_ Intoduction.md",
+                "file": "HASKELL/The Complete Haskell Course/10 Inifite Lists Problems.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/Vim/Mastering vi and vim/_ Intoduction.md",
+                "file": "HASKELL/The Complete Haskell Course/10 Inifite Lists Problems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/Vim/Mastering vi and vim/_ Intoduction.md"
+                "file": "HASKELL/The Complete Haskell Course/10 Inifite Lists Problems.md"
               }
             }
           },
@@ -234,17 +234,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "77a029cea7770c95",
+  "active": "c54d14b16b70bc00",
   "lastOpenFiles": [
+    "HASKELL/The Complete Haskell Course/9 Solved Problems - HOFs.md",
+    "linux/Vim/Mastering vi and vim/_ Intoduction.md",
     "linux/Vim/Vim YouTube/_ Vim intro.md",
     "linux/Vim/Vim YouTube/insert mode.md",
-    "linux/Vim/Mastering vi and vim/_ Intoduction.md",
     "linux/Vim/Vim Masterclass udemy/_ 0 Vim Masterclass.md",
     "linux/Vim/Vim Masterclass udemy/3 Vim Essentials.md",
     "linux/Vim/Vim Masterclass udemy/4 The Vim Help System.md",
     "linux/Vim/Vim Masterclass udemy/5 Deleting, Yanking, Putting.md",
     "linux/Vim/Vim Masterclass udemy/6 Transforming and Substituting Text.md",
-    "linux/Vim/Vim Masterclass udemy/7 Text Objects and Macros.md",
-    "linux/Vim/Mastering vi and vim/7 - Macros.md"
+    "linux/Vim/Vim Masterclass udemy/7 Text Objects and Macros.md"
   ]
 }

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "10 Inifite Lists Problems",
+      "path": "HASKELL/The Complete Haskell Course/10 Inifite Lists Problems.md"
+    },
+    {
+      "basename": "9 Solved Problems - HOFs",
+      "path": "HASKELL/The Complete Haskell Course/9 Solved Problems - HOFs.md"
+    },
+    {
       "basename": "_ Intoduction",
       "path": "linux/Vim/Mastering vi and vim/_ Intoduction.md"
     },
@@ -35,14 +43,6 @@
     {
       "basename": "_ 0 Full stack Web Dev Bootcamp",
       "path": "FullStack/Full Stack Web Development  Bootcamp/_ 0 Full stack Web Dev Bootcamp.md"
-    },
-    {
-      "basename": "10 Inifite Lists Problems",
-      "path": "HASKELL/The Complete Haskell Course/10 Inifite Lists Problems.md"
-    },
-    {
-      "basename": "9 Solved Problems - HOFs",
-      "path": "HASKELL/The Complete Haskell Course/9 Solved Problems - HOFs.md"
     },
     {
       "basename": "2.2 Stack Project",
