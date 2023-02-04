@@ -69,6 +69,11 @@ factorials = scanl (*) 1 $ iterate (+1) 1
 ```
 
 
+---
+# Prime Numbers
+
+
+
 
 
 
