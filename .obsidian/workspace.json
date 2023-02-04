@@ -85,7 +85,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md",
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "73e761dfd79f5f59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.5 QTextEdit.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -178,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md",
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.5 QTextEdit.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -195,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md",
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.5 QTextEdit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md"
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.5 QTextEdit.md"
               }
             }
           },
@@ -258,17 +270,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ab5265806630095c",
+  "active": "73e761dfd79f5f59",
   "lastOpenFiles": [
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced widgets.md",
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.5 QTextEdit.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.4 QPlainTextEdit.md",
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.3 QTreeWidgets.md",
     "HASKELL/The Complete Haskell Course/_ 0 Complete Haskell Course.md",
     "HASKELL/The Complete Haskell Course/11 Binary trees.md",
     "HASKELL/The Complete Haskell Course/10 Inifite Lists Problems.md",
-    "HASKELL/The Complete Haskell Course/9 Solved Problems - HOFs.md",
-    "linux/Vim/Mastering vi and vim/_ Intoduction.md",
-    "linux/Vim/Vim YouTube/_ Vim intro.md",
-    "linux/Vim/Vim YouTube/insert mode.md"
+    "HASKELL/The Complete Haskell Course/9 Solved Problems - HOFs.md"
   ]
 }

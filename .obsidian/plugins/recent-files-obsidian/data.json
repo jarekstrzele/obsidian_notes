@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "2 Installing PyQt5",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md"
+      "basename": "7.5 QTextEdit",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.5 QTextEdit.md"
+    },
+    {
+      "basename": "7 Advanced widgets",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced widgets.md"
     },
     {
       "basename": "_ 0 PyQt5 From A-Z",
@@ -11,6 +15,10 @@
     {
       "basename": "7.4 QPlainTextEdit",
       "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.4 QPlainTextEdit.md"
+    },
+    {
+      "basename": "2 Installing PyQt5",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md"
     },
     {
       "basename": "7.3 QTreeWidgets",
@@ -145,10 +153,6 @@
       "path": "FullStack/Full Stack Web Development  Bootcamp/Appendixes/Shell vs Terminal.md"
     },
     {
-      "basename": "7 Advanced widgets",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced widgets.md"
-    },
-    {
       "basename": "Widżety proste TkInter",
       "path": "PYTHON/GUI/Tkinter/Widżety proste TkInter.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "3.4 Case expressions",
       "path": "HASKELL/for_great_good/3.4 Case expressions.md"
-    },
-    {
-      "basename": "_ 0 Haskell for Imperative Programmers",
-      "path": "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md"
     }
   ],
   "omittedPaths": [],

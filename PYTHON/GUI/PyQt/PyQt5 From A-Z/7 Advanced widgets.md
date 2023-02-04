@@ -3,14 +3,11 @@
 [[7.1 QTabWidget]]
 [[7.2 QListWidget]]
 [[7.3 QTreeWidgets]]
-
---------
-# QPlainTextEdit
-
+[[7.4 QPlainTextEdit]]
+[[7.5 QTextEdit]]
 
 
--------
-# QTextEdit
+
 
 
 
