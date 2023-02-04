@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "7.4 QPlainTextEdit",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.4 QPlainTextEdit.md"
+    },
+    {
+      "basename": "7.3 QTreeWidgets",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.3 QTreeWidgets.md"
+    },
+    {
       "basename": "_ 0 Complete Haskell Course",
       "path": "HASKELL/The Complete Haskell Course/_ 0 Complete Haskell Course.md"
     },
@@ -163,10 +171,6 @@
     {
       "basename": "_ 0 Python Tkinter GUI",
       "path": "PYTHON/GUI/Python Tkinter GUI youtube/_ 0 Python Tkinter GUI.md"
-    },
-    {
-      "basename": "7.3 QTreeWidgets",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.3 QTreeWidgets.md"
     },
     {
       "basename": "7.2 QListWidget",
