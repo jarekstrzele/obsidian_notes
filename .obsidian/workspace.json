@@ -104,6 +104,18 @@
             }
           },
           {
+            "id": "d1c377ef01fbf93a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git/git ogólnie.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9a7796a9c8479914",
             "type": "leaf",
             "state": {
@@ -116,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -190,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/web/snap/_ 0 Snap Haskell.md",
+                "file": "Git/git ogólnie.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -207,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/web/snap/_ 0 Snap Haskell.md",
+                "file": "Git/git ogólnie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/web/snap/_ 0 Snap Haskell.md"
+                "file": "Git/git ogólnie.md"
               }
             }
           },
@@ -270,10 +282,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "51ec4386484957d4",
+  "active": "d1c377ef01fbf93a",
   "lastOpenFiles": [
-    "HASKELL/Cabal.md",
     "HASKELL/web/snap/_ 0 Snap Haskell.md",
+    "HASKELL/Cabal.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.5 QTextEdit.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced widgets.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md",
