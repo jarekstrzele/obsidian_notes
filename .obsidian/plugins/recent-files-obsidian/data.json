@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "general",
+      "path": "HASKELL/web/general.md"
+    },
+    {
       "basename": "7.5 QTextEdit",
       "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.5 QTextEdit.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "4 Recursion",
       "path": "HASKELL/for_great_good/4 Recursion.md"
-    },
-    {
-      "basename": "3.4 Case expressions",
-      "path": "HASKELL/for_great_good/3.4 Case expressions.md"
     }
   ],
   "omittedPaths": [],

@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "77a029cea7770c95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linux/Vim/Mastering vi and vim/_ Intoduction.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3151020a4b10e6b1",
             "type": "leaf",
             "state": {
@@ -98,6 +86,18 @@
               "type": "markdown",
               "state": {
                 "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.5 QTextEdit.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "51ec4386484957d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HASKELL/web/general.md",
                 "mode": "source",
                 "source": false
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.5 QTextEdit.md",
+                "file": "HASKELL/web/general.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.5 QTextEdit.md",
+                "file": "HASKELL/web/general.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.5 QTextEdit.md"
+                "file": "HASKELL/web/general.md"
               }
             }
           },
@@ -270,10 +270,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "73e761dfd79f5f59",
+  "active": "51ec4386484957d4",
   "lastOpenFiles": [
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced widgets.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.5 QTextEdit.md",
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced widgets.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.4 QPlainTextEdit.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md",
