@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -202,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/git ogólnie.md",
+                "file": "HASKELL/web/snap/_ 0 Snap Haskell.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -219,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/git ogólnie.md",
+                "file": "HASKELL/web/snap/_ 0 Snap Haskell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/git ogólnie.md"
+                "file": "HASKELL/web/snap/_ 0 Snap Haskell.md"
               }
             }
           },
@@ -282,8 +282,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d1c377ef01fbf93a",
+  "active": "51ec4386484957d4",
   "lastOpenFiles": [
+    "Git/git ogólnie.md",
     "HASKELL/web/snap/_ 0 Snap Haskell.md",
     "HASKELL/Cabal.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.5 QTextEdit.md",
@@ -292,7 +293,6 @@
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.4 QPlainTextEdit.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.3 QTreeWidgets.md",
-    "HASKELL/The Complete Haskell Course/_ 0 Complete Haskell Course.md",
-    "HASKELL/The Complete Haskell Course/11 Binary trees.md"
+    "HASKELL/The Complete Haskell Course/_ 0 Complete Haskell Course.md"
   ]
 }
