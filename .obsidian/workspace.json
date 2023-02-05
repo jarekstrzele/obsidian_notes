@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HASKELL/web/general.md",
+                "file": "HASKELL/web/snap/_ 0 Snap Haskell.md",
                 "mode": "source",
                 "source": false
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/web/general.md",
+                "file": "HASKELL/web/snap/_ 0 Snap Haskell.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/web/general.md",
+                "file": "HASKELL/web/snap/_ 0 Snap Haskell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/web/general.md"
+                "file": "HASKELL/web/snap/_ 0 Snap Haskell.md"
               }
             }
           },
@@ -272,6 +272,7 @@
   },
   "active": "51ec4386484957d4",
   "lastOpenFiles": [
+    "HASKELL/web/general.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.5 QTextEdit.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced widgets.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md",
@@ -280,7 +281,6 @@
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.3 QTreeWidgets.md",
     "HASKELL/The Complete Haskell Course/_ 0 Complete Haskell Course.md",
     "HASKELL/The Complete Haskell Course/11 Binary trees.md",
-    "HASKELL/The Complete Haskell Course/10 Inifite Lists Problems.md",
-    "HASKELL/The Complete Haskell Course/9 Solved Problems - HOFs.md"
+    "HASKELL/The Complete Haskell Course/10 Inifite Lists Problems.md"
   ]
 }

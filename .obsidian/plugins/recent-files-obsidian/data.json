@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "_ 0 Snap Haskell",
+      "path": "HASKELL/web/snap/_ 0 Snap Haskell.md"
+    },
+    {
       "basename": "general",
       "path": "HASKELL/web/general.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "7.1 QTabWidget",
       "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.1 QTabWidget.md"
-    },
-    {
-      "basename": "4 Recursion",
-      "path": "HASKELL/for_great_good/4 Recursion.md"
     }
   ],
   "omittedPaths": [],
