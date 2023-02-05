@@ -272,7 +272,8 @@
   },
   "active": "51ec4386484957d4",
   "lastOpenFiles": [
-    "HASKELL/web/general.md",
+    "HASKELL/Cabal.md",
+    "HASKELL/web/snap/_ 0 Snap Haskell.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.5 QTextEdit.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced widgets.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md",
@@ -280,7 +281,6 @@
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.3 QTreeWidgets.md",
     "HASKELL/The Complete Haskell Course/_ 0 Complete Haskell Course.md",
-    "HASKELL/The Complete Haskell Course/11 Binary trees.md",
-    "HASKELL/The Complete Haskell Course/10 Inifite Lists Problems.md"
+    "HASKELL/The Complete Haskell Course/11 Binary trees.md"
   ]
 }

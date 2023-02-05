@@ -23,6 +23,8 @@ http://snapframework.com/
 # Installing SNAP
 http://snapframework.com/download
 
+[[Cabal]]
+
 Snap require GHC Haskell compiler
 ```bash
 $ cabal update

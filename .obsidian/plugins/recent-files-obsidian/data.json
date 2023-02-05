@@ -5,8 +5,8 @@
       "path": "HASKELL/web/snap/_ 0 Snap Haskell.md"
     },
     {
-      "basename": "general",
-      "path": "HASKELL/web/general.md"
+      "basename": "Cabal",
+      "path": "HASKELL/Cabal.md"
     },
     {
       "basename": "7.5 QTextEdit",
