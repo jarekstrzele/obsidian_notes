@@ -104,6 +104,18 @@
             }
           },
           {
+            "id": "f963a60d6fc76e49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HASKELL/web/Yesod/0 _ Haskell and Yesod.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d1c377ef01fbf93a",
             "type": "leaf",
             "state": {
@@ -128,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -202,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/web/snap/_ 0 Snap Haskell.md",
+                "file": "HASKELL/web/Yesod/0 _ Haskell and Yesod.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -219,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/web/snap/_ 0 Snap Haskell.md",
+                "file": "HASKELL/web/Yesod/0 _ Haskell and Yesod.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/web/snap/_ 0 Snap Haskell.md"
+                "file": "HASKELL/web/Yesod/0 _ Haskell and Yesod.md"
               }
             }
           },
@@ -282,10 +294,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "51ec4386484957d4",
+  "active": "f963a60d6fc76e49",
   "lastOpenFiles": [
-    "Git/git ogólnie.md",
     "HASKELL/web/snap/_ 0 Snap Haskell.md",
+    "Git/git ogólnie.md",
     "HASKELL/Cabal.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.5 QTextEdit.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced widgets.md",

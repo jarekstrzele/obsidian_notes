@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "0 _ Haskell and Yesod",
+      "path": "HASKELL/web/Yesod/0 _ Haskell and Yesod.md"
+    },
+    {
       "basename": "_ 0 Snap Haskell",
       "path": "HASKELL/web/snap/_ 0 Snap Haskell.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_ 0 Python Tkinter GUI",
       "path": "PYTHON/GUI/Python Tkinter GUI youtube/_ 0 Python Tkinter GUI.md"
-    },
-    {
-      "basename": "7.2 QListWidget",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.2 QListWidget.md"
     }
   ],
   "omittedPaths": [],
