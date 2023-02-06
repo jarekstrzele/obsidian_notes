@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "9145a96080aac6c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PYTHON/OOP Python udemy/7 DataClasses.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c964aa6455cbec4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PYTHON/OOP Python udemy/7 DataClasses.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9a7796a9c8479914",
             "type": "leaf",
             "state": {
@@ -44,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -198,17 +222,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d1c377ef01fbf93a",
+  "active": "c964aa6455cbec4a",
   "lastOpenFiles": [
-    "PYTHON/OOP Python udemy/8 Descriptors.md",
+    "PYTHON/OOP Python udemy/7.2 Dataclasses.md",
+    "PYTHON/OOP Python udemy/7.1 NamedTuples.md",
     "PYTHON/OOP Python udemy/7 DataClasses.md",
+    "PYTHON/OOP Python udemy/8 Descriptors.md",
     "Studia/Przygotowanie pedagogiczne/Wybrane zagadnienia z psychologii.md",
     "HASKELL/The Complete Haskell Course/11 Binary trees.md",
     "Git/git ogólnie.md",
     "HASKELL/web/Yesod/0 _ Haskell and Yesod.md",
     "HASKELL/web/snap/_ 0 Snap Haskell.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.5 QTextEdit.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.3 QTreeWidgets.md"
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.5 QTextEdit.md"
   ]
 }

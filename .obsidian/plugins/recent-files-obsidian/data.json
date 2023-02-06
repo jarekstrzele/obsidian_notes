@@ -5,6 +5,14 @@
       "path": "PYTHON/OOP Python udemy/7 DataClasses.md"
     },
     {
+      "basename": "7.2 Dataclasses",
+      "path": "PYTHON/OOP Python udemy/7.2 Dataclasses.md"
+    },
+    {
+      "basename": "7.1 NamedTuples",
+      "path": "PYTHON/OOP Python udemy/7.1 NamedTuples.md"
+    },
+    {
       "basename": "8 Descriptors",
       "path": "PYTHON/OOP Python udemy/8 Descriptors.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Tkinter konwerter",
       "path": "PYTHON/GUI/Tkinter/Tkinter konwerter.md"
-    },
-    {
-      "basename": "Tkinter 0",
-      "path": "PYTHON/GUI/Tkinter/Tkinter 0.md"
-    },
-    {
-      "basename": "Tkinter",
-      "path": "PYTHON/GUI/Tkinter/Tkinter.md"
     }
   ],
   "omittedPaths": [],
