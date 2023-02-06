@@ -1,7 +1,7 @@
 [[_ 0 Python OOP]]
 #python/dataclass
 [[7.1 NamedTuples]]
-
+[[7.2 Dataclasses]]
 
 
 
