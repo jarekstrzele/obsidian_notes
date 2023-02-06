@@ -55,12 +55,12 @@ Kr = namedtuple("Krasnoludek", ["ksywa", "wzrost", "wiek"], defaults=("",10, 100
 koszalek = Kr()
 print(koszalek.wzrost)
 
-slownikiwoy_koszalek = koszalek._asdict()
+slownikowy_koszalek = koszalek._asdict()
 print(koszalek)
 print(slownikiwoy_koszalek)
 ```
 
-a new syntax for attrs:
+a new syntax for attrs (single string with white space between attributes):
 ```python
 from collections import namedtuple
 
