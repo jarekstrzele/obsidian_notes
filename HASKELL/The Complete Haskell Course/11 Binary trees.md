@@ -1,5 +1,5 @@
 #binary_tree 
-
+# Fundamentals of Binary Trees
 
 >[!info] Binary Tree
 >data structure
@@ -11,7 +11,7 @@ common uses:
 - binary heaps
 - Huffman coding
 - 
-# definition in Haskell
+## definition in Haskell
 ```haskell
 data Bintree = Empty | Node Int Bintree
   deriving (Show)
@@ -32,6 +32,31 @@ data Bintree a = Empty | Node a (Bintree a) (Bintree a)
 t1 :: Bintree Int
 t1 = Node 3 (Node 1 Empty Empty) (Node 2 Empty Empty)
 ```
+
+
+---
+# Problem 1 - Tree Size
+`data Tree a = Node a (Tree a) (Tree a) | Empty deriving (Show)`
+
+**size** - the nymber of node that the tree contains
+
+```haskell
+size :: Tree a -> Int
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
