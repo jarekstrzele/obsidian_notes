@@ -13,6 +13,10 @@
       "path": "PYTHON/OOP Python udemy/7.1 NamedTuples.md"
     },
     {
+      "basename": "10 Inifite Lists Problems",
+      "path": "HASKELL/The Complete Haskell Course/10 Inifite Lists Problems.md"
+    },
+    {
       "basename": "8 Descriptors",
       "path": "PYTHON/OOP Python udemy/8 Descriptors.md"
     },
@@ -47,10 +51,6 @@
     {
       "basename": "7.3 QTreeWidgets",
       "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.3 QTreeWidgets.md"
-    },
-    {
-      "basename": "10 Inifite Lists Problems",
-      "path": "HASKELL/The Complete Haskell Course/10 Inifite Lists Problems.md"
     },
     {
       "basename": "Cabal",
