@@ -56,7 +56,20 @@ Pawłow opierał się na procesach nerwowych
 	- na unikaniu
 
 # PSYCHOLOGIA POZNAWCZA
-
+Przedmioty badań:
+- percepcja
+- język
+- psychologia rozwojowa
+- myślenie, rozwiązywanie problemów
+- inteligencja ludzka
+- AI
+- wyobraźnia
+- pamięć i uwaga
+- rozpoznawanie wzorców
+- procesy poznawcze
+	- poznawanie
+	- tworzenie wiedzy
+	- modyfikowanie wiedzy
 
 
 
