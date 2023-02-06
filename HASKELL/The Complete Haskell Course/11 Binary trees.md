@@ -41,7 +41,15 @@ t1 = Node 3 (Node 1 Empty Empty) (Node 2 Empty Empty)
 **size** - the nymber of node that the tree contains
 
 ```haskell
-size :: Tree a -> Int
+data Tree a = Node a (Tree a) (Tree a) | Empty
+  deriving (Show)
+
+
+size:: Tree a -> Int
+size Empty = 0 -- Base Case: Emptry Tree
+size (Node _ lc rc) = 1 + size lc + size rc
+
+
 ```
 
 
