@@ -23,13 +23,30 @@ dziedziny psychologii:
 ## Psychologia różnic indywidualnych
 chodzi o nasz temperament
 Pawłow - cztery typy temperamenu:
-1. sangwinik (silny ruchliwy zrównoważony)
+1. **sangwinik** (silny ruchliwy zrównoważony)
 silna ekspresja, ok wychowanie, dzieci głośne, radzą sobie w kontaktach społecznych
-3. flagamtyk (powolony)
-bez emocji, wychowanie ok, łatwy kontakt z ludźmu
-5. cholery (niezrównoważony)
-trudności emocjonalne w dostosowaniu do zachowań spo
-7. melancholi (słaby)
+metody wychowacze: działania na koncentrację (radzić sobie z małą ilością bodźców)
+
+2. **flagamtyk** (powolony)
+bez emocji, wychowanie ok, łatwy kontakt z ludźmi
+metody wychowacze: poprawić mu dynamikę działania (określanie czasu)
+
+3. **choleryk** (niezrównoważony)
+trudności emocjonalne w dostosowaniu do zachowań społecznych
+wychwoanie trudne
+metody wychowacze: opanowanie, konsekwencja
+
+4. **melancholik** (słaby)
+niski poziom aktywności, nerwicowy, zamknięty w sobie, przewaga negatywnych emocji
+metody wychowacze: najtrudniejszy w wychowaniu, delikatność w postępowaniu, dużo przerw w uczeniu się, negatywne wzmacnianie nie działa, bo tylko pogłębia się 
+
+Pawłow opierał się na procesach nerwowych
+
+
+
+
+
+
 
 
 
