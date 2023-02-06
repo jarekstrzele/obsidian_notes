@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Wybrane zagadnienia z psychologii",
+      "path": "Studia/Przygotowanie pedagogiczne/Wybrane zagadnienia z psychologii.md"
+    },
+    {
       "basename": "11 Binary trees",
       "path": "HASKELL/The Complete Haskell Course/11 Binary trees.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Five most Popular Python Gui Libs",
       "path": "PYTHON/GUI/Five most Popular Python Gui Libs.md"
-    },
-    {
-      "basename": "_ 0 Python Tkinter GUI",
-      "path": "PYTHON/GUI/Python Tkinter GUI youtube/_ 0 Python Tkinter GUI.md"
     }
   ],
   "omittedPaths": [],

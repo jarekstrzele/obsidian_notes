@@ -49,7 +49,18 @@ size:: Tree a -> Int
 size Empty = 0 -- Base Case: Emptry Tree
 size (Node _ lc rc) = 1 + size lc + size rc
 
+```
 
+```haskell
+ghci> let t7 = Node 7 Empty Empty
+ghci> let t6 = Node 6 Empty Empty
+ghci> let t5 = Node 5 Empty Empty
+ghci> let t4 = Node 4 Empty Empty
+ghci> let t3 = Node 3 t6 t7
+ghci> let t2 = Node 2 t4 t5
+ghci> let t1 = Node 1 t2 t3
+ghci> size t1
+7
 ```
 
 
