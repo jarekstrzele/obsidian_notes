@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "7 DataClasses",
+      "path": "PYTHON/OOP Python udemy/7 DataClasses.md"
+    },
+    {
+      "basename": "8 Descriptors",
+      "path": "PYTHON/OOP Python udemy/8 Descriptors.md"
+    },
+    {
       "basename": "Wybrane zagadnienia z psychologii",
       "path": "Studia/Przygotowanie pedagogiczne/Wybrane zagadnienia z psychologii.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Tkinter",
       "path": "PYTHON/GUI/Tkinter/Tkinter.md"
-    },
-    {
-      "basename": "Tkinter",
-      "path": "PYTHON/GUI/Tkinter.md"
-    },
-    {
-      "basename": "Five most Popular Python Gui Libs",
-      "path": "PYTHON/GUI/Five most Popular Python Gui Libs.md"
     }
   ],
   "omittedPaths": [],
