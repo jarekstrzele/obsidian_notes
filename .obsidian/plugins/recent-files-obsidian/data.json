@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "11 Binary trees",
+      "path": "HASKELL/The Complete Haskell Course/11 Binary trees.md"
+    },
+    {
+      "basename": "git ogólnie",
+      "path": "Git/git ogólnie.md"
+    },
+    {
       "basename": "0 _ Haskell and Yesod",
       "path": "HASKELL/web/Yesod/0 _ Haskell and Yesod.md"
     },
@@ -9,24 +17,28 @@
       "path": "HASKELL/web/snap/_ 0 Snap Haskell.md"
     },
     {
-      "basename": "git ogólnie",
-      "path": "Git/git ogólnie.md"
+      "basename": "7.5 QTextEdit",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.5 QTextEdit.md"
+    },
+    {
+      "basename": "_ 0 PyQt5 From A-Z",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md"
+    },
+    {
+      "basename": "7.3 QTreeWidgets",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.3 QTreeWidgets.md"
+    },
+    {
+      "basename": "10 Inifite Lists Problems",
+      "path": "HASKELL/The Complete Haskell Course/10 Inifite Lists Problems.md"
     },
     {
       "basename": "Cabal",
       "path": "HASKELL/Cabal.md"
     },
     {
-      "basename": "7.5 QTextEdit",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.5 QTextEdit.md"
-    },
-    {
       "basename": "7 Advanced widgets",
       "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced widgets.md"
-    },
-    {
-      "basename": "_ 0 PyQt5 From A-Z",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md"
     },
     {
       "basename": "7.4 QPlainTextEdit",
@@ -37,20 +49,8 @@
       "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md"
     },
     {
-      "basename": "7.3 QTreeWidgets",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.3 QTreeWidgets.md"
-    },
-    {
       "basename": "_ 0 Complete Haskell Course",
       "path": "HASKELL/The Complete Haskell Course/_ 0 Complete Haskell Course.md"
-    },
-    {
-      "basename": "11 Binary trees",
-      "path": "HASKELL/The Complete Haskell Course/11 Binary trees.md"
-    },
-    {
-      "basename": "10 Inifite Lists Problems",
-      "path": "HASKELL/The Complete Haskell Course/10 Inifite Lists Problems.md"
     },
     {
       "basename": "9 Solved Problems - HOFs",
