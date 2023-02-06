@@ -42,6 +42,20 @@ metody wychowacze: najtrudniejszy w wychowaniu, delikatność w postępowaniu, d
 
 Pawłow opierał się na procesach nerwowych
 
+**właściwości temperamentalne** (wiele warości dla każdego parametru):
+- sensoryczna wrażliwość
+- reaktywność emocjonalna ()
+- wytrzymałość 
+- aktywność (stymulacje)
+- czasowy wymiar
+	- żwawość (szybkość dostosowania do nowej sytuacji)
+	- perserewatywność (bodziec -> kontynuowania działania; im wyższy poziom, tym wydłużone kontynuowanie działania)
+- styl radzenia sobie ze stresem - skoncentrowania na:
+	- na zadaniu (wysokie kompetencje społeczne)
+	- na emocjach (niskie kompetencje społeczne)
+	- na unikaniu
+
+# PSYCHOLOGIA POZNAWCZA
 
 
 
