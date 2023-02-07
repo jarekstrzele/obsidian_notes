@@ -190,7 +190,10 @@ https://reactnavigation.org/
 ## 2. `npx expo install react-native-screens react-native-safe-area-context`
 ## 3. `import {} from '@react-navigation/native'` ;`
 
+**on web reactnavigation -> API Reference > Navigators**
 
+## Stack navigator
+`npm install @react-navigation/stack`
 
 
 
