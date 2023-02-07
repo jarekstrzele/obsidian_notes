@@ -193,7 +193,7 @@ https://reactnavigation.org/
 **on web reactnavigation -> API Reference > Navigators**
 
 ## Stack navigator
-`npm install @react-navigation/stack`
+`npm install @react-navigation/native-stack`
 
 
 
