@@ -15,6 +15,7 @@ first check IP in Android
 > **connected to 10.0.2.4:5555**
 
 ## `expo init reactNativeApp`
+# `npx create-expo-app projectName`
 1. Node 16 (2023)
 2. `npm install -g expo-cli`
 3. `expo init project-name`
