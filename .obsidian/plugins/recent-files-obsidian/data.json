@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "5 Simple QWidgets",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md"
+    },
+    {
       "basename": "7.2 Dataclasses",
       "path": "PYTHON/OOP Python udemy/7.2 Dataclasses.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Tkinter Pomidoro",
       "path": "PYTHON/GUI/Tkinter/Tkinter Pomidoro.md"
-    },
-    {
-      "basename": "Tkinter konwerter",
-      "path": "PYTHON/GUI/Tkinter/Tkinter konwerter.md"
     }
   ],
   "omittedPaths": [],

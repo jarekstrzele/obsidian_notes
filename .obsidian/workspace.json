@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PYTHON/OOP Python udemy/7.2 Dataclasses.md",
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PYTHON/OOP Python udemy/7.2 Dataclasses.md",
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PYTHON/OOP Python udemy/7.2 Dataclasses.md",
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PYTHON/OOP Python udemy/7.2 Dataclasses.md"
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md"
               }
             }
           },
@@ -224,10 +224,10 @@
   },
   "active": "c964aa6455cbec4a",
   "lastOpenFiles": [
+    "PYTHON/OOP Python udemy/7.2 Dataclasses.md",
     "PYTHON/OOP Python udemy/7 DataClasses.md",
     "PYTHON/OOP Python udemy/7.1 NamedTuples.md",
     "HASKELL/The Complete Haskell Course/10 Inifite Lists Problems.md",
-    "PYTHON/OOP Python udemy/7.2 Dataclasses.md",
     "PYTHON/OOP Python udemy/8 Descriptors.md",
     "Studia/Przygotowanie pedagogiczne/Wybrane zagadnienia z psychologii.md",
     "HASKELL/The Complete Haskell Course/11 Binary trees.md",
