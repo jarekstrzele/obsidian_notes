@@ -14,6 +14,15 @@ first check IP in Android
 > **daemon started successfully**  
 > **connected to 10.0.2.4:5555**
 
+ACTUAL
+```react_native
+npx create-expo-app AwesomeProject  
+cd AwesomeProject  
+npx expo start
+```
+
+
+
 ## `expo init reactNativeApp`
 # `npx create-expo-app projectName`
 1. Node 16 (2023)
