@@ -182,7 +182,15 @@ const styles = StyleSheet.create({
 
 
 ---
-# Add some action
+# Add some action React Navigator
+https://reactnavigation.org/
+#reactnavigation 
+
+##  1. `npm install @react-navigation/native`
+## 2. `npx expo install react-native-screens react-native-safe-area-context`
+## 3. `import {} from '@react-navigation/native'` ;`
+
+
 
 
 
