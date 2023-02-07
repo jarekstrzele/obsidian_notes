@@ -82,7 +82,11 @@ const styles = StyleSheet.create({
 ```
 
 
-
+# Some styling
+to change background color in all app:
+- go ro `app.json`
+- `expo`> add `backgroundColor: new value`
+- reload
 
 
 
