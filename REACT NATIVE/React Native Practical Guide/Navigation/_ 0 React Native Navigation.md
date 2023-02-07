@@ -323,11 +323,27 @@ You can therefore change the initial screen by changing the `<Stack.Screen>` o
 4.  </Stack.Navigator>
 
 ----
-When you want use Navigator but your component is not register 
+When you want use Navigator but your component is not register like these:
+```jsx
+<Stack.Navigator>
+          <Stack.Screen name="MealsCategories"
+                        component={CategoriesScreen}
+                        />
+          <Stack.Screen name="MealsOverview"
+                        component={MealsOverviewScreen}
+                        />
+        </Stack.Navigator>
+```
+
+`import {useNavigation} from "@react-navigation/native"`
+`const navigation = useNavigation()`
 
 
+[[useNavigation Hook]]
 
 
+-----------
+## sending data by  `navigator`
 
 
 
