@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Klucz obcy.md",
+                "file": "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/LEFT JOIN SQLIte.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Klucz obcy.md",
+                "file": "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/LEFT JOIN SQLIte.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Klucz obcy.md",
+                "file": "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/LEFT JOIN SQLIte.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Klucz obcy.md"
+                "file": "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/LEFT JOIN SQLIte.md"
               }
             }
           },
@@ -248,15 +248,15 @@
   },
   "active": "86263ff564b4153e",
   "lastOpenFiles": [
+    "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/INTERSECT.md",
+    "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/CROSS JOIN.md",
+    "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/_ Łączenie tabel SQLite.md",
+    "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Klucz obcy.md",
     "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/_ DDL SQLite.md",
     "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/SQLite DQL.md",
     "Data Bases/SQL/SQL Bootcamp SQLite/Widoki SQLite.md",
     "Data Bases/SQL/SQL Bootcamp SQLite/raise SQLite.md",
     "Data Bases/SQL/SQL Bootcamp SQLite/datetime sqlite.md",
-    "Data Bases/SQL/SQL Bootcamp SQLite/_ SQLite.md",
-    "Data Bases/SQL/SQL Bootcamp SQLite/_ SQL Bootcamp - SQLite cz. 2.md",
-    "Data Bases/SQL/SQL Bootcamp SQLite/_ SQL Bootcamp - SQLite cz. 1.md",
-    "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Create i DROP table SQLIte.md",
-    "REACT NATIVE/React Native Practical Guide/Navigation/_ 0 React Native Navigation.md"
+    "Data Bases/SQL/SQL Bootcamp SQLite/_ SQLite.md"
   ]
 }

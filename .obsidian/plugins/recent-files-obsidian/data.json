@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "LEFT JOIN SQLIte",
+      "path": "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/LEFT JOIN SQLIte.md"
+    },
+    {
+      "basename": "INTERSECT",
+      "path": "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/INTERSECT.md"
+    },
+    {
+      "basename": "CROSS JOIN",
+      "path": "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/CROSS JOIN.md"
+    },
+    {
+      "basename": "_ Łączenie tabel SQLite",
+      "path": "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/_ Łączenie tabel SQLite.md"
+    },
+    {
       "basename": "Klucz obcy",
       "path": "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Klucz obcy.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "2. PyTest",
       "path": "Testowanie/Testy automatyczne w języku Python/2. PyTest.md"
-    },
-    {
-      "basename": "_ 0 Testy automatyczne Python",
-      "path": "Testowanie/Testy automatyczne w języku Python/_ 0 Testy automatyczne Python.md"
-    },
-    {
-      "basename": "1 Python Database",
-      "path": "PYTHON/Learn Python (Basic, BUI, Web, FullStack)/1 Python Database.md"
-    },
-    {
-      "basename": "_ 0 Full stack Web Dev Bootcamp",
-      "path": "FullStack/Full Stack Web Development  Bootcamp/_ 0 Full stack Web Dev Bootcamp.md"
-    },
-    {
-      "basename": "2.2 Stack Project",
-      "path": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2.2 Stack Project.md"
     }
   ],
   "omittedPaths": [],
