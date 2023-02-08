@@ -40,119 +40,65 @@ Style Sheet
 ## https://doc.qt.io/qt-5/stylesheet-reference.html
 
 
-
 ## Qt Style sheets in practice 
 something doesn't work
 ```python
 import sys
-
 from PyQt5.QtWidgets import *
 
-  
-
 class Main(QDialog):
-
     def __init__(self):
-
         super().__init__()
-
         self.setWindowTitle("First Style Sheet")
-
         # for all container
-
         # self.setStyleSheet("background-color:red; border-radius: 3px; padding: 3px")
 
-  
-
         sStyle="""
-
             QPushButton {
-
                 background-color:blue;
-
                 color: white ;
-
                 border-radius: 3px;
-
                 padding: 3px;
-
             }
-
-  
 
             QPushButton {
-
                 background-color: red;
-
                 color:white;
-
                 border-radius: 3px;
-
                 padding: 3px;
-
             }
-
-  
 
             QPushButton: hover {
-
                 background-color:green;
-
                 color: white ;
-
                 border-radius: 3px;
-
                 border: 5px solid #000000;
-
                 padding: 3px;
-
             }
 
         """
-
   
 
         self.setStyleSheet(sStyle)
-
-  
-
         self.btn1 = QPushButton("Button 1")
-
         self.btn1.setDefault(True)
-
         self.btn2 = QPushButton("Button 2")
-
         self.btn3 = QPushButton("Button 3")
-
         self.btn3.setStyleSheet("background-color:orange; border-radius: 3px; border: 2 solid #000000; padding: 3px")
-
         # self.btn3.setDefault(True)
 
-  
-
         self.lytMain = QVBoxLayout()
-
         self.lytMain.addWidget(self.btn1)
-
         self.lytMain.addWidget(self.btn2)
-
         self.lytMain.addWidget(self.btn3)
-
-  
 
         self.setLayout(self.lytMain)
 
-  
 
 if __name__ == "__main__":
-
     app = QApplication([])
-
     main=Main()
-
     main.show()
-
-  
 
     sys.exit(app.exec_())
 ```

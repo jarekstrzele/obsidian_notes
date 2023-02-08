@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/Navigation/_ 0 React Native Navigation.md",
+                "file": "PYTHON/GUI/PyQt/Qt Designer and Python.md",
                 "mode": "source",
                 "source": false
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/Navigation/_ 0 React Native Navigation.md",
+                "file": "PYTHON/GUI/PyQt/Qt Designer and Python.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/Navigation/_ 0 React Native Navigation.md",
+                "file": "PYTHON/GUI/PyQt/Qt Designer and Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/Navigation/_ 0 React Native Navigation.md"
+                "file": "PYTHON/GUI/PyQt/Qt Designer and Python.md"
               }
             }
           },
@@ -260,15 +260,15 @@
   },
   "active": "6d0258c8ac8a4554",
   "lastOpenFiles": [
-    "REACT/React - the Complete Guide/9. Fragments, Portal, refs.md",
-    "REACT/React - the Complete Guide/8 Login Project.md",
-    "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/LEFT JOIN SQLIte.md",
-    "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/INTERSECT.md",
-    "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/CROSS JOIN.md",
-    "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/_ Łączenie tabel SQLite.md",
-    "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Klucz obcy.md",
-    "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/_ DDL SQLite.md",
-    "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/SQLite DQL.md",
-    "Data Bases/SQL/SQL Bootcamp SQLite/Widoki SQLite.md"
+    "PYTHON/GUI/PyQt/6.1 Layouts Summary.md",
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/13 The Qt Model_view Architecture.md",
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/12 Database Apps with Qt.md",
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/11 Multi-Threaded apps.md",
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/10 QMainWindow class - Professional apps.md",
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/8 Qt Style Sheets.md",
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.5 QTextEdit.md",
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.4 QPlainTextEdit.md",
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.2 QListWidget.md"
   ]
 }

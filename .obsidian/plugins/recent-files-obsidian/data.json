@@ -1,6 +1,54 @@
 {
   "recentFiles": [
     {
+      "basename": "Qt Designer and Python",
+      "path": "PYTHON/GUI/PyQt/Qt Designer and Python.md"
+    },
+    {
+      "basename": "6.1 Layouts Summary",
+      "path": "PYTHON/GUI/PyQt/6.1 Layouts Summary.md"
+    },
+    {
+      "basename": "13 The Qt Model_view Architecture",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/13 The Qt Model_view Architecture.md"
+    },
+    {
+      "basename": "12 Database Apps with Qt",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/12 Database Apps with Qt.md"
+    },
+    {
+      "basename": "11 Multi-Threaded apps",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/11 Multi-Threaded apps.md"
+    },
+    {
+      "basename": "10 QMainWindow class - Professional apps",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/10 QMainWindow class - Professional apps.md"
+    },
+    {
+      "basename": "9 QtDesigner",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md"
+    },
+    {
+      "basename": "8 Qt Style Sheets",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/8 Qt Style Sheets.md"
+    },
+    {
+      "basename": "7.5 QTextEdit",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.5 QTextEdit.md"
+    },
+    {
+      "basename": "7.4 QPlainTextEdit",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.4 QPlainTextEdit.md"
+    },
+    {
+      "basename": "7.2 QListWidget",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.2 QListWidget.md"
+    },
+    {
+      "basename": "7.1 QTabWidget",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.1 QTabWidget.md"
+    },
+    {
       "basename": "_ 0 React Native Navigation",
       "path": "REACT NATIVE/React Native Practical Guide/Navigation/_ 0 React Native Navigation.md"
     },
@@ -149,56 +197,8 @@
       "path": "HASKELL/web/snap/_ 0 Snap Haskell.md"
     },
     {
-      "basename": "7.5 QTextEdit",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.5 QTextEdit.md"
-    },
-    {
       "basename": "_ 0 PyQt5 From A-Z",
       "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md"
-    },
-    {
-      "basename": "7.3 QTreeWidgets",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.3 QTreeWidgets.md"
-    },
-    {
-      "basename": "Cabal",
-      "path": "HASKELL/Cabal.md"
-    },
-    {
-      "basename": "7 Advanced widgets",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced widgets.md"
-    },
-    {
-      "basename": "7.4 QPlainTextEdit",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.4 QPlainTextEdit.md"
-    },
-    {
-      "basename": "2 Installing PyQt5",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md"
-    },
-    {
-      "basename": "_ 0 Complete Haskell Course",
-      "path": "HASKELL/The Complete Haskell Course/_ 0 Complete Haskell Course.md"
-    },
-    {
-      "basename": "9 Solved Problems - HOFs",
-      "path": "HASKELL/The Complete Haskell Course/9 Solved Problems - HOFs.md"
-    },
-    {
-      "basename": "_ Intoduction",
-      "path": "linux/Vim/Mastering vi and vim/_ Intoduction.md"
-    },
-    {
-      "basename": "_ Vim intro",
-      "path": "linux/Vim/Vim YouTube/_ Vim intro.md"
-    },
-    {
-      "basename": "insert mode",
-      "path": "linux/Vim/Vim YouTube/insert mode.md"
-    },
-    {
-      "basename": "7 - Macros",
-      "path": "linux/Vim/Mastering vi and vim/7 - Macros.md"
     }
   ],
   "omittedPaths": [],
