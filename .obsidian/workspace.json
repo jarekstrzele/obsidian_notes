@@ -85,7 +85,55 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.5 QTextEdit.md",
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.5 QTextEdit.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b7a8dce355e5c010",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7 Advanced widgets.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5fa6f3acb323b21c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.1 QTabWidget.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b28a3a924c6f8fff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/8 Qt Style Sheets.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3442a1652bb0a981",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/8.1 Widget specific styling.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -178,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.5 QTextEdit.md",
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/8.1 Widget specific styling.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -195,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.5 QTextEdit.md",
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/8.1 Widget specific styling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.5 QTextEdit.md"
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/8.1 Widget specific styling.md"
               }
             }
           },
@@ -258,17 +306,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6d0258c8ac8a4554",
+  "active": "3442a1652bb0a981",
   "lastOpenFiles": [
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/8 Qt Style Sheets.md",
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.6 QTextBrowser.md",
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7 Advanced widgets.md",
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.2 QListWidget.md",
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.1 QTabWidget.md",
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.5 QTextEdit.md",
     "PYTHON/GUI/PyQt/Qt Designer and Python.md",
     "PYTHON/GUI/PyQt/6.1 Layouts Summary.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/13 The Qt Model_view Architecture.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/12 Database Apps with Qt.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/11 Multi-Threaded apps.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/10 QMainWindow class - Professional apps.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/8 Qt Style Sheets.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.5 QTextEdit.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.4 QPlainTextEdit.md"
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/12 Database Apps with Qt.md"
   ]
 }
