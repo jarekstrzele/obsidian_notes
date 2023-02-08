@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "9. Fragments, Portal, refs",
+      "path": "REACT/React - the Complete Guide/9. Fragments, Portal, refs.md"
+    },
+    {
+      "basename": "8 Login Project",
+      "path": "REACT/React - the Complete Guide/8 Login Project.md"
+    },
+    {
       "basename": "LEFT JOIN SQLIte",
       "path": "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/LEFT JOIN SQLIte.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "7 - Macros",
       "path": "linux/Vim/Mastering vi and vim/7 - Macros.md"
-    },
-    {
-      "basename": "7 - Text Object",
-      "path": "linux/Vim/Mastering vi and vim/7 - Text Object.md"
-    },
-    {
-      "basename": "2. PyTest",
-      "path": "Testowanie/Testy automatyczne w języku Python/2. PyTest.md"
     }
   ],
   "omittedPaths": [],

@@ -61,7 +61,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/LEFT JOIN SQLIte.md",
+                "file": "REACT/React - the Complete Guide/8 Login Project.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d992afafe36261e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "REACT/React - the Complete Guide/9. Fragments, Portal, refs.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -166,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/LEFT JOIN SQLIte.md",
+                "file": "REACT/React - the Complete Guide/9. Fragments, Portal, refs.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -183,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/LEFT JOIN SQLIte.md",
+                "file": "REACT/React - the Complete Guide/9. Fragments, Portal, refs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/LEFT JOIN SQLIte.md"
+                "file": "REACT/React - the Complete Guide/9. Fragments, Portal, refs.md"
               }
             }
           },
@@ -246,8 +258,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "86263ff564b4153e",
+  "active": "d992afafe36261e7",
   "lastOpenFiles": [
+    "REACT/React - the Complete Guide/8 Login Project.md",
+    "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/LEFT JOIN SQLIte.md",
     "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/INTERSECT.md",
     "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/CROSS JOIN.md",
     "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/_ Łączenie tabel SQLite.md",
@@ -255,8 +269,6 @@
     "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/_ DDL SQLite.md",
     "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/SQLite DQL.md",
     "Data Bases/SQL/SQL Bootcamp SQLite/Widoki SQLite.md",
-    "Data Bases/SQL/SQL Bootcamp SQLite/raise SQLite.md",
-    "Data Bases/SQL/SQL Bootcamp SQLite/datetime sqlite.md",
-    "Data Bases/SQL/SQL Bootcamp SQLite/_ SQLite.md"
+    "Data Bases/SQL/SQL Bootcamp SQLite/raise SQLite.md"
   ]
 }

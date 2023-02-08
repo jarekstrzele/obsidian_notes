@@ -60,7 +60,7 @@ index.css
 
 
 >[!important] IMPORTANT
->You always need to import what you wan use
+>You always need to import what you want use
 
 UI>Card.js
 ```jsx
