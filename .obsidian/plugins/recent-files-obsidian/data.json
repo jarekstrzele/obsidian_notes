@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "7.5 QTextEdit",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.5 QTextEdit.md"
+    },
+    {
       "basename": "Qt Designer and Python",
       "path": "PYTHON/GUI/PyQt/Qt Designer and Python.md"
     },
@@ -31,10 +35,6 @@
     {
       "basename": "8 Qt Style Sheets",
       "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/8 Qt Style Sheets.md"
-    },
-    {
-      "basename": "7.5 QTextEdit",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.5 QTextEdit.md"
     },
     {
       "basename": "7.4 QPlainTextEdit",

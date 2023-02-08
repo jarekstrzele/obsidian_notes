@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PYTHON/GUI/PyQt/Qt Designer and Python.md",
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.5 QTextEdit.md",
                 "mode": "source",
                 "source": false
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PYTHON/GUI/PyQt/Qt Designer and Python.md",
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.5 QTextEdit.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PYTHON/GUI/PyQt/Qt Designer and Python.md",
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.5 QTextEdit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PYTHON/GUI/PyQt/Qt Designer and Python.md"
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.5 QTextEdit.md"
               }
             }
           },
@@ -260,6 +260,7 @@
   },
   "active": "6d0258c8ac8a4554",
   "lastOpenFiles": [
+    "PYTHON/GUI/PyQt/Qt Designer and Python.md",
     "PYTHON/GUI/PyQt/6.1 Layouts Summary.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/13 The Qt Model_view Architecture.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/12 Database Apps with Qt.md",
@@ -268,7 +269,6 @@
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/8 Qt Style Sheets.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.5 QTextEdit.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.4 QPlainTextEdit.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.2 QListWidget.md"
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/7.4 QPlainTextEdit.md"
   ]
 }
