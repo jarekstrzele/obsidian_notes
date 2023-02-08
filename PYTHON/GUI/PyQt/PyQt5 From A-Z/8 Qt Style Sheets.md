@@ -1,6 +1,7 @@
 [[_ 0 PyQt5 From A-Z]]
+https://doc.qt.io/qt-5/stylesheet-reference.html
 
-
+----
 - `setStyleSheet(str)` - QApplication, QWidget
 - similar to CSS
 ```css
