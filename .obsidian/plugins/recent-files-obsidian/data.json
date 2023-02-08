@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Klucz obcy",
+      "path": "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Klucz obcy.md"
+    },
+    {
       "basename": "_ DDL SQLite",
       "path": "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/_ DDL SQLite.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2.2 Stack Project",
       "path": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2.2 Stack Project.md"
-    },
-    {
-      "basename": "2.1 Exploring Haskell",
-      "path": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2.1 Exploring Haskell.md"
     }
   ],
   "omittedPaths": [],

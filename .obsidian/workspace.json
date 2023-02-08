@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/_ DDL SQLite.md",
+                "file": "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Klucz obcy.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/_ DDL SQLite.md",
+                "file": "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Klucz obcy.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/_ DDL SQLite.md",
+                "file": "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Klucz obcy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/_ DDL SQLite.md"
+                "file": "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Klucz obcy.md"
               }
             }
           },
@@ -248,6 +248,7 @@
   },
   "active": "86263ff564b4153e",
   "lastOpenFiles": [
+    "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/_ DDL SQLite.md",
     "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/SQLite DQL.md",
     "Data Bases/SQL/SQL Bootcamp SQLite/Widoki SQLite.md",
     "Data Bases/SQL/SQL Bootcamp SQLite/raise SQLite.md",
@@ -256,7 +257,6 @@
     "Data Bases/SQL/SQL Bootcamp SQLite/_ SQL Bootcamp - SQLite cz. 2.md",
     "Data Bases/SQL/SQL Bootcamp SQLite/_ SQL Bootcamp - SQLite cz. 1.md",
     "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Create i DROP table SQLIte.md",
-    "REACT NATIVE/React Native Practical Guide/Navigation/_ 0 React Native Navigation.md",
-    "REACT NATIVE/React Native Practical Guide/Navigation/useNavigation Hook.md"
+    "REACT NATIVE/React Native Practical Guide/Navigation/_ 0 React Native Navigation.md"
   ]
 }
