@@ -345,10 +345,37 @@ When you want use Navigator but your component is not register like these:
 -----------
 ## sending data by  `navigator`
 
+CategoriesScreem.jsx (add object to `navigate` method)
+```jsx
+function CategoriesScreen(props){
+    function renderCategoryItem(itemData) {
+        return <CategoryGridTitle title={itemData.item.title}
+                                  color={itemData.item.color}
+                                  whenPressExecute={() => { props.navigation.navigate("MealsOverview", {
+                                    categoryId: itemData.item.id,
+                                  }) } } />;
+    }
+//...  
+
+}
+```
 
 
+in MealsOverviewScreen.jsx (object `route` as props)
+```jsx
+import { View, Text, StyleSheet } from "react-native";
+import { MEALS } from "../data/dummy-data";
 
+function MealsOverviewScreen(props){
 
+	const catId = props.route.params.categoryId;
+    return(
+        <View style={styles.container}>
+            <Text>Meals Overview Screen - {catId} </Text>
+        </View>
+    )
+}
+```
 
 
 
