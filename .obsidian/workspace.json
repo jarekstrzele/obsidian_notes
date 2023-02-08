@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/Navigation/_ 0 React Native Navigation.md",
+                "file": "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/_ DDL SQLite.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/Navigation/_ 0 React Native Navigation.md",
+                "file": "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/_ DDL SQLite.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/Navigation/_ 0 React Native Navigation.md",
+                "file": "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/_ DDL SQLite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/Navigation/_ 0 React Native Navigation.md"
+                "file": "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/_ DDL SQLite.md"
               }
             }
           },
@@ -248,15 +248,15 @@
   },
   "active": "86263ff564b4153e",
   "lastOpenFiles": [
-    "REACT NATIVE/React Native Practical Guide/Navigation/useNavigation Hook.md",
+    "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/SQLite DQL.md",
+    "Data Bases/SQL/SQL Bootcamp SQLite/Widoki SQLite.md",
+    "Data Bases/SQL/SQL Bootcamp SQLite/raise SQLite.md",
+    "Data Bases/SQL/SQL Bootcamp SQLite/datetime sqlite.md",
+    "Data Bases/SQL/SQL Bootcamp SQLite/_ SQLite.md",
+    "Data Bases/SQL/SQL Bootcamp SQLite/_ SQL Bootcamp - SQLite cz. 2.md",
+    "Data Bases/SQL/SQL Bootcamp SQLite/_ SQL Bootcamp - SQLite cz. 1.md",
+    "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Create i DROP table SQLIte.md",
     "REACT NATIVE/React Native Practical Guide/Navigation/_ 0 React Native Navigation.md",
-    "REACT NATIVE/React Native Practical Guide/1.4. FlatList.md",
-    "REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
-    "REACT NATIVE/React Native Practical Guide/1.2. Handling Events.md",
-    "REACT NATIVE/React Native Practical Guide/1.3. Scrolling.md",
-    "REACT NATIVE/React Native Practical Guide/3 mini game.md",
-    "REACT NATIVE/React Native Practical Guide/1 React Native Basics.md",
-    "PYTHON/OOP Python udemy/2 Classes.md",
-    "PYTHON/OOP Python udemy/_ 0 Python OOP.md"
+    "REACT NATIVE/React Native Practical Guide/Navigation/useNavigation Hook.md"
   ]
 }
