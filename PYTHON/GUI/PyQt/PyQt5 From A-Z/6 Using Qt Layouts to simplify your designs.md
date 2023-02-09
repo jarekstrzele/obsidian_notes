@@ -187,7 +187,7 @@ Project:
 
 
 ---
-# QStackedLaout
+# QStackedLayout
 
 ## LAYOUTS:
 ### Absolute positioning
