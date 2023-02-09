@@ -35,6 +35,8 @@ Możemy wysłać zapytania:
 
 
 # Graf kompletny
+> Graf, w którym każdy wierzchołek jest połączony z każdym innym
+
 
 
 

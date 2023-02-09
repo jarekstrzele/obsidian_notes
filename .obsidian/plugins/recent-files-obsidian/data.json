@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Drawing 2023-02-09 11.09.26.excalidraw",
+      "path": "Excalidraw/Drawing 2023-02-09 11.09.26.excalidraw.md"
+    },
+    {
+      "basename": "2 Właściwości grafów",
+      "path": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md"
+    },
+    {
+      "basename": "3 - Algorytmy grafowe",
+      "path": "algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md"
+    },
+    {
+      "basename": "4 drzewo binarnych wyszukiwań",
+      "path": "algorithmic/Grafy w Pythonie/4 drzewo binarnych wyszukiwań.md"
+    },
+    {
       "basename": "8 Qt Style Sheets",
       "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/8 Qt Style Sheets.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "7.2 Dataclasses",
       "path": "PYTHON/OOP Python udemy/7.2 Dataclasses.md"
-    },
-    {
-      "basename": "10 Inifite Lists Problems",
-      "path": "HASKELL/The Complete Haskell Course/10 Inifite Lists Problems.md"
-    },
-    {
-      "basename": "8 Descriptors",
-      "path": "PYTHON/OOP Python udemy/8 Descriptors.md"
-    },
-    {
-      "basename": "Wybrane zagadnienia z psychologii",
-      "path": "Studia/Przygotowanie pedagogiczne/Wybrane zagadnienia z psychologii.md"
-    },
-    {
-      "basename": "11 Binary trees",
-      "path": "HASKELL/The Complete Haskell Course/11 Binary trees.md"
     }
   ],
   "omittedPaths": [],
