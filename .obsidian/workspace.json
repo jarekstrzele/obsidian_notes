@@ -145,7 +145,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md",
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md",
                 "mode": "source",
                 "source": false
               }
@@ -238,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md",
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -255,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md",
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md"
+                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md"
               }
             }
           },
@@ -320,6 +320,7 @@
   },
   "active": "1b89453b883c0bdb",
   "lastOpenFiles": [
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/4 Pre-defined dialogs and basic data types.md",
     "PYTHON/GUI/Qt Designer and Python.md",
@@ -328,7 +329,6 @@
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/8.1 Widget specific styling.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/8 Qt Style Sheets.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/6.1 Layouts Summary.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md"
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md"
   ]
 }
