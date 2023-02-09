@@ -145,7 +145,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REACT/React - the Complete Guide/8 Login Project.md",
+                "file": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
                 "mode": "source",
                 "source": false
               }
@@ -238,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REACT/React - the Complete Guide/8 Login Project.md",
+                "file": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -255,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REACT/React - the Complete Guide/8 Login Project.md",
+                "file": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REACT/React - the Complete Guide/8 Login Project.md"
+                "file": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md"
               }
             }
           },
@@ -320,15 +320,15 @@
   },
   "active": "1b89453b883c0bdb",
   "lastOpenFiles": [
+    "algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md",
+    "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
+    "REACT/React - the Complete Guide/8 Login Project.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md",
     "PYTHON/OOP Python udemy/7.2 Dataclasses.md",
     "PYTHON/OOP Python udemy/7 DataClasses.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/4 Pre-defined dialogs and basic data types.md",
     "PYTHON/GUI/Qt Designer and Python.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/10 QMainWindow class - Professional apps.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/8.1 Widget specific styling.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/8 Qt Style Sheets.md"
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/10 QMainWindow class - Professional apps.md"
   ]
 }

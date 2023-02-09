@@ -69,11 +69,26 @@ print(is_complete(V2))
 
 # Myśliwy -ścieżka w grafie
 
-## Breadth First Check
+## Breadth First Check - przeszukiwanie wszerz
 Node1- Czy znasz Myśliwego? nie. A Kogoś znasz? Tak->Node2 -Czy ... 
 
+
+np. 
+	E--D1
+		D1--D2
+		D1--P
+		D1--D2
+		D2--P
+					P-K
+					P-Q
+					P-H
+						H-K
+						
+Czy istnieje droga z E do 
 dwie listy
 *to check*                        *visited*
+D1                                      --
+D2, P                                 D1
 
 
 Przechodzimy przez wierchołki pytając o sąsiadów danego wierzchołka, aż znadziemy cel
