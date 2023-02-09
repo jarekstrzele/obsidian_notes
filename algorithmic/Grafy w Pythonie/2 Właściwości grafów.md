@@ -84,12 +84,21 @@ np.
 					P-H
 						H-K
 						
-Czy istnieje droga z E do 
+Czy istnieje droga z E do H?
+- Hej D1 czy jesteś myśliwym (H)?
+- Nie
+- A znasz kogoś?
+- tak, znam P i D2
+- Hej D2 czy jesteś myśliwym?
+- nie, 
+- 
 dwie listy
 *to check*                        *visited*
 D1                                      --
 D2, P                                 D1
-
+P                                        D1  D2
+P D1 P                              
+....
 
 Przechodzimy przez wierchołki pytając o sąsiadów danego wierzchołka, aż znadziemy cel
 
