@@ -37,9 +37,33 @@ Możemy wysłać zapytania:
 # Graf kompletny
 > Graf, w którym każdy wierzchołek jest połączony z każdym innym
 
+[Graf kompletny]
+
+```python
+V1 = {
+    'A': ['B','C','D'],
+    'B': ['A','C','D'],
+    'C': ['A','B','D'],
+    'D': ['A','B','C'],
+}
+
+  
+V2 = {
+    'A': ['B','C','D'],
+    'B': ['A','C','D'],
+    'C': ['A','D'],
+    'D': ['A','B','C'],
+}
 
 
+def is_complete(V):
+    for n in V.keys():
+        if len(V[n]) != len(V)-1:
+            return False
+    return True
 
+print(is_complete(V2))
+```
 
 
 

@@ -143,9 +143,11 @@
             "id": "1b89453b883c0bdb",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-09 11.09.26.excalidraw.md"
+                "file": "algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -236,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-09 11.09.26.excalidraw.md",
+                "file": "algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -253,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-09 11.09.26.excalidraw.md",
+                "file": "algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -276,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-09 11.09.26.excalidraw.md"
+                "file": "algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md"
               }
             }
           },
@@ -318,15 +320,15 @@
   },
   "active": "1b89453b883c0bdb",
   "lastOpenFiles": [
-    "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
-    "algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md",
+    "algorithmic/Grafy w Pythonie/_ 0 Grafy w Pythonie.md",
     "algorithmic/Grafy w Pythonie/4 drzewo binarnych wyszukiwań.md",
+    "algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md",
+    "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
+    "Excalidraw/Graf_kompletny.excalidraw.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/8 Qt Style Sheets.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/8.2 Style for all app QStyleFactory.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/8.1 Widget specific styling.md",
     "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.6 QTextBrowser.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7 Advanced widgets.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.2 QListWidget.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.1 QTabWidget.md"
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7 Advanced widgets.md"
   ]
 }
