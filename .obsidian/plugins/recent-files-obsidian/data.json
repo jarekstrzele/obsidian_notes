@@ -1,6 +1,50 @@
 {
   "recentFiles": [
     {
+      "basename": "6 Using Qt Layouts to simplify your designs",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md"
+    },
+    {
+      "basename": "5 Simple QWidgets",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md"
+    },
+    {
+      "basename": "4 Pre-defined dialogs and basic data types",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/4 Pre-defined dialogs and basic data types.md"
+    },
+    {
+      "basename": "Qt Designer and Python",
+      "path": "PYTHON/GUI/Qt Designer and Python.md"
+    },
+    {
+      "basename": "10 QMainWindow class - Professional apps",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/10 QMainWindow class - Professional apps.md"
+    },
+    {
+      "basename": "9 QtDesigner",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md"
+    },
+    {
+      "basename": "8.1 Widget specific styling",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/8.1 Widget specific styling.md"
+    },
+    {
+      "basename": "8 Qt Style Sheets",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/8 Qt Style Sheets.md"
+    },
+    {
+      "basename": "6.1 Layouts Summary",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/6.1 Layouts Summary.md"
+    },
+    {
+      "basename": "2 Installing PyQt5",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md"
+    },
+    {
+      "basename": "_ 0 PyQt5 From A-Z",
+      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md"
+    },
+    {
       "basename": "2 Właściwości grafów",
       "path": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md"
     },
@@ -21,16 +65,8 @@
       "path": "Excalidraw/Graf_kompletny.excalidraw.md"
     },
     {
-      "basename": "8 Qt Style Sheets",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/8 Qt Style Sheets.md"
-    },
-    {
       "basename": "8.2 Style for all app QStyleFactory",
       "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/8.2 Style for all app QStyleFactory.md"
-    },
-    {
-      "basename": "8.1 Widget specific styling",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/8.1 Widget specific styling.md"
     },
     {
       "basename": "7.6 QTextBrowser",
@@ -53,14 +89,6 @@
       "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.5 QTextEdit.md"
     },
     {
-      "basename": "Qt Designer and Python",
-      "path": "PYTHON/GUI/PyQt/Qt Designer and Python.md"
-    },
-    {
-      "basename": "6.1 Layouts Summary",
-      "path": "PYTHON/GUI/PyQt/6.1 Layouts Summary.md"
-    },
-    {
       "basename": "13 The Qt Model_view Architecture",
       "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/13 The Qt Model_view Architecture.md"
     },
@@ -71,14 +99,6 @@
     {
       "basename": "11 Multi-Threaded apps",
       "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/11 Multi-Threaded apps.md"
-    },
-    {
-      "basename": "10 QMainWindow class - Professional apps",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/10 QMainWindow class - Professional apps.md"
-    },
-    {
-      "basename": "9 QtDesigner",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md"
     },
     {
       "basename": "7.4 QPlainTextEdit",
@@ -179,26 +199,6 @@
     {
       "basename": "1 React Native Basics",
       "path": "REACT NATIVE/React Native Practical Guide/1 React Native Basics.md"
-    },
-    {
-      "basename": "2 Classes",
-      "path": "PYTHON/OOP Python udemy/2 Classes.md"
-    },
-    {
-      "basename": "_ 0 Python OOP",
-      "path": "PYTHON/OOP Python udemy/_ 0 Python OOP.md"
-    },
-    {
-      "basename": "7.1 NamedTuples",
-      "path": "PYTHON/OOP Python udemy/7.1 NamedTuples.md"
-    },
-    {
-      "basename": "7 DataClasses",
-      "path": "PYTHON/OOP Python udemy/7 DataClasses.md"
-    },
-    {
-      "basename": "5 Simple QWidgets",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md"
     }
   ],
   "omittedPaths": [],
