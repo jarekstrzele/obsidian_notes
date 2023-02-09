@@ -3,6 +3,7 @@
 
 Na szczęście dla nas, moduły CSS są obsługiwane przez `Create-react-app` domyślnie. Jedyne, co mamy do zrobienia, to nadanie odpowiedniej nazwy naszym plikom CSS. Jeśli zaimportujemy plik z rozszerzeniem `.module.css`, to `createe-react-app` automatycznie potraktuje go jako moduł CSS.
 
+>"height: 100vh" jest wartością CSS, która oznacza, że wysokość elementu powinna być ustawiona na 100% wysokości okna przeglądarki. VH jest jednostką, która reprezentuje 1% wysokości okna przeglądarki. W ten sposób `height: 100vh` oznacza, że element powinien być wysoki jak całe okno przeglądarki.
 
 components
 	- UI
@@ -175,10 +176,6 @@ AddUser.module.css
   }
 ```
 instead of `flex` you can use `block`
-
-
-## Adding a reusable Button component
-
 
 
 
