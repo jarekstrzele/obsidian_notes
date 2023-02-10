@@ -4,59 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5ef66713567970a1",
+        "id": "4b291ef61b62668b",
         "type": "tabs",
         "children": [
           {
-            "id": "f963a60d6fc76e49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HASKELL/web/Yesod/0 _ Haskell and Yesod.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d1c377ef01fbf93a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PYTHON/OOP Python udemy/7.1 NamedTuples.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9145a96080aac6c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PYTHON/OOP Python udemy/7 DataClasses.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c964aa6455cbec4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/Navigation/_ 0 React Native Navigation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "86263ff564b4153e",
+            "id": "27f6dd4efa445a08",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -66,105 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d992afafe36261e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "REACT/React - the Complete Guide/9. Fragments, Portal, refs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6d0258c8ac8a4554",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.5 QTextEdit.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b7a8dce355e5c010",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7 Advanced widgets.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5fa6f3acb323b21c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.1 QTabWidget.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b28a3a924c6f8fff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/8 Qt Style Sheets.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3442a1652bb0a981",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PYTHON/GUI/PyQt/PyQt5 From A-Z/8.1 Widget specific styling.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1b89453b883c0bdb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9a7796a9c8479914",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HASKELL/The Complete Haskell Course/10 Inifite Lists Problems.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 11
+        ]
       }
     ],
     "direction": "vertical"
@@ -238,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
+                "file": "REACT/React - the Complete Guide/8 Login Project.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -255,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
+                "file": "REACT/React - the Complete Guide/8 Login Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md"
+                "file": "REACT/React - the Complete Guide/8 Login Project.md"
               }
             }
           },
@@ -318,17 +173,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1b89453b883c0bdb",
+  "active": "27f6dd4efa445a08",
   "lastOpenFiles": [
-    "algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md",
+    "HASKELL/The Complete Haskell Course/10 Inifite Lists Problems.md",
     "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/8.1 Widget specific styling.md",
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/8 Qt Style Sheets.md",
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.1 QTabWidget.md",
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7 Advanced widgets.md",
+    "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.5 QTextEdit.md",
+    "REACT/React - the Complete Guide/9. Fragments, Portal, refs.md",
     "REACT/React - the Complete Guide/8 Login Project.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md",
-    "PYTHON/OOP Python udemy/7.2 Dataclasses.md",
-    "PYTHON/OOP Python udemy/7 DataClasses.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/4 Pre-defined dialogs and basic data types.md",
-    "PYTHON/GUI/Qt Designer and Python.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/10 QMainWindow class - Professional apps.md"
+    "REACT NATIVE/React Native Practical Guide/Navigation/_ 0 React Native Navigation.md"
   ]
 }
