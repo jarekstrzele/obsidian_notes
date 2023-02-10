@@ -5,12 +5,16 @@
       "path": "REACT/React - the Complete Guide/8 Login Project.md"
     },
     {
-      "basename": "10 Inifite Lists Problems",
-      "path": "HASKELL/The Complete Haskell Course/10 Inifite Lists Problems.md"
-    },
-    {
       "basename": "2 Właściwości grafów",
       "path": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md"
+    },
+    {
+      "basename": "3 - Algorytmy grafowe",
+      "path": "algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md"
+    },
+    {
+      "basename": "10 Inifite Lists Problems",
+      "path": "HASKELL/The Complete Haskell Course/10 Inifite Lists Problems.md"
     },
     {
       "basename": "8.1 Widget specific styling",
@@ -47,10 +51,6 @@
     {
       "basename": "7.1 NamedTuples",
       "path": "PYTHON/OOP Python udemy/7.1 NamedTuples.md"
-    },
-    {
-      "basename": "3 - Algorytmy grafowe",
-      "path": "algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md"
     },
     {
       "basename": "6 Using Qt Layouts to simplify your designs",
