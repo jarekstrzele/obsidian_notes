@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "1.5 Type classes",
+      "path": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.5 Type classes.md"
+    },
+    {
       "basename": "1.4 Algebraic Data Types",
       "path": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.4 Algebraic Data Types.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "LEFT JOIN SQLIte",
       "path": "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/LEFT JOIN SQLIte.md"
-    },
-    {
-      "basename": "INTERSECT",
-      "path": "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/INTERSECT.md"
     }
   ],
   "omittedPaths": [],
