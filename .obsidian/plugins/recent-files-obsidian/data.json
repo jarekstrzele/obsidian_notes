@@ -1,6 +1,50 @@
 {
   "recentFiles": [
     {
+      "basename": "_ 0 Learing Path Haskell",
+      "path": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/_ 0 Learing Path Haskell.md"
+    },
+    {
+      "basename": "1 Fundamentals",
+      "path": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1 Fundamentals.md"
+    },
+    {
+      "basename": "1.6 Pattern Matching",
+      "path": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.6 Pattern Matching.md"
+    },
+    {
+      "basename": "Data.List and operator `!!`",
+      "path": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/Data.List and operator `!!`.md"
+    },
+    {
+      "basename": "3 Mastering Haskell Programming",
+      "path": "HASKELL/Learning Path Haskell/3 Mastering Haskell Programming/3 Mastering Haskell Programming.md"
+    },
+    {
+      "basename": "2 Types and Functions",
+      "path": "HASKELL/Real World Haskell/2 Types and Functions.md"
+    },
+    {
+      "basename": "11 Binary trees",
+      "path": "HASKELL/The Complete Haskell Course/11 Binary trees.md"
+    },
+    {
+      "basename": "2 Recursion, Guards, Patterns",
+      "path": "HASKELL/Haskell for Imperative Programmers/2 Recursion, Guards, Patterns.md"
+    },
+    {
+      "basename": "3 Lists",
+      "path": "HASKELL/Haskell for Imperative Programmers/3 Lists.md"
+    },
+    {
+      "basename": "1 Functions",
+      "path": "HASKELL/Haskell for Imperative Programmers/1 Functions.md"
+    },
+    {
+      "basename": "_ 0 Haskell for Imperative Programmers",
+      "path": "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md"
+    },
+    {
       "basename": "3 - Algorytmy grafowe",
       "path": "algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md"
     },
@@ -155,50 +199,6 @@
     {
       "basename": "_ DDL SQLite",
       "path": "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/_ DDL SQLite.md"
-    },
-    {
-      "basename": "SQLite DQL",
-      "path": "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/SQLite DQL.md"
-    },
-    {
-      "basename": "Widoki SQLite",
-      "path": "Data Bases/SQL/SQL Bootcamp SQLite/Widoki SQLite.md"
-    },
-    {
-      "basename": "raise SQLite",
-      "path": "Data Bases/SQL/SQL Bootcamp SQLite/raise SQLite.md"
-    },
-    {
-      "basename": "datetime sqlite",
-      "path": "Data Bases/SQL/SQL Bootcamp SQLite/datetime sqlite.md"
-    },
-    {
-      "basename": "_ SQLite",
-      "path": "Data Bases/SQL/SQL Bootcamp SQLite/_ SQLite.md"
-    },
-    {
-      "basename": "_ SQL Bootcamp - SQLite cz. 2",
-      "path": "Data Bases/SQL/SQL Bootcamp SQLite/_ SQL Bootcamp - SQLite cz. 2.md"
-    },
-    {
-      "basename": "_ SQL Bootcamp - SQLite cz. 1",
-      "path": "Data Bases/SQL/SQL Bootcamp SQLite/_ SQL Bootcamp - SQLite cz. 1.md"
-    },
-    {
-      "basename": "Create i DROP table SQLIte",
-      "path": "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Create i DROP table SQLIte.md"
-    },
-    {
-      "basename": "useNavigation Hook",
-      "path": "REACT NATIVE/React Native Practical Guide/Navigation/useNavigation Hook.md"
-    },
-    {
-      "basename": "1.4. FlatList",
-      "path": "REACT NATIVE/React Native Practical Guide/1.4. FlatList.md"
-    },
-    {
-      "basename": "_ 0 React Native - Practical Guide",
-      "path": "REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md"
     }
   ],
   "omittedPaths": [],

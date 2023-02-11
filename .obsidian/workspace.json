@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md",
+                "file": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/_ 0 Learing Path Haskell.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md",
+                "file": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/_ 0 Learing Path Haskell.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md",
+                "file": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/_ 0 Learing Path Haskell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md"
+                "file": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/_ 0 Learing Path Haskell.md"
               }
             }
           },
@@ -185,17 +185,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "27f6dd4efa445a08",
+  "active": "f621f21825dbd82d",
   "lastOpenFiles": [
-    "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
-    "algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md",
-    "REACT/React - the Complete Guide/8 Login Project.md",
-    "HASKELL/The Complete Haskell Course/10 Inifite Lists Problems.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/8.1 Widget specific styling.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/8 Qt Style Sheets.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.1 QTabWidget.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7 Advanced widgets.md",
-    "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.5 QTextEdit.md",
-    "REACT/React - the Complete Guide/9. Fragments, Portal, refs.md"
+    "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1 Fundamentals.md",
+    "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.6 Pattern Matching.md",
+    "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/Data.List and operator `!!`.md",
+    "HASKELL/Learning Path Haskell/3 Mastering Haskell Programming/3 Mastering Haskell Programming.md",
+    "HASKELL/Real World Haskell/2 Types and Functions.md",
+    "HASKELL/The Complete Haskell Course/11 Binary trees.md",
+    "HASKELL/Haskell for Imperative Programmers/2 Recursion, Guards, Patterns.md",
+    "HASKELL/Haskell for Imperative Programmers/3 Lists.md",
+    "HASKELL/Haskell for Imperative Programmers/1 Functions.md",
+    "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md"
   ]
 }
