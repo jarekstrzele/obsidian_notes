@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "1.2. Values and Expressions",
+      "path": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.2. Values and Expressions.md"
+    },
+    {
+      "basename": "1.1 Whitespace, Layout and Scoping",
+      "path": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.1 Whitespace, Layout and Scoping.md"
+    },
+    {
       "basename": "1 Fundamentals",
       "path": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1 Fundamentals.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "_ Łączenie tabel SQLite",
       "path": "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/_ Łączenie tabel SQLite.md"
-    },
-    {
-      "basename": "Klucz obcy",
-      "path": "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Klucz obcy.md"
-    },
-    {
-      "basename": "_ DDL SQLite",
-      "path": "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/_ DDL SQLite.md"
     }
   ],
   "omittedPaths": [],
