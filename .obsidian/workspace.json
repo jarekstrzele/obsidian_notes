@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/_ 0 Learing Path Haskell.md",
+                "file": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1 Fundamentals.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/_ 0 Learing Path Haskell.md",
+                "file": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1 Fundamentals.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/_ 0 Learing Path Haskell.md",
+                "file": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1 Fundamentals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/_ 0 Learing Path Haskell.md"
+                "file": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1 Fundamentals.md"
               }
             }
           },
@@ -185,8 +185,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f621f21825dbd82d",
+  "active": "27f6dd4efa445a08",
   "lastOpenFiles": [
+    "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/_ 0 Learing Path Haskell.md",
     "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1 Fundamentals.md",
     "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.6 Pattern Matching.md",
     "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/Data.List and operator `!!`.md",
@@ -195,7 +196,6 @@
     "HASKELL/The Complete Haskell Course/11 Binary trees.md",
     "HASKELL/Haskell for Imperative Programmers/2 Recursion, Guards, Patterns.md",
     "HASKELL/Haskell for Imperative Programmers/3 Lists.md",
-    "HASKELL/Haskell for Imperative Programmers/1 Functions.md",
-    "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md"
+    "HASKELL/Haskell for Imperative Programmers/1 Functions.md"
   ]
 }
