@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "1.4 Algebraic Data Types",
+      "path": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.4 Algebraic Data Types.md"
+    },
+    {
+      "basename": "1.3 Types and Type Signatures",
+      "path": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.3 Types and Type Signatures.md"
+    },
+    {
       "basename": "1.2. Values and Expressions",
       "path": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.2. Values and Expressions.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "INTERSECT",
       "path": "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/INTERSECT.md"
-    },
-    {
-      "basename": "CROSS JOIN",
-      "path": "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/CROSS JOIN.md"
-    },
-    {
-      "basename": "_ Łączenie tabel SQLite",
-      "path": "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/_ Łączenie tabel SQLite.md"
     }
   ],
   "omittedPaths": [],
