@@ -91,6 +91,19 @@ elem' x (y:ys)
 elem2 :: (Eq a) => a -> [a] -> Bool
 elem2 _ [] = False
 elem2 e (x:xs) = (e == x)  || (elem e xs)
+
+
+
+
+--- create a fun `nub` that removes all duplicates from a given list
+nub :: (Eq a) => [a] -> [a]
+nub [] = []
+nub (x:xs)  
+    | elem2 x xs = nub xs
+    | otherwise = x : nub xs
+
+
+
 ```
 
 
