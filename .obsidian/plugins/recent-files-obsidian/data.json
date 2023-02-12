@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "3 Lists",
+      "path": "HASKELL/Haskell for Imperative Programmers/3 Lists.md"
+    },
+    {
+      "basename": "2 Recursion, Guards, Patterns",
+      "path": "HASKELL/Haskell for Imperative Programmers/2 Recursion, Guards, Patterns.md"
+    },
+    {
+      "basename": "1 Functions",
+      "path": "HASKELL/Haskell for Imperative Programmers/1 Functions.md"
+    },
+    {
+      "basename": "_ 0 Haskell for Imperative Programmers",
+      "path": "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md"
+    },
+    {
       "basename": "3 Mastering Haskell Programming",
       "path": "HASKELL/Learning Path Haskell/3 Mastering Haskell Programming/3 Mastering Haskell Programming.md"
     },
@@ -51,22 +67,6 @@
     {
       "basename": "11 Binary trees",
       "path": "HASKELL/The Complete Haskell Course/11 Binary trees.md"
-    },
-    {
-      "basename": "2 Recursion, Guards, Patterns",
-      "path": "HASKELL/Haskell for Imperative Programmers/2 Recursion, Guards, Patterns.md"
-    },
-    {
-      "basename": "3 Lists",
-      "path": "HASKELL/Haskell for Imperative Programmers/3 Lists.md"
-    },
-    {
-      "basename": "1 Functions",
-      "path": "HASKELL/Haskell for Imperative Programmers/1 Functions.md"
-    },
-    {
-      "basename": "_ 0 Haskell for Imperative Programmers",
-      "path": "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md"
     },
     {
       "basename": "3 - Algorytmy grafowe",
