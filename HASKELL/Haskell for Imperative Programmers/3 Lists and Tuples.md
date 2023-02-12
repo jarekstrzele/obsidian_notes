@@ -78,7 +78,20 @@ ghci> addTuples [(1,2), (2,3), (100,200)]
 ```
 
 
+----
+```haskell
+--- Create a fun `elem` that returns True if element is in a given list and returns False otherwise
 
+elem' :: (Eq a) => a -> [a] -> Bool
+elem' _ [] = False
+elem' x (y:ys)
+  | x == y = True
+  | otherwise = elem' x ys
+
+elem2 :: (Eq a) => a -> [a] -> Bool
+elem2 _ [] = False
+elem2 e (x:xs) = (e == x)  || (elem e xs)
+```
 
 
 
