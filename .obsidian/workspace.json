@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HASKELL/Haskell for Imperative Programmers/3 Lists.md",
+                "file": "HASKELL/Haskell for Imperative Programmers/3 Lists and Tuples.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/Haskell for Imperative Programmers/3 Lists.md",
+                "file": "HASKELL/Haskell for Imperative Programmers/3 Lists and Tuples.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/Haskell for Imperative Programmers/3 Lists.md",
+                "file": "HASKELL/Haskell for Imperative Programmers/3 Lists and Tuples.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/Haskell for Imperative Programmers/3 Lists.md"
+                "file": "HASKELL/Haskell for Imperative Programmers/3 Lists and Tuples.md"
               }
             }
           },
@@ -185,7 +185,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "27f6dd4efa445a08",
+  "active": "f621f21825dbd82d",
   "lastOpenFiles": [
     "HASKELL/Haskell for Imperative Programmers/2 Recursion, Guards, Patterns.md",
     "HASKELL/Haskell for Imperative Programmers/1 Functions.md",
