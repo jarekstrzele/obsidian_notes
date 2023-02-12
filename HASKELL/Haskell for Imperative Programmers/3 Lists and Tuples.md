@@ -64,7 +64,18 @@ ghci> [(x,y) | x <-[1,2,3,4], y<-['a','b'] ]
 # Tuples
 - can have multiple types element
 - 
+```haskell
+ghci> let (x,y) = (1,2) in x
+1
 
+
+addTuples :: [(Int, Int)] -> [Int]
+addTuples xs = [x+y | (x,y) <- xs]
+---
+ghci> addTuples [(1,2), (2,3), (100,200)]
+[3,5,300]
+
+```
 
 
 
