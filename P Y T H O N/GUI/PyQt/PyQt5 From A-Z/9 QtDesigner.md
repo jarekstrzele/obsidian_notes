@@ -32,3 +32,18 @@ OR
 - Edit> *Edit Signals, Slots*
 - attach by mouse widgets that you want to connect
 
+
+
+
+-------
+# From QtDesigner to Python
+QtDesigner produces a xml file.
+
+
+
+
+
+
+
+
+
