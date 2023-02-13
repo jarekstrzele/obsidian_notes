@@ -72,6 +72,10 @@ iss_position = (long, lat)
 print(iss_position)
 ```
 
+>Metoda `raise_for_status()` jest używana do sprawdzenia statusu odpowiedzi HTTP wysłanej przez serwer. Jeśli status odpowiedzi jest różny od 200 (czyli OK), wówczas funkcja wygeneruje wyjątek, który opisuje błąd. Ta metoda pozwala na łatwe i szybkie przetworzenie błędów związanych z połączeniem z serwerem i uzyskaniem odpowiedzi HTTP. W takim przypadku, nie musisz ręcznie sprawdzać kodu statusu odpowiedzi i wywoływać wyjątku, jeśli jest on nieprawidłowy - ta metoda to robi automatycznie.
+
+
+
 
 https://www.latlong.net/Show-Latitude-Longitude.html
 
