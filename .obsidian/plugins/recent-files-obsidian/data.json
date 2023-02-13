@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "2.2 Stack Project",
+      "path": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2.2 Stack Project.md"
+    },
+    {
+      "basename": "2.2.1 Grid of Words Game",
+      "path": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2.2.1 Grid of Words Game.md"
+    },
+    {
+      "basename": "Data.List and operator `!!`",
+      "path": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/Data.List and operator `!!`.md"
+    },
+    {
       "basename": "3 Lists and Tuples",
       "path": "HASKELL/Haskell for Imperative Programmers/3 Lists and Tuples.md"
     },
@@ -19,10 +31,6 @@
     {
       "basename": "3 Mastering Haskell Programming",
       "path": "HASKELL/Learning Path Haskell/3 Mastering Haskell Programming/3 Mastering Haskell Programming.md"
-    },
-    {
-      "basename": "Data.List and operator `!!`",
-      "path": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/Data.List and operator `!!`.md"
     },
     {
       "basename": "2.1 Exploring Haskell",
@@ -191,14 +199,6 @@
     {
       "basename": "12 Database Apps with Qt",
       "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/12 Database Apps with Qt.md"
-    },
-    {
-      "basename": "11 Multi-Threaded apps",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/11 Multi-Threaded apps.md"
-    },
-    {
-      "basename": "7.4 QPlainTextEdit",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.4 QPlainTextEdit.md"
     }
   ],
   "omittedPaths": [],
