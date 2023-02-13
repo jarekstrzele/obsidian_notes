@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md",
+                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md",
+                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md",
+                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md"
+                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md"
               }
             }
           },
@@ -187,15 +187,15 @@
   },
   "active": "27f6dd4efa445a08",
   "lastOpenFiles": [
+    "Excalidraw/qt_layouts.excalidraw.md",
+    "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/6.1 Layouts Summary.md",
+    "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md",
     "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md",
     "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/4 Pre-defined dialogs and basic data types.md",
     "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md",
     "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md",
     "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
     "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/8.2 Style for all app QStyleFactory.md",
-    "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/8.1 Widget specific styling.md",
-    "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/8 Qt Style Sheets.md",
-    "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/6.1 Layouts Summary.md",
-    "P Y T H O N/Plurasight Core Python/getting started/8  Exceptions.md"
+    "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/8.1 Widget specific styling.md"
   ]
 }
