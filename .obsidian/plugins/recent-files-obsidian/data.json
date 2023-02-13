@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "7.6 QTextBrowser",
+      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.6 QTextBrowser.md"
+    },
+    {
+      "basename": "7.5 QTextEdit",
+      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.5 QTextEdit.md"
+    },
+    {
+      "basename": "7.4 QPlainTextEdit",
+      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.4 QPlainTextEdit.md"
+    },
+    {
+      "basename": "7.3 QTreeWidgets",
+      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.3 QTreeWidgets.md"
+    },
+    {
+      "basename": "7.2 QListWidget",
+      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.2 QListWidget.md"
+    },
+    {
+      "basename": "7.1 QTabWidget",
+      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.1 QTabWidget.md"
+    },
+    {
+      "basename": "7 Advanced widgets",
+      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7 Advanced widgets.md"
+    },
+    {
       "basename": "8.1 Widget specific styling",
       "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/8.1 Widget specific styling.md"
     },
@@ -141,18 +169,6 @@
       "path": "HASKELL/The Complete Haskell Course/10 Inifite Lists Problems.md"
     },
     {
-      "basename": "7.1 QTabWidget",
-      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.1 QTabWidget.md"
-    },
-    {
-      "basename": "7 Advanced widgets",
-      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7 Advanced widgets.md"
-    },
-    {
-      "basename": "7.5 QTextEdit",
-      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.5 QTextEdit.md"
-    },
-    {
       "basename": "9. Fragments, Portal, refs",
       "path": "REACT/React - the Complete Guide/9. Fragments, Portal, refs.md"
     },
@@ -183,18 +199,6 @@
     {
       "basename": "_ 0 Grafy w Pythonie",
       "path": "algorithmic/Grafy w Pythonie/_ 0 Grafy w Pythonie.md"
-    },
-    {
-      "basename": "4 drzewo binarnych wyszukiwań",
-      "path": "algorithmic/Grafy w Pythonie/4 drzewo binarnych wyszukiwań.md"
-    },
-    {
-      "basename": "Graf_kompletny.excalidraw",
-      "path": "Excalidraw/Graf_kompletny.excalidraw.md"
-    },
-    {
-      "basename": "7.6 QTextBrowser",
-      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.6 QTextBrowser.md"
     }
   ],
   "omittedPaths": [],
