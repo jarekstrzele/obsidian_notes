@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "NASA API",
+      "path": "API/NASA API.md"
+    },
+    {
       "basename": "33 API Endpoints and API Parameters ISS Overhead Notifier",
       "path": "P Y T H O N/Master_Python_100/33 API Endpoints and API Parameters ISS Overhead Notifier.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "10 Inifite Lists Problems",
       "path": "HASKELL/The Complete Haskell Course/10 Inifite Lists Problems.md"
-    },
-    {
-      "basename": "9. Fragments, Portal, refs",
-      "path": "REACT/React - the Complete Guide/9. Fragments, Portal, refs.md"
     }
   ],
   "omittedPaths": [],
