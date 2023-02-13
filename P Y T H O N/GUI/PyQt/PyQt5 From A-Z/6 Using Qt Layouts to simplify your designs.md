@@ -50,27 +50,15 @@ if __name__ == "__main__":
 ```
 
 ```python
-  
-
         ## layout
-
         self.mainLayout = QHBoxLayout()
-
         #self.mainLayout = QVBoxLayout()
-
         # .addWidget(object, number_that_indicates_how_many_place_takes_that_widget)
-
         self.mainLayout.addWidget(self.lbl1, 20)
-
         self.mainLayout.addWidget(self.btn2, 10)
-
         self.mainLayout.addWidget(self.led3, 10)
-
         self.mainLayout.addWidget(self.cmb4, 20)
-
         self.mainLayout.addStretch(4)
-
-  
 
         self.setLayout(self.mainLayout)
 ```
