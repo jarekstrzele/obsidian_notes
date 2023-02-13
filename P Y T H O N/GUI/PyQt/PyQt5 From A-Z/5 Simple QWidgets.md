@@ -560,19 +560,11 @@ class Main(QDialog):
 
         self.lblPop.setText(f"Population: { self.cmbStates.itemData(idx)['pop']} ")
 
-  
-  
-  
 
 if __name__ == "__main__":
-
     app = QApplication([])
-
     main = Main()
-
     main.show()
-
-  
 
     sys.exit(app.exec_())
 ```
