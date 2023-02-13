@@ -123,7 +123,7 @@ the value of `stuff` can be anything
 
 ----
 # git
-[[git]]
+[[JAVASCRIPT/Lear Node.js and Javascript/git]]
 
 
 ---

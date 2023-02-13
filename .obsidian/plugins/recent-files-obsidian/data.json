@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "8 Descriptors",
+      "path": "P Y T H O N/OOP Python udemy/8 Descriptors.md"
+    },
+    {
       "basename": "2.2.1 Grid of Words Game",
       "path": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2.2.1 Grid of Words Game.md"
     },
@@ -94,23 +98,23 @@
     },
     {
       "basename": "8.1 Widget specific styling",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/8.1 Widget specific styling.md"
+      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/8.1 Widget specific styling.md"
     },
     {
       "basename": "8 Qt Style Sheets",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/8 Qt Style Sheets.md"
+      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/8 Qt Style Sheets.md"
     },
     {
       "basename": "7.1 QTabWidget",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.1 QTabWidget.md"
+      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.1 QTabWidget.md"
     },
     {
       "basename": "7 Advanced widgets",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7 Advanced widgets.md"
+      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7 Advanced widgets.md"
     },
     {
       "basename": "7.5 QTextEdit",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.5 QTextEdit.md"
+      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.5 QTextEdit.md"
     },
     {
       "basename": "9. Fragments, Portal, refs",
@@ -122,51 +126,51 @@
     },
     {
       "basename": "7 DataClasses",
-      "path": "PYTHON/OOP Python udemy/7 DataClasses.md"
+      "path": "P Y T H O N/OOP Python udemy/7 DataClasses.md"
     },
     {
       "basename": "7.1 NamedTuples",
-      "path": "PYTHON/OOP Python udemy/7.1 NamedTuples.md"
+      "path": "P Y T H O N/OOP Python udemy/7.1 NamedTuples.md"
     },
     {
       "basename": "6 Using Qt Layouts to simplify your designs",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md"
+      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md"
     },
     {
       "basename": "5 Simple QWidgets",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md"
+      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md"
     },
     {
       "basename": "7.2 Dataclasses",
-      "path": "PYTHON/OOP Python udemy/7.2 Dataclasses.md"
+      "path": "P Y T H O N/OOP Python udemy/7.2 Dataclasses.md"
     },
     {
       "basename": "4 Pre-defined dialogs and basic data types",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/4 Pre-defined dialogs and basic data types.md"
+      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/4 Pre-defined dialogs and basic data types.md"
     },
     {
       "basename": "Qt Designer and Python",
-      "path": "PYTHON/GUI/Qt Designer and Python.md"
+      "path": "P Y T H O N/GUI/Qt Designer and Python.md"
     },
     {
       "basename": "10 QMainWindow class - Professional apps",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/10 QMainWindow class - Professional apps.md"
+      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/10 QMainWindow class - Professional apps.md"
     },
     {
       "basename": "9 QtDesigner",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md"
+      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md"
     },
     {
       "basename": "6.1 Layouts Summary",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/6.1 Layouts Summary.md"
+      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/6.1 Layouts Summary.md"
     },
     {
       "basename": "2 Installing PyQt5",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md"
+      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md"
     },
     {
       "basename": "_ 0 PyQt5 From A-Z",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md"
+      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md"
     },
     {
       "basename": "_ 0 Grafy w Pythonie",
@@ -182,23 +186,19 @@
     },
     {
       "basename": "8.2 Style for all app QStyleFactory",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/8.2 Style for all app QStyleFactory.md"
+      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/8.2 Style for all app QStyleFactory.md"
     },
     {
       "basename": "7.6 QTextBrowser",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.6 QTextBrowser.md"
+      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.6 QTextBrowser.md"
     },
     {
       "basename": "7.2 QListWidget",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.2 QListWidget.md"
+      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.2 QListWidget.md"
     },
     {
       "basename": "13 The Qt Model_view Architecture",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/13 The Qt Model_view Architecture.md"
-    },
-    {
-      "basename": "12 Database Apps with Qt",
-      "path": "PYTHON/GUI/PyQt/PyQt5 From A-Z/12 Database Apps with Qt.md"
+      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/13 The Qt Model_view Architecture.md"
     }
   ],
   "omittedPaths": [],
