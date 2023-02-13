@@ -39,7 +39,15 @@ OR
 # From QtDesigner to Python
 QtDesigner produces a xml file.
 
-
+### `pyuic5`
+- command line utility
+- converts `.ui` filt to python
+	- `.ui` file is `XML` file saved from
+	- `pyuic fileui.ui -o file.py`
+	- you can made executable with `-x` flag
+		- `pyuic -x flieui.ui -o file.py` -> executable python module
+		- 
+When you install `pyqt5`, you also install `pyuic5`
 
 
 
