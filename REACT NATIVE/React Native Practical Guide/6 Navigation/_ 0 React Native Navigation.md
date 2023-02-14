@@ -1,7 +1,13 @@
 
 [[1 Add action to React Navigator]]
 [[2. Route parameters]]
+[[3 Add new Component MealItem]]
+[[4 Styling ScreenHeader and Background]]
 
+
+
+
+--------------
 ```
 npx create-expo-app FirstNavig
 cd AwesomeProject  

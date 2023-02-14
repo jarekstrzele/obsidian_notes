@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/3 Add new Component MealItem.md",
+                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/4 Styling ScreenHeader and Background.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,14 +85,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/Untitled.md",
+                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/4 Styling ScreenHeader and Background.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/Untitled.md",
+                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/4 Styling ScreenHeader and Background.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/Untitled.md",
+                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/4 Styling ScreenHeader and Background.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/Untitled.md"
+                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/4 Styling ScreenHeader and Background.md"
               }
             }
           },
@@ -246,17 +246,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "190acdb01d8671b5",
+  "active": "9266f65d40eb9617",
   "lastOpenFiles": [
-    "REACT NATIVE/React Native Practical Guide/6 Navigation/3 Add new Component MealItem.md",
-    "REACT NATIVE/React Native Practical Guide/6 Navigation/2. Route parameters.md",
-    "REACT NATIVE/React Native Practical Guide/6 Navigation/1 Add action to React Navigator.md",
-    "REACT NATIVE/React Native Practical Guide/6 Navigation/_ 0 React Native Navigation.md",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/useNavigation Hook.md",
+    "REACT NATIVE/React Native Practical Guide/6 Navigation/2. Route parameters.md",
+    "REACT NATIVE/React Native Practical Guide/6 Navigation/3 Add new Component MealItem.md",
+    "REACT NATIVE/React Native Practical Guide/6 Navigation/4 Styling ScreenHeader and Background.md",
+    "REACT NATIVE/React Native Practical Guide/6 Navigation/_ 0 React Native Navigation.md",
+    "REACT NATIVE/React Native Practical Guide/6 Navigation/1 Add action to React Navigator.md",
     "P Y T H O N/OOP Python udemy/7.2 Dataclasses.md",
     "P Y T H O N/OOP Python udemy/7 DataClasses.md",
     "P Y T H O N/OOP Python udemy/_ 0 Python OOP.md",
-    "P Y T H O N/OOP Python udemy/6 Slots.md",
-    "P Y T H O N/OOP Python udemy/5 Inheritance.md"
+    "P Y T H O N/OOP Python udemy/6 Slots.md"
   ]
 }
