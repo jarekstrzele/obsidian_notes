@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/Untitled.md"
+    },
+    {
       "basename": "3 Add new Component MealItem",
       "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/3 Add new Component MealItem.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_ 0 Haskell for Imperative Programmers",
       "path": "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md"
-    },
-    {
-      "basename": "3 Mastering Haskell Programming",
-      "path": "HASKELL/Learning Path Haskell/3 Mastering Haskell Programming/3 Mastering Haskell Programming.md"
     }
   ],
   "omittedPaths": [],
