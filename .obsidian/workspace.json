@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md",
+                "file": "P Y T H O N/OOP Python udemy/8 Descriptors.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md",
+                "file": "P Y T H O N/OOP Python udemy/8 Descriptors.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md",
+                "file": "P Y T H O N/OOP Python udemy/8 Descriptors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md"
+                "file": "P Y T H O N/OOP Python udemy/8 Descriptors.md"
               }
             }
           },
@@ -200,8 +200,8 @@
   },
   "active": "6a347f10c53559c6",
   "lastOpenFiles": [
-    "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md",
     "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md",
+    "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md",
     "API/NASA API.md",
     "P Y T H O N/Master_Python_100/33 API Endpoints and API Parameters ISS Overhead Notifier.md",
     "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
