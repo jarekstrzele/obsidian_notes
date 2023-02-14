@@ -374,7 +374,25 @@ function CategoriesScreen(props){
 
 
 
-# Working 
+# Working with Route Parameters to pass Data between Screens
+
+`navigation.navigate(<pageName>, <an object>)` 
+the attrs of that object will be accessible the the component from `<pageName>`
+
+CategoriesScreen.jsx:
+```jsx
+...
+ return <CategoryGridTitle title={itemData.item.title}
+
+                                  color={itemData.item.color}
+
+                                  whenPressExecute={() => { props.navigation.navigate("MealsOverview", {
+
+                                    categoryId: itemData.item.id,
+
+                                  }) } } />;
+```
+
 in MealsOverviewScreen.jsx (object `route` as props)
 ```jsx
 import { View, Text, StyleSheet } from "react-native";
@@ -391,6 +409,15 @@ function MealsOverviewScreen(props){
 }
 ```
 
+other version (especiallyu when your component is not regiter as a screen)
+```jsx
+import { useRoute } from '@react-navigation/native'
+
+function MealsOverviewScreen(){
+	const route = useRoute()
+	const catId = rout.params.categoryId
+}
+```
 
 ------------------
 
