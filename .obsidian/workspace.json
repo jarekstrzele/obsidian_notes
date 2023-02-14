@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "P Y T H O N/OOP Python udemy/7.2 Dataclasses.md",
+                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/_ 0 React Native Navigation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7091bbe25fce166f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/1 Add action to React Navigator.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -102,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 384.5
   },
   "right": {
     "id": "ec7d1a70da2de581",
@@ -119,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "P Y T H O N/OOP Python udemy/7.2 Dataclasses.md",
+                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/1 Add action to React Navigator.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -136,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "P Y T H O N/OOP Python udemy/7.2 Dataclasses.md",
+                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/1 Add action to React Navigator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "P Y T H O N/OOP Python udemy/7.2 Dataclasses.md"
+                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/1 Add action to React Navigator.md"
               }
             }
           },
@@ -199,17 +210,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6a347f10c53559c6",
+  "active": "7091bbe25fce166f",
   "lastOpenFiles": [
+    "REACT NATIVE/React Native Practical Guide/6 Navigation/_ 0 React Native Navigation.md",
+    "REACT NATIVE/React Native Practical Guide/6 Navigation/1 Add action to React Navigator.md",
+    "REACT NATIVE/React Native Practical Guide/6 Navigation/useNavigation Hook.md",
+    "P Y T H O N/OOP Python udemy/7.2 Dataclasses.md",
     "P Y T H O N/OOP Python udemy/7 DataClasses.md",
     "P Y T H O N/OOP Python udemy/_ 0 Python OOP.md",
     "P Y T H O N/OOP Python udemy/6 Slots.md",
     "P Y T H O N/OOP Python udemy/5 Inheritance.md",
     "P Y T H O N/OOP Python udemy/4 Properties.md",
-    "P Y T H O N/OOP Python udemy/3 Dunders.md",
-    "P Y T H O N/OOP Python udemy/2 Classes.md",
-    "REACT NATIVE/React Native Practical Guide/Navigation/_ 0 React Native Navigation.md",
-    "REACT NATIVE/React Native Practical Guide/Navigation/useNavigation Hook.md",
-    "P Y T H O N/OOP Python udemy/8 Descriptors.md"
+    "P Y T H O N/OOP Python udemy/3 Dunders.md"
   ]
 }
