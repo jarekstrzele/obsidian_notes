@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "_ 0 React Native Navigation",
+      "path": "REACT NATIVE/React Native Practical Guide/Navigation/_ 0 React Native Navigation.md"
+    },
+    {
+      "basename": "useNavigation Hook",
+      "path": "REACT NATIVE/React Native Practical Guide/Navigation/useNavigation Hook.md"
+    },
+    {
       "basename": "8 Descriptors",
       "path": "P Y T H O N/OOP Python udemy/8 Descriptors.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "3 - Algorytmy grafowe",
       "path": "algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md"
-    },
-    {
-      "basename": "8 Login Project",
-      "path": "REACT/React - the Complete Guide/8 Login Project.md"
-    },
-    {
-      "basename": "10 Inifite Lists Problems",
-      "path": "HASKELL/The Complete Haskell Course/10 Inifite Lists Problems.md"
     }
   ],
   "omittedPaths": [],

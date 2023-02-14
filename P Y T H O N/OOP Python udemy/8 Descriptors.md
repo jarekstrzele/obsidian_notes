@@ -46,8 +46,25 @@ Descriptors can change this order
 >[!info] descriptor
 >a descriptor is just an object that implements the descriptor protocol
 >- **protocol** is a contract between an object an Python
+>- **descriptor protocol**:
+>	- `__get__()`
+>	- `__set__()`
+>	- `__delete__()`
+>*any object that implements a combination of these methods is a descriptor*
 
 
+
+```python
+class Descriptor:
+    def __get__(self, instance, owner):
+        pass
+    
+    def __set__(self, instance, value):
+        pass
+    
+    def __delete__(self, instance):
+        pass
+```
 
 
 
