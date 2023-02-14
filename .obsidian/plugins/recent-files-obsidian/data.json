@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "3 Add new Component MealItem",
+      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/3 Add new Component MealItem.md"
+    },
+    {
       "basename": "2. Route parameters",
       "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/2. Route parameters.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "3 Mastering Haskell Programming",
       "path": "HASKELL/Learning Path Haskell/3 Mastering Haskell Programming/3 Mastering Haskell Programming.md"
-    },
-    {
-      "basename": "1.6 Pattern Matching",
-      "path": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.6 Pattern Matching.md"
     }
   ],
   "omittedPaths": [],
