@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/Navigation/_ 0 React Native Navigation.md",
+                "file": "P Y T H O N/OOP Python udemy/_ 0 Python OOP.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 328.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ec7d1a70da2de581",
@@ -118,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/Navigation/_ 0 React Native Navigation.md",
+                "file": "P Y T H O N/OOP Python udemy/_ 0 Python OOP.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -135,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/Navigation/_ 0 React Native Navigation.md",
+                "file": "P Y T H O N/OOP Python udemy/_ 0 Python OOP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/Navigation/_ 0 React Native Navigation.md"
+                "file": "P Y T H O N/OOP Python udemy/_ 0 Python OOP.md"
               }
             }
           },
@@ -200,15 +201,15 @@
   },
   "active": "6a347f10c53559c6",
   "lastOpenFiles": [
-    "REACT NATIVE/React Native Practical Guide/Navigation/useNavigation Hook.md",
+    "P Y T H O N/OOP Python udemy/6 Slots.md",
+    "P Y T H O N/OOP Python udemy/_ 0 Python OOP.md",
+    "P Y T H O N/OOP Python udemy/5 Inheritance.md",
+    "P Y T H O N/OOP Python udemy/4 Properties.md",
+    "P Y T H O N/OOP Python udemy/3 Dunders.md",
+    "P Y T H O N/OOP Python udemy/2 Classes.md",
     "REACT NATIVE/React Native Practical Guide/Navigation/_ 0 React Native Navigation.md",
+    "REACT NATIVE/React Native Practical Guide/Navigation/useNavigation Hook.md",
     "P Y T H O N/OOP Python udemy/8 Descriptors.md",
-    "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md",
-    "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md",
-    "API/NASA API.md",
-    "P Y T H O N/Master_Python_100/33 API Endpoints and API Parameters ISS Overhead Notifier.md",
-    "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
-    "P Y T H O N/Master_Python_100/34 API GUI Quiz App.md",
-    "P Y T H O N/Master_Python_100/API.excalidraw.md"
+    "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md"
   ]
 }

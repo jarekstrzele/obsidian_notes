@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "_ 0 Python OOP",
+      "path": "P Y T H O N/OOP Python udemy/_ 0 Python OOP.md"
+    },
+    {
+      "basename": "6 Slots",
+      "path": "P Y T H O N/OOP Python udemy/6 Slots.md"
+    },
+    {
+      "basename": "5 Inheritance",
+      "path": "P Y T H O N/OOP Python udemy/5 Inheritance.md"
+    },
+    {
+      "basename": "4 Properties",
+      "path": "P Y T H O N/OOP Python udemy/4 Properties.md"
+    },
+    {
+      "basename": "3 Dunders",
+      "path": "P Y T H O N/OOP Python udemy/3 Dunders.md"
+    },
+    {
+      "basename": "2 Classes",
+      "path": "P Y T H O N/OOP Python udemy/2 Classes.md"
+    },
+    {
       "basename": "_ 0 React Native Navigation",
       "path": "REACT NATIVE/React Native Practical Guide/Navigation/_ 0 React Native Navigation.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "1.2. Values and Expressions",
       "path": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.2. Values and Expressions.md"
-    },
-    {
-      "basename": "1.1 Whitespace, Layout and Scoping",
-      "path": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.1 Whitespace, Layout and Scoping.md"
-    },
-    {
-      "basename": "1 Fundamentals",
-      "path": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1 Fundamentals.md"
-    },
-    {
-      "basename": "_ 0 Learing Path Haskell",
-      "path": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/_ 0 Learing Path Haskell.md"
-    },
-    {
-      "basename": "2 Types and Functions",
-      "path": "HASKELL/Real World Haskell/2 Types and Functions.md"
-    },
-    {
-      "basename": "11 Binary trees",
-      "path": "HASKELL/The Complete Haskell Course/11 Binary trees.md"
-    },
-    {
-      "basename": "3 - Algorytmy grafowe",
-      "path": "algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md"
     }
   ],
   "omittedPaths": [],
