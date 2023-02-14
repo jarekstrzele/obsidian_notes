@@ -97,7 +97,29 @@ export default function App() {
 
 ## Setting Navigation Options Dynamically
 
+```jsx
+//...
+<Stack.Screen 
+  name="MealsOverview"
+  component={MealsOverviewScreen}
+  options={ ( {route, navigation }) => {
+          const catId = route.params.categoryId;
 
+		  return {
+             title: catId,
+            }
+      }}
+/>
+
+        </Stack.Navigator>
+
+      </NavigationContainer>
+
+    </>
+```
+
+Alternative way
+`navigation` object has also `setOption()` method that takes an object to styling 
 
 
 
