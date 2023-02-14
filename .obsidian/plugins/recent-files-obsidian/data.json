@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "7.2 Dataclasses",
+      "path": "P Y T H O N/OOP Python udemy/7.2 Dataclasses.md"
+    },
+    {
+      "basename": "7 DataClasses",
+      "path": "P Y T H O N/OOP Python udemy/7 DataClasses.md"
+    },
+    {
       "basename": "_ 0 Python OOP",
       "path": "P Y T H O N/OOP Python udemy/_ 0 Python OOP.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "1.4 Algebraic Data Types",
       "path": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.4 Algebraic Data Types.md"
-    },
-    {
-      "basename": "1.3 Types and Type Signatures",
-      "path": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.3 Types and Type Signatures.md"
-    },
-    {
-      "basename": "1.2. Values and Expressions",
-      "path": "HASKELL/Learning Path Haskell/1 Fundomental of Practical Haskell Programming/1.2. Values and Expressions.md"
     }
   ],
   "omittedPaths": [],

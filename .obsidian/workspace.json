@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "P Y T H O N/OOP Python udemy/_ 0 Python OOP.md",
+                "file": "P Y T H O N/OOP Python udemy/7.2 Dataclasses.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "P Y T H O N/OOP Python udemy/_ 0 Python OOP.md",
+                "file": "P Y T H O N/OOP Python udemy/7.2 Dataclasses.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "P Y T H O N/OOP Python udemy/_ 0 Python OOP.md",
+                "file": "P Y T H O N/OOP Python udemy/7.2 Dataclasses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "P Y T H O N/OOP Python udemy/_ 0 Python OOP.md"
+                "file": "P Y T H O N/OOP Python udemy/7.2 Dataclasses.md"
               }
             }
           },
@@ -201,15 +201,15 @@
   },
   "active": "6a347f10c53559c6",
   "lastOpenFiles": [
-    "P Y T H O N/OOP Python udemy/6 Slots.md",
+    "P Y T H O N/OOP Python udemy/7 DataClasses.md",
     "P Y T H O N/OOP Python udemy/_ 0 Python OOP.md",
+    "P Y T H O N/OOP Python udemy/6 Slots.md",
     "P Y T H O N/OOP Python udemy/5 Inheritance.md",
     "P Y T H O N/OOP Python udemy/4 Properties.md",
     "P Y T H O N/OOP Python udemy/3 Dunders.md",
     "P Y T H O N/OOP Python udemy/2 Classes.md",
     "REACT NATIVE/React Native Practical Guide/Navigation/_ 0 React Native Navigation.md",
     "REACT NATIVE/React Native Practical Guide/Navigation/useNavigation Hook.md",
-    "P Y T H O N/OOP Python udemy/8 Descriptors.md",
-    "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md"
+    "P Y T H O N/OOP Python udemy/8 Descriptors.md"
   ]
 }
