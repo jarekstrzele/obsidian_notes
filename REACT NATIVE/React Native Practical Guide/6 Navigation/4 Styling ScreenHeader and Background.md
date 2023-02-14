@@ -5,7 +5,8 @@ The  title in the screen comes from `name` attribute (it is a default header)
 <Stack.Screen name="MealsCategories"
               component={CategoriesScreen} />
 ```
-https://reactnavigation.org/docs/screen-options
+https://reactnavigation.org/docs/native-stack-navigator#options
+
 add `options={ { } }`
 
 
