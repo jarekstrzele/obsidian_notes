@@ -48,7 +48,8 @@ you can write into the browser http://api.open-notify.org/iss-now.json and you g
 add to chrom # JSON Viewer Pro
 #plugin #json #chrome 
 
-http://open-notify.org/Open-Notify-API/ISS-Location-Now/
+http://open-notify.org/Open-Notify-API/ISS-Location-Now
+
 ```python
 import requests
 
@@ -87,7 +88,7 @@ def get_quote():
     res = requests.get(url="https://api.kanye.rest")
     res.raise_for_status()
 
-		data = res.json()
+	data = res.json()
 
     canvas.itemconfig(quote_text, text=data["quote"])
 

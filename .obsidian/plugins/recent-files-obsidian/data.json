@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "NASA API",
-      "path": "API/NASA API.md"
-    },
-    {
       "basename": "33 API Endpoints and API Parameters ISS Overhead Notifier",
       "path": "P Y T H O N/Master_Python_100/33 API Endpoints and API Parameters ISS Overhead Notifier.md"
+    },
+    {
+      "basename": "5 Simple QWidgets",
+      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md"
+    },
+    {
+      "basename": "2 Właściwości grafów",
+      "path": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md"
+    },
+    {
+      "basename": "NASA API",
+      "path": "API/NASA API.md"
     },
     {
       "basename": "34 API GUI Quiz App",
@@ -83,10 +91,6 @@
     {
       "basename": "6 Using Qt Layouts to simplify your designs",
       "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md"
-    },
-    {
-      "basename": "5 Simple QWidgets",
-      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md"
     },
     {
       "basename": "qt_layouts.excalidraw",
@@ -187,10 +191,6 @@
     {
       "basename": "3 - Algorytmy grafowe",
       "path": "algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md"
-    },
-    {
-      "basename": "2 Właściwości grafów",
-      "path": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md"
     },
     {
       "basename": "8 Login Project",
