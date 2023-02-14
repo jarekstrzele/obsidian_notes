@@ -13,7 +13,39 @@ control the semantics of attribute access in Python - you can
 4. if not found, repeat for each parent type in mro order
 5. if not found, raise AttributeError
 
+```python
+class Pradziadek:
+    name = "Hipolit"
 
+class Dziadek(Pradziadek):
+    # name = "Ignacy"
+    pass
+
+class Ojciec(Dziadek):
+    # name = "Piotr"
+    pass
+
+class Syn(Ojciec):
+    def __init__(self, name=None):
+        if name:
+            self.name=name
+
+krzys=Syn("Krzyś")
+krzys2=Syn()
+
+print(krzys.__dict__)
+
+print(krzys2.__dict__)
+print(krzys2.name)
+```
+
+Descriptors can change this order
+
+---
+# Descriptor
+>[!info] descriptor
+>a descriptor is just an object that implements the descriptor protocol
+>- **protocol** is a contract between an object an Python
 
 
 
