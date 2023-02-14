@@ -37,13 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md",
+                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -117,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "API/NASA API.md",
+                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -134,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "API/NASA API.md",
+                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "API/NASA API.md"
+                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md"
               }
             }
           },
@@ -197,12 +198,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "27f6dd4efa445a08",
+  "active": "6a347f10c53559c6",
   "lastOpenFiles": [
-    "P Y T H O N/Master_Python_100/33 API Endpoints and API Parameters ISS Overhead Notifier.md",
     "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md",
-    "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
     "API/NASA API.md",
+    "P Y T H O N/Master_Python_100/33 API Endpoints and API Parameters ISS Overhead Notifier.md",
+    "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
     "P Y T H O N/Master_Python_100/34 API GUI Quiz App.md",
     "P Y T H O N/Master_Python_100/API.excalidraw.md",
     "P Y T H O N/Master_Python_100/Scope Python.md",

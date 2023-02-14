@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "6 Using Qt Layouts to simplify your designs",
+      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md"
+    },
+    {
+      "basename": "5 Simple QWidgets",
+      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md"
+    },
+    {
       "basename": "NASA API",
       "path": "API/NASA API.md"
     },
     {
       "basename": "33 API Endpoints and API Parameters ISS Overhead Notifier",
       "path": "P Y T H O N/Master_Python_100/33 API Endpoints and API Parameters ISS Overhead Notifier.md"
-    },
-    {
-      "basename": "5 Simple QWidgets",
-      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md"
     },
     {
       "basename": "2 Właściwości grafów",
@@ -87,10 +91,6 @@
     {
       "basename": "6.1 Layouts Summary",
       "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/6.1 Layouts Summary.md"
-    },
-    {
-      "basename": "6 Using Qt Layouts to simplify your designs",
-      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md"
     },
     {
       "basename": "qt_layouts.excalidraw",
