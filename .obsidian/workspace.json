@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md",
+                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md",
+                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md",
+                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md"
+                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md"
               }
             }
           },
@@ -200,6 +200,7 @@
   },
   "active": "6a347f10c53559c6",
   "lastOpenFiles": [
+    "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md",
     "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md",
     "API/NASA API.md",
     "P Y T H O N/Master_Python_100/33 API Endpoints and API Parameters ISS Overhead Notifier.md",
@@ -208,7 +209,6 @@
     "P Y T H O N/Master_Python_100/API.excalidraw.md",
     "P Y T H O N/Master_Python_100/Scope Python.md",
     "P Y T H O N/Master_Python_100/16 _ OOP.md",
-    "P Y T H O N/Learn Python (Basic, BUI, Web, FullStack)/1 Python Database.md",
-    "P Y T H O N/Learn Python (Basic, BUI, Web, FullStack)/0 _ Learn Python From Zero to Hero (basic, Bui, Web, Full Stack).md"
+    "P Y T H O N/Learn Python (Basic, BUI, Web, FullStack)/1 Python Database.md"
   ]
 }
