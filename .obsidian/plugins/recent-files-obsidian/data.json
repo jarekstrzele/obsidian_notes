@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Modyfikacja tabeli ALTER",
+      "path": "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Modyfikacja tabeli ALTER.md"
+    },
+    {
       "basename": "_ Łączenie tabel SQLite",
       "path": "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/_ Łączenie tabel SQLite.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "Ograniczenie",
       "path": "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Ograniczenie.md"
-    },
-    {
-      "basename": "Modyfikacja tabeli ALTER",
-      "path": "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Modyfikacja tabeli ALTER.md"
     },
     {
       "basename": "CROSS JOIN",
