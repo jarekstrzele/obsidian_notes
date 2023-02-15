@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "PRIMARY KEY i ROWID",
+      "path": "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/PRIMARY KEY i ROWID.md"
+    },
+    {
+      "basename": "Ograniczenie",
+      "path": "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Ograniczenie.md"
+    },
+    {
       "basename": "Modyfikacja tabeli ALTER",
       "path": "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Modyfikacja tabeli ALTER.md"
     },
@@ -31,14 +39,6 @@
     {
       "basename": "Relacje",
       "path": "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Relacje.md"
-    },
-    {
-      "basename": "PRIMARY KEY i ROWID",
-      "path": "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/PRIMARY KEY i ROWID.md"
-    },
-    {
-      "basename": "Ograniczenie",
-      "path": "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Ograniczenie.md"
     },
     {
       "basename": "CROSS JOIN",
