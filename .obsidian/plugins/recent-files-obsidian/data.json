@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "NASA API",
+      "path": "API/NASA API.md"
+    },
+    {
+      "basename": "_ 0 intro APIs for beginners",
+      "path": "API/APIs_for_beginners_youtube/_ 0 intro APIs for beginners.md"
+    },
+    {
+      "basename": "typy danych",
+      "path": "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/typy danych.md"
+    },
+    {
       "basename": "3 Add new Component MealItem",
       "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/3 Add new Component MealItem.md"
     },
@@ -19,10 +31,6 @@
     {
       "basename": "2. Route parameters",
       "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/2. Route parameters.md"
-    },
-    {
-      "basename": "typy danych",
-      "path": "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/typy danych.md"
     },
     {
       "basename": "Klucz obcy",
@@ -75,10 +83,6 @@
     {
       "basename": "_ 0 React Native Navigation",
       "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/_ 0 React Native Navigation.md"
-    },
-    {
-      "basename": "NASA API",
-      "path": "API/NASA API.md"
     },
     {
       "basename": "useEffect",
@@ -195,10 +199,6 @@
     {
       "basename": "7 Advanced widgets",
       "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7 Advanced widgets.md"
-    },
-    {
-      "basename": "8.1 Widget specific styling",
-      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/8.1 Widget specific styling.md"
     }
   ],
   "omittedPaths": [],
