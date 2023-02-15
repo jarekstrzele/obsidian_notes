@@ -7,12 +7,7 @@
 [[#Searching in All Directions]]
 [[#Unit Testing the Grid with HSpec]]
 
-
-
-
-
 ----
-
 # Creating a Project with Stack
 
 `stack new projectName`

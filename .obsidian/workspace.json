@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "API/NASA API.md",
+                "file": "HASKELL/learning haskell programming/2 Developing a Word Game.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 384.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ec7d1a70da2de581",
@@ -118,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "API/NASA API.md",
+                "file": "HASKELL/learning haskell programming/2 Developing a Word Game.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -135,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "API/NASA API.md",
+                "file": "HASKELL/learning haskell programming/2 Developing a Word Game.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "API/NASA API.md"
+                "file": "HASKELL/learning haskell programming/2 Developing a Word Game.md"
               }
             }
           },
@@ -200,15 +201,15 @@
   },
   "active": "6d65a44b45beb8b1",
   "lastOpenFiles": [
-    "API/APIs_for_beginners_youtube/_ 0 intro APIs for beginners.md",
+    "HASKELL/learning haskell programming/1 Getting Started with Haskell.md",
+    "HASKELL/learning haskell programming/_ 0 Learining Haskell Programming.md",
+    "HASKELL/web/Yesod/0 _ Haskell and Yesod.md",
     "API/NASA API.md",
+    "API/APIs_for_beginners_youtube/_ 0 intro APIs for beginners.md",
     "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/typy danych.md",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/3 Add new Component MealItem.md",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/4 Styling ScreenHeader and Background.md",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/1 Add action to React Navigator.md",
-    "REACT NATIVE/React Native Practical Guide/6 Navigation/useNavigation Hook.md",
-    "REACT NATIVE/React Native Practical Guide/6 Navigation/2. Route parameters.md",
-    "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Klucz obcy.md",
-    "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Relacje.md"
+    "REACT NATIVE/React Native Practical Guide/6 Navigation/useNavigation Hook.md"
   ]
 }

@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "2 Developing a Word Game",
+      "path": "HASKELL/learning haskell programming/2 Developing a Word Game.md"
+    },
+    {
+      "basename": "1 Getting Started with Haskell",
+      "path": "HASKELL/learning haskell programming/1 Getting Started with Haskell.md"
+    },
+    {
+      "basename": "_ 0 Learining Haskell Programming",
+      "path": "HASKELL/learning haskell programming/_ 0 Learining Haskell Programming.md"
+    },
+    {
+      "basename": "0 _ Haskell and Yesod",
+      "path": "HASKELL/web/Yesod/0 _ Haskell and Yesod.md"
+    },
+    {
       "basename": "NASA API",
       "path": "API/NASA API.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "7.4 QPlainTextEdit",
       "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.4 QPlainTextEdit.md"
-    },
-    {
-      "basename": "7.3 QTreeWidgets",
-      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.3 QTreeWidgets.md"
-    },
-    {
-      "basename": "7.2 QListWidget",
-      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.2 QListWidget.md"
-    },
-    {
-      "basename": "7.1 QTabWidget",
-      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.1 QTabWidget.md"
-    },
-    {
-      "basename": "7 Advanced widgets",
-      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7 Advanced widgets.md"
     }
   ],
   "omittedPaths": [],
