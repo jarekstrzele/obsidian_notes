@@ -6,9 +6,15 @@ https://reactnavigation.org/
 #reactnavigation 
 [[_ 0 React Native Navigation]]
 
-##  1. `npm install @react-navigation/native`
-## 2. `npx expo install react-native-screens react-native-safe-area-context`
+##  1. `npm install @react-navigation/native` - core react navigation packages
+
+## 2. `npx expo install react-native-screens react-native-safe-area-context` - in your project directory
+
+to use 
 ## 3. `import {} from '@react-navigation/native'` ;`
+
+3.1. import `NavigationContainer`
+
 
 **on web reactnavigation -> API Reference > Navigators**
 
