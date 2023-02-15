@@ -1,7 +1,7 @@
  [[_ 0 React Native Navigation]]
 
 
-# Add some action React Navigator
+# Install 
 https://reactnavigation.org/
 #reactnavigation 
 [[_ 0 React Native Navigation]]
@@ -20,7 +20,7 @@ to use
 	**to install native stack navigator**
 		`npm install @react-navigation/native-stack`
 
-
+# Use
 ```jsx
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
@@ -48,7 +48,7 @@ export default function App() {
 ```
 
 --------
-## second screen
+# Add a second screen
 CategoriesScreen.jsx
 ```jsx
 import { FlatList } from "react-native";

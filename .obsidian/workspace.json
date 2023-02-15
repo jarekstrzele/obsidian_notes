@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/2. Route parameters.md",
+                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/1 Add action to React Navigator.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +37,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Klucz obcy.md",
+                "file": "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/typy danych.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Klucz obcy.md",
+                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/1 Add action to React Navigator.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -135,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Klucz obcy.md",
+                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/1 Add action to React Navigator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Klucz obcy.md"
+                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/1 Add action to React Navigator.md"
               }
             }
           },
@@ -198,17 +197,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6d65a44b45beb8b1",
+  "active": "a191af069461ccb7",
   "lastOpenFiles": [
+    "REACT NATIVE/React Native Practical Guide/6 Navigation/useNavigation Hook.md",
+    "REACT NATIVE/React Native Practical Guide/6 Navigation/1 Add action to React Navigator.md",
+    "REACT NATIVE/React Native Practical Guide/6 Navigation/2. Route parameters.md",
+    "REACT NATIVE/React Native Practical Guide/6 Navigation/4 Styling ScreenHeader and Background.md",
     "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/typy danych.md",
+    "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Klucz obcy.md",
     "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Relacje.md",
     "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/PRIMARY KEY i ROWID.md",
     "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Ograniczenie.md",
-    "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Modyfikacja tabeli ALTER.md",
-    "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/_ Łączenie tabel SQLite.md",
-    "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/_ Groupowanie danych SQLite.md",
-    "Data Bases/SQL/SQL Bootcamp SQLite/_ SQL Bootcamp - SQLite cz. 1.md",
-    "Data Bases/SQL/SQL Bootcamp SQLite/3 - DML/_ DML SQLite.md",
-    "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Indeksy.md"
+    "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Modyfikacja tabeli ALTER.md"
   ]
 }
