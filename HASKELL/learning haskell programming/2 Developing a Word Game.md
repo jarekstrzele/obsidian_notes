@@ -55,8 +55,6 @@ jarek@pop-os:~/Desktop/haskell_simple_console/wordgame2$ stack exec wordgame2-ex
 someFunc!!!!
 ```
 
-
-
 ### test
 `stack test`
 by default is not implemented
