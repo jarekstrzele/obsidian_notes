@@ -29,21 +29,21 @@ that command create a project folder and gives you some info:
 ### create
 again : `stack new wordgame`
 
-### compile
+### compilend build
 in that new folder: `stack ghci` to **compile** the code
 look at
 - `app/Main.hs` 
 - `src/Lib.hs`
 - `test/Spec.hs`
 
-### cabal file - metadata
-`projectName.cabal` has all info to build the project
-you can change metadata in `projectName.cabal` (e.g. add to `ghc-option`  `-dynamic`)
-
-### build
+or build by
 **build** project
 `stack build` (it creates `Linking .stack-work\dist\8a54c84f\build\wordgame-exe\wordgame-exe.exe ...` )
 
+
+### cabal file - metadata
+`projectName.cabal` has all info to build the project
+you can change metadata in `projectName.cabal` (e.g. add to `ghc-option`  `-dynamic`)
 
 ### run
 `> stack exec wordgame-exe.exe`
