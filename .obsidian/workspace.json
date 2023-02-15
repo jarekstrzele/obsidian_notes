@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/4 Styling ScreenHeader and Background.md",
+                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/3 Add new Component MealItem.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/1 Add action to React Navigator.md",
+                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/3 Add new Component MealItem.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -134,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/1 Add action to React Navigator.md",
+                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/3 Add new Component MealItem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/1 Add action to React Navigator.md"
+                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/3 Add new Component MealItem.md"
               }
             }
           },
@@ -197,12 +198,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a191af069461ccb7",
+  "active": "9266f65d40eb9617",
   "lastOpenFiles": [
-    "REACT NATIVE/React Native Practical Guide/6 Navigation/useNavigation Hook.md",
-    "REACT NATIVE/React Native Practical Guide/6 Navigation/1 Add action to React Navigator.md",
-    "REACT NATIVE/React Native Practical Guide/6 Navigation/2. Route parameters.md",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/4 Styling ScreenHeader and Background.md",
+    "REACT NATIVE/React Native Practical Guide/6 Navigation/1 Add action to React Navigator.md",
+    "REACT NATIVE/React Native Practical Guide/6 Navigation/useNavigation Hook.md",
+    "REACT NATIVE/React Native Practical Guide/6 Navigation/2. Route parameters.md",
     "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/typy danych.md",
     "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Klucz obcy.md",
     "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Relacje.md",

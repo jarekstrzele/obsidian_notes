@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "3 Add new Component MealItem",
+      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/3 Add new Component MealItem.md"
+    },
+    {
+      "basename": "4 Styling ScreenHeader and Background",
+      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/4 Styling ScreenHeader and Background.md"
+    },
+    {
       "basename": "1 Add action to React Navigator",
       "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/1 Add action to React Navigator.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "2. Route parameters",
       "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/2. Route parameters.md"
-    },
-    {
-      "basename": "4 Styling ScreenHeader and Background",
-      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/4 Styling ScreenHeader and Background.md"
     },
     {
       "basename": "typy danych",
@@ -83,10 +87,6 @@
     {
       "basename": "useLayoutEffect",
       "path": "REACT NATIVE/React Native Practical Guide/useLayoutEffect.md"
-    },
-    {
-      "basename": "3 Add new Component MealItem",
-      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/3 Add new Component MealItem.md"
     },
     {
       "basename": "7.2 Dataclasses",
