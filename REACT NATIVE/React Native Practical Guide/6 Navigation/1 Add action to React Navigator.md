@@ -13,20 +13,19 @@ https://reactnavigation.org/
 to use 
 ## 3. `import {} from '@react-navigation/native'` ;`
 
-3.1. import `NavigationContainer`
-
-
-**on web reactnavigation -> API Reference > Navigators**
-
-## Stack navigator
-`npm install @react-navigation/native-stack`
+3.1. import `NavigationContainer` and wrap your components in that component
+3.2. you will use `navigator-stack` to navigate
+	**on web reactnavigation -> API Reference > Navigators**
+	find navigator-stack
+	**to install native stack navigator**
+		`npm install @react-navigation/native-stack`
 
 
 ```jsx
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
 import CategoriesScreen from './screens/CategoriesScreen';
-import { createNativeStackNavigator } from '@react-navigation/native-stack' ;
+import { createNativeStackNavigator } from '@react-navigation/native-stack' ; 
 
 // it is only a container
 import { NavigationContainer } from '@react-navigation/native' ;
