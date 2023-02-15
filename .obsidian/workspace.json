@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/_ 0 React Native Navigation.md",
+                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/1 Add action to React Navigator.md",
                 "mode": "source",
                 "source": false
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/_ 0 React Native Navigation.md",
+                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/1 Add action to React Navigator.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/_ 0 React Native Navigation.md",
+                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/1 Add action to React Navigator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/_ 0 React Native Navigation.md"
+                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/1 Add action to React Navigator.md"
               }
             }
           },
@@ -272,13 +272,13 @@
   },
   "active": "b154b32f4dc019f6",
   "lastOpenFiles": [
+    "REACT NATIVE/React Native Practical Guide/6 Navigation/_ 0 React Native Navigation.md",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/4 Styling ScreenHeader and Background.md",
     "REACT NATIVE/React Native Practical Guide/useEffect.md",
     "REACT NATIVE/React Native Practical Guide/useLayoutEffect.md",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/useNavigation Hook.md",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/2. Route parameters.md",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/3 Add new Component MealItem.md",
-    "REACT NATIVE/React Native Practical Guide/6 Navigation/_ 0 React Native Navigation.md",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/1 Add action to React Navigator.md",
     "P Y T H O N/OOP Python udemy/7.2 Dataclasses.md",
     "P Y T H O N/OOP Python udemy/7 DataClasses.md"
