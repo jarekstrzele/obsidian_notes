@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REACT/react and SQLite.md",
+                "file": "REACT/React Full JS.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REACT/react and SQLite.md",
+                "file": "REACT/React Full JS.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REACT/react and SQLite.md",
+                "file": "REACT/React Full JS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REACT/react and SQLite.md"
+                "file": "REACT/React Full JS.md"
               }
             }
           },
@@ -220,6 +220,7 @@
   },
   "active": "bcc0c35a2da29029",
   "lastOpenFiles": [
+    "REACT/react and SQLite.md",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/3 Add new Component MealItem.md",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/1 Add action to React Navigator.md",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/2. Route parameters.md",
@@ -228,7 +229,6 @@
     "HASKELL/learning haskell programming/1 Getting Started with Haskell.md",
     "HASKELL/learning haskell programming/_ 0 Learining Haskell Programming.md",
     "HASKELL/web/Yesod/0 _ Haskell and Yesod.md",
-    "API/NASA API.md",
-    "API/APIs_for_beginners_youtube/_ 0 intro APIs for beginners.md"
+    "API/NASA API.md"
   ]
 }

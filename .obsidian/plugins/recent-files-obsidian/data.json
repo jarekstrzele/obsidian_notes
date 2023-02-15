@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "React Full JS",
+      "path": "REACT/React Full JS.md"
+    },
+    {
       "basename": "react and SQLite",
       "path": "REACT/react and SQLite.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "7.6 QTextBrowser",
       "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.6 QTextBrowser.md"
-    },
-    {
-      "basename": "7.5 QTextEdit",
-      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.5 QTextEdit.md"
     }
   ],
   "omittedPaths": [],
