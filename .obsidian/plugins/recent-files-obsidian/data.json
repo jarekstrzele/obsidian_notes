@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Klucz obcy",
+      "path": "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Klucz obcy.md"
+    },
+    {
+      "basename": "typy danych",
+      "path": "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/typy danych.md"
+    },
+    {
+      "basename": "Relacje",
+      "path": "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Relacje.md"
+    },
+    {
       "basename": "PRIMARY KEY i ROWID",
       "path": "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/PRIMARY KEY i ROWID.md"
     },
@@ -31,14 +43,6 @@
     {
       "basename": "Indeksy",
       "path": "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Indeksy.md"
-    },
-    {
-      "basename": "typy danych",
-      "path": "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/typy danych.md"
-    },
-    {
-      "basename": "Relacje",
-      "path": "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Relacje.md"
     },
     {
       "basename": "CROSS JOIN",
@@ -195,10 +199,6 @@
     {
       "basename": "8.1 Widget specific styling",
       "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/8.1 Widget specific styling.md"
-    },
-    {
-      "basename": "8 Qt Style Sheets",
-      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/8 Qt Style Sheets.md"
     }
   ],
   "omittedPaths": [],

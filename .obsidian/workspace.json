@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/PRIMARY KEY i ROWID.md",
+                "file": "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Klucz obcy.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/PRIMARY KEY i ROWID.md",
+                "file": "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Klucz obcy.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/PRIMARY KEY i ROWID.md",
+                "file": "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Klucz obcy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/PRIMARY KEY i ROWID.md"
+                "file": "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Klucz obcy.md"
               }
             }
           },
@@ -200,15 +200,15 @@
   },
   "active": "6d65a44b45beb8b1",
   "lastOpenFiles": [
+    "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/typy danych.md",
+    "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Relacje.md",
+    "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/PRIMARY KEY i ROWID.md",
     "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Ograniczenie.md",
     "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Modyfikacja tabeli ALTER.md",
     "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/_ Łączenie tabel SQLite.md",
     "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/_ Groupowanie danych SQLite.md",
     "Data Bases/SQL/SQL Bootcamp SQLite/_ SQL Bootcamp - SQLite cz. 1.md",
     "Data Bases/SQL/SQL Bootcamp SQLite/3 - DML/_ DML SQLite.md",
-    "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Indeksy.md",
-    "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/typy danych.md",
-    "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Relacje.md",
-    "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/PRIMARY KEY i ROWID.md"
+    "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Indeksy.md"
   ]
 }

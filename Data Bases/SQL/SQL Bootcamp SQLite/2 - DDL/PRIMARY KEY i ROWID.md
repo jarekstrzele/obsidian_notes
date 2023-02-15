@@ -10,7 +10,7 @@
 
 **Dwa sposóby definiowania klucza głównego**
 - klucz główny `PRIMARY KEY` możemy zdefiniować na poziomie kolumny (gdy składa się z jednej kolumny)
-- klucz główny `PRIARY KEY` ,możemy zdefiniować na poziomie całej tabeli (gdy skład się z jednje lub więcej kolumn)
+- klucz główny `PRIMARY KEY` ,możemy zdefiniować na poziomie całej tabeli (gdy skład się z jednje lub więcej kolumn)
 
 W SQLite klucz główny jest opcjonalny w przypadku zwykłych tabel, ale jest wymagany wprzypadku tabel bez `ROWID` (`WITHOUY ROWID`)
 
