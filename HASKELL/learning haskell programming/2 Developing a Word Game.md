@@ -46,8 +46,16 @@ or build by
 you can change metadata in `projectName.cabal` (e.g. add to `ghc-option`  `-dynamic`)
 
 ### run
-`> stack exec wordgame-exe.exe`
+`> stack exec wordgame-exe`
 `someFunc`
+```bash
+$ .stack-work/dist/x86_64-linux/Cabal-3.6.3.0/build/wordgame2-exe/wordgame2-exe
+someFunc!!!!
+jarek@pop-os:~/Desktop/haskell_simple_console/wordgame2$ stack exec wordgame2-exe
+someFunc!!!!
+```
+
+
 
 ### test
 `stack test`
