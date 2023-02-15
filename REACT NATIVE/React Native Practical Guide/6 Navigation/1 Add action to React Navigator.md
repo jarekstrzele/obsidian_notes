@@ -127,8 +127,8 @@ const styles = StyleSheet.create({
 
 `component={CategoriesScreen}` -> this component will have special prop -> `props.navigtion` (all components register in `component` attribute have this prop)
 
-this `navigation` allow to navigate between screens
-the **navigation** object has a method `navigate()` to which pass a name of a page you want to navigate (use the value of `name` attribute e.i. 
+- this `navigation` allow to navigate between screens
+- the **navigation** object has a method `navigate()` to which pass a name of a page you want to navigate (use the value of `name` attribute e.i. 
 ```jsx
 <Stack.Screen name="MealsOverview"
                         component={MealsOverviewScreen}
@@ -178,9 +178,6 @@ You can therefore change the initial screen by changing the `<Stack.Screen>` o
 
 -----------
 ## sending data by  `navigator`
-
-
-
 
 CategoriesScreem.jsx (add object to `navigate` method)
 ```jsx

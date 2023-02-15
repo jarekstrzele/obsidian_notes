@@ -1,16 +1,72 @@
 {
   "recentFiles": [
     {
-      "basename": "1 Add action to React Navigator",
-      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/1 Add action to React Navigator.md"
+      "basename": "_ Łączenie tabel SQLite",
+      "path": "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/_ Łączenie tabel SQLite.md"
+    },
+    {
+      "basename": "_ Groupowanie danych SQLite",
+      "path": "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/_ Groupowanie danych SQLite.md"
+    },
+    {
+      "basename": "_ SQL Bootcamp - SQLite cz. 1",
+      "path": "Data Bases/SQL/SQL Bootcamp SQLite/_ SQL Bootcamp - SQLite cz. 1.md"
+    },
+    {
+      "basename": "_ DML SQLite",
+      "path": "Data Bases/SQL/SQL Bootcamp SQLite/3 - DML/_ DML SQLite.md"
+    },
+    {
+      "basename": "Indeksy",
+      "path": "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Indeksy.md"
+    },
+    {
+      "basename": "typy danych",
+      "path": "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/typy danych.md"
+    },
+    {
+      "basename": "Relacje",
+      "path": "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Relacje.md"
+    },
+    {
+      "basename": "PRIMARY KEY i ROWID",
+      "path": "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/PRIMARY KEY i ROWID.md"
+    },
+    {
+      "basename": "Ograniczenie",
+      "path": "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Ograniczenie.md"
+    },
+    {
+      "basename": "Modyfikacja tabeli ALTER",
+      "path": "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Modyfikacja tabeli ALTER.md"
+    },
+    {
+      "basename": "CROSS JOIN",
+      "path": "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/CROSS JOIN.md"
+    },
+    {
+      "basename": "_ 0 SQL",
+      "path": "Data Bases/SQL/mosh/_ 0 SQL.md"
+    },
+    {
+      "basename": "4 Styling ScreenHeader and Background",
+      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/4 Styling ScreenHeader and Background.md"
+    },
+    {
+      "basename": "2. Route parameters",
+      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/2. Route parameters.md"
     },
     {
       "basename": "_ 0 React Native Navigation",
       "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/_ 0 React Native Navigation.md"
     },
     {
-      "basename": "4 Styling ScreenHeader and Background",
-      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/4 Styling ScreenHeader and Background.md"
+      "basename": "NASA API",
+      "path": "API/NASA API.md"
+    },
+    {
+      "basename": "1 Add action to React Navigator",
+      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/1 Add action to React Navigator.md"
     },
     {
       "basename": "useEffect",
@@ -23,10 +79,6 @@
     {
       "basename": "useNavigation Hook",
       "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/useNavigation Hook.md"
-    },
-    {
-      "basename": "2. Route parameters",
-      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/2. Route parameters.md"
     },
     {
       "basename": "3 Add new Component MealItem",
@@ -75,10 +127,6 @@
     {
       "basename": "6 Using Qt Layouts to simplify your designs",
       "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md"
-    },
-    {
-      "basename": "NASA API",
-      "path": "API/NASA API.md"
     },
     {
       "basename": "33 API Endpoints and API Parameters ISS Overhead Notifier",
@@ -151,54 +199,6 @@
     {
       "basename": "8 Qt Style Sheets",
       "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/8 Qt Style Sheets.md"
-    },
-    {
-      "basename": "8.2 Style for all app QStyleFactory",
-      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/8.2 Style for all app QStyleFactory.md"
-    },
-    {
-      "basename": "6.1 Layouts Summary",
-      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/6.1 Layouts Summary.md"
-    },
-    {
-      "basename": "qt_layouts.excalidraw",
-      "path": "Excalidraw/qt_layouts.excalidraw.md"
-    },
-    {
-      "basename": "4 Pre-defined dialogs and basic data types",
-      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/4 Pre-defined dialogs and basic data types.md"
-    },
-    {
-      "basename": "2 Installing PyQt5",
-      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md"
-    },
-    {
-      "basename": "_ 0 PyQt5 From A-Z",
-      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md"
-    },
-    {
-      "basename": "2.2.1 Grid of Words Game",
-      "path": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2.2.1 Grid of Words Game.md"
-    },
-    {
-      "basename": "2.2 Stack Project",
-      "path": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2.2 Stack Project.md"
-    },
-    {
-      "basename": "2.1 Exploring Haskell",
-      "path": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/2.1 Exploring Haskell.md"
-    },
-    {
-      "basename": "Data.List and operator `!!`",
-      "path": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/Data.List and operator `!!`.md"
-    },
-    {
-      "basename": "3 Lists and Tuples",
-      "path": "HASKELL/Haskell for Imperative Programmers/3 Lists and Tuples.md"
-    },
-    {
-      "basename": "2 Recursion, Guards, Patterns",
-      "path": "HASKELL/Haskell for Imperative Programmers/2 Recursion, Guards, Patterns.md"
     }
   ],
   "omittedPaths": [],
