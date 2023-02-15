@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "bcc0c35a2da29029",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "REACT/react and SQLite.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6d65a44b45beb8b1",
             "type": "leaf",
             "state": {
@@ -52,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/3 Add new Component MealItem.md",
+                "file": "REACT/react and SQLite.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -143,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/3 Add new Component MealItem.md",
+                "file": "REACT/react and SQLite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/3 Add new Component MealItem.md"
+                "file": "REACT/react and SQLite.md"
               }
             }
           },
@@ -206,8 +218,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9266f65d40eb9617",
+  "active": "bcc0c35a2da29029",
   "lastOpenFiles": [
+    "REACT NATIVE/React Native Practical Guide/6 Navigation/3 Add new Component MealItem.md",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/1 Add action to React Navigator.md",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/2. Route parameters.md",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/_ 0 React Native Navigation.md",
@@ -216,7 +229,6 @@
     "HASKELL/learning haskell programming/_ 0 Learining Haskell Programming.md",
     "HASKELL/web/Yesod/0 _ Haskell and Yesod.md",
     "API/NASA API.md",
-    "API/APIs_for_beginners_youtube/_ 0 intro APIs for beginners.md",
-    "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/typy danych.md"
+    "API/APIs_for_beginners_youtube/_ 0 intro APIs for beginners.md"
   ]
 }

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "react and SQLite",
+      "path": "REACT/react and SQLite.md"
+    },
+    {
       "basename": "3 Add new Component MealItem",
       "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/3 Add new Component MealItem.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "7.5 QTextEdit",
       "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.5 QTextEdit.md"
-    },
-    {
-      "basename": "7.4 QPlainTextEdit",
-      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.4 QPlainTextEdit.md"
     }
   ],
   "omittedPaths": [],
