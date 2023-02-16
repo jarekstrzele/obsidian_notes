@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "8 Login Project",
+      "path": "REACT/React - the Complete Guide/8 Login Project.md"
+    },
+    {
       "basename": "1 Python Database",
       "path": "P Y T H O N/Learn Python (Basic, BUI, Web, FullStack)/1 Python Database.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "9 QtDesigner",
       "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md"
-    },
-    {
-      "basename": "7.6 QTextBrowser",
-      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.6 QTextBrowser.md"
     }
   ],
   "omittedPaths": [],

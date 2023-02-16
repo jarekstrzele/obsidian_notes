@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "P Y T H O N/Learn Python (Basic, BUI, Web, FullStack)/1 Python Database.md",
+                "file": "REACT/React - the Complete Guide/8 Login Project.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5
+    "width": 337.5
   },
   "right": {
     "id": "ec7d1a70da2de581",
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "P Y T H O N/Learn Python (Basic, BUI, Web, FullStack)/1 Python Database.md",
+                "file": "REACT/React - the Complete Guide/8 Login Project.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "P Y T H O N/Learn Python (Basic, BUI, Web, FullStack)/1 Python Database.md",
+                "file": "REACT/React - the Complete Guide/8 Login Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "P Y T H O N/Learn Python (Basic, BUI, Web, FullStack)/1 Python Database.md"
+                "file": "REACT/React - the Complete Guide/8 Login Project.md"
               }
             }
           },
@@ -220,9 +220,9 @@
   },
   "active": "bcc0c35a2da29029",
   "lastOpenFiles": [
+    "P Y T H O N/Learn Python (Basic, BUI, Web, FullStack)/1 Python Database.md",
     "P Y T H O N/Learn Python (Basic, BUI, Web, FullStack)/0 _ Learn Python From Zero to Hero (basic, Bui, Web, Full Stack).md",
     "REACT/React Full JS.md",
-    "P Y T H O N/Learn Python (Basic, BUI, Web, FullStack)/1 Python Database.md",
     "REACT/react and SQLite.md",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/3 Add new Component MealItem.md",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/1 Add action to React Navigator.md",
