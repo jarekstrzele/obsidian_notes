@@ -147,7 +147,53 @@ for s in V.keys():
 
 
 # Najkrótsza droga
+```python
+V = {
+    'P': [ 'D1', 'D2', 'K', 'Q', 'H'],
+    'D1': ['D2', 'E', 'P'],
+    'D2': ['D1', 'P'],
+    'K': ['P', 'Q'],
+    'Q': ['P', 'K', 'H'],
+    'H': ['P', 'Q'],
+    'E': ['D1'],
+}
+ 
 
+V2 = {
+    'A' : ['B', 'C'],
+    'B' : ['D'],
+    'C' : ['D'],
+    'D' :['A']
+}
+
+  
+
+def is_path_between(V, source, dest):
+    list_to_check = [[source]]
+    list_visited = []
+  
+    while list_to_check:
+        curr_path = list_to_check.pop(0)
+        curr_node = curr_path[-1]
+        if curr_node == dest:
+            return curr_path
+        else:
+             if curr_node not in list_visited:
+                 list_visited.append(curr_node)
+                 for n in V[curr_node]:
+                     new_path = curr_path.copy()
+                     new_path.append(n)
+                     list_to_check.append(new_path)
+
+    return []
+
+print(is_path_between(V, 'E', 'H'))
+
+for s in V.keys():
+    for d in V.keys():
+        if s != d:
+            print(f' Path {s} - {d} - {is_path_between(V,s,d)}')
+```
 
 
 
