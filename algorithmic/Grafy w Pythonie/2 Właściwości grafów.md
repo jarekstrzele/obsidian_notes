@@ -102,7 +102,48 @@ P D1 P
 
 Przechodzimy przez wierchołki pytając o sąsiadów danego wierzchołka, aż znadziemy cel
 
+```python
+V = {
+    'P': ['K', 'Q', 'H'],
+    'D1': ['D2', 'E', 'P'],
+    'D2': ['D1', 'P'],
+    'K': ['P', 'Q'],
+    'Q': ['P', 'K', 'H'],
+    'H': ['P', 'Q'],
+    'E': ['D1'],
+}
 
+V2 = {
+    'A' : ['B', 'C'],
+    'B' : ['D'],
+    'C' : ['D'],
+    'D' :['A']
+}
+
+
+def is_path_between(V, source, dest):
+    list_to_check = [source]
+    list_visited = []
+
+    while list_to_check:
+        curr_node = list_to_check.pop(0)
+        if curr_node == dest:
+            return True
+        else:
+             if curr_node not in list_visited:
+                 list_visited.append(curr_node)
+                 list_to_check.extend(V[curr_node])
+
+    return False
+  
+
+print(is_path_between(V, 'E', 'H'))
+
+for s in V.keys():
+    for d in V.keys():
+        if s != d:
+            print(f' Path {s} - {d} - {is_path_between(V,s,d)}')
+```
 
 
 # Najkrótsza droga
