@@ -364,9 +364,33 @@ except:
     print("Database is not connected")
 ```
 
+## Insert
+```python
+try:  
+    conn = psycopg2.connect(database=DB_NAME, user=DB_USER, password=DB_PASS, host=DB_HOST, port=DB_PORT)  
+    print("Database is connected")  
+    cur = conn.cursor()  
+    cur.execute("INSERT INTO Employee (ID, NAME, EMAIL)  VALUES(2, 'Pariii', 'ww@htrht.com')")  
+    conn.commit()  
+    print("Data inserted")  
+  
+except:  
+    print("Error in connection")
+```
 
-
-
+## update
+```python
+try:  
+    conn = psycopg2.connect(database=DB_NAME, user=DB_USER, password=DB_PASS, host=DB_HOST, port=DB_PORT)  
+    print("Database is connected")  
+    cur = conn.cursor()  
+    cur.execute("UPDATE Employee set email='updated@email.ll' WHERE ID=1")  
+    conn.commit()  
+    print("Data updated")  
+  
+except:  
+    print("Error in connection")
+```
 
 ----
 # MS Access
