@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Postgres",
+      "path": "REACT/DB/Postgres.md"
+    },
+    {
       "basename": "1 Python Database",
       "path": "P Y T H O N/Learn Python (Basic, BUI, Web, FullStack)/1 Python Database.md"
+    },
+    {
+      "basename": "1 Add action to React Navigator",
+      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/1 Add action to React Navigator.md"
     },
     {
       "basename": "2 Właściwości grafów",
@@ -39,10 +47,6 @@
     {
       "basename": "react and SQLite",
       "path": "REACT/react and SQLite.md"
-    },
-    {
-      "basename": "1 Add action to React Navigator",
-      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/1 Add action to React Navigator.md"
     },
     {
       "basename": "2. Route parameters",
@@ -195,10 +199,6 @@
     {
       "basename": "Scope Python",
       "path": "P Y T H O N/Master_Python_100/Scope Python.md"
-    },
-    {
-      "basename": "16 _ OOP",
-      "path": "P Y T H O N/Master_Python_100/16 _ OOP.md"
     }
   ],
   "omittedPaths": [],
