@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/3 Add new Component MealItem.md",
+                "file": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "P Y T H O N/Learn Python (Basic, BUI, Web, FullStack)/1 Python Database.md",
+                "file": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "P Y T H O N/Learn Python (Basic, BUI, Web, FullStack)/1 Python Database.md",
+                "file": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "P Y T H O N/Learn Python (Basic, BUI, Web, FullStack)/1 Python Database.md"
+                "file": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md"
               }
             }
           },
@@ -218,17 +218,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bcc0c35a2da29029",
+  "active": "9266f65d40eb9617",
   "lastOpenFiles": [
+    "REACT NATIVE/React Native Practical Guide/6 Navigation/3 Add new Component MealItem.md",
+    "P Y T H O N/Learn Python (Basic, BUI, Web, FullStack)/1 Python Database.md",
     "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
     "algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md",
-    "P Y T H O N/Learn Python (Basic, BUI, Web, FullStack)/1 Python Database.md",
     "P Y T H O N/Learn Python (Basic, BUI, Web, FullStack)/0 _ Learn Python From Zero to Hero (basic, Bui, Web, Full Stack).md",
     "P Y T H O N/Master_Python_100/33 API Endpoints and API Parameters ISS Overhead Notifier.md",
     "P Y T H O N/Master_Python_100/34 API GUI Quiz App.md",
     "REACT/React - the Complete Guide/8 Login Project.md",
     "REACT/React Full JS.md",
-    "REACT/react and SQLite.md",
-    "REACT NATIVE/React Native Practical Guide/6 Navigation/3 Add new Component MealItem.md"
+    "REACT/react and SQLite.md"
   ]
 }
