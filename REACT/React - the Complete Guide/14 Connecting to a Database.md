@@ -174,31 +174,22 @@ TO IMMEDIATELY FETCH DATA -> use `useEffect`
 if you will have code:
 ```js
 function App() {
-
   const[movies, setMovies] = useState([])
-
   const[isLoading, setIsLoading] = useState(false)
-
   const[error, setError] = useState(null);
-
   
-
   useEffect( () => {
-
     fetchMoviesHandler();
-
   }) ;
-
   async function fetchMoviesHandler(){
-
     setIsLoading(true) ;
-
     setError(null);
-
     try{
 ```
 
+this code is not good because whenever this component will be reevaluate the function from useEffect wil be executed
 
+but you can add 
 
 
 
