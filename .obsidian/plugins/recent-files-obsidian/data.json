@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "14 Connecting to a Database",
+      "path": "REACT/React - the Complete Guide/14 Connecting to a Database.md"
+    },
+    {
       "basename": "Postgres",
       "path": "REACT/DB/Postgres.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "API.excalidraw",
       "path": "P Y T H O N/Master_Python_100/API.excalidraw.md"
-    },
-    {
-      "basename": "Scope Python",
-      "path": "P Y T H O N/Master_Python_100/Scope Python.md"
     }
   ],
   "omittedPaths": [],

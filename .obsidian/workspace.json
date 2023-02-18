@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "db146ba8b395bb6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "REACT/React - the Complete Guide/14 Connecting to a Database.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6d65a44b45beb8b1",
             "type": "leaf",
             "state": {
@@ -76,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -150,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REACT/DB/Postgres.md",
+                "file": "REACT/React - the Complete Guide/14 Connecting to a Database.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -167,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REACT/DB/Postgres.md",
+                "file": "REACT/React - the Complete Guide/14 Connecting to a Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REACT/DB/Postgres.md"
+                "file": "REACT/React - the Complete Guide/14 Connecting to a Database.md"
               }
             }
           },
@@ -230,8 +242,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9cd3adfbce7a5416",
+  "active": "db146ba8b395bb6f",
   "lastOpenFiles": [
+    "REACT/DB/Postgres.md",
     "P Y T H O N/Learn Python (Basic, BUI, Web, FullStack)/1 Python Database.md",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/1 Add action to React Navigator.md",
     "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
@@ -240,7 +253,6 @@
     "P Y T H O N/Learn Python (Basic, BUI, Web, FullStack)/0 _ Learn Python From Zero to Hero (basic, Bui, Web, Full Stack).md",
     "P Y T H O N/Master_Python_100/33 API Endpoints and API Parameters ISS Overhead Notifier.md",
     "P Y T H O N/Master_Python_100/34 API GUI Quiz App.md",
-    "REACT/React - the Complete Guide/8 Login Project.md",
-    "REACT/React Full JS.md"
+    "REACT/React - the Complete Guide/8 Login Project.md"
   ]
 }
