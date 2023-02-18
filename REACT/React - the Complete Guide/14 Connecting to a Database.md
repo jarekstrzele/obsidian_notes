@@ -260,7 +260,9 @@ login by google account
 	> create database > start in Test Mode  -> **it  gives you a URL  which you can talk to that database** this is dynamic rest API  
 	
 `https://react-http-9f6af-default-rtdb.firebaseio.com/`
+dynamicaly -> `https://react-http-9f6af-default-rtdb.firebaseio.com/movies.json`
 
+in App.js there is a component `<AddMovie onAddMovie={addMovieHandle} />`
 
 
 
