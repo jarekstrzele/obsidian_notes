@@ -256,8 +256,11 @@ so, you can use `useCallback`
 # Firebase
 #firebase
 login by google account
-> ealtime Database -> it has nice rest api
-> 
+`>` Realtime Database -> it has nice rest api
+	> create database > start in Test Mode  -> **it  gives you a URL  which you can talk to that database** this is dynamic rest API 
+	
+
+
 
 
 
