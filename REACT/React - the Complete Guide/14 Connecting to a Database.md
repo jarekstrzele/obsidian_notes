@@ -24,5 +24,17 @@ It is built in the browser and it allows us to **fetch** data and **send** data.
 `fetch()` returns **a promise** which allows us to then react to the response or any potential errors we moght be getting
 
 >[!important] promise
->it is an object which will eventuall yield some data instead of immediately doing that  because sending an HTTP request  is an asynchron
+>it is an object which will eventuall yield some data instead of immediately doing that  because sending an HTTP request  is an asynchronous task it doesn't finish immediately
+>so we can't execuse the next line of code, because we haven't yet got data
+
+`fetch().then().catch()`  the final function will be calle whenever we got a response and you can add `catch` to handle any potential errors
+
+to transform JSON  data to a real JS object use `.json()` method
+
+
+
+
+
+
+
 
