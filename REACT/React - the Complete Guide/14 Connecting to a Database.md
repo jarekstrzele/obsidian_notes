@@ -263,9 +263,33 @@ login by google account
 dynamicaly -> `https://react-http-9f6af-default-rtdb.firebaseio.com/movies.json`
 
 in App.js there is a component `<AddMovie onAddMovie={addMovieHandle} />`
+to convert a JS object to json use `JSON.stringify(jsObject)`
+```js
+  function addMovieHandler(movie) {
+    fetch('https://react-http-9f6af-default-rtdb.firebaseio.com/movies.json', {
+      method: 'POST',
+      body: JSON.stringyfy(movie),
+      headers:{
+        'Content-Type': 'application.json'
+      }
+    });
+  }
+```
 
-
-
+you can use other syntax
+```js
+  async function addMovieHandler(movie) {
+    const response = await fetch('https://react-http-9f6af-default-rtdb.firebaseio.com/movies.json', {
+      method: 'POST',
+      body: JSON.stringyfy(movie),
+      headers:{
+        'Content-Type': 'application.json'
+      }
+    });
+    const data = await response.json() ;
+    console.log(data) ;
+  }
+```
 
 
 
