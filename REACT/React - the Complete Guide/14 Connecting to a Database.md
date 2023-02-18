@@ -119,6 +119,99 @@ export default App;
 
 ----
 # ErrorHandler
+`fetch` doesn't support real errors
+`axios` support errors
+
+but in `fetch` a response object has `ok` field or `status` field which holds the concrete response status code.
+
+```js
+function App() {
+  const[movies, setMovies] = useState([])
+  const[isLoading, setIsLoading] = useState(false)
+  const[error, setError] = useState(null);
+
+  async function transformedMovies(){
+    setIsLoading(true) ;
+    setError(null);
+    try{
+      const response = await fetch('https://swapi.dev/api/film/') ;
+      if(!response.ok) {
+        throw new Error('SOmthing went wrong')
+      }
+
+      const data = await response.json() ;
+
+      const transformedM...
+
+  //..............
+
+    }
+  return (
+    <React.Fragment>
+      <section>
+        <button onClick={transformedMovies}>Fetch Movies</button>
+      </section>
+      <section>
+        { !isLoading && movies.length > 0 && <MoviesList movies={movies} />}
+        { !isLoading && movies.length === 0 && !error && <p> Found no movies. </p> }
+        { !isLoading && error && <p> {error}</p> }
+        {isLoading && <p>Loading ...</p>}
+        </section>
+    </React.Fragment>
+  );	  
+	  
+```
+
+
+
+------------
+# `useEffect()` for Requests
+#useEffect 
+
+TO IMMEDIATELY FETCH DATA -> use `useEffect`
+*sending the HTTP request is a side effect whuch ultimately changes our components state*
+
+if you will have code:
+```js
+function App() {
+
+  const[movies, setMovies] = useState([])
+
+  const[isLoading, setIsLoading] = useState(false)
+
+  const[error, setError] = useState(null);
+
+  
+
+  useEffect( () => {
+
+    fetchMoviesHandler();
+
+  }) ;
+
+  async function fetchMoviesHandler(){
+
+    setIsLoading(true) ;
+
+    setError(null);
+
+    try{
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
