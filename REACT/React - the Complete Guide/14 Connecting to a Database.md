@@ -257,8 +257,9 @@ so, you can use `useCallback`
 #firebase
 login by google account
 `>` Realtime Database -> it has nice rest api
-	> create database > start in Test Mode  -> **it  gives you a URL  which you can talk to that database** this is dynamic rest API 
+	> create database > start in Test Mode  -> **it  gives you a URL  which you can talk to that database** this is dynamic rest API  
 	
+`https://react-http-9f6af-default-rtdb.firebaseio.com/`
 
 
 
