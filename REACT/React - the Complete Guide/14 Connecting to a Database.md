@@ -29,8 +29,60 @@ It is built in the browser and it allows us to **fetch** data and **send** data.
 
 `fetch().then().catch()`  the final function will be calle whenever we got a response and you can add `catch` to handle any potential errors
 
-to transform JSON  data to a real JS object use `.json()` method
+to transform JSON  data to a real JS object   use `.json()` method
 
+```jsx
+  function App() {
+  const[movies, setMovies] = useState([])
+  function transformedMovies(){
+    fetch('https://swapi.dev/api/films/')
+    .then( response => {
+        return response.json();
+      }).then(data => {
+        const transformedMovies = data.results.map(movieData => {
+          return {
+            id: movieData.episode_id,
+            title: movieData.title,
+            openingText: movieData.opening_crawl,
+            releaseDate: movieData.release_date
+          }
+        })
+        setMovies(transformedMovies);
+      });
+  }
+
+  return (
+    <React.Fragment>
+      <section>
+        <button onClick={transformedMovies}>Fetch Movies</button>
+      </section>
+      <section>
+        <MoviesList movies={movies} />
+      </section>
+    </React.Fragment>
+  );
+}
+```
+
+other syntax
+**before**
+```js
+function transformedMovies(){
+    fetch('https://swapi.dev/api/films/')
+    .then( response => {
+        return response.json();
+      }).then(data => {
+        const transformedMovies = data.results.map(movieData => {
+          return {
+            id: movieData.episode_id,
+            title: movieData.title,
+            openingText: movieData.opening_crawl,
+            releaseDate: movieData.release_date
+          }
+        })
+        setMovies(transformedMovies);
+      });
+```
 
 
 
