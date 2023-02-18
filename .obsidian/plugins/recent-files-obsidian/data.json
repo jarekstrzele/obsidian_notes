@@ -5,6 +5,10 @@
       "path": "REACT/React - the Complete Guide/14 Connecting to a Database.md"
     },
     {
+      "basename": "useCallback",
+      "path": "REACT/React - the Complete Guide/useCallback.md"
+    },
+    {
       "basename": "Postgres",
       "path": "REACT/DB/Postgres.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "6 Using Qt Layouts to simplify your designs",
       "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md"
-    },
-    {
-      "basename": "API.excalidraw",
-      "path": "P Y T H O N/Master_Python_100/API.excalidraw.md"
     }
   ],
   "omittedPaths": [],

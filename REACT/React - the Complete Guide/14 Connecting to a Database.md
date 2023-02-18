@@ -189,7 +189,26 @@ function App() {
 
 this code is not good because whenever this component will be reevaluate the function from useEffect wil be executed
 
-but you can add 
+but you can add the second arg of `useEffect` function which is the array of dependencies, **where we define WHEN this EFECT function should be executed again**; it will be execute, if the depencencies listed here change
+```js
+  useEffect( () => {
+    fetchMoviesHandler();
+  }, []) ;
+```
+because the list is empty, this functio will be executed only ont time at the begining
+
+
+this will be infinit loop
+```jsx  useEffect( () => {
+    fetchMoviesHandler();
+  }, [fetchMoviesHandler]) ;
+```
+
+so, you can use `useCallback` 
+[[useCallback]] 
+
+
+
 
 
 
