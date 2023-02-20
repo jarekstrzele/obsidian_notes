@@ -41,7 +41,7 @@ QtDesigner produces a xml file.
 
 ### `pyuic5`
 - command line utility
-- converts `.ui` filt to python
+- converts `.ui` file to a python file
 	- `.ui` file is `XML` file saved from
 	- `pyuic fileui.ui -o file.py`
 	- you can made executable with `-x` flag
@@ -49,9 +49,12 @@ QtDesigner produces a xml file.
 		- 
 When you install `pyqt5`, you also install `pyuic5`
 
+------------
 
 
-
+> 
+> `toggled` event is sending a boolean value!!!!
+> 
 
 
 

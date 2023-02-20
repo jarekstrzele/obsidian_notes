@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "9 QtDesigner",
+      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md"
+    },
+    {
+      "basename": "1 Add action to React Navigator",
+      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/1 Add action to React Navigator.md"
+    },
+    {
+      "basename": "useCallback",
+      "path": "REACT/React - the Complete Guide/useCallback.md"
+    },
+    {
       "basename": "8 Calling Backend Services",
       "path": "REACT/React Mosh/8 Calling Backend Services.md"
+    },
+    {
+      "basename": "Postgres",
+      "path": "REACT/DB/Postgres.md"
+    },
+    {
+      "basename": "fake_movies.js",
+      "path": "REACT/React Mosh/fake_movies.js.md"
+    },
+    {
+      "basename": "1 Python Database",
+      "path": "P Y T H O N/Learn Python (Basic, BUI, Web, FullStack)/1 Python Database.md"
     },
     {
       "basename": "14 Connecting to a Database",
@@ -13,16 +37,8 @@
       "path": "REACT/DB/axios.md"
     },
     {
-      "basename": "Postgres",
-      "path": "REACT/DB/Postgres.md"
-    },
-    {
       "basename": "Fetch",
       "path": "REACT/DB/Fetch.md"
-    },
-    {
-      "basename": "fake_movies.js",
-      "path": "REACT/React Mosh/fake_movies.js.md"
     },
     {
       "basename": "fake_genders.js",
@@ -47,18 +63,6 @@
     {
       "basename": "_ 0 React Mosh",
       "path": "REACT/React Mosh/_ 0 React Mosh.md"
-    },
-    {
-      "basename": "useCallback",
-      "path": "REACT/React - the Complete Guide/useCallback.md"
-    },
-    {
-      "basename": "1 Python Database",
-      "path": "P Y T H O N/Learn Python (Basic, BUI, Web, FullStack)/1 Python Database.md"
-    },
-    {
-      "basename": "1 Add action to React Navigator",
-      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/1 Add action to React Navigator.md"
     },
     {
       "basename": "2 Właściwości grafów",
@@ -195,10 +199,6 @@
     {
       "basename": "useLayoutEffect",
       "path": "REACT NATIVE/React Native Practical Guide/useLayoutEffect.md"
-    },
-    {
-      "basename": "7.2 Dataclasses",
-      "path": "P Y T H O N/OOP Python udemy/7.2 Dataclasses.md"
     }
   ],
   "omittedPaths": [],
