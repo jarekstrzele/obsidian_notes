@@ -16,9 +16,13 @@ How to send them>
 - use `Axios` the word from greek (worthy or suitable)
 - 
 # AXIOS
-`npm install `
+``npm i axios``
 
+### `axios.get('http://jsonplaceholder.typicode.com/posts')` - it returns a promise 
 
+>[!info] a promise
+>- It is an object that holds the result of an asynchronous operation
+>- an asynchronous operation is an operation that is going to complete in the future
 
 
 
