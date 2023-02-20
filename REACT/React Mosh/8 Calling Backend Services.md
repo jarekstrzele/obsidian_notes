@@ -14,9 +14,25 @@ How to send them>
 - use `Fetch API`
 - use `jQuery AJAX`
 - use `Axios` the word from greek (worthy or suitable)
-- 
+-----------
+[[#`GET`]]
+[[#`POST`]]
+
+
+
+
+
+
+
+
+
+
+
+--------------
 # AXIOS
 ``npm i axios``
+
+## `GET`
 
 ### `axios.get('http://jsonplaceholder.typicode.com/posts')` - it returns a promise 
 
@@ -160,3 +176,60 @@ App.css
   to { transform: rotate(360deg); }
 }
 ```
+
+
+------------
+
+## POST
+App.js
+```js
+const apiEndPoint = "http://jsonplaceholder.typicode.com/posts" ;
+
+class App extends Component {
+  state = {
+    posts: []
+  };
+
+  async componentDidMount(){
+    //pending > resolved (success) or rejected (failure)
+    const {data: posts } = await axios.get(apiEndPoint) ;
+    this.setState({ posts }) ;
+    // console.log(this.state.posts) ;
+  }
+
+  handleAdd = async () => {
+   const obj = { title: 'a', body:'b'} ;
+   const {data: post } = await axios.post(apiEndPoint, obj) ;
+   console.log(post) ;
+   const posts = [post, ...this.state.posts];
+   this.setState({posts})
+  };
+
+  handleUpdate = post => {
+    console.log("Update", post);
+  };
+
+  handleDelete = post => {
+    console.log("Delete", post);
+  };
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
