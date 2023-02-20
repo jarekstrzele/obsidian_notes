@@ -82,5 +82,10 @@ use python module `uic` to read the ui file directly
 ```python
 from PyQt5 imposrt uic
 
+class DlgMain(QDialog):
+  def __init__(self):
+    super().__init__()
+    uic.loadUi("ui/Gbx_demo.ui", self)
+    # ...
 ```
 
