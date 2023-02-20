@@ -17,8 +17,11 @@ and *client* sends this IP to  *internet backbone* (https://www.submarinecablema
 CSS (styling)  , JS(do things) , HTML (structure)
 
 
+# HTML
+Browsers interpret HTML to website
+https://codepen.io
 
-
+https://devdocs.io
 
 
 
