@@ -50,7 +50,7 @@ QtDesigner produces a xml file.
 When you install `pyqt5`, you also install `pyuic5`
 
 ------------
-
+# Addinng custom slots and other QtDesigner modification
 
 > 
 > `toggled` event is sending a boolean value!!!!
