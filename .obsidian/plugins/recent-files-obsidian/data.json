@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "7.5 QTextEdit",
+      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.5 QTextEdit.md"
+    },
+    {
+      "basename": "7.6 QTextBrowser",
+      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.6 QTextBrowser.md"
+    },
+    {
       "basename": "2. PyTest",
       "path": "Testowanie/Testy automatyczne w języku Python/2. PyTest.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Relacje",
       "path": "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Relacje.md"
-    },
-    {
-      "basename": "PRIMARY KEY i ROWID",
-      "path": "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/PRIMARY KEY i ROWID.md"
-    },
-    {
-      "basename": "Ograniczenie",
-      "path": "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Ograniczenie.md"
     }
   ],
   "omittedPaths": [],

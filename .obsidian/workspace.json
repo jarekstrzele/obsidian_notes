@@ -78,9 +78,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "11dbbdd43edea136",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.5 QTextEdit.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -154,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testowanie/Testy automatyczne w języku Python/2. PyTest.md",
+                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.5 QTextEdit.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -171,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Testowanie/Testy automatyczne w języku Python/2. PyTest.md",
+                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.5 QTextEdit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Testowanie/Testy automatyczne w języku Python/2. PyTest.md"
+                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.5 QTextEdit.md"
               }
             }
           },
@@ -234,17 +246,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "61038a24e8998f67",
+  "active": "11dbbdd43edea136",
   "lastOpenFiles": [
-    "Testowanie/Testy automatyczne w języku Python/_ 0 Testy automatyczne Python.md",
+    "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.6 QTextBrowser.md",
     "Testowanie/Testy automatyczne w języku Python/2. PyTest.md",
+    "Testowanie/Testy automatyczne w języku Python/_ 0 Testy automatyczne Python.md",
     "P Y T H O N/Master_Python_100/41 Web HTML.md",
     "P Y T H O N/Master_Python_100/34 API GUI Quiz App.md",
     "P Y T H O N/Master_Python_100/Scope Python.md",
     "P Y T H O N/Master_Python_100/33 API Endpoints and API Parameters ISS Overhead Notifier.md",
     "P Y T H O N/Master_Python_100/16 _ OOP.md",
     "P Y T H O N/Master_Python_100/_ 0 100 Days of Code 2023.md",
-    "P Y T H O N/Matthes_Eric_Instrukcje_dla_programisty/9 Klasy/9.1 Klasy.md",
-    "P Y T H O N/Matthes_Eric_Instrukcje_dla_programisty/11 Testowanie kodu/_ 0 Początek testowanie kodu.md"
+    "P Y T H O N/Matthes_Eric_Instrukcje_dla_programisty/9 Klasy/9.1 Klasy.md"
   ]
 }
