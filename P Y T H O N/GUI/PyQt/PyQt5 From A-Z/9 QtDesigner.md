@@ -56,5 +56,31 @@ When you install `pyqt5`, you also install `pyuic5`
 > `toggled` event is sending a boolean value!!!!
 > 
 
+----
+# Decouping the user Interface from other code
 
+## FIRST METHOD
+- trun `ui` file into non-executable module that can be imported to your primary ptyhon program
+	- doesn't need to be compule at run time
+	- have to recompile puyuic after every change
+```python
+from ui_modules.Gbx_demo_ui import *
+
+class DlgMain(QDialog, Ui_DlgMain): # Ui_DlgMain is in the imported module
+  def __init__(self):
+    super(DlgMmain, self).__init__()
+    self.setupUi(self)
+
+
+```
+
+## SECOND METHOD
+use python module `uic` to read the ui file directly
+- don't need to deal with pyuic
+- has to be compiled from ui everytime the program is run
+- code completion does not work
+```python
+from PyQt5 imposrt uic
+
+```
 
