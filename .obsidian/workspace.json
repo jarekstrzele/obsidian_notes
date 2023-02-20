@@ -61,7 +61,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REACT/React - the Complete Guide/14 Connecting to a Database.md",
+                "file": "REACT/DB/Postgres.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2bc158fd3263e0cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "REACT/React Mosh/fake_movies.js.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dcf18c1a81910fc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "REACT/React Mosh/8 Calling Backend Services.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +124,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -174,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REACT/React - the Complete Guide/14 Connecting to a Database.md",
+                "file": "REACT/React Mosh/8 Calling Backend Services.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -191,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REACT/React - the Complete Guide/14 Connecting to a Database.md",
+                "file": "REACT/React Mosh/8 Calling Backend Services.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REACT/React - the Complete Guide/14 Connecting to a Database.md"
+                "file": "REACT/React Mosh/8 Calling Backend Services.md"
               }
             }
           },
@@ -254,17 +278,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "db146ba8b395bb6f",
+  "active": "dcf18c1a81910fc4",
   "lastOpenFiles": [
-    "REACT/React - the Complete Guide/useCallback.md",
+    "REACT/React Mosh/fake_movies.js.md",
+    "REACT/React Mosh/fake_genders.js.md",
+    "REACT/React Mosh/4 Composing Components.md",
+    "REACT/React Mosh/3.1 Component vidly project.md",
+    "REACT/React Mosh/3 Components.md",
+    "REACT/React Mosh/2 ES6 Refresh.md",
+    "REACT/DB/Fetch.md",
+    "REACT/React Mosh/_ 0 React Mosh.md",
     "REACT/React - the Complete Guide/14 Connecting to a Database.md",
-    "REACT/DB/Postgres.md",
-    "P Y T H O N/Learn Python (Basic, BUI, Web, FullStack)/1 Python Database.md",
-    "REACT NATIVE/React Native Practical Guide/6 Navigation/1 Add action to React Navigator.md",
-    "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
-    "REACT NATIVE/React Native Practical Guide/6 Navigation/3 Add new Component MealItem.md",
-    "algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md",
-    "P Y T H O N/Learn Python (Basic, BUI, Web, FullStack)/0 _ Learn Python From Zero to Hero (basic, Bui, Web, Full Stack).md",
-    "P Y T H O N/Master_Python_100/33 API Endpoints and API Parameters ISS Overhead Notifier.md"
+    "REACT/DB/Postgres.md"
   ]
 }

@@ -1,16 +1,52 @@
 {
   "recentFiles": [
     {
+      "basename": "8 Calling Backend Services",
+      "path": "REACT/React Mosh/8 Calling Backend Services.md"
+    },
+    {
+      "basename": "fake_movies.js",
+      "path": "REACT/React Mosh/fake_movies.js.md"
+    },
+    {
+      "basename": "fake_genders.js",
+      "path": "REACT/React Mosh/fake_genders.js.md"
+    },
+    {
+      "basename": "4 Composing Components",
+      "path": "REACT/React Mosh/4 Composing Components.md"
+    },
+    {
+      "basename": "3.1 Component vidly project",
+      "path": "REACT/React Mosh/3.1 Component vidly project.md"
+    },
+    {
+      "basename": "3 Components",
+      "path": "REACT/React Mosh/3 Components.md"
+    },
+    {
+      "basename": "2 ES6 Refresh",
+      "path": "REACT/React Mosh/2 ES6 Refresh.md"
+    },
+    {
+      "basename": "Fetch",
+      "path": "REACT/DB/Fetch.md"
+    },
+    {
+      "basename": "_ 0 React Mosh",
+      "path": "REACT/React Mosh/_ 0 React Mosh.md"
+    },
+    {
       "basename": "14 Connecting to a Database",
       "path": "REACT/React - the Complete Guide/14 Connecting to a Database.md"
     },
     {
-      "basename": "useCallback",
-      "path": "REACT/React - the Complete Guide/useCallback.md"
-    },
-    {
       "basename": "Postgres",
       "path": "REACT/DB/Postgres.md"
+    },
+    {
+      "basename": "useCallback",
+      "path": "REACT/React - the Complete Guide/useCallback.md"
     },
     {
       "basename": "1 Python Database",
@@ -163,42 +199,6 @@
     {
       "basename": "7 DataClasses",
       "path": "P Y T H O N/OOP Python udemy/7 DataClasses.md"
-    },
-    {
-      "basename": "_ 0 Python OOP",
-      "path": "P Y T H O N/OOP Python udemy/_ 0 Python OOP.md"
-    },
-    {
-      "basename": "6 Slots",
-      "path": "P Y T H O N/OOP Python udemy/6 Slots.md"
-    },
-    {
-      "basename": "5 Inheritance",
-      "path": "P Y T H O N/OOP Python udemy/5 Inheritance.md"
-    },
-    {
-      "basename": "4 Properties",
-      "path": "P Y T H O N/OOP Python udemy/4 Properties.md"
-    },
-    {
-      "basename": "3 Dunders",
-      "path": "P Y T H O N/OOP Python udemy/3 Dunders.md"
-    },
-    {
-      "basename": "2 Classes",
-      "path": "P Y T H O N/OOP Python udemy/2 Classes.md"
-    },
-    {
-      "basename": "8 Descriptors",
-      "path": "P Y T H O N/OOP Python udemy/8 Descriptors.md"
-    },
-    {
-      "basename": "5 Simple QWidgets",
-      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md"
-    },
-    {
-      "basename": "6 Using Qt Layouts to simplify your designs",
-      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md"
     }
   ],
   "omittedPaths": [],
