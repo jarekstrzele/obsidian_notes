@@ -15,8 +15,8 @@ How to send them>
 - use `jQuery AJAX`
 - use `Axios` the word from greek (worthy or suitable)
 -----------
-[[#`GET`]]
-[[#`POST`]]
+ [[#GET]]
+ [[#POST]]
 
 
 
@@ -32,7 +32,7 @@ How to send them>
 # AXIOS
 ``npm i axios``
 
-## `GET`
+## GET
 
 ### `axios.get('http://jsonplaceholder.typicode.com/posts')` - it returns a promise 
 
