@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "61038a24e8998f67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Testowanie/Testy automatyczne w języku Python/2. PyTest.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -142,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "P Y T H O N/Master_Python_100/41 Web HTML.md",
+                "file": "Testowanie/Testy automatyczne w języku Python/2. PyTest.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -159,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "P Y T H O N/Master_Python_100/41 Web HTML.md",
+                "file": "Testowanie/Testy automatyczne w języku Python/2. PyTest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "P Y T H O N/Master_Python_100/41 Web HTML.md"
+                "file": "Testowanie/Testy automatyczne w języku Python/2. PyTest.md"
               }
             }
           },
@@ -222,8 +234,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0fa22fa61f7cb059",
+  "active": "61038a24e8998f67",
   "lastOpenFiles": [
+    "Testowanie/Testy automatyczne w języku Python/_ 0 Testy automatyczne Python.md",
+    "P Y T H O N/Master_Python_100/41 Web HTML.md",
     "P Y T H O N/Master_Python_100/34 API GUI Quiz App.md",
     "P Y T H O N/Master_Python_100/Scope Python.md",
     "P Y T H O N/Master_Python_100/33 API Endpoints and API Parameters ISS Overhead Notifier.md",
@@ -231,8 +245,6 @@
     "P Y T H O N/Master_Python_100/_ 0 100 Days of Code 2023.md",
     "P Y T H O N/Matthes_Eric_Instrukcje_dla_programisty/9 Klasy/9.1 Klasy.md",
     "P Y T H O N/Matthes_Eric_Instrukcje_dla_programisty/11 Testowanie kodu/_ 0 Początek testowanie kodu.md",
-    "P Y T H O N/Matthes_Eric_Instrukcje_dla_programisty/_ 0 Start Python Instrukcje dla programisty.md",
-    "P Y T H O N/Learn Python (Basic, BUI, Web, FullStack)/5 GUI PyQt6.md",
-    "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md"
+    "P Y T H O N/Matthes_Eric_Instrukcje_dla_programisty/_ 0 Start Python Instrukcje dla programisty.md"
   ]
 }
