@@ -24,6 +24,15 @@ praktyka:
 - nazwa pliku do testowania to np. `twitter.py`
 - nazwa pliku, w której będzie test to `twitter_test.py`
 
+```python
+class Twitter(object):  
+    version = '1.0'  
+    def __init__(self):  
+        self.tweets = []  
+    def tweet(self, message):  
+        self.tweets.append(message)
+```
+
 W pliku testującym wszystkie testy umieszczamy w klasie (nazwa klasy jest dowolna)
 ```python
 import unittest   
