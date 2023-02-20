@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "7.7 QWebEngineView",
+      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.7 QWebEngineView.md"
+    },
+    {
       "basename": "7.6 QTextBrowser",
       "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.6 QTextBrowser.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Klucz obcy",
       "path": "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Klucz obcy.md"
-    },
-    {
-      "basename": "Relacje",
-      "path": "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Relacje.md"
     }
   ],
   "omittedPaths": [],
