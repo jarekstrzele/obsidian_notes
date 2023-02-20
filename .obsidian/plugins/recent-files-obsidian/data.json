@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "16 _ OOP",
+      "path": "P Y T H O N/Master_Python_100/16 _ OOP.md"
+    },
+    {
+      "basename": "_ 0 100 Days of Code 2023",
+      "path": "P Y T H O N/Master_Python_100/_ 0 100 Days of Code 2023.md"
+    },
+    {
+      "basename": "33 API Endpoints and API Parameters ISS Overhead Notifier",
+      "path": "P Y T H O N/Master_Python_100/33 API Endpoints and API Parameters ISS Overhead Notifier.md"
+    },
+    {
+      "basename": "34 API GUI Quiz App",
+      "path": "P Y T H O N/Master_Python_100/34 API GUI Quiz App.md"
+    },
+    {
+      "basename": "9.1 Klasy",
+      "path": "P Y T H O N/Matthes_Eric_Instrukcje_dla_programisty/9 Klasy/9.1 Klasy.md"
+    },
+    {
+      "basename": "_ 0 Początek testowanie kodu",
+      "path": "P Y T H O N/Matthes_Eric_Instrukcje_dla_programisty/11 Testowanie kodu/_ 0 Początek testowanie kodu.md"
+    },
+    {
+      "basename": "_ 0 Start Python Instrukcje dla programisty",
+      "path": "P Y T H O N/Matthes_Eric_Instrukcje_dla_programisty/_ 0 Start Python Instrukcje dla programisty.md"
+    },
+    {
       "basename": "5 GUI PyQt6",
       "path": "P Y T H O N/Learn Python (Basic, BUI, Web, FullStack)/5 GUI PyQt6.md"
     },
@@ -83,14 +111,6 @@
     {
       "basename": "0 _ Learn Python From Zero to Hero (basic, Bui, Web, Full Stack)",
       "path": "P Y T H O N/Learn Python (Basic, BUI, Web, FullStack)/0 _ Learn Python From Zero to Hero (basic, Bui, Web, Full Stack).md"
-    },
-    {
-      "basename": "33 API Endpoints and API Parameters ISS Overhead Notifier",
-      "path": "P Y T H O N/Master_Python_100/33 API Endpoints and API Parameters ISS Overhead Notifier.md"
-    },
-    {
-      "basename": "34 API GUI Quiz App",
-      "path": "P Y T H O N/Master_Python_100/34 API GUI Quiz App.md"
     },
     {
       "basename": "8 Login Project",
@@ -179,26 +199,6 @@
     {
       "basename": "_ SQL Bootcamp - SQLite cz. 1",
       "path": "Data Bases/SQL/SQL Bootcamp SQLite/_ SQL Bootcamp - SQLite cz. 1.md"
-    },
-    {
-      "basename": "_ DML SQLite",
-      "path": "Data Bases/SQL/SQL Bootcamp SQLite/3 - DML/_ DML SQLite.md"
-    },
-    {
-      "basename": "Indeksy",
-      "path": "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Indeksy.md"
-    },
-    {
-      "basename": "CROSS JOIN",
-      "path": "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/CROSS JOIN.md"
-    },
-    {
-      "basename": "_ 0 SQL",
-      "path": "Data Bases/SQL/mosh/_ 0 SQL.md"
-    },
-    {
-      "basename": "useEffect",
-      "path": "REACT NATIVE/React Native Practical Guide/useEffect.md"
     }
   ],
   "omittedPaths": [],
