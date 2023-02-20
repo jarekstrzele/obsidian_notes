@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "05b461924cac78fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "P Y T H O N/Learn Python (Basic, BUI, Web, FullStack)/5 GUI PyQt6.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
+                "file": "P Y T H O N/Learn Python (Basic, BUI, Web, FullStack)/5 GUI PyQt6.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
+                "file": "P Y T H O N/Learn Python (Basic, BUI, Web, FullStack)/5 GUI PyQt6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md"
+                "file": "P Y T H O N/Learn Python (Basic, BUI, Web, FullStack)/5 GUI PyQt6.md"
               }
             }
           },
@@ -173,8 +186,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7906892d22b56513",
+  "active": "05b461924cac78fd",
   "lastOpenFiles": [
+    "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/1 Add action to React Navigator.md",
     "REACT/React - the Complete Guide/useCallback.md",
     "REACT/React Mosh/8 Calling Backend Services.md",
@@ -183,7 +197,6 @@
     "P Y T H O N/Learn Python (Basic, BUI, Web, FullStack)/1 Python Database.md",
     "REACT/React - the Complete Guide/14 Connecting to a Database.md",
     "REACT/DB/axios.md",
-    "REACT/DB/Fetch.md",
-    "REACT/React Mosh/fake_genders.js.md"
+    "REACT/DB/Fetch.md"
   ]
 }
