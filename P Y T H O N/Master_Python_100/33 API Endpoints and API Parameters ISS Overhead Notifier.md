@@ -1,4 +1,6 @@
 #api #python 
+[[_ 0 100 Days of Code 2023]]
+
 
 >[!info] API
 >Application Programming Interface is a SET of:

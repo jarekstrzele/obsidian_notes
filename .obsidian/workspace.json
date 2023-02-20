@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "P Y T H O N/Master_Python_100/16 _ OOP.md",
+                "file": "P Y T H O N/Master_Python_100/34 API GUI Quiz App.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0fa22fa61f7cb059",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "P Y T H O N/Master_Python_100/41 Web HTML.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "P Y T H O N/Master_Python_100/16 _ OOP.md",
+                "file": "P Y T H O N/Master_Python_100/41 Web HTML.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -147,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "P Y T H O N/Master_Python_100/16 _ OOP.md",
+                "file": "P Y T H O N/Master_Python_100/41 Web HTML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "P Y T H O N/Master_Python_100/16 _ OOP.md"
+                "file": "P Y T H O N/Master_Python_100/41 Web HTML.md"
               }
             }
           },
@@ -210,17 +222,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "38022520a52ef8ca",
+  "active": "0fa22fa61f7cb059",
   "lastOpenFiles": [
-    "P Y T H O N/Master_Python_100/_ 0 100 Days of Code 2023.md",
-    "P Y T H O N/Master_Python_100/16 _ OOP.md",
-    "P Y T H O N/Master_Python_100/33 API Endpoints and API Parameters ISS Overhead Notifier.md",
     "P Y T H O N/Master_Python_100/34 API GUI Quiz App.md",
+    "P Y T H O N/Master_Python_100/Scope Python.md",
+    "P Y T H O N/Master_Python_100/33 API Endpoints and API Parameters ISS Overhead Notifier.md",
+    "P Y T H O N/Master_Python_100/16 _ OOP.md",
+    "P Y T H O N/Master_Python_100/_ 0 100 Days of Code 2023.md",
     "P Y T H O N/Matthes_Eric_Instrukcje_dla_programisty/9 Klasy/9.1 Klasy.md",
     "P Y T H O N/Matthes_Eric_Instrukcje_dla_programisty/11 Testowanie kodu/_ 0 Początek testowanie kodu.md",
     "P Y T H O N/Matthes_Eric_Instrukcje_dla_programisty/_ 0 Start Python Instrukcje dla programisty.md",
     "P Y T H O N/Learn Python (Basic, BUI, Web, FullStack)/5 GUI PyQt6.md",
-    "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
-    "REACT NATIVE/React Native Practical Guide/6 Navigation/1 Add action to React Navigator.md"
+    "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md"
   ]
 }
