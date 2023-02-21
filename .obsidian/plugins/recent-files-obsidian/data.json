@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "1 React Native Basics",
+      "path": "REACT NATIVE/React Native Practical Guide/1 React Native Basics.md"
+    },
+    {
+      "basename": "_ 0 React Native - Practical Guide",
+      "path": "REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md"
+    },
+    {
       "basename": "_ 0 React Native Navigation",
       "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/_ 0 React Native Navigation.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "typy danych",
       "path": "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/typy danych.md"
-    },
-    {
-      "basename": "4 Styling ScreenHeader and Background",
-      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/4 Styling ScreenHeader and Background.md"
-    },
-    {
-      "basename": "useNavigation Hook",
-      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/useNavigation Hook.md"
     }
   ],
   "omittedPaths": [],

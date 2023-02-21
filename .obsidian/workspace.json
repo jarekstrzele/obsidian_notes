@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/_ 0 React Native Navigation.md",
+                "file": "REACT NATIVE/React Native Practical Guide/1 React Native Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/_ 0 React Native Navigation.md",
+                "file": "REACT NATIVE/React Native Practical Guide/1 React Native Basics.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/_ 0 React Native Navigation.md",
+                "file": "REACT NATIVE/React Native Practical Guide/1 React Native Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/_ 0 React Native Navigation.md"
+                "file": "REACT NATIVE/React Native Practical Guide/1 React Native Basics.md"
               }
             }
           },
@@ -259,6 +259,8 @@
   },
   "active": "7906892d22b56513",
   "lastOpenFiles": [
+    "REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
+    "REACT NATIVE/React Native Practical Guide/6 Navigation/_ 0 React Native Navigation.md",
     "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
     "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.7 QWebEngineView.md",
     "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.6 QTextBrowser.md",
@@ -266,8 +268,6 @@
     "Testowanie/Testy automatyczne w języku Python/2. PyTest.md",
     "Testowanie/Testy automatyczne w języku Python/_ 0 Testy automatyczne Python.md",
     "P Y T H O N/Master_Python_100/41 Web HTML.md",
-    "P Y T H O N/Master_Python_100/34 API GUI Quiz App.md",
-    "P Y T H O N/Master_Python_100/Scope Python.md",
-    "P Y T H O N/Master_Python_100/33 API Endpoints and API Parameters ISS Overhead Notifier.md"
+    "P Y T H O N/Master_Python_100/34 API GUI Quiz App.md"
   ]
 }
