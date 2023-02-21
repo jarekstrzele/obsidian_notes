@@ -18,7 +18,7 @@ to use
 	**on web reactnavigation -> API Reference > Navigators**
 	find navigator-stack
 	**to install native stack navigator**
-		`npm install @react-navigation/native-stack`
+## `npm install @react-navigation/native-stack`
 
 # Use
 ```jsx
