@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.7 QWebEngineView.md",
+                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/8 Qt Style Sheets.md",
                 "mode": "source",
                 "source": false
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.7 QWebEngineView.md",
+                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/8 Qt Style Sheets.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.7 QWebEngineView.md",
+                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/8 Qt Style Sheets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.7 QWebEngineView.md"
+                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/8 Qt Style Sheets.md"
               }
             }
           },
@@ -260,6 +260,8 @@
   },
   "active": "35249a3031dfc1fe",
   "lastOpenFiles": [
+    "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
+    "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.7 QWebEngineView.md",
     "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.6 QTextBrowser.md",
     "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.5 QTextEdit.md",
     "Testowanie/Testy automatyczne w języku Python/2. PyTest.md",
@@ -267,8 +269,6 @@
     "P Y T H O N/Master_Python_100/41 Web HTML.md",
     "P Y T H O N/Master_Python_100/34 API GUI Quiz App.md",
     "P Y T H O N/Master_Python_100/Scope Python.md",
-    "P Y T H O N/Master_Python_100/33 API Endpoints and API Parameters ISS Overhead Notifier.md",
-    "P Y T H O N/Master_Python_100/16 _ OOP.md",
-    "P Y T H O N/Master_Python_100/_ 0 100 Days of Code 2023.md"
+    "P Y T H O N/Master_Python_100/33 API Endpoints and API Parameters ISS Overhead Notifier.md"
   ]
 }

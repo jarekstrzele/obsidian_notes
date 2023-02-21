@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "8 Qt Style Sheets",
+      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/8 Qt Style Sheets.md"
+    },
+    {
+      "basename": "9 QtDesigner",
+      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md"
+    },
+    {
       "basename": "7.7 QWebEngineView",
       "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.7 QWebEngineView.md"
     },
@@ -59,10 +67,6 @@
     {
       "basename": "5 GUI PyQt6",
       "path": "P Y T H O N/Learn Python (Basic, BUI, Web, FullStack)/5 GUI PyQt6.md"
-    },
-    {
-      "basename": "9 QtDesigner",
-      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md"
     },
     {
       "basename": "1 Add action to React Navigator",
@@ -195,10 +199,6 @@
     {
       "basename": "useNavigation Hook",
       "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/useNavigation Hook.md"
-    },
-    {
-      "basename": "Klucz obcy",
-      "path": "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Klucz obcy.md"
     }
   ],
   "omittedPaths": [],
