@@ -20,9 +20,26 @@ The space is sort of like an operator and it has the highest precedence.
 `max::(Ord a)=> a->a->a` that can also be written:
 `max:(ord a)=>a->(a->a)` - `max` takes an `a` and returns a function that takes an `a` and returns an `a`
 
+----
+```haskell
+multThree :: (Num a) => a -> a -> a -> a  
+multThree x y z = x * y * z
+```
+so
+`multThree 3 5 9` --> `((multThree 3) 5) 9`
+1. `3` is applied to the function (they are separated by space)
+2. the result will be a function that takes one parameter and returns a function
+3. that last function takes `9`  and returns 135
+```
+multThree 3
+3 * 5  = 15
+15 * 9 = 135
+```
 
-
-
+```haskell
+compareWithHundred :: (Num a, Ord a) => a -> Ordering  
+compareWithHundred x = compare 100 x
+```
 
 
 

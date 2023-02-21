@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "5 Higher order functions",
+      "path": "HASKELL/for_great_good/5 Higher order functions.md"
+    },
+    {
+      "basename": "UBUNTU",
+      "path": "linux/UBUNTU.md"
+    },
+    {
+      "basename": "Shell 18 commands that will change the way you use linux forever",
+      "path": "linux/Shell 18 commands that will change the way you use linux forever.md"
+    },
+    {
       "basename": "2. Route parameters",
       "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/2. Route parameters.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "react and SQLite",
       "path": "REACT/react and SQLite.md"
-    },
-    {
-      "basename": "2 Developing a Word Game",
-      "path": "HASKELL/learning haskell programming/2 Developing a Word Game.md"
-    },
-    {
-      "basename": "1 Getting Started with Haskell",
-      "path": "HASKELL/learning haskell programming/1 Getting Started with Haskell.md"
-    },
-    {
-      "basename": "_ 0 Learining Haskell Programming",
-      "path": "HASKELL/learning haskell programming/_ 0 Learining Haskell Programming.md"
     }
   ],
   "omittedPaths": [],
