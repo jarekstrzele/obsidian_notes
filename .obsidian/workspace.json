@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/2. Route parameters.md",
+                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/4 Styling ScreenHeader and Background.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,8 +103,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
+                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/4 Styling ScreenHeader and Background.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -195,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
+                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/4 Styling ScreenHeader and Background.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md"
+                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/4 Styling ScreenHeader and Background.md"
               }
             }
           },
@@ -258,17 +257,17 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "05b461924cac78fd",
+  "active": "7906892d22b56513",
   "lastOpenFiles": [
+    "REACT NATIVE/React Native Practical Guide/6 Navigation/3 Add new Component MealItem.md",
+    "REACT NATIVE/React Native Practical Guide/6 Navigation/2. Route parameters.md",
+    "REACT NATIVE/React Native Practical Guide/6 Navigation/1 Add action to React Navigator.md",
+    "REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
     "REACT NATIVE/React Native Practical Guide/1 React Native Basics.md",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/_ 0 React Native Navigation.md",
     "P Y T H O N/Learn Python (Basic, BUI, Web, FullStack)/5 GUI PyQt6.md",
-    "REACT NATIVE/React Native Practical Guide/6 Navigation/2. Route parameters.md",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/useNavigation Hook.md",
     "REACT NATIVE/React Native Practical Guide/React.js Refresher.md",
-    "REACT NATIVE/React Native Practical Guide/useEffect.md",
-    "REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
-    "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
-    "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.7 QWebEngineView.md"
+    "REACT NATIVE/React Native Practical Guide/useEffect.md"
   ]
 }
