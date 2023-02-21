@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
+                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/_ 0 React Native Navigation.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,8 +103,7 @@
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,8 +157,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -179,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
+                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/_ 0 React Native Navigation.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -196,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
+                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/_ 0 React Native Navigation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md"
+                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/_ 0 React Native Navigation.md"
               }
             }
           },
@@ -259,7 +257,7 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "aad6e2f11a660f1c",
+  "active": "7906892d22b56513",
   "lastOpenFiles": [
     "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
     "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.7 QWebEngineView.md",
