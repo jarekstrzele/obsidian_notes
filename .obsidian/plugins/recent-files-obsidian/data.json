@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "1 React Native Basics",
-      "path": "REACT NATIVE/React Native Practical Guide/1 React Native Basics.md"
-    },
-    {
       "basename": "_ 0 React Native - Practical Guide",
       "path": "REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md"
     },
     {
+      "basename": "1 React Native Basics",
+      "path": "REACT NATIVE/React Native Practical Guide/1 React Native Basics.md"
+    },
+    {
       "basename": "_ 0 React Native Navigation",
       "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/_ 0 React Native Navigation.md"
+    },
+    {
+      "basename": "5 GUI PyQt6",
+      "path": "P Y T H O N/Learn Python (Basic, BUI, Web, FullStack)/5 GUI PyQt6.md"
+    },
+    {
+      "basename": "2. Route parameters",
+      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/2. Route parameters.md"
+    },
+    {
+      "basename": "useNavigation Hook",
+      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/useNavigation Hook.md"
+    },
+    {
+      "basename": "React.js Refresher",
+      "path": "REACT NATIVE/React Native Practical Guide/React.js Refresher.md"
+    },
+    {
+      "basename": "useEffect",
+      "path": "REACT NATIVE/React Native Practical Guide/useEffect.md"
     },
     {
       "basename": "9 QtDesigner",
@@ -75,10 +95,6 @@
     {
       "basename": "_ 0 Start Python Instrukcje dla programisty",
       "path": "P Y T H O N/Matthes_Eric_Instrukcje_dla_programisty/_ 0 Start Python Instrukcje dla programisty.md"
-    },
-    {
-      "basename": "5 GUI PyQt6",
-      "path": "P Y T H O N/Learn Python (Basic, BUI, Web, FullStack)/5 GUI PyQt6.md"
     },
     {
       "basename": "1 Add action to React Navigator",
@@ -169,10 +185,6 @@
       "path": "REACT/react and SQLite.md"
     },
     {
-      "basename": "2. Route parameters",
-      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/2. Route parameters.md"
-    },
-    {
       "basename": "2 Developing a Word Game",
       "path": "HASKELL/learning haskell programming/2 Developing a Word Game.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "0 _ Haskell and Yesod",
       "path": "HASKELL/web/Yesod/0 _ Haskell and Yesod.md"
-    },
-    {
-      "basename": "NASA API",
-      "path": "API/NASA API.md"
-    },
-    {
-      "basename": "_ 0 intro APIs for beginners",
-      "path": "API/APIs_for_beginners_youtube/_ 0 intro APIs for beginners.md"
-    },
-    {
-      "basename": "typy danych",
-      "path": "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/typy danych.md"
     }
   ],
   "omittedPaths": [],
