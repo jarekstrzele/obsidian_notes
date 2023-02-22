@@ -1,5 +1,9 @@
 #react/moment
+
+https://www.npmjs.com/package/react-moment
+
 [[biblioteka Moment Javascript]]
+
 
 > Moment-react to natomiast specyficzna dla React biblioteka, która zapewnia **interfejs API** i **komponenty React** do 
 >   - formatowania i 
