@@ -158,5 +158,11 @@ function MealsOverviewScreen(props){
 }, [catId, navigator])
 ```
 
+Hooki `useEffect` i `useLayoutEffect` w React.js pozwalają na wykonywanie określonych działań podczas cyklu życia komponentu. Główna różnica między nimi polega na tym, kiedy są wywoływane.
 
+`useEffect` jest wywoływany asynchronicznie po aktualizacji drzewa renderującego i nie blokuje renderowania. Oznacza to, że kod zawarty w hooku `useEffect` może być wykonany po tym, jak komponent został zrenderowany. Jest to zazwyczaj stosowane do wykonywania działań pobocznych, takich jak pobieranie danych z serwera, manipulowanie DOM lub rejestrowanie zdarzeń.
+
+Z drugiej strony, `useLayoutEffect` jest wywoływany synchronicznie zaraz po tym, jak React zakończy wykonywanie wszystkich obliczeń i gotowy jest do przeprowadzenia malowania (painting) i aktualizacji widoku (layout). Oznacza to, że kod zawarty w `useLayoutEffect` może być wykonany przed renderowaniem widoku i przed tym, jak użytkownik zobaczy efekty. Jest to zazwyczaj stosowane do wykonywania działań synchronicznych, takich jak modyfikowanie stylów lub manipulowanie rozmiarem elementów.
+
+Podsumowując, `useEffect` jest wywoływany asynchronicznie, po zakończeniu aktualizacji widoku, a `useLayoutEffect` jest wywoływany synchronicznie, przed renderowaniem widoku. Wybór między nimi zależy od konkretnego przypadku użycia i celu, jaki chcesz osiągnąć.
 
