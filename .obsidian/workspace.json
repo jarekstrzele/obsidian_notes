@@ -20,6 +20,30 @@
             }
           },
           {
+            "id": "0710766a42480cea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "REACT NATIVE/_ Proste aplikacje/ClockApp.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "19d498c065b32cae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "REACT NATIVE/_ Proste aplikacje/biblioteka Moment Javascript.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "05b461924cac78fd",
             "type": "leaf",
             "state": {
@@ -103,7 +127,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/2. Route parameters.md",
+                "file": "REACT NATIVE/_ Proste aplikacje/ClockApp.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -194,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/2. Route parameters.md",
+                "file": "REACT NATIVE/_ Proste aplikacje/ClockApp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/2. Route parameters.md"
+                "file": "REACT NATIVE/_ Proste aplikacje/ClockApp.md"
               }
             }
           },
@@ -257,17 +282,17 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "7906892d22b56513",
+  "active": "f621f21825dbd82d",
   "lastOpenFiles": [
+    "REACT NATIVE/_ Proste aplikacje/biblioteka Moment Javascript.md",
+    "REACT NATIVE/_ Proste aplikacje/ClockApp.md",
+    "REACT NATIVE/React Native Practical Guide/6 Navigation/2. Route parameters.md",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/1 Add action to React Navigator.md",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/4 Styling ScreenHeader and Background.md",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/3 Add new Component MealItem.md",
-    "REACT NATIVE/React Native Practical Guide/6 Navigation/2. Route parameters.md",
     "linux/UBUNTU.md",
     "HASKELL/for_great_good/5 Higher order functions.md",
     "linux/Shell 18 commands that will change the way you use linux forever.md",
-    "REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
-    "REACT NATIVE/React Native Practical Guide/1 React Native Basics.md",
-    "REACT NATIVE/React Native Practical Guide/6 Navigation/_ 0 React Native Navigation.md"
+    "REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md"
   ]
 }
