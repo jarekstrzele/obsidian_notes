@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HASKELL/for_great_good/5 Higher order functions.md",
+                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/3 Add new Component MealItem.md",
                 "mode": "source",
                 "source": false
               }
@@ -198,8 +198,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 282.5
   },
   "right": {
     "id": "ec7d1a70da2de581",
@@ -215,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/for_great_good/5 Higher order functions.md",
+                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/3 Add new Component MealItem.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -232,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/for_great_good/5 Higher order functions.md",
+                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/3 Add new Component MealItem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/for_great_good/5 Higher order functions.md"
+                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/3 Add new Component MealItem.md"
               }
             }
           },
@@ -297,15 +296,15 @@
   },
   "active": "0710766a42480cea",
   "lastOpenFiles": [
+    "REACT NATIVE/React Native Practical Guide/6 Navigation/2. Route parameters.md",
+    "REACT NATIVE/React Native Practical Guide/6 Navigation/3 Add new Component MealItem.md",
+    "HASKELL/for_great_good/5 Higher order functions.md",
     "HASKELL/for_great_good/4 Recursion.md",
     "HASKELL/for_great_good/3.2 - Guards.md",
     "HASKELL/for_great_good/3.1 - Pattern matching.md",
     "HASKELL/for_great_good/3 - Syntax in Function.md",
     "P Y T H O N/Master_Python_100/41 Web HTML.md",
     "P Y T H O N/Master_Python_100/33 API Endpoints and API Parameters ISS Overhead Notifier.md",
-    "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Klucz obcy.md",
-    "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/_ Groupowanie danych SQLite.md",
-    "REACT NATIVE/_ Proste aplikacje/biblioteka Moment Javascript.md",
-    "REACT NATIVE/_ Proste aplikacje/biblioteka moment-react.md"
+    "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Klucz obcy.md"
   ]
 }

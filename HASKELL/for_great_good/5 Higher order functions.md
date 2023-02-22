@@ -62,8 +62,20 @@ compare :: Ord a => a -> a -> Ordering
 ### infix functions
 Infix functions can also be partially applied by using sections
 ```haskell
-divideByTen :: (Floating)
+divideByTen :: (Floating a) => a -> a
+devideByten = (/10)
 ```
+so
+calling `divideByTen 200` is equivalent to doing `200/10`, as is doing `(/10) 200`
+
+------
+# ## Some higher-orderism is in order
+
+
+
+
+
+
 
 
 
