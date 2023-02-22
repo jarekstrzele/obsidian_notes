@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Klucz obcy",
+      "path": "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Klucz obcy.md"
+    },
+    {
+      "basename": "_ Groupowanie danych SQLite",
+      "path": "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/_ Groupowanie danych SQLite.md"
+    },
+    {
       "basename": "biblioteka Moment Javascript",
       "path": "REACT NATIVE/_ Proste aplikacje/biblioteka Moment Javascript.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "2 Właściwości grafów",
       "path": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md"
-    },
-    {
-      "basename": "3 - Algorytmy grafowe",
-      "path": "algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md"
-    },
-    {
-      "basename": "0 _ Learn Python From Zero to Hero (basic, Bui, Web, Full Stack)",
-      "path": "P Y T H O N/Learn Python (Basic, BUI, Web, FullStack)/0 _ Learn Python From Zero to Hero (basic, Bui, Web, Full Stack).md"
     }
   ],
   "omittedPaths": [],
