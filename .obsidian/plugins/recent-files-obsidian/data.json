@@ -5,6 +5,10 @@
       "path": "REACT NATIVE/_ Proste aplikacje/ClockApp.md"
     },
     {
+      "basename": "biblioteka moment-react",
+      "path": "REACT NATIVE/_ Proste aplikacje/biblioteka moment-react.md"
+    },
+    {
       "basename": "biblioteka Moment Javascript",
       "path": "REACT NATIVE/_ Proste aplikacje/biblioteka Moment Javascript.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "0 _ Learn Python From Zero to Hero (basic, Bui, Web, Full Stack)",
       "path": "P Y T H O N/Learn Python (Basic, BUI, Web, FullStack)/0 _ Learn Python From Zero to Hero (basic, Bui, Web, Full Stack).md"
-    },
-    {
-      "basename": "8 Login Project",
-      "path": "REACT/React - the Complete Guide/8 Login Project.md"
     }
   ],
   "omittedPaths": [],
