@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "5 Higher order functions",
+      "path": "HASKELL/for_great_good/5 Higher order functions.md"
+    },
+    {
+      "basename": "4 Recursion",
+      "path": "HASKELL/for_great_good/4 Recursion.md"
+    },
+    {
+      "basename": "3.2 - Guards",
+      "path": "HASKELL/for_great_good/3.2 - Guards.md"
+    },
+    {
+      "basename": "3.1 - Pattern matching",
+      "path": "HASKELL/for_great_good/3.1 - Pattern matching.md"
+    },
+    {
+      "basename": "3 - Syntax in Function",
+      "path": "HASKELL/for_great_good/3 - Syntax in Function.md"
+    },
+    {
       "basename": "41 Web HTML",
       "path": "P Y T H O N/Master_Python_100/41 Web HTML.md"
     },
@@ -47,10 +67,6 @@
     {
       "basename": "UBUNTU",
       "path": "linux/UBUNTU.md"
-    },
-    {
-      "basename": "5 Higher order functions",
-      "path": "HASKELL/for_great_good/5 Higher order functions.md"
     },
     {
       "basename": "Shell 18 commands that will change the way you use linux forever",
@@ -183,22 +199,6 @@
     {
       "basename": "3.1 Component vidly project",
       "path": "REACT/React Mosh/3.1 Component vidly project.md"
-    },
-    {
-      "basename": "3 Components",
-      "path": "REACT/React Mosh/3 Components.md"
-    },
-    {
-      "basename": "2 ES6 Refresh",
-      "path": "REACT/React Mosh/2 ES6 Refresh.md"
-    },
-    {
-      "basename": "_ 0 React Mosh",
-      "path": "REACT/React Mosh/_ 0 React Mosh.md"
-    },
-    {
-      "basename": "2 Właściwości grafów",
-      "path": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md"
     }
   ],
   "omittedPaths": [],

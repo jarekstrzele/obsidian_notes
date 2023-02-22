@@ -8,6 +8,11 @@
 ==Every functions in Haskell officially only takes one parameter!!==
 
 If a function accepts several parameters is **curried function**
+
+>[!info] parially applied function
+>a function that takes as many parameters as we left out
+
+
 ```haskell
 ghci> max 4 5
 5
@@ -40,6 +45,26 @@ multThree 3
 compareWithHundred :: (Num a, Ord a) => a -> Ordering  
 compareWithHundred x = compare 100 x
 ```
+It returns a function that takes a number and compares it with 100.
+so ->
+```haskell
+compareWithHundred :: (Num a, Ord a) => a ->Ordering
+compareWithHundred = compare 100
+```
+
+`compare 100` returns a function that takes a number and compares it with 100
+```haskell
+Prelude> :t compare  
+compare :: Ord a => a -> a -> Ordering
+```
+
+
+### infix functions
+Infix functions can also be partially applied by using sections
+```haskell
+divideByTen :: (Floating)
+```
+
 
 
 
