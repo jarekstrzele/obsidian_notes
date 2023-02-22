@@ -6,7 +6,15 @@
 cd ClockApp
 npm install moment react-moment
 ```
-3. 
+
+`setInterval`
+Funkcja ta przyjmuje dwa argumenty: 
+ - funkcję, która ma zostać wywołana co określony czas (w tym przypadku funkcja `setTime(moment())`, która ustawia aktualny czas za pomocą biblioteki Moment) oraz
+ - czas w milisekundach (1000 milisekund to 1 sekunda).
+
+`moment()`
+zwraca obiekt *Moment* reprezentujący aktualny czas, tzn. czas w momencie wywołania tej funkcji.
+Obiekt Moment jest obiektem daty i czasu
 
 ```jsx
 import React, { useState, useEffect } from 'react';
