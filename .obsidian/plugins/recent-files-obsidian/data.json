@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Shell vs Terminal",
+      "path": "FullStack/Full Stack Web Development  Bootcamp/Appendixes/Shell vs Terminal.md"
+    },
+    {
       "basename": "3 Add new Component MealItem",
       "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/3 Add new Component MealItem.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "4 Composing Components",
       "path": "REACT/React Mosh/4 Composing Components.md"
-    },
-    {
-      "basename": "3.1 Component vidly project",
-      "path": "REACT/React Mosh/3.1 Component vidly project.md"
     }
   ],
   "omittedPaths": [],
