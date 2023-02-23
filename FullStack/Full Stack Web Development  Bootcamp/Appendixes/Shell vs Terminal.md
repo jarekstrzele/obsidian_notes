@@ -16,8 +16,7 @@ bash
 `~` home
 `..` one level up
 `.` current folder
-no
-a tera 
+nowe dane 
 
 
 
