@@ -169,7 +169,7 @@ function App() {
 #useEffect 
 
 TO IMMEDIATELY FETCH DATA -> use `useEffect`
-*sending the HTTP request is a side effect whuch ultimately changes our components state*
+*sending the HTTP request is a side effect which ultimately changes our components state*
 
 if you will have code:
 ```js

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "14 Connecting to a Database",
+      "path": "REACT/React - the Complete Guide/14 Connecting to a Database.md"
+    },
+    {
       "basename": "0 _ Haskell and Yesod",
       "path": "HASKELL/web/Yesod/0 _ Haskell and Yesod.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "fake_movies.js",
       "path": "REACT/React Mosh/fake_movies.js.md"
-    },
-    {
-      "basename": "1 Python Database",
-      "path": "P Y T H O N/Learn Python (Basic, BUI, Web, FullStack)/1 Python Database.md"
     }
   ],
   "omittedPaths": [],

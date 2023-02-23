@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HASKELL/web/Yesod/0 _ Haskell and Yesod.md",
+                "file": "REACT/React - the Complete Guide/14 Connecting to a Database.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/web/Yesod/0 _ Haskell and Yesod.md",
+                "file": "REACT/React - the Complete Guide/14 Connecting to a Database.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/web/Yesod/0 _ Haskell and Yesod.md",
+                "file": "REACT/React - the Complete Guide/14 Connecting to a Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/web/Yesod/0 _ Haskell and Yesod.md"
+                "file": "REACT/React - the Complete Guide/14 Connecting to a Database.md"
               }
             }
           },
@@ -175,8 +175,8 @@
   },
   "active": "0710766a42480cea",
   "lastOpenFiles": [
-    "REACT NATIVE/React Native Practical Guide/6 Navigation/2. Route parameters.md",
     "HASKELL/web/Yesod/0 _ Haskell and Yesod.md",
+    "REACT NATIVE/React Native Practical Guide/6 Navigation/2. Route parameters.md",
     "HASKELL/Haskell for Imperative Programmers/1 Functions.md",
     "JAVASCRIPT/JS. Programowanie obiektowe/3 Obiekty.md",
     "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md",
