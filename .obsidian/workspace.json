@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7906892d22b56513",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/2. Route parameters.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0710766a42480cea",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -188,6 +175,8 @@
   },
   "active": "0710766a42480cea",
   "lastOpenFiles": [
+    "REACT NATIVE/React Native Practical Guide/6 Navigation/2. Route parameters.md",
+    "HASKELL/web/Yesod/0 _ Haskell and Yesod.md",
     "HASKELL/Haskell for Imperative Programmers/1 Functions.md",
     "JAVASCRIPT/JS. Programowanie obiektowe/3 Obiekty.md",
     "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md",
@@ -195,7 +184,6 @@
     "FullStack/Full Stack Web Development  Bootcamp/Appendixes/Shell vs Terminal.md",
     "REACT NATIVE/_ Proste aplikacje/biblioteka Moment Javascript.md",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/3 Add new Component MealItem.md",
-    "REACT NATIVE/React Native Practical Guide/6 Navigation/2. Route parameters.md",
     "HASKELL/for_great_good/5 Higher order functions.md",
     "HASKELL/for_great_good/4 Recursion.md",
     "HASKELL/for_great_good/3.2 - Guards.md",
