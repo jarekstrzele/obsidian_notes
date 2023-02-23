@@ -194,7 +194,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -294,7 +295,7 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "0710766a42480cea",
+  "active": "aad6e2f11a660f1c",
   "lastOpenFiles": [
     "REACT NATIVE/React Native Practical Guide/6 Navigation/3 Add new Component MealItem.md",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/2. Route parameters.md",
