@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "0 _ Haskell and Yesod",
+      "path": "HASKELL/web/Yesod/0 _ Haskell and Yesod.md"
+    },
+    {
+      "basename": "1 Functions",
+      "path": "HASKELL/Haskell for Imperative Programmers/1 Functions.md"
+    },
+    {
+      "basename": "3 Obiekty",
+      "path": "JAVASCRIPT/JS. Programowanie obiektowe/3 Obiekty.md"
+    },
+    {
+      "basename": "_ 0 Haskell for Imperative Programmers",
+      "path": "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md"
+    },
+    {
+      "basename": "_ 0 Happy Learn Haskell",
+      "path": "HASKELL/Happy Learn Haskell/_ 0 Happy Learn Haskell.md"
+    },
+    {
       "basename": "Shell vs Terminal",
       "path": "FullStack/Full Stack Web Development  Bootcamp/Appendixes/Shell vs Terminal.md"
+    },
+    {
+      "basename": "biblioteka Moment Javascript",
+      "path": "REACT NATIVE/_ Proste aplikacje/biblioteka Moment Javascript.md"
     },
     {
       "basename": "3 Add new Component MealItem",
@@ -47,10 +71,6 @@
     {
       "basename": "_ Groupowanie danych SQLite",
       "path": "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/_ Groupowanie danych SQLite.md"
-    },
-    {
-      "basename": "biblioteka Moment Javascript",
-      "path": "REACT NATIVE/_ Proste aplikacje/biblioteka Moment Javascript.md"
     },
     {
       "basename": "biblioteka moment-react",
@@ -179,26 +199,6 @@
     {
       "basename": "1 Python Database",
       "path": "P Y T H O N/Learn Python (Basic, BUI, Web, FullStack)/1 Python Database.md"
-    },
-    {
-      "basename": "14 Connecting to a Database",
-      "path": "REACT/React - the Complete Guide/14 Connecting to a Database.md"
-    },
-    {
-      "basename": "axios",
-      "path": "REACT/DB/axios.md"
-    },
-    {
-      "basename": "Fetch",
-      "path": "REACT/DB/Fetch.md"
-    },
-    {
-      "basename": "fake_genders.js",
-      "path": "REACT/React Mosh/fake_genders.js.md"
-    },
-    {
-      "basename": "4 Composing Components",
-      "path": "REACT/React Mosh/4 Composing Components.md"
     }
   ],
   "omittedPaths": [],
