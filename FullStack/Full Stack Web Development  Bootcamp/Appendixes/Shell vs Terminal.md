@@ -21,3 +21,5 @@ jszcze raz nowe dane
 i jeszcze raz
 
 efoifj wpefijwe[fijw f[eofij]]
+
+Teraz to jest jazda!!!!!!!!!!!!!!!!!!!!!!!!
