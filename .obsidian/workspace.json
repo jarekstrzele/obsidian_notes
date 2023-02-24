@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
+                "file": "REACT/React - the Complete Guide/14 Connecting to a Database.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
+                "file": "REACT/React - the Complete Guide/14 Connecting to a Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md"
+                "file": "REACT/React - the Complete Guide/14 Connecting to a Database.md"
               }
             }
           },
@@ -186,10 +185,10 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "502f5f8a14fd8a63",
+  "active": "0710766a42480cea",
   "lastOpenFiles": [
-    "algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md",
     "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
+    "algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md",
     "algorithmic/Grafy.md",
     "REACT/DB/Postgres.md",
     "REACT/DB/axios.md",
