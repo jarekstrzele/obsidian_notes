@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "502f5f8a14fd8a63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "REACT/React - the Complete Guide/14 Connecting to a Database.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,11 +186,11 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "0710766a42480cea",
+  "active": "502f5f8a14fd8a63",
   "lastOpenFiles": [
+    "REACT/React - the Complete Guide/14 Connecting to a Database.md",
     "REACT/React - the Complete Guide/9. Fragments, Portal, refs.md",
     "REACT/React - the Complete Guide/8 Login Project.md",
-    "REACT/React - the Complete Guide/14 Connecting to a Database.md",
     "HASKELL/web/Yesod/0 _ Haskell and Yesod.md",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/2. Route parameters.md",
     "HASKELL/Haskell for Imperative Programmers/1 Functions.md",
