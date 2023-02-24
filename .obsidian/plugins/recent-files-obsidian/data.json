@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "2 Właściwości grafów",
+      "path": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md"
+    },
+    {
+      "basename": "3 - Algorytmy grafowe",
+      "path": "algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md"
+    },
+    {
+      "basename": "Grafy",
+      "path": "algorithmic/Grafy.md"
+    },
+    {
+      "basename": "Postgres",
+      "path": "REACT/DB/Postgres.md"
+    },
+    {
+      "basename": "axios",
+      "path": "REACT/DB/axios.md"
+    },
+    {
+      "basename": "Fetch",
+      "path": "REACT/DB/Fetch.md"
+    },
+    {
       "basename": "14 Connecting to a Database",
       "path": "REACT/React - the Complete Guide/14 Connecting to a Database.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "16 _ OOP",
       "path": "P Y T H O N/Master_Python_100/16 _ OOP.md"
-    },
-    {
-      "basename": "_ 0 100 Days of Code 2023",
-      "path": "P Y T H O N/Master_Python_100/_ 0 100 Days of Code 2023.md"
-    },
-    {
-      "basename": "9.1 Klasy",
-      "path": "P Y T H O N/Matthes_Eric_Instrukcje_dla_programisty/9 Klasy/9.1 Klasy.md"
-    },
-    {
-      "basename": "_ 0 Początek testowanie kodu",
-      "path": "P Y T H O N/Matthes_Eric_Instrukcje_dla_programisty/11 Testowanie kodu/_ 0 Początek testowanie kodu.md"
-    },
-    {
-      "basename": "_ 0 Start Python Instrukcje dla programisty",
-      "path": "P Y T H O N/Matthes_Eric_Instrukcje_dla_programisty/_ 0 Start Python Instrukcje dla programisty.md"
-    },
-    {
-      "basename": "useCallback",
-      "path": "REACT/React - the Complete Guide/useCallback.md"
-    },
-    {
-      "basename": "8 Calling Backend Services",
-      "path": "REACT/React Mosh/8 Calling Backend Services.md"
     }
   ],
   "omittedPaths": [],

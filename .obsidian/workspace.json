@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REACT/React - the Complete Guide/14 Connecting to a Database.md",
+                "file": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REACT/React - the Complete Guide/14 Connecting to a Database.md",
+                "file": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REACT/React - the Complete Guide/14 Connecting to a Database.md",
+                "file": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REACT/React - the Complete Guide/14 Connecting to a Database.md"
+                "file": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md"
               }
             }
           },
@@ -188,6 +188,12 @@
   },
   "active": "502f5f8a14fd8a63",
   "lastOpenFiles": [
+    "algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md",
+    "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
+    "algorithmic/Grafy.md",
+    "REACT/DB/Postgres.md",
+    "REACT/DB/axios.md",
+    "REACT/DB/Fetch.md",
     "REACT/React - the Complete Guide/14 Connecting to a Database.md",
     "REACT/React - the Complete Guide/9. Fragments, Portal, refs.md",
     "REACT/React - the Complete Guide/8 Login Project.md",
