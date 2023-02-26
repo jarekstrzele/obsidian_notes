@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HASKELL/Happy Learn Haskell/_ 0 Happy Learn Haskell.md",
+                "file": "HASKELL/for_great_good/5 Higher order functions.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/Happy Learn Haskell/_ 0 Happy Learn Haskell.md",
+                "file": "HASKELL/for_great_good/5 Higher order functions.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/Happy Learn Haskell/_ 0 Happy Learn Haskell.md",
+                "file": "HASKELL/for_great_good/5 Higher order functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/Happy Learn Haskell/_ 0 Happy Learn Haskell.md"
+                "file": "HASKELL/for_great_good/5 Higher order functions.md"
               }
             }
           },
@@ -188,6 +188,7 @@
   },
   "active": "502f5f8a14fd8a63",
   "lastOpenFiles": [
+    "HASKELL/Happy Learn Haskell/_ 0 Happy Learn Haskell.md",
     "HASKELL/The Complete Haskell Course/11 Binary trees.md",
     "HASKELL/The Complete Haskell Course/10 Inifite Lists Problems.md",
     "HASKELL/The Complete Haskell Course/8 Higher Order Functions.md",
@@ -212,7 +213,6 @@
     "HASKELL/Haskell for Imperative Programmers/1 Functions.md",
     "JAVASCRIPT/JS. Programowanie obiektowe/3 Obiekty.md",
     "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md",
-    "HASKELL/Happy Learn Haskell/_ 0 Happy Learn Haskell.md",
     "FullStack/Full Stack Web Development  Bootcamp/Appendixes/Shell vs Terminal.md"
   ]
 }

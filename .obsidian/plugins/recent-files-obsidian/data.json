@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "5 Higher order functions",
+      "path": "HASKELL/for_great_good/5 Higher order functions.md"
+    },
+    {
       "basename": "_ 0 Happy Learn Haskell",
       "path": "HASKELL/Happy Learn Haskell/_ 0 Happy Learn Haskell.md"
     },
@@ -111,10 +115,6 @@
     {
       "basename": "3 Add new Component MealItem",
       "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/3 Add new Component MealItem.md"
-    },
-    {
-      "basename": "5 Higher order functions",
-      "path": "HASKELL/for_great_good/5 Higher order functions.md"
     },
     {
       "basename": "4 Recursion",
