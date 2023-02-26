@@ -167,7 +167,12 @@ quicksort (x:xs) =
 ```
 
 
+# takeWhile
+#haskell/takeWhile
+- it takes a predicate and a list and then goes from the beginning of the list and returns its elements while the predicate holds true
+- once an element is found for which the predicate doesn't hold, it stops
 
+-  If we wanted to get the first word of the string `"elephants know how to party"`, we could do `takeWhile (/=' ')` `"elephants know how to party" and it would return "elephants"`.
 
 
 
