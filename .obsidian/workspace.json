@@ -188,6 +188,8 @@
   },
   "active": "502f5f8a14fd8a63",
   "lastOpenFiles": [
+    "predicate.md",
+    "HASKELL/for_great_good/5 Higher order functions.md",
     "HASKELL/Happy Learn Haskell/_ 0 Happy Learn Haskell.md",
     "HASKELL/The Complete Haskell Course/11 Binary trees.md",
     "HASKELL/The Complete Haskell Course/10 Inifite Lists Problems.md",
@@ -211,8 +213,6 @@
     "HASKELL/web/Yesod/0 _ Haskell and Yesod.md",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/2. Route parameters.md",
     "HASKELL/Haskell for Imperative Programmers/1 Functions.md",
-    "JAVASCRIPT/JS. Programowanie obiektowe/3 Obiekty.md",
-    "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md",
-    "FullStack/Full Stack Web Development  Bootcamp/Appendixes/Shell vs Terminal.md"
+    "JAVASCRIPT/JS. Programowanie obiektowe/3 Obiekty.md"
   ]
 }

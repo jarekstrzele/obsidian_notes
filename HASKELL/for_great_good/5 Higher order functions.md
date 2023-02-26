@@ -123,6 +123,7 @@ flip' f y x = f x y
 ```
 
 # map
+#haskell/map
 `map` takes a function and a list and applies that function to every element in the list, producing a new list
 ```haskell
 map :: (a->b) -> [a] -> [b]
@@ -130,16 +131,20 @@ map _ [] = []
 map f (x:xs) = f x : map f xs
 ```
 
-`map (+3) [1,5,3,1,6]` is the same as writing `[x`
+`map (+3) [1,5,3,1,6]` is the same as writing `[x+3 | x<-[1,5,3,1,6]`
 
+# filter
+#haskell/filter
+it takes:
+- a [[predicate]]
+- a list 
+returns the list of elems that satisfy the predicate
 
-
-
-
-
-
-
-
-
-
+```haskell
+filter :: (a->Bool) -> [a] ->[a]
+filter _ [] = []
+filter p (x:xs)
+  | p x = x : filter p xs
+  | otherwise = filter p xs
+```
 
