@@ -148,3 +148,30 @@ filter p (x:xs)
   | otherwise = filter p xs
 ```
 
+#haskell/quicksort
+```haskell
+quicksort :: (Ord a) => [a] -> [a]
+quicksort [] = []
+quicksort (x:xs) =
+  let smallerSorted = quicksort (filter (<=x) xs)
+      biggerSorted = quicksort (filter (>x) xs)
+  in smallerSorted ++ [x] ++ biggerSorted
+```
+
+
+ _find the largest number under 100,000 that's divisible by 3829_. 
+ ```haskell
+ largestDivisible :: (Integral a) => a
+ largestDivisible
+```
+
+
+
+
+
+
+
+
+
+
+
