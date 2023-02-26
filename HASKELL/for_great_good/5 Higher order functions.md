@@ -106,3 +106,40 @@ ghci> zipWith' (zipWith' (*)) [[1,2,3],[3,5,6],[2,3,4]] [[3,2,2],[3,4,5],[5
 >Functional programming uses **higher order functions to abstract away common patterns**, like examining two lists in pairs and doing something with those pairs or getting a set of solutions and eliminating the ones you don't need.
 
 
+```haskell
+flip' :: (a->b->c)->(b->a->c)
+flip' f = g
+  where g x y = f y x
+```
+It takes a function that takes `a` and `b` and returns a function that takes a `b` and `a`
+`(a -> b -> c) -> (b -> a -> c)` 
+is the same as `(a -> b -> c) -> (b -> (a -> c))`
+and it is the same as
+`(a -> b -> c) -> b -> a -> c`
+simpler way
+```haskell
+flip' :: (a -> b -> c) -> b -> a -> c  
+flip' f y x = f x y
+```
+
+# map
+`map` takes a function and a list and applies that function to every element in the list, producing a new list
+```haskell
+map :: (a->b) -> [a] -> [b]
+map _ [] = []
+map f (x:xs) = f x : map f xs
+```
+
+`map (+3) [1,5,3,1,6]` is the same as writing `[x`
+
+
+
+
+
+
+
+
+
+
+
+
