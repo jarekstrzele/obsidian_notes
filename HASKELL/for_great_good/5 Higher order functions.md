@@ -162,7 +162,8 @@ quicksort (x:xs) =
  _find the largest number under 100,000 that's divisible by 3829_. 
  ```haskell
  largestDivisible :: (Integral a) => a
- largestDivisible
+ largestDivisible = head (filter p [100000, 99999..])
+   where p x = x `mod` 3829 == 0
 ```
 
 
