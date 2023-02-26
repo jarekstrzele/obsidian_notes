@@ -5,18 +5,16 @@ http://www.happylearnhaskelltutorial.com/1/how_to_enjoy_learning.html#s1
 [[5 Function Magic]]
 
 
-
-
 >[!info] **VALUES**
 >- a value in  Haskell is any data
 >- e.g. "step"
 >- all values have a type
 
 >[!info] **Types**
->- a type is a name for a set ot group of values that are similar
+>- a type is a name for a set of group of values that are similar
 >- e.g. Integer - the type for representing values like `5`, `32`, ...
 >- `5 :: Integer`
->- Haskell lets u make our own type
+>- Haskell lets us  make our own type
 >- Types are important:
 >	- decide how the pieces of your program can fix together
 >	- which values are allowed to go where

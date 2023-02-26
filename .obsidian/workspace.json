@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
+                "file": "HASKELL/Happy Learn Haskell/_ 0 Happy Learn Haskell.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
+                "file": "HASKELL/Happy Learn Haskell/_ 0 Happy Learn Haskell.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
+                "file": "HASKELL/Happy Learn Haskell/_ 0 Happy Learn Haskell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md"
+                "file": "HASKELL/Happy Learn Haskell/_ 0 Happy Learn Haskell.md"
               }
             }
           },
@@ -188,8 +188,18 @@
   },
   "active": "502f5f8a14fd8a63",
   "lastOpenFiles": [
-    "REACT/React - the Complete Guide/14 Connecting to a Database.md",
+    "HASKELL/The Complete Haskell Course/11 Binary trees.md",
+    "HASKELL/The Complete Haskell Course/10 Inifite Lists Problems.md",
+    "HASKELL/The Complete Haskell Course/8 Higher Order Functions.md",
+    "HASKELL/The Complete Haskell Course/3 Functions.md",
+    "HASKELL/The Complete Haskell Course/2 Basic Types.md",
+    "HASKELL/The Complete Haskell Course/_ 0 Complete Haskell Course.md",
+    "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/Data.List and operator `!!`.md",
+    "HASKELL/Happy Learn Haskell/8 Make Decisions.md",
+    "HASKELL/Happy Learn Haskell/6 Sockets and Plugs.md",
+    "HASKELL/Happy Learn Haskell/5 Function Magic.md",
     "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
+    "REACT/React - the Complete Guide/14 Connecting to a Database.md",
     "algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md",
     "algorithmic/Grafy.md",
     "REACT/DB/Postgres.md",
@@ -203,16 +213,6 @@
     "JAVASCRIPT/JS. Programowanie obiektowe/3 Obiekty.md",
     "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md",
     "HASKELL/Happy Learn Haskell/_ 0 Happy Learn Haskell.md",
-    "FullStack/Full Stack Web Development  Bootcamp/Appendixes/Shell vs Terminal.md",
-    "REACT NATIVE/_ Proste aplikacje/biblioteka Moment Javascript.md",
-    "REACT NATIVE/React Native Practical Guide/6 Navigation/3 Add new Component MealItem.md",
-    "HASKELL/for_great_good/5 Higher order functions.md",
-    "HASKELL/for_great_good/4 Recursion.md",
-    "HASKELL/for_great_good/3.2 - Guards.md",
-    "HASKELL/for_great_good/3.1 - Pattern matching.md",
-    "HASKELL/for_great_good/3 - Syntax in Function.md",
-    "P Y T H O N/Master_Python_100/41 Web HTML.md",
-    "P Y T H O N/Master_Python_100/33 API Endpoints and API Parameters ISS Overhead Notifier.md",
-    "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Klucz obcy.md"
+    "FullStack/Full Stack Web Development  Bootcamp/Appendixes/Shell vs Terminal.md"
   ]
 }

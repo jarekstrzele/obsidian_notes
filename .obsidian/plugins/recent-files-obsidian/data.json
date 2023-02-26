@@ -1,6 +1,50 @@
 {
   "recentFiles": [
     {
+      "basename": "_ 0 Happy Learn Haskell",
+      "path": "HASKELL/Happy Learn Haskell/_ 0 Happy Learn Haskell.md"
+    },
+    {
+      "basename": "11 Binary trees",
+      "path": "HASKELL/The Complete Haskell Course/11 Binary trees.md"
+    },
+    {
+      "basename": "10 Inifite Lists Problems",
+      "path": "HASKELL/The Complete Haskell Course/10 Inifite Lists Problems.md"
+    },
+    {
+      "basename": "8 Higher Order Functions",
+      "path": "HASKELL/The Complete Haskell Course/8 Higher Order Functions.md"
+    },
+    {
+      "basename": "3 Functions",
+      "path": "HASKELL/The Complete Haskell Course/3 Functions.md"
+    },
+    {
+      "basename": "2 Basic Types",
+      "path": "HASKELL/The Complete Haskell Course/2 Basic Types.md"
+    },
+    {
+      "basename": "_ 0 Complete Haskell Course",
+      "path": "HASKELL/The Complete Haskell Course/_ 0 Complete Haskell Course.md"
+    },
+    {
+      "basename": "Data.List and operator `!!`",
+      "path": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/Data.List and operator `!!`.md"
+    },
+    {
+      "basename": "8 Make Decisions",
+      "path": "HASKELL/Happy Learn Haskell/8 Make Decisions.md"
+    },
+    {
+      "basename": "6 Sockets and Plugs",
+      "path": "HASKELL/Happy Learn Haskell/6 Sockets and Plugs.md"
+    },
+    {
+      "basename": "5 Function Magic",
+      "path": "HASKELL/Happy Learn Haskell/5 Function Magic.md"
+    },
+    {
       "basename": "2 Właściwości grafów",
       "path": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md"
     },
@@ -55,10 +99,6 @@
     {
       "basename": "_ 0 Haskell for Imperative Programmers",
       "path": "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md"
-    },
-    {
-      "basename": "_ 0 Happy Learn Haskell",
-      "path": "HASKELL/Happy Learn Haskell/_ 0 Happy Learn Haskell.md"
     },
     {
       "basename": "Shell vs Terminal",
@@ -159,46 +199,6 @@
     {
       "basename": "useEffect",
       "path": "REACT NATIVE/React Native Practical Guide/useEffect.md"
-    },
-    {
-      "basename": "9 QtDesigner",
-      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md"
-    },
-    {
-      "basename": "8 Qt Style Sheets",
-      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/8 Qt Style Sheets.md"
-    },
-    {
-      "basename": "7.7 QWebEngineView",
-      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.7 QWebEngineView.md"
-    },
-    {
-      "basename": "7.6 QTextBrowser",
-      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.6 QTextBrowser.md"
-    },
-    {
-      "basename": "7.5 QTextEdit",
-      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.5 QTextEdit.md"
-    },
-    {
-      "basename": "2. PyTest",
-      "path": "Testowanie/Testy automatyczne w języku Python/2. PyTest.md"
-    },
-    {
-      "basename": "_ 0 Testy automatyczne Python",
-      "path": "Testowanie/Testy automatyczne w języku Python/_ 0 Testy automatyczne Python.md"
-    },
-    {
-      "basename": "34 API GUI Quiz App",
-      "path": "P Y T H O N/Master_Python_100/34 API GUI Quiz App.md"
-    },
-    {
-      "basename": "Scope Python",
-      "path": "P Y T H O N/Master_Python_100/Scope Python.md"
-    },
-    {
-      "basename": "16 _ OOP",
-      "path": "P Y T H O N/Master_Python_100/16 _ OOP.md"
     }
   ],
   "omittedPaths": [],
