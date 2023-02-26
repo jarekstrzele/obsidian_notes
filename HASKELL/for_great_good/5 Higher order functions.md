@@ -77,9 +77,21 @@ applyTwice :: (a->a) -> a -> a
 applyTwice f x = f (f x)
 ```
 the first parameter is a function `(a->a)`
+```bash
+ghci> applyTwice (+3) 10
+16
+ghci> applyTwice (++ " HhahHAH" ) "Hejka"
+"Hejka HhahHAH HhahHAH"
+ghci> applyTwice (" HhahHAH" ++ ) "Hejka"
+" HhahHAH HhahHAHHejka"
+```
 
 
-
-
+```haskell
+zipWith' :: (a->b->c) -> [a] -> [b] -> [c]
+zipWith' _ [] _ = []
+zipWith' _ _ [] = []
+zipWith' f (x:xs) (y:ys) = f x y :zipWith' f xs ys
+```
 
 
