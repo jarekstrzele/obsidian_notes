@@ -93,5 +93,16 @@ zipWith' _ [] _ = []
 zipWith' _ _ [] = []
 zipWith' f (x:xs) (y:ys) = f x y :zipWith' f xs ys
 ```
+```bash
+
+zipWith' :: (a -> b -> c) -> [a] -> [b] -> [c]
+ghci> zipWith' (+) [4,2,4,6] [2,6,2,3]
+[6,8,6,9]
+ghci> zipWith' (zipWith' (*)) [[1,2,3],[3,5,6],[2,3,4]] [[3,2,2],[3,4,5],[5,4,3]]  
+[[3,4,6],[9,20,30],[10,12,12]]
+```
+
+>[!importent] like interface
+>Functional programming uses higher order functions to abstract away common patterns, like examining two lists in pairs and doing something with those pairs or getting a set of solutions and eliminating the ones you don't need.
 
 
