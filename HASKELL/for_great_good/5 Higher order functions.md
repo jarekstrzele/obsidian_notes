@@ -103,6 +103,6 @@ ghci> zipWith' (zipWith' (*)) [[1,2,3],[3,5,6],[2,3,4]] [[3,2,2],[3,4,5],[5
 ```
 
 >[!importent] like interface
->Functional programming uses higher order functions to abstract away common patterns, like examining two lists in pairs and doing something with those pairs or getting a set of solutions and eliminating the ones you don't need.
+>Functional programming uses **higher order functions to abstract away common patterns**, like examining two lists in pairs and doing something with those pairs or getting a set of solutions and eliminating the ones you don't need.
 
 
