@@ -327,7 +327,14 @@ except ZeroDivisionError:
 ```
 
 -----------
-#
+# the `else` clause
+
+- with `try-except` you can use `else` block
+- `else` only executes when the code in the try does not lead to an exception
+
+
+
+
 
 
 
