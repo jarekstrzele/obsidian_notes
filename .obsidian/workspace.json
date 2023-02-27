@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REACT/React - the Complete Guide/14 Connecting to a Database.md",
+                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,8 +185,10 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "502f5f8a14fd8a63",
+  "active": "0710766a42480cea",
   "lastOpenFiles": [
+    "REACT/React - the Complete Guide/14 Connecting to a Database.md",
+    "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
     "HASKELL/for_great_good/5 Higher order functions.md",
     "predicate.md",
     "HASKELL/Happy Learn Haskell/_ 0 Happy Learn Haskell.md",
@@ -202,7 +203,6 @@
     "HASKELL/Happy Learn Haskell/6 Sockets and Plugs.md",
     "HASKELL/Happy Learn Haskell/5 Function Magic.md",
     "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
-    "REACT/React - the Complete Guide/14 Connecting to a Database.md",
     "algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md",
     "algorithmic/Grafy.md",
     "REACT/DB/Postgres.md",
@@ -212,7 +212,6 @@
     "REACT/React - the Complete Guide/8 Login Project.md",
     "HASKELL/web/Yesod/0 _ Haskell and Yesod.md",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/2. Route parameters.md",
-    "HASKELL/Haskell for Imperative Programmers/1 Functions.md",
-    "JAVASCRIPT/JS. Programowanie obiektowe/3 Obiekty.md"
+    "HASKELL/Haskell for Imperative Programmers/1 Functions.md"
   ]
 }
