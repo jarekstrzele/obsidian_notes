@@ -137,8 +137,43 @@ print("And now?")
 
 ```python
 raise NameError
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+NameError
+
+
+raise ValueError
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError
+```
+
+
+```python
+raise ValueError("This message is without meaning")
+Traceback (most recent call last):
+File "<string>", line 1, in <module>
+ValueError: This message is without meaning
+
 
 ```
+
+```python
+try:
+    raise NameError("THis is ....")
+except NameError:
+    print("Now, something wrong")
+print("After....")
+
+# Now, something wrong
+# After....
+```
+
+
+
+
+
+
 
 
 
