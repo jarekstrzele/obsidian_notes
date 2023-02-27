@@ -214,8 +214,34 @@ File could not be read
 
 -----------
 # `SyntaxError`
-Syntaxerror can't be catched!!!!!!
 
+Syntax errors can't be catched!!!!!!
+```python
+try:
+    ala ma kota
+except SyntaxError:
+    print("This is not a Python code")
+print("And now?")
+
+File "<string>", line 2
+    ala ma kota
+        ^^
+SyntaxError: invalid syntax
+
+```
+
+but e.g. NameError handles:
+```python
+try:
+    ala += 1
+except NameError:
+    print("This is not a Python code")
+
+print("And now?")
+
+# This is not a Python code
+# And now?
+```
 
 
 
