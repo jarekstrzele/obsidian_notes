@@ -244,7 +244,13 @@ print("And now?")
 ```
 
 
+The have the same inheritance:
+```python
+print(SyntaxError.__mro__)
+print(NameError.__mro__)
 
+
+```
 
 
 
