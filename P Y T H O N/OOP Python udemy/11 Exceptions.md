@@ -249,12 +249,27 @@ The have the same inheritance:
 print(SyntaxError.__mro__)
 print(NameError.__mro__)
 
+(<class 'SyntaxError'>, <class 'Exception'>, <class 'BaseException'>, <class 'object'>)
+(<class 'NameError'>, <class 'Exception'>, <class 'BaseException'>, <class 'object'>)
+```
 
+The difference comes from bytecode (your code --> byte code --> interpreter, but bytecode must be syntactically correct)
+`SyntaxError` raises when python passes from written code to bytecode.
+
+```python
+try:
+    eval("ala ma kota ")
+except SyntaxError:
+    print("This is not a Python code")
+
+print("And now?")
+
+# This is not a Python code
+# And now?
 ```
 
 
-
-
+> SyntaxEr
 
 
 
