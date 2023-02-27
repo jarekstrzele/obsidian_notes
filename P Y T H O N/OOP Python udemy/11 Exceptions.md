@@ -332,8 +332,38 @@ except ZeroDivisionError:
 - with `try-except` you can use `else` block
 - `else` only executes when the code in the try does not lead to an exception
 
+```python
+# json.loads()
+import json
+  
+cat1 = '{"name": "Mrucze"}'
+decoded_data = json.loads(cat1) #json.loads(json_str) -> python object
+print(decoded_data) # -> {'name': 'Mrucze'}
+
+# cat2 = '{"name"}'
+# decoded_data = json.loads(cat2) # -> json.decoder.JSONDecodeError
+print(json.decoder.JSONDecodeError.__mro__) #-> (<class 'json.decoder.JSONDecodeError'>, <class 'ValueError'>, <class 'Exception'>, <class 'BaseException'>, <class 'object'>)
+cat2 = '{"name"}'
+try:
+    decoded_data = json.loads(cat2)  
+except json.decoder.JSONDecodeError:
+    print("Invalid json string")
+else:
+    print("Json data decoded correctly")
 
 
+try:
+    decoded_data = json.loads(cat1)  
+except json.decoder.JSONDecodeError:
+    print("Invalid json string")
+else:
+    print("Json data decoded correctly")
+```
+
+
+-------
+
+# Finally
 
 
 
