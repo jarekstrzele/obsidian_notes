@@ -169,9 +169,29 @@ print("After....")
 # After....
 ```
 
+```python
+cats = [
+    { "name": "Kicius", "age": 10},
+    { "name": "Mruczek", "age": -1}
+]
 
 
+a= [ True for cat in cats if cat["age"] < 0]
+print(a)
 
+try:
+    if any([True for cat in cats if cat["age"]< 0]):
+        raise ValueError("Age must be >0")
+    else:
+        print("OK")
+except ValueError as err:
+    print(f"Something wrong!!\n{err}")
+```
+
+
+------------
+# EAFP
+# **E**asier to **A**sk for **F**orgiveness then **P**ermission
 
 
 
