@@ -193,7 +193,9 @@ except ValueError as err:
 # EAFP
 # **E**asier to **A**sk for **F**orgiveness then **P**ermission
 
-
+You want to open an file. A lot fo errors can be happened (e.g. the file doesn't exit, you can't read the file, you can't open that format ....)
+Before you open the file you have to check all these possibilities (*LBYL* - Look Before You Leep )
+or you can use EAFP
 
 
 
