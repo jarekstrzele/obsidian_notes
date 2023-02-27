@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "11 Exceptions",
+      "path": "P Y T H O N/OOP Python udemy/11 Exceptions.md"
+    },
+    {
       "basename": "9 QtDesigner",
       "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "biblioteka moment-react",
       "path": "REACT NATIVE/_ Proste aplikacje/biblioteka moment-react.md"
-    },
-    {
-      "basename": "ClockApp",
-      "path": "REACT NATIVE/_ Proste aplikacje/ClockApp.md"
     }
   ],
   "omittedPaths": [],

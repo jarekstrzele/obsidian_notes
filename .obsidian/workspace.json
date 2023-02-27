@@ -52,9 +52,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "96474063b3362ce4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "P Y T H O N/OOP Python udemy/11 Exceptions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -128,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
+                "file": "P Y T H O N/OOP Python udemy/11 Exceptions.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -145,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
+                "file": "P Y T H O N/OOP Python udemy/11 Exceptions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md"
+                "file": "P Y T H O N/OOP Python udemy/11 Exceptions.md"
               }
             }
           },
@@ -208,14 +220,15 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "502f5f8a14fd8a63",
+  "active": "96474063b3362ce4",
   "lastOpenFiles": [
+    "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
+    "P Y T H O N/OOP Python udemy/11 Exceptions.md",
     "Excalidraw/model-view-controller.excalidraw.md",
     "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/8.2 Style for all app QStyleFactory.md",
     "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.7 QWebEngineView.md",
     "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.8 QTableWidget.md",
     "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.6 QTextBrowser.md",
-    "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
     "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/8.1 Widget specific styling.md",
     "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/8 Qt Style Sheets.md",
     "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/6.1 Layouts Summary.md",
@@ -234,7 +247,6 @@
     "HASKELL/Happy Learn Haskell/8 Make Decisions.md",
     "HASKELL/Happy Learn Haskell/6 Sockets and Plugs.md",
     "HASKELL/Happy Learn Haskell/5 Function Magic.md",
-    "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
-    "algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md"
+    "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md"
   ]
 }
