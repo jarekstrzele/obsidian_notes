@@ -269,7 +269,13 @@ print("And now?")
 ```
 
 
-> SyntaxEr
+> SyntaxError interrupts the compilation to bytecode, before any exception handling coed is interpreted
+
+------------
+# Exception Hierarchy
+
+
+
 
 
 

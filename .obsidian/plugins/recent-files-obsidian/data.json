@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Python_Exception_Hierarchy.excalidraw",
+      "path": "Excalidraw/Python_Exception_Hierarchy.excalidraw.md"
+    },
+    {
       "basename": "11 Exceptions",
       "path": "P Y T H O N/OOP Python udemy/11 Exceptions.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_ Groupowanie danych SQLite",
       "path": "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/_ Groupowanie danych SQLite.md"
-    },
-    {
-      "basename": "biblioteka moment-react",
-      "path": "REACT NATIVE/_ Proste aplikacje/biblioteka moment-react.md"
     }
   ],
   "omittedPaths": [],
