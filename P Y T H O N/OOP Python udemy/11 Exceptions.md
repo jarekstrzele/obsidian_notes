@@ -18,10 +18,39 @@ użyj konstrukcji `try-eccept`
 
 # The Exception Object
 
+>[!info] exception
+>It is an object that stop and redirect control flow.
+>exception != error (an exception can indicate an error but doesn't have)
 
 
+example
+```python
+a + 4
+
+Traceback (most recent call last):
+File "<string>", line 1, in <module>
+NameError: name 'a' is not defined
+
+#####################
+'a' + 4
+
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+TypeError: can only concatenate str (not "int") to str
+```
+
+All exceptions are subclasses of `BaseException()`
+```bash
+>>> issubclass(TypeError, BaseException)
+True
+>>> issubclass(NameError, BaseException)
+True
+
+>>> TypeError.__mro__
+(<class 'TypeError'>, <class 'Exception'>, <class 'BaseException'>, <class 'object'>)
+```
 
 
-
+An example of an exception that is not an error:
 
 
