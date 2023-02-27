@@ -78,21 +78,67 @@ try:
     1/0
 except ZeroDivisionError:
     print("You can't divide by zero.")
-
+print("And now?")
 # You can't divide by zero.
+# And now?
+```
+
+```python
+1/0
+
+print("And now?")
+
+Traceback (most recent call last):
+File "<string>", line 1, in <module>
+ZeroDivisionError: division by zero
 ```
 
 
+### when you don't handle an exception:
+```python
+try:
+    a + 10
+except ZeroDivisionError:
+    print("Somehting wrong")
+print("And now?")
+
+Traceback (most recent call last):
+  File "<string>", line 2, in <module>
+NameError: name 'a' is not defined
+```
+
+better (generic way - handle all exception):
+```python
+try:
+    a + 10
+except:
+    print("Somehting wrong")
+print("And now?")
+
+# Somehting wrong
+# And now?
+```
+
+better:
+```python
+try:
+    a + 10
+except NameError:
+    print("Somehting wrong")
+print("And now?")
+
+# Somehting wrong
+# And now?
+```
 
 
+----------
+# Raising
 
+```python
+raise NameError
 
-
-
-
-
-
-
+```
 
 
 
