@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
+                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/8.2 Style for all app QStyleFactory.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "5d549405feaa2c9f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-02-27 14.07.07.excalidraw.md"
               }
             }
           },
@@ -31,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5
+    "width": 393.5
   },
   "right": {
     "id": "ec7d1a70da2de581",
@@ -105,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
+                "file": "Excalidraw/Drawing 2023-02-27 14.07.07.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -122,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
+                "file": "Excalidraw/Drawing 2023-02-27 14.07.07.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md"
+                "file": "Excalidraw/Drawing 2023-02-27 14.07.07.excalidraw.md"
               }
             }
           },
@@ -185,10 +196,17 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "0710766a42480cea",
+  "active": "5d549405feaa2c9f",
   "lastOpenFiles": [
-    "REACT/React - the Complete Guide/14 Connecting to a Database.md",
+    "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.8 QTableWidget.md",
+    "Excalidraw/Drawing 2023-02-27 14.07.07.excalidraw.md",
+    "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/8.2 Style for all app QStyleFactory.md",
+    "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/8.1 Widget specific styling.md",
+    "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/8 Qt Style Sheets.md",
+    "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/6.1 Layouts Summary.md",
+    "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md",
     "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
+    "REACT/React - the Complete Guide/14 Connecting to a Database.md",
     "HASKELL/for_great_good/5 Higher order functions.md",
     "predicate.md",
     "HASKELL/Happy Learn Haskell/_ 0 Happy Learn Haskell.md",
@@ -205,13 +223,6 @@
     "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
     "algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md",
     "algorithmic/Grafy.md",
-    "REACT/DB/Postgres.md",
-    "REACT/DB/axios.md",
-    "REACT/DB/Fetch.md",
-    "REACT/React - the Complete Guide/9. Fragments, Portal, refs.md",
-    "REACT/React - the Complete Guide/8 Login Project.md",
-    "HASKELL/web/Yesod/0 _ Haskell and Yesod.md",
-    "REACT NATIVE/React Native Practical Guide/6 Navigation/2. Route parameters.md",
-    "HASKELL/Haskell for Imperative Programmers/1 Functions.md"
+    "REACT/DB/Postgres.md"
   ]
 }

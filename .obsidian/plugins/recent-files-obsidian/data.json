@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "Drawing 2023-02-27 14.07.07.excalidraw",
+      "path": "Excalidraw/Drawing 2023-02-27 14.07.07.excalidraw.md"
+    },
+    {
+      "basename": "7.8 QTableWidget",
+      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.8 QTableWidget.md"
+    },
+    {
+      "basename": "8.2 Style for all app QStyleFactory",
+      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/8.2 Style for all app QStyleFactory.md"
+    },
+    {
+      "basename": "8.1 Widget specific styling",
+      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/8.1 Widget specific styling.md"
+    },
+    {
+      "basename": "8 Qt Style Sheets",
+      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/8 Qt Style Sheets.md"
+    },
+    {
+      "basename": "6.1 Layouts Summary",
+      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/6.1 Layouts Summary.md"
+    },
+    {
+      "basename": "6 Using Qt Layouts to simplify your designs",
+      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md"
+    },
+    {
       "basename": "9 QtDesigner",
       "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md"
     },
@@ -171,34 +199,6 @@
     {
       "basename": "4 Styling ScreenHeader and Background",
       "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/4 Styling ScreenHeader and Background.md"
-    },
-    {
-      "basename": "UBUNTU",
-      "path": "linux/UBUNTU.md"
-    },
-    {
-      "basename": "Shell 18 commands that will change the way you use linux forever",
-      "path": "linux/Shell 18 commands that will change the way you use linux forever.md"
-    },
-    {
-      "basename": "_ 0 React Native - Practical Guide",
-      "path": "REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md"
-    },
-    {
-      "basename": "1 React Native Basics",
-      "path": "REACT NATIVE/React Native Practical Guide/1 React Native Basics.md"
-    },
-    {
-      "basename": "_ 0 React Native Navigation",
-      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/_ 0 React Native Navigation.md"
-    },
-    {
-      "basename": "5 GUI PyQt6",
-      "path": "P Y T H O N/Learn Python (Basic, BUI, Web, FullStack)/5 GUI PyQt6.md"
-    },
-    {
-      "basename": "useNavigation Hook",
-      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/useNavigation Hook.md"
     }
   ],
   "omittedPaths": [],
