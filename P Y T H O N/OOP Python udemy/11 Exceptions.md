@@ -191,11 +191,50 @@ except ValueError as err:
 
 ------------
 # EAFP
-# **E**asier to **A**sk for **F**orgiveness then **P**ermission
+# **E**asier to **A**sk for **F**orgiveness then **P**ermission - coding style
 
 You want to open an file. A lot fo errors can be happened (e.g. the file doesn't exit, you can't read the file, you can't open that format ....)
-Before you open the file you have to check all these possibilities (*LBYL* - Look Before You Leep )
+Before you open the file you have to check all these possibilities this is other coding styl ==(*LBYL* - Look Before You Leep )==
 or you can use EAFP
+
+```python
+
+try:
+    my_file = open("hello_world.txt", "r")
+    text = my_file.read()
+    my_file.close()
+    
+    print(text)
+except:
+    print("File could not be read")
+
+File could not be read
+```
+
+
+-----------
+# `SyntaxError`
+Syntaxerror can't be catched!!!!!!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
