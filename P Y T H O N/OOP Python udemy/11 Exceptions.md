@@ -51,6 +51,42 @@ True
 ```
 
 
-An example of an exception that is not an error:
+An example of ==an exception that is not an error==:
+```python
+>>> my_iter = iter(list(range(5)))     
+>>> for i in range(10):                
+...  print(next(my_iter))
+... 
+0
+1
+2
+3
+4
+Traceback (most recent call last):
+  File "<stdin>", line 2, in <module>
+StopIteration
+```
+
+
+
+### `SyntaxErrors are pure errors`
+
+--------------
+# Handling
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
