@@ -365,13 +365,9 @@ else:
 
 # Finally
 The block that alway will be run.
-
-
-
-
-
- 
-
+Some times it is nessasery to execute a piece of code
+- the finally  clause defines blocks of code that execute uder all circumstances
+- this makes finally ideal for clean up operations that absolutely need to execute
 
 
 
