@@ -57,9 +57,11 @@
             "id": "96474063b3362ce4",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Python_Exception_Hierarchy.excalidraw.md"
+                "file": "P Y T H O N/OOP Python udemy/11 Exceptions.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -138,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Python_Exception_Hierarchy.excalidraw.md",
+                "file": "P Y T H O N/OOP Python udemy/11 Exceptions.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -155,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Python_Exception_Hierarchy.excalidraw.md",
+                "file": "P Y T H O N/OOP Python udemy/11 Exceptions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Python_Exception_Hierarchy.excalidraw.md"
+                "file": "P Y T H O N/OOP Python udemy/11 Exceptions.md"
               }
             }
           },
@@ -220,8 +222,8 @@
   },
   "active": "96474063b3362ce4",
   "lastOpenFiles": [
-    "P Y T H O N/OOP Python udemy/11 Exceptions.md",
     "Excalidraw/Python_Exception_Hierarchy.excalidraw.md",
+    "P Y T H O N/OOP Python udemy/11 Exceptions.md",
     "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
     "Excalidraw/model-view-controller.excalidraw.md",
     "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/8.2 Style for all app QStyleFactory.md",

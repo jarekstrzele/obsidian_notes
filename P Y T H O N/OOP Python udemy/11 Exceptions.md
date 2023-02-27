@@ -274,13 +274,34 @@ print("And now?")
 ------------
 # Exception Hierarchy
 
+![[Python_Exception_Hierarchy.excalidraw | 700]]
 
+Almost all exceptions inherit from `Exception` (e.g. Exception -> ArithmeticError-> ZeroDivisionError )
+```python
+print(ZeroDivisionError.__mro__)
 
+(<class 'ZeroDivisionError'>, <class 'ArithmeticError'>, <class 'Exception'>, <class 'BaseException'>, <class 'object'>)
+```
 
+HANDLING THE PARENT CLASS WILL EFFECTIVELY HANDLE ALL INSTANCES OF THE RELATED SUBCLASSES
+```python
+try:
+    1/0
+except ZeroDivisionError:
+    print("Catched error")
 
+# Catched error
 
+```
 
+```python
+try:
+    1/0
+except ArithmeticError:
+    print("Catched error")
 
+# Catched error
+```
 
 
 
