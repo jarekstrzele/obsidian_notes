@@ -73,7 +73,14 @@ StopIteration
 
 --------------
 # Handling
+```python
+try:
+    1/0
+except ZeroDivisionError:
+    print("You can't divide by zero.")
 
+# You can't divide by zero.
+```
 
 
 
