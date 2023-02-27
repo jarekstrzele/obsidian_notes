@@ -303,10 +303,31 @@ except ArithmeticError:
 # Catched error
 ```
 
+Severals `except` more specific first, more general later
+```python
+try:
+    1/0
+except ZeroDivisionError:
+    print("Can't divide by zero ")
+except ArithmeticError:
+    print("Some Arithmetic error")
 
+# Can't divide by zero 
+```
 
+```python
+try:
+    1/0
+except ArithmeticError:
+    print("Some Arithmetic error")
+except ZeroDivisionError:
+     print("Can't divide by zero ")
 
+# Some Arithmetic error
+```
 
+-----------
+#
 
 
 
