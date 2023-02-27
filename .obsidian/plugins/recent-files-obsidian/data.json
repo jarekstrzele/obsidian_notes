@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Drawing 2023-02-27 14.07.07.excalidraw",
-      "path": "Excalidraw/Drawing 2023-02-27 14.07.07.excalidraw.md"
-    },
-    {
       "basename": "7.8 QTableWidget",
       "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.8 QTableWidget.md"
+    },
+    {
+      "basename": "model-view-controller.excalidraw",
+      "path": "Excalidraw/model-view-controller.excalidraw.md"
+    },
+    {
+      "basename": "7.7 QWebEngineView",
+      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.7 QWebEngineView.md"
+    },
+    {
+      "basename": "7.6 QTextBrowser",
+      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.6 QTextBrowser.md"
+    },
+    {
+      "basename": "9 QtDesigner",
+      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md"
     },
     {
       "basename": "8.2 Style for all app QStyleFactory",
@@ -27,10 +39,6 @@
     {
       "basename": "6 Using Qt Layouts to simplify your designs",
       "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md"
-    },
-    {
-      "basename": "9 QtDesigner",
-      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md"
     },
     {
       "basename": "14 Connecting to a Database",
@@ -191,14 +199,6 @@
     {
       "basename": "ClockApp",
       "path": "REACT NATIVE/_ Proste aplikacje/ClockApp.md"
-    },
-    {
-      "basename": "1 Add action to React Navigator",
-      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/1 Add action to React Navigator.md"
-    },
-    {
-      "basename": "4 Styling ScreenHeader and Background",
-      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/4 Styling ScreenHeader and Background.md"
     }
   ],
   "omittedPaths": [],
