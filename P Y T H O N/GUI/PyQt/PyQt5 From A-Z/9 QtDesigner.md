@@ -60,9 +60,9 @@ When you install `pyqt5`, you also install `pyuic5`
 # Decouping the user Interface from other code
 
 ## FIRST METHOD
-- trun `ui` file into non-executable module that can be imported to your primary ptyhon program
-	- doesn't need to be compule at run time
-	- have to recompile puyuic after every change
+- trun `ui` file into non-executable module that can be imported to your primary python program
+	- doesn't need to be compile at run time
+	- have to recompile pyuic after every change
 ```python
 from ui_modules.Gbx_demo_ui import *
 
