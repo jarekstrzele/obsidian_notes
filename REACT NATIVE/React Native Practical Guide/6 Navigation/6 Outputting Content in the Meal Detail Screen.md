@@ -126,7 +126,95 @@ const styles = StyleSheet.create({
 ```
 
 
+MEALDETAILSCEEN.jsx
+```jsx
+import {View, Text, Image, StyleSheet} from 'react-native';
+import MealDetails from '../components/MealDetails';
+import { MEALS } from '../data/dummy-data';
 
+const MealDetailScreen = (props) => {
+    const mealId =props.route.params.mealId;
+    const selectedMeal = MEALS.find((meal)=>meal.id === mealId);
+    return(
+    <View style={styles.mainView}>
+        <Image source={ {uri: selectedMeal.imageUrl}} style={ styles.image}  />
+        <Text style={styles.title}> {selectedMeal.title} </Text>
+        <MealDetails duration={selectedMeal.duration}
+                     complexity={selectedMeal.complexity}
+                     affordability={selectedMeal.affordability}
+                     textStyle={styles.detailText}
+        />
+
+        <View style={styles.subtitleContainer}>
+            <Text style={styles.subtitle}>Ingredients</Text>
+        </View>
+                {selectedMeal.ingredients.map((ingredient) => (<Text key={ingredient}> {ingredient} </Text>))}
+        <View style={styles.subtitleContainer}>
+            <Text  style={styles.subtitle}>Setps</Text>
+        </View>
+            {selectedMeal.steps.map((step) => (<Text key={step}> {step} </Text>))}
+    </View>
+    );
+}
+
+
+export default MealDetailScreen;
+
+const styles = StyleSheet.create({
+    mainView:{
+          backgroundColor: '#880e4f'
+    },
+    image: {        
+        width: '100%',
+        height: 350,
+        marginVertical:10,
+        marginHorizontal: 10,
+        borderRadius: 10,
+     },
+    title: {
+     fontWeight: 'bold',
+     fontSize: 24,
+     margin: 8,
+     textAlign: 'center',
+     color: '#ffebee',
+    },
+
+    detailText: {
+
+        color: 'white'
+
+    },
+
+    subtitle: {
+
+        color: '#ffebee',
+
+        fontSize: 18,
+
+        fontWeight: 'bold',
+
+        textAlign: 'center',
+
+    },
+
+    subtitleContainer:{
+
+        borderBottomColor: 'white',
+
+        borderBottomWidth: 2,
+
+        padding: 6,
+
+        marginHorizontal: 20,
+
+        marginBottom: 10
+
+    }
+
+  
+
+})
+```
 
 
 
