@@ -386,18 +386,42 @@ finally:
 import json
 
 def json_decode(payload):
-  decoded = None
+    decode=None
+    
+    try:
+        decode = json.loads(payload)
+    except json.JSONDecodeError:
+        print("Invalide payload")
+        return
+    finally:
+        print("Decoding attempt complete")
+    
+    return decode
 
-  try:
-    decoded = json.loads(payload)
-  except json.JSONDecodeError:
-    print("THe payload is invalid")
-    return
-  finreturn
+j_correct = '{"name": "Joe"}'
+j_incorrect = '{"name":}'
+
+# json_decode(j_correct)
+json_decode(j_incorrect)
   
 
 
 ```
+
+
+-----------
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
