@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "11 Exceptions",
-      "path": "P Y T H O N/OOP Python udemy/11 Exceptions.md"
+      "basename": "4 Styling ScreenHeader and Background",
+      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/4 Styling ScreenHeader and Background.md"
     },
     {
-      "basename": "8.2 Style for all app QStyleFactory",
-      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/8.2 Style for all app QStyleFactory.md"
+      "basename": "3 Add new Component MealItem",
+      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/3 Add new Component MealItem.md"
+    },
+    {
+      "basename": "9 QtDesigner",
+      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md"
     },
     {
       "basename": "_ 0 PyQt5 code",
       "path": "P Y T H O N/GUI/PyQt/PyQt Codemy/_ 0 PyQt5 code.md"
     },
     {
-      "basename": "9 QtDesigner",
-      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md"
+      "basename": "11 Exceptions",
+      "path": "P Y T H O N/OOP Python udemy/11 Exceptions.md"
+    },
+    {
+      "basename": "8.2 Style for all app QStyleFactory",
+      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/8.2 Style for all app QStyleFactory.md"
     },
     {
       "basename": "Python_Exception_Hierarchy.excalidraw",
@@ -169,10 +177,6 @@
       "path": "REACT NATIVE/_ Proste aplikacje/biblioteka Moment Javascript.md"
     },
     {
-      "basename": "3 Add new Component MealItem",
-      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/3 Add new Component MealItem.md"
-    },
-    {
       "basename": "4 Recursion",
       "path": "HASKELL/for_great_good/4 Recursion.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "33 API Endpoints and API Parameters ISS Overhead Notifier",
       "path": "P Y T H O N/Master_Python_100/33 API Endpoints and API Parameters ISS Overhead Notifier.md"
-    },
-    {
-      "basename": "Klucz obcy",
-      "path": "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Klucz obcy.md"
     }
   ],
   "omittedPaths": [],

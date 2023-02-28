@@ -4,81 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c115458d0e8839db",
+        "id": "bca02dfab675938e",
         "type": "tabs",
         "children": [
           {
-            "id": "0710766a42480cea",
+            "id": "6f22b34c8feee3fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "P Y T H O N/OOP Python udemy/11 Exceptions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5d549405feaa2c9f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.7 QWebEngineView.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d314c9dbf01151b0",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/model-view-controller.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "502f5f8a14fd8a63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "08da68053ac0a214",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt Codemy/_ 0 PyQt5 code.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "96474063b3362ce4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
+                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/4 Styling ScreenHeader and Background.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -152,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "P Y T H O N/OOP Python udemy/11 Exceptions.md",
+                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/4 Styling ScreenHeader and Background.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -169,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "P Y T H O N/OOP Python udemy/11 Exceptions.md",
+                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/4 Styling ScreenHeader and Background.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "P Y T H O N/OOP Python udemy/11 Exceptions.md"
+                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/4 Styling ScreenHeader and Background.md"
               }
             }
           },
@@ -232,13 +173,15 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "0710766a42480cea",
+  "active": "6f22b34c8feee3fd",
   "lastOpenFiles": [
-    "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/8.2 Style for all app QStyleFactory.md",
-    "P Y T H O N/GUI/PyQt/PyQt Codemy/_ 0 PyQt5 code.md",
+    "REACT NATIVE/React Native Practical Guide/6 Navigation/3 Add new Component MealItem.md",
+    "REACT NATIVE/React Native Practical Guide/6 Navigation/4 Styling ScreenHeader and Background.md",
     "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
-    "P Y T H O N/GUI/PyQt/PyQt Codemy",
+    "P Y T H O N/GUI/PyQt/PyQt Codemy/_ 0 PyQt5 code.md",
     "P Y T H O N/OOP Python udemy/11 Exceptions.md",
+    "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/8.2 Style for all app QStyleFactory.md",
+    "P Y T H O N/GUI/PyQt/PyQt Codemy",
     "Excalidraw/Python_Exception_Hierarchy.excalidraw.md",
     "Excalidraw/model-view-controller.excalidraw.md",
     "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.7 QWebEngineView.md",
@@ -258,8 +201,6 @@
     "HASKELL/The Complete Haskell Course/3 Functions.md",
     "HASKELL/The Complete Haskell Course/2 Basic Types.md",
     "HASKELL/The Complete Haskell Course/_ 0 Complete Haskell Course.md",
-    "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/Data.List and operator `!!`.md",
-    "HASKELL/Happy Learn Haskell/8 Make Decisions.md",
-    "HASKELL/Happy Learn Haskell/6 Sockets and Plugs.md"
+    "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/Data.List and operator `!!`.md"
   ]
 }
