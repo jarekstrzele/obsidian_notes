@@ -29,6 +29,7 @@ register it in App.js:
 
 go to MealItem.jsx (of course you can make it in MealsOverviewScreen)
 bu the first one is not registered so someithing new you have to do
+
 ```jsx
 
 
