@@ -54,18 +54,6 @@
             }
           },
           {
-            "id": "96474063b3362ce4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "08da68053ac0a214",
             "type": "leaf",
             "state": {
@@ -76,8 +64,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "96474063b3362ce4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
