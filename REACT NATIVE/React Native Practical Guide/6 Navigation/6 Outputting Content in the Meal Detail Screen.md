@@ -94,7 +94,35 @@ function MealDetails(props){
 
 you have to add this special `text style` in the `MealFetailScreen`
 ```jsx
+       <MealDetails duration={selectedMeal.duration}
+                     complexity={selectedMeal.complexity}
+                     affordability={selectedMeal.affordability}
+                     textStyle={styles.detailText}
+//...
+  
 
+const styles = StyleSheet.create({
+    mainView:{
+        backgroundColor: '#880e4f'
+    },
+    image: {        
+        width: '100%',
+        height: 350,
+        marginVertical:10,
+        marginHorizontal: 10,
+        borderRadius: 10
+     },
+
+    title: {
+     fontWeight: 'bold',
+     fontSize: 24,
+     margin: 8,
+     textAlign: 'center',
+     color: '#ffebee',
+    },
+    detailText: {
+        color: 'white'
+    }
 ```
 
 
