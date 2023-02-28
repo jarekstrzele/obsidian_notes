@@ -76,7 +76,7 @@ export default function App() {
 ## Setting Navigation Options Dynamically
 App.jsx
 ```jsx
-//...
+//... each registered Screen has route, navigation
 <Stack.Screen 
   name="MealsOverview"
   component={MealsOverviewScreen}
@@ -88,11 +88,8 @@ App.jsx
             }
       }}
 />
-
         </Stack.Navigator>
-
       </NavigationContainer>
-
     </>
 ```
 
