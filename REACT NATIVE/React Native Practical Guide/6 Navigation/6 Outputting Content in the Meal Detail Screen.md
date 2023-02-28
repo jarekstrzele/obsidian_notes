@@ -78,6 +78,28 @@ return(
 export default MealDetailScreen;
 ```
 
+Cascading style by `[ ]` merging styles
+got o `MealDetails`
+```jsx
+function MealDetails(props){
+
+ return (
+   <View style={[ styles.details, props.style ]}>
+       <Text style={[ styles.detailItem, props.textStyle]}>{props.duration}  </Text>
+       <Text style={[ styles.detailItem, props.textStyle]}>{props.complexity.toUpperCase()}  </Text>
+       <Text style={[ styles.detailItem, props.textStyle]}>{props.affordability.toUpperCase()}  </Text>
+  </View>
+    )
+```
+
+you have to add this special `text style` in the `MealFetailScreen`
+```jsx
+
+```
+
+
+
+
 
 
 
