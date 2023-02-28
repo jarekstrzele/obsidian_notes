@@ -413,7 +413,30 @@ json_decode(j_incorrect)
 
 # Nesting and Bundling
 
+```python
+run = True
 
+while run:
+    try:
+        number = int(input("Podaj liczbę całkowitą: "))
+    except ValueError:
+        print("Nie wpisałeś liczby")
+        try:
+            answer = input("Czy chcesz wpisać liczbę (T / N): ").upper()
+            
+            if answer not in ('T', 'N'):
+                raise ValueError
+        except (ValueError, KeyboardInterrupt):
+            print("AŁA")
+            run = False
+            
+        else:
+            if answer == 'N':
+                run = False 
+    else:
+        print(f"wpisałeś liczbę {number}, która w systemie dwójowym jest {number: b}")
+    
+```
 
 
 
