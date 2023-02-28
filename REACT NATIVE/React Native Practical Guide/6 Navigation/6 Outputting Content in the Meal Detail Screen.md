@@ -207,7 +207,7 @@ const styles = StyleSheet.create({
 cut come code from MealDetailsSceen.jsx
 
 # `Subtitle.jsx`
-
+ 
 
 
 
