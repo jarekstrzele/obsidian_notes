@@ -163,3 +163,17 @@ Z drugiej strony, `useLayoutEffect` jest wywoływany synchronicznie zaraz po tym
 
 Podsumowując, `useEffect` jest wywoływany asynchronicznie, po zakończeniu aktualizacji widoku, a `useLayoutEffect` jest wywoływany synchronicznie, przed renderowaniem widoku. Wybór między nimi zależy od konkretnego przypadku użycia i celu, jaki chcesz osiągnąć.
 
+----------------
+
+
+
+
+
+
+
+
+
+
+
+
+
