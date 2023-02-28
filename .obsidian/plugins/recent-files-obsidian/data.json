@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "_ 0 PyQt5 code",
+      "path": "P Y T H O N/GUI/PyQt/PyQt Codemy/_ 0 PyQt5 code.md"
+    },
+    {
       "basename": "9 QtDesigner",
       "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Klucz obcy",
       "path": "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Klucz obcy.md"
-    },
-    {
-      "basename": "_ Groupowanie danych SQLite",
-      "path": "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/_ Groupowanie danych SQLite.md"
     }
   ],
   "omittedPaths": [],
