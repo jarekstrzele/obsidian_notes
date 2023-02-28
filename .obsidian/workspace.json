@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/8.2 Style for all app QStyleFactory.md",
+                "file": "P Y T H O N/OOP Python udemy/11 Exceptions.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -152,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt Codemy/_ 0 PyQt5 code.md",
+                "file": "P Y T H O N/OOP Python udemy/11 Exceptions.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -169,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt Codemy/_ 0 PyQt5 code.md",
+                "file": "P Y T H O N/OOP Python udemy/11 Exceptions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt Codemy/_ 0 PyQt5 code.md"
+                "file": "P Y T H O N/OOP Python udemy/11 Exceptions.md"
               }
             }
           },
@@ -232,15 +231,15 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "08da68053ac0a214",
+  "active": "0710766a42480cea",
   "lastOpenFiles": [
-    "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
+    "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/8.2 Style for all app QStyleFactory.md",
     "P Y T H O N/GUI/PyQt/PyQt Codemy/_ 0 PyQt5 code.md",
+    "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
     "P Y T H O N/GUI/PyQt/PyQt Codemy",
     "P Y T H O N/OOP Python udemy/11 Exceptions.md",
     "Excalidraw/Python_Exception_Hierarchy.excalidraw.md",
     "Excalidraw/model-view-controller.excalidraw.md",
-    "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/8.2 Style for all app QStyleFactory.md",
     "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.7 QWebEngineView.md",
     "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.8 QTableWidget.md",
     "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.6 QTextBrowser.md",
