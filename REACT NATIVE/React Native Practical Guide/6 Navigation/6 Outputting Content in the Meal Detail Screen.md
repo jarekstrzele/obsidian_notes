@@ -180,43 +180,40 @@ const styles = StyleSheet.create({
     },
 
     detailText: {
-
         color: 'white'
-
     },
 
     subtitle: {
-
         color: '#ffebee',
-
         fontSize: 18,
-
         fontWeight: 'bold',
-
         textAlign: 'center',
-
     },
 
     subtitleContainer:{
-
         borderBottomColor: 'white',
-
         borderBottomWidth: 2,
-
         padding: 6,
-
         marginHorizontal: 20,
-
         marginBottom: 10
-
     }
-
-  
 
 })
 ```
 
 
+-------
+#  new components
+cut come code from MealDetailsSceen.jsx
+
+# `Subtitle.jsx`
+
+
+
+
+
+
+# `List.jsx`
 
 
 
