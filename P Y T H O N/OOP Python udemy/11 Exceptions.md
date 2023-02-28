@@ -370,4 +370,34 @@ Some times it is nessasery to execute a piece of code
 - this makes finally ideal for clean up operations that absolutely need to execute
 
 
+```python
+try:
+    1/0
+    # 1/10
+except:
+    print("You try to divide by zero")
+finally:
+    print("Always in terminal")
+
+```
+
+
+```python
+import json
+
+def json_decode(payload):
+  decoded = None
+
+  try:
+    decoded = json.loads(payload)
+  except json.JSONDecodeError:
+    print("THe payload is invalid")
+    return
+  finreturn
+  
+
+
+```
+
+
 
