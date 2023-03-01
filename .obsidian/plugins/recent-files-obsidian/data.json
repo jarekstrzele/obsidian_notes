@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "4 Higher Order Functions",
-      "path": "HASKELL/Haskell for Imperative Programmers/4 Higher Order Functions.md"
+      "basename": "5 Partial Function Application and Currying",
+      "path": "HASKELL/Haskell for Imperative Programmers/5 Partial Function Application and Currying.md"
     },
     {
       "basename": "_ 0 Haskell for Imperative Programmers",
       "path": "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md"
+    },
+    {
+      "basename": "4 Higher Order Functions",
+      "path": "HASKELL/Haskell for Imperative Programmers/4 Higher Order Functions.md"
     },
     {
       "basename": "3 Lists and Tuples",
@@ -195,10 +199,6 @@
     {
       "basename": "2 Basic Types",
       "path": "HASKELL/The Complete Haskell Course/2 Basic Types.md"
-    },
-    {
-      "basename": "_ 0 Complete Haskell Course",
-      "path": "HASKELL/The Complete Haskell Course/_ 0 Complete Haskell Course.md"
     }
   ],
   "omittedPaths": [],

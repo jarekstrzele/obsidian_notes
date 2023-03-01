@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HASKELL/Haskell for Imperative Programmers/4 Higher Order Functions.md",
+                "file": "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6a6e6929565c0330",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HASKELL/Haskell for Imperative Programmers/5 Partial Function Application and Currying.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -114,7 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5
+    "width": 200
   },
   "right": {
     "id": "ec7d1a70da2de581",
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/Haskell for Imperative Programmers/4 Higher Order Functions.md",
+                "file": "HASKELL/Haskell for Imperative Programmers/5 Partial Function Application and Currying.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -147,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/Haskell for Imperative Programmers/4 Higher Order Functions.md",
+                "file": "HASKELL/Haskell for Imperative Programmers/5 Partial Function Application and Currying.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/Haskell for Imperative Programmers/4 Higher Order Functions.md"
+                "file": "HASKELL/Haskell for Imperative Programmers/5 Partial Function Application and Currying.md"
               }
             }
           },
@@ -210,9 +222,10 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "3ce93ba5f323bf78",
+  "active": "6a6e6929565c0330",
   "lastOpenFiles": [
     "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md",
+    "HASKELL/Haskell for Imperative Programmers/5 Partial Function Application and Currying.md",
     "HASKELL/Haskell for Imperative Programmers/4 Higher Order Functions.md",
     "HASKELL/Haskell for Imperative Programmers/3 Lists and Tuples.md",
     "HASKELL/Haskell for Imperative Programmers/2 Recursion, Guards, Patterns.md",
@@ -237,7 +250,6 @@
     "REACT NATIVE/React Native Practical Guide/6 Navigation/3 Add new Component MealItem.md",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/2. Route parameters.md",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/6 Outputting Content in the Meal Detail Screen.md",
-    "REACT NATIVE/React Native Practical Guide/6 Navigation/5 Adding and Configuring the Meal Details Screen.md",
     "P Y T H O N/GUI/PyQt/PyQt Codemy"
   ]
 }
