@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "4 Styling ScreenHeader and Background",
+      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/4 Styling ScreenHeader and Background.md"
+    },
+    {
+      "basename": "5 Adding and Configuring the Meal Details Screen",
+      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/5 Adding and Configuring the Meal Details Screen.md"
+    },
+    {
+      "basename": "_ 0 Git Helion VideoPoint",
+      "path": "Git/Helion Git/_ 0 Git Helion VideoPoint.md"
+    },
+    {
+      "basename": "7 Git TAG",
+      "path": "Git/Helion Git/7 Git TAG.md"
+    },
+    {
+      "basename": "5 Git Remote",
+      "path": "Git/Helion Git/5 Git Remote.md"
+    },
+    {
+      "basename": "3 Gałęzie",
+      "path": "Git/Helion Git/3 Gałęzie.md"
+    },
+    {
+      "basename": "2 Podstawowe komendy",
+      "path": "Git/Helion Git/2 Podstawowe komendy.md"
+    },
+    {
       "basename": "7.8 QTableWidget",
       "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.8 QTableWidget.md"
     },
@@ -133,16 +161,8 @@
       "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/6 Outputting Content in the Meal Detail Screen.md"
     },
     {
-      "basename": "5 Adding and Configuring the Meal Details Screen",
-      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/5 Adding and Configuring the Meal Details Screen.md"
-    },
-    {
       "basename": "_ 0 React Native Navigation",
       "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/_ 0 React Native Navigation.md"
-    },
-    {
-      "basename": "4 Styling ScreenHeader and Background",
-      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/4 Styling ScreenHeader and Background.md"
     },
     {
       "basename": "11 Exceptions",
@@ -179,26 +199,6 @@
     {
       "basename": "14 Connecting to a Database",
       "path": "REACT/React - the Complete Guide/14 Connecting to a Database.md"
-    },
-    {
-      "basename": "predicate",
-      "path": "predicate.md"
-    },
-    {
-      "basename": "_ 0 Happy Learn Haskell",
-      "path": "HASKELL/Happy Learn Haskell/_ 0 Happy Learn Haskell.md"
-    },
-    {
-      "basename": "11 Binary trees",
-      "path": "HASKELL/The Complete Haskell Course/11 Binary trees.md"
-    },
-    {
-      "basename": "10 Inifite Lists Problems",
-      "path": "HASKELL/The Complete Haskell Course/10 Inifite Lists Problems.md"
-    },
-    {
-      "basename": "8 Higher Order Functions",
-      "path": "HASKELL/The Complete Haskell Course/8 Higher Order Functions.md"
     }
   ],
   "omittedPaths": [],

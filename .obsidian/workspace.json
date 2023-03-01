@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.8 QTableWidget.md",
+                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/4 Styling ScreenHeader and Background.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.8 QTableWidget.md",
+                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/4 Styling ScreenHeader and Background.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.8 QTableWidget.md",
+                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/4 Styling ScreenHeader and Background.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.8 QTableWidget.md"
+                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/4 Styling ScreenHeader and Background.md"
               }
             }
           },
@@ -236,9 +236,15 @@
   },
   "active": "faa5b574c78ad2b0",
   "lastOpenFiles": [
+    "REACT NATIVE/React Native Practical Guide/6 Navigation/5 Adding and Configuring the Meal Details Screen.md",
+    "Git/Helion Git/_ 0 Git Helion VideoPoint.md",
+    "Git/Helion Git/7 Git TAG.md",
+    "Git/Helion Git/5 Git Remote.md",
+    "Git/Helion Git/3 Gałęzie.md",
+    "Git/Helion Git/2 Podstawowe komendy.md",
+    "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.8 QTableWidget.md",
     "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
     "P Y T H O N/GUI/PyQt/PyQt Codemy/_ 0 PyQt5 code.md",
-    "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.8 QTableWidget.md",
     "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.7 QWebEngineView.md",
     "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.6 QTextBrowser.md",
     "JSON.md",
@@ -256,12 +262,6 @@
     "FullStack/Full Stack Web Development  Bootcamp/_ 0 Full stack Web Dev Bootcamp.md",
     "HASKELL/for_great_good/5 Higher order functions.md",
     "Data Bases/SQL/SQL Bootcamp SQLite/Wyzwalacze.md",
-    "Data Bases/SQL/SQL Bootcamp SQLite/Widoki SQLite.md",
-    "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/SELF JOIN SQLite.md",
-    "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/Podzapytania SQLite.md",
-    "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/Podsumowanie SQLite.md",
-    "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/INNER JOIN SQLite.md",
-    "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/_ Łączenie tabel SQLite.md",
     "P Y T H O N/GUI/PyQt/PyQt Codemy"
   ]
 }
