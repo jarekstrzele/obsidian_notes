@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JSON.md",
+                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.8 QTableWidget.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 339.5
   },
   "right": {
     "id": "ec7d1a70da2de581",
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JSON.md",
+                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.8 QTableWidget.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JSON.md",
+                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.8 QTableWidget.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JSON.md"
+                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.8 QTableWidget.md"
               }
             }
           },
@@ -236,6 +236,10 @@
   },
   "active": "faa5b574c78ad2b0",
   "lastOpenFiles": [
+    "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.7 QWebEngineView.md",
+    "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.6 QTextBrowser.md",
+    "P Y T H O N/GUI/PyQt/PyQt Codemy/_ 0 PyQt5 code.md",
+    "JSON.md",
     "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md",
     "HASKELL/Haskell for Imperative Programmers/6 Composition.md",
     "HASKELL/Haskell for Imperative Programmers/5 Partial Function Application and Currying.md",
@@ -258,10 +262,6 @@
     "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/_ Łączenie tabel SQLite.md",
     "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/CROSS JOIN.md",
     "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Relacje.md",
-    "Data Bases/My SQL.md",
-    "Data Bases/databases with docker.md",
-    "REACT NATIVE/React Native Practical Guide/6 Navigation/3 Add new Component MealItem.md",
-    "REACT NATIVE/React Native Practical Guide/6 Navigation/2. Route parameters.md",
     "P Y T H O N/GUI/PyQt/PyQt Codemy"
   ]
 }
