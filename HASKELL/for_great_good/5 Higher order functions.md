@@ -70,7 +70,9 @@ calling `divideByTen 200` is equivalent to doing `200/10`, as is doing `(/10) 20
 
 ------
 # ## Some higher-orderism is in order
+>
 > functions can take functions as parameters and also return functions
+> 
 
 ```haskell
 applyTwice :: (a->a) -> a -> a

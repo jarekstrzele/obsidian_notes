@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/3 Add new Component MealItem.md",
+                "file": "HASKELL/for_great_good/5 Higher order functions.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/3 Add new Component MealItem.md",
+                "file": "HASKELL/for_great_good/5 Higher order functions.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/3 Add new Component MealItem.md",
+                "file": "HASKELL/for_great_good/5 Higher order functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/3 Add new Component MealItem.md"
+                "file": "HASKELL/for_great_good/5 Higher order functions.md"
               }
             }
           },
@@ -200,8 +200,19 @@
   },
   "active": "068d36bc518f2de2",
   "lastOpenFiles": [
-    "REACT NATIVE/React Native Practical Guide/6 Navigation/2. Route parameters.md",
+    "Data Bases/SQL/SQL Bootcamp SQLite/Wyzwalacze.md",
+    "Data Bases/SQL/SQL Bootcamp SQLite/Widoki SQLite.md",
+    "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/SELF JOIN SQLite.md",
+    "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/Podzapytania SQLite.md",
+    "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/Podsumowanie SQLite.md",
+    "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/INNER JOIN SQLite.md",
+    "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/_ Łączenie tabel SQLite.md",
+    "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/CROSS JOIN.md",
+    "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Relacje.md",
+    "Data Bases/My SQL.md",
+    "Data Bases/databases with docker.md",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/3 Add new Component MealItem.md",
+    "REACT NATIVE/React Native Practical Guide/6 Navigation/2. Route parameters.md",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/6 Outputting Content in the Meal Detail Screen.md",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/5 Adding and Configuring the Meal Details Screen.md",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/_ 0 React Native Navigation.md",
@@ -215,17 +226,6 @@
     "Excalidraw/model-view-controller.excalidraw.md",
     "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.7 QWebEngineView.md",
     "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.8 QTableWidget.md",
-    "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.6 QTextBrowser.md",
-    "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/8.1 Widget specific styling.md",
-    "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/8 Qt Style Sheets.md",
-    "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/6.1 Layouts Summary.md",
-    "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md",
-    "REACT/React - the Complete Guide/14 Connecting to a Database.md",
-    "HASKELL/for_great_good/5 Higher order functions.md",
-    "predicate.md",
-    "HASKELL/Happy Learn Haskell/_ 0 Happy Learn Haskell.md",
-    "HASKELL/The Complete Haskell Course/11 Binary trees.md",
-    "HASKELL/The Complete Haskell Course/10 Inifite Lists Problems.md",
-    "HASKELL/The Complete Haskell Course/8 Higher Order Functions.md"
+    "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.6 QTextBrowser.md"
   ]
 }

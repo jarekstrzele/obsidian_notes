@@ -1,6 +1,54 @@
 {
   "recentFiles": [
     {
+      "basename": "5 Higher order functions",
+      "path": "HASKELL/for_great_good/5 Higher order functions.md"
+    },
+    {
+      "basename": "Wyzwalacze",
+      "path": "Data Bases/SQL/SQL Bootcamp SQLite/Wyzwalacze.md"
+    },
+    {
+      "basename": "Widoki SQLite",
+      "path": "Data Bases/SQL/SQL Bootcamp SQLite/Widoki SQLite.md"
+    },
+    {
+      "basename": "SELF JOIN SQLite",
+      "path": "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/SELF JOIN SQLite.md"
+    },
+    {
+      "basename": "Podzapytania SQLite",
+      "path": "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/Podzapytania SQLite.md"
+    },
+    {
+      "basename": "Podsumowanie SQLite",
+      "path": "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/Podsumowanie SQLite.md"
+    },
+    {
+      "basename": "INNER JOIN SQLite",
+      "path": "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/INNER JOIN SQLite.md"
+    },
+    {
+      "basename": "_ Łączenie tabel SQLite",
+      "path": "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/_ Łączenie tabel SQLite.md"
+    },
+    {
+      "basename": "CROSS JOIN",
+      "path": "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/CROSS JOIN.md"
+    },
+    {
+      "basename": "Relacje",
+      "path": "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Relacje.md"
+    },
+    {
+      "basename": "My SQL",
+      "path": "Data Bases/My SQL.md"
+    },
+    {
+      "basename": "databases with docker",
+      "path": "Data Bases/databases with docker.md"
+    },
+    {
       "basename": "3 Add new Component MealItem",
       "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/3 Add new Component MealItem.md"
     },
@@ -81,10 +129,6 @@
       "path": "REACT/React - the Complete Guide/14 Connecting to a Database.md"
     },
     {
-      "basename": "5 Higher order functions",
-      "path": "HASKELL/for_great_good/5 Higher order functions.md"
-    },
-    {
       "basename": "predicate",
       "path": "predicate.md"
     },
@@ -155,50 +199,6 @@
     {
       "basename": "Fetch",
       "path": "REACT/DB/Fetch.md"
-    },
-    {
-      "basename": "9. Fragments, Portal, refs",
-      "path": "REACT/React - the Complete Guide/9. Fragments, Portal, refs.md"
-    },
-    {
-      "basename": "8 Login Project",
-      "path": "REACT/React - the Complete Guide/8 Login Project.md"
-    },
-    {
-      "basename": "0 _ Haskell and Yesod",
-      "path": "HASKELL/web/Yesod/0 _ Haskell and Yesod.md"
-    },
-    {
-      "basename": "1 Functions",
-      "path": "HASKELL/Haskell for Imperative Programmers/1 Functions.md"
-    },
-    {
-      "basename": "3 Obiekty",
-      "path": "JAVASCRIPT/JS. Programowanie obiektowe/3 Obiekty.md"
-    },
-    {
-      "basename": "_ 0 Haskell for Imperative Programmers",
-      "path": "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md"
-    },
-    {
-      "basename": "Shell vs Terminal",
-      "path": "FullStack/Full Stack Web Development  Bootcamp/Appendixes/Shell vs Terminal.md"
-    },
-    {
-      "basename": "biblioteka Moment Javascript",
-      "path": "REACT NATIVE/_ Proste aplikacje/biblioteka Moment Javascript.md"
-    },
-    {
-      "basename": "4 Recursion",
-      "path": "HASKELL/for_great_good/4 Recursion.md"
-    },
-    {
-      "basename": "3.2 - Guards",
-      "path": "HASKELL/for_great_good/3.2 - Guards.md"
-    },
-    {
-      "basename": "3.1 - Pattern matching",
-      "path": "HASKELL/for_great_good/3.1 - Pattern matching.md"
     }
   ],
   "omittedPaths": [],
