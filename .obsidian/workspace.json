@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HASKELL/for_great_good/5 Higher order functions.md",
+                "file": "FullStack/Web Development 2023/_ 0 start.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/for_great_good/5 Higher order functions.md",
+                "file": "FullStack/Web Development 2023/_ 0 start.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/for_great_good/5 Higher order functions.md",
+                "file": "FullStack/Web Development 2023/_ 0 start.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/for_great_good/5 Higher order functions.md"
+                "file": "FullStack/Web Development 2023/_ 0 start.md"
               }
             }
           },
@@ -198,8 +198,14 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "068d36bc518f2de2",
+  "active": "f621f21825dbd82d",
   "lastOpenFiles": [
+    "FullStack/Web Development 2023/0 HTML.md",
+    "FullStack/Web Development 2023/0 CSS.md",
+    "FullStack/Web Development 2023/0 Bootstrap.md",
+    "FullStack/Web Development 2023/_ 0 start.md",
+    "FullStack/Full Stack Web Development  Bootcamp/_ 0 Full stack Web Dev Bootcamp.md",
+    "HASKELL/for_great_good/5 Higher order functions.md",
     "Data Bases/SQL/SQL Bootcamp SQLite/Wyzwalacze.md",
     "Data Bases/SQL/SQL Bootcamp SQLite/Widoki SQLite.md",
     "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/SELF JOIN SQLite.md",
@@ -220,12 +226,6 @@
     "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
     "P Y T H O N/GUI/PyQt/PyQt Codemy/_ 0 PyQt5 code.md",
     "P Y T H O N/OOP Python udemy/11 Exceptions.md",
-    "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/8.2 Style for all app QStyleFactory.md",
-    "P Y T H O N/GUI/PyQt/PyQt Codemy",
-    "Excalidraw/Python_Exception_Hierarchy.excalidraw.md",
-    "Excalidraw/model-view-controller.excalidraw.md",
-    "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.7 QWebEngineView.md",
-    "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.8 QTableWidget.md",
-    "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.6 QTextBrowser.md"
+    "P Y T H O N/GUI/PyQt/PyQt Codemy"
   ]
 }

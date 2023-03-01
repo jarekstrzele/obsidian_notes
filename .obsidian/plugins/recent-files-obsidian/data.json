@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "_ 0 start",
+      "path": "FullStack/Web Development 2023/_ 0 start.md"
+    },
+    {
+      "basename": "0 HTML",
+      "path": "FullStack/Web Development 2023/0 HTML.md"
+    },
+    {
+      "basename": "0 CSS",
+      "path": "FullStack/Web Development 2023/0 CSS.md"
+    },
+    {
+      "basename": "0 Bootstrap",
+      "path": "FullStack/Web Development 2023/0 Bootstrap.md"
+    },
+    {
+      "basename": "_ 0 Full stack Web Dev Bootcamp",
+      "path": "FullStack/Full Stack Web Development  Bootcamp/_ 0 Full stack Web Dev Bootcamp.md"
+    },
+    {
       "basename": "5 Higher order functions",
       "path": "HASKELL/for_great_good/5 Higher order functions.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "2 Właściwości grafów",
       "path": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md"
-    },
-    {
-      "basename": "3 - Algorytmy grafowe",
-      "path": "algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md"
-    },
-    {
-      "basename": "Grafy",
-      "path": "algorithmic/Grafy.md"
-    },
-    {
-      "basename": "Postgres",
-      "path": "REACT/DB/Postgres.md"
-    },
-    {
-      "basename": "axios",
-      "path": "REACT/DB/axios.md"
-    },
-    {
-      "basename": "Fetch",
-      "path": "REACT/DB/Fetch.md"
     }
   ],
   "omittedPaths": [],
