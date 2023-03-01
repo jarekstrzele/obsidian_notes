@@ -442,10 +442,31 @@ while run:
 ----------
 # Rolling our own
 
+```python
+raise "nie wyjątek"
+
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+TypeError: exceptions must derive from BaseException
+```
+
+
+```python
+class MyMainException(Exception):
+    pass
+
+print(MyMainException.__mro__)
+
+(<class '__main__.MyMainException'>, <class 'Exception'>, <class 'BaseException'>, <class 'object'>)
 
 
 
+class MyMoreSpecificExceptionClass(MyMainException):
+    pass
 
+
+(<class '__main__.MyMoreSpecificExceptionClass'>, <class '__main__.MyMainException'>, <class 'Exception'>, <class 'BaseException'>, <class 'object'>)
+```
 
 
 
