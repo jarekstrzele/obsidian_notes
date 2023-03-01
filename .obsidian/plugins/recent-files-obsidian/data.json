@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "JSON",
+      "path": "JSON.md"
+    },
+    {
       "basename": "_ 0 Haskell for Imperative Programmers",
       "path": "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "8 Higher Order Functions",
       "path": "HASKELL/The Complete Haskell Course/8 Higher Order Functions.md"
-    },
-    {
-      "basename": "3 Functions",
-      "path": "HASKELL/The Complete Haskell Course/3 Functions.md"
     }
   ],
   "omittedPaths": [],

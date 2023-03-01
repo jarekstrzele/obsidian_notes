@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md",
+                "file": "JSON.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md",
+                "file": "JSON.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md",
+                "file": "JSON.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md"
+                "file": "JSON.md"
               }
             }
           },
@@ -236,13 +236,13 @@
   },
   "active": "faa5b574c78ad2b0",
   "lastOpenFiles": [
+    "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md",
     "HASKELL/Haskell for Imperative Programmers/6 Composition.md",
     "HASKELL/Haskell for Imperative Programmers/5 Partial Function Application and Currying.md",
     "HASKELL/Haskell for Imperative Programmers/4 Higher Order Functions.md",
     "HASKELL/Haskell for Imperative Programmers/3 Lists and Tuples.md",
     "HASKELL/Haskell for Imperative Programmers/2 Recursion, Guards, Patterns.md",
     "HASKELL/Haskell for Imperative Programmers/1 Functions.md",
-    "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md",
     "FullStack/Web Development 2023/0 HTML.md",
     "FullStack/Web Development 2023/0 CSS.md",
     "FullStack/Web Development 2023/_ 0 start.md",
