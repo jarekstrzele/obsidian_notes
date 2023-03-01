@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "4 Higher Order Functions",
+      "path": "HASKELL/Haskell for Imperative Programmers/4 Higher Order Functions.md"
+    },
+    {
+      "basename": "_ 0 Haskell for Imperative Programmers",
+      "path": "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md"
+    },
+    {
+      "basename": "3 Lists and Tuples",
+      "path": "HASKELL/Haskell for Imperative Programmers/3 Lists and Tuples.md"
+    },
+    {
+      "basename": "2 Recursion, Guards, Patterns",
+      "path": "HASKELL/Haskell for Imperative Programmers/2 Recursion, Guards, Patterns.md"
+    },
+    {
+      "basename": "1 Functions",
+      "path": "HASKELL/Haskell for Imperative Programmers/1 Functions.md"
+    },
+    {
       "basename": "0 HTML",
       "path": "FullStack/Web Development 2023/0 HTML.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "_ 0 Complete Haskell Course",
       "path": "HASKELL/The Complete Haskell Course/_ 0 Complete Haskell Course.md"
-    },
-    {
-      "basename": "Data.List and operator `!!`",
-      "path": "HASKELL/Learning Path Haskell/2 Learning Haskell Programming/Data.List and operator `!!`.md"
-    },
-    {
-      "basename": "8 Make Decisions",
-      "path": "HASKELL/Happy Learn Haskell/8 Make Decisions.md"
-    },
-    {
-      "basename": "6 Sockets and Plugs",
-      "path": "HASKELL/Happy Learn Haskell/6 Sockets and Plugs.md"
-    },
-    {
-      "basename": "5 Function Magic",
-      "path": "HASKELL/Happy Learn Haskell/5 Function Magic.md"
-    },
-    {
-      "basename": "2 Właściwości grafów",
-      "path": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md"
     }
   ],
   "omittedPaths": [],
