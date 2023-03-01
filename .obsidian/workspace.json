@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "faa5b574c78ad2b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -142,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/Haskell for Imperative Programmers/5 Partial Function Application and Currying.md",
+                "file": "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -159,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/Haskell for Imperative Programmers/5 Partial Function Application and Currying.md",
+                "file": "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/Haskell for Imperative Programmers/5 Partial Function Application and Currying.md"
+                "file": "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md"
               }
             }
           },
@@ -222,14 +234,15 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "6a6e6929565c0330",
+  "active": "faa5b574c78ad2b0",
   "lastOpenFiles": [
-    "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md",
+    "HASKELL/Haskell for Imperative Programmers/6 Composition.md",
     "HASKELL/Haskell for Imperative Programmers/5 Partial Function Application and Currying.md",
     "HASKELL/Haskell for Imperative Programmers/4 Higher Order Functions.md",
     "HASKELL/Haskell for Imperative Programmers/3 Lists and Tuples.md",
     "HASKELL/Haskell for Imperative Programmers/2 Recursion, Guards, Patterns.md",
     "HASKELL/Haskell for Imperative Programmers/1 Functions.md",
+    "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md",
     "FullStack/Web Development 2023/0 HTML.md",
     "FullStack/Web Development 2023/0 CSS.md",
     "FullStack/Web Development 2023/_ 0 start.md",
@@ -249,7 +262,6 @@
     "Data Bases/databases with docker.md",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/3 Add new Component MealItem.md",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/2. Route parameters.md",
-    "REACT NATIVE/React Native Practical Guide/6 Navigation/6 Outputting Content in the Meal Detail Screen.md",
     "P Y T H O N/GUI/PyQt/PyQt Codemy"
   ]
 }
