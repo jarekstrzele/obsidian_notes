@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "14 Connecting to a Database",
+      "path": "REACT/React - the Complete Guide/14 Connecting to a Database.md"
+    },
+    {
+      "basename": "Fetch",
+      "path": "REACT/DB/Fetch.md"
+    },
+    {
       "basename": "6 Outputting Content in the Meal Detail Screen",
       "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/6 Outputting Content in the Meal Detail Screen.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "6.1 Layouts Summary",
       "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/6.1 Layouts Summary.md"
-    },
-    {
-      "basename": "6 Using Qt Layouts to simplify your designs",
-      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/6 Using Qt Layouts to simplify your designs.md"
-    },
-    {
-      "basename": "14 Connecting to a Database",
-      "path": "REACT/React - the Complete Guide/14 Connecting to a Database.md"
     }
   ],
   "omittedPaths": [],
