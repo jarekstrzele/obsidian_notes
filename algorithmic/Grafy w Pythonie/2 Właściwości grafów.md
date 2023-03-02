@@ -245,9 +245,29 @@ wyjazd = {
 
 status = {
     'paliwo': True,
-    'hamulce': True
+    'hamulce': True,
+    'jedzenie': True,
+    'ubrania': True,
+    'zdrowie': True,
+    'smartphone': False,
+    'power bank': True
 }
-print(wyjazd)
+
+def czy_wyjezdzamy(graf, status, start):
+    
+    if graf[start]:
+        for wiezcholek in graf[start]:
+            if not czy_wyjezdzamy(graf, status, wiezcholek):
+                print(f'{start} - False')
+                return False
+        print(f'{start} - True')
+        return True
+    else:
+        print(f'{start} {status[start]}')
+        return status[start]
+    
+
+czy_wyjezdzamy(wyjazd, status, 'ojciec')
 ```
 
 --------------------------------
