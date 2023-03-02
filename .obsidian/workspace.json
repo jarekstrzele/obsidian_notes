@@ -32,6 +32,16 @@
             }
           },
           {
+            "id": "d1e260784f837cbb",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
+          },
+          {
             "id": "356aa8308a546f87",
             "type": "leaf",
             "state": {
@@ -92,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -246,7 +256,7 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "08ee676953b6df30",
+  "active": "d1e260784f837cbb",
   "lastOpenFiles": [
     "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
     "P Y T H O N/Learn Python (Basic, BUI, Web, FullStack)/5.1 QtDesigner.md",
