@@ -221,7 +221,12 @@ for s in V.keys():
 -----------------
 # drzewa 
 >[!info] drzewo
->To graf acykliczny (brak pe)
+>To graf acykliczny (brak 'pętelek') połączony (od każdego węzła grafu przejdziesz do każdego innego węzła)
+
+
+
+
+
 
 
 --------------------------------

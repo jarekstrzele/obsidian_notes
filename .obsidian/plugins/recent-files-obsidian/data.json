@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Drawing 2023-03-02 19.41.16.excalidraw",
+      "path": "Excalidraw/Drawing 2023-03-02 19.41.16.excalidraw.md"
+    },
+    {
       "basename": "2 Właściwości grafów",
       "path": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2. Route parameters",
       "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/2. Route parameters.md"
-    },
-    {
-      "basename": "_ 0 React Native Navigation",
-      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/_ 0 React Native Navigation.md"
     }
   ],
   "omittedPaths": [],
