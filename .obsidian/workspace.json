@@ -23,9 +23,11 @@
             "id": "08ee676953b6df30",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-02 19.41.16.excalidraw.md"
+                "file": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -164,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-02 19.41.16.excalidraw.md",
+                "file": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -181,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-02 19.41.16.excalidraw.md",
+                "file": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-02 19.41.16.excalidraw.md"
+                "file": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md"
               }
             }
           },
@@ -246,8 +248,8 @@
   },
   "active": "08ee676953b6df30",
   "lastOpenFiles": [
+    "Excalidraw/graf-drzewo-wyjazd.excalidraw.md",
     "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
-    "Excalidraw/Drawing 2023-03-02 19.41.16.excalidraw.md",
     "algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md",
     "algorithmic/Grafy w Pythonie/4 drzewo binarnych wyszukiwań.md",
     "algorithmic/Grafy.md",

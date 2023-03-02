@@ -224,7 +224,7 @@ for s in V.keys():
 >To graf acykliczny (brak 'pętelek') połączony (od każdego węzła grafu przejdziesz do każdego innego węzła)
 
 
-
+![[graf-drzewo-wyjazd.excalidraw | 600]]
 
 
 
