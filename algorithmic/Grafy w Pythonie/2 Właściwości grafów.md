@@ -286,18 +286,3 @@ czy_wyjezdzamy(wyjazd, status, 'ojciec')
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
