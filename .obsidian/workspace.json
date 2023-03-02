@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Helion Git/_ 0 Git Helion VideoPoint.md",
+                "file": "Git/Helion Git/2 Podstawowe komendy.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -154,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Helion Git/_ 0 Git Helion VideoPoint.md",
+                "file": "Git/Helion Git/2 Podstawowe komendy.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -171,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Helion Git/_ 0 Git Helion VideoPoint.md",
+                "file": "Git/Helion Git/2 Podstawowe komendy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Helion Git/_ 0 Git Helion VideoPoint.md"
+                "file": "Git/Helion Git/2 Podstawowe komendy.md"
               }
             }
           },
@@ -234,8 +235,10 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "a71c2559057808d2",
+  "active": "aad6e2f11a660f1c",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Git/Helion Git/_ 0 Git Helion VideoPoint.md",
     "REACT/React - the Complete Guide/14 Connecting to a Database.md",
     "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/5 Adding and Configuring the Meal Details Screen.md",
@@ -244,7 +247,6 @@
     "algorithmic/Grafy w Pythonie/4 drzewo binarnych wyszukiwań.md",
     "algorithmic/Grafy.md",
     "Git/Helion Git/2 Podstawowe komendy.md",
-    "Git/Helion Git/_ 0 Git Helion VideoPoint.md",
     "P Y T H O N/OOP Python udemy/11 Exceptions.md",
     "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
     "P Y T H O N/Learn Python (Basic, BUI, Web, FullStack)/5.1 QtDesigner.md",
@@ -261,7 +263,6 @@
     "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.6 QTextBrowser.md",
     "JSON.md",
     "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md",
-    "HASKELL/Haskell for Imperative Programmers/6 Composition.md",
     "P Y T H O N/GUI/PyQt/PyQt Codemy"
   ]
 }

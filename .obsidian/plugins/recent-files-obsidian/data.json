@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2 Podstawowe komendy",
+      "path": "Git/Helion Git/2 Podstawowe komendy.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.canvas"
+    },
+    {
       "basename": "_ 0 Git Helion VideoPoint",
       "path": "Git/Helion Git/_ 0 Git Helion VideoPoint.md"
     },
@@ -31,10 +39,6 @@
     {
       "basename": "Grafy",
       "path": "algorithmic/Grafy.md"
-    },
-    {
-      "basename": "2 Podstawowe komendy",
-      "path": "Git/Helion Git/2 Podstawowe komendy.md"
     },
     {
       "basename": "11 Exceptions",
@@ -195,10 +199,6 @@
     {
       "basename": "3 Add new Component MealItem",
       "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/3 Add new Component MealItem.md"
-    },
-    {
-      "basename": "2. Route parameters",
-      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/2. Route parameters.md"
     }
   ],
   "omittedPaths": [],

@@ -6,5 +6,5 @@
 `git clone https://githubcom/jquery/jguery.git` klonowanie z githuba
 
 
-  
+eweoifweifewoi  
 
