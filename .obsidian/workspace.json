@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
+                "file": "P Y T H O N/OOP Python udemy/11 Exceptions.md",
                 "mode": "source",
                 "source": false
               }
@@ -150,7 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 545.5
   },
   "right": {
     "id": "ec7d1a70da2de581",
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
+                "file": "P Y T H O N/OOP Python udemy/11 Exceptions.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
+                "file": "P Y T H O N/OOP Python udemy/11 Exceptions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md"
+                "file": "P Y T H O N/OOP Python udemy/11 Exceptions.md"
               }
             }
           },
@@ -248,6 +248,7 @@
   },
   "active": "08ee676953b6df30",
   "lastOpenFiles": [
+    "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
     "P Y T H O N/Learn Python (Basic, BUI, Web, FullStack)/5.1 QtDesigner.md",
     "P Y T H O N/Learn Python (Basic, BUI, Web, FullStack)/5 GUI PyQt6.md",
     "P Y T H O N/OOP Python udemy/11 Exceptions.md",
@@ -262,7 +263,6 @@
     "Git/Helion Git/3 Gałęzie.md",
     "Git/Helion Git/2 Podstawowe komendy.md",
     "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.8 QTableWidget.md",
-    "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
     "P Y T H O N/GUI/PyQt/PyQt Codemy/_ 0 PyQt5 code.md",
     "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.7 QWebEngineView.md",
     "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.6 QTextBrowser.md",
