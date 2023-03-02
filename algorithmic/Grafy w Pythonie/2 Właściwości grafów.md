@@ -227,7 +227,28 @@ for s in V.keys():
 ![[graf-drzewo-wyjazd.excalidraw | 600]]
 
 
+```python
+wyjazd = { 
+    'ojciec' : [ 'samochód', 'matka', 'dzieci'],
+    'samochód': [ 'paliwo', 'hamulce'],
+    'paliwo': [],
+    'hamulce' :[],
+    'matka':['jedzenie', 'ubrania', 'zdrowie'],
+    'jedzenie':[],
+    'ubrania':[],
+    'zdrowie':[],
+    'dzieci':['smartphone', 'power bank'],
+    'smartphone': [],
+    'power bank':[]
+    
+}
 
+status = {
+    'paliwo': True,
+    'hamulce': True
+}
+print(wyjazd)
+```
 
 --------------------------------
 # wyszukiwanie Depth First Search
