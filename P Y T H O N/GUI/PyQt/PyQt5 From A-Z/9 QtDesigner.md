@@ -60,7 +60,7 @@ When you install `pyqt5`, you also install `pyuic5`
 # Decouping the user Interface from other code
 
 ## FIRST METHOD
-- trun `ui` file into non-executable module that can be imported to your primary python program
+-==trun `ui` file into non-executable module that can be imported to your primary python program==
 	- doesn't need to be compile at run time
 	- have to recompile pyuic after every change
 ```python
@@ -80,7 +80,7 @@ use python module `uic` to read the ui file directly
 - has to be compiled from ui everytime the program is run
 - code completion does not work
 ```python
-from PyQt5 imposrt uic
+from PyQt5 import uic
 
 class DlgMain(QDialog):
   def __init__(self):
