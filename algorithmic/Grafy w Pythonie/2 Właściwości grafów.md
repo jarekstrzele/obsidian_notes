@@ -145,7 +145,7 @@ for s in V.keys():
             print(f' Path {s} - {d} - {is_path_between(V,s,d)}')
 ```
 
-
+----------
 # Najkrótsza droga
 ```python
 V = {
@@ -195,9 +195,7 @@ for s in V.keys():
             print(f' Path {s} - {d} - {is_path_between(V,s,d)}')
 ```
 
-
-
-
+--------
 # graf cykliczny
 
 
@@ -208,7 +206,7 @@ for s in V.keys():
 
 
 
-
+---------------
 # graf acykliczny
 
 
@@ -220,12 +218,13 @@ for s in V.keys():
 
 
 
-
+-----------------
 # drzewa 
+>[!info] drzewo
+>To graf acykliczny (brak pe)
 
 
-
-
+--------------------------------
 # wyszukiwanie Depth First Search
 
 

@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "2 Właściwości grafów",
+      "path": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md"
+    },
+    {
+      "basename": "3 - Algorytmy grafowe",
+      "path": "algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md"
+    },
+    {
+      "basename": "4 drzewo binarnych wyszukiwań",
+      "path": "algorithmic/Grafy w Pythonie/4 drzewo binarnych wyszukiwań.md"
+    },
+    {
+      "basename": "Grafy",
+      "path": "algorithmic/Grafy.md"
+    },
+    {
+      "basename": "2 Podstawowe komendy",
+      "path": "Git/Helion Git/2 Podstawowe komendy.md"
+    },
+    {
+      "basename": "_ 0 Git Helion VideoPoint",
+      "path": "Git/Helion Git/_ 0 Git Helion VideoPoint.md"
+    },
+    {
       "basename": "11 Exceptions",
       "path": "P Y T H O N/OOP Python udemy/11 Exceptions.md"
     },
@@ -37,10 +61,6 @@
       "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/5 Adding and Configuring the Meal Details Screen.md"
     },
     {
-      "basename": "_ 0 Git Helion VideoPoint",
-      "path": "Git/Helion Git/_ 0 Git Helion VideoPoint.md"
-    },
-    {
       "basename": "7 Git TAG",
       "path": "Git/Helion Git/7 Git TAG.md"
     },
@@ -51,10 +71,6 @@
     {
       "basename": "3 Gałęzie",
       "path": "Git/Helion Git/3 Gałęzie.md"
-    },
-    {
-      "basename": "2 Podstawowe komendy",
-      "path": "Git/Helion Git/2 Podstawowe komendy.md"
     },
     {
       "basename": "7.8 QTableWidget",
@@ -183,22 +199,6 @@
     {
       "basename": "_ 0 React Native Navigation",
       "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/_ 0 React Native Navigation.md"
-    },
-    {
-      "basename": "8.2 Style for all app QStyleFactory",
-      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/8.2 Style for all app QStyleFactory.md"
-    },
-    {
-      "basename": "Python_Exception_Hierarchy.excalidraw",
-      "path": "Excalidraw/Python_Exception_Hierarchy.excalidraw.md"
-    },
-    {
-      "basename": "model-view-controller.excalidraw",
-      "path": "Excalidraw/model-view-controller.excalidraw.md"
-    },
-    {
-      "basename": "8.1 Widget specific styling",
-      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/8.1 Widget specific styling.md"
     }
   ],
   "omittedPaths": [],

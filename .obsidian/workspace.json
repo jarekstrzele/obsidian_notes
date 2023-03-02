@@ -25,19 +25,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "P Y T H O N/OOP Python udemy/11 Exceptions.md",
+                "file": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "d1e260784f837cbb",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.16"
               }
             }
           },
@@ -102,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,7 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 545.5
+    "width": 350.5
   },
   "right": {
     "id": "ec7d1a70da2de581",
@@ -176,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "P Y T H O N/OOP Python udemy/11 Exceptions.md",
+                "file": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -193,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "P Y T H O N/OOP Python udemy/11 Exceptions.md",
+                "file": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "P Y T H O N/OOP Python udemy/11 Exceptions.md"
+                "file": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md"
               }
             }
           },
@@ -256,22 +246,25 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "d1e260784f837cbb",
+  "active": "08ee676953b6df30",
   "lastOpenFiles": [
+    "algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md",
+    "algorithmic/Grafy w Pythonie/4 drzewo binarnych wyszukiwań.md",
+    "algorithmic/Grafy.md",
+    "Git/Helion Git/2 Podstawowe komendy.md",
+    "Git/Helion Git/_ 0 Git Helion VideoPoint.md",
+    "P Y T H O N/OOP Python udemy/11 Exceptions.md",
     "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
     "P Y T H O N/Learn Python (Basic, BUI, Web, FullStack)/5.1 QtDesigner.md",
     "P Y T H O N/Learn Python (Basic, BUI, Web, FullStack)/5 GUI PyQt6.md",
-    "P Y T H O N/OOP Python udemy/11 Exceptions.md",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/4 Styling ScreenHeader and Background.md",
     "REACT/React - the Complete Guide/14 Connecting to a Database.md",
     "REACT/DB/Fetch.md",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/6 Outputting Content in the Meal Detail Screen.md",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/5 Adding and Configuring the Meal Details Screen.md",
-    "Git/Helion Git/_ 0 Git Helion VideoPoint.md",
     "Git/Helion Git/7 Git TAG.md",
     "Git/Helion Git/5 Git Remote.md",
     "Git/Helion Git/3 Gałęzie.md",
-    "Git/Helion Git/2 Podstawowe komendy.md",
     "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.8 QTableWidget.md",
     "P Y T H O N/GUI/PyQt/PyQt Codemy/_ 0 PyQt5 code.md",
     "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.7 QWebEngineView.md",
@@ -281,9 +274,6 @@
     "HASKELL/Haskell for Imperative Programmers/6 Composition.md",
     "HASKELL/Haskell for Imperative Programmers/5 Partial Function Application and Currying.md",
     "HASKELL/Haskell for Imperative Programmers/4 Higher Order Functions.md",
-    "HASKELL/Haskell for Imperative Programmers/3 Lists and Tuples.md",
-    "HASKELL/Haskell for Imperative Programmers/2 Recursion, Guards, Patterns.md",
-    "HASKELL/Haskell for Imperative Programmers/1 Functions.md",
     "P Y T H O N/GUI/PyQt/PyQt Codemy"
   ]
 }

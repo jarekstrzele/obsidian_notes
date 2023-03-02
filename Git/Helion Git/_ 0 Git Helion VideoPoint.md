@@ -11,8 +11,22 @@
 
 ----------------
 # Wprowadzenie
+konfiguracja albo przez `git config` albo przez edycję pliku
+`vim ~/.gitconfig`
 
-
+```git
+[safe]  
+       directory = /dane/obsidian/obsidian_notes  
+[user]  
+       name = jarekstrzele  
+       email = jaroslaw.strzelecki@protonmail.com  
+[credential]  
+       credentialStore = gnome-keyring  
+       helper = kwallet  
+[credential "https://dev.azure.com"]  
+       useHttpPath = true  
+~
+```
 
 
 
