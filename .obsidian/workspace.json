@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6f22b34c8feee3fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "P Y T H O N/Learn Python (Basic, BUI, Web, FullStack)/5 GUI PyQt6.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "08ee676953b6df30",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "356aa8308a546f87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/5 Adding and Configuring the Meal Details Screen.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a71c2559057808d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git/Helion Git/_ 0 Git Helion VideoPoint.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -166,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
+                "file": "Git/Helion Git/_ 0 Git Helion VideoPoint.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -183,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
+                "file": "Git/Helion Git/_ 0 Git Helion VideoPoint.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md"
+                "file": "Git/Helion Git/_ 0 Git Helion VideoPoint.md"
               }
             }
           },
@@ -246,10 +234,12 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "08ee676953b6df30",
+  "active": "a71c2559057808d2",
   "lastOpenFiles": [
-    "Excalidraw/graf-drzewo-wyjazd.excalidraw.md",
+    "REACT/React - the Complete Guide/14 Connecting to a Database.md",
     "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
+    "REACT NATIVE/React Native Practical Guide/6 Navigation/5 Adding and Configuring the Meal Details Screen.md",
+    "Excalidraw/graf-drzewo-wyjazd.excalidraw.md",
     "algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md",
     "algorithmic/Grafy w Pythonie/4 drzewo binarnych wyszukiwań.md",
     "algorithmic/Grafy.md",
@@ -260,10 +250,8 @@
     "P Y T H O N/Learn Python (Basic, BUI, Web, FullStack)/5.1 QtDesigner.md",
     "P Y T H O N/Learn Python (Basic, BUI, Web, FullStack)/5 GUI PyQt6.md",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/4 Styling ScreenHeader and Background.md",
-    "REACT/React - the Complete Guide/14 Connecting to a Database.md",
     "REACT/DB/Fetch.md",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/6 Outputting Content in the Meal Detail Screen.md",
-    "REACT NATIVE/React Native Practical Guide/6 Navigation/5 Adding and Configuring the Meal Details Screen.md",
     "Git/Helion Git/7 Git TAG.md",
     "Git/Helion Git/5 Git Remote.md",
     "Git/Helion Git/3 Gałęzie.md",
