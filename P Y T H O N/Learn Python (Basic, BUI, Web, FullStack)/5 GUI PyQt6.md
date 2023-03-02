@@ -8,7 +8,7 @@
 a set of python bindins for building  cross-platfrom apps
 
 *PyCharm*
-`pip install pyqt6`
+## `pip install pyqt6`
 
 
 ```python

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "5.1 QtDesigner",
+      "path": "P Y T H O N/Learn Python (Basic, BUI, Web, FullStack)/5.1 QtDesigner.md"
+    },
+    {
+      "basename": "5 GUI PyQt6",
+      "path": "P Y T H O N/Learn Python (Basic, BUI, Web, FullStack)/5 GUI PyQt6.md"
+    },
+    {
       "basename": "11 Exceptions",
       "path": "P Y T H O N/OOP Python udemy/11 Exceptions.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "8.1 Widget specific styling",
       "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/8.1 Widget specific styling.md"
-    },
-    {
-      "basename": "8 Qt Style Sheets",
-      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/8 Qt Style Sheets.md"
-    },
-    {
-      "basename": "6.1 Layouts Summary",
-      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/6.1 Layouts Summary.md"
     }
   ],
   "omittedPaths": [],
