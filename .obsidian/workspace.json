@@ -78,19 +78,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "3dbcd2bd56261b6e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.16"
-              }
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -165,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
+                "file": "Git/Helion Git/2 Podstawowe komendy.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -182,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
+                "file": "Git/Helion Git/2 Podstawowe komendy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md"
+                "file": "Git/Helion Git/2 Podstawowe komendy.md"
               }
             }
           },
@@ -245,7 +235,7 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "3dbcd2bd56261b6e",
+  "active": "a71c2559057808d2",
   "lastOpenFiles": [
     "Untitled.canvas",
     "Git/Helion Git/_ 0 Git Helion VideoPoint.md",
