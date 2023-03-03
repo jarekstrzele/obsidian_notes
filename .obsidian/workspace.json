@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Helion Git/2 Podstawowe komendy.md",
+                "file": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,8 +134,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -155,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Helion Git/2 Podstawowe komendy.md",
+                "file": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -172,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Helion Git/2 Podstawowe komendy.md",
+                "file": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Helion Git/2 Podstawowe komendy.md"
+                "file": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md"
               }
             }
           },
@@ -237,6 +236,7 @@
   },
   "active": "a71c2559057808d2",
   "lastOpenFiles": [
+    "Git/Helion Git/2 Podstawowe komendy.md",
     "Untitled.canvas",
     "Git/Helion Git/_ 0 Git Helion VideoPoint.md",
     "REACT/React - the Complete Guide/14 Connecting to a Database.md",
@@ -246,7 +246,6 @@
     "algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md",
     "algorithmic/Grafy w Pythonie/4 drzewo binarnych wyszukiwań.md",
     "algorithmic/Grafy.md",
-    "Git/Helion Git/2 Podstawowe komendy.md",
     "P Y T H O N/OOP Python udemy/11 Exceptions.md",
     "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
     "P Y T H O N/Learn Python (Basic, BUI, Web, FullStack)/5.1 QtDesigner.md",
