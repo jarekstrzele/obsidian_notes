@@ -78,9 +78,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3dbcd2bd56261b6e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -235,7 +245,7 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "aad6e2f11a660f1c",
+  "active": "3dbcd2bd56261b6e",
   "lastOpenFiles": [
     "Untitled.canvas",
     "Git/Helion Git/_ 0 Git Helion VideoPoint.md",
