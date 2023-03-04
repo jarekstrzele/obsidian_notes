@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studia/Python BackEnd/Django/Framework Django.md",
+                "file": "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studia/Python BackEnd/Django/Framework Django.md",
+                "file": "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studia/Python BackEnd/Django/Framework Django.md",
+                "file": "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studia/Python BackEnd/Django/Framework Django.md"
+                "file": "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md"
               }
             }
           },
@@ -248,8 +248,8 @@
   },
   "active": "365d51aec2a6d912",
   "lastOpenFiles": [
-    "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
     "Studia/Python BackEnd/Django/Framework Django.md",
+    "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
     "Studia/Python BackEnd/Django",
     "HASKELL/Haskell for Imperative Programmers/5 Partial Function Application and Currying.md",
     "REACT/React - the Complete Guide/14 Connecting to a Database.md",
