@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Qt Designer and Python",
+      "path": "P Y T H O N/GUI/Qt Designer and Python.md"
+    },
+    {
       "basename": "2 Właściwości grafów",
       "path": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "databases with docker",
       "path": "Data Bases/databases with docker.md"
-    },
-    {
-      "basename": "3 Add new Component MealItem",
-      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/3 Add new Component MealItem.md"
     }
   ],
   "omittedPaths": [],
