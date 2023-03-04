@@ -24,6 +24,30 @@
 
 
 
+-----
+## MVC Model-Widok-Kontroler
+
+wzorzec projektowania aplikacji rozdzielający dane(model) od sposoby ich prezentacji(widok) i zarządzania ich przepływem(kontroler)
+
+**kontroler** działa jako interfejs między Widokiem a Modelem, przechwytuje wszystkie przychodzące żądania
+**model** reprezentuje stan aplikacji, czyli dane, może mieć również logike biznesową
+**widok** reprezentuje prezentację, th UI (interfejs użytwownika)
+
+
+### w Django
+**MODEL** reprezentuje źródło informacji; to klasy opisujące pojedyncze tabele w bazie danych zorientowane obiektowo (ORM):
+- atrybuty klasy to pola tabeli
+- instancja klasy  to rekord danch
+- modele są definiowane w pliku *models.py*
+
+**ORM** (ang. Object-Relational Mapping) - mapowanie obiektowo-relacyjne, oprogramowanie odwzorowujące strukturę relacyjnej bazy danych na obiekty danego języka programowania
+
+
+
+
+
+
+
 
 
 
