@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "5 Partial Function Application and Currying",
+      "path": "HASKELL/Haskell for Imperative Programmers/5 Partial Function Application and Currying.md"
+    },
+    {
       "basename": "_ 0 Haskell for Imperative Programmers",
       "path": "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "2 Właściwości grafów",
       "path": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md"
-    },
-    {
-      "basename": "5 Partial Function Application and Currying",
-      "path": "HASKELL/Haskell for Imperative Programmers/5 Partial Function Application and Currying.md"
     },
     {
       "basename": "14 Connecting to a Database",
