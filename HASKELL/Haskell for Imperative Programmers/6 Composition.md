@@ -4,7 +4,7 @@ https://www.youtube.com/watch?v=dR_aUQXw5fs&list=PLe7Ei6viL6jGp1Rfu0dil1JH1SHk9b
 #haskell/composition
 
 
-
+`(.) :: (b->c) -> (a->b) - a -> c
 
 
 

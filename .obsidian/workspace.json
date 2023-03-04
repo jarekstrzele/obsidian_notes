@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HASKELL/Haskell for Imperative Programmers/5 Partial Function Application and Currying.md",
+                "file": "HASKELL/Haskell for Imperative Programmers/6 Composition.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/Haskell for Imperative Programmers/5 Partial Function Application and Currying.md",
+                "file": "HASKELL/Haskell for Imperative Programmers/6 Composition.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/Haskell for Imperative Programmers/5 Partial Function Application and Currying.md",
+                "file": "HASKELL/Haskell for Imperative Programmers/6 Composition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/Haskell for Imperative Programmers/5 Partial Function Application and Currying.md"
+                "file": "HASKELL/Haskell for Imperative Programmers/6 Composition.md"
               }
             }
           },
@@ -248,11 +248,12 @@
   },
   "active": "365d51aec2a6d912",
   "lastOpenFiles": [
+    "HASKELL/Haskell for Imperative Programmers/5 Partial Function Application and Currying.md",
+    "HASKELL/Haskell for Imperative Programmers/6 Composition.md",
     "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md",
     "Studia/Python BackEnd/Django/Framework Django.md",
     "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
     "Studia/Python BackEnd/Django",
-    "HASKELL/Haskell for Imperative Programmers/5 Partial Function Application and Currying.md",
     "REACT/React - the Complete Guide/14 Connecting to a Database.md",
     "P Y T H O N/GUI/Qt Designer and Python.md",
     "Git/Helion Git/2 Podstawowe komendy.md",
@@ -275,7 +276,6 @@
     "Git/Helion Git/3 Gałęzie.md",
     "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.8 QTableWidget.md",
     "P Y T H O N/GUI/PyQt/PyQt Codemy/_ 0 PyQt5 code.md",
-    "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.7 QWebEngineView.md",
     "P Y T H O N/GUI/PyQt/PyQt Codemy"
   ]
 }

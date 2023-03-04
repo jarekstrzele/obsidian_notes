@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "6 Composition",
+      "path": "HASKELL/Haskell for Imperative Programmers/6 Composition.md"
+    },
+    {
       "basename": "5 Partial Function Application and Currying",
       "path": "HASKELL/Haskell for Imperative Programmers/5 Partial Function Application and Currying.md"
     },
@@ -115,10 +119,6 @@
     {
       "basename": "JSON",
       "path": "JSON.md"
-    },
-    {
-      "basename": "6 Composition",
-      "path": "HASKELL/Haskell for Imperative Programmers/6 Composition.md"
     },
     {
       "basename": "4 Higher Order Functions",
