@@ -43,7 +43,26 @@ wzorzec projektowania aplikacji rozdzielający dane(model) od sposoby ich prezen
 **ORM** (ang. Object-Relational Mapping) - mapowanie obiektowo-relacyjne, oprogramowanie odwzorowujące strukturę relacyjnej bazy danych na obiekty danego języka programowania
 
 
+**WIDOK** to funkcja lub klasa Pythona, która odpowiada na żądania WWW, np. zwraca kod HTML generowany w szablonie (*template*), jakiś dokument, obrazek lub przekerowuje na inny adres
+; jest definiowany w pliku *views.py*
+Django zawiera wiele widoków wbudowanych (*generic views*), w tym opartych na klasach opisujących modele, umożliwiających
+	- przeglądanie (np. ListView, DetailView,)
+	- edycję danych (np. CreateView, UpdateView)
+Każda funkcja pełniąca rolę widoku jako pierwszy argument otrzymuje obiekt `HttpRequest` zawierający informacje o 
+- żądaniu typu `GET`  lub `POST`, 
+- nazwę użytkownika, 
+- dane przesłane do serwera
 
+OBIEKT `request` jest słownikiem. Widok musi zwrócić jakąś odpowiedź. W Django jest to obiekt typu `HttpResponse`
+
+Widoki wykonują jakieś operacje po stronie serwera w odpowiedzi na żądania klienta. Widoki powiązane są z określonymi adresami url.
+
+Dane z bazy przekazywane dą do szablonów za pomocą Pythonowego słownika. Renderowanie polega na odszukaniu pliku szablonu, zastąpieniu przekazanych zmiennych danymi i odesłaniu całości (HTML + dane) do użytkownika.
+
+W Django szblony zapisywane są w podkatalogu `templates/nazwa_aplikacji`
+
+
+**KONTROLER** mechanizm kierujący kolejne żądania do odpowiedniuch widoków na podstawie wzorców adresów URL
 
 
 
