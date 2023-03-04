@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Qt Designer and Python",
-      "path": "P Y T H O N/GUI/Qt Designer and Python.md"
+      "basename": "Framework Django",
+      "path": "Studia/Python BackEnd/Django/Framework Django.md"
     },
     {
       "basename": "2 Właściwości grafów",
       "path": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md"
+    },
+    {
+      "basename": "5 Partial Function Application and Currying",
+      "path": "HASKELL/Haskell for Imperative Programmers/5 Partial Function Application and Currying.md"
+    },
+    {
+      "basename": "14 Connecting to a Database",
+      "path": "REACT/React - the Complete Guide/14 Connecting to a Database.md"
+    },
+    {
+      "basename": "Qt Designer and Python",
+      "path": "P Y T H O N/GUI/Qt Designer and Python.md"
     },
     {
       "basename": "2 Podstawowe komendy",
@@ -19,10 +31,6 @@
     {
       "basename": "_ 0 Git Helion VideoPoint",
       "path": "Git/Helion Git/_ 0 Git Helion VideoPoint.md"
-    },
-    {
-      "basename": "14 Connecting to a Database",
-      "path": "REACT/React - the Complete Guide/14 Connecting to a Database.md"
     },
     {
       "basename": "5 Adding and Configuring the Meal Details Screen",
@@ -113,10 +121,6 @@
       "path": "HASKELL/Haskell for Imperative Programmers/6 Composition.md"
     },
     {
-      "basename": "5 Partial Function Application and Currying",
-      "path": "HASKELL/Haskell for Imperative Programmers/5 Partial Function Application and Currying.md"
-    },
-    {
       "basename": "4 Higher Order Functions",
       "path": "HASKELL/Haskell for Imperative Programmers/4 Higher Order Functions.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "My SQL",
       "path": "Data Bases/My SQL.md"
-    },
-    {
-      "basename": "databases with docker",
-      "path": "Data Bases/databases with docker.md"
     }
   ],
   "omittedPaths": [],
