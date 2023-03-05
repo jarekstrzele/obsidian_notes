@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HASKELL/Happy Learn Haskell/4 the Main Road.md",
+                "file": "HASKELL/Happy Learn Haskell/5 Function Magic.md",
                 "mode": "source",
                 "source": false
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/Happy Learn Haskell/4 the Main Road.md",
+                "file": "HASKELL/Happy Learn Haskell/5 Function Magic.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/Happy Learn Haskell/4 the Main Road.md",
+                "file": "HASKELL/Happy Learn Haskell/5 Function Magic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/Happy Learn Haskell/4 the Main Road.md"
+                "file": "HASKELL/Happy Learn Haskell/5 Function Magic.md"
               }
             }
           },
@@ -247,10 +247,10 @@
   },
   "active": "08ee676953b6df30",
   "lastOpenFiles": [
+    "HASKELL/Happy Learn Haskell/4 the Main Road.md",
     "HASKELL/Happy Learn Haskell/5 Function Magic.md",
     "HASKELL/Happy Learn Haskell/7 Outputs.md",
     "HASKELL/Happy Learn Haskell/8 Make Decisions.md",
-    "HASKELL/Happy Learn Haskell/4 the Main Road.md",
     "HASKELL/Happy Learn Haskell/3 Types as Jigsaw Pieces.md",
     "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
     "HASKELL/learning haskell programming/_ 0 Learining Haskell Programming.md",
