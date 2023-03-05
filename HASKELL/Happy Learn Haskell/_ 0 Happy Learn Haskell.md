@@ -30,7 +30,7 @@ http://www.happylearnhaskelltutorial.com/1/how_to_enjoy_learning.html#s1
 >- a function is a relation between one type and another type
 >- it is used in expressions with values
 >- a function is itself a value
->- functions in Haskell **are not sets of steps** for the computer to foloww
+>- functions in Haskell **are not sets of steps** for the computer to follow
 
 ## First program
 ```haskell

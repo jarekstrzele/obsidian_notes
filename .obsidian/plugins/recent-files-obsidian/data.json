@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "5 Function Magic",
+      "path": "HASKELL/Happy Learn Haskell/5 Function Magic.md"
+    },
+    {
+      "basename": "7 Outputs",
+      "path": "HASKELL/Happy Learn Haskell/7 Outputs.md"
+    },
+    {
+      "basename": "8 Make Decisions",
+      "path": "HASKELL/Happy Learn Haskell/8 Make Decisions.md"
+    },
+    {
+      "basename": "4 the Main Road",
+      "path": "HASKELL/Happy Learn Haskell/4 the Main Road.md"
+    },
+    {
+      "basename": "3 Types as Jigsaw Pieces",
+      "path": "HASKELL/Happy Learn Haskell/3 Types as Jigsaw Pieces.md"
+    },
+    {
+      "basename": "2 Właściwości grafów",
+      "path": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md"
+    },
+    {
+      "basename": "_ 0 Learining Haskell Programming",
+      "path": "HASKELL/learning haskell programming/_ 0 Learining Haskell Programming.md"
+    },
+    {
       "basename": "_ 0 Happy Learn Haskell",
       "path": "HASKELL/Happy Learn Haskell/_ 0 Happy Learn Haskell.md"
     },
@@ -19,10 +47,6 @@
     {
       "basename": "Framework Django",
       "path": "Studia/Python BackEnd/Django/Framework Django.md"
-    },
-    {
-      "basename": "2 Właściwości grafów",
-      "path": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md"
     },
     {
       "basename": "14 Connecting to a Database",
@@ -175,30 +199,6 @@
     {
       "basename": "SELF JOIN SQLite",
       "path": "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/SELF JOIN SQLite.md"
-    },
-    {
-      "basename": "Podzapytania SQLite",
-      "path": "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/Podzapytania SQLite.md"
-    },
-    {
-      "basename": "Podsumowanie SQLite",
-      "path": "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/Podsumowanie SQLite.md"
-    },
-    {
-      "basename": "INNER JOIN SQLite",
-      "path": "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/INNER JOIN SQLite.md"
-    },
-    {
-      "basename": "_ Łączenie tabel SQLite",
-      "path": "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/_ Łączenie tabel SQLite.md"
-    },
-    {
-      "basename": "CROSS JOIN",
-      "path": "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/CROSS JOIN.md"
-    },
-    {
-      "basename": "Relacje",
-      "path": "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Relacje.md"
     }
   ],
   "omittedPaths": [],
