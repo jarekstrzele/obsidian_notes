@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HASKELL/Haskell for Imperative Programmers/6 Composition.md",
+                "file": "HASKELL/Happy Learn Haskell/_ 0 Happy Learn Haskell.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/Haskell for Imperative Programmers/6 Composition.md",
+                "file": "HASKELL/Happy Learn Haskell/_ 0 Happy Learn Haskell.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/Haskell for Imperative Programmers/6 Composition.md",
+                "file": "HASKELL/Happy Learn Haskell/_ 0 Happy Learn Haskell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/Haskell for Imperative Programmers/6 Composition.md"
+                "file": "HASKELL/Happy Learn Haskell/_ 0 Happy Learn Haskell.md"
               }
             }
           },
@@ -248,8 +248,8 @@
   },
   "active": "365d51aec2a6d912",
   "lastOpenFiles": [
-    "HASKELL/Haskell for Imperative Programmers/5 Partial Function Application and Currying.md",
     "HASKELL/Haskell for Imperative Programmers/6 Composition.md",
+    "HASKELL/Haskell for Imperative Programmers/5 Partial Function Application and Currying.md",
     "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md",
     "Studia/Python BackEnd/Django/Framework Django.md",
     "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "_ 0 Happy Learn Haskell",
+      "path": "HASKELL/Happy Learn Haskell/_ 0 Happy Learn Haskell.md"
+    },
+    {
       "basename": "6 Composition",
       "path": "HASKELL/Haskell for Imperative Programmers/6 Composition.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Relacje",
       "path": "Data Bases/SQL/SQL Bootcamp SQLite/2 - DDL/Relacje.md"
-    },
-    {
-      "basename": "My SQL",
-      "path": "Data Bases/My SQL.md"
     }
   ],
   "omittedPaths": [],

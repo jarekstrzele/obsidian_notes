@@ -20,7 +20,7 @@ http://www.happylearnhaskelltutorial.com/1/how_to_enjoy_learning.html#s1
 >	- which values are allowed to go where
 
 >[!infor] **DEFINITIONS
-> ` = ` this symbol tells Haskel that we want it to remember a name for an **expression**
+> ` = ` this symbol tells Haskell that we want it to remember a name for an **expression**
 >`name = expression` 
 >the symbol ` = `  **binds** (relates) the name  or pattern on the left of it with the expression on the right of it
 >`five = 5` name `five` means the value `5`
