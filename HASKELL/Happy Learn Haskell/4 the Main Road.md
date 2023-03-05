@@ -8,7 +8,7 @@
 [[3 Types as Jigsaw Pieces#definition]]
 >[!info] Haskell programs
 >They are **made** by writing definitions in text files.
->They are **running** by calling a compiler on thsoe text files.
+>They are **running** by calling a compiler on those text files.
 >The **compiler**:
 >		- understands Haskell
 >		- translates the text files as Haskell into an executable program
