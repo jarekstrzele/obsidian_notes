@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "5 Function Magic",
-      "path": "HASKELL/Happy Learn Haskell/5 Function Magic.md"
-    },
-    {
-      "basename": "4 the Main Road",
-      "path": "HASKELL/Happy Learn Haskell/4 the Main Road.md"
+      "basename": "8 Make Decisions",
+      "path": "HASKELL/Happy Learn Haskell/8 Make Decisions.md"
     },
     {
       "basename": "7 Outputs",
       "path": "HASKELL/Happy Learn Haskell/7 Outputs.md"
     },
     {
-      "basename": "8 Make Decisions",
-      "path": "HASKELL/Happy Learn Haskell/8 Make Decisions.md"
+      "basename": "6 Sockets and Plugs",
+      "path": "HASKELL/Happy Learn Haskell/6 Sockets and Plugs.md"
+    },
+    {
+      "basename": "5 Function Magic",
+      "path": "HASKELL/Happy Learn Haskell/5 Function Magic.md"
+    },
+    {
+      "basename": "4 the Main Road",
+      "path": "HASKELL/Happy Learn Haskell/4 the Main Road.md"
     },
     {
       "basename": "3 Types as Jigsaw Pieces",
@@ -195,10 +199,6 @@
     {
       "basename": "Widoki SQLite",
       "path": "Data Bases/SQL/SQL Bootcamp SQLite/Widoki SQLite.md"
-    },
-    {
-      "basename": "SELF JOIN SQLite",
-      "path": "Data Bases/SQL/SQL Bootcamp SQLite/1 - DQL/SELF JOIN SQLite.md"
     }
   ],
   "omittedPaths": [],
