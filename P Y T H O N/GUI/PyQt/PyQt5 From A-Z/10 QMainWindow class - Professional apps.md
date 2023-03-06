@@ -47,4 +47,58 @@ if __name__ == "__main__":
 
 in QtDesigner > that project with QMainWindow and Menu > right click and select `add toolbar` > see *Action Editor*
 
+```python
+import sys
+from PyQt5.QtWidgets import *
+from ui_modules.menu import *
+
+class MainMenu(QMainWindow, Ui_MainWindow):
+    def __init__(self):
+        super().__init__()
+        self.setupUi(self)
+		    self.actionOpen.triggered.connect(self.evt_open_triggered)
+        self.actionQuit.triggered.connect(self.evt_quit_triggered)
+
+  
+
+    def evt_quit_triggered(self):
+
+        sys.exit(0)    
+
+  
+
+    def evt_open_triggered(self):
+
+        sFile, sFilter = QFileDialog.getOpenFileName(self, "Open", "ui/", "User interface files (*.ui)")
+
+        if sFile:
+
+            print(sFile)
+
+        else:
+
+            print("Canceld by user")
+
+  
+
+if __name__ == "__main__":
+
+    app = QApplication([])
+
+    mainMenu = MainMenu()
+
+    mainMenu.show()
+
+  
+
+    sys.exit(app.exec_())
+```
+
+
+
+
+
+
+
+
 
