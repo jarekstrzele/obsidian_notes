@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "10 QMainWindow class - Professional apps",
+      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/10 QMainWindow class - Professional apps.md"
+    },
+    {
       "basename": "9. Shop For Food with List",
       "path": "HASKELL/Happy Learn Haskell/9. Shop For Food with List.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "5 Higher order functions",
       "path": "HASKELL/for_great_good/5 Higher order functions.md"
-    },
-    {
-      "basename": "Wyzwalacze",
-      "path": "Data Bases/SQL/SQL Bootcamp SQLite/Wyzwalacze.md"
     }
   ],
   "omittedPaths": [],
