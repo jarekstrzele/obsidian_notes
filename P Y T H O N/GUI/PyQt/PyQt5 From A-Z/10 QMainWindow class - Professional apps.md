@@ -1,5 +1,14 @@
 [[_ 0 PyQt5 From A-Z]]
 
+[[#QMenu]]
+[[#QToolbar]]
+[[#QStatusBar]]
+[[#QSplitter]]
+[[#QSplitter]]
+[[#Mutli-dialog applications]]
+
+
+---
 # QMenu
 - only availble with `QMainWindow`
 - can be created manually but mucj easier in QtDesigner
@@ -194,8 +203,21 @@ if __name__ == "__main__":
 
 ------------
 # Mutli-dialog applications
-
-
+- import the class from the file where it was defined
+- three methods
+	- **method 1**
+		- `from treeWidget import DlgMain`
+		- `dlgTrw = DlgMain()`
+	- **method 2**
+		- `import treeWidget`
+		- `dlgTrw = treeWidget.DlgMain()`
+	- **method 3**
+		- `import treeWidget as tw`
+		- `dlgTrw = tw.DlgMain()`
+- then show and execute (start the event loop) the dialog
+	- `dlgTrw.show()`
+	- `dlgTrw.exec_()`
+	- 
  
 
 

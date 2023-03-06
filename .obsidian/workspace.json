@@ -116,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/pop!sys.md",
+                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/10 QMainWindow class - Professional apps.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/pop!sys.md",
+                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/10 QMainWindow class - Professional apps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/pop!sys.md"
+                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/10 QMainWindow class - Professional apps.md"
               }
             }
           },
@@ -270,10 +270,10 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "cb252192d615b6e8",
+  "active": "f621f21825dbd82d",
   "lastOpenFiles": [
-    "linux/Shell 18 commands that will change the way you use linux forever.md",
     "linux/pop!sys.md",
+    "linux/Shell 18 commands that will change the way you use linux forever.md",
     "HASKELL/Haskell for Imperative Programmers/5 Partial Function Application and Currying.md",
     "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/10 QMainWindow class - Professional apps.md",
     "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
