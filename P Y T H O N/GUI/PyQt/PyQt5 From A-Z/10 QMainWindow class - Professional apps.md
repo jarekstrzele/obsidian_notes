@@ -142,4 +142,70 @@ class MainMenu(QMainWindow, Ui_MainWindow):
 
 you work on the same project
 
+```python
+import sys, os
+from PyQt5.QtWidgets import *
+from ui_modules.menu import *
+
+class MainMenu(QMainWindow, Ui_MainWindow):
+    def __init__(self):
+        super().__init__()
+        self.setupUi(self)
+       self.actionOpen.triggered.connect(self.evt_open_triggered)
+        self.actionQuit.triggered.connect(self.evt_quit_triggered)
+
+        self.prg = QProgressBar()
+        self.prg.setValue(43)
+        self.prg.setStyle(QStyleFactory.create("Window"))
+        # self.statusbar.addWidget(self.prg)
+        self.statusbar.addPermanentWidget(self.prg)
+        self.listWidget.addItems(os.listdir("ui_modules/"))
+        self.listWidget.itemDoubleClicked.connect(self.evt_lst_dbl)
+
+
+    def evt_lst_dbl(self, lwi):
+        # QMessageBox.information(self, "File", f"you selected {lwi.text()}")
+        try:
+            f = open("ui_modules/"+lwi.text())
+            self.plainTextEdit.setPlainText(f.read())
+        except PermissionError:
+            self.statusbar.showMessage("I can't open that file", 2500)
+ 
+
+    def evt_quit_triggered(self):
+        sys.exit(0)    
+  
+    def evt_open_triggered(self):
+        sFile, sFilter = QFileDialog.getOpenFileName(self, "Open", "ui/", "Any file (*.*)")
+        if sFile:
+            f = open(sFile)
+            self.plainTextEdit.setPlainText(f.read())
+        else:
+            print("Canceld by user")
+
+
+if __name__ == "__main__":
+    app = QApplication([])
+    mainMenu = MainMenu()
+    mainMenu.show()
+
+    sys.exit(app.exec_())
+```
+
+------------
+# Mutli-dialog applications
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
