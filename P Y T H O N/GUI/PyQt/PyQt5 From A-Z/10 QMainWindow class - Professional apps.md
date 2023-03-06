@@ -237,14 +237,30 @@ class MainMenu(QMainWindow, Ui_MainWindow):
         self.actionAbout_menu.triggered.connect(self.evt_help_triggered) # do menu Help podłączam metodę, która włączy nowe okno
 
     def evt_help_triggered(self):
-		# tworzę nowy obiekt klasy, która jest w zaimportowanym pliku z kl
+		# tworzę nowy obiekt klasy, która jest w zaimportowanym pliku z kalkulatorem
         mycal= exe_to_my_clacul.Main()
-
+		# pokazuję to okno
         mycal.show()
-
+		# utrzymuję okno w istnieniu
         mycal.exec_()
 ```
 
+----
+# to make widgets streching when window changes its size
+
+```python
+class MainMenu(QMainWindow, Ui_MainWindow):
+    def __init__(self):
+        super().__init__()
+        self.setupUi(self)
+
+		# make a layout
+        self.lyt_main = QHBoxLayout()
+		# set layout for centralwidget od MainWindow
+        self.centralwidget.setLayout(self.lyt_main)
+		# add plitter to that laoyt
+		self.lyt_main.addWidget(self.splitter)
+```
 
 
 
