@@ -219,7 +219,31 @@ if __name__ == "__main__":
 	- `dlgTrw.exec_()`
 	- 
  
+```python
+from PyQt5.QtWidgets import *
+from ui_modules.menu import *
+import exe_to_my_clacul # to jest plik z wcześniej napisaną aplikacją kalkulatora
 
+  
+  
+
+class MainMenu(QMainWindow, Ui_MainWindow):
+    def __init__(self):
+        super().__init__()
+        self.setupUi(self)
+       self.actionOpen.triggered.connect(self.evt_open_triggered)
+        self.actionQuit.triggered.connect(self.evt_quit_triggered)
+
+        self.actionAbout_menu.triggered.connect(self.evt_help_triggered) # do menu Help podłączam metodę, która włączy nowe okno
+
+    def evt_help_triggered(self):
+		# tworzę nowy obiekt klasy, która jest w zaimportowanym pliku z kl
+        mycal= exe_to_my_clacul.Main()
+
+        mycal.show()
+
+        mycal.exec_()
+```
 
 
 
