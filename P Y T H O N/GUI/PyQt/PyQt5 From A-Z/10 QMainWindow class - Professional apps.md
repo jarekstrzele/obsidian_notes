@@ -135,9 +135,11 @@ class MainMenu(QMainWindow, Ui_MainWindow):
 	- addWidget(QWidget)
 	-  insertWidget(idx, QWidget)
 	-  setOrentation(Qt.orientationQWidget)
-	-  addwidget(QWidget)
-	-  addwidget(QWidget)
+	-  setHandleWidth(int)
+- signals
+	- splitterMoved(pos, idx)
+	- 
 
-
+you work on the same project
 
 
