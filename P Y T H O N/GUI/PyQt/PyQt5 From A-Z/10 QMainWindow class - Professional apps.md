@@ -15,41 +15,36 @@ in QtDesigner > project > MainWindow
 		- meubar
 		- statusbar(a place to show msgs for users)
 
+`pyuic5 file.ui -0 pythonfile.py`
 
 ```python
 import sys
-
 from PyQt5.QtWidgets import *
-
 from ui_modules.menu import *
 
-  
 
 class MainMenu(QMainWindow, Ui_MainWindow):
-
     def __init__(self):
-
         super().__init__()
-
         self.setupUi(self)
-
-  
+ 
 
 if __name__ == "__main__":
-
     app = QApplication([])
-
     mainMenu = MainMenu()
-
     mainMenu.show()
-
-  
+ 
 
     sys.exit(app.exec_())
 ```
 
 
+# QToolbar
+- also only available in QMainWIndow
+- can be dockable
+- toolbar is composed of QActions
+- toobar is dockable
 
-
+in QtDesigner > that project with QMainWindow and Menu > right click and select `add toolbar` > see *Action Editor*
 
 
