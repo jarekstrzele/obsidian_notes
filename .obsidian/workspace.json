@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt Codemy/_ 0 PyQt5 code.md",
+                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.1 QTabWidget.md",
                 "mode": "source",
                 "source": false
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt Codemy/_ 0 PyQt5 code.md",
+                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.1 QTabWidget.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -206,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt Codemy/_ 0 PyQt5 code.md",
+                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.1 QTabWidget.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt Codemy/_ 0 PyQt5 code.md"
+                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.1 QTabWidget.md"
               }
             }
           },
@@ -271,13 +271,14 @@
   },
   "active": "08ee676953b6df30",
   "lastOpenFiles": [
+    "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7 Advanced widgets.md",
+    "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md",
+    "P Y T H O N/GUI/PyQt/PyQt Codemy/_ 0 PyQt5 code.md",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer Navigator/Drawer Navigator.md",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/6 Outputting Content in the Meal Detail Screen.md",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer Navigator",
     "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/10 QMainWindow class - Professional apps.md",
-    "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md",
     "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
-    "P Y T H O N/GUI/PyQt/PyQt Codemy/_ 0 PyQt5 code.md",
     "HASKELL/Happy Learn Haskell/8 Make Decisions.md",
     "linux/pop!sys.md",
     "linux/Shell 18 commands that will change the way you use linux forever.md",
@@ -299,7 +300,6 @@
     "P Y T H O N/GUI/Qt Designer and Python.md",
     "Git/Helion Git/2 Podstawowe komendy.md",
     "Untitled.canvas",
-    "Git/Helion Git/_ 0 Git Helion VideoPoint.md",
     "P Y T H O N/GUI/PyQt/PyQt Codemy"
   ]
 }

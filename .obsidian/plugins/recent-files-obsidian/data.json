@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "7.1 QTabWidget",
+      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.1 QTabWidget.md"
+    },
+    {
+      "basename": "7 Advanced widgets",
+      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7 Advanced widgets.md"
+    },
+    {
+      "basename": "_ 0 PyQt5 From A-Z",
+      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md"
+    },
+    {
       "basename": "_ 0 PyQt5 code",
       "path": "P Y T H O N/GUI/PyQt/PyQt Codemy/_ 0 PyQt5 code.md"
     },
@@ -15,10 +27,6 @@
     {
       "basename": "10 QMainWindow class - Professional apps",
       "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/10 QMainWindow class - Professional apps.md"
-    },
-    {
-      "basename": "_ 0 PyQt5 From A-Z",
-      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md"
     },
     {
       "basename": "9 QtDesigner",
@@ -191,14 +199,6 @@
     {
       "basename": "1 Functions",
       "path": "HASKELL/Haskell for Imperative Programmers/1 Functions.md"
-    },
-    {
-      "basename": "0 HTML",
-      "path": "FullStack/Web Development 2023/0 HTML.md"
-    },
-    {
-      "basename": "0 CSS",
-      "path": "FullStack/Web Development 2023/0 CSS.md"
     }
   ],
   "omittedPaths": [],
