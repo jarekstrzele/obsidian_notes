@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/10 QMainWindow class - Professional apps.md",
+                "file": "P Y T H O N/GUI/PyQt/PyQt Codemy/_ 0 PyQt5 code.md",
                 "mode": "source",
                 "source": false
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/10 QMainWindow class - Professional apps.md",
+                "file": "P Y T H O N/GUI/PyQt/PyQt Codemy/_ 0 PyQt5 code.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -206,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/10 QMainWindow class - Professional apps.md",
+                "file": "P Y T H O N/GUI/PyQt/PyQt Codemy/_ 0 PyQt5 code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/10 QMainWindow class - Professional apps.md"
+                "file": "P Y T H O N/GUI/PyQt/PyQt Codemy/_ 0 PyQt5 code.md"
               }
             }
           },
@@ -271,6 +271,10 @@
   },
   "active": "08ee676953b6df30",
   "lastOpenFiles": [
+    "REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer Navigator/Drawer Navigator.md",
+    "REACT NATIVE/React Native Practical Guide/6 Navigation/6 Outputting Content in the Meal Detail Screen.md",
+    "REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer Navigator",
+    "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/10 QMainWindow class - Professional apps.md",
     "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md",
     "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
     "P Y T H O N/GUI/PyQt/PyQt Codemy/_ 0 PyQt5 code.md",
@@ -278,7 +282,6 @@
     "linux/pop!sys.md",
     "linux/Shell 18 commands that will change the way you use linux forever.md",
     "HASKELL/Haskell for Imperative Programmers/5 Partial Function Application and Currying.md",
-    "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/10 QMainWindow class - Professional apps.md",
     "HASKELL/Happy Learn Haskell/9. Shop For Food with List.md",
     "HASKELL/Happy Learn Haskell/7 Outputs.md",
     "HASKELL/Happy Learn Haskell/6 Sockets and Plugs.md",
@@ -297,8 +300,6 @@
     "Git/Helion Git/2 Podstawowe komendy.md",
     "Untitled.canvas",
     "Git/Helion Git/_ 0 Git Helion VideoPoint.md",
-    "REACT NATIVE/React Native Practical Guide/6 Navigation/5 Adding and Configuring the Meal Details Screen.md",
-    "Excalidraw/graf-drzewo-wyjazd.excalidraw.md",
     "P Y T H O N/GUI/PyQt/PyQt Codemy"
   ]
 }
