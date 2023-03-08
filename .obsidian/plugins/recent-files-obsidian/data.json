@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "UBUNTU",
+      "path": "linux/UBUNTU.md"
+    },
+    {
+      "basename": "10 QMainWindow class - Professional apps",
+      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/10 QMainWindow class - Professional apps.md"
+    },
+    {
       "basename": "7.1 QTabWidget",
       "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.1 QTabWidget.md"
     },
@@ -23,10 +31,6 @@
     {
       "basename": "6 Outputting Content in the Meal Detail Screen",
       "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/6 Outputting Content in the Meal Detail Screen.md"
-    },
-    {
-      "basename": "10 QMainWindow class - Professional apps",
-      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/10 QMainWindow class - Professional apps.md"
     },
     {
       "basename": "9 QtDesigner",
@@ -195,10 +199,6 @@
     {
       "basename": "2 Recursion, Guards, Patterns",
       "path": "HASKELL/Haskell for Imperative Programmers/2 Recursion, Guards, Patterns.md"
-    },
-    {
-      "basename": "1 Functions",
-      "path": "HASKELL/Haskell for Imperative Programmers/1 Functions.md"
     }
   ],
   "omittedPaths": [],
