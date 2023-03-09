@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/UBUNTU.md",
+                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -190,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/UBUNTU.md",
+                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -207,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/UBUNTU.md",
+                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/UBUNTU.md"
+                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md"
               }
             }
           },
@@ -270,8 +271,9 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "23434c176f47a3f6",
+  "active": "aad6e2f11a660f1c",
   "lastOpenFiles": [
+    "linux/UBUNTU.md",
     "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/10 QMainWindow class - Professional apps.md",
     "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.1 QTabWidget.md",
     "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7 Advanced widgets.md",
@@ -299,7 +301,6 @@
     "Studia/Python BackEnd/Django/Framework Django.md",
     "Studia/Python BackEnd/Django",
     "REACT/React - the Complete Guide/14 Connecting to a Database.md",
-    "P Y T H O N/GUI/Qt Designer and Python.md",
     "Untitled.canvas",
     "P Y T H O N/GUI/PyQt/PyQt Codemy"
   ]
