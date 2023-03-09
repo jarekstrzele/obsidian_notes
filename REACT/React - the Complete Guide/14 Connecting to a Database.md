@@ -270,7 +270,7 @@ to convert a JS object to json use `JSON.stringify(jsObject)`
       method: 'POST',
       body: JSON.stringyfy(movie),
       headers:{
-        'Content-Type': 'application.json'
+        'Content-Type': 'application/json'
       }
     });
   }

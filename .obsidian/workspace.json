@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
+                "file": "REACT/React - the Complete Guide/14 Connecting to a Database.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,8 +170,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -191,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
+                "file": "REACT/React - the Complete Guide/14 Connecting to a Database.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -208,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
+                "file": "REACT/React - the Complete Guide/14 Connecting to a Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md"
+                "file": "REACT/React - the Complete Guide/14 Connecting to a Database.md"
               }
             }
           },
@@ -271,8 +270,11 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "aad6e2f11a660f1c",
+  "active": "23434c176f47a3f6",
   "lastOpenFiles": [
+    "REACT/React - the Complete Guide/_ 0 React Full.md",
+    "REACT/React - the Complete Guide/useCallback.md",
+    "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
     "linux/UBUNTU.md",
     "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/10 QMainWindow class - Professional apps.md",
     "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.1 QTabWidget.md",
@@ -282,7 +284,6 @@
     "REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer Navigator/Drawer Navigator.md",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/6 Outputting Content in the Meal Detail Screen.md",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer Navigator",
-    "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
     "HASKELL/Happy Learn Haskell/8 Make Decisions.md",
     "linux/pop!sys.md",
     "linux/Shell 18 commands that will change the way you use linux forever.md",
@@ -298,9 +299,7 @@
     "HASKELL/Happy Learn Haskell/_ 0 Happy Learn Haskell.md",
     "HASKELL/Haskell for Imperative Programmers/6 Composition.md",
     "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md",
-    "Studia/Python BackEnd/Django/Framework Django.md",
     "Studia/Python BackEnd/Django",
-    "REACT/React - the Complete Guide/14 Connecting to a Database.md",
     "Untitled.canvas",
     "P Y T H O N/GUI/PyQt/PyQt Codemy"
   ]

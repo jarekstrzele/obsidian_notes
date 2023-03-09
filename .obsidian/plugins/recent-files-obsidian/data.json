@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "14 Connecting to a Database",
+      "path": "REACT/React - the Complete Guide/14 Connecting to a Database.md"
+    },
+    {
+      "basename": "_ 0 React Full",
+      "path": "REACT/React - the Complete Guide/_ 0 React Full.md"
+    },
+    {
+      "basename": "useCallback",
+      "path": "REACT/React - the Complete Guide/useCallback.md"
+    },
+    {
       "basename": "9 QtDesigner",
       "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md"
     },
@@ -101,10 +113,6 @@
       "path": "Studia/Python BackEnd/Django/Framework Django.md"
     },
     {
-      "basename": "14 Connecting to a Database",
-      "path": "REACT/React - the Complete Guide/14 Connecting to a Database.md"
-    },
-    {
       "basename": "Qt Designer and Python",
       "path": "P Y T H O N/GUI/Qt Designer and Python.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "4 Higher Order Functions",
       "path": "HASKELL/Haskell for Imperative Programmers/4 Higher Order Functions.md"
-    },
-    {
-      "basename": "3 Lists and Tuples",
-      "path": "HASKELL/Haskell for Imperative Programmers/3 Lists and Tuples.md"
-    },
-    {
-      "basename": "2 Recursion, Guards, Patterns",
-      "path": "HASKELL/Haskell for Imperative Programmers/2 Recursion, Guards, Patterns.md"
     }
   ],
   "omittedPaths": [],
