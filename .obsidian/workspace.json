@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REACT/React - the Complete Guide/14 Connecting to a Database.md",
+                "file": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
                 "mode": "source",
                 "source": false
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REACT/React - the Complete Guide/14 Connecting to a Database.md",
+                "file": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REACT/React - the Complete Guide/14 Connecting to a Database.md",
+                "file": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REACT/React - the Complete Guide/14 Connecting to a Database.md"
+                "file": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md"
               }
             }
           },
@@ -272,6 +272,8 @@
   },
   "active": "23434c176f47a3f6",
   "lastOpenFiles": [
+    "algorithmic/Grafy.md",
+    "REACT/React - the Complete Guide/14 Connecting to a Database.md",
     "REACT/React - the Complete Guide/_ 0 React Full.md",
     "REACT/React - the Complete Guide/useCallback.md",
     "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
@@ -297,8 +299,6 @@
     "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
     "HASKELL/learning haskell programming/_ 0 Learining Haskell Programming.md",
     "HASKELL/Happy Learn Haskell/_ 0 Happy Learn Haskell.md",
-    "HASKELL/Haskell for Imperative Programmers/6 Composition.md",
-    "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md",
     "Studia/Python BackEnd/Django",
     "Untitled.canvas",
     "P Y T H O N/GUI/PyQt/PyQt Codemy"

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2 Właściwości grafów",
+      "path": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md"
+    },
+    {
+      "basename": "Grafy",
+      "path": "algorithmic/Grafy.md"
+    },
+    {
       "basename": "14 Connecting to a Database",
       "path": "REACT/React - the Complete Guide/14 Connecting to a Database.md"
     },
@@ -89,10 +97,6 @@
       "path": "HASKELL/Happy Learn Haskell/3 Types as Jigsaw Pieces.md"
     },
     {
-      "basename": "2 Właściwości grafów",
-      "path": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md"
-    },
-    {
       "basename": "_ 0 Learining Haskell Programming",
       "path": "HASKELL/learning haskell programming/_ 0 Learining Haskell Programming.md"
     },
@@ -143,10 +147,6 @@
     {
       "basename": "4 drzewo binarnych wyszukiwań",
       "path": "algorithmic/Grafy w Pythonie/4 drzewo binarnych wyszukiwań.md"
-    },
-    {
-      "basename": "Grafy",
-      "path": "algorithmic/Grafy.md"
     },
     {
       "basename": "11 Exceptions",
