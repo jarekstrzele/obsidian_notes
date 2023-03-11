@@ -9,7 +9,7 @@ podgraf:
 **Przemyt słodkich bułek**
 V = { Kacper, Dawid, Daniel, Michał, Wiktoria, ZdzisioPiekarz, JanuszKierowca}
 
-E= {
+E= {    
 ( ZdzisioPiekarz, JanuszKierowca ) ,
 ( JanuszKierowca, Daniel ),
 (JanuszKierowca, Wiktoria),
