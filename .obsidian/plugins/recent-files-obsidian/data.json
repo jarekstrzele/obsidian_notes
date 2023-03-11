@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "_ 0 PyQt with Hala",
+      "path": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/_ 0 PyQt with Hala.md"
+    },
+    {
+      "basename": "12 Database Apps with Qt",
+      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/12 Database Apps with Qt.md"
+    },
+    {
       "basename": "_ 0 PyQt5 code",
       "path": "P Y T H O N/GUI/PyQt/PyQt Codemy/_ 0 PyQt5 code.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "7.6 QTextBrowser",
       "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.6 QTextBrowser.md"
-    },
-    {
-      "basename": "JSON",
-      "path": "JSON.md"
-    },
-    {
-      "basename": "4 Higher Order Functions",
-      "path": "HASKELL/Haskell for Imperative Programmers/4 Higher Order Functions.md"
     }
   ],
   "omittedPaths": [],
