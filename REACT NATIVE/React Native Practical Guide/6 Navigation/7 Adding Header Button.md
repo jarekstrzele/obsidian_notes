@@ -32,6 +32,12 @@ or
 
 
 -------------
+# with direct interaction
+go to your component (e.g. MealDetailScreen.js)
+
+
+
+
 
 
 
