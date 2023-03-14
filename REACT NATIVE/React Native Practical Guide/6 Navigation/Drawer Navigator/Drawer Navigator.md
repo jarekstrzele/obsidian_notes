@@ -31,22 +31,13 @@ const Drawer = createDrawerNavigator() ;
 
 export default function App() {
 return (
-
-
 <NavigationContainer>
-
-<Drawer.Navigator>
-
-<Drawer.Screen name="Welcome" component={WelcomeScreen} />
-
-<Drawer.Screen name="User" component={UserScreen} />
-
-</Drawer.Navigator>
-
+	<Drawer.Navigator>
+		<Drawer.Screen name="Welcome" component={WelcomeScreen} />
+		<Drawer.Screen name="User" component={UserScreen} />
+	</Drawer.Navigator>
 </NavigationContainer>
-
-);
-
+	);
 }
 ```
 
@@ -148,64 +139,38 @@ UserScreen.jsx
 ```jsx
 import { View, Text , StyleSheet, Button} from 'react-native' ;
 
-  
-
 function UserScreen(props){
 
-  
-
-function openDrawerHandler(){
-
-props.navigation.toggleDrawer();
-
+	function openDrawerHandler(){
+		props.navigation.toggleDrawer();
 }
 
-  
 
 return (
-
 <View style={styles.rootContainer}>
-
 <Text>
-
-This is the <Text style={styles.highlight}> User am I </Text> screen!
-
+	This is the <Text style={styles.highlight}> User am I </Text> screen!
 </Text>
 
 <Button title="pen Drawer" onPress={openDrawerHandler} />
-
 </View>
 
 ) ;
 
 }
 
-  
-
 export default UserScreen ;
 
-  
-  
-  
-
 const styles = StyleSheet.create({
-
-rootContainer:{
-
-flex: 1,
-
-justifyContent: 'center',
-
-alignItems: 'center'
-
+	rootContainer:{
+		flex: 1,
+		justifyContent: 'center',
+		alignItems: 'center'
 },
-
-highlight: {
-
-color: 'green'
-
+	
+	highlight: {
+		color: 'green'
 }
-
 })
 ```
 
@@ -219,46 +184,27 @@ import {View, Text, StyleSheet } from 'react-native' ;
 function WelcomeScreen() {
 
 return (
-
 <View style={styles.rootContainer}>
-
 <Text>
-
 This is the <Text style={styles.highlight}> WELCOME, Zdrastwójcie </Text> screen!
-
 </Text>
-
 </View>
-
 )
-
 }
-
-  
 
 export default WelcomeScreen;
 
-  
-  
 
 const styles = StyleSheet.create({
-
 rootContainer:{
-
-flex: 1,
-
-justifyContent: 'center',
-
-alignItems: 'center',
-
+	flex: 1,
+	justifyContent: 'center',
+	alignItems: 'center',
 },
 
 highlight: {
-
-color: 'red'
-
+	color: 'red'
 }
-
 })
 
 ```
@@ -266,83 +212,48 @@ color: 'red'
 App
 ```jsx
 import { StatusBar } from 'expo-status-bar';
-
 import { StyleSheet, Text, View } from 'react-native';
-
 import { NavigationContainer } from '@react-navigation/native' ;
-
 import { createDrawerNavigator } from '@react-navigation/drawer';
-
 import WelcomeScreen from './screens/WelcomeScreen' ;
-
 import UserScreen from './screens/UserScreen';
-
 import 'react-native-reanimated';
-
 import { Ionicons } from '@expo/vector-icons' ;
-
-  
 
 const Drawer = createDrawerNavigator() ;
 
-  
-
 export default function App() {
-
 return (
-
 <NavigationContainer>
-
-<Drawer.Navigator
-
-screenOptions={{
-
-drawerActiveBackgroundColor: '#fae',
-
-drawerActiveTintColor: '#3c0a6b',
-
-drawerStyle: { backgroundColor: '#ccc'},
-
-headerStyle: { backgroundColor: '#1c0a66'},
-
-headerTintColor:'white'
+	<Drawer.Navigator
+		screenOptions={{
+	drawerActiveBackgroundColor: '#fae',
+	drawerActiveTintColor: '#3c0a6b',
+	drawerStyle: { backgroundColor: '#ccc'},
+	headerStyle: { backgroundColor: '#1c0a66'},
+	headerTintColor:'white'
 
 }}
 
 >
 
 <Drawer.Screen name="Welcome" component={WelcomeScreen}
-
-options={{
-
-drawerLabel: 'WelcomeLable Screen' ,
-
-drawerIcon: ({color, size}) => <Ionicons name="home" color={color} size={size} />
-
+	options={{
+	drawerLabel: 'WelcomeLable Screen' ,
+	drawerIcon: ({color, size}) => <Ionicons name="home" color={color} size={size} />
 }}
-
 />
 
 <Drawer.Screen name="User" component={UserScreen}
-
-options={{
-
-drawerIcon: ({ color, size }) => (
-
+	options={{
+	drawerIcon: ({ color, size }) => (
 <Ionicons name="person" color={color} size={size} />
-
 )
-
 }}
-
 />
-
 </Drawer.Navigator>
-
 </NavigationContainer>
-
 );
-
 }
 
 ```

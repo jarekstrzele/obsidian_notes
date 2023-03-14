@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Drawer Navigator",
+      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer Navigator/Drawer Navigator.md"
+    },
+    {
       "basename": "8 Icon Button",
       "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/8 Icon Button.md"
     },
     {
-      "basename": "6 Outputting Content in the Meal Detail Screen",
-      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/6 Outputting Content in the Meal Detail Screen.md"
-    },
-    {
       "basename": "7 Adding Header Button",
       "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/7 Adding Header Button.md"
+    },
+    {
+      "basename": "6 Outputting Content in the Meal Detail Screen",
+      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/6 Outputting Content in the Meal Detail Screen.md"
     },
     {
       "basename": "_ 0 React Native Navigation",
@@ -35,10 +39,6 @@
     {
       "basename": "1 Add action to React Navigator",
       "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/1 Add action to React Navigator.md"
-    },
-    {
-      "basename": "Drawer Navigator",
-      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer Navigator/Drawer Navigator.md"
     },
     {
       "basename": "useNavigation Hook",

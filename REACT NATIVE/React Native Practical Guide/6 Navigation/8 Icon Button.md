@@ -8,8 +8,8 @@ import { Iconicons } from '@expo/vector-icons' ;
 
 function IconButton(props){
 return (
-	<Pressable onPress={props.o}>
-		<Ionicons name="star" size={24} color="white" />
+	<Pressable onPress={props.onTap}>
+		<Ionicons name={props.icon} size={24} color={props.color} />
 	</Pressable>
 )
 }
@@ -17,7 +17,31 @@ return (
 export default IconButton
 ```
 
+and in MEalDetailScreen.js
+		look at [[7 Adding Header Button]]
+```jsx
+//....
 
+	function headerButtonPressHandler(){
+		console.log("Pressed") ;
+	}
+
+
+useLayoutEffect( () => {
+ navigation.setOptions({
+	 headerRight: () => {
+		 return <IonButton 
+			 onTap={headerButtonPressHandler}
+			 color="white"
+			 icon="star"
+			 />
+	 }
+ }) ;
+}, [navigation, headerButtonPressHandler])
+
+//....
+
+```
 
 
 

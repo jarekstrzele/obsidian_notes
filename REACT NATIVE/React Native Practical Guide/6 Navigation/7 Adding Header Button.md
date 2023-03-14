@@ -44,6 +44,7 @@ function MealDetailScreen({route, navigation}) {
 //...
 
 	function headerButtonPressHandler(){
+		console.log("Pressed") ;
 	}
 
 
