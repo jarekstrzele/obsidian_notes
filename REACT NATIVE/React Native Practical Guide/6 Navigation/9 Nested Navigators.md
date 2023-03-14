@@ -2,17 +2,27 @@
 
 install navigator [[Drawer Navigator]]
 
-replace (in App.js):
+add (in App.js):
 ```jsx
+//...
+import {createDrawerNavigator} from '@react-navigation/native-stack';
 
-function DrawerNa
+const Drawer = createDrawerNavigator();
+
+function DrawerNavigator(){
+ return <Drawer.Navigator>
+	<Drawer.Screen name="Categories" 
+					component={CateriesScreen}/>
+</Drawer.Navigator>
+}
 
 function App(){
 //../
 
 <Stack.Screen 
-	name="MEalsCategories" 
-	component={CateriesScreen}
+	name="DrawerScreen" 
+	//component={CateriesScreen}
+	component={DrawerNavigator}
 	options={{
 		title: 'All Categories'
 	}}
