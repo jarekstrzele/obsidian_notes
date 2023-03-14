@@ -10,9 +10,17 @@ import {createDrawerNavigator} from '@react-navigation/native-stack';
 const Drawer = createDrawerNavigator();
 
 function DrawerNavigator(){
- return <Drawer.Navigator>
+ return <Drawer.Navigator
+	screenOptions={{
+		headerStyle: ...
+		sceneContainerStyle: {backgroundColor: ''}
+	}} 
+>
 	<Drawer.Screen name="Categories" 
-					component={CateriesScreen}/>
+		component={CateriesScreen}/>
+	<Drawer.Screen name="Categories" 
+		component={NewDummyComponentScreen}/>
+									
 </Drawer.Navigator>
 }
 
@@ -24,6 +32,18 @@ function App(){
 	//component={CateriesScreen}
 	component={DrawerNavigator}
 	options={{
-		title: 'All Categories'
+		title: 'All Categories',
+		headerShown: false
 	}}
 ```
+
+
+--------------
+# 
+
+
+
+
+
+
+
