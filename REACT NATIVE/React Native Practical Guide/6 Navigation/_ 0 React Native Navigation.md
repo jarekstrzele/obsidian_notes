@@ -4,6 +4,10 @@
 [[3 Add new Component MealItem]]
 [[4 Styling ScreenHeader and Background]]
 [[5 Adding and Configuring the Meal Details Screen]]
+[[6 Outputting Content in the Meal Detail Screen]]
+[[7 Adding Header Button]]
+[[8 Icon Button]]
+
 
 
 
