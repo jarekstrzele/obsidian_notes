@@ -5,6 +5,10 @@
       "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/6 Outputting Content in the Meal Detail Screen.md"
     },
     {
+      "basename": "7 Adding Header Button",
+      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/7 Adding Header Button.md"
+    },
+    {
       "basename": "5 Adding and Configuring the Meal Details Screen",
       "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/5 Adding and Configuring the Meal Details Screen.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "11 Exceptions",
       "path": "P Y T H O N/OOP Python udemy/11 Exceptions.md"
-    },
-    {
-      "basename": "5.1 QtDesigner",
-      "path": "P Y T H O N/Learn Python (Basic, BUI, Web, FullStack)/5.1 QtDesigner.md"
     }
   ],
   "omittedPaths": [],
