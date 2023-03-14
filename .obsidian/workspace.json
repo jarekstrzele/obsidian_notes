@@ -116,6 +116,18 @@
             }
           },
           {
+            "id": "0704266dd7143e02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "REACT NATIVE/The Complete React NativePlusHooks/_ 0 Complete React Native.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "365d51aec2a6d912",
             "type": "leaf",
             "state": {
@@ -200,7 +212,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -274,7 +286,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/9 Nested Navigators.md",
+                "file": "REACT NATIVE/The Complete React NativePlusHooks/_ 0 Complete React Native.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -291,7 +303,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/9 Nested Navigators.md",
+                "file": "REACT NATIVE/The Complete React NativePlusHooks/_ 0 Complete React Native.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -314,7 +326,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/9 Nested Navigators.md"
+                "file": "REACT NATIVE/The Complete React NativePlusHooks/_ 0 Complete React Native.md"
               }
             }
           },
@@ -354,11 +366,13 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "cb789e9aeef84df0",
+  "active": "0704266dd7143e02",
   "lastOpenFiles": [
+    "REACT NATIVE/React Native Practical Guide/6 Navigation/9 Nested Navigators.md",
+    "REACT NATIVE/The Complete React NativePlusHooks/_ 0 Complete React Native.md",
+    "REACT NATIVE/The Complete React NativePlusHooks",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer or Bottom-Tabs Navigators/Drawer Navigator.md",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer or Bottom-Tabs Navigators/BottomNavigator.md",
-    "REACT NATIVE/React Native Practical Guide/6 Navigation/9 Nested Navigators.md",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/8 Icon Button.md",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/7 Adding Header Button.md",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/6 Outputting Content in the Meal Detail Screen.md",
@@ -383,7 +397,6 @@
     "REACT/React - the Complete Guide/14 Connecting to a Database.md",
     "REACT/React - the Complete Guide/_ 0 React Full.md",
     "REACT/React - the Complete Guide/useCallback.md",
-    "linux/UBUNTU.md",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer or Bottom-Tabs Navigators",
     "Studia/Python BackEnd/Django",
     "Untitled.canvas",
