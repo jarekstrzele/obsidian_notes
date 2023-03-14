@@ -69,10 +69,10 @@ import { CATEGORIES } from "../data/dummy-data";
 
 // props.navigation is special prop send by Navigator.Screen
 function CategoriesScreen(props){
-    function renderCategoryItem(itemData) {
-        return <CategoryGridTitle title={itemData.item.title}
-                                  color={itemData.item.color}
-                                  whenPressExecute={() => { props.navigation.navigate("MealsOverview") } } />;
+ function renderCategoryItem(itemData) {
+    return <CategoryGridTitle title={itemData.item.title}
+               color={itemData.item.color}
+               whenPressExecute={() => { props.navigation.navigate("MealsOverview") } } />;
     }
  
     return <FlatList data={CATEGORIES}
@@ -183,12 +183,12 @@ You can therefore change the initial screen by changing the `<Stack.Screen>` o
 CategoriesScreem.jsx (add object to `navigate` method)
 ```jsx
 function CategoriesScreen(props){
-    function renderCategoryItem(itemData) {
-        return <CategoryGridTitle title={itemData.item.title}
-                                  color={itemData.item.color}
-                                  whenPressExecute={() => { props.navigation.navigate("MealsOverview", {
-                                    categoryId: itemData.item.id,
-                                  }) } } />;
+ function renderCategoryItem(itemData) {
+  return <CategoryGridTitle title={itemData.item.title}
+      color={itemData.item.color}
+      whenPressExecute={() => { props.navigation.navigate("MealsOverview", {
+             categoryId: itemData.item.id,
+    }) } } />;
     }
 //...  
 

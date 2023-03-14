@@ -1,20 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "Drawer Navigator",
-      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer Navigator/Drawer Navigator.md"
-    },
-    {
       "basename": "6 Outputting Content in the Meal Detail Screen",
       "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/6 Outputting Content in the Meal Detail Screen.md"
-    },
-    {
-      "basename": "useNavigation Hook",
-      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/useNavigation Hook.md"
-    },
-    {
-      "basename": "_ 0 React Native - Practical Guide",
-      "path": "REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md"
     },
     {
       "basename": "5 Adding and Configuring the Meal Details Screen",
@@ -25,8 +13,32 @@
       "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/4 Styling ScreenHeader and Background.md"
     },
     {
+      "basename": "3 Add new Component MealItem",
+      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/3 Add new Component MealItem.md"
+    },
+    {
+      "basename": "2. Route parameters",
+      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/2. Route parameters.md"
+    },
+    {
+      "basename": "1 Add action to React Navigator",
+      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/1 Add action to React Navigator.md"
+    },
+    {
       "basename": "_ 0 React Native Navigation",
       "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/_ 0 React Native Navigation.md"
+    },
+    {
+      "basename": "Drawer Navigator",
+      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer Navigator/Drawer Navigator.md"
+    },
+    {
+      "basename": "useNavigation Hook",
+      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/useNavigation Hook.md"
+    },
+    {
+      "basename": "_ 0 React Native - Practical Guide",
+      "path": "REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md"
     },
     {
       "basename": "_ 0 PySide",
@@ -187,18 +199,6 @@
     {
       "basename": "5.1 QtDesigner",
       "path": "P Y T H O N/Learn Python (Basic, BUI, Web, FullStack)/5.1 QtDesigner.md"
-    },
-    {
-      "basename": "5 GUI PyQt6",
-      "path": "P Y T H O N/Learn Python (Basic, BUI, Web, FullStack)/5 GUI PyQt6.md"
-    },
-    {
-      "basename": "Fetch",
-      "path": "REACT/DB/Fetch.md"
-    },
-    {
-      "basename": "7 Git TAG",
-      "path": "Git/Helion Git/7 Git TAG.md"
     }
   ],
   "omittedPaths": [],

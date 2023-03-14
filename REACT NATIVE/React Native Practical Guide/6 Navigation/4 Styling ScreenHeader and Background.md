@@ -15,14 +15,14 @@ for one screen
 export default function App() {
   return (
     <>
-      <StatusBar style="dark" />
-      <NavigationContainer>
-        <Stack.Navigator>
-          <Stack.Screen name="MealsCategories"
-                        component={CategoriesScreen}
-                        options={{
-                          title:'All Categories',
-                          headerStyle: { backgroundColor: "#991410" },
+    <StatusBar style="dark" />
+    <NavigationContainer>
+      <Stack.Navigator>
+        <Stack.Screen name="MealsCategories"
+          component={CategoriesScreen}
+          options={{
+           title:'All Categories',
+           headerStyle: { backgroundColor: "#991410" },
                           headerTintColor: "white",
                           contentStyle: { backgroundColor: '#3f2f'}
                            }

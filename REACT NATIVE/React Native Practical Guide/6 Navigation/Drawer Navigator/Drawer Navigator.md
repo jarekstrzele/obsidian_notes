@@ -11,8 +11,8 @@ https://reactnavigation.org/docs/drawer-navigator
 ### `import 'react-native-gesture-handler';`
 
 
-problem z react-native-reanimated
-`npm install react-native-reanimated@1 --save --save-exact`
+## ==problem z react-native-reanimated==
+### `npm install react-native-reanimated@1 --save --save-exact`
 
 
 App.jsx
