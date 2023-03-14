@@ -194,7 +194,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -294,7 +295,7 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "728e02ec9df28ece",
+  "active": "aad6e2f11a660f1c",
   "lastOpenFiles": [
     "P Y T H O N/GUI/PyQt/PyQt Codemy/_ 0 PyQt5 code.md",
     "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/two screen in one window.md",
