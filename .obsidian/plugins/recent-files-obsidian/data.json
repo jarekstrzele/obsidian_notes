@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "Drawer Navigator",
+      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer Navigator/Drawer Navigator.md"
+    },
+    {
+      "basename": "6 Outputting Content in the Meal Detail Screen",
+      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/6 Outputting Content in the Meal Detail Screen.md"
+    },
+    {
+      "basename": "useNavigation Hook",
+      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/useNavigation Hook.md"
+    },
+    {
+      "basename": "_ 0 React Native - Practical Guide",
+      "path": "REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md"
+    },
+    {
+      "basename": "5 Adding and Configuring the Meal Details Screen",
+      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/5 Adding and Configuring the Meal Details Screen.md"
+    },
+    {
+      "basename": "4 Styling ScreenHeader and Background",
+      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/4 Styling ScreenHeader and Background.md"
+    },
+    {
+      "basename": "_ 0 React Native Navigation",
+      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/_ 0 React Native Navigation.md"
+    },
+    {
       "basename": "_ 0 PySide",
       "path": "P Y T H O N/GUI/PySide6/_ 0 PySide.md"
     },
@@ -63,14 +91,6 @@
     {
       "basename": "_ 0 PyQt5 From A-Z",
       "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md"
-    },
-    {
-      "basename": "Drawer Navigator",
-      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer Navigator/Drawer Navigator.md"
-    },
-    {
-      "basename": "6 Outputting Content in the Meal Detail Screen",
-      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/6 Outputting Content in the Meal Detail Screen.md"
     },
     {
       "basename": "8 Make Decisions",
@@ -149,10 +169,6 @@
       "path": "Git/Helion Git/_ 0 Git Helion VideoPoint.md"
     },
     {
-      "basename": "5 Adding and Configuring the Meal Details Screen",
-      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/5 Adding and Configuring the Meal Details Screen.md"
-    },
-    {
       "basename": "graf-drzewo-wyjazd.excalidraw",
       "path": "Excalidraw/graf-drzewo-wyjazd.excalidraw.md"
     },
@@ -177,28 +193,12 @@
       "path": "P Y T H O N/Learn Python (Basic, BUI, Web, FullStack)/5 GUI PyQt6.md"
     },
     {
-      "basename": "4 Styling ScreenHeader and Background",
-      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/4 Styling ScreenHeader and Background.md"
-    },
-    {
       "basename": "Fetch",
       "path": "REACT/DB/Fetch.md"
     },
     {
       "basename": "7 Git TAG",
       "path": "Git/Helion Git/7 Git TAG.md"
-    },
-    {
-      "basename": "5 Git Remote",
-      "path": "Git/Helion Git/5 Git Remote.md"
-    },
-    {
-      "basename": "3 Gałęzie",
-      "path": "Git/Helion Git/3 Gałęzie.md"
-    },
-    {
-      "basename": "7.8 QTableWidget",
-      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.8 QTableWidget.md"
     }
   ],
   "omittedPaths": [],
