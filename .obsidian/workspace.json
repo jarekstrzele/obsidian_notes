@@ -85,7 +85,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer Navigator/Drawer Navigator.md",
+                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/8 Icon Button.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "afd27d767b78ef16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer or Bottom-Tabs Navigators/Drawer Navigator.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cb789e9aeef84df0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/9 Nested Navigators.md",
                 "mode": "source",
                 "source": false
               }
@@ -176,7 +200,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -250,7 +274,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer Navigator/Drawer Navigator.md",
+                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/9 Nested Navigators.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -267,7 +291,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer Navigator/Drawer Navigator.md",
+                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/9 Nested Navigators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -290,7 +314,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer Navigator/Drawer Navigator.md"
+                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/9 Nested Navigators.md"
               }
             }
           },
@@ -330,8 +354,11 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "99bbd1db49ab41d6",
+  "active": "cb789e9aeef84df0",
   "lastOpenFiles": [
+    "REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer or Bottom-Tabs Navigators/Drawer Navigator.md",
+    "REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer or Bottom-Tabs Navigators/BottomNavigator.md",
+    "REACT NATIVE/React Native Practical Guide/6 Navigation/9 Nested Navigators.md",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/8 Icon Button.md",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/7 Adding Header Button.md",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/6 Outputting Content in the Meal Detail Screen.md",
@@ -341,7 +368,6 @@
     "REACT NATIVE/React Native Practical Guide/6 Navigation/3 Add new Component MealItem.md",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/2. Route parameters.md",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/1 Add action to React Navigator.md",
-    "REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer Navigator/Drawer Navigator.md",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/useNavigation Hook.md",
     "REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
     "P Y T H O N/GUI/PySide6/_ 0 PySide.md",
@@ -358,9 +384,7 @@
     "REACT/React - the Complete Guide/_ 0 React Full.md",
     "REACT/React - the Complete Guide/useCallback.md",
     "linux/UBUNTU.md",
-    "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/10 QMainWindow class - Professional apps.md",
-    "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.1 QTabWidget.md",
-    "REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer Navigator",
+    "REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer or Bottom-Tabs Navigators",
     "Studia/Python BackEnd/Django",
     "Untitled.canvas",
     "P Y T H O N/GUI/PyQt/PyQt Codemy"

@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "9 Nested Navigators",
+      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/9 Nested Navigators.md"
+    },
+    {
       "basename": "Drawer Navigator",
-      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer Navigator/Drawer Navigator.md"
+      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer or Bottom-Tabs Navigators/Drawer Navigator.md"
+    },
+    {
+      "basename": "BottomNavigator",
+      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer or Bottom-Tabs Navigators/BottomNavigator.md"
     },
     {
       "basename": "8 Icon Button",
@@ -191,14 +199,6 @@
     {
       "basename": "graf-drzewo-wyjazd.excalidraw",
       "path": "Excalidraw/graf-drzewo-wyjazd.excalidraw.md"
-    },
-    {
-      "basename": "3 - Algorytmy grafowe",
-      "path": "algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md"
-    },
-    {
-      "basename": "4 drzewo binarnych wyszukiwań",
-      "path": "algorithmic/Grafy w Pythonie/4 drzewo binarnych wyszukiwań.md"
     }
   ],
   "omittedPaths": [],
