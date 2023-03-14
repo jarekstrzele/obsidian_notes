@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "_ 0 PySide",
+      "path": "P Y T H O N/GUI/PySide6/_ 0 PySide.md"
+    },
+    {
       "basename": "two screen in one window",
       "path": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/two screen in one window.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "7.8 QTableWidget",
       "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.8 QTableWidget.md"
-    },
-    {
-      "basename": "7.7 QWebEngineView",
-      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.7 QWebEngineView.md"
     }
   ],
   "omittedPaths": [],
