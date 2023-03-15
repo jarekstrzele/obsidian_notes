@@ -8,120 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "08ee676953b6df30",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.1 QTabWidget.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "23434c176f47a3f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/12 Database Apps with Qt.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "13905614528cb947",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt Codemy/_ 0 PyQt5 code.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "728e02ec9df28ece",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/two screen in one window.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e36452fa4be05a5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/6 Outputting Content in the Meal Detail Screen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff57872c16e1540e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/7 Adding Header Button.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "99bbd1db49ab41d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/8 Icon Button.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "afd27d767b78ef16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer or Bottom-Tabs Navigators/Drawer Navigator.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb789e9aeef84df0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/9 Nested Navigators.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0704266dd7143e02",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/useNavigation Hook.md",
+                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/9 Nested Navigators.md",
                 "mode": "source",
                 "source": false
               }
@@ -174,45 +66,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "cb252192d615b6e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linux/pop!sys.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "faa5b574c78ad2b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "REACT/React - the Complete Guide/14 Connecting to a Database.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a71c2559057808d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "P Y T H O N/GUI/Qt Designer and Python.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -286,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/useNavigation Hook.md",
+                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/9 Nested Navigators.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -303,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/useNavigation Hook.md",
+                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/9 Nested Navigators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -326,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/useNavigation Hook.md"
+                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/9 Nested Navigators.md"
               }
             }
           },
@@ -369,8 +224,9 @@
   "active": "0704266dd7143e02",
   "lastOpenFiles": [
     "REACT NATIVE/React Native Practical Guide/6 Navigation/8 Icon Button.md",
-    "REACT NATIVE/React Native Practical Guide/6 Navigation/9 Nested Navigators.md",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/7 Adding Header Button.md",
+    "REACT NATIVE/React Native Practical Guide/6 Navigation/useNavigation Hook.md",
+    "REACT NATIVE/React Native Practical Guide/6 Navigation/9 Nested Navigators.md",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/6 Outputting Content in the Meal Detail Screen.md",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/5 Adding and Configuring the Meal Details Screen.md",
     "REACT NATIVE/The Complete React NativePlusHooks/_ 0 Complete React Native.md",
@@ -382,7 +238,6 @@
     "REACT NATIVE/React Native Practical Guide/6 Navigation/3 Add new Component MealItem.md",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/2. Route parameters.md",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/1 Add action to React Navigator.md",
-    "REACT NATIVE/React Native Practical Guide/6 Navigation/useNavigation Hook.md",
     "REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
     "P Y T H O N/GUI/PySide6/_ 0 PySide.md",
     "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/two screen in one window.md",
