@@ -113,7 +113,28 @@ print(p.first_name)
 > **`__get__`  of descriptor has absolute precedence**
 > first the getter next the `__dict__` of instance
 
+some changes
+```python
+class PersonTable:
+    first_name=TextField(20)
+    
+    def __init__(self, first_name):
+        self.__dict__["first_name"]=first_name
 
+p = PersonTable("Tom")
+p.first_name = "Jerry"
+print(p.__dict__) # {'first_name': 'Tom'}
+print(p.first_name) #Jerry
+```
+
+**a problem**
+```python
+p2=PersonTable("Janosik")
+p2.first_name="Hanka"
+
+print(p.first_name) # Hanka
+
+```
 
 
 
