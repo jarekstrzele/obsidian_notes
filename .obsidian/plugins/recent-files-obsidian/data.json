@@ -5,6 +5,10 @@
       "path": "P Y T H O N/OOP Python udemy/8 Descriptors.md"
     },
     {
+      "basename": "150 ćw OOP w Python",
+      "path": "P Y T H O N/150 ćw OOP w Python.md"
+    },
+    {
       "basename": "9 Nested Navigators",
       "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/9 Nested Navigators.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2 Podstawowe komendy",
       "path": "Git/Helion Git/2 Podstawowe komendy.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Untitled.canvas"
     }
   ],
   "omittedPaths": [],

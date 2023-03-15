@@ -8,8 +8,8 @@ control the semantics of attribute access in Python - you can
 
 # Attribute LookupChain Review
 1. look in the instance(i.e. object) `__dict__` for a key with the attribute's name
-2. look in hte instance;s type (i.e. class) `__dict__` for a key with the attribute'sname
-3. look in the instance;s parent type (i..e. parent class) `__dict__` for a key with the attribute's name
+2. look in hte instances type (i.e. class) `__dict__` for a key with the attribute's name
+3. look in the instanc;s parent type (i..e. parent class) `__dict__` for a key with the attribute's name
 4. if not found, repeat for each parent type in mro order
 5. if not found, raise AttributeError
 
@@ -33,10 +33,10 @@ class Syn(Ojciec):
 krzys=Syn("Krzyś")
 krzys2=Syn()
 
-print(krzys.__dict__)
+print(krzys.__dict__) # {'name': 'Krzyś'}
 
-print(krzys2.__dict__)
-print(krzys2.name)
+print(krzys2.__dict__) # {}
+print(krzys2.name) #{}
 ```
 
 Descriptors can change this order
@@ -45,7 +45,7 @@ Descriptors can change this order
 # Descriptor
 >[!info] descriptor
 >a descriptor is just an object that implements the descriptor protocol
->- **protocol** is a contract between an object an Python
+>- **protocol** is a contract between an object and Python
 >- **descriptor protocol**:
 >	- `__get__()`
 >	- `__set__()`
