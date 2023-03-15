@@ -8,7 +8,7 @@ control the semantics of attribute access in Python - you can
 
 # Attribute LookupChain Review
 1. look in the instance(i.e. object) `__dict__` for a key with the attribute's name
-2. look in hte instances type (i.e. class) `__dict__` for a key with the attribute's name
+2. look in the instances type (i.e. class) `__dict__` for a key with the attribute's name
 3. look in the instanc;s parent type (i..e. parent class) `__dict__` for a key with the attribute's name
 4. if not found, repeat for each parent type in mro order
 5. if not found, raise AttributeError
@@ -36,13 +36,16 @@ krzys2=Syn()
 print(krzys.__dict__) # {'name': 'Krzyś'}
 
 print(krzys2.__dict__) # {}
-print(krzys2.name) #{}
+print(krzys2.name) # Hipolit
+print(krzys2.gotowka) # AttributeError: 'Syn' object has no attribute 'gotowka'
 ```
 
 Descriptors can change this order
 
 ---
 # Descriptor
+
+## definition
 >[!info] descriptor
 >a descriptor is just an object that implements the descriptor protocol
 >- **protocol** is a contract between an object and Python
@@ -66,6 +69,12 @@ class Descriptor:
         pass
 ```
 
+
+## using a descriptor
+
+
+#### problem:
+*we want to be able to define a PersonTable class that has a first_name attribute that is text of maximum length 200*
 
 
 
