@@ -78,6 +78,67 @@ class Descriptor:
 
 
 
+```python
+# our descriptor
+# by convention use `owner` and `owner`
+class TextField:
+    def __init__(self, length):
+        self.length=length
+    
+    def __get__(self, instance, owner):
+        return self.value
+    
+    def __set__(self, instance, value):
+        if not type(value) == str:
+            raise TypeError("Value should be a string")
+        
+        if len(value) > self.length:
+            raise ValueError(f"Value cannot exceed {self.length} charachers")
+    
+        self.value=value
+    def __delete__(self, instance):
+        pass
+
+
+class PersonTable:
+    first_name=TextField(20)
+
+p = PersonTable()
+p.first_name = "a"*30
+print(p.first_name)
+```
+
+
+> 
+> **`__get__`  of descriptor has absolute precedence**
+> first the getter next the `__dict__` of instance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
