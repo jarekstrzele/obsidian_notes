@@ -1,24 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "_ 0 Complete React Native",
-      "path": "REACT NATIVE/The Complete React NativePlusHooks/_ 0 Complete React Native.md"
-    },
-    {
-      "basename": "9 Nested Navigators",
-      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/9 Nested Navigators.md"
-    },
-    {
-      "basename": "Drawer Navigator",
-      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer or Bottom-Tabs Navigators/Drawer Navigator.md"
-    },
-    {
-      "basename": "BottomNavigator",
-      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer or Bottom-Tabs Navigators/BottomNavigator.md"
+      "basename": "useNavigation Hook",
+      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/useNavigation Hook.md"
     },
     {
       "basename": "8 Icon Button",
       "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/8 Icon Button.md"
+    },
+    {
+      "basename": "9 Nested Navigators",
+      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/9 Nested Navigators.md"
     },
     {
       "basename": "7 Adding Header Button",
@@ -29,12 +21,24 @@
       "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/6 Outputting Content in the Meal Detail Screen.md"
     },
     {
-      "basename": "_ 0 React Native Navigation",
-      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/_ 0 React Native Navigation.md"
-    },
-    {
       "basename": "5 Adding and Configuring the Meal Details Screen",
       "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/5 Adding and Configuring the Meal Details Screen.md"
+    },
+    {
+      "basename": "_ 0 Complete React Native",
+      "path": "REACT NATIVE/The Complete React NativePlusHooks/_ 0 Complete React Native.md"
+    },
+    {
+      "basename": "Drawer Navigator",
+      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer or Bottom-Tabs Navigators/Drawer Navigator.md"
+    },
+    {
+      "basename": "BottomNavigator",
+      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer or Bottom-Tabs Navigators/BottomNavigator.md"
+    },
+    {
+      "basename": "_ 0 React Native Navigation",
+      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/_ 0 React Native Navigation.md"
     },
     {
       "basename": "4 Styling ScreenHeader and Background",
@@ -51,10 +55,6 @@
     {
       "basename": "1 Add action to React Navigator",
       "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/1 Add action to React Navigator.md"
-    },
-    {
-      "basename": "useNavigation Hook",
-      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/useNavigation Hook.md"
     },
     {
       "basename": "_ 0 React Native - Practical Guide",
