@@ -1,5 +1,5 @@
 [[_ 0 React Native Navigation]]
-
+            
 install navigator [[Drawer Navigator]]
 
 add (in App.js):
