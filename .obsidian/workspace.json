@@ -266,7 +266,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -366,7 +367,7 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "0704266dd7143e02",
+  "active": "aad6e2f11a660f1c",
   "lastOpenFiles": [
     "REACT NATIVE/React Native Practical Guide/6 Navigation/9 Nested Navigators.md",
     "REACT NATIVE/The Complete React NativePlusHooks/_ 0 Complete React Native.md",
