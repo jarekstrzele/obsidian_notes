@@ -275,7 +275,7 @@ czy_wyjezdzamy(wyjazd, status, 'ojciec')
 
 Ten algorytm nie ogranicza się tylko do drzew, jak poprzedni.
 
-
+![[graf_DFS.excalidraw | 600]]
 
 
 
