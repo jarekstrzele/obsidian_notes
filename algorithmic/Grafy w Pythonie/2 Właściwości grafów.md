@@ -273,6 +273,7 @@ czy_wyjezdzamy(wyjazd, status, 'ojciec')
 --------------------------------
 # wyszukiwanie Depth First Search
 
+Ten algorytm nie ogranicza się tylko do drzew, jak poprzedni.
 
 
 

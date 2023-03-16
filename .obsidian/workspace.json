@@ -79,8 +79,7 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/UBUNTU.md",
+                "file": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -171,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/UBUNTU.md",
+                "file": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/UBUNTU.md"
+                "file": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md"
               }
             }
           },
@@ -234,8 +233,9 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "0a50fdc4622d9d82",
+  "active": "0704266dd7143e02",
   "lastOpenFiles": [
+    "linux/UBUNTU.md",
     "linux/Shell 18 commands that will change the way you use linux forever.md",
     "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md",
     "HASKELL/learning haskell programming/_ 0 Learining Haskell Programming.md",
@@ -263,7 +263,6 @@
     "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/two screen in one window.md",
     "P Y T H O N/GUI/PySide6",
     "P Y T H O N/GUI/PyQt/PyQt Codemy/_ 0 PyQt5 code.md",
-    "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
     "P Y T H O N/GUI/PyQt/PyQt5_with_Hala",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer or Bottom-Tabs Navigators",
     "Studia/Python BackEnd/Django",
