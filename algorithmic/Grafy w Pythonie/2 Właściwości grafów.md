@@ -169,7 +169,7 @@ V2 = {
   
 
 def is_path_between(V, source, dest):
-    list_to_check = [[source]]
+    list_to_check = [source]
     list_visited = []
   
     while list_to_check:
