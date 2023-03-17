@@ -11,9 +11,11 @@
             "id": "0704266dd7143e02",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/graf_DFS.excalidraw.md"
+                "file": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -139,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/graf_DFS.excalidraw.md",
+                "file": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -156,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/graf_DFS.excalidraw.md",
+                "file": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/graf_DFS.excalidraw.md"
+                "file": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md"
               }
             }
           },
@@ -221,8 +223,8 @@
   },
   "active": "0704266dd7143e02",
   "lastOpenFiles": [
-    "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
     "Excalidraw/graf_DFS.excalidraw.md",
+    "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
     "HASKELL/learning haskell programming/_ 0 Learining Haskell Programming.md",
     "linux/UBUNTU.md",
     "linux/Shell 18 commands that will change the way you use linux forever.md",
