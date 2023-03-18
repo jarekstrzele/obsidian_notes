@@ -1,5 +1,15 @@
 [[0 - Haskell intro]]
 
+[[#Curried functions]]
+[[#Some higher-orderism is in order]]
+[[#map]]
+[[#filter]]
+[[#]]
+
+
+
+
+
 >[!info] HOF
 > A function that take functions as parameters or return functions as return values.
 
@@ -169,6 +179,7 @@ quicksort (x:xs) =
 ```
 
 
+---
 # takeWhile
 #haskell/takeWhile
 - it takes a predicate and a list and then goes from the beginning of the list and returns its elements while the predicate holds true
@@ -178,6 +189,20 @@ quicksort (x:xs) =
 
 
 
+
+
+--------
+# lambdas
+it is anonymous function that is used because we need some functions only once
+
+
+**to make a lambda**
+`\ parm_1 parm_2 parm_n  ->  function body`
+
+```haskell
+numLongChains :: Int
+numLongChains = 
+```
 
 
 
