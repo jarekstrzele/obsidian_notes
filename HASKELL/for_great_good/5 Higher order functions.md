@@ -210,6 +210,27 @@ map (\(a,b) -> a+b) [(1,2), (3,5), (6,3)]
 ```
 
 
+-----------
+# only folds and horses
+a fold takes:
+	- a binary function
+	- a starting value/accumulator
+	- alist to fold up
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
