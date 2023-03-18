@@ -121,7 +121,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -221,8 +222,9 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "0704266dd7143e02",
+  "active": "aad6e2f11a660f1c",
   "lastOpenFiles": [
+    "Prog/test.py",
     "P Y T H O N/150 ćw OOP w Python.md",
     "P Y T H O N/OOP Python udemy/8 Descriptors.md",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/9 Nested Navigators.md",
@@ -251,7 +253,6 @@
     "P Y T H O N/GUI/PyQt/PyQt5_with_Hala",
     "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
     "algorithmic/Grafy.md",
-    "REACT/React - the Complete Guide/14 Connecting to a Database.md",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer or Bottom-Tabs Navigators",
     "Studia/Python BackEnd/Django",
     "Untitled.canvas",
