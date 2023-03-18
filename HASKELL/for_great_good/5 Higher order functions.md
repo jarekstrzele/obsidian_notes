@@ -201,7 +201,7 @@ it is anonymous function that is used because we need some functions only once
 
 ```haskell
 numLongChains :: Int
-numLongChains = 
+numLongChains = length (filter (\xs -> length xs > 15) (map chain [1..100]))
 ```
 
 
