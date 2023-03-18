@@ -169,7 +169,7 @@ V2 = {
   
 
 def is_path_between(V, source, dest):
-    list_to_check = [[source]]
+    list_to_check = [source]
     list_visited = []
   
     while list_to_check:
@@ -273,7 +273,9 @@ czy_wyjezdzamy(wyjazd, status, 'ojciec')
 --------------------------------
 # wyszukiwanie Depth First Search
 
+Ten algorytm nie ogranicza się tylko do drzew, jak poprzedni.
 
+![[graf_DFS.excalidraw | 600]]
 
 
 

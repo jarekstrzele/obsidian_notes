@@ -20,6 +20,30 @@
             }
           },
           {
+            "id": "ee3efb03e956fe92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HASKELL/for_great_good/4 Recursion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6a0cd00df30125b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "365d51aec2a6d912",
             "type": "leaf",
             "state": {
@@ -67,7 +91,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -121,8 +146,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -142,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "P Y T H O N/OOP Python udemy/8 Descriptors.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -159,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "P Y T H O N/OOP Python udemy/8 Descriptors.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "P Y T H O N/OOP Python udemy/8 Descriptors.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -222,11 +246,14 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "aad6e2f11a660f1c",
+  "active": "6a0cd00df30125b7",
   "lastOpenFiles": [
+    "HASKELL/for_great_good/4 Recursion.md",
+    "conflict-files-obsidian-git.md",
+    "P Y T H O N/OOP Python udemy/8 Descriptors.md",
+    "Excalidraw/graf_DFS.excalidraw.md",
     "Prog/test.py",
     "P Y T H O N/150 ćw OOP w Python.md",
-    "P Y T H O N/OOP Python udemy/8 Descriptors.md",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/9 Nested Navigators.md",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer or Bottom-Tabs Navigators/Drawer Navigator.md",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/7 Adding Header Button.md",
@@ -251,8 +278,6 @@
     "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/_ 0 PyQt with Hala.md",
     "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/12 Database Apps with Qt.md",
     "P Y T H O N/GUI/PyQt/PyQt5_with_Hala",
-    "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
-    "algorithmic/Grafy.md",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer or Bottom-Tabs Navigators",
     "Studia/Python BackEnd/Django",
     "Untitled.canvas",

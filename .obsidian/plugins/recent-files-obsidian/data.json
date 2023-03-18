@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
+      "basename": "4 Recursion",
+      "path": "HASKELL/for_great_good/4 Recursion.md"
+    },
+    {
       "basename": "8 Descriptors",
       "path": "P Y T H O N/OOP Python udemy/8 Descriptors.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Framework Django",
       "path": "Studia/Python BackEnd/Django/Framework Django.md"
-    },
-    {
-      "basename": "Qt Designer and Python",
-      "path": "P Y T H O N/GUI/Qt Designer and Python.md"
-    },
-    {
-      "basename": "2 Podstawowe komendy",
-      "path": "Git/Helion Git/2 Podstawowe komendy.md"
     }
   ],
   "omittedPaths": [],
