@@ -202,6 +202,11 @@ it is anonymous function that is used because we need some functions only once
 ```haskell
 numLongChains :: Int
 numLongChains = length (filter (\xs -> length xs > 15) (map chain [1..100]))
+
+
+map (\(a,b) -> a+b) [(1,2), (3,5), (6,3)]
+
+
 ```
 
 
