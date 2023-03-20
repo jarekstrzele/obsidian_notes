@@ -55,8 +55,6 @@ Descriptors can change this order
 >	- `__delete__()`
 >*any object that implements a combination of these methods is a descriptor*
 
-
-
 ```python
 class Descriptor:
     def __get__(self, instance, owner):
@@ -73,7 +71,6 @@ class Descriptor:
 ## using a descriptor
 > problem:
 > *we want to be able to define a PersonTable class that has a first_name attribute that is text of maximum length 200*
-
 
 
 ```python
