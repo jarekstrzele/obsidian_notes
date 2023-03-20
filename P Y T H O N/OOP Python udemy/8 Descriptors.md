@@ -68,9 +68,23 @@ class Descriptor:
 ```
 
 `self` - represents an instance of that class
-`owner` - refers to the class that owns the descriptor
+`owner` - refers to the class from where the descriptor is invoked (and set to a class variable)
+				in the example below PersonTable class owns the descriptor
+```python
+print(PersonTable.__dict__)
+{'__module__': '__main__', 
+ 
+ 'first_name': <__main__.TextField object at 0x7ff3e4d81210>, 
+ 'last_name': <__main__.TextField object at 0x7ff3e4d813d0>, 
+ 
+ '__dict__': <attribute '__dict__' of 'PersonTable' objects>, 
+ '__weakref__': <attribute '__weakref__' of 'PersonTable' objects>, '__doc__': None}
+```
 
+`PersonTable` is owner of these specific instances of the descriptor class named `TextField`
 
+-
+`instance` refers to the instance of the owinf class
 
 
 
@@ -310,8 +324,40 @@ print(p.__dict__) # {'text_field_value': 'Kloss'}
 
 
 
+-----------
+# `self, owner, instance`
 
+```python
+class Descriptor:
+    def __get__(self, instance, owner):
+        pass
+    
+    def __set__(self, instance, value):
+        pass
+    
+    def __delete__(self, instance):
+        pass
+```
 
+`self` - represents an instance of that class
+`owner` - refers to the class from where the descriptor is invoked (and set to a class variable)
+				in the example below PersonTable class owns the descriptor
+```python
+print(PersonTable.__dict__)
+{'__module__': '__main__', 
+ 
+ 'first_name': <__main__.TextField object at 0x7ff3e4d81210>, 
+ 'last_name': <__main__.TextField object at 0x7ff3e4d813d0>, 
+ 
+ '__dict__': <attribute '__dict__' of 'PersonTable' objects>, 
+ '__weakref__': <attribute '__weakref__' of 'PersonTable' objects>, '__doc__': None}
+```
+
+	`PersonTable` is owner of these specific instances of the descriptor class named `TextField`
+
+- `instance` refers to the instance of the owinf class
+
+WHEN THE DESCRIPTOR ATTRIBU
 
 
 
