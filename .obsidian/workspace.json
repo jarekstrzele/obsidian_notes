@@ -20,30 +20,6 @@
             }
           },
           {
-            "id": "ee3efb03e956fe92",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HASKELL/for_great_good/5 Higher order functions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "365d51aec2a6d912",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HASKELL/learning haskell programming/_ 0 Learining Haskell Programming.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "068d36bc518f2de2",
             "type": "leaf",
             "state": {
@@ -78,9 +54,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0a50fdc4622d9d82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linux/UBUNTU.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/for_great_good/5 Higher order functions.md",
+                "file": "P Y T H O N/OOP Python udemy/8 Descriptors.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -171,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/for_great_good/5 Higher order functions.md",
+                "file": "P Y T H O N/OOP Python udemy/8 Descriptors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/for_great_good/5 Higher order functions.md"
+                "file": "P Y T H O N/OOP Python udemy/8 Descriptors.md"
               }
             }
           },
@@ -234,13 +221,16 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "ee3efb03e956fe92",
+  "active": "0704266dd7143e02",
   "lastOpenFiles": [
-    "HASKELL/for_great_good/4 Recursion.md",
-    "conflict-files-obsidian-git.md",
-    "P Y T H O N/OOP Python udemy/8 Descriptors.md",
+    "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
     "Excalidraw/graf_DFS.excalidraw.md",
-    "Prog/test.py",
+    "HASKELL/learning haskell programming/_ 0 Learining Haskell Programming.md",
+    "linux/UBUNTU.md",
+    "linux/Shell 18 commands that will change the way you use linux forever.md",
+    "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md",
+    "algorithmic/Grafy.md",
+    "P Y T H O N/OOP Python udemy/8 Descriptors.md",
     "P Y T H O N/150 ćw OOP w Python.md",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/9 Nested Navigators.md",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer or Bottom-Tabs Navigators/Drawer Navigator.md",
@@ -261,10 +251,6 @@
     "P Y T H O N/GUI/PySide6/_ 0 PySide.md",
     "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/two screen in one window.md",
     "P Y T H O N/GUI/PySide6",
-    "P Y T H O N/GUI/PyQt/PyQt Codemy/_ 0 PyQt5 code.md",
-    "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
-    "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/_ 0 PyQt with Hala.md",
-    "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/12 Database Apps with Qt.md",
     "P Y T H O N/GUI/PyQt/PyQt5_with_Hala",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer or Bottom-Tabs Navigators",
     "Studia/Python BackEnd/Django",

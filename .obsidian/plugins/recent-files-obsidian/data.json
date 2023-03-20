@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "5 Higher order functions",
-      "path": "HASKELL/for_great_good/5 Higher order functions.md"
-    },
-    {
-      "basename": "4 Recursion",
-      "path": "HASKELL/for_great_good/4 Recursion.md"
-    },
-    {
       "basename": "8 Descriptors",
       "path": "P Y T H O N/OOP Python udemy/8 Descriptors.md"
+    },
+    {
+      "basename": "2 Właściwości grafów",
+      "path": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md"
+    },
+    {
+      "basename": "graf_DFS.excalidraw",
+      "path": "Excalidraw/graf_DFS.excalidraw.md"
+    },
+    {
+      "basename": "_ 0 Learining Haskell Programming",
+      "path": "HASKELL/learning haskell programming/_ 0 Learining Haskell Programming.md"
+    },
+    {
+      "basename": "UBUNTU",
+      "path": "linux/UBUNTU.md"
+    },
+    {
+      "basename": "Shell 18 commands that will change the way you use linux forever",
+      "path": "linux/Shell 18 commands that will change the way you use linux forever.md"
+    },
+    {
+      "basename": "_ 0 Haskell for Imperative Programmers",
+      "path": "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md"
+    },
+    {
+      "basename": "Grafy",
+      "path": "algorithmic/Grafy.md"
     },
     {
       "basename": "150 ćw OOP w Python",
@@ -101,14 +121,6 @@
       "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/12 Database Apps with Qt.md"
     },
     {
-      "basename": "2 Właściwości grafów",
-      "path": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md"
-    },
-    {
-      "basename": "Grafy",
-      "path": "algorithmic/Grafy.md"
-    },
-    {
       "basename": "14 Connecting to a Database",
       "path": "REACT/React - the Complete Guide/14 Connecting to a Database.md"
     },
@@ -119,10 +131,6 @@
     {
       "basename": "useCallback",
       "path": "REACT/React - the Complete Guide/useCallback.md"
-    },
-    {
-      "basename": "UBUNTU",
-      "path": "linux/UBUNTU.md"
     },
     {
       "basename": "10 QMainWindow class - Professional apps",
@@ -147,10 +155,6 @@
     {
       "basename": "pop!sys",
       "path": "linux/pop!sys.md"
-    },
-    {
-      "basename": "Shell 18 commands that will change the way you use linux forever",
-      "path": "linux/Shell 18 commands that will change the way you use linux forever.md"
     },
     {
       "basename": "5 Partial Function Application and Currying",
@@ -181,10 +185,6 @@
       "path": "HASKELL/Happy Learn Haskell/3 Types as Jigsaw Pieces.md"
     },
     {
-      "basename": "_ 0 Learining Haskell Programming",
-      "path": "HASKELL/learning haskell programming/_ 0 Learining Haskell Programming.md"
-    },
-    {
       "basename": "_ 0 Happy Learn Haskell",
       "path": "HASKELL/Happy Learn Haskell/_ 0 Happy Learn Haskell.md"
     },
@@ -193,12 +193,12 @@
       "path": "HASKELL/Haskell for Imperative Programmers/6 Composition.md"
     },
     {
-      "basename": "_ 0 Haskell for Imperative Programmers",
-      "path": "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md"
-    },
-    {
       "basename": "Framework Django",
       "path": "Studia/Python BackEnd/Django/Framework Django.md"
+    },
+    {
+      "basename": "Qt Designer and Python",
+      "path": "P Y T H O N/GUI/Qt Designer and Python.md"
     }
   ],
   "omittedPaths": [],
