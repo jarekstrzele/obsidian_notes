@@ -88,6 +88,7 @@ print(PersonTable.__dict__)
 
 
 
+# Data descriptor
 
 ---
 ## using a descriptor
@@ -139,11 +140,11 @@ print(p.first_name)
 
 -----------
 
-#  Descriptor storage
+##  Descriptor storage
 
 > use `instance.__dict__` for storing descriptor field values
 
-## some changes
+#### some changes
 ```python
 class PersonTable:
     first_name=TextField(20)
@@ -157,7 +158,7 @@ print(p.__dict__) # {'first_name': 'Tom'}
 print(p.first_name) #Jerry
 ```
 
-**a problem**
+#### **a problem**
 ```python
 p2=PersonTable("Janosik")
 p2.first_name="Hanka"
@@ -166,7 +167,7 @@ print(p.first_name) # -> Hanka not Jerry, because descriptor is a class attribut
 
 ```
 
-## SOLUTION
+#### SOLUTION
 ```python
 class TextField:
 	def __init__(self, length):
@@ -207,7 +208,7 @@ print(f"{p2.__dict__ =}" ) # p2.__dict__ ={'text_field_value': 'Jerry'}
 
 
 ---
-## a new problem
+#### a new problem
 ```python
 
 class TextField:
@@ -244,7 +245,7 @@ print(p.__dict__) # {'text_field_value': 'Kloss'}
 ```
 
 
-## SOLUTION
+#### SOLUTION
 `self.field_name = field_name`
 `f"TextField_{self.field_name}`
 ```python
@@ -282,7 +283,7 @@ print(p.__dict__) # {'text_field_value': 'Kloss'}
 
 ---------------------
 
-# Using `__set_name__`
+## Using `__set_name__`
 > - `__set_name__` is defined in the descriptor class and called each time the descriptor is instantiated
 > - the second parameter(`name`) of that method captures the name of the class attribute the instance of the descriptor is assigned to
 
@@ -322,10 +323,19 @@ print(p.first_name, p.last_name) # Kloss, Kloss
 print(p.__dict__) # {'text_field_value': 'Kloss'}
 ```
 
+-----------
+## define deleter
+```python
+class TextField:
+# ...
+	def __delete__(self,  instance):
+		del instance.__dict__[f"Text_field_{self.name}"]
+	
+```
 
 
 -----------
-# `self, owner, instance`
+## `self, owner, instance`
 
 ```python
 class Descriptor:
@@ -358,7 +368,38 @@ print(PersonTable.__dict__)
 - `instance` refers to the instance of the owinf class
 
 	WHEN THE DESCRIPTOR ATTRIBUTE IS ACCESSED FROM THE CLASS DIRECTLY, THE INSTANCE ARGUMENT IS SET TO `None`
+```python
+class TextField:
+# ...
 
+	def __get__(self, instance, owner):
+		# return self.value
+		print(instance)
+		print(owner)
+ 	if instance is None:
+ 	    return self
+		return instance.__dict__.get(f"TextField_{self.name}", None)
+
+# ...
+
+class PersonTable:
+	first_name = TextField(20)
+	last_name = TextField(30)
+
+p = PersonTable()
+p.first_name = "Hans"
+p.last_name = "Kloss" 
+print(PersonTable.first_name)
+# None
+# <class '__main__.PersonTable'>
+# <__main__.TextField object at 0x7fd48aa81110>
+```
+
+-------------
+
+# Non-Data Descriptor
+
+> 
 
 
 
