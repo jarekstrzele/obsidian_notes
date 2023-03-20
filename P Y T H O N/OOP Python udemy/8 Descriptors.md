@@ -399,9 +399,31 @@ print(PersonTable.first_name)
 
 # Non-Data Descriptor
 
-> 
+> [!important]  Non-Data Descriptor
+> Descriptor that implements only `__get__`
+
+- DATA descriptor has the highest precedence
+- NON-DATA descriptor doesn't have the highest precedence
+
+add to `PersonTabel` and `TextField` a new non-data descriptor:
+```python
+from random import randint
+
+class LuckyNumber:
+	def __get__(self, instance, owner):
+		return randint(1,100)
 
 
+class PersonTable:
+	first_name = TextField(20)
+	last_name = TextField(30)
+	person_num = LuckyNumber()
+
+p = PersonTable()
+print(p.person_num)
+
+
+```
 
 
 
