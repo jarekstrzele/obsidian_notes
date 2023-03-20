@@ -173,18 +173,87 @@ p2.first_name="Jerry"
 print(f"{p1.first_name =}" ) # Tom
 print(f"{p2.first_name =}" ) # Jerry 
 print(f"{p1.__dict__ =}" ) # p1.__dict__ ={'text_field_value': 'Tom'}
-p2.__dict__ ={'text_field_value': 'Jerry'}
-print(f"{p2.__dict__ =}" ) # 
+
+print(f"{p2.__dict__ =}" ) # p2.__dict__ ={'text_field_value': 'Jerry'}
 
 
 		
 ```
 
 
+---
+## a new problem
+```python
+
+class TextField:
+	def __init__(self, length):
+		self.length=length
+
+	def __get__(self, instance, owner):
+		# return self.value
+		return instance.__dict__.get("text_field_value", None)
+
+	def __set__(self, instance, value):
+		if not type(value) == str:
+			raise TypeError("Value should be a string")
+		if len(value) > self.length:
+			raise ValueError(f"Value cannot exceed {self.length} characters")
+
+		instance.__dict__["text_field_value"] = value
 
 
+	def __delete__(self, instance):
+		pass
+
+class PersonTable:
+	first_name = TextField(20)
+	last_name = TextField(30)
+
+p = PersonTable()
+p.first_name = "Hans"
+p.last_name = "Kloss" 
+print(p.first_name, p.last_name) # Kloss, Kloss
+print(p.__dict__) # {'text_field_value': 'Kloss'}
 
 
+```
+
+
+## SOLUTION
+`self.field_name = field_name`
+`f"TextField_{self.field_name}`
+```python
+class TextField:
+	def __init__(self, length, field_name):
+		self.length=length
+		self.field_name = field_name
+
+	def __get__(self, instance, owner):
+		# return self.value
+		return instance.__dict__.get(f"TextField_{self.field_name}", None)
+
+	def __set__(self, instance, value):
+		if not type(value) == str:
+			raise TypeError("Value should be a string")
+		if len(value) > self.length:
+			raise ValueError(f"Value cannot exceed {self.length} characters")
+
+		instance.__dict__[f"TextField_{self.field_name}] = value
+
+
+	def __delete__(self, instance):
+		pass
+
+class PersonTable:
+	first_name = TextField(20)
+	last_name = TextField(30)
+
+p = PersonTable()
+p.first_name = "Hans"
+p.last_name = "Kloss" 
+print(p.first_name, p.last_name) # Kloss, Kloss
+print(p.__dict__) # {'text_field_value': 'Kloss'}
+```
 
 
 
