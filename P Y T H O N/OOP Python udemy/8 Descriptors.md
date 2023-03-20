@@ -9,8 +9,8 @@ control the semantics of attribute access in Python - you can
 # Attribute LookupChain Review
 1. look in the instance(i.e. object) `__dict__` for a key with the attribute's name
 2. look in the instances type (i.e. class) `__dict__` for a key with the attribute's name
-3. look in the instanc;s parent type (i..e. parent class) `__dict__` for a key with the attribute's name
-4. if not found, repeat for each parent type in mro order
+3. look in the instances parent type (i..e. parent class) `__dict__` for a key with the attribute's name
+4. if not found, repeat for each parent type in *mro* order
 5. if not found, raise AttributeError
 
 ```python
@@ -69,23 +69,23 @@ class Descriptor:
         pass
 ```
 
-
+---
 ## using a descriptor
-
-
-#### problem:
-*we want to be able to define a PersonTable class that has a first_name attribute that is text of maximum length 200*
+> problem:
+> *we want to be able to define a PersonTable class that has a first_name attribute that is text of maximum length 200*
 
 
 
 ```python
 # our descriptor
-# by convention use `owner` and `owner`
+# by convention use `instance` and `owner`
 class TextField:
     def __init__(self, length):
         self.length=length
     
     def __get__(self, instance, owner):
+	    print(f"{instance =}" )
+        print(f"{owner =} ")
         return self.value
     
     def __set__(self, instance, value):
@@ -101,11 +101,15 @@ class TextField:
 
 
 class PersonTable:
-    first_name=TextField(20)
+    first_name = TextField(20)
 
 p = PersonTable()
-p.first_name = "a"*30
+p.first_name = "a"*10
 print(p.first_name)
+# instance =<__main__.PersonTable object at 0x7ff8aa755a10>
+# owner =<class '__main__.PersonTable'> 
+# aaaaaaaaaa
+
 ```
 
 
