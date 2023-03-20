@@ -402,8 +402,8 @@ print(PersonTable.first_name)
 > [!important]  Non-Data Descriptor
 > Descriptor that implements only `__get__`
 
-- DATA descriptor has the highest precedence
-- NON-DATA descriptor doesn't have the highest precedence
+- DATA descriptor has the highest precedence (**before** the `instance.__dict__`)
+- NON-DATA descriptor doesn't have the highest precdence (**after** the `instance_dict__`)
 
 add to `PersonTabel` and `TextField` a new non-data descriptor:
 ```python
@@ -421,8 +421,16 @@ class PersonTable:
 
 p = PersonTable()
 print(p.person_num)
-
-
+p = PersonTable()
+p.first_name = "Jan"
+p.last_name = "Kowalski"
+# p.person_num = 10
+print(p.person_num)
+print(p.__dict__)
+print(PersonTable.person_num)
+# 61
+# {'TextField_first_name': 'Jan', 'TextField_last_name': 'Kowalski'}
+# 27
 ```
 
 
