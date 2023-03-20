@@ -116,6 +116,8 @@ print(p.first_name)
 
 
 -----------
+
+#  Descriptor storage
 ## some changes
 ```python
 class PersonTable:
@@ -135,12 +137,15 @@ print(p.first_name) #Jerry
 p2=PersonTable("Janosik")
 p2.first_name="Hanka"
 
-print(p.first_name) # -> Hanka not Jerry
+print(p.first_name) # -> Hanka not Jerry, because descriptor is a class attribute
 
 ```
 
 
-
+```python
+class TextField:
+	def __
+```
 
 
 
