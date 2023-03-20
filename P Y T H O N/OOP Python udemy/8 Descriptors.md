@@ -141,10 +141,43 @@ print(p.first_name) # -> Hanka not Jerry, because descriptor is a class attribut
 
 ```
 
-
+## SOLUTION
 ```python
 class TextField:
-	def __
+	def __init__(self, length):
+		self.length=length
+
+	def __get__(self, instance, owner):
+		# return self.value
+		return instance.__dict__.get("text_field_value", None)
+
+	def __set__(self, instance, value):
+		if not type(value) == str:
+			raise TypeError("Value should be a string")
+		if len(value) > self.length:
+			raise ValueError(f"Value cannot exceed {self.length} characters")
+
+		instance.__dict__["text_field_value"] = value
+
+
+	def __delete__(self, instance):
+		pass
+
+class PersonTable:
+	first_name = TextField(20)
+
+p1 = PersonTable()
+p2 = PersonTable()
+p1.first_name="Tom"
+p2.first_name="Jerry"
+print(f"{p1.first_name =}" ) # Tom
+print(f"{p2.first_name =}" ) # Jerry 
+print(f"{p1.__dict__ =}" ) # p1.__dict__ ={'text_field_value': 'Tom'}
+p2.__dict__ ={'text_field_value': 'Jerry'}
+print(f"{p2.__dict__ =}" ) # 
+
+
+		
 ```
 
 
