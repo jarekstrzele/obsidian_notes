@@ -118,6 +118,9 @@ print(p.first_name)
 -----------
 
 #  Descriptor storage
+
+> use `instance.__dict__` for storing descriptor field values
+
 ## some changes
 ```python
 class PersonTable:
@@ -238,15 +241,15 @@ class TextField:
 		if len(value) > self.length:
 			raise ValueError(f"Value cannot exceed {self.length} characters")
 
-		instance.__dict__[f"TextField_{self.field_name}] = value
+		instance.__dict__[f"TextField_{self.field_name}" ] = value
 
 
 	def __delete__(self, instance):
 		pass
 
 class PersonTable:
-	first_name = TextField(20)
-	last_name = TextField(30)
+	first_name = TextField(20, "first_name")
+	last_name = TextField(30, "last_name")
 
 p = PersonTable()
 p.first_name = "Hans"
@@ -255,8 +258,9 @@ print(p.first_name, p.last_name) # Kloss, Kloss
 print(p.__dict__) # {'text_field_value': 'Kloss'}
 ```
 
+---------------------
 
-
+# Using `__set_name__`
 
 
 
