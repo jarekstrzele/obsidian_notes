@@ -357,7 +357,7 @@ print(PersonTable.__dict__)
 
 - `instance` refers to the instance of the owinf class
 
-WHEN THE DESCRIPTOR ATTRIBU
+	WHEN THE DESCRIPTOR ATTRIBUTE IS ACCESSED FROM THE CLASS DIRECTLY, THE INSTANCE ARGUMENT IS SET TO `None`
 
 
 
