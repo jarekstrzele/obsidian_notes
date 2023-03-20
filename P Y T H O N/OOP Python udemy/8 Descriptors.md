@@ -67,6 +67,14 @@ class Descriptor:
         pass
 ```
 
+`self` - represents an instance of that class
+`owner` - refers to the class that owns the descriptor
+
+
+
+
+
+
 ---
 ## using a descriptor
 > problem:
@@ -261,6 +269,44 @@ print(p.__dict__) # {'text_field_value': 'Kloss'}
 ---------------------
 
 # Using `__set_name__`
+> - `__set_name__` is defined in the descriptor class and called each time the descriptor is instantiated
+> - the second parameter(`name`) of that method captures the name of the class attribute the instance of the descriptor is assigned to
+
+```python
+class TextField:
+	def __init__(self, length):
+		self.length=length
+		
+	def __set_name__(self, owner, name):
+	    self.name = name
+
+	def __get__(self, instance, owner):
+		# return self.value
+		return instance.__dict__.get(f"TextField_{self.name}", None)
+
+	def __set__(self, instance, value):
+		if not type(value) == str:
+			raise TypeError("Value should be a string")
+		if len(value) > self.length:
+			raise ValueError(f"Value cannot exceed {self.length} characters")
+
+		instance.__dict__[f"TextField_{self.name}" ] = value
+
+
+	def __delete__(self, instance):
+		pass
+
+
+class PersonTable:
+	first_name = TextField(20)
+	last_name = TextField(30)
+
+p = PersonTable()
+p.first_name = "Hans"
+p.last_name = "Kloss" 
+print(p.first_name, p.last_name) # Kloss, Kloss
+print(p.__dict__) # {'text_field_value': 'Kloss'}
+```
 
 
 
