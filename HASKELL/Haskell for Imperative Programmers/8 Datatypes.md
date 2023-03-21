@@ -23,7 +23,14 @@ calc (Div x y) = div x y
 ```
 
 
+### Recursive data type with polimorphic type
+```haskell
+data Tree a = Leaf | Node (Tree a) a (Tree a)
 
+tree :: Tree Int
+tree = Node (Node Leaf 1 Leaf) 2 (Node (Node Leaf 3 Leaf) 4 Leaf)
+
+```
 
 
 

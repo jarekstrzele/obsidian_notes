@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "CheckList",
+      "path": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/CheckList.md"
+    },
+    {
+      "basename": "_ 0 PyQt with Hala",
+      "path": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/_ 0 PyQt with Hala.md"
+    },
+    {
+      "basename": "two screen in one window",
+      "path": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/two screen in one window.md"
+    },
+    {
+      "basename": "_ 0 PySide",
+      "path": "P Y T H O N/GUI/PySide6/_ 0 PySide.md"
+    },
+    {
       "basename": "8 Datatypes",
       "path": "HASKELL/Haskell for Imperative Programmers/8 Datatypes.md"
     },
@@ -89,24 +105,12 @@
       "path": "REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md"
     },
     {
-      "basename": "_ 0 PySide",
-      "path": "P Y T H O N/GUI/PySide6/_ 0 PySide.md"
-    },
-    {
-      "basename": "two screen in one window",
-      "path": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/two screen in one window.md"
-    },
-    {
       "basename": "_ 0 PyQt5 code",
       "path": "P Y T H O N/GUI/PyQt/PyQt Codemy/_ 0 PyQt5 code.md"
     },
     {
       "basename": "9 QtDesigner",
       "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md"
-    },
-    {
-      "basename": "_ 0 PyQt with Hala",
-      "path": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/_ 0 PyQt with Hala.md"
     },
     {
       "basename": "12 Database Apps with Qt",
@@ -195,10 +199,6 @@
     {
       "basename": "_ 0 Learining Haskell Programming",
       "path": "HASKELL/learning haskell programming/_ 0 Learining Haskell Programming.md"
-    },
-    {
-      "basename": "_ 0 Happy Learn Haskell",
-      "path": "HASKELL/Happy Learn Haskell/_ 0 Happy Learn Haskell.md"
     }
   ],
   "omittedPaths": [],
