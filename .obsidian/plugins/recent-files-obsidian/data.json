@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "8 Datatypes",
+      "path": "HASKELL/Haskell for Imperative Programmers/8 Datatypes.md"
+    },
+    {
       "basename": "7 Folding",
       "path": "HASKELL/Haskell for Imperative Programmers/7 Folding.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_ 0 Happy Learn Haskell",
       "path": "HASKELL/Happy Learn Haskell/_ 0 Happy Learn Haskell.md"
-    },
-    {
-      "basename": "_ 0 Haskell for Imperative Programmers",
-      "path": "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md"
     }
   ],
   "omittedPaths": [],

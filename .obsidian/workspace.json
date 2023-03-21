@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "10ff0358f0743c09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HASKELL/Haskell for Imperative Programmers/8 Datatypes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "365d51aec2a6d912",
             "type": "leaf",
             "state": {
@@ -92,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -166,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/Haskell for Imperative Programmers/7 Folding.md",
+                "file": "HASKELL/Haskell for Imperative Programmers/8 Datatypes.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -183,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/Haskell for Imperative Programmers/7 Folding.md",
+                "file": "HASKELL/Haskell for Imperative Programmers/8 Datatypes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/Haskell for Imperative Programmers/7 Folding.md"
+                "file": "HASKELL/Haskell for Imperative Programmers/8 Datatypes.md"
               }
             }
           },
@@ -246,10 +258,11 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "dc7d8731b61c75f9",
+  "active": "10ff0358f0743c09",
   "lastOpenFiles": [
-    "HASKELL/Haskell for Imperative Programmers/6 Composition.md",
     "HASKELL/Haskell for Imperative Programmers/7 Folding.md",
+    "HASKELL/Haskell for Imperative Programmers/8 Datatypes.md",
+    "HASKELL/Haskell for Imperative Programmers/6 Composition.md",
     "HASKELL/for_great_good/5 Higher order functions.md",
     "HASKELL/for_great_good/4 Recursion.md",
     "conflict-files-obsidian-git.md",
@@ -276,7 +289,6 @@
     "P Y T H O N/GUI/PySide6/_ 0 PySide.md",
     "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/two screen in one window.md",
     "P Y T H O N/GUI/PySide6",
-    "P Y T H O N/GUI/PyQt/PyQt Codemy/_ 0 PyQt5 code.md",
     "P Y T H O N/GUI/PyQt/PyQt5_with_Hala",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer or Bottom-Tabs Navigators",
     "Studia/Python BackEnd/Django",
