@@ -7,11 +7,28 @@ examples
 ```haskell
 data Color = Red | Orange | Yellow | Green | Blue | Magenta
 
-data PeanNUm = Succ PeanNum | Zero
+data PeanNum = Succ PeanNum | Zero
 
-add Calc
+data Calculation = Add Int Int | Sub Int Int | Mul Int Int | Div Int Int
 
 ```
+`PeaNum` is recursuve
+
+```haskell
+calc :: Calculation -> Int
+calc (Add x y) = x+y
+calc (Sub x y) = x-y
+calc (Mul x y )= x*y
+calc (Div x y) = div x y
+```
+
+
+
+
+
+
+
+
 
 
 
