@@ -5,20 +5,36 @@
       "path": "P Y T H O N/GUI/Tkinter/Widżety proste TkInter.md"
     },
     {
-      "basename": "Tkinter Pomidoro",
-      "path": "P Y T H O N/GUI/Tkinter/Tkinter Pomidoro.md"
-    },
-    {
-      "basename": "Tkinter konwerter",
-      "path": "P Y T H O N/GUI/Tkinter/Tkinter konwerter.md"
-    },
-    {
       "basename": "Tkinter 0",
       "path": "P Y T H O N/GUI/Tkinter/Tkinter 0.md"
     },
     {
       "basename": "Tkinter",
       "path": "P Y T H O N/GUI/Tkinter/Tkinter.md"
+    },
+    {
+      "basename": "Icons, Images, Exit Button",
+      "path": "P Y T H O N/GUI/Tkinter/Icons, Images, Exit Button.md"
+    },
+    {
+      "basename": "Calculator simple",
+      "path": "P Y T H O N/GUI/Tkinter/Calculator simple.md"
+    },
+    {
+      "basename": "Calculater",
+      "path": "P Y T H O N/GUI/Tkinter/Calculater.md"
+    },
+    {
+      "basename": "Tkinter",
+      "path": "P Y T H O N/GUI/Tkinter.md"
+    },
+    {
+      "basename": "Tkinter Pomidoro",
+      "path": "P Y T H O N/GUI/Tkinter/Tkinter Pomidoro.md"
+    },
+    {
+      "basename": "Tkinter konwerter",
+      "path": "P Y T H O N/GUI/Tkinter/Tkinter konwerter.md"
     },
     {
       "basename": "9 Nested Navigators",
@@ -183,22 +199,6 @@
     {
       "basename": "pop!sys",
       "path": "linux/pop!sys.md"
-    },
-    {
-      "basename": "Shell 18 commands that will change the way you use linux forever",
-      "path": "linux/Shell 18 commands that will change the way you use linux forever.md"
-    },
-    {
-      "basename": "5 Partial Function Application and Currying",
-      "path": "HASKELL/Haskell for Imperative Programmers/5 Partial Function Application and Currying.md"
-    },
-    {
-      "basename": "9. Shop For Food with List",
-      "path": "HASKELL/Happy Learn Haskell/9. Shop For Food with List.md"
-    },
-    {
-      "basename": "7 Outputs",
-      "path": "HASKELL/Happy Learn Haskell/7 Outputs.md"
     }
   ],
   "omittedPaths": [],
