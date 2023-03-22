@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "8.1. Descriptor example",
+      "path": "P Y T H O N/OOP Python udemy/8.1. Descriptor example.md"
+    },
+    {
       "basename": "8 Descriptors",
       "path": "P Y T H O N/OOP Python udemy/8 Descriptors.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Framework Django",
       "path": "Studia/Python BackEnd/Django/Framework Django.md"
-    },
-    {
-      "basename": "Qt Designer and Python",
-      "path": "P Y T H O N/GUI/Qt Designer and Python.md"
     }
   ],
   "omittedPaths": [],
