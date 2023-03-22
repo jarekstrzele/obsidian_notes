@@ -452,7 +452,7 @@ class PersonTableWithProps:
         
     @property
     def first_name(self):
-        return self._Textfield_first_name
+        return self._TextField_first_name
         
     @first_name.setter
     def first_name(self, value):
@@ -470,6 +470,8 @@ class PersonTableWithProps:
         
 
 p = PersonTableWithProps(10)
+p.first_name = "Jerry"
+print(p.first_name) # Jerry
 
 # p.first_name = "abc"*11
 # Traceback (most recent call last):
@@ -495,7 +497,7 @@ class PersonTableWithProps:
         
     
     def get_first_name(self):
-        return self._Textfield_first_name
+        return self._TextField_first_name
         
     
     def set_first_name(self, value):
@@ -525,7 +527,79 @@ print(p.__dict__)
 
 
 ## descriptors are significantly more reusable
-if  you want to add some new attributes, your call will be horible
+if  you want to add some new attributes, your call will be horrible
+```python
+class PersonTableWithProps:
+    
+    def __init__(self, first_name_length, last_name_length, occupation_length):
+        self._TextField_first_name = None
+        self._TextField_last_name = None
+        self._TextField_occupation = None
+        
+        self.last_name_length = last_name_length
+        self.occupation_length = occupation_length
+        self.first_name_length = first_name_length
+        
+    @property
+    def first_name(self):
+        return self._TextField_first_name
+        
+    @first_name.setter
+    def first_name(self, value):
+        if not type(value) == str:
+            raise TypeError(f"Value should be a string")
+        
+        if len(value) > self.first_name_length:
+            raise ValueError(f"Value cannot exceed {self.first_name_length} characters")
+            
+        self._TextField_first_name = value
+        
+    @first_name.deleter
+    def first_name(self):
+        del self._TextField_first_name
 
+#################        
+    @property
+    def last_name(self):
+        return self._TextField_last_name
+        
+    @last_name.setter
+    def last_name(self, value):
+        if not type(value) == str:
+            raise TypeError(f"Value should be a string")
+        
+        if len(value) > self.last_name_length:
+            raise ValueError(f"Value cannot exceed {self.last_name_length} characters")
+            
+        self._TextField_flast_name = value
+        
+    @last_name.deleter
+    def first_name(self):
+        del self._TextField_last_name
+        
+################################3
+    @property
+    def occupation(self):
+        return self._TextField_occupation
+        
+    @occupation.setter
+    def occupation(self, value):
+        if not type(value) == str:
+            raise TypeError(f"Value should be a string")
+        
+        if len(value) > self.occupation_length:
+            raise ValueError(f"Value cannot exceed {self.occupation_length} characters")
+            
+        self._TextField_occupation = value
+        
+    @occupation.deleter
+    def first_name(self):
+        del self._TextField_occupation
+        
+
+p = PersonTableWithProps(10, 5, 7)
+p.first_name = "Jerry"
+print(p.first_name)
+```
 
 
