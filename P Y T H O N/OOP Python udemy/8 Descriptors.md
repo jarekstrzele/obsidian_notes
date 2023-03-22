@@ -84,7 +84,7 @@ print(PersonTable.__dict__)
 `PersonTable` is owner of these specific instances of the descriptor class named `TextField`
 
 -
-`instance` refers to the instance of the owinf class
+`instance` refers to the instance of the owing class
 
 
 
