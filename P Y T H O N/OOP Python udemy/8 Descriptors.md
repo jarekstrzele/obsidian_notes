@@ -440,6 +440,9 @@ print(PersonTable.person_num)
 - descriptors are significantly more reusable
 - in small project properties are good but in large projects descriptors are better
 
+
+
+## properties provide syntactic sugar over the descriptor protocol
 ```python
 class PersonTableWithProps:
     
@@ -459,7 +462,7 @@ class PersonTableWithProps:
         if len(value) > self.first_name_length:
             raise ValueError(f"Value cannot exceed {self.first_name_length} characters")
             
-        sel._TextField_first_name = value
+        self._TextField_first_name = value
         
     @first_name.deleter
     def first_name(self):
@@ -475,12 +478,54 @@ p = PersonTableWithProps(10)
 # ValueError: Value cannot exceed 10 characters
 
 
+# p.first_name = 123*11111
+# Traceback (most recent call last):
+#  File "<string>", line 27, in <module>
+#  File "<string>", line 14, in first_name
+# TypeError: Value should be a string
+```
+
+but this syntax above is just a syntactic suger for that one:
+```python
+class PersonTableWithProps:
+    
+    def __init__(self, first_name_length):
+        self._TextField_first_name = None
+        self.first_name_length = first_name_length
+        
+    
+    def get_first_name(self):
+        return self._Textfield_first_name
+        
+    
+    def set_first_name(self, value):
+        if not type(value) == str:
+            raise TypeError(f"Value should be a string")
+        
+        if len(value) > self.first_name_length:
+            raise ValueError(f"Value cannot exceed {self.first_name_length} characters")
+            
+        self._TextField_first_name = value
+        
+    
+    def del_first_name(self):
+        del self._TextField_first_name
+        
+    first_name = property(fget=get_first_name, fset=set_first_name, fdel=del_first_name)
+
+
+p = PersonTableWithProps(10)
+p.first_name = "Tom"
+print(p.__dict__)
+# {'_TextField_first_name': 'Tom', 'first_name_length': 10}
 ```
 
 
+`first_name = property(fget=get_first_name, fset=set_first_name, fdel=del_first_name)` - this is descriptor protocol
 
 
-
+## descriptors are significantly more reusable
+if  you want to add some new attributes, your call will be horible
 
 
 
