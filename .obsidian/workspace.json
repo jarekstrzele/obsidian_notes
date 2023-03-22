@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/9 Nested Navigators.md",
+                "file": "P Y T H O N/GUI/Tkinter/Widżety proste TkInter.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/9 Nested Navigators.md",
+                "file": "P Y T H O N/GUI/Tkinter/Widżety proste TkInter.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/9 Nested Navigators.md",
+                "file": "P Y T H O N/GUI/Tkinter/Widżety proste TkInter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/9 Nested Navigators.md"
+                "file": "P Y T H O N/GUI/Tkinter/Widżety proste TkInter.md"
               }
             }
           },
@@ -200,6 +200,11 @@
   },
   "active": "357d553b52ed337c",
   "lastOpenFiles": [
+    "P Y T H O N/GUI/Tkinter/Tkinter Pomidoro.md",
+    "P Y T H O N/GUI/Tkinter/Tkinter konwerter.md",
+    "P Y T H O N/GUI/Tkinter/Tkinter 0.md",
+    "P Y T H O N/GUI/Tkinter/Tkinter.md",
+    "REACT NATIVE/React Native Practical Guide/6 Navigation/9 Nested Navigators.md",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer or Bottom-Tabs Navigators/Drawer Navigator.md",
     "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/CheckList.md",
     "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/_ 0 PyQt with Hala.md",
@@ -215,7 +220,6 @@
     "Excalidraw/graf_DFS.excalidraw.md",
     "Prog/test.py",
     "P Y T H O N/150 ćw OOP w Python.md",
-    "REACT NATIVE/React Native Practical Guide/6 Navigation/9 Nested Navigators.md",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/7 Adding Header Button.md",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/5 Adding and Configuring the Meal Details Screen.md",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer or Bottom-Tabs Navigators/BottomNavigator.md",
@@ -224,10 +228,6 @@
     "REACT NATIVE/React Native Practical Guide/6 Navigation/6 Outputting Content in the Meal Detail Screen.md",
     "REACT NATIVE/The Complete React NativePlusHooks/_ 0 Complete React Native.md",
     "REACT NATIVE/The Complete React NativePlusHooks",
-    "REACT NATIVE/React Native Practical Guide/6 Navigation/_ 0 React Native Navigation.md",
-    "REACT NATIVE/React Native Practical Guide/6 Navigation/4 Styling ScreenHeader and Background.md",
-    "REACT NATIVE/React Native Practical Guide/6 Navigation/3 Add new Component MealItem.md",
-    "REACT NATIVE/React Native Practical Guide/6 Navigation/2. Route parameters.md",
     "P Y T H O N/GUI/PySide6",
     "P Y T H O N/GUI/PyQt/PyQt5_with_Hala",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer or Bottom-Tabs Navigators",

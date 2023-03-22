@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Widżety proste TkInter",
+      "path": "P Y T H O N/GUI/Tkinter/Widżety proste TkInter.md"
+    },
+    {
+      "basename": "Tkinter Pomidoro",
+      "path": "P Y T H O N/GUI/Tkinter/Tkinter Pomidoro.md"
+    },
+    {
+      "basename": "Tkinter konwerter",
+      "path": "P Y T H O N/GUI/Tkinter/Tkinter konwerter.md"
+    },
+    {
+      "basename": "Tkinter 0",
+      "path": "P Y T H O N/GUI/Tkinter/Tkinter 0.md"
+    },
+    {
+      "basename": "Tkinter",
+      "path": "P Y T H O N/GUI/Tkinter/Tkinter.md"
+    },
+    {
       "basename": "9 Nested Navigators",
       "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/9 Nested Navigators.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "7 Outputs",
       "path": "HASKELL/Happy Learn Haskell/7 Outputs.md"
-    },
-    {
-      "basename": "6 Sockets and Plugs",
-      "path": "HASKELL/Happy Learn Haskell/6 Sockets and Plugs.md"
-    },
-    {
-      "basename": "5 Function Magic",
-      "path": "HASKELL/Happy Learn Haskell/5 Function Magic.md"
-    },
-    {
-      "basename": "4 the Main Road",
-      "path": "HASKELL/Happy Learn Haskell/4 the Main Road.md"
-    },
-    {
-      "basename": "3 Types as Jigsaw Pieces",
-      "path": "HASKELL/Happy Learn Haskell/3 Types as Jigsaw Pieces.md"
-    },
-    {
-      "basename": "_ 0 Learining Haskell Programming",
-      "path": "HASKELL/learning haskell programming/_ 0 Learining Haskell Programming.md"
     }
   ],
   "omittedPaths": [],
