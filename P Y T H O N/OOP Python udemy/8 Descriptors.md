@@ -440,7 +440,42 @@ print(PersonTable.person_num)
 - descriptors are significantly more reusable
 - in small project properties are good but in large projects descriptors are better
 
+```python
+class PersonTableWithProps:
+    
+    def __init__(self, first_name_length):
+        self._TextField_first_name = None
+        self.first_name_length = first_name_length
+        
+    @property
+    def first_name(self):
+        return self._Textfield_first_name
+        
+    @first_name.setter
+    def first_name(self, value):
+        if not type(value) == str:
+            raise TypeError(f"Value should be a string")
+        
+        if len(value) > self.first_name_length:
+            raise ValueError(f"Value cannot exceed {self.first_name_length} characters")
+            
+        sel._TextField_first_name = value
+        
+    @first_name.deleter
+    def first_name(self):
+        del self._TextField_first_name
+        
 
+p = PersonTableWithProps(10)
+
+# p.first_name = "abc"*11
+# Traceback (most recent call last):
+#   File "<string>", line 27, in <module>
+#   File "<string>", line 17, in first_name
+# ValueError: Value cannot exceed 10 characters
+
+
+```
 
 
 
