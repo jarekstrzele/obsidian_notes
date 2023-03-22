@@ -365,7 +365,7 @@ print(PersonTable.__dict__)
 
 	`PersonTable` is owner of these specific instances of the descriptor class named `TextField`
 
-- `instance` refers to the instance of the owinf class
+- `instance` refers to the instance of the owing class
 
 	WHEN THE DESCRIPTOR ATTRIBUTE IS ACCESSED FROM THE CLASS DIRECTLY, THE INSTANCE ARGUMENT IS SET TO `None`
 ```python
@@ -432,6 +432,14 @@ print(PersonTable.person_num)
 # {'TextField_first_name': 'Jan', 'TextField_last_name': 'Kowalski'}
 # 27
 ```
+
+----------
+# Properties vs Descriptors
+
+- properties provide syntactic sugar over the descriptor protocol
+- descriptors are significantly more reusable
+- in small project properties are good but in large projects descriptors are better
+
 
 
 
