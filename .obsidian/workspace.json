@@ -4,83 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "bca02dfab675938e",
+        "id": "9a5922b231104c72",
         "type": "tabs",
         "children": [
           {
-            "id": "0704266dd7143e02",
+            "id": "dd6e3bf76a85b059",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "P Y T H O N/OOP Python udemy/8 Descriptors.md",
+                "file": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/_ 0 PyQt with Hala.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e0664b061fdf7280",
+            "id": "a17117711691ad32",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "P Y T H O N/OOP Python udemy/8.1. Descriptor example.md",
+                "file": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/CheckList.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "068d36bc518f2de2",
+            "id": "357d553b52ed337c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3ce93ba5f323bf78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6a6e6929565c0330",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linux/Shell 18 commands that will change the way you use linux forever.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0a50fdc4622d9d82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/9 Nested Navigators.md",
+                "file": "REACT NATIVE/React Native Practical Guide/1.4. FlatList.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -138,7 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350.5
+    "width": 321.5
   },
   "right": {
     "id": "ec7d1a70da2de581",
@@ -154,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "P Y T H O N/OOP Python udemy/8.1. Descriptor example.md",
+                "file": "REACT NATIVE/React Native Practical Guide/1.4. FlatList.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -171,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "P Y T H O N/OOP Python udemy/8.1. Descriptor example.md",
+                "file": "REACT NATIVE/React Native Practical Guide/1.4. FlatList.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "P Y T H O N/OOP Python udemy/8.1. Descriptor example.md"
+                "file": "REACT NATIVE/React Native Practical Guide/1.4. FlatList.md"
               }
             }
           },
@@ -234,35 +198,36 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "e0664b061fdf7280",
+  "active": "357d553b52ed337c",
   "lastOpenFiles": [
-    "P Y T H O N/OOP Python udemy/8 Descriptors.md",
     "P Y T H O N/OOP Python udemy/8.1. Descriptor example.md",
+    "REACT NATIVE/React Native Practical Guide/6 Navigation/1 Add action to React Navigator.md",
+    "REACT NATIVE/React Native Practical Guide/6 Navigation/3 Add new Component MealItem.md",
+    "P Y T H O N/GUI/Tkinter/Widżety proste TkInter.md",
+    "P Y T H O N/GUI/Tkinter/Tkinter 0.md",
+    "P Y T H O N/GUI/Tkinter/Tkinter.md",
+    "P Y T H O N/GUI/Tkinter/Icons, Images, Exit Button.md",
+    "P Y T H O N/GUI/Tkinter/Calculator simple.md",
+    "P Y T H O N/GUI/Tkinter/Calculater.md",
+    "P Y T H O N/GUI/Tkinter.md",
+    "P Y T H O N/GUI/Tkinter/Tkinter Pomidoro.md",
+    "P Y T H O N/GUI/Tkinter/Tkinter konwerter.md",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/9 Nested Navigators.md",
-    "REACT NATIVE/React Native Practical Guide/6 Navigation/8 Icon Button.md",
-    "linux/UBUNTU.md",
-    "linux/Shell 18 commands that will change the way you use linux forever.md",
+    "REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer or Bottom-Tabs Navigators/Drawer Navigator.md",
     "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/CheckList.md",
+    "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/_ 0 PyQt with Hala.md",
+    "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/two screen in one window.md",
+    "P Y T H O N/GUI/PySide6/_ 0 PySide.md",
     "HASKELL/Haskell for Imperative Programmers/8 Datatypes.md",
     "HASKELL/Haskell for Imperative Programmers/7 Folding.md",
-    "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
+    "HASKELL/Haskell for Imperative Programmers/6 Composition.md",
+    "HASKELL/for_great_good/5 Higher order functions.md",
+    "HASKELL/for_great_good/4 Recursion.md",
+    "conflict-files-obsidian-git.md",
+    "P Y T H O N/OOP Python udemy/8 Descriptors.md",
     "Excalidraw/graf_DFS.excalidraw.md",
-    "HASKELL/learning haskell programming/_ 0 Learining Haskell Programming.md",
-    "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md",
-    "algorithmic/Grafy.md",
-    "P Y T H O N/150 ćw OOP w Python.md",
-    "REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer or Bottom-Tabs Navigators/Drawer Navigator.md",
-    "REACT NATIVE/React Native Practical Guide/6 Navigation/7 Adding Header Button.md",
-    "REACT NATIVE/React Native Practical Guide/6 Navigation/5 Adding and Configuring the Meal Details Screen.md",
-    "REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer or Bottom-Tabs Navigators/BottomNavigator.md",
-    "REACT NATIVE/React Native Practical Guide/6 Navigation/useNavigation Hook.md",
-    "REACT NATIVE/React Native Practical Guide/6 Navigation/6 Outputting Content in the Meal Detail Screen.md",
-    "REACT NATIVE/The Complete React NativePlusHooks/_ 0 Complete React Native.md",
+    "Prog/test.py",
     "REACT NATIVE/The Complete React NativePlusHooks",
-    "REACT NATIVE/React Native Practical Guide/6 Navigation/_ 0 React Native Navigation.md",
-    "REACT NATIVE/React Native Practical Guide/6 Navigation/4 Styling ScreenHeader and Background.md",
-    "REACT NATIVE/React Native Practical Guide/6 Navigation/3 Add new Component MealItem.md",
-    "REACT NATIVE/React Native Practical Guide/6 Navigation/2. Route parameters.md",
     "P Y T H O N/GUI/PySide6",
     "P Y T H O N/GUI/PyQt/PyQt5_with_Hala",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer or Bottom-Tabs Navigators",
