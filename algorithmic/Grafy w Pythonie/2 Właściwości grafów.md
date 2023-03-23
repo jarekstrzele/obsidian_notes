@@ -280,14 +280,14 @@ Ten algorytm nie ogranicza się tylko do drzew, jak poprzedni.
 
 ```python
 V = {
-	 'tygrysek': ['prosiaczek', 'puchatek'],
-	 'prosiaczek': ['tygrysek', 'puchatek', 'sowa', 'maleństwo'],
-	 'puchatek' :['tygrysek', 'prosiaczek', 'krzyś'],
-	 'maleństwo' :['prosiaczek', 'mama', 'hefalump'],
-	 'sowa' :['prosiaczek', 'hefalump', 'krzyś'],
-	 'krzyś': ['puchatek', 'sowa'],
-	 'mama': ['maleństwo', 'hefalump'],
-	 'hefalump': ['']
+'tygrysek': ['prosiaczek', 'puchatek'],
+'prosiaczek': ['tygrysek', 'puchatek', 'sowa', 'maleństwo'],
+'puchatek' :['tygrysek', 'prosiaczek', 'krzyś'],
+'maleństwo' :['prosiaczek', 'mama', 'hefalump'],
+'sowa' :['prosiaczek', 'hefalump', 'krzyś'],
+'krzyś': ['puchatek', 'sowa'],
+'mama': ['maleństwo', 'hefalump'],
+'hefalump': ['maleństwo', 'mama', 'sowa']
 	 
 }
 ```

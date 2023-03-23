@@ -49,6 +49,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "P Y T H O N/OOP Python udemy/8 Descriptors.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8d79a884d7999dbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
                 "mode": "source",
                 "source": false
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
+                "file": "P Y T H O N/OOP Python udemy/8 Descriptors.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -147,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
+                "file": "P Y T H O N/OOP Python udemy/8 Descriptors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md"
+                "file": "P Y T H O N/OOP Python udemy/8 Descriptors.md"
               }
             }
           },
@@ -212,8 +224,9 @@
   },
   "active": "c099220f5467aef2",
   "lastOpenFiles": [
-    "Excalidraw/graf_DFS.excalidraw.md",
     "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
+    "P Y T H O N/OOP Python udemy/8 Descriptors.md",
+    "Excalidraw/graf_DFS.excalidraw.md",
     "HASKELL/for_great_good/5 Higher order functions.md",
     "REACT NATIVE/React Native Practical Guide/1.4. FlatList.md",
     "P Y T H O N/OOP Python udemy/8.1. Descriptor example.md",
@@ -237,7 +250,6 @@
     "HASKELL/Haskell for Imperative Programmers/8 Datatypes.md",
     "HASKELL/Haskell for Imperative Programmers/7 Folding.md",
     "HASKELL/Haskell for Imperative Programmers/6 Composition.md",
-    "HASKELL/for_great_good/4 Recursion.md",
     "Prog/test.py",
     "REACT NATIVE/The Complete React NativePlusHooks",
     "P Y T H O N/GUI/PySide6",
