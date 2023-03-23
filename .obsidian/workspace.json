@@ -47,9 +47,11 @@
             "id": "c099220f5467aef2",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/graf_DFS.excalidraw.md"
+                "file": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -128,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/graf_DFS.excalidraw.md",
+                "file": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -145,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/graf_DFS.excalidraw.md",
+                "file": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/graf_DFS.excalidraw.md"
+                "file": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md"
               }
             }
           },
@@ -210,6 +212,7 @@
   },
   "active": "c099220f5467aef2",
   "lastOpenFiles": [
+    "Excalidraw/graf_DFS.excalidraw.md",
     "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
     "HASKELL/for_great_good/5 Higher order functions.md",
     "REACT NATIVE/React Native Practical Guide/1.4. FlatList.md",
@@ -235,7 +238,6 @@
     "HASKELL/Haskell for Imperative Programmers/7 Folding.md",
     "HASKELL/Haskell for Imperative Programmers/6 Composition.md",
     "HASKELL/for_great_good/4 Recursion.md",
-    "conflict-files-obsidian-git.md",
     "Prog/test.py",
     "REACT NATIVE/The Complete React NativePlusHooks",
     "P Y T H O N/GUI/PySide6",
