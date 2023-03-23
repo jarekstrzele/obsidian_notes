@@ -210,13 +210,28 @@ map (\(a,b) -> a+b) [(1,2), (3,5), (6,3)]
 a fold takes:
 	- a binary function
 	- a starting value/accumulator
-	- alist to fold up
+	- a list to fold up
 
+1. the binary function is called with the accumulator and the first (or last) element and produce a new accumulator
+then
+2. the binary function is called again with the new accumulator and the now new first (or last) element, 
+3. and so on
+we reduce the list to the value of accumulator
 
+### `foldl` the left fold 
+- it folds the list up from the left side
+- the binary function is applied between the starting value and the head of the list
+- that produces a new accumulator value and the binary function is called with that value and the nex element, etc
 
-
-
-
+```haskell
+sum'::(Num a) => [a] -> a
+sum' xs = foldl (\acc x -> acc + x) 0 xs
+sum' [3,5,2,1] -- -> 11
+```
+binary function: `\acc x -> acc + x`
+the starting value: `0`
+the list to be folded up: `xs`
+1. `acc = 0` and `x=3`, so `0+3`=`3`, so `acc=3`
 
 
 
