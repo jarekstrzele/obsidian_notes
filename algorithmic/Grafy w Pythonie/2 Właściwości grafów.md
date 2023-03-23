@@ -279,7 +279,11 @@ Ten algorytm nie ogranicza się tylko do drzew, jak poprzedni.
 
 
 ```python
-
+V = {
+	 'tygrysek': ['prosiaczek', 'puchatek'],
+	 'prosiaczek': ['tygrysek', 'puchatek', 'sowa', 'maleństwo'],
+	 
+}
 ```
 
 
