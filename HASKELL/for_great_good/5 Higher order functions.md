@@ -22,7 +22,6 @@ If a function accepts several parameters is **curried function**
 >[!info] parially applied function
 >a function that takes as many parameters as we left out
 
-
 ```haskell
 ghci> max 4 5
 5
@@ -188,9 +187,6 @@ quicksort (x:xs) =
 -  If we wanted to get the first word of the string `"elephants know how to party"`, we could do `takeWhile (/=' ')` `"elephants know how to party" and it would return "elephants"`.
 
 
-
-
-
 --------
 # lambdas
 it is anonymous function that is used because we need some functions only once
@@ -208,7 +204,6 @@ map (\(a,b) -> a+b) [(1,2), (3,5), (6,3)]
 
 
 ```
-
 
 -----------
 # only folds and horses
