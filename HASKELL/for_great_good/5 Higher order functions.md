@@ -232,13 +232,25 @@ binary function: `\acc x -> acc + x`
 the starting value: `0`
 the list to be folded up: `xs`
 1. `acc = 0` and `x=3`, so `0+3`=`3`, so `acc=3`
+2. `acc=3` and `x=5`, so `3+5` = `8`, so `acc=8`
+3. `acc=8` and `x=2`, ...
 
+```haskell
+sum''::(Num a) => [a] -> a
+sum'' = foldl (+) 0
+```
+because:
+- `(\acc x -> axx + x` is the same as `(+)`
+- we can omit the `xs` because calling `foldl (+) 0` return a function that takes a list
 
+> GENERALLY:
+> `foo a = bar b a` you can rewrite it as `foo = bar b` because of curring
 
-
-
-
-
+```haskell
+elem' :: (Eq a) => a-> [a] -> Bool
+elem' y ys = foldl (\acc x -> if x == y then True else acc) False ys
+```
+1. `acc=False`
 
 
 
