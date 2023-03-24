@@ -49,19 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVASCRIPT/JS Bible/_ 0 JS Bible.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aaf8674c727cd181",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md",
+                "file": "linux/UBUNTU.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -154,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md",
+                "file": "linux/UBUNTU.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -171,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md",
+                "file": "linux/UBUNTU.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md"
+                "file": "linux/UBUNTU.md"
               }
             }
           },
@@ -234,19 +222,11 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "aaf8674c727cd181",
+  "active": "c099220f5467aef2",
   "lastOpenFiles": [
-    "JAVASCRIPT/JS Bible/_ 0 JS Bible.md",
+    "P Y T H O N/OOP Python udemy/8 Descriptors.md",
     "N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md",
     "N_O_D_E/NodeJS - fullstack",
-    "JAVASCRIPT/JS współczesny/_ 0 intro JS dzisiaj.md",
-    "JAVASCRIPT/Lear Node.js and Javascript/_ Node and JavaScript.md",
-    "JAVASCRIPT/Lear Node.js and Javascript/- 3 Node.md",
-    "JAVASCRIPT/Lear Node.js and Javascript/- 2 JavaScript.md",
-    "N_O_D_E/NODE - the complete guide/_0 Node Complete Guide.md",
-    "N_O_D_E/Lear Node.js and Javascript/- 2 JavaScript.md",
-    "N_O_D_E/Lear Node.js and Javascript/_ Node and JavaScript.md",
-    "P Y T H O N/OOP Python udemy/8 Descriptors.md",
     "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
     "Excalidraw/graf_DFS.excalidraw.md",
     "HASKELL/for_great_good/5 Higher order functions.md",
@@ -263,6 +243,14 @@
     "P Y T H O N/GUI/Tkinter.md",
     "P Y T H O N/GUI/Tkinter/Tkinter Pomidoro.md",
     "P Y T H O N/GUI/Tkinter/Tkinter konwerter.md",
+    "REACT NATIVE/React Native Practical Guide/6 Navigation/9 Nested Navigators.md",
+    "REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer or Bottom-Tabs Navigators/Drawer Navigator.md",
+    "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/CheckList.md",
+    "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/_ 0 PyQt with Hala.md",
+    "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/two screen in one window.md",
+    "P Y T H O N/GUI/PySide6/_ 0 PySide.md",
+    "HASKELL/Haskell for Imperative Programmers/8 Datatypes.md",
+    "HASKELL/Haskell for Imperative Programmers/7 Folding.md",
     "Prog/test.py",
     "REACT NATIVE/The Complete React NativePlusHooks",
     "P Y T H O N/GUI/PySide6",
