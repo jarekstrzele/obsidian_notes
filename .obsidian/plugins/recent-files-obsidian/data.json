@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "_ 0 NodeJS - zostań fullstack",
+      "path": "N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md"
+    },
+    {
+      "basename": "_ 0 JS Bible",
+      "path": "JAVASCRIPT/JS Bible/_ 0 JS Bible.md"
+    },
+    {
+      "basename": "_ 0 intro JS dzisiaj",
+      "path": "JAVASCRIPT/JS współczesny/_ 0 intro JS dzisiaj.md"
+    },
+    {
+      "basename": "_ Node and JavaScript",
+      "path": "JAVASCRIPT/Lear Node.js and Javascript/_ Node and JavaScript.md"
+    },
+    {
+      "basename": "- 3 Node",
+      "path": "JAVASCRIPT/Lear Node.js and Javascript/- 3 Node.md"
+    },
+    {
+      "basename": "- 2 JavaScript",
+      "path": "JAVASCRIPT/Lear Node.js and Javascript/- 2 JavaScript.md"
+    },
+    {
+      "basename": "_0 Node Complete Guide",
+      "path": "N_O_D_E/NODE - the complete guide/_0 Node Complete Guide.md"
+    },
+    {
+      "basename": "- 2 JavaScript",
+      "path": "N_O_D_E/Lear Node.js and Javascript/- 2 JavaScript.md"
+    },
+    {
+      "basename": "_ Node and JavaScript",
+      "path": "N_O_D_E/Lear Node.js and Javascript/_ Node and JavaScript.md"
+    },
+    {
       "basename": "8 Descriptors",
       "path": "P Y T H O N/OOP Python udemy/8 Descriptors.md"
     },
@@ -163,42 +199,6 @@
     {
       "basename": "12 Database Apps with Qt",
       "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/12 Database Apps with Qt.md"
-    },
-    {
-      "basename": "Grafy",
-      "path": "algorithmic/Grafy.md"
-    },
-    {
-      "basename": "14 Connecting to a Database",
-      "path": "REACT/React - the Complete Guide/14 Connecting to a Database.md"
-    },
-    {
-      "basename": "_ 0 React Full",
-      "path": "REACT/React - the Complete Guide/_ 0 React Full.md"
-    },
-    {
-      "basename": "useCallback",
-      "path": "REACT/React - the Complete Guide/useCallback.md"
-    },
-    {
-      "basename": "UBUNTU",
-      "path": "linux/UBUNTU.md"
-    },
-    {
-      "basename": "10 QMainWindow class - Professional apps",
-      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/10 QMainWindow class - Professional apps.md"
-    },
-    {
-      "basename": "7.1 QTabWidget",
-      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.1 QTabWidget.md"
-    },
-    {
-      "basename": "7 Advanced widgets",
-      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7 Advanced widgets.md"
-    },
-    {
-      "basename": "_ 0 PyQt5 From A-Z",
-      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md"
     }
   ],
   "omittedPaths": [],
