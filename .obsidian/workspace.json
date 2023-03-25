@@ -68,6 +68,18 @@
             }
           },
           {
+            "id": "6bcd35613bbd8802",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "8d79a884d7999dbe",
             "type": "leaf",
             "state": {
@@ -80,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -154,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "P Y T H O N/GUI/Five most Popular Python Gui Libs.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -171,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "P Y T H O N/GUI/Five most Popular Python Gui Libs.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "P Y T H O N/GUI/Five most Popular Python Gui Libs.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -234,10 +246,12 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "aaf8674c727cd181",
+  "active": "6bcd35613bbd8802",
   "lastOpenFiles": [
-    "P Y T H O N/GUI/Firebase full course.md",
     "P Y T H O N/GUI/Five most Popular Python Gui Libs.md",
+    "conflict-files-obsidian-git.md",
+    "P Y T H O N/GUI/Qt Creator and FireBase.md",
+    "P Y T H O N/GUI/Firebase full course.md",
     "P Y T H O N/GUI/PySimpleGUI.md",
     "P Y T H O N/GUI/Qt Designer and Python.md",
     "N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md",
@@ -261,8 +275,6 @@
     "P Y T H O N/GUI/Tkinter/Widżety proste TkInter.md",
     "P Y T H O N/GUI/Tkinter/Tkinter 0.md",
     "P Y T H O N/GUI/Tkinter/Tkinter.md",
-    "P Y T H O N/GUI/Tkinter/Icons, Images, Exit Button.md",
-    "P Y T H O N/GUI/Tkinter/Calculator simple.md",
     "Prog/test.py",
     "REACT NATIVE/The Complete React NativePlusHooks",
     "P Y T H O N/GUI/PySide6",
