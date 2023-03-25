@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Qt Creator and FireBase",
+      "path": "P Y T H O N/GUI/Qt Creator and FireBase.md"
+    },
+    {
+      "basename": "PySimpleGUI",
+      "path": "P Y T H O N/GUI/PySimpleGUI.md"
+    },
+    {
+      "basename": "_ 0 PySide",
+      "path": "P Y T H O N/GUI/PySide6/_ 0 PySide.md"
+    },
+    {
       "basename": "UBUNTU",
       "path": "linux/UBUNTU.md"
     },
@@ -87,10 +99,6 @@
     {
       "basename": "two screen in one window",
       "path": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/two screen in one window.md"
-    },
-    {
-      "basename": "_ 0 PySide",
-      "path": "P Y T H O N/GUI/PySide6/_ 0 PySide.md"
     },
     {
       "basename": "8 Datatypes",
@@ -191,14 +199,6 @@
     {
       "basename": "7.1 QTabWidget",
       "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.1 QTabWidget.md"
-    },
-    {
-      "basename": "7 Advanced widgets",
-      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7 Advanced widgets.md"
-    },
-    {
-      "basename": "_ 0 PyQt5 From A-Z",
-      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md"
     }
   ],
   "omittedPaths": [],
