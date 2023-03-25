@@ -68,18 +68,6 @@
             }
           },
           {
-            "id": "bb42e207fad34103",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "P Y T H O N/GUI/Firebase full course.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8d79a884d7999dbe",
             "type": "leaf",
             "state": {
@@ -92,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -166,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "P Y T H O N/GUI/Firebase full course.md",
+                "file": "P Y T H O N/GUI/Five most Popular Python Gui Libs.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -183,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "P Y T H O N/GUI/Firebase full course.md",
+                "file": "P Y T H O N/GUI/Five most Popular Python Gui Libs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "P Y T H O N/GUI/Firebase full course.md"
+                "file": "P Y T H O N/GUI/Five most Popular Python Gui Libs.md"
               }
             }
           },
@@ -246,10 +234,10 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "bb42e207fad34103",
+  "active": "aaf8674c727cd181",
   "lastOpenFiles": [
-    "P Y T H O N/GUI/Five most Popular Python Gui Libs.md",
     "P Y T H O N/GUI/Firebase full course.md",
+    "P Y T H O N/GUI/Five most Popular Python Gui Libs.md",
     "P Y T H O N/GUI/PySimpleGUI.md",
     "P Y T H O N/GUI/Qt Designer and Python.md",
     "N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md",
