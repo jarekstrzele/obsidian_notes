@@ -12,9 +12,29 @@ https://www.youtube.com/watch?v=8IWalfRUk1M
 
 
 
+# App with post (send data)
+```python
+from firebase import firebase
+  
+
+firebase = firebase.FirebaseApplication("https://test-7a2ea-default-rtdb.firebaseio.com/", None) # drugi argument odpowiada za autentykację, tutaj jest brak
+# data = {
+# 'Name': 'Tom Jerry'
+# , 'Email': 'tom@jerry.com'
+# , 'Phone': 222333444
+# }
+
+data = {
+'Name': 'Wiedźmin'
+, 'Email': 'wiesiek@saplw.pl'
+, 'Phone': 111222333
+}
+
+result = firebase.post('/pythonDB_text/Customer', data)
+print(result)
+```
 
 
-
-
+# App with put (change data)
 
 
