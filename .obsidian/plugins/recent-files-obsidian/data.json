@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Five most Popular Python Gui Libs",
+      "path": "P Y T H O N/GUI/Five most Popular Python Gui Libs.md"
+    },
+    {
+      "basename": "PySimpleGUI",
+      "path": "P Y T H O N/GUI/PySimpleGUI.md"
+    },
+    {
+      "basename": "Qt Designer and Python",
+      "path": "P Y T H O N/GUI/Qt Designer and Python.md"
+    },
+    {
       "basename": "_ 0 NodeJS - zostań fullstack",
       "path": "N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "_ 0 React Native - Practical Guide",
       "path": "REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md"
-    },
-    {
-      "basename": "_ 0 PyQt5 code",
-      "path": "P Y T H O N/GUI/PyQt/PyQt Codemy/_ 0 PyQt5 code.md"
-    },
-    {
-      "basename": "9 QtDesigner",
-      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md"
-    },
-    {
-      "basename": "12 Database Apps with Qt",
-      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/12 Database Apps with Qt.md"
     }
   ],
   "omittedPaths": [],
