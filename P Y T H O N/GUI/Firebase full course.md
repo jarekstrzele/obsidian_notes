@@ -1,6 +1,11 @@
 #python #firebase #hala #youtube 
 https://www.youtube.com/watch?v=s-Ga8c3toVY
 
+# `pip install pyrebase4`
+https://pypi.org/project/Pyrebase4/
+
+
+
 you have to add  a desktop app to firebase as a web app (look at Project overview of your FireBase Project (e.g. test))
 
 after registration:
