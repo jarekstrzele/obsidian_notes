@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/_ 0 PyQt with Hala.md",
+                "file": "N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "P Y T H O N/GUI/Firebase full course.md",
+                "file": "N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -159,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "P Y T H O N/GUI/Firebase full course.md",
+                "file": "N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "P Y T H O N/GUI/Firebase full course.md"
+                "file": "N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md"
               }
             }
           },
@@ -222,10 +221,12 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "c099220f5467aef2",
+  "active": "dd6e3bf76a85b059",
   "lastOpenFiles": [
-    "P Y T H O N/GUI/Simple app with FireBase.md",
+    "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/_ 0 PyQt with Hala.md",
+    "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/CheckList.md",
     "P Y T H O N/GUI/Firebase full course.md",
+    "P Y T H O N/GUI/Simple app with FireBase.md",
     "P Y T H O N/GUI/PySimpleGUI.md",
     "P Y T H O N/GUI/Qt Creator and FireBase.md",
     "P Y T H O N/GUI/PySide6/_ 0 PySide.md",
@@ -249,8 +250,6 @@
     "P Y T H O N/GUI/Tkinter.md",
     "P Y T H O N/GUI/Tkinter/Tkinter Pomidoro.md",
     "P Y T H O N/GUI/Tkinter/Tkinter konwerter.md",
-    "REACT NATIVE/React Native Practical Guide/6 Navigation/9 Nested Navigators.md",
-    "REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer or Bottom-Tabs Navigators/Drawer Navigator.md",
     "Prog/test.py",
     "REACT NATIVE/The Complete React NativePlusHooks",
     "P Y T H O N/GUI/PySide6",

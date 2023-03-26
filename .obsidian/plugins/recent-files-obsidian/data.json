@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "_ 0 NodeJS - zostań fullstack",
+      "path": "N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md"
+    },
+    {
+      "basename": "_ 0 PyQt with Hala",
+      "path": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/_ 0 PyQt with Hala.md"
+    },
+    {
+      "basename": "CheckList",
+      "path": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/CheckList.md"
+    },
+    {
       "basename": "Firebase full course",
       "path": "P Y T H O N/GUI/Firebase full course.md"
     },
@@ -91,14 +103,6 @@
     {
       "basename": "Drawer Navigator",
       "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer or Bottom-Tabs Navigators/Drawer Navigator.md"
-    },
-    {
-      "basename": "CheckList",
-      "path": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/CheckList.md"
-    },
-    {
-      "basename": "_ 0 PyQt with Hala",
-      "path": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/_ 0 PyQt with Hala.md"
     },
     {
       "basename": "two screen in one window",
@@ -195,10 +199,6 @@
     {
       "basename": "useCallback",
       "path": "REACT/React - the Complete Guide/useCallback.md"
-    },
-    {
-      "basename": "10 QMainWindow class - Professional apps",
-      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/10 QMainWindow class - Professional apps.md"
     }
   ],
   "omittedPaths": [],
