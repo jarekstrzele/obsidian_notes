@@ -46,13 +46,32 @@ zawartość pliku script1.js jest prywatna oprócz funkcji add
 
 -------
 ## Importowanie katalogów
+index.js
+```js
+const add = require("./add") ;
+const divide = require("./divide")
 
+module.exports ={
+	add: add,
+	divide: divide
+}
+```
+main.js
+```js
+const calc = require("./calc") ; // calc to folder, w którym jest index.js
 
+console.log("main moduł")
 
+console.log(calc.add(5,6)) ;
+```
 
-
-
-
+```bash
+$ node main.js
+moduł add 
+moduł divide 
+main moduł
+11
+```
 
 
 
