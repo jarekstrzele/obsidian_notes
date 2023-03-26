@@ -38,7 +38,15 @@ firebaseConfig = {
 };
 
 firebase=pyrebase.initialize_app(firebaseConfig)
+
+db = firebase.database()
+auth=firebase.auth()
+storage=firebase.storage()
 ```
+
+## authentication
+It means: mange users
+Goto FireBae Project overview > Build and Authentication > Get Started and chose the sign-in method
 
 
 
