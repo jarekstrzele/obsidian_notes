@@ -138,5 +138,37 @@ zamieni na
 `__filename` ścieżka do pliku
 `__dirname` siećka do folderu
 
+```js
+const calc = require("./calc/my_calc") ; // calc to folder, w którym jest index.js
+
+console.log("main moduł")
+console.log(__filename, __dirname)
+
+console.log("Czy to główny moduł? " + (require.main === module ? "Tak": "Nie."))
+```
+
+```bash
+$ node main.js
+moduł add 
+moduł divide 
+main moduł
+/home/jarek/Desktop/Prog/node/main.js /home/jarek/Desktop/Prog/node
+Czy to główny moduł? Tak
+```
+
+> [!important] 
+> Node zapisuje w pamięci podręcznej moduły, które importujesz!!!
+
+
+
+------
+# Wbudowane moduły Node.js
+https://nodejs.org/docs/latest-v16.x/api/
+
+
+
+
+
+
 
 
