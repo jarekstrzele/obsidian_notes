@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "1 Moduły",
+      "path": "N_O_D_E/NodeJS - fullstack/1 Moduły.md"
+    },
+    {
       "basename": "_ 0 NodeJS - zostań fullstack",
       "path": "N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_ 0 React Full",
       "path": "REACT/React - the Complete Guide/_ 0 React Full.md"
-    },
-    {
-      "basename": "useCallback",
-      "path": "REACT/React - the Complete Guide/useCallback.md"
     }
   ],
   "omittedPaths": [],
