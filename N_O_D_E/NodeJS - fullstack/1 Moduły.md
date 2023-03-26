@@ -46,6 +46,8 @@ zawartość pliku script1.js jest prywatna oprócz funkcji add
 
 -------
 ## Importowanie katalogów
+
+w fodlerze `calc` jest m.in.
 index.js
 ```js
 const add = require("./add") ;
@@ -72,6 +74,48 @@ moduł divide
 main moduł
 11
 ```
+
+można też do folderu `calc` dodać `package.json`
+zmieńmy nazwę `index.js` na `my_calc.js`
+```json
+{
+"main": "my_calc.js"
+}
+```
+
+--------------------
+automatyczne parsowanie json
+ w folderze `calc` obok `package.json` utworzę plik `config.json`
+```js
+{
+	"name":"calculator",
+	"version": "1.0.0"
+}
+```
+
+w pliku `my_calc` dopisuję
+```js
+const add = require("./add") ;
+const divide = require("./divide")
+
+module.exports ={
+	add: add,
+	divide: divide ,
+	config: require("./config")
+}
+```
+
+jako obiekt będzie config dostępne w main np. `calc.config.name`
+
+
+
+
+
+
+
+
+
+
 
 
 
