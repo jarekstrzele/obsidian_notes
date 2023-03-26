@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVASCRIPT/JS Bible/_ 0 JS Bible.md",
+                "file": "P Y T H O N/GUI/Simple app with FireBase.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "P Y T H O N/GUI/Firebase full course.md",
+                "file": "P Y T H O N/GUI/Simple app with FireBase.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "P Y T H O N/GUI/Firebase full course.md",
+                "file": "P Y T H O N/GUI/Simple app with FireBase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "P Y T H O N/GUI/Firebase full course.md"
+                "file": "P Y T H O N/GUI/Simple app with FireBase.md"
               }
             }
           },
@@ -234,16 +234,16 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "aaf8674c727cd181",
+  "active": "c099220f5467aef2",
   "lastOpenFiles": [
+    "JAVASCRIPT/JS Bible/_ 0 JS Bible.md",
+    "P Y T H O N/GUI/Firebase full course.md",
     "P Y T H O N/GUI/Five most Popular Python Gui Libs.md",
     "conflict-files-obsidian-git.md",
-    "P Y T H O N/GUI/Qt Creator and FireBase.md",
-    "P Y T H O N/GUI/Firebase full course.md",
+    "P Y T H O N/GUI/Simple app with FireBase.md",
     "P Y T H O N/GUI/PySimpleGUI.md",
     "P Y T H O N/GUI/Qt Designer and Python.md",
     "N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md",
-    "JAVASCRIPT/JS Bible/_ 0 JS Bible.md",
     "N_O_D_E/NodeJS - fullstack",
     "JAVASCRIPT/JS współczesny/_ 0 intro JS dzisiaj.md",
     "JAVASCRIPT/Lear Node.js and Javascript/_ Node and JavaScript.md",
