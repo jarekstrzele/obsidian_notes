@@ -1,60 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Simple app with FireBase",
-      "path": "P Y T H O N/GUI/Simple app with FireBase.md"
-    },
-    {
-      "basename": "_ 0 JS Bible",
-      "path": "JAVASCRIPT/JS Bible/_ 0 JS Bible.md"
-    },
-    {
       "basename": "Firebase full course",
       "path": "P Y T H O N/GUI/Firebase full course.md"
-    },
-    {
-      "basename": "Five most Popular Python Gui Libs",
-      "path": "P Y T H O N/GUI/Five most Popular Python Gui Libs.md"
     },
     {
       "basename": "PySimpleGUI",
       "path": "P Y T H O N/GUI/PySimpleGUI.md"
     },
     {
-      "basename": "Qt Designer and Python",
-      "path": "P Y T H O N/GUI/Qt Designer and Python.md"
+      "basename": "_ 0 PySide",
+      "path": "P Y T H O N/GUI/PySide6/_ 0 PySide.md"
     },
     {
-      "basename": "_ 0 NodeJS - zostań fullstack",
-      "path": "N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md"
-    },
-    {
-      "basename": "_ 0 intro JS dzisiaj",
-      "path": "JAVASCRIPT/JS współczesny/_ 0 intro JS dzisiaj.md"
-    },
-    {
-      "basename": "_ Node and JavaScript",
-      "path": "JAVASCRIPT/Lear Node.js and Javascript/_ Node and JavaScript.md"
-    },
-    {
-      "basename": "- 3 Node",
-      "path": "JAVASCRIPT/Lear Node.js and Javascript/- 3 Node.md"
-    },
-    {
-      "basename": "- 2 JavaScript",
-      "path": "JAVASCRIPT/Lear Node.js and Javascript/- 2 JavaScript.md"
-    },
-    {
-      "basename": "_0 Node Complete Guide",
-      "path": "N_O_D_E/NODE - the complete guide/_0 Node Complete Guide.md"
-    },
-    {
-      "basename": "- 2 JavaScript",
-      "path": "N_O_D_E/Lear Node.js and Javascript/- 2 JavaScript.md"
-    },
-    {
-      "basename": "_ Node and JavaScript",
-      "path": "N_O_D_E/Lear Node.js and Javascript/_ Node and JavaScript.md"
+      "basename": "UBUNTU",
+      "path": "linux/UBUNTU.md"
     },
     {
       "basename": "8 Descriptors",
@@ -141,10 +101,6 @@
       "path": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/two screen in one window.md"
     },
     {
-      "basename": "_ 0 PySide",
-      "path": "P Y T H O N/GUI/PySide6/_ 0 PySide.md"
-    },
-    {
       "basename": "8 Datatypes",
       "path": "HASKELL/Haskell for Imperative Programmers/8 Datatypes.md"
     },
@@ -199,6 +155,50 @@
     {
       "basename": "4 Styling ScreenHeader and Background",
       "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/4 Styling ScreenHeader and Background.md"
+    },
+    {
+      "basename": "2. Route parameters",
+      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/2. Route parameters.md"
+    },
+    {
+      "basename": "_ 0 React Native - Practical Guide",
+      "path": "REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md"
+    },
+    {
+      "basename": "_ 0 PyQt5 code",
+      "path": "P Y T H O N/GUI/PyQt/PyQt Codemy/_ 0 PyQt5 code.md"
+    },
+    {
+      "basename": "9 QtDesigner",
+      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md"
+    },
+    {
+      "basename": "12 Database Apps with Qt",
+      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/12 Database Apps with Qt.md"
+    },
+    {
+      "basename": "Grafy",
+      "path": "algorithmic/Grafy.md"
+    },
+    {
+      "basename": "14 Connecting to a Database",
+      "path": "REACT/React - the Complete Guide/14 Connecting to a Database.md"
+    },
+    {
+      "basename": "_ 0 React Full",
+      "path": "REACT/React - the Complete Guide/_ 0 React Full.md"
+    },
+    {
+      "basename": "useCallback",
+      "path": "REACT/React - the Complete Guide/useCallback.md"
+    },
+    {
+      "basename": "10 QMainWindow class - Professional apps",
+      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/10 QMainWindow class - Professional apps.md"
+    },
+    {
+      "basename": "7.1 QTabWidget",
+      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.1 QTabWidget.md"
     }
   ],
   "omittedPaths": [],
