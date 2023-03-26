@@ -107,15 +107,36 @@ module.exports ={
 
 jako obiekt będzie config dostępne w main np. `calc.config.name`
 
+-----------
 
+Node pakuje zawartość pliku do specjalnej funkcji
 
+np. 
+script1.js
+```js
+var msg = "moduł script1 ";
+console.log(msg) ;
 
+function add(x,y){
+        return x + y
+};
+```
 
+zamieni na
+```js
+(function (exports, require, module, __filename, __dirname){
+	var msg = "moduł script1 ";
+	console.log(msg) ;
+	
+	function add(x,y){
+	        return x + y
+	};
+})();
 
+```
 
-
-
-
+`__filename` ścieżka do pliku
+`__dirname` siećka do folderu
 
 
 
