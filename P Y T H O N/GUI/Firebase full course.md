@@ -110,6 +110,56 @@ else:
 >Store and retrieve user-generated files like images, audio, and video without server-side code
 
 I added tree txt files to the project.
+```python
+import pyrebase
+from collections.abc import MutableMapping
+
+firebaseConfig = {
+"apiKey": "AIzaSyBSpLK0ThyXOuOXMgl_oYF0iQ8I7Qlh6oc",
+"authDomain": "test-7a2ea.firebaseapp.com",
+"databaseURL": "https://test-7a2ea-default-rtdb.firebaseio.com",
+"projectId": "test-7a2ea",
+"storageBucket": "test-7a2ea.appspot.com",
+"messagingSenderId": "455697270541",
+"appId": "1:455697270541:web:c625f5c109b77c811b1244"
+};
+
+firebase=pyrebase.initialize_app(firebaseConfig)
+# db = firebase.database()
+#auth=firebase.auth()
+storage=firebase.storage()
+
+
+#LOGIN
+# email=input("Enter email: ")
+# password=input("Password: ")
+# auth.sign_in_with_email_and_password(email, password)
+# print("Ok")
+
+#SIgnUP
+# email=input("Enter email: ")
+# password=input("Password: ")
+# confirmpass=input("Confirm password: ")
+# if password == confirmpass:
+# auth.create_user_with_email_and_password(email, password)
+# print('sign up')
+# else:
+# print('something wrong')
+
+
+# Storage
+filename=input("enter the naem of the file you want to upload: ") # which file upload to the storage
+cloudfilename=input("Enter the name of the file on the cloud: ") # the name of that file on the storage
+storage.child(cloudfilename).put(filename)
+print("Suucess")
+```
+
+```bash
+enter the naem of the file you want to upload: baczynski_noc.txt
+Enter the name of the file on the cloud: books/poems/poem1.txt
+```
+
+
 
 
 
