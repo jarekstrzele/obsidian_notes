@@ -106,6 +106,9 @@ else:
 -------
 # Storage
 
+>[!important] storage
+>Store and retrieve user-generated files like images, audio, and video without server-side code
+
 
 
 
