@@ -429,6 +429,20 @@ for person in people.each():
 
 # {'address': 'Różnowo', 'age': 22, 'employed': True, 'name': 'Genowefa'}
 # {'address': 'Olsztyn', 'age': 37, 'employed': True, 'name': 'Artur'}
+
+
+people=db.child("polacy").order_by_child("age").start_at(22).end_at(50).limit_to_first(1).get()
+for person in people.each():
+	print(person.val())
+# {'address': 'Różnowo', 'age': 22, 'employed': True, 'name': 'Genowefa'}
+
+
+
+people=db.child("polacy").order_by_child("age").start_at(22).end_at(50).limit_to_last(2).get()
+for person in people.each():
+	print(person.val())
+# {'address': 'Różnowo', 'age': 22, 'employed': True, 'name': 'Genowefa'}
+# {'address': 'Olsztyn', 'age': 37, 'employed': True, 'name': 'Artur'}
 ```
 
 
