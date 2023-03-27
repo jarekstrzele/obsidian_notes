@@ -412,10 +412,24 @@ people=db.child("polacy").order_by_child("address").equal_to("Różnowo").get()
 for person in people.each():
 	print(person.val())
 
+# an age of people living in Rożnowo
+for person in people.each():
+	print(person.val()['age'])
+
+
 
 ```
 
+```python
 
+# people between 22 and 50
+people=db.child("polacy").order_by_child("age").start_at(22).end_at(50).get()
+for person in people.each():
+	print(person.val())
+
+# {'address': 'Różnowo', 'age': 22, 'employed': True, 'name': 'Genowefa'}
+# {'address': 'Olsztyn', 'age': 37, 'employed': True, 'name': 'Artur'}
+```
 
 
 
