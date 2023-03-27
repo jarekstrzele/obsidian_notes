@@ -278,7 +278,7 @@ db.child("people").child("id_1").update({'name':'Tom Nowak'})
 print("ok")
 ```
 
-### when you don't know the id
+### update when you don't know the id
 in FireBase DB I have 'people' with objects wit random id genereted by DB
 
 ```python
@@ -319,10 +319,21 @@ person
 and now I will remove the age attribute of that person
 ```python 
 # delete an attribute
-
 db.child("people").child("person").child("age").remove()
+
+# remove a person
+db.child("people").child("person").remove()
 ```
 
+### when you don't know the id
+the same logic [[#update when you don't know the id]]
+```python
+people=db.child("people").get()
 
+for person in people:
 
+if person.val()['name'] =="Now Osoba AR-54":
+
+db.child("people").child(person.key()).child("age").remove()
+```
 
