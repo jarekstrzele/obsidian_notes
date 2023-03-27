@@ -56,28 +56,6 @@
             }
           },
           {
-            "id": "f5b43f8c215fad60",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "P Y T H O N/GUI/Firebase full course.md",
-                "staged": true
-              }
-            }
-          },
-          {
-            "id": "273de259cf7b5427",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": true
-              }
-            }
-          },
-          {
             "id": "aaf8674c727cd181",
             "type": "leaf",
             "state": {
@@ -102,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -259,7 +237,7 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "273de259cf7b5427",
+  "active": "a37f9b7caeae370a",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "P Y T H O N/GUI/Firebase full course.md",
