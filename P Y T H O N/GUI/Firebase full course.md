@@ -6,10 +6,18 @@ https://www.youtube.com/watch?v=s-Ga8c3toVY
 # `pip install pyrebase4`
 https://pypi.org/project/Pyrebase4/
 
+
+## `import pyrebase`
+
 -----------
+# Index
+
 1. [[#Authentication]]
 2. [[#Storage]]
-3. 
+	1. [[#get the url]]
+	2. [[#download]]
+	3. [[#reading file]]
+3. [[#Database]]
 
 
 
@@ -61,6 +69,7 @@ storage=firebase.storage()
 
 -------------------
 # Authentication
+[[#Index]]
 It means: mange users
 Goto FireBae Project overview > Build and Authentication > Get Started and chose the sign-in method
 
@@ -105,7 +114,7 @@ else:
 
 -------
 # Storage
-
+[[#index]]
 >[!important] storage
 >Store and retrieve user-generated files like images, audio, and video without server-side code
 
@@ -165,9 +174,7 @@ print("Suucess")
 `> Enter the name of the file on the cloud: dummy.txt`
 
 ### get the url
-
 [[get_url]]
-
 
 ```python
 filename=input("enter the naem of the file you want to upload: ") # which file upload to the storage
@@ -210,6 +217,8 @@ print(f)
 
 ----------
 # Database
+[[#Index]]
+
 [[Simple app with FireBase]]
 ```python
 import pyrebase
@@ -227,6 +236,15 @@ firebaseConfig = {
 
 firebase=pyrebase.initialize_app(firebaseConfig)
 db = firebase.database()
+
+data = {'age': 40, 'address':'New York', 'employed': True, 'name':'Joe Dow'}
+db.push(data) # add data as a child of the root
+
+########################
+# better practice
+data = {'age': 40, 'address':'New York', 'employed': True, 'name':'Joe Dow'}
+db.child("people").push(data)
+# you can also `db.child("people").child("person").push(data)` and so on
 ```
 
 
