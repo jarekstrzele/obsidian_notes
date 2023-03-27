@@ -310,5 +310,19 @@ for person in people.each():
 ## delete
 [[#Index]]
 
+Added to firebase
+person
+	address:"London"
+	age:34
+	name:"Mary"
+
+and now I will remove the age attribute of that person
+```python 
+# delete an attribute
+
+db.child("people").child("person").child("age").remove()
+```
+
+
 
 
