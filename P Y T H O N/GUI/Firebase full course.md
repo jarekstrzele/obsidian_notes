@@ -110,6 +110,9 @@ else:
 >Store and retrieve user-generated files like images, audio, and video without server-side code
 
 I added tree txt files to the project.
+Manually create `subfolder` in firebase storage.
+
+
 ```python
 import pyrebase
 from collections.abc import MutableMapping
@@ -155,9 +158,22 @@ print("Suucess")
 ```
 
 ```bash
-enter the naem of the file you want to upload: baczynski_noc.txt
-Enter the name of the file on the cloud: books/poems/poem1.txt
+> enter the naem of the file you want to upload: baczynski_noc.txt
+> Enter the name of the file on the cloud: books/poems/poem1.txt
 ```
+
+`> Enter the name of the file on the cloud: dummy.txt`
+
+### get the url
+```bash
+
+```
+
+
+
+
+
+
 
 
 ----------
