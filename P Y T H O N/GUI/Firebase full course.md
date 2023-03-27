@@ -18,7 +18,9 @@ https://pypi.org/project/Pyrebase4/
 	2. [[#download]]
 	3. [[#reading file]]
 3. [[#Database]]
-
+	1. [[#send]]
+	2. [[#update]]
+	3. [[#delete]]
 
 
 
@@ -218,8 +220,8 @@ print(f)
 ----------
 # Database
 [[#Index]]
-
 [[Simple app with FireBase]]
+
 ```python
 import pyrebase
 import urllib
@@ -279,8 +281,34 @@ print("ok")
 ### when you don't know the id
 in FireBase DB I have 'people' with objects wit random id genereted by DB
 
+```python
+# ...
+people = db.child("people").get() # get all objects in the people object
+for person in people.each():
+	print(person.key())
+	print(person.val())
 
+```
 
+```bash
+-NRXDFT-a1_0WWdUM3UX
+{'address': 'New York', 'age': 40, 'employed': True, 'name': 'Joe Dow'}
+-NRXE17apKVfCfb-68hI
+{'address': 'LA', 'age': 22, 'employed': False, 'name': 'JTom Kris'}
+
+```
+
+```python
+people = db.child("people").get() # get all objects in the people object
+
+for person in people.each():
+	if person.val()['name'] == 'Joe Dow':
+	db.child("people").child(person.key()).update({'name':'Now Osoba AR-54'})
+```
+
+----------
+## delete
+[[#Index]]
 
 
 
