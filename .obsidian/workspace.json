@@ -44,18 +44,6 @@
             }
           },
           {
-            "id": "357d553b52ed337c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/1.4. FlatList.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c099220f5467aef2",
             "type": "leaf",
             "state": {
@@ -80,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -154,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/1 Moduły.md",
+                "file": "P Y T H O N/GUI/Firebase full course.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -171,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/1 Moduły.md",
+                "file": "P Y T H O N/GUI/Firebase full course.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/1 Moduły.md"
+                "file": "P Y T H O N/GUI/Firebase full course.md"
               }
             }
           },
@@ -234,10 +222,10 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "f13dd675cffe6309",
+  "active": "c099220f5467aef2",
   "lastOpenFiles": [
-    "N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md",
     "N_O_D_E/NodeJS - fullstack/1 Moduły.md",
+    "N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md",
     "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/_ 0 PyQt with Hala.md",
     "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/CheckList.md",
     "P Y T H O N/GUI/Firebase full course.md",
