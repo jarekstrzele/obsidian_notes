@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "P Y T H O N/GUI/Firebase full course.md",
+                "file": "N_O_D_E/NodeJS - fullstack/1 Moduły.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "P Y T H O N/GUI/Firebase full course.md",
+                "file": "N_O_D_E/NodeJS - fullstack/1 Moduły.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "P Y T H O N/GUI/Firebase full course.md"
+                "file": "N_O_D_E/NodeJS - fullstack/1 Moduły.md"
               }
             }
           },
@@ -246,13 +246,13 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "c099220f5467aef2",
+  "active": "f621f21825dbd82d",
   "lastOpenFiles": [
     "P Y T H O N/GUI/Firebase full course.md",
+    "N_O_D_E/NodeJS - fullstack/1 Moduły.md",
     "P Y T H O N/urllib.md",
     "P Y T H O N/GUI/get_url.md",
     "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
-    "N_O_D_E/NodeJS - fullstack/1 Moduły.md",
     "N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md",
     "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/_ 0 PyQt with Hala.md",
     "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/CheckList.md",

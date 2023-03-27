@@ -165,7 +165,13 @@ Czy to główny moduł? Tak
 # Wbudowane moduły Node.js
 https://nodejs.org/docs/latest-v16.x/api/
 
+# PATH and UTIL
+````js
+const path = require('path') ;
+const utils = require('util') ;
 
+
+````
 
 
 
