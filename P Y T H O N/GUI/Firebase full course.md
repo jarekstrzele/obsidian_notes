@@ -352,10 +352,28 @@ print(people.val())
 ```
 
 
-more sofisticate
+### more sofisticated way (conditions)
+send data
+```python
+data = {
+'obywatel1': {'age': 12, 'address':'Różnowo', 'employed': False, 'name':'Zosia'}
 
+, 'obywatel2': {'age': 22, 'address':'Różnowo', 'employed': True, 'name':'Genowefa'}
 
+, 'obywatel3': {'age': 37, 'address':'Olsztyn', 'employed': True, 'name':'Artur'}
 
+, 'obywatel4': {'age': 98, 'address':'Olsztyn', 'employed': False, 'name':'Boromir'}
+
+}
+
+db.child("polacy").set(data)
+```
+
+**you ha
+and read
+```python
+
+```
 
 
 
