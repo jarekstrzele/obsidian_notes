@@ -5,6 +5,10 @@
       "path": "P Y T H O N/GUI/Firebase full course.md"
     },
     {
+      "basename": "urllib",
+      "path": "P Y T H O N/urllib.md"
+    },
+    {
       "basename": "get_url",
       "path": "P Y T H O N/GUI/get_url.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Grafy",
       "path": "algorithmic/Grafy.md"
-    },
-    {
-      "basename": "14 Connecting to a Database",
-      "path": "REACT/React - the Complete Guide/14 Connecting to a Database.md"
     }
   ],
   "omittedPaths": [],
