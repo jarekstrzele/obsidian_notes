@@ -239,17 +239,31 @@ db = firebase.database()
 
 data = {'age': 40, 'address':'New York', 'employed': True, 'name':'Joe Dow'}
 db.push(data) # add data as a child of the root
+```
 
+## send 
+```python
 ########################
 # better practice
 data = {'age': 40, 'address':'New York', 'employed': True, 'name':'Joe Dow'}
 db.child("people").push(data)
 # you can also `db.child("people").child("person").push(data)` and so on
+
+data2 = {'age': 22, 'address':'LA', 'employed': False, 'name':'JTom Kris'}
+db.child("people").push(data2)
+print("ok")
+```
+
+##### you can set your own id 
+```python
+data = {'age': 22, 'address':'LA', 'employed': False, 'name':'JTom Kris'}
+
+db.child("people").child("My_own_id").set(data)
+# db.child("people").child("My_own_id").push(data) - FireBase will add its own id
 ```
 
 
-
-
+## update
 
 
 
