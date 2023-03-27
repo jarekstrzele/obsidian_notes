@@ -343,11 +343,16 @@ for person in people:
 [[#Index]]
 `people=db.child("people").get()`
 
+```python
+people=db.child("people").child("-NRXDFT-a1_0WWdUM3UX").get()
+
+print(people.val())
+
+# OrderedDict([('address', 'New York'), ('employed', True), ('name', 'Now Osoba AR-54')])
+```
 
 
-
-
-
+more sofisticate
 
 
 
