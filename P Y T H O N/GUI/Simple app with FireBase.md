@@ -9,8 +9,8 @@ https://www.youtube.com/watch?v=8IWalfRUk1M
 - for requests  to db: `pip intall requests`
 - for firebase: `pip install python-firebase`
 
--  for firebase authetication:  `pip install pyrebase`
-
+-  for firebase authetication:  `pip install pyrebase4`
+https://pypi.org/project/Pyrebase4/
 
 
 # App with post (send data)

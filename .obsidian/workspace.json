@@ -56,6 +56,28 @@
             }
           },
           {
+            "id": "f5b43f8c215fad60",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "P Y T H O N/GUI/Firebase full course.md",
+                "staged": true
+              }
+            }
+          },
+          {
+            "id": "273de259cf7b5427",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/workspace.json",
+                "staged": true
+              }
+            }
+          },
+          {
             "id": "aaf8674c727cd181",
             "type": "leaf",
             "state": {
@@ -80,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -154,7 +176,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "P Y T H O N/GUI/Firebase full course.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -171,7 +192,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "P Y T H O N/GUI/Firebase full course.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,9 +213,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "P Y T H O N/GUI/Firebase full course.md"
-              }
+              "state": {}
             }
           },
           {
@@ -213,14 +231,21 @@
               "type": "juggl_style",
               "state": {}
             }
+          },
+          {
+            "id": "a37f9b7caeae370a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 337.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -234,13 +259,17 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "c099220f5467aef2",
+  "active": "273de259cf7b5427",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "P Y T H O N/GUI/Firebase full course.md",
+    "P Y T H O N/urllib.md",
+    "P Y T H O N/GUI/get_url.md",
+    "N_O_D_E/NodeJS - fullstack/2. Podstawowe koncepcje.md",
+    "N_O_D_E/NodeJS - fullstack/1 Moduły.md",
     "P Y T H O N/GUI/Simple app with FireBase.md",
     "JAVASCRIPT/JS Bible/_ 0 JS Bible.md",
-    "P Y T H O N/GUI/Firebase full course.md",
     "P Y T H O N/GUI/Five most Popular Python Gui Libs.md",
-    "conflict-files-obsidian-git.md",
     "P Y T H O N/GUI/PySimpleGUI.md",
     "P Y T H O N/GUI/Qt Designer and Python.md",
     "N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md",
@@ -259,10 +288,6 @@
     "REACT NATIVE/React Native Practical Guide/1.4. FlatList.md",
     "P Y T H O N/OOP Python udemy/8.1. Descriptor example.md",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/1 Add action to React Navigator.md",
-    "REACT NATIVE/React Native Practical Guide/6 Navigation/3 Add new Component MealItem.md",
-    "P Y T H O N/GUI/Tkinter/Widżety proste TkInter.md",
-    "P Y T H O N/GUI/Tkinter/Tkinter 0.md",
-    "P Y T H O N/GUI/Tkinter/Tkinter.md",
     "Prog/test.py",
     "REACT NATIVE/The Complete React NativePlusHooks",
     "P Y T H O N/GUI/PySide6",
