@@ -165,14 +165,37 @@ print("Suucess")
 `> Enter the name of the file on the cloud: dummy.txt`
 
 ### get the url
-```bash
 
+[[get_url]]
+
+
+```python
+filename=input("enter the naem of the file you want to upload: ") # which file upload to the storage
+
+cloudfilename=input("Enter the name of the file on the cloud: ") # the name of that file on the storage
+
+storage.child(cloudfilename).put(filename)
+
+print(storage.child(cloudfilename).get_url(None))
 ```
 
+```bash
+$ python3 consoleApp_auth_firebase.py 
+enter the naem of the file you want to upload: slimak_wiki.txt
+Enter the name of the file on the cloud: slimak.txt
+https://firebasestorage.googleapis.com/v0/b/test-7a2ea.appspot.com/o/slimak.txt?alt=media
+```
+
+### download
+```python
+cloudfilename=input("Enter the name of the file on the cloud: ") # the name of that file on the storage
+
+storage.child(cloudfilename).download("", "my_poem.txt")
+```
+`.download(path, new_file_name)`
 
 
-
-
+### reading file
 
 
 

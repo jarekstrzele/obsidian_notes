@@ -5,6 +5,10 @@
       "path": "P Y T H O N/GUI/Firebase full course.md"
     },
     {
+      "basename": "get_url",
+      "path": "P Y T H O N/GUI/get_url.md"
+    },
+    {
       "basename": "2 Właściwości grafów",
       "path": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "14 Connecting to a Database",
       "path": "REACT/React - the Complete Guide/14 Connecting to a Database.md"
-    },
-    {
-      "basename": "_ 0 React Full",
-      "path": "REACT/React - the Complete Guide/_ 0 React Full.md"
     }
   ],
   "omittedPaths": [],

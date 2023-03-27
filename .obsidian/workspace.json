@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "bbf4d5ba7aa16808",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "P Y T H O N/GUI/get_url.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "8d79a884d7999dbe",
             "type": "leaf",
             "state": {
@@ -224,8 +236,9 @@
   },
   "active": "c099220f5467aef2",
   "lastOpenFiles": [
-    "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
+    "P Y T H O N/GUI/get_url.md",
     "P Y T H O N/GUI/Firebase full course.md",
+    "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
     "N_O_D_E/NodeJS - fullstack/1 Moduły.md",
     "N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md",
     "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/_ 0 PyQt with Hala.md",
@@ -250,7 +263,6 @@
     "P Y T H O N/GUI/Tkinter/Calculator simple.md",
     "P Y T H O N/GUI/Tkinter/Calculater.md",
     "P Y T H O N/GUI/Tkinter.md",
-    "P Y T H O N/GUI/Tkinter/Tkinter Pomidoro.md",
     "Prog/test.py",
     "REACT NATIVE/The Complete React NativePlusHooks",
     "P Y T H O N/GUI/PySide6",
