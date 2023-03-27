@@ -21,6 +21,8 @@ https://pypi.org/project/Pyrebase4/
 	1. [[#send]]
 	2. [[#update]]
 	3. [[#delete]]
+	4. [[#read data]]
+	5. 
 
 
 
@@ -331,9 +333,29 @@ the same logic [[#update when you don't know the id]]
 people=db.child("people").get()
 
 for person in people:
-
-if person.val()['name'] =="Now Osoba AR-54":
-
-db.child("people").child(person.key()).child("age").remove()
+	if person.val()['name'] =="Now Osoba AR-54":
+			db.child("people").child(person.key()).child("age").remove()
 ```
+
+
+----------
+# read data
+[[#Index]]
+`people=db.child("people").get()`
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
