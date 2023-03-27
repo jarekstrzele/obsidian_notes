@@ -369,9 +369,35 @@ data = {
 db.child("polacy").set(data)
 ```
 
-**you ha
+**you have to index columns** -> firebase rules and add indexes:
+`".indexOn": ["name", "address", "employed", "age" ]`
+```
+{
+  "rules": {
+    ".read": "now < 1680300000000",  // 2023-4-1
+    ".write": "now < 1680300000000",  // 2023-4-1
+      "polacy":{
+        ".indexOn": ["name", "address", "employed", "age" ]
+      }
+  }
+}
+```
+and publish it
+
+
 and read
 ```python
+people=db.child("polacy").order_by_child("name").equal_to("Zosia").get()
+
+print(people.val()) # OrderedDict([('obywatel1', {'address': 'Różnowo', 'age': 12, 'employed': False, 'name': 'Zosia'})])
+
+for person in people:
+	print(person.val())
+#{'address': 'Różnowo', 'age': 12, 'employed': False, 'name': 'Zosia'}
+
+for person in people:
+	print(person.val()['address']) # Różnowo
+
 
 ```
 
