@@ -402,11 +402,15 @@ for person in people:
 
 # or with map
 find_addresses = lambda person: person.val()['address']
-addresses = list(map(lambda person: person.val()['address'], people)) # map returns generator (it is lazy), so you have to convert the generator into a list
+addresses = list(map(find_addresses, people)) # map returns generator (it is lazy), so you have to convert the generator into a list
 print(addresses)
 # ['Różnowo']
 
-# AGE
+# all data of people living in Różnowo
+people=db.child("polacy").order_by_child("address").equal_to("Różnowo").get()
+
+for person in people.each():
+	print(person.val())
 
 
 ```
