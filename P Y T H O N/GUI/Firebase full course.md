@@ -397,9 +397,10 @@ for person in people:
 
 # ADDRESSES
 for person in people:
-	print(person.val()['address']) # Różnowo
+	print(person.val()['address']) # Różnowo, because Zosia lives in Różnowo
+
 # or with map
-addresses = list(map(lambda person: person.val()['address'], people)) # bo map zwraca generator, a on jest lazy, więc generator zamienia
+addresses = list(map(lambda person: person.val()['address'], people)) # map returns generator (it is lazy), so you have to convert the generator into a list
 print(addresses)
 
 
