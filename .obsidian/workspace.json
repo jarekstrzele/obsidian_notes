@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/1 Moduły.md",
+                "file": "N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "627a79bccbdfa935",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "N_O_D_E/NodeJS - fullstack/2. Podstawowe koncepcje.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -166,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/1 Moduły.md",
+                "file": "N_O_D_E/NodeJS - fullstack/2. Podstawowe koncepcje.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -183,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/1 Moduły.md",
+                "file": "N_O_D_E/NodeJS - fullstack/2. Podstawowe koncepcje.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/1 Moduły.md"
+                "file": "N_O_D_E/NodeJS - fullstack/2. Podstawowe koncepcje.md"
               }
             }
           },
@@ -246,14 +258,15 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "f621f21825dbd82d",
+  "active": "627a79bccbdfa935",
   "lastOpenFiles": [
-    "P Y T H O N/GUI/Firebase full course.md",
+    "N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md",
+    "N_O_D_E/NodeJS - fullstack/2. Podstawowe koncepcje.md",
     "N_O_D_E/NodeJS - fullstack/1 Moduły.md",
+    "P Y T H O N/GUI/Firebase full course.md",
     "P Y T H O N/urllib.md",
     "P Y T H O N/GUI/get_url.md",
     "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
-    "N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md",
     "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/_ 0 PyQt with Hala.md",
     "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/CheckList.md",
     "P Y T H O N/GUI/Simple app with FireBase.md",
@@ -274,7 +287,6 @@
     "P Y T H O N/GUI/Tkinter/Tkinter.md",
     "P Y T H O N/GUI/Tkinter/Icons, Images, Exit Button.md",
     "P Y T H O N/GUI/Tkinter/Calculator simple.md",
-    "P Y T H O N/GUI/Tkinter/Calculater.md",
     "Prog/test.py",
     "REACT NATIVE/The Complete React NativePlusHooks",
     "P Y T H O N/GUI/PySide6",

@@ -170,9 +170,17 @@ https://nodejs.org/docs/latest-v16.x/api/
 const path = require('path') ;
 const utils = require('util') ;
 
+let log = utils.format("Nazwa pliku to %s", path.basename(__filename)) ;
 
+console.log(log) ;
+console.log(__filename) ;
 ````
 
+```bash
+$ node main.js 
+Nazwa pliku to main.js
+/home/jarek/Desktop/Prog/node/main.js
+```
 
 
 
