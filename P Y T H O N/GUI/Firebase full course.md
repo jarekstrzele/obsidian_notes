@@ -264,6 +264,20 @@ db.child("people").child("My_own_id").set(data)
 
 
 ## update
+```python
+# DB
+
+data = {'age': 122, 'address':'Olsztyn', 'employed': True, 'name':'Jan Kowalski'}
+
+# db.child("people").child("id_1").set(data)
+
+# update
+db.child("people").child("id_1").update({'name':'Tom Nowak'})
+print("ok")
+```
+
+### when you don't know the id
+in FireBase DB I have 'people' with objects wit random id genereted by DB
 
 
 
