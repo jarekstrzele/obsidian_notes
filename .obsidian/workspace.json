@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "P Y T H O N/GUI/Firebase full course.md",
+                "file": "P Y T H O N/OOP Python udemy/8 Descriptors.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "P Y T H O N/GUI/Firebase full course.md",
+                "file": "P Y T H O N/OOP Python udemy/8 Descriptors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "P Y T H O N/GUI/Firebase full course.md"
+                "file": "P Y T H O N/OOP Python udemy/8 Descriptors.md"
               }
             }
           },
@@ -265,8 +265,9 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "357d553b52ed337c",
+  "active": "c099220f5467aef2",
   "lastOpenFiles": [
+    "P Y T H O N/GUI/Firebase full course.md",
     "REACT NATIVE/React Native Practical Guide/1.4. FlatList.md",
     "P Y T H O N/OOP Python udemy/8 Descriptors.md",
     "C++/Programowanie w języku C++ od A do Z/_ 0 Programowanie w języku C++.md",
@@ -274,7 +275,6 @@
     "C++/C++ Programming Course/_ C++ Programming Course.md",
     "C++/C++ Programming Course",
     "C++",
-    "P Y T H O N/GUI/Firebase full course.md",
     "conflict-files-obsidian-git.md",
     "P Y T H O N/urllib.md",
     "P Y T H O N/GUI/get_url.md",
