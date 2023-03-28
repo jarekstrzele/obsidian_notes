@@ -145,6 +145,8 @@ print(p.first_name)
 > use `instance.__dict__` for storing descriptor field values
 
 #### some changes
+> **`__get__`  of descriptor has absolute precedence**
+> first the getter next the `__dict__` of instance
 ```python
 class PersonTable:
     first_name=TextField(20)
