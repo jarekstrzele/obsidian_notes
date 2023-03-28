@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/1.4. FlatList.md",
+                "file": "P Y T H O N/GUI/Firebase full course.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "P Y T H O N/OOP Python udemy/8 Descriptors.md",
+                "file": "P Y T H O N/GUI/Firebase full course.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "P Y T H O N/OOP Python udemy/8 Descriptors.md",
+                "file": "P Y T H O N/GUI/Firebase full course.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "P Y T H O N/OOP Python udemy/8 Descriptors.md"
+                "file": "P Y T H O N/GUI/Firebase full course.md"
               }
             }
           },
@@ -265,10 +265,11 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "c099220f5467aef2",
+  "active": "357d553b52ed337c",
   "lastOpenFiles": [
-    "C++/Programowanie w języku C++ od A do Z/_ 0 Programowanie w języku C++.md",
+    "REACT NATIVE/React Native Practical Guide/1.4. FlatList.md",
     "P Y T H O N/OOP Python udemy/8 Descriptors.md",
+    "C++/Programowanie w języku C++ od A do Z/_ 0 Programowanie w języku C++.md",
     "C++/Programowanie w języku C++ od A do Z",
     "C++/C++ Programming Course/_ C++ Programming Course.md",
     "C++/C++ Programming Course",
@@ -296,7 +297,6 @@
     "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
     "Excalidraw/graf_DFS.excalidraw.md",
     "HASKELL/for_great_good/5 Higher order functions.md",
-    "REACT NATIVE/React Native Practical Guide/1.4. FlatList.md",
     "Prog/test.py",
     "REACT NATIVE/The Complete React NativePlusHooks",
     "P Y T H O N/GUI/PySide6",
