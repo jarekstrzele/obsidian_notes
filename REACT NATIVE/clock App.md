@@ -1,4 +1,4 @@
-`npx create-react-app`
+[[#Clock in React Native]]
 
 
 # Clock in terminal -  Node
@@ -67,5 +67,21 @@ setInterval(displayTime, 1000);
 ```
 
 ----
-# Clock in React 
+# Clock in React Native
+
+`npx create-react-app`
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
