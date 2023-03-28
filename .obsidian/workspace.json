@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "c98548d27b20b115",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++/C++ Programming Course/_ C++ Programming Course.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "aaf8674c727cd181",
             "type": "leaf",
             "state": {
@@ -80,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -154,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "P Y T H O N/OOP Python udemy/8 Descriptors.md",
+                "file": "C++/C++ Programming Course/_ C++ Programming Course.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -171,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "P Y T H O N/OOP Python udemy/8 Descriptors.md",
+                "file": "C++/C++ Programming Course/_ C++ Programming Course.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "P Y T H O N/OOP Python udemy/8 Descriptors.md"
+                "file": "C++/C++ Programming Course/_ C++ Programming Course.md"
               }
             }
           },
@@ -241,8 +253,12 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "c099220f5467aef2",
+  "active": "c98548d27b20b115",
   "lastOpenFiles": [
+    "P Y T H O N/OOP Python udemy/8 Descriptors.md",
+    "C++/C++ Programming Course/_ C++ Programming Course.md",
+    "C++/C++ Programming Course",
+    "C++",
     "P Y T H O N/GUI/Firebase full course.md",
     "conflict-files-obsidian-git.md",
     "P Y T H O N/urllib.md",
@@ -263,13 +279,11 @@
     "N_O_D_E/NODE - the complete guide/_0 Node Complete Guide.md",
     "N_O_D_E/Lear Node.js and Javascript/- 2 JavaScript.md",
     "N_O_D_E/Lear Node.js and Javascript/_ Node and JavaScript.md",
-    "P Y T H O N/OOP Python udemy/8 Descriptors.md",
     "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
     "Excalidraw/graf_DFS.excalidraw.md",
     "HASKELL/for_great_good/5 Higher order functions.md",
     "REACT NATIVE/React Native Practical Guide/1.4. FlatList.md",
     "P Y T H O N/OOP Python udemy/8.1. Descriptor example.md",
-    "REACT NATIVE/React Native Practical Guide/6 Navigation/1 Add action to React Navigator.md",
     "Prog/test.py",
     "REACT NATIVE/The Complete React NativePlusHooks",
     "P Y T H O N/GUI/PySide6",
