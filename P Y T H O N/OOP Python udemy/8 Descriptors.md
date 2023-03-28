@@ -612,6 +612,15 @@ class PersonTableWithDescriptor
 ```
 
 
+# Challenge
+- define class `StudentProfile`
+- instances of that class will have attributes: `name`, `GRE score(13-340)`, `SAT score(400-1600)`
+- intances will have customized representation
+- `score fields` should be validated for the correct type and value
+- if a score field is not specified at instantiation, it must default to the minimum of its respective valid range
+- use descriptors (instance-specific storage)
+- try to use only one general descriptor
+
 
 
 
