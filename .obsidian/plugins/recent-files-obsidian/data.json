@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "clock App",
+      "path": "REACT NATIVE/clock App.md"
+    },
+    {
       "basename": "_ 0 React Native - Practical Guide",
       "path": "REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md"
+    },
+    {
+      "basename": "CheckList",
+      "path": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/CheckList.md"
     },
     {
       "basename": "_ 0 Complete React Native",
@@ -39,10 +47,6 @@
     {
       "basename": "_ 0 PyQt with Hala",
       "path": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/_ 0 PyQt with Hala.md"
-    },
-    {
-      "basename": "CheckList",
-      "path": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/CheckList.md"
     },
     {
       "basename": "Simple app with FireBase",
@@ -195,10 +199,6 @@
     {
       "basename": "9 QtDesigner",
       "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md"
-    },
-    {
-      "basename": "12 Database Apps with Qt",
-      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/12 Database Apps with Qt.md"
     }
   ],
   "omittedPaths": [],
