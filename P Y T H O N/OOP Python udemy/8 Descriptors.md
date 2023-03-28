@@ -71,6 +71,10 @@ class Descriptor:
 `owner` - refers to the class from where the descriptor is invoked (and set to a class variable)
 				in the example below PersonTable class owns the descriptor
 ```python
+class PersonTable:
+    first_name = TextField(20)
+    last_name = TextField(40)
+
 print(PersonTable.__dict__)
 {'__module__': '__main__', 
  
@@ -104,7 +108,7 @@ class TextField:
         self.length=length
     
     def __get__(self, instance, owner):
-	    print(f"{instance =}" )
+				print(f"{instance =}" )
         print(f"{owner =} ")
         return self.value
     
@@ -132,10 +136,6 @@ print(p.first_name)
 
 ```
 
-
-> 
-> **`__get__`  of descriptor has absolute precedence**
-> first the getter next the `__dict__` of instance
 
 
 -----------

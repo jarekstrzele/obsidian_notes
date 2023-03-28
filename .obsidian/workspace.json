@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "c4d891b46288ae61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++/Programowanie w języku C++ od A do Z/_ 0 Programowanie w języku C++.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c98548d27b20b115",
             "type": "leaf",
             "state": {
@@ -92,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -166,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/C++ Programming Course/_ C++ Programming Course.md",
+                "file": "P Y T H O N/OOP Python udemy/8 Descriptors.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -183,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/C++ Programming Course/_ C++ Programming Course.md",
+                "file": "P Y T H O N/OOP Python udemy/8 Descriptors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/C++ Programming Course/_ C++ Programming Course.md"
+                "file": "P Y T H O N/OOP Python udemy/8 Descriptors.md"
               }
             }
           },
@@ -253,9 +265,11 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "c98548d27b20b115",
+  "active": "c099220f5467aef2",
   "lastOpenFiles": [
+    "C++/Programowanie w języku C++ od A do Z/_ 0 Programowanie w języku C++.md",
     "P Y T H O N/OOP Python udemy/8 Descriptors.md",
+    "C++/Programowanie w języku C++ od A do Z",
     "C++/C++ Programming Course/_ C++ Programming Course.md",
     "C++/C++ Programming Course",
     "C++",
@@ -283,14 +297,12 @@
     "Excalidraw/graf_DFS.excalidraw.md",
     "HASKELL/for_great_good/5 Higher order functions.md",
     "REACT NATIVE/React Native Practical Guide/1.4. FlatList.md",
-    "P Y T H O N/OOP Python udemy/8.1. Descriptor example.md",
     "Prog/test.py",
     "REACT NATIVE/The Complete React NativePlusHooks",
     "P Y T H O N/GUI/PySide6",
     "P Y T H O N/GUI/PyQt/PyQt5_with_Hala",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer or Bottom-Tabs Navigators",
     "Studia/Python BackEnd/Django",
-    "Untitled.canvas",
-    "P Y T H O N/GUI/PyQt/PyQt Codemy"
+    "Untitled.canvas"
   ]
 }

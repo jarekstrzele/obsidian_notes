@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "_ C++ Programming Course",
-      "path": "C++/C++ Programming Course/_ C++ Programming Course.md"
-    },
-    {
       "basename": "8 Descriptors",
       "path": "P Y T H O N/OOP Python udemy/8 Descriptors.md"
+    },
+    {
+      "basename": "_ 0 Programowanie w języku C++",
+      "path": "C++/Programowanie w języku C++ od A do Z/_ 0 Programowanie w języku C++.md"
+    },
+    {
+      "basename": "_ C++ Programming Course",
+      "path": "C++/C++ Programming Course/_ C++ Programming Course.md"
     },
     {
       "basename": "Firebase full course",
@@ -195,10 +199,6 @@
     {
       "basename": "_ 0 Complete React Native",
       "path": "REACT NATIVE/The Complete React NativePlusHooks/_ 0 Complete React Native.md"
-    },
-    {
-      "basename": "_ 0 React Native Navigation",
-      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/_ 0 React Native Navigation.md"
     }
   ],
   "omittedPaths": [],
