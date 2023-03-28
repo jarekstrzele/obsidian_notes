@@ -405,7 +405,7 @@ print(PersonTable.first_name)
 > Descriptor that implements only `__get__`
 
 - DATA descriptor has the highest precedence (**before** the `instance.__dict__`)
-- NON-DATA descriptor doesn't have the highest precdence (**after** the `instance_dict__`)
+- NON-DATA descriptor doesn't have the highest precdence (**after** the `instancei._dict__`)
 
 add to `PersonTabel` and `TextField` a new non-data descriptor:
 ```python
@@ -441,8 +441,6 @@ print(PersonTable.person_num)
 - properties provide syntactic sugar over the descriptor protocol
 - descriptors are significantly more reusable
 - in small project properties are good but in large projects descriptors are better
-
-
 
 ## properties provide syntactic sugar over the descriptor protocol
 ```python
