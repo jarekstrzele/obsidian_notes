@@ -13,110 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f13dd675cffe6309",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "627a79bccbdfa935",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/2. Podstawowe koncepcje.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a17117711691ad32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/CheckList.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c099220f5467aef2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "15dfaebabd37093c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0d54b6c970364990",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "P Y T H O N/urllib.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bbf4d5ba7aa16808",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "P Y T H O N/GUI/get_url.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8d79a884d7999dbe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HASKELL/for_great_good/5 Higher order functions.md",
+                "file": "REACT NATIVE/clock App.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -145,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "expo",
+                "query": "tag:#udemy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -190,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/for_great_good/5 Higher order functions.md",
+                "file": "REACT NATIVE/clock App.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -207,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/for_great_good/5 Higher order functions.md",
+                "file": "REACT NATIVE/clock App.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/for_great_good/5 Higher order functions.md"
+                "file": "REACT NATIVE/clock App.md"
               }
             }
           },
@@ -249,14 +152,21 @@
               "type": "juggl_style",
               "state": {}
             }
+          },
+          {
+            "id": "a37f9b7caeae370a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 337.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -270,38 +180,38 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "8d79a884d7999dbe",
+  "active": "dd6e3bf76a85b059",
   "lastOpenFiles": [
-    "REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
-    "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
-    "FullStack/Full Stack Web Development  Bootcamp/_ 0 Full stack Web Dev Bootcamp.md",
-    "REACT NATIVE/React Native Practical Guide/1 React Native Basics.md",
-    "REACT NATIVE/Master React Native Funds/_ 0 start React Native.md",
-    "REACT NATIVE/Docs reactnative/_ 0 ReactNative docs.md",
-    "REACT NATIVE/_ Proste aplikacje/ClockApp.md",
-    "REACT NATIVE/_ Proste aplikacje/biblioteka moment-react.md",
-    "REACT NATIVE/_ Proste aplikacje/biblioteka Moment Javascript.md",
+    "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/_ 0 PyQt with Hala.md",
     "REACT NATIVE/clock App.md",
     "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/CheckList.md",
-    "REACT NATIVE/The Complete React NativePlusHooks/_ 0 Complete React Native.md",
     "P Y T H O N/GUI/Firebase full course.md",
+    "P Y T H O N/OOP Python udemy/8 Descriptors.md",
+    "REACT NATIVE/React Native Practical Guide/1.4. FlatList.md",
     "C++/Programowanie w języku C++ od A do Z/_ 0 Programowanie w języku C++.md",
-    "C++/C++ Programming Course/_ C++ Programming Course.md",
     "C++/Programowanie w języku C++ od A do Z",
+    "C++/C++ Programming Course/_ C++ Programming Course.md",
     "C++/C++ Programming Course",
     "C++",
-    "N_O_D_E/NodeJS - fullstack/2. Podstawowe koncepcje.md",
-    "N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md",
-    "N_O_D_E/NodeJS - fullstack/1 Moduły.md",
+    "conflict-files-obsidian-git.md",
     "P Y T H O N/urllib.md",
     "P Y T H O N/GUI/get_url.md",
-    "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/_ 0 PyQt with Hala.md",
+    "N_O_D_E/NodeJS - fullstack/2. Podstawowe koncepcje.md",
+    "N_O_D_E/NodeJS - fullstack/1 Moduły.md",
     "P Y T H O N/GUI/Simple app with FireBase.md",
+    "JAVASCRIPT/JS Bible/_ 0 JS Bible.md",
+    "P Y T H O N/GUI/Five most Popular Python Gui Libs.md",
     "P Y T H O N/GUI/PySimpleGUI.md",
-    "P Y T H O N/GUI/Qt Creator and FireBase.md",
-    "P Y T H O N/GUI/PySide6/_ 0 PySide.md",
-    "linux/UBUNTU.md",
+    "P Y T H O N/GUI/Qt Designer and Python.md",
+    "N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md",
     "N_O_D_E/NodeJS - fullstack",
+    "JAVASCRIPT/JS współczesny/_ 0 intro JS dzisiaj.md",
+    "JAVASCRIPT/Lear Node.js and Javascript/_ Node and JavaScript.md",
+    "JAVASCRIPT/Lear Node.js and Javascript/- 3 Node.md",
+    "JAVASCRIPT/Lear Node.js and Javascript/- 2 JavaScript.md",
+    "N_O_D_E/NODE - the complete guide/_0 Node Complete Guide.md",
+    "N_O_D_E/Lear Node.js and Javascript/- 2 JavaScript.md",
+    "N_O_D_E/Lear Node.js and Javascript/_ Node and JavaScript.md",
     "Prog/test.py",
     "REACT NATIVE/The Complete React NativePlusHooks",
     "P Y T H O N/GUI/PySide6",
