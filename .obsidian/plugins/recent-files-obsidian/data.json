@@ -9,6 +9,10 @@
       "path": "FullStack/Web Development 2023/_ 0 start.md"
     },
     {
+      "basename": "Shell vs Terminal",
+      "path": "FullStack/Full Stack Web Development  Bootcamp/Appendixes/Shell vs Terminal.md"
+    },
+    {
       "basename": "_ 0 Full stack Web Dev Bootcamp",
       "path": "FullStack/Full Stack Web Development  Bootcamp/_ 0 Full stack Web Dev Bootcamp.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "7 Folding",
       "path": "HASKELL/Haskell for Imperative Programmers/7 Folding.md"
-    },
-    {
-      "basename": "6 Composition",
-      "path": "HASKELL/Haskell for Imperative Programmers/6 Composition.md"
     }
   ],
   "omittedPaths": [],

@@ -10,10 +10,10 @@ e.g. https://devdocs.io/html/element/button
 
 http://web.archive.org
 
-
-## Image
 `<img src="angela.png" />`
+`<a href="https:// ..."> Tekst </a>`
 
+## table
 
 
 
