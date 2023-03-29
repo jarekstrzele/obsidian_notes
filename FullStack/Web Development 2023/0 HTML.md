@@ -11,6 +11,9 @@ e.g. https://devdocs.io/html/element/button
 http://web.archive.org
 
 
+## Image
+`<img src="angela.png" />`
+
 
 
 

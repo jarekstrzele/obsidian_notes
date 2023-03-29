@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "0 HTML",
+      "path": "FullStack/Web Development 2023/0 HTML.md"
+    },
+    {
+      "basename": "_ 0 start",
+      "path": "FullStack/Web Development 2023/_ 0 start.md"
+    },
+    {
+      "basename": "_ 0 Full stack Web Dev Bootcamp",
+      "path": "FullStack/Full Stack Web Development  Bootcamp/_ 0 Full stack Web Dev Bootcamp.md"
+    },
+    {
+      "basename": "4. HTTP Architecture",
+      "path": "network/HTTP/4. HTTP Architecture.md"
+    },
+    {
+      "basename": "2 HTTP Messages",
+      "path": "network/HTTP/2 HTTP Messages.md"
+    },
+    {
+      "basename": "1 HTTP Resources",
+      "path": "network/HTTP/1 HTTP Resources.md"
+    },
+    {
+      "basename": "_ 0 HTTP fundementals",
+      "path": "network/HTTP/_ 0 HTTP fundementals.md"
+    },
+    {
+      "basename": "_ 0 Full HTTP Networking Course – Fetch and REST APIs in JavaScript",
+      "path": "network/Full HTTP Networking Course – Fetch and REST APIs in JavaScript/_ 0 Full HTTP Networking Course – Fetch and REST APIs in JavaScript.md"
+    },
+    {
       "basename": "clock App",
       "path": "REACT NATIVE/clock App.md"
     },
@@ -167,38 +199,6 @@
     {
       "basename": "6 Composition",
       "path": "HASKELL/Haskell for Imperative Programmers/6 Composition.md"
-    },
-    {
-      "basename": "4 Recursion",
-      "path": "HASKELL/for_great_good/4 Recursion.md"
-    },
-    {
-      "basename": "150 ćw OOP w Python",
-      "path": "P Y T H O N/150 ćw OOP w Python.md"
-    },
-    {
-      "basename": "7 Adding Header Button",
-      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/7 Adding Header Button.md"
-    },
-    {
-      "basename": "5 Adding and Configuring the Meal Details Screen",
-      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/5 Adding and Configuring the Meal Details Screen.md"
-    },
-    {
-      "basename": "BottomNavigator",
-      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer or Bottom-Tabs Navigators/BottomNavigator.md"
-    },
-    {
-      "basename": "8 Icon Button",
-      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/8 Icon Button.md"
-    },
-    {
-      "basename": "useNavigation Hook",
-      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/useNavigation Hook.md"
-    },
-    {
-      "basename": "6 Outputting Content in the Meal Detail Screen",
-      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/6 Outputting Content in the Meal Detail Screen.md"
     }
   ],
   "omittedPaths": [],

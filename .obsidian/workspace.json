@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REACT NATIVE/clock App.md",
+                "file": "FullStack/Web Development 2023/0 HTML.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 403.5
   },
   "right": {
     "id": "ec7d1a70da2de581",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REACT NATIVE/clock App.md",
+                "file": "FullStack/Web Development 2023/0 HTML.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REACT NATIVE/clock App.md",
+                "file": "FullStack/Web Development 2023/0 HTML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REACT NATIVE/clock App.md"
+                "file": "FullStack/Web Development 2023/0 HTML.md"
               }
             }
           },
@@ -167,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,8 +183,16 @@
   },
   "active": "dd6e3bf76a85b059",
   "lastOpenFiles": [
-    "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/_ 0 PyQt with Hala.md",
+    "FullStack/Web Development 2023/_ 0 start.md",
+    "FullStack/Web Development 2023/0 HTML.md",
+    "FullStack/Full Stack Web Development  Bootcamp/_ 0 Full stack Web Dev Bootcamp.md",
+    "network/HTTP/4. HTTP Architecture.md",
+    "network/HTTP/2 HTTP Messages.md",
+    "network/HTTP/1 HTTP Resources.md",
+    "network/HTTP/_ 0 HTTP fundementals.md",
+    "network/Full HTTP Networking Course – Fetch and REST APIs in JavaScript/_ 0 Full HTTP Networking Course – Fetch and REST APIs in JavaScript.md",
     "REACT NATIVE/clock App.md",
+    "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/_ 0 PyQt with Hala.md",
     "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/CheckList.md",
     "P Y T H O N/GUI/Firebase full course.md",
     "P Y T H O N/OOP Python udemy/8 Descriptors.md",
@@ -204,15 +212,7 @@
     "P Y T H O N/GUI/Five most Popular Python Gui Libs.md",
     "P Y T H O N/GUI/PySimpleGUI.md",
     "P Y T H O N/GUI/Qt Designer and Python.md",
-    "N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md",
     "N_O_D_E/NodeJS - fullstack",
-    "JAVASCRIPT/JS współczesny/_ 0 intro JS dzisiaj.md",
-    "JAVASCRIPT/Lear Node.js and Javascript/_ Node and JavaScript.md",
-    "JAVASCRIPT/Lear Node.js and Javascript/- 3 Node.md",
-    "JAVASCRIPT/Lear Node.js and Javascript/- 2 JavaScript.md",
-    "N_O_D_E/NODE - the complete guide/_0 Node Complete Guide.md",
-    "N_O_D_E/Lear Node.js and Javascript/- 2 JavaScript.md",
-    "N_O_D_E/Lear Node.js and Javascript/_ Node and JavaScript.md",
     "Prog/test.py",
     "REACT NATIVE/The Complete React NativePlusHooks",
     "P Y T H O N/GUI/PySide6",
