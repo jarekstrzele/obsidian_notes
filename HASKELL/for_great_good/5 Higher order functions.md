@@ -7,9 +7,6 @@
 [[#]]
 
 
-
-
-
 >[!info] HOF
 > A function that take functions as parameters or return functions as return values.
 

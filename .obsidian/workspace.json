@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REACT NATIVE/clock App.md",
+                "file": "REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,14 +109,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
+                "file": "HASKELL/for_great_good/5 Higher order functions.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -145,7 +145,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#udemy",
+                "query": "expo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REACT NATIVE/clock App.md",
+                "file": "HASKELL/for_great_good/5 Higher order functions.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REACT NATIVE/clock App.md",
+                "file": "HASKELL/for_great_good/5 Higher order functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REACT NATIVE/clock App.md"
+                "file": "HASKELL/for_great_good/5 Higher order functions.md"
               }
             }
           },
@@ -270,9 +270,17 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "15dfaebabd37093c",
+  "active": "8d79a884d7999dbe",
   "lastOpenFiles": [
     "REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
+    "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
+    "FullStack/Full Stack Web Development  Bootcamp/_ 0 Full stack Web Dev Bootcamp.md",
+    "REACT NATIVE/React Native Practical Guide/1 React Native Basics.md",
+    "REACT NATIVE/Master React Native Funds/_ 0 start React Native.md",
+    "REACT NATIVE/Docs reactnative/_ 0 ReactNative docs.md",
+    "REACT NATIVE/_ Proste aplikacje/ClockApp.md",
+    "REACT NATIVE/_ Proste aplikacje/biblioteka moment-react.md",
+    "REACT NATIVE/_ Proste aplikacje/biblioteka Moment Javascript.md",
     "REACT NATIVE/clock App.md",
     "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/CheckList.md",
     "REACT NATIVE/The Complete React NativePlusHooks/_ 0 Complete React Native.md",
@@ -287,21 +295,13 @@
     "N_O_D_E/NodeJS - fullstack/1 Moduły.md",
     "P Y T H O N/urllib.md",
     "P Y T H O N/GUI/get_url.md",
-    "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
     "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/_ 0 PyQt with Hala.md",
     "P Y T H O N/GUI/Simple app with FireBase.md",
     "P Y T H O N/GUI/PySimpleGUI.md",
     "P Y T H O N/GUI/Qt Creator and FireBase.md",
     "P Y T H O N/GUI/PySide6/_ 0 PySide.md",
     "linux/UBUNTU.md",
-    "P Y T H O N/OOP Python udemy/8 Descriptors.md",
     "N_O_D_E/NodeJS - fullstack",
-    "Excalidraw/graf_DFS.excalidraw.md",
-    "HASKELL/for_great_good/5 Higher order functions.md",
-    "REACT NATIVE/React Native Practical Guide/1.4. FlatList.md",
-    "P Y T H O N/OOP Python udemy/8.1. Descriptor example.md",
-    "REACT NATIVE/React Native Practical Guide/6 Navigation/1 Add action to React Navigator.md",
-    "REACT NATIVE/React Native Practical Guide/6 Navigation/3 Add new Component MealItem.md",
     "Prog/test.py",
     "REACT NATIVE/The Complete React NativePlusHooks",
     "P Y T H O N/GUI/PySide6",
