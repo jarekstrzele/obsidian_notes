@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2. Podstawowe koncepcje",
+      "path": "N_O_D_E/NodeJS - fullstack/2. Podstawowe koncepcje.md"
+    },
+    {
+      "basename": "_ 0 NodeJS - zostań fullstack",
+      "path": "N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md"
+    },
+    {
       "basename": "0 HTML",
       "path": "FullStack/Web Development 2023/0 HTML.md"
     },
@@ -87,10 +95,6 @@
     {
       "basename": "Qt Designer and Python",
       "path": "P Y T H O N/GUI/Qt Designer and Python.md"
-    },
-    {
-      "basename": "_ 0 NodeJS - zostań fullstack",
-      "path": "N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md"
     },
     {
       "basename": "_ 0 intro JS dzisiaj",
@@ -195,10 +199,6 @@
     {
       "basename": "8 Datatypes",
       "path": "HASKELL/Haskell for Imperative Programmers/8 Datatypes.md"
-    },
-    {
-      "basename": "7 Folding",
-      "path": "HASKELL/Haskell for Imperative Programmers/7 Folding.md"
     }
   ],
   "omittedPaths": [],
