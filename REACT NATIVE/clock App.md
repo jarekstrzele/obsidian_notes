@@ -54,8 +54,8 @@ const print_time = () => {
 	}, 1000) ;
 }
 
-// print_time() ;
-// setInterval(print_time, 100)
+print_time() ;
+setInterval(print_time, 1000)
 
 function displayTime(){
 	const now = new Date() ;
