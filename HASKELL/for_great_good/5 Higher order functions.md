@@ -17,7 +17,8 @@
 If a function accepts several parameters is **curried function**
 
 >[!info] parially applied function
->a function that takes as many parameters as we left out
+>
+if we call a function with ==too few== parameters, we get back ==a partially applied function==, meaning a function that takes as many parameters as we left out.
 
 ```haskell
 ghci> max 4 5
@@ -75,7 +76,7 @@ so
 calling `divideByTen 200` is equivalent to doing `200/10`, as is doing `(/10) 200`
 
 ------
-# ## Some higher-orderism is in order
+### Some higher-orderism is in order
 >
 > functions can take functions as parameters and also return functions
 > 
