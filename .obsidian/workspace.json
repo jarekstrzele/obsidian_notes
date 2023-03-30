@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -117,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/2. Podstawowe koncepcje.md",
+                "file": "P Y T H O N/OOP Python udemy/8 Descriptors.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -134,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/2. Podstawowe koncepcje.md",
+                "file": "P Y T H O N/OOP Python udemy/8 Descriptors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/2. Podstawowe koncepcje.md"
+                "file": "P Y T H O N/OOP Python udemy/8 Descriptors.md"
               }
             }
           },
@@ -205,12 +206,12 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "dd6e3bf76a85b059",
+  "active": "a7fd8330d44acef1",
   "lastOpenFiles": [
     "N_O_D_E/w3school/_ 0 W3Schools Node.md",
+    "N_O_D_E/NodeJS - fullstack/2. Podstawowe koncepcje.md",
     "P Y T H O N/OOP Python udemy/8 Descriptors.md",
     "N_O_D_E/w3school",
-    "N_O_D_E/NodeJS - fullstack/2. Podstawowe koncepcje.md",
     "N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md",
     "FullStack/Web Development 2023/0 HTML.md",
     "FullStack/Web Development 2023/_ 0 start.md",
