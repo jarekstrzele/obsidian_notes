@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "531f658588f90b09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "N_O_D_E/w3school/_ 0 W3Schools Node.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/2. Podstawowe koncepcje.md",
+                "file": "N_O_D_E/w3school/_ 0 W3Schools Node.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/2. Podstawowe koncepcje.md",
+                "file": "N_O_D_E/w3school/_ 0 W3Schools Node.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/2. Podstawowe koncepcje.md"
+                "file": "N_O_D_E/w3school/_ 0 W3Schools Node.md"
               }
             }
           },
@@ -181,8 +194,11 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "dd6e3bf76a85b059",
+  "active": "531f658588f90b09",
   "lastOpenFiles": [
+    "N_O_D_E/w3school/_ 0 W3Schools Node.md",
+    "N_O_D_E/w3school",
+    "N_O_D_E/NodeJS - fullstack/2. Podstawowe koncepcje.md",
     "N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md",
     "FullStack/Web Development 2023/0 HTML.md",
     "FullStack/Web Development 2023/_ 0 start.md",
@@ -207,18 +223,15 @@
     "conflict-files-obsidian-git.md",
     "P Y T H O N/urllib.md",
     "P Y T H O N/GUI/get_url.md",
-    "N_O_D_E/NodeJS - fullstack/2. Podstawowe koncepcje.md",
     "N_O_D_E/NodeJS - fullstack/1 Moduły.md",
     "P Y T H O N/GUI/Simple app with FireBase.md",
     "JAVASCRIPT/JS Bible/_ 0 JS Bible.md",
-    "P Y T H O N/GUI/Five most Popular Python Gui Libs.md",
     "N_O_D_E/NodeJS - fullstack",
     "Prog/test.py",
     "REACT NATIVE/The Complete React NativePlusHooks",
     "P Y T H O N/GUI/PySide6",
     "P Y T H O N/GUI/PyQt/PyQt5_with_Hala",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer or Bottom-Tabs Navigators",
-    "Studia/Python BackEnd/Django",
     "Untitled.canvas"
   ]
 }

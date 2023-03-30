@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "_ 0 W3Schools Node",
+      "path": "N_O_D_E/w3school/_ 0 W3Schools Node.md"
+    },
+    {
       "basename": "2. Podstawowe koncepcje",
       "path": "N_O_D_E/NodeJS - fullstack/2. Podstawowe koncepcje.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_ 0 PySide",
       "path": "P Y T H O N/GUI/PySide6/_ 0 PySide.md"
-    },
-    {
-      "basename": "8 Datatypes",
-      "path": "HASKELL/Haskell for Imperative Programmers/8 Datatypes.md"
     }
   ],
   "omittedPaths": [],
