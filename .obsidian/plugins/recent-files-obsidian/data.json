@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "9 QtDesigner",
+      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md"
+    },
+    {
+      "basename": "_ 0 PyQt5 From A-Z",
+      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md"
+    },
+    {
+      "basename": "2 Installing PyQt5",
+      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md"
+    },
+    {
+      "basename": "_ 0 PyQt5 code",
+      "path": "P Y T H O N/GUI/PyQt/PyQt Codemy/_ 0 PyQt5 code.md"
+    },
+    {
       "basename": "8 Descriptors",
       "path": "P Y T H O N/OOP Python udemy/8 Descriptors.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "Tkinter konwerter",
       "path": "P Y T H O N/GUI/Tkinter/Tkinter konwerter.md"
-    },
-    {
-      "basename": "9 Nested Navigators",
-      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/9 Nested Navigators.md"
-    },
-    {
-      "basename": "Drawer Navigator",
-      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer or Bottom-Tabs Navigators/Drawer Navigator.md"
-    },
-    {
-      "basename": "two screen in one window",
-      "path": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/two screen in one window.md"
-    },
-    {
-      "basename": "_ 0 PySide",
-      "path": "P Y T H O N/GUI/PySide6/_ 0 PySide.md"
     }
   ],
   "omittedPaths": [],
