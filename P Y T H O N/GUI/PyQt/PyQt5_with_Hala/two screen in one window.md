@@ -21,42 +21,24 @@ class MainWindow(QDialog):
   
 
 class Screen2(QDialog):
-
     def __init__(self):
-
         super().__init__()
-
         loadUi("screen_2.ui", self)
-
-  
-
         self.btn_2.clicked.connect(self.gotoScreen1)
 
   
-
     def gotoScreen1(self):
-
         mainwindow=MainWindow()
-
         widget.addWidget(mainWindow)
-
         widget.addWidget(mainwindow)
-
         widget.setCurrentIndex(widget.currentIndex()+1)
-
-  
-  
   
   
   
 
 app =QApplication([])
-
 widget=QtWidgets.QStackedWidget()
-
 mainWindow = MainWindow()
-
-  
 
 widget.addWidget(mainWindow)
 

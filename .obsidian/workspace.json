@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
+                "file": "P Y T H O N/GUI/Tkinter.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "98fd80dbac8c1f44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/two screen in one window.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -118,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
+                "file": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/two screen in one window.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -135,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
+                "file": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/two screen in one window.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md"
+                "file": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/two screen in one window.md"
               }
             }
           },
@@ -206,11 +218,26 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "a7fd8330d44acef1",
+  "active": "98fd80dbac8c1f44",
   "lastOpenFiles": [
+    "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/Multiple Screens.md",
+    "P Y T H O N/GUI/Tkinter.md",
+    "P Y T H O N/GUI/Simple app with FireBase.md",
+    "P Y T H O N/GUI/Qt Designer and Python.md",
+    "P Y T H O N/GUI/PySimpleGUI.md",
+    "P Y T H O N/GUI/get_url.md",
+    "P Y T H O N/GUI/Five most Popular Python Gui Libs.md",
+    "P Y T H O N/GUI/Firebase full course.md",
+    "P Y T H O N/GUI/Python Tkinter GUI youtube/Clock, date.md",
+    "P Y T H O N/GUI/Python Tkinter GUI youtube/Canvas.md",
+    "P Y T H O N/GUI/PySide6/_ 0 PySide.md",
+    "P Y T H O N/GUI/PyQt/PyQt Codemy/_ 0 PyQt5 code.md",
+    "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/_ 0 PyQt with Hala.md",
+    "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/CheckList.md",
+    "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/two screen in one window.md",
+    "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
     "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md",
     "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md",
-    "P Y T H O N/GUI/PyQt/PyQt Codemy/_ 0 PyQt5 code.md",
     "P Y T H O N/OOP Python udemy/8 Descriptors.md",
     "N_O_D_E/w3school/_ 0 W3Schools Node.md",
     "N_O_D_E/NodeJS - fullstack/2. Podstawowe koncepcje.md",
@@ -220,24 +247,9 @@
     "FullStack/Web Development 2023/_ 0 start.md",
     "FullStack/Full Stack Web Development  Bootcamp/Appendixes/Shell vs Terminal.md",
     "FullStack/Full Stack Web Development  Bootcamp/_ 0 Full stack Web Dev Bootcamp.md",
-    "network/HTTP/4. HTTP Architecture.md",
-    "network/HTTP/2 HTTP Messages.md",
-    "network/HTTP/1 HTTP Resources.md",
-    "network/HTTP/_ 0 HTTP fundementals.md",
-    "network/Full HTTP Networking Course – Fetch and REST APIs in JavaScript/_ 0 Full HTTP Networking Course – Fetch and REST APIs in JavaScript.md",
-    "REACT NATIVE/clock App.md",
-    "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/_ 0 PyQt with Hala.md",
-    "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/CheckList.md",
-    "P Y T H O N/GUI/Firebase full course.md",
-    "REACT NATIVE/React Native Practical Guide/1.4. FlatList.md",
-    "C++/Programowanie w języku C++ od A do Z/_ 0 Programowanie w języku C++.md",
     "C++/Programowanie w języku C++ od A do Z",
-    "C++/C++ Programming Course/_ C++ Programming Course.md",
     "C++/C++ Programming Course",
     "C++",
-    "conflict-files-obsidian-git.md",
-    "P Y T H O N/urllib.md",
-    "P Y T H O N/GUI/get_url.md",
     "N_O_D_E/NodeJS - fullstack",
     "Prog/test.py",
     "REACT NATIVE/The Complete React NativePlusHooks",
