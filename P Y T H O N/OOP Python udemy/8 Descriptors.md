@@ -606,7 +606,7 @@ print(p.first_name)
 if you use descriptor:
 ```python
 class PersonTableWithDescriptor
-	first_name=TextField(10)
+	first_name=TextField(11)
 	last_name=TextField(5)
 	occupation=TextField(7)
 ```
