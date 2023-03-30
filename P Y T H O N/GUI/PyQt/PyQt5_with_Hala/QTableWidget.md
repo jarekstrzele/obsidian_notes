@@ -6,30 +6,18 @@ https://www.youtube.com/watch?v=xL2NdSubiNY
 
 ```python
 import sys
-
 from PyQt5.uic import loadUi
-
 from PyQt5 import QtWidgets
-
 from PyQt5.QtWidgets import QDialog, QApplication
 
   
-  
-
 class Main(QDialog):
-
     def __init__(self):
-
         super().__init__()
-
         loadUi("ui_modules/myTableWidget.ui", self)
-
         self.tableWidget.setColumnWidth(0,250)
-
         self.tableWidget.setColumnWidth(1,100)
-
         self.tableWidget.setColumnWidth(2,350)
-
   
 
         self.load_data()
