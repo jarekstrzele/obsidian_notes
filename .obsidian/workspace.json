@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/two screen in one window.md",
+                "file": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/Multiple Screens.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/two screen in one window.md",
+                "file": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/Multiple Screens.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/two screen in one window.md",
+                "file": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/Multiple Screens.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/two screen in one window.md"
+                "file": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/Multiple Screens.md"
               }
             }
           },
@@ -220,6 +220,7 @@
   },
   "active": "98fd80dbac8c1f44",
   "lastOpenFiles": [
+    "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/two screen in one window.md",
     "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/Multiple Screens.md",
     "P Y T H O N/GUI/Tkinter.md",
     "P Y T H O N/GUI/Simple app with FireBase.md",
@@ -234,7 +235,6 @@
     "P Y T H O N/GUI/PyQt/PyQt Codemy/_ 0 PyQt5 code.md",
     "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/_ 0 PyQt with Hala.md",
     "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/CheckList.md",
-    "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/two screen in one window.md",
     "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
     "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md",
     "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md",
