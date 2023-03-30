@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "QTableWidget",
+      "path": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/QTableWidget.md"
+    },
+    {
       "basename": "Multiple Screens",
       "path": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/Multiple Screens.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Widżety proste TkInter",
       "path": "P Y T H O N/GUI/Tkinter/Widżety proste TkInter.md"
-    },
-    {
-      "basename": "Tkinter 0",
-      "path": "P Y T H O N/GUI/Tkinter/Tkinter 0.md"
     }
   ],
   "omittedPaths": [],

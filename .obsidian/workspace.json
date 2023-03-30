@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5744ad49b9d3fb30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/QTableWidget.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/Multiple Screens.md",
+                "file": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/QTableWidget.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -147,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/Multiple Screens.md",
+                "file": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/QTableWidget.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/Multiple Screens.md"
+                "file": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/QTableWidget.md"
               }
             }
           },
@@ -218,10 +230,11 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "98fd80dbac8c1f44",
+  "active": "5744ad49b9d3fb30",
   "lastOpenFiles": [
-    "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/two screen in one window.md",
     "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/Multiple Screens.md",
+    "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/QTableWidget.md",
+    "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/two screen in one window.md",
     "P Y T H O N/GUI/Tkinter.md",
     "P Y T H O N/GUI/Simple app with FireBase.md",
     "P Y T H O N/GUI/Qt Designer and Python.md",
@@ -246,7 +259,6 @@
     "FullStack/Web Development 2023/0 HTML.md",
     "FullStack/Web Development 2023/_ 0 start.md",
     "FullStack/Full Stack Web Development  Bootcamp/Appendixes/Shell vs Terminal.md",
-    "FullStack/Full Stack Web Development  Bootcamp/_ 0 Full stack Web Dev Bootcamp.md",
     "C++/Programowanie w języku C++ od A do Z",
     "C++/C++ Programming Course",
     "C++",
