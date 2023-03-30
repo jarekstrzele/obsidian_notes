@@ -42,15 +42,9 @@ mainWindow = MainWindow()
 
 widget.addWidget(mainWindow)
 
-  
-
 widget.setFixedHeight(400)
-
 widget.setFixedWidth(300)
-
 widget.show()
-
-  
 
 sys.exit(app.exec_())
 ```
