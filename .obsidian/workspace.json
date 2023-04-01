@@ -11,8 +11,12 @@
             "id": "44da37bea23f24c4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "R U S T/Rust - FreeCode Beginner/_ 0 Rust.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "R U S T/Rust - FreeCode Beginner/_ 0 Rust.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "R U S T/Rust - FreeCode Beginner/_ 0 Rust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "R U S T/Rust - FreeCode Beginner/_ 0 Rust.md"
+              }
             }
           },
           {
@@ -175,6 +183,9 @@
   },
   "active": "44da37bea23f24c4",
   "lastOpenFiles": [
+    "R U S T/Rust - FreeCode Beginner/_ 0 Rust.md",
+    "R U S T/Rust - FreeCode Beginner",
+    "R U S T",
     "N_O_D_E/NodeJS - fullstack/2. Podstawowe koncepcje.md",
     "N_O_D_E/w3school/_ 0 W3Schools Node.md",
     "P Y T H O N/GUI/Tkinter.md",
@@ -201,7 +212,6 @@
     "N_O_D_E/w3school",
     "N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md",
     "FullStack/Web Development 2023/0 HTML.md",
-    "FullStack/Web Development 2023/_ 0 start.md",
     "C++/Programowanie w języku C++ od A do Z",
     "C++/C++ Programming Course",
     "C++",
@@ -209,8 +219,6 @@
     "Prog/test.py",
     "REACT NATIVE/The Complete React NativePlusHooks",
     "P Y T H O N/GUI/PySide6",
-    "P Y T H O N/GUI/PyQt/PyQt5_with_Hala",
-    "REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer or Bottom-Tabs Navigators",
     "Untitled.canvas"
   ]
 }

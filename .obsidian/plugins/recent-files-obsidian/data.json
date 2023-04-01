@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "_ 0 Rust",
+      "path": "R U S T/Rust - FreeCode Beginner/_ 0 Rust.md"
+    },
+    {
       "basename": "2. Podstawowe koncepcje",
       "path": "N_O_D_E/NodeJS - fullstack/2. Podstawowe koncepcje.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "3 Add new Component MealItem",
       "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/3 Add new Component MealItem.md"
-    },
-    {
-      "basename": "Widżety proste TkInter",
-      "path": "P Y T H O N/GUI/Tkinter/Widżety proste TkInter.md"
     }
   ],
   "omittedPaths": [],
