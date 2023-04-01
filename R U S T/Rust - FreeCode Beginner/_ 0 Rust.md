@@ -10,4 +10,18 @@ https://www.youtube.com/watch?v=MsocPEZBd-M
 # Build a project
 ### `cargo new projectName`
 
+```rust
+fn main() {
 
+    println!("Hello, world!");
+
+}
+```
+
+# `run` the project
+### `cargo run` inside the rust project folder
+
+or
+
+#### `rustc ./src/main.rs` 
+and than  `./main`
