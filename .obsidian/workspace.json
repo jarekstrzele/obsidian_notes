@@ -4,71 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "9a5922b231104c72",
+        "id": "62a701bbcc99a0f5",
         "type": "tabs",
         "children": [
           {
-            "id": "dd6e3bf76a85b059",
+            "id": "44da37bea23f24c4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/2. Podstawowe koncepcje.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "531f658588f90b09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "N_O_D_E/w3school/_ 0 W3Schools Node.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a7fd8330d44acef1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "P Y T H O N/GUI/Tkinter.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "98fd80dbac8c1f44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/Multiple Screens.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5744ad49b9d3fb30",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -159,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md"
-              }
+              "state": {}
             }
           },
           {
@@ -230,15 +173,18 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "5744ad49b9d3fb30",
+  "active": "44da37bea23f24c4",
   "lastOpenFiles": [
+    "N_O_D_E/NodeJS - fullstack/2. Podstawowe koncepcje.md",
+    "N_O_D_E/w3school/_ 0 W3Schools Node.md",
+    "P Y T H O N/GUI/Tkinter.md",
+    "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/Multiple Screens.md",
+    "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
     "P Y T H O N/GUI/Firebase full course.md",
     "P Y T H O N/GUI/Five most Popular Python Gui Libs.md",
     "P Y T H O N/GUI/get_url.md",
     "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/QTableWidget.md",
-    "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/Multiple Screens.md",
     "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/two screen in one window.md",
-    "P Y T H O N/GUI/Tkinter.md",
     "P Y T H O N/GUI/Simple app with FireBase.md",
     "P Y T H O N/GUI/Qt Designer and Python.md",
     "P Y T H O N/GUI/PySimpleGUI.md",
@@ -252,13 +198,10 @@
     "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md",
     "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md",
     "P Y T H O N/OOP Python udemy/8 Descriptors.md",
-    "N_O_D_E/w3school/_ 0 W3Schools Node.md",
-    "N_O_D_E/NodeJS - fullstack/2. Podstawowe koncepcje.md",
     "N_O_D_E/w3school",
     "N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md",
     "FullStack/Web Development 2023/0 HTML.md",
     "FullStack/Web Development 2023/_ 0 start.md",
-    "FullStack/Full Stack Web Development  Bootcamp/Appendixes/Shell vs Terminal.md",
     "C++/Programowanie w języku C++ od A do Z",
     "C++/C++ Programming Course",
     "C++",
