@@ -252,6 +252,55 @@ elem' y ys = foldl (\acc x -> if x == y then True else acc) False ys
 
 
 ## `foldr`
+If we're mapping (+3) to [1,2,3]:
+- we approach the list from the right side.
+- We take the last element, which is 3 and apply the function to it, which ends up being 6. 
+- Then, we prepend it to the accumulator, which is was []. 6:[] is [6] and that's now the accumulator. 
+- We apply (+3) to 2, that's 5 and we prepend (:) it to the accumulator, so the accumulator is now [5,6]. 
+- We apply (+3) to 1 and prepend that to the accumulator and so the end value is [4,5,6].
+```haskell
+map' :: (a->b) -> [a] -> [b]
+map' f xs = foldr (\x acc -> f x : acc) [] xs
+```
+
+
+the same function with `foldl`
+```haskell
+map' f xs = foldl (\acc x -> acc ++ [f x]) [] xs
+```
+
+## ==`++` is more expensive than `:`==
+
+
+## `foldl1` and `foldr1`
+#haskell/fold
+- They are much like `foldl` and `foldr`, only you don't need to provide them with an explicit starting value
+- they assime the first (last) element of the list to be the staerting value and then start the fold with the element nexto to it
+```haskell
+maximum' :: (Ord a) => [a] -> a  
+maximum' = foldr1 (\x acc -> if x > acc then x else acc)  
+
+reverse' :: [a] -> [a]  
+reverse' = foldl (\acc x -> x : acc) []  
+
+product' :: (Num a) => [a] -> a  
+product' = foldr1 (*)  
+
+filter' :: (a -> Bool) -> [a] -> [a]  
+filter' p = foldr (\x acc ->  if p x then x : acc else acc) []  
+
+head' :: [a] -> a  
+head' = foldr1 (\x _ -> x)  
+
+last' :: [a] -> a  
+last' = foldl1 (\_ x -> x)
+```
+
+
+## 
+
+
+
 
 
 
