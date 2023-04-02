@@ -11,6 +11,16 @@ https://www.youtube.com/watch?v=gvgBUY8iNO4&list=PLzMcBGfZo4-nyLTlSRBvo0zjSnCnqj
 
 ## `cargo build` 
 It makes `taget` folder
+so to run the program `\target\debug> .\tutorial1.exe`
 
+
+## `cargo run` (compile + run)
+
+
+## `cargo check` 
+
+
+
+## automatically format `rustfmt`
 
 

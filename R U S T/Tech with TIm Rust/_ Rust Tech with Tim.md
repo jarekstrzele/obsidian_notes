@@ -2,8 +2,8 @@
 https://www.youtube.com/watch?v=T_KrYLW4jw8
 
 ------------------------
-[[Using Rust Tools (cargo, rustfmt)]]
-
+[[2 Using Rust Tools (cargo, rustfmt)]]
+[[3 Variables, Constants and Shadowing]]
 
 
 
