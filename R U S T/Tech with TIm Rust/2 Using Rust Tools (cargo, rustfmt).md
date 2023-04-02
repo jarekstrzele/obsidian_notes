@@ -21,6 +21,9 @@ so to run the program `\target\debug> .\tutorial1.exe`
 
 
 
-## automatically format `rustfmt`
+## automatically format `rustfmt filename`
+`\src> rustfmt main.rs`
+
+
 
 
