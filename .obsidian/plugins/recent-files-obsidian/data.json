@@ -5,6 +5,10 @@
       "path": "R U S T/Rust - FreeCode Beginner/_ 0 Rust.md"
     },
     {
+      "basename": "makro vs function",
+      "path": "R U S T/Rust - FreeCode Beginner/makro vs function.md"
+    },
+    {
       "basename": "_ 0 Modern GUIs Python",
       "path": "P Y T H O N/GUI/Tkinter/modern GUIs/_ 0 Modern GUIs Python.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "5 Higher order functions",
       "path": "HASKELL/for_great_good/5 Higher order functions.md"
-    },
-    {
-      "basename": "1 Add action to React Navigator",
-      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/1 Add action to React Navigator.md"
     }
   ],
   "omittedPaths": [],

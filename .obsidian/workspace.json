@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "ea7b2349464294fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "R U S T/Rust - FreeCode Beginner/makro vs function.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6e10ae5f460de26f",
             "type": "leaf",
             "state": {
@@ -195,9 +207,10 @@
   },
   "active": "44da37bea23f24c4",
   "lastOpenFiles": [
+    "R U S T/Rust - FreeCode Beginner/makro vs function.md",
+    "R U S T/Rust - FreeCode Beginner/_ 0 Rust.md",
     "P Y T H O N/GUI/Tkinter/modern GUIs/_ 0 Modern GUIs Python.md",
     "P Y T H O N/GUI/Tkinter/modern GUIs",
-    "R U S T/Rust - FreeCode Beginner/_ 0 Rust.md",
     "R U S T/Rust - FreeCode Beginner",
     "R U S T",
     "N_O_D_E/NodeJS - fullstack/2. Podstawowe koncepcje.md",
@@ -224,7 +237,6 @@
     "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md",
     "P Y T H O N/OOP Python udemy/8 Descriptors.md",
     "N_O_D_E/w3school",
-    "N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md",
     "C++/Programowanie w języku C++ od A do Z",
     "C++/C++ Programming Course",
     "C++",
