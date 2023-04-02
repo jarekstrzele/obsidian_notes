@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Rust - FreeCode Beginner/makro vs function.md",
+                "file": "HASKELL/learning haskell programming/1 Getting Started with Haskell.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust - FreeCode Beginner/2 Rust Combiner.md",
+                "file": "HASKELL/learning haskell programming/1 Getting Started with Haskell.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust - FreeCode Beginner/2 Rust Combiner.md",
+                "file": "HASKELL/learning haskell programming/1 Getting Started with Haskell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Rust - FreeCode Beginner/2 Rust Combiner.md"
+                "file": "HASKELL/learning haskell programming/1 Getting Started with Haskell.md"
               }
             }
           },
@@ -230,12 +230,16 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "05330ae6c5b720f5",
+  "active": "ea7b2349464294fa",
   "lastOpenFiles": [
-    "R U S T/Rust - FreeCode Beginner/_ 0 Rust.md",
-    "R U S T/Rust - FreeCode Beginner/2 Rust Combiner.md",
-    "R U S T/Rust - FreeCode Beginner/1 Rust Calc.md",
+    "HASKELL/learning haskell programming/_ 0 Learining Haskell Programming.md",
+    "HASKELL/learning haskell programming/3 Polishing the Word Game.md",
+    "HASKELL/learning haskell programming/2 Developing a Word Game.md",
+    "HASKELL/learning haskell programming/1 Getting Started with Haskell.md",
     "R U S T/Rust - FreeCode Beginner/makro vs function.md",
+    "R U S T/Rust - FreeCode Beginner/2 Rust Combiner.md",
+    "R U S T/Rust - FreeCode Beginner/_ 0 Rust.md",
+    "R U S T/Rust - FreeCode Beginner/1 Rust Calc.md",
     "P Y T H O N/GUI/Tkinter/modern GUIs/_ 0 Modern GUIs Python.md",
     "P Y T H O N/GUI/Tkinter/modern GUIs",
     "R U S T/Rust - FreeCode Beginner",
@@ -257,10 +261,6 @@
     "P Y T H O N/GUI/Python Tkinter GUI youtube/Canvas.md",
     "P Y T H O N/GUI/PySide6/_ 0 PySide.md",
     "P Y T H O N/GUI/PyQt/PyQt Codemy/_ 0 PyQt5 code.md",
-    "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/_ 0 PyQt with Hala.md",
-    "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/CheckList.md",
-    "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
-    "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md",
     "N_O_D_E/w3school",
     "C++/Programowanie w języku C++ od A do Z",
     "C++/C++ Programming Course",

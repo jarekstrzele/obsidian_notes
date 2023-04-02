@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "1 Getting Started with Haskell",
+      "path": "HASKELL/learning haskell programming/1 Getting Started with Haskell.md"
+    },
+    {
+      "basename": "_ 0 Learining Haskell Programming",
+      "path": "HASKELL/learning haskell programming/_ 0 Learining Haskell Programming.md"
+    },
+    {
+      "basename": "3 Polishing the Word Game",
+      "path": "HASKELL/learning haskell programming/3 Polishing the Word Game.md"
+    },
+    {
+      "basename": "2 Developing a Word Game",
+      "path": "HASKELL/learning haskell programming/2 Developing a Word Game.md"
+    },
+    {
+      "basename": "makro vs function",
+      "path": "R U S T/Rust - FreeCode Beginner/makro vs function.md"
+    },
+    {
       "basename": "2 Rust Combiner",
       "path": "R U S T/Rust - FreeCode Beginner/2 Rust Combiner.md"
     },
@@ -11,10 +31,6 @@
     {
       "basename": "1 Rust Calc",
       "path": "R U S T/Rust - FreeCode Beginner/1 Rust Calc.md"
-    },
-    {
-      "basename": "makro vs function",
-      "path": "R U S T/Rust - FreeCode Beginner/makro vs function.md"
     },
     {
       "basename": "_ 0 Modern GUIs Python",
@@ -183,22 +199,6 @@
     {
       "basename": "- 3 Node",
       "path": "JAVASCRIPT/Lear Node.js and Javascript/- 3 Node.md"
-    },
-    {
-      "basename": "- 2 JavaScript",
-      "path": "JAVASCRIPT/Lear Node.js and Javascript/- 2 JavaScript.md"
-    },
-    {
-      "basename": "_0 Node Complete Guide",
-      "path": "N_O_D_E/NODE - the complete guide/_0 Node Complete Guide.md"
-    },
-    {
-      "basename": "- 2 JavaScript",
-      "path": "N_O_D_E/Lear Node.js and Javascript/- 2 JavaScript.md"
-    },
-    {
-      "basename": "_ Node and JavaScript",
-      "path": "N_O_D_E/Lear Node.js and Javascript/_ Node and JavaScript.md"
     }
   ],
   "omittedPaths": [],

@@ -129,8 +129,8 @@ PS C:\Users\jaros\Desktop\Prog\haskell_simple_console> .\first_haskell.exe
 New ONE, World
 ```
 
-to do some optymalization:
-`stack ghc -- -dynamic file.hs`
+## to do some optymalization:
+### `stack ghc -- -dynamic file.hs`
 
 
 ----
@@ -174,15 +174,12 @@ processString = undefined
 
 ---------------------------------------
 ghci> :l func_haskell.hs
-[1 of 1] Compiling Main             ( func_haskell.hs, interpreted )
+[1 of 1] Compiling Main ( func_haskell.hs, interpreted )
 Ok, one module loaded.
 ghci> :t processString
 processString :: [Char] -> Count
 ghci>
 ```
-
-
-
 
 
 
@@ -197,7 +194,6 @@ data Bool = False | True
 
 ```haskell
 data Compass = North | East | Sount | West
-
 
 ----------
 ghci> :i Compass
