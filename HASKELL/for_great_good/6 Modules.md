@@ -51,7 +51,16 @@ all except the `nub` function:
 
 when in a module is a function with the same name as in `Prelude` functions (e.g. `filter` is in `Prelude` and in `Data.Map`) so import like this:
 ### `import qualified Data.Map as M`
-so now 
+so now you cant use filter from `Data.Map` by `M.filter`
+
+https://downloads.haskell.org/ghc/latest/docs/libraries/
+
+# `Data.List`
+
+
+
+
+
 
 
 
