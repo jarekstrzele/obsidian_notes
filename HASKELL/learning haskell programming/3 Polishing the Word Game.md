@@ -33,7 +33,10 @@ someFunc = putStrLn "someFunc"
 
 ```
 
-`(someFunc) where`a list of exported functions and symbols and 
+`(someFunc) where`a list of exported functions and symbols  
+`Lib` a module name
+
+`stack build` build the project , if there are some changes
 
 
 
