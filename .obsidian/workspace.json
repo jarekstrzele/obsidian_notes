@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HASKELL/learning haskell programming/1 Getting Started with Haskell.md",
+                "file": "HASKELL/learning haskell programming/3 Polishing the Word Game.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/learning haskell programming/1 Getting Started with Haskell.md",
+                "file": "HASKELL/learning haskell programming/3 Polishing the Word Game.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/learning haskell programming/1 Getting Started with Haskell.md",
+                "file": "HASKELL/learning haskell programming/3 Polishing the Word Game.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/learning haskell programming/1 Getting Started with Haskell.md"
+                "file": "HASKELL/learning haskell programming/3 Polishing the Word Game.md"
               }
             }
           },
@@ -232,10 +232,10 @@
   },
   "active": "ea7b2349464294fa",
   "lastOpenFiles": [
-    "HASKELL/learning haskell programming/_ 0 Learining Haskell Programming.md",
-    "HASKELL/learning haskell programming/3 Polishing the Word Game.md",
     "HASKELL/learning haskell programming/2 Developing a Word Game.md",
     "HASKELL/learning haskell programming/1 Getting Started with Haskell.md",
+    "HASKELL/learning haskell programming/_ 0 Learining Haskell Programming.md",
+    "HASKELL/learning haskell programming/3 Polishing the Word Game.md",
     "R U S T/Rust - FreeCode Beginner/makro vs function.md",
     "R U S T/Rust - FreeCode Beginner/2 Rust Combiner.md",
     "R U S T/Rust - FreeCode Beginner/_ 0 Rust.md",
