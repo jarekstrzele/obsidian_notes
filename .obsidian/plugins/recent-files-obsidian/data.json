@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "_ Rust Tech with Tim",
+      "path": "R U S T/Tech with TIm Rust/_ Rust Tech with Tim.md"
+    },
+    {
+      "basename": "_ 0 Rust Web Book",
+      "path": "R U S T/Rust Web Book/_ 0 Rust Web Book.md"
+    },
+    {
       "basename": "6 Modules",
       "path": "HASKELL/for_great_good/6 Modules.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "_ 0 Programowanie w języku C++",
       "path": "C++/Programowanie w języku C++ od A do Z/_ 0 Programowanie w języku C++.md"
-    },
-    {
-      "basename": "_ C++ Programming Course",
-      "path": "C++/C++ Programming Course/_ C++ Programming Course.md"
-    },
-    {
-      "basename": "_ 0 JS Bible",
-      "path": "JAVASCRIPT/JS Bible/_ 0 JS Bible.md"
     }
   ],
   "omittedPaths": [],
