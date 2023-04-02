@@ -80,6 +80,37 @@ fn main() {
 Some("target\\debug\\calculator.exe")
 ```
 
+#### change to:
+`let first = args.nth(1)`
+```bash
+> cargo run -- freecodecamp
+Some("freecodecamp")
+```
+
+#### change to:
+`let first = args.nth(1).unwrap()`
+```bash
+> cargo run -- freecodecamp
+"freecodecamp"
+```
+
+
+## `args` is an iterator
+So, when it returns a value its index is changed
+```rust
+use std::env::{args, Args};  
+
+fn main() {
+    let mut args:Args = args();
+
+    let first: String = args.nth(1).unwrap();
+    let operator: String = args.nth(0).unwrap();
+    let second: String = args.nth(0).unwrap();
+    println!("{:?} {} {} ", first, operator, second);
+}
+```
+
+
 
 
 
