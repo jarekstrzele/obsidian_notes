@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "2 Rust Combiner",
+      "path": "R U S T/Rust - FreeCode Beginner/2 Rust Combiner.md"
+    },
+    {
       "basename": "_ 0 Rust",
       "path": "R U S T/Rust - FreeCode Beginner/_ 0 Rust.md"
+    },
+    {
+      "basename": "1 Rust Calc",
+      "path": "R U S T/Rust - FreeCode Beginner/1 Rust Calc.md"
     },
     {
       "basename": "makro vs function",
@@ -191,14 +199,6 @@
     {
       "basename": "_ Node and JavaScript",
       "path": "N_O_D_E/Lear Node.js and Javascript/_ Node and JavaScript.md"
-    },
-    {
-      "basename": "graf_DFS.excalidraw",
-      "path": "Excalidraw/graf_DFS.excalidraw.md"
-    },
-    {
-      "basename": "5 Higher order functions",
-      "path": "HASKELL/for_great_good/5 Higher order functions.md"
     }
   ],
   "omittedPaths": [],

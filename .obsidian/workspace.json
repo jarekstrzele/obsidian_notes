@@ -20,6 +20,30 @@
             }
           },
           {
+            "id": "900812b89a719eb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "R U S T/Rust - FreeCode Beginner/_ 0 Rust.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "05330ae6c5b720f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "R U S T/Rust - FreeCode Beginner/2 Rust Combiner.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ea7b2349464294fa",
             "type": "leaf",
             "state": {
@@ -43,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -117,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust - FreeCode Beginner/_ 0 Rust.md",
+                "file": "R U S T/Rust - FreeCode Beginner/2 Rust Combiner.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -134,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust - FreeCode Beginner/_ 0 Rust.md",
+                "file": "R U S T/Rust - FreeCode Beginner/2 Rust Combiner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Rust - FreeCode Beginner/_ 0 Rust.md"
+                "file": "R U S T/Rust - FreeCode Beginner/2 Rust Combiner.md"
               }
             }
           },
@@ -205,10 +230,12 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "44da37bea23f24c4",
+  "active": "05330ae6c5b720f5",
   "lastOpenFiles": [
-    "R U S T/Rust - FreeCode Beginner/makro vs function.md",
     "R U S T/Rust - FreeCode Beginner/_ 0 Rust.md",
+    "R U S T/Rust - FreeCode Beginner/2 Rust Combiner.md",
+    "R U S T/Rust - FreeCode Beginner/1 Rust Calc.md",
+    "R U S T/Rust - FreeCode Beginner/makro vs function.md",
     "P Y T H O N/GUI/Tkinter/modern GUIs/_ 0 Modern GUIs Python.md",
     "P Y T H O N/GUI/Tkinter/modern GUIs",
     "R U S T/Rust - FreeCode Beginner",
@@ -234,8 +261,6 @@
     "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/CheckList.md",
     "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
     "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md",
-    "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/2 Installing PyQt5.md",
-    "P Y T H O N/OOP Python udemy/8 Descriptors.md",
     "N_O_D_E/w3school",
     "C++/Programowanie w języku C++ od A do Z",
     "C++/C++ Programming Course",
