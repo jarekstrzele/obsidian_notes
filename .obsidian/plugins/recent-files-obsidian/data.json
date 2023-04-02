@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "6 Modules",
+      "path": "HASKELL/for_great_good/6 Modules.md"
+    },
+    {
+      "basename": "0 - Haskell intro",
+      "path": "HASKELL/for_great_good/0 - Haskell intro.md"
+    },
+    {
       "basename": "5 Higher order functions",
       "path": "HASKELL/for_great_good/5 Higher order functions.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "_ 0 JS Bible",
       "path": "JAVASCRIPT/JS Bible/_ 0 JS Bible.md"
-    },
-    {
-      "basename": "_ 0 intro JS dzisiaj",
-      "path": "JAVASCRIPT/JS współczesny/_ 0 intro JS dzisiaj.md"
-    },
-    {
-      "basename": "_ Node and JavaScript",
-      "path": "JAVASCRIPT/Lear Node.js and Javascript/_ Node and JavaScript.md"
     }
   ],
   "omittedPaths": [],

@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "5ae36f8d1fca8dc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HASKELL/for_great_good/6 Modules.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6e10ae5f460de26f",
             "type": "leaf",
             "state": {
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -142,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/for_great_good/5 Higher order functions.md",
+                "file": "HASKELL/for_great_good/6 Modules.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -159,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/for_great_good/5 Higher order functions.md",
+                "file": "HASKELL/for_great_good/6 Modules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/for_great_good/5 Higher order functions.md"
+                "file": "HASKELL/for_great_good/6 Modules.md"
               }
             }
           },
@@ -230,8 +242,11 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "ea7b2349464294fa",
+  "active": "5ae36f8d1fca8dc3",
   "lastOpenFiles": [
+    "HASKELL/for_great_good/0 - Haskell intro.md",
+    "HASKELL/for_great_good/6 Modules.md",
+    "HASKELL/for_great_good/5 Higher order functions.md",
     "HASKELL/learning haskell programming/3 Polishing the Word Game.md",
     "HASKELL/learning haskell programming/2 Developing a Word Game.md",
     "HASKELL/learning haskell programming/1 Getting Started with Haskell.md",
@@ -258,9 +273,6 @@
     "P Y T H O N/GUI/Qt Designer and Python.md",
     "P Y T H O N/GUI/PySimpleGUI.md",
     "P Y T H O N/GUI/Python Tkinter GUI youtube/Clock, date.md",
-    "P Y T H O N/GUI/Python Tkinter GUI youtube/Canvas.md",
-    "P Y T H O N/GUI/PySide6/_ 0 PySide.md",
-    "P Y T H O N/GUI/PyQt/PyQt Codemy/_ 0 PyQt5 code.md",
     "N_O_D_E/w3school",
     "C++/Programowanie w języku C++ od A do Z",
     "C++/C++ Programming Course",

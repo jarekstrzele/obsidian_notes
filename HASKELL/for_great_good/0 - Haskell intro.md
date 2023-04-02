@@ -10,7 +10,7 @@
 [[3 - Syntax in Function]]
 [[4 Recursion]]
 [[5 Higher order functions]]
-
+[[6 Modules]]
 
 
 ## Haskell
