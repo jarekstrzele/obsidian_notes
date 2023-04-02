@@ -23,5 +23,10 @@ fn main() {
 
 or
 
-#### `rustc ./src/main.rs` 
+#### `rustc ./src/main.rs`  --> generates `main.exe` 
 and than  `./main`
+
+
+
+
+
