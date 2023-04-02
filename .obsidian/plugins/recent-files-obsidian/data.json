@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "5 Higher order functions",
+      "path": "HASKELL/for_great_good/5 Higher order functions.md"
+    },
+    {
       "basename": "3 Polishing the Word Game",
       "path": "HASKELL/learning haskell programming/3 Polishing the Word Game.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_ Node and JavaScript",
       "path": "JAVASCRIPT/Lear Node.js and Javascript/_ Node and JavaScript.md"
-    },
-    {
-      "basename": "- 3 Node",
-      "path": "JAVASCRIPT/Lear Node.js and Javascript/- 3 Node.md"
     }
   ],
   "omittedPaths": [],

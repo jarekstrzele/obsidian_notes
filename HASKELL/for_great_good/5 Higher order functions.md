@@ -251,6 +251,7 @@ elem' y ys = foldl (\acc x -> if x == y then True else acc) False ys
 1. `acc=False`
 
 
+## `foldr`
 
 
 
