@@ -327,7 +327,44 @@ function application ==with `$`== is **right-associative**
 
 
 # Function composition
-$$(f o )
+in maths:
+$$(f o g)(x) = f(g(x))$$
+
+in Haskell
+```haskell
+(.) :: (b->c) -> (a->b) -> a -> c
+f . g  = \x -> f (g x)
+```
+
+==Function composition is right-associative== ->
+`f (g (z x))` is equivalent to `(f . g . z) x`
+
+
+### EXAMPLE:
+*find the sum of all odd squares that are smaller then 10,000*
+
+first:
+```haskell
+oddSquareSum :: Integer  
+oddSquareSum = sum (takeWhile (<10000) (filter odd (map (^2) [1..])))
+```
+
+
+better
+```haskell
+oddSquareSum :: Integer
+oddSquareSum - sum . takeWhile (<10000) . filter odd . map (^2) $ [1..]
+```
+
+
+the best way for other programers
+```haskell
+oddSquareSum :: Integer  
+oddSquareSum =   
+    let oddSquares = filter odd $ map (^2) [1..]  
+        belowLimit = takeWhile (<10000) oddSquares  
+    in  sum belowLimit
+```
 
 
 
