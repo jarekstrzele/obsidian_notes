@@ -37,12 +37,16 @@ someFunc = putStrLn "someFunc"
 `Lib` a module name
 
 `stack build` build the project , if there are some changes
+run `.stack-work\dist\8a54c84f\build\words-exe\words-exe.exe`
+```bash
+> .stack-work\dist\8a54c84f\build\words-exe\words-exe.exe
+someFunc
+```
 
+or you can write `> stack exec words-exe` -> `someFunc`
 
-
-
-
-
+## `words.cabal`
+in the folder of the project `word` is a file `words.cabal`
 
 
 
