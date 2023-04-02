@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Using Rust Tools (cargo, rustfmt)",
+      "path": "R U S T/Tech with TIm Rust/Using Rust Tools (cargo, rustfmt).md"
+    },
+    {
       "basename": "_ Rust Tech with Tim",
       "path": "R U S T/Tech with TIm Rust/_ Rust Tech with Tim.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "1.4. FlatList",
       "path": "REACT NATIVE/React Native Practical Guide/1.4. FlatList.md"
-    },
-    {
-      "basename": "_ 0 Programowanie w języku C++",
-      "path": "C++/Programowanie w języku C++ od A do Z/_ 0 Programowanie w języku C++.md"
     }
   ],
   "omittedPaths": [],

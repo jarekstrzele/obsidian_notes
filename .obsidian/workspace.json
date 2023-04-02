@@ -92,6 +92,18 @@
             }
           },
           {
+            "id": "9e6dc8d6043fdd26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "R U S T/Tech with TIm Rust/Using Rust Tools (cargo, rustfmt).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6e10ae5f460de26f",
             "type": "leaf",
             "state": {
@@ -104,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -178,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Tech with TIm Rust/_ Rust Tech with Tim.md",
+                "file": "R U S T/Tech with TIm Rust/Using Rust Tools (cargo, rustfmt).md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -195,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Tech with TIm Rust/_ Rust Tech with Tim.md",
+                "file": "R U S T/Tech with TIm Rust/Using Rust Tools (cargo, rustfmt).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Tech with TIm Rust/_ Rust Tech with Tim.md"
+                "file": "R U S T/Tech with TIm Rust/Using Rust Tools (cargo, rustfmt).md"
               }
             }
           },
@@ -266,10 +278,11 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "16d6ea22f21d579b",
+  "active": "9e6dc8d6043fdd26",
   "lastOpenFiles": [
-    "R U S T/Rust Web Book/_ 0 Rust Web Book.md",
     "R U S T/Tech with TIm Rust/_ Rust Tech with Tim.md",
+    "R U S T/Tech with TIm Rust/Using Rust Tools (cargo, rustfmt).md",
+    "R U S T/Rust Web Book/_ 0 Rust Web Book.md",
     "R U S T/Tech with TIm Rust",
     "HASKELL/for_great_good/6 Modules.md",
     "R U S T/Rust Web Book",
@@ -298,7 +311,6 @@
     "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/QTableWidget.md",
     "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/two screen in one window.md",
     "P Y T H O N/GUI/Simple app with FireBase.md",
-    "P Y T H O N/GUI/Qt Designer and Python.md",
     "N_O_D_E/w3school",
     "C++/Programowanie w języku C++ od A do Z",
     "C++/C++ Programming Course",

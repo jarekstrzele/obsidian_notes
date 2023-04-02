@@ -1,7 +1,13 @@
 #rust #youtube #techwithtim
 https://www.youtube.com/watch?v=T_KrYLW4jw8
 
+------------------------
+[[Using Rust Tools (cargo, rustfmt)]]
 
+
+
+
+----------
 first.rs
 ```rust
 fn main(){
@@ -21,7 +27,10 @@ first.rs
 ```
 
 `first.exe` it is executable file
-
+```cmd
+> .\first.exe
+hello world!
+```
 
 
 
