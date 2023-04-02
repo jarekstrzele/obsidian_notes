@@ -5,6 +5,10 @@
       "path": "R U S T/Rust - FreeCode Beginner/_ 0 Rust.md"
     },
     {
+      "basename": "_ 0 Modern GUIs Python",
+      "path": "P Y T H O N/GUI/Tkinter/modern GUIs/_ 0 Modern GUIs Python.md"
+    },
+    {
       "basename": "2. Podstawowe koncepcje",
       "path": "N_O_D_E/NodeJS - fullstack/2. Podstawowe koncepcje.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "1 Add action to React Navigator",
       "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/1 Add action to React Navigator.md"
-    },
-    {
-      "basename": "3 Add new Component MealItem",
-      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/3 Add new Component MealItem.md"
     }
   ],
   "omittedPaths": [],
