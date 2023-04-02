@@ -28,6 +28,7 @@ and than
 ### `./main`
 
 # `args`
+
 ```rust
 use std::env::{args, Args};
 
@@ -35,7 +36,12 @@ fn main() {
     let args = args();
     println!("{:?}", args);
 }
-// output: Args { inner: ["target\\debug\\calculator.exe"] }
+```
+
+
+```bash
+> `cargo run` 
+Args { inner: ["target\\debug\\calculator.exe"] }
 
 ```
 
@@ -48,10 +54,31 @@ Wyjaśnienie:
 - ponieważ przy wywołaniu programu nie przekazano żadnych argumentów, wyświetlono nazwę programu
 [[makro vs function]]
 
+```bash
+> cargo run -- freecodecamp
+Args { inner: ["target\\debug\\calculator.exe", "freecodecamp"] }
+```
 
 
+```rust
+use std::env::{args, Args};
 
+fn main() {
+    let mut args:Args = args();
+    let first = args.nth(0);
+    println!("{:?}", first);
+}
+```
 
+`let mut args: Args = args()` 
+- `mut` mutable
+- `: Args` has type `Args`
+- `args.nth` returns the first argument 
+
+```bash
+> `cargo run -- freecodecamp` 
+Some("target\\debug\\calculator.exe")
+```
 
 
 
