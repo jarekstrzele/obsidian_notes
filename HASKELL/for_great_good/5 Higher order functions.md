@@ -273,7 +273,7 @@ map' f xs = foldl (\acc x -> acc ++ [f x]) [] xs
 
 
 ## `foldl1` and `foldr1`
-#haskell/fold
+#haskell/foldl
 - They are much like `foldl` and `foldr`, only you don't need to provide them with an explicit starting value
 - they assime the first (last) element of the list to be the staerting value and then start the fold with the element nexto to it
 ```haskell
@@ -297,7 +297,44 @@ last' = foldl1 (\_ x -> x)
 ```
 
 
-## 
+## `scanl` and `scanr`
+#haskell/scan
+They are like `foldl` and `foldr` only they report all the intermediate accumilator states in the form of a list
+
+they are also `scanl1` and `scanr1`
+
+```haskell
+ghci> scanl (+) 0 [3,5,2,1]
+[0,3,8,10,11]
+ghci> foldl (+) 0 [3,5,2,1]
+11
+ghci>
+```
+
+
+# Funcion application with `$`
+```haskell
+($) :: (a -> b) -> a -> b  
+f $ x = f x
+```
+
+Function aplication ==with a space== is **left-associative** (`f a b c`  the same `((f a ) b) c)`)
+
+function application ==with `$`== is **right-associative**
+
+`sum (map sqrt [1..130])`  -- the same --> 
+`sum $ map sqrt [1..130]`
+
+
+# Function composition
+$$(f o )
+
+
+
+
+
+
+
 
 
 
