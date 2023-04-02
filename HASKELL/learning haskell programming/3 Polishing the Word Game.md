@@ -26,14 +26,14 @@ inside the folder project
 module Lib
     ( someFunc
     ) where
- 
 
 someFunc :: IO ()
-
 someFunc = putStrLn "someFunc"
+
+
 ```
 
-
+`(someFunc) where`a list of exported functions and symbols and 
 
 
 
