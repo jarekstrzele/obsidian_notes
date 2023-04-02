@@ -48,5 +48,21 @@ or you can write `> stack exec words-exe` -> `someFunc`
 ## `words.cabal`
 in the folder of the project `word` is a file `words.cabal`
 
+# `Spec.hs` - test
+
+You have to import `import Test.Hspec`
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
