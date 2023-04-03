@@ -17,7 +17,12 @@ Requirement
 Structure:
 - Develop
 - Quality (when the app is ready to production)
+- analytics
+- grow
+- 
 
-
+# Register an app
+1. Project Overview > Settings > Add Firebase to your app => Firebase create credentials
+2. create a file `index.html` on your computer and paste ciredentials
 
 
