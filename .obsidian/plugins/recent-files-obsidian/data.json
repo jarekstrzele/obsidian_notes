@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "6 Arithmetic",
+      "path": "R U S T/Tech with TIm Rust/6 Arithmetic.md"
+    },
+    {
       "basename": "5 Console input",
       "path": "R U S T/Tech with TIm Rust/5 Console input.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "1 HTTP Resources",
       "path": "network/HTTP/1 HTTP Resources.md"
-    },
-    {
-      "basename": "_ 0 HTTP fundementals",
-      "path": "network/HTTP/_ 0 HTTP fundementals.md"
     }
   ],
   "omittedPaths": [],
