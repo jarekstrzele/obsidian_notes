@@ -1,4 +1,7 @@
+[[_ Rust Tech with Tim]]
+
 ==CRATE==  = package or library
+
 ==Module== is inside the crate, a specific piece of functionality, e.g. `IO` module
 
 ### `use std::io ;` 

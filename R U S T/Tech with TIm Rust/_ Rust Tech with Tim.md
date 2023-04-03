@@ -5,6 +5,9 @@ https://www.youtube.com/watch?v=T_KrYLW4jw8
 [[2 Using Rust Tools (cargo, rustfmt)]]
 [[3 Variables, Constants and Shadowing]]
 [[4 Data Type Primitive]]
+[[5 Console input]]
+[[6 Arithmetic]]
+[[7 Conditions and Control Flow]]
 
 
 ----------

@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "6 Arithmetic",
-      "path": "R U S T/Tech with TIm Rust/6 Arithmetic.md"
+      "basename": "7 Conditions and Control Flow",
+      "path": "R U S T/Tech with TIm Rust/7 Conditions and Control Flow.md"
     },
     {
       "basename": "4 Data Type Primitive",
@@ -13,16 +13,20 @@
       "path": "R U S T/Tech with TIm Rust/5 Console input.md"
     },
     {
+      "basename": "6 Arithmetic",
+      "path": "R U S T/Tech with TIm Rust/6 Arithmetic.md"
+    },
+    {
+      "basename": "_ Rust Tech with Tim",
+      "path": "R U S T/Tech with TIm Rust/_ Rust Tech with Tim.md"
+    },
+    {
       "basename": "3 Variables, Constants and Shadowing",
       "path": "R U S T/Tech with TIm Rust/3 Variables, Constants and Shadowing.md"
     },
     {
       "basename": "2 Using Rust Tools (cargo, rustfmt)",
       "path": "R U S T/Tech with TIm Rust/2 Using Rust Tools (cargo, rustfmt).md"
-    },
-    {
-      "basename": "_ Rust Tech with Tim",
-      "path": "R U S T/Tech with TIm Rust/_ Rust Tech with Tim.md"
     },
     {
       "basename": "_ 0 Rust Web Book",
@@ -195,10 +199,6 @@
     {
       "basename": "2 HTTP Messages",
       "path": "network/HTTP/2 HTTP Messages.md"
-    },
-    {
-      "basename": "1 HTTP Resources",
-      "path": "network/HTTP/1 HTTP Resources.md"
     }
   ],
   "omittedPaths": [],

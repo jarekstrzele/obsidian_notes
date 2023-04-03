@@ -1,3 +1,4 @@
+[[_ Rust Tech with Tim]]
 
 ```rust
 fn main(){
@@ -53,8 +54,21 @@ fn main(){
 ```
 
 -----
-# Input to int
+# string input to number
+``
+```rust
+use std::io ;
+
+fn main(){
+    let mut input = String::new() ;
+    io::stdin().read_line(&mut input).expect("ecpected to read line") ;
+
+    let int_input: i64 = input.trim().parse().unwrap() ;
+
+    println!("{}", int_input + 10) ;
 
 
+}
+```
 
 
