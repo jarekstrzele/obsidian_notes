@@ -25,5 +25,36 @@ let z = x + y ;
 ```
 this code generates an error
 
+`u8 + u8` -> `u8`
+`f64 / f64` ->  `f64`
+...
+
+----
+# Casting
+```rust
+let x = 255.0f32;
+let y = 22i8 ;
+
+///////////////////////
+let x = 255.0_f32;
+let y = 22_i8 ;
+
+////////////////
+let x = 255.0 as f32;
+let y = 22 as i8 ;
+//// explicite type conversion /////////
+fn main(){
+    let x = 127_000 as i64 ;
+    let y = 10_i32 ;
+    let z = x / (y as i64);
+    println!("{}", z);
+}
+
+```
+
+-----
+# Input to int
+
+
 
 
