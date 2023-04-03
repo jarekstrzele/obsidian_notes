@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "9 Memory management, Heap and Stack",
+      "path": "R U S T/Tech with TIm Rust/9 Memory management, Heap and Stack.md"
+    },
+    {
       "basename": "8 Functions, Expressions, Statements",
       "path": "R U S T/Tech with TIm Rust/8 Functions, Expressions, Statements.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_ 0 Full stack Web Dev Bootcamp",
       "path": "FullStack/Full Stack Web Development  Bootcamp/_ 0 Full stack Web Dev Bootcamp.md"
-    },
-    {
-      "basename": "4. HTTP Architecture",
-      "path": "network/HTTP/4. HTTP Architecture.md"
     }
   ],
   "omittedPaths": [],

@@ -61,15 +61,65 @@ fn main(){
 `x+1` without semicolon `;`         !!!!!!!!!!!!!!!!!!!!!!!!!
 
 ## How to return a value from function?
+```rust
+fn main(){
+    let result = add_nums(2,3) ;
+    println!("{}", result) ;
+}
+
+fn add_nums(x: i32, y:i32) -> i32 {
+// without semicolon!!
+    x + y
+}
+
+fn return_10(){
+	10
+}
+
+```
+
+`return` is a statement so:
+```rust
+fn main(){
+    let result = add_nums(2,3) ;
+    println!("{}", result) ;
+}
+
+fn add_nums(x: i32, y:i32) -> i32 {
+// with semicolon!!
+    return x + y;
+}
+
+fn return_10(){
+	return 10 ;
+}
+
+```
 
 
+```rust
+fn add_nums(x: i32, y:i32) -> i32 {
+    let result = x + y ;
+    result
+}
+```
 
+```rust
+fn add_nums(x: i32, y:i32) -> i32 {
+    let result = x + y ;
+    retunr result;
+}
+```
 
-
-
-
-
-
+```rust
+fn add_nums(x: i32, y:i32) -> i32 {
+    let result = x + y ;
+    if result > 10 {
+	    return result - 10 ;
+    }
+    result;
+}
+```
 
 
 
