@@ -18,13 +18,39 @@
 `let x: i32 = 2 ;` explicite integer type
 
 negative and positive number: `i8, i16, i32, i64, i128` 
-only 
+only - positive: `u8, u16, u32, u64, u128`
+
+## Floating
+
+### `f32` 
+
+### `f64` default
+
+## Boolean
+`: bool`
+`0, 1`
+`false, true`
+
+## Character 
+`let letter: char ='a' ;` (single quatation mark)
+
+
+
+
 
 # Compound data type
 >[!info] COMPOUND DATA TYPE
 >in Computer science, a composite data type or compund data type is any data type which can be constructed in a program using th programming language's primitive data types and other composite types
 > - tuple
 > - array
+
+## TUPLE
+fix-length sequence of elems , immutable
+```rust
+let tup: (i32, bool, char) = (1, true, 's') ;
+
+```
+
 
 
 

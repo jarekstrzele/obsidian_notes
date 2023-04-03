@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Tech with TIm Rust/3 Variables, Constants and Shadowing.md",
+                "file": "R U S T/Tech with TIm Rust/4 Data Type Primitive.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -302,12 +302,12 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "d5f64b2b28cce910",
+  "active": "fa869845fca93774",
   "lastOpenFiles": [
     "R U S T/Tech with TIm Rust/3 Variables, Constants and Shadowing.md",
+    "R U S T/Tech with TIm Rust/4 Data Type Primitive.md",
     "R U S T/Tech with TIm Rust/2 Using Rust Tools (cargo, rustfmt).md",
     "R U S T/Tech with TIm Rust/_ Rust Tech with Tim.md",
-    "R U S T/Tech with TIm Rust/4 Data Type Primitive.md",
     "R U S T/Rust Web Book/_ 0 Rust Web Book.md",
     "R U S T/Tech with TIm Rust",
     "HASKELL/for_great_good/6 Modules.md",
