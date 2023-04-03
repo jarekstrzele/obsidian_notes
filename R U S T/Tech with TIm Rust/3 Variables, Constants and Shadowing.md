@@ -1,3 +1,4 @@
+https://www.youtube.com/watch?v=xYgfW8cIbMA&list=PLzMcBGfZo4-nyLTlSRBvo0zjSnCnqjHYQ&index=3
 	
 ```rust
 fn main(){
@@ -85,7 +86,7 @@ fn main(){
         println!("x is: {}", x) ;
     // shadow: the same name other scope
     {
-        let x = x - 2 ; 
+        let x = x - 2 ; // x=4 so x = 4-2
         println!("x is: {}" , x) ;    
     }
    

@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Tech with TIm Rust/2 Using Rust Tools (cargo, rustfmt).md",
+                "file": "R U S T/Tech with TIm Rust/3 Variables, Constants and Shadowing.md",
                 "mode": "source",
                 "source": false
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Tech with TIm Rust/2 Using Rust Tools (cargo, rustfmt).md",
+                "file": "R U S T/Tech with TIm Rust/3 Variables, Constants and Shadowing.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -231,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Tech with TIm Rust/2 Using Rust Tools (cargo, rustfmt).md",
+                "file": "R U S T/Tech with TIm Rust/3 Variables, Constants and Shadowing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Tech with TIm Rust/2 Using Rust Tools (cargo, rustfmt).md"
+                "file": "R U S T/Tech with TIm Rust/3 Variables, Constants and Shadowing.md"
               }
             }
           },
@@ -304,8 +304,8 @@
   },
   "active": "d5f64b2b28cce910",
   "lastOpenFiles": [
-    "R U S T/Tech with TIm Rust/3 Variables, Constants and Shadowing.md",
     "R U S T/Tech with TIm Rust/2 Using Rust Tools (cargo, rustfmt).md",
+    "R U S T/Tech with TIm Rust/3 Variables, Constants and Shadowing.md",
     "R U S T/Tech with TIm Rust/_ Rust Tech with Tim.md",
     "R U S T/Tech with TIm Rust/4 Data Type.md",
     "R U S T/Rust Web Book/_ 0 Rust Web Book.md",
