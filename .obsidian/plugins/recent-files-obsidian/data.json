@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "8 Functions, Expressions, Statements",
+      "path": "R U S T/Tech with TIm Rust/8 Functions, Expressions, Statements.md"
+    },
+    {
       "basename": "7 Conditions and Control Flow",
       "path": "R U S T/Tech with TIm Rust/7 Conditions and Control Flow.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "4. HTTP Architecture",
       "path": "network/HTTP/4. HTTP Architecture.md"
-    },
-    {
-      "basename": "2 HTTP Messages",
-      "path": "network/HTTP/2 HTTP Messages.md"
     }
   ],
   "omittedPaths": [],

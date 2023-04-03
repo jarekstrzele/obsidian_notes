@@ -152,6 +152,18 @@
             }
           },
           {
+            "id": "5938bf8898fd5c07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "R U S T/Tech with TIm Rust/8 Functions, Expressions, Statements.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d5f64b2b28cce910",
             "type": "leaf",
             "state": {
@@ -176,7 +188,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -250,7 +262,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Tech with TIm Rust/7 Conditions and Control Flow.md",
+                "file": "R U S T/Tech with TIm Rust/8 Functions, Expressions, Statements.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -267,7 +279,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Tech with TIm Rust/7 Conditions and Control Flow.md",
+                "file": "R U S T/Tech with TIm Rust/8 Functions, Expressions, Statements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -290,7 +302,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Tech with TIm Rust/7 Conditions and Control Flow.md"
+                "file": "R U S T/Tech with TIm Rust/8 Functions, Expressions, Statements.md"
               }
             }
           },
@@ -338,13 +350,14 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "c9eff874c73b80ac",
+  "active": "5938bf8898fd5c07",
   "lastOpenFiles": [
+    "R U S T/Tech with TIm Rust/7 Conditions and Control Flow.md",
+    "R U S T/Tech with TIm Rust/8 Functions, Expressions, Statements.md",
     "R U S T/Tech with TIm Rust/4 Data Type Primitive.md",
     "R U S T/Tech with TIm Rust/5 Console input.md",
     "R U S T/Tech with TIm Rust/6 Arithmetic.md",
     "R U S T/Tech with TIm Rust/_ Rust Tech with Tim.md",
-    "R U S T/Tech with TIm Rust/7 Conditions and Control Flow.md",
     "R U S T/Tech with TIm Rust/3 Variables, Constants and Shadowing.md",
     "R U S T/Tech with TIm Rust/2 Using Rust Tools (cargo, rustfmt).md",
     "R U S T/Rust Web Book/_ 0 Rust Web Book.md",
@@ -370,7 +383,6 @@
     "P Y T H O N/GUI/Tkinter.md",
     "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/Multiple Screens.md",
     "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
-    "P Y T H O N/GUI/Firebase full course.md",
     "N_O_D_E/w3school",
     "C++/Programowanie w języku C++ od A do Z",
     "C++/C++ Programming Course",
