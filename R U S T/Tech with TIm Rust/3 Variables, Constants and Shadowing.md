@@ -16,7 +16,7 @@ fn main(){
 fn main(){
 	let mut x = 4; 
 		println!("x is: {}", x)
-  // now x is mut-able
+  // now x is mutable
 	x = 5; 
 	println!("x is: {}" , x)
 
