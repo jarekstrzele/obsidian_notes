@@ -9,8 +9,14 @@ https://www.youtube.com/watch?v=q5J5ho7YUhA
 
 Requirement
 - `node`
+- google account
 - 
 
+**Project** can be connected to multiple apps/
+
+Structure:
+- Develop
+- Quality (when the app is ready to production)
 
 
 
