@@ -22,20 +22,12 @@ class Main(QDialog):
 
         self.load_data()
 
-  
-
     def load_data(self):
-
         people=[
-
             {"name":"John", "age":45,"address":"New York"}
-
             , {"name":"Jerry", "age":75,"address":"Olsztyn"}
-
             , {"name":"Zosia", "age":43,"address":"Kraków"}
-
             , {"name":"Kasia", "age":15,"address":"Paryż"}
-
         ]
 
   

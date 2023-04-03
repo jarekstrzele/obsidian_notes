@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Bases/FireBase/FireBase back to the basic.md",
+                "file": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/QTableWidget.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Bases/FireBase/FireBase back to the basic.md",
+                "file": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/QTableWidget.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Bases/FireBase/FireBase back to the basic.md",
+                "file": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/QTableWidget.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Bases/FireBase/FireBase back to the basic.md"
+                "file": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/QTableWidget.md"
               }
             }
           },
@@ -183,6 +183,11 @@
   },
   "active": "5741e23fba216a6b",
   "lastOpenFiles": [
+    "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/Multiple Screens.md",
+    "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/CheckList.md",
+    "P Y T H O N/GUI/PyQt/PyQt Codemy/_ 0 PyQt5 code.md",
+    "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.8 QTableWidget.md",
+    "P Y T H O N/GUI/PySide6/_ 0 PySide.md",
     "Data Bases/FireBase/FireBase back to the basic.md",
     "Data Bases/FireBase",
     "P Y T H O N/GUI/Tkinter/modern GUIs/_ 0 Modern GUIs Python.md",
@@ -208,14 +213,9 @@
     "HASKELL/learning haskell programming/2 Developing a Word Game.md",
     "HASKELL/learning haskell programming/1 Getting Started with Haskell.md",
     "HASKELL/learning haskell programming/_ 0 Learining Haskell Programming.md",
-    "R U S T/Rust - FreeCode Beginner/makro vs function.md",
-    "R U S T/Rust - FreeCode Beginner/_ 0 Rust.md",
-    "R U S T/Rust - FreeCode Beginner/1 Rust Calc.md",
     "P Y T H O N/GUI/Tkinter/modern GUIs",
     "R U S T/Rust - FreeCode Beginner",
     "R U S T",
-    "N_O_D_E/NodeJS - fullstack/2. Podstawowe koncepcje.md",
-    "N_O_D_E/w3school/_ 0 W3Schools Node.md",
     "N_O_D_E/w3school",
     "C++/Programowanie w języku C++ od A do Z",
     "C++/C++ Programming Course",

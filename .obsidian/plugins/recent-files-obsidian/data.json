@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "QTableWidget",
+      "path": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/QTableWidget.md"
+    },
+    {
+      "basename": "Multiple Screens",
+      "path": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/Multiple Screens.md"
+    },
+    {
+      "basename": "CheckList",
+      "path": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/CheckList.md"
+    },
+    {
+      "basename": "_ 0 PyQt5 code",
+      "path": "P Y T H O N/GUI/PyQt/PyQt Codemy/_ 0 PyQt5 code.md"
+    },
+    {
+      "basename": "7.8 QTableWidget",
+      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.8 QTableWidget.md"
+    },
+    {
+      "basename": "_ 0 PySide",
+      "path": "P Y T H O N/GUI/PySide6/_ 0 PySide.md"
+    },
+    {
       "basename": "FireBase back to the basic",
       "path": "Data Bases/FireBase/FireBase back to the basic.md"
     },
@@ -109,10 +133,6 @@
       "path": "P Y T H O N/GUI/Tkinter.md"
     },
     {
-      "basename": "Multiple Screens",
-      "path": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/Multiple Screens.md"
-    },
-    {
       "basename": "2 Właściwości grafów",
       "path": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md"
     },
@@ -127,10 +147,6 @@
     {
       "basename": "get_url",
       "path": "P Y T H O N/GUI/get_url.md"
-    },
-    {
-      "basename": "QTableWidget",
-      "path": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/QTableWidget.md"
     },
     {
       "basename": "two screen in one window",
@@ -157,20 +173,8 @@
       "path": "P Y T H O N/GUI/Python Tkinter GUI youtube/Canvas.md"
     },
     {
-      "basename": "_ 0 PySide",
-      "path": "P Y T H O N/GUI/PySide6/_ 0 PySide.md"
-    },
-    {
-      "basename": "_ 0 PyQt5 code",
-      "path": "P Y T H O N/GUI/PyQt/PyQt Codemy/_ 0 PyQt5 code.md"
-    },
-    {
       "basename": "_ 0 PyQt with Hala",
       "path": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/_ 0 PyQt with Hala.md"
-    },
-    {
-      "basename": "CheckList",
-      "path": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/CheckList.md"
     },
     {
       "basename": "9 QtDesigner",
@@ -195,10 +199,6 @@
     {
       "basename": "0 HTML",
       "path": "FullStack/Web Development 2023/0 HTML.md"
-    },
-    {
-      "basename": "_ 0 start",
-      "path": "FullStack/Web Development 2023/_ 0 start.md"
     }
   ],
   "omittedPaths": [],
