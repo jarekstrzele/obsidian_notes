@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "_ Create GUI App with PyQt5",
+      "path": "P Y T H O N/GUI/PyQt/Create GUI App with PyQt/_ Create GUI App with PyQt5.md"
+    },
+    {
+      "basename": "two screen in one window",
+      "path": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/two screen in one window.md"
+    },
+    {
       "basename": "QTableWidget",
       "path": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/QTableWidget.md"
     },
@@ -149,10 +157,6 @@
       "path": "P Y T H O N/GUI/get_url.md"
     },
     {
-      "basename": "two screen in one window",
-      "path": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/two screen in one window.md"
-    },
-    {
       "basename": "Simple app with FireBase",
       "path": "P Y T H O N/GUI/Simple app with FireBase.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_ 0 NodeJS - zostań fullstack",
       "path": "N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md"
-    },
-    {
-      "basename": "0 HTML",
-      "path": "FullStack/Web Development 2023/0 HTML.md"
     }
   ],
   "omittedPaths": [],
