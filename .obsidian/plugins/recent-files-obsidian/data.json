@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "FireBase back to the basic",
+      "path": "Data Bases/FireBase/FireBase back to the basic.md"
+    },
+    {
+      "basename": "_ 0 Modern GUIs Python",
+      "path": "P Y T H O N/GUI/Tkinter/modern GUIs/_ 0 Modern GUIs Python.md"
+    },
+    {
+      "basename": "4 Data Type Primitive",
+      "path": "R U S T/Tech with TIm Rust/4 Data Type Primitive.md"
+    },
+    {
+      "basename": "_ Rust Programming Tutorial",
+      "path": "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md"
+    },
+    {
       "basename": "9 Memory management, Heap and Stack",
       "path": "R U S T/Tech with TIm Rust/9 Memory management, Heap and Stack.md"
     },
@@ -13,28 +29,20 @@
       "path": "R U S T/Tech with TIm Rust/7 Conditions and Control Flow.md"
     },
     {
-      "basename": "4 Data Type Primitive",
-      "path": "R U S T/Tech with TIm Rust/4 Data Type Primitive.md"
+      "basename": "6 Arithmetic",
+      "path": "R U S T/Tech with TIm Rust/6 Arithmetic.md"
     },
     {
       "basename": "5 Console input",
       "path": "R U S T/Tech with TIm Rust/5 Console input.md"
     },
     {
-      "basename": "6 Arithmetic",
-      "path": "R U S T/Tech with TIm Rust/6 Arithmetic.md"
+      "basename": "2 Using Rust Tools (cargo, rustfmt)",
+      "path": "R U S T/Tech with TIm Rust/2 Using Rust Tools (cargo, rustfmt).md"
     },
     {
       "basename": "_ Rust Tech with Tim",
       "path": "R U S T/Tech with TIm Rust/_ Rust Tech with Tim.md"
-    },
-    {
-      "basename": "3 Variables, Constants and Shadowing",
-      "path": "R U S T/Tech with TIm Rust/3 Variables, Constants and Shadowing.md"
-    },
-    {
-      "basename": "2 Using Rust Tools (cargo, rustfmt)",
-      "path": "R U S T/Tech with TIm Rust/2 Using Rust Tools (cargo, rustfmt).md"
     },
     {
       "basename": "_ 0 Rust Web Book",
@@ -45,12 +53,20 @@
       "path": "HASKELL/for_great_good/6 Modules.md"
     },
     {
-      "basename": "0 - Haskell intro",
-      "path": "HASKELL/for_great_good/0 - Haskell intro.md"
-    },
-    {
       "basename": "5 Higher order functions",
       "path": "HASKELL/for_great_good/5 Higher order functions.md"
+    },
+    {
+      "basename": "2 Rust Combiner",
+      "path": "R U S T/Rust - FreeCode Beginner/2 Rust Combiner.md"
+    },
+    {
+      "basename": "3 Variables, Constants and Shadowing",
+      "path": "R U S T/Tech with TIm Rust/3 Variables, Constants and Shadowing.md"
+    },
+    {
+      "basename": "0 - Haskell intro",
+      "path": "HASKELL/for_great_good/0 - Haskell intro.md"
     },
     {
       "basename": "3 Polishing the Word Game",
@@ -73,20 +89,12 @@
       "path": "R U S T/Rust - FreeCode Beginner/makro vs function.md"
     },
     {
-      "basename": "2 Rust Combiner",
-      "path": "R U S T/Rust - FreeCode Beginner/2 Rust Combiner.md"
-    },
-    {
       "basename": "_ 0 Rust",
       "path": "R U S T/Rust - FreeCode Beginner/_ 0 Rust.md"
     },
     {
       "basename": "1 Rust Calc",
       "path": "R U S T/Rust - FreeCode Beginner/1 Rust Calc.md"
-    },
-    {
-      "basename": "_ 0 Modern GUIs Python",
-      "path": "P Y T H O N/GUI/Tkinter/modern GUIs/_ 0 Modern GUIs Python.md"
     },
     {
       "basename": "2. Podstawowe koncepcje",
@@ -191,14 +199,6 @@
     {
       "basename": "_ 0 start",
       "path": "FullStack/Web Development 2023/_ 0 start.md"
-    },
-    {
-      "basename": "Shell vs Terminal",
-      "path": "FullStack/Full Stack Web Development  Bootcamp/Appendixes/Shell vs Terminal.md"
-    },
-    {
-      "basename": "_ 0 Full stack Web Dev Bootcamp",
-      "path": "FullStack/Full Stack Web Development  Bootcamp/_ 0 Full stack Web Dev Bootcamp.md"
     }
   ],
   "omittedPaths": [],
