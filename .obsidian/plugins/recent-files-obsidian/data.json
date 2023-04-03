@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "5 Console input",
+      "path": "R U S T/Tech with TIm Rust/5 Console input.md"
+    },
+    {
       "basename": "4 Data Type Primitive",
       "path": "R U S T/Tech with TIm Rust/4 Data Type Primitive.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_ 0 HTTP fundementals",
       "path": "network/HTTP/_ 0 HTTP fundementals.md"
-    },
-    {
-      "basename": "_ 0 Full HTTP Networking Course – Fetch and REST APIs in JavaScript",
-      "path": "network/Full HTTP Networking Course – Fetch and REST APIs in JavaScript/_ 0 Full HTTP Networking Course – Fetch and REST APIs in JavaScript.md"
     }
   ],
   "omittedPaths": [],
