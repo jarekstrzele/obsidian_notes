@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "DAY JS",
+      "path": "JAVASCRIPT/DAY JS.md"
+    },
+    {
       "basename": "Dynamic Digital Clock",
       "path": "REACT NATIVE/_ Proste aplikacje/Dynamic Digital Clock.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "9 QtDesigner",
       "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md"
-    },
-    {
-      "basename": "_ 0 PyQt5 From A-Z",
-      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md"
     }
   ],
   "omittedPaths": [],
