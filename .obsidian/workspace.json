@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/two screen in one window.md",
+                "file": "R U S T/Tech with TIm Rust/9 Memory management, Heap and Stack.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "P Y T H O N/GUI/Firebase full course.md",
+                "file": "R U S T/Tech with TIm Rust/9 Memory management, Heap and Stack.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "P Y T H O N/GUI/Firebase full course.md",
+                "file": "R U S T/Tech with TIm Rust/9 Memory management, Heap and Stack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "P Y T H O N/GUI/Firebase full course.md"
+                "file": "R U S T/Tech with TIm Rust/9 Memory management, Heap and Stack.md"
               }
             }
           },
@@ -194,11 +193,11 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "de71665781bd4107",
+  "active": "5741e23fba216a6b",
   "lastOpenFiles": [
-    "P Y T H O N/GUI/PyQt/Create GUI App with PyQt/_ Create GUI App with PyQt5.md",
-    "P Y T H O N/GUI/Firebase full course.md",
     "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/two screen in one window.md",
+    "P Y T H O N/GUI/Firebase full course.md",
+    "P Y T H O N/GUI/PyQt/Create GUI App with PyQt/_ Create GUI App with PyQt5.md",
     "P Y T H O N/GUI/PyQt/Create GUI App with PyQt",
     "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/QTableWidget.md",
     "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/Multiple Screens.md",
