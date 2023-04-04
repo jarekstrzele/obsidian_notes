@@ -9,7 +9,7 @@ In Rust we have two different sections of RAM:
 
 
 --------------
-# Stack
+# Stack is faster
 
 ```rust
 fn main(){
@@ -52,8 +52,17 @@ second the main function finished: y pop(), x pop()
 
 
 -------
-# Heap
-
+# Heap is slower
+allocate the memory -> search a space to memory the data
+```rust
+fn main(){
+	let x = 2 ;
+	let string = String::form("hello") ;
+}
+```
+- `x` will be written on the top of the stack,
+- the value of `string` will be written in the heap because you could change the length of this string and 
+- the `string` will be written on the stack and its value will be the memory address of the heap where `"hello"` is written
 
 
 
