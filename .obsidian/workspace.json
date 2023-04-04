@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "276ed0899f91277f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "R U S T/Learn Rust by Building Real App/_ Learn Rust by Building Apps.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "de71665781bd4107",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5110321044922
+    "width": 220.00418853759766
   },
   "right": {
     "id": "ec7d1a70da2de581",
@@ -105,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Tech with TIm Rust/9 Memory management, Heap and Stack.md",
+                "file": "R U S T/Learn Rust by Building Real App/_ Learn Rust by Building Apps.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -122,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Tech with TIm Rust/9 Memory management, Heap and Stack.md",
+                "file": "R U S T/Learn Rust by Building Real App/_ Learn Rust by Building Apps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Tech with TIm Rust/9 Memory management, Heap and Stack.md"
+                "file": "R U S T/Learn Rust by Building Real App/_ Learn Rust by Building Apps.md"
               }
             }
           },
@@ -193,8 +206,12 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "5741e23fba216a6b",
+  "active": "276ed0899f91277f",
   "lastOpenFiles": [
+    "R U S T/Rust Web Book/_ 0 Rust Web Book.md",
+    "R U S T/Learn Rust by Building Real App/_ Learn Rust by Building Apps.md",
+    "R U S T/Tech with TIm Rust/9 Memory management, Heap and Stack.md",
+    "R U S T/Learn Rust by Building Real App",
     "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/two screen in one window.md",
     "P Y T H O N/GUI/Firebase full course.md",
     "P Y T H O N/GUI/PyQt/Create GUI App with PyQt/_ Create GUI App with PyQt5.md",
@@ -210,14 +227,12 @@
     "P Y T H O N/GUI/Tkinter/modern GUIs/_ 0 Modern GUIs Python.md",
     "R U S T/Tech with TIm Rust/4 Data Type Primitive.md",
     "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md",
-    "R U S T/Tech with TIm Rust/9 Memory management, Heap and Stack.md",
     "R U S T/Tech with TIm Rust/8 Functions, Expressions, Statements.md",
     "R U S T/Tech with TIm Rust/7 Conditions and Control Flow.md",
     "R U S T/Tech with TIm Rust/6 Arithmetic.md",
     "R U S T/Tech with TIm Rust/5 Console input.md",
     "R U S T/Tech with TIm Rust/2 Using Rust Tools (cargo, rustfmt).md",
     "R U S T/Tech with TIm Rust/_ Rust Tech with Tim.md",
-    "R U S T/Rust Web Book/_ 0 Rust Web Book.md",
     "HASKELL/for_great_good/6 Modules.md",
     "HASKELL/for_great_good/5 Higher order functions.md",
     "R U S T/Rust - FreeCode Beginner/2 Rust Combiner.md",
@@ -225,12 +240,10 @@
     "R U S T/Tech with TIm Rust/3 Variables, Constants and Shadowing.md",
     "R U S T/Tech with TIm Rust",
     "R U S T/Rust Web Book",
-    "HASKELL/for_great_good/0 - Haskell intro.md",
     "P Y T H O N/GUI/Tkinter/modern GUIs",
     "R U S T/Rust - FreeCode Beginner",
     "R U S T",
     "N_O_D_E/w3school",
-    "C++/Programowanie w języku C++ od A do Z",
     "Untitled.canvas"
   ]
 }
