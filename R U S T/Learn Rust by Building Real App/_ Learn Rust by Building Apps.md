@@ -39,6 +39,11 @@ Rust is release in three different channels with different levels of stabillity:
 2.  *bitter* (candidate for the next stable version)
 3.  *nightly*
 
+`rustup toolchain list` -> list of toolchain
+`rustop toolchain install nightly-x84_64-unkonown-linux-gnu`
+
+
+
 to **build** project
 `cargo build`
 
