@@ -1,7 +1,10 @@
 #rust #udemy #gavadinov_lyubomir
+[[1 Memory Management]]
 
 
-RUST IS A MODERN SYSTEMS PROGRAMMING LANGUAGE:
+
+---------------
+# RUST IS A MODERN SYSTEMS PROGRAMMING LANGUAGE:
 - memory safe
 - no NULL
 - no Exceptions
@@ -12,12 +15,19 @@ RUST IS A MODERN SYSTEMS PROGRAMMING LANGUAGE:
 `cargo --version`  
 `rustup --version` tool chain installer (to update compiler or cargo)
 
+
+-------------
+# Tools
+
 **tools**
 https://www.rust-lang.org/tools
 
 vs code extension:
 - THe Rust Programmin Language
 - crates
+
+--------------
+# `cargo`
 
 **cargo**
 `cargo new project_name`
@@ -43,7 +53,8 @@ Rust is release in three different channels with different levels of stabillity:
 `rustop toolchain install nightly-x84_64-unkonown-linux-gnu`
 
 
-
+------------
+# Build and Run 
 to **build** project
 `cargo build`
 
