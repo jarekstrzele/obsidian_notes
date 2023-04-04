@@ -32,6 +32,13 @@ for example: crate `rand`:
 rand = "0.8.5"
 ```
 
+or 
+`cargo install cargo-expend`
+Rust is release in three different channels with different levels of stabillity:
+1. *stable*
+2.  *bitter* (candidate for the next stable version)
+3.  *nightly*
+
 to **build** project
 `cargo build`
 
