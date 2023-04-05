@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "6 Outputting Content in the Meal Detail Screen",
+      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/6 Outputting Content in the Meal Detail Screen.md"
+    },
+    {
       "basename": "Drawer Navigator",
       "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer or Bottom-Tabs Navigators/Drawer Navigator.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2 Właściwości grafów",
       "path": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md"
-    },
-    {
-      "basename": "Five most Popular Python Gui Libs",
-      "path": "P Y T H O N/GUI/Five most Popular Python Gui Libs.md"
     }
   ],
   "omittedPaths": [],
