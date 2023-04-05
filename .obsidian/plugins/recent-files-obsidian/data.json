@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "_ Rust by Example",
+      "path": "R U S T/Rust by example/_ Rust by Example.md"
+    },
+    {
       "basename": "Dynamic Digital Clock",
       "path": "REACT NATIVE/_ Proste aplikacje/Dynamic Digital Clock.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_ 0 PyQt with Hala",
       "path": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/_ 0 PyQt with Hala.md"
-    },
-    {
-      "basename": "9 QtDesigner",
-      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md"
     }
   ],
   "omittedPaths": [],
