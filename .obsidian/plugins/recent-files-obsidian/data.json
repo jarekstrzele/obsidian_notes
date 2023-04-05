@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "_ 0 React Native - Practical Guide",
+      "path": "REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md"
+    },
+    {
+      "basename": "Firebase full course",
+      "path": "P Y T H O N/GUI/Firebase full course.md"
+    },
+    {
+      "basename": "DAY JS",
+      "path": "JAVASCRIPT/DAY JS.md"
+    },
+    {
+      "basename": "_ 0 React Native Mobile Apps",
+      "path": "REACT NATIVE/plurasight/Building Mobile Apps with React Native/_ 0 React Native Mobile Apps.md"
+    },
+    {
+      "basename": "_ Rust by Example",
+      "path": "R U S T/Rust by example/_ Rust by Example.md"
+    },
+    {
+      "basename": "Dynamic Digital Clock",
+      "path": "REACT NATIVE/_ Proste aplikacje/Dynamic Digital Clock.md"
+    },
+    {
       "basename": "2 Building a Command Line Application",
       "path": "R U S T/Learn Rust by Building Real App/2 Building a Command Line Application.md"
     },
@@ -17,28 +41,12 @@
       "path": "R U S T/Tech with TIm Rust/9 Memory management, Heap and Stack.md"
     },
     {
-      "basename": "_ Rust by Example",
-      "path": "R U S T/Rust by example/_ Rust by Example.md"
-    },
-    {
-      "basename": "Dynamic Digital Clock",
-      "path": "REACT NATIVE/_ Proste aplikacje/Dynamic Digital Clock.md"
-    },
-    {
-      "basename": "DAY JS",
-      "path": "JAVASCRIPT/DAY JS.md"
-    },
-    {
       "basename": "_ 0 Rust Web Book",
       "path": "R U S T/Rust Web Book/_ 0 Rust Web Book.md"
     },
     {
       "basename": "two screen in one window",
       "path": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/two screen in one window.md"
-    },
-    {
-      "basename": "Firebase full course",
-      "path": "P Y T H O N/GUI/Firebase full course.md"
     },
     {
       "basename": "_ Create GUI App with PyQt5",
@@ -191,14 +199,6 @@
     {
       "basename": "PySimpleGUI",
       "path": "P Y T H O N/GUI/PySimpleGUI.md"
-    },
-    {
-      "basename": "Clock, date",
-      "path": "P Y T H O N/GUI/Python Tkinter GUI youtube/Clock, date.md"
-    },
-    {
-      "basename": "Canvas",
-      "path": "P Y T H O N/GUI/Python Tkinter GUI youtube/Canvas.md"
     }
   ],
   "omittedPaths": [],

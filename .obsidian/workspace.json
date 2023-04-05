@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "276ed0899f91277f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "R U S T/Learn Rust by Building Real App/1 Memory Management.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "60a6f539ace3d937",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "R U S T/Learn Rust by Building Real App/2 Building a Command Line Application.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c2679dfd1e99a1b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "R U S T/Learn Rust by Building Real App/1 Memory Management.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Rust by example/_ Rust by Example.md",
+                "file": "REACT NATIVE/plurasight/Building Mobile Apps with React Native/_ 0 React Native Mobile Apps.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,14 +61,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "P Y T H O N/GUI/Firebase full course.md",
+                "file": "REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -166,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Learn Rust by Building Real App/2 Building a Command Line Application.md",
+                "file": "REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -183,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Learn Rust by Building Real App/2 Building a Command Line Application.md",
+                "file": "REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Learn Rust by Building Real App/2 Building a Command Line Application.md"
+                "file": "REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md"
               }
             }
           },
@@ -254,20 +230,21 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "60a6f539ace3d937",
+  "active": "de71665781bd4107",
   "lastOpenFiles": [
-    "R U S T/Learn Rust by Building Real App/1 Memory Management.md",
-    "R U S T/Learn Rust by Building Real App/2 Building a Command Line Application.md",
-    "R U S T/Learn Rust by Building Real App/_ Learn Rust by Building Apps.md",
-    "R U S T/Tech with TIm Rust/9 Memory management, Heap and Stack.md",
+    "P Y T H O N/GUI/Firebase full course.md",
+    "JAVASCRIPT/DAY JS.md",
+    "REACT NATIVE/plurasight/Building Mobile Apps with React Native/_ 0 React Native Mobile Apps.md",
     "R U S T/Rust by example/_ Rust by Example.md",
     "REACT NATIVE/_ Proste aplikacje/Dynamic Digital Clock.md",
+    "R U S T/Learn Rust by Building Real App/2 Building a Command Line Application.md",
+    "R U S T/Learn Rust by Building Real App/1 Memory Management.md",
+    "R U S T/Learn Rust by Building Real App/_ Learn Rust by Building Apps.md",
+    "R U S T/Tech with TIm Rust/9 Memory management, Heap and Stack.md",
     "R U S T/Rust by example",
-    "JAVASCRIPT/DAY JS.md",
     "R U S T/Rust Web Book/_ 0 Rust Web Book.md",
     "R U S T/Learn Rust by Building Real App",
     "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/two screen in one window.md",
-    "P Y T H O N/GUI/Firebase full course.md",
     "P Y T H O N/GUI/PyQt/Create GUI App with PyQt/_ Create GUI App with PyQt5.md",
     "P Y T H O N/GUI/PyQt/Create GUI App with PyQt",
     "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/QTableWidget.md",
@@ -285,7 +262,6 @@
     "R U S T/Tech with TIm Rust/7 Conditions and Control Flow.md",
     "R U S T/Tech with TIm Rust/6 Arithmetic.md",
     "R U S T/Tech with TIm Rust/5 Console input.md",
-    "R U S T/Tech with TIm Rust/2 Using Rust Tools (cargo, rustfmt).md",
     "R U S T/Rust Programming Tutorial",
     "R U S T/Tech with TIm Rust",
     "R U S T/Rust Web Book",
