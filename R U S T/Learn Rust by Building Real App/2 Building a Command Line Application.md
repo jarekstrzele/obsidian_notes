@@ -65,4 +65,28 @@ fn calculagte_weight_on_mars(weight: f32) -> f32{
 ```
 
 
+--------
+# Macro
+>[!info] macro  `!`
+>- macros are used for metaprogramming
+>- this is a way of writing code that writes more code
+>- can be call with  variable numbers of parameters and with different types
+>- its definitions is more complex than function one
+>- 
+>
+
+`println!("abc")` 
+`println!("somthing {}", x)`
+`printlm!("NUmber: {}, String: {}", 100, "abc")`
+
+#### `cargo-expand`
+it is on github 
+`cargo install cargo-expand`
+
+write in the terminal:
+`cargo expand` -> this will show us what all of the mactos in our code are expanded into
+
+
+
+
 
