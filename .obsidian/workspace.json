@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
+                "file": "REACT NATIVE/_ Proste aplikacje/Dynamic Digital Clock.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
+                "file": "REACT NATIVE/_ Proste aplikacje/Dynamic Digital Clock.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md"
+                "file": "REACT NATIVE/_ Proste aplikacje/Dynamic Digital Clock.md"
               }
             }
           },
@@ -230,14 +230,15 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "de71665781bd4107",
+  "active": "0dfea90851b436ee",
   "lastOpenFiles": [
+    "R U S T/Learn Rust by Building Real App/2 Building a Command Line Application.md",
+    "REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
     "P Y T H O N/GUI/Firebase full course.md",
     "JAVASCRIPT/DAY JS.md",
     "REACT NATIVE/plurasight/Building Mobile Apps with React Native/_ 0 React Native Mobile Apps.md",
     "R U S T/Rust by example/_ Rust by Example.md",
     "REACT NATIVE/_ Proste aplikacje/Dynamic Digital Clock.md",
-    "R U S T/Learn Rust by Building Real App/2 Building a Command Line Application.md",
     "R U S T/Learn Rust by Building Real App/1 Memory Management.md",
     "R U S T/Learn Rust by Building Real App/_ Learn Rust by Building Apps.md",
     "R U S T/Tech with TIm Rust/9 Memory management, Heap and Stack.md",
@@ -261,7 +262,6 @@
     "R U S T/Tech with TIm Rust/8 Functions, Expressions, Statements.md",
     "R U S T/Tech with TIm Rust/7 Conditions and Control Flow.md",
     "R U S T/Tech with TIm Rust/6 Arithmetic.md",
-    "R U S T/Tech with TIm Rust/5 Console input.md",
     "R U S T/Rust Programming Tutorial",
     "R U S T/Tech with TIm Rust",
     "R U S T/Rust Web Book",
