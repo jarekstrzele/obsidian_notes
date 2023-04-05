@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Drawer Navigator",
+      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer or Bottom-Tabs Navigators/Drawer Navigator.md"
+    },
+    {
       "basename": "1 Add action to React Navigator",
       "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/1 Add action to React Navigator.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Five most Popular Python Gui Libs",
       "path": "P Y T H O N/GUI/Five most Popular Python Gui Libs.md"
-    },
-    {
-      "basename": "get_url",
-      "path": "P Y T H O N/GUI/get_url.md"
     }
   ],
   "omittedPaths": [],
