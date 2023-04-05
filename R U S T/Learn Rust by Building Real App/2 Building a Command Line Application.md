@@ -9,7 +9,11 @@ CONCEPT:
 
 ----
 # Basic data types
-
+- booleans
+- characters
+- integers
+- floats
+- 
 
 
 
