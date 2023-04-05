@@ -86,6 +86,50 @@ it is on github
 write in the terminal:
 `cargo expand` -> this will show us what all of the mactos in our code are expanded into
 
+```rust
+fn main() {
+    println!("Weight on Mars: {}kg", calculagte_weight_on_mars(87.0)) ;
+}
+
+fn calculagte_weight_on_mars(weight: f32) -> f32{
+    (weight/9.81) * 3.711
+}
+```
+
+----
+# Mutability
+
+==all variables in Rust are IMMUTABLE by default==
+` x = x+3 ;` -> error
+```rust
+let mars_weight = calculagte_weight_on_mars(100.0) ;
+ mars_weight = mars_weight * 1000.0 ;
+
+mars_weight = mars_weight * 1000.0 ;
+  |     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ cannot assign twice to immutable variable
+```
+`mut` change variables to mutable one
+
+```rust
+ let mut mars_weight = calculagte_weight_on_mars(100.0) ;
+ mars_weight = mars_weight * 1000.0 ;
+```
+it is OK
+
+
+--------
+# Standard Library
+
+
+
+
+
+
+
+
+
+
+
 
 
 
