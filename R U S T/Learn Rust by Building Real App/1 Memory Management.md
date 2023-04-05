@@ -41,11 +41,10 @@ remember: you have to deallocate the memory
 It is a wrapper around the roll pointer adding additional capabilites to it
 - allocate the memory on the heap for the value
 - write the value on the heap
-- on the stack you write a memory address (==wrapped into sma) to the value that was written on the heap
-- if your stack is empty, the value is still on the heap (MEMORY LEAK)
-remember: you have to deallocate the memory
+- on the stack you write a memory address (==wrapped into smart pointer==) to the value that was written on the heap
+- if you delete the smart pointer (on the stack), it deletes your value from the heap
 
-
+.g. `let e = Box::new(7)` the address of the value `7`  is wrapped into a smart pointer
 
 
 
