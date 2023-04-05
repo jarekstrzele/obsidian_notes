@@ -38,8 +38,31 @@ CONCEPT:
 # char
 `char` $0000$
 
+----------
+# Function
+`cargo new mars_calc`
+`cd mars_calc`
+`cargo run`
+
+#### `fn main`
+it is always the first code that runs - the entry point
+
+==use snack_case_convention== to name functions
+
+>[!important] `return`
+>The last expression in every function that doesn't have a semicolon at the end  is AUTOMATICALLY returned
 
 
+```rust
+fn main() {
+    println!("Hello, world!");
+    calculagte_weight_on_mars(100.0) ;
+}
+
+fn calculagte_weight_on_mars(weight: f32) -> f32{
+    50.0
+}
+```
 
 
 
