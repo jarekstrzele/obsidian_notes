@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "1 Add action to React Navigator",
+      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/1 Add action to React Navigator.md"
+    },
+    {
+      "basename": "_ 0 React Native Navigation",
+      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/_ 0 React Native Navigation.md"
+    },
+    {
+      "basename": "2. Route parameters",
+      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/2. Route parameters.md"
+    },
+    {
+      "basename": "_ 0 React Native - Practical Guide",
+      "path": "REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md"
+    },
+    {
       "basename": "DAY JS",
       "path": "JAVASCRIPT/DAY JS.md"
     },
@@ -11,10 +27,6 @@
     {
       "basename": "Dynamic Digital Clock",
       "path": "REACT NATIVE/_ Proste aplikacje/Dynamic Digital Clock.md"
-    },
-    {
-      "basename": "_ 0 React Native - Practical Guide",
-      "path": "REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md"
     },
     {
       "basename": "Firebase full course",
@@ -187,18 +199,6 @@
     {
       "basename": "get_url",
       "path": "P Y T H O N/GUI/get_url.md"
-    },
-    {
-      "basename": "Simple app with FireBase",
-      "path": "P Y T H O N/GUI/Simple app with FireBase.md"
-    },
-    {
-      "basename": "Qt Designer and Python",
-      "path": "P Y T H O N/GUI/Qt Designer and Python.md"
-    },
-    {
-      "basename": "PySimpleGUI",
-      "path": "P Y T H O N/GUI/PySimpleGUI.md"
     }
   ],
   "omittedPaths": [],
