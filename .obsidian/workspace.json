@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/1 Add action to React Navigator.md",
+                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer or Bottom-Tabs Navigators/Drawer Navigator.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/1 Add action to React Navigator.md",
+                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer or Bottom-Tabs Navigators/Drawer Navigator.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/1 Add action to React Navigator.md",
+                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer or Bottom-Tabs Navigators/Drawer Navigator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/1 Add action to React Navigator.md"
+                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer or Bottom-Tabs Navigators/Drawer Navigator.md"
               }
             }
           },
@@ -232,11 +232,12 @@
   },
   "active": "de71665781bd4107",
   "lastOpenFiles": [
+    "REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer or Bottom-Tabs Navigators/BottomNavigator.md",
+    "REACT NATIVE/React Native Practical Guide/6 Navigation/1 Add action to React Navigator.md",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/_ 0 React Native Navigation.md",
     "REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/6 Outputting Content in the Meal Detail Screen.md",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer or Bottom-Tabs Navigators/Drawer Navigator.md",
-    "REACT NATIVE/React Native Practical Guide/6 Navigation/1 Add action to React Navigator.md",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/2. Route parameters.md",
     "JAVASCRIPT/DAY JS.md",
     "R U S T/Learn Rust by Building Real App/2 Building a Command Line Application.md",
@@ -261,7 +262,6 @@
     "P Y T H O N/GUI/PySide6/_ 0 PySide.md",
     "Data Bases/FireBase/FireBase back to the basic.md",
     "Data Bases/FireBase",
-    "P Y T H O N/GUI/Tkinter/modern GUIs/_ 0 Modern GUIs Python.md",
     "R U S T/Rust Programming Tutorial",
     "R U S T/Tech with TIm Rust",
     "R U S T/Rust Web Book",

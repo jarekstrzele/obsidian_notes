@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Drawer Navigator",
+      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer or Bottom-Tabs Navigators/Drawer Navigator.md"
+    },
+    {
+      "basename": "BottomNavigator",
+      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer or Bottom-Tabs Navigators/BottomNavigator.md"
+    },
+    {
       "basename": "1 Add action to React Navigator",
       "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/1 Add action to React Navigator.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "6 Outputting Content in the Meal Detail Screen",
       "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/6 Outputting Content in the Meal Detail Screen.md"
-    },
-    {
-      "basename": "Drawer Navigator",
-      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer or Bottom-Tabs Navigators/Drawer Navigator.md"
     },
     {
       "basename": "2. Route parameters",
@@ -195,10 +199,6 @@
     {
       "basename": "Tkinter",
       "path": "P Y T H O N/GUI/Tkinter.md"
-    },
-    {
-      "basename": "2 Właściwości grafów",
-      "path": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md"
     }
   ],
   "omittedPaths": [],
