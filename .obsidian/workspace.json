@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVASCRIPT/DAY JS.md",
+                "file": "REACT NATIVE/_ Proste aplikacje/Dynamic Digital Clock.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVASCRIPT/DAY JS.md",
+                "file": "REACT NATIVE/_ Proste aplikacje/Dynamic Digital Clock.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVASCRIPT/DAY JS.md"
+                "file": "REACT NATIVE/_ Proste aplikacje/Dynamic Digital Clock.md"
               }
             }
           },
@@ -242,10 +242,10 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "5146fa44b3e1a6e8",
+  "active": "0dfea90851b436ee",
   "lastOpenFiles": [
-    "REACT NATIVE/_ Proste aplikacje/Dynamic Digital Clock.md",
     "JAVASCRIPT/DAY JS.md",
+    "REACT NATIVE/_ Proste aplikacje/Dynamic Digital Clock.md",
     "R U S T/Learn Rust by Building Real App/1 Memory Management.md",
     "R U S T/Learn Rust by Building Real App/_ Learn Rust by Building Apps.md",
     "R U S T/Rust Web Book/_ 0 Rust Web Book.md",
