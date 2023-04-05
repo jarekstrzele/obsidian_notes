@@ -20,8 +20,30 @@
 > When a function exits it's stack frame is released
 
 
-> 
 
+--------
+# Heap
+- it is a region of tjhe process memory that is NOT automatically managed
+- it has no size restrictions
+- it is accessible by any function, anywhere in the program
+- heaap allocations are expensive and we should avoid them when possible
+
+a memory flow
+- allocate the memory on the heap for the value
+- write the value on the heap
+- on the stack you write a memory address to the value that was written on the heap
+- if your stack is empty, the value is still on the heap (MEMORY LEAK)
+remember: you have to deallocate the memory
+
+
+--------
+# Smart Pointers
+It is a wrapper around the roll pointer adding additional capabilites to it
+- allocate the memory on the heap for the value
+- write the value on the heap
+- on the stack you write a memory address (==wrapped into sma) to the value that was written on the heap
+- if your stack is empty, the value is still on the heap (MEMORY LEAK)
+remember: you have to deallocate the memory
 
 
 

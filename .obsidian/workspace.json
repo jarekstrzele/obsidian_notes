@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5741e23fba216a6b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "R U S T/Tech with TIm Rust/9 Memory management, Heap and Stack.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "276ed0899f91277f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Learn Rust by Building Real App/_ Learn Rust by Building Apps.md",
+                "file": "R U S T/Learn Rust by Building Real App/1 Memory Management.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,8 +79,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust by example/_ Rust by Example.md",
+                "file": "R U S T/Learn Rust by Building Real App/1 Memory Management.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -183,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust by example/_ Rust by Example.md",
+                "file": "R U S T/Learn Rust by Building Real App/1 Memory Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Rust by example/_ Rust by Example.md"
+                "file": "R U S T/Learn Rust by Building Real App/1 Memory Management.md"
               }
             }
           },
@@ -254,16 +241,16 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "e70c41d7560112a6",
+  "active": "276ed0899f91277f",
   "lastOpenFiles": [
-    "REACT NATIVE/_ Proste aplikacje/Dynamic Digital Clock.md",
+    "R U S T/Learn Rust by Building Real App/_ Learn Rust by Building Apps.md",
+    "R U S T/Tech with TIm Rust/9 Memory management, Heap and Stack.md",
     "R U S T/Rust by example/_ Rust by Example.md",
+    "REACT NATIVE/_ Proste aplikacje/Dynamic Digital Clock.md",
     "R U S T/Rust by example",
     "JAVASCRIPT/DAY JS.md",
     "R U S T/Learn Rust by Building Real App/1 Memory Management.md",
-    "R U S T/Learn Rust by Building Real App/_ Learn Rust by Building Apps.md",
     "R U S T/Rust Web Book/_ 0 Rust Web Book.md",
-    "R U S T/Tech with TIm Rust/9 Memory management, Heap and Stack.md",
     "R U S T/Learn Rust by Building Real App",
     "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/two screen in one window.md",
     "P Y T H O N/GUI/Firebase full course.md",
