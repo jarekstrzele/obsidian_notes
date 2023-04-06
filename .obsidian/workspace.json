@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HASKELL/for_great_good/5 Higher order functions.md",
+                "file": "HASKELL/for_great_good/6 Modules.md",
                 "mode": "source",
                 "source": false
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/for_great_good/5 Higher order functions.md",
+                "file": "HASKELL/for_great_good/6 Modules.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/for_great_good/5 Higher order functions.md",
+                "file": "HASKELL/for_great_good/6 Modules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/for_great_good/5 Higher order functions.md"
+                "file": "HASKELL/for_great_good/6 Modules.md"
               }
             }
           },
@@ -272,6 +272,7 @@
   },
   "active": "8d79a884d7999dbe",
   "lastOpenFiles": [
+    "HASKELL/for_great_good/5 Higher order functions.md",
     "REACT NATIVE/_ Proste aplikacje/Dynamic Digital Clock.md",
     "R U S T/Tech with TIm Rust/_ Rust Tech with Tim.md",
     "R U S T/Tech with TIm Rust/9 Memory management, Heap and Stack.md",
@@ -307,7 +308,6 @@
     "P Y T H O N/GUI/PyQt/Create GUI App with PyQt",
     "N_O_D_E/w3school/_ 0 W3Schools Node.md",
     "N_O_D_E/w3school",
-    "JAVASCRIPT/DAY JS.md",
     "Untitled.canvas"
   ]
 }
