@@ -3,7 +3,7 @@
 [[#Curried functions]]
 [[#Some higher-orderism is in order]]
 [[#map]]
-[[#filter]]
+[[#filter]]    
 [[#]]
 
 

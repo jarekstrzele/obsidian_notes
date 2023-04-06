@@ -4,71 +4,119 @@
     "type": "split",
     "children": [
       {
-        "id": "03d912dc9af42aac",
+        "id": "9a5922b231104c72",
         "type": "tabs",
         "children": [
           {
-            "id": "60a6f539ace3d937",
+            "id": "dd6e3bf76a85b059",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Learn Rust by Building Real App/2 Building a Command Line Application.md",
+                "file": "N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0dfea90851b436ee",
+            "id": "f13dd675cffe6309",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REACT NATIVE/_ Proste aplikacje/Dynamic Digital Clock.md",
+                "file": "N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e70c41d7560112a6",
+            "id": "627a79bccbdfa935",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REACT NATIVE/plurasight/Building Mobile Apps with React Native/_ 0 React Native Mobile Apps.md",
+                "file": "N_O_D_E/NodeJS - fullstack/2. Podstawowe koncepcje.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5146fa44b3e1a6e8",
+            "id": "a17117711691ad32",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVASCRIPT/DAY JS.md",
+                "file": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/CheckList.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "de71665781bd4107",
+            "id": "c099220f5467aef2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer or Bottom-Tabs Navigators/Drawer Navigator.md",
+                "file": "REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "15dfaebabd37093c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0d54b6c970364990",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "P Y T H O N/urllib.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bbf4d5ba7aa16808",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "P Y T H O N/GUI/get_url.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8d79a884d7999dbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HASKELL/for_great_good/5 Higher order functions.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -97,7 +145,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#udemy",
+                "query": "expo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,7 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 433.0110321044922
+    "width": 321.5
   },
   "right": {
     "id": "ec7d1a70da2de581",
@@ -142,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer or Bottom-Tabs Navigators/Drawer Navigator.md",
+                "file": "HASKELL/for_great_good/5 Higher order functions.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -159,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer or Bottom-Tabs Navigators/Drawer Navigator.md",
+                "file": "HASKELL/for_great_good/5 Higher order functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer or Bottom-Tabs Navigators/Drawer Navigator.md"
+                "file": "HASKELL/for_great_good/5 Higher order functions.md"
               }
             }
           },
@@ -201,21 +249,13 @@
               "type": "juggl_style",
               "state": {}
             }
-          },
-          {
-            "id": "a37f9b7caeae370a",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -230,44 +270,44 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "de71665781bd4107",
+  "active": "8d79a884d7999dbe",
   "lastOpenFiles": [
-    "REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer or Bottom-Tabs Navigators/BottomNavigator.md",
-    "REACT NATIVE/React Native Practical Guide/6 Navigation/1 Add action to React Navigator.md",
-    "REACT NATIVE/React Native Practical Guide/6 Navigation/_ 0 React Native Navigation.md",
-    "REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
-    "REACT NATIVE/React Native Practical Guide/6 Navigation/6 Outputting Content in the Meal Detail Screen.md",
-    "REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer or Bottom-Tabs Navigators/Drawer Navigator.md",
-    "REACT NATIVE/React Native Practical Guide/6 Navigation/2. Route parameters.md",
-    "JAVASCRIPT/DAY JS.md",
-    "R U S T/Learn Rust by Building Real App/2 Building a Command Line Application.md",
     "REACT NATIVE/_ Proste aplikacje/Dynamic Digital Clock.md",
-    "P Y T H O N/GUI/Firebase full course.md",
-    "REACT NATIVE/plurasight/Building Mobile Apps with React Native/_ 0 React Native Mobile Apps.md",
-    "R U S T/Rust by example/_ Rust by Example.md",
-    "R U S T/Learn Rust by Building Real App/1 Memory Management.md",
-    "R U S T/Learn Rust by Building Real App/_ Learn Rust by Building Apps.md",
+    "R U S T/Tech with TIm Rust/_ Rust Tech with Tim.md",
     "R U S T/Tech with TIm Rust/9 Memory management, Heap and Stack.md",
-    "R U S T/Rust by example",
+    "R U S T/Tech with TIm Rust/8 Functions, Expressions, Statements.md",
+    "R U S T/Tech with TIm Rust/7 Conditions and Control Flow.md",
+    "R U S T/Tech with TIm Rust/6 Arithmetic.md",
+    "R U S T/Tech with TIm Rust/5 Console input.md",
+    "R U S T/Tech with TIm Rust/4 Data Type Primitive.md",
+    "R U S T/Tech with TIm Rust/3 Variables, Constants and Shadowing.md",
+    "R U S T/Tech with TIm Rust/2 Using Rust Tools (cargo, rustfmt).md",
+    "R U S T/Rust by example/_ Rust by Example.md",
     "R U S T/Rust Web Book/_ 0 Rust Web Book.md",
+    "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md",
+    "R U S T/Rust - FreeCode Beginner/makro vs function.md",
+    "R U S T/Rust - FreeCode Beginner/_ 0 Rust.md",
+    "R U S T/Rust - FreeCode Beginner/2 Rust Combiner.md",
+    "R U S T/Rust - FreeCode Beginner/1 Rust Calc.md",
+    "R U S T/Learn Rust by Building Real App/_ Learn Rust by Building Apps.md",
+    "R U S T/Learn Rust by Building Real App/2 Building a Command Line Application.md",
+    "R U S T/Learn Rust by Building Real App/1 Memory Management.md",
+    "R U S T/Tech with TIm Rust",
+    "R U S T/Rust by example",
+    "R U S T/Rust Web Book",
+    "R U S T/Rust Programming Tutorial",
+    "R U S T/Rust - FreeCode Beginner",
     "R U S T/Learn Rust by Building Real App",
-    "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/two screen in one window.md",
-    "P Y T H O N/GUI/PyQt/Create GUI App with PyQt/_ Create GUI App with PyQt5.md",
-    "P Y T H O N/GUI/PyQt/Create GUI App with PyQt",
+    "R U S T",
+    "P Y T H O N/GUI/Tkinter/modern GUIs/_ 0 Modern GUIs Python.md",
+    "P Y T H O N/GUI/Tkinter/modern GUIs",
     "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/QTableWidget.md",
     "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/Multiple Screens.md",
-    "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/CheckList.md",
-    "P Y T H O N/GUI/PyQt/PyQt Codemy/_ 0 PyQt5 code.md",
-    "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.8 QTableWidget.md",
-    "P Y T H O N/GUI/PySide6/_ 0 PySide.md",
-    "Data Bases/FireBase/FireBase back to the basic.md",
-    "Data Bases/FireBase",
-    "R U S T/Rust Programming Tutorial",
-    "R U S T/Tech with TIm Rust",
-    "R U S T/Rust Web Book",
-    "P Y T H O N/GUI/Tkinter/modern GUIs",
-    "R U S T/Rust - FreeCode Beginner",
-    "R U S T",
+    "P Y T H O N/GUI/PyQt/Create GUI App with PyQt/_ Create GUI App with PyQt5.md",
+    "P Y T H O N/GUI/PyQt/Create GUI App with PyQt",
+    "N_O_D_E/w3school/_ 0 W3Schools Node.md",
+    "N_O_D_E/w3school",
+    "JAVASCRIPT/DAY JS.md",
     "Untitled.canvas"
   ]
 }
