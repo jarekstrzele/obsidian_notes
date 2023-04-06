@@ -60,9 +60,19 @@ https://downloads.haskell.org/ghc/latest/docs/libraries/
 This module is all about lists (e.g. `map`, `filter` Predule module exports these function)
 
 `intersperse` takes an element and a list and then puts that element in between each pair of elements in the list
+```haskell
+ghci> intersperse '.' "MONKEY"
+"M.O.N.K.E.Y"
+ghci> intersperse 0 [1,2,3,4,5]
+[1,0,2,0,3,0,4,0,5]
+ghci> intersperse '&' "DoG"
+"D&o&G"
+ghci> intersperse 2 [0.3,0.2,0.9]
+[0.3,2.0,0.2,2.0,0.9]
 
+```
 
-
+`intercalate` takes a list of lists and a list. It inserts that list in between all those lists and then dlattens the result
 
 
 
