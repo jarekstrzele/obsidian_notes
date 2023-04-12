@@ -54,7 +54,15 @@ fn main() {
 
 ------
 # For Loop
-
+```rust
+fn main() {
+    let nums = 10..33 ;
+    
+    for i in nums {
+        println!("Nums: {}", i) ;
+    }
+}
+```
 
 
 
