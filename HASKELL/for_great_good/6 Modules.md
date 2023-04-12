@@ -42,7 +42,6 @@ ghci>
 
 ## import module in GHCI
 `ghci> :m +Data.List`
-
 `ghci> :m + Data.List Data.Map Data.Set`
 
 `import Data.List (nub, sort)`
@@ -72,7 +71,11 @@ ghci> intersperse 2 [0.3,0.2,0.9]
 
 ```
 
-`intercalate` takes a list of lists and a list. It inserts that list in between all those lists and then dlattens the result
+> `intercalate` 
+> - **takes**:
+> 	- a list of lists and
+> 	- a list. 
+> - **inserts** that list in between all those lists and then dlattens the result
 ```haskell
 ghci> intercalate " " ["hey", "there", "gays"]
 "hey there gays"
