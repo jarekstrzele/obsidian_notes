@@ -3,7 +3,11 @@
 ```rust
 fn main(){
 	if n == 45 {
-		println!("Rust")
+		println!("Rust!") ;
+	} else if {
+		println!("Other language") ;
+	} else {
+		println!("Somthing else") ;
 	}
 
 }

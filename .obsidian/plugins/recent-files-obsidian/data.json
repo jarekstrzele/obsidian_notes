@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "4 Loops",
+      "path": "R U S T/Rust Programming Tutorial/4 Loops.md"
+    },
+    {
       "basename": "3 If statement",
       "path": "R U S T/Rust Programming Tutorial/3 If statement.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "makro vs function",
       "path": "R U S T/Rust - FreeCode Beginner/makro vs function.md"
-    },
-    {
-      "basename": "_ 0 Rust",
-      "path": "R U S T/Rust - FreeCode Beginner/_ 0 Rust.md"
     }
   ],
   "omittedPaths": [],
