@@ -73,7 +73,18 @@ ghci> intersperse 2 [0.3,0.2,0.9]
 ```
 
 `intercalate` takes a list of lists and a list. It inserts that list in between all those lists and then dlattens the result
+```haskell
+ghci> intercalate " " ["hey", "there", "gays"]
+"hey there gays"
+ghci> intercalate [1,2,3] [[22,33], [11, 22], [77,88], [91,92]]
+[22,33,1,2,3,11,22,1,2,3,77,88,1,2,3,91,92]
 
+ghci> intercalate [1,2,3] [[22,33], [11, 22], [77,88], [91,92, 100]]
+[22,33,1,2,3,11,22,1,2,3,77,88,1,2,3,91,92,100]
+
+ghci> intercalate [1,2,3] [[22,33], [11, 22.212], [77,88], [91,92, 100]]
+[22.0,33.0,1.0,2.0,3.0,11.0,22.212,1.0,2.0,3.0,77.0,88.0,1.0,2.0,3.0,91.0,92.0,100.0]
+```
 
 
 
