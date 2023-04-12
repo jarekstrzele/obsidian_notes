@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "3 If statement",
+      "path": "R U S T/Rust Programming Tutorial/3 If statement.md"
+    },
+    {
+      "basename": "_ Rust Programming Tutorial",
+      "path": "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md"
+    },
+    {
       "basename": "2 Variables",
       "path": "R U S T/Rust Programming Tutorial/2 Variables.md"
     },
     {
       "basename": "1 Hello World App",
       "path": "R U S T/Rust Programming Tutorial/1 Hello World App.md"
-    },
-    {
-      "basename": "_ Rust Programming Tutorial",
-      "path": "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md"
     },
     {
       "basename": "8 Descriptors",
@@ -195,10 +199,6 @@
     {
       "basename": "_ 0 Rust",
       "path": "R U S T/Rust - FreeCode Beginner/_ 0 Rust.md"
-    },
-    {
-      "basename": "1 Rust Calc",
-      "path": "R U S T/Rust - FreeCode Beginner/1 Rust Calc.md"
     }
   ],
   "omittedPaths": [],

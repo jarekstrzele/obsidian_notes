@@ -47,7 +47,20 @@ The value of x: 60
 
 ---
 # Variable Data Types
+```rust
+fn main() {
+    let x:i32 = 15 ;
+    let y: i64 = 11222 ;
+    let z: f64 = 987654.4321 ;
+    let yes: bool = true;
 
+   
+    println!("The value of x, y, z, yes: {}, {}, {}, {}", x, y, z, yes) ;
+
+}
+
+output: The value of x, y, z, yes: 15, 11222, 987654.4321, true
+```
 
 
 
