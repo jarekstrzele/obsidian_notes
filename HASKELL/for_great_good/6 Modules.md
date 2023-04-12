@@ -89,6 +89,12 @@ ghci> intercalate [1,2,3] [[22,33], [11, 22.212], [77,88], [91,92, 100]]
 [22.0,33.0,1.0,2.0,3.0,11.0,22.212,1.0,2.0,3.0,77.0,88.0,1.0,2.0,3.0,91.0,92.0,100.0]
 ```
 
+> `transpose` transposes a list of lists
+> columns become rows
+
+```haskell
+import Data.List
+let a = transpose [[1,2,3], [4,5,6], [7,8,9]]
 
 
-
+```
