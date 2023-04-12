@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "P Y T H O N/GUI/get_url.md",
+                "file": "HASKELL/Simple Haskell File - Structure.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -174,8 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 449
   },
   "right": {
     "id": "ec7d1a70da2de581",
@@ -191,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/for_great_good/6 Modules.md",
+                "file": "HASKELL/Simple Haskell File - Structure.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -208,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/for_great_good/6 Modules.md",
+                "file": "HASKELL/Simple Haskell File - Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/for_great_good/6 Modules.md"
+                "file": "HASKELL/Simple Haskell File - Structure.md"
               }
             }
           },
@@ -271,8 +270,11 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "8d79a884d7999dbe",
+  "active": "bbf4d5ba7aa16808",
   "lastOpenFiles": [
+    "P Y T H O N/GUI/get_url.md",
+    "HASKELL/for_great_good/6 Modules.md",
+    "HASKELL/Simple Haskell File - Structure.md",
     "HASKELL/for_great_good/5 Higher order functions.md",
     "REACT NATIVE/_ Proste aplikacje/Dynamic Digital Clock.md",
     "R U S T/Tech with TIm Rust/_ Rust Tech with Tim.md",
@@ -304,10 +306,7 @@
     "P Y T H O N/GUI/Tkinter/modern GUIs/_ 0 Modern GUIs Python.md",
     "P Y T H O N/GUI/Tkinter/modern GUIs",
     "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/QTableWidget.md",
-    "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/Multiple Screens.md",
-    "P Y T H O N/GUI/PyQt/Create GUI App with PyQt/_ Create GUI App with PyQt5.md",
     "P Y T H O N/GUI/PyQt/Create GUI App with PyQt",
-    "N_O_D_E/w3school/_ 0 W3Schools Node.md",
     "N_O_D_E/w3school",
     "Untitled.canvas"
   ]

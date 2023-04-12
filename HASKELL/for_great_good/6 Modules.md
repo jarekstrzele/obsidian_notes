@@ -98,3 +98,15 @@ let a = transpose [[1,2,3], [4,5,6], [7,8,9]]
 
 output: [[1,4,7],[2,5,8],[3,6,9]]
 ```
+
+Say we have the polynomials 
+- $3x2 + 5x + 9$,
+- $10x3 + 9$ 
+- $8x3 + 5x2 + x - 1$
+and we want to add them together. We can use the lists [0,3,5,9], [10,0,0,9] and [8,5,1,-1] to represent them in Haskell. 
+Now, to add them, all we have to do is this:
+```haskell
+ghci> map sum $ transpose [[0,3,5,9],[10,0,0,9],[8,5,1,-1]]  
+
+output: [18,8,6,17]
+```
