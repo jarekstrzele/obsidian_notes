@@ -41,8 +41,8 @@ ghci>
 
 
 ## import module in GHCI
-`ghci> :m +Data.List`
-`ghci> :m + Data.List Data.Map Data.Set`
+### `ghci> :m +Data.List`
+### `ghci> :m + Data.List Data.Map Data.Set`
 
 `import Data.List (nub, sort)`
 
@@ -96,5 +96,5 @@ ghci> intercalate [1,2,3] [[22,33], [11, 22.212], [77,88], [91,92, 100]]
 import Data.List
 let a = transpose [[1,2,3], [4,5,6], [7,8,9]]
 
-
+output: [[1,4,7],[2,5,8],[3,6,9]]
 ```
