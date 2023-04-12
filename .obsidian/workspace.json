@@ -138,9 +138,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f8fee16f1471d681",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "R U S T/Rust Programming Tutorial/7 Tuples.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -214,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust Programming Tutorial/6 Constants.md",
+                "file": "R U S T/Rust Programming Tutorial/7 Tuples.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -231,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust Programming Tutorial/6 Constants.md",
+                "file": "R U S T/Rust Programming Tutorial/7 Tuples.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Rust Programming Tutorial/6 Constants.md"
+                "file": "R U S T/Rust Programming Tutorial/7 Tuples.md"
               }
             }
           },
@@ -302,11 +314,12 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "b7c387ed77a02ea8",
+  "active": "f8fee16f1471d681",
   "lastOpenFiles": [
+    "R U S T/Rust Programming Tutorial/6 Constants.md",
+    "R U S T/Rust Programming Tutorial/7 Tuples.md",
     "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md",
     "R U S T/Rust Programming Tutorial/5 Enum Types.md",
-    "R U S T/Rust Programming Tutorial/6 Constants.md",
     "R U S T/Rust Programming Tutorial/4 Loops.md",
     "R U S T/Rust Programming Tutorial/3 If statement.md",
     "R U S T/Rust Programming Tutorial/2 Variables.md",
@@ -330,7 +343,6 @@
     "R U S T/Learn Rust by Building Real App/_ Learn Rust by Building Apps.md",
     "R U S T/Tech with TIm Rust/9 Memory management, Heap and Stack.md",
     "R U S T/Rust by example",
-    "R U S T/Rust Web Book/_ 0 Rust Web Book.md",
     "R U S T/Learn Rust by Building Real App",
     "P Y T H O N/GUI/PyQt/Create GUI App with PyQt",
     "Data Bases/FireBase",
