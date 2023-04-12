@@ -6,8 +6,8 @@ https://www.youtube.com/watch?v=vOMJlQ5B-M0&list=PLVvjrrRCBy2JSHf9tGxGKJ-bYAN_uD
 [[2 Variables]]
 [[3 If statement]]
 [[4 Loops]]
-[[5 Enum type]]
-
+[[5 Enum Types]]
+[[6 Constants]]
 
 
 

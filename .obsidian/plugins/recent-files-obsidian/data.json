@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "6 Constants",
+      "path": "R U S T/Rust Programming Tutorial/6 Constants.md"
+    },
+    {
       "basename": "_ Rust Programming Tutorial",
       "path": "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md"
     },
     {
-      "basename": "5 Enum type",
-      "path": "R U S T/Rust Programming Tutorial/5 Enum type.md"
+      "basename": "5 Enum Types",
+      "path": "R U S T/Rust Programming Tutorial/5 Enum Types.md"
     },
     {
       "basename": "4 Loops",
@@ -195,10 +199,6 @@
     {
       "basename": "1 Getting Started with Haskell",
       "path": "HASKELL/learning haskell programming/1 Getting Started with Haskell.md"
-    },
-    {
-      "basename": "_ 0 Learining Haskell Programming",
-      "path": "HASKELL/learning haskell programming/_ 0 Learining Haskell Programming.md"
     }
   ],
   "omittedPaths": [],
