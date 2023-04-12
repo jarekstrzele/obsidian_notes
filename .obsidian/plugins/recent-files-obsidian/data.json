@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "3 - Algorytmy grafowe",
+      "path": "algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md"
+    },
+    {
+      "basename": "2 Building a Command Line Application",
+      "path": "R U S T/Learn Rust by Building Real App/2 Building a Command Line Application.md"
+    },
+    {
       "basename": "7 Tuples",
       "path": "R U S T/Rust Programming Tutorial/7 Tuples.md"
-    },
-    {
-      "basename": "6 Constants",
-      "path": "R U S T/Rust Programming Tutorial/6 Constants.md"
-    },
-    {
-      "basename": "_ Rust Programming Tutorial",
-      "path": "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md"
     },
     {
       "basename": "5 Enum Types",
@@ -23,6 +23,22 @@
     {
       "basename": "3 If statement",
       "path": "R U S T/Rust Programming Tutorial/3 If statement.md"
+    },
+    {
+      "basename": "_ Rust Programming Tutorial",
+      "path": "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md"
+    },
+    {
+      "basename": "DAY JS",
+      "path": "JAVASCRIPT/DAY JS.md"
+    },
+    {
+      "basename": "_ 0 React Native Mobile Apps",
+      "path": "REACT NATIVE/plurasight/Building Mobile Apps with React Native/_ 0 React Native Mobile Apps.md"
+    },
+    {
+      "basename": "6 Constants",
+      "path": "R U S T/Rust Programming Tutorial/6 Constants.md"
     },
     {
       "basename": "2 Variables",
@@ -65,24 +81,12 @@
       "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/2. Route parameters.md"
     },
     {
-      "basename": "DAY JS",
-      "path": "JAVASCRIPT/DAY JS.md"
-    },
-    {
-      "basename": "2 Building a Command Line Application",
-      "path": "R U S T/Learn Rust by Building Real App/2 Building a Command Line Application.md"
-    },
-    {
       "basename": "Dynamic Digital Clock",
       "path": "REACT NATIVE/_ Proste aplikacje/Dynamic Digital Clock.md"
     },
     {
       "basename": "Firebase full course",
       "path": "P Y T H O N/GUI/Firebase full course.md"
-    },
-    {
-      "basename": "_ 0 React Native Mobile Apps",
-      "path": "REACT NATIVE/plurasight/Building Mobile Apps with React Native/_ 0 React Native Mobile Apps.md"
     },
     {
       "basename": "_ Rust by Example",
@@ -195,10 +199,6 @@
     {
       "basename": "3 Polishing the Word Game",
       "path": "HASKELL/learning haskell programming/3 Polishing the Word Game.md"
-    },
-    {
-      "basename": "2 Developing a Word Game",
-      "path": "HASKELL/learning haskell programming/2 Developing a Word Game.md"
     }
   ],
   "omittedPaths": [],

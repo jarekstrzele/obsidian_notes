@@ -4,155 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "03d912dc9af42aac",
+        "id": "eedc4cb1acc8bcdd",
         "type": "tabs",
         "children": [
           {
-            "id": "60a6f539ace3d937",
+            "id": "9cb3c5d17eeb5c0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Learn Rust by Building Real App/2 Building a Command Line Application.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0dfea90851b436ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "REACT NATIVE/_ Proste aplikacje/Dynamic Digital Clock.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e70c41d7560112a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "REACT NATIVE/plurasight/Building Mobile Apps with React Native/_ 0 React Native Mobile Apps.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5146fa44b3e1a6e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JAVASCRIPT/DAY JS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "de71665781bd4107",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "975ad3fe24586597",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5ccf1abe1d189d3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6c2e8e95ae54f369",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "R U S T/Rust Programming Tutorial/3 If statement.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "72a0812690c65a8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "R U S T/Rust Programming Tutorial/4 Loops.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "12d9594ccb6303e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "R U S T/Rust Programming Tutorial/5 Enum Types.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b7c387ed77a02ea8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "R U S T/Rust Programming Tutorial/6 Constants.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f8fee16f1471d681",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "R U S T/Rust Programming Tutorial/7 Tuples.md",
+                "file": "algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 11
+        ]
       }
     ],
     "direction": "vertical"
@@ -226,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust Programming Tutorial/7 Tuples.md",
+                "file": "algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -243,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust Programming Tutorial/7 Tuples.md",
+                "file": "algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Rust Programming Tutorial/7 Tuples.md"
+                "file": "algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md"
               }
             }
           },
@@ -314,14 +181,17 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "f8fee16f1471d681",
+  "active": "9cb3c5d17eeb5c0d",
   "lastOpenFiles": [
-    "R U S T/Rust Programming Tutorial/6 Constants.md",
+    "R U S T/Learn Rust by Building Real App/2 Building a Command Line Application.md",
     "R U S T/Rust Programming Tutorial/7 Tuples.md",
-    "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md",
     "R U S T/Rust Programming Tutorial/5 Enum Types.md",
     "R U S T/Rust Programming Tutorial/4 Loops.md",
     "R U S T/Rust Programming Tutorial/3 If statement.md",
+    "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md",
+    "JAVASCRIPT/DAY JS.md",
+    "REACT NATIVE/plurasight/Building Mobile Apps with React Native/_ 0 React Native Mobile Apps.md",
+    "R U S T/Rust Programming Tutorial/6 Constants.md",
     "R U S T/Rust Programming Tutorial/2 Variables.md",
     "R U S T/Rust Programming Tutorial/1 Hello World App.md",
     "P Y T H O N/OOP Python udemy/8 Descriptors.md",
@@ -333,11 +203,8 @@
     "REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/6 Outputting Content in the Meal Detail Screen.md",
     "REACT NATIVE/React Native Practical Guide/6 Navigation/2. Route parameters.md",
-    "JAVASCRIPT/DAY JS.md",
-    "R U S T/Learn Rust by Building Real App/2 Building a Command Line Application.md",
     "REACT NATIVE/_ Proste aplikacje/Dynamic Digital Clock.md",
     "P Y T H O N/GUI/Firebase full course.md",
-    "REACT NATIVE/plurasight/Building Mobile Apps with React Native/_ 0 React Native Mobile Apps.md",
     "R U S T/Rust by example/_ Rust by Example.md",
     "R U S T/Learn Rust by Building Real App/1 Memory Management.md",
     "R U S T/Learn Rust by Building Real App/_ Learn Rust by Building Apps.md",
