@@ -3,6 +3,11 @@
 # Graf skierowany z wagami - Dijkstra
 (diejkstra)
 #dijkstra
+Graf musi być:
+- skierowany
+- mieć wagi dodatnie
+- bez cykli
+
 
 stacja kolejowa i koszty przejazdu z jednego węzła do drugiego 
 
@@ -69,6 +74,16 @@ koszt dodarcia do C z D to 4 + 3, a to więcej niż aktualna cena z tabeli, wię
 z D dotrzemy do E po koszcie 8 ( 4 z A do D plus 4 z D do e)
 
 ### Czwarty krok
+wybieramy C, bo jest tańsze od E
+  _  | C | P
+ --- | ---| ---
+ A (przetworzony)| 0 | - 
+ B (przetworzony) | 2 | A 
+ C (przetworzony) | 5 | B 
+ D (przetworzony) | 4 | A
+ E (przetworzony)| 7 | C
+taniej jest dostać się do E z C a nie z D, więc aktualizujemy  tabelę
 
+E jest z automotu przetworzony, bo nie ma już dalej
 
 
