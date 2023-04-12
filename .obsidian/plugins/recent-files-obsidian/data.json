@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2 Variables",
+      "path": "R U S T/Rust Programming Tutorial/2 Variables.md"
+    },
+    {
       "basename": "1 Hello World App",
       "path": "R U S T/Rust Programming Tutorial/1 Hello World App.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "1 Rust Calc",
       "path": "R U S T/Rust - FreeCode Beginner/1 Rust Calc.md"
-    },
-    {
-      "basename": "2. Podstawowe koncepcje",
-      "path": "N_O_D_E/NodeJS - fullstack/2. Podstawowe koncepcje.md"
     }
   ],
   "omittedPaths": [],
