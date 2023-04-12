@@ -5,6 +5,10 @@
       "path": "algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md"
     },
     {
+      "basename": "Dijkstra-graf.excalidraw",
+      "path": "Excalidraw/Dijkstra-graf.excalidraw.md"
+    },
+    {
       "basename": "2 Building a Command Line Application",
       "path": "R U S T/Learn Rust by Building Real App/2 Building a Command Line Application.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "0 - Haskell intro",
       "path": "HASKELL/for_great_good/0 - Haskell intro.md"
-    },
-    {
-      "basename": "3 Polishing the Word Game",
-      "path": "HASKELL/learning haskell programming/3 Polishing the Word Game.md"
     }
   ],
   "omittedPaths": [],
