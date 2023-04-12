@@ -44,3 +44,18 @@ main = do
   putStrLn $ "Doubled list: " ++ show doubledList
 
 ```
+
+
+`concat`
+```haskell
+main :: IO ()
+main = do
+  let a = concat ["tom", "jerry", "inkubator"]
+  let b = concat [[1,2,3], [10,20,30,40], [101,202,203,405]]
+  print a
+  print b
+
+output:
+"tomjerryinkubator"
+[1,2,3,10,20,30,40,101,202,203,405]
+```
