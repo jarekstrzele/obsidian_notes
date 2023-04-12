@@ -114,9 +114,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "12d9594ccb6303e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -190,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust Programming Tutorial/4 Loops.md",
+                "file": "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -207,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust Programming Tutorial/4 Loops.md",
+                "file": "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Rust Programming Tutorial/4 Loops.md"
+                "file": "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md"
               }
             }
           },
@@ -278,10 +290,11 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "72a0812690c65a8e",
+  "active": "12d9594ccb6303e7",
   "lastOpenFiles": [
-    "R U S T/Rust Programming Tutorial/3 If statement.md",
+    "R U S T/Rust Programming Tutorial/5 Enum type.md",
     "R U S T/Rust Programming Tutorial/4 Loops.md",
+    "R U S T/Rust Programming Tutorial/3 If statement.md",
     "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md",
     "R U S T/Rust Programming Tutorial/2 Variables.md",
     "R U S T/Rust Programming Tutorial/1 Hello World App.md",
@@ -307,7 +320,6 @@
     "R U S T/Rust Web Book/_ 0 Rust Web Book.md",
     "R U S T/Learn Rust by Building Real App",
     "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/two screen in one window.md",
-    "P Y T H O N/GUI/PyQt/Create GUI App with PyQt/_ Create GUI App with PyQt5.md",
     "P Y T H O N/GUI/PyQt/Create GUI App with PyQt",
     "Data Bases/FireBase",
     "R U S T/Rust Programming Tutorial",

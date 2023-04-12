@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "_ Rust Programming Tutorial",
+      "path": "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md"
+    },
+    {
+      "basename": "5 Enum type",
+      "path": "R U S T/Rust Programming Tutorial/5 Enum type.md"
+    },
+    {
       "basename": "4 Loops",
       "path": "R U S T/Rust Programming Tutorial/4 Loops.md"
     },
     {
       "basename": "3 If statement",
       "path": "R U S T/Rust Programming Tutorial/3 If statement.md"
-    },
-    {
-      "basename": "_ Rust Programming Tutorial",
-      "path": "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md"
     },
     {
       "basename": "2 Variables",
@@ -195,10 +199,6 @@
     {
       "basename": "_ 0 Learining Haskell Programming",
       "path": "HASKELL/learning haskell programming/_ 0 Learining Haskell Programming.md"
-    },
-    {
-      "basename": "makro vs function",
-      "path": "R U S T/Rust - FreeCode Beginner/makro vs function.md"
     }
   ],
   "omittedPaths": [],

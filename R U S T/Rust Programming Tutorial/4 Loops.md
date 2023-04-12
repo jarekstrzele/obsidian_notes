@@ -64,6 +64,41 @@ fn main() {
 }
 ```
 
+with vector:
+```rust
+fn main() {
+    let animals = vec!["rabbit" , "frog", "hors"] ;
+    
+    for a in animals.iter() {
+        println!("Animals: {}", a) ;
+    }
+
+}
+```
+
+
+with value and index from vector:
+```rust
+fn main() {
+    let animals = vec!["rabbit" , "frog", "hors"] ;
+    
+    for (index, animal) in animals.iter().enumerate() {
+        println!("index ({}), animal ({})", index, animal) ;
+    }
+
+}
+
+output:
+index (0), animal (rabbit)
+index (1), animal (frog)
+index (2), animal (hors)
+```
+
+> `iter()` returns a references to the elements of the vector
+> without `iter()` the elements of the vector are copied 
+
+
+
 
 
 
