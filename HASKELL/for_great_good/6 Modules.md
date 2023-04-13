@@ -133,9 +133,11 @@ main = do
   let b = replicate 4 5
   print b
 
-
+[1,1,1,1,2,2,2,2,3,3,3,3]
+[5,5,5,5]
 ```
 
+`and` takes a list  of boolean and returns `True` only if all  the values in the list are  True
 
 
 
