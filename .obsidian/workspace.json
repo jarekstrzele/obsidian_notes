@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md",
+                "file": "HASKELL/for_great_good/6 Modules.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md",
+                "file": "HASKELL/for_great_good/6 Modules.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md",
+                "file": "HASKELL/for_great_good/6 Modules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md"
+                "file": "HASKELL/for_great_good/6 Modules.md"
               }
             }
           },
@@ -183,8 +183,8 @@
   },
   "active": "9cb3c5d17eeb5c0d",
   "lastOpenFiles": [
-    "Excalidraw/Dijkstra-graf.excalidraw.md",
     "algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md",
+    "Excalidraw/Dijkstra-graf.excalidraw.md",
     "R U S T/Learn Rust by Building Real App/2 Building a Command Line Application.md",
     "R U S T/Rust Programming Tutorial/7 Tuples.md",
     "R U S T/Rust Programming Tutorial/5 Enum Types.md",

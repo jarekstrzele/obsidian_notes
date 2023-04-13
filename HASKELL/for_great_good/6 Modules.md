@@ -110,3 +110,47 @@ ghci> map sum $ transpose [[0,3,5,9],[10,0,0,9],[8,5,1,-1]]  
 
 output: [18,8,6,17]
 ```
+
+
+`concat` flattens a list  of lists  into just  just a list of elements
+```haskell
+1.  ghci> concat ["foo","bar","car"]  
+2.  "foobarcar"  
+3.  ghci> concat [[3,4,5],[2,3,4],[2,1,1]]  
+4.  [3,4,5,2,3,4,2,1,1]
+```
+
+`concatMap` maps and concats list
+```haskell
+1.  ghci> concatMap (replicate 4) [1..3]  
+2.  [1,1,1,1,2,2,2,2,3,3,3,3]
+
+-- Funkcja main
+main :: IO ()
+main = do
+  let a = concatMap (replicate 4) [1..3]
+  print a
+  let b = replicate 4 5
+  print b
+
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
