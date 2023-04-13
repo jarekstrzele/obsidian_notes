@@ -42,6 +42,7 @@ moduł script1
 ```
 zawartość pliku script1.js jest prywatna oprócz funkcji add
 
+funkcja `require()` wykonała cały plik `s`
 
 
 -------

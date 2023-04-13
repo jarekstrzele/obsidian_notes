@@ -9,6 +9,10 @@
       "path": "N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md"
     },
     {
+      "basename": "2. Podstawowe koncepcje",
+      "path": "N_O_D_E/NodeJS - fullstack/2. Podstawowe koncepcje.md"
+    },
+    {
       "basename": "Firebase full course",
       "path": "P Y T H O N/GUI/Firebase full course.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "3 - Algorytmy grafowe",
       "path": "algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md"
-    },
-    {
-      "basename": "2. Podstawowe koncepcje",
-      "path": "N_O_D_E/NodeJS - fullstack/2. Podstawowe koncepcje.md"
     },
     {
       "basename": "1 Node Module System",
