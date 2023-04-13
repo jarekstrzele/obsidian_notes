@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "2.2. Buffer",
-      "path": "N_O_D_E/NodeJS - fullstack/2.2. Buffer.md"
-    },
-    {
       "basename": "2. Podstawowe koncepcje",
       "path": "N_O_D_E/NodeJS - fullstack/2. Podstawowe koncepcje.md"
+    },
+    {
+      "basename": "2.3. Stream",
+      "path": "N_O_D_E/NodeJS - fullstack/2.3. Stream.md"
+    },
+    {
+      "basename": "2.2. Buffer",
+      "path": "N_O_D_E/NodeJS - fullstack/2.2. Buffer.md"
     },
     {
       "basename": "2.1. Zdarzenia",
@@ -195,10 +199,6 @@
     {
       "basename": "4 Data Type Primitive",
       "path": "R U S T/Tech with TIm Rust/4 Data Type Primitive.md"
-    },
-    {
-      "basename": "8 Functions, Expressions, Statements",
-      "path": "R U S T/Tech with TIm Rust/8 Functions, Expressions, Statements.md"
     }
   ],
   "omittedPaths": [],
