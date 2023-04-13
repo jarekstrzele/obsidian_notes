@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ce92d0588283d35b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "N_O_D_E/NodeJS - fullstack/2.4. Process.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/2.3. Stream.md",
+                "file": "N_O_D_E/NodeJS - fullstack/2.4. Process.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -147,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/2.3. Stream.md",
+                "file": "N_O_D_E/NodeJS - fullstack/2.4. Process.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/2.3. Stream.md"
+                "file": "N_O_D_E/NodeJS - fullstack/2.4. Process.md"
               }
             }
           },
@@ -218,9 +230,10 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "c64c7f61545bb498",
+  "active": "ce92d0588283d35b",
   "lastOpenFiles": [
     "N_O_D_E/NodeJS - fullstack/2. Podstawowe koncepcje.md",
+    "N_O_D_E/NodeJS - fullstack/2.4. Process.md",
     "N_O_D_E/NodeJS - fullstack/2.3. Stream.md",
     "N_O_D_E/NodeJS - fullstack/2.2. Buffer.md",
     "N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md",
@@ -245,7 +258,6 @@
     "R U S T/Rust Programming Tutorial/6 Constants.md",
     "R U S T/Rust Programming Tutorial/2 Variables.md",
     "R U S T/Rust Programming Tutorial/1 Hello World App.md",
-    "P Y T H O N/OOP Python udemy/8 Descriptors.md",
     "R U S T/Rust by example",
     "R U S T/Learn Rust by Building Real App",
     "P Y T H O N/GUI/PyQt/Create GUI App with PyQt",

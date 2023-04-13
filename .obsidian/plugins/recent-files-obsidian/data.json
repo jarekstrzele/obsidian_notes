@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "2.3. Stream",
-      "path": "N_O_D_E/NodeJS - fullstack/2.3. Stream.md"
+      "basename": "2.4. Process",
+      "path": "N_O_D_E/NodeJS - fullstack/2.4. Process.md"
     },
     {
       "basename": "2. Podstawowe koncepcje",
       "path": "N_O_D_E/NodeJS - fullstack/2. Podstawowe koncepcje.md"
+    },
+    {
+      "basename": "2.3. Stream",
+      "path": "N_O_D_E/NodeJS - fullstack/2.3. Stream.md"
     },
     {
       "basename": "2.2. Buffer",
@@ -195,10 +199,6 @@
     {
       "basename": "_ 0 Modern GUIs Python",
       "path": "P Y T H O N/GUI/Tkinter/modern GUIs/_ 0 Modern GUIs Python.md"
-    },
-    {
-      "basename": "4 Data Type Primitive",
-      "path": "R U S T/Tech with TIm Rust/4 Data Type Primitive.md"
     }
   ],
   "omittedPaths": [],
