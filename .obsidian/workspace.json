@@ -11,11 +11,9 @@
             "id": "9cb3c5d17eeb5c0d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Dijkstra-graf.excalidraw.md"
               }
             }
           }
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md",
+                "file": "Excalidraw/Dijkstra-graf.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md",
+                "file": "Excalidraw/Dijkstra-graf.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md"
+                "file": "Excalidraw/Dijkstra-graf.excalidraw.md"
               }
             }
           },
@@ -183,6 +181,7 @@
   },
   "active": "9cb3c5d17eeb5c0d",
   "lastOpenFiles": [
+    "algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md",
     "N_O_D_E/NodeJS - fullstack/2. Podstawowe koncepcje.md",
     "N_O_D_E/Mosh Node/1 Node Module System.md",
     "N_O_D_E/Mosh Node/_ 0 Node (Mosh).md",
@@ -191,7 +190,6 @@
     "N_O_D_E/NodeJS - fullstack/1 Moduły.md",
     "N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md",
     "HASKELL/for_great_good/6 Modules.md",
-    "algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md",
     "Excalidraw/Dijkstra-graf.excalidraw.md",
     "R U S T/Learn Rust by Building Real App/2 Building a Command Line Application.md",
     "R U S T/Rust Programming Tutorial/7 Tuples.md",

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Dijkstra-graf.excalidraw",
+      "path": "Excalidraw/Dijkstra-graf.excalidraw.md"
+    },
+    {
       "basename": "3 - Algorytmy grafowe",
       "path": "algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "6 Modules",
       "path": "HASKELL/for_great_good/6 Modules.md"
-    },
-    {
-      "basename": "Dijkstra-graf.excalidraw",
-      "path": "Excalidraw/Dijkstra-graf.excalidraw.md"
     },
     {
       "basename": "2 Building a Command Line Application",
