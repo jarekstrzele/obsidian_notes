@@ -46,7 +46,7 @@ funkcja `require()` wykonała cały plik `script1`, a to co zwrócił ten plik z
 
 
 -------
-## Importowanie katalogów
+# Importowanie katalogów
 
 w fodlerze `calc` jest m.in.
 index.js
@@ -76,6 +76,10 @@ main moduł
 11
 ```
 
+
+
+----
+# package.json
 można też do folderu `calc` dodać `package.json`
 zmieńmy nazwę `index.js` na `my_calc.js`
 ```json
@@ -92,9 +96,11 @@ zmieńmy nazwę `index.js` na `my_calc.js`
 
 
 --------------------
+# Parsowanie .json
 Możem importować:
 - katalogi,
-- pliku
+- pliki js
+- oraz również pliki z rozszerzeniem `json`
 
 automatyczne parsowanie json
  w folderze `calc` obok `package.json` utworzę plik `config.json`
@@ -113,7 +119,7 @@ const divide = require("./divide")
 module.exports ={
 	add: add,
 	divide: divide ,
-	config: require("./config")
+	config: require("./config") // JS będzie szukał katalogu, pliku .js, jak nie uda się, to poszuka pliku json i go sparsuje do zwykłego obiektu JS
 }
 ```
 
@@ -121,7 +127,7 @@ jako obiekt będzie config dostępne w main np. `calc.config.name`
 
 -----------
 
-Node pakuje zawartość pliku do specjalnej funkcji
+# Node pakuje zawartość pliku do specjalnej funkcji
 
 np. 
 script1.js
@@ -147,8 +153,10 @@ zamieni na
 
 ```
 
-`__filename` ścieżka do pliku
-`__dirname` siećka do folderu
+
+-----------
+### `__filename` ścieżka do pliku
+### `__dirname` ścieżka do folderu
 
 ```js
 const calc = require("./calc/my_calc") ; // calc to folder, w którym jest index.js
