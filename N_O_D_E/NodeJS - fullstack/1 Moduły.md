@@ -32,7 +32,7 @@ function add(x,y){
         return x + y
 };
 
-module.exports = add;
+module.exports = add; // przekazujemy referencję do funkcji
 ```
 
 ```bash
@@ -42,7 +42,7 @@ moduł script1
 ```
 zawartość pliku script1.js jest prywatna oprócz funkcji add
 
-funkcja `require()` wykonała cały plik `s`
+funkcja `require()` wykonała cały plik `script1`, a to co zwrócił ten plik została zapisane w zmiennej add w pliku `main`
 
 
 -------
@@ -61,7 +61,7 @@ module.exports ={
 ```
 main.js
 ```js
-const calc = require("./calc") ; // calc to folder, w którym jest index.js
+const calc = require("./calc") ; // calc to folder, w którym jest index.js i JS będzie szukać index.js
 
 console.log("main moduł")
 
@@ -83,8 +83,19 @@ zmieńmy nazwę `index.js` na `my_calc.js`
 "main": "my_calc.js"
 }
 ```
+`node main` -> będzie szukał pliku `index` w folderze `calc`,
+	nie znajdzie go, więc
+	zacznie szukać `package.json`, znalazł, więc
+	sprawdzi wartość atrybutu `main` i wykona plik, który jest wartością tego atrybutu, czyli `my_calc.js`
+	
+
+
 
 --------------------
+Możem importować:
+- katalogi,
+- pliku
+
 automatyczne parsowanie json
  w folderze `calc` obok `package.json` utworzę plik `config.json`
 ```js
