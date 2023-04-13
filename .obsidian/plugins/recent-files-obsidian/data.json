@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "3 - Algorytmy grafowe",
+      "path": "algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md"
+    },
+    {
       "basename": "2. Podstawowe koncepcje",
       "path": "N_O_D_E/NodeJS - fullstack/2. Podstawowe koncepcje.md"
     },
@@ -31,10 +35,6 @@
     {
       "basename": "6 Modules",
       "path": "HASKELL/for_great_good/6 Modules.md"
-    },
-    {
-      "basename": "3 - Algorytmy grafowe",
-      "path": "algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md"
     },
     {
       "basename": "Dijkstra-graf.excalidraw",
