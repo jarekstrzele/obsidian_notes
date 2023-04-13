@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "2. Podstawowe koncepcje",
+      "path": "N_O_D_E/NodeJS - fullstack/2. Podstawowe koncepcje.md"
+    },
+    {
+      "basename": "1 Node Module System",
+      "path": "N_O_D_E/Mosh Node/1 Node Module System.md"
+    },
+    {
+      "basename": "_ 0 Node (Mosh)",
+      "path": "N_O_D_E/Mosh Node/_ 0 Node (Mosh).md"
+    },
+    {
+      "basename": "3 Node Basics",
+      "path": "N_O_D_E/NODE - the complete guide/3 Node Basics.md"
+    },
+    {
+      "basename": "_0 Node Complete Guide",
+      "path": "N_O_D_E/NODE - the complete guide/_0 Node Complete Guide.md"
+    },
+    {
+      "basename": "1 Moduły",
+      "path": "N_O_D_E/NodeJS - fullstack/1 Moduły.md"
+    },
+    {
+      "basename": "_ 0 NodeJS - zostań fullstack",
+      "path": "N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md"
+    },
+    {
       "basename": "6 Modules",
       "path": "HASKELL/for_great_good/6 Modules.md"
     },
@@ -171,34 +199,6 @@
     {
       "basename": "6 Arithmetic",
       "path": "R U S T/Tech with TIm Rust/6 Arithmetic.md"
-    },
-    {
-      "basename": "5 Console input",
-      "path": "R U S T/Tech with TIm Rust/5 Console input.md"
-    },
-    {
-      "basename": "2 Using Rust Tools (cargo, rustfmt)",
-      "path": "R U S T/Tech with TIm Rust/2 Using Rust Tools (cargo, rustfmt).md"
-    },
-    {
-      "basename": "_ Rust Tech with Tim",
-      "path": "R U S T/Tech with TIm Rust/_ Rust Tech with Tim.md"
-    },
-    {
-      "basename": "5 Higher order functions",
-      "path": "HASKELL/for_great_good/5 Higher order functions.md"
-    },
-    {
-      "basename": "2 Rust Combiner",
-      "path": "R U S T/Rust - FreeCode Beginner/2 Rust Combiner.md"
-    },
-    {
-      "basename": "3 Variables, Constants and Shadowing",
-      "path": "R U S T/Tech with TIm Rust/3 Variables, Constants and Shadowing.md"
-    },
-    {
-      "basename": "0 - Haskell intro",
-      "path": "HASKELL/for_great_good/0 - Haskell intro.md"
     }
   ],
   "omittedPaths": [],
