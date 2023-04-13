@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "eedc4cb1acc8bcdd",
+        "id": "b033a3f0d258838a",
         "type": "tabs",
         "children": [
           {
-            "id": "9cb3c5d17eeb5c0d",
+            "id": "e340d53ca152ba7c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Dijkstra-graf.excalidraw.md"
+                "file": "P Y T H O N/GUI/Firebase full course.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -75,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 433.0110321044922
+    "width": 373.00418853759766
   },
   "right": {
     "id": "ec7d1a70da2de581",
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Dijkstra-graf.excalidraw.md",
+                "file": "P Y T H O N/GUI/Firebase full course.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Dijkstra-graf.excalidraw.md",
+                "file": "P Y T H O N/GUI/Firebase full course.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Dijkstra-graf.excalidraw.md"
+                "file": "P Y T H O N/GUI/Firebase full course.md"
               }
             }
           },
@@ -179,8 +181,9 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "9cb3c5d17eeb5c0d",
+  "active": "e340d53ca152ba7c",
   "lastOpenFiles": [
+    "Excalidraw/Dijkstra-graf.excalidraw.md",
     "algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md",
     "N_O_D_E/NodeJS - fullstack/2. Podstawowe koncepcje.md",
     "N_O_D_E/Mosh Node/1 Node Module System.md",
@@ -190,7 +193,6 @@
     "N_O_D_E/NodeJS - fullstack/1 Moduły.md",
     "N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md",
     "HASKELL/for_great_good/6 Modules.md",
-    "Excalidraw/Dijkstra-graf.excalidraw.md",
     "R U S T/Learn Rust by Building Real App/2 Building a Command Line Application.md",
     "R U S T/Rust Programming Tutorial/7 Tuples.md",
     "R U S T/Rust Programming Tutorial/5 Enum Types.md",
