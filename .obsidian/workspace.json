@@ -67,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -141,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md",
+                "file": "algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -158,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md",
+                "file": "algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md"
+                "file": "algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md"
               }
             }
           },
@@ -229,15 +230,15 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "e340d53ca152ba7c",
+  "active": "ce92d0588283d35b",
   "lastOpenFiles": [
+    "N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md",
     "N_O_D_E/NodeJS - fullstack/2. Podstawowe koncepcje.md",
     "algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md",
     "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/two screen in one window.md",
     "P Y T H O N/GUI/Firebase full course.md",
     "N_O_D_E/NodeJS - fullstack/2.3. Stream.md",
     "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/Multiple Screens.md",
-    "N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md",
     "N_O_D_E/NodeJS - fullstack/2.2. Buffer.md",
     "N_O_D_E/NodeJS - fullstack/1 Moduły.md",
     "N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md",
