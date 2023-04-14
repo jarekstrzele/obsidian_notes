@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "2.1. Zdarzenia",
+      "path": "N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md"
+    },
+    {
+      "basename": "2. Podstawowe koncepcje",
+      "path": "N_O_D_E/NodeJS - fullstack/2. Podstawowe koncepcje.md"
+    },
+    {
+      "basename": "3 - Algorytmy grafowe",
+      "path": "algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md"
+    },
+    {
+      "basename": "two screen in one window",
+      "path": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/two screen in one window.md"
+    },
+    {
       "basename": "Firebase full course",
       "path": "P Y T H O N/GUI/Firebase full course.md"
     },
@@ -9,24 +25,12 @@
       "path": "N_O_D_E/NodeJS - fullstack/2.3. Stream.md"
     },
     {
-      "basename": "two screen in one window",
-      "path": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/two screen in one window.md"
-    },
-    {
       "basename": "Multiple Screens",
       "path": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/Multiple Screens.md"
     },
     {
-      "basename": "2.1. Zdarzenia",
-      "path": "N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md"
-    },
-    {
       "basename": "2.2. Buffer",
       "path": "N_O_D_E/NodeJS - fullstack/2.2. Buffer.md"
-    },
-    {
-      "basename": "2. Podstawowe koncepcje",
-      "path": "N_O_D_E/NodeJS - fullstack/2. Podstawowe koncepcje.md"
     },
     {
       "basename": "1 Moduły",
@@ -43,10 +47,6 @@
     {
       "basename": "Dijkstra-graf.excalidraw",
       "path": "Excalidraw/Dijkstra-graf.excalidraw.md"
-    },
-    {
-      "basename": "3 - Algorytmy grafowe",
-      "path": "algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md"
     },
     {
       "basename": "1 Node Module System",
