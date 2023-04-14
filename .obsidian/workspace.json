@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/2.3. Stream.md",
+                "file": "P Y T H O N/GUI/Firebase full course.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,14 +61,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md",
+                "file": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/two screen in one window.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md",
+                "file": "P Y T H O N/GUI/Firebase full course.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md",
+                "file": "P Y T H O N/GUI/Firebase full course.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md"
+                "file": "P Y T H O N/GUI/Firebase full course.md"
               }
             }
           },
@@ -230,16 +230,18 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "ce92d0588283d35b",
+  "active": "c64c7f61545bb498",
   "lastOpenFiles": [
-    "N_O_D_E/NodeJS - fullstack/2.2. Buffer.md",
+    "N_O_D_E/NodeJS - fullstack/2.3. Stream.md",
+    "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/two screen in one window.md",
+    "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/Multiple Screens.md",
+    "P Y T H O N/GUI/Firebase full course.md",
     "N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md",
+    "N_O_D_E/NodeJS - fullstack/2.2. Buffer.md",
     "N_O_D_E/NodeJS - fullstack/2. Podstawowe koncepcje.md",
     "N_O_D_E/NodeJS - fullstack/1 Moduły.md",
     "N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md",
     "N_O_D_E/NodeJS - fullstack/2.4. Process.md",
-    "N_O_D_E/NodeJS - fullstack/2.3. Stream.md",
-    "P Y T H O N/GUI/Firebase full course.md",
     "Excalidraw/Dijkstra-graf.excalidraw.md",
     "algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md",
     "N_O_D_E/Mosh Node/1 Node Module System.md",
@@ -256,8 +258,6 @@
     "JAVASCRIPT/DAY JS.md",
     "REACT NATIVE/plurasight/Building Mobile Apps with React Native/_ 0 React Native Mobile Apps.md",
     "R U S T/Rust Programming Tutorial/6 Constants.md",
-    "R U S T/Rust Programming Tutorial/2 Variables.md",
-    "R U S T/Rust Programming Tutorial/1 Hello World App.md",
     "R U S T/Rust by example",
     "R U S T/Learn Rust by Building Real App",
     "P Y T H O N/GUI/PyQt/Create GUI App with PyQt",
