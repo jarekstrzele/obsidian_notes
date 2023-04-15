@@ -5,6 +5,8 @@ wydanie 2019 #helion
 Zawartość książki:
 
 Rozdział 1., *Poznawanie potencjału języka JavaScript*, zawiera przedstawienie języka JavaScript — jego historii, ekosystemu oraz możliwości wykorzystania w zagadnieniach uczenia maszynowego.
+[[1 Poznawanie potencjału języka JS]]
+
 
 Rozdział 2., *Badanie danych* jest poświęcony danym, które są niezbędne dla każdego algorytmu uczenia maszynowego, oraz przeróżnym rzeczom, które można robić, by wstępnie przetwarzać te dane i przygotowywać do użycia w algorytmach uczenia maszynowego.
 

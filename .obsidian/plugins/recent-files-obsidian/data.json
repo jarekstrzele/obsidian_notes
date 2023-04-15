@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "1 Poznawanie potencjału języka JS",
+      "path": "A I/JS uczenie maszynowe/1 Poznawanie potencjału języka JS.md"
+    },
+    {
       "basename": "_ 0 Uczenie maszynowe z JS",
       "path": "A I/JS uczenie maszynowe/_ 0 Uczenie maszynowe z JS.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "8 Datatypes",
       "path": "HASKELL/Haskell for Imperative Programmers/8 Datatypes.md"
-    },
-    {
-      "basename": "7 Folding",
-      "path": "HASKELL/Haskell for Imperative Programmers/7 Folding.md"
     }
   ],
   "omittedPaths": [],
