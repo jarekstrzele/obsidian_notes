@@ -243,7 +243,53 @@ println!("{} {} ", s1, s2) ;
 }
 ```
 
+this code generates an error:
+```rust
+fn main() {
+
+println!("Write your weight on Earth: ") ;
+
+let mut input = String::new() ;
+	let s1 = &input ;
+	let mut s2 = &mut input; //mutable
+
+println!("{} {} ", s1, s2) ;
+
+println!("Ok") ;
+```
 
 
+ok code
+```rust
+fn main() {
 
+println!("Write your weight on Earth: ") ;
 
+let mut input = String::new() ;
+
+io::stdin().read_line(&mut input) ;
+
+  
+
+borrow_string(&input) ;
+
+own_string(input)
+
+}
+
+  
+
+fn borrow_string(s: &String){
+
+println!("{}", s) ;
+
+}
+
+  
+
+fn own_string(s: String){
+
+println!("{}", s) ;
+
+}
+```
