@@ -204,8 +204,43 @@ fn some_fn(s: &String){} ; // `s` is not the owner of the String
 >[!inportent] Borrowing
 >Passing references as parameters
 
-**references** are mu
 
+## **references** are immutable by default
+```rust
+fn some_fn(s: &String){
+	s.push_str("a") ; // it generates an error because the s is a immutable by default
+} ; 
+```
+
+## mutable **references**
+```rust
+fn main() {
+	let mut input == String::new() ;
+	some_fn(&mut input) ; // mutable reference
+	let mut s = input ;
+	io::stdin().read_line(&mut input) ;
+}
+
+// mutable reference
+fn some_fn(s: &mut String){
+	s.push_str("a") ; 
+} ; // `
+```
+
+
+## restrictions 
+this code is correct (two variables with the same immutable reference)
+```rust
+fn main() {
+
+println!("Write your weight on Earth: ") ;
+
+let mut input = String::new() ;
+
+let s1 = &input ;
+let s2 = &input;
+}
+```
 
 
 
