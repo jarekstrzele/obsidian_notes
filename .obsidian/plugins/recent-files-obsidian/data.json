@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2 Badanie danych",
+      "path": "A I/JS uczenie maszynowe/2 Badanie danych.md"
+    },
+    {
+      "basename": "_ 0 Uczenie maszynowe z JS",
+      "path": "A I/JS uczenie maszynowe/_ 0 Uczenie maszynowe z JS.md"
+    },
+    {
       "basename": "1 Poznawanie potencjału języka JS",
       "path": "A I/JS uczenie maszynowe/1 Poznawanie potencjału języka JS.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "_ Learn Rust by Building Apps",
       "path": "R U S T/Learn Rust by Building Real App/_ Learn Rust by Building Apps.md"
-    },
-    {
-      "basename": "_ 0 Uczenie maszynowe z JS",
-      "path": "A I/JS uczenie maszynowe/_ 0 Uczenie maszynowe z JS.md"
     },
     {
       "basename": "UBUNTU",
@@ -195,10 +199,6 @@
     {
       "basename": "two screen in one window",
       "path": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/two screen in one window.md"
-    },
-    {
-      "basename": "8 Datatypes",
-      "path": "HASKELL/Haskell for Imperative Programmers/8 Datatypes.md"
     }
   ],
   "omittedPaths": [],

@@ -12,6 +12,10 @@ ważne wydarzenie:
 
 2015 *TensorFlow* biblioteka od Google służąca do tworzenie i wykorzystania sieci neuronowych 
 
-# 
+# JS
+**CommonJs** (od 2009)
+	`require('./ap')`
+	`package.json`
+	`module.exports`
 
 

@@ -9,6 +9,10 @@ Rozdział 1., *Poznawanie potencjału języka JavaScript*, zawiera przedstawieni
 
 
 Rozdział 2., *Badanie danych* jest poświęcony danym, które są niezbędne dla każdego algorytmu uczenia maszynowego, oraz przeróżnym rzeczom, które można robić, by wstępnie przetwarzać te dane i przygotowywać do użycia w algorytmach uczenia maszynowego.
+[[2 Badanie danych]]
+
+
+
 
 Rozdział 3., *Przegląd algorytmów uczenia maszynowego*, zabiera Cię w krótką podróż po świecie uczenia maszynowego, dzieląc go przy tym na kategorie i rodziny algorytmów, które przede wszystkim mają Ci pomóc w poruszaniu się po tym nieznanym terytorium.
 
