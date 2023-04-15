@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "_ 0 Uczenie maszynowe z JS",
+      "path": "A I/JS uczenie maszynowe/_ 0 Uczenie maszynowe z JS.md"
+    },
+    {
+      "basename": "_ Uczenie Maszynowe  Helion Piotr Szajowski",
+      "path": "A I/uczenie maszynowe/_ Uczenie Maszynowe  Helion Piotr Szajowski.md"
+    },
+    {
       "basename": "2 Building a Command Line Application",
       "path": "R U S T/Learn Rust by Building Real App/2 Building a Command Line Application.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "7 Folding",
       "path": "HASKELL/Haskell for Imperative Programmers/7 Folding.md"
-    },
-    {
-      "basename": "6 Composition",
-      "path": "HASKELL/Haskell for Imperative Programmers/6 Composition.md"
-    },
-    {
-      "basename": "4 Recursion",
-      "path": "HASKELL/for_great_good/4 Recursion.md"
     }
   ],
   "omittedPaths": [],
