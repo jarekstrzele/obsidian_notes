@@ -239,6 +239,7 @@ let mut input = String::new() ;
 
 let s1 = &input ;
 let s2 = &input;
+println!("{} {} ", s1, s2) ;
 }
 ```
 

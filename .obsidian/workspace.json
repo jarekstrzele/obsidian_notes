@@ -4,155 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9a5922b231104c72",
+        "id": "2d06e6ca9964c940",
         "type": "tabs",
         "children": [
           {
-            "id": "dd6e3bf76a85b059",
+            "id": "0fc539feb3017148",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f13dd675cffe6309",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "627a79bccbdfa935",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/2. Podstawowe koncepcje.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a17117711691ad32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/CheckList.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c099220f5467aef2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "15dfaebabd37093c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0d54b6c970364990",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "P Y T H O N/urllib.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bbf4d5ba7aa16808",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A I/JS uczenie maszynowe/1 Poznawanie potencjału języka JS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bc33c31006e8ee21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A I/JS uczenie maszynowe/2 Badanie danych.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "843cacd6c0e3fe27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A I/JS uczenie maszynowe/_ 0 Uczenie maszynowe z JS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d6943f82993e0de9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A I/JS uczenie maszynowe/1 Poznawanie potencjału języka JS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8d79a884d7999dbe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HASKELL/for_great_good/6 Modules.md",
+                "file": "R U S T/Learn Rust by Building Real App/2 Building a Command Line Application.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -226,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A I/JS uczenie maszynowe/2 Badanie danych.md",
+                "file": "R U S T/Learn Rust by Building Real App/2 Building a Command Line Application.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -243,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A I/JS uczenie maszynowe/2 Badanie danych.md",
+                "file": "R U S T/Learn Rust by Building Real App/2 Building a Command Line Application.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A I/JS uczenie maszynowe/2 Badanie danych.md"
+                "file": "R U S T/Learn Rust by Building Real App/2 Building a Command Line Application.md"
               }
             }
           },
@@ -306,11 +173,14 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "bc33c31006e8ee21",
+  "active": "0fc539feb3017148",
   "lastOpenFiles": [
+    "N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md",
+    "A I/JS uczenie maszynowe/1 Poznawanie potencjału języka JS.md",
     "A I/JS uczenie maszynowe/_ 0 Uczenie maszynowe z JS.md",
     "A I/JS uczenie maszynowe/2 Badanie danych.md",
-    "A I/JS uczenie maszynowe/1 Poznawanie potencjału języka JS.md",
+    "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/CheckList.md",
+    "REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
     "A I/uczenie maszynowe/_ Uczenie Maszynowe  Helion Piotr Szajowski.md",
     "R U S T/Learn Rust by Building Real App/2 Building a Command Line Application.md",
     "R U S T/Learn Rust by Building Real App/1 Memory Management.md",
@@ -332,9 +202,6 @@
     "Excalidraw/Dijkstra-graf.excalidraw.md",
     "P Y T H O N/GUI/get_url.md",
     "HASKELL/for_great_good/6 Modules.md",
-    "HASKELL/for_great_good/5 Higher order functions.md",
-    "REACT NATIVE/_ Proste aplikacje/Dynamic Digital Clock.md",
-    "R U S T/Tech with TIm Rust/_ Rust Tech with Tim.md",
     "R U S T/Tech with TIm Rust",
     "R U S T/Rust by example",
     "R U S T/Rust Web Book",
