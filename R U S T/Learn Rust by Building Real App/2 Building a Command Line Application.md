@@ -124,6 +124,8 @@ it is OK
 use std::io ;
 
 fn main() {
+
+	// String is  Struct
     let mut input = String::new() ;
     io::stdin().read_line(&mut input) ;
 
@@ -140,6 +142,20 @@ fn calculagte_weight_on_mars(weight: f32) -> f32{
 
 ----
 # OWNERSHIP
+
+There are three ownership rules in Rust:
+==1. Each value in Rust is owned by a variable.==
+in the function body there is :
+	`let mut input == String::new();` the string is owned by `input` variable
+When the function exits, the drop function on the string will be invoked automatically by the compile
+
+==2. When the owner goes out of scope, the value will be deallocated==
+
+
+==3. There can only be ONE owner at a time.==
+
+
+
 
 
 
