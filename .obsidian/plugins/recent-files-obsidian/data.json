@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "2 Building a Command Line Application",
+      "path": "R U S T/Learn Rust by Building Real App/2 Building a Command Line Application.md"
+    },
+    {
+      "basename": "1 Memory Management",
+      "path": "R U S T/Learn Rust by Building Real App/1 Memory Management.md"
+    },
+    {
+      "basename": "_ Learn Rust by Building Apps",
+      "path": "R U S T/Learn Rust by Building Real App/_ Learn Rust by Building Apps.md"
+    },
+    {
       "basename": "UBUNTU",
       "path": "linux/UBUNTU.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "4 Recursion",
       "path": "HASKELL/for_great_good/4 Recursion.md"
-    },
-    {
-      "basename": "150 ćw OOP w Python",
-      "path": "P Y T H O N/150 ćw OOP w Python.md"
-    },
-    {
-      "basename": "7 Adding Header Button",
-      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/7 Adding Header Button.md"
-    },
-    {
-      "basename": "5 Adding and Configuring the Meal Details Screen",
-      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/5 Adding and Configuring the Meal Details Screen.md"
     }
   ],
   "omittedPaths": [],

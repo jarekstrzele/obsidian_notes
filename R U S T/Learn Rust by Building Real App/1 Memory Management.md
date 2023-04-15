@@ -9,7 +9,7 @@
 
 >[!info] Stack
 >It is a special region of the process memory that stores variables created by each function
-> > The memory for each functio is called ==a stock frame==:
+> > The memory for each function is called ==a stock frame==:
 > > 	- this is where our local variables ive for every function
 >  
 >  > For every function call a new stack frame is allocated on top of the current one
@@ -23,7 +23,7 @@
 
 --------
 # Heap
-- it is a region of tjhe process memory that is NOT automatically managed
+- it is a region of the process memory that is NOT automatically managed
 - it has no size restrictions
 - it is accessible by any function, anywhere in the program
 - heaap allocations are expensive and we should avoid them when possible
