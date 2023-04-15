@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A I/uczenie maszynowe/_ Uczenie Maszynowe  Helion Piotr Szajowski.md",
+                "file": "A I/JS uczenie maszynowe/1 Poznawanie potencjału języka JS.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -294,15 +294,15 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "d6943f82993e0de9",
+  "active": "bbf4d5ba7aa16808",
   "lastOpenFiles": [
-    "A I/JS uczenie maszynowe/_ 0 Uczenie maszynowe z JS.md",
-    "A I/JS uczenie maszynowe/1 Poznawanie potencjału języka JS.md",
     "A I/uczenie maszynowe/_ Uczenie Maszynowe  Helion Piotr Szajowski.md",
-    "A I/JS uczenie maszynowe",
     "R U S T/Learn Rust by Building Real App/2 Building a Command Line Application.md",
     "R U S T/Learn Rust by Building Real App/1 Memory Management.md",
     "R U S T/Learn Rust by Building Real App/_ Learn Rust by Building Apps.md",
+    "A I/JS uczenie maszynowe/1 Poznawanie potencjału języka JS.md",
+    "A I/JS uczenie maszynowe/_ 0 Uczenie maszynowe z JS.md",
+    "A I/JS uczenie maszynowe",
     "linux/UBUNTU.md",
     "HASKELL/Simple Haskell File - Structure.md",
     "R U S T/Rust Programming Tutorial/7 Tuples.md",
