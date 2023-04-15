@@ -164,12 +164,47 @@ io::stdin().read_line(&mut input) ;
 ```
 this code generates an error, because you use `input` as a parameter of `read_line` function, but you transfered the ownership of the string to the variable `s`
 
-The string exists on the heap. When you will do the same with the numebr (it )
+The string exists on the heap. When you will do the same with the numebr (it exists on the stack), the value will be copy to a new variable.
+```rust
+let a = 5;
+let b = a; // the 5 will be copied to the b
+
+```
+this code won't generate an error
+
+A PROBLEM: when you pass a variable to the function as a argument, you transfer the ownership, so
+this code generate an error:
+```rust
+fn main() {
+	let mut input == String::new() ;
+	some_fn(input) ; //this line transfer the ownership of the string from `input` to the function `some_fn`
+	let mut s = input ;
+	io::stdin().read_line(&mut input) ;
+}
+
+fn some_fn(s: String){} ; // `s` will be the owner of the String
+```
 
 
+------
+# References and Borrowing
+```rust
+fn main() {
+	let mut input == String::new() ;
+	some_fn(&input) ; // Now you pass the reference not the value
+	let mut s = input ;
+	io::stdin().read_line(&mut input) ;
+}
 
+// Now the function expects a reference
+// the function just borrows the string
+fn some_fn(s: &String){} ; // `s` is not the owner of the String
+```
 
+>[!inportent] Borrowing
+>Passing references as parameters
 
+**references** are mu
 
 
 
