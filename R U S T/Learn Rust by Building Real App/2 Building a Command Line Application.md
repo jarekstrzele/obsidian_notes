@@ -146,15 +146,25 @@ fn calculagte_weight_on_mars(weight: f32) -> f32{
 There are three ownership rules in Rust:
 ==1. Each value in Rust is owned by a variable.==
 in the function body there is :
-	`let mut input == String::new();` the string is owned by `input` variable
-When the function exits, the drop function on the string will be invoked automatically by the compile
+```rust
+let mut input == String::new() ;
+io::stdin().read_line(&mut input) ;
+```
+the string is owned by `input` variable
+
 
 ==2. When the owner goes out of scope, the value will be deallocated==
-
+When the function exits, the drop function on the string will be invoked automatically by the compile
 
 ==3. There can only be ONE owner at a time.==
+```rust
+let mut input == String::new() ;
+let mut s = input ;
+io::stdin().read_line(&mut input) ;
+```
+this code generates an error, because you use `input` as a parameter of `read_line` function, but you transfered the ownership of the string to the variable `s`
 
-
+The string exists on the heap. When you will do the same with the numebr (it )
 
 
 
