@@ -5,6 +5,10 @@
       "path": "R U S T/Learn Rust by Building Real App/2 Building a Command Line Application.md"
     },
     {
+      "basename": "0-Seaborn wprowadzeni",
+      "path": "P Y T H O N/Data Science BootCamp od A do Z 2022/Wizualizacja danych/0-Seaborn wprowadzeni.md"
+    },
+    {
       "basename": "_ 0 NodeJS - zostań fullstack",
       "path": "N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Drawer Navigator",
       "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer or Bottom-Tabs Navigators/Drawer Navigator.md"
-    },
-    {
-      "basename": "two screen in one window",
-      "path": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/two screen in one window.md"
     }
   ],
   "omittedPaths": [],

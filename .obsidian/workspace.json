@@ -11,8 +11,12 @@
             "id": "0fc539feb3017148",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "R U S T/Learn Rust by Building Real App/2 Building a Command Line Application.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "R U S T/Learn Rust by Building Real App/2 Building a Command Line Application.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "R U S T/Learn Rust by Building Real App/2 Building a Command Line Application.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "R U S T/Learn Rust by Building Real App/2 Building a Command Line Application.md"
+              }
             }
           },
           {
@@ -167,6 +175,7 @@
   },
   "active": "0fc539feb3017148",
   "lastOpenFiles": [
+    "P Y T H O N/Data Science BootCamp od A do Z 2022/Wizualizacja danych/0-Seaborn wprowadzeni.md",
     "R U S T/Learn Rust by Building Real App/2 Building a Command Line Application.md",
     "N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md",
     "A I/JS uczenie maszynowe/1 Poznawanie potencjału języka JS.md",
@@ -193,7 +202,6 @@
     "N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md",
     "Excalidraw/Dijkstra-graf.excalidraw.md",
     "P Y T H O N/GUI/get_url.md",
-    "HASKELL/for_great_good/6 Modules.md",
     "R U S T/Tech with TIm Rust",
     "R U S T/Rust by example",
     "R U S T/Rust Web Book",
