@@ -196,7 +196,24 @@ Just "853-2492"
 
 > The `Data.Map` module offers **association lists that are much faster** (because they're internally implemented with trees) and also it **provides a lot of utility functions**.
 
-## import qualified Data.Map as Map
+## `import qualified Data.Map as Map`
+> Kod importu `import qualified Data.Map as Map` oznacza, że ​​moduł `Data.Map` został zaimportowany do bieżącego modułu Haskell, ale z zastosowaniem jakościowego identyfikatora `Map`.
+>
+> `qualified` wskazuje, że ​​przywołanie funkcji lub typów z modułu `Data.Map` będzie wymagało użycia jakościowego identyfikatora `Map`. Dzięki temu można uniknąć kolizji nazw z innymi funkcjami lub typami w module, w którym jest wykorzystywany moduł `Data.Map`.
+>
+>Na przykład, jeśli `Data.Map` zawiera funkcję o nazwie `size`, to można jej użyć w bieżącym module za pomocą `Map.size`.
+
+
+#### `fromList` function
+takes an association list (in the form of a list) and returns a map with the same associations
+
+
+
+
+
+
+
+
 
 
 
