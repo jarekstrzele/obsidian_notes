@@ -49,14 +49,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Learn Rust by Building Real App/HTTP Server.md",
+                "file": "R U S T/Learn Rust by Building Real App/4 HTTP Server.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "15324292d7843487",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "R U S T/Learn Rust by Building Real App/4.1 Struct.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6f67d2e8901097bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "R U S T/Learn Rust by Building Real App/4.1 Struct.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -130,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Learn Rust by Building Real App/HTTP Server.md",
+                "file": "R U S T/Learn Rust by Building Real App/4.1 Struct.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -147,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Learn Rust by Building Real App/HTTP Server.md",
+                "file": "R U S T/Learn Rust by Building Real App/4.1 Struct.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Learn Rust by Building Real App/HTTP Server.md"
+                "file": "R U S T/Learn Rust by Building Real App/4.1 Struct.md"
               }
             }
           },
@@ -210,10 +234,12 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "f318e3ba0ccf0494",
+  "active": "6f67d2e8901097bb",
   "lastOpenFiles": [
+    "R U S T/Learn Rust by Building Real App/4 HTTP Server.md",
+    "R U S T/Learn Rust by Building Real App/4.2 Strings.md",
+    "R U S T/Learn Rust by Building Real App/4.1 Struct.md",
     "Excalidraw/rust-server.excalidraw.md",
-    "R U S T/Learn Rust by Building Real App/HTTP Server.md",
     "R U S T/Learn Rust by Building Real App/_ Learn Rust by Building Apps.md",
     "R U S T/Learn Rust by Building Real App/2 Memory Management.md",
     "R U S T/Learn Rust by Building Real App/3 Building a Command Line Application.md",
@@ -238,8 +264,6 @@
     "R U S T/Rust Programming Tutorial/3 If statement.md",
     "R U S T/Rust Programming Tutorial/2 Variables.md",
     "R U S T/Rust Programming Tutorial/1 Hello World App.md",
-    "N_O_D_E/NodeJS - fullstack/2.4. Process.md",
-    "N_O_D_E/NodeJS - fullstack/2.3. Stream.md",
     "R U S T/Tech with TIm Rust",
     "R U S T/Rust by example",
     "R U S T/Rust Web Book",
