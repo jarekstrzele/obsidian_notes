@@ -1,6 +1,6 @@
 #rust #udemy #gavadinov_lyubomir
-[[1 Memory Management]]
-
+[[2 Memory Management]]
+[[3 Building a Command Line Application]]
 
 
 ---------------

@@ -1,6 +1,18 @@
 #udemy #rust 
 #lennon_jayson
 
+--------------
+[[2 Making Decisions]]
+
+
+
+
+
+
+
+
+
+---------
 tools:
 - rustup - manages rust installation
 - VS Code

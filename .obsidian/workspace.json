@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Learn Rust by Building Real App/2 Building a Command Line Application.md",
+                "file": "R U S T/Learn Rust by Building Real App/3 Building a Command Line Application.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7929c8e53c905d96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "R U S T/Learn Rust by Building Real App/_ Learn Rust by Building Apps.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f318e3ba0ccf0494",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "R U S T/Learn Rust by Building Real App/HTTP Server.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -106,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/_ Rust Programming for Beginners.md",
+                "file": "R U S T/Learn Rust by Building Real App/HTTP Server.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/_ Rust Programming for Beginners.md",
+                "file": "R U S T/Learn Rust by Building Real App/HTTP Server.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/_ Rust Programming for Beginners.md"
+                "file": "R U S T/Learn Rust by Building Real App/HTTP Server.md"
               }
             }
           },
@@ -186,10 +210,14 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "f9d83764a5db3562",
+  "active": "f318e3ba0ccf0494",
   "lastOpenFiles": [
-    "R U S T/Learn Rust by Building Real App/2 Building a Command Line Application.md",
+    "R U S T/Learn Rust by Building Real App/_ Learn Rust by Building Apps.md",
+    "R U S T/Learn Rust by Building Real App/HTTP Server.md",
+    "R U S T/Learn Rust by Building Real App/2 Memory Management.md",
+    "R U S T/Learn Rust by Building Real App/3 Building a Command Line Application.md",
     "R U S T/Rust Programming For Beginners/_ Rust Programming for Beginners.md",
+    "R U S T/Rust Programming For Beginners/2 Making Decisions.md",
     "R U S T/Rust Programming For Beginners",
     "P Y T H O N/Data Science BootCamp od A do Z 2022/Wizualizacja danych/0-Seaborn wprowadzeni.md",
     "N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md",
@@ -199,8 +227,6 @@
     "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/CheckList.md",
     "REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
     "A I/uczenie maszynowe/_ Uczenie Maszynowe  Helion Piotr Szajowski.md",
-    "R U S T/Learn Rust by Building Real App/1 Memory Management.md",
-    "R U S T/Learn Rust by Building Real App/_ Learn Rust by Building Apps.md",
     "A I/JS uczenie maszynowe",
     "linux/UBUNTU.md",
     "HASKELL/Simple Haskell File - Structure.md",
@@ -214,8 +240,6 @@
     "N_O_D_E/NodeJS - fullstack/2.4. Process.md",
     "N_O_D_E/NodeJS - fullstack/2.3. Stream.md",
     "N_O_D_E/NodeJS - fullstack/2.2. Buffer.md",
-    "N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md",
-    "Excalidraw/Dijkstra-graf.excalidraw.md",
     "R U S T/Tech with TIm Rust",
     "R U S T/Rust by example",
     "R U S T/Rust Web Book",
