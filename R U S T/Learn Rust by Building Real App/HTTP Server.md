@@ -40,7 +40,7 @@ Content-Type: text/html
 # STRUCTS
 ### `cargo new server`
 
-main.hs
+main.hs (our interfejs project)
 ```rust
 fn main() {
 
@@ -49,16 +49,28 @@ fn main() {
 }
 ```
 
-`Server` is a struct.
+`Server`  will be a struct.
 
 >[!info] `STRUCT`
 >it is a custom data type that lets you group tohether related data.
 >(kind of a class in object oriented languages)
+>```rust
+>struct MyStruct{ 
+>	attr: Type,
+>}
+>
+>impl MyStruct{
+>	methods
+>}
+>```
 
+### methods and associated functions
+> **methods** are function defined inside the `struct`
+> **methods** in the Rust take a special first parameter called `self`
+> `self` represents the instance of the struct the method is being called on
 
-
-
-
+>**associated functions** like a static functions in OOP - they are associated with the struct type, but they don't need an instance (e.g. `new`)
+>use `::` sythax to access associated functions
 
 
 
