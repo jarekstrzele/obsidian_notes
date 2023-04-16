@@ -141,10 +141,19 @@ main = do
 
 
 
+......
+
+-------------
+# Data.Char
+It exports functions that deal with characters. Its also helpful when filetering and mapping over strings because they are just lists of characters
 
 
 
+...
 
+
+---------
+# 
 
 
 
