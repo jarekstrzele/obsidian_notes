@@ -47,11 +47,9 @@
             "id": "f318e3ba0ccf0494",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "R U S T/Learn Rust by Building Real App/HTTP Server.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2023-04-16 17.53.00.excalidraw.md"
               }
             }
           }
@@ -130,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Learn Rust by Building Real App/HTTP Server.md",
+                "file": "Excalidraw/Drawing 2023-04-16 17.53.00.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -147,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Learn Rust by Building Real App/HTTP Server.md",
+                "file": "Excalidraw/Drawing 2023-04-16 17.53.00.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Learn Rust by Building Real App/HTTP Server.md"
+                "file": "Excalidraw/Drawing 2023-04-16 17.53.00.excalidraw.md"
               }
             }
           },
@@ -212,8 +210,9 @@
   },
   "active": "f318e3ba0ccf0494",
   "lastOpenFiles": [
-    "R U S T/Learn Rust by Building Real App/_ Learn Rust by Building Apps.md",
     "R U S T/Learn Rust by Building Real App/HTTP Server.md",
+    "Excalidraw/Drawing 2023-04-16 17.53.00.excalidraw.md",
+    "R U S T/Learn Rust by Building Real App/_ Learn Rust by Building Apps.md",
     "R U S T/Learn Rust by Building Real App/2 Memory Management.md",
     "R U S T/Learn Rust by Building Real App/3 Building a Command Line Application.md",
     "R U S T/Rust Programming For Beginners/_ Rust Programming for Beginners.md",
@@ -239,7 +238,6 @@
     "R U S T/Rust Programming Tutorial/1 Hello World App.md",
     "N_O_D_E/NodeJS - fullstack/2.4. Process.md",
     "N_O_D_E/NodeJS - fullstack/2.3. Stream.md",
-    "N_O_D_E/NodeJS - fullstack/2.2. Buffer.md",
     "R U S T/Tech with TIm Rust",
     "R U S T/Rust by example",
     "R U S T/Rust Web Book",
