@@ -67,9 +67,53 @@ println("{:?} {:?}", life, life) ;
 ```
 
 
+------
+# Loop
+
+`loop` - infinite loop
+`while` - conditional loop
+
+```rust
+let mut a = 0;
+loop{
+	if a == 5 {
+		break ;
+	}
+	println!("{:?}", a) ;
+	a = a + 1 ;
+}
+```
 
 
+```rust
+let mut a = 0 ;
+while (a != 5){
+	println!("{:?}", a) ;
+	a = a + 1 ;
+}
+```
 
+----
+# First App
+```rust
+
+fn first_name(){
+  println!("Jaro") ;
+}
+
+fn last_name(){
+  println!("Strzele") ;
+}
+
+fn main() {
+  first_name() ;
+  last_name() ;
+}
+```
+
+in the terminal:
+`cargo run --bin projectName` 
+- `bin` the binary is an executable program
 
 
 
