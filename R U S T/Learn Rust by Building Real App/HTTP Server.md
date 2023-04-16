@@ -172,13 +172,24 @@ output:
 		- length: 3
 		- ptr: `G(7)`
 
-### convert a string 
+### convert a string into a string slice
+- The compiler can transparently convert a string into a string slice for us
+- if we want to pass a string to a function that actually accepts the strings slice, the compiler will convert the string into a string slice and pass that to the function
+```rust
+let string = String::from("127.0.0.1:8080") ;
+
+let string_slice = &string[10..14] ; //8080
+let string_borrow: &str = &string ; // the compilet will just convert `&string` into s string slice that points to the entire string
+
+```
 
 
+### string literals
+`let string_literal = "1234" ;` this literal string is known at compile time , it will bake it into the binary itself; there will be some region in memory where the string actually leaves
 
-
-
-
+**normal strings** can be expended or they can shrink dynamically at runtime
+**string slices** are IMMUTABLE;  `let string_literal="1234"` is immutable because we specified in its entirety at compule time,
+so a string slice would be an immutable view of this entire string
 
 
 
