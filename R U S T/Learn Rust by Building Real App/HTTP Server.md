@@ -33,6 +33,30 @@ Content-Type: text/html
 </html>
 ```
 
+![[rust-server.excalidraw | 660]]
+
+
+-------------
+# STRUCTS
+### `cargo new server`
+
+main.hs
+```rust
+fn main() {
+
+	let server = Server::new("127.0.0.1:8080") ;
+	server.run() ;
+}
+```
+
+`Server` is a struct.
+
+>[!info] `STRUCT`
+>it is a custom data type that lets you group tohether related data.
+>(kind of a class in object oriented languages)
+
+
+
 
 
 

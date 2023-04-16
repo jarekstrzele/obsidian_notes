@@ -47,9 +47,11 @@
             "id": "f318e3ba0ccf0494",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-04-16 17.53.00.excalidraw.md"
+                "file": "R U S T/Learn Rust by Building Real App/HTTP Server.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -128,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-04-16 17.53.00.excalidraw.md",
+                "file": "R U S T/Learn Rust by Building Real App/HTTP Server.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -145,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-04-16 17.53.00.excalidraw.md",
+                "file": "R U S T/Learn Rust by Building Real App/HTTP Server.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-04-16 17.53.00.excalidraw.md"
+                "file": "R U S T/Learn Rust by Building Real App/HTTP Server.md"
               }
             }
           },
@@ -210,8 +212,8 @@
   },
   "active": "f318e3ba0ccf0494",
   "lastOpenFiles": [
+    "Excalidraw/rust-server.excalidraw.md",
     "R U S T/Learn Rust by Building Real App/HTTP Server.md",
-    "Excalidraw/Drawing 2023-04-16 17.53.00.excalidraw.md",
     "R U S T/Learn Rust by Building Real App/_ Learn Rust by Building Apps.md",
     "R U S T/Learn Rust by Building Real App/2 Memory Management.md",
     "R U S T/Learn Rust by Building Real App/3 Building a Command Line Application.md",
