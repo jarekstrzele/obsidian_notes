@@ -146,15 +146,33 @@ output:
 [src/main.rs:10] string_slice = "8080"
 ```
 
-example:
+#### example:
 - you have allocated some strings on the heap
 - the strings are from 0 bytw to 11 byte 
-	- 0 - A
-	- 1 - B
-	- 2 -C
-	- .
+	- `0 - A`
+	- `1 - B`
+	- `2 -C`
+	- ..
+	- `6 - space`
+	- `7 - G`
+	- ...
+	- `9 - I`
+	- `10 -`
+	- `11 -`
+- represent this on the stack:
+	- length: 10
+	- capacity: 12 (all the bytes that you allocated for the string):
+		- if you push too many characters and they cannot fit the free capacity,
+			- a new buffer that is bigger will be allocated somewhere else on the heap and
+			- the entire string will be moved there, 		-  
+	- ptr (pointer) indicates/points `0-A` the beginning of the string
+- you want to read last three characters of the string `G(7), H(8), I(9)`:
+	- you can copy last chacaracters but you also can use `&str`
+	- `&str` on the stack (VERY EFFICIENT WAY):
+		- length: 3
+		- ptr: `G(7)`
 
-
+### convert a string 
 
 
 
