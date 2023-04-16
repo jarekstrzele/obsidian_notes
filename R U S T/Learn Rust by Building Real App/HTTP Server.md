@@ -123,8 +123,28 @@ expecting `String` but found `&str`
 so `"127.0.0.1:8080"` is not a string
 
 ## Strings
-`&str` it is called a str
+#rust/string
+`&str` it is called ==a string slice==
+	**string slice** is an immutable reference to a part of a string (like `string view` in C++)
 
+```rust
+fn main() {
+// let server = Server::new("127.0.0.1:8080") ;
+// server.run() ;
+let string = String::from("127.0.0.1:8080") ;
+let string_slice = &string[10..14] ; //8080
+// [10..14] == [10..]
+// [0..3] == [..3]
+
+//dbg!(string) ; // this is incorrect because you borrowed
+dbg!(&string) ;
+dbg!(string_slice) ;
+}
+
+output:
+[src/main.rs:9] &string = "127.0.0.1:8080"
+[src/main.rs:10] string_slice = "8080"
+```
 
 
 
