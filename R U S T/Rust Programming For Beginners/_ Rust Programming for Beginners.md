@@ -112,8 +112,12 @@ fn main() {
 ```
 
 in the terminal:
-`cargo run --bin projectName` 
+### `cargo run --bin projectName` 
 - `bin` the binary is an executable program
+
+### `cargo run -q --bin projectName`
+`-q` without some messages in the terminaln, only the result
+
 
 
 
