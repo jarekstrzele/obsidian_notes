@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f9d83764a5db3562",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "R U S T/Rust Programming For Beginners/_ Rust Programming for Beginners.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Learn Rust by Building Real App/2 Building a Command Line Application.md",
+                "file": "R U S T/Rust Programming For Beginners/_ Rust Programming for Beginners.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Learn Rust by Building Real App/2 Building a Command Line Application.md",
+                "file": "R U S T/Rust Programming For Beginners/_ Rust Programming for Beginners.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Learn Rust by Building Real App/2 Building a Command Line Application.md"
+                "file": "R U S T/Rust Programming For Beginners/_ Rust Programming for Beginners.md"
               }
             }
           },
@@ -173,10 +186,12 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "0fc539feb3017148",
+  "active": "f9d83764a5db3562",
   "lastOpenFiles": [
-    "P Y T H O N/Data Science BootCamp od A do Z 2022/Wizualizacja danych/0-Seaborn wprowadzeni.md",
     "R U S T/Learn Rust by Building Real App/2 Building a Command Line Application.md",
+    "R U S T/Rust Programming For Beginners/_ Rust Programming for Beginners.md",
+    "R U S T/Rust Programming For Beginners",
+    "P Y T H O N/Data Science BootCamp od A do Z 2022/Wizualizacja danych/0-Seaborn wprowadzeni.md",
     "N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md",
     "A I/JS uczenie maszynowe/1 Poznawanie potencjału języka JS.md",
     "A I/JS uczenie maszynowe/_ 0 Uczenie maszynowe z JS.md",
@@ -201,7 +216,6 @@
     "N_O_D_E/NodeJS - fullstack/2.2. Buffer.md",
     "N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md",
     "Excalidraw/Dijkstra-graf.excalidraw.md",
-    "P Y T H O N/GUI/get_url.md",
     "R U S T/Tech with TIm Rust",
     "R U S T/Rust by example",
     "R U S T/Rust Web Book",
@@ -210,7 +224,6 @@
     "R U S T/Learn Rust by Building Real App",
     "R U S T",
     "P Y T H O N/GUI/Tkinter/modern GUIs",
-    "P Y T H O N/GUI/PyQt/Create GUI App with PyQt",
     "Untitled.canvas"
   ]
 }

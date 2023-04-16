@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "_ Rust Programming for Beginners",
+      "path": "R U S T/Rust Programming For Beginners/_ Rust Programming for Beginners.md"
+    },
+    {
       "basename": "2 Building a Command Line Application",
       "path": "R U S T/Learn Rust by Building Real App/2 Building a Command Line Application.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "9 Nested Navigators",
       "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/9 Nested Navigators.md"
-    },
-    {
-      "basename": "Drawer Navigator",
-      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer or Bottom-Tabs Navigators/Drawer Navigator.md"
     }
   ],
   "omittedPaths": [],
