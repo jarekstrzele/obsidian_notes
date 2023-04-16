@@ -153,11 +153,33 @@ It exports functions that deal with characters. Its also helpful when filetering
 
 
 ---------
-# 
+# Data.Map
+Association lists (also called dictionaries) are lists that are used to store key-value pairs where ordering doesn't matter
 
 
+An association list with phone numbers (*list of pairs*, first component a **key**, the second one a **value**)
+```haskell
+-- Deklaracja modułu
+module Main where
 
+-- Importowanie modułów
+import Data.List
 
+-- Deklaracja funkcji
+phoneBook =   
+    [("betty","555-2938")  
+    ,("bonnie","452-2928")  
+    ,("patsy","493-2928")  
+    ,("lucille","205-2928")  
+    ,("wendy","939-8282")  
+    ,("penny","853-2492")  
+    ]  
+
+-- Funkcja main
+main :: IO ()
+main = do
+  print phoneBook 
+```
 
 
 
