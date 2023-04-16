@@ -73,4 +73,78 @@ fn main() {
 >use `::` sythax to access associated functions
 
 
+main.rs
+```rust
+fn main() {
+
+	let server = Server::new("127.0.0.1:8080") ;
+	server.run() ;
+}
+
+struct Server{
+	addr: String,
+}
+
+
+impl Server{
+	//associated function
+	// fn new (addr: String) -> Server
+	// Self - it is an alias to the struct type
+	fn new(addr: String) -> Self{
+	// Self == Server
+	// Server { addr }
+		Self {
+		//addr: addr // are the same so you can omitt
+			addr
+		}
+	}
+	
+	fn run(self){
+	//this function takes ownership of the entire struct
+	// because ot tales ownership pf the sef variable
+	// run(&self) - in this case self does not take a ownership
+	// of the struct
+	}
+	 
+	
+	}
+```
+
+
+this code generates an error:
+```rust
+let server = Server::new("127.0.0.1:8080") ;
+   |                  ----------- ^^^^^^^^^^^^^^^^- help: try using a conversion method: `.to_string()`
+   |                  |           |
+   |                  |           expected struct `String`, found `&str`
+   |                  arguments to this function are incorrect
+```
+expecting `String` but found `&str`
+so `"127.0.0.1:8080"` is not a string
+
+## Strings
+`&str` it is called a str
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
