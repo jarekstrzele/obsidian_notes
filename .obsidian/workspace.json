@@ -73,7 +73,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HASKELL/for_great_good/6 Modules.md",
+                "file": "REACT NATIVE/calender picker.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e790e3d0f12ad9e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "REACT NATIVE/calender picker.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/for_great_good/6 Modules.md",
+                "file": "REACT NATIVE/calender picker.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -171,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/for_great_good/6 Modules.md",
+                "file": "REACT NATIVE/calender picker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/for_great_good/6 Modules.md"
+                "file": "REACT NATIVE/calender picker.md"
               }
             }
           },
@@ -244,6 +256,10 @@
   },
   "active": "2326e3e027cb3213",
   "lastOpenFiles": [
+    "REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
+    "REACT NATIVE/Master React Native Funds/_ 0 start React Native.md",
+    "HASKELL/for_great_good/6 Modules.md",
+    "REACT NATIVE/calender picker.md",
     "algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md",
     "P Y T H O N/GUI/Firebase full course.md",
     "N_O_D_E/NodeJS - fullstack/2.2. Buffer.md",
@@ -268,10 +284,6 @@
     "N_O_D_E/NodeJS - fullstack/1 Moduły.md",
     "N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md",
     "N_O_D_E/NodeJS - fullstack/2.4. Process.md",
-    "Excalidraw/Dijkstra-graf.excalidraw.md",
-    "N_O_D_E/Mosh Node/1 Node Module System.md",
-    "N_O_D_E/Mosh Node/_ 0 Node (Mosh).md",
-    "N_O_D_E/NODE - the complete guide/3 Node Basics.md",
     "R U S T/Rust by example",
     "R U S T/Learn Rust by Building Real App",
     "P Y T H O N/GUI/PyQt/Create GUI App with PyQt",
