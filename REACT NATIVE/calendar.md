@@ -98,24 +98,11 @@ import { useState } from 'react';
 import { StyleSheet, Text, View, SafeAreaView } from 'react-native';
 import { Calendar, CalendarList } from 'react-native-calendars';
 
-  
-  
-  
-
 export default function App() {
-
-  
-
   const [selectedDate, setSelectedDate] = useState('');
-
-  
-
   function dataSelectionHandler(day){
-
     setSelectedDate(day.dateString) ;
-
     console.log(selectedDate) ;
-
   }
 
   
@@ -125,62 +112,65 @@ export default function App() {
  // makred: true dodaje kropkę
 
  const ss = '2023-04-02' ;
-
-  return (
-
+return (
     <SafeAreaView style={styles.container} >
-
       <View>
-
         <Text> Przykład dla komponentu CalendarList</Text>
-
       </View>
-
       <CalendarList
-
         current={'2023-03-01'}
-
         minDate={'2020-03-08'}
-
         maxDate={'2023-12-31'}
-
         onDayPress={dataSelectionHandler}
-
         markedDates={{
-
           [selectedDate]:{ selected: true}
-
         }}
-
   
-
         />
 
-  
-  
-
     </SafeAreaView>
-
   );
-
 }
 
-  
-
 const styles = StyleSheet.create({
-
   container: {
-
     flex: 1,
-
     backgroundColor: '#fff',
-
     alignItems: 'center',
-
     justifyContent: 'center',
-
   },
 
 });
 ```
+
+
+-------
+# Agenda
+`Agenda` pozwala na dynamiczne wyświetlanie zawartości w kalendarzu, która dostosowuje się do zmian daty lub czasu. Komponent może wyświetlać listę wydarzeń, notatki, zadania lub inne informacje dla każdego dnia w kalendarzu. Możliwe jest także wyświetlanie informacji dla kilku miesięcy jednocześnie.
+
+`Agenda` oferuje szereg funkcjonalności, w tym:
+
+1.  Automatyczne przewijanie kalendarza w celu wyświetlenia kolejnych dni.
+2.  Wbudowane filtrowanie i sortowanie wydarzeń na podstawie wybranej daty.
+3.  Obsługa niestandardowych typów wydarzeń, takich jak wydarzenia cykliczne, wydarzenia z powtarzaniem czy wydarzenia całodniowe.
+4.  Wbudowane stylowanie komponentów kalendarza za pomocą arkuszy stylów lub przekazywanie stylów jako propsy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

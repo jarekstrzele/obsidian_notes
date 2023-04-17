@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REACT NATIVE/calender.md",
+                "file": "REACT NATIVE/calendar.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REACT NATIVE/calender.md",
+                "file": "REACT NATIVE/calendar.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REACT NATIVE/calender.md",
+                "file": "REACT NATIVE/calendar.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REACT NATIVE/calender.md",
+                "file": "REACT NATIVE/calendar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REACT NATIVE/calender.md"
+                "file": "REACT NATIVE/calendar.md"
               }
             }
           },
@@ -254,10 +254,10 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "e790e3d0f12ad9e9",
+  "active": "f621f21825dbd82d",
   "lastOpenFiles": [
     "N_O_D_E/NodeJS - fullstack/2.2. Buffer.md",
-    "REACT NATIVE/calender.md",
+    "REACT NATIVE/calendar.md",
     "REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
     "REACT NATIVE/Master React Native Funds/_ 0 start React Native.md",
     "HASKELL/for_great_good/6 Modules.md",
