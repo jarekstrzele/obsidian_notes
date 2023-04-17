@@ -2,9 +2,10 @@
 
 `npx create-expo-app calender-picker`
 
-`npm install --save reat-native-calenders`
+## `npm install --save reat-native-calenders`
 https://www.npmjs.com/package/react-native-calendars
 
+# Calendar
 
 ```jsx
 import { StatusBar } from 'expo-status-bar';
@@ -84,9 +85,11 @@ Oprócz atrybutu `markedDates`, komponent `Calendar` w bibliotece `react-native-
 -   `disableArrowLeft` - ustawienie na `true` spowoduje ukrycie strzałki do przewijania miesiąca w lewo.
 -   `disableArrowRight` - ustawienie na `true` spowoduje ukrycie strzałki do przewijania miesiąca w prawo.
 
-Przykładowy kod, który wykorzystuje niektóre z powyższych atrybutów:
+----
+# CalendarList
+jest jak FlatList (renderuje tylko to co widoczne)
 
-
+> `SafeAreaView` jest ważnym narzędziem do tworzenia interfejsu użytkownika w React Native, zapewniającym, że wyświetlana treść będzie dobrze widoczna na ekranie i nie będzie zakrywana przez elementy systemowe.
 
 
 

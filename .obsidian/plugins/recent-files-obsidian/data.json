@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "calender picker",
-      "path": "REACT NATIVE/calender picker.md"
+      "basename": "calender",
+      "path": "REACT NATIVE/calender.md"
+    },
+    {
+      "basename": "2.2. Buffer",
+      "path": "N_O_D_E/NodeJS - fullstack/2.2. Buffer.md"
     },
     {
       "basename": "_ 0 React Native - Practical Guide",
@@ -23,10 +27,6 @@
     {
       "basename": "Firebase full course",
       "path": "P Y T H O N/GUI/Firebase full course.md"
-    },
-    {
-      "basename": "2.2. Buffer",
-      "path": "N_O_D_E/NodeJS - fullstack/2.2. Buffer.md"
     },
     {
       "basename": "2. Podstawowe koncepcje",
