@@ -92,5 +92,95 @@ jest jak FlatList (renderuje tylko to co widoczne)
 > `SafeAreaView` jest ważnym narzędziem do tworzenia interfejsu użytkownika w React Native, zapewniającym, że wyświetlana treść będzie dobrze widoczna na ekranie i nie będzie zakrywana przez elementy systemowe.
 
 
+```jsx
+import { StatusBar } from 'expo-status-bar';
+import { useState } from 'react';
+import { StyleSheet, Text, View, SafeAreaView } from 'react-native';
+import { Calendar, CalendarList } from 'react-native-calendars';
 
+  
+  
+  
+
+export default function App() {
+
+  
+
+  const [selectedDate, setSelectedDate] = useState('');
+
+  
+
+  function dataSelectionHandler(day){
+
+    setSelectedDate(day.dateString) ;
+
+    console.log(selectedDate) ;
+
+  }
+
+  
+
+ // markedDates={ { [ss]: {selected: true}} } --> `[nazwaZmienna]` jak klucz; dynamiczne tworzenie kluczy
+
+ // makred: true dodaje kropkę
+
+ const ss = '2023-04-02' ;
+
+  return (
+
+    <SafeAreaView style={styles.container} >
+
+      <View>
+
+        <Text> Przykład dla komponentu CalendarList</Text>
+
+      </View>
+
+      <CalendarList
+
+        current={'2023-03-01'}
+
+        minDate={'2020-03-08'}
+
+        maxDate={'2023-12-31'}
+
+        onDayPress={dataSelectionHandler}
+
+        markedDates={{
+
+          [selectedDate]:{ selected: true}
+
+        }}
+
+  
+
+        />
+
+  
+  
+
+    </SafeAreaView>
+
+  );
+
+}
+
+  
+
+const styles = StyleSheet.create({
+
+  container: {
+
+    flex: 1,
+
+    backgroundColor: '#fff',
+
+    alignItems: 'center',
+
+    justifyContent: 'center',
+
+  },
+
+});
+```
 
