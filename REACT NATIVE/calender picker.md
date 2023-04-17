@@ -6,7 +6,7 @@
 https://www.npmjs.com/package/react-native-calendars
 
 
-```js
+```jsx
 import { StatusBar } from 'expo-status-bar';
 import { useState } from 'react';
 import { StyleSheet, Text, View } from 'react-native';
@@ -32,7 +32,14 @@ export default function App() {
     <View style={styles.container}>
       <Calendar
         onDayPress={ dataSelectionHandler }
-        markedDates={ { [ss]: {selected: true, marked: true}, "2023-04-10": {marked: true}, "2023-04-18": {marked:true, dotColor: 'green'}} }
+        markedDates={ {
+              [selectedDate]: {selected: true, selectedTextColor: 'red'} ,
+              [ss]: {selected: true, marked: true},
+              "2023-04-10": {marked: true},
+              "2023-04-18": {marked:true, dotColor: 'green'},
+              "2023-04-22": {selected: true, marked: true, selectedTextColor: 'orange', selectedColor: 'blue'},
+              "2023-04-01": {disableTouchEvent: true}
+            } }
         />
     </View>
   );
@@ -62,7 +69,22 @@ Oprócz podstawowego atrybutu `selected` do obiektu określającego oznaczenia d
 -   `disableHighlight` - ustawienie na `true` spowoduje, że data nie będzie podświetlana, gdy zostanie najechana kursorem.
 
 
+Oprócz atrybutu `markedDates`, komponent `Calendar` w bibliotece `react-native-calendars` posiada wiele innych atrybutów, które pozwalają na konfigurację wyglądu kalendarza i jego funkcjonalności. Oto kilka najważniejszych atrybutów komponentu `Calendar`:
 
+-   `onDayPress` - funkcja, która jest wywoływana, gdy użytkownik naciśnie na daną datę. W argumencie przekazywana jest obiekt zawierający informacje o dacie.
+-   `onDayLongPress` - funkcja, która jest wywoływana, gdy użytkownik długo naciśnie na daną datę. W argumencie przekazywana jest obiekt zawierający informacje o dacie.
+-   `onMonthChange` - funkcja, która jest wywoływana, gdy użytkownik przewija kalendarz do innej miesiąca. W argumencie przekazywana jest data pierwszego dnia nowego miesiąca.
+-   `current` - data, która ma być ustawiona jako początek wyświetlanego miesiąca. Domyślnie jest to bieżący miesiąc.
+-   `minDate` - najwcześniejsza dozwolona data, która może zostać wybrana przez użytkownika.
+-   `maxDate` - najpóźniejsza dozwolona data, która może zostać wybrana przez użytkownika.
+-   `hideExtraDays` - ustawienie na `true` spowoduje ukrycie dni poprzedzających i następujących po miesiącu w wyświetlanym kalendarzu.
+-   `disableMonthChange` - ustawienie na `true` spowoduje zablokowanie zmiany miesiąca.
+-   `firstDay` - liczba reprezentująca pierwszy dzień tygodnia w kalendarzu. Domyślnie jest to niedziela (0).
+-   `monthFormat` - formatowanie nazwy miesiąca w nagłówku kalendarza.
+-   `disableArrowLeft` - ustawienie na `true` spowoduje ukrycie strzałki do przewijania miesiąca w lewo.
+-   `disableArrowRight` - ustawienie na `true` spowoduje ukrycie strzałki do przewijania miesiąca w prawo.
+
+Przykładowy kod, który wykorzystuje niektóre z powyższych atrybutów:
 
 
 
