@@ -238,7 +238,81 @@ age = Map.lookup "Bob" ages''
 
 ---
 # Data.Set
-Sets are kind of like across between lists and maps
+Sets are kind of like across between lists and maps:
+- all the elements in a set are unique
+- they are ordered
+
+### `import qualified Data.Set as Set`
+
+```haskell
+-- Deklaracja modułu
+module Main where
+
+-- Importowanie modułów
+import qualified Data.Set as Set
+
+-- Deklaracja funkcji
+text1 = "I just had an anime dream. Anime... Reality... Are they so different?"  
+text2 = "The old man left his garbage can out and now his trash is all over my lawn!"
+
+-- Funkcja main
+main :: IO ()
+main = do
+  print $ Set.fromList text1  
+  print $ Set.fromList text2
+
+output (elements are unique and ordered)
+fromList " .?AIRadefhijlmnorstuy"
+fromList " !Tabcdefghilmnorstuvwy"
+```
+
+
+`intersection set1 set2` to see which elements they both share
+`difference set1 set2` to see which letters are in the first set but arenn't in the second one
+`union set1 set2` to all the unique letter used in both sentences
+
+....
+
+-----
+# Making our own modules
+
+When making programs, it's good practice to take functions and types that work towards a similar purpose and put them in a module
+
+EXAMPLE
+- create a file called `Geometry.hs`
+```haskell
+1.  module Geometry  
+2.  ( sphereVolume  
+3.  , sphereArea  
+4.  , cubeVolume  
+5.  , cubeArea  
+6.  , cuboidArea  
+7.  , cuboidVolume  
+8.  ) where  
+
+10.  sphereVolume :: Float -> Float  
+11.  sphereVolume radius = (4.0 / 3.0) * pi * (radius ^ 3)  
+
+13.  sphereArea :: Float -> Float  
+14.  sphereArea radius = 4 * pi * (radius ^ 2)  
+
+16.  cubeVolume :: Float -> Float  
+17.  cubeVolume side = cuboidVolume side side side  
+
+19.  cubeArea :: Float -> Float  
+20.  cubeArea side = cuboidArea side side side  
+
+22.  cuboidVolume :: Float -> Float -> Float -> Float  
+23.  cuboidVolume a b c = rectangleArea a b * c  
+
+25.  cuboidArea :: Float -> Float -> Float -> Float  
+26.  cuboidArea a b c = rectangleArea a b * 2 + rectangleArea a c * 2 + rectangleArea c b * 2  
+
+28.  rectangleArea :: Float -> Float -> Float  
+29.  rectangleArea a b = a * b
+``` 
+
+`module ModulName(funs that will be exported)`
 
 
 
