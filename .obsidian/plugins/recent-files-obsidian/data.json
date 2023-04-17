@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "PYQt5 stackwidget",
+      "path": "P Y T H O N/GUI/PYQt5 stackwidget.md"
+    },
+    {
       "basename": "calendar",
       "path": "REACT NATIVE/calendar.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "FireBase back to the basic",
       "path": "Data Bases/FireBase/FireBase back to the basic.md"
-    },
-    {
-      "basename": "_ 0 Modern GUIs Python",
-      "path": "P Y T H O N/GUI/Tkinter/modern GUIs/_ 0 Modern GUIs Python.md"
     }
   ],
   "omittedPaths": [],

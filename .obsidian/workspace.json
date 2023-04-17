@@ -90,9 +90,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d37a8a32dd86e1f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "P Y T H O N/GUI/PYQt5 stackwidget.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -166,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REACT NATIVE/calendar.md",
+                "file": "P Y T H O N/GUI/PYQt5 stackwidget.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -183,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REACT NATIVE/calendar.md",
+                "file": "P Y T H O N/GUI/PYQt5 stackwidget.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REACT NATIVE/calendar.md"
+                "file": "P Y T H O N/GUI/PYQt5 stackwidget.md"
               }
             }
           },
@@ -254,10 +266,11 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "f621f21825dbd82d",
+  "active": "d37a8a32dd86e1f5",
   "lastOpenFiles": [
-    "N_O_D_E/NodeJS - fullstack/2.2. Buffer.md",
     "REACT NATIVE/calendar.md",
+    "P Y T H O N/GUI/PYQt5 stackwidget.md",
+    "N_O_D_E/NodeJS - fullstack/2.2. Buffer.md",
     "REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
     "REACT NATIVE/Master React Native Funds/_ 0 start React Native.md",
     "HASKELL/for_great_good/6 Modules.md",
@@ -283,7 +296,6 @@
     "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/Multiple Screens.md",
     "N_O_D_E/NodeJS - fullstack/1 Moduły.md",
     "N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md",
-    "N_O_D_E/NodeJS - fullstack/2.4. Process.md",
     "R U S T/Rust by example",
     "R U S T/Learn Rust by Building Real App",
     "P Y T H O N/GUI/PyQt/Create GUI App with PyQt",
