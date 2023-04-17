@@ -1,24 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "6 Modules",
+      "path": "HASKELL/for_great_good/6 Modules.md"
+    },
+    {
       "basename": "3 - Algorytmy grafowe",
       "path": "algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md"
     },
     {
-      "basename": "2.1. Zdarzenia",
-      "path": "N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md"
+      "basename": "Firebase full course",
+      "path": "P Y T H O N/GUI/Firebase full course.md"
+    },
+    {
+      "basename": "2.2. Buffer",
+      "path": "N_O_D_E/NodeJS - fullstack/2.2. Buffer.md"
     },
     {
       "basename": "2. Podstawowe koncepcje",
       "path": "N_O_D_E/NodeJS - fullstack/2. Podstawowe koncepcje.md"
     },
     {
-      "basename": "two screen in one window",
-      "path": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/two screen in one window.md"
+      "basename": "2.1. Zdarzenia",
+      "path": "N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md"
     },
     {
-      "basename": "Firebase full course",
-      "path": "P Y T H O N/GUI/Firebase full course.md"
+      "basename": "two screen in one window",
+      "path": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/two screen in one window.md"
     },
     {
       "basename": "2.3. Stream",
@@ -27,10 +35,6 @@
     {
       "basename": "Multiple Screens",
       "path": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/Multiple Screens.md"
-    },
-    {
-      "basename": "2.2. Buffer",
-      "path": "N_O_D_E/NodeJS - fullstack/2.2. Buffer.md"
     },
     {
       "basename": "1 Moduły",
@@ -63,10 +67,6 @@
     {
       "basename": "_0 Node Complete Guide",
       "path": "N_O_D_E/NODE - the complete guide/_0 Node Complete Guide.md"
-    },
-    {
-      "basename": "6 Modules",
-      "path": "HASKELL/for_great_good/6 Modules.md"
     },
     {
       "basename": "7 Tuples",

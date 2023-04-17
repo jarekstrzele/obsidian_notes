@@ -196,6 +196,15 @@ Just "853-2492"
 
 > The `Data.Map` module offers **association lists that are much faster** (because they're internally implemented with trees) and also it **provides a lot of utility functions**.
 
+>[!info] Mapa
+> W Haskellu mapa jest reprezentowana przez moduł `Data.Map`, który udostępnia wiele funkcji do manipulowania mapami. Na przykład, możemy
+> 	- *dodać* parę klucz-wartość do mapy za pomocą funkcji `insert`, 
+> 	-  *usunąć *element za pomocą funkcji `delete`,
+> 	- *wyszukać* wartość odpowiadającą danemu kluczowi za pomocą funkcji `lookup`. 
+> Mapy w Haskellu są implementowane jako drzewa poszukiwań binarnych, co oznacza, że operacje na mapach mają złożoność czasową O(log n), gdzie n to liczba elementów w mapie.
+#haskell/map
+
+
 ## `import qualified Data.Map as Map`
 > Kod importu `import qualified Data.Map as Map` oznacza, że ​​moduł `Data.Map` został zaimportowany do bieżącego modułu Haskell, ale z zastosowaniem jakościowego identyfikatora `Map`.
 >
@@ -207,12 +216,29 @@ Just "853-2492"
 #### `fromList` function
 takes an association list (in the form of a list) and returns a map with the same associations
 
+```haskell
 
+import qualified Data.Map as Map
 
+-- Tworzymy mapę par nazwisk i wieku
+ages = Map.fromList [("Alice", 25), ("Bob", 30), ("Charlie", 35)]
 
+-- Dodajemy parę do mapy
+ages' = Map.insert "David" 40 ages
 
+-- Usuwamy element z mapy
+ages'' = Map.delete "Charlie" ages'
 
+-- Wyszukujemy wartość dla klucza
+age = Map.lookup "Bob" ages''
 
+```
+
+.....
+
+---
+# Data.Set
+Sets are kind of like across between lists and maps
 
 
 
