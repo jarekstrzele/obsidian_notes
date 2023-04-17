@@ -312,8 +312,10 @@ EXAMPLE
 29.  rectangleArea a b = a * b
 ``` 
 
-`module ModulName(funs that will be exported)`
+`module ModulName(funs, that, will, be, exported) where`
 
-
+to use module
+### `import Geometry`
+`Geometry.hs` is in the same folder that the program that's imporing it is in
 
 
