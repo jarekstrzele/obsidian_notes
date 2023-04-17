@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "P Y T H O N/GUI/PYQt5 stackwidget.md",
+                "file": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/QTableWidget.md",
                 "mode": "source",
                 "source": false
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "P Y T H O N/GUI/PYQt5 stackwidget.md",
+                "file": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/QTableWidget.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "P Y T H O N/GUI/PYQt5 stackwidget.md",
+                "file": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/QTableWidget.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "P Y T H O N/GUI/PYQt5 stackwidget.md"
+                "file": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/QTableWidget.md"
               }
             }
           },
@@ -268,8 +268,15 @@
   },
   "active": "d37a8a32dd86e1f5",
   "lastOpenFiles": [
-    "REACT NATIVE/calendar.md",
+    "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/two screen in one window.md",
+    "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/QTableWidget.md",
+    "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/Multiple Screens.md",
+    "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/CheckList.md",
+    "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/_ 0 PyQt with Hala.md",
+    "P Y T H O N/GUI/PySide6/_ 0 PySide.md",
+    "P Y T H O N/GUI/get_url.md",
     "P Y T H O N/GUI/PYQt5 stackwidget.md",
+    "REACT NATIVE/calendar.md",
     "N_O_D_E/NodeJS - fullstack/2.2. Buffer.md",
     "REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
     "REACT NATIVE/Master React Native Funds/_ 0 start React Native.md",
@@ -288,14 +295,7 @@
     "R U S T/Learn Rust by Building Real App/2 Memory Management.md",
     "Excalidraw/rust-server.excalidraw.md",
     "A I/JS uczenie maszynowe/_ 0 Uczenie maszynowe z JS.md",
-    "A I/JS uczenie maszynowe/2 Badanie danych.md",
-    "A I/JS uczenie maszynowe/1 Poznawanie potencjału języka JS.md",
     "A I/JS uczenie maszynowe",
-    "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/two screen in one window.md",
-    "N_O_D_E/NodeJS - fullstack/2.3. Stream.md",
-    "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/Multiple Screens.md",
-    "N_O_D_E/NodeJS - fullstack/1 Moduły.md",
-    "N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md",
     "R U S T/Rust by example",
     "R U S T/Learn Rust by Building Real App",
     "P Y T H O N/GUI/PyQt/Create GUI App with PyQt",

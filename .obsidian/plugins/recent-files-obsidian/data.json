@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "QTableWidget",
+      "path": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/QTableWidget.md"
+    },
+    {
+      "basename": "two screen in one window",
+      "path": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/two screen in one window.md"
+    },
+    {
+      "basename": "Multiple Screens",
+      "path": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/Multiple Screens.md"
+    },
+    {
+      "basename": "CheckList",
+      "path": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/CheckList.md"
+    },
+    {
+      "basename": "_ 0 PyQt with Hala",
+      "path": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/_ 0 PyQt with Hala.md"
+    },
+    {
+      "basename": "_ 0 PySide",
+      "path": "P Y T H O N/GUI/PySide6/_ 0 PySide.md"
+    },
+    {
+      "basename": "get_url",
+      "path": "P Y T H O N/GUI/get_url.md"
+    },
+    {
       "basename": "PYQt5 stackwidget",
       "path": "P Y T H O N/GUI/PYQt5 stackwidget.md"
     },
@@ -41,16 +69,8 @@
       "path": "N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md"
     },
     {
-      "basename": "two screen in one window",
-      "path": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/two screen in one window.md"
-    },
-    {
       "basename": "2.3. Stream",
       "path": "N_O_D_E/NodeJS - fullstack/2.3. Stream.md"
-    },
-    {
-      "basename": "Multiple Screens",
-      "path": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/Multiple Screens.md"
     },
     {
       "basename": "1 Moduły",
@@ -177,28 +197,8 @@
       "path": "P Y T H O N/GUI/PyQt/Create GUI App with PyQt/_ Create GUI App with PyQt5.md"
     },
     {
-      "basename": "QTableWidget",
-      "path": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/QTableWidget.md"
-    },
-    {
-      "basename": "CheckList",
-      "path": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/CheckList.md"
-    },
-    {
       "basename": "_ 0 PyQt5 code",
       "path": "P Y T H O N/GUI/PyQt/PyQt Codemy/_ 0 PyQt5 code.md"
-    },
-    {
-      "basename": "7.8 QTableWidget",
-      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/7 Advanced Widgets/7.8 QTableWidget.md"
-    },
-    {
-      "basename": "_ 0 PySide",
-      "path": "P Y T H O N/GUI/PySide6/_ 0 PySide.md"
-    },
-    {
-      "basename": "FireBase back to the basic",
-      "path": "Data Bases/FireBase/FireBase back to the basic.md"
     }
   ],
   "omittedPaths": [],

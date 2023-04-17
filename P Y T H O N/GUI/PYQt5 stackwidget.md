@@ -1,5 +1,6 @@
 >[!info]
 >Stack widget allows us to do is to have multiple bits of content on screen but only showing  one thing at a time
+https://www.youtube.com/watch?v=Vq1laKeSk9M&list=PL1hUOG3l8AVmKjzvZKLkJuxlQm7nppaej
 
 ```python
 # This Python file uses the following encoding: utf-8
