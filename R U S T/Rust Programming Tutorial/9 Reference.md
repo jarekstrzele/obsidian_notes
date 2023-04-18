@@ -62,4 +62,22 @@ fn main(){
 
 ```
 
-but in older version you can'
+but in older version you can't have to mutable references, so you should wrap you code in black like this
+
+```rust
+
+fn main(){
+  let mut x = 10;
+  {
+    let xr = &mut x;
+    *xr += 1; // error, you have to use mutable reference
+  }
+  println!("x is {}", x) ;
+  
+```
+
+
+
+
+
+
