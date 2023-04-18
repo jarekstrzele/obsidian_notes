@@ -30,6 +30,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "20d51f3f5d925004",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -196,6 +208,8 @@
   },
   "active": "7a5dde3eb784e09a",
   "lastOpenFiles": [
+    "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md",
+    "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
     "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/4 Pre-defined dialogs and basic data types.md",
     "P Y T H O N/GUI/PYQt5 stackwidget.md",
     "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/Multiple Screens.md",
@@ -221,8 +235,6 @@
     "R U S T/Learn Rust by Building Real App/4.1 Struct.md",
     "R U S T/Learn Rust by Building Real App/4 HTTP Server.md",
     "R U S T/Learn Rust by Building Real App/3 Building a Command Line Application.md",
-    "R U S T/Learn Rust by Building Real App/2 Memory Management.md",
-    "Excalidraw/rust-server.excalidraw.md",
     "A I/JS uczenie maszynowe",
     "R U S T/Rust by example",
     "R U S T/Learn Rust by Building Real App",

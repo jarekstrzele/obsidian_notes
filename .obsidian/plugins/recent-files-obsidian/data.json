@@ -5,6 +5,10 @@
       "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md"
     },
     {
+      "basename": "5 Simple QWidgets",
+      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md"
+    },
+    {
       "basename": "4 Pre-defined dialogs and basic data types",
       "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/4 Pre-defined dialogs and basic data types.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "9 Memory management, Heap and Stack",
       "path": "R U S T/Tech with TIm Rust/9 Memory management, Heap and Stack.md"
-    },
-    {
-      "basename": "_ 0 Rust Web Book",
-      "path": "R U S T/Rust Web Book/_ 0 Rust Web Book.md"
     }
   ],
   "omittedPaths": [],
