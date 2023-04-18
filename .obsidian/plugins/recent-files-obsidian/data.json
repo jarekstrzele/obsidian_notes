@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "9 QtDesigner",
+      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md"
+    },
+    {
+      "basename": "4 Pre-defined dialogs and basic data types",
+      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/4 Pre-defined dialogs and basic data types.md"
+    },
+    {
       "basename": "PYQt5 stackwidget",
       "path": "P Y T H O N/GUI/PYQt5 stackwidget.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "_ 0 Rust Web Book",
       "path": "R U S T/Rust Web Book/_ 0 Rust Web Book.md"
-    },
-    {
-      "basename": "_ Create GUI App with PyQt5",
-      "path": "P Y T H O N/GUI/PyQt/Create GUI App with PyQt/_ Create GUI App with PyQt5.md"
-    },
-    {
-      "basename": "_ 0 PyQt5 code",
-      "path": "P Y T H O N/GUI/PyQt/PyQt Codemy/_ 0 PyQt5 code.md"
     }
   ],
   "omittedPaths": [],
