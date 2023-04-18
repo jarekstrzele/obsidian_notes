@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Rust Programming Tutorial/7 Tuples.md",
+                "file": "R U S T/Rust Programming Tutorial/8 Funcs, Blocks, Shadowing.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "P Y T H O N/OOP Python udemy/8 Descriptors.md",
+                "file": "R U S T/Rust Programming Tutorial/8 Funcs, Blocks, Shadowing.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "P Y T H O N/OOP Python udemy/8 Descriptors.md",
+                "file": "R U S T/Rust Programming Tutorial/8 Funcs, Blocks, Shadowing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "P Y T H O N/OOP Python udemy/8 Descriptors.md"
+                "file": "R U S T/Rust Programming Tutorial/8 Funcs, Blocks, Shadowing.md"
               }
             }
           },
@@ -194,10 +193,11 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "f1b671732f326a5f",
+  "active": "c1846cda1ba6ca82",
   "lastOpenFiles": [
-    "R U S T/Rust Programming Tutorial/8 Funcs, Blocks, Shadowing.md",
     "R U S T/Rust Programming Tutorial/7 Tuples.md",
+    "P Y T H O N/OOP Python udemy/8 Descriptors.md",
+    "R U S T/Rust Programming Tutorial/8 Funcs, Blocks, Shadowing.md",
     "R U S T/Rust Programming Tutorial/6 Constants.md",
     "R U S T/Rust Programming Tutorial/5 Enum Types.md",
     "R U S T/Rust Programming Tutorial/4 Loops.md",
@@ -221,7 +221,6 @@
     "REACT NATIVE/calendar.md",
     "N_O_D_E/NodeJS - fullstack/2.2. Buffer.md",
     "REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
-    "REACT NATIVE/Master React Native Funds/_ 0 start React Native.md",
     "R U S T/Rust Programming For Beginners",
     "A I/JS uczenie maszynowe",
     "R U S T/Rust by example",
