@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5f4f31752f4cc57a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/QTableWidget.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -118,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md",
+                "file": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/QTableWidget.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -135,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md",
+                "file": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/QTableWidget.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md"
+                "file": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/QTableWidget.md"
               }
             }
           },
@@ -206,16 +218,16 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "20d51f3f5d925004",
+  "active": "5f4f31752f4cc57a",
   "lastOpenFiles": [
-    "P Y T H O N/GUI/PYQt5 stackwidget.md",
-    "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
     "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md",
+    "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
+    "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/QTableWidget.md",
+    "P Y T H O N/GUI/PYQt5 stackwidget.md",
     "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/4 Pre-defined dialogs and basic data types.md",
     "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/Multiple Screens.md",
     "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/CheckList.md",
     "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/_ 0 PyQt with Hala.md",
-    "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/QTableWidget.md",
     "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/two screen in one window.md",
     "P Y T H O N/GUI/PySide6/_ 0 PySide.md",
     "P Y T H O N/GUI/get_url.md",

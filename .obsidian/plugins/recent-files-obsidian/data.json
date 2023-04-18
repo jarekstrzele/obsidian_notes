@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "QTableWidget",
+      "path": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/QTableWidget.md"
+    },
+    {
       "basename": "5 Simple QWidgets",
       "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md"
     },
     {
-      "basename": "PYQt5 stackwidget",
-      "path": "P Y T H O N/GUI/PYQt5 stackwidget.md"
-    },
-    {
       "basename": "9 QtDesigner",
       "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md"
+    },
+    {
+      "basename": "PYQt5 stackwidget",
+      "path": "P Y T H O N/GUI/PYQt5 stackwidget.md"
     },
     {
       "basename": "4 Pre-defined dialogs and basic data types",
@@ -27,10 +31,6 @@
     {
       "basename": "_ 0 PyQt with Hala",
       "path": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/_ 0 PyQt with Hala.md"
-    },
-    {
-      "basename": "QTableWidget",
-      "path": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/QTableWidget.md"
     },
     {
       "basename": "two screen in one window",
