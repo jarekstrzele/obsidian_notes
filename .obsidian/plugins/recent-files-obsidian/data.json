@@ -1,20 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "QTableWidget",
-      "path": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/QTableWidget.md"
+      "basename": "1 Hello World App",
+      "path": "R U S T/Rust Programming Tutorial/1 Hello World App.md"
     },
     {
-      "basename": "5 Simple QWidgets",
-      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md"
+      "basename": "_ Rust Programming Tutorial",
+      "path": "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md"
+    },
+    {
+      "basename": "_ Rust Programming for Beginners",
+      "path": "R U S T/Rust Programming For Beginners/_ Rust Programming for Beginners.md"
+    },
+    {
+      "basename": "_ 0 Rust",
+      "path": "R U S T/Rust - FreeCode Beginner/_ 0 Rust.md"
+    },
+    {
+      "basename": "PYQt5 stackwidget",
+      "path": "P Y T H O N/GUI/PYQt5 stackwidget.md"
     },
     {
       "basename": "9 QtDesigner",
       "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md"
     },
     {
-      "basename": "PYQt5 stackwidget",
-      "path": "P Y T H O N/GUI/PYQt5 stackwidget.md"
+      "basename": "5 Simple QWidgets",
+      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md"
+    },
+    {
+      "basename": "QTableWidget",
+      "path": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/QTableWidget.md"
     },
     {
       "basename": "4 Pre-defined dialogs and basic data types",
@@ -133,10 +149,6 @@
       "path": "R U S T/Rust Programming Tutorial/3 If statement.md"
     },
     {
-      "basename": "_ Rust Programming Tutorial",
-      "path": "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md"
-    },
-    {
       "basename": "DAY JS",
       "path": "JAVASCRIPT/DAY JS.md"
     },
@@ -151,10 +163,6 @@
     {
       "basename": "2 Variables",
       "path": "R U S T/Rust Programming Tutorial/2 Variables.md"
-    },
-    {
-      "basename": "1 Hello World App",
-      "path": "R U S T/Rust Programming Tutorial/1 Hello World App.md"
     },
     {
       "basename": "8 Descriptors",
@@ -191,14 +199,6 @@
     {
       "basename": "_ Rust by Example",
       "path": "R U S T/Rust by example/_ Rust by Example.md"
-    },
-    {
-      "basename": "_ Learn Rust by Building Apps",
-      "path": "R U S T/Learn Rust by Building Real App/_ Learn Rust by Building Apps.md"
-    },
-    {
-      "basename": "9 Memory management, Heap and Stack",
-      "path": "R U S T/Tech with TIm Rust/9 Memory management, Heap and Stack.md"
     }
   ],
   "omittedPaths": [],
