@@ -1,7 +1,5 @@
 #rust/enum #enum 
-
 [[_ Rust Programming Tutorial]]
-
 
 ```rust
 enum Direction {

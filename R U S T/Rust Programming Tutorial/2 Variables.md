@@ -2,14 +2,10 @@
 ```rust
 fn main() {
     let x = 45 ;
-
     println!("The value of x: {}", x) ;
-
 }
-
 output: The value of x: 45
 ```
-
 
 
 > 

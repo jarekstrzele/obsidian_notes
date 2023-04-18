@@ -1,6 +1,5 @@
 #tuple #rust/tuple 
 
-
 ```rust
 fn main() {
     
@@ -8,10 +7,7 @@ fn main() {
 
     println!("tuple1.2 {}", tupl1.2) ;
     println!("tuple1.2 {}", (tupl1.4).2) ;
-
-
 }
-
 ```
 
 
