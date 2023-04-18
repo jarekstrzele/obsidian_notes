@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "9 Reference",
+      "path": "R U S T/Rust Programming Tutorial/9 Reference.md"
+    },
+    {
       "basename": "8 Funcs, Blocks, Shadowing",
       "path": "R U S T/Rust Programming Tutorial/8 Funcs, Blocks, Shadowing.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2. Route parameters",
       "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/2. Route parameters.md"
-    },
-    {
-      "basename": "Dynamic Digital Clock",
-      "path": "REACT NATIVE/_ Proste aplikacje/Dynamic Digital Clock.md"
     }
   ],
   "omittedPaths": [],
