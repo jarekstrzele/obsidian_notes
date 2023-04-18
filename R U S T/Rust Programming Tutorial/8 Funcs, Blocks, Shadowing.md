@@ -64,6 +64,25 @@ fn main(){
 }
 ```
 
+and one thing more -> change the type of the variable
+```rust
+fn main(){
+	let mut x = 10 ;
+	{
+		let x=15 ;
+	}
+	println!("{}", x) //-> output 10
+	
+	let x = "it is a string" ;
+	println!("{}", x) //-> it is a string
+
+	let x = true ;
+	println!("{}", x) //-> it is a string
+
+}
+```
+
+
 
 
 
