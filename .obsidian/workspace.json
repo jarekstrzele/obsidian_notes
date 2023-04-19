@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REACT NATIVE/calendar.md",
+                "file": "R U S T/Rust Programming Tutorial/10 Structs.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REACT NATIVE/calendar.md",
+                "file": "R U S T/Rust Programming Tutorial/10 Structs.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REACT NATIVE/calendar.md",
+                "file": "R U S T/Rust Programming Tutorial/10 Structs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REACT NATIVE/calendar.md"
+                "file": "R U S T/Rust Programming Tutorial/10 Structs.md"
               }
             }
           },
@@ -232,8 +232,10 @@
   },
   "active": "361880cdd637bac8",
   "lastOpenFiles": [
-    "R U S T/Rust Programming Tutorial/9 Reference.md",
+    "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md",
     "R U S T/Rust Programming Tutorial/10 Structs.md",
+    "R U S T/Rust Programming Tutorial/9 Reference.md",
+    "REACT NATIVE/calendar.md",
     "R U S T/Rust Programming Tutorial/8 Funcs, Blocks, Shadowing.md",
     "R U S T/Rust Programming Tutorial/7 Tuples.md",
     "P Y T H O N/OOP Python udemy/8 Descriptors.md",
@@ -243,7 +245,6 @@
     "R U S T/Rust Programming Tutorial/3 If statement.md",
     "R U S T/Rust Programming Tutorial/2 Variables.md",
     "R U S T/Rust Programming Tutorial/1 Hello World App.md",
-    "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md",
     "R U S T/Rust Programming For Beginners/_ Rust Programming for Beginners.md",
     "R U S T/Rust - FreeCode Beginner/_ 0 Rust.md",
     "P Y T H O N/GUI/PYQt5 stackwidget.md",
@@ -257,7 +258,6 @@
     "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/two screen in one window.md",
     "P Y T H O N/GUI/PySide6/_ 0 PySide.md",
     "P Y T H O N/GUI/get_url.md",
-    "REACT NATIVE/calendar.md",
     "R U S T/Rust Programming For Beginners",
     "A I/JS uczenie maszynowe",
     "R U S T/Rust by example",
