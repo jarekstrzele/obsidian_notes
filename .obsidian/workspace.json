@@ -4,107 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "5fdd3713f65f97bf",
+        "id": "3648ab8d70e3b51c",
         "type": "tabs",
         "children": [
           {
-            "id": "c1846cda1ba6ca82",
+            "id": "7bfa92a885ed5c7e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Rust Programming Tutorial/8 Funcs, Blocks, Shadowing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a41e02b5fd863a09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "R U S T/Rust Programming Tutorial/9 Reference.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e969adb2da80ea00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "R U S T/Rust Programming Tutorial/10 Structs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f1b671732f326a5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "P Y T H O N/OOP Python udemy/8 Descriptors.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "361880cdd637bac8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "R U S T/Rust Programming Tutorial/9 Reference.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "979b17be3842ddaf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "R U S T/Rust Programming Tutorial/9 Reference.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "768934fd9a03b242",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HASKELL/for_great_good/7 Types and TypeClasses.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c73f33b95e39f759",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/3 Node praca z Sys. Plików.md",
+                "file": "REACT NATIVE/calendar.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/3 Node praca z Sys. Plików.md",
+                "file": "REACT NATIVE/calendar.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -195,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/3 Node praca z Sys. Plików.md",
+                "file": "REACT NATIVE/calendar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/3 Node praca z Sys. Plików.md"
+                "file": "REACT NATIVE/calendar.md"
               }
             }
           },
@@ -266,10 +181,10 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "c73f33b95e39f759",
+  "active": "7bfa92a885ed5c7e",
   "lastOpenFiles": [
-    "HASKELL/for_great_good/7 Types and TypeClasses.md",
     "N_O_D_E/NodeJS - fullstack/3 Node praca z Sys. Plików.md",
+    "HASKELL/for_great_good/7 Types and TypeClasses.md",
     "R U S T/Rust Programming Tutorial/9 Reference.md",
     "R U S T/Rust Programming Tutorial/8 Funcs, Blocks, Shadowing.md",
     "R U S T/Rust Programming Tutorial/10 Structs.md",
