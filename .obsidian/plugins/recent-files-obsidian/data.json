@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "3.5. usuwanie plików i katalogów",
+      "path": "N_O_D_E/NodeJS - fullstack/3.5. usuwanie plików i katalogów.md"
+    },
+    {
       "basename": "3.4. Przenoszenie i zmiana nazw plików",
       "path": "N_O_D_E/NodeJS - fullstack/3.4. Przenoszenie i zmiana nazw plików.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_ 0 Node (Mosh)",
       "path": "N_O_D_E/Mosh Node/_ 0 Node (Mosh).md"
-    },
-    {
-      "basename": "3 Node Basics",
-      "path": "N_O_D_E/NODE - the complete guide/3 Node Basics.md"
     }
   ],
   "omittedPaths": [],
