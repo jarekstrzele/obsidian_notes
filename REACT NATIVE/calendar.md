@@ -200,7 +200,7 @@ export default function App() {
 
     items={wydarzenia}
     renderItem={renderWydarzenia}
-    renderEmptyDate = {renderEmptyDate}
+    renderEmptyData = {renderEmptyDate}
   />
 
   );
