@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "3.3. Tworzenie plików i katalogów",
-      "path": "N_O_D_E/NodeJS - fullstack/3.3. Tworzenie plików i katalogów.md"
+      "basename": "3.4. Przenoszenie i zmiana nazw plików",
+      "path": "N_O_D_E/NodeJS - fullstack/3.4. Przenoszenie i zmiana nazw plików.md"
     },
     {
       "basename": "3 Node praca z Sys. Plików",
       "path": "N_O_D_E/NodeJS - fullstack/3 Node praca z Sys. Plików.md"
     },
     {
+      "basename": "3.1. Odczytywanie info o plikach",
+      "path": "N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md"
+    },
+    {
       "basename": "3.2. Odczytywanie plików",
       "path": "N_O_D_E/NodeJS - fullstack/3.2. Odczytywanie plików.md"
     },
     {
-      "basename": "3.1. Odczytywanie info o plikach",
-      "path": "N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md"
+      "basename": "3.3. Tworzenie plików i katalogów",
+      "path": "N_O_D_E/NodeJS - fullstack/3.3. Tworzenie plików i katalogów.md"
     },
     {
       "basename": "calendar",
@@ -195,10 +199,6 @@
     {
       "basename": "3 Node Basics",
       "path": "N_O_D_E/NODE - the complete guide/3 Node Basics.md"
-    },
-    {
-      "basename": "_0 Node Complete Guide",
-      "path": "N_O_D_E/NODE - the complete guide/_0 Node Complete Guide.md"
     }
   ],
   "omittedPaths": [],
