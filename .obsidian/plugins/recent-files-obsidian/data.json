@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "3.2. Odczytywanie plików",
+      "path": "N_O_D_E/NodeJS - fullstack/3.2. Odczytywanie plików.md"
+    },
+    {
       "basename": "3 Node praca z Sys. Plików",
       "path": "N_O_D_E/NodeJS - fullstack/3 Node praca z Sys. Plików.md"
+    },
+    {
+      "basename": "3.1. Odczytywanie info o plikach",
+      "path": "N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md"
     },
     {
       "basename": "calendar",
@@ -191,14 +199,6 @@
     {
       "basename": "DAY JS",
       "path": "JAVASCRIPT/DAY JS.md"
-    },
-    {
-      "basename": "_ 0 React Native Mobile Apps",
-      "path": "REACT NATIVE/plurasight/Building Mobile Apps with React Native/_ 0 React Native Mobile Apps.md"
-    },
-    {
-      "basename": "Drawer Navigator",
-      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer or Bottom-Tabs Navigators/Drawer Navigator.md"
     }
   ],
   "omittedPaths": [],

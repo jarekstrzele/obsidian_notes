@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f020e1d740a4db51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "N_O_D_E/NodeJS - fullstack/3.2. Odczytywanie plików.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2de2e3718f2f225b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/3 Node praca z Sys. Plików.md",
+                "file": "N_O_D_E/NodeJS - fullstack/3.2. Odczytywanie plików.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/3 Node praca z Sys. Plików.md",
+                "file": "N_O_D_E/NodeJS - fullstack/3.2. Odczytywanie plików.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/3 Node praca z Sys. Plików.md"
+                "file": "N_O_D_E/NodeJS - fullstack/3.2. Odczytywanie plików.md"
               }
             }
           },
@@ -181,10 +206,12 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "6bf3ac78d8acbe8e",
+  "active": "f020e1d740a4db51",
   "lastOpenFiles": [
-    "REACT NATIVE/calendar.md",
     "N_O_D_E/NodeJS - fullstack/3 Node praca z Sys. Plików.md",
+    "N_O_D_E/NodeJS - fullstack/3.2. Odczytywanie plików.md",
+    "N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md",
+    "REACT NATIVE/calendar.md",
     "HASKELL/for_great_good/7 Types and TypeClasses.md",
     "R U S T/Rust Programming Tutorial/9 Reference.md",
     "R U S T/Rust Programming Tutorial/8 Funcs, Blocks, Shadowing.md",
@@ -207,8 +234,6 @@
     "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md",
     "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/QTableWidget.md",
     "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/4 Pre-defined dialogs and basic data types.md",
-    "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/Multiple Screens.md",
-    "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/CheckList.md",
     "R U S T/Rust Programming For Beginners",
     "A I/JS uczenie maszynowe",
     "R U S T/Rust by example",
