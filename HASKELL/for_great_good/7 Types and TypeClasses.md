@@ -17,6 +17,38 @@ in the standard library `Bool` is  define:
 #### ` type = value constructor`
 
 
+## examples
+### to represent a shape in Haskell
+- by tuple  `(43, 50, 10.4)` (x,y,radius)
+- better way by making your own data type (shape can be Circle or Rectangle only)
+
+`data Shape = Circle Float Float Float | Rectangle Float Float Float Float`
+
+`Circle` value contructor has three fields which takes  floats
+(fileds are parameters)
+> value constructor is a function that returns a value of data type
+
+```haskell
+ghci> :t Circle  
+Circle :: Float -> Float -> Float -> Shape  
+ghci> :t Rectangle  
+Rectangle :: Float -> Float -> Float -> Float -> Shape
+```
+```haskell
+surface :: Shape -> Float
+surface (Circle _ _ r) = pi * r*
+```
+
+
+
+
+
+
+
+
+
+
+
 
 
 
