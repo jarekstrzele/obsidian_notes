@@ -190,31 +190,18 @@ export default function App() {
   return (
 
     <View >
-
       <Text>{wydarzenie.opis}</Text>
-
       <Text>{wydarzenie.czas}</Text>
-
     </View>
-
   )
-
  }
 
-  
-
   function renderEmptyDate(){
-
     return (
-
       <View>
-
-        <Text>W tym dni nie ma nic do roboty</Text>
-
+       <Text>W tym dni nie ma nic do roboty</Text>
       </View>
-
     )
-
   }
 
   return (
