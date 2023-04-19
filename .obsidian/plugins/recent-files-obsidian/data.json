@@ -1,24 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "9 Reference",
+      "path": "R U S T/Rust Programming Tutorial/9 Reference.md"
+    },
+    {
+      "basename": "9 Reference",
+      "path": "9 Reference.md"
+    },
+    {
+      "basename": "8 Funcs, Blocks, Shadowing",
+      "path": "R U S T/Rust Programming Tutorial/8 Funcs, Blocks, Shadowing.md"
+    },
+    {
       "basename": "10 Structs",
       "path": "R U S T/Rust Programming Tutorial/10 Structs.md"
+    },
+    {
+      "basename": "11 Arrays",
+      "path": "R U S T/Rust Programming Tutorial/11 Arrays.md"
     },
     {
       "basename": "_ Rust Programming Tutorial",
       "path": "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md"
     },
     {
-      "basename": "9 Reference",
-      "path": "R U S T/Rust Programming Tutorial/9 Reference.md"
-    },
-    {
       "basename": "calendar",
       "path": "REACT NATIVE/calendar.md"
-    },
-    {
-      "basename": "8 Funcs, Blocks, Shadowing",
-      "path": "R U S T/Rust Programming Tutorial/8 Funcs, Blocks, Shadowing.md"
     },
     {
       "basename": "7 Tuples",
@@ -191,14 +199,6 @@
     {
       "basename": "1 Add action to React Navigator",
       "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/1 Add action to React Navigator.md"
-    },
-    {
-      "basename": "_ 0 React Native Navigation",
-      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/_ 0 React Native Navigation.md"
-    },
-    {
-      "basename": "6 Outputting Content in the Meal Detail Screen",
-      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/6 Outputting Content in the Meal Detail Screen.md"
     }
   ],
   "omittedPaths": [],

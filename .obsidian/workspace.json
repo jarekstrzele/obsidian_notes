@@ -61,14 +61,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Rust Programming Tutorial/10 Structs.md",
+                "file": "R U S T/Rust Programming Tutorial/9 Reference.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "979b17be3842ddaf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "R U S T/Rust Programming Tutorial/9 Reference.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -142,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust Programming Tutorial/10 Structs.md",
+                "file": "R U S T/Rust Programming Tutorial/9 Reference.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -159,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust Programming Tutorial/10 Structs.md",
+                "file": "R U S T/Rust Programming Tutorial/9 Reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Rust Programming Tutorial/10 Structs.md"
+                "file": "R U S T/Rust Programming Tutorial/9 Reference.md"
               }
             }
           },
@@ -230,13 +242,15 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "361880cdd637bac8",
+  "active": "979b17be3842ddaf",
   "lastOpenFiles": [
-    "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md",
-    "R U S T/Rust Programming Tutorial/10 Structs.md",
-    "R U S T/Rust Programming Tutorial/9 Reference.md",
-    "REACT NATIVE/calendar.md",
+    "9 Reference.md",
     "R U S T/Rust Programming Tutorial/8 Funcs, Blocks, Shadowing.md",
+    "R U S T/Rust Programming Tutorial/9 Reference.md",
+    "R U S T/Rust Programming Tutorial/10 Structs.md",
+    "R U S T/Rust Programming Tutorial/11 Arrays.md",
+    "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md",
+    "REACT NATIVE/calendar.md",
     "R U S T/Rust Programming Tutorial/7 Tuples.md",
     "P Y T H O N/OOP Python udemy/8 Descriptors.md",
     "R U S T/Rust Programming Tutorial/6 Constants.md",
@@ -256,8 +270,6 @@
     "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/CheckList.md",
     "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/_ 0 PyQt with Hala.md",
     "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/two screen in one window.md",
-    "P Y T H O N/GUI/PySide6/_ 0 PySide.md",
-    "P Y T H O N/GUI/get_url.md",
     "R U S T/Rust Programming For Beginners",
     "A I/JS uczenie maszynowe",
     "R U S T/Rust by example",
