@@ -31,7 +31,7 @@ export default function App() {
 
   return (
     <View style={styles.container}>
-      <Calendar
+      <Calendar 
         onDayPress={ dataSelectionHandler }
         markedDates={ {
               [selectedDate]: {selected: true, selectedTextColor: 'red'} ,
