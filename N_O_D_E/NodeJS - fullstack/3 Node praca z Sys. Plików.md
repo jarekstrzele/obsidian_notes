@@ -65,7 +65,7 @@ console.log("To jest przed funkcja asynchroniczną")
 ```
 
 ---
-# `readdit`  odczytywanie zawartości katalogu
+# `readdir`  odczytywanie zawartości katalogu
 
 
 
