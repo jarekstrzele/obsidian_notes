@@ -1,4 +1,6 @@
 #rust 
+[[#Passing by reference]]
+
 
 >[!info] reference
 >It is just another way to refer to a variable
@@ -102,6 +104,58 @@ fn print_color(c: &Color){
 output
 RGB - red: 0 green 0 blue 255
 ```
+
+this code print has an erro
+```rust
+struct Color{
+  red: u8,
+  green: u8,
+  blue: u8
+}
+
+
+fn main(){
+  let blue = Color {red: 0, green: 0, blue: 255} ;
+
+  print_color(blue) ;
+  print_color(blue) ; 
+  
+  
+}
+
+fn print_color(c: Color){
+  println!("RGB - red: {} green {} blue {}", c.red, c.green, c.blue) ;
+}
+10 |
+11 |   print_color(blue) ;
+   |               ---- value moved here
+12 |   print_color(blue) ;
+   |               ^^^^ value used here after move
+```
+
+this one is ok:
+```rust
+struct Color{
+  red: u8,
+  green: u8,
+  blue: u8
+}
+
+
+fn main(){
+  let blue = Color {red: 0, green: 0, blue: 255} ;
+
+  print_color(&blue) ;
+  print_color(&blue) ;
+    
+}
+
+fn print_color(c: &Color){
+  println!("RGB - red: {} green {} blue {}", c.red, c.green, c.blue) ;
+}
+
+```
+
 
 
 

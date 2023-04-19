@@ -5,16 +5,16 @@
       "path": "R U S T/Rust Programming Tutorial/9 Reference.md"
     },
     {
-      "basename": "9 Reference",
-      "path": "9 Reference.md"
-    },
-    {
       "basename": "8 Funcs, Blocks, Shadowing",
       "path": "R U S T/Rust Programming Tutorial/8 Funcs, Blocks, Shadowing.md"
     },
     {
       "basename": "10 Structs",
       "path": "R U S T/Rust Programming Tutorial/10 Structs.md"
+    },
+    {
+      "basename": "9 Reference",
+      "path": "9 Reference.md"
     },
     {
       "basename": "11 Arrays",
