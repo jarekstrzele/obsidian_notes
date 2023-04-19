@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "7 Types and TypeClasses",
+      "path": "HASKELL/for_great_good/7 Types and TypeClasses.md"
+    },
+    {
       "basename": "9 Reference",
       "path": "R U S T/Rust Programming Tutorial/9 Reference.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "BottomNavigator",
       "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer or Bottom-Tabs Navigators/BottomNavigator.md"
-    },
-    {
-      "basename": "1 Add action to React Navigator",
-      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/1 Add action to React Navigator.md"
     }
   ],
   "omittedPaths": [],
