@@ -10,23 +10,14 @@ const path = require('path') ;
 // path.sep --> '/' separator zależy od systemu
 // path.join(sieżka, callback) połączy stringi odpowiednim separatorem
 fs.exists(path.join(__dirname, 'teksty', 'lorem_12.txt' ),
-
                     function(exists) {
-
                         if (exists){
-
                         console.log("Plik istnieje") ;
-
                         }
-
                         else {
-
                         console.log("plik nie istnieje") ;
-
                             }})
-
 console.log("To jest przed funkcja asynchroniczną")
-
 
 ```
 bo jeżeli nie ma funkcji zwrotnej, `exists` zachowuje się niejednoznacznie
@@ -74,7 +65,7 @@ console.log("To jest przed funkcja asynchroniczną")
 ```
 
 ---
-# `readdit`odczytywanie zawartości katalogu
+# `readdit`  odczytywanie zawartości katalogu
 
 
 

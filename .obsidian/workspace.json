@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3648ab8d70e3b51c",
+        "id": "c739487c04ea4e1d",
         "type": "tabs",
         "children": [
           {
-            "id": "7bfa92a885ed5c7e",
+            "id": "6bf3ac78d8acbe8e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REACT NATIVE/calendar.md",
+                "file": "N_O_D_E/NodeJS - fullstack/3 Node praca z Sys. Plików.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REACT NATIVE/calendar.md",
+                "file": "N_O_D_E/NodeJS - fullstack/3 Node praca z Sys. Plików.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REACT NATIVE/calendar.md",
+                "file": "N_O_D_E/NodeJS - fullstack/3 Node praca z Sys. Plików.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REACT NATIVE/calendar.md"
+                "file": "N_O_D_E/NodeJS - fullstack/3 Node praca z Sys. Plików.md"
               }
             }
           },
@@ -181,8 +181,9 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "7bfa92a885ed5c7e",
+  "active": "6bf3ac78d8acbe8e",
   "lastOpenFiles": [
+    "REACT NATIVE/calendar.md",
     "N_O_D_E/NodeJS - fullstack/3 Node praca z Sys. Plików.md",
     "HASKELL/for_great_good/7 Types and TypeClasses.md",
     "R U S T/Rust Programming Tutorial/9 Reference.md",
@@ -191,7 +192,6 @@
     "9 Reference.md",
     "R U S T/Rust Programming Tutorial/11 Arrays.md",
     "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md",
-    "REACT NATIVE/calendar.md",
     "R U S T/Rust Programming Tutorial/7 Tuples.md",
     "P Y T H O N/OOP Python udemy/8 Descriptors.md",
     "R U S T/Rust Programming Tutorial/6 Constants.md",
