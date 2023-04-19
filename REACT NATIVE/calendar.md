@@ -199,11 +199,8 @@ export default function App() {
   <Agenda
 
     items={wydarzenia}
-
     renderItem={renderWydarzenia}
-
     renderEmptyDate = {renderEmptyDate}
-
   />
 
   );
