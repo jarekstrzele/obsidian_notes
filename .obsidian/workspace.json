@@ -90,9 +90,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c73f33b95e39f759",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "N_O_D_E/NodeJS - fullstack/3 Node praca z Sys. Plików.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -166,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/for_great_good/7 Types and TypeClasses.md",
+                "file": "N_O_D_E/NodeJS - fullstack/3 Node praca z Sys. Plików.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -183,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/for_great_good/7 Types and TypeClasses.md",
+                "file": "N_O_D_E/NodeJS - fullstack/3 Node praca z Sys. Plików.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/for_great_good/7 Types and TypeClasses.md"
+                "file": "N_O_D_E/NodeJS - fullstack/3 Node praca z Sys. Plików.md"
               }
             }
           },
@@ -254,10 +266,11 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "768934fd9a03b242",
+  "active": "c73f33b95e39f759",
   "lastOpenFiles": [
-    "R U S T/Rust Programming Tutorial/9 Reference.md",
     "HASKELL/for_great_good/7 Types and TypeClasses.md",
+    "N_O_D_E/NodeJS - fullstack/3 Node praca z Sys. Plików.md",
+    "R U S T/Rust Programming Tutorial/9 Reference.md",
     "R U S T/Rust Programming Tutorial/8 Funcs, Blocks, Shadowing.md",
     "R U S T/Rust Programming Tutorial/10 Structs.md",
     "9 Reference.md",
@@ -281,7 +294,6 @@
     "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/4 Pre-defined dialogs and basic data types.md",
     "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/Multiple Screens.md",
     "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/CheckList.md",
-    "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/_ 0 PyQt with Hala.md",
     "R U S T/Rust Programming For Beginners",
     "A I/JS uczenie maszynowe",
     "R U S T/Rust by example",

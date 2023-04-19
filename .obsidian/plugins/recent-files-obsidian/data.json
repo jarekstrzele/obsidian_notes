@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "3 Node praca z Sys. Plików",
+      "path": "N_O_D_E/NodeJS - fullstack/3 Node praca z Sys. Plików.md"
+    },
+    {
       "basename": "7 Types and TypeClasses",
       "path": "HASKELL/for_great_good/7 Types and TypeClasses.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Drawer Navigator",
       "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer or Bottom-Tabs Navigators/Drawer Navigator.md"
-    },
-    {
-      "basename": "BottomNavigator",
-      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer or Bottom-Tabs Navigators/BottomNavigator.md"
     }
   ],
   "omittedPaths": [],
