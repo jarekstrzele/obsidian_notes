@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "P Y T H O N/GUI/PYQt5 stackwidget.md",
+                "file": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/QTableWidget.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "P Y T H O N/GUI/PYQt5 stackwidget.md",
+                "file": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/QTableWidget.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "P Y T H O N/GUI/PYQt5 stackwidget.md",
+                "file": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/QTableWidget.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "P Y T H O N/GUI/PYQt5 stackwidget.md"
+                "file": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/QTableWidget.md"
               }
             }
           },
@@ -244,6 +244,7 @@
   },
   "active": "5baa9bd6719fabaf",
   "lastOpenFiles": [
+    "P Y T H O N/GUI/PYQt5 stackwidget.md",
     "N_O_D_E/NodeJS - fullstack/3.2. Odczytywanie plików.md",
     "N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md",
     "N_O_D_E/NodeJS - fullstack/3 Node praca z Sys. Plików.md",
@@ -269,7 +270,6 @@
     "R U S T/Rust Programming Tutorial/1 Hello World App.md",
     "R U S T/Rust Programming For Beginners/_ Rust Programming for Beginners.md",
     "R U S T/Rust - FreeCode Beginner/_ 0 Rust.md",
-    "P Y T H O N/GUI/PYQt5 stackwidget.md",
     "R U S T/Rust Programming For Beginners",
     "A I/JS uczenie maszynowe",
     "R U S T/Rust by example",

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "QTableWidget",
+      "path": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/QTableWidget.md"
+    },
+    {
       "basename": "PYQt5 stackwidget",
       "path": "P Y T H O N/GUI/PYQt5 stackwidget.md"
     },
@@ -111,10 +115,6 @@
     {
       "basename": "5 Simple QWidgets",
       "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md"
-    },
-    {
-      "basename": "QTableWidget",
-      "path": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/QTableWidget.md"
     },
     {
       "basename": "4 Pre-defined dialogs and basic data types",
