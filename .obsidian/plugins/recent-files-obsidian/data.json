@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "3.6. Obserwowanie zmian w plikach",
+      "path": "N_O_D_E/NodeJS - fullstack/3.6. Obserwowanie zmian w plikach.md"
+    },
+    {
+      "basename": "3 Node praca z Sys. Plików",
+      "path": "N_O_D_E/NodeJS - fullstack/3 Node praca z Sys. Plików.md"
+    },
+    {
+      "basename": "_ 0 NodeJS - zostań fullstack",
+      "path": "N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md"
+    },
+    {
+      "basename": "3.5. usuwanie plików i katalogów",
+      "path": "N_O_D_E/NodeJS - fullstack/3.5. usuwanie plików i katalogów.md"
+    },
+    {
       "basename": "QTableWidget",
       "path": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/QTableWidget.md"
     },
@@ -17,16 +33,8 @@
       "path": "N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md"
     },
     {
-      "basename": "3 Node praca z Sys. Plików",
-      "path": "N_O_D_E/NodeJS - fullstack/3 Node praca z Sys. Plików.md"
-    },
-    {
       "basename": "3 - Algorytmy grafowe",
       "path": "algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md"
-    },
-    {
-      "basename": "3.5. usuwanie plików i katalogów",
-      "path": "N_O_D_E/NodeJS - fullstack/3.5. usuwanie plików i katalogów.md"
     },
     {
       "basename": "3.4. Przenoszenie i zmiana nazw plików",
@@ -181,10 +189,6 @@
       "path": "N_O_D_E/NodeJS - fullstack/1 Moduły.md"
     },
     {
-      "basename": "_ 0 NodeJS - zostań fullstack",
-      "path": "N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md"
-    },
-    {
       "basename": "2.4. Process",
       "path": "N_O_D_E/NodeJS - fullstack/2.4. Process.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "1 Node Module System",
       "path": "N_O_D_E/Mosh Node/1 Node Module System.md"
-    },
-    {
-      "basename": "_ 0 Node (Mosh)",
-      "path": "N_O_D_E/Mosh Node/_ 0 Node (Mosh).md"
     }
   ],
   "omittedPaths": [],
