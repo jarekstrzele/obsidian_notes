@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md",
+                "file": "N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md",
+                "file": "N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md",
+                "file": "N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md"
+                "file": "N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md"
               }
             }
           },
@@ -244,9 +244,10 @@
   },
   "active": "5baa9bd6719fabaf",
   "lastOpenFiles": [
+    "N_O_D_E/NodeJS - fullstack/3 Node praca z Sys. Plików.md",
+    "algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md",
     "N_O_D_E/NodeJS - fullstack/3.5. usuwanie plików i katalogów.md",
     "N_O_D_E/NodeJS - fullstack/3.4. Przenoszenie i zmiana nazw plików.md",
-    "N_O_D_E/NodeJS - fullstack/3 Node praca z Sys. Plików.md",
     "N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md",
     "N_O_D_E/NodeJS - fullstack/3.2. Odczytywanie plików.md",
     "N_O_D_E/NodeJS - fullstack/3.3. Tworzenie plików i katalogów.md",
@@ -269,7 +270,6 @@
     "R U S T/Rust Programming For Beginners/_ Rust Programming for Beginners.md",
     "R U S T/Rust - FreeCode Beginner/_ 0 Rust.md",
     "P Y T H O N/GUI/PYQt5 stackwidget.md",
-    "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/9 QtDesigner.md",
     "R U S T/Rust Programming For Beginners",
     "A I/JS uczenie maszynowe",
     "R U S T/Rust by example",
