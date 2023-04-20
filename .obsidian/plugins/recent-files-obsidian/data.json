@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "PYQt5 stackwidget",
+      "path": "P Y T H O N/GUI/PYQt5 stackwidget.md"
+    },
+    {
       "basename": "3.2. Odczytywanie plików",
       "path": "N_O_D_E/NodeJS - fullstack/3.2. Odczytywanie plików.md"
     },
@@ -99,10 +103,6 @@
     {
       "basename": "_ 0 Rust",
       "path": "R U S T/Rust - FreeCode Beginner/_ 0 Rust.md"
-    },
-    {
-      "basename": "PYQt5 stackwidget",
-      "path": "P Y T H O N/GUI/PYQt5 stackwidget.md"
     },
     {
       "basename": "9 QtDesigner",

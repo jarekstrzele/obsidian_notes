@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/3.2. Odczytywanie plików.md",
+                "file": "P Y T H O N/GUI/PYQt5 stackwidget.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/3.2. Odczytywanie plików.md",
+                "file": "P Y T H O N/GUI/PYQt5 stackwidget.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/3.2. Odczytywanie plików.md",
+                "file": "P Y T H O N/GUI/PYQt5 stackwidget.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/3.2. Odczytywanie plików.md"
+                "file": "P Y T H O N/GUI/PYQt5 stackwidget.md"
               }
             }
           },
@@ -244,12 +244,12 @@
   },
   "active": "5baa9bd6719fabaf",
   "lastOpenFiles": [
+    "N_O_D_E/NodeJS - fullstack/3.2. Odczytywanie plików.md",
     "N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md",
     "N_O_D_E/NodeJS - fullstack/3 Node praca z Sys. Plików.md",
     "algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md",
     "N_O_D_E/NodeJS - fullstack/3.5. usuwanie plików i katalogów.md",
     "N_O_D_E/NodeJS - fullstack/3.4. Przenoszenie i zmiana nazw plików.md",
-    "N_O_D_E/NodeJS - fullstack/3.2. Odczytywanie plików.md",
     "N_O_D_E/NodeJS - fullstack/3.3. Tworzenie plików i katalogów.md",
     "REACT NATIVE/calendar.md",
     "HASKELL/for_great_good/7 Types and TypeClasses.md",
