@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "4.1. Prosty serwer i klient TCP",
+      "path": "N_O_D_E/NodeJS - fullstack/4.1. Prosty serwer i klient TCP.md"
+    },
+    {
+      "basename": "4. Tworzenie serwerów",
+      "path": "N_O_D_E/NodeJS - fullstack/4. Tworzenie serwerów.md"
+    },
+    {
+      "basename": "_ 0 NodeJS - zostań fullstack",
+      "path": "N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md"
+    },
+    {
       "basename": "3.6. Obserwowanie zmian w plikach",
       "path": "N_O_D_E/NodeJS - fullstack/3.6. Obserwowanie zmian w plikach.md"
     },
@@ -19,10 +31,6 @@
     {
       "basename": "3 Node praca z Sys. Plików",
       "path": "N_O_D_E/NodeJS - fullstack/3 Node praca z Sys. Plików.md"
-    },
-    {
-      "basename": "_ 0 NodeJS - zostań fullstack",
-      "path": "N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md"
     },
     {
       "basename": "3.5. usuwanie plików i katalogów",
@@ -191,14 +199,6 @@
     {
       "basename": "2.4. Process",
       "path": "N_O_D_E/NodeJS - fullstack/2.4. Process.md"
-    },
-    {
-      "basename": "Dijkstra-graf.excalidraw",
-      "path": "Excalidraw/Dijkstra-graf.excalidraw.md"
-    },
-    {
-      "basename": "1 Node Module System",
-      "path": "N_O_D_E/Mosh Node/1 Node Module System.md"
     }
   ],
   "omittedPaths": [],
