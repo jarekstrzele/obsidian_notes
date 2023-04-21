@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "3.3. Tworzenie plików i katalogów",
+      "path": "N_O_D_E/NodeJS - fullstack/3.3. Tworzenie plików i katalogów.md"
+    },
+    {
       "basename": "3.2. Odczytywanie plików",
       "path": "N_O_D_E/NodeJS - fullstack/3.2. Odczytywanie plików.md"
     },
@@ -43,10 +47,6 @@
     {
       "basename": "3.6. Obserwowanie zmian w plikach",
       "path": "N_O_D_E/NodeJS - fullstack/3.6. Obserwowanie zmian w plikach.md"
-    },
-    {
-      "basename": "3.3. Tworzenie plików i katalogów",
-      "path": "N_O_D_E/NodeJS - fullstack/3.3. Tworzenie plików i katalogów.md"
     },
     {
       "basename": "3.4. Przenoszenie i zmiana nazw plików",
