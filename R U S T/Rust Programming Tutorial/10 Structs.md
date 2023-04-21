@@ -1,6 +1,12 @@
 #rust/struct
 
+----
+[[#Structs]]
+[[#Struct Tuples]]
 
+
+
+------
 # Structs
 
 >[!info] `struct`
@@ -59,6 +65,11 @@ output
 255  0  45
 ```
 
+
+
+------------
+# `Imp`
+ley word that allows us implements methods 
 
 
 
