@@ -1,16 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "3.3. Tworzenie plików i katalogów",
-      "path": "N_O_D_E/NodeJS - fullstack/3.3. Tworzenie plików i katalogów.md"
+      "basename": "11 Arrays",
+      "path": "R U S T/Rust Programming Tutorial/11 Arrays.md"
     },
     {
-      "basename": "3.2. Odczytywanie plików",
-      "path": "N_O_D_E/NodeJS - fullstack/3.2. Odczytywanie plików.md"
+      "basename": "10 Structs",
+      "path": "R U S T/Rust Programming Tutorial/10 Structs.md"
     },
     {
       "basename": "3.1. Odczytywanie info o plikach",
       "path": "N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md"
+    },
+    {
+      "basename": "QTableWidget",
+      "path": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/QTableWidget.md"
+    },
+    {
+      "basename": "3.4. Przenoszenie i zmiana nazw plików",
+      "path": "N_O_D_E/NodeJS - fullstack/3.4. Przenoszenie i zmiana nazw plików.md"
+    },
+    {
+      "basename": "3.3. Tworzenie plików i katalogów",
+      "path": "N_O_D_E/NodeJS - fullstack/3.3. Tworzenie plików i katalogów.md"
+    },
+    {
+      "basename": "4.1. Prosty serwer i klient TCP",
+      "path": "N_O_D_E/NodeJS - fullstack/4.1. Prosty serwer i klient TCP.md"
+    },
+    {
+      "basename": "4. Tworzenie serwerów",
+      "path": "N_O_D_E/NodeJS - fullstack/4. Tworzenie serwerów.md"
+    },
+    {
+      "basename": "3.6. Obserwowanie zmian w plikach",
+      "path": "N_O_D_E/NodeJS - fullstack/3.6. Obserwowanie zmian w plikach.md"
+    },
+    {
+      "basename": "3.2. Odczytywanie plików",
+      "path": "N_O_D_E/NodeJS - fullstack/3.2. Odczytywanie plików.md"
     },
     {
       "basename": "3 Node praca z Sys. Plików",
@@ -33,32 +61,12 @@
       "path": "N_O_D_E/NodeJS - fullstack/4.1.1. tworzenie własnego klienta.md"
     },
     {
-      "basename": "4. Tworzenie serwerów",
-      "path": "N_O_D_E/NodeJS - fullstack/4. Tworzenie serwerów.md"
-    },
-    {
-      "basename": "4.1. Prosty serwer i klient TCP",
-      "path": "N_O_D_E/NodeJS - fullstack/4.1. Prosty serwer i klient TCP.md"
-    },
-    {
       "basename": "_ 0 NodeJS - zostań fullstack",
       "path": "N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md"
     },
     {
-      "basename": "3.6. Obserwowanie zmian w plikach",
-      "path": "N_O_D_E/NodeJS - fullstack/3.6. Obserwowanie zmian w plikach.md"
-    },
-    {
-      "basename": "3.4. Przenoszenie i zmiana nazw plików",
-      "path": "N_O_D_E/NodeJS - fullstack/3.4. Przenoszenie i zmiana nazw plików.md"
-    },
-    {
       "basename": "3.5. usuwanie plików i katalogów",
       "path": "N_O_D_E/NodeJS - fullstack/3.5. usuwanie plików i katalogów.md"
-    },
-    {
-      "basename": "QTableWidget",
-      "path": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/QTableWidget.md"
     },
     {
       "basename": "PYQt5 stackwidget",
@@ -85,16 +93,8 @@
       "path": "R U S T/Rust Programming Tutorial/8 Funcs, Blocks, Shadowing.md"
     },
     {
-      "basename": "10 Structs",
-      "path": "R U S T/Rust Programming Tutorial/10 Structs.md"
-    },
-    {
       "basename": "9 Reference",
       "path": "9 Reference.md"
-    },
-    {
-      "basename": "11 Arrays",
-      "path": "R U S T/Rust Programming Tutorial/11 Arrays.md"
     },
     {
       "basename": "_ Rust Programming Tutorial",

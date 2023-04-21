@@ -4,131 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c739487c04ea4e1d",
+        "id": "c1b14dbbaa1c95eb",
         "type": "tabs",
         "children": [
           {
-            "id": "6bf3ac78d8acbe8e",
+            "id": "04bccf1dc56dfdd4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/3 Node praca z Sys. Plików.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f6645cf03e1575aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/3.6. Obserwowanie zmian w plikach.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f020e1d740a4db51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/3.2. Odczytywanie plików.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b52bbf20b238d2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/3.6. Obserwowanie zmian w plikach.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fe9ba771fb983ca2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/4. Tworzenie serwerów.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "778688baabbf994c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/4.1. Prosty serwer i klient TCP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5b953e71933f56f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/3.3. Tworzenie plików i katalogów.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "80c46b915e7e0e9f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/3.4. Przenoszenie i zmiana nazw plików.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5baa9bd6719fabaf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/QTableWidget.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2de2e3718f2f225b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md",
+                "file": "R U S T/Rust Programming Tutorial/11 Arrays.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -202,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/3.3. Tworzenie plików i katalogów.md",
+                "file": "R U S T/Rust Programming Tutorial/11 Arrays.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -219,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/3.3. Tworzenie plików i katalogów.md",
+                "file": "R U S T/Rust Programming Tutorial/11 Arrays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/3.3. Tworzenie plików i katalogów.md"
+                "file": "R U S T/Rust Programming Tutorial/11 Arrays.md"
               }
             }
           },
@@ -290,32 +181,32 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "5b953e71933f56f1",
+  "active": "04bccf1dc56dfdd4",
   "lastOpenFiles": [
-    "N_O_D_E/NodeJS - fullstack/3.2. Odczytywanie plików.md",
+    "R U S T/Rust Programming Tutorial/10 Structs.md",
+    "R U S T/Rust Programming Tutorial/11 Arrays.md",
     "N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md",
+    "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/QTableWidget.md",
+    "N_O_D_E/NodeJS - fullstack/3.4. Przenoszenie i zmiana nazw plików.md",
+    "N_O_D_E/NodeJS - fullstack/3.3. Tworzenie plików i katalogów.md",
+    "N_O_D_E/NodeJS - fullstack/4.1. Prosty serwer i klient TCP.md",
+    "N_O_D_E/NodeJS - fullstack/4. Tworzenie serwerów.md",
+    "N_O_D_E/NodeJS - fullstack/3.6. Obserwowanie zmian w plikach.md",
+    "N_O_D_E/NodeJS - fullstack/3.2. Odczytywanie plików.md",
     "N_O_D_E/NodeJS - fullstack/3 Node praca z Sys. Plików.md",
     "N_O_D_E/NodeJS - fullstack/2.3. Stream.md",
     "N_O_D_E/NodeJS - fullstack/2.2. Buffer.md",
     "N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md",
     "N_O_D_E/NodeJS - fullstack/4.1.1. tworzenie własnego klienta.md",
-    "N_O_D_E/NodeJS - fullstack/4. Tworzenie serwerów.md",
-    "N_O_D_E/NodeJS - fullstack/4.1. Prosty serwer i klient TCP.md",
     "N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md",
-    "N_O_D_E/NodeJS - fullstack/3.6. Obserwowanie zmian w plikach.md",
-    "N_O_D_E/NodeJS - fullstack/3.3. Tworzenie plików i katalogów.md",
-    "N_O_D_E/NodeJS - fullstack/3.4. Przenoszenie i zmiana nazw plików.md",
     "N_O_D_E/NodeJS - fullstack/3.5. usuwanie plików i katalogów.md",
-    "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/QTableWidget.md",
     "P Y T H O N/GUI/PYQt5 stackwidget.md",
     "algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md",
     "REACT NATIVE/calendar.md",
     "HASKELL/for_great_good/7 Types and TypeClasses.md",
     "R U S T/Rust Programming Tutorial/9 Reference.md",
     "R U S T/Rust Programming Tutorial/8 Funcs, Blocks, Shadowing.md",
-    "R U S T/Rust Programming Tutorial/10 Structs.md",
     "9 Reference.md",
-    "R U S T/Rust Programming Tutorial/11 Arrays.md",
     "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md",
     "R U S T/Rust Programming Tutorial/7 Tuples.md",
     "R U S T/Rust Programming For Beginners",
