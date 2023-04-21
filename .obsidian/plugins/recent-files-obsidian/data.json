@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "3.1. Odczytywanie info o plikach",
+      "path": "N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md"
+    },
+    {
+      "basename": "3 Node praca z Sys. Plików",
+      "path": "N_O_D_E/NodeJS - fullstack/3 Node praca z Sys. Plików.md"
+    },
+    {
+      "basename": "2.3. Stream",
+      "path": "N_O_D_E/NodeJS - fullstack/2.3. Stream.md"
+    },
+    {
+      "basename": "2.2. Buffer",
+      "path": "N_O_D_E/NodeJS - fullstack/2.2. Buffer.md"
+    },
+    {
+      "basename": "2.1. Zdarzenia",
+      "path": "N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md"
+    },
+    {
       "basename": "4.1.1. tworzenie własnego klienta",
       "path": "N_O_D_E/NodeJS - fullstack/4.1.1. tworzenie własnego klienta.md"
     },
@@ -33,10 +53,6 @@
       "path": "N_O_D_E/NodeJS - fullstack/3.4. Przenoszenie i zmiana nazw plików.md"
     },
     {
-      "basename": "3 Node praca z Sys. Plików",
-      "path": "N_O_D_E/NodeJS - fullstack/3 Node praca z Sys. Plików.md"
-    },
-    {
       "basename": "3.5. usuwanie plików i katalogów",
       "path": "N_O_D_E/NodeJS - fullstack/3.5. usuwanie plików i katalogów.md"
     },
@@ -47,10 +63,6 @@
     {
       "basename": "PYQt5 stackwidget",
       "path": "P Y T H O N/GUI/PYQt5 stackwidget.md"
-    },
-    {
-      "basename": "3.1. Odczytywanie info o plikach",
-      "path": "N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md"
     },
     {
       "basename": "3 - Algorytmy grafowe",
@@ -165,10 +177,6 @@
       "path": "P Y T H O N/GUI/get_url.md"
     },
     {
-      "basename": "2.2. Buffer",
-      "path": "N_O_D_E/NodeJS - fullstack/2.2. Buffer.md"
-    },
-    {
       "basename": "_ 0 React Native - Practical Guide",
       "path": "REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md"
     },
@@ -187,14 +195,6 @@
     {
       "basename": "2. Podstawowe koncepcje",
       "path": "N_O_D_E/NodeJS - fullstack/2. Podstawowe koncepcje.md"
-    },
-    {
-      "basename": "2.1. Zdarzenia",
-      "path": "N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md"
-    },
-    {
-      "basename": "2.3. Stream",
-      "path": "N_O_D_E/NodeJS - fullstack/2.3. Stream.md"
     },
     {
       "basename": "1 Moduły",

@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/4.1.1. tworzenie własnego klienta.md",
+                "file": "N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md",
                 "mode": "source",
                 "source": false
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/4.1.1. tworzenie własnego klienta.md",
+                "file": "N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -219,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/4.1.1. tworzenie własnego klienta.md",
+                "file": "N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/4.1.1. tworzenie własnego klienta.md"
+                "file": "N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md"
               }
             }
           },
@@ -292,15 +292,18 @@
   },
   "active": "5b953e71933f56f1",
   "lastOpenFiles": [
-    "N_O_D_E/NodeJS - fullstack/4. Tworzenie serwerów.md",
+    "N_O_D_E/NodeJS - fullstack/3 Node praca z Sys. Plików.md",
+    "N_O_D_E/NodeJS - fullstack/2.3. Stream.md",
+    "N_O_D_E/NodeJS - fullstack/2.2. Buffer.md",
+    "N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md",
     "N_O_D_E/NodeJS - fullstack/4.1.1. tworzenie własnego klienta.md",
+    "N_O_D_E/NodeJS - fullstack/4. Tworzenie serwerów.md",
     "N_O_D_E/NodeJS - fullstack/4.1. Prosty serwer i klient TCP.md",
     "N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md",
     "N_O_D_E/NodeJS - fullstack/3.6. Obserwowanie zmian w plikach.md",
     "N_O_D_E/NodeJS - fullstack/3.3. Tworzenie plików i katalogów.md",
     "N_O_D_E/NodeJS - fullstack/3.2. Odczytywanie plików.md",
     "N_O_D_E/NodeJS - fullstack/3.4. Przenoszenie i zmiana nazw plików.md",
-    "N_O_D_E/NodeJS - fullstack/3 Node praca z Sys. Plików.md",
     "N_O_D_E/NodeJS - fullstack/3.5. usuwanie plików i katalogów.md",
     "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/QTableWidget.md",
     "P Y T H O N/GUI/PYQt5 stackwidget.md",
@@ -315,9 +318,6 @@
     "R U S T/Rust Programming Tutorial/11 Arrays.md",
     "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md",
     "R U S T/Rust Programming Tutorial/7 Tuples.md",
-    "P Y T H O N/OOP Python udemy/8 Descriptors.md",
-    "R U S T/Rust Programming Tutorial/6 Constants.md",
-    "R U S T/Rust Programming Tutorial/5 Enum Types.md",
     "R U S T/Rust Programming For Beginners",
     "A I/JS uczenie maszynowe",
     "R U S T/Rust by example",
