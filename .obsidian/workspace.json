@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md",
+                "file": "N_O_D_E/NodeJS - fullstack/3.2. Odczytywanie plików.md",
                 "mode": "source",
                 "source": false
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md",
+                "file": "N_O_D_E/NodeJS - fullstack/3.2. Odczytywanie plików.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -219,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md",
+                "file": "N_O_D_E/NodeJS - fullstack/3.2. Odczytywanie plików.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md"
+                "file": "N_O_D_E/NodeJS - fullstack/3.2. Odczytywanie plików.md"
               }
             }
           },
@@ -292,6 +292,7 @@
   },
   "active": "5b953e71933f56f1",
   "lastOpenFiles": [
+    "N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md",
     "N_O_D_E/NodeJS - fullstack/3 Node praca z Sys. Plików.md",
     "N_O_D_E/NodeJS - fullstack/2.3. Stream.md",
     "N_O_D_E/NodeJS - fullstack/2.2. Buffer.md",
@@ -307,7 +308,6 @@
     "N_O_D_E/NodeJS - fullstack/3.5. usuwanie plików i katalogów.md",
     "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/QTableWidget.md",
     "P Y T H O N/GUI/PYQt5 stackwidget.md",
-    "N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md",
     "algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md",
     "REACT NATIVE/calendar.md",
     "HASKELL/for_great_good/7 Types and TypeClasses.md",
