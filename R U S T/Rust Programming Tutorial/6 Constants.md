@@ -1,4 +1,5 @@
 #rust/constant
+[[_ Rust Programming Tutorial]]
 
 > **CONSTANT** -  a variable defined in the global scope and can't be changed
 

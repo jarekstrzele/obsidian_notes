@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1499b6473b344cff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "R U S T/Rust Programming Tutorial/13 Traits.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust Programming Tutorial/12 String.md",
+                "file": "R U S T/Rust Programming Tutorial/13 Traits.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust Programming Tutorial/12 String.md",
+                "file": "R U S T/Rust Programming Tutorial/13 Traits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Rust Programming Tutorial/12 String.md"
+                "file": "R U S T/Rust Programming Tutorial/13 Traits.md"
               }
             }
           },
@@ -194,11 +206,21 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "2fc25a02aaa2c0a3",
+  "active": "1499b6473b344cff",
   "lastOpenFiles": [
+    "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md",
+    "R U S T/Rust Programming Tutorial/2 Variables.md",
+    "R U S T/Rust Programming Tutorial/3 If statement.md",
+    "R U S T/Rust Programming Tutorial/4 Loops.md",
+    "R U S T/Rust Programming Tutorial/5 Enum Types.md",
+    "R U S T/Rust Programming Tutorial/6 Constants.md",
+    "R U S T/Rust Programming Tutorial/7 Tuples.md",
+    "R U S T/Rust Programming Tutorial/8 Funcs, Blocks, Shadowing.md",
+    "R U S T/Rust Programming Tutorial/9 Reference.md",
     "R U S T/Rust Programming Tutorial/10 Structs.md",
-    "R U S T/Rust Programming Tutorial/12 String.md",
     "R U S T/Rust Programming Tutorial/11 Arrays.md",
+    "R U S T/Rust Programming Tutorial/12 String.md",
+    "R U S T/Rust Programming Tutorial/13 Traits.md",
     "N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md",
     "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/QTableWidget.md",
     "N_O_D_E/NodeJS - fullstack/3.4. Przenoszenie i zmiana nazw plików.md",
@@ -212,16 +234,6 @@
     "N_O_D_E/NodeJS - fullstack/2.2. Buffer.md",
     "N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md",
     "N_O_D_E/NodeJS - fullstack/4.1.1. tworzenie własnego klienta.md",
-    "N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md",
-    "N_O_D_E/NodeJS - fullstack/3.5. usuwanie plików i katalogów.md",
-    "P Y T H O N/GUI/PYQt5 stackwidget.md",
-    "algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md",
-    "REACT NATIVE/calendar.md",
-    "HASKELL/for_great_good/7 Types and TypeClasses.md",
-    "R U S T/Rust Programming Tutorial/9 Reference.md",
-    "R U S T/Rust Programming Tutorial/8 Funcs, Blocks, Shadowing.md",
-    "9 Reference.md",
-    "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md",
     "R U S T/Rust Programming For Beginners",
     "A I/JS uczenie maszynowe",
     "R U S T/Rust by example",

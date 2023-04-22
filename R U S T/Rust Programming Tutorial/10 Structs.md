@@ -1,4 +1,5 @@
 #rust/struct
+[[_ Rust Programming Tutorial]]
 
 ----
 [[#Structs]]

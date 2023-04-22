@@ -1,8 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "12 String",
-      "path": "R U S T/Rust Programming Tutorial/12 String.md"
+      "basename": "13 Traits",
+      "path": "R U S T/Rust Programming Tutorial/13 Traits.md"
+    },
+    {
+      "basename": "_ Rust Programming Tutorial",
+      "path": "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md"
+    },
+    {
+      "basename": "2 Variables",
+      "path": "R U S T/Rust Programming Tutorial/2 Variables.md"
+    },
+    {
+      "basename": "3 If statement",
+      "path": "R U S T/Rust Programming Tutorial/3 If statement.md"
+    },
+    {
+      "basename": "4 Loops",
+      "path": "R U S T/Rust Programming Tutorial/4 Loops.md"
+    },
+    {
+      "basename": "5 Enum Types",
+      "path": "R U S T/Rust Programming Tutorial/5 Enum Types.md"
+    },
+    {
+      "basename": "6 Constants",
+      "path": "R U S T/Rust Programming Tutorial/6 Constants.md"
+    },
+    {
+      "basename": "7 Tuples",
+      "path": "R U S T/Rust Programming Tutorial/7 Tuples.md"
+    },
+    {
+      "basename": "8 Funcs, Blocks, Shadowing",
+      "path": "R U S T/Rust Programming Tutorial/8 Funcs, Blocks, Shadowing.md"
+    },
+    {
+      "basename": "9 Reference",
+      "path": "R U S T/Rust Programming Tutorial/9 Reference.md"
     },
     {
       "basename": "10 Structs",
@@ -11,6 +47,10 @@
     {
       "basename": "11 Arrays",
       "path": "R U S T/Rust Programming Tutorial/11 Arrays.md"
+    },
+    {
+      "basename": "12 String",
+      "path": "R U S T/Rust Programming Tutorial/12 String.md"
     },
     {
       "basename": "3.1. Odczytywanie info o plikach",
@@ -90,47 +130,11 @@
     },
     {
       "basename": "9 Reference",
-      "path": "R U S T/Rust Programming Tutorial/9 Reference.md"
-    },
-    {
-      "basename": "8 Funcs, Blocks, Shadowing",
-      "path": "R U S T/Rust Programming Tutorial/8 Funcs, Blocks, Shadowing.md"
-    },
-    {
-      "basename": "9 Reference",
       "path": "9 Reference.md"
-    },
-    {
-      "basename": "_ Rust Programming Tutorial",
-      "path": "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md"
-    },
-    {
-      "basename": "7 Tuples",
-      "path": "R U S T/Rust Programming Tutorial/7 Tuples.md"
     },
     {
       "basename": "8 Descriptors",
       "path": "P Y T H O N/OOP Python udemy/8 Descriptors.md"
-    },
-    {
-      "basename": "6 Constants",
-      "path": "R U S T/Rust Programming Tutorial/6 Constants.md"
-    },
-    {
-      "basename": "5 Enum Types",
-      "path": "R U S T/Rust Programming Tutorial/5 Enum Types.md"
-    },
-    {
-      "basename": "4 Loops",
-      "path": "R U S T/Rust Programming Tutorial/4 Loops.md"
-    },
-    {
-      "basename": "3 If statement",
-      "path": "R U S T/Rust Programming Tutorial/3 If statement.md"
-    },
-    {
-      "basename": "2 Variables",
-      "path": "R U S T/Rust Programming Tutorial/2 Variables.md"
     },
     {
       "basename": "1 Hello World App",
@@ -195,10 +199,6 @@
     {
       "basename": "Firebase full course",
       "path": "P Y T H O N/GUI/Firebase full course.md"
-    },
-    {
-      "basename": "2. Podstawowe koncepcje",
-      "path": "N_O_D_E/NodeJS - fullstack/2. Podstawowe koncepcje.md"
     }
   ],
   "omittedPaths": [],

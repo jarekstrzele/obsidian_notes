@@ -1,5 +1,6 @@
 #rust/string 
 https://www.youtube.com/watch?v=ABYdoxzNJJ8
+[[_ Rust Programming Tutorial]]
 
 ```rust
 fn main(){
@@ -19,6 +20,22 @@ fn main(){
 }
 
 output
+ cargo run
+    Blocking waiting for file lock on build directory
+   Compiling my-project v0.1.0 (/home/runner/rustfirst)
+    Finished dev [unoptimized + debuginfo] target(s) in 2.32s
+     Running `target/debug/my-project`
+Length 23
+isEmpty? false
+My
+first
+string
+in
+Rust
+Does the string contain 'in'? true
+After .push:
+ My first string in Rust. This is a new text in the old string. 
+ 
 
 ```
 

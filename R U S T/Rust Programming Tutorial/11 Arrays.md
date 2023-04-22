@@ -1,5 +1,8 @@
 https://www.youtube.com/watch?v=cH6Qv47MPwk
 #rust.array
+[[_ Rust Programming Tutorial]]
+
+
 ```rust
 fn main(){
   let nums = [10,20,30,40] ; //in the background -> let nums: [i32; 5] = [10,20,30,40]
