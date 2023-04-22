@@ -3,6 +3,7 @@
 ----
 [[#Structs]]
 [[#Struct Tuples]]
+[[#Imp]]
 
 
 
@@ -69,7 +70,7 @@ output
 
 ------------
 # `Imp`
-ley word that allows us implements methods 
+key word that allows us implements methods 
 
 
 

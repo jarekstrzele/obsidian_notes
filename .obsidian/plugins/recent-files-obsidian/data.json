@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "12 String",
+      "path": "R U S T/Rust Programming Tutorial/12 String.md"
+    },
+    {
       "basename": "10 Structs",
       "path": "R U S T/Rust Programming Tutorial/10 Structs.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2. Podstawowe koncepcje",
       "path": "N_O_D_E/NodeJS - fullstack/2. Podstawowe koncepcje.md"
-    },
-    {
-      "basename": "1 Moduły",
-      "path": "N_O_D_E/NodeJS - fullstack/1 Moduły.md"
     }
   ],
   "omittedPaths": [],
