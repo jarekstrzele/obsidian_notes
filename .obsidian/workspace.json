@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Rust Programming Tutorial/12 String.md",
+                "file": "R U S T/Rust Programming Tutorial/10 Structs.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust Programming Tutorial/12 String.md",
+                "file": "R U S T/Rust Programming Tutorial/10 Structs.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust Programming Tutorial/12 String.md",
+                "file": "R U S T/Rust Programming Tutorial/10 Structs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Rust Programming Tutorial/12 String.md"
+                "file": "R U S T/Rust Programming Tutorial/10 Structs.md"
               }
             }
           },
@@ -196,9 +196,9 @@
   },
   "active": "2fc25a02aaa2c0a3",
   "lastOpenFiles": [
-    "R U S T/Rust Programming Tutorial/10 Structs.md",
     "R U S T/Rust Programming Tutorial/12 String.md",
     "R U S T/Rust Programming Tutorial/11 Arrays.md",
+    "R U S T/Rust Programming Tutorial/10 Structs.md",
     "N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md",
     "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/QTableWidget.md",
     "N_O_D_E/NodeJS - fullstack/3.4. Przenoszenie i zmiana nazw plików.md",
