@@ -20,7 +20,21 @@ use std::io::prelude::* ;
 > The `::` operator can also be used in conjunction with type aliases or associated types to refer to types that are associated with a particular trait or structure. For example, if a trait defines an associated type named `Output`, we can refer to it as `TraitName::Output`.
 
 
+ale genreruje błędy
+```rust
+use std::fs::File ;
+use std::io::prelude::* ;
+use std::env::current_dir ;
+ 
 
+fn main(){
+	let mut file = File::open("/src/info.txt").expect("Can't open file!") ;
+	let mut contents = String::new();
+	file.read_to_string(&mut contents).expect("Cant read file") ;
+	println!("File contents:\n\n{:?}", current_dir())
+	
+}
+```
 
 
 
