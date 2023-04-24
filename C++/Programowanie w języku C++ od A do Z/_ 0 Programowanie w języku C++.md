@@ -1,5 +1,7 @@
 #cplusplus  #udemy #takeiteasy_academy
 
+### `.cpp`
+
 
 1970 język C Dennis Ritchi
 1983 C++
@@ -19,10 +21,16 @@ C++
 
 NARZĘDZIA
 - VS Code
-	- 
+	- extensiont c/c++
 - kompilator MinGW
+	- na Win(`base-bin`, `gcc-g++-bin`)
+	- win: System i zabezpieczeni, ... zmienne środowiskowe, zmienne systemowe > Path (edytujemy, nowy i wpisujemy ścieżkę dostępu)
 - Debugger(c/C++ Debugger)
 
+
+# RUN
+## `$ g++ -o first first.cpp`
+`first.cpp` to plik z kodem źródłowym
 
 
 
