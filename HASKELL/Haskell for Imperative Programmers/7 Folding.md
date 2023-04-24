@@ -47,6 +47,49 @@ foldl (\acc elem -> <term>) <start_acc> <list>
 ## Folding (Tree)
 
 
+-------
+# FOLD exercise
+
+## Create a function `rev` that reverses a list
+```haskell
+-- Deklaracja funkcji
+rev :: [a] -> [a]
+rev = foldl (\acc x -> x: acc) []
+-- Funkcja main
+main :: IO ()
+main = do
+  print $ rev [1,2,3,4]
+```
+```
+foldl(\[] 1 -> 1:[])
+foldl(\[1] 2 -> 2:[1])
+foldl(\[2,1] 3 -> 3:[2,1])
+foldl(\[3,2,1] 4 -> 4:[3,2,1])
+[4,3,2,1]
+```
+
+
+the same
+```haskell
+
+-- Deklaracja funkcji
+rev :: [a] -> [a]
+rev = foldl (flip (:)) []
+-- Funkcja main
+main :: IO ()
+main = do
+  print $ rev [1,2,3,4]
+```
+
+-----
+Create a function **prefixes** t 
+
+
+
+
+
+
+
 
 
 
