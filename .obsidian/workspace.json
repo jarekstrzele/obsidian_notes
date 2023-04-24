@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Rust Programming Tutorial/15 Working with Files.md",
+                "file": "C++/Programowanie w języku C++ od A do Z/_ 0 Programowanie w języku C++.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust Programming Tutorial/15 Working with Files.md",
+                "file": "C++/Programowanie w języku C++ od A do Z/_ 0 Programowanie w języku C++.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust Programming Tutorial/15 Working with Files.md",
+                "file": "C++/Programowanie w języku C++ od A do Z/_ 0 Programowanie w języku C++.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Rust Programming Tutorial/15 Working with Files.md"
+                "file": "C++/Programowanie w języku C++ od A do Z/_ 0 Programowanie w języku C++.md"
               }
             }
           },
@@ -248,8 +248,8 @@
   },
   "active": "6b0d29f80a022c60",
   "lastOpenFiles": [
-    "R U S T/Rust Programming Tutorial/14. Vectors.md",
     "R U S T/Rust Programming Tutorial/15 Working with Files.md",
+    "R U S T/Rust Programming Tutorial/14. Vectors.md",
     "R U S T/Rust Programming Tutorial/13 Traits.md",
     "HASKELL/for_great_good/6 Modules.md",
     "REACT NATIVE/calendar.md",

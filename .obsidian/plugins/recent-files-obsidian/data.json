@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "_ 0 Programowanie w języku C++",
+      "path": "C++/Programowanie w języku C++ od A do Z/_ 0 Programowanie w języku C++.md"
+    },
+    {
       "basename": "15 Working with Files",
       "path": "R U S T/Rust Programming Tutorial/15 Working with Files.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Widżety proste TkInter",
       "path": "P Y T H O N/GUI/Tkinter/Widżety proste TkInter.md"
-    },
-    {
-      "basename": "Tkinter 0",
-      "path": "P Y T H O N/GUI/Tkinter/Tkinter 0.md"
     }
   ],
   "omittedPaths": [],
