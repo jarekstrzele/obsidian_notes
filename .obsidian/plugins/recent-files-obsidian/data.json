@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2 Badanie danych",
+      "path": "A I/JS uczenie maszynowe/2 Badanie danych.md"
+    },
+    {
       "basename": "1 Poznawanie potencjału języka JS",
       "path": "A I/JS uczenie maszynowe/1 Poznawanie potencjału języka JS.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Multiple Screens",
       "path": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/Multiple Screens.md"
-    },
-    {
-      "basename": "CheckList",
-      "path": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/CheckList.md"
     }
   ],
   "omittedPaths": [],

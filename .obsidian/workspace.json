@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A I/JS uczenie maszynowe/1 Poznawanie potencjału języka JS.md",
+                "file": "A I/JS uczenie maszynowe/2 Badanie danych.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A I/JS uczenie maszynowe/1 Poznawanie potencjału języka JS.md",
+                "file": "A I/JS uczenie maszynowe/2 Badanie danych.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A I/JS uczenie maszynowe/1 Poznawanie potencjału języka JS.md",
+                "file": "A I/JS uczenie maszynowe/2 Badanie danych.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A I/JS uczenie maszynowe/1 Poznawanie potencjału języka JS.md"
+                "file": "A I/JS uczenie maszynowe/2 Badanie danych.md"
               }
             }
           },
@@ -232,6 +232,7 @@
   },
   "active": "b2fa0d01429e40e2",
   "lastOpenFiles": [
+    "A I/JS uczenie maszynowe/1 Poznawanie potencjału języka JS.md",
     "A I/JS uczenie maszynowe/_ 0 Uczenie maszynowe z JS.md",
     "HASKELL/Real World Haskell/2 Types and Functions.md",
     "HASKELL/Haskell for Imperative Programmers/7 Folding.md",
@@ -257,7 +258,6 @@
     "N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md",
     "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/QTableWidget.md",
     "N_O_D_E/NodeJS - fullstack/3.4. Przenoszenie i zmiana nazw plików.md",
-    "N_O_D_E/NodeJS - fullstack/3.3. Tworzenie plików i katalogów.md",
     "R U S T/Rust Programming For Beginners",
     "A I/JS uczenie maszynowe",
     "R U S T/Rust by example",

@@ -1,7 +1,7 @@
 [[_ 0 Uczenie maszynowe z JS]]
 
 **uczenie maszynowe**
-- wyorzystanie wielkiego zbioru danych
+- wykorzystanie wielkiego zbioru danych
 - prawdopodobieństwo
 - statystyka
 - algebra liniowa
@@ -27,7 +27,7 @@ W uczeniu maszynowym ważną kwestią są:
 
 przykład wstępnego przetwarzania danych:
 - CNN (*Convolutional Neural Networks*) konwolucyjna sieć neuronowa, splotowa sieć neuronowa
-- CNN przetwarza obrazy, ale nie dowole, lecz taki, które spełniają odpowiednie wymagania (np. kolory, rozmiar, ilość pikseli)
+- CNN przetwarza obrazy, ale nie dowolne, lecz taki, które spełniają odpowiednie wymagania (np. kolory, rozmiar, ilość pikseli)
 - jakość danych też ma znaczenie (np. 100 pacjentów, ale jeden z nich ma wzrost 221 -czy to prawdziwy wzrost, czy 100 pacjentów wystarczy, ....)
 
 
