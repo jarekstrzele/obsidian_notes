@@ -61,6 +61,7 @@ main = do
   print $ rev [1,2,3,4]
 ```
 ```
+[1,2,3,4]
 foldl(\[] 1 -> 1:[])
 foldl(\[1] 2 -> 2:[1])
 foldl(\[2,1] 3 -> 3:[2,1])
@@ -86,7 +87,23 @@ Create a function **prefixes** that returns all the prefixes of a given list
 ```haskell
 prefixes :: [a] -> [[a]]
 -- prefixes [1,2,3] => [[1],[1,2], [1,2,3]]
+-- Deklaracja funkcji
+prefixes :: [a] -> [[a]]
+prefixes = foldr (\x acc -> [x]: map ((:) x) acc) []
+-- Funkcja main
+main :: IO ()
+main = do
+  print $ prefixes [1,2,3,4]
+  print $ map (+2) [10,20]
+
+output
+[[1],[1,2],[1,2,3],[1,2,3,4]]
+[12,22]
 ```
+
+```
+[1,2,3,4]
+foldr(\1 [] -> [1]: map (:) x)
 
 
 
