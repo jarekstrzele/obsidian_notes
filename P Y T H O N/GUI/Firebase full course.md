@@ -116,6 +116,13 @@ else:
 	print('something wrong')
 ```
 
+
+```python
+auth.sign_in_with_email_and_password(email, password)
+
+print("Ok")
+```
+
 -------
 # Storage
 [[#index]]

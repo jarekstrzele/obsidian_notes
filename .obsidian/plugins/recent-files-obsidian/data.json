@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "QTableWidget",
+      "path": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/QTableWidget.md"
+    },
+    {
+      "basename": "PySimpleGUI",
+      "path": "P Y T H O N/GUI/PySimpleGUI.md"
+    },
+    {
       "basename": "Firebase full course",
       "path": "P Y T H O N/GUI/Firebase full course.md"
     },
@@ -101,10 +109,6 @@
       "path": "N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md"
     },
     {
-      "basename": "QTableWidget",
-      "path": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/QTableWidget.md"
-    },
-    {
       "basename": "3.4. Przenoszenie i zmiana nazw plików",
       "path": "N_O_D_E/NodeJS - fullstack/3.4. Przenoszenie i zmiana nazw plików.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "5 Simple QWidgets",
       "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/5 Simple QWidgets.md"
-    },
-    {
-      "basename": "4 Pre-defined dialogs and basic data types",
-      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/4 Pre-defined dialogs and basic data types.md"
     }
   ],
   "omittedPaths": [],

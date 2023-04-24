@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "P Y T H O N/GUI/Firebase full course.md",
+                "file": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/QTableWidget.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "P Y T H O N/GUI/Firebase full course.md",
+                "file": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/QTableWidget.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "P Y T H O N/GUI/Firebase full course.md",
+                "file": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/QTableWidget.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "P Y T H O N/GUI/Firebase full course.md"
+                "file": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/QTableWidget.md"
               }
             }
           },
@@ -232,6 +232,8 @@
   },
   "active": "b2fa0d01429e40e2",
   "lastOpenFiles": [
+    "P Y T H O N/GUI/PySimpleGUI.md",
+    "P Y T H O N/GUI/Firebase full course.md",
     "A I/JS uczenie maszynowe/2 Badanie danych.md",
     "A I/JS uczenie maszynowe/1 Poznawanie potencjału języka JS.md",
     "A I/JS uczenie maszynowe/_ 0 Uczenie maszynowe z JS.md",
@@ -256,8 +258,6 @@
     "R U S T/Rust Programming Tutorial/10 Structs.md",
     "R U S T/Rust Programming Tutorial/11 Arrays.md",
     "R U S T/Rust Programming Tutorial/12 String.md",
-    "N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md",
-    "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/QTableWidget.md",
     "R U S T/Rust Programming For Beginners",
     "A I/JS uczenie maszynowe",
     "R U S T/Rust by example",
