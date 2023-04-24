@@ -1,6 +1,11 @@
 http://learnyouahaskell.com/making-our-own-types-and-typeclasses
 
+------
+[[7.1 Record syntax]]
 
+
+
+-------
 # Algebraic data types
 in the standard library `Bool` is  define:
 `data Bool = False | True` 
@@ -65,11 +70,22 @@ data Shape = Circle Point Float | Rectangle Point Point deriving (Show)
 ----
 > How about a function that nudges a shape? It takes a shape, the amount to move it on the x axis and the amount to move it on the y axis and then returns a new shape that has the same dimensions, only it's located somewhere else.
 
+```haskell
+nudge:: Shape -> FLoat -> Float -> Shape
+nudge (Circle (Point x y) r) a b = Circle (POint(x+a) (y+b) r)
+```
 
+# export
+to export your data types in your module:
+```haskell
+module SHapes
+( Point(..)
+, Shape(..)
+, surface
+, nudge
+) where
+```
 
-
-
-
-
+By doing `Shape(..)` we exported all the value contructors for `Shape`
 
 

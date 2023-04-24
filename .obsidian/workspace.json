@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b2fa0d01429e40e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HASKELL/Haskell for Imperative Programmers/7 Folding.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/for_great_good/7 Types and TypeClasses.md",
+                "file": "HASKELL/Haskell for Imperative Programmers/7 Folding.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -147,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/for_great_good/7 Types and TypeClasses.md",
+                "file": "HASKELL/Haskell for Imperative Programmers/7 Folding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/for_great_good/7 Types and TypeClasses.md"
+                "file": "HASKELL/Haskell for Imperative Programmers/7 Folding.md"
               }
             }
           },
@@ -218,10 +230,12 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "696d1bc84f5bf1ca",
+  "active": "b2fa0d01429e40e2",
   "lastOpenFiles": [
-    "HASKELL/Simple Haskell File - Structure.md",
+    "HASKELL/Haskell for Imperative Programmers/8 Datatypes.md",
     "HASKELL/for_great_good/7 Types and TypeClasses.md",
+    "HASKELL/for_great_good/7.1 Record syntax.md",
+    "HASKELL/Simple Haskell File - Structure.md",
     "R U S T/Rust Programming Tutorial/14. Vectors.md",
     "R U S T/Rust Programming Tutorial/15 Working with Files.md",
     "R U S T/Rust Programming Tutorial/13 Traits.md",
@@ -244,8 +258,6 @@
     "N_O_D_E/NodeJS - fullstack/4.1. Prosty serwer i klient TCP.md",
     "N_O_D_E/NodeJS - fullstack/4. Tworzenie serwerów.md",
     "N_O_D_E/NodeJS - fullstack/3.6. Obserwowanie zmian w plikach.md",
-    "N_O_D_E/NodeJS - fullstack/3.2. Odczytywanie plików.md",
-    "N_O_D_E/NodeJS - fullstack/3 Node praca z Sys. Plików.md",
     "R U S T/Rust Programming For Beginners",
     "A I/JS uczenie maszynowe",
     "R U S T/Rust by example",
