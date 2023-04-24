@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "4.2 Strings",
+      "path": "R U S T/Learn Rust by Building Real App/4.2 Strings.md"
+    },
+    {
+      "basename": "4.1 Struct",
+      "path": "R U S T/Learn Rust by Building Real App/4.1 Struct.md"
+    },
+    {
+      "basename": "10 Structs",
+      "path": "R U S T/Rust Programming Tutorial/10 Structs.md"
+    },
+    {
+      "basename": "_ Wprowadzenie SI z JS",
+      "path": "A I/SI na Froncie/_ Wprowadzenie SI z JS.md"
+    },
+    {
+      "basename": "_ 0 Uczenie maszynowe z JS",
+      "path": "A I/JS uczenie maszynowe/_ 0 Uczenie maszynowe z JS.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "R U S T/Untitled.canvas"
+    },
+    {
+      "basename": "4 HTTP Server",
+      "path": "R U S T/Learn Rust by Building Real App/4 HTTP Server.md"
+    },
+    {
       "basename": "3 Building a Command Line Application",
       "path": "R U S T/Learn Rust by Building Real App/3 Building a Command Line Application.md"
     },
@@ -17,16 +45,8 @@
       "path": "A I/SI na Froncie/2. SI i Uczenie maszynowe.md"
     },
     {
-      "basename": "_ Wprowadzenie SI z JS",
-      "path": "A I/SI na Froncie/_ Wprowadzenie SI z JS.md"
-    },
-    {
       "basename": "_ Uczenie Maszynowe  Helion Piotr Szajowski",
       "path": "A I/uczenie maszynowe/_ Uczenie Maszynowe  Helion Piotr Szajowski.md"
-    },
-    {
-      "basename": "_ 0 Uczenie maszynowe z JS",
-      "path": "A I/JS uczenie maszynowe/_ 0 Uczenie maszynowe z JS.md"
     },
     {
       "basename": "1 Poznawanie potencjału języka JS",
@@ -117,10 +137,6 @@
       "path": "R U S T/Rust Programming Tutorial/9 Reference.md"
     },
     {
-      "basename": "10 Structs",
-      "path": "R U S T/Rust Programming Tutorial/10 Structs.md"
-    },
-    {
       "basename": "11 Arrays",
       "path": "R U S T/Rust Programming Tutorial/11 Arrays.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "3.5. usuwanie plików i katalogów",
       "path": "N_O_D_E/NodeJS - fullstack/3.5. usuwanie plików i katalogów.md"
-    },
-    {
-      "basename": "PYQt5 stackwidget",
-      "path": "P Y T H O N/GUI/PYQt5 stackwidget.md"
-    },
-    {
-      "basename": "3 - Algorytmy grafowe",
-      "path": "algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md"
-    },
-    {
-      "basename": "calendar",
-      "path": "REACT NATIVE/calendar.md"
-    },
-    {
-      "basename": "9 Reference",
-      "path": "9 Reference.md"
     }
   ],
   "omittedPaths": [],
