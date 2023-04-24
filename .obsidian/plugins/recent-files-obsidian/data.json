@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Firebase full course",
+      "path": "P Y T H O N/GUI/Firebase full course.md"
+    },
+    {
       "basename": "2 Badanie danych",
       "path": "A I/JS uczenie maszynowe/2 Badanie danych.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "4 Pre-defined dialogs and basic data types",
       "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/4 Pre-defined dialogs and basic data types.md"
-    },
-    {
-      "basename": "Multiple Screens",
-      "path": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/Multiple Screens.md"
     }
   ],
   "omittedPaths": [],

@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A I/JS uczenie maszynowe/2 Badanie danych.md",
+                "file": "P Y T H O N/GUI/Firebase full course.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209.00418853759766
+    "width": 406.0110321044922
   },
   "right": {
     "id": "ec7d1a70da2de581",
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A I/JS uczenie maszynowe/2 Badanie danych.md",
+                "file": "P Y T H O N/GUI/Firebase full course.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A I/JS uczenie maszynowe/2 Badanie danych.md",
+                "file": "P Y T H O N/GUI/Firebase full course.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A I/JS uczenie maszynowe/2 Badanie danych.md"
+                "file": "P Y T H O N/GUI/Firebase full course.md"
               }
             }
           },
@@ -232,6 +232,7 @@
   },
   "active": "b2fa0d01429e40e2",
   "lastOpenFiles": [
+    "A I/JS uczenie maszynowe/2 Badanie danych.md",
     "A I/JS uczenie maszynowe/1 Poznawanie potencjału języka JS.md",
     "A I/JS uczenie maszynowe/_ 0 Uczenie maszynowe z JS.md",
     "HASKELL/Real World Haskell/2 Types and Functions.md",
@@ -257,7 +258,6 @@
     "R U S T/Rust Programming Tutorial/12 String.md",
     "N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md",
     "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/QTableWidget.md",
-    "N_O_D_E/NodeJS - fullstack/3.4. Przenoszenie i zmiana nazw plików.md",
     "R U S T/Rust Programming For Beginners",
     "A I/JS uczenie maszynowe",
     "R U S T/Rust by example",

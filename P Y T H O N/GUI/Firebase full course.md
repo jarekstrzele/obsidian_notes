@@ -75,7 +75,7 @@ storage=firebase.storage()
 # Authentication
 [[#Index]]
 It means: mange users
-Goto FireBae Project overview > Build and Authentication > Get Started and chose the sign-in method
+Goto FireBase Project overview > Build and Authentication > Get Started and chose the sign-in method
 
 ### login or sign up
 ```python
