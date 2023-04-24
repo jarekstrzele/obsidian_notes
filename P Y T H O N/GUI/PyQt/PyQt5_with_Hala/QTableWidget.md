@@ -23,7 +23,7 @@ class Main(QDialog):
 
     def load_data(self):
         people=[
-            {"name":"John", "age":45,"address":"New York"}
+            {"name":"John", "age":46,"address":"New York"}
             , {"name":"Jerry", "age":75,"address":"Olsztyn"}
             , {"name":"Zosia", "age":43,"address":"Kraków"}
             , {"name":"Kasia", "age":15,"address":"Paryż"}
@@ -40,9 +40,8 @@ class Main(QDialog):
 
 app = QApplication([])
 main=Main()
-  
-
 main.show()
+
 try:
     sys.exit(app.exec_())
 except:
