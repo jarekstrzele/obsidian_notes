@@ -13,8 +13,10 @@ in the standard library `Bool` is  define:
 ` | ` or
 
 
-
+# generally
 #### ` type = value constructor`
+### `data typeName = value constructor`
+
 
 
 ## examples
@@ -54,6 +56,14 @@ ghci> surface $ Circle 10 20 10
 data Shape = Circle Float Float Float | Rectangle Float Float Float Float deriving (Show)
 ```
 
+Improvement by adding an intermediate data type:
+```haskell
+data Point = Point Float Float deriving (Show)
+data Shape = Circle Point Float | Rectangle Point Point deriving (Show)
+```
+
+----
+> How about a function that nudges a shape? It takes a shape, the amount to move it on the x axis and the amount to move it on the y axis and then returns a new shape that has the same dimensions, only it's located somewhere else.
 
 
 

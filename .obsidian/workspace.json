@@ -4,95 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "2d06e6ca9964c940",
+        "id": "c1b14dbbaa1c95eb",
         "type": "tabs",
         "children": [
           {
-            "id": "0fc539feb3017148",
+            "id": "04bccf1dc56dfdd4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Learn Rust by Building Real App/3 Building a Command Line Application.md",
+                "file": "R U S T/Rust Programming Tutorial/10 Structs.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f9d83764a5db3562",
+            "id": "2fc25a02aaa2c0a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/_ Rust Programming for Beginners.md",
+                "file": "R U S T/Rust Programming Tutorial/12 String.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7929c8e53c905d96",
+            "id": "1499b6473b344cff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Learn Rust by Building Real App/_ Learn Rust by Building Apps.md",
+                "file": "R U S T/Rust Programming Tutorial/13 Traits.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f318e3ba0ccf0494",
+            "id": "696d1bc84f5bf1ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Learn Rust by Building Real App/4 HTTP Server.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "15324292d7843487",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "R U S T/Learn Rust by Building Real App/4.1 Struct.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6f67d2e8901097bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "R U S T/Rust Programming Tutorial/14. Vectors.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b0d29f80a022c60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C++/Programowanie w języku C++ od A do Z/_ 0 Programowanie w języku C++.md",
+                "file": "HASKELL/for_great_good/7 Types and TypeClasses.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -121,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "expo",
+                "query": "tag:#udemy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -150,7 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 449
+    "width": 209.00418853759766
   },
   "right": {
     "id": "ec7d1a70da2de581",
@@ -166,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Programowanie w języku C++ od A do Z/_ 0 Programowanie w języku C++.md",
+                "file": "HASKELL/for_great_good/7 Types and TypeClasses.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -183,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Programowanie w języku C++ od A do Z/_ 0 Programowanie w języku C++.md",
+                "file": "HASKELL/for_great_good/7 Types and TypeClasses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/Programowanie w języku C++ od A do Z/_ 0 Programowanie w języku C++.md"
+                "file": "HASKELL/for_great_good/7 Types and TypeClasses.md"
               }
             }
           },
@@ -225,13 +189,21 @@
               "type": "juggl_style",
               "state": {}
             }
+          },
+          {
+            "id": "a37f9b7caeae370a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -246,43 +218,43 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "6b0d29f80a022c60",
+  "active": "696d1bc84f5bf1ca",
   "lastOpenFiles": [
-    "R U S T/Rust Programming Tutorial/15 Working with Files.md",
+    "HASKELL/Simple Haskell File - Structure.md",
+    "HASKELL/for_great_good/7 Types and TypeClasses.md",
     "R U S T/Rust Programming Tutorial/14. Vectors.md",
+    "R U S T/Rust Programming Tutorial/15 Working with Files.md",
     "R U S T/Rust Programming Tutorial/13 Traits.md",
-    "HASKELL/for_great_good/6 Modules.md",
-    "REACT NATIVE/calendar.md",
-    "R U S T/Rust Programming Tutorial/9 Reference.md",
+    "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md",
+    "R U S T/Rust Programming Tutorial/2 Variables.md",
+    "R U S T/Rust Programming Tutorial/3 If statement.md",
+    "R U S T/Rust Programming Tutorial/4 Loops.md",
+    "R U S T/Rust Programming Tutorial/5 Enum Types.md",
+    "R U S T/Rust Programming Tutorial/6 Constants.md",
+    "R U S T/Rust Programming Tutorial/7 Tuples.md",
     "R U S T/Rust Programming Tutorial/8 Funcs, Blocks, Shadowing.md",
-    "R U S T/Rust Programming Tutorial/12 String.md",
-    "R U S T/Rust Programming Tutorial/11 Arrays.md",
+    "R U S T/Rust Programming Tutorial/9 Reference.md",
     "R U S T/Rust Programming Tutorial/10 Structs.md",
-    "P Y T H O N/GUI/PYQt5 stackwidget.md",
-    "N_O_D_E/NodeJS - fullstack/4.1.1. tworzenie własnego klienta.md",
+    "R U S T/Rust Programming Tutorial/11 Arrays.md",
+    "R U S T/Rust Programming Tutorial/12 String.md",
+    "N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md",
+    "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/QTableWidget.md",
+    "N_O_D_E/NodeJS - fullstack/3.4. Przenoszenie i zmiana nazw plików.md",
+    "N_O_D_E/NodeJS - fullstack/3.3. Tworzenie plików i katalogów.md",
     "N_O_D_E/NodeJS - fullstack/4.1. Prosty serwer i klient TCP.md",
     "N_O_D_E/NodeJS - fullstack/4. Tworzenie serwerów.md",
     "N_O_D_E/NodeJS - fullstack/3.6. Obserwowanie zmian w plikach.md",
-    "N_O_D_E/NodeJS - fullstack/3.5. usuwanie plików i katalogów.md",
-    "N_O_D_E/NodeJS - fullstack/3.4. Przenoszenie i zmiana nazw plików.md",
-    "N_O_D_E/NodeJS - fullstack/3.3. Tworzenie plików i katalogów.md",
     "N_O_D_E/NodeJS - fullstack/3.2. Odczytywanie plików.md",
-    "N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md",
     "N_O_D_E/NodeJS - fullstack/3 Node praca z Sys. Plików.md",
-    "HASKELL/for_great_good/7 Types and TypeClasses.md",
-    "9 Reference.md",
-    "HASKELL/Simple Haskell File - Structure.md",
-    "R U S T/Learn Rust by Building Real App/4.1 Struct.md",
-    "R U S T/Learn Rust by Building Real App/4 HTTP Server.md",
     "R U S T/Rust Programming For Beginners",
     "A I/JS uczenie maszynowe",
-    "R U S T/Tech with TIm Rust",
     "R U S T/Rust by example",
-    "R U S T/Rust Web Book",
-    "R U S T/Rust Programming Tutorial",
-    "R U S T/Rust - FreeCode Beginner",
     "R U S T/Learn Rust by Building Real App",
-    "R U S T",
+    "P Y T H O N/GUI/PyQt/Create GUI App with PyQt",
+    "Data Bases/FireBase",
+    "R U S T/Rust Programming Tutorial",
+    "R U S T/Tech with TIm Rust",
+    "R U S T/Rust Web Book",
     "P Y T H O N/GUI/Tkinter/modern GUIs",
     "Untitled.canvas"
   ]
