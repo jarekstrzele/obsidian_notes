@@ -82,7 +82,17 @@ main = do
 ```
 
 -----
-Create a function **prefixes** t 
+Create a function **prefixes** that returns all the prefixes of a given list
+```haskell
+prefixes :: [a] -> [[a]]
+-- prefixes [1,2,3] => [[1],[1,2], [1,2,3]]
+```
+
+
+
+
+
+
 
 
 
