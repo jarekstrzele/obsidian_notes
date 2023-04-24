@@ -158,7 +158,7 @@ io::stdin().read_line(&mut input) ;
 ```
 this code generates an error, because you use `input` as a parameter of `read_line` function, but you transfered the ownership of the string to the variable `s`
 
-The string exists on the heap. When you will do the same with the numebr (it exists on the stack), the value will be copy to a new variable.
+The string exists on the heap. When you will do the same with the numuber (it exists on the stack), the value will be copy to a new variable.
 ```rust
 let a = 5;
 let b = a; // the 5 will be copied to the b
