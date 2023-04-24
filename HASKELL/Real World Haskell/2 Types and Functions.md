@@ -13,7 +13,7 @@ https://book.realworldhaskell.org/read/types-and-functions.html
  >**Haskell's type system allows us to think ar a very abstract level**
  
  
-# Haskell's tpe system
+# Haskell's type system
 ## strong
 - The type system guarantees that a program cannot contain cerain kinds of errors (int used like function -> Haskell's compiler generates an error)
 - no automatic coercion/casting/conversion

@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "1 Poznawanie potencjału języka JS",
+      "path": "A I/JS uczenie maszynowe/1 Poznawanie potencjału języka JS.md"
+    },
+    {
+      "basename": "_ 0 Uczenie maszynowe z JS",
+      "path": "A I/JS uczenie maszynowe/_ 0 Uczenie maszynowe z JS.md"
+    },
+    {
+      "basename": "2 Types and Functions",
+      "path": "HASKELL/Real World Haskell/2 Types and Functions.md"
+    },
+    {
       "basename": "7 Folding",
       "path": "HASKELL/Haskell for Imperative Programmers/7 Folding.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "CheckList",
       "path": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/CheckList.md"
-    },
-    {
-      "basename": "_ 0 PyQt with Hala",
-      "path": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/_ 0 PyQt with Hala.md"
-    },
-    {
-      "basename": "two screen in one window",
-      "path": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/two screen in one window.md"
-    },
-    {
-      "basename": "_ 0 PySide",
-      "path": "P Y T H O N/GUI/PySide6/_ 0 PySide.md"
     }
   ],
   "omittedPaths": [],

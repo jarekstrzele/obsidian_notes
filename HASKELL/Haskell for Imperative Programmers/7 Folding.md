@@ -89,21 +89,29 @@ prefixes :: [a] -> [[a]]
 -- prefixes [1,2,3] => [[1],[1,2], [1,2,3]]
 -- Deklaracja funkcji
 prefixes :: [a] -> [[a]]
-prefixes = foldr (\x acc -> [x]: map ((:) x) acc) []
+prefixes = foldr (\x acc -> [x]: map (x:) acc) []
 -- Funkcja main
 main :: IO ()
 main = do
   print $ prefixes [1,2,3,4]
   print $ map (+2) [10,20]
+  print $ [2]: []
+  print $ map (3:) [[1,2], [20,30,40]]
 
 output
 [[1],[1,2],[1,2,3],[1,2,3,4]]
 [12,22]
+[[2]]
+[[3,1,2],[3,20,30,40]]
 ```
 
 ```
 [1,2,3,4]
-foldr(\1 [] -> [1]: map (:) x)
+foldr (\1 [] -> [1]: map ((:) x) [] [1,2,3,4]
+foldr (\2 [[1]] -> [1]: map ((:) x) [[1]] 
+foldr (\1 [] -> [1]: map ((:) x) [] [1,2,3,4]
+foldr (\1 [] -> [1]: map ((:) x) [] [1,2,3,4]
+foldr (\1 [] -> [1]: map ((:) x) [] [1,2,3,4]
 
 
 

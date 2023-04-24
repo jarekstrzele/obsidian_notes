@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HASKELL/Haskell for Imperative Programmers/7 Folding.md",
+                "file": "A I/JS uczenie maszynowe/1 Poznawanie potencjału języka JS.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/Haskell for Imperative Programmers/7 Folding.md",
+                "file": "A I/JS uczenie maszynowe/1 Poznawanie potencjału języka JS.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/Haskell for Imperative Programmers/7 Folding.md",
+                "file": "A I/JS uczenie maszynowe/1 Poznawanie potencjału języka JS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/Haskell for Imperative Programmers/7 Folding.md"
+                "file": "A I/JS uczenie maszynowe/1 Poznawanie potencjału języka JS.md"
               }
             }
           },
@@ -232,6 +232,9 @@
   },
   "active": "b2fa0d01429e40e2",
   "lastOpenFiles": [
+    "A I/JS uczenie maszynowe/_ 0 Uczenie maszynowe z JS.md",
+    "HASKELL/Real World Haskell/2 Types and Functions.md",
+    "HASKELL/Haskell for Imperative Programmers/7 Folding.md",
     "HASKELL/Haskell for Imperative Programmers/8 Datatypes.md",
     "HASKELL/for_great_good/7 Types and TypeClasses.md",
     "HASKELL/for_great_good/7.1 Record syntax.md",
@@ -255,9 +258,6 @@
     "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/QTableWidget.md",
     "N_O_D_E/NodeJS - fullstack/3.4. Przenoszenie i zmiana nazw plików.md",
     "N_O_D_E/NodeJS - fullstack/3.3. Tworzenie plików i katalogów.md",
-    "N_O_D_E/NodeJS - fullstack/4.1. Prosty serwer i klient TCP.md",
-    "N_O_D_E/NodeJS - fullstack/4. Tworzenie serwerów.md",
-    "N_O_D_E/NodeJS - fullstack/3.6. Obserwowanie zmian w plikach.md",
     "R U S T/Rust Programming For Beginners",
     "A I/JS uczenie maszynowe",
     "R U S T/Rust by example",
