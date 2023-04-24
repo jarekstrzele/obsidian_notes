@@ -13,7 +13,6 @@ CONCEPT:
 - characters
 - integers
 - floats
-- 
 
 ## integers
 `u` unsigned integer POSITIVE only
@@ -24,9 +23,7 @@ CONCEPT:
 `u64, i64` $00000000$
 `u128, i128` $0000000000000000$
 
-
 `usize` or `isize`  architecture dependent types 
-
 
 ## float
 `f32`
@@ -116,10 +113,8 @@ mars_weight = mars_weight * 1000.0 ;
 ```
 it is OK
 
-
 --------
 # Standard Library
-
 ```rust
 use std::io ;
 
@@ -138,7 +133,6 @@ fn calculagte_weight_on_mars(weight: f32) -> f32{
     (weight/9.81) * 3.711
 }
 ```
-
 
 ----
 # OWNERSHIP

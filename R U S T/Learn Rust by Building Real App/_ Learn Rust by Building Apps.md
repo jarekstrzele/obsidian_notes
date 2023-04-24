@@ -52,7 +52,6 @@ Rust is release in three different channels with different levels of stabillity:
 `rustup toolchain list` -> list of toolchain
 `rustop toolchain install nightly-x84_64-unkonown-linux-gnu`
 
-
 ------------
 # Build and Run 
 to **build** project

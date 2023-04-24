@@ -66,9 +66,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5c309a53a3557ff4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A I/JS uczenie maszynowe/_ 0 Uczenie maszynowe z JS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3a9ad9c41413f163",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A I/SI na Froncie/_ Wprowadzenie SI z JS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "256a560dc3cdfe82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "R U S T/Learn Rust by Building Real App/3 Building a Command Line Application.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -142,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/QTableWidget.md",
+                "file": "R U S T/Learn Rust by Building Real App/3 Building a Command Line Application.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -159,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/QTableWidget.md",
+                "file": "R U S T/Learn Rust by Building Real App/3 Building a Command Line Application.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/QTableWidget.md"
+                "file": "R U S T/Learn Rust by Building Real App/3 Building a Command Line Application.md"
               }
             }
           },
@@ -230,13 +266,20 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "b2fa0d01429e40e2",
+  "active": "256a560dc3cdfe82",
   "lastOpenFiles": [
+    "R U S T/Learn Rust by Building Real App/2 Memory Management.md",
+    "R U S T/Learn Rust by Building Real App/_ Learn Rust by Building Apps.md",
+    "A I/SI na Froncie/2. SI i Uczenie maszynowe.md",
+    "A I/SI na Froncie/_ Wprowadzenie SI z JS.md",
+    "A I/uczenie maszynowe/_ Uczenie Maszynowe  Helion Piotr Szajowski.md",
+    "A I/JS uczenie maszynowe/_ 0 Uczenie maszynowe z JS.md",
+    "A I/SI na Froncie",
+    "A I/JS uczenie maszynowe/1 Poznawanie potencjału języka JS.md",
+    "A I/JS uczenie maszynowe/2 Badanie danych.md",
+    "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/QTableWidget.md",
     "P Y T H O N/GUI/PySimpleGUI.md",
     "P Y T H O N/GUI/Firebase full course.md",
-    "A I/JS uczenie maszynowe/2 Badanie danych.md",
-    "A I/JS uczenie maszynowe/1 Poznawanie potencjału języka JS.md",
-    "A I/JS uczenie maszynowe/_ 0 Uczenie maszynowe z JS.md",
     "HASKELL/Real World Haskell/2 Types and Functions.md",
     "HASKELL/Haskell for Imperative Programmers/7 Folding.md",
     "HASKELL/Haskell for Imperative Programmers/8 Datatypes.md",
@@ -252,12 +295,6 @@
     "R U S T/Rust Programming Tutorial/4 Loops.md",
     "R U S T/Rust Programming Tutorial/5 Enum Types.md",
     "R U S T/Rust Programming Tutorial/6 Constants.md",
-    "R U S T/Rust Programming Tutorial/7 Tuples.md",
-    "R U S T/Rust Programming Tutorial/8 Funcs, Blocks, Shadowing.md",
-    "R U S T/Rust Programming Tutorial/9 Reference.md",
-    "R U S T/Rust Programming Tutorial/10 Structs.md",
-    "R U S T/Rust Programming Tutorial/11 Arrays.md",
-    "R U S T/Rust Programming Tutorial/12 String.md",
     "R U S T/Rust Programming For Beginners",
     "A I/JS uczenie maszynowe",
     "R U S T/Rust by example",
@@ -267,7 +304,6 @@
     "R U S T/Rust Programming Tutorial",
     "R U S T/Tech with TIm Rust",
     "R U S T/Rust Web Book",
-    "P Y T H O N/GUI/Tkinter/modern GUIs",
     "Untitled.canvas"
   ]
 }

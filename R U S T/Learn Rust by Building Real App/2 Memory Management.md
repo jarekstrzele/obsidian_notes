@@ -13,7 +13,7 @@
 > > 	- this is where our local variables ive for every function
 >  
 >  > For every function call a new stack frame is allocated on top of the current one
-> the size of every variable on the stock has to be known at compule time!!
+> the size of every variable on the stock has to be known at compile time!!
 > > > if we want to store an array on the stack, we have to specify exactly how many elements it will hold
 > > 
 > 
