@@ -256,34 +256,19 @@ println!("Ok") ;
 ok code
 ```rust
 fn main() {
-
-println!("Write your weight on Earth: ") ;
-
-let mut input = String::new() ;
-
-io::stdin().read_line(&mut input) ;
-
-  
-
-borrow_string(&input) ;
-
-own_string(input)
-
+	println!("Write your weight on Earth: ") ;
+	let mut input = String::new() ;
+	io::stdin().read_line(&mut input) ;
+	
+	borrow_string(&input) ;
+	own_string(input)
 }
-
-  
 
 fn borrow_string(s: &String){
-
-println!("{}", s) ;
-
+	println!("{}", s) ;
 }
 
-  
-
 fn own_string(s: String){
-
-println!("{}", s) ;
-
+	println!("{}", s) ;
 }
 ```
