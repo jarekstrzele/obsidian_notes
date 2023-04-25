@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "4.2. Serwer HTTP",
+      "path": "N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md"
+    },
+    {
+      "basename": "4.1.1. tworzenie własnego klienta",
+      "path": "N_O_D_E/NodeJS - fullstack/4.1.1. tworzenie własnego klienta.md"
+    },
+    {
       "basename": "3.3. Tworzenie plików i katalogów",
       "path": "N_O_D_E/NodeJS - fullstack/3.3. Tworzenie plików i katalogów.md"
     },
     {
       "basename": "3.2. Odczytywanie plików",
       "path": "N_O_D_E/NodeJS - fullstack/3.2. Odczytywanie plików.md"
-    },
-    {
-      "basename": "4.1.1. tworzenie własnego klienta",
-      "path": "N_O_D_E/NodeJS - fullstack/4.1.1. tworzenie własnego klienta.md"
     },
     {
       "basename": "4.1. Prosty serwer i klient TCP",
@@ -195,10 +199,6 @@
     {
       "basename": "8 Descriptors",
       "path": "P Y T H O N/OOP Python udemy/8 Descriptors.md"
-    },
-    {
-      "basename": "graf_DFS.excalidraw",
-      "path": "Excalidraw/graf_DFS.excalidraw.md"
     }
   ],
   "omittedPaths": [],

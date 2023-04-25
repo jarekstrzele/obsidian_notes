@@ -85,14 +85,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/3.3. Tworzenie plików i katalogów.md",
+                "file": "N_O_D_E/NodeJS - fullstack/4.1.1. tworzenie własnego klienta.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3c2fc67d53ec3756",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -166,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/3.3. Tworzenie plików i katalogów.md",
+                "file": "N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -183,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/3.3. Tworzenie plików i katalogów.md",
+                "file": "N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/3.3. Tworzenie plików i katalogów.md"
+                "file": "N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md"
               }
             }
           },
@@ -246,10 +258,12 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "6b0d29f80a022c60",
+  "active": "3c2fc67d53ec3756",
   "lastOpenFiles": [
-    "N_O_D_E/NodeJS - fullstack/3.2. Odczytywanie plików.md",
     "N_O_D_E/NodeJS - fullstack/4.1.1. tworzenie własnego klienta.md",
+    "N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md",
+    "N_O_D_E/NodeJS - fullstack/3.3. Tworzenie plików i katalogów.md",
+    "N_O_D_E/NodeJS - fullstack/3.2. Odczytywanie plików.md",
     "N_O_D_E/NodeJS - fullstack/4.1. Prosty serwer i klient TCP.md",
     "C++/Programowanie w języku C++ od A do Z/_ 0 Programowanie w języku C++.md",
     "R U S T/Untitled.canvas",
@@ -273,9 +287,7 @@
     "N_O_D_E/NodeJS - fullstack/3.6. Obserwowanie zmian w plikach.md",
     "N_O_D_E/NodeJS - fullstack/3.5. usuwanie plików i katalogów.md",
     "N_O_D_E/NodeJS - fullstack/3.4. Przenoszenie i zmiana nazw plików.md",
-    "N_O_D_E/NodeJS - fullstack/3.3. Tworzenie plików i katalogów.md",
     "N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md",
-    "N_O_D_E/NodeJS - fullstack/3 Node praca z Sys. Plików.md",
     "R U S T/Rust Programming For Beginners",
     "A I/JS uczenie maszynowe",
     "R U S T/Tech with TIm Rust",
