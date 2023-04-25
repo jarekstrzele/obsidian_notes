@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "9 Reference",
+      "path": "R U S T/Rust Programming Tutorial/9 Reference.md"
+    },
+    {
       "basename": "13 Traits",
       "path": "R U S T/Rust Programming Tutorial/13 Traits.md"
     },
@@ -131,10 +135,6 @@
     {
       "basename": "8 Funcs, Blocks, Shadowing",
       "path": "R U S T/Rust Programming Tutorial/8 Funcs, Blocks, Shadowing.md"
-    },
-    {
-      "basename": "9 Reference",
-      "path": "R U S T/Rust Programming Tutorial/9 Reference.md"
     },
     {
       "basename": "11 Arrays",

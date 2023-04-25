@@ -11,7 +11,7 @@
 fn main(){
 	let mut x = 10;
 	// let x = 10 ; it will be ok
-	let xr = &x;
+	let xr = &x; //&x - you want to get a reference to `x`
 	let dom = &x;
 
 	println!("x is {}", xr) ; // output `x is 10`
