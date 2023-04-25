@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Rust Programming Tutorial/9 Reference.md",
+                "file": "R U S T/Rust Programming Tutorial/15 Working with Files.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust Programming Tutorial/9 Reference.md",
+                "file": "R U S T/Rust Programming Tutorial/15 Working with Files.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust Programming Tutorial/9 Reference.md",
+                "file": "R U S T/Rust Programming Tutorial/15 Working with Files.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Rust Programming Tutorial/9 Reference.md"
+                "file": "R U S T/Rust Programming Tutorial/15 Working with Files.md"
               }
             }
           },
@@ -232,6 +232,7 @@
   },
   "active": "1499b6473b344cff",
   "lastOpenFiles": [
+    "R U S T/Rust Programming Tutorial/9 Reference.md",
     "R U S T/Rust Programming Tutorial/13 Traits.md",
     "P Y T H O N/GUI/Firebase full course.md",
     "HASKELL/for_great_good/7 Types and TypeClasses.md",
@@ -259,7 +260,6 @@
     "HASKELL/Simple Haskell File - Structure.md",
     "R U S T/Rust Programming Tutorial/14. Vectors.md",
     "R U S T/Rust Programming Tutorial/15 Working with Files.md",
-    "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md",
     "R U S T/Rust Programming For Beginners",
     "A I/JS uczenie maszynowe",
     "R U S T/Rust by example",

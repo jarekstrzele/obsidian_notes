@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "15 Working with Files",
+      "path": "R U S T/Rust Programming Tutorial/15 Working with Files.md"
+    },
+    {
       "basename": "9 Reference",
       "path": "R U S T/Rust Programming Tutorial/9 Reference.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_ 0 NodeJS - zostań fullstack",
       "path": "N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md"
-    },
-    {
-      "basename": "3.5. usuwanie plików i katalogów",
-      "path": "N_O_D_E/NodeJS - fullstack/3.5. usuwanie plików i katalogów.md"
     }
   ],
   "omittedPaths": [],
