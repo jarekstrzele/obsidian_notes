@@ -37,7 +37,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Learn Rust by Building Real App/4.2 Strings.md",
+                "file": "R U S T/Learn Rust by Building Real App/4 HTTP Server.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b1dd9d982e309e62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "R U S T/Learn Rust by Building Real App/4.3. Enum.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -142,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Learn Rust by Building Real App/4.2 Strings.md",
+                "file": "R U S T/Learn Rust by Building Real App/4.3. Enum.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -159,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Learn Rust by Building Real App/4.2 Strings.md",
+                "file": "R U S T/Learn Rust by Building Real App/4.3. Enum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Learn Rust by Building Real App/4.2 Strings.md"
+                "file": "R U S T/Learn Rust by Building Real App/4.3. Enum.md"
               }
             }
           },
@@ -230,10 +242,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1499b6473b344cff",
+  "active": "b1dd9d982e309e62",
   "lastOpenFiles": [
-    "R U S T/Learn Rust by Building Real App/4.1 Struct.md",
     "R U S T/Learn Rust by Building Real App/4 HTTP Server.md",
+    "R U S T/Learn Rust by Building Real App/4.3. Enum.md",
+    "R U S T/Learn Rust by Building Real App/4.2 Strings.md",
+    "R U S T/Learn Rust by Building Real App/4.1 Struct.md",
     "R U S T/Learn Rust by Building Real App/3 Building a Command Line Application.md",
     "R U S T/Learn Rust by Building Real App/_ Learn Rust by Building Apps.md",
     "R U S T/Rust Programming Tutorial/15 Working with Files.md",
@@ -242,7 +256,6 @@
     "P Y T H O N/GUI/Firebase full course.md",
     "HASKELL/for_great_good/7 Types and TypeClasses.md",
     "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/QTableWidget.md",
-    "R U S T/Learn Rust by Building Real App/4.2 Strings.md",
     "R U S T/Rust Programming Tutorial/10 Structs.md",
     "A I/SI na Froncie/_ Wprowadzenie SI z JS.md",
     "A I/JS uczenie maszynowe/_ 0 Uczenie maszynowe z JS.md",
@@ -259,7 +272,6 @@
     "HASKELL/Haskell for Imperative Programmers/8 Datatypes.md",
     "HASKELL/for_great_good/7.1 Record syntax.md",
     "HASKELL/Simple Haskell File - Structure.md",
-    "R U S T/Rust Programming Tutorial/14. Vectors.md",
     "R U S T/Rust Programming For Beginners",
     "A I/JS uczenie maszynowe",
     "R U S T/Rust by example",
