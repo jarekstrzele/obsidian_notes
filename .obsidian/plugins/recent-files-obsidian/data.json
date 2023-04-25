@@ -5,6 +5,10 @@
       "path": "N_O_D_E/NodeJS - fullstack/4.1. Prosty serwer i klient TCP.md"
     },
     {
+      "basename": "4.1.1. tworzenie własnego klienta",
+      "path": "N_O_D_E/NodeJS - fullstack/4.1.1. tworzenie własnego klienta.md"
+    },
+    {
       "basename": "_ 0 Programowanie w języku C++",
       "path": "C++/Programowanie w języku C++ od A do Z/_ 0 Programowanie w języku C++.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "1 Add action to React Navigator",
       "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/1 Add action to React Navigator.md"
-    },
-    {
-      "basename": "3 Add new Component MealItem",
-      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/3 Add new Component MealItem.md"
     }
   ],
   "omittedPaths": [],
