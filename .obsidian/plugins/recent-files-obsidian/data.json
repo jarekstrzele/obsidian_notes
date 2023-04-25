@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "3.3. Tworzenie plików i katalogów",
+      "path": "N_O_D_E/NodeJS - fullstack/3.3. Tworzenie plików i katalogów.md"
+    },
+    {
+      "basename": "3.2. Odczytywanie plików",
+      "path": "N_O_D_E/NodeJS - fullstack/3.2. Odczytywanie plików.md"
+    },
+    {
       "basename": "4.1.1. tworzenie własnego klienta",
       "path": "N_O_D_E/NodeJS - fullstack/4.1.1. tworzenie własnego klienta.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "graf_DFS.excalidraw",
       "path": "Excalidraw/graf_DFS.excalidraw.md"
-    },
-    {
-      "basename": "1.4. FlatList",
-      "path": "REACT NATIVE/React Native Practical Guide/1.4. FlatList.md"
-    },
-    {
-      "basename": "1 Add action to React Navigator",
-      "path": "REACT NATIVE/React Native Practical Guide/6 Navigation/1 Add action to React Navigator.md"
     }
   ],
   "omittedPaths": [],
