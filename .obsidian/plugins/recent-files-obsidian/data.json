@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2.3. Stream",
+      "path": "N_O_D_E/NodeJS - fullstack/2.3. Stream.md"
+    },
+    {
       "basename": "4.2. Serwer HTTP",
       "path": "N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_ 0 PySide",
       "path": "P Y T H O N/GUI/PySide6/_ 0 PySide.md"
-    },
-    {
-      "basename": "8 Descriptors",
-      "path": "P Y T H O N/OOP Python udemy/8 Descriptors.md"
     }
   ],
   "omittedPaths": [],

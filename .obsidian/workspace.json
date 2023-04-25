@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md",
+                "file": "N_O_D_E/NodeJS - fullstack/2.3. Stream.md",
                 "mode": "source",
                 "source": false
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md",
+                "file": "N_O_D_E/NodeJS - fullstack/2.3. Stream.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md",
+                "file": "N_O_D_E/NodeJS - fullstack/2.3. Stream.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md"
+                "file": "N_O_D_E/NodeJS - fullstack/2.3. Stream.md"
               }
             }
           },
@@ -260,8 +260,8 @@
   },
   "active": "3c2fc67d53ec3756",
   "lastOpenFiles": [
-    "N_O_D_E/NodeJS - fullstack/4.1.1. tworzenie własnego klienta.md",
     "N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md",
+    "N_O_D_E/NodeJS - fullstack/4.1.1. tworzenie własnego klienta.md",
     "N_O_D_E/NodeJS - fullstack/3.3. Tworzenie plików i katalogów.md",
     "N_O_D_E/NodeJS - fullstack/3.2. Odczytywanie plików.md",
     "N_O_D_E/NodeJS - fullstack/4.1. Prosty serwer i klient TCP.md",
