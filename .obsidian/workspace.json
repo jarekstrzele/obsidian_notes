@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "N_O_D_E/Mosh Node/1 Node Module System.md",
+                "file": "N_O_D_E/Mosh Node/2 Node Package Manager.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "N_O_D_E/Mosh Node/1 Node Module System.md",
+                "file": "N_O_D_E/Mosh Node/2 Node Package Manager.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "N_O_D_E/Mosh Node/1 Node Module System.md",
+                "file": "N_O_D_E/Mosh Node/2 Node Package Manager.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "N_O_D_E/Mosh Node/1 Node Module System.md"
+                "file": "N_O_D_E/Mosh Node/2 Node Package Manager.md"
               }
             }
           },
@@ -220,6 +220,7 @@
   },
   "active": "0d7813e2c094b8ae",
   "lastOpenFiles": [
+    "N_O_D_E/Mosh Node/1 Node Module System.md",
     "N_O_D_E/Mosh Node/_ 0 Node (Mosh).md",
     "R U S T/atrybut.md",
     "R U S T/Programmowanie_w Rust/_ Programowanie w języku Rust.md",
@@ -247,7 +248,6 @@
     "A I/SI na Froncie/_ Wprowadzenie SI z JS.md",
     "A I/JS uczenie maszynowe/_ 0 Uczenie maszynowe z JS.md",
     "R U S T/Untitled.canvas",
-    "R U S T/Learn Rust by Building Real App/2 Memory Management.md",
     "A I/SI na Froncie",
     "R U S T/Rust Programming For Beginners",
     "A I/JS uczenie maszynowe",

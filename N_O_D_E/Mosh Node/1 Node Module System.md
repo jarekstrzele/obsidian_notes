@@ -234,13 +234,10 @@ logger.log('meeeesssage') ;
 
 ```js
 const http = require('http');
-
 const server = http.createServer() ; // this server is an EventEmmiter
 
 server.on('connection', (socket)=>{console.log('New connection ....')}) ;
-
 server.listen(3000);
-
 console.log("I'm listing on 3000 ...")
 ```
 

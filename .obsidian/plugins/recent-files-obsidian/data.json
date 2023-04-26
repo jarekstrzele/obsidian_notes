@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2 Node Package Manager",
+      "path": "N_O_D_E/Mosh Node/2 Node Package Manager.md"
+    },
+    {
       "basename": "1 Node Module System",
       "path": "N_O_D_E/Mosh Node/1 Node Module System.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "4.1. Prosty serwer i klient TCP",
       "path": "N_O_D_E/NodeJS - fullstack/4.1. Prosty serwer i klient TCP.md"
-    },
-    {
-      "basename": "4. Tworzenie serwerów",
-      "path": "N_O_D_E/NodeJS - fullstack/4. Tworzenie serwerów.md"
     }
   ],
   "omittedPaths": [],
