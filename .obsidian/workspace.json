@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Learn Rust by Building Real App/4 HTTP Server.md",
+                "file": "R U S T/Learn Rust by Building Real App/4.3. Enum.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Learn Rust by Building Real App/4 HTTP Server.md",
+                "file": "R U S T/Learn Rust by Building Real App/4.3. Enum.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Learn Rust by Building Real App/4 HTTP Server.md",
+                "file": "R U S T/Learn Rust by Building Real App/4.3. Enum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Learn Rust by Building Real App/4 HTTP Server.md"
+                "file": "R U S T/Learn Rust by Building Real App/4.3. Enum.md"
               }
             }
           },
@@ -200,6 +200,9 @@
   },
   "active": "8357e2f5f01a3918",
   "lastOpenFiles": [
+    "R U S T/Learn Rust by Building Real App/4.2 Strings.md",
+    "R U S T/Learn Rust by Building Real App/4.1 Struct.md",
+    "R U S T/Learn Rust by Building Real App/4 HTTP Server.md",
     "R U S T/Learn Rust by Building Real App/2 Memory Management.md",
     "R U S T/Learn Rust by Building Real App/_ Learn Rust by Building Apps.md",
     "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md",
@@ -225,10 +228,7 @@
     "C++/Programowanie w języku C++ od A do Z/_ 0 Programowanie w języku C++.md",
     "R U S T/Learn Rust by Building Real App/4.3. Enum.md",
     "HASKELL/for_great_good/7.1 Record syntax.md",
-    "A I/SI na Froncie/_ Wprowadzenie SI z JS.md",
-    "A I/SI na Froncie/2. SI i Uczenie maszynowe.md",
     "A I/SI na Froncie",
-    "R U S T/Rust Programming Tutorial/15 Working with Files.md",
     "R U S T/Rust Programming For Beginners",
     "A I/JS uczenie maszynowe",
     "R U S T/Tech with TIm Rust",
