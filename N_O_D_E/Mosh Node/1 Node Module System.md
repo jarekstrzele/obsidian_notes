@@ -16,8 +16,6 @@ console.log(globale.msg) ; // -> undefined
 ```
 because `msg` is visible only in tha file not globaly
 
-
-
 ## in browser `window`
 in a browser global objects are hidden inside the `window` object: `window.console.log`, `window.setItnerval`, ....
 
@@ -75,7 +73,6 @@ Node wraps w module inside the function
 
 
 ## Path Module
-
 ```js
 const path = require('path') ;
 var pathObj = path.parse(__filename);
@@ -92,7 +89,6 @@ PS C:\Users\jarek\Prog\NODE> node .\moshmodule.js
   name: 'moshmodule'
 }
 ```
-
 
 ## OS Module
 ```js
@@ -114,9 +110,7 @@ Total Memory 29909643264, freeMemory 15869329408
 ### Sync
 ```js
 const fs = require('fs') ;
-
 const files = fs.readdirSync('./') ;
-
 console.log(files);
 ```
 

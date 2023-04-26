@@ -47,8 +47,12 @@
             "id": "0d7813e2c094b8ae",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "N_O_D_E/Mosh Node/1 Node Module System.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -126,6 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "N_O_D_E/Mosh Node/1 Node Module System.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -142,6 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "N_O_D_E/Mosh Node/1 Node Module System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +169,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "N_O_D_E/Mosh Node/1 Node Module System.md"
+              }
             }
           },
           {
@@ -212,6 +220,7 @@
   },
   "active": "0d7813e2c094b8ae",
   "lastOpenFiles": [
+    "N_O_D_E/Mosh Node/_ 0 Node (Mosh).md",
     "R U S T/atrybut.md",
     "R U S T/Programmowanie_w Rust/_ Programowanie w języku Rust.md",
     "R U S T/Programmowanie_w Rust/2. Pierwsze spotkanie z Rustem.md",
@@ -239,7 +248,6 @@
     "A I/JS uczenie maszynowe/_ 0 Uczenie maszynowe z JS.md",
     "R U S T/Untitled.canvas",
     "R U S T/Learn Rust by Building Real App/2 Memory Management.md",
-    "A I/SI na Froncie/2. SI i Uczenie maszynowe.md",
     "A I/SI na Froncie",
     "R U S T/Rust Programming For Beginners",
     "A I/JS uczenie maszynowe",
