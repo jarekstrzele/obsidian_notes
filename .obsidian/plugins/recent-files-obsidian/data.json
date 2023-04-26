@@ -1,6 +1,50 @@
 {
   "recentFiles": [
     {
+      "basename": "2. Pierwsze spotkanie z Rustem",
+      "path": "R U S T/Programmowanie_w Rust/2. Pierwsze spotkanie z Rustem.md"
+    },
+    {
+      "basename": "_ Programowanie w języku Rust",
+      "path": "R U S T/Programmowanie_w Rust/_ Programowanie w języku Rust.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "R U S T/Untitled.canvas"
+    },
+    {
+      "basename": "_ 0 Rust",
+      "path": "R U S T/Rust - FreeCode Beginner/_ 0 Rust.md"
+    },
+    {
+      "basename": "_ 0 PyQt5 From A-Z",
+      "path": "P Y T H O N/GUI/PyQt/PyQt5 From A-Z/_ 0 PyQt5 From A-Z.md"
+    },
+    {
+      "basename": "_ 0 Rust Web Book",
+      "path": "R U S T/Rust Web Book/_ 0 Rust Web Book.md"
+    },
+    {
+      "basename": "_ Rust Programming Tutorial",
+      "path": "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md"
+    },
+    {
+      "basename": "_ Rust Programming for Beginners",
+      "path": "R U S T/Rust Programming For Beginners/_ Rust Programming for Beginners.md"
+    },
+    {
+      "basename": "_ Rust Tech with Tim",
+      "path": "R U S T/Tech with TIm Rust/_ Rust Tech with Tim.md"
+    },
+    {
+      "basename": "3 Building a Command Line Application",
+      "path": "R U S T/Learn Rust by Building Real App/3 Building a Command Line Application.md"
+    },
+    {
+      "basename": "_ Learn Rust by Building Apps",
+      "path": "R U S T/Learn Rust by Building Real App/_ Learn Rust by Building Apps.md"
+    },
+    {
       "basename": "4.2. Serwer HTTP",
       "path": "N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md"
     },
@@ -65,20 +109,8 @@
       "path": "Excalidraw/rust-server.excalidraw.md"
     },
     {
-      "basename": "_ Learn Rust by Building Apps",
-      "path": "R U S T/Learn Rust by Building Real App/_ Learn Rust by Building Apps.md"
-    },
-    {
       "basename": "2 Memory Management",
       "path": "R U S T/Learn Rust by Building Real App/2 Memory Management.md"
-    },
-    {
-      "basename": "3 Building a Command Line Application",
-      "path": "R U S T/Learn Rust by Building Real App/3 Building a Command Line Application.md"
-    },
-    {
-      "basename": "_ Rust Programming for Beginners",
-      "path": "R U S T/Rust Programming For Beginners/_ Rust Programming for Beginners.md"
     },
     {
       "basename": "2 Making Decisions",
@@ -167,34 +199,6 @@
     {
       "basename": "_ 0 Complete React Native",
       "path": "REACT NATIVE/The Complete React NativePlusHooks/_ 0 Complete React Native.md"
-    },
-    {
-      "basename": "Firebase full course",
-      "path": "P Y T H O N/GUI/Firebase full course.md"
-    },
-    {
-      "basename": "2. Podstawowe koncepcje",
-      "path": "N_O_D_E/NodeJS - fullstack/2. Podstawowe koncepcje.md"
-    },
-    {
-      "basename": "1 Moduły",
-      "path": "N_O_D_E/NodeJS - fullstack/1 Moduły.md"
-    },
-    {
-      "basename": "urllib",
-      "path": "P Y T H O N/urllib.md"
-    },
-    {
-      "basename": "_ 0 PyQt with Hala",
-      "path": "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/_ 0 PyQt with Hala.md"
-    },
-    {
-      "basename": "Simple app with FireBase",
-      "path": "P Y T H O N/GUI/Simple app with FireBase.md"
-    },
-    {
-      "basename": "PySimpleGUI",
-      "path": "P Y T H O N/GUI/PySimpleGUI.md"
     }
   ],
   "omittedPaths": [],
