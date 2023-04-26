@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
       "basename": "2.3. Stream",
       "path": "N_O_D_E/NodeJS - fullstack/2.3. Stream.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "PySimpleGUI",
       "path": "P Y T H O N/GUI/PySimpleGUI.md"
-    },
-    {
-      "basename": "_ 0 PySide",
-      "path": "P Y T H O N/GUI/PySide6/_ 0 PySide.md"
     }
   ],
   "omittedPaths": [],
