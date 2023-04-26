@@ -97,26 +97,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/2.3. Stream.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2f55f19dc8237151",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -190,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -207,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md"
               }
             }
           },
@@ -270,7 +258,7 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "2f55f19dc8237151",
+  "active": "3c2fc67d53ec3756",
   "lastOpenFiles": [
     "N_O_D_E/NodeJS - fullstack/2.3. Stream.md",
     "conflict-files-obsidian-git.md",
