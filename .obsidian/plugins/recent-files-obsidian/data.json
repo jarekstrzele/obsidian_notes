@@ -5,6 +5,10 @@
       "path": "R U S T/Programmowanie_w Rust/2. Pierwsze spotkanie z Rustem.md"
     },
     {
+      "basename": "atrybut",
+      "path": "R U S T/atrybut.md"
+    },
+    {
       "basename": "_ Programowanie w języku Rust",
       "path": "R U S T/Programmowanie_w Rust/_ Programowanie w języku Rust.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "clock App",
       "path": "REACT NATIVE/clock App.md"
-    },
-    {
-      "basename": "_ 0 Complete React Native",
-      "path": "REACT NATIVE/The Complete React NativePlusHooks/_ 0 Complete React Native.md"
     }
   ],
   "omittedPaths": [],
