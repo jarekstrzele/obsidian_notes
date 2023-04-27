@@ -54,9 +54,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "40c55e0503a7d577",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -130,7 +138,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -147,7 +154,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,9 +175,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md"
-              }
+              "state": {}
             }
           },
           {
@@ -218,8 +222,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0d7813e2c094b8ae",
+  "active": "40c55e0503a7d577",
   "lastOpenFiles": [
+    "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
     "N_O_D_E/Mosh Node/2 Node Package Manager.md",
     "N_O_D_E/Mosh Node/1 Node Module System.md",
     "N_O_D_E/Mosh Node/_ 0 Node (Mosh).md",
@@ -246,7 +251,6 @@
     "HASKELL/for_great_good/7 Types and TypeClasses.md",
     "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/QTableWidget.md",
     "R U S T/Rust Programming Tutorial/10 Structs.md",
-    "A I/SI na Froncie/_ Wprowadzenie SI z JS.md",
     "R U S T/Untitled.canvas",
     "A I/SI na Froncie",
     "R U S T/Rust Programming For Beginners",
