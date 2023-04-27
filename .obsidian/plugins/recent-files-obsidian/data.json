@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "N_O_D_E/NodeJS - fullstack/Untitled.md"
+    },
+    {
       "basename": "4.2. Serwer HTTP",
       "path": "N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "5 Enum Types",
       "path": "R U S T/Rust Programming Tutorial/5 Enum Types.md"
-    },
-    {
-      "basename": "6 Constants",
-      "path": "R U S T/Rust Programming Tutorial/6 Constants.md"
     }
   ],
   "omittedPaths": [],
