@@ -59,8 +59,12 @@
             "id": "40c55e0503a7d577",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "N_O_D_E/NodeJS - fullstack/3.2. Odczytywanie plików.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -138,6 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "N_O_D_E/NodeJS - fullstack/3.2. Odczytywanie plików.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -154,6 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "N_O_D_E/NodeJS - fullstack/3.2. Odczytywanie plików.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +181,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "N_O_D_E/NodeJS - fullstack/3.2. Odczytywanie plików.md"
+              }
             }
           },
           {
@@ -224,6 +232,8 @@
   },
   "active": "40c55e0503a7d577",
   "lastOpenFiles": [
+    "N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md",
+    "N_O_D_E/NodeJS - fullstack/3 Node praca z Sys. Plików.md",
     "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
     "N_O_D_E/Mosh Node/2 Node Package Manager.md",
     "N_O_D_E/Mosh Node/1 Node Module System.md",
@@ -249,8 +259,6 @@
     "R U S T/Rust Programming Tutorial/13 Traits.md",
     "P Y T H O N/GUI/Firebase full course.md",
     "HASKELL/for_great_good/7 Types and TypeClasses.md",
-    "P Y T H O N/GUI/PyQt/PyQt5_with_Hala/QTableWidget.md",
-    "R U S T/Rust Programming Tutorial/10 Structs.md",
     "R U S T/Untitled.canvas",
     "A I/SI na Froncie",
     "R U S T/Rust Programming For Beginners",
