@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/Untitled.md",
+                "file": "N_O_D_E/NodeJS - fullstack/4.3. pliki statyczne.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/Untitled.md",
+                "file": "N_O_D_E/NodeJS - fullstack/4.3. pliki statyczne.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/Untitled.md",
+                "file": "N_O_D_E/NodeJS - fullstack/4.3. pliki statyczne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/Untitled.md"
+                "file": "N_O_D_E/NodeJS - fullstack/4.3. pliki statyczne.md"
               }
             }
           },
@@ -244,9 +244,9 @@
   },
   "active": "041803bbb3795df4",
   "lastOpenFiles": [
-    "N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md",
-    "N_O_D_E/NodeJS - fullstack/Untitled.md",
     "N_O_D_E/NodeJS - fullstack/4. Tworzenie serwerów.md",
+    "N_O_D_E/NodeJS - fullstack/4.3. pliki statyczne.md",
+    "N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md",
     "N_O_D_E/NodeJS - fullstack/4.1. Prosty serwer i klient TCP.md",
     "R U S T/Learn Rust by Building Real App/4 HTTP Server.md",
     "N_O_D_E/NodeJS - fullstack/3.3. Tworzenie plików i katalogów.md",
