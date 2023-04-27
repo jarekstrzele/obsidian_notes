@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "3.3. Tworzenie plików i katalogów",
+      "path": "N_O_D_E/NodeJS - fullstack/3.3. Tworzenie plików i katalogów.md"
+    },
+    {
       "basename": "3.2. Odczytywanie plików",
       "path": "N_O_D_E/NodeJS - fullstack/3.2. Odczytywanie plików.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "11 Arrays",
       "path": "R U S T/Rust Programming Tutorial/11 Arrays.md"
-    },
-    {
-      "basename": "12 String",
-      "path": "R U S T/Rust Programming Tutorial/12 String.md"
     }
   ],
   "omittedPaths": [],

@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/3.2. Odczytywanie plików.md",
+                "file": "N_O_D_E/NodeJS - fullstack/3.3. Tworzenie plików i katalogów.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/3.2. Odczytywanie plików.md",
+                "file": "N_O_D_E/NodeJS - fullstack/3.3. Tworzenie plików i katalogów.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/3.2. Odczytywanie plików.md",
+                "file": "N_O_D_E/NodeJS - fullstack/3.3. Tworzenie plików i katalogów.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/3.2. Odczytywanie plików.md"
+                "file": "N_O_D_E/NodeJS - fullstack/3.3. Tworzenie plików i katalogów.md"
               }
             }
           },
@@ -232,6 +232,7 @@
   },
   "active": "40c55e0503a7d577",
   "lastOpenFiles": [
+    "N_O_D_E/NodeJS - fullstack/3.2. Odczytywanie plików.md",
     "N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md",
     "N_O_D_E/NodeJS - fullstack/3 Node praca z Sys. Plików.md",
     "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
@@ -258,7 +259,6 @@
     "R U S T/Rust Programming Tutorial/9 Reference.md",
     "R U S T/Rust Programming Tutorial/13 Traits.md",
     "P Y T H O N/GUI/Firebase full course.md",
-    "HASKELL/for_great_good/7 Types and TypeClasses.md",
     "R U S T/Untitled.canvas",
     "A I/SI na Froncie",
     "R U S T/Rust Programming For Beginners",
