@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -242,7 +242,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "041803bbb3795df4",
+  "active": "0d7813e2c094b8ae",
   "lastOpenFiles": [
     "N_O_D_E/NodeJS - fullstack/4.3. pliki statyczne.md",
     "N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md",
