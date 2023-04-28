@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md",
+                "file": "N_O_D_E/NodeJS - fullstack/4.3. pliki statyczne.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md",
+                "file": "N_O_D_E/NodeJS - fullstack/4.3. pliki statyczne.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md",
+                "file": "N_O_D_E/NodeJS - fullstack/4.3. pliki statyczne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md"
+                "file": "N_O_D_E/NodeJS - fullstack/4.3. pliki statyczne.md"
               }
             }
           },
@@ -244,8 +244,8 @@
   },
   "active": "041803bbb3795df4",
   "lastOpenFiles": [
-    "N_O_D_E/NodeJS - fullstack/4.1.1. tworzenie własnego klienta.md",
     "N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md",
+    "N_O_D_E/NodeJS - fullstack/4.1.1. tworzenie własnego klienta.md",
     "N_O_D_E/NodeJS - fullstack/4.1. Prosty serwer i klient TCP.md",
     "N_O_D_E/NodeJS - fullstack/4. Tworzenie serwerów.md",
     "N_O_D_E/NodeJS - fullstack/3.5. usuwanie plików i katalogów.md",
