@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "4.1.1. tworzenie własnego klienta",
+      "path": "N_O_D_E/NodeJS - fullstack/4.1.1. tworzenie własnego klienta.md"
+    },
+    {
+      "basename": "4.2. Serwer HTTP",
+      "path": "N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md"
+    },
+    {
       "basename": "4.1. Prosty serwer i klient TCP",
       "path": "N_O_D_E/NodeJS - fullstack/4.1. Prosty serwer i klient TCP.md"
     },
@@ -27,10 +35,6 @@
     {
       "basename": "4.3. pliki statyczne",
       "path": "N_O_D_E/NodeJS - fullstack/4.3. pliki statyczne.md"
-    },
-    {
-      "basename": "4.2. Serwer HTTP",
-      "path": "N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md"
     },
     {
       "basename": "4 HTTP Server",
@@ -195,10 +199,6 @@
     {
       "basename": "2 Variables",
       "path": "R U S T/Rust Programming Tutorial/2 Variables.md"
-    },
-    {
-      "basename": "3 If statement",
-      "path": "R U S T/Rust Programming Tutorial/3 If statement.md"
     }
   ],
   "omittedPaths": [],
