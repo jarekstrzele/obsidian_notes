@@ -1,24 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "4.3. pliki statyczne",
-      "path": "N_O_D_E/NodeJS - fullstack/4.3. pliki statyczne.md"
+      "basename": "4.1. Prosty serwer i klient TCP",
+      "path": "N_O_D_E/NodeJS - fullstack/4.1. Prosty serwer i klient TCP.md"
     },
     {
       "basename": "4. Tworzenie serwerów",
       "path": "N_O_D_E/NodeJS - fullstack/4. Tworzenie serwerów.md"
     },
     {
-      "basename": "4.2. Serwer HTTP",
-      "path": "N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md"
-    },
-    {
-      "basename": "4.1. Prosty serwer i klient TCP",
-      "path": "N_O_D_E/NodeJS - fullstack/4.1. Prosty serwer i klient TCP.md"
-    },
-    {
-      "basename": "4 HTTP Server",
-      "path": "R U S T/Learn Rust by Building Real App/4 HTTP Server.md"
+      "basename": "3.5. usuwanie plików i katalogów",
+      "path": "N_O_D_E/NodeJS - fullstack/3.5. usuwanie plików i katalogów.md"
     },
     {
       "basename": "3.3. Tworzenie plików i katalogów",
@@ -27,6 +19,22 @@
     {
       "basename": "3.2. Odczytywanie plików",
       "path": "N_O_D_E/NodeJS - fullstack/3.2. Odczytywanie plików.md"
+    },
+    {
+      "basename": "2.3. Stream",
+      "path": "N_O_D_E/NodeJS - fullstack/2.3. Stream.md"
+    },
+    {
+      "basename": "4.3. pliki statyczne",
+      "path": "N_O_D_E/NodeJS - fullstack/4.3. pliki statyczne.md"
+    },
+    {
+      "basename": "4.2. Serwer HTTP",
+      "path": "N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md"
+    },
+    {
+      "basename": "4 HTTP Server",
+      "path": "R U S T/Learn Rust by Building Real App/4 HTTP Server.md"
     },
     {
       "basename": "3.1. Odczytywanie info o plikach",
@@ -191,14 +199,6 @@
     {
       "basename": "3 If statement",
       "path": "R U S T/Rust Programming Tutorial/3 If statement.md"
-    },
-    {
-      "basename": "4 Loops",
-      "path": "R U S T/Rust Programming Tutorial/4 Loops.md"
-    },
-    {
-      "basename": "5 Enum Types",
-      "path": "R U S T/Rust Programming Tutorial/5 Enum Types.md"
     }
   ],
   "omittedPaths": [],
