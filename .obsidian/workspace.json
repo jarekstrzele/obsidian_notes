@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/4.3. pliki statyczne.md",
+                "file": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/4.3. pliki statyczne.md",
+                "file": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/4.3. pliki statyczne.md",
+                "file": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "N_O_D_E/NodeJS - fullstack/4.3. pliki statyczne.md"
+                "file": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md"
               }
             }
           },
@@ -244,6 +244,7 @@
   },
   "active": "041803bbb3795df4",
   "lastOpenFiles": [
+    "N_O_D_E/NodeJS - fullstack/4.3. pliki statyczne.md",
     "N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md",
     "N_O_D_E/NodeJS - fullstack/4.1.1. tworzenie własnego klienta.md",
     "N_O_D_E/NodeJS - fullstack/4.1. Prosty serwer i klient TCP.md",
@@ -252,7 +253,6 @@
     "N_O_D_E/NodeJS - fullstack/3.3. Tworzenie plików i katalogów.md",
     "N_O_D_E/NodeJS - fullstack/3.2. Odczytywanie plików.md",
     "N_O_D_E/NodeJS - fullstack/2.3. Stream.md",
-    "N_O_D_E/NodeJS - fullstack/4.3. pliki statyczne.md",
     "R U S T/Learn Rust by Building Real App/4 HTTP Server.md",
     "N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md",
     "N_O_D_E/NodeJS - fullstack/3 Node praca z Sys. Plików.md",
