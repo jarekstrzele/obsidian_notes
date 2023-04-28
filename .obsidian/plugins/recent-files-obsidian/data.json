@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "UBUNTU",
+      "path": "linux/UBUNTU.md"
+    },
+    {
+      "basename": "2. SI i Uczenie maszynowe",
+      "path": "A I/SI na Froncie/2. SI i Uczenie maszynowe.md"
+    },
+    {
       "basename": "4.2 Strings",
       "path": "R U S T/Learn Rust by Building Real App/4.2 Strings.md"
     },
@@ -149,10 +157,6 @@
       "path": "R U S T/Learn Rust by Building Real App/2 Memory Management.md"
     },
     {
-      "basename": "2. SI i Uczenie maszynowe",
-      "path": "A I/SI na Froncie/2. SI i Uczenie maszynowe.md"
-    },
-    {
       "basename": "_ Uczenie Maszynowe  Helion Piotr Szajowski",
       "path": "A I/uczenie maszynowe/_ Uczenie Maszynowe  Helion Piotr Szajowski.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_ Rust Programming Tutorial",
       "path": "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md"
-    },
-    {
-      "basename": "2 Variables",
-      "path": "R U S T/Rust Programming Tutorial/2 Variables.md"
     }
   ],
   "omittedPaths": [],
