@@ -134,7 +134,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -238,11 +239,11 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "juggl:Juggl global graph": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "juggl:Juggl global graph": false
     }
   },
-  "active": "0d7813e2c094b8ae",
+  "active": "aad6e2f11a660f1c",
   "lastOpenFiles": [
     "N_O_D_E/NodeJS - fullstack/4.1. Prosty serwer i klient TCP.md",
     "N_O_D_E/NodeJS - fullstack/4. Tworzenie serwerów.md",
