@@ -10,7 +10,7 @@
 >[!info] Stack
 >It is a special region of the process memory that stores variables created by each function
 > > The memory for each function is called ==a stock frame==:
-> > 	- this is where our local variables ive for every function
+> > 	- this is where our local variables live for every function
 >  
 >  > For every function call a new stack frame is allocated on top of the current one
 > the size of every variable on the stock has to be known at compile time!!
