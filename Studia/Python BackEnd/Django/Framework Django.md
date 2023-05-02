@@ -122,6 +122,7 @@ https://docs.djangoproject.com/pl/4.0/topics/install/
 **APLIKACJA** aplikacja webowa, która coś robi, ma konktretne przeznaczenie, może być nią np. blog, sklep, ankieta, czat, baza danych publicznych
 aplikacje moga być przechowywane i uruchamian gdziekolwiek na ścieżce pythona. W praktyce najczęściej tworzony jest główny projekt, w któruym konfiguowany jest adres URL i serwer i w ramch którego może funkcjonować wiele aplikacji. Wówaczas palikacje te są tworzone jako podmoduły głównego projektu
 #### `python manage.py startapp nazwaAplikacji`
+generuje podstawową strukturę katalogów aplikacji
 
 #django/project
 **PROJEKT** zbiór konfiguracji i palikacji dla konkretnej wutryby. Projekt może zawierać wiele aplikacji. Aplikacja może być w wielu projektach
@@ -155,9 +156,26 @@ utworzony zostanie katalog mysite w bieżącym katalogu z podkatolaogiem ustawie
 - `python mange.py ruserver 0:8000` - `0` jest skrótem `0.0.0.0` umożliwia nasłuchiwanie na wszystkich dostęþnych publicznych IP
 - w większości przypadku serwer Django sam się przeładowuje po wprowadzeniu zmian (oprócz dodawania nowych plików do projektu)
 
+------
+# tworzenie pierwszego widoku aplikacji
+### `python manage.py startapp ankiety`
 
+1. otwórz plik `ankiety/views.py`
+```python
+from django.http import HttpResponse
 
+def index(request):
+	return HttpResponse("Działa. Jesteśmy wpierwszej aplikacji Django-ankiety")
+```
 
+2. zmapuj ten plik na dres URL, więc `URLconf`
+	-  w katalogu aplikacji `ankiety` utwórz plik o nazwie `urls.py`
+```python
+from django.urls import path
+from . import views
+
+urlpatterns = [path('', views.index, name='index')]
+```
 
 
 
