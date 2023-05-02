@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "API/REST API i Python Helion/_ 0 start REST API i python.md",
+                "file": "Studia/Python BackEnd/Django/Framework Django.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,8 +145,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -166,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "API/REST API i Python Helion/_ 0 start REST API i python.md",
+                "file": "Studia/Python BackEnd/Django/Framework Django.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -183,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "API/REST API i Python Helion/_ 0 start REST API i python.md",
+                "file": "Studia/Python BackEnd/Django/Framework Django.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "API/REST API i Python Helion/_ 0 start REST API i python.md"
+                "file": "Studia/Python BackEnd/Django/Framework Django.md"
               }
             }
           },
@@ -256,6 +255,7 @@
   },
   "active": "04bccf1dc56dfdd4",
   "lastOpenFiles": [
+    "API/REST API i Python Helion/_ 0 start REST API i python.md",
     "R U S T/Learn Rust by Building Real App/4.3. Enum.md",
     "Studia/Python BackEnd/Django/Framework Django.md",
     "R U S T/Learn Rust by Building Real App/4.4 Organising a Code into Modules.md",
@@ -281,7 +281,6 @@
     "N_O_D_E/NodeJS - fullstack/3 Node praca z Sys. Plików.md",
     "N_O_D_E/Mosh Node/2 Node Package Manager.md",
     "N_O_D_E/Mosh Node/1 Node Module System.md",
-    "N_O_D_E/Mosh Node/_ 0 Node (Mosh).md",
     "R U S T/Programmowanie_w Rust",
     "R U S T/Untitled.canvas",
     "A I/SI na Froncie",

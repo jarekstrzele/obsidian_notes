@@ -102,7 +102,6 @@ Szablony decydują o tym, jak to zostanie zaprezentowane użytkownikowi, a więc
 `sudo apt update && sudo apt install Django`
 https://docs.djangoproject.com/pl/4.0/topics/install/
 
-
 1. Intalacja Python
 2. instalacja serwera Apache,  mod_wsgi (opcjonalnie),  - używanie Django na stronie produkcyjne w jednym zdwóch trybów:
 	1. **tryb osadzony** osadza Python w Apache i ładuje kod Pythona do pamięci podczas uruchamiania serwera. Kod pozostaje w pamięci przez cały czas trwania procesu Apache, co prowardzi do znacznego wzrosu wydajności 
@@ -115,6 +114,34 @@ https://docs.djangoproject.com/pl/4.0/topics/install/
 	1. pip lub
 	2. instalacja pakietu dystrybucji lub
 	3. instalacja wersji deweloperskiej
+
+----
+# projekt vs aplikacja
+(00:44)
+#django/app 
+**APLIKACJA** aplikacja webowa, która coś robi, ma konktretne przeznaczenie, może być nią np. blog, sklep, ankieta, czat, baza danych publicznych
+aplikacje moga być przechowywane i uruchamian gdziekolwiek na ścieżce pythona. W praktyce najczęściej tworzony jest główny projekt, w któruym konfiguowany jest adres URL i serwer i w ramch którego może funkcjonować wiele aplikacji. Wówaczas palikacje te są tworzone jako podmoduły głównego projektu
+
+
+#django/project
+**PROJEKT** zbiór konfiguracji i palikacji dla konkretnej wutryby. Projekt może zawierać wiele aplikacji. Aplikacja może być w wielu projektach
+
+---
+# tworzenie projektu
+#django/project 
+- zaplanuj nazwę projektu
+	- unikaj nazw komponentów wbudowanych w Python luib Django 
+- zaplanuj miejsce przechowywania plików projektu
+	- nie umieszczaj plików w głównym katalogu serwera WWW (np/ /var/www)
+
+### `django-admin startproject mysite` 
+utworzony zostanie katalog mysite w bieżącym katalogu z podkatolaogiem ustawień projekto o takiej samej nazwie zawierający pliki o konkretnej strukturze
+
+
+
+
+
+
 
 
 
