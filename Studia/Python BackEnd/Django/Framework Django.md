@@ -121,10 +121,11 @@ https://docs.djangoproject.com/pl/4.0/topics/install/
 #django/app 
 **APLIKACJA** aplikacja webowa, która coś robi, ma konktretne przeznaczenie, może być nią np. blog, sklep, ankieta, czat, baza danych publicznych
 aplikacje moga być przechowywane i uruchamian gdziekolwiek na ścieżce pythona. W praktyce najczęściej tworzony jest główny projekt, w któruym konfiguowany jest adres URL i serwer i w ramch którego może funkcjonować wiele aplikacji. Wówaczas palikacje te są tworzone jako podmoduły głównego projektu
-
+#### `python manage.py startapp nazwaAplikacji`
 
 #django/project
 **PROJEKT** zbiór konfiguracji i palikacji dla konkretnej wutryby. Projekt może zawierać wiele aplikacji. Aplikacja może być w wielu projektach
+ `django-admin startproject mysite` 
 
 ---
 # tworzenie projektu
@@ -137,6 +138,22 @@ aplikacje moga być przechowywane i uruchamian gdziekolwiek na ścieżce pythona
 ### `django-admin startproject mysite` 
 utworzony zostanie katalog mysite w bieżącym katalogu z podkatolaogiem ustawień projekto o takiej samej nazwie zawierający pliki o konkretnej strukturze
 
+`mysite/` katalog główny, który jest pojemnikiem projegy
+`manage.py` skrypt Python, narzędzie liniii koment do zarządzania projektem
+`db.sqlite3` baza danych w domyśłnym formacie SQLite3
+`__init__.py` pusty plik, który mówi Pythonowi, że ten katalog jest modułem
+`settings.py` ustawienia dla projektu Django
+`urls.py` list obsługiwanych adresów URL
+`asgi.py` plik konfiguracyjny wykorzystywany przez serwry WWW
+`wsgi.py` plik konfiguracyjny wykorzystywany przez serwry WWW
+
+
+### `python manage.py runserver`
+
+- domyślnie `runserver`  otwiera port `8000`
+- `python manage.py runserver 8080`
+- `python mange.py ruserver 0:8000` - `0` jest skrótem `0.0.0.0` umożliwia nasłuchiwanie na wszystkich dostęþnych publicznych IP
+- w większości przypadku serwer Django sam się przeładowuje po wprowadzeniu zmian (oprócz dodawania nowych plików do projektu)
 
 
 
