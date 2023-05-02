@@ -1,3 +1,11 @@
+#django 
+[[#WSTĘP]]
+[[#MVC Model-Widok-Kontroler]]
+[[#MTV - Django]]
+[[#instalacja Django]]
+
+
+
 
 
 # WSTĘP
@@ -94,8 +102,20 @@ Szablony decydują o tym, jak to zostanie zaprezentowane użytkownikowi, a więc
 `sudo apt update && sudo apt install python-django`
 
 1. Intalacja Python
-2. instalacja serwera Apache, bazy danych mod_wsgi (opcjonalnie, bo Django to ma)
-3. 
+2. instalacja serwera Apache,  mod_wsgi (opcjonalnie),  - używanie Django na stronie produkcyjne w jednym zdwóch trybów:
+	1. **tryb osadzony** osadza Python w Apache i ładuje kod Pythona do pamięci podczas uruchamiania serwera. Kod pozostaje w pamięci przez cały czas trwania procesu Apache, co prowardzi do znacznego wzrosu wydajności 
+	2. **tryb demona** mod_wsgi tworzy niezależny proces demona, który obsługuje żadania. Proces demona może działą jako inny użytkowni niż serwer siecieowy, co prawdopodobnie prowadzi do poprawy bezpieczeństwa. Proces demona można zrestartować bez ponownego uruchamiania całego serwerwa WWW Apache
+3. bazy danych (opcjonalnie, bo Django to ma) - 
+	1. aby możliwe było użycie bazy danych w Django, należy ipewnić się, że serwer bazy danych działa i są zainstalowane odpowiednie wiązania bazodanowe Pythona
+	2.  Django wspiera PostgreSQL, MariaDB, MySQL, Oracl, SQLIte
+	3. 
+4. instalacja Django:
+	1. pip lub
+	2. instalacja pakietu dystrybucji lub
+	3. instalacja wersji deweloperskiej
+
+
+
 
 
 
