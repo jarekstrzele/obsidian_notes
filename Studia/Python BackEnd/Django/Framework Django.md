@@ -43,8 +43,7 @@ wzorzec projektowania aplikacji rozdzielający dane(model) od sposoby ich prezen
 **ORM** (ang. Object-Relational Mapping) - mapowanie obiektowo-relacyjne, oprogramowanie odwzorowujące strukturę relacyjnej bazy danych na obiekty danego języka programowania
 
 
-**WIDOK** to funkcja lub klasa Pythona, która odpowiada na żądania WWW, np. zwraca kod HTML generowany w szablonie (*template*), jakiś dokument, obrazek lub przekerowuje na inny adres
-; jest definiowany w pliku *views.py*
+**WIDOK** to funkcja lub klasa Pythona, która odpowiada na żądania WWW, np. zwraca kod HTML generowany w szablonie (*template*), jakiś dokument, obrazek lub przekerowuje na inny adres; jest definiowany w pliku *views.py*
 Django zawiera wiele widoków wbudowanych (*generic views*), w tym opartych na klasach opisujących modele, umożliwiających
 	- przeglądanie (np. ListView, DetailView,)
 	- edycję danych (np. CreateView, UpdateView)
@@ -64,6 +63,10 @@ W Django szblony zapisywane są w podkatalogu `templates/nazwa_aplikacji`
 
 **KONTROLER** mechanizm kierujący kolejne żądania do odpowiedniuch widoków na podstawie wzorców adresów URL
 
+
+---
+# instalacja
+`sudo apt update && sudo apt install python-django`
 
 
 
