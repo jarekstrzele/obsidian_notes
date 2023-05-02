@@ -179,8 +179,25 @@ urlpatterns = [path('', views.index, name='index')]
 
 
 
+- w pliku projektu `mysite` folder główny zmodyfikuj `urls.py`
+	- dodaj `include` do bibliotejki `django.urls` wstawiając include() na listę url patterns
+	- uzyskamy wskazanie w podstawowej konfiguracji adresu URL na moduł `ankiety.urls`
+```python
+from django.contrib import admin
+from django.urls import path, include
 
+urlpatterns = [
+	path('ankiety/', include('ankiety.urls'))
+	path('admin/', admin.site.urls),
+]
+```
 
+`python manage.py runserver`
 
-
+#django/include
+*include()* 
+- pozwala na odniesienia do innych adresów `URLconf`
+- 
+- należy używać, gdy stosowane są inne wzorce URL (oprócz `admin.site.urls`)
+- 
 
