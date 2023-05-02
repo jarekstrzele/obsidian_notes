@@ -3,7 +3,11 @@
 [[#MVC Model-Widok-Kontroler]]
 [[#MTV - Django]]
 [[#instalacja Django]]
-
+[[#projekt vs aplikacja]]
+[[#tworzenie projektu]]
+[[#tworzenie pierwszego widoku aplikacji]]
+[[#`django-admin i manage.py`]]
+[[#`setting.py`]]
 
 
 
@@ -197,6 +201,22 @@ urlpatterns = [
 ## rejestrowanie aplikacji w projekcie
 `mysite/settings.py`
 
+```python
+# ...
+INSTALLED_APPS = [
+	'ankiety.apps.AnkietyConfig', # rejestracja aplikacji
+	'django.contrib.admin',
+	'django.contrib.auth',
+	'django.contrib.contenttypes',
+	'django.contrib.sessions',
+	'django.contrib.messages',
+	'django.contrib.staticfiles',
+]
+# ...
+
+LANGUAGE_CODE = 'pl'
+TIME_ZONE = 'Europe/Warsaw'
+```
 
 
 
@@ -215,7 +235,7 @@ urlpatterns = [
 **manage.py** robi to samo co w/w ale również ustawia *zmienną środowiskową* `DJANGO_SETTINGS_MODULE` tak, aby wskazywała na plik `settings.py` projektu
 
 ------
-# `setting.py`
+# `settings.py`
 standardowy moduł Python ze zminnymi na poziomie moduły reprezentującymi ustawienia DJango
 `INSTALLED_APPS`  nazwy wszystkich aplikacji, które są aktywowane w danej instancji Django
 	- `django.contrib.admin` panel administracyjny
