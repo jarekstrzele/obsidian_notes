@@ -194,10 +194,48 @@ urlpatterns = [
 
 `python manage.py runserver`
 
+## rejestrowanie aplikacji w projekcie
+`mysite/settings.py`
+
+
+
+
+
 #django/include
 *include()* 
 - pozwala na odniesienia do innych adresów `URLconf`
 - 
 - należy używać, gdy stosowane są inne wzorce URL (oprócz `admin.site.urls`)
 - 
+
+------
+# `django-admin i manage.py`
+**django-admin** narzędzie wiersza poleceń do zadań administracyjnych
+
+**manage.py** robi to samo co w/w ale również ustawia *zmienną środowiskową* `DJANGO_SETTINGS_MODULE` tak, aby wskazywała na plik `settings.py` projektu
+
+------
+# `setting.py`
+standardowy moduł Python ze zminnymi na poziomie moduły reprezentującymi ustawienia DJango
+`INSTALLED_APPS`  nazwy wszystkich aplikacji, które są aktywowane w danej instancji Django
+	- `django.contrib.admin` panel administracyjny
+	- `django.contrib.auth` syste uwierzytelniania
+	- `django.contrib.contenttypes` framework dla typów treśco
+	- `django.contrib.sessions` framework dla sesji
+	- `django.contrib.messages` frame work powiadomień
+	- `django.contrib.staticfiles` framework do zarządzania plikami statycznymi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
