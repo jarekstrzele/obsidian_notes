@@ -76,11 +76,26 @@ np. `url(r'^loguj/$', views.loguj, name='loguj')`
 	- `{1,3}` od 1 do 3 wystąpień poprzedniego wyrażenia `\d{1,3}`
 
 
+#  MTV - Django
+(00:30)
+model MODEL
+szablon TEMPLATE
+widok  VIEW
+
+Widoki są powiązane z adresami URL i same decydują, o tym, co zostanie zwrócone i pełnią w ten spoób rolę kontrolera
+Szablony decydują o tym, jak to zostanie zaprezentowane użytkownikowi, a więc pełnią rolę widoków w sensie MVC
+
+
+
+
+
 ---
-# instalacja
+# instalacja Django
 `sudo apt update && sudo apt install python-django`
 
-
+1. Intalacja Python
+2. instalacja serwera Apache, bazy danych mod_wsgi (opcjonalnie, bo Django to ma)
+3. 
 
 
 
