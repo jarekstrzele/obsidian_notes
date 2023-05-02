@@ -99,7 +99,9 @@ Szablony decydują o tym, jak to zostanie zaprezentowane użytkownikowi, a więc
 
 ---
 # instalacja Django
-`sudo apt update && sudo apt install python-django`
+`sudo apt update && sudo apt install Django`
+https://docs.djangoproject.com/pl/4.0/topics/install/
+
 
 1. Intalacja Python
 2. instalacja serwera Apache,  mod_wsgi (opcjonalnie),  - używanie Django na stronie produkcyjne w jednym zdwóch trybów:
@@ -108,7 +110,7 @@ Szablony decydują o tym, jak to zostanie zaprezentowane użytkownikowi, a więc
 3. bazy danych (opcjonalnie, bo Django to ma) - 
 	1. aby możliwe było użycie bazy danych w Django, należy ipewnić się, że serwer bazy danych działa i są zainstalowane odpowiednie wiązania bazodanowe Pythona
 	2.  Django wspiera PostgreSQL, MariaDB, MySQL, Oracl, SQLIte
-	3. 
+	3.  https://docs.djangoproject.com/pl/4.0/topics/install/
 4. instalacja Django:
 	1. pip lub
 	2. instalacja pakietu dystrybucji lub
