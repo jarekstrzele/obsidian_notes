@@ -43,7 +43,7 @@ wzorzec projektowania aplikacji rozdzielający dane(model) od sposoby ich prezen
 **ORM** (ang. Object-Relational Mapping) - mapowanie obiektowo-relacyjne, oprogramowanie odwzorowujące strukturę relacyjnej bazy danych na obiekty danego języka programowania
 
 
-**WIDOK** to funkcja lub klasa Pythona, która odpowiada na żądania WWW, np. zwraca kod HTML generowany w szablonie (*template*), jakiś dokument, obrazek lub przekerowuje na inny adres; jest definiowany w pliku *views.py*
+**WIDOK** (00:27) to funkcja lub klasa Pythona, która odpowiada na żądania WWW, np. zwraca kod HTML generowany w szablonie (*template*), jakiś dokument, obrazek lub przekerowuje na inny adres; jest definiowany w pliku *views.py*
 Django zawiera wiele widoków wbudowanych (*generic views*), w tym opartych na klasach opisujących modele, umożliwiających
 	- przeglądanie (np. ListView, DetailView,)
 	- edycję danych (np. CreateView, UpdateView)
@@ -61,7 +61,19 @@ Dane z bazy przekazywane dą do szablonów za pomocą Pythonowego słownika. Ren
 W Django szblony zapisywane są w podkatalogu `templates/nazwa_aplikacji`
 
 
-**KONTROLER** mechanizm kierujący kolejne żądania do odpowiedniuch widoków na podstawie wzorców adresów URL
+**KONTROLER** (00:29) mechanizm kierujący kolejne żądania do odpowiedniuch widoków na podstawie wzorców adresów URL
+W Django adresy wiążemy z widokami w pliku *urls.py* ->
+np. `url(r'^loguj/$', views.loguj, name='loguj')`
+- `r'loguj/$` to wyrażenie regularne `regex`
+	- `r` początek, `$` koniec
+	- `^` dopasowuje początek ciągu lub nowj linii
+	- `.` dowolny pojedynczy znak
+	- `\d` lub `[0-9]` pojedyncza cyfra dzięsiętna
+	- `[a-z]`, `[A-Z]`, `[a-zA-Z]`
+	- `+` jedno lub więcej wystąpień poprzedniego wyrażenia `\d+`
+	- `?` zero lub jednp wystąpienie poprzedniego wyrażenia
+	- `*`  zero lub więcej wystąpień poprzedniego wyrażenia
+	- `{1,3}` od 1 do 3 wystąpień poprzedniego wyrażenia `\d{1,3}`
 
 
 ---
