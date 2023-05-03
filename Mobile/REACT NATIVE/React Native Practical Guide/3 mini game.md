@@ -1,4 +1,4 @@
-[[REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide]]
+[[_ 0 React Native - Practical Guide]]
 
 # Setting up our screen components
 

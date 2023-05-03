@@ -2,7 +2,7 @@
 
 ---
 # React Native - The Big Picture
-[[REACT NATIVE/plurasight/React Native - The Big Picture 1]]
+[[React Native - The Big Picture 1]]
 
 
 
