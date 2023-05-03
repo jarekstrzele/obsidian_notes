@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studia/Python BackEnd/Django/Framework Django.md",
+                "file": "R U S T/Learn Rust by Building Real App/4.5 TCP.md",
                 "mode": "source",
                 "source": false
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studia/Python BackEnd/Django/Framework Django.md",
+                "file": "R U S T/Learn Rust by Building Real App/4.5 TCP.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studia/Python BackEnd/Django/Framework Django.md",
+                "file": "R U S T/Learn Rust by Building Real App/4.5 TCP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studia/Python BackEnd/Django/Framework Django.md"
+                "file": "R U S T/Learn Rust by Building Real App/4.5 TCP.md"
               }
             }
           },
@@ -261,13 +261,16 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "f621f21825dbd82d",
+  "active": "04bccf1dc56dfdd4",
   "lastOpenFiles": [
+    "R U S T/Learn Rust by Building Real App/4.4 Organising a Code into Modules.md",
+    "R U S T/Learn Rust by Building Real App/4.5 TCP.md",
+    "Studia/Python BackEnd/Django/Framework Django.md",
+    "Desktop/Python",
+    "Desktop",
     "Mobile",
     "API/REST API i Python Helion/_ 0 start REST API i python.md",
     "R U S T/Learn Rust by Building Real App/4.3. Enum.md",
-    "Studia/Python BackEnd/Django/Framework Django.md",
-    "R U S T/Learn Rust by Building Real App/4.4 Organising a Code into Modules.md",
     "R U S T/Learn Rust by Building Real App/4.1 Struct.md",
     "R U S T/Learn Rust by Building Real App/4 HTTP Server.md",
     "R U S T/Learn Rust by Building Real App/3 Building a Command Line Application.md",
@@ -296,10 +299,7 @@
     "A I/JS uczenie maszynowe",
     "R U S T/Rust by example",
     "R U S T/Learn Rust by Building Real App",
-    "P Y T H O N/GUI/PyQt/Create GUI App with PyQt",
-    "Data Bases/FireBase",
-    "R U S T/Rust Programming Tutorial",
-    "R U S T/Tech with TIm Rust",
+    "Desktop/Python/GUI/PyQt/Create GUI App with PyQt",
     "Untitled.canvas"
   ]
 }
