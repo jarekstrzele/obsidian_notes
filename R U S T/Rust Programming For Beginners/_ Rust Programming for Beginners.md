@@ -1,6 +1,15 @@
 #udemy #rust 
 #lennon_jayson
 
+in the terminal:
+### `cargo run --bin projectName` 
+- `bin` the binary is an executable program
+
+### `cargo run -q --bin projectName`
+`-q` without some messages in the terminaln, only the result
+
+
+
 --------------
 [[2 Making Decisions]]
 
