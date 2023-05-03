@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "3 Repetition",
+      "path": "R U S T/Rust Programming For Beginners/3 Repetition.md"
+    },
+    {
       "basename": "2 Making Decisions",
       "path": "R U S T/Rust Programming For Beginners/2 Making Decisions.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "1 Poznawanie potencjału języka JS",
       "path": "A I/JS uczenie maszynowe/1 Poznawanie potencjału języka JS.md"
-    },
-    {
-      "basename": "2 Badanie danych",
-      "path": "A I/JS uczenie maszynowe/2 Badanie danych.md"
     }
   ],
   "omittedPaths": [],
