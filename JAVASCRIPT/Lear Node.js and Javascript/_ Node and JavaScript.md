@@ -1,10 +1,10 @@
 #udemy #javascript #node #elder_john 
 
 
-[[- 2 JavaScript]]
-[[- 3 Node]]
-[[- 4 MySQL with Node.js]]
-[[- 5 Stock Market App with Node and JavaScript]]
+[[JAVASCRIPT/Lear Node.js and Javascript/- 2 JavaScript]]
+[[JAVASCRIPT/Lear Node.js and Javascript/- 3 Node]]
+[[JAVASCRIPT/Lear Node.js and Javascript/- 4 MySQL with Node.js]]
+[[JAVASCRIPT/Lear Node.js and Javascript/- 5 Stock Market App with Node and JavaScript]]
 
 
 

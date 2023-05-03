@@ -3,12 +3,12 @@
 # DB with docker
 
 ## MySQL
-![[- 4 MySQL with Node.js#docker mysql]]
+![[_ WEB/N_O_D_E/Lear Node.js and Javascript/- 4 MySQL with Node.js#docker mysql]]
 
 
 ## PHPMyAdmin
 
-![[- 4 MySQL with Node.js#docker phpmyadmin]]
+![[_ WEB/N_O_D_E/Lear Node.js and Javascript/- 4 MySQL with Node.js#docker phpmyadmin]]
 
 
 

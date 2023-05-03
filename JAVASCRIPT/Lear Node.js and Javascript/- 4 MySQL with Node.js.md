@@ -1,6 +1,6 @@
 #mysql  #node 
 
-[[_ Node and JavaScript]]
+[[JAVASCRIPT/Lear Node.js and Javascript/_ Node and JavaScript]]
 
 ---
 # MySQL with Node
@@ -29,7 +29,7 @@ in the folder with a js file:
 
 ----
 ## docker
-[[docker mysql node phpmyadmin]]
+[[JAVASCRIPT/Lear Node.js and Javascript/docker mysql node phpmyadmin]]
 
 ---
 

@@ -9,7 +9,7 @@
 Plugins to VS COde:
 - live server
 - Bracket Pair Colorizer
-[[- 2 JavaScript]] (ES6) code snippets
+[[_ WEB/N_O_D_E/Lear Node.js and Javascript/- 2 JavaScript]] (ES6) code snippets
 
 `#test`+enter -> `<div id="test"></div>`
 similar:

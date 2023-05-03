@@ -4,7 +4,7 @@
 
 
 [[język HTML 5]]
-[[FullStack/Python Django FullStack/CSS]]
+[[_ FullStack/Python Django FullStack/CSS]]
 [[Grafika na stronie internetowej]]
 [[Grficzny projekt strony]]
 [[]Animacja na stronie internetowej]]

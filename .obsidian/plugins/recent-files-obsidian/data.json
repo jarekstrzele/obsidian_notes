@@ -5,6 +5,14 @@
       "path": "R U S T/Learn Rust by Building Real App/4.5 TCP.md"
     },
     {
+      "basename": "FTP",
+      "path": "_ WEB/Server/FTP.md"
+    },
+    {
+      "basename": "What is the Server",
+      "path": "_ WEB/Server/What is the Server.md"
+    },
+    {
       "basename": "4.4 Organising a Code into Modules",
       "path": "R U S T/Learn Rust by Building Real App/4.4 Organising a Code into Modules.md"
     },
@@ -54,15 +62,15 @@
     },
     {
       "basename": "4.2. Serwer HTTP",
-      "path": "N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md"
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md"
     },
     {
       "basename": "4.1. Prosty serwer i klient TCP",
-      "path": "N_O_D_E/NodeJS - fullstack/4.1. Prosty serwer i klient TCP.md"
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/4.1. Prosty serwer i klient TCP.md"
     },
     {
       "basename": "4. Tworzenie serwerów",
-      "path": "N_O_D_E/NodeJS - fullstack/4. Tworzenie serwerów.md"
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/4. Tworzenie serwerów.md"
     },
     {
       "basename": "2 Właściwości grafów",
@@ -70,67 +78,67 @@
     },
     {
       "basename": "4.3. pliki statyczne",
-      "path": "N_O_D_E/NodeJS - fullstack/4.3. pliki statyczne.md"
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/4.3. pliki statyczne.md"
     },
     {
       "basename": "4.1.1. tworzenie własnego klienta",
-      "path": "N_O_D_E/NodeJS - fullstack/4.1.1. tworzenie własnego klienta.md"
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/4.1.1. tworzenie własnego klienta.md"
     },
     {
       "basename": "3.5. usuwanie plików i katalogów",
-      "path": "N_O_D_E/NodeJS - fullstack/3.5. usuwanie plików i katalogów.md"
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3.5. usuwanie plików i katalogów.md"
     },
     {
       "basename": "3.3. Tworzenie plików i katalogów",
-      "path": "N_O_D_E/NodeJS - fullstack/3.3. Tworzenie plików i katalogów.md"
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3.3. Tworzenie plików i katalogów.md"
     },
     {
       "basename": "3.2. Odczytywanie plików",
-      "path": "N_O_D_E/NodeJS - fullstack/3.2. Odczytywanie plików.md"
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3.2. Odczytywanie plików.md"
     },
     {
       "basename": "2.3. Stream",
-      "path": "N_O_D_E/NodeJS - fullstack/2.3. Stream.md"
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.3. Stream.md"
     },
     {
       "basename": "3.1. Odczytywanie info o plikach",
-      "path": "N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md"
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md"
     },
     {
       "basename": "3 Node praca z Sys. Plików",
-      "path": "N_O_D_E/NodeJS - fullstack/3 Node praca z Sys. Plików.md"
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3 Node praca z Sys. Plików.md"
     },
     {
       "basename": "2 Node Package Manager",
-      "path": "N_O_D_E/Mosh Node/2 Node Package Manager.md"
+      "path": "_ WEB/N_O_D_E/Mosh Node/2 Node Package Manager.md"
     },
     {
       "basename": "1 Node Module System",
-      "path": "N_O_D_E/Mosh Node/1 Node Module System.md"
+      "path": "_ WEB/N_O_D_E/Mosh Node/1 Node Module System.md"
     },
     {
       "basename": "_ 0 Node (Mosh)",
-      "path": "N_O_D_E/Mosh Node/_ 0 Node (Mosh).md"
+      "path": "_ WEB/N_O_D_E/Mosh Node/_ 0 Node (Mosh).md"
     },
     {
       "basename": "2. Route parameters",
-      "path": "Mobile/REACT NATIVE/React Native Practical Guide/6 Navigation/2. Route parameters.md"
+      "path": "_ Mobile/REACT NATIVE/React Native Practical Guide/6 Navigation/2. Route parameters.md"
     },
     {
       "basename": "3 Add new Component MealItem",
-      "path": "Mobile/REACT NATIVE/React Native Practical Guide/6 Navigation/3 Add new Component MealItem.md"
+      "path": "_ Mobile/REACT NATIVE/React Native Practical Guide/6 Navigation/3 Add new Component MealItem.md"
     },
     {
       "basename": "9 Nested Navigators",
-      "path": "Mobile/REACT NATIVE/React Native Practical Guide/6 Navigation/9 Nested Navigators.md"
+      "path": "_ Mobile/REACT NATIVE/React Native Practical Guide/6 Navigation/9 Nested Navigators.md"
     },
     {
       "basename": "1 Add action to React Navigator",
-      "path": "Mobile/REACT NATIVE/React Native Practical Guide/6 Navigation/1 Add action to React Navigator.md"
+      "path": "_ Mobile/REACT NATIVE/React Native Practical Guide/6 Navigation/1 Add action to React Navigator.md"
     },
     {
       "basename": "_ 0 React Native Navigation",
-      "path": "Mobile/REACT NATIVE/React Native Practical Guide/6 Navigation/_ 0 React Native Navigation.md"
+      "path": "_ Mobile/REACT NATIVE/React Native Practical Guide/6 Navigation/_ 0 React Native Navigation.md"
     },
     {
       "basename": "15 Working with Files",
@@ -146,7 +154,7 @@
     },
     {
       "basename": "Firebase full course",
-      "path": "Desktop/Python/GUI/Firebase full course.md"
+      "path": "_ Desktop/Python/GUI/Firebase full course.md"
     },
     {
       "basename": "7 Types and TypeClasses",
@@ -154,7 +162,7 @@
     },
     {
       "basename": "QTableWidget",
-      "path": "Desktop/Python/GUI/PyQt/PyQt5_with_Hala/QTableWidget.md"
+      "path": "_ Desktop/Python/GUI/PyQt/PyQt5_with_Hala/QTableWidget.md"
     },
     {
       "basename": "10 Structs",
@@ -186,19 +194,11 @@
     },
     {
       "basename": "PySimpleGUI",
-      "path": "Desktop/Python/GUI/PySimpleGUI.md"
+      "path": "_ Desktop/Python/GUI/PySimpleGUI.md"
     },
     {
       "basename": "2 Types and Functions",
       "path": "HASKELL/Real World Haskell/2 Types and Functions.md"
-    },
-    {
-      "basename": "7 Folding",
-      "path": "HASKELL/Haskell for Imperative Programmers/7 Folding.md"
-    },
-    {
-      "basename": "8 Datatypes",
-      "path": "HASKELL/Haskell for Imperative Programmers/8 Datatypes.md"
     }
   ],
   "omittedPaths": [],
