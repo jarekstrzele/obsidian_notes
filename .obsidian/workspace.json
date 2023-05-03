@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/3 Repetition.md",
+                "file": "R U S T/Rust Programming For Beginners/Data.md",
                 "mode": "source",
                 "source": false
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/3 Repetition.md",
+                "file": "R U S T/Rust Programming For Beginners/Data.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/3 Repetition.md",
+                "file": "R U S T/Rust Programming For Beginners/Data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/3 Repetition.md"
+                "file": "R U S T/Rust Programming For Beginners/Data.md"
               }
             }
           },
@@ -263,8 +263,9 @@
   },
   "active": "04bccf1dc56dfdd4",
   "lastOpenFiles": [
-    "R U S T/Rust Programming For Beginners/2 Making Decisions.md",
     "R U S T/Rust Programming For Beginners/3 Repetition.md",
+    "R U S T/Rust Programming For Beginners/Data.md",
+    "R U S T/Rust Programming For Beginners/2 Making Decisions.md",
     "R U S T/Rust Programming For Beginners/_ Rust Programming for Beginners.md",
     "R U S T/Learn Rust by Building Real App/4.5 TCP.md",
     "_ WEB/Server/FTP.md",
@@ -292,7 +293,6 @@
     "_ WEB/N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/4.1.1. tworzenie własnego klienta.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/3.5. usuwanie plików i katalogów.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/3.3. Tworzenie plików i katalogów.md",
     "R U S T/Programmowanie_w Rust",
     "R U S T/Untitled.canvas",
     "A I/SI na Froncie",

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Data",
+      "path": "R U S T/Rust Programming For Beginners/Data.md"
+    },
+    {
       "basename": "3 Repetition",
       "path": "R U S T/Rust Programming For Beginners/3 Repetition.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_ Uczenie Maszynowe  Helion Piotr Szajowski",
       "path": "A I/uczenie maszynowe/_ Uczenie Maszynowe  Helion Piotr Szajowski.md"
-    },
-    {
-      "basename": "1 Poznawanie potencjału języka JS",
-      "path": "A I/JS uczenie maszynowe/1 Poznawanie potencjału języka JS.md"
     }
   ],
   "omittedPaths": [],
