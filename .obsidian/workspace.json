@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/5 Intermediate Concepts.md",
+                "file": "linux/Vim/Vim od podstaw/_ Vim od podstaw.md",
                 "mode": "source",
                 "source": false
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/5 Intermediate Concepts.md",
+                "file": "linux/Vim/Vim od podstaw/_ Vim od podstaw.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/5 Intermediate Concepts.md",
+                "file": "linux/Vim/Vim od podstaw/_ Vim od podstaw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/5 Intermediate Concepts.md"
+                "file": "linux/Vim/Vim od podstaw/_ Vim od podstaw.md"
               }
             }
           },
@@ -263,8 +263,11 @@
   },
   "active": "04bccf1dc56dfdd4",
   "lastOpenFiles": [
-    "memory_leak.md",
+    "linux/Vim/Praktyczna administracja Vim/0 _ Vim wprowadzenie.md",
+    "linux/Vim/Vim od podstaw/_ Vim od podstaw.md",
+    "linux/Vim/Vim od podstaw",
     "R U S T/Rust Programming For Beginners/5 Intermediate Concepts.md",
+    "memory_leak.md",
     "R U S T/Rust Programming For Beginners/4 Data.md",
     "R U S T/Rust Programming For Beginners/3 Repetition.md",
     "R U S T/Rust Programming For Beginners/2 Making Decisions.md",
@@ -291,15 +294,12 @@
     "_ WEB/N_O_D_E/NodeJS - fullstack/4.1. Prosty serwer i klient TCP.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/4. Tworzenie serwerów.md",
     "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/4.3. pliki statyczne.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md",
     "R U S T/Programmowanie_w Rust",
     "R U S T/Untitled.canvas",
     "A I/SI na Froncie",
     "R U S T/Rust Programming For Beginners",
     "A I/JS uczenie maszynowe",
     "R U S T/Rust by example",
-    "R U S T/Learn Rust by Building Real App",
     "Untitled.canvas"
   ]
 }
