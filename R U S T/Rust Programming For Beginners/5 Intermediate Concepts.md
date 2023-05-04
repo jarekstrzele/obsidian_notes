@@ -64,6 +64,9 @@ fn main(){
 ---
 # Memory
 #rust/memory 
+*Memory uses addresses  & offsets.
+Addresses are permanent, data differs
+Offsets can be ised to "index" into some data*
 
 >[!info] Memory
 > - memory is stored using binary (bits: 0 or 1)
@@ -77,25 +80,28 @@ fn main(){
 >[!info] memory offsets (przesunięcia pamięci)
 >	- item can be located at an address using an "offset"
 >	- offsets begin at 0
->	- represent the number of bytes away from the orginal addres (normally deal with indexes instead)
-
-
-
-
-
-
-
-
-
+>	- represent the number of bytes away from the original addres (normally deal with indexes instead)
+>example:
+>`Data[1]` 
+>	-	address 4 (the variable name `data` automatically take care of the the address ),
+>	- offset 1
 
 
 
 
 -------------
 # Ownership
+#rust/ownership 
+
+>[!important] Ownership
+>- it is what allows us:
+>	- to execute code in a performant manner
+>	- help ensure that compile the code executes correctly inder various circumstances
 
 
-
+>[!info] Managing memory
+>	- program must track memory  ( if they fail to do so, a "leak" occurs) ([[memory_leak]])
+>- 
 
 
 

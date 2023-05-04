@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "memory_leak",
+      "path": "memory_leak.md"
+    },
+    {
       "basename": "5 Intermediate Concepts",
       "path": "R U S T/Rust Programming For Beginners/5 Intermediate Concepts.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_ 0 Uczenie maszynowe z JS",
       "path": "A I/JS uczenie maszynowe/_ 0 Uczenie maszynowe z JS.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "R U S T/Untitled.canvas"
     }
   ],
   "omittedPaths": [],
