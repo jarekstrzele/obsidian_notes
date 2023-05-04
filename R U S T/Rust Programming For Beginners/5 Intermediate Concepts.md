@@ -101,9 +101,36 @@ Offsets can be ised to "index" into some data*
 
 >[!info] Managing memory
 >	- program must track memory  ( if they fail to do so, a "leak" occurs) ([[memory_leak]])
->- 
+>	- Rust utilizes what is called an ownership model to manage memory (prevent the memory leak ) (the "owner" of memory is responsible for cleaning up the memory)
+>	- memory can either be =="moved"== or =="borrowed"==
 
+EXAMPLE
+there is a problem with this program, because we are calling display light twice
+```rust
+enum Light {
+	Bright,
+	Dull,
+}
 
+fn display_light(light: Light){
+	match light {
+		Light::Bright => println!("bright"),
+		Light::Dull => println!("dull"),
+	}
+}
+
+fn main(){
+	let dull = Light::Dull ;
+	display_light(dull) ;
+	display_light(dull) ;
+}
+```
+The error is due to the ownership model. 
+When we create this new ligth and assign it to the doll variable, it is owned by the `main` function.
+When we call `display_light(dull) ;` this dull light is being MOVED into a new function, so this `dull` light will be own by `display_light` function
+
+==any function that owns data is required to delete the data once the function completes== so
+the light will get
 
 
 

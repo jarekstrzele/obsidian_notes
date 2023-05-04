@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "memory_leak",
-      "path": "memory_leak.md"
-    },
-    {
       "basename": "5 Intermediate Concepts",
       "path": "R U S T/Rust Programming For Beginners/5 Intermediate Concepts.md"
+    },
+    {
+      "basename": "memory_leak",
+      "path": "memory_leak.md"
     },
     {
       "basename": "4 Data",
