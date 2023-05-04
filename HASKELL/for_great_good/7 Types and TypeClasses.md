@@ -2,7 +2,7 @@ http://learnyouahaskell.com/making-our-own-types-and-typeclasses
 
 ------
 [[7.1 Record syntax]]
-
+[[7.2 Type parameters]]
 
 
 -------

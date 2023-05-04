@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "7.1 Record syntax",
-      "path": "HASKELL/for_great_good/7.1 Record syntax.md"
+      "basename": "7.2 Type parameters",
+      "path": "HASKELL/for_great_good/7.2 Type parameters.md"
     },
     {
       "basename": "7 Types and TypeClasses",
       "path": "HASKELL/for_great_good/7 Types and TypeClasses.md"
+    },
+    {
+      "basename": "7.1 Record syntax",
+      "path": "HASKELL/for_great_good/7.1 Record syntax.md"
     },
     {
       "basename": "6 Modules",
@@ -195,10 +199,6 @@
     {
       "basename": "15 Working with Files",
       "path": "R U S T/Rust Programming Tutorial/15 Working with Files.md"
-    },
-    {
-      "basename": "9 Reference",
-      "path": "R U S T/Rust Programming Tutorial/9 Reference.md"
     }
   ],
   "omittedPaths": [],
