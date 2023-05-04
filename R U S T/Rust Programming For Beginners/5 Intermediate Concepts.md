@@ -155,11 +155,27 @@ fn main(){
 ```
 
 ### `&` the ampersand symbol in Rust indicates that we are borrowing data /referencing data
+```rust
+fn maim(){
+let dull = Light::Dull;
+}
+```
+We create a`dull` variable
+and the `main` function will immediately BECOME THE OWNER
 
+```rust
+display_light(&dull) ;
+```
+- we borrow the `dull` light and send the reference to the function, but `main` function is still the owner
+- after the `display_light` function the control go back to `main`
+- 
 
-
-
-
+> [!info] Recap
+> - memory must be managed in some way to prevent leaks
+> - Rust uses "ownership" to accomplish memory management
+> 	- the "owner" of data must clean up the memory
+> 	- this occurs automatically at the end of the scope
+> - Default behavior is to "MOVE" memory to a new owner (use an **apersand** `&` to allow code to "BORROW" memory)
 
 
 
