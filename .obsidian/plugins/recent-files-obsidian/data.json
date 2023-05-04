@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "7.1 Record syntax",
+      "path": "HASKELL/for_great_good/7.1 Record syntax.md"
+    },
+    {
+      "basename": "7 Types and TypeClasses",
+      "path": "HASKELL/for_great_good/7 Types and TypeClasses.md"
+    },
+    {
+      "basename": "6 Modules",
+      "path": "HASKELL/for_great_good/6 Modules.md"
+    },
+    {
+      "basename": "0 - Haskell intro",
+      "path": "HASKELL/for_great_good/0 - Haskell intro.md"
+    },
+    {
+      "basename": "Installing",
+      "path": "HASKELL/Installing.md"
+    },
+    {
       "basename": "_ Vim od podstaw",
       "path": "linux/Vim/Vim od podstaw/_ Vim od podstaw.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "9 Reference",
       "path": "R U S T/Rust Programming Tutorial/9 Reference.md"
-    },
-    {
-      "basename": "13 Traits",
-      "path": "R U S T/Rust Programming Tutorial/13 Traits.md"
-    },
-    {
-      "basename": "Firebase full course",
-      "path": "_ Desktop/Python/GUI/Firebase full course.md"
-    },
-    {
-      "basename": "7 Types and TypeClasses",
-      "path": "HASKELL/for_great_good/7 Types and TypeClasses.md"
-    },
-    {
-      "basename": "QTableWidget",
-      "path": "_ Desktop/Python/GUI/PyQt/PyQt5_with_Hala/QTableWidget.md"
-    },
-    {
-      "basename": "10 Structs",
-      "path": "R U S T/Rust Programming Tutorial/10 Structs.md"
     }
   ],
   "omittedPaths": [],

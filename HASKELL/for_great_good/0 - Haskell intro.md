@@ -1,5 +1,6 @@
 # _ Lern you a Haskell for Great Good
 #haskell 
+http://learnyouahaskell.com/chapters
 
 ---
 
