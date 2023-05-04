@@ -156,19 +156,36 @@ fn main(){
 
 
 
-
-
-
-
-
-
-
-
 -----
 # Tuple
 #rust/tuple
+>[!info] Tuple
+>- a type of "record"
+>- store data anonumously (no need to name fields)
+>- useful to return pairs of data from functions
+>- can be "destructured" easily into variables
 
 
+```rust
+enum Access {
+	Full,
+}
+
+fn one_two_three() -> (i32, i32, i32) {
+	(1,2,3)
+}
+
+let numbers - ine_two_three();
+let (x,y,z) = one_two_three();
+println!("{:?}, {:?}", x, numbers.0);
+println!("{:?}, {:?}", y, numbers.1);
+println!("{:?}, {:?}", z, numbers.2);
+
+let (emplo)
+
+
+
+```
 
 
 
