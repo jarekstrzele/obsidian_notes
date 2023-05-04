@@ -12,8 +12,8 @@ in the terminal:
 
 --------------
 [[2 Making Decisions]]
-
-
+[[3 Repetition]]
+[[4 Data]]
 
 
 
