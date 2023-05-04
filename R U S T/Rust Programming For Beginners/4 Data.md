@@ -123,6 +123,47 @@ fn main(){
 }
 ```
 
+```rust
+enum Flavor{
+  Sparkling,
+  Sweet,
+  Fruity,
+}
+
+struct Drink{
+  fluid_oz: f64,
+  flavor: Flavor,
+}
+
+fn print_out(drink: Drink){
+  println!("fluid: {:?}", drink.fluid_oz ) ;
+  match drink.flavor {
+    Flavor::Sparkling => println!("flavor: {:?}", "Sparkling" ),
+    Flavor::Sweet => println!("flavor: {:?}", "Sweet" ),
+    Flavor::Fruity => println!("flavor: {:?}", "Fruity" ),
+  }
+}
+
+fn main(){
+  let d = Drink{
+    fluid_oz: 6.0,
+    flavor: Flavor::Fruity,
+  };
+  print_out(d) ;
+}
+```
+
+
+
+
+
+
+
+
+
+
+
+
 -----
 # Tuple
 #rust/tuple
