@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "2 Types and Functions",
+      "path": "HASKELL/Real World Haskell/2 Types and Functions.md"
+    },
+    {
+      "basename": "1 Getting Started",
+      "path": "HASKELL/Real World Haskell/1 Getting Started.md"
+    },
+    {
+      "basename": "_ Real World Haskell",
+      "path": "HASKELL/Real World Haskell/_ Real World Haskell.md"
+    },
+    {
       "basename": "7.2 Type parameters",
       "path": "HASKELL/for_great_good/7.2 Type parameters.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "9 Nested Navigators",
       "path": "_ Mobile/REACT NATIVE/React Native Practical Guide/6 Navigation/9 Nested Navigators.md"
-    },
-    {
-      "basename": "1 Add action to React Navigator",
-      "path": "_ Mobile/REACT NATIVE/React Native Practical Guide/6 Navigation/1 Add action to React Navigator.md"
-    },
-    {
-      "basename": "_ 0 React Native Navigation",
-      "path": "_ Mobile/REACT NATIVE/React Native Practical Guide/6 Navigation/_ 0 React Native Navigation.md"
-    },
-    {
-      "basename": "15 Working with Files",
-      "path": "R U S T/Rust Programming Tutorial/15 Working with Files.md"
     }
   ],
   "omittedPaths": [],
