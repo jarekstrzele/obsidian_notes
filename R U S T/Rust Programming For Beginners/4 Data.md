@@ -181,7 +181,7 @@ println!("{:?}, {:?}", x, numbers.0);
 println!("{:?}, {:?}", y, numbers.1);
 println!("{:?}, {:?}", z, numbers.2);
 
-let (emplo)
+let (employee, access) = ("Jake", Access:Full) ;
 
 
 
