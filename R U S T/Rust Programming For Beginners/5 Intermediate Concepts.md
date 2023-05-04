@@ -130,9 +130,31 @@ When we create this new ligth and assign it to the doll variable, it is owned by
 When we call `display_light(dull) ;` this dull light is being MOVED into a new function, so this `dull` light will be own by `display_light` function
 
 ==any function that owns data is required to delete the data once the function completes== so
-the light will get
+the light will get deleted once the `display_light` finishes
+Because the `dull` light is deleted, it's no longer available for use again in the `main` function
 
+IF YOU WANT TO USE the `dull` light more the once use BORROW instead of MOVING
+```rust
+enum Light {
+	Bright,
+	Dull,
+}
 
+fn display_light(light: &Light){
+	match light {
+		Light::Bright => println!("bright"),
+		Light::Dull => println!("dull"),
+	}
+}
+
+fn main(){
+	let dull = Light::Dull ;
+	display_light(&dull) ;
+	display_light(&dull) ;
+}
+```
+
+### `&` the ampersand symbol in Rust indicates that we are borrowing data /referencing data
 
 
 
