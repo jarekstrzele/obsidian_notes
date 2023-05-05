@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/5 Intermediate Concepts.md",
+                "file": "R U S T/Rust Programming For Beginners/4 Data.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/5 Intermediate Concepts.md",
+                "file": "R U S T/Rust Programming For Beginners/4 Data.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/5 Intermediate Concepts.md",
+                "file": "R U S T/Rust Programming For Beginners/4 Data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/5 Intermediate Concepts.md"
+                "file": "R U S T/Rust Programming For Beginners/4 Data.md"
               }
             }
           },
@@ -216,6 +216,7 @@
   },
   "active": "77c8e80f5e2a9ab0",
   "lastOpenFiles": [
+    "R U S T/Rust Programming For Beginners/5 Intermediate Concepts.md",
     "HASKELL/Real World Haskell/2 Types and Functions.md",
     "HASKELL/Real World Haskell/1 Getting Started.md",
     "HASKELL/Real World Haskell/_ Real World Haskell.md",
@@ -228,7 +229,6 @@
     "linux/Vim/Vim od podstaw/_ Vim od podstaw.md",
     "linux/Vim/Praktyczna administracja Vim/0 _ Vim wprowadzenie.md",
     "linux/Vim/Vim od podstaw",
-    "R U S T/Rust Programming For Beginners/5 Intermediate Concepts.md",
     "memory_leak.md",
     "R U S T/Rust Programming For Beginners/4 Data.md",
     "R U S T/Rust Programming For Beginners/3 Repetition.md",

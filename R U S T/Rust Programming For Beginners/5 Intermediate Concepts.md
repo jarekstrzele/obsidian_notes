@@ -217,7 +217,42 @@ fn main(){
 # keyword `impl`
 #rust/impl
 
+```rust
+struct Temperature {
+  degrees_f: f64,
+}
 
+impl Temperature{
+  fn freezing() -> Self {
+    Self {degrees_f: 32.0}
+  }
+
+  fn boiling() -> Self {
+    Self {degrees_f: 222.0}
+  }
+
+  fn show_temp(&self){
+    println!("{:?} degrees F", self.degrees_f) ;
+  }
+}
+fn main(){
+
+  let t = Temperature{degrees_f: 99.1} ;
+  t.show_temp() ;
+
+  let c = Temperature::freezing() ;
+  c.show_temp() ;
+
+  let h = Temperature::boiling() ;
+  h.show_temp() ;
+  
+}
+
+output
+99.1 degrees F
+32.0 degrees F
+222.0 degrees F
+```
 
 
 
