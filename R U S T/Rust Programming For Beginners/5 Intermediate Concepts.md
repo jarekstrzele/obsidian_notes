@@ -254,7 +254,79 @@ output
 222.0 degrees F
 ```
 
+```rust
 
+struct Dimension {
+  width: f64,
+  height: f64,
+  depth: f64,
+}
+
+impl Dimension{
+  fn print(&self){
+    println!("width: {:?}", self.width);
+    println!("height: {:?}", self.height); 
+    println!("depth: {:?}", self.depth); 
+  }
+}
+
+enum Color {
+  BLUE,
+  WHITE,
+  BLACK
+}
+
+impl Color {
+  fn print(&self){
+    match self {
+      Color::BLACK => println!("black"),
+      Color::BLUE => println!("blue"),
+      Color::WHITE => println!("white"),
+    }
+  }
+}
+
+
+struct ShippingBox {
+  dimensions: Dimension,
+  weight: f64,
+  color: Color ,
+}
+
+impl ShippingBox{
+  fn new(d: Dimension, w: f64, c: Color) -> Self {
+    Self {
+      dimensions: d,
+      weight: w,
+      color:c }
+  }
+
+  fn print(&self){
+    self.color.print() ;
+    self.dimensions.print() ;
+    println!("weight: {:?}", self.weight) ;
+  }
+}
+fn main(){
+
+  let small_dimensions = Dimension{
+    width: 1.0,
+    height: 2.0,
+    depth: 3.0,
+  } ;
+  let small_box = ShippingBox::new(small_dimensions, 5.0, Color::BLUE) ;
+  small_box.print() ;  
+
+}
+
+output:
+
+blue
+width: 1.0
+height: 2.0
+depth: 3.0
+weight: 5.0
+```
 
 
 
