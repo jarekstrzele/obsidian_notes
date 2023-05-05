@@ -1,6 +1,7 @@
 [[#Expressions]]
 [[#Memory]]
 [[#Ownership]]
+[[#keyword `impl`]]
 
 
 ---
@@ -184,11 +185,13 @@ struct Book{
   rating: i32,
 }
 
-fn display_page_count(book: Book){
+//fn display_page_count(book: Book){
+fn display_page_count(book: &Book){
   println!("pages = {:?}", book.pages) ;
 }
 
-fn display_rating(book: Book){
+//fn display_rating(book: Book){
+fn display_rating(book: &Book){
   println!("rating = {:?}", book.rating)
 }
 
@@ -198,10 +201,24 @@ fn main(){
     rating: 9,
   };
 
-  //display_page_count(book) ; //this function takes the ownership of `book`, and then when the function will finish its execution, `book` will be del
-  //display_rating(book) ;
+// MOVING OWNERSHIP
+	//display_page_count(book) ; //this function takes the ownership of `book`, and then when the function will finish its execution, `book` will be deleted so
+  //display_rating(book) ; // this function calling generates an error, because book doesn't exist anymore
+
+// BORROWING OWNERSHIP
+  display_page_count(&book) ;
+  display_rating(&book) ;
 }
 ```
+
+
+
+------
+# keyword `impl`
+#rust/impl
+
+
+
 
 
 
