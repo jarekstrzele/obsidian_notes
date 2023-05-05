@@ -14,8 +14,8 @@ in the terminal:
 [[2 Making Decisions]]
 [[3 Repetition]]
 [[4 Data]]
-
-
+[[5 Intermediate Concepts]]
+[[6 Data Collections]]
 
 
 

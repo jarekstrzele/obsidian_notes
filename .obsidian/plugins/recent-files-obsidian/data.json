@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "6 Data Collections",
+      "path": "R U S T/Rust Programming For Beginners/6 Data Collections.md"
+    },
+    {
+      "basename": "_ Rust Programming for Beginners",
+      "path": "R U S T/Rust Programming For Beginners/_ Rust Programming for Beginners.md"
+    },
+    {
       "basename": "5 Intermediate Concepts",
       "path": "R U S T/Rust Programming For Beginners/5 Intermediate Concepts.md"
     },
@@ -63,10 +71,6 @@
     {
       "basename": "2 Making Decisions",
       "path": "R U S T/Rust Programming For Beginners/2 Making Decisions.md"
-    },
-    {
-      "basename": "_ Rust Programming for Beginners",
-      "path": "R U S T/Rust Programming For Beginners/_ Rust Programming for Beginners.md"
     },
     {
       "basename": "4.5 TCP",
@@ -195,10 +199,6 @@
     {
       "basename": "3 Add new Component MealItem",
       "path": "_ Mobile/REACT NATIVE/React Native Practical Guide/6 Navigation/3 Add new Component MealItem.md"
-    },
-    {
-      "basename": "9 Nested Navigators",
-      "path": "_ Mobile/REACT NATIVE/React Native Practical Guide/6 Navigation/9 Nested Navigators.md"
     }
   ],
   "omittedPaths": [],
