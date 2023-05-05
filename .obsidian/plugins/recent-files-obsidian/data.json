@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "5 Intermediate Concepts",
+      "path": "R U S T/Rust Programming For Beginners/5 Intermediate Concepts.md"
+    },
+    {
       "basename": "2 Types and Functions",
       "path": "HASKELL/Real World Haskell/2 Types and Functions.md"
     },
@@ -43,10 +47,6 @@
     {
       "basename": "0 _ Vim wprowadzenie",
       "path": "linux/Vim/Praktyczna administracja Vim/0 _ Vim wprowadzenie.md"
-    },
-    {
-      "basename": "5 Intermediate Concepts",
-      "path": "R U S T/Rust Programming For Beginners/5 Intermediate Concepts.md"
     },
     {
       "basename": "memory_leak",

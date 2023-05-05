@@ -32,66 +32,19 @@
             }
           },
           {
-            "id": "2fc25a02aaa2c0a3",
+            "id": "77c8e80f5e2a9ab0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Rust Programming Tutorial/12 String.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1499b6473b344cff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "041803bbb3795df4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0d7813e2c094b8ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "40c55e0503a7d577",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/3.3. Tworzenie plików i katalogów.md",
+                "file": "R U S T/Rust Programming For Beginners/5 Intermediate Concepts.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -173,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/Real World Haskell/2 Types and Functions.md",
+                "file": "R U S T/Rust Programming For Beginners/5 Intermediate Concepts.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -190,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/Real World Haskell/2 Types and Functions.md",
+                "file": "R U S T/Rust Programming For Beginners/5 Intermediate Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/Real World Haskell/2 Types and Functions.md"
+                "file": "R U S T/Rust Programming For Beginners/5 Intermediate Concepts.md"
               }
             }
           },
@@ -261,10 +214,10 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "04bccf1dc56dfdd4",
+  "active": "77c8e80f5e2a9ab0",
   "lastOpenFiles": [
-    "HASKELL/Real World Haskell/1 Getting Started.md",
     "HASKELL/Real World Haskell/2 Types and Functions.md",
+    "HASKELL/Real World Haskell/1 Getting Started.md",
     "HASKELL/Real World Haskell/_ Real World Haskell.md",
     "HASKELL/for_great_good/7.2 Type parameters.md",
     "HASKELL/for_great_good/7 Types and TypeClasses.md",
