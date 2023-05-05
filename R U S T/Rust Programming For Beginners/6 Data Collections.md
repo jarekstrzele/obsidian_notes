@@ -57,6 +57,56 @@ score = 50
 ```
 
 
+```rust
+fn main(){
+  let nums = vec![10,20,30,40] ;
+
+  // for n in nums {
+    for n in &nums {  
+  // if n == 30{
+    //   println!("thirty");
+    // } else {
+    //   println!("{:?}", n) ;
+    // }
+    match n {
+      30 => println!("thirty") ,
+      _ => println!("{:?}", n)
+    }
+  }
+
+  println!("number of elements = {:?}", nums.len()) ;
+}
+
+
+output
+10
+20
+thirty
+40
+number of elements = 4
+```
+
+
+--------
+# String
+>[!info] String
+>- there are many types of string in Rust
+>- two commonly used types of strings:
+>	- `String` - owned
+>	- `&str` - borrowed `String` slice
+>- Must use an owned `String` to store in a `struct`
+>- Use `&str` when passing to a function
+
+
+
+
+
+
+
+
+
+
+
 
 
 
