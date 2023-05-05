@@ -177,7 +177,31 @@ display_light(&dull) ;
 > 	- this occurs automatically at the end of the scope
 > - Default behavior is to "MOVE" memory to a new owner (use an **apersand** `&` to allow code to "BORROW" memory)
 
+```rust
 
+struct Book{
+  pages: i32,
+  rating: i32,
+}
+
+fn display_page_count(book: Book){
+  println!("pages = {:?}", book.pages) ;
+}
+
+fn display_rating(book: Book){
+  println!("rating = {:?}", book.rating)
+}
+
+fn main(){
+  let book = Book{
+    pages: 5,
+    rating: 9,
+  };
+
+  //display_page_count(book) ; //this function takes the ownership of `book`, and then when the function will finish its execution, `book` will be del
+  //display_rating(book) ;
+}
+```
 
 
 
