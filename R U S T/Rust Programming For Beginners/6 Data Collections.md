@@ -114,10 +114,26 @@ fn main(){
 }
 ```
 
+```rust
+struct Employee {
+  // name: &str, // you can not store a string slice in this manner, because that structuter won't be responsible to delete the string
+  name: String
+}
+
+fn main(){
+	//let emp_name = "Jayson" ; // "Jayson" will be automatically borrowd
+  let emp_name = "Jayson".to_owned() ;
+  // or instead of using `to_own()` you can write:
+  let emp_name = String::from("Jayson") ;
+  let emp = Employee { name: emp_name } ;
+}
+```
 
 
-
-
+>[!info] String -recap
+>- Strings are automatically borrowed 
+>- Use `.to_own()` or `String::from()` to create an owned copy of a string slice
+>- use an owned `String` when storing in a `struct`
 
 
 
