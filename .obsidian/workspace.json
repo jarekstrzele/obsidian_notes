@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/6 Data Collections.md",
+                "file": "R U S T/Rust Programming For Beginners/_ Rust Programming for Beginners.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/6 Data Collections.md",
+                "file": "R U S T/Rust Programming For Beginners/_ Rust Programming for Beginners.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/6 Data Collections.md",
+                "file": "R U S T/Rust Programming For Beginners/_ Rust Programming for Beginners.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/6 Data Collections.md"
+                "file": "R U S T/Rust Programming For Beginners/_ Rust Programming for Beginners.md"
               }
             }
           },
@@ -216,8 +216,9 @@
   },
   "active": "77c8e80f5e2a9ab0",
   "lastOpenFiles": [
-    "R U S T/Rust Programming For Beginners/_ Rust Programming for Beginners.md",
+    "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md",
     "R U S T/Rust Programming For Beginners/6 Data Collections.md",
+    "R U S T/Rust Programming For Beginners/_ Rust Programming for Beginners.md",
     "R U S T/Rust Programming For Beginners/5 Intermediate Concepts.md",
     "R U S T/Rust Programming For Beginners/4 Data.md",
     "HASKELL/Real World Haskell/2 Types and Functions.md",
@@ -246,7 +247,6 @@
     "_ Mobile",
     "API/REST API i Python Helion/_ 0 start REST API i python.md",
     "R U S T/Learn Rust by Building Real App/4.3. Enum.md",
-    "R U S T/Learn Rust by Building Real App/4.1 Struct.md",
     "R U S T/Programmowanie_w Rust",
     "R U S T/Untitled.canvas",
     "A I/SI na Froncie",

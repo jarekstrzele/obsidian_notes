@@ -166,7 +166,41 @@ fn main(){
 ```
 
 
+```rust
+uct Person {
+  name: String,
+  age: i32, 
+  color: String,
+}
 
+fn print_nc(name: &str, color: &str){
+  println!("name: {:?}", name) ;
+   println!("color: {:?}", color) ;
+}
+
+fn main(){
+
+  let people = [
+    Person{name:String::from("John"),
+           age: 10,
+           color:"Blue".to_owned()},
+    Person{name:String::from("Fakir"),
+           age: 101,
+           color:"Grenn".to_owned()},
+    Person{name:String::from("SS"),
+           age: 22,
+           color:"Black".to_owned()}
+  ] ;
+
+  for p in people {
+    if p.age <= 10 {
+      print_nc(&p.name, &p.color) ;
+      }
+    println!("age {:?}", p.age) ;
+  }
+  
+}
+```
 
 
 
