@@ -97,8 +97,22 @@ number of elements = 4
 >- Must use an owned `String` to store in a `struct`
 >- Use `&str` when passing to a function
 
+```rust
 
+fn print_it(data: &str){
+	println!("{:?}", data) ;
+}
 
+fn main(){
+	print_it("a string slice") ; // "a string slice" - it is automatically borrowed
+  let owned_string = "owned string".to_owned() ; //string_slice -> to_owned() -> a own string
+  let another_owned = String::from("another") ;
+  print_it(&owned_string) ; //borrowed own string
+  print_it(&another_owned) ; // borrowed own string
+  
+  
+}
+```
 
 
 
