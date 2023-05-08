@@ -103,7 +103,67 @@ e.g.
 - `6.8.1` only that version
 
 --------
-### `npm list` to
+### `npm list` to see all installed dependencies
+```js
+$ npm list 
+npm-demo@1.0.0 /home/jarek/Desktop/Prog/node_mosh/npm-demo
+├── mongoose@7.1.0
+└── underscore@1.13.6
+```
+
+```js
+$ npm list --depth=1
+npm-demo@1.0.0 /home/jarek/Desktop/Prog/node_mosh/npm-demo
+├─┬ mongoose@7.1.0
+│ ├── bson@5.2.0
+│ ├── kareem@2.5.1
+│ ├── mongodb@5.3.0
+│ ├── mpath@0.9.0
+│ ├── mquery@5.0.0
+│ ├── ms@2.1.3
+│ └── sift@16.0.1
+└── underscore@1.13.6
+```
+
+
+
+------
+### `npm view libraryName` to see all dependencies for that library
+`npm view mongoose`
+
+```js
+$ npm view mongoose dependencies
+{
+  bson: '^5.2.0',
+  kareem: '2.5.1',
+  mongodb: '5.3.0',
+  mpath: '0.9.0',
+  mquery: '5.0.0',
+  ms: '2.1.3',
+  sift: '16.0.1'
+}
+```
+
+`npm view mongoose dependencies`
+
+
+----
+# upgrade node package
+
+
+`npm i install mongoose@2.4.2` install that version
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
