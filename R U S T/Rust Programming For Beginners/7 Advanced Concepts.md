@@ -201,7 +201,12 @@ fn main() {
   
 }
 ```
-
+cargo run
+```rust
+Backstage ticker,  Holder: "Billy", price: 50.0
+Standard price 15.0
+Backstage ticker,  Holder: "Amy", price: 30.0
+```
 
 
 
