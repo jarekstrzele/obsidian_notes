@@ -123,10 +123,51 @@ enum Discount {
 # Advanced Match
 [[2 Making Decisions#expression `match`]]
 
+## match with `enum`
+```rust
+enum Discount {
+  Percent(i32),
+  Flat(i32),
+}
+
+fn main() {
+  let n = 3 ;
+  match n {
+    n => println!("three"),
+    other => println!("{:?}", other), // _ => ...
+  }
+
+  let flat = Discount::Flat(2) ;
+  match flat {
+    Discount::Flat(2) => println!("flat 2") ,
+    Discount::Flat(amount) => println!("flat discount of {:?}", amount) ,
+    _ => (), //return nothing
+  }
+  
+}
+```
 
 
+## match with `struct`
+```rust
+struct Ticket {
+  event: String,
+  price: i32,
+}
 
+fn main() {
+  
+  let concert = Ticket {
+    event: "concert".to_owned() ,
+    price: 50,
+  } ;
 
+  match concert {
+    Ticket {price: 50, event} => println!("event  50 {:?}", event) ,
+    Ticket {price, ..} => println!("price {:?}", price) ,
+  }
+}
+```
 
 
 
