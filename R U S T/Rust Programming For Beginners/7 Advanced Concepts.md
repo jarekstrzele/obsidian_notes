@@ -80,7 +80,7 @@ let letters: Vec<char> = vec!['a','b','c'] ;
 let clicks: Vec<Mouse> = vec![
 	Mouse::LeftClick,
 	Mouse::RightClick,
-	Mouse::UpClick,
+	Mouse::MiddleClick,
 	
 ]
 ```
@@ -88,7 +88,45 @@ let clicks: Vec<Mouse> = vec![
 ------
 # Enum
 #rust/enum 
-[[4 Data]]
+[[4 Data#Enum]]
+
+```rust
+enum Mouse {
+	LeftClick,
+	RightClick,
+	MiddleClick,
+	Scroll(i32),
+	Move(i32, i32),
+}
+```
+
+`Scroll(i32)` and `Move(i32, i32)` - they have  additional data associated with it
+
+```rust
+enum PromoDiscount {
+	NewUser,
+	Holidey(String),
+}
+
+enum Discount { 
+	 Percent(f64),
+	 Flat(i32),
+	 Promo(PromoDiscount),
+	 Custom(String),
+ }
+```
+
+==If you have some additionall data associated, you have to add them, when you create an instance of `enum`==
+
+
+-------
+# Advanced Match
+[[2 Making Decisions#expression `match`]]
+
+
+
+
+
 
 
 
