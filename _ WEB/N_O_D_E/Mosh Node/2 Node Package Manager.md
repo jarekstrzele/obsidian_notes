@@ -219,3 +219,81 @@ Upgrading /home/jarek/Desktop/Prog/node_mosh/npm-demo/package.json
 All dependencies match the latest package versions :)
 ```
 
+----------
+# Devdependecies
+You will install `jshint` (library to analyse a js code), but in the  development mode:
+#### `npm i jshint --save-dev`
+```js
+$ npm i jshint --save-dev
+
+added 31 packages, and audited 57 packages in 639ms
+
+4 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+```
+
+and `package.json` :
+```json
+//...
+"dependencies": {
+	"mongoose": "^7.1.0",
+	"underscore": "^1.13.6"
+},
+"devDependencies": {
+	"jshint": "^2.13.6"
+}
+//...
+```
+
+
+------
+# uninstall package
+
+`npm uninstall mongoose`
+
+
+----
+# global package
+
+`npm install -g <name_of_package>`
+
+example: `npm`, `ng`
+
+`npm install -g npm` - upgrade your npm to the latest version
+
+
+```js
+$ npm -g outdated
+Package   Current  Wanted  Latest  Location               Depended by
+corepack   0.17.0  0.17.2  0.17.2  node_modules/corepack  global
+npm        8.19.4   9.6.6   9.6.6  node_modules/npm       global
+```
+
+--------
+# Publishing a Package
+
+- mkdir lion-lib
+- cd lion-lib
+- npm init --yes
+- add a 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
