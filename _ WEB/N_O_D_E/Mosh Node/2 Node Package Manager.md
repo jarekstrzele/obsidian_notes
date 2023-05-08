@@ -3,7 +3,7 @@
 
 https://www.npmjs.com
 
-to install
+to install  `npm`
 `npm -i npm@5.5.1`
 
 
@@ -18,13 +18,13 @@ It includes some basic information about your app (metdata):
 
 ==Before adding any node packages to your project , you need to create a package.json file==
 
-`npm init --yes`
+#### `npm init --yes`  -> create `package.json` 
 
 
 # Installing a Node Package
 How to add third party packages?
 www.npmjs.com
-`npm i underscore`
+`npm i underscore` (*underscore* is popular JS labray)
 ```shell
 > npm i underscore
 npm WARN config global `--global`, `--local` are deprecated. Use `--location=global` instead.

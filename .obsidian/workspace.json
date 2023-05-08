@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md",
+                "file": "_ WEB/N_O_D_E/Mosh Node/2 Node Package Manager.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md",
+                "file": "_ WEB/N_O_D_E/Mosh Node/2 Node Package Manager.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md"
+                "file": "_ WEB/N_O_D_E/Mosh Node/2 Node Package Manager.md"
               }
             }
           },
@@ -238,7 +238,7 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "77c8e80f5e2a9ab0",
+  "active": "3a17a7976a72aa13",
   "lastOpenFiles": [
     "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md",
     "R U S T/Rust Programming For Beginners/2 Making Decisions.md",
