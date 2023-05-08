@@ -209,6 +209,30 @@ Backstage ticker,  Holder: "Amy", price: 30.0
 ```
 
 
+-----
+# Option
+#rust/option
+
+>[!info] Option
+>- a type that may be one of two things
+>	- some data of a specified type
+>	- Nothing
+>- Used in scenarios where data may not be required or is unavailable
+>	- unable to find something
+>	- ran out of items in a list
+>	- form field not filled out
+>- It is a part of the Rust library
+
+**Definition**:
+```rust
+enum Option<T>{
+	Some(T),
+	None
+}
+```
+
+**Example**:
+
 
 
 
