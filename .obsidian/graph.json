@@ -1,7 +1,7 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
@@ -32,7 +32,42 @@
       "query": "tag:haskell",
       "color": {
         "a": 1,
-        "rgb": 12839923
+        "rgb": 10828031
+      }
+    },
+    {
+      "query": "rust",
+      "color": {
+        "a": 1,
+        "rgb": 15277084
+      }
+    },
+    {
+      "query": "docker",
+      "color": {
+        "a": 1,
+        "rgb": 15002092
+      }
+    },
+    {
+      "query": "sql",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "node",
+      "color": {
+        "a": 1,
+        "rgb": 13828044
+      }
+    },
+    {
+      "query": "git",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
       }
     }
   ],
@@ -46,6 +81,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 209,
-  "scale": 0.11009562603022224,
+  "scale": 0.09204419967655346,
   "close": false
 }
