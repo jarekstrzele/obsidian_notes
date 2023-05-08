@@ -92,13 +92,18 @@ git will ignore that folder
 
 the first number `6` / `1` is called the major version
 the second one `8` / `13` is called the minor version 
-the third one `1` / `6` is call the patch version
+the third one `1` / `6` is call the patch version (for bugs fixes)
 
+e.g.
+- developers find a bug in mognoose, they fix it and release a new version `6.8.2`
+- the second number **minor version** add a new feature but not break the existing API (they add a new feature without breaking API, so a new version will be `6.9.0` - zero because in that version there is no bugs)
+- the first number **major version** add a new feature and break API
+- `^6.8.1` tells npm  that you want to use any mongoose that has the major version `6` (the same will be `6.x`)
+- `~6.8.1`  the major version `6` and the minor version `8` (the same will be `6.8.x`)
+- `6.8.1` only that version
 
-
-
-
-
+--------
+### `npm list` to
 
 
 
