@@ -3,13 +3,11 @@
 
 https://www.npmjs.com
 
-
 to install
 `npm -i npm@5.5.1`
 
 
 # Package.json
-
 It includes some basic information about your app (metdata):
 - name
 - version
