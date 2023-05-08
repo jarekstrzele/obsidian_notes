@@ -232,11 +232,83 @@ enum Option<T>{
 ```
 
 **Example**:
+```rust
+struct Customer {
+  age: Option<i32>,
+  email: String,
+}
 
+fn main(){
+  let mark = Customer {
+    age: Some(22),
+    email: "mark@pp.com".to_owned(),
+  };
 
+  let backy = Customer {
+    age: Some(11),
+    email: "backy@pp.com".to_owned(),
+  };
 
+  match backy.age {
+    Some(that_age) => println!("customer is {:?} years old", that_age),
+    None => println!("customer age not provided"),
+  }
+}
+```
 
+```rust
+struct GroceryItem{
+	name: String,
+	qty: i32,
+}
 
+fn find_quantity(name: &str) -> Option<i32> {
+	let groceries = vec![
+		GroceryItem { name: "bananas".to_owned(), qty:4, },
+		GroceryItem { name: "eggs".to_owned(), qty:12, },
+		GroceryItem { name: "bread".to_owned(), qty:1, },	
+	];
+
+	for item in groceries {
+		if item.name == name {
+			return Some(item.qty) ;
+		}
+	}
+	None
+}
+```
+
+```rust
+struct Survey {
+  q1: Option<i32>,
+  q2: Option<bool>,
+  q3: Option<String>,
+}
+
+fn main(){
+  let response = Survey {
+    q1: Some(12),
+    q2: Some(true),
+    q3: Some("A".to_owned()),
+  } ;
+
+  match response.q1 {
+    Some(ans) => println!("q1: {:?}", ans),
+    None => println!("q1: no response"),
+  }
+
+  match response.q2 {
+    Some(ans) => println!("q1: {:?}", ans),
+    None => println!("q1: no response"),
+  }
+
+  match response.q3 {
+    Some(ans) => println!("q1: {:?}", ans),
+    None => println!("q1: no response"),
+  }
+  
+}
+```
 
 
 
