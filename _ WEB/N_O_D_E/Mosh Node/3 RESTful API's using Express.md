@@ -2,7 +2,7 @@
 [[_ 0 Node (Mosh)]]
 
 ---
-
+[[3.1 Express - introducing]]
 
 
 
@@ -76,7 +76,8 @@ server.listen(3000);
 GET /api/customers
 GET /api/customers/1
 PUT /api/customers/1
-
+DELETE /api/customers/1
+POST /api/customers
 
 
 ```
