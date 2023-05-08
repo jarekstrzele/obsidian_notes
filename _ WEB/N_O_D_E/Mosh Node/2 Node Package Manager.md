@@ -153,17 +153,69 @@ $ npm view mongoose dependencies
 
 `npm i install mongoose@2.4.2` install that version
 
+-----
+# outdated packages
+I installed two outdated packages.
+```js
+$ npm outdated
+Package   Current Wanted Latest Location           Depended by
+mongoose  2.4.2  2.9.10   7.1.0  node_modules/mongoose    npm-demo
+underscore 1.4.0  1.13.6  1.13.6  node_modules/underscore  npm-demo
+jarek@jarek-legion:~/Desktop/Prog/node_mosh/npm-demo$ 
+```
+
+#### `npm update` 
+this works only **with minor and patch** version!!!
+--->
+```js
+$ npm update
+//..
+$ npm outdated
+Package   Current  Wanted  Latest  Location               Depended by
+mongoose   2.9.10  2.9.10   7.1.0  node_modules/mongoose  npm-demo
+```
 
 
+#### `npm install -g npm-check-updates `
+```js
+o$ npm i -g npm-check-updates
+npm WARN deprecated @npmcli/move-file@2.0.1: This functionality has been moved to @npmcli/fs
 
+added 334 packages, and audited 335 packages in 11s
 
+66 packages are looking for funding
+  run `npm fund` for details
 
+found 0 vulnerabilities
+```
 
+```js
+$ npm-check-updates
+Checking /home/jarek/Desktop/Prog/node_mosh/npm-demo/package.json
+[====================] 2/2 100%
 
+ mongoose    ^2.4.2  →   ^7.1.0
+ underscore  ^1.4.0  →  ^1.13.6
 
+Run ncu -u to upgrade package.json
+```
 
+==dependecies are not installed==, only `package.json` is updated
 
+### `npm install`
+```js
+$ npm install
 
+added 21 packages, removed 1 package, changed 3 packages, and audited 26 packages in 1s
 
+1 package is looking for funding
+  run `npm fund` for details
 
+found 0 vulnerabilities
+jarek@jarek-legion:~/Desktop/Prog/node_mosh/npm-demo$ ncu -u
+Upgrading /home/jarek/Desktop/Prog/node_mosh/npm-demo/package.json
+[====================] 2/2 100%
+
+All dependencies match the latest package versions :)
+```
 
