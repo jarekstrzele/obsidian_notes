@@ -1,3 +1,4 @@
+#node 
 
 [[_ 0 Node (Mosh)]]
 
@@ -59,8 +60,6 @@ console.log(result);
 // true
 ```
 
-
-
 # Package Dependecies
 `npm i mongoose` installs a mongoose module
 
@@ -73,7 +72,8 @@ I have in package.json
     "underscore": "^1.13.6"
   }
 ```
-so I can easily restore these dependencies, if I delete `node_modules` folder inside my project by writing `npm i`
+so I can easily restore these dependencies, if I delete `node_modules` folder inside my project by writing
+### `npm i`
 
 
 ## git
@@ -81,21 +81,18 @@ add `.gitignore` file and write:
 `node_modules/` 
 git will ignore that folder
 
-# Semantic Versioning -> `^`
+# Semantic Versioning -> `^` (`caret`)
 ```json
-//....
+// 
    "mongoose": "^6.8.1",
     "underscore": "^1.13.6"
   }
   //...
 ```
 
-
-
-
-
-
-
+the first number `6` / `1` is called the major version
+the second one `8` / `13` is called the minor version 
+the third one `1` / `6` is call the patch version
 
 
 
