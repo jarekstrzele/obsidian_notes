@@ -272,14 +272,32 @@ npm        8.19.4   9.6.6   9.6.6  node_modules/npm       global
 ```
 
 --------
-# Publishing a Package
+# Publishing your package
 
-- mkdir lion-lib
-- cd lion-lib
-- npm init --yes
-- add a 
+- `mkdir lion-lib`
+- `cd lion-lib`
+-`npm init --yes`
+- add a new file `index.js` (the entry point to your package )
+index.js:
+```js
+module.exports.add = function(a,b){return a + b } ;
+```
+
+- create an account on npmjs (`npm adduser`) or login `npm login`
+- `npm publish` (if you get an error, change the name in the `package.json` (add some random numbers))
+
+If you publish your library, now in another project you can simply write  `npm i lion-lib` to install this library in the new project
+```js
+let lion = require("lion-lib") ;
+let result = lion.add(1,2) ;
+console.log(result) ;
+```
 
 
+----
+# Updating your own packages
+- you made some changes in your `lion-lib`
+- in the terminal `npm version major` or `minor` or patch (you simple add a new function, so you have to change the minor number ==> `npm version minor`
 
 
 
