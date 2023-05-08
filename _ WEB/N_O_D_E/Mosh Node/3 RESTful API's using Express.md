@@ -52,9 +52,34 @@ server.listen(3000);
 	- `/api` convention to expose their RESTful services
 	- `/customers` it refers to the collection of customers in our application (this is *resource* (in the REST world)) 
 		- we can expose resources like: customers, movies, rentals, and various endpoints
-		- CRUD  can be made by sending http re
+		- CRUD  can be done by sending an http request to this endpoint
+		- the kind of http requests determin the kind of operations
+		- **every** http **request** has *a verb* or *a method* that determines its type or intention
+		- HTTP METHOD 
+			- `GET` for getting data
+				- all custumers:
+					- *request*  `GET /api/customers` 
+					- *response* `[ {id: 1, name: '  '}, {id:2, name: '  '} ...]` 
+				- one customer:
+				- *request*  `GET /api/customers/1` 
+				- *response* ` {id: 1, name: '  '}` 
+			- `POST` for creating data
+				- *request* `POST /ap/customers`  and in the **body** of the request add `{name: ' '} `
+			- `PUT` for updating data
+				- update one customer:
+					- *request*  `PUT /api/customers/1` and in the **body** of the request add `{name: ' '} `
+					- *response* `{id: 1, name: ' ' }`
+			- `DELETE` for deleting data
 - client can send a http request to that endpoint to talk to our service
-	- 
+
+```js
+GET /api/customers
+GET /api/customers/1
+PUT /api/customers/1
+
+
+
+```
 
 
 
