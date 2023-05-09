@@ -400,7 +400,16 @@ fn main(){
 
 e.g. file:///home/jarek/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/share/doc/rust/html/std/macro.vec.html
 
-
+```rust
+fn main(){
+	/// my list
+	let nums = vec![1,2,3] ;
+	match nums.is_empty(){
+		true => println!("No elements"),
+		false => println!("There are some items in vec")
+	}
+}
+```
 
 
 
