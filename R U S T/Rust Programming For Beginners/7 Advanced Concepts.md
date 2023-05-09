@@ -1,6 +1,18 @@
 [[_ Rust Programming for Beginners]]
 
+---
+[[#Drive Macro for printing info]]
+[[#Type Annotations]]
+[[#Enum]]
+[[#Advanced Match]]
+[[#Option]]
 
+
+
+
+
+
+----
 # Drive Macro for printing info
 #rust/copy  #rust/clone   #rust/derive 
 
