@@ -1,5 +1,10 @@
 [[_ Rust Programming for Beginners]]
 
+---
+[[#Vectors]]
+[[#String]]
+
+---
 # Vectors
 #rust/vector 
 

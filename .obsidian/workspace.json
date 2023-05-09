@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/5 Intermediate Concepts.md",
+                "file": "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md",
                 "mode": "source",
                 "source": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/5 Intermediate Concepts.md",
+                "file": "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/5 Intermediate Concepts.md",
+                "file": "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/5 Intermediate Concepts.md"
+                "file": "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md"
               }
             }
           },
@@ -240,6 +240,8 @@
   },
   "active": "77c8e80f5e2a9ab0",
   "lastOpenFiles": [
+    "R U S T/Rust Programming For Beginners/6 Data Collections.md",
+    "R U S T/Rust Programming For Beginners/5 Intermediate Concepts.md",
     "R U S T/Rust Programming For Beginners/4 Data.md",
     "R U S T/Rust Programming For Beginners/3 Repetition.md",
     "R U S T/Rust Programming For Beginners/2 Making Decisions.md",
@@ -250,8 +252,6 @@
     "_ WEB/N_O_D_E/Mosh Node/3 RESTful API's using Express.md",
     "_ WEB/N_O_D_E/Mosh Node/_ 0 Node (Mosh).md",
     "_ WEB/N_O_D_E/Mosh Node/1 Node Module System.md",
-    "R U S T/Rust Programming For Beginners/5 Intermediate Concepts.md",
-    "R U S T/Rust Programming For Beginners/6 Data Collections.md",
     "R U S T/Rust Programming For Beginners/_ Rust Programming for Beginners.md",
     "HASKELL/Real World Haskell/1 Getting Started.md",
     "HASKELL/Real World Haskell/_ Real World Haskell.md",

@@ -106,7 +106,7 @@ Offsets can be ised to "index" into some data*
 >	- memory can either be =="moved"== or =="borrowed"==
 
 EXAMPLE
-there is a problem with this program, because we are calling display light twice
+there is a problem with this program, because we are calling `display_light` twice
 ```rust
 enum Light {
 	Bright,
