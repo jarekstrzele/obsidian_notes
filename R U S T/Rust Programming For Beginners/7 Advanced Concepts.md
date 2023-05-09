@@ -387,6 +387,24 @@ fn main(){
 ### `cargo doc --open`
 
 
+## Accessing standard Library Documentation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

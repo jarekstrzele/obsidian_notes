@@ -30,7 +30,7 @@ vs code extension:
 # `cargo`
 
 **cargo**
-`cargo new project_name`
+### `cargo new project_name`
 
 *packages*/**crates** : https://crates.io
 for example: crate `rand`:

@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/2 Making Decisions.md",
+                "file": "R U S T/Learn Rust by Building Real App/_ Learn Rust by Building Apps.md",
                 "mode": "source",
                 "source": false
               }
@@ -240,19 +240,21 @@
   },
   "active": "77c8e80f5e2a9ab0",
   "lastOpenFiles": [
+    "R U S T/Learn Rust by Building Real App/_ Learn Rust by Building Apps.md",
+    "R U S T/Rust by example/_ Rust by Example.md",
+    "R U S T/Rust Programming For Beginners/_ Rust Programming for Beginners.md",
+    "R U S T/Rust Programming For Beginners/2 Making Decisions.md",
+    "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md",
     "R U S T/Rust Programming For Beginners/6 Data Collections.md",
     "R U S T/Rust Programming For Beginners/5 Intermediate Concepts.md",
     "R U S T/Rust Programming For Beginners/4 Data.md",
     "R U S T/Rust Programming For Beginners/3 Repetition.md",
-    "R U S T/Rust Programming For Beginners/2 Making Decisions.md",
-    "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md",
     "HASKELL/Real World Haskell/2 Types and Functions.md",
     "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
     "_ WEB/N_O_D_E/Mosh Node/2 Node Package Manager.md",
     "_ WEB/N_O_D_E/Mosh Node/3 RESTful API's using Express.md",
     "_ WEB/N_O_D_E/Mosh Node/_ 0 Node (Mosh).md",
     "_ WEB/N_O_D_E/Mosh Node/1 Node Module System.md",
-    "R U S T/Rust Programming For Beginners/_ Rust Programming for Beginners.md",
     "HASKELL/Real World Haskell/1 Getting Started.md",
     "HASKELL/Real World Haskell/_ Real World Haskell.md",
     "HASKELL/for_great_good/7.2 Type parameters.md",
@@ -265,8 +267,6 @@
     "linux/Vim/Praktyczna administracja Vim/0 _ Vim wprowadzenie.md",
     "linux/Vim/Vim od podstaw",
     "memory_leak.md",
-    "R U S T/Learn Rust by Building Real App/4.5 TCP.md",
-    "_ WEB/Server/FTP.md",
     "_ WEB",
     "_ Desktop/Python",
     "_ Desktop",

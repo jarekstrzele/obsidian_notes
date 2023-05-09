@@ -5,6 +5,22 @@
       "path": "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md"
     },
     {
+      "basename": "_ Learn Rust by Building Apps",
+      "path": "R U S T/Learn Rust by Building Real App/_ Learn Rust by Building Apps.md"
+    },
+    {
+      "basename": "_ Rust by Example",
+      "path": "R U S T/Rust by example/_ Rust by Example.md"
+    },
+    {
+      "basename": "_ Rust Programming for Beginners",
+      "path": "R U S T/Rust Programming For Beginners/_ Rust Programming for Beginners.md"
+    },
+    {
+      "basename": "2 Making Decisions",
+      "path": "R U S T/Rust Programming For Beginners/2 Making Decisions.md"
+    },
+    {
       "basename": "6 Data Collections",
       "path": "R U S T/Rust Programming For Beginners/6 Data Collections.md"
     },
@@ -19,10 +35,6 @@
     {
       "basename": "3 Repetition",
       "path": "R U S T/Rust Programming For Beginners/3 Repetition.md"
-    },
-    {
-      "basename": "2 Making Decisions",
-      "path": "R U S T/Rust Programming For Beginners/2 Making Decisions.md"
     },
     {
       "basename": "2 Types and Functions",
@@ -47,10 +59,6 @@
     {
       "basename": "1 Node Module System",
       "path": "_ WEB/N_O_D_E/Mosh Node/1 Node Module System.md"
-    },
-    {
-      "basename": "_ Rust Programming for Beginners",
-      "path": "R U S T/Rust Programming For Beginners/_ Rust Programming for Beginners.md"
     },
     {
       "basename": "1 Getting Started",
@@ -141,10 +149,6 @@
       "path": "R U S T/Learn Rust by Building Real App/2 Memory Management.md"
     },
     {
-      "basename": "_ Learn Rust by Building Apps",
-      "path": "R U S T/Learn Rust by Building Real App/_ Learn Rust by Building Apps.md"
-    },
-    {
       "basename": "UBUNTU",
       "path": "linux/UBUNTU.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2.3. Stream",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.3. Stream.md"
-    },
-    {
-      "basename": "3.1. Odczytywanie info o plikach",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md"
     }
   ],
   "omittedPaths": [],
