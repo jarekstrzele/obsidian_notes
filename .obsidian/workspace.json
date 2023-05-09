@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md",
+                "file": "HASKELL/Real World Haskell/2 Types and Functions.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md",
+                "file": "HASKELL/Real World Haskell/2 Types and Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md"
+                "file": "HASKELL/Real World Haskell/2 Types and Functions.md"
               }
             }
           },
