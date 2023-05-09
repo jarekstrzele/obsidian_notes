@@ -80,7 +80,7 @@ Offsets can be ised to "index" into some data*
 
 >[!info] memory offsets (przesunięcia pamięci)
 >	- item can be located at an address using an "offset"
->	- offsets begin at 0
+>	- offsets begin at `0`
 >	- represent the number of bytes away from the original addres (normally deal with indexes instead)
 >example:
 >`Data[1]` 
@@ -97,7 +97,7 @@ Offsets can be ised to "index" into some data*
 >[!important] Ownership
 >- it is what allows us:
 >	- to execute code in a performant manner
->	- help ensure that compile the code executes correctly inder various circumstances
+>	- help ensure that compile the code executes correctly under various circumstances
 
 
 >[!info] Managing memory
