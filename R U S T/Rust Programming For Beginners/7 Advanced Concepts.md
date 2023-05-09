@@ -443,9 +443,35 @@ fn main(){
 definition
 ```rust
 enum Result<T, E> {
-	Ok(T)
+	Ok(T),
+	Err(E)
 }
 ```
+
+example
+```rust
+fn get_sound(name: &str) -> Result<SoundData, String> {
+	if name == "alert" {
+		Ok(SOundData::new("alert")),
+		
+	} else {
+		Err("unable to find sound data".to_owned())
+	}
+}
+
+let sound = get_sound("alert") ;
+match sound {
+	Ok(_) => println("sound data located") ,
+	Err(e) => println!("error: {:?}", e) ,
+}
+```
+
+>[!info] Recap
+>- *Result* represents either success or failure
+>		- *Ok(variable_name)* the operation was completed
+>		- *Err(variable_name)* the operation failed
+>- Useful when working with functionality that can porentially fail
+>- Use `Result<T,E>` when working with results
 
 
 
