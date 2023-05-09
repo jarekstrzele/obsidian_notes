@@ -323,6 +323,66 @@ fn main(){
 ```
 
 
+```rust
+struct Student {
+  name: String,
+  locker: Option<i32>,
+}
+
+fn main(){
+  let s = Student {
+    name: "Peter".to_owned(),
+    locker: Some(2),
+  };
+
+  let s2 = Student {
+    name: "Johm".to_owned(),
+    locker: None,
+  } ;
+
+
+  match s.locker {
+    Some(num) => println!("{:?} {:?}", num, s.name),
+    None => println!("no locker assigned"),
+  }
+
+    match s2.locker {
+    Some(num) => println!("{:?} {:?}", num, s.name),
+    None => println!("no locker assigned"),
+  }
+  
+}
+```
+
+
+---------
+# Documentations
+#rust/doc 
+
+### `///` genereted documentations
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
