@@ -389,6 +389,16 @@ fn main(){
 
 ## Accessing standard Library Documentation
 
+### `rustup doc`  -> .rust/....
+
+```rust
+fn main(){
+	/// my list
+	let nums = vec![1,2,3] ;
+}
+```
+
+e.g. file:///home/jarek/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/share/doc/rust/html/std/macro.vec.html
 
 
 
