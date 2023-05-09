@@ -427,8 +427,25 @@ fn main(){
 ```
 
 
+-------
+# Result
+#rust/result
+
+>[!info] Result
+> a data type that contains one of two types of data:
+> 	- "successful" data
+> 	- "error" data
+> - used in scenarios where an action needs to be taken, but has the possibility of failure
+> 	- copying a file
+> 	- connecting to a website
 
 
+definition
+```rust
+enum Result<T, E> {
+	Ok(T)
+}
+```
 
 
 
