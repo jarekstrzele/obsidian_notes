@@ -476,9 +476,81 @@ match sound {
 
 
 
+Example
+```rust
+#[derive(Debug)]
+enum MenuChoise {
 
+MainMenu,
 
+Start,
 
+Quit
+
+}
+
+  
+
+fn get_choice(input: &str) -> Result<MenuChoise, String>{
+
+match input {
+
+"mainmenu" => Ok(MenuChoise::MainMenu),
+
+"start" => Ok(MenuChoise::Start),
+
+"quit" => Ok(MenuChoise::Quit),
+
+_ => Err("Menu choice not found".to_owned()),
+
+}
+
+}
+
+  
+
+fn print_choice(choice: &MenuChoise) {
+
+println!("choice 3 (from fn): {:?}", choice) ;
+
+}
+
+  
+
+fn main() {
+
+let choice_1= get_choice("mainmenu") ;
+
+println!("choice 1 = {:?}", choice_1) ;
+
+  
+
+let choice_2 = get_choice("XXX") ;
+
+println!("choice 2 = {:?}", choice_2) ;
+
+  
+
+let choice_3: Result<MenuChoise, _> = get_choice("start");
+
+// print_choice(&choice3); --> it generates an error, because `get_choice()` returns Result not MenuChoice
+
+// to handle that problem use `match`
+
+match choice_3 {
+
+Ok(inner_choice) => print_choice(&inner_choice),
+
+Err(e) => println!("error = {:?}", e) ,
+
+  
+
+}
+
+}
+```
+
+faster way to extract data wrapped into `Result` -> use 
 
 
 
