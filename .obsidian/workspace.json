@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A I/SI na Froncie/2. SI i Uczenie maszynowe.md",
+                "file": "A I/SI na Froncie/3 AI na froncie.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A I/SI na Froncie/2. SI i Uczenie maszynowe.md",
+                "file": "A I/SI na Froncie/3 AI na froncie.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A I/SI na Froncie/2. SI i Uczenie maszynowe.md",
+                "file": "A I/SI na Froncie/3 AI na froncie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A I/SI na Froncie/2. SI i Uczenie maszynowe.md"
+                "file": "A I/SI na Froncie/3 AI na froncie.md"
               }
             }
           },
@@ -225,9 +225,10 @@
   },
   "active": "04bccf1dc56dfdd4",
   "lastOpenFiles": [
-    "Excalidraw/prog_klas_a_ucz_maszynowe.excalidraw.md",
-    "A I/SI na Froncie/2. SI i Uczenie maszynowe.md",
     "A I/SI na Froncie/_ Wprowadzenie SI z JS.md",
+    "A I/SI na Froncie/3 AI na froncie.md",
+    "A I/SI na Froncie/2. SI i Uczenie maszynowe.md",
+    "Excalidraw/prog_klas_a_ucz_maszynowe.excalidraw.md",
     "A I/JS uczenie maszynowe/_ 0 Uczenie maszynowe z JS.md",
     "HASKELL/for_great_good/7.3 Derived instances.md",
     "HASKELL/for_great_good/7.2 Type parameters.md",
@@ -250,7 +251,6 @@
     "R U S T/Rust Programming For Beginners/6 Data Collections.md",
     "R U S T/Rust Programming For Beginners/5 Intermediate Concepts.md",
     "R U S T/Rust Programming For Beginners/4 Data.md",
-    "R U S T/Rust Programming For Beginners/3 Repetition.md",
     "linux/Vim/Vim od podstaw",
     "_ WEB",
     "_ Desktop/Python",

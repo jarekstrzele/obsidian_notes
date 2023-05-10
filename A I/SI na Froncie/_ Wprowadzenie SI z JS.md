@@ -4,7 +4,7 @@
 ------------
 Spis
 [[2. SI i Uczenie maszynowe]]
-
+[[3 AI na froncie]]
 
 
 

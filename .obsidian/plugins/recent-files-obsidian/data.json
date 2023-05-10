@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "3 AI na froncie",
+      "path": "A I/SI na Froncie/3 AI na froncie.md"
+    },
+    {
+      "basename": "_ Wprowadzenie SI z JS",
+      "path": "A I/SI na Froncie/_ Wprowadzenie SI z JS.md"
+    },
+    {
       "basename": "2. SI i Uczenie maszynowe",
       "path": "A I/SI na Froncie/2. SI i Uczenie maszynowe.md"
     },
     {
       "basename": "prog_klas_a_ucz_maszynowe.excalidraw",
       "path": "Excalidraw/prog_klas_a_ucz_maszynowe.excalidraw.md"
-    },
-    {
-      "basename": "_ Wprowadzenie SI z JS",
-      "path": "A I/SI na Froncie/_ Wprowadzenie SI z JS.md"
     },
     {
       "basename": "_ 0 Uczenie maszynowe z JS",
@@ -195,10 +199,6 @@
     {
       "basename": "2 Właściwości grafów",
       "path": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md"
-    },
-    {
-      "basename": "4.3. pliki statyczne",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/4.3. pliki statyczne.md"
     }
   ],
   "omittedPaths": [],
