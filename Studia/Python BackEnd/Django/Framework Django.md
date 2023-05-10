@@ -124,13 +124,13 @@ https://docs.djangoproject.com/pl/4.0/topics/install/
 (00:44)
 #django/app 
 **APLIKACJA** aplikacja webowa, która coś robi, ma konktretne przeznaczenie, może być nią np. blog, sklep, ankieta, czat, baza danych publicznych
-aplikacje moga być przechowywane i uruchamian gdziekolwiek na ścieżce pythona. W praktyce najczęściej tworzony jest główny projekt, w któruym konfiguowany jest adres URL i serwer i w ramch którego może funkcjonować wiele aplikacji. Wówaczas palikacje te są tworzone jako podmoduły głównego projektu
+aplikacje moga być przechowywane i uruchamian gdziekolwiek na ścieżce pythona. W praktyce najczęściej tworzony jest główny projekt, w którym konfiguowany jest adres URL i serwer i w ramch którego może funkcjonować wiele aplikacji. Wówaczas palikacje te są tworzone jako podmoduły głównego projektu
 #### `python manage.py startapp nazwaAplikacji`
 generuje podstawową strukturę katalogów aplikacji
 
 #django/project
 **PROJEKT** zbiór konfiguracji i palikacji dla konkretnej wutryby. Projekt może zawierać wiele aplikacji. Aplikacja może być w wielu projektach
- `django-admin startproject mysite` 
+###  `django-admin startproject mysite` 
 
 ---
 # tworzenie projektu

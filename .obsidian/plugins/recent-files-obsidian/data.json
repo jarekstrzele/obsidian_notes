@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Framework Django",
+      "path": "Studia/Python BackEnd/Django/Framework Django.md"
+    },
+    {
       "basename": "7 Advanced Concepts",
       "path": "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md"
     },
@@ -43,10 +47,6 @@
     {
       "basename": "3.1 Express - introducing",
       "path": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md"
-    },
-    {
-      "basename": "Framework Django",
-      "path": "Studia/Python BackEnd/Django/Framework Django.md"
     },
     {
       "basename": "6 Data Collections",
