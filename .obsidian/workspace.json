@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studia/Python BackEnd/Django/Framework Django.md",
+                "file": "Studia/Python BackEnd/Django/2 Django.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studia/Python BackEnd/Django/Framework Django.md",
+                "file": "Studia/Python BackEnd/Django/2 Django.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studia/Python BackEnd/Django/Framework Django.md",
+                "file": "Studia/Python BackEnd/Django/2 Django.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studia/Python BackEnd/Django/Framework Django.md"
+                "file": "Studia/Python BackEnd/Django/2 Django.md"
               }
             }
           },
@@ -216,6 +216,8 @@
   },
   "active": "3a17a7976a72aa13",
   "lastOpenFiles": [
+    "Studia/Python BackEnd/Django/Framework Django.md",
+    "Studia/Python BackEnd/Django/2 Django.md",
     "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md",
     "R U S T/Learn Rust by Building Real App/4.5 TCP.md",
     "R U S T/Learn Rust by Building Real App/4.4 Organising a Code into Modules.md",
@@ -227,7 +229,6 @@
     "R U S T/Rust Programming For Beginners/_ Rust Programming for Beginners.md",
     "R U S T/Rust by example/_ Rust by Example.md",
     "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
-    "Studia/Python BackEnd/Django/Framework Django.md",
     "R U S T/Rust Programming For Beginners/6 Data Collections.md",
     "R U S T/Rust Programming For Beginners/5 Intermediate Concepts.md",
     "R U S T/Rust Programming For Beginners/4 Data.md",
@@ -241,7 +242,6 @@
     "HASKELL/Real World Haskell/_ Real World Haskell.md",
     "HASKELL/for_great_good/7.2 Type parameters.md",
     "HASKELL/for_great_good/7 Types and TypeClasses.md",
-    "HASKELL/for_great_good/7.1 Record syntax.md",
     "linux/Vim/Vim od podstaw",
     "_ WEB",
     "_ Desktop/Python",

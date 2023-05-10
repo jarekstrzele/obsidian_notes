@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2 Django",
+      "path": "Studia/Python BackEnd/Django/2 Django.md"
+    },
+    {
       "basename": "Framework Django",
       "path": "Studia/Python BackEnd/Django/Framework Django.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "3.2. Odczytywanie plików",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3.2. Odczytywanie plików.md"
-    },
-    {
-      "basename": "2.3. Stream",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.3. Stream.md"
     }
   ],
   "omittedPaths": [],

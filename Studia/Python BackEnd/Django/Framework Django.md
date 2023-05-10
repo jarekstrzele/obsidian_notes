@@ -8,7 +8,26 @@
 [[#tworzenie pierwszego widoku aplikacji]]
 [[#`django-admin i manage.py`]]
 [[#`setting.py`]]
+[[#Migracje]]
+[[#MODELE]]
 
+
+----
+Aby rozpocząc pracę z frameworkiem Django:
+1. zainstalować is konfigurować Python i Django
+2. uruchomić serwer `python3 manage.py runserver`
+3. utworzyć projekt `django-admin startproject <projectname>`
+4. dodać aplikację i skonfigurować adresy URL w plikach `urls.py`
+5. skonfigurować ustawienia aplikacji w pliku `settings.py`
+6. utworzyć widok `view.py`
+7. zaprojektować modele danych za pomoacą OMR (mapowanie opobiektowo-relacyjne) w pliku `models.py`
+8. wykonać migracje w bazie danych
+
+
+
+
+
+----
 
 
 
@@ -281,8 +300,9 @@ znajduje się w np. `ankiety/migrations/0001_inital.py`
 w wyniku tej komenty kod Python ==> kod SQL (`python3 manage.py sqlmigrate <nazwa migracji>` => podgląd kodu SQL, np, `python manage.py sqlmigrate ankiety 0001`)
 
 PODSUMOWANIE trzy kroki do tworzenia zmian w modelach:
-1. Modyfikacja modeli w models.py
-2. uruchomienie w `makemigrations`, aby stworzyć migracje d
+1. Modyfikacja modeli w `models.py`
+2. uruchomienie w `makemigrations`, aby stworzyć migracje dla zmian
+3. uruchomienie `migrate`, aby zastosować te zmiany na bazie danych
 
 
 
