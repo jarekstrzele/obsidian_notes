@@ -247,6 +247,9 @@ standardowy moduł Python ze zminnymi na poziomie moduły reprezentującymi usta
 
 Aplikacje mogą być używane w wielu projektach i można je pakować i udostępniać innym do użytku w ich  projektach
 
+---
+# Migracje
+
 #django/migrate
 #### `migrate` uruchomi migracje tylko dla aplikacji w `INSTALLED_APPS`
 Niektóre z tych aplikacji używają przynajmniej jednej tabeli w bazie danych, więc należy stworzyć tabele w bazie danych zanim będzie można je użyć
@@ -261,7 +264,11 @@ Aby **utworzyć bazę danych** wystarczy wpisać komendę:
 **Zatwierdzić migrację** - utworzono standardowe grupy i użytkownicy
 #### `python3 manage.py migrate`
 
-
+**Migracja**
+- to sposób w jaki Django przechowuje zmiany modeli i przez to również zmiany schematu baz danych
+- migracje są po prostu plikami na dysku
+- django tworzy migracje automatycznie, ale można modyfikować je ręcznie lub po porstu sprawdzać jak zostały zapisane zmiany dotyczące baz danych
+np
 
 ----
 
@@ -278,9 +285,33 @@ Aby **utworzyć bazę danych** wystarczy wpisać komendę:
 - Django daje możliwość automatycznego generowania API dostępu do baz danych
 - Migracje pochodzą z pliku modeli i jest to sposób w jaki Django przechowuje zmiany i akrtualizuje schemat baz danych, tak by był zgodny z bieżącymi modelami
 
+### Przykład:
+Zdefinujemy modele wykorzystywane do zbudowania aplikacji ankiety
+
+W Aplikacji ankiety, stworzymy dwa modele(dwie tabele):
+- *Question* (pole pytanie, pole data publikacji)
+- *Choice* (pole treść wybory, pole podsumowanie głosów)
+Każdy element Choice jest związany z elementem z Question
+
+**Strukturę modeli** opisujemy w pliku `ankiety/modeles.py` :
+```python
+from django.db import models
+
+class Question(models.Model):
+	question_text = models.CharField(max_length=200)
+	pub_date = models.DateTimeField('date published')
+
+class Choice(models.Model):
+	question = models.ForeignKey(Question, on_delete=models.CASCADE)
+	choice_text = models.CharField(max_length=200)
+	votes = models.IntegerField(default=0)	
 
 
+```
 
+- każde pole jest reprezentowane przez instalcję klasy `Field`
+- każdy model jest reprezentowany przez klasę, ktora dziedziczy po djangk.db.models
+- każdy model ma kilka zmiennych klasowych, z których każda reprezentuje pole bazy danych w modelu
 
 
 
