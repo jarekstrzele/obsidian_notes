@@ -37,8 +37,10 @@ https://www.tensorflow.org/?hl=pl
 https://js.tensorflow.org/api/latest/?_gl=1*1mozs3l*_ga*MjA4MTI2OTAyNS4xNjgzNzQ4NTA3*_ga_W0YLR4190T*MTY4Mzc0ODUwNi4xLjEuMTY4Mzc0ODU0Ni4wLjAuMA..
 
 
-
-
+PRZYKŁAD
+1. definicja modelu
+2. przygotowanie modelu do treningu
+3. generowanie danych do treningu
 
 
 
