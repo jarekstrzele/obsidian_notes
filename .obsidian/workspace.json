@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "c5f8bc7f565a6992",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/prog_klas_a_ucz_maszynowe.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "a06c36cdc13f229b",
             "type": "leaf",
             "state": {
@@ -215,6 +225,8 @@
   },
   "active": "04bccf1dc56dfdd4",
   "lastOpenFiles": [
+    "Excalidraw/prog_klas_a_ucz_maszynowe.excalidraw.md",
+    "A I/SI na Froncie/2. SI i Uczenie maszynowe.md",
     "A I/SI na Froncie/_ Wprowadzenie SI z JS.md",
     "A I/JS uczenie maszynowe/_ 0 Uczenie maszynowe z JS.md",
     "HASKELL/for_great_good/7.3 Derived instances.md",
@@ -239,8 +251,6 @@
     "R U S T/Rust Programming For Beginners/5 Intermediate Concepts.md",
     "R U S T/Rust Programming For Beginners/4 Data.md",
     "R U S T/Rust Programming For Beginners/3 Repetition.md",
-    "_ WEB/N_O_D_E/Mosh Node/2 Node Package Manager.md",
-    "_ WEB/N_O_D_E/Mosh Node/3 RESTful API's using Express.md",
     "linux/Vim/Vim od podstaw",
     "_ WEB",
     "_ Desktop/Python",

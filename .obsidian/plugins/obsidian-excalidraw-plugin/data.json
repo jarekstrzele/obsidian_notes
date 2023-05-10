@@ -69,7 +69,7 @@
   "library2": {
     "type": "excalidrawlib",
     "version": 2,
-    "source": "https://excalidraw.com",
+    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.8.26",
     "libraryItems": [
       {
         "status": "published",
@@ -4959,11 +4959,12 @@
             "fontFamily": 1,
             "text": "Team 1",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Team 1"
+            "originalText": "Team 1",
+            "lineHeight": 1.25,
+            "baseline": 18
           },
           {
             "type": "text",
@@ -4994,11 +4995,12 @@
             "fontFamily": 1,
             "text": "Team 2",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Team 2"
+            "originalText": "Team 2",
+            "lineHeight": 1.25,
+            "baseline": 18
           },
           {
             "type": "rectangle",
@@ -5059,11 +5061,12 @@
             "fontFamily": 1,
             "text": "Jan",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Jan"
+            "originalText": "Jan",
+            "lineHeight": 1.25,
+            "baseline": 18
           },
           {
             "type": "rectangle",
@@ -5124,11 +5127,12 @@
             "fontFamily": 1,
             "text": "Apr",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Apr"
+            "originalText": "Apr",
+            "lineHeight": 1.25,
+            "baseline": 18
           },
           {
             "type": "rectangle",
@@ -5189,11 +5193,12 @@
             "fontFamily": 1,
             "text": "Feb",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Feb"
+            "originalText": "Feb",
+            "lineHeight": 1.25,
+            "baseline": 18
           },
           {
             "type": "rectangle",
@@ -5254,11 +5259,12 @@
             "fontFamily": 1,
             "text": "May",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "May"
+            "originalText": "May",
+            "lineHeight": 1.25,
+            "baseline": 18
           },
           {
             "type": "rectangle",
@@ -5319,11 +5325,12 @@
             "fontFamily": 1,
             "text": "Mar",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Mar"
+            "originalText": "Mar",
+            "lineHeight": 1.25,
+            "baseline": 18
           },
           {
             "type": "rectangle",
@@ -5384,11 +5391,12 @@
             "fontFamily": 1,
             "text": "Jun",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Jun"
+            "originalText": "Jun",
+            "lineHeight": 1.25,
+            "baseline": 18
           },
           {
             "type": "rectangle",
@@ -5449,11 +5457,12 @@
             "fontFamily": 1,
             "text": "First Quarter",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "First Quarter"
+            "originalText": "First Quarter",
+            "lineHeight": 1.25,
+            "baseline": 18
           },
           {
             "type": "rectangle",
@@ -5514,11 +5523,12 @@
             "fontFamily": 1,
             "text": "Second Quarter",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Second Quarter"
+            "originalText": "Second Quarter",
+            "lineHeight": 1.25,
+            "baseline": 18
           },
           {
             "type": "line",
@@ -5946,11 +5956,12 @@
             "fontFamily": 1,
             "text": "Task Name",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Task Name"
+            "originalText": "Task Name",
+            "lineHeight": 1.25,
+            "baseline": 18
           },
           {
             "type": "text",
@@ -5981,11 +5992,12 @@
             "fontFamily": 1,
             "text": "Task Name",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Task Name"
+            "originalText": "Task Name",
+            "lineHeight": 1.25,
+            "baseline": 18
           },
           {
             "type": "text",
@@ -6016,11 +6028,12 @@
             "fontFamily": 1,
             "text": "Task Name",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Task Name"
+            "originalText": "Task Name",
+            "lineHeight": 1.25,
+            "baseline": 18
           },
           {
             "type": "text",
@@ -6051,11 +6064,12 @@
             "fontFamily": 1,
             "text": "Task Name",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Task Name"
+            "originalText": "Task Name",
+            "lineHeight": 1.25,
+            "baseline": 18
           },
           {
             "type": "text",
@@ -6086,11 +6100,12 @@
             "fontFamily": 1,
             "text": "Task Name",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Task Name"
+            "originalText": "Task Name",
+            "lineHeight": 1.25,
+            "baseline": 18
           },
           {
             "type": "text",
@@ -6121,11 +6136,12 @@
             "fontFamily": 1,
             "text": "Task Name",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Task Name"
+            "originalText": "Task Name",
+            "lineHeight": 1.25,
+            "baseline": 18
           },
           {
             "type": "text",
@@ -6156,11 +6172,12 @@
             "fontFamily": 1,
             "text": "Task Name",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Task Name"
+            "originalText": "Task Name",
+            "lineHeight": 1.25,
+            "baseline": 18
           },
           {
             "type": "line",
@@ -6260,11 +6277,12 @@
             "fontFamily": 1,
             "text": "Today",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Today"
+            "originalText": "Today",
+            "lineHeight": 1.25,
+            "baseline": 18
           },
           {
             "type": "rectangle",
@@ -6321,11 +6339,12 @@
             "fontFamily": 1,
             "text": "Delayed",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Delayed"
+            "originalText": "Delayed",
+            "lineHeight": 1.25,
+            "baseline": 18
           },
           {
             "type": "rectangle",
@@ -6382,11 +6401,12 @@
             "fontFamily": 1,
             "text": "Done",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Done"
+            "originalText": "Done",
+            "lineHeight": 1.25,
+            "baseline": 18
           },
           {
             "type": "rectangle",
@@ -6443,11 +6463,12 @@
             "fontFamily": 1,
             "text": "Pending",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Pending"
+            "originalText": "Pending",
+            "lineHeight": 1.25,
+            "baseline": 18
           },
           {
             "type": "rectangle",
@@ -6504,11 +6525,12 @@
             "fontFamily": 1,
             "text": "Critical",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Critical"
+            "originalText": "Critical",
+            "lineHeight": 1.25,
+            "baseline": 18
           }
         ],
         "id": "f5axORyikn8-DCX5dGA50",
@@ -6611,11 +6633,12 @@
             "fontFamily": 1,
             "text": "Application\nserver",
             "rawText": "",
-            "baseline": 32,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Application\nserver"
+            "originalText": "Application\nserver",
+            "lineHeight": 1.2771530158784645,
+            "baseline": 32
           }
         ],
         "id": "IW0p3i47Vjk0Vi6AqcrXs",
@@ -6742,11 +6765,12 @@
             "fontFamily": 1,
             "text": "Multi\nInstance\nserver",
             "rawText": "",
-            "baseline": 51,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Multi\nInstance\nserver"
+            "originalText": "Multi\nInstance\nserver",
+            "lineHeight": 1.2771530158784645,
+            "baseline": 51
           }
         ],
         "id": "1xQlj0qKyDhRnE7d9a3NU",
@@ -6814,11 +6838,12 @@
             "fontFamily": 1,
             "text": "server",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "server"
+            "originalText": "server",
+            "lineHeight": 1.2728844552392071,
+            "baseline": 18
           }
         ],
         "id": "ZS973aNtN_rjjm82xytYG",
@@ -6945,11 +6970,12 @@
             "fontFamily": 1,
             "text": "Multi Instance",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Multi Instance"
+            "originalText": "Multi Instance",
+            "lineHeight": 1.2728844552392071,
+            "baseline": 18
           }
         ],
         "id": "5v9BQJCQVZpZ2YD2MR_HR",
@@ -7511,11 +7537,12 @@
             "fontFamily": 1,
             "text": "Relational DB",
             "rawText": "",
-            "baseline": 15,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Relational DB"
+            "originalText": "Relational DB",
+            "lineHeight": 1.2587326659687126,
+            "baseline": 15
           }
         ],
         "id": "E3P8peUaLxCDdxtwr34zh",
@@ -7810,11 +7837,12 @@
             "fontFamily": 1,
             "text": "Object Storage",
             "rawText": "",
-            "baseline": 16,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Object Storage"
+            "originalText": "Object Storage",
+            "lineHeight": 1.3126433006354734,
+            "baseline": 16
           }
         ],
         "id": "2r7VF4LRiwe4tSwxno1xw",
@@ -8683,11 +8711,12 @@
             "fontFamily": 1,
             "text": "Cold Storage",
             "rawText": "",
-            "baseline": 16,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Cold Storage"
+            "originalText": "Cold Storage",
+            "lineHeight": 1.3119955412599642,
+            "baseline": 16
           }
         ],
         "id": "iWEdGNzCTEEX4IS9VlzMy",
@@ -8875,11 +8904,12 @@
             "fontFamily": 3,
             "text": "{",
             "rawText": "",
-            "baseline": 28,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "{"
+            "originalText": "{",
+            "lineHeight": 1.1978329067229467,
+            "baseline": 28
           },
           {
             "type": "text",
@@ -8915,11 +8945,12 @@
             "fontFamily": 3,
             "text": "}",
             "rawText": "",
-            "baseline": 28,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "}"
+            "originalText": "}",
+            "lineHeight": 1.191103508370571,
+            "baseline": 28
           },
           {
             "type": "text",
@@ -8952,11 +8983,12 @@
             "fontFamily": 1,
             "text": "Document DB",
             "rawText": "",
-            "baseline": 16,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Document DB"
+            "originalText": "Document DB",
+            "lineHeight": 1.2662682212110639,
+            "baseline": 16
           }
         ],
         "id": "4g8Fr71qQ8tdKY0Y7-5Y5",
@@ -8996,11 +9028,12 @@
             "fontFamily": 1,
             "text": "Columnar DB",
             "rawText": "",
-            "baseline": 16,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Columnar DB"
+            "originalText": "Columnar DB",
+            "lineHeight": 1.2890349604474582,
+            "baseline": 16
           },
           {
             "type": "line",
@@ -9337,11 +9370,12 @@
             "fontFamily": 1,
             "text": "Graph DB",
             "rawText": "",
-            "baseline": 16,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Graph DB"
+            "originalText": "Graph DB",
+            "lineHeight": 1.2807900341691005,
+            "baseline": 16
           },
           {
             "type": "line",
@@ -10409,11 +10443,12 @@
             "fontFamily": 1,
             "text": "Stack\nStorage",
             "rawText": "",
-            "baseline": 32,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Stack\nStorage"
+            "originalText": "Stack\nStorage",
+            "lineHeight": 1.2795850860882005,
+            "baseline": 32
           }
         ],
         "id": "1YqrmPGvOU-qjfDs_GVLS",
@@ -10975,11 +11010,12 @@
             "fontFamily": 1,
             "text": "Key",
             "rawText": "",
-            "baseline": 5,
             "textAlign": "center",
             "verticalAlign": "middle",
             "containerId": null,
-            "originalText": "Key"
+            "originalText": "Key",
+            "lineHeight": 1.155514895132067,
+            "baseline": 5
           },
           {
             "type": "text",
@@ -11013,11 +11049,12 @@
             "fontFamily": 1,
             "text": "Key",
             "rawText": "",
-            "baseline": 5,
             "textAlign": "center",
             "verticalAlign": "middle",
             "containerId": null,
-            "originalText": "Key"
+            "originalText": "Key",
+            "lineHeight": 1.155514895132067,
+            "baseline": 5
           },
           {
             "type": "text",
@@ -11051,11 +11088,12 @@
             "fontFamily": 1,
             "text": "Value",
             "rawText": "",
-            "baseline": 5,
             "textAlign": "center",
             "verticalAlign": "middle",
             "containerId": null,
-            "originalText": "Value"
+            "originalText": "Value",
+            "lineHeight": 1.1555148951320642,
+            "baseline": 5
           },
           {
             "type": "text",
@@ -11089,11 +11127,12 @@
             "fontFamily": 1,
             "text": "Value",
             "rawText": "",
-            "baseline": 5,
             "textAlign": "center",
             "verticalAlign": "middle",
             "containerId": null,
-            "originalText": "Value"
+            "originalText": "Value",
+            "lineHeight": 1.1555148951320642,
+            "baseline": 5
           },
           {
             "type": "text",
@@ -11131,11 +11170,12 @@
             "fontFamily": 1,
             "text": "Cache",
             "rawText": "",
-            "baseline": 20,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Cache"
+            "originalText": "Cache",
+            "lineHeight": 1.2706504267443253,
+            "baseline": 20
           }
         ],
         "id": "rnz-jspV2iZJm2dQWrG1T",
@@ -11741,11 +11781,12 @@
             "fontFamily": 1,
             "text": "Auth &\n IAM",
             "rawText": "",
-            "baseline": 43,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Auth &\n IAM"
+            "originalText": "Auth &\n IAM",
+            "lineHeight": 1.2574328565604995,
+            "baseline": 43
           }
         ],
         "id": "I2zhGH6DZVWPWdb01iUk_",
@@ -12103,11 +12144,12 @@
             "fontFamily": 3,
             "text": "DNS",
             "rawText": "",
-            "baseline": 25,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "DNS"
+            "originalText": "DNS",
+            "lineHeight": 1.1940035041557016,
+            "baseline": 25
           },
           {
             "type": "text",
@@ -12143,11 +12185,12 @@
             "fontFamily": 2,
             "text": "www     127.0.0.1",
             "rawText": "",
-            "baseline": 9,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "www     127.0.0.1"
+            "originalText": "www     127.0.0.1",
+            "lineHeight": 1.055075666169421,
+            "baseline": 9
           },
           {
             "type": "arrow",
@@ -12585,11 +12628,12 @@
             "fontFamily": 1,
             "text": "Load\nBalancer",
             "rawText": "",
-            "baseline": 32,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Load\nBalancer"
+            "originalText": "Load\nBalancer",
+            "lineHeight": 1.288022799447279,
+            "baseline": 32
           }
         ],
         "id": "sBx-EIwxbS_LwndpRuYUe",
@@ -12982,11 +13026,12 @@
             "fontFamily": 1,
             "text": "Message Q",
             "rawText": "",
-            "baseline": 16,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Message Q"
+            "originalText": "Message Q",
+            "lineHeight": 1.2429172407900155,
+            "baseline": 16
           }
         ],
         "id": "ju81nKt4tvTt05ZvIx64M",
@@ -13213,11 +13258,12 @@
             "fontFamily": 1,
             "text": "Pipeline",
             "rawText": "",
-            "baseline": 21,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Pipeline"
+            "originalText": "Pipeline",
+            "lineHeight": 1.2439024390243902,
+            "baseline": 21
           }
         ],
         "id": "9-QkYoLVQlEoM7Gi9vgqk",
@@ -13554,11 +13600,12 @@
             "fontFamily": 1,
             "text": "cloud",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "cloud"
+            "originalText": "cloud",
+            "lineHeight": 1.2664824034546198,
+            "baseline": 18
           }
         ],
         "id": "qafi7mHX1i1tBmSxGx-Ae",
@@ -13895,11 +13942,12 @@
             "fontFamily": 3,
             "text": "CDN",
             "rawText": "",
-            "baseline": 28,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "CDN"
+            "originalText": "CDN",
+            "lineHeight": 1.1860833233745642,
+            "baseline": 28
           },
           {
             "type": "line",
@@ -14796,11 +14844,12 @@
             "fontFamily": 1,
             "text": "7",
             "rawText": "",
-            "baseline": 9,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "7"
+            "originalText": "7",
+            "lineHeight": 1.285035777588966,
+            "baseline": 9
           },
           {
             "type": "text",
@@ -14835,11 +14884,12 @@
             "fontFamily": 1,
             "text": "Archive",
             "rawText": "",
-            "baseline": 15,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Archive"
+            "originalText": "Archive",
+            "lineHeight": 1.2266250604258317,
+            "baseline": 15
           }
         ],
         "id": "swveRwhBrodtfIkrMvjp8",
@@ -14879,11 +14929,12 @@
             "fontFamily": 1,
             "text": "Mobile",
             "rawText": "",
-            "baseline": 14,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Mobile"
+            "originalText": "Mobile",
+            "lineHeight": 1.2507516658166022,
+            "baseline": 14
           },
           {
             "type": "rectangle",
@@ -15097,11 +15148,12 @@
             "fontFamily": 1,
             "text": "Lorem ipsum dolor sit amet, \nconsectetur adipiscing elit,sed\n do eiusmod tempor incididunt\n ut labore et dolore magna\n aliqua. Ut enim ad miveniam,\n quis nostrud exercitaullamco \nlaboris nisi ut aliquip ex ea \nommodo consequat. Duis aute \nirure dolor in reprehenderit i",
             "rawText": "",
-            "baseline": 26,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Lorem ipsum dolor sit amet, \nconsectetur adipiscing elit,sed\n do eiusmod tempor incididunt\n ut labore et dolore magna\n aliqua. Ut enim ad miveniam,\n quis nostrud exercitaullamco \nlaboris nisi ut aliquip ex ea \nommodo consequat. Duis aute \nirure dolor in reprehenderit i"
+            "originalText": "Lorem ipsum dolor sit amet, \nconsectetur adipiscing elit,sed\n do eiusmod tempor incididunt\n ut labore et dolore magna\n aliqua. Ut enim ad miveniam,\n quis nostrud exercitaullamco \nlaboris nisi ut aliquip ex ea \nommodo consequat. Duis aute \nirure dolor in reprehenderit i",
+            "lineHeight": 1.1912414571533636,
+            "baseline": 26
           },
           {
             "type": "text",
@@ -15137,11 +15189,12 @@
             "fontFamily": 1,
             "text": "Lorem ipsum dolor s, \nconsectetur adipng d\n do eiusmopor incididunt\nut labore et dolore magna\naliqua. Ut enim ad miveniam,\nquis nostrud exercitaullamco \nlaboris nisi ut aliquip ex ea \nommodo consequat. Duis aute \n",
             "rawText": "",
-            "baseline": 26,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Lorem ipsum dolor s, \nconsectetur adipng d\n do eiusmopor incididunt\nut labore et dolore magna\naliqua. Ut enim ad miveniam,\nquis nostrud exercitaullamco \nlaboris nisi ut aliquip ex ea \nommodo consequat. Duis aute \n"
+            "originalText": "Lorem ipsum dolor s, \nconsectetur adipng d\n do eiusmopor incididunt\nut labore et dolore magna\naliqua. Ut enim ad miveniam,\nquis nostrud exercitaullamco \nlaboris nisi ut aliquip ex ea \nommodo consequat. Duis aute \n",
+            "lineHeight": 1.1912414571533636,
+            "baseline": 26
           },
           {
             "type": "rectangle",
@@ -15212,11 +15265,12 @@
             "fontFamily": 1,
             "text": "Web Application",
             "rawText": "",
-            "baseline": 15,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Web Application"
+            "originalText": "Web Application",
+            "lineHeight": 1.266582418172241,
+            "baseline": 15
           },
           {
             "type": "rectangle",
@@ -15397,11 +15451,12 @@
             "fontFamily": 1,
             "text": "G",
             "rawText": "",
-            "baseline": 12,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "G"
+            "originalText": "G",
+            "lineHeight": 1.2406791341169863,
+            "baseline": 12
           },
           {
             "type": "text",
@@ -15437,11 +15492,12 @@
             "fontFamily": 1,
             "text": "o",
             "rawText": "",
-            "baseline": 12,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "o"
+            "originalText": "o",
+            "lineHeight": 1.2406791341169867,
+            "baseline": 12
           },
           {
             "type": "text",
@@ -15477,11 +15533,12 @@
             "fontFamily": 1,
             "text": "o",
             "rawText": "",
-            "baseline": 12,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "o"
+            "originalText": "o",
+            "lineHeight": 1.2406791341169867,
+            "baseline": 12
           },
           {
             "type": "text",
@@ -15517,11 +15574,12 @@
             "fontFamily": 1,
             "text": "g",
             "rawText": "",
-            "baseline": 12,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "g"
+            "originalText": "g",
+            "lineHeight": 1.2406791341169867,
+            "baseline": 12
           },
           {
             "type": "text",
@@ -15557,11 +15615,12 @@
             "fontFamily": 1,
             "text": "l",
             "rawText": "",
-            "baseline": 12,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "l"
+            "originalText": "l",
+            "lineHeight": 1.2406791341169867,
+            "baseline": 12
           },
           {
             "type": "text",
@@ -15597,11 +15656,12 @@
             "fontFamily": 1,
             "text": "e",
             "rawText": "",
-            "baseline": 12,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "e"
+            "originalText": "e",
+            "lineHeight": 1.2406791341169867,
+            "baseline": 12
           },
           {
             "type": "rectangle",
