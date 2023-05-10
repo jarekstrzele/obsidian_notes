@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "4 tensorflow.js",
+      "path": "A I/SI na Froncie/4 tensorflow.js.md"
+    },
+    {
       "basename": "3 AI na froncie",
       "path": "A I/SI na Froncie/3 AI na froncie.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "4. Tworzenie serwerów",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/4. Tworzenie serwerów.md"
-    },
-    {
-      "basename": "2 Właściwości grafów",
-      "path": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md"
     }
   ],
   "omittedPaths": [],

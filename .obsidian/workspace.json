@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A I/SI na Froncie/3 AI na froncie.md",
+                "file": "A I/SI na Froncie/4 tensorflow.js.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,8 +115,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -136,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A I/SI na Froncie/3 AI na froncie.md",
+                "file": "A I/SI na Froncie/4 tensorflow.js.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -153,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A I/SI na Froncie/3 AI na froncie.md",
+                "file": "A I/SI na Froncie/4 tensorflow.js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A I/SI na Froncie/3 AI na froncie.md"
+                "file": "A I/SI na Froncie/4 tensorflow.js.md"
               }
             }
           },
@@ -224,10 +223,11 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "71e065b19cb47489",
+  "active": "04bccf1dc56dfdd4",
   "lastOpenFiles": [
-    "A I/SI na Froncie/_ Wprowadzenie SI z JS.md",
     "A I/SI na Froncie/3 AI na froncie.md",
+    "A I/SI na Froncie/4 tensorflow.js.md",
+    "A I/SI na Froncie/_ Wprowadzenie SI z JS.md",
     "A I/SI na Froncie/2. SI i Uczenie maszynowe.md",
     "Excalidraw/prog_klas_a_ucz_maszynowe.excalidraw.md",
     "A I/JS uczenie maszynowe/_ 0 Uczenie maszynowe z JS.md",
@@ -251,7 +251,6 @@
     "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
     "R U S T/Rust Programming For Beginners/6 Data Collections.md",
     "R U S T/Rust Programming For Beginners/5 Intermediate Concepts.md",
-    "R U S T/Rust Programming For Beginners/4 Data.md",
     "linux/Vim/Vim od podstaw",
     "_ WEB",
     "_ Desktop/Python",

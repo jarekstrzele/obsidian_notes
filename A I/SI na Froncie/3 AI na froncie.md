@@ -41,9 +41,7 @@ PRZYKŁAD
 1. definicja modelu
 2. przygotowanie modelu do treningu
 3. generowanie danych do treningu
-
-
-
+4. trenowanie
 
 
 
