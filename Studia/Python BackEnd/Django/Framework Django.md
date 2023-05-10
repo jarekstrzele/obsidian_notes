@@ -245,6 +245,15 @@ standardowy moduł Python ze zminnymi na poziomie moduły reprezentującymi usta
 	- `django.contrib.messages` frame work powiadomień
 	- `django.contrib.staticfiles` framework do zarządzania plikami statycznymi
 
+Aplikacje mogą być używane w wielu projektach i można je pakować i udostępniać innym do użytku w ich  projektach
+
+#django4/migrate
+#### `migrate` uruchomi migracje tylko dla aplikacji w `INSTALLED_APPS`
+Niektóre z tych ap
+
+
+
+----
 
 
 
