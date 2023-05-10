@@ -268,7 +268,23 @@ Aby **utworzyć bazę danych** wystarczy wpisać komendę:
 - to sposób w jaki Django przechowuje zmiany modeli i przez to również zmiany schematu baz danych
 - migracje są po prostu plikami na dysku
 - django tworzy migracje automatycznie, ale można modyfikować je ręcznie lub po porstu sprawdzać jak zostały zapisane zmiany dotyczące baz danych
-np
+
+znajduje się w np. `ankiety/migrations/0001_inital.py`
+
+## Uruchomienie migracji
+- po utworzeniu nowych modeli (np. *Question i Choice*) należy poinformaować Django o zmianach w strukturze danych tak, aby zostały przechowane jako migracja:
+##### `python3 manage.py makemigrations ankiety`
+
+- następnie URUCHAMIAMY migrację, aby utworzyć nowe modele w bazie
+##### `python3 manage.py migrate`
+(jeżeli nie tworzymy nowej struktury, ale np, dodajemy dane, wystarczy tylko uruchomić migrację)
+w wyniku tej komenty kod Python ==> kod SQL (`python3 manage.py sqlmigrate <nazwa migracji>` => podgląd kodu SQL, np, `python manage.py sqlmigrate ankiety 0001`)
+
+PODSUMOWANIE trzy kroki do tworzenia zmian w modelach:
+1. Modyfikacja modeli w models.py
+2. uruchomienie w `makemigrations`, aby stworzyć migracje d
+
+
 
 ----
 
