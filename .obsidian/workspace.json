@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HASKELL/for_great_good/7 Types and TypeClasses.md",
+                "file": "HASKELL/for_great_good/7.2 Type parameters.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/for_great_good/7 Types and TypeClasses.md",
+                "file": "HASKELL/for_great_good/7.2 Type parameters.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/for_great_good/7 Types and TypeClasses.md",
+                "file": "HASKELL/for_great_good/7.2 Type parameters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/for_great_good/7 Types and TypeClasses.md"
+                "file": "HASKELL/for_great_good/7.2 Type parameters.md"
               }
             }
           },
@@ -216,6 +216,7 @@
   "active": "04bccf1dc56dfdd4",
   "lastOpenFiles": [
     "HASKELL/for_great_good/7.1 Record syntax.md",
+    "HASKELL/for_great_good/7 Types and TypeClasses.md",
     "HASKELL/for_great_good/7.2 Type parameters.md",
     "HASKELL/Real World Haskell/2 Types and Functions.md",
     "Studia/Python BackEnd/Django/2 Django.md",
@@ -240,7 +241,6 @@
     "_ WEB/N_O_D_E/Mosh Node/_ 0 Node (Mosh).md",
     "_ WEB/N_O_D_E/Mosh Node/1 Node Module System.md",
     "HASKELL/Real World Haskell/1 Getting Started.md",
-    "HASKELL/Real World Haskell/_ Real World Haskell.md",
     "linux/Vim/Vim od podstaw",
     "_ WEB",
     "_ Desktop/Python",

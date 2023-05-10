@@ -78,7 +78,7 @@ nudge (Circle (Point x y) r) a b = Circle (POint(x+a) (y+b) r)
 # export
 to export your data types in your module:
 ```haskell
-module SHapes
+module Shapes
 ( Point(..)
 , Shape(..)
 , surface
