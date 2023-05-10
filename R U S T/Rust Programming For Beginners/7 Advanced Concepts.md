@@ -550,7 +550,7 @@ Err(e) => println!("error = {:?}", e) ,
 }
 ```
 
-faster way to extract data wrapped into `Result` -> use 
+faster way to extract data wrapped into `Result` -> use   ==a question mark operator==
 
 
 
