@@ -32,30 +32,6 @@
             }
           },
           {
-            "id": "77c8e80f5e2a9ab0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "23af4fe1ec17f44f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "R U S T/Learn Rust by Building Real App/_ Learn Rust by Building Apps.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3a17a7976a72aa13",
             "type": "leaf",
             "state": {
@@ -66,9 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e8b070a9b17af3d0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.8"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -150,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md",
+                "file": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -167,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md",
+                "file": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md"
+                "file": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md"
               }
             }
           },
@@ -238,13 +224,14 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "77c8e80f5e2a9ab0",
+  "active": "e8b070a9b17af3d0",
   "lastOpenFiles": [
+    "Studia/Python BackEnd/Django/Framework Django.md",
+    "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md",
     "R U S T/Learn Rust by Building Real App/_ Learn Rust by Building Apps.md",
     "R U S T/Rust by example/_ Rust by Example.md",
     "R U S T/Rust Programming For Beginners/_ Rust Programming for Beginners.md",
     "R U S T/Rust Programming For Beginners/2 Making Decisions.md",
-    "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md",
     "R U S T/Rust Programming For Beginners/6 Data Collections.md",
     "R U S T/Rust Programming For Beginners/5 Intermediate Concepts.md",
     "R U S T/Rust Programming For Beginners/4 Data.md",
@@ -266,7 +253,6 @@
     "linux/Vim/Vim od podstaw/_ Vim od podstaw.md",
     "linux/Vim/Praktyczna administracja Vim/0 _ Vim wprowadzenie.md",
     "linux/Vim/Vim od podstaw",
-    "memory_leak.md",
     "_ WEB",
     "_ Desktop/Python",
     "_ Desktop",
