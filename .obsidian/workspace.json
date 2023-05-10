@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HASKELL/for_great_good/7.3 Derived instances.md",
+                "file": "A I/SI na Froncie/2. SI i Uczenie maszynowe.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/for_great_good/7.3 Derived instances.md",
+                "file": "A I/SI na Froncie/2. SI i Uczenie maszynowe.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/for_great_good/7.3 Derived instances.md",
+                "file": "A I/SI na Froncie/2. SI i Uczenie maszynowe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/for_great_good/7.3 Derived instances.md"
+                "file": "A I/SI na Froncie/2. SI i Uczenie maszynowe.md"
               }
             }
           },
@@ -215,8 +215,10 @@
   },
   "active": "04bccf1dc56dfdd4",
   "lastOpenFiles": [
-    "HASKELL/for_great_good/7.2 Type parameters.md",
+    "A I/SI na Froncie/_ Wprowadzenie SI z JS.md",
+    "A I/JS uczenie maszynowe/_ 0 Uczenie maszynowe z JS.md",
     "HASKELL/for_great_good/7.3 Derived instances.md",
+    "HASKELL/for_great_good/7.2 Type parameters.md",
     "HASKELL/for_great_good/7.1 Record syntax.md",
     "HASKELL/for_great_good/7 Types and TypeClasses.md",
     "HASKELL/Real World Haskell/2 Types and Functions.md",
@@ -239,8 +241,6 @@
     "R U S T/Rust Programming For Beginners/3 Repetition.md",
     "_ WEB/N_O_D_E/Mosh Node/2 Node Package Manager.md",
     "_ WEB/N_O_D_E/Mosh Node/3 RESTful API's using Express.md",
-    "_ WEB/N_O_D_E/Mosh Node/_ 0 Node (Mosh).md",
-    "_ WEB/N_O_D_E/Mosh Node/1 Node Module System.md",
     "linux/Vim/Vim od podstaw",
     "_ WEB",
     "_ Desktop/Python",
