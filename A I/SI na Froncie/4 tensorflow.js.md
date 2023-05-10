@@ -6,7 +6,7 @@ https://www.tensorflow.org/js?hl=pl
 https://teachablemachine.withgoogle.com/
 
 
-teachabel machine > get started/rozpocznij
+teachabel machine > get started/rozpocznij > rozpoznawanie obrazów
 
 
 
