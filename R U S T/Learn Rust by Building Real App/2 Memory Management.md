@@ -13,7 +13,7 @@
 > > 	- this is where our local variables live for every function
 >  
 >  > For every function call a new stack frame is allocated on top of the current one
-> the size of every variable on the stock has to be known at compile time!!
+> the size of every variable on the stack has to be known at compile time!!
 > > > if we want to store an array on the stack, we have to specify exactly how many elements it will hold
 > > 
 > 
@@ -26,7 +26,7 @@
 - it is a region of the process memory that is NOT automatically managed
 - it has no size restrictions
 - it is accessible by any function, anywhere in the program
-- heaap allocations are expensive and we should avoid them when possible
+- heap allocations are expensive and we should avoid them when possible
 
 a memory flow
 - allocate the memory on the heap for the value
