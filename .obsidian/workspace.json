@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HASKELL/Real World Haskell/2 Types and Functions.md",
+                "file": "HASKELL/for_great_good/7 Types and TypeClasses.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studia/Python BackEnd/Django/2 Django.md",
+                "file": "HASKELL/for_great_good/7 Types and TypeClasses.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -143,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studia/Python BackEnd/Django/2 Django.md",
+                "file": "HASKELL/for_great_good/7 Types and TypeClasses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studia/Python BackEnd/Django/2 Django.md"
+                "file": "HASKELL/for_great_good/7 Types and TypeClasses.md"
               }
             }
           },
@@ -214,10 +213,13 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "3a17a7976a72aa13",
+  "active": "04bccf1dc56dfdd4",
   "lastOpenFiles": [
-    "Studia/Python BackEnd/Django/Framework Django.md",
+    "HASKELL/for_great_good/7.1 Record syntax.md",
+    "HASKELL/for_great_good/7.2 Type parameters.md",
+    "HASKELL/Real World Haskell/2 Types and Functions.md",
     "Studia/Python BackEnd/Django/2 Django.md",
+    "Studia/Python BackEnd/Django/Framework Django.md",
     "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md",
     "R U S T/Learn Rust by Building Real App/4.5 TCP.md",
     "R U S T/Learn Rust by Building Real App/4.4 Organising a Code into Modules.md",
@@ -233,15 +235,12 @@
     "R U S T/Rust Programming For Beginners/5 Intermediate Concepts.md",
     "R U S T/Rust Programming For Beginners/4 Data.md",
     "R U S T/Rust Programming For Beginners/3 Repetition.md",
-    "HASKELL/Real World Haskell/2 Types and Functions.md",
     "_ WEB/N_O_D_E/Mosh Node/2 Node Package Manager.md",
     "_ WEB/N_O_D_E/Mosh Node/3 RESTful API's using Express.md",
     "_ WEB/N_O_D_E/Mosh Node/_ 0 Node (Mosh).md",
     "_ WEB/N_O_D_E/Mosh Node/1 Node Module System.md",
     "HASKELL/Real World Haskell/1 Getting Started.md",
     "HASKELL/Real World Haskell/_ Real World Haskell.md",
-    "HASKELL/for_great_good/7.2 Type parameters.md",
-    "HASKELL/for_great_good/7 Types and TypeClasses.md",
     "linux/Vim/Vim od podstaw",
     "_ WEB",
     "_ Desktop/Python",

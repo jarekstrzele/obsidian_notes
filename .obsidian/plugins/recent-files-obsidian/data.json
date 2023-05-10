@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "7 Types and TypeClasses",
+      "path": "HASKELL/for_great_good/7 Types and TypeClasses.md"
+    },
+    {
+      "basename": "7.1 Record syntax",
+      "path": "HASKELL/for_great_good/7.1 Record syntax.md"
+    },
+    {
+      "basename": "7.2 Type parameters",
+      "path": "HASKELL/for_great_good/7.2 Type parameters.md"
+    },
+    {
+      "basename": "2 Types and Functions",
+      "path": "HASKELL/Real World Haskell/2 Types and Functions.md"
+    },
+    {
       "basename": "2 Django",
       "path": "Studia/Python BackEnd/Django/2 Django.md"
     },
@@ -69,10 +85,6 @@
       "path": "R U S T/Rust Programming For Beginners/3 Repetition.md"
     },
     {
-      "basename": "2 Types and Functions",
-      "path": "HASKELL/Real World Haskell/2 Types and Functions.md"
-    },
-    {
       "basename": "2 Node Package Manager",
       "path": "_ WEB/N_O_D_E/Mosh Node/2 Node Package Manager.md"
     },
@@ -95,18 +107,6 @@
     {
       "basename": "_ Real World Haskell",
       "path": "HASKELL/Real World Haskell/_ Real World Haskell.md"
-    },
-    {
-      "basename": "7.2 Type parameters",
-      "path": "HASKELL/for_great_good/7.2 Type parameters.md"
-    },
-    {
-      "basename": "7 Types and TypeClasses",
-      "path": "HASKELL/for_great_good/7 Types and TypeClasses.md"
-    },
-    {
-      "basename": "7.1 Record syntax",
-      "path": "HASKELL/for_great_good/7.1 Record syntax.md"
     },
     {
       "basename": "6 Modules",
