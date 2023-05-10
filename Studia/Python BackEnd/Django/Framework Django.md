@@ -143,7 +143,7 @@ generuje podstawową strukturę katalogów aplikacji
 ### `django-admin startproject mysite` 
 utworzony zostanie katalog mysite w bieżącym katalogu z podkatolaogiem ustawień projekto o takiej samej nazwie zawierający pliki o konkretnej strukturze
 
-`mysite/` katalog główny, który jest pojemnikiem projegy
+`mysite/` katalog główny, który jest pojemnikiem projektu
 `manage.py` skrypt Python, narzędzie liniii koment do zarządzania projektem
 `db.sqlite3` baza danych w domyśłnym formacie SQLite3
 `__init__.py` pusty plik, który mówi Pythonowi, że ten katalog jest modułem
@@ -157,7 +157,7 @@ utworzony zostanie katalog mysite w bieżącym katalogu z podkatolaogiem ustawie
 
 - domyślnie `runserver`  otwiera port `8000`
 - `python manage.py runserver 8080`
-- `python mange.py ruserver 0:8000` - `0` jest skrótem `0.0.0.0` umożliwia nasłuchiwanie na wszystkich dostęþnych publicznych IP
+- `python manage.py ruserver 0:8000` - `0` jest skrótem `0.0.0.0` umożliwia nasłuchiwanie na wszystkich dostęþnych publicznych IP
 - w większości przypadku serwer Django sam się przeładowuje po wprowadzeniu zmian (oprócz dodawania nowych plików do projektu)
 
 ------
