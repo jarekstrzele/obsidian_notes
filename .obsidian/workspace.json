@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "środowiska wirtu",
+                "query": "tag:#tenserflow",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -115,7 +115,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -223,7 +224,7 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "04bccf1dc56dfdd4",
+  "active": "71e065b19cb47489",
   "lastOpenFiles": [
     "A I/SI na Froncie/_ Wprowadzenie SI z JS.md",
     "A I/SI na Froncie/3 AI na froncie.md",
