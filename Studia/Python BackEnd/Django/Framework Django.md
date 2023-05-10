@@ -247,17 +247,36 @@ standardowy moduł Python ze zminnymi na poziomie moduły reprezentującymi usta
 
 Aplikacje mogą być używane w wielu projektach i można je pakować i udostępniać innym do użytku w ich  projektach
 
-#django4/migrate
+#django/migrate
 #### `migrate` uruchomi migracje tylko dla aplikacji w `INSTALLED_APPS`
-Niektóre z tych ap
+Niektóre z tych aplikacji używają przynajmniej jednej tabeli w bazie danych, więc należy stworzyć tabele w bazie danych zanim będzie można je użyć
+Aby to zrobić należy uruchomić komendę:
+##### `python manage.py migrate`
+
+Aby **utworzyć bazę danych** wystarczy wpisać komendę:
+#### `python manage.py makemigrations <nazwa_app>`
+`python3 manage.py makemigrations ankiety`
+(za pierwszym razem zostaną utworzone tabele do obsługi np, użytkowników, walidacji,  ...)
+
+**Zatwierdzić migrację** - utworzono standardowe grupy i użytkownicy
+#### `python3 manage.py migrate`
 
 
 
 ----
 
+# MODELE
+#django/modele
+>[!info] Model
+>To pojedyncze, pełne źródło informacji o danych.
+>Zawiera podstawowe pola i zachowania danych, które są przechowywane.
 
-
-
+**Właściwości**
+- każdy model odpowiada jednej **tabeli** w bazie danych (zazwyczaj)
+- każdy model to **klasaPythona**, która dziedziczy z `django.db.models.Mode`
+- każdy **atrybut** modelu reprezentuje **pole** w tabeli
+- Django daje możliwość automatycznego generowania API dostępu do baz danych
+- Migracje pochodzą z pliku modeli i jest to sposób w jaki Django przechowuje zmiany i akrtualizuje schemat baz danych, tak by był zgodny z bieżącymi modelami
 
 
 
