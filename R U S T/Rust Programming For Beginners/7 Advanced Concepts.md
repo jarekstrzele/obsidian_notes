@@ -548,57 +548,41 @@ fn pick_choice(input: &str) -> Result<(), String> {
 	//if Err, the error is going to get automatically returned
 	// as the error from the function
 	print_choice(&choice) ;
-
-//and return OK
-
-Ok(())
-
+	//and return OK
+	Ok(())
 }
 
-  
-  
 
 fn main() {
+	let choice_1= get_choice("mainmenu") ;
+	println!("choice 1 = {:?}", choice_1) ;
 
-let choice_1= get_choice("mainmenu") ;
+	let choice_2 = get_choice("XXX") ;
+	println!("choice 2 = {:?}", choice_2) ;
 
-println!("choice 1 = {:?}", choice_1) ;
-
-  
-
-let choice_2 = get_choice("XXX") ;
-
-println!("choice 2 = {:?}", choice_2) ;
-
-  
-
-let choice_3: Result<MenuChoice, _> = get_choice("start");
-
-// print_choice(&choice3); --> it generates an error, because `get_choice()` returns Result not MenuChoice
-
-// to handle that problem use `match`
-
-match choice_3 {
-
-Ok(inner_choice) => print_choice(&inner_choice),
-
-Err(e) => println!("error = {:?}", e) ,
-
-  
-
+	let choice_3: Result<MenuChoice, _> = get_choice("start");
+	// print_choice(&choice3); --> it generates an error, because `get_choice()` returns Result not MenuChoice
+	// to handle that problem use `match`
+	match choice_3 {
+		Ok(inner_choice) => print_choice(&inner_choice),
+		Err(e) => println!("error = {:?}", e) ,
 }
 
-  
 
 pick_choice("quit") ;
 
-  
-
 let e = pick_choice("end") ;
-
 println!("error {:?}", e) ;
-
 }
+
+
+////// output
+choice 1 = Ok(MainMenu)
+choice 2 = Err("Menu choice not found")
+choice other (from fn): Start
+choice other (from fn): Quit
+error Err("Menu choice not found")
+
 ```
 
 
