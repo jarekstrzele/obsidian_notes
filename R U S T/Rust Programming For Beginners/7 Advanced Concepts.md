@@ -6,7 +6,8 @@
 [[#Enum]]
 [[#Advanced Match]]
 [[#Option]]
-
+[[#Documentations]]
+[[#Result]]
 
 
 
@@ -480,41 +481,81 @@ Example
 ```rust
 #[derive(Debug)]
 enum MenuChoise {
-
-MainMenu,
-
-Start,
-
-Quit
-
+	MainMenu,
+	Start,
+	Quit
 }
 
   
 
 fn get_choice(input: &str) -> Result<MenuChoise, String>{
-
-match input {
-
-"mainmenu" => Ok(MenuChoise::MainMenu),
-
-"start" => Ok(MenuChoise::Start),
-
-"quit" => Ok(MenuChoise::Quit),
-
-_ => Err("Menu choice not found".to_owned()),
-
+	match input {
+		"mainmenu" => Ok(MenuChoise::MainMenu),
+		"start" => Ok(MenuChoise::Start),
+		"quit" => Ok(MenuChoise::Quit),
+		_ => Err("Menu choice not found".to_owned()),
+	}
 }
+
+
+fn print_choice(choice: &MenuChoise) {
+	println!("choice 3 (from fn): {:?}", choice) ;
+}
+
+fn main() {
+	let choice_1= get_choice("mainmenu") ;
+	println!("choice 1 = {:?}", choice_1) ;
+	let choice_2 = get_choice("XXX") ;
+	println!("choice 2 = {:?}", choice_2) ;
+	let choice_3: Result<MenuChoise, _> = get_choice("start");
+// print_choice(&choice3); --> it generates an error, because `get_choice()` returns Result not MenuChoice
+// to handle that problem use `match`
+	match choice_3 {
+		Ok(inner_choice) => print_choice(&inner_choice),
+		Err(e) => println!("error = {:?}", e) ,
+	}
+}
+```
+
+faster way to extract data wrapped into `Result` -> use   ==a question mark operator==
+
+```rust
+#[derive(Debug)]
+enum MenuChoice {
+	MainMenu,
+	Start,
+	Quit
+}
+
+fn get_choice(input: &str) -> Result<MenuChoice, String>{
+	match input {
+	"mainmenu" => Ok(MenuChoice::MainMenu),
+	"start" => Ok(MenuChoice::Start),
+	"quit" => Ok(MenuChoice::Quit),
+	_ => Err("Menu choice not found".to_owned()),
+	}
+}
+
+fn print_choice(choice: &MenuChoice) {
+	println!("choice other (from fn): {:?}", choice) ;
+}
+
+// Result<(), String> `()` it is called unit type that just represent nothing
+fn pick_choice(input: &str) -> Result<(), String> {
+//`?` automatically perform a match operation
+	let choice: MenuChoice = get_choice(input)?;
+	// if Ok, inner data will get placed into `choice`
+	//if Err, the error is going to get automatically returned
+	// as the error from the function
+	print_choice(&choice) ;
+
+//and return OK
+
+Ok(())
 
 }
 
   
-
-fn print_choice(choice: &MenuChoise) {
-
-println!("choice 3 (from fn): {:?}", choice) ;
-
-}
-
   
 
 fn main() {
@@ -531,7 +572,7 @@ println!("choice 2 = {:?}", choice_2) ;
 
   
 
-let choice_3: Result<MenuChoise, _> = get_choice("start");
+let choice_3: Result<MenuChoice, _> = get_choice("start");
 
 // print_choice(&choice3); --> it generates an error, because `get_choice()` returns Result not MenuChoice
 
@@ -547,12 +588,18 @@ Err(e) => println!("error = {:?}", e) ,
 
 }
 
+  
+
+pick_choice("quit") ;
+
+  
+
+let e = pick_choice("end") ;
+
+println!("error {:?}", e) ;
+
 }
 ```
-
-faster way to extract data wrapped into `Result` -> use   ==a question mark operator==
-
-
 
 
 

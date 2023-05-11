@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "7 Advanced Concepts",
+      "path": "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md"
+    },
+    {
+      "basename": "UBUNTU",
+      "path": "linux/UBUNTU.md"
+    },
+    {
       "basename": "4 tensorflow.js",
       "path": "A I/SI na Froncie/4 tensorflow.js.md"
     },
@@ -51,10 +59,6 @@
     {
       "basename": "Framework Django",
       "path": "Studia/Python BackEnd/Django/Framework Django.md"
-    },
-    {
-      "basename": "7 Advanced Concepts",
-      "path": "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md"
     },
     {
       "basename": "4.5 TCP",
@@ -179,10 +183,6 @@
     {
       "basename": "4 HTTP Server",
       "path": "R U S T/Learn Rust by Building Real App/4 HTTP Server.md"
-    },
-    {
-      "basename": "UBUNTU",
-      "path": "linux/UBUNTU.md"
     },
     {
       "basename": "4.2 Strings",
