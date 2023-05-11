@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "_ Ultimatet Rust Lang Tutorial",
+      "path": "R U S T/ULTIMATE Rust Lang Tutorial/_ Ultimatet Rust Lang Tutorial.md"
+    },
+    {
       "basename": "7 Advanced Concepts",
       "path": "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "4.1. Prosty serwer i klient TCP",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/4.1. Prosty serwer i klient TCP.md"
-    },
-    {
-      "basename": "4. Tworzenie serwerów",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/4. Tworzenie serwerów.md"
     }
   ],
   "omittedPaths": [],
