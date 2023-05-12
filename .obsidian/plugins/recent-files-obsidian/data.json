@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "_ Ultimatet Rust Lang Tutorial",
-      "path": "R U S T/ULTIMATE Rust Lang Tutorial/_ Ultimatet Rust Lang Tutorial.md"
-    },
-    {
       "basename": "7 Advanced Concepts",
       "path": "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md"
     },
     {
       "basename": "UBUNTU",
       "path": "linux/UBUNTU.md"
+    },
+    {
+      "basename": "prog_klas_a_ucz_maszynowe.excalidraw",
+      "path": "Excalidraw/prog_klas_a_ucz_maszynowe.excalidraw.md"
+    },
+    {
+      "basename": "2 Django",
+      "path": "Studia/Python BackEnd/Django/2 Django.md"
+    },
+    {
+      "basename": "_ Ultimatet Rust Lang Tutorial",
+      "path": "R U S T/ULTIMATE Rust Lang Tutorial/_ Ultimatet Rust Lang Tutorial.md"
     },
     {
       "basename": "4 tensorflow.js",
@@ -27,10 +35,6 @@
     {
       "basename": "2. SI i Uczenie maszynowe",
       "path": "A I/SI na Froncie/2. SI i Uczenie maszynowe.md"
-    },
-    {
-      "basename": "prog_klas_a_ucz_maszynowe.excalidraw",
-      "path": "Excalidraw/prog_klas_a_ucz_maszynowe.excalidraw.md"
     },
     {
       "basename": "_ 0 Uczenie maszynowe z JS",
@@ -55,10 +59,6 @@
     {
       "basename": "2 Types and Functions",
       "path": "HASKELL/Real World Haskell/2 Types and Functions.md"
-    },
-    {
-      "basename": "2 Django",
-      "path": "Studia/Python BackEnd/Django/2 Django.md"
     },
     {
       "basename": "Framework Django",

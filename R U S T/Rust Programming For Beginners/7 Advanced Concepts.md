@@ -129,7 +129,7 @@ enum Discount {
  }
 ```
 
-==If you have some additionall data associated, you have to add them, when you create an instance of `enum`==
+==If you have some additional data associated, you have to add them, when you create an instance of `enum`==
 
 
 -------
@@ -197,7 +197,7 @@ fn main() {
   let tickets = vec![
    Ticket::Backstage(50.0, "Billy".to_owned()) ,
    Ticket::Standard(15.0) ,
-   Ticket::Backstage(30.0, "Amy".to_owned()) ,
+   Ticket::Vip(30.0, "Amy".to_owned()) ,
   ] ;
 
   for ticket in tickets {

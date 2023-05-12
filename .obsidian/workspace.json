@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/UBUNTU.md",
+                "file": "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md",
                 "mode": "source",
                 "source": false
               }
@@ -52,21 +52,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "7cff69ac6763bf57",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "R U S T/ULTIMATE Rust Lang Tutorial/_ Ultimatet Rust Lang Tutorial.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -148,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/ULTIMATE Rust Lang Tutorial/_ Ultimatet Rust Lang Tutorial.md",
+                "file": "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -165,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/ULTIMATE Rust Lang Tutorial/_ Ultimatet Rust Lang Tutorial.md",
+                "file": "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/ULTIMATE Rust Lang Tutorial/_ Ultimatet Rust Lang Tutorial.md"
+                "file": "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md"
               }
             }
           },
@@ -236,24 +223,24 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "7cff69ac6763bf57",
+  "active": "04bccf1dc56dfdd4",
   "lastOpenFiles": [
-    "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md",
-    "R U S T/ULTIMATE Rust Lang Tutorial/_ Ultimatet Rust Lang Tutorial.md",
-    "R U S T/ULTIMATE Rust Lang Tutorial",
     "linux/UBUNTU.md",
+    "Excalidraw/prog_klas_a_ucz_maszynowe.excalidraw.md",
+    "Studia/Python BackEnd/Django/2 Django.md",
+    "R U S T/ULTIMATE Rust Lang Tutorial/_ Ultimatet Rust Lang Tutorial.md",
+    "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md",
+    "R U S T/ULTIMATE Rust Lang Tutorial",
     "A I/SI na Froncie/4 tensorflow.js.md",
     "A I/SI na Froncie/3 AI na froncie.md",
     "A I/SI na Froncie/_ Wprowadzenie SI z JS.md",
     "A I/SI na Froncie/2. SI i Uczenie maszynowe.md",
-    "Excalidraw/prog_klas_a_ucz_maszynowe.excalidraw.md",
     "A I/JS uczenie maszynowe/_ 0 Uczenie maszynowe z JS.md",
     "HASKELL/for_great_good/7.3 Derived instances.md",
     "HASKELL/for_great_good/7.2 Type parameters.md",
     "HASKELL/for_great_good/7.1 Record syntax.md",
     "HASKELL/for_great_good/7 Types and TypeClasses.md",
     "HASKELL/Real World Haskell/2 Types and Functions.md",
-    "Studia/Python BackEnd/Django/2 Django.md",
     "Studia/Python BackEnd/Django/Framework Django.md",
     "R U S T/Learn Rust by Building Real App/4.5 TCP.md",
     "R U S T/Learn Rust by Building Real App/4.4 Organising a Code into Modules.md",
