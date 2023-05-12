@@ -585,6 +585,31 @@ error Err("Menu choice not found")
 
 ```
 
+---
+```rust
+struct Customer {
+	age: i32,
+}
+
+
+fn canBuy(customer: &Customer) ->Result<(), String> {
+	if customer.age < 21 {
+		Err("You doesn't hhave at least 21!!".to_owned())
+	} else {
+		Ok(())
+	}
+}
+
+fn main() {
+	let ashley = Customer {age: 21} ;
+	let purchased = canBuy(&ashley) ;
+	println!("{:?}", purchased) ;
+}
+```
+
+----
+## Result and Question Mark
+
 
 
 
