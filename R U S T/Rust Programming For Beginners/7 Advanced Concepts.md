@@ -646,36 +646,45 @@ fn print_access(emp: &Employee) -> Result<(), String> {
 	let attemp_access = may_enter_building(emp)? ;
 	println!("access ok") ;
 	Ok(())
-
 }
-
-  
 
 fn main(){
+	let manager = Employee {
+		position: Position::AssemblyTech,
+		status: Status::Active,
+	} ;
 
-let manager = Employee {
-
-position: Position::AssemblyTech,
-
-status: Status::Active,
-
-} ;
-
-  
-
-match print_access(&manager) {
-
-Err(e) => println!("access denied: {:?}", e),
-
-_ => (),
-
-}
-
-  
-  
-
+	match print_access(&manager) {
+		Err(e) => println!("access denied: {:?}", e),
+		_ => (),
+	}
 }
 ```
+
+----------
+# Hashmap
+#rust/hashmap 
+
+>[!info] hashmap
+>- collection that stores data as key-value pairs
+>	- data is located using the "key"
+>	- the data is the "value"
+>- similar to definitions in a dictionary
+>- very fast to retrieve data using the key
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
