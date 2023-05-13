@@ -666,13 +666,22 @@ fn main(){
 # Hashmap
 #rust/hashmap 
 
+### `std::collections`
+- sequences Vec, VecDeque, LinkedList
+- maps: `HashMap`, BTreeMap
+- sets: HashSet, BtressSet
+- misc: BinaryHeap
+
+### `use std::collections::HashMap ;`
+
+
 >[!info] hashmap
 >- collection that stores data as key-value pairs
 >	- data is located using the "key"
 >	- the data is the "value"
 >- similar to definitions in a dictionary
 >- very fast to retrieve data using the key
->- data are stored in random  way
+>- data are stored in  arbitrary order 
 
 
 EXAMPLE
