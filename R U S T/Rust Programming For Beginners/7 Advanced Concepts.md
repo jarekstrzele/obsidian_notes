@@ -672,7 +672,7 @@ fn main(){
 >	- the data is the "value"
 >- similar to definitions in a dictionary
 >- very fast to retrieve data using the key
->- data are stored in random 
+>- data are stored in random  way
 
 
 EXAMPLE
