@@ -22,8 +22,7 @@
 • Symulacje naukowe
 • Gry
 
-==programujemy systemowo, skupiamy swoją uwagę na poziomie wykorzy-
-stania zasobów.==
+==programujemy systemowo, skupiamy swoją uwagę na poziomie wykorzystania zasobów.==
 
 
 
