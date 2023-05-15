@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Rust Tutorial Full Course.md",
+                "file": "R U S T/Rust Programming For Beginners/8 Real World.md",
                 "mode": "source",
                 "source": false
               }
@@ -53,6 +53,14 @@
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "2777e08f5afa3f79",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -137,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust Tutorial Full Course.md",
+                "file": "R U S T/Rust Programming For Beginners/8 Real World.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -154,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust Tutorial Full Course.md",
+                "file": "R U S T/Rust Programming For Beginners/8 Real World.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Rust Tutorial Full Course.md"
+                "file": "R U S T/Rust Programming For Beginners/8 Real World.md"
               }
             }
           },
@@ -227,8 +235,8 @@
   },
   "active": "2910357194867f8d",
   "lastOpenFiles": [
-    "R U S T/Untitled.canvas",
     "R U S T/Rust Tutorial Full Course.md",
+    "R U S T/Untitled.canvas",
     "R U S T/atrybut.md",
     "R U S T/Rust Programming For Beginners/8 Real World.md",
     "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md",
