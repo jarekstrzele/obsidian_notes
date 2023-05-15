@@ -33,49 +33,26 @@ fn get_input() -> io::Result<String> {
 #![allow(unused)]
 use std::io;
 
-  
-
 // io module has its own Err type, so
-
 // you don't need to write your own,,
-
 // Err is automatically provided
-
 fn get_input() -> io::Result<String> {
-
-let mut buffer = String::new(); // string buffer
-
-io::stdin().read_line(&mut buffer)? ;
-
-Ok(buffer.trim().to_owned()) // trim remove enter char
-
+	let mut buffer = String::new(); // string buffer
+	io::stdin().read_line(&mut buffer)? ;
+	Ok(buffer.trim().to_owned()) // trim remove enter char
 }
-
-  
-  
 
 fn main() {
-
-let mut all_input = vec![] ;
-
-let mut times_input = 0 ;
-
-while times_input < 2 {
-
-match get_input() {
-
-Ok(words) => {
-
-all_input.push(words) ;
-
-times_input += 1 ;
-
-},
-
-Err(e) => println!("error: {:?}", e),
-
-}
-
+	let mut all_input = vec![] ;
+	let mut times_input = 0 ;
+	while times_input < 2 {
+		match get_input() {
+			Ok(words) => {
+			all_input.push(words) ;
+			times_input += 1 ;
+	},
+	Err(e) => println!("error: {:?}", e),
+	}
 }
 
   
