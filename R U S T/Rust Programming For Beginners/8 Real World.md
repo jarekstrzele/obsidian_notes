@@ -23,7 +23,8 @@ fn get_input() -> io::Result<String> {
 - so the function will be able to acces this buffer in a mutable fushion and CHANGE THE CONTENTS of this BUFFER
 - `?` this function may possible fail
 	- if this fails, we will return an error from the function and the data will not have been read from the terminal
-	- if the data is read properly, hten it will be automatically available within our buffer, we return `Ok(buffer)`, because we return a 
+	- if the data is read properly, hten it will be automatically available within our buffer, we return `Ok(buffer)`, because we return a `Result`
+	- `Ok(buffer.trim().to_owned())` you also need t take ownership of the buffer again, because when we do trim , it just creates a slice, because the data is all there and it only needs to return the data that is not empy spaces (`-> Result<String>` not `-> Resutl<&str>`)
 
 
 
