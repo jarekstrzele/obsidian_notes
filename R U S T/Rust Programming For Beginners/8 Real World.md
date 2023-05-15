@@ -15,7 +15,9 @@ fn get_input() -> io::Result<String> {
 	Ok() ;
 }
 ```
- reads one line of the input from the standard input and save that line into the butter that is borrowing in mutable wau
+ reads one line of the input from the standard input and save that line into the butter that is borrowing in mutable way
+##### `stdin()` returns a structure that has a method `read_line`
+##### `read_line` this function returns Result
 #rust/borrowing 
 *a mutable borrow* 
 - the initial variable must be mutable
