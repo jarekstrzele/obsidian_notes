@@ -18,8 +18,36 @@ vs code - `rust-analyzer`
 
 https://crates.io/
 
+----------
+# app 'what is your name'
 
+```rust
+fn main() {
+	println!("What is your name?") ;
+	let mut name = String::new() ;
+	io::stdin().read_line(&mut name).expect("Didn't Receive Input") ;
+	println!("Hello, world!");
+}
+```
 
+`&mut name` this is a reference to a variable
+`read_line` returns `Result`
+`Result` it is a `enum` and *enum* it is a type that has a fixed number of possible values
+*Result* can return `Ok` or `Err`
+
+```rust
+fn main() {
+	println!("What is your name?") ;
+	let mut name = String::new() ;
+	let greeting = "Nice to meet you" ;
+	io::stdin().read_line(&mut name).expect("Didn't Receive Input") ;
+	println!("Hello, {}! {}", name.trim_end(), greeting);
+}
+```
+
+--------
+# Constant
+`const ONE_MIL = 1_000_000 ;`
 
 
 
