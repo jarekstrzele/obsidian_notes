@@ -29,9 +29,74 @@ fn get_input() -> io::Result<String> {
 	- `Ok(buffer.trim().to_owned())` you also need t take ownership of the buffer again, because when we do trim , it just creates a slice, because the data is all there and it only needs to return the data that is not empy spaces (`-> Result<String>` not `-> Resutl<&str>`)
 
 
+```rust
+#![allow(unused)]
+use std::io;
+
+  
+
+// io module has its own Err type, so
+
+// you don't need to write your own,,
+
+// Err is automatically provided
+
+fn get_input() -> io::Result<String> {
+
+let mut buffer = String::new(); // string buffer
+
+io::stdin().read_line(&mut buffer)? ;
+
+Ok(buffer.trim().to_owned()) // trim remove enter char
+
+}
+
+  
+  
+
+fn main() {
+
+let mut all_input = vec![] ;
+
+let mut times_input = 0 ;
+
+while times_input < 2 {
+
+match get_input() {
+
+Ok(words) => {
+
+all_input.push(words) ;
+
+times_input += 1 ;
+
+},
+
+Err(e) => println!("error: {:?}", e),
+
+}
+
+}
+
+  
+
+for input in all_input {
+
+let a = 10 ;
+
+println!("Original: {}, capitalized: {:?}",
+
+input,
+
+input.to_uppercase())
+
+} ;
+
+}
+```
 
 
-
+----
 
 
 
