@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/8 Real World.md",
+                "file": "A I/SI na Froncie/4 tensorflow.js.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/8 Real World.md",
+                "file": "A I/SI na Froncie/4 tensorflow.js.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/8 Real World.md",
+                "file": "A I/SI na Froncie/4 tensorflow.js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/8 Real World.md"
+                "file": "A I/SI na Froncie/4 tensorflow.js.md"
               }
             }
           },
@@ -235,10 +235,11 @@
   },
   "active": "2910357194867f8d",
   "lastOpenFiles": [
+    "A I/SI na Froncie/3 AI na froncie.md",
+    "R U S T/Rust Programming For Beginners/8 Real World.md",
     "R U S T/Rust Tutorial Full Course.md",
     "R U S T/Untitled.canvas",
     "R U S T/atrybut.md",
-    "R U S T/Rust Programming For Beginners/8 Real World.md",
     "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md",
     "R U S T/Rust Programming For Beginners/4 Data.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/1 Guessing Game in Rust.md",
@@ -253,7 +254,6 @@
     "linux/UBUNTU.md",
     "R U S T/ULTIMATE Rust Lang Tutorial",
     "A I/SI na Froncie/4 tensorflow.js.md",
-    "A I/SI na Froncie/3 AI na froncie.md",
     "A I/SI na Froncie/_ Wprowadzenie SI z JS.md",
     "A I/SI na Froncie/2. SI i Uczenie maszynowe.md",
     "A I/JS uczenie maszynowe/_ 0 Uczenie maszynowe z JS.md",
