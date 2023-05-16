@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "8.2 Interactive billing app",
+      "path": "R U S T/Rust Programming For Beginners/8.2 Interactive billing app.md"
+    },
+    {
       "basename": "8 Real World",
       "path": "R U S T/Rust Programming For Beginners/8 Real World.md"
+    },
+    {
+      "basename": "8.1 User Input",
+      "path": "R U S T/Rust Programming For Beginners/8.1 User Input.md"
+    },
+    {
+      "basename": "7 Advanced Concepts",
+      "path": "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md"
     },
     {
       "basename": "3 AI na froncie",
@@ -19,10 +31,6 @@
     {
       "basename": "atrybut",
       "path": "R U S T/atrybut.md"
-    },
-    {
-      "basename": "7 Advanced Concepts",
-      "path": "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md"
     },
     {
       "basename": "4 Data",
@@ -191,14 +199,6 @@
     {
       "basename": "_ Vim od podstaw",
       "path": "linux/Vim/Vim od podstaw/_ Vim od podstaw.md"
-    },
-    {
-      "basename": "0 _ Vim wprowadzenie",
-      "path": "linux/Vim/Praktyczna administracja Vim/0 _ Vim wprowadzenie.md"
-    },
-    {
-      "basename": "memory_leak",
-      "path": "memory_leak.md"
     }
   ],
   "omittedPaths": [],

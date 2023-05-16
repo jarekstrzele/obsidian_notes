@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/8 Real World.md",
+                "file": "R U S T/Rust Programming For Beginners/8.2 Interactive billing app.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/8 Real World.md",
+                "file": "R U S T/Rust Programming For Beginners/8.2 Interactive billing app.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/8 Real World.md",
+                "file": "R U S T/Rust Programming For Beginners/8.2 Interactive billing app.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/8 Real World.md"
+                "file": "R U S T/Rust Programming For Beginners/8.2 Interactive billing app.md"
               }
             }
           },
@@ -235,13 +235,15 @@
   },
   "active": "2910357194867f8d",
   "lastOpenFiles": [
+    "R U S T/Rust Programming For Beginners/8 Real World.md",
+    "R U S T/Rust Programming For Beginners/8.1 User Input.md",
+    "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md",
+    "R U S T/Rust Programming For Beginners/8.2 Interactive billing app.md",
     "A I/SI na Froncie/3 AI na froncie.md",
     "A I/SI na Froncie/4 tensorflow.js.md",
-    "R U S T/Rust Programming For Beginners/8 Real World.md",
     "R U S T/Rust Tutorial Full Course.md",
     "R U S T/Untitled.canvas",
     "R U S T/atrybut.md",
-    "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md",
     "R U S T/Rust Programming For Beginners/4 Data.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/1 Guessing Game in Rust.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/_ Ultimatet Rust Lang Tutorial.md",
@@ -261,7 +263,6 @@
     "HASKELL/for_great_good/7.2 Type parameters.md",
     "HASKELL/for_great_good/7.1 Record syntax.md",
     "HASKELL/for_great_good/7 Types and TypeClasses.md",
-    "HASKELL/Real World Haskell/2 Types and Functions.md",
     "linux/Vim/Vim od podstaw",
     "_ WEB",
     "_ Desktop/Python",
