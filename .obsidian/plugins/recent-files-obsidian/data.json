@@ -5,6 +5,10 @@
       "path": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md"
     },
     {
+      "basename": "middleware",
+      "path": "middleware.md"
+    },
+    {
       "basename": "3 RESTful API's using Express",
       "path": "_ WEB/N_O_D_E/Mosh Node/3 RESTful API's using Express.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Installing",
       "path": "HASKELL/Installing.md"
-    },
-    {
-      "basename": "_ Vim od podstaw",
-      "path": "linux/Vim/Vim od podstaw/_ Vim od podstaw.md"
     }
   ],
   "omittedPaths": [],
