@@ -59,11 +59,16 @@
             "id": "2777e08f5afa3f79",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "R U S T/Rust Programming For Beginners/8.1 User Input.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -145,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
+                "file": "R U S T/Rust Programming For Beginners/8.1 User Input.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -162,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
+                "file": "R U S T/Rust Programming For Beginners/8.1 User Input.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md"
+                "file": "R U S T/Rust Programming For Beginners/8.1 User Input.md"
               }
             }
           },
@@ -233,10 +238,13 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "2910357194867f8d",
+  "active": "2777e08f5afa3f79",
   "lastOpenFiles": [
-    "middleware.md",
+    "Studia/Python BackEnd/Django/2 Django.md",
+    "Studia/Python BackEnd/Django/Framework Django.md",
+    "R U S T/ULTIMATE Rust Lang Tutorial/_ Ultimatet Rust Lang Tutorial.md",
     "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
+    "middleware.md",
     "_ WEB/N_O_D_E/Mosh Node/3 RESTful API's using Express.md",
     "_ WEB/N_O_D_E/Mosh Node/1 Node Module System.md",
     "_ WEB/N_O_D_E/Mosh Node/_ 0 Node (Mosh).md",
@@ -253,14 +261,11 @@
     "R U S T/atrybut.md",
     "R U S T/Rust Programming For Beginners/4 Data.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/1 Guessing Game in Rust.md",
-    "R U S T/ULTIMATE Rust Lang Tutorial/_ Ultimatet Rust Lang Tutorial.md",
     "R U S T/Programmowanie_w Rust/2. Pierwsze spotkanie z Rustem.md",
     "R U S T/Programmowanie_w Rust/_ Programowanie w języku Rust.md",
     "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md",
     "R U S T/Rust Programming Tutorial/15 Working with Files.md",
     "Excalidraw/prog_klas_a_ucz_maszynowe.excalidraw.md",
-    "Studia/Python BackEnd/Django/Framework Django.md",
-    "Studia/Python BackEnd/Django/2 Django.md",
     "R U S T/ULTIMATE Rust Lang Tutorial",
     "A I/SI na Froncie/_ Wprowadzenie SI z JS.md",
     "linux/Vim/Vim od podstaw",
