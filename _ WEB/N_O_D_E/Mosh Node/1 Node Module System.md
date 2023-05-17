@@ -1,5 +1,19 @@
 [[_ 0 Node (Mosh)]]
 
+---
+[[#Global objects]]
+[[#Modules]]
+	- [[#Create a module]]
+	- [[#Load a module]]
+	- [[#Module Wrapper Function]]
+	- [[#Path Module]]
+	- [[#OS Module]]
+	- [[#FileSystem Module]]
+	- [[#Event Module]]
+	- [[#HTTP Module]]
+
+
+---
 # Global objects
 
 ## in node `global`
