@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ WEB/N_O_D_E/Mosh Node/1 Node Module System.md",
+                "file": "_ WEB/N_O_D_E/Mosh Node/2 Node Package Manager.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ WEB/N_O_D_E/Mosh Node/1 Node Module System.md",
+                "file": "_ WEB/N_O_D_E/Mosh Node/2 Node Package Manager.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ WEB/N_O_D_E/Mosh Node/1 Node Module System.md",
+                "file": "_ WEB/N_O_D_E/Mosh Node/2 Node Package Manager.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ WEB/N_O_D_E/Mosh Node/1 Node Module System.md"
+                "file": "_ WEB/N_O_D_E/Mosh Node/2 Node Package Manager.md"
               }
             }
           },
@@ -235,6 +235,10 @@
   },
   "active": "2910357194867f8d",
   "lastOpenFiles": [
+    "_ WEB/N_O_D_E/Mosh Node/3 RESTful API's using Express.md",
+    "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
+    "_ WEB/N_O_D_E/Mosh Node/2 Node Package Manager.md",
+    "_ WEB/N_O_D_E/Mosh Node/1 Node Module System.md",
     "_ WEB/N_O_D_E/Mosh Node/_ 0 Node (Mosh).md",
     "linux/UBUNTU.md",
     "R U S T/Rust Programming For Beginners/8.1 User Input.md",
@@ -259,10 +263,6 @@
     "R U S T/ULTIMATE Rust Lang Tutorial",
     "A I/SI na Froncie/_ Wprowadzenie SI z JS.md",
     "A I/SI na Froncie/2. SI i Uczenie maszynowe.md",
-    "A I/JS uczenie maszynowe/_ 0 Uczenie maszynowe z JS.md",
-    "HASKELL/for_great_good/7.3 Derived instances.md",
-    "HASKELL/for_great_good/7.2 Type parameters.md",
-    "HASKELL/for_great_good/7.1 Record syntax.md",
     "linux/Vim/Vim od podstaw",
     "_ WEB",
     "_ Desktop/Python",
