@@ -1,8 +1,20 @@
 #rust #youtube #zero_to_master
-
 https://www.youtube.com/watch?v=lzKeecy4OmQ
 
+----
+# Tools
+- rustup ( m)
 
+
+
+
+
+
+
+
+
+
+-----
 # Data types
 - memory only stores binary data
 	- anything can be represented in binary
@@ -71,10 +83,30 @@ always us `else`
 -----
 # loops
 
+`loop` infinite loop
+`while` conditional loop
+
+```rust
+let mut a = 0;
+loop {
+	if a == 5 {
+		break ;
+	}
+	println!("{:?}", a);
+	a = a + 1 ;
+}
+```
 
 
+```rust
+let mut a = 0 ;
+whie a != 5 {
+	println!("{:?}"m a) ;
+	a = a + 1 ;
+}
+```
 
-
+------
 
 
 
