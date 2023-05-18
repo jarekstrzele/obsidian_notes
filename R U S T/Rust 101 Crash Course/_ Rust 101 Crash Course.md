@@ -66,6 +66,20 @@ println!("{life}") ;
 ---
 # Control flow `if`
 `if, else, ` `else if`
+always us `else`
+
+-----
+# loops
+
+
+
+
+
+
+
+
+
+
 
 
 
