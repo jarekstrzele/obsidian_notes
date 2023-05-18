@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md",
+                "file": "R U S T/Programmowanie_w Rust/_ Programowanie w języku Rust.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 372
   },
   "right": {
     "id": "ec7d1a70da2de581",
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md",
+                "file": "R U S T/Programmowanie_w Rust/_ Programowanie w języku Rust.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md",
+                "file": "R U S T/Programmowanie_w Rust/_ Programowanie w języku Rust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md"
+                "file": "R U S T/Programmowanie_w Rust/_ Programowanie w języku Rust.md"
               }
             }
           },
@@ -239,8 +239,9 @@
   },
   "active": "2910357194867f8d",
   "lastOpenFiles": [
-    "_ WEB/N_O_D_E/NodeJS - fullstack/4.3. pliki statyczne.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md",
+    "R U S T/Programowanie w Rust",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/4.3. pliki statyczne.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/4.1. Prosty serwer i klient TCP.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/4. Tworzenie serwerów.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/3 Node praca z Sys. Plików.md",
@@ -264,7 +265,6 @@
     "linux/UBUNTU.md",
     "R U S T/Rust Programming For Beginners/8 Real World.md",
     "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md",
-    "A I/SI na Froncie/3 AI na froncie.md",
     "R U S T/Untitled.canvas",
     "R U S T/ULTIMATE Rust Lang Tutorial",
     "linux/Vim/Vim od podstaw",
@@ -275,7 +275,6 @@
     "R U S T/Programmowanie_w Rust",
     "A I/SI na Froncie",
     "R U S T/Rust Programming For Beginners",
-    "A I/JS uczenie maszynowe",
     "Untitled.canvas"
   ]
 }
