@@ -41,14 +41,31 @@ fn add(a: i32, b: i32) -> i32 {
 }
 ```
 
+----
 
+# Println macro
+- macros expand into additional code
+- `println` prints information to the terminal
+- 
+```rust
+let life = 42 ;
+println("www") ;
+println("{:?}", life) ;
 
+```
+`:}` debug print
+`?` place for data 
 
+```rust
+let life = 42 ;
+println!("{life:?}") ;
+println!("{life}") ;
 
+```
 
-
-
-
+---
+# Control flow `if`
+`if, else, ` `else if`
 
 
 
