@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/4.3. pliki statyczne.md",
+                "file": "R U S T/Rust 101 Crash Course/_ Rust 101 Crash Course.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/4.3. pliki statyczne.md",
+                "file": "R U S T/Rust 101 Crash Course/_ Rust 101 Crash Course.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/4.3. pliki statyczne.md",
+                "file": "R U S T/Rust 101 Crash Course/_ Rust 101 Crash Course.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/4.3. pliki statyczne.md"
+                "file": "R U S T/Rust 101 Crash Course/_ Rust 101 Crash Course.md"
               }
             }
           },
@@ -252,9 +252,11 @@
   },
   "active": "32cf406c5569e3d7",
   "lastOpenFiles": [
+    "_ WEB/N_O_D_E/NodeJS - fullstack/4.3. pliki statyczne.md",
+    "R U S T/Rust 101 Crash Course/_ Rust 101 Crash Course.md",
+    "R U S T/Rust 101 Crash Course",
     "_ WEB/N_O_D_E/NodeJS - fullstack/2.3. Stream.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/2.2. Buffer.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/4.3. pliki statyczne.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/3.4. Przenoszenie i zmiana nazw plików.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/3.3. Tworzenie plików i katalogów.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md",
@@ -278,7 +280,6 @@
     "_ WEB/N_O_D_E/Mosh Node/1 Node Module System.md",
     "_ WEB/N_O_D_E/Mosh Node/_ 0 Node (Mosh).md",
     "_ WEB/N_O_D_E/Mosh Node/2 Node Package Manager.md",
-    "linux/UBUNTU.md",
     "R U S T/Untitled.canvas",
     "R U S T/ULTIMATE Rust Lang Tutorial",
     "linux/Vim/Vim od podstaw",
@@ -288,7 +289,6 @@
     "_ Mobile",
     "R U S T/Programmowanie_w Rust",
     "A I/SI na Froncie",
-    "R U S T/Rust Programming For Beginners",
     "Untitled.canvas"
   ]
 }
