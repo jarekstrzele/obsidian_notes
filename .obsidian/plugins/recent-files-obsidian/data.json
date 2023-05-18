@@ -1,8 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "4.2. Serwer HTTP",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md"
+    },
+    {
+      "basename": "3 Node praca z Sys. Plików",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3 Node praca z Sys. Plików.md"
+    },
+    {
+      "basename": "2.4. Process",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.4. Process.md"
+    },
+    {
+      "basename": "2.3. Stream",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.3. Stream.md"
+    },
+    {
+      "basename": "2.2. Buffer",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.2. Buffer.md"
+    },
+    {
+      "basename": "3 Node Basics",
+      "path": "_ WEB/N_O_D_E/NODE - the complete guide/3 Node Basics.md"
+    },
+    {
+      "basename": "_0 Node Complete Guide",
+      "path": "_ WEB/N_O_D_E/NODE - the complete guide/_0 Node Complete Guide.md"
+    },
+    {
       "basename": "3.1 Express - introducing",
       "path": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md"
+    },
+    {
+      "basename": "middleware",
+      "path": "middleware.md"
     },
     {
       "basename": "8.3. Closer Rust",
@@ -27,10 +59,6 @@
     {
       "basename": "_ Ultimatet Rust Lang Tutorial",
       "path": "R U S T/ULTIMATE Rust Lang Tutorial/_ Ultimatet Rust Lang Tutorial.md"
-    },
-    {
-      "basename": "middleware",
-      "path": "middleware.md"
     },
     {
       "basename": "3 RESTful API's using Express",
@@ -171,34 +199,6 @@
     {
       "basename": "_ Rust by Example",
       "path": "R U S T/Rust by example/_ Rust by Example.md"
-    },
-    {
-      "basename": "6 Data Collections",
-      "path": "R U S T/Rust Programming For Beginners/6 Data Collections.md"
-    },
-    {
-      "basename": "5 Intermediate Concepts",
-      "path": "R U S T/Rust Programming For Beginners/5 Intermediate Concepts.md"
-    },
-    {
-      "basename": "3 Repetition",
-      "path": "R U S T/Rust Programming For Beginners/3 Repetition.md"
-    },
-    {
-      "basename": "1 Getting Started",
-      "path": "HASKELL/Real World Haskell/1 Getting Started.md"
-    },
-    {
-      "basename": "_ Real World Haskell",
-      "path": "HASKELL/Real World Haskell/_ Real World Haskell.md"
-    },
-    {
-      "basename": "6 Modules",
-      "path": "HASKELL/for_great_good/6 Modules.md"
-    },
-    {
-      "basename": "0 - Haskell intro",
-      "path": "HASKELL/for_great_good/0 - Haskell intro.md"
     }
   ],
   "omittedPaths": [],

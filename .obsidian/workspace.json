@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md",
                 "mode": "source",
                 "source": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md"
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md"
               }
             }
           },
@@ -237,16 +237,22 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "f621f21825dbd82d",
+  "active": "2910357194867f8d",
   "lastOpenFiles": [
+    "_ WEB/N_O_D_E/NodeJS - fullstack/3 Node praca z Sys. Plików.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/2.4. Process.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/2.3. Stream.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/2.2. Buffer.md",
+    "_ WEB/N_O_D_E/NODE - the complete guide/3 Node Basics.md",
+    "_ WEB/N_O_D_E/NODE - the complete guide/_0 Node Complete Guide.md",
+    "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
+    "middleware.md",
     "R U S T/Rust Programming For Beginners/8.3. Closer Rust.md",
     "R U S T/Rust Programming For Beginners/8.2 Interactive billing app.md",
     "R U S T/Rust Programming For Beginners/8.1 User Input.md",
     "Studia/Python BackEnd/Django/2 Django.md",
     "Studia/Python BackEnd/Django/Framework Django.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/_ Ultimatet Rust Lang Tutorial.md",
-    "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
-    "middleware.md",
     "_ WEB/N_O_D_E/Mosh Node/3 RESTful API's using Express.md",
     "_ WEB/N_O_D_E/Mosh Node/1 Node Module System.md",
     "_ WEB/N_O_D_E/Mosh Node/_ 0 Node (Mosh).md",
@@ -260,12 +266,6 @@
     "R U S T/Untitled.canvas",
     "R U S T/atrybut.md",
     "R U S T/Rust Programming For Beginners/4 Data.md",
-    "R U S T/ULTIMATE Rust Lang Tutorial/1 Guessing Game in Rust.md",
-    "R U S T/Programmowanie_w Rust/2. Pierwsze spotkanie z Rustem.md",
-    "R U S T/Programmowanie_w Rust/_ Programowanie w języku Rust.md",
-    "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md",
-    "R U S T/Rust Programming Tutorial/15 Working with Files.md",
-    "Excalidraw/prog_klas_a_ucz_maszynowe.excalidraw.md",
     "R U S T/ULTIMATE Rust Lang Tutorial",
     "linux/Vim/Vim od podstaw",
     "_ WEB",
