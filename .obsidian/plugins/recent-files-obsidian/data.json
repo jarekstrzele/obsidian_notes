@@ -5,6 +5,10 @@
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md"
     },
     {
+      "basename": "4.3. pliki statyczne",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/4.3. pliki statyczne.md"
+    },
+    {
       "basename": "4.1. Prosty serwer i klient TCP",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/4.1. Prosty serwer i klient TCP.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_ Learn Rust by Building Apps",
       "path": "R U S T/Learn Rust by Building Real App/_ Learn Rust by Building Apps.md"
-    },
-    {
-      "basename": "2 Making Decisions",
-      "path": "R U S T/Rust Programming For Beginners/2 Making Decisions.md"
     }
   ],
   "omittedPaths": [],
