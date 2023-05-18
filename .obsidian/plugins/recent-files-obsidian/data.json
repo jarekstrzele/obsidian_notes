@@ -5,6 +5,14 @@
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md"
     },
     {
+      "basename": "4.1. Prosty serwer i klient TCP",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/4.1. Prosty serwer i klient TCP.md"
+    },
+    {
+      "basename": "4. Tworzenie serwerów",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/4. Tworzenie serwerów.md"
+    },
+    {
       "basename": "3 Node praca z Sys. Plików",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3 Node praca z Sys. Plików.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "2 Making Decisions",
       "path": "R U S T/Rust Programming For Beginners/2 Making Decisions.md"
-    },
-    {
-      "basename": "_ Rust Programming for Beginners",
-      "path": "R U S T/Rust Programming For Beginners/_ Rust Programming for Beginners.md"
-    },
-    {
-      "basename": "_ Rust by Example",
-      "path": "R U S T/Rust by example/_ Rust by Example.md"
     }
   ],
   "omittedPaths": [],
