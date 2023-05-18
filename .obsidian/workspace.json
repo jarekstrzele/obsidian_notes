@@ -61,14 +61,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/8.2 Interactive billing app.md",
+                "file": "R U S T/Rust Programming For Beginners/8.3. Closer Rust.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 350
   },
   "right": {
     "id": "ec7d1a70da2de581",
@@ -150,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/8.2 Interactive billing app.md",
+                "file": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -167,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/8.2 Interactive billing app.md",
+                "file": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/8.2 Interactive billing app.md"
+                "file": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md"
               }
             }
           },
@@ -238,8 +237,10 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "2777e08f5afa3f79",
+  "active": "f621f21825dbd82d",
   "lastOpenFiles": [
+    "R U S T/Rust Programming For Beginners/8.3. Closer Rust.md",
+    "R U S T/Rust Programming For Beginners/8.2 Interactive billing app.md",
     "R U S T/Rust Programming For Beginners/8.1 User Input.md",
     "Studia/Python BackEnd/Django/2 Django.md",
     "Studia/Python BackEnd/Django/Framework Django.md",
@@ -252,7 +253,6 @@
     "_ WEB/N_O_D_E/Mosh Node/2 Node Package Manager.md",
     "linux/UBUNTU.md",
     "R U S T/Rust Programming For Beginners/8 Real World.md",
-    "R U S T/Rust Programming For Beginners/8.2 Interactive billing app.md",
     "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md",
     "A I/SI na Froncie/3 AI na froncie.md",
     "A I/SI na Froncie/4 tensorflow.js.md",
@@ -267,7 +267,6 @@
     "R U S T/Rust Programming Tutorial/15 Working with Files.md",
     "Excalidraw/prog_klas_a_ucz_maszynowe.excalidraw.md",
     "R U S T/ULTIMATE Rust Lang Tutorial",
-    "A I/SI na Froncie/_ Wprowadzenie SI z JS.md",
     "linux/Vim/Vim od podstaw",
     "_ WEB",
     "_ Desktop/Python",

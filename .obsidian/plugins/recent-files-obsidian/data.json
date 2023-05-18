@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "3.1 Express - introducing",
+      "path": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md"
+    },
+    {
+      "basename": "8.3. Closer Rust",
+      "path": "R U S T/Rust Programming For Beginners/8.3. Closer Rust.md"
+    },
+    {
       "basename": "8.2 Interactive billing app",
       "path": "R U S T/Rust Programming For Beginners/8.2 Interactive billing app.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "_ Ultimatet Rust Lang Tutorial",
       "path": "R U S T/ULTIMATE Rust Lang Tutorial/_ Ultimatet Rust Lang Tutorial.md"
-    },
-    {
-      "basename": "3.1 Express - introducing",
-      "path": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md"
     },
     {
       "basename": "middleware",
@@ -195,10 +199,6 @@
     {
       "basename": "0 - Haskell intro",
       "path": "HASKELL/for_great_good/0 - Haskell intro.md"
-    },
-    {
-      "basename": "Installing",
-      "path": "HASKELL/Installing.md"
     }
   ],
   "omittedPaths": [],
