@@ -61,13 +61,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/8.3. Closer Rust.md",
+                "file": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -149,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Programmowanie_w Rust/_ Programowanie w języku Rust.md",
+                "file": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -166,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Programmowanie_w Rust/_ Programowanie w języku Rust.md",
+                "file": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Programmowanie_w Rust/_ Programowanie w języku Rust.md"
+                "file": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md"
               }
             }
           },
@@ -237,8 +238,10 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "2910357194867f8d",
+  "active": "2777e08f5afa3f79",
   "lastOpenFiles": [
+    "R U S T/Rust Programming For Beginners/8.3. Closer Rust.md",
+    "R U S T/Programmowanie_w Rust/_ Programowanie w języku Rust.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md",
     "R U S T/Programowanie w Rust",
     "_ WEB/N_O_D_E/NodeJS - fullstack/4.3. pliki statyczne.md",
@@ -252,7 +255,6 @@
     "_ WEB/N_O_D_E/NODE - the complete guide/_0 Node Complete Guide.md",
     "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
     "middleware.md",
-    "R U S T/Rust Programming For Beginners/8.3. Closer Rust.md",
     "R U S T/Rust Programming For Beginners/8.2 Interactive billing app.md",
     "R U S T/Rust Programming For Beginners/8.1 User Input.md",
     "Studia/Python BackEnd/Django/2 Django.md",
