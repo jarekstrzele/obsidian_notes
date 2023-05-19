@@ -73,14 +73,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Rust 101 Crash Course/_ Rust 101 Crash Course.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/4.3. pliki statyczne.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust 101 Crash Course/_ Rust 101 Crash Course.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/2.3. Stream.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust 101 Crash Course/_ Rust 101 Crash Course.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/2.3. Stream.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Rust 101 Crash Course/_ Rust 101 Crash Course.md"
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/2.3. Stream.md"
               }
             }
           },
@@ -250,22 +250,23 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "32cf406c5569e3d7",
+  "active": "2777e08f5afa3f79",
   "lastOpenFiles": [
     "_ WEB/N_O_D_E/NodeJS - fullstack/4.3. pliki statyczne.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/4.1.1. tworzenie własnego klienta.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/4.1. Prosty serwer i klient TCP.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/4. Tworzenie serwerów.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/3.4. Przenoszenie i zmiana nazw plików.md",
     "R U S T/Rust 101 Crash Course/_ Rust 101 Crash Course.md",
     "R U S T/Rust 101 Crash Course",
     "_ WEB/N_O_D_E/NodeJS - fullstack/2.3. Stream.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/2.2. Buffer.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/3.4. Przenoszenie i zmiana nazw plików.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/3.3. Tworzenie plików i katalogów.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md",
     "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
     "R U S T/Rust Programming For Beginners/8.3. Closer Rust.md",
     "R U S T/Programmowanie_w Rust/_ Programowanie w języku Rust.md",
     "R U S T/Programowanie w Rust",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/4.1. Prosty serwer i klient TCP.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/4. Tworzenie serwerów.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/3 Node praca z Sys. Plików.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/2.4. Process.md",
     "_ WEB/N_O_D_E/NODE - the complete guide/3 Node Basics.md",
@@ -279,7 +280,6 @@
     "_ WEB/N_O_D_E/Mosh Node/3 RESTful API's using Express.md",
     "_ WEB/N_O_D_E/Mosh Node/1 Node Module System.md",
     "_ WEB/N_O_D_E/Mosh Node/_ 0 Node (Mosh).md",
-    "_ WEB/N_O_D_E/Mosh Node/2 Node Package Manager.md",
     "R U S T/Untitled.canvas",
     "R U S T/ULTIMATE Rust Lang Tutorial",
     "linux/Vim/Vim od podstaw",
