@@ -6,7 +6,6 @@
 ```rust
 use std::{env::{args, Args}, result};
 
-
 fn main() {
     let mut args:Args = args();
   
@@ -58,15 +57,10 @@ change `operate` function
 fn operate(operator: char, first_number: f32, second_number: f32) -> f32 {
 
     match operator {
-
         '+' => first_number + second_number,
-
         '-' => first_number - second_number,
-
         '/' => first_number / second_number,
-
         '*' | 'x' | 'X' => first_number * second_number,
-
         _ => panic!("Invalid operator used.")
 
     }

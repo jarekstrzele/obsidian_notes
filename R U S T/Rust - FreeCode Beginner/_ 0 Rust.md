@@ -52,11 +52,11 @@ Args { inner: ["target\\debug\\calculator.exe"] }
 ```
 
 Wyjaśnienie:
-- kod ypisuje na ekranie argumenty przekazane do programu,
+- kod wypisuje na ekranie argumenty przekazane do programu,
 - uzywa standardowej biblioteki `std`
 - `fn main()`  definicja funkcji, która jest punktem wejścia programu
 - `agrs()` zwraca iterator argumentów podanych przy uruchomieniu programu
-- `println()` makro sł€żące do wypisywania tekstu na ekranie
+- `println()` makro słążące do wypisywania tekstu na ekranie
 - ponieważ przy wywołaniu programu nie przekazano żadnych argumentów, wyświetlono nazwę programu
 [[makro vs function]]
 
