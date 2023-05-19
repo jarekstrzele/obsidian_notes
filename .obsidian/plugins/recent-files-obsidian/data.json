@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "8.4 Map Combinator",
+      "path": "R U S T/Rust Programming For Beginners/8.4 Map Combinator.md"
+    },
+    {
       "basename": "8.3. Closures Rust",
       "path": "R U S T/Rust Programming For Beginners/8.3. Closures Rust.md"
+    },
+    {
+      "basename": "7 Advanced Concepts",
+      "path": "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md"
     },
     {
       "basename": "Framework Django",
@@ -121,10 +129,6 @@
       "path": "R U S T/Rust Programming For Beginners/8 Real World.md"
     },
     {
-      "basename": "7 Advanced Concepts",
-      "path": "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md"
-    },
-    {
       "basename": "3 AI na froncie",
       "path": "A I/SI na Froncie/3 AI na froncie.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2 Types and Functions",
       "path": "HASKELL/Real World Haskell/2 Types and Functions.md"
-    },
-    {
-      "basename": "4.5 TCP",
-      "path": "R U S T/Learn Rust by Building Real App/4.5 TCP.md"
     }
   ],
   "omittedPaths": [],
