@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "8.4 Map Combinator",
+      "path": "R U S T/Rust Programming For Beginners/8.4 Map Combinator.md"
+    },
+    {
       "basename": "_ Rust 101 Crash Course",
       "path": "R U S T/Rust 101 Crash Course/_ Rust 101 Crash Course.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "_ 0 Rust",
       "path": "R U S T/Rust - FreeCode Beginner/_ 0 Rust.md"
-    },
-    {
-      "basename": "8.4 Map Combinator",
-      "path": "R U S T/Rust Programming For Beginners/8.4 Map Combinator.md"
     },
     {
       "basename": "8.3. Closures Rust",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Rust 101 Crash Course/_ Rust 101 Crash Course.md",
+                "file": "R U S T/Rust Programming For Beginners/8.4 Map Combinator.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust 101 Crash Course/_ Rust 101 Crash Course.md",
+                "file": "R U S T/Rust Programming For Beginners/8.4 Map Combinator.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust 101 Crash Course/_ Rust 101 Crash Course.md",
+                "file": "R U S T/Rust Programming For Beginners/8.4 Map Combinator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Rust 101 Crash Course/_ Rust 101 Crash Course.md"
+                "file": "R U S T/Rust Programming For Beginners/8.4 Map Combinator.md"
               }
             }
           },
@@ -203,6 +203,7 @@
   },
   "active": "894eaffd91c2a2a4",
   "lastOpenFiles": [
+    "R U S T/Rust 101 Crash Course/_ Rust 101 Crash Course.md",
     "R U S T/Rust - FreeCode Beginner/2 Rust Combiner.md",
     "R U S T/Rust - FreeCode Beginner/makro vs function.md",
     "R U S T/Rust - FreeCode Beginner/1 Rust Calc.md",
@@ -221,7 +222,6 @@
     "_ WEB/N_O_D_E/NodeJS - fullstack/4.1. Prosty serwer i klient TCP.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/4. Tworzenie serwerów.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/3.4. Przenoszenie i zmiana nazw plików.md",
-    "R U S T/Rust 101 Crash Course/_ Rust 101 Crash Course.md",
     "R U S T/Rust 101 Crash Course",
     "_ WEB/N_O_D_E/NodeJS - fullstack/2.2. Buffer.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/3.3. Tworzenie plików i katalogów.md",
