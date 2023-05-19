@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "_ Rust 101 Crash Course",
+      "path": "R U S T/Rust 101 Crash Course/_ Rust 101 Crash Course.md"
+    },
+    {
       "basename": "2 Rust Combiner",
       "path": "R U S T/Rust - FreeCode Beginner/2 Rust Combiner.md"
+    },
+    {
+      "basename": "makro vs function",
+      "path": "R U S T/Rust - FreeCode Beginner/makro vs function.md"
     },
     {
       "basename": "1 Rust Calc",
@@ -11,10 +19,6 @@
     {
       "basename": "_ 0 Rust",
       "path": "R U S T/Rust - FreeCode Beginner/_ 0 Rust.md"
-    },
-    {
-      "basename": "makro vs function",
-      "path": "R U S T/Rust - FreeCode Beginner/makro vs function.md"
     },
     {
       "basename": "8.4 Map Combinator",
@@ -71,10 +75,6 @@
     {
       "basename": "3.4. Przenoszenie i zmiana nazw plików",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3.4. Przenoszenie i zmiana nazw plików.md"
-    },
-    {
-      "basename": "_ Rust 101 Crash Course",
-      "path": "R U S T/Rust 101 Crash Course/_ Rust 101 Crash Course.md"
     },
     {
       "basename": "2.2. Buffer",
