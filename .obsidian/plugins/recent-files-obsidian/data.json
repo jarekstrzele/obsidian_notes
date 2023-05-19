@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "makro vs function",
+      "path": "R U S T/Rust - FreeCode Beginner/makro vs function.md"
+    },
+    {
+      "basename": "1 Rust Calc",
+      "path": "R U S T/Rust - FreeCode Beginner/1 Rust Calc.md"
+    },
+    {
+      "basename": "_ 0 Rust",
+      "path": "R U S T/Rust - FreeCode Beginner/_ 0 Rust.md"
+    },
+    {
       "basename": "8.4 Map Combinator",
       "path": "R U S T/Rust Programming For Beginners/8.4 Map Combinator.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "7.2 Type parameters",
       "path": "HASKELL/for_great_good/7.2 Type parameters.md"
-    },
-    {
-      "basename": "7.1 Record syntax",
-      "path": "HASKELL/for_great_good/7.1 Record syntax.md"
-    },
-    {
-      "basename": "7 Types and TypeClasses",
-      "path": "HASKELL/for_great_good/7 Types and TypeClasses.md"
-    },
-    {
-      "basename": "2 Types and Functions",
-      "path": "HASKELL/Real World Haskell/2 Types and Functions.md"
     }
   ],
   "omittedPaths": [],

@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=MsocPEZBd-M
 
 
 --------------
-`rustc` the compiler which takes your Rust code and compules it into binary (machine readable code)
+`rustc` the compiler which takes your Rust code and compiles it into binary (machine readable code)
 `rustup` the command line utility to install and update Rust
 `cargo` the Rust build system and package manager
 
