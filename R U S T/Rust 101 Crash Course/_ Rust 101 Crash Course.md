@@ -1,14 +1,30 @@
 #rust #youtube #zero_to_master
 https://www.youtube.com/watch?v=lzKeecy4OmQ
 
+------------
+[[#Tools]]
+[[#Comments]]
+[[#Data types]]
+[[#Variable]]
+[[#Functions]]
+[[#Println macro]]
+[[#Control flow `if`]]
+[[#loops]]
+
+
+
 ----
 # Tools
-- rustup ( m)
+- rustup ( manages Rust installation)
+- VS Code
+- MSVC C++ Build Tools (needed to build on Windows)
 
+### `cargo init projectName`
+### `cargo run`
 
-
-
-
+----
+# Comments
+`// one line comment`
 
 
 
@@ -81,7 +97,7 @@ println!("{life}") ;
 always us `else`
 
 -----
-# loops
+# Loops
 
 `loop` infinite loop
 `while` conditional loop
