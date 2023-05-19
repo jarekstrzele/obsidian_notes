@@ -4,83 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c1b14dbbaa1c95eb",
+        "id": "bc10118b40fd9537",
         "type": "tabs",
         "children": [
           {
-            "id": "2910357194867f8d",
+            "id": "894eaffd91c2a2a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Programmowanie_w Rust/_ Programowanie w języku Rust.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c5f8bc7f565a6992",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "R U S T/ULTIMATE Rust Lang Tutorial/_ Ultimatet Rust Lang Tutorial.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a06c36cdc13f229b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Studia/Python BackEnd/Django/Framework Django.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3a17a7976a72aa13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Studia/Python BackEnd/Django/2 Django.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2777e08f5afa3f79",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/2.3. Stream.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "32cf406c5569e3d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/4.3. pliki statyczne.md",
+                "file": "R U S T/Rust Programming For Beginners/8.3. Closures Rust.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "libff",
+                "query": "ubuntu",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -162,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/2.3. Stream.md",
+                "file": "R U S T/Rust Programming For Beginners/8.3. Closures Rust.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -179,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/2.3. Stream.md",
+                "file": "R U S T/Rust Programming For Beginners/8.3. Closures Rust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/2.3. Stream.md"
+                "file": "R U S T/Rust Programming For Beginners/8.3. Closures Rust.md"
               }
             }
           },
@@ -250,8 +189,13 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "2777e08f5afa3f79",
+  "active": "894eaffd91c2a2a4",
   "lastOpenFiles": [
+    "Studia/Python BackEnd/Django/Framework Django.md",
+    "Studia/Python BackEnd/Django/2 Django.md",
+    "linux/UBUNTU.md",
+    "Data Bases/MongoDB/Master MongoDB/_ 0 Start.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/2.3. Stream.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/4.3. pliki statyczne.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/4.1.1. tworzenie własnego klienta.md",
@@ -260,11 +204,10 @@
     "_ WEB/N_O_D_E/NodeJS - fullstack/3.4. Przenoszenie i zmiana nazw plików.md",
     "R U S T/Rust 101 Crash Course/_ Rust 101 Crash Course.md",
     "R U S T/Rust 101 Crash Course",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/2.3. Stream.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/2.2. Buffer.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/3.3. Tworzenie plików i katalogów.md",
     "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
-    "R U S T/Rust Programming For Beginners/8.3. Closer Rust.md",
+    "R U S T/Rust Programming For Beginners/8.3. Closures Rust.md",
     "R U S T/Programmowanie_w Rust/_ Programowanie w języku Rust.md",
     "R U S T/Programowanie w Rust",
     "_ WEB/N_O_D_E/NodeJS - fullstack/3 Node praca z Sys. Plików.md",
@@ -274,12 +217,8 @@
     "middleware.md",
     "R U S T/Rust Programming For Beginners/8.2 Interactive billing app.md",
     "R U S T/Rust Programming For Beginners/8.1 User Input.md",
-    "Studia/Python BackEnd/Django/2 Django.md",
-    "Studia/Python BackEnd/Django/Framework Django.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/_ Ultimatet Rust Lang Tutorial.md",
     "_ WEB/N_O_D_E/Mosh Node/3 RESTful API's using Express.md",
-    "_ WEB/N_O_D_E/Mosh Node/1 Node Module System.md",
-    "_ WEB/N_O_D_E/Mosh Node/_ 0 Node (Mosh).md",
     "R U S T/Untitled.canvas",
     "R U S T/ULTIMATE Rust Lang Tutorial",
     "linux/Vim/Vim od podstaw",

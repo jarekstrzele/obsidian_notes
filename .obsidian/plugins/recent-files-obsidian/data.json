@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "8.3. Closures Rust",
+      "path": "R U S T/Rust Programming For Beginners/8.3. Closures Rust.md"
+    },
+    {
+      "basename": "Framework Django",
+      "path": "Studia/Python BackEnd/Django/Framework Django.md"
+    },
+    {
+      "basename": "2 Django",
+      "path": "Studia/Python BackEnd/Django/2 Django.md"
+    },
+    {
+      "basename": "UBUNTU",
+      "path": "linux/UBUNTU.md"
+    },
+    {
+      "basename": "_ 0 Start",
+      "path": "Data Bases/MongoDB/Master MongoDB/_ 0 Start.md"
+    },
+    {
       "basename": "2.3. Stream",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.3. Stream.md"
     },
@@ -45,10 +65,6 @@
       "path": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md"
     },
     {
-      "basename": "8.3. Closer Rust",
-      "path": "R U S T/Rust Programming For Beginners/8.3. Closer Rust.md"
-    },
-    {
       "basename": "_ Programowanie w języku Rust",
       "path": "R U S T/Programmowanie_w Rust/_ Programowanie w języku Rust.md"
     },
@@ -81,14 +97,6 @@
       "path": "R U S T/Rust Programming For Beginners/8.1 User Input.md"
     },
     {
-      "basename": "2 Django",
-      "path": "Studia/Python BackEnd/Django/2 Django.md"
-    },
-    {
-      "basename": "Framework Django",
-      "path": "Studia/Python BackEnd/Django/Framework Django.md"
-    },
-    {
       "basename": "_ Ultimatet Rust Lang Tutorial",
       "path": "R U S T/ULTIMATE Rust Lang Tutorial/_ Ultimatet Rust Lang Tutorial.md"
     },
@@ -107,10 +115,6 @@
     {
       "basename": "2 Node Package Manager",
       "path": "_ WEB/N_O_D_E/Mosh Node/2 Node Package Manager.md"
-    },
-    {
-      "basename": "UBUNTU",
-      "path": "linux/UBUNTU.md"
     },
     {
       "basename": "8 Real World",
@@ -195,10 +199,6 @@
     {
       "basename": "4.5 TCP",
       "path": "R U S T/Learn Rust by Building Real App/4.5 TCP.md"
-    },
-    {
-      "basename": "4.4 Organising a Code into Modules",
-      "path": "R U S T/Learn Rust by Building Real App/4.4 Organising a Code into Modules.md"
     }
   ],
   "omittedPaths": [],
