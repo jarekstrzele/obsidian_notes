@@ -3,7 +3,7 @@
 
 ----
 [[#Structs]]
-[[#Struct Tuples]]
+[[#Tuple Struct]]
 [[#Imp]]
 
 ------
@@ -50,7 +50,7 @@ output:
 ```
 
 ---
-# Struct Tuples
+#  Tuple Struct
 ```rust
 struct Color(u8, u8, u8) ;
 

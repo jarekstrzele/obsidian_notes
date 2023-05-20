@@ -105,7 +105,7 @@ output
 RGB - red: 0 green 0 blue 255
 ```
 
-this code print has an erro
+this code print has an error
 ```rust
 struct Color{
   red: u8,

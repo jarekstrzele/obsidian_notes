@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "12 String",
+      "path": "R U S T/Rust Programming Tutorial/12 String.md"
+    },
+    {
       "basename": "10 Structs",
       "path": "R U S T/Rust Programming Tutorial/10 Structs.md"
+    },
+    {
+      "basename": "9 Reference",
+      "path": "R U S T/Rust Programming Tutorial/9 Reference.md"
+    },
+    {
+      "basename": "15 Working with Files",
+      "path": "R U S T/Rust Programming Tutorial/15 Working with Files.md"
+    },
+    {
+      "basename": "13 Traits",
+      "path": "R U S T/Rust Programming Tutorial/13 Traits.md"
     },
     {
       "basename": "8 Funcs, Blocks, Shadowing",
@@ -15,14 +31,6 @@
     {
       "basename": "5 Enum Types",
       "path": "R U S T/Rust Programming Tutorial/5 Enum Types.md"
-    },
-    {
-      "basename": "9 Reference",
-      "path": "R U S T/Rust Programming Tutorial/9 Reference.md"
-    },
-    {
-      "basename": "13 Traits",
-      "path": "R U S T/Rust Programming Tutorial/13 Traits.md"
     },
     {
       "basename": "6 Constants",
@@ -191,14 +199,6 @@
     {
       "basename": "4 tensorflow.js",
       "path": "A I/SI na Froncie/4 tensorflow.js.md"
-    },
-    {
-      "basename": "Rust Tutorial Full Course",
-      "path": "R U S T/Rust Tutorial Full Course.md"
-    },
-    {
-      "basename": "atrybut",
-      "path": "R U S T/atrybut.md"
     }
   ],
   "omittedPaths": [],
