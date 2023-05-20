@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "5 Enum Types",
+      "path": "R U S T/Rust Programming Tutorial/5 Enum Types.md"
+    },
+    {
+      "basename": "6 Constants",
+      "path": "R U S T/Rust Programming Tutorial/6 Constants.md"
+    },
+    {
+      "basename": "3 If statement",
+      "path": "R U S T/Rust Programming Tutorial/3 If statement.md"
+    },
+    {
+      "basename": "2 Variables",
+      "path": "R U S T/Rust Programming Tutorial/2 Variables.md"
+    },
+    {
+      "basename": "1 Hello World App",
+      "path": "R U S T/Rust Programming Tutorial/1 Hello World App.md"
+    },
+    {
+      "basename": "_ Rust Programming Tutorial",
+      "path": "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md"
+    },
+    {
       "basename": "8.4 Map Combinator",
       "path": "R U S T/Rust Programming For Beginners/8.4 Map Combinator.md"
     },
@@ -173,32 +197,8 @@
       "path": "R U S T/Programmowanie_w Rust/2. Pierwsze spotkanie z Rustem.md"
     },
     {
-      "basename": "_ Rust Programming Tutorial",
-      "path": "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md"
-    },
-    {
       "basename": "15 Working with Files",
       "path": "R U S T/Rust Programming Tutorial/15 Working with Files.md"
-    },
-    {
-      "basename": "prog_klas_a_ucz_maszynowe.excalidraw",
-      "path": "Excalidraw/prog_klas_a_ucz_maszynowe.excalidraw.md"
-    },
-    {
-      "basename": "_ Wprowadzenie SI z JS",
-      "path": "A I/SI na Froncie/_ Wprowadzenie SI z JS.md"
-    },
-    {
-      "basename": "2. SI i Uczenie maszynowe",
-      "path": "A I/SI na Froncie/2. SI i Uczenie maszynowe.md"
-    },
-    {
-      "basename": "_ 0 Uczenie maszynowe z JS",
-      "path": "A I/JS uczenie maszynowe/_ 0 Uczenie maszynowe z JS.md"
-    },
-    {
-      "basename": "7.3 Derived instances",
-      "path": "HASKELL/for_great_good/7.3 Derived instances.md"
     }
   ],
   "omittedPaths": [],
