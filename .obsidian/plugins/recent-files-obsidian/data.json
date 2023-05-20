@@ -1,20 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "13 Traits",
-      "path": "R U S T/Rust Programming Tutorial/13 Traits.md"
+      "basename": "_ Rust Programming Tutorial",
+      "path": "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md"
+    },
+    {
+      "basename": "9 Reference",
+      "path": "R U S T/Rust Programming Tutorial/9 Reference.md"
+    },
+    {
+      "basename": "17 Pattern matching",
+      "path": "R U S T/Rust Programming Tutorial/17 Pattern matching.md"
     },
     {
       "basename": "15 Working with Files",
       "path": "R U S T/Rust Programming Tutorial/15 Working with Files.md"
     },
     {
-      "basename": "16 Command Line args",
-      "path": "R U S T/Rust Programming Tutorial/16 Command Line args.md"
+      "basename": "13 Traits",
+      "path": "R U S T/Rust Programming Tutorial/13 Traits.md"
     },
     {
       "basename": "14. Vectors",
       "path": "R U S T/Rust Programming Tutorial/14. Vectors.md"
+    },
+    {
+      "basename": "16 Command Line args",
+      "path": "R U S T/Rust Programming Tutorial/16 Command Line args.md"
     },
     {
       "basename": "12 String",
@@ -25,16 +37,8 @@
       "path": "R U S T/Rust Programming Tutorial/10 Structs.md"
     },
     {
-      "basename": "9 Reference",
-      "path": "R U S T/Rust Programming Tutorial/9 Reference.md"
-    },
-    {
       "basename": "8 Funcs, Blocks, Shadowing",
       "path": "R U S T/Rust Programming Tutorial/8 Funcs, Blocks, Shadowing.md"
-    },
-    {
-      "basename": "_ Rust Programming Tutorial",
-      "path": "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md"
     },
     {
       "basename": "5 Enum Types",
@@ -195,10 +199,6 @@
     {
       "basename": "2 Node Package Manager",
       "path": "_ WEB/N_O_D_E/Mosh Node/2 Node Package Manager.md"
-    },
-    {
-      "basename": "8 Real World",
-      "path": "R U S T/Rust Programming For Beginners/8 Real World.md"
     }
   ],
   "omittedPaths": [],
