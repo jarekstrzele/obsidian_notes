@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Rust Programming Tutorial/12 String.md",
+                "file": "R U S T/Rust Programming Tutorial/16 Command Line args.md",
                 "mode": "source",
                 "source": false
               }
@@ -26,6 +26,18 @@
               "type": "markdown",
               "state": {
                 "file": "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b378246ff9e76088",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "R U S T/Rust Programming Tutorial/13 Traits.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust Programming Tutorial/12 String.md",
+                "file": "R U S T/Rust Programming Tutorial/16 Command Line args.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -130,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust Programming Tutorial/12 String.md",
+                "file": "R U S T/Rust Programming Tutorial/16 Command Line args.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Rust Programming Tutorial/12 String.md"
+                "file": "R U S T/Rust Programming Tutorial/16 Command Line args.md"
               }
             }
           },
@@ -203,11 +215,13 @@
   },
   "active": "894eaffd91c2a2a4",
   "lastOpenFiles": [
+    "R U S T/Rust Programming Tutorial/15 Working with Files.md",
+    "R U S T/Rust Programming Tutorial/16 Command Line args.md",
+    "R U S T/Rust Programming Tutorial/13 Traits.md",
+    "R U S T/Rust Programming Tutorial/14. Vectors.md",
+    "R U S T/Rust Programming Tutorial/12 String.md",
     "R U S T/Rust Programming Tutorial/10 Structs.md",
     "R U S T/Rust Programming Tutorial/9 Reference.md",
-    "R U S T/Rust Programming Tutorial/12 String.md",
-    "R U S T/Rust Programming Tutorial/15 Working with Files.md",
-    "R U S T/Rust Programming Tutorial/13 Traits.md",
     "R U S T/Rust Programming Tutorial/8 Funcs, Blocks, Shadowing.md",
     "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md",
     "R U S T/Rust Programming Tutorial/5 Enum Types.md",
@@ -227,8 +241,6 @@
     "Studia/Python BackEnd/Django/2 Django.md",
     "linux/UBUNTU.md",
     "Data Bases/MongoDB/Master MongoDB/_ 0 Start.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/2.3. Stream.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/4.3. pliki statyczne.md",
     "R U S T/Rust 101 Crash Course",
     "R U S T/Programowanie w Rust",
     "R U S T/Untitled.canvas",

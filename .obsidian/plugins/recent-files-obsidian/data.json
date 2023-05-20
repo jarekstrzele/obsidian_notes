@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "16 Command Line args",
+      "path": "R U S T/Rust Programming Tutorial/16 Command Line args.md"
+    },
+    {
+      "basename": "15 Working with Files",
+      "path": "R U S T/Rust Programming Tutorial/15 Working with Files.md"
+    },
+    {
+      "basename": "13 Traits",
+      "path": "R U S T/Rust Programming Tutorial/13 Traits.md"
+    },
+    {
+      "basename": "14. Vectors",
+      "path": "R U S T/Rust Programming Tutorial/14. Vectors.md"
+    },
+    {
       "basename": "12 String",
       "path": "R U S T/Rust Programming Tutorial/12 String.md"
     },
@@ -11,14 +27,6 @@
     {
       "basename": "9 Reference",
       "path": "R U S T/Rust Programming Tutorial/9 Reference.md"
-    },
-    {
-      "basename": "15 Working with Files",
-      "path": "R U S T/Rust Programming Tutorial/15 Working with Files.md"
-    },
-    {
-      "basename": "13 Traits",
-      "path": "R U S T/Rust Programming Tutorial/13 Traits.md"
     },
     {
       "basename": "8 Funcs, Blocks, Shadowing",
@@ -191,14 +199,6 @@
     {
       "basename": "8 Real World",
       "path": "R U S T/Rust Programming For Beginners/8 Real World.md"
-    },
-    {
-      "basename": "3 AI na froncie",
-      "path": "A I/SI na Froncie/3 AI na froncie.md"
-    },
-    {
-      "basename": "4 tensorflow.js",
-      "path": "A I/SI na Froncie/4 tensorflow.js.md"
     }
   ],
   "omittedPaths": [],
