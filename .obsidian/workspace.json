@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Rust Programming Tutorial/9 Reference.md",
+                "file": "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust Programming Tutorial/9 Reference.md",
+                "file": "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust Programming Tutorial/9 Reference.md",
+                "file": "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Rust Programming Tutorial/9 Reference.md"
+                "file": "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md"
               }
             }
           },
@@ -203,6 +203,8 @@
   },
   "active": "894eaffd91c2a2a4",
   "lastOpenFiles": [
+    "R U S T/Rust Programming Tutorial/10 Structs.md",
+    "R U S T/Rust Programming Tutorial/9 Reference.md",
     "R U S T/Rust Programming Tutorial/13 Traits.md",
     "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md",
     "R U S T/Rust Programming Tutorial/5 Enum Types.md",
@@ -227,8 +229,6 @@
     "_ WEB/N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/4.1.1. tworzenie własnego klienta.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/4.1. Prosty serwer i klient TCP.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/4. Tworzenie serwerów.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/3.4. Przenoszenie i zmiana nazw plików.md",
     "R U S T/Rust 101 Crash Course",
     "R U S T/Programowanie w Rust",
     "R U S T/Untitled.canvas",

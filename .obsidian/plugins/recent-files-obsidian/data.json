@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "_ Rust Programming Tutorial",
+      "path": "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md"
+    },
+    {
+      "basename": "10 Structs",
+      "path": "R U S T/Rust Programming Tutorial/10 Structs.md"
+    },
+    {
       "basename": "9 Reference",
       "path": "R U S T/Rust Programming Tutorial/9 Reference.md"
     },
     {
       "basename": "13 Traits",
       "path": "R U S T/Rust Programming Tutorial/13 Traits.md"
-    },
-    {
-      "basename": "_ Rust Programming Tutorial",
-      "path": "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md"
     },
     {
       "basename": "5 Enum Types",
@@ -195,10 +199,6 @@
     {
       "basename": "4 Data",
       "path": "R U S T/Rust Programming For Beginners/4 Data.md"
-    },
-    {
-      "basename": "1 Guessing Game in Rust",
-      "path": "R U S T/ULTIMATE Rust Lang Tutorial/1 Guessing Game in Rust.md"
     }
   ],
   "omittedPaths": [],
