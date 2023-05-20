@@ -1,10 +1,7 @@
 also see: [[9 Reference]]
 [[_ Rust Programming Tutorial]]
 
-
-
 ```rust
-
 fn main(){
 	print_num_to(10);
 }
