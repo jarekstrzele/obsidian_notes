@@ -9,6 +9,18 @@ fn main() {
 		println!("{}", arg) ;
 	}
 }
+
+-----
+$ cargo run 
+--> output:
+	target/debug/command_lind_args
+
+$ cargo run arg1 arg2 
+--> output:
+	target/debug/command_lind_args
+	arg1
+	arg2
+
 ```
 
 
