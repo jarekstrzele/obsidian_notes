@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Rust Programming Tutorial/13 Traits.md",
+                "file": "R U S T/Rust Programming Tutorial/9 Reference.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust Programming Tutorial/13 Traits.md",
+                "file": "R U S T/Rust Programming Tutorial/9 Reference.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust Programming Tutorial/13 Traits.md",
+                "file": "R U S T/Rust Programming Tutorial/9 Reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Rust Programming Tutorial/13 Traits.md"
+                "file": "R U S T/Rust Programming Tutorial/9 Reference.md"
               }
             }
           },
@@ -203,6 +203,7 @@
   },
   "active": "894eaffd91c2a2a4",
   "lastOpenFiles": [
+    "R U S T/Rust Programming Tutorial/13 Traits.md",
     "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md",
     "R U S T/Rust Programming Tutorial/5 Enum Types.md",
     "R U S T/Rust Programming Tutorial/6 Constants.md",
@@ -229,7 +230,6 @@
     "_ WEB/N_O_D_E/NodeJS - fullstack/4. Tworzenie serwerów.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/3.4. Przenoszenie i zmiana nazw plików.md",
     "R U S T/Rust 101 Crash Course",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/2.2. Buffer.md",
     "R U S T/Programowanie w Rust",
     "R U S T/Untitled.canvas",
     "R U S T/ULTIMATE Rust Lang Tutorial",
