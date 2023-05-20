@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md",
+                "file": "R U S T/Rust Programming Tutorial/17 Pattern matching.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md",
+                "file": "R U S T/Rust Programming Tutorial/17 Pattern matching.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md",
+                "file": "R U S T/Rust Programming Tutorial/17 Pattern matching.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md"
+                "file": "R U S T/Rust Programming Tutorial/17 Pattern matching.md"
               }
             }
           },
@@ -215,8 +215,8 @@
   },
   "active": "894eaffd91c2a2a4",
   "lastOpenFiles": [
-    "R U S T/Rust Programming Tutorial/9 Reference.md",
     "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md",
+    "R U S T/Rust Programming Tutorial/9 Reference.md",
     "R U S T/Rust Programming Tutorial/17 Pattern matching.md",
     "R U S T/Rust Programming Tutorial/15 Working with Files.md",
     "R U S T/Rust Programming Tutorial/13 Traits.md",
