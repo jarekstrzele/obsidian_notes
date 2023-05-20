@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "13 Traits",
+      "path": "R U S T/Rust Programming Tutorial/13 Traits.md"
+    },
+    {
+      "basename": "_ Rust Programming Tutorial",
+      "path": "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md"
+    },
+    {
       "basename": "5 Enum Types",
       "path": "R U S T/Rust Programming Tutorial/5 Enum Types.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "1 Hello World App",
       "path": "R U S T/Rust Programming Tutorial/1 Hello World App.md"
-    },
-    {
-      "basename": "_ Rust Programming Tutorial",
-      "path": "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md"
     },
     {
       "basename": "8.4 Map Combinator",
@@ -195,10 +199,6 @@
     {
       "basename": "2. Pierwsze spotkanie z Rustem",
       "path": "R U S T/Programmowanie_w Rust/2. Pierwsze spotkanie z Rustem.md"
-    },
-    {
-      "basename": "15 Working with Files",
-      "path": "R U S T/Rust Programming Tutorial/15 Working with Files.md"
     }
   ],
   "omittedPaths": [],
