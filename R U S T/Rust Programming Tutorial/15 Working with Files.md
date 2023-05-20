@@ -1,5 +1,19 @@
 #rust/file
 
+---
+[[#generally]]
+[[#Open a file]]
+[[#Write to a file]]
+
+
+
+
+
+
+
+----
+
+# generally
 ```rust
 use std::fs::File ; 
 use std::io::prelude::* ;
@@ -19,6 +33,9 @@ use std::io::prelude::* ;
 
 > The `::` operator can also be used in conjunction with type aliases or associated types to refer to types that are associated with a particular trait or structure. For example, if a trait defines an associated type named `Output`, we can refer to it as `TraitName::Output`.
 
+
+-----
+# Open a file
 ```rust
 use std::fs::File ;
 use std::io::prelude::* ;
@@ -37,7 +54,23 @@ fn main() {
 }
 ```
 
+---
+# Write to a file
 
+```rust
+use std::fs::File ;
+use std::io::prelude::* ;
+
+
+fn main() {
+	let mut file = File::create("ouput.txt")
+		.expect("Could not create file!") ;
+	
+	file.write_all(b"Welcome to dcode")
+		.expect("Cannot write to the file!") ;
+
+ }
+```
 
 
 

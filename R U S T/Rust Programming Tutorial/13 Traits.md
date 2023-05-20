@@ -6,6 +6,8 @@
 
 By implementing the `ToString` trait for your `Person` struct, you are essentially saying that any `Person` object can be converted to a string using the `to_string` method. This means that you can use the `to_string` method on any `Person` object, regardless of where it comes from or how it was created. It also means that other code that expects a `ToString` object can also accept a `Person` object as input.
 
+---
+# Built-in traits
 ```rust
 struct Person {
   name: String,
@@ -29,6 +31,9 @@ fn main(){
 }
 ```
 
+
+-------
+# Your own traits
 
 
 
