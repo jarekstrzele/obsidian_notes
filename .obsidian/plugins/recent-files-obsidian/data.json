@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "19 HashMap",
+      "path": "R U S T/Rust Programming Tutorial/19 HashMap.md"
+    },
+    {
       "basename": "18 Taking the input",
       "path": "R U S T/Rust Programming Tutorial/18 Taking the input.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "1 Node Module System",
       "path": "_ WEB/N_O_D_E/Mosh Node/1 Node Module System.md"
-    },
-    {
-      "basename": "_ 0 Node (Mosh)",
-      "path": "_ WEB/N_O_D_E/Mosh Node/_ 0 Node (Mosh).md"
     }
   ],
   "omittedPaths": [],
