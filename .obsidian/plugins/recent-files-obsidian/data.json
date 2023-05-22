@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "20 Numbers",
+      "path": "R U S T/Rust Programming Tutorial/20 Numbers.md"
+    },
+    {
       "basename": "19 HashMap",
       "path": "R U S T/Rust Programming Tutorial/19 HashMap.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "3 RESTful API's using Express",
       "path": "_ WEB/N_O_D_E/Mosh Node/3 RESTful API's using Express.md"
-    },
-    {
-      "basename": "1 Node Module System",
-      "path": "_ WEB/N_O_D_E/Mosh Node/1 Node Module System.md"
     }
   ],
   "omittedPaths": [],
