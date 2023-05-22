@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "12 String",
+      "path": "R U S T/Rust Programming Tutorial/12 String.md"
+    },
+    {
       "basename": "20 Numbers",
       "path": "R U S T/Rust Programming Tutorial/20 Numbers.md"
     },
@@ -39,10 +43,6 @@
     {
       "basename": "16 Command Line args",
       "path": "R U S T/Rust Programming Tutorial/16 Command Line args.md"
-    },
-    {
-      "basename": "12 String",
-      "path": "R U S T/Rust Programming Tutorial/12 String.md"
     },
     {
       "basename": "10 Structs",

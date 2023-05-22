@@ -2,6 +2,10 @@
 https://www.youtube.com/watch?v=ABYdoxzNJJ8
 [[_ Rust Programming Tutorial]]
 
+
+--------------
+# String
+
 ```rust
 fn main(){
  let mut my_string = String::from("My first string in Rust") ;
@@ -40,6 +44,8 @@ After .push:
 ```
 
 
+--------
+# String Methods
 
 
 
