@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md",
+                "file": "JAVASCRIPT/Functional/0- Intro functional programming (beginner udemy).md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md",
+                "file": "JAVASCRIPT/Functional/0- Intro functional programming (beginner udemy).md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md",
+                "file": "JAVASCRIPT/Functional/0- Intro functional programming (beginner udemy).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md"
+                "file": "JAVASCRIPT/Functional/0- Intro functional programming (beginner udemy).md"
               }
             }
           },
@@ -215,10 +215,17 @@
   },
   "active": "894eaffd91c2a2a4",
   "lastOpenFiles": [
+    "JAVASCRIPT/Functional/Types of functions.md",
+    "JAVASCRIPT/Functional/Reduce.md",
+    "JAVASCRIPT/Functional/Modify arrays in immutable way.md",
+    "JAVASCRIPT/Functional/Currying.md",
+    "JAVASCRIPT/Functional/8.1. Data Model.md",
+    "JAVASCRIPT/Functional/0- Intro functional programming (beginner udemy).md",
+    "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md",
+    "R U S T/ULTIMATE Rust Lang Tutorial/_ Ultimate Rust Lang Tutorial.md",
     "R U S T/Rust Programming Tutorial/24 Run in CLI.md",
     "R U S T/Rust Programming Tutorial/25 Test Rust.md",
     "R U S T/Rust Programming Tutorial/26 JSON Rust.md",
-    "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md",
     "R U S T/Rust Programming Tutorial/8 Funcs, Blocks, Shadowing.md",
     "R U S T/Rust Programming Tutorial/9 Reference.md",
     "R U S T/Rust Programming Tutorial/10 Structs.md",
@@ -234,13 +241,6 @@
     "R U S T/Rust Programming Tutorial/20 Numbers.md",
     "R U S T/Rust Programming Tutorial/21 Regex Regular Expressions.md",
     "R U S T/Rust Programming Tutorial/22 Option (Enum).md",
-    "R U S T/Rust Programming Tutorial/23 HTTP Get Request.md",
-    "R U S T/Rust Programming Tutorial/5 Enum.md",
-    "R U S T/Rust Programming Tutorial/6 Constants.md",
-    "R U S T/Rust Programming Tutorial/3 If statement.md",
-    "R U S T/Rust Programming Tutorial/2 Variables.md",
-    "R U S T/Rust Programming Tutorial/1 Hello World App.md",
-    "R U S T/Rust Programming For Beginners/8.4 Map Combinator.md",
     "R U S T/Rust 101 Crash Course",
     "R U S T/Programowanie w Rust",
     "R U S T/Untitled.canvas",
