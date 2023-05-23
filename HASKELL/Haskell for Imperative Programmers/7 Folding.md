@@ -69,6 +69,7 @@ main :: IO ()
 main = do
   print $ rev [1,2,3,4]
 ```
+
 ```
 [1,2,3,4]
 foldl(\[] 1 -> 1:[])
