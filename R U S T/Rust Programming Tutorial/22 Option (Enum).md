@@ -1,5 +1,5 @@
 #rust/option #rust/enum 
-[[5 Enum Types]]
+[[5 Enum]]
 
 #### `Option` represents either **a value** (**Some( )**) or **no value** (**None**)
 

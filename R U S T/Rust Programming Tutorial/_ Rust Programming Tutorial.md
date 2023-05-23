@@ -6,7 +6,7 @@ https://www.youtube.com/watch?v=vOMJlQ5B-M0&list=PLVvjrrRCBy2JSHf9tGxGKJ-bYAN_uD
 [[2 Variables]]
 [[3 If statement]]
 [[4 Loops]]
-[[5 Enum Types]]
+[[5 Enum]]
 [[6 Constants]]
 [[7 Tuples]]
 [[8 Funcs, Blocks, Shadowing]]

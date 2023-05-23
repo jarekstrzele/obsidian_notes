@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "5 Enum",
+      "path": "R U S T/Rust Programming Tutorial/5 Enum.md"
+    },
+    {
+      "basename": "_ Rust Programming Tutorial",
+      "path": "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md"
+    },
+    {
       "basename": "23 HTTP Get Request",
       "path": "R U S T/Rust Programming Tutorial/23 HTTP Get Request.md"
     },
     {
       "basename": "22 Option (Enum)",
       "path": "R U S T/Rust Programming Tutorial/22 Option (Enum).md"
-    },
-    {
-      "basename": "5 Enum Types",
-      "path": "R U S T/Rust Programming Tutorial/5 Enum Types.md"
     },
     {
       "basename": "15 Files - working with them",
@@ -27,10 +31,6 @@
     {
       "basename": "10 Structs",
       "path": "R U S T/Rust Programming Tutorial/10 Structs.md"
-    },
-    {
-      "basename": "_ Rust Programming Tutorial",
-      "path": "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md"
     },
     {
       "basename": "21 Regex Regular Expressions",
