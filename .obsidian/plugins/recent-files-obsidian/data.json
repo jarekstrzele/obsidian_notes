@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "_ 0 Haskell for Imperative Programmers",
+      "path": "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md"
+    },
+    {
       "basename": "26 JSON Rust",
       "path": "R U S T/Rust Programming Tutorial/26 JSON Rust.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2.3. Stream",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.3. Stream.md"
-    },
-    {
-      "basename": "4.3. pliki statyczne",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/4.3. pliki statyczne.md"
     }
   ],
   "omittedPaths": [],
