@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "5 Partial Function Application and Currying",
+      "path": "HASKELL/Haskell for Imperative Programmers/5 Partial Function Application and Currying.md"
+    },
+    {
       "basename": "4 Higher Order Functions",
       "path": "HASKELL/Haskell for Imperative Programmers/4 Higher Order Functions.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "7 Advanced Concepts",
       "path": "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md"
-    },
-    {
-      "basename": "Framework Django",
-      "path": "Studia/Python BackEnd/Django/Framework Django.md"
     }
   ],
   "omittedPaths": [],
