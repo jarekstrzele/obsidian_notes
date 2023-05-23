@@ -9,8 +9,6 @@ https://www.youtube.com/watch?v=AN-P1-IvsKQ&list=PLe7Ei6viL6jGp1Rfu0dil1JH1SHk9b
 [[#Lists]]
 [[#Tuples]]
 
-
-
 ---
 # Lists
 - only one type 
@@ -62,8 +60,8 @@ ghci> [(x,y) | x <-[1,2,3,4], y<-['a','b'] ]
 
 ---------
 # Tuples
-- can have multiple types element
-- 
+#### ==can have multiple types element==
+ 
 ```haskell
 ghci> let (x,y) = (1,2) in x
 1

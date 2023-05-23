@@ -22,9 +22,9 @@ fac n = aux n 1
 			| otherwise = aux (n-1) (n*acc)
 ```
 imperative version:
-```
+```haskell
 fac n;
-acc=1;
+acc = 1;
 while(True){
 	if(n<=1){ 
 		return acc 
@@ -36,9 +36,7 @@ while(True){
 ```
 
 
-
 # Guards
-
 ```haskell
 fac n
 	| n <= 1 = 1

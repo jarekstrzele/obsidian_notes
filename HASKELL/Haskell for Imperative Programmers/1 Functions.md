@@ -50,10 +50,10 @@ in_range min max x =
 ----
 ## `let` bindings, `where` bindings
 to write something like
-```
+```haskell
 in_range min max x = 
-	in_lower_bound = min <=x ;
-	in_upper_bund = max >= x;
+	in_lower_bound = min <= x ;
+	in_upper_bund  = max >= x ;
 	return (in_lower_bound && in_upper_bund);
 ```
 
@@ -61,8 +61,8 @@ use `let ... in`
 ```haskell
 in_range min max x = 
 	let 
-		in_lower_bound = min <=x
-		in_upper_bund = max >= x
+		in_lower_bound = min <= x
+		in_upper_bund  = max >= x
 	in
 	in_lower_bound && in_upper_bound
 ```
@@ -71,7 +71,7 @@ or use `where`
 ```haskell
 in_range min max x =  ilb && iub
 	where
-		ilb = min <=x
+		ilb = min <= x
 		iub = max >= x
 ```
 

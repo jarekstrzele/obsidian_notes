@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md",
+                "file": "HASKELL/Haskell for Imperative Programmers/4 Higher Order Functions.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md",
+                "file": "HASKELL/Haskell for Imperative Programmers/4 Higher Order Functions.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md",
+                "file": "HASKELL/Haskell for Imperative Programmers/4 Higher Order Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md"
+                "file": "HASKELL/Haskell for Imperative Programmers/4 Higher Order Functions.md"
               }
             }
           },
@@ -215,6 +215,10 @@
   },
   "active": "894eaffd91c2a2a4",
   "lastOpenFiles": [
+    "HASKELL/Haskell for Imperative Programmers/3 Lists and Tuples.md",
+    "HASKELL/Haskell for Imperative Programmers/2 Recursion, Guards, Patterns.md",
+    "HASKELL/Haskell for Imperative Programmers/1 Functions.md",
+    "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md",
     "R U S T/Rust Programming Tutorial/26 JSON Rust.md",
     "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md",
     "R U S T/Rust Programming Tutorial/25 Test Rust.md",
@@ -237,10 +241,6 @@
     "R U S T/Rust Programming Tutorial/12 String.md",
     "R U S T/Rust Programming Tutorial/13 Traits.md",
     "R U S T/Rust Programming Tutorial/14. Vectors.md",
-    "R U S T/Rust Programming Tutorial/15 Files - working with them.md",
-    "R U S T/Rust Programming Tutorial/16 Command Line args.md",
-    "R U S T/Rust Programming Tutorial/17 Pattern matching.md",
-    "R U S T/Rust Programming Tutorial/18 Taking the input.md",
     "R U S T/Rust 101 Crash Course",
     "R U S T/Programowanie w Rust",
     "R U S T/Untitled.canvas",

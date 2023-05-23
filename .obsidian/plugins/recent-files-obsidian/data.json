@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "4 Higher Order Functions",
+      "path": "HASKELL/Haskell for Imperative Programmers/4 Higher Order Functions.md"
+    },
+    {
+      "basename": "3 Lists and Tuples",
+      "path": "HASKELL/Haskell for Imperative Programmers/3 Lists and Tuples.md"
+    },
+    {
+      "basename": "2 Recursion, Guards, Patterns",
+      "path": "HASKELL/Haskell for Imperative Programmers/2 Recursion, Guards, Patterns.md"
+    },
+    {
+      "basename": "1 Functions",
+      "path": "HASKELL/Haskell for Imperative Programmers/1 Functions.md"
+    },
+    {
       "basename": "_ 0 Haskell for Imperative Programmers",
       "path": "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "Framework Django",
       "path": "Studia/Python BackEnd/Django/Framework Django.md"
-    },
-    {
-      "basename": "2 Django",
-      "path": "Studia/Python BackEnd/Django/2 Django.md"
-    },
-    {
-      "basename": "UBUNTU",
-      "path": "linux/UBUNTU.md"
-    },
-    {
-      "basename": "_ 0 Start",
-      "path": "Data Bases/MongoDB/Master MongoDB/_ 0 Start.md"
-    },
-    {
-      "basename": "2.3. Stream",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.3. Stream.md"
     }
   ],
   "omittedPaths": [],
