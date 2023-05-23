@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "0- Intro functional programming (beginner udemy)",
-      "path": "JAVASCRIPT/Functional/0- Intro functional programming (beginner udemy).md"
+      "basename": "25 Test Rust",
+      "path": "R U S T/Rust Programming Tutorial/25 Test Rust.md"
     },
     {
-      "basename": "Types of functions",
-      "path": "JAVASCRIPT/Functional/Types of functions.md"
+      "basename": "_ Rust Programming Tutorial",
+      "path": "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md"
+    },
+    {
+      "basename": "_ Rust Programming for Beginners",
+      "path": "R U S T/Rust Programming For Beginners/_ Rust Programming for Beginners.md"
+    },
+    {
+      "basename": "_ Programowanie w języku Rust",
+      "path": "R U S T/Programmowanie_w Rust/_ Programowanie w języku Rust.md"
+    },
+    {
+      "basename": "7 Counter App vs3 - with Virtual DOM",
+      "path": "JAVASCRIPT/Functional/7 Counter App vs3 - with Virtual DOM.md"
     },
     {
       "basename": "Reduce",
       "path": "JAVASCRIPT/Functional/Reduce.md"
+    },
+    {
+      "basename": "Types of functions",
+      "path": "JAVASCRIPT/Functional/Types of functions.md"
     },
     {
       "basename": "Modify arrays in immutable way",
@@ -21,12 +37,16 @@
       "path": "JAVASCRIPT/Functional/Currying.md"
     },
     {
+      "basename": "8.2. View Function",
+      "path": "JAVASCRIPT/Functional/8.2. View Function.md"
+    },
+    {
       "basename": "8.1. Data Model",
       "path": "JAVASCRIPT/Functional/8.1. Data Model.md"
     },
     {
-      "basename": "_ Rust Programming Tutorial",
-      "path": "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md"
+      "basename": "0- Intro functional programming (beginner udemy)",
+      "path": "JAVASCRIPT/Functional/0- Intro functional programming (beginner udemy).md"
     },
     {
       "basename": "_ Ultimate Rust Lang Tutorial",
@@ -35,10 +55,6 @@
     {
       "basename": "24 Run in CLI",
       "path": "R U S T/Rust Programming Tutorial/24 Run in CLI.md"
-    },
-    {
-      "basename": "25 Test Rust",
-      "path": "R U S T/Rust Programming Tutorial/25 Test Rust.md"
     },
     {
       "basename": "26 JSON Rust",
@@ -183,22 +199,6 @@
     {
       "basename": "4.3. pliki statyczne",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/4.3. pliki statyczne.md"
-    },
-    {
-      "basename": "4.2. Serwer HTTP",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md"
-    },
-    {
-      "basename": "4.1.1. tworzenie własnego klienta",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/4.1.1. tworzenie własnego klienta.md"
-    },
-    {
-      "basename": "4.1. Prosty serwer i klient TCP",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/4.1. Prosty serwer i klient TCP.md"
-    },
-    {
-      "basename": "4. Tworzenie serwerów",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/4. Tworzenie serwerów.md"
     }
   ],
   "omittedPaths": [],

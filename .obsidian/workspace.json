@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVASCRIPT/Functional/0- Intro functional programming (beginner udemy).md",
+                "file": "R U S T/Rust Programming Tutorial/25 Test Rust.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVASCRIPT/Functional/0- Intro functional programming (beginner udemy).md",
+                "file": "R U S T/Rust Programming Tutorial/25 Test Rust.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVASCRIPT/Functional/0- Intro functional programming (beginner udemy).md",
+                "file": "R U S T/Rust Programming Tutorial/25 Test Rust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVASCRIPT/Functional/0- Intro functional programming (beginner udemy).md"
+                "file": "R U S T/Rust Programming Tutorial/25 Test Rust.md"
               }
             }
           },
@@ -215,13 +215,17 @@
   },
   "active": "894eaffd91c2a2a4",
   "lastOpenFiles": [
-    "JAVASCRIPT/Functional/Types of functions.md",
+    "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md",
+    "R U S T/Rust Programming For Beginners/_ Rust Programming for Beginners.md",
+    "R U S T/Programmowanie_w Rust/_ Programowanie w języku Rust.md",
+    "JAVASCRIPT/Functional/7 Counter App vs3 - with Virtual DOM.md",
     "JAVASCRIPT/Functional/Reduce.md",
+    "JAVASCRIPT/Functional/Types of functions.md",
     "JAVASCRIPT/Functional/Modify arrays in immutable way.md",
     "JAVASCRIPT/Functional/Currying.md",
+    "JAVASCRIPT/Functional/8.2. View Function.md",
     "JAVASCRIPT/Functional/8.1. Data Model.md",
     "JAVASCRIPT/Functional/0- Intro functional programming (beginner udemy).md",
-    "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/_ Ultimate Rust Lang Tutorial.md",
     "R U S T/Rust Programming Tutorial/24 Run in CLI.md",
     "R U S T/Rust Programming Tutorial/25 Test Rust.md",
@@ -237,10 +241,6 @@
     "R U S T/Rust Programming Tutorial/16 Command Line args.md",
     "R U S T/Rust Programming Tutorial/17 Pattern matching.md",
     "R U S T/Rust Programming Tutorial/18 Taking the input.md",
-    "R U S T/Rust Programming Tutorial/19 HashMap.md",
-    "R U S T/Rust Programming Tutorial/20 Numbers.md",
-    "R U S T/Rust Programming Tutorial/21 Regex Regular Expressions.md",
-    "R U S T/Rust Programming Tutorial/22 Option (Enum).md",
     "R U S T/Rust 101 Crash Course",
     "R U S T/Programowanie w Rust",
     "R U S T/Untitled.canvas",
