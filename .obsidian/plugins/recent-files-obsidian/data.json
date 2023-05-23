@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "21 Regex Regular Expressions",
-      "path": "R U S T/Rust Programming Tutorial/21 Regex Regular Expressions.md"
+      "basename": "22 Option (Enum)",
+      "path": "R U S T/Rust Programming Tutorial/22 Option (Enum).md"
+    },
+    {
+      "basename": "15 Files - working with them",
+      "path": "R U S T/Rust Programming Tutorial/15 Files - working with them.md"
+    },
+    {
+      "basename": "9 Reference",
+      "path": "R U S T/Rust Programming Tutorial/9 Reference.md"
+    },
+    {
+      "basename": "8 Funcs, Blocks, Shadowing",
+      "path": "R U S T/Rust Programming Tutorial/8 Funcs, Blocks, Shadowing.md"
+    },
+    {
+      "basename": "10 Structs",
+      "path": "R U S T/Rust Programming Tutorial/10 Structs.md"
     },
     {
       "basename": "_ Rust Programming Tutorial",
       "path": "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md"
     },
     {
-      "basename": "15 Working with Files",
-      "path": "R U S T/Rust Programming Tutorial/15 Working with Files.md"
+      "basename": "21 Regex Regular Expressions",
+      "path": "R U S T/Rust Programming Tutorial/21 Regex Regular Expressions.md"
     },
     {
       "basename": "14. Vectors",
@@ -41,20 +57,8 @@
       "path": "R U S T/Rust Programming Tutorial/17 Pattern matching.md"
     },
     {
-      "basename": "9 Reference",
-      "path": "R U S T/Rust Programming Tutorial/9 Reference.md"
-    },
-    {
       "basename": "16 Command Line args",
       "path": "R U S T/Rust Programming Tutorial/16 Command Line args.md"
-    },
-    {
-      "basename": "10 Structs",
-      "path": "R U S T/Rust Programming Tutorial/10 Structs.md"
-    },
-    {
-      "basename": "8 Funcs, Blocks, Shadowing",
-      "path": "R U S T/Rust Programming Tutorial/8 Funcs, Blocks, Shadowing.md"
     },
     {
       "basename": "5 Enum Types",
@@ -195,10 +199,6 @@
     {
       "basename": "8.1 User Input",
       "path": "R U S T/Rust Programming For Beginners/8.1 User Input.md"
-    },
-    {
-      "basename": "_ Ultimatet Rust Lang Tutorial",
-      "path": "R U S T/ULTIMATE Rust Lang Tutorial/_ Ultimatet Rust Lang Tutorial.md"
     }
   ],
   "omittedPaths": [],

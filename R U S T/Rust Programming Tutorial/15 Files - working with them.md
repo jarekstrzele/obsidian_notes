@@ -103,7 +103,35 @@ fn print_msg_2() {
 
 
 
+new project
+```rust
+// mod - key word to define your own module
+mod decode {
+	//private function
+	fn foo_priv(){
+		println!("I am a private fn") ;
+	}
 
+	//public function
+	fn foo_pub(){
+		foo_priv();
+		println!("I am a public fn")
+	}
+
+	// nested module
+	pub mod water{
+		pub fn print_msg(){
+			println!("I am a water") ;
+		}
+	}
+
+}
+
+fn main() {
+	decode::foo_pub() ;
+	decode::water::print_msg() ;
+}
+```
 
 
 []

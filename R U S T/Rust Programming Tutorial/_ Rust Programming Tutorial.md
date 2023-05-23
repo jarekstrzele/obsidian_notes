@@ -15,13 +15,13 @@ https://www.youtube.com/watch?v=vOMJlQ5B-M0&list=PLVvjrrRCBy2JSHf9tGxGKJ-bYAN_uD
 [[11 Arrays]]
 [[13 Traits]]
 [[14. Vectors]]
-[[15 Working with Files]]
+[[15 Files - working with them]]
 [[16 Command Line args]]
 [[17 Pattern matching]]
-
-
-
-
+[[18 Taking the input]]
+[[19 HashMap]]
+[[20 Numbers]]
+[[21 Regex Regular Expressions]]
 
 
 
