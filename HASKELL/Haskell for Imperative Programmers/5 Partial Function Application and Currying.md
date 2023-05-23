@@ -7,9 +7,11 @@ https://www.youtube.com/watch?v=m12c99qgHBU&list=PLe7Ei6viL6jGp1Rfu0dil1JH1SHk9b
 
 
 >[!info] curring
->it is a principle that tell us the following if we have a function that for example takes three args and return one value
+>it is a principle that tell us the following 
+>- if we have a function that for example takes three args and return one value
 >we could rewrite: 
->	function takes only a single argument and return function that again takes only one argument
+>- function takes only a single argument and return function that again takes only one argument
+>- 
 
 ```haskell
 add :: Int -> Int -> Int
