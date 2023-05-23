@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HASKELL/Haskell for Imperative Programmers/5 Partial Function Application and Currying.md",
+                "file": "HASKELL/Haskell for Imperative Programmers/7 Folding.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/Haskell for Imperative Programmers/5 Partial Function Application and Currying.md",
+                "file": "HASKELL/Haskell for Imperative Programmers/7 Folding.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/Haskell for Imperative Programmers/5 Partial Function Application and Currying.md",
+                "file": "HASKELL/Haskell for Imperative Programmers/7 Folding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/Haskell for Imperative Programmers/5 Partial Function Application and Currying.md"
+                "file": "HASKELL/Haskell for Imperative Programmers/7 Folding.md"
               }
             }
           },
@@ -215,6 +215,10 @@
   },
   "active": "894eaffd91c2a2a4",
   "lastOpenFiles": [
+    "HASKELL/Haskell for Imperative Programmers/8 Datatypes.md",
+    "HASKELL/Haskell for Imperative Programmers/5 Partial Function Application and Currying.md",
+    "HASKELL/Haskell for Imperative Programmers/6 Composition.md",
+    "HASKELL/Haskell for Imperative Programmers/7 Folding.md",
     "HASKELL/Haskell for Imperative Programmers/4 Higher Order Functions.md",
     "HASKELL/Haskell for Imperative Programmers/3 Lists and Tuples.md",
     "HASKELL/Haskell for Imperative Programmers/2 Recursion, Guards, Patterns.md",
@@ -237,10 +241,6 @@
     "R U S T/Rust Programming Tutorial/24 Run in CLI.md",
     "R U S T/Rust Programming Tutorial/8 Funcs, Blocks, Shadowing.md",
     "R U S T/Rust Programming Tutorial/9 Reference.md",
-    "R U S T/Rust Programming Tutorial/10 Structs.md",
-    "R U S T/Rust Programming Tutorial/11 Arrays.md",
-    "R U S T/Rust Programming Tutorial/12 String.md",
-    "R U S T/Rust Programming Tutorial/13 Traits.md",
     "R U S T/Rust 101 Crash Course",
     "R U S T/Programowanie w Rust",
     "R U S T/Untitled.canvas",

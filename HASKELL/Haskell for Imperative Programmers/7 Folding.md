@@ -1,3 +1,12 @@
+
+#haskell/folding
+
+```haskell
+foldr :: (a->b->b) -> b -> [a] ->b
+
+```
+
+
 `foldr :: (a->b->b)->b->[a]->b`
 
 `foldr (#) a [x1,x2,...,xn] = x1 # x2 # ... # xn # a`

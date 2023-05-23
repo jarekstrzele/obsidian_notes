@@ -28,15 +28,6 @@ f xs = map (\x -> x+1) $ filter (\x -> x>1) xs
 
 
 
-# 7 Folding
-#haskell/folding
-
-```haskell
-foldr :: (a->b->b) -> b -> [a] ->b
-
-```
-
-
 
 
 

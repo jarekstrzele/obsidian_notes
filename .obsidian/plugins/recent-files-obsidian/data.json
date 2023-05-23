@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "7 Folding",
+      "path": "HASKELL/Haskell for Imperative Programmers/7 Folding.md"
+    },
+    {
+      "basename": "8 Datatypes",
+      "path": "HASKELL/Haskell for Imperative Programmers/8 Datatypes.md"
+    },
+    {
       "basename": "5 Partial Function Application and Currying",
       "path": "HASKELL/Haskell for Imperative Programmers/5 Partial Function Application and Currying.md"
+    },
+    {
+      "basename": "6 Composition",
+      "path": "HASKELL/Haskell for Imperative Programmers/6 Composition.md"
     },
     {
       "basename": "4 Higher Order Functions",
@@ -187,18 +199,6 @@
     {
       "basename": "1 Rust Calc",
       "path": "R U S T/Rust - FreeCode Beginner/1 Rust Calc.md"
-    },
-    {
-      "basename": "_ 0 Rust",
-      "path": "R U S T/Rust - FreeCode Beginner/_ 0 Rust.md"
-    },
-    {
-      "basename": "8.3. Closures Rust",
-      "path": "R U S T/Rust Programming For Beginners/8.3. Closures Rust.md"
-    },
-    {
-      "basename": "7 Advanced Concepts",
-      "path": "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md"
     }
   ],
   "omittedPaths": [],
