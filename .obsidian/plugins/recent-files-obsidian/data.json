@@ -1,72 +1,88 @@
 {
   "recentFiles": [
     {
-      "basename": "5 Enum",
-      "path": "R U S T/Rust Programming Tutorial/5 Enum.md"
-    },
-    {
       "basename": "_ Rust Programming Tutorial",
       "path": "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md"
     },
     {
-      "basename": "23 HTTP Get Request",
-      "path": "R U S T/Rust Programming Tutorial/23 HTTP Get Request.md"
+      "basename": "24 Run in CLI",
+      "path": "R U S T/Rust Programming Tutorial/24 Run in CLI.md"
     },
     {
-      "basename": "22 Option (Enum)",
-      "path": "R U S T/Rust Programming Tutorial/22 Option (Enum).md"
+      "basename": "25 Test Rust",
+      "path": "R U S T/Rust Programming Tutorial/25 Test Rust.md"
     },
     {
-      "basename": "15 Files - working with them",
-      "path": "R U S T/Rust Programming Tutorial/15 Files - working with them.md"
-    },
-    {
-      "basename": "9 Reference",
-      "path": "R U S T/Rust Programming Tutorial/9 Reference.md"
+      "basename": "26 JSON Rust",
+      "path": "R U S T/Rust Programming Tutorial/26 JSON Rust.md"
     },
     {
       "basename": "8 Funcs, Blocks, Shadowing",
       "path": "R U S T/Rust Programming Tutorial/8 Funcs, Blocks, Shadowing.md"
     },
     {
+      "basename": "9 Reference",
+      "path": "R U S T/Rust Programming Tutorial/9 Reference.md"
+    },
+    {
       "basename": "10 Structs",
       "path": "R U S T/Rust Programming Tutorial/10 Structs.md"
     },
     {
-      "basename": "21 Regex Regular Expressions",
-      "path": "R U S T/Rust Programming Tutorial/21 Regex Regular Expressions.md"
-    },
-    {
-      "basename": "14. Vectors",
-      "path": "R U S T/Rust Programming Tutorial/14. Vectors.md"
-    },
-    {
-      "basename": "13 Traits",
-      "path": "R U S T/Rust Programming Tutorial/13 Traits.md"
+      "basename": "11 Arrays",
+      "path": "R U S T/Rust Programming Tutorial/11 Arrays.md"
     },
     {
       "basename": "12 String",
       "path": "R U S T/Rust Programming Tutorial/12 String.md"
     },
     {
-      "basename": "20 Numbers",
-      "path": "R U S T/Rust Programming Tutorial/20 Numbers.md"
+      "basename": "13 Traits",
+      "path": "R U S T/Rust Programming Tutorial/13 Traits.md"
     },
     {
-      "basename": "19 HashMap",
-      "path": "R U S T/Rust Programming Tutorial/19 HashMap.md"
+      "basename": "14. Vectors",
+      "path": "R U S T/Rust Programming Tutorial/14. Vectors.md"
     },
     {
-      "basename": "18 Taking the input",
-      "path": "R U S T/Rust Programming Tutorial/18 Taking the input.md"
+      "basename": "15 Files - working with them",
+      "path": "R U S T/Rust Programming Tutorial/15 Files - working with them.md"
+    },
+    {
+      "basename": "16 Command Line args",
+      "path": "R U S T/Rust Programming Tutorial/16 Command Line args.md"
     },
     {
       "basename": "17 Pattern matching",
       "path": "R U S T/Rust Programming Tutorial/17 Pattern matching.md"
     },
     {
-      "basename": "16 Command Line args",
-      "path": "R U S T/Rust Programming Tutorial/16 Command Line args.md"
+      "basename": "18 Taking the input",
+      "path": "R U S T/Rust Programming Tutorial/18 Taking the input.md"
+    },
+    {
+      "basename": "19 HashMap",
+      "path": "R U S T/Rust Programming Tutorial/19 HashMap.md"
+    },
+    {
+      "basename": "20 Numbers",
+      "path": "R U S T/Rust Programming Tutorial/20 Numbers.md"
+    },
+    {
+      "basename": "21 Regex Regular Expressions",
+      "path": "R U S T/Rust Programming Tutorial/21 Regex Regular Expressions.md"
+    },
+    {
+      "basename": "22 Option (Enum)",
+      "path": "R U S T/Rust Programming Tutorial/22 Option (Enum).md"
+    },
+    {
+      "basename": "23 HTTP Get Request",
+      "path": "R U S T/Rust Programming Tutorial/23 HTTP Get Request.md"
+    },
+    {
+      "basename": "5 Enum",
+      "path": "R U S T/Rust Programming Tutorial/5 Enum.md"
     },
     {
       "basename": "6 Constants",
@@ -183,22 +199,6 @@
     {
       "basename": "2.4. Process",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.4. Process.md"
-    },
-    {
-      "basename": "3 Node Basics",
-      "path": "_ WEB/N_O_D_E/NODE - the complete guide/3 Node Basics.md"
-    },
-    {
-      "basename": "_0 Node Complete Guide",
-      "path": "_ WEB/N_O_D_E/NODE - the complete guide/_0 Node Complete Guide.md"
-    },
-    {
-      "basename": "middleware",
-      "path": "middleware.md"
-    },
-    {
-      "basename": "8.2 Interactive billing app",
-      "path": "R U S T/Rust Programming For Beginners/8.2 Interactive billing app.md"
     }
   ],
   "omittedPaths": [],

@@ -1,4 +1,6 @@
 #rust/file
+[[_ Rust Programming Tutorial]]
+
 
 ---
 [[#generally]]

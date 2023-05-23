@@ -1,4 +1,16 @@
 #rust #youtube 
+other courses:
+[[_ Rust Programming for Beginners]]
+[[_ Rust by Example]]
+[[_ Rust 101 Crash Course]]
+[[_ 0 Rust]]
+[[_ Programowanie w języku Rust]]
+[[_ Learn Rust by Building Apps]]
+[[_ 0 Rust Web Book]]
+[[_ Rust Tech with Tim]]
+[[_ Ultimatet Rust Lang Tutorial]]
+
+---
 
 https://www.youtube.com/watch?v=vOMJlQ5B-M0&list=PLVvjrrRCBy2JSHf9tGxGKJ-bYAN_uDCUL&index=1
 
@@ -22,7 +34,7 @@ https://www.youtube.com/watch?v=vOMJlQ5B-M0&list=PLVvjrrRCBy2JSHf9tGxGKJ-bYAN_uD
 [[19 HashMap]]
 [[20 Numbers]]
 [[21 Regex Regular Expressions]]
-
-
-
+[[22 Option (Enum)]]
+[[23 HTTP Get Request]]
+[[24 Run in CLI]]
 

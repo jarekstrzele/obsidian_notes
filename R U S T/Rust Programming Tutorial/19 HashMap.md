@@ -1,5 +1,7 @@
 #rust/hashmap 
 
+[[_ Rust Programming Tutorial]]
+
 ### `std::collections::HashMap ;`
 
 

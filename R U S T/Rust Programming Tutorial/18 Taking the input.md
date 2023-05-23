@@ -1,4 +1,7 @@
 #rust/input
+[[_ Rust Programming Tutorial]]
+
+
 ```rust
 use std::io;
 
