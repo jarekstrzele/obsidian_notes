@@ -5,6 +5,10 @@
       "path": "R U S T/Rust Programming Tutorial/22 Option (Enum).md"
     },
     {
+      "basename": "5 Enum Types",
+      "path": "R U S T/Rust Programming Tutorial/5 Enum Types.md"
+    },
+    {
       "basename": "15 Files - working with them",
       "path": "R U S T/Rust Programming Tutorial/15 Files - working with them.md"
     },
@@ -59,10 +63,6 @@
     {
       "basename": "16 Command Line args",
       "path": "R U S T/Rust Programming Tutorial/16 Command Line args.md"
-    },
-    {
-      "basename": "5 Enum Types",
-      "path": "R U S T/Rust Programming Tutorial/5 Enum Types.md"
     },
     {
       "basename": "6 Constants",
