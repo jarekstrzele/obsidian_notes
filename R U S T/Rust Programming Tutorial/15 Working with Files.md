@@ -4,6 +4,7 @@
 [[#generally]]
 [[#Open a file]]
 [[#Write to a file]]
+[[#Multiple Source Files (Modules)]]
 
 
 
@@ -74,5 +75,16 @@ fn main() {
 
 
 
+------
+# Multiple Source Files (Modules)
+#rust/module
 
 
+
+
+
+
+
+
+
+[]
