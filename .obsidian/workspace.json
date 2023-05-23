@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Rust Programming Tutorial/22 Option (Enum).md",
+                "file": "R U S T/Rust Programming Tutorial/23 HTTP Get Request.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust Programming Tutorial/22 Option (Enum).md",
+                "file": "R U S T/Rust Programming Tutorial/23 HTTP Get Request.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust Programming Tutorial/22 Option (Enum).md",
+                "file": "R U S T/Rust Programming Tutorial/23 HTTP Get Request.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Rust Programming Tutorial/22 Option (Enum).md"
+                "file": "R U S T/Rust Programming Tutorial/23 HTTP Get Request.md"
               }
             }
           },
@@ -215,8 +215,9 @@
   },
   "active": "894eaffd91c2a2a4",
   "lastOpenFiles": [
-    "R U S T/Rust Programming Tutorial/5 Enum Types.md",
     "R U S T/Rust Programming Tutorial/22 Option (Enum).md",
+    "R U S T/Rust Programming Tutorial/23 HTTP Get Request.md",
+    "R U S T/Rust Programming Tutorial/5 Enum Types.md",
     "R U S T/Rust Programming Tutorial/15 Files - working with them.md",
     "R U S T/Rust Programming Tutorial/9 Reference.md",
     "R U S T/Rust Programming Tutorial/8 Funcs, Blocks, Shadowing.md",
@@ -240,7 +241,6 @@
     "R U S T/Rust - FreeCode Beginner/2 Rust Combiner.md",
     "R U S T/Rust - FreeCode Beginner/makro vs function.md",
     "R U S T/Rust - FreeCode Beginner/1 Rust Calc.md",
-    "R U S T/Rust - FreeCode Beginner/_ 0 Rust.md",
     "R U S T/Rust 101 Crash Course",
     "R U S T/Programowanie w Rust",
     "R U S T/Untitled.canvas",

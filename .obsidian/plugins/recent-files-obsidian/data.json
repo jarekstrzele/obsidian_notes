@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "23 HTTP Get Request",
+      "path": "R U S T/Rust Programming Tutorial/23 HTTP Get Request.md"
+    },
+    {
       "basename": "22 Option (Enum)",
       "path": "R U S T/Rust Programming Tutorial/22 Option (Enum).md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "8.2 Interactive billing app",
       "path": "R U S T/Rust Programming For Beginners/8.2 Interactive billing app.md"
-    },
-    {
-      "basename": "8.1 User Input",
-      "path": "R U S T/Rust Programming For Beginners/8.1 User Input.md"
     }
   ],
   "omittedPaths": [],
