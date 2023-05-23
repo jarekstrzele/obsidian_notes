@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Rust Programming Tutorial/15 Working with Files.md",
+                "file": "R U S T/Rust Programming Tutorial/21 Regex Regular Expressions.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust Programming Tutorial/15 Working with Files.md",
+                "file": "R U S T/Rust Programming Tutorial/21 Regex Regular Expressions.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust Programming Tutorial/15 Working with Files.md",
+                "file": "R U S T/Rust Programming Tutorial/21 Regex Regular Expressions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Rust Programming Tutorial/15 Working with Files.md"
+                "file": "R U S T/Rust Programming Tutorial/21 Regex Regular Expressions.md"
               }
             }
           },
@@ -215,6 +215,9 @@
   },
   "active": "894eaffd91c2a2a4",
   "lastOpenFiles": [
+    "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md",
+    "R U S T/Rust Programming Tutorial/21 Regex Regular Expressions.md",
+    "R U S T/Rust Programming Tutorial/15 Working with Files.md",
     "R U S T/Rust Programming Tutorial/14. Vectors.md",
     "R U S T/Rust Programming Tutorial/13 Traits.md",
     "R U S T/Rust Programming Tutorial/12 String.md",
@@ -222,9 +225,7 @@
     "R U S T/Rust Programming Tutorial/19 HashMap.md",
     "R U S T/Rust Programming Tutorial/18 Taking the input.md",
     "R U S T/Rust Programming Tutorial/17 Pattern matching.md",
-    "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md",
     "R U S T/Rust Programming Tutorial/9 Reference.md",
-    "R U S T/Rust Programming Tutorial/15 Working with Files.md",
     "R U S T/Rust Programming Tutorial/16 Command Line args.md",
     "R U S T/Rust Programming Tutorial/10 Structs.md",
     "R U S T/Rust Programming Tutorial/8 Funcs, Blocks, Shadowing.md",
@@ -240,7 +241,6 @@
     "R U S T/Rust - FreeCode Beginner/1 Rust Calc.md",
     "R U S T/Rust - FreeCode Beginner/_ 0 Rust.md",
     "R U S T/Rust Programming For Beginners/8.3. Closures Rust.md",
-    "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md",
     "R U S T/Rust 101 Crash Course",
     "R U S T/Programowanie w Rust",
     "R U S T/Untitled.canvas",

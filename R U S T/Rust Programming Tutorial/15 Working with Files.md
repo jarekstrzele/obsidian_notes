@@ -79,8 +79,27 @@ fn main() {
 # Multiple Source Files (Modules)
 #rust/module
 
+### By default functions in modules are **private**
 
+main.rs
+```rust
+mod first_mod;
 
+fn main() {
+	first_mod::print_msg();
+}
+```
+
+first_mod.rs
+```rust
+pub fn print_msg() {
+	println!("How is going? print_msg public function")
+}
+
+fn print_msg_2() {
+	println!("How is going? print_msg PRIVATE (access only in that file) function")
+}
+```
 
 
 
