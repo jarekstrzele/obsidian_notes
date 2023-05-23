@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HASKELL/Installing.md",
+                "file": "HASKELL/Real World Haskell/2 Types and Functions.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/Installing.md",
+                "file": "HASKELL/Real World Haskell/2 Types and Functions.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/Installing.md",
+                "file": "HASKELL/Real World Haskell/2 Types and Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/Installing.md"
+                "file": "HASKELL/Real World Haskell/2 Types and Functions.md"
               }
             }
           },
@@ -215,11 +215,14 @@
   },
   "active": "894eaffd91c2a2a4",
   "lastOpenFiles": [
+    "HASKELL/Real World Haskell/1 Getting Started.md",
+    "HASKELL/Real World Haskell/_ Real World Haskell.md",
+    "HASKELL/Real World Haskell/2 Types and Functions.md",
+    "HASKELL/Installing.md",
     "HASKELL/Haskell Pocket Guide.md",
     "HASKELL/Cabal.md",
     "HASKELL/haskell expression.md",
     "HASKELL/First steps.md",
-    "HASKELL/Installing.md",
     "HASKELL/Simple Haskell File - Structure.md",
     "HASKELL/Haskell for Imperative Programmers/7 Folding.md",
     "HASKELL/Haskell for Imperative Programmers/8 Datatypes.md",
@@ -238,9 +241,6 @@
     "JAVASCRIPT/Functional/7 Counter App vs3 - with Virtual DOM.md",
     "JAVASCRIPT/Functional/Reduce.md",
     "JAVASCRIPT/Functional/Types of functions.md",
-    "JAVASCRIPT/Functional/Modify arrays in immutable way.md",
-    "JAVASCRIPT/Functional/Currying.md",
-    "JAVASCRIPT/Functional/8.2. View Function.md",
     "R U S T/Rust 101 Crash Course",
     "R U S T/Programowanie w Rust",
     "R U S T/Untitled.canvas",

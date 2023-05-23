@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "2 Types and Functions",
+      "path": "HASKELL/Real World Haskell/2 Types and Functions.md"
+    },
+    {
+      "basename": "1 Getting Started",
+      "path": "HASKELL/Real World Haskell/1 Getting Started.md"
+    },
+    {
+      "basename": "_ Real World Haskell",
+      "path": "HASKELL/Real World Haskell/_ Real World Haskell.md"
+    },
+    {
       "basename": "Installing",
       "path": "HASKELL/Installing.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "5 Enum",
       "path": "R U S T/Rust Programming Tutorial/5 Enum.md"
-    },
-    {
-      "basename": "6 Constants",
-      "path": "R U S T/Rust Programming Tutorial/6 Constants.md"
-    },
-    {
-      "basename": "3 If statement",
-      "path": "R U S T/Rust Programming Tutorial/3 If statement.md"
-    },
-    {
-      "basename": "2 Variables",
-      "path": "R U S T/Rust Programming Tutorial/2 Variables.md"
     }
   ],
   "omittedPaths": [],
