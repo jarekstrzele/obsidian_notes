@@ -21,7 +21,7 @@ https://book.realworldhaskell.org/read/types-and-functions.html
 - The type system guarantees that a program cannot contain cerain kinds of errors (int used like function -> Haskell's compiler generates an error)
 - no automatic coercion/casting/conversion
 
-**benefit** strong typing catches ewal bugs in our code before they can cayse problems
+**benefit** strong typing catches  bugs in our code before they can case problems
 
 
 ## static
@@ -39,6 +39,7 @@ Finally, a Haskell compiler can automatically deduce the types of almost all exp
 
 
 **Haskell tuples aren't immutable lists**
+## Function application has higher precedence than using operators
 
 
 
