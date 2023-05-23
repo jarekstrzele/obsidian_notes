@@ -47,26 +47,22 @@ enum Day {
 
 impl Day {
 	fn is_weekday(&self) -> bool {
+
+	// match self -> self jest referencją
+	// i porównujemy self też z referencją
+	// czyli &Day::Sat, a nie z wartością, czyli
+	// Day::Sat
 	match self {
 		&Day::Sat | &Day::Sun => return false,
 		_ => return true,
+		}
+	}
 }
-
-}
-
-}
-
-  
   
 
 fn main() {
-
-let d = Day::Tue;
-
-  
-
-println!("Is d a weekday {}", d.is_weekday()) ;
-
+	let d = Day::Tue;
+	println!("Is d a weekday {}", d.is_weekday()) ;
 }
 ```
 
