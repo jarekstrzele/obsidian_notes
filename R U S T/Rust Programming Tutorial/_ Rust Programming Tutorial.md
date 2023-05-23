@@ -37,4 +37,8 @@ https://www.youtube.com/watch?v=vOMJlQ5B-M0&list=PLVvjrrRCBy2JSHf9tGxGKJ-bYAN_uD
 [[22 Option (Enum)]]
 [[23 HTTP Get Request]]
 [[24 Run in CLI]]
+[[25 Test Rust]]
+[[26 JSON Rust]]
+
+
 

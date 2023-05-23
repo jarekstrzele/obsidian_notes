@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Rust Programming Tutorial/25 Test Rust.md",
+                "file": "R U S T/Rust Programming Tutorial/26 JSON Rust.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust Programming Tutorial/25 Test Rust.md",
+                "file": "R U S T/Rust Programming Tutorial/26 JSON Rust.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust Programming Tutorial/25 Test Rust.md",
+                "file": "R U S T/Rust Programming Tutorial/26 JSON Rust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Rust Programming Tutorial/25 Test Rust.md"
+                "file": "R U S T/Rust Programming Tutorial/26 JSON Rust.md"
               }
             }
           },
@@ -216,6 +216,8 @@
   "active": "894eaffd91c2a2a4",
   "lastOpenFiles": [
     "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md",
+    "R U S T/Rust Programming Tutorial/26 JSON Rust.md",
+    "R U S T/Rust Programming Tutorial/25 Test Rust.md",
     "R U S T/Rust Programming For Beginners/_ Rust Programming for Beginners.md",
     "R U S T/Programmowanie_w Rust/_ Programowanie w języku Rust.md",
     "JAVASCRIPT/Functional/7 Counter App vs3 - with Virtual DOM.md",
@@ -228,8 +230,6 @@
     "JAVASCRIPT/Functional/0- Intro functional programming (beginner udemy).md",
     "R U S T/ULTIMATE Rust Lang Tutorial/_ Ultimate Rust Lang Tutorial.md",
     "R U S T/Rust Programming Tutorial/24 Run in CLI.md",
-    "R U S T/Rust Programming Tutorial/25 Test Rust.md",
-    "R U S T/Rust Programming Tutorial/26 JSON Rust.md",
     "R U S T/Rust Programming Tutorial/8 Funcs, Blocks, Shadowing.md",
     "R U S T/Rust Programming Tutorial/9 Reference.md",
     "R U S T/Rust Programming Tutorial/10 Structs.md",

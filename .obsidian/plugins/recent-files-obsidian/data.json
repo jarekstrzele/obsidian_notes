@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "25 Test Rust",
-      "path": "R U S T/Rust Programming Tutorial/25 Test Rust.md"
+      "basename": "26 JSON Rust",
+      "path": "R U S T/Rust Programming Tutorial/26 JSON Rust.md"
     },
     {
       "basename": "_ Rust Programming Tutorial",
       "path": "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md"
+    },
+    {
+      "basename": "25 Test Rust",
+      "path": "R U S T/Rust Programming Tutorial/25 Test Rust.md"
     },
     {
       "basename": "_ Rust Programming for Beginners",
@@ -55,10 +59,6 @@
     {
       "basename": "24 Run in CLI",
       "path": "R U S T/Rust Programming Tutorial/24 Run in CLI.md"
-    },
-    {
-      "basename": "26 JSON Rust",
-      "path": "R U S T/Rust Programming Tutorial/26 JSON Rust.md"
     },
     {
       "basename": "8 Funcs, Blocks, Shadowing",
