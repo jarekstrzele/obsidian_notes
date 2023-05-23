@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Installing",
+      "path": "HASKELL/Installing.md"
+    },
+    {
+      "basename": "Haskell Pocket Guide",
+      "path": "HASKELL/Haskell Pocket Guide.md"
+    },
+    {
+      "basename": "Cabal",
+      "path": "HASKELL/Cabal.md"
+    },
+    {
+      "basename": "haskell expression",
+      "path": "HASKELL/haskell expression.md"
+    },
+    {
+      "basename": "First steps",
+      "path": "HASKELL/First steps.md"
+    },
+    {
+      "basename": "Simple Haskell File - Structure",
+      "path": "HASKELL/Simple Haskell File - Structure.md"
+    },
+    {
       "basename": "7 Folding",
       "path": "HASKELL/Haskell for Imperative Programmers/7 Folding.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "2 Variables",
       "path": "R U S T/Rust Programming Tutorial/2 Variables.md"
-    },
-    {
-      "basename": "1 Hello World App",
-      "path": "R U S T/Rust Programming Tutorial/1 Hello World App.md"
-    },
-    {
-      "basename": "8.4 Map Combinator",
-      "path": "R U S T/Rust Programming For Beginners/8.4 Map Combinator.md"
-    },
-    {
-      "basename": "_ Rust 101 Crash Course",
-      "path": "R U S T/Rust 101 Crash Course/_ Rust 101 Crash Course.md"
-    },
-    {
-      "basename": "2 Rust Combiner",
-      "path": "R U S T/Rust - FreeCode Beginner/2 Rust Combiner.md"
-    },
-    {
-      "basename": "makro vs function",
-      "path": "R U S T/Rust - FreeCode Beginner/makro vs function.md"
-    },
-    {
-      "basename": "1 Rust Calc",
-      "path": "R U S T/Rust - FreeCode Beginner/1 Rust Calc.md"
     }
   ],
   "omittedPaths": [],
