@@ -5,6 +5,10 @@
       "path": "_ FullStack/Full Stack Web Development  Bootcamp/_ 0 Full stack Web Dev Bootcamp.md"
     },
     {
+      "basename": "1 React",
+      "path": "_ FullStack/Full Stack Web Development  Bootcamp/1 React.md"
+    },
+    {
       "basename": "7 Advanced Concepts",
       "path": "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "17 Pattern matching",
       "path": "R U S T/Rust Programming Tutorial/17 Pattern matching.md"
-    },
-    {
-      "basename": "18 Taking the input",
-      "path": "R U S T/Rust Programming Tutorial/18 Taking the input.md"
     }
   ],
   "omittedPaths": [],
