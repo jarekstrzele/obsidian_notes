@@ -95,14 +95,24 @@ myDrop n xs = if n <=  0 || null xs
 -----
 ## Evaluation
 
-### lazy evaluation
+### lazy evaluation - non-strict evaluation
 nonrecursive function
 ```haskell
 isOdd n = mod n 2 == 1
 ```
 
+### `isOdd (1+2)`
+#### *strict* evaluation
+==the arguments to a function are evaluated before the function is applied==
+1. evaluate the subexpression `1+2` --> `3`
+2. apply `isOdd`  with `n` bound to `3`
+3. evaluate `mod 3 2`
+4. evaluate `1 == 1`
+5. return `true`
 
-
+#### *non-strict* evaluation - Haskell
+- `1+2` is not reduce to `3` -- we create a *promise* that when the value of the expression `isOdd (1 + 2)` is needed, we will be able to compute it
+- 
 
 
 
