@@ -191,7 +191,7 @@ def index(request):
 	return HttpResponse("Działa. Jesteśmy wpierwszej aplikacji Django-ankiety")
 ```
 
-2. zmapuj ten plik na dres URL, więc `URLconf`
+2. zmapuj ten plik na adres URL, więc `URLconf`
 	-  w katalogu aplikacji `ankiety` utwórz plik o nazwie `urls.py`
 ```python
 from django.urls import path
@@ -203,7 +203,7 @@ urlpatterns = [path('', views.index, name='index')]
 
 
 - w pliku projektu `mysite` folder główny zmodyfikuj `urls.py`
-	- dodaj `include` do bibliotejki `django.urls` wstawiając include() na listę url patterns
+	- dodaj `include` do biblioteki `django.urls` wstawiając include() na listę url patterns
 	- uzyskamy wskazanie w podstawowej konfiguracji adresu URL na moduł `ankiety.urls`
 ```python
 from django.contrib import admin
@@ -236,16 +236,10 @@ INSTALLED_APPS = [
 LANGUAGE_CODE = 'pl'
 TIME_ZONE = 'Europe/Warsaw'
 ```
-
-
-
-
 #django/include
 *include()* 
 - pozwala na odniesienia do innych adresów `URLconf`
-- 
 - należy używać, gdy stosowane są inne wzorce URL (oprócz `admin.site.urls`)
-- 
 
 ------
 # `django-admin i manage.py`
