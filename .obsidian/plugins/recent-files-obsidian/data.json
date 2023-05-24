@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "8 Datatypes",
+      "path": "HASKELL/Haskell for Imperative Programmers/8 Datatypes.md"
+    },
+    {
+      "basename": "13 Traits",
+      "path": "R U S T/Rust Programming Tutorial/13 Traits.md"
+    },
+    {
+      "basename": "1 Guessing Game in Rust",
+      "path": "R U S T/ULTIMATE Rust Lang Tutorial/1 Guessing Game in Rust.md"
+    },
+    {
       "basename": "_ Ultimate Rust Lang Tutorial",
       "path": "R U S T/ULTIMATE Rust Lang Tutorial/_ Ultimate Rust Lang Tutorial.md"
     },
@@ -101,10 +113,6 @@
       "path": "HASKELL/Haskell for Imperative Programmers/7 Folding.md"
     },
     {
-      "basename": "8 Datatypes",
-      "path": "HASKELL/Haskell for Imperative Programmers/8 Datatypes.md"
-    },
-    {
       "basename": "5 Partial Function Application and Currying",
       "path": "HASKELL/Haskell for Imperative Programmers/5 Partial Function Application and Currying.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "9 Reference",
       "path": "R U S T/Rust Programming Tutorial/9 Reference.md"
-    },
-    {
-      "basename": "10 Structs",
-      "path": "R U S T/Rust Programming Tutorial/10 Structs.md"
-    },
-    {
-      "basename": "11 Arrays",
-      "path": "R U S T/Rust Programming Tutorial/11 Arrays.md"
     }
   ],
   "omittedPaths": [],

@@ -32,11 +32,26 @@ tree = Node (Node Leaf 1 Leaf) 2 (Node (Node Leaf 3 Leaf) 4 Leaf)
 
 ```
 
+```haskell
+data PeaNum = Succ PeaNum | Zero
 
+incr :: PeaNum -> PeaNum
+incr = Succ -- partial function
 
+decr :: PeaNum -> PeaNum
+decr (Succ n) = n
+```
 
+---
+# Records
+#haskell/records
 
+```haskell
+data Person = Persin {  name :: String,
+						age  :: Int}
+```
 
+you get a function to get `name` and `age`
 
 
 

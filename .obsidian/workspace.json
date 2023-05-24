@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/ULTIMATE Rust Lang Tutorial/_ Ultimate Rust Lang Tutorial.md",
+                "file": "R U S T/ULTIMATE Rust Lang Tutorial/1 Guessing Game in Rust.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Rust Programming Tutorial/13 Traits.md",
+                "file": "HASKELL/Haskell for Imperative Programmers/8 Datatypes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 391
+    "width": 200
   },
   "right": {
     "id": "ec7d1a70da2de581",
@@ -113,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/ULTIMATE Rust Lang Tutorial/_ Ultimate Rust Lang Tutorial.md",
+                "file": "HASKELL/Haskell for Imperative Programmers/8 Datatypes.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -130,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/ULTIMATE Rust Lang Tutorial/_ Ultimate Rust Lang Tutorial.md",
+                "file": "HASKELL/Haskell for Imperative Programmers/8 Datatypes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/ULTIMATE Rust Lang Tutorial/_ Ultimate Rust Lang Tutorial.md"
+                "file": "HASKELL/Haskell for Imperative Programmers/8 Datatypes.md"
               }
             }
           },
@@ -201,8 +202,11 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "2f713b7e81172dcd",
+  "active": "b378246ff9e76088",
   "lastOpenFiles": [
+    "R U S T/Rust Programming Tutorial/13 Traits.md",
+    "R U S T/ULTIMATE Rust Lang Tutorial/1 Guessing Game in Rust.md",
+    "R U S T/ULTIMATE Rust Lang Tutorial/_ Ultimate Rust Lang Tutorial.md",
     "R U S T/Tech with TIm Rust/_ Rust Tech with Tim.md",
     "R U S T/Rust Web Book/_ 0 Rust Web Book.md",
     "R U S T/Rust Programming For Beginners/_ Rust Programming for Beginners.md",
@@ -227,9 +231,6 @@
     "HASKELL/First steps.md",
     "HASKELL/Simple Haskell File - Structure.md",
     "HASKELL/Haskell for Imperative Programmers/7 Folding.md",
-    "HASKELL/Haskell for Imperative Programmers/8 Datatypes.md",
-    "HASKELL/Haskell for Imperative Programmers/5 Partial Function Application and Currying.md",
-    "HASKELL/Haskell for Imperative Programmers/6 Composition.md",
     "R U S T/Rust 101 Crash Course",
     "R U S T/Programowanie w Rust",
     "R U S T/Untitled.canvas",
