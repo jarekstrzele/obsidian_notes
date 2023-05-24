@@ -64,7 +64,7 @@ server.listen(3000);
 				- *request*  `GET /api/customers/1` 
 				- *response* ` {id: 1, name: '  '}` 
 			- `POST` for creating data
-				- *request* `POST /ap/customers`  and in the **body** of the request add `{name: ' '} `
+				- *request* `POST /api/customers`  and in the **body** of the request add `{name: ' '} `
 			- `PUT` for updating data
 				- update one customer:
 					- *request*  `PUT /api/customers/1` and in the **body** of the request add `{name: ' '} `
