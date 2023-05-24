@@ -7,6 +7,8 @@
 	- Cobalt2 Them Official
 	- Material Icon Theme
 
+the general folder: `images-gallery`
+
 -----------
 [[1 React]]
 
