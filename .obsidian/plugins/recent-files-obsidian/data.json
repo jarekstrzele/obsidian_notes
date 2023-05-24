@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "1 Framework Django",
+      "path": "Studia/Python BackEnd/Django/1 Framework Django.md"
+    },
+    {
+      "basename": "2 Django",
+      "path": "Studia/Python BackEnd/Django/2 Django.md"
+    },
+    {
       "basename": "9 Typeclasses",
       "path": "HASKELL/Haskell for Imperative Programmers/9 Typeclasses.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "0- Intro functional programming (beginner udemy)",
       "path": "JAVASCRIPT/Functional/0- Intro functional programming (beginner udemy).md"
-    },
-    {
-      "basename": "24 Run in CLI",
-      "path": "R U S T/Rust Programming Tutorial/24 Run in CLI.md"
-    },
-    {
-      "basename": "8 Funcs, Blocks, Shadowing",
-      "path": "R U S T/Rust Programming Tutorial/8 Funcs, Blocks, Shadowing.md"
     }
   ],
   "omittedPaths": [],

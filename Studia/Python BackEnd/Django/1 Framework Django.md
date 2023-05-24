@@ -87,7 +87,7 @@ OBIEKT `request` jest słownikiem. Widok musi zwrócić jakąś odpowiedź. W Dj
 
 Widoki wykonują jakieś operacje po stronie serwera w odpowiedzi na żądania klienta. Widoki powiązane są z określonymi adresami url.
 
-Dane z bazy przekazywane dą do szablonów za pomocą Pythonowego słownika. Renderowanie polega na odszukaniu pliku szablonu, zastąpieniu przekazanych zmiennych danymi i odesłaniu całości (HTML + dane) do użytkownika.
+Dane z bazy przekazywane do szablonów za pomocą Pythonowego słownika. Renderowanie polega na odszukaniu pliku szablonu, zastąpieniu przekazanych zmiennych danymi i odesłaniu całości (HTML + dane) do użytkownika.
 
 W Django szblony zapisywane są w podkatalogu `templates/nazwa_aplikacji`
 

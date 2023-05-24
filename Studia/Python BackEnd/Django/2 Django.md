@@ -18,9 +18,9 @@
 - następnie Django ładuje odpowiedni widok , przekazując `HttpRequest` jako pierwszy argument do funkcji widoku
 - każdy widok to funkcja przyjmująca jeden obowiązkowyu parametr `request` i zwracająca obiekt `HttpRequest`
 - Podczas wywoływania obiektu `HttpRequest`
-	- konstruowany jest obiekt `Request`, który zostaje wysłany do serwera, aby zażądać albo wykonać zaputanie dotyczące jakiegoś zasobu
-	- obiekt `Response` jest generowany, kiedy `requests` otrrzymuje odpowiedź od serwera
-	- obiekt `Response` zawiera wszystkie informacje zwrócone przez serwer oraz oryguinalny obiekt `Request`
+	- konstruowany jest obiekt `Request`, który zostaje wysłany do serwera, aby zażądać albo wykonać zapytanie dotyczące jakiegoś zasobu
+	- obiekt `Response` jest generowany, kiedy `requests` otrzymuje odpowiedź od serwera
+	- obiekt `Response` zawiera wszystkie informacje zwrócone przez serwer oraz oryginalny obiekt `Request`
 
 
 **przykład**
