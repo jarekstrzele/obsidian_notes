@@ -1,8 +1,11 @@
 
 #udemy #web_app  #fullstack #stashchuk_bogdan 
 
-
-
+- VS Code 
+	- Bracker Air Colorizer
+	- Prettier - Code formatter
+	- Cobalt2 Them Official
+	- Material Icon Theme
 
 
 # Frontend vs Backend

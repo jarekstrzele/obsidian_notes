@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "894eaffd91c2a2a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HASKELL/Real World Haskell/3 Defining Types, Streamlining Functions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2f713b7e81172dcd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md",
+                "file": "_ FullStack/Full Stack Web Development  Bootcamp/_ 0 Full stack Web Dev Bootcamp.md",
                 "mode": "source",
                 "source": false
               }
@@ -72,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rust/op",
+                "query": "stash",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -125,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/Real World Haskell/3 Defining Types, Streamlining Functions.md",
+                "file": "_ FullStack/Full Stack Web Development  Bootcamp/_ 0 Full stack Web Dev Bootcamp.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -142,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/Real World Haskell/3 Defining Types, Streamlining Functions.md",
+                "file": "_ FullStack/Full Stack Web Development  Bootcamp/_ 0 Full stack Web Dev Bootcamp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/Real World Haskell/3 Defining Types, Streamlining Functions.md"
+                "file": "_ FullStack/Full Stack Web Development  Bootcamp/_ 0 Full stack Web Dev Bootcamp.md"
               }
             }
           },
@@ -213,10 +201,14 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "894eaffd91c2a2a4",
+  "active": "2f713b7e81172dcd",
   "lastOpenFiles": [
-    "HASKELL/Real World Haskell/2 Types and Functions.md",
+    "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md",
+    "Untitled 1.canvas",
+    "_ FullStack/Full Stack Web Development  Bootcamp/_ 0 Full stack Web Dev Bootcamp.md",
+    "_ FullStack/Full Stack Web Development  Bootcamp/Appendixes/Shell vs Terminal.md",
     "HASKELL/Real World Haskell/3 Defining Types, Streamlining Functions.md",
+    "HASKELL/Real World Haskell/2 Types and Functions.md",
     "HASKELL/thunk.md",
     "HASKELL/Real World Haskell/1 Getting Started.md",
     "HASKELL/Real World Haskell/_ Real World Haskell.md",
@@ -238,9 +230,6 @@
     "R U S T/Rust Programming Tutorial/26 JSON Rust.md",
     "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md",
     "R U S T/Rust Programming Tutorial/25 Test Rust.md",
-    "R U S T/Rust Programming For Beginners/_ Rust Programming for Beginners.md",
-    "R U S T/Programmowanie_w Rust/_ Programowanie w języku Rust.md",
-    "JAVASCRIPT/Functional/7 Counter App vs3 - with Virtual DOM.md",
     "R U S T/Rust 101 Crash Course",
     "R U S T/Programowanie w Rust",
     "R U S T/Untitled.canvas",

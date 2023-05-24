@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "_ 0 Full stack Web Dev Bootcamp",
+      "path": "_ FullStack/Full Stack Web Development  Bootcamp/_ 0 Full stack Web Dev Bootcamp.md"
+    },
+    {
+      "basename": "7 Advanced Concepts",
+      "path": "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md"
+    },
+    {
+      "basename": "Untitled 1",
+      "path": "Untitled 1.canvas"
+    },
+    {
+      "basename": "Shell vs Terminal",
+      "path": "_ FullStack/Full Stack Web Development  Bootcamp/Appendixes/Shell vs Terminal.md"
+    },
+    {
       "basename": "3 Defining Types, Streamlining Functions",
       "path": "HASKELL/Real World Haskell/3 Defining Types, Streamlining Functions.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "18 Taking the input",
       "path": "R U S T/Rust Programming Tutorial/18 Taking the input.md"
-    },
-    {
-      "basename": "19 HashMap",
-      "path": "R U S T/Rust Programming Tutorial/19 HashMap.md"
-    },
-    {
-      "basename": "20 Numbers",
-      "path": "R U S T/Rust Programming Tutorial/20 Numbers.md"
-    },
-    {
-      "basename": "21 Regex Regular Expressions",
-      "path": "R U S T/Rust Programming Tutorial/21 Regex Regular Expressions.md"
-    },
-    {
-      "basename": "22 Option (Enum)",
-      "path": "R U S T/Rust Programming Tutorial/22 Option (Enum).md"
     }
   ],
   "omittedPaths": [],
