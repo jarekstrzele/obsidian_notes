@@ -46,6 +46,7 @@ decr (Succ n) = n
 # Records
 #haskell/records
 
+## Constructor
 ```haskell
 data Person = Persin {  name :: String,
 						age  :: Int}
@@ -64,4 +65,12 @@ greet (Person name _) = "Hi" ++ n
 ```
 
 
+## Multiple Constructors
+```haskell
+data Point =
+	  D2 {x :: Int, y :: Int}
+	| D3 {x ::Int, y :: Int, z ::Int }
 
+x (D2 1 2) => 1
+x (D3 1 2 3) => 1
+```

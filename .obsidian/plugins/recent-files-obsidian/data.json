@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "9 Typeclasses",
+      "path": "HASKELL/Haskell for Imperative Programmers/9 Typeclasses.md"
+    },
+    {
       "basename": "8 Datatypes",
       "path": "HASKELL/Haskell for Imperative Programmers/8 Datatypes.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "8 Funcs, Blocks, Shadowing",
       "path": "R U S T/Rust Programming Tutorial/8 Funcs, Blocks, Shadowing.md"
-    },
-    {
-      "basename": "9 Reference",
-      "path": "R U S T/Rust Programming Tutorial/9 Reference.md"
     }
   ],
   "omittedPaths": [],

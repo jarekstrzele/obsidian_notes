@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HASKELL/Haskell for Imperative Programmers/8 Datatypes.md",
+                "file": "HASKELL/Haskell for Imperative Programmers/9 Typeclasses.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/Haskell for Imperative Programmers/8 Datatypes.md",
+                "file": "HASKELL/Haskell for Imperative Programmers/9 Typeclasses.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/Haskell for Imperative Programmers/8 Datatypes.md",
+                "file": "HASKELL/Haskell for Imperative Programmers/9 Typeclasses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/Haskell for Imperative Programmers/8 Datatypes.md"
+                "file": "HASKELL/Haskell for Imperative Programmers/9 Typeclasses.md"
               }
             }
           },
@@ -204,6 +204,8 @@
   },
   "active": "b378246ff9e76088",
   "lastOpenFiles": [
+    "HASKELL/Haskell for Imperative Programmers/8 Datatypes.md",
+    "HASKELL/Haskell for Imperative Programmers/9 Typeclasses.md",
     "R U S T/Rust Programming Tutorial/13 Traits.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/1 Guessing Game in Rust.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/_ Ultimate Rust Lang Tutorial.md",
@@ -229,8 +231,6 @@
     "HASKELL/Cabal.md",
     "HASKELL/haskell expression.md",
     "HASKELL/First steps.md",
-    "HASKELL/Simple Haskell File - Structure.md",
-    "HASKELL/Haskell for Imperative Programmers/7 Folding.md",
     "R U S T/Rust 101 Crash Course",
     "R U S T/Programowanie w Rust",
     "R U S T/Untitled.canvas",
