@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "e3677eefbeb7c38a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.3"
+              }
+            }
+          },
+          {
             "id": "2f713b7e81172dcd",
             "type": "leaf",
             "state": {
@@ -43,7 +53,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -213,7 +224,7 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "894eaffd91c2a2a4",
+  "active": "e3677eefbeb7c38a",
   "lastOpenFiles": [
     "HASKELL/Real World Haskell/1 Getting Started.md",
     "HASKELL/Real World Haskell/_ Real World Haskell.md",
