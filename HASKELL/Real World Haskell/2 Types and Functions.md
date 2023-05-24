@@ -56,7 +56,14 @@ ghci> head (drop 4 "azerty")
 't'
 ```
 
+> 
+> *function_name*  `arg1 arg2 ...`   =   *function body*
+> 
 
+## load a file to ghci
+- `:load fileName.hs`
+- `:cd /some_folder` > `:l file.hs`
+- `:l someFolder/file.hs`
 
-
+**Function
 
