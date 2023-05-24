@@ -5,6 +5,10 @@
       "path": "HASKELL/Real World Haskell/2 Types and Functions.md"
     },
     {
+      "basename": "thunk",
+      "path": "HASKELL/thunk.md"
+    },
+    {
       "basename": "1 Getting Started",
       "path": "HASKELL/Real World Haskell/1 Getting Started.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "23 HTTP Get Request",
       "path": "R U S T/Rust Programming Tutorial/23 HTTP Get Request.md"
-    },
-    {
-      "basename": "5 Enum",
-      "path": "R U S T/Rust Programming Tutorial/5 Enum.md"
     }
   ],
   "omittedPaths": [],

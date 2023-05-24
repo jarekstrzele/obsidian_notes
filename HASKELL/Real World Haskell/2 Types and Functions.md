@@ -94,7 +94,7 @@ myDrop n xs = if n <=  0 || null xs
 
 -----
 ## Evaluation
-
+==substitution==
 ### lazy evaluation - non-strict evaluation
 nonrecursive function
 ```haskell
@@ -112,7 +112,8 @@ isOdd n = mod n 2 == 1
 
 #### *non-strict* evaluation - Haskell
 - `1+2` is not reduce to `3` -- we create a *promise* that when the value of the expression `isOdd (1 + 2)` is needed, we will be able to compute it
-- 
+- *thunk* (thank) [[thunk]] 
+- we create a thunk and defer tha actual evaluation until it's really needed
 
 
 
