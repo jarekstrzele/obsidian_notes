@@ -40,7 +40,13 @@ myInfo = Book 98342398 "Algebra of Programming" ["Richard Bird", "Oege de Moor"]
 ```
 
 
-
+because:
+- If we are writing a type signature, we must be referring to a type constructor. 
+- If we are writing an expression, we must be using the value constructor.
+you can write use the same name as the data constructor and the value constructor
+```haskell
+data BookReview = BookReview BookInfo CustomerId String
+```
 
 
 
