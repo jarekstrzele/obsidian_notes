@@ -65,5 +65,29 @@ ghci> head (drop 4 "azerty")
 - `:cd /some_folder` > `:l file.hs`
 - `:l someFolder/file.hs`
 
-**Function
+## function is expression
+**Function** is **a single expression**, not a sequence of statements (it has no *return* keyword)
+
+## ` = ` 
+- this operator represents "**meaning**" 
+- `x = 10` the name `x` is defined to be the value of the expression `10`
+- **variable** provides a way to give a name to an expression
+	- its value **does not change**
+	- we can always use the name of the variable instead of writing out the expression
+	- in *imperative* languages *variable* is a way of identifying a *memory location*
+```haskell
+-- this code results in an error
+x = 10
+x = 11
+-- we cannot assign a value to `x` twice
+```
+
+
+---
+## Conditional evaluation
+```haskell
+
+```
+
+
 
