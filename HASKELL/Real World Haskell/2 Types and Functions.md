@@ -119,7 +119,9 @@ isOdd n = mod n 2 == 1
 
 
 
-
-
+------
+# Purity
+- purity makes the job of understanding code easier (the behaviour of a pure function does not depend on the value of a global variable or the contents of  a database or the state of a network connection)
+- Pure code is inherently modular: **every function is self-contained**, and has **a
 
 
