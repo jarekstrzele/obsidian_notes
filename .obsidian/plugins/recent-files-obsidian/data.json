@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "1 Rust Calc",
+      "path": "R U S T/Rust - FreeCode Beginner/1 Rust Calc.md"
+    },
+    {
+      "basename": "2 Rust Combiner",
+      "path": "R U S T/Rust - FreeCode Beginner/2 Rust Combiner.md"
+    },
+    {
+      "basename": "makro vs function",
+      "path": "R U S T/Rust - FreeCode Beginner/makro vs function.md"
+    },
+    {
+      "basename": "_ 0 Rust",
+      "path": "R U S T/Rust - FreeCode Beginner/_ 0 Rust.md"
+    },
+    {
       "basename": "1 React",
       "path": "_ FullStack/Full Stack Web Development  Bootcamp/1 React.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "13 Traits",
       "path": "R U S T/Rust Programming Tutorial/13 Traits.md"
-    },
-    {
-      "basename": "14. Vectors",
-      "path": "R U S T/Rust Programming Tutorial/14. Vectors.md"
-    },
-    {
-      "basename": "15 Files - working with them",
-      "path": "R U S T/Rust Programming Tutorial/15 Files - working with them.md"
-    },
-    {
-      "basename": "16 Command Line args",
-      "path": "R U S T/Rust Programming Tutorial/16 Command Line args.md"
-    },
-    {
-      "basename": "17 Pattern matching",
-      "path": "R U S T/Rust Programming Tutorial/17 Pattern matching.md"
     }
   ],
   "omittedPaths": [],

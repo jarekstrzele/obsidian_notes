@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ FullStack/Full Stack Web Development  Bootcamp/1 React.md",
+                "file": "R U S T/Rust - FreeCode Beginner/1 Rust Calc.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ FullStack/Full Stack Web Development  Bootcamp/1 React.md",
+                "file": "R U S T/Rust - FreeCode Beginner/1 Rust Calc.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ FullStack/Full Stack Web Development  Bootcamp/1 React.md",
+                "file": "R U S T/Rust - FreeCode Beginner/1 Rust Calc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ FullStack/Full Stack Web Development  Bootcamp/1 React.md"
+                "file": "R U S T/Rust - FreeCode Beginner/1 Rust Calc.md"
               }
             }
           },
@@ -203,8 +203,12 @@
   },
   "active": "2f713b7e81172dcd",
   "lastOpenFiles": [
-    "_ FullStack/Full Stack Web Development  Bootcamp/_ 0 Full stack Web Dev Bootcamp.md",
+    "R U S T/Rust - FreeCode Beginner/2 Rust Combiner.md",
+    "R U S T/Rust - FreeCode Beginner/makro vs function.md",
+    "R U S T/Rust - FreeCode Beginner/1 Rust Calc.md",
+    "R U S T/Rust - FreeCode Beginner/_ 0 Rust.md",
     "_ FullStack/Full Stack Web Development  Bootcamp/1 React.md",
+    "_ FullStack/Full Stack Web Development  Bootcamp/_ 0 Full stack Web Dev Bootcamp.md",
     "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md",
     "Untitled 1.canvas",
     "_ FullStack/Full Stack Web Development  Bootcamp/Appendixes/Shell vs Terminal.md",
@@ -226,10 +230,6 @@
     "HASKELL/Haskell for Imperative Programmers/4 Higher Order Functions.md",
     "HASKELL/Haskell for Imperative Programmers/3 Lists and Tuples.md",
     "HASKELL/Haskell for Imperative Programmers/2 Recursion, Guards, Patterns.md",
-    "HASKELL/Haskell for Imperative Programmers/1 Functions.md",
-    "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md",
-    "R U S T/Rust Programming Tutorial/26 JSON Rust.md",
-    "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md",
     "R U S T/Rust 101 Crash Course",
     "R U S T/Programowanie w Rust",
     "R U S T/Untitled.canvas",
