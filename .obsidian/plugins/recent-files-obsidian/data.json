@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "_ Ultimate Rust Lang Tutorial",
+      "path": "R U S T/ULTIMATE Rust Lang Tutorial/_ Ultimate Rust Lang Tutorial.md"
+    },
+    {
+      "basename": "_ Rust Tech with Tim",
+      "path": "R U S T/Tech with TIm Rust/_ Rust Tech with Tim.md"
+    },
+    {
+      "basename": "_ 0 Rust Web Book",
+      "path": "R U S T/Rust Web Book/_ 0 Rust Web Book.md"
+    },
+    {
+      "basename": "_ Rust Programming for Beginners",
+      "path": "R U S T/Rust Programming For Beginners/_ Rust Programming for Beginners.md"
+    },
+    {
       "basename": "1 Rust Calc",
       "path": "R U S T/Rust - FreeCode Beginner/1 Rust Calc.md"
     },
@@ -129,10 +145,6 @@
       "path": "R U S T/Rust Programming Tutorial/25 Test Rust.md"
     },
     {
-      "basename": "_ Rust Programming for Beginners",
-      "path": "R U S T/Rust Programming For Beginners/_ Rust Programming for Beginners.md"
-    },
-    {
       "basename": "_ Programowanie w języku Rust",
       "path": "R U S T/Programmowanie_w Rust/_ Programowanie w języku Rust.md"
     },
@@ -169,10 +181,6 @@
       "path": "JAVASCRIPT/Functional/0- Intro functional programming (beginner udemy).md"
     },
     {
-      "basename": "_ Ultimate Rust Lang Tutorial",
-      "path": "R U S T/ULTIMATE Rust Lang Tutorial/_ Ultimate Rust Lang Tutorial.md"
-    },
-    {
       "basename": "24 Run in CLI",
       "path": "R U S T/Rust Programming Tutorial/24 Run in CLI.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "11 Arrays",
       "path": "R U S T/Rust Programming Tutorial/11 Arrays.md"
-    },
-    {
-      "basename": "12 String",
-      "path": "R U S T/Rust Programming Tutorial/12 String.md"
-    },
-    {
-      "basename": "13 Traits",
-      "path": "R U S T/Rust Programming Tutorial/13 Traits.md"
     }
   ],
   "omittedPaths": [],
