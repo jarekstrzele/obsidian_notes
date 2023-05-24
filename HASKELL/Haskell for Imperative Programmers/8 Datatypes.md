@@ -52,7 +52,16 @@ data Person = Persin {  name :: String,
 ```
 
 you get a function to get `name` and `age`
+`name :: Person -> String `
+`age :: Person -> Int `
 
+```haskell
+greet :: Person -> [Char]
+greet person = "Hi " ++ name person
+
+-- with pattern matching
+greet (Person name _) = "Hi" ++ n
+```
 
 
 
