@@ -86,8 +86,27 @@ x = 11
 ---
 ## Conditional evaluation
 ```haskell
-
+myDrop n xs = if n <=  0 || null xs
+			then xs
+			else myDrop (n - 1) (tail xs)
 ```
+
+
+-----
+## Evaluation
+
+### lazy evaluation
+nonrecursive function
+```haskell
+isOdd n = mod n 2 == 1
+```
+
+
+
+
+
+
+
 
 
 
