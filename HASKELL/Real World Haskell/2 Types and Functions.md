@@ -75,6 +75,8 @@ ghci> head (drop 4 "azerty")
 	- its value **does not change**
 	- we can always use the name of the variable instead of writing out the expression
 	- in *imperative* languages *variable* is a way of identifying a *memory location*
+	- Type variables always start with a lowercase letter
+	- 
 ```haskell
 -- this code results in an error
 x = 10
@@ -112,7 +114,7 @@ isOdd n = mod n 2 == 1
 
 #### *non-strict* evaluation - Haskell
 - `1+2` is not reduce to `3` -- we create a *promise* that when the value of the expression `isOdd (1 + 2)` is needed, we will be able to compute it
-- *thunk* (thank) [[thunk]] 
+- *thunk* (thank) [[thunk]] - it is a deffered expression
 - we create a thunk and defer tha actual evaluation until it's really needed
 
 
