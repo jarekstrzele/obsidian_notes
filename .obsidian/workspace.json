@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HASKELL/Real World Haskell/2 Types and Functions.md",
+                "file": "HASKELL/Real World Haskell/3 Defining Types, Streamlining Functions.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/Real World Haskell/2 Types and Functions.md",
+                "file": "HASKELL/Real World Haskell/3 Defining Types, Streamlining Functions.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/Real World Haskell/2 Types and Functions.md",
+                "file": "HASKELL/Real World Haskell/3 Defining Types, Streamlining Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/Real World Haskell/2 Types and Functions.md"
+                "file": "HASKELL/Real World Haskell/3 Defining Types, Streamlining Functions.md"
               }
             }
           },
@@ -215,8 +215,9 @@
   },
   "active": "894eaffd91c2a2a4",
   "lastOpenFiles": [
-    "HASKELL/thunk.md",
     "HASKELL/Real World Haskell/2 Types and Functions.md",
+    "HASKELL/Real World Haskell/3 Defining Types, Streamlining Functions.md",
+    "HASKELL/thunk.md",
     "HASKELL/Real World Haskell/1 Getting Started.md",
     "HASKELL/Real World Haskell/_ Real World Haskell.md",
     "HASKELL/Installing.md",
@@ -240,7 +241,6 @@
     "R U S T/Rust Programming For Beginners/_ Rust Programming for Beginners.md",
     "R U S T/Programmowanie_w Rust/_ Programowanie w języku Rust.md",
     "JAVASCRIPT/Functional/7 Counter App vs3 - with Virtual DOM.md",
-    "JAVASCRIPT/Functional/Reduce.md",
     "R U S T/Rust 101 Crash Course",
     "R U S T/Programowanie w Rust",
     "R U S T/Untitled.canvas",

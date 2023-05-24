@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "3 Defining Types, Streamlining Functions",
+      "path": "HASKELL/Real World Haskell/3 Defining Types, Streamlining Functions.md"
+    },
+    {
       "basename": "2 Types and Functions",
       "path": "HASKELL/Real World Haskell/2 Types and Functions.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "22 Option (Enum)",
       "path": "R U S T/Rust Programming Tutorial/22 Option (Enum).md"
-    },
-    {
-      "basename": "23 HTTP Get Request",
-      "path": "R U S T/Rust Programming Tutorial/23 HTTP Get Request.md"
     }
   ],
   "omittedPaths": [],
