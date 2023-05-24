@@ -20,6 +20,7 @@
 
 --------------
 # defining a new data type
+## definition
 ### `data` keyword
 ```haskell
 data BookInfo = Book Int String [String]
@@ -27,7 +28,19 @@ data BookInfo = Book Int String [String]
 				
 ```
 - `BookInfo` it is our new type - this is **a type constructor** (a type name starts with a capital letter)
-- `Book` it is **a value constructor** / data constructor; we use it to create a value of the `BookInfo` type (the value constructor star)
+- `Book` it is **a value constructor** / data constructor; we use it to create a value of the `BookInfo` type (the value constructor starts with a capital letter)
+- `Int String [String]` are **components of the type** (similar to fields in  structures or classes) - components "` == ` " fields
+	- `Int` - id
+	- `String` - title
+	- `[String]` names of its authors
+
+## creation
+```haskell
+myInfo = Book 98342398 "Algebra of Programming" ["Richard Bird", "Oege de Moor"]
+```
+
+
+
 
 
 
