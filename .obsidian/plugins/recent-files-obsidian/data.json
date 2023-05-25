@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "_ NodeJS 101 Crash Course",
+      "path": "_ WEB/N_O_D_E/Node JS 101 Crash/_ NodeJS 101 Crash Course.md"
+    },
+    {
       "basename": "3.1 Express - introducing",
       "path": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Types of functions",
       "path": "JAVASCRIPT/Functional/Types of functions.md"
-    },
-    {
-      "basename": "Modify arrays in immutable way",
-      "path": "JAVASCRIPT/Functional/Modify arrays in immutable way.md"
     }
   ],
   "omittedPaths": [],
