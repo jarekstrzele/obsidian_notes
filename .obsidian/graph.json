@@ -46,7 +46,7 @@
       "query": "docker",
       "color": {
         "a": 1,
-        "rgb": 15002092
+        "rgb": 14912013
       }
     },
     {
@@ -81,6 +81,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 209,
-  "scale": 0.076952509373729,
+  "scale": 0.38564307862722524,
   "close": false
 }
