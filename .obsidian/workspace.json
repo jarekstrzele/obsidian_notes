@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/8.1 User Input.md",
+                "file": "R U S T/Rust Programming For Beginners/8.4 Map Combinator.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/8.1 User Input.md",
+                "file": "R U S T/Rust Programming For Beginners/8.4 Map Combinator.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/8.1 User Input.md",
+                "file": "R U S T/Rust Programming For Beginners/8.4 Map Combinator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/8.1 User Input.md"
+                "file": "R U S T/Rust Programming For Beginners/8.4 Map Combinator.md"
               }
             }
           },
@@ -228,9 +228,11 @@
   },
   "active": "6cb05f6c5a797072",
   "lastOpenFiles": [
+    "R U S T/Rust Programming For Beginners/8.3. Closures Rust.md",
+    "R U S T/Rust Programming For Beginners/8.2 Interactive billing app.md",
+    "R U S T/Rust Programming For Beginners/8.1 User Input.md",
     "R U S T/Rust Programming For Beginners/8 Real World.md",
     "R U S T/Rust Programming For Beginners/8.4 Map Combinator.md",
-    "R U S T/Rust Programming For Beginners/8.1 User Input.md",
     "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md",
     "R U S T/Rust Programming For Beginners/6 Data Collections.md",
     "R U S T/Rust Programming For Beginners/5 Intermediate Concepts.md",
@@ -253,8 +255,6 @@
     "R U S T/ULTIMATE Rust Lang Tutorial/_ Ultimate Rust Lang Tutorial.md",
     "R U S T/Tech with TIm Rust/_ Rust Tech with Tim.md",
     "R U S T/Rust Web Book/_ 0 Rust Web Book.md",
-    "R U S T/Rust - FreeCode Beginner/1 Rust Calc.md",
-    "R U S T/Rust - FreeCode Beginner/2 Rust Combiner.md",
     "Untitled 1.canvas",
     "R U S T/Rust 101 Crash Course",
     "R U S T/Programowanie w Rust",

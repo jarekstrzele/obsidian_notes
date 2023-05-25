@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "8.4 Map Combinator",
+      "path": "R U S T/Rust Programming For Beginners/8.4 Map Combinator.md"
+    },
+    {
+      "basename": "8.3. Closures Rust",
+      "path": "R U S T/Rust Programming For Beginners/8.3. Closures Rust.md"
+    },
+    {
+      "basename": "8.2 Interactive billing app",
+      "path": "R U S T/Rust Programming For Beginners/8.2 Interactive billing app.md"
+    },
+    {
       "basename": "8.1 User Input",
       "path": "R U S T/Rust Programming For Beginners/8.1 User Input.md"
     },
     {
       "basename": "8 Real World",
       "path": "R U S T/Rust Programming For Beginners/8 Real World.md"
-    },
-    {
-      "basename": "8.4 Map Combinator",
-      "path": "R U S T/Rust Programming For Beginners/8.4 Map Combinator.md"
     },
     {
       "basename": "7 Advanced Concepts",
@@ -191,14 +199,6 @@
     {
       "basename": "3 Lists and Tuples",
       "path": "HASKELL/Haskell for Imperative Programmers/3 Lists and Tuples.md"
-    },
-    {
-      "basename": "2 Recursion, Guards, Patterns",
-      "path": "HASKELL/Haskell for Imperative Programmers/2 Recursion, Guards, Patterns.md"
-    },
-    {
-      "basename": "1 Functions",
-      "path": "HASKELL/Haskell for Imperative Programmers/1 Functions.md"
     }
   ],
   "omittedPaths": [],
