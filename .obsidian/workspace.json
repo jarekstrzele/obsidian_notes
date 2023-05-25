@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6cb05f6c5a797072",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "R U S T/Rust Programming For Beginners/4 Data.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -126,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
+                "file": "R U S T/Rust Programming For Beginners/4 Data.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -143,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
+                "file": "R U S T/Rust Programming For Beginners/4 Data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md"
+                "file": "R U S T/Rust Programming For Beginners/4 Data.md"
               }
             }
           },
@@ -214,10 +226,13 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "1cb00c9d98fbe5e4",
+  "active": "6cb05f6c5a797072",
   "lastOpenFiles": [
-    "_ WEB/N_O_D_E/Node JS 101 Crash/_ NodeJS 101 Crash Course.md",
+    "R U S T/Rust Programming For Beginners/3 Repetition.md",
+    "R U S T/Rust Programming For Beginners/2 Making Decisions.md",
+    "R U S T/Rust Programming For Beginners/_ Rust Programming for Beginners.md",
     "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
+    "_ WEB/N_O_D_E/Node JS 101 Crash/_ NodeJS 101 Crash Course.md",
     "_ WEB/N_O_D_E/Node JS 101 Crash",
     "_ WEB/N_O_D_E/Mosh Node/3 RESTful API's using Express.md",
     "_ WEB/N_O_D_E/Mosh Node/1 Node Module System.md",
@@ -231,7 +246,6 @@
     "R U S T/ULTIMATE Rust Lang Tutorial/_ Ultimate Rust Lang Tutorial.md",
     "R U S T/Tech with TIm Rust/_ Rust Tech with Tim.md",
     "R U S T/Rust Web Book/_ 0 Rust Web Book.md",
-    "R U S T/Rust Programming For Beginners/_ Rust Programming for Beginners.md",
     "R U S T/Rust - FreeCode Beginner/1 Rust Calc.md",
     "R U S T/Rust - FreeCode Beginner/2 Rust Combiner.md",
     "R U S T/Rust - FreeCode Beginner/makro vs function.md",
@@ -242,8 +256,6 @@
     "Untitled 1.canvas",
     "_ FullStack/Full Stack Web Development  Bootcamp/Appendixes/Shell vs Terminal.md",
     "HASKELL/Real World Haskell/3 Defining Types, Streamlining Functions.md",
-    "HASKELL/Real World Haskell/2 Types and Functions.md",
-    "HASKELL/thunk.md",
     "R U S T/Rust 101 Crash Course",
     "R U S T/Programowanie w Rust",
     "R U S T/Untitled.canvas",

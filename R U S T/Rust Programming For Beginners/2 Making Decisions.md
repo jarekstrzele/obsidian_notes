@@ -29,9 +29,9 @@ fn main(){
 
   let my_bool = false ;
   match my_bool {
-    true => println!("This is true") //this is expression so it ends with `.` not `;`
-    , false => println!("This is false")
-    ,
+    true => println!("This is true"), //this is expression so it ends with `.` not `;`
+    false => println!("This is false")
+    
   }
 }
 ```

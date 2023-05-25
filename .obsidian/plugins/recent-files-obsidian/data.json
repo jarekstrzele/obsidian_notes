@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "4 Data",
+      "path": "R U S T/Rust Programming For Beginners/4 Data.md"
+    },
+    {
+      "basename": "3 Repetition",
+      "path": "R U S T/Rust Programming For Beginners/3 Repetition.md"
+    },
+    {
+      "basename": "2 Making Decisions",
+      "path": "R U S T/Rust Programming For Beginners/2 Making Decisions.md"
+    },
+    {
+      "basename": "_ Rust Programming for Beginners",
+      "path": "R U S T/Rust Programming For Beginners/_ Rust Programming for Beginners.md"
+    },
+    {
       "basename": "3.1 Express - introducing",
       "path": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md"
     },
@@ -55,10 +71,6 @@
     {
       "basename": "_ 0 Rust Web Book",
       "path": "R U S T/Rust Web Book/_ 0 Rust Web Book.md"
-    },
-    {
-      "basename": "_ Rust Programming for Beginners",
-      "path": "R U S T/Rust Programming For Beginners/_ Rust Programming for Beginners.md"
     },
     {
       "basename": "1 Rust Calc",
@@ -187,18 +199,6 @@
     {
       "basename": "_ Programowanie w języku Rust",
       "path": "R U S T/Programmowanie_w Rust/_ Programowanie w języku Rust.md"
-    },
-    {
-      "basename": "7 Counter App vs3 - with Virtual DOM",
-      "path": "JAVASCRIPT/Functional/7 Counter App vs3 - with Virtual DOM.md"
-    },
-    {
-      "basename": "Reduce",
-      "path": "JAVASCRIPT/Functional/Reduce.md"
-    },
-    {
-      "basename": "Types of functions",
-      "path": "JAVASCRIPT/Functional/Types of functions.md"
     }
   ],
   "omittedPaths": [],
