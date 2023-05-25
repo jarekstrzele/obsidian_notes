@@ -1,10 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "1 Framework Django",
-      "path": "Studia/Python BackEnd/Django/1 Framework Django.md"
-    },
-    {
       "basename": "3.1 Express - introducing",
       "path": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md"
     },
@@ -15,6 +11,10 @@
     {
       "basename": "1 Node Module System",
       "path": "_ WEB/N_O_D_E/Mosh Node/1 Node Module System.md"
+    },
+    {
+      "basename": "1 Framework Django",
+      "path": "Studia/Python BackEnd/Django/1 Framework Django.md"
     },
     {
       "basename": "_ 0 Node (Mosh)",
