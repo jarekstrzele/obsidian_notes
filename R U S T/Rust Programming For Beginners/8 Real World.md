@@ -4,5 +4,5 @@
 [[8.2 Interactive billing app]]
 [[8.3. Closures Rust]]
 [[8.4 Map Combinator]]
-
+[[8.5 Modules]]
 

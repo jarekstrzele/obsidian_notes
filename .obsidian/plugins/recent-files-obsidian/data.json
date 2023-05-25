@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "8.5 Modules",
+      "path": "R U S T/Rust Programming For Beginners/8.5 Modules.md"
+    },
+    {
+      "basename": "8 Real World",
+      "path": "R U S T/Rust Programming For Beginners/8 Real World.md"
+    },
+    {
+      "basename": "8.1 User Input",
+      "path": "R U S T/Rust Programming For Beginners/8.1 User Input.md"
+    },
+    {
+      "basename": "8.2 Interactive billing app",
+      "path": "R U S T/Rust Programming For Beginners/8.2 Interactive billing app.md"
+    },
+    {
+      "basename": "8.3. Closures Rust",
+      "path": "R U S T/Rust Programming For Beginners/8.3. Closures Rust.md"
+    },
+    {
       "basename": "8.4 Map Combinator",
       "path": "R U S T/Rust Programming For Beginners/8.4 Map Combinator.md"
     },
@@ -19,22 +39,6 @@
     {
       "basename": "5 Intermediate Concepts",
       "path": "R U S T/Rust Programming For Beginners/5 Intermediate Concepts.md"
-    },
-    {
-      "basename": "8.3. Closures Rust",
-      "path": "R U S T/Rust Programming For Beginners/8.3. Closures Rust.md"
-    },
-    {
-      "basename": "8.2 Interactive billing app",
-      "path": "R U S T/Rust Programming For Beginners/8.2 Interactive billing app.md"
-    },
-    {
-      "basename": "8.1 User Input",
-      "path": "R U S T/Rust Programming For Beginners/8.1 User Input.md"
-    },
-    {
-      "basename": "8 Real World",
-      "path": "R U S T/Rust Programming For Beginners/8 Real World.md"
     },
     {
       "basename": "6 Data Collections",
@@ -195,10 +199,6 @@
     {
       "basename": "4 Higher Order Functions",
       "path": "HASKELL/Haskell for Imperative Programmers/4 Higher Order Functions.md"
-    },
-    {
-      "basename": "3 Lists and Tuples",
-      "path": "HASKELL/Haskell for Imperative Programmers/3 Lists and Tuples.md"
     }
   ],
   "omittedPaths": [],
