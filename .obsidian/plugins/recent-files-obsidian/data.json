@@ -5,6 +5,22 @@
       "path": "R U S T/Rust Programming For Beginners/8.4 Map Combinator.md"
     },
     {
+      "basename": "7 Advanced Concepts",
+      "path": "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md"
+    },
+    {
+      "basename": "3 Repetition",
+      "path": "R U S T/Rust Programming For Beginners/3 Repetition.md"
+    },
+    {
+      "basename": "4 Data",
+      "path": "R U S T/Rust Programming For Beginners/4 Data.md"
+    },
+    {
+      "basename": "5 Intermediate Concepts",
+      "path": "R U S T/Rust Programming For Beginners/5 Intermediate Concepts.md"
+    },
+    {
       "basename": "8.3. Closures Rust",
       "path": "R U S T/Rust Programming For Beginners/8.3. Closures Rust.md"
     },
@@ -21,24 +37,8 @@
       "path": "R U S T/Rust Programming For Beginners/8 Real World.md"
     },
     {
-      "basename": "7 Advanced Concepts",
-      "path": "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md"
-    },
-    {
       "basename": "6 Data Collections",
       "path": "R U S T/Rust Programming For Beginners/6 Data Collections.md"
-    },
-    {
-      "basename": "5 Intermediate Concepts",
-      "path": "R U S T/Rust Programming For Beginners/5 Intermediate Concepts.md"
-    },
-    {
-      "basename": "4 Data",
-      "path": "R U S T/Rust Programming For Beginners/4 Data.md"
-    },
-    {
-      "basename": "3 Repetition",
-      "path": "R U S T/Rust Programming For Beginners/3 Repetition.md"
     },
     {
       "basename": "2 Making Decisions",
