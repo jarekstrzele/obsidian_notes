@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/4 Data.md",
+                "file": "R U S T/Rust Programming For Beginners/8.1 User Input.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/4 Data.md",
+                "file": "R U S T/Rust Programming For Beginners/8.1 User Input.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/4 Data.md",
+                "file": "R U S T/Rust Programming For Beginners/8.1 User Input.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/4 Data.md"
+                "file": "R U S T/Rust Programming For Beginners/8.1 User Input.md"
               }
             }
           },
@@ -228,6 +228,13 @@
   },
   "active": "6cb05f6c5a797072",
   "lastOpenFiles": [
+    "R U S T/Rust Programming For Beginners/8 Real World.md",
+    "R U S T/Rust Programming For Beginners/8.4 Map Combinator.md",
+    "R U S T/Rust Programming For Beginners/8.1 User Input.md",
+    "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md",
+    "R U S T/Rust Programming For Beginners/6 Data Collections.md",
+    "R U S T/Rust Programming For Beginners/5 Intermediate Concepts.md",
+    "R U S T/Rust Programming For Beginners/4 Data.md",
     "R U S T/Rust Programming For Beginners/3 Repetition.md",
     "R U S T/Rust Programming For Beginners/2 Making Decisions.md",
     "R U S T/Rust Programming For Beginners/_ Rust Programming for Beginners.md",
@@ -248,14 +255,7 @@
     "R U S T/Rust Web Book/_ 0 Rust Web Book.md",
     "R U S T/Rust - FreeCode Beginner/1 Rust Calc.md",
     "R U S T/Rust - FreeCode Beginner/2 Rust Combiner.md",
-    "R U S T/Rust - FreeCode Beginner/makro vs function.md",
-    "R U S T/Rust - FreeCode Beginner/_ 0 Rust.md",
-    "_ FullStack/Full Stack Web Development  Bootcamp/1 React.md",
-    "_ FullStack/Full Stack Web Development  Bootcamp/_ 0 Full stack Web Dev Bootcamp.md",
-    "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md",
     "Untitled 1.canvas",
-    "_ FullStack/Full Stack Web Development  Bootcamp/Appendixes/Shell vs Terminal.md",
-    "HASKELL/Real World Haskell/3 Defining Types, Streamlining Functions.md",
     "R U S T/Rust 101 Crash Course",
     "R U S T/Programowanie w Rust",
     "R U S T/Untitled.canvas",

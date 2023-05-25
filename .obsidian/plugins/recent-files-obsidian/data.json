@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "8.1 User Input",
+      "path": "R U S T/Rust Programming For Beginners/8.1 User Input.md"
+    },
+    {
+      "basename": "8 Real World",
+      "path": "R U S T/Rust Programming For Beginners/8 Real World.md"
+    },
+    {
+      "basename": "8.4 Map Combinator",
+      "path": "R U S T/Rust Programming For Beginners/8.4 Map Combinator.md"
+    },
+    {
+      "basename": "7 Advanced Concepts",
+      "path": "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md"
+    },
+    {
+      "basename": "6 Data Collections",
+      "path": "R U S T/Rust Programming For Beginners/6 Data Collections.md"
+    },
+    {
+      "basename": "5 Intermediate Concepts",
+      "path": "R U S T/Rust Programming For Beginners/5 Intermediate Concepts.md"
+    },
+    {
       "basename": "4 Data",
       "path": "R U S T/Rust Programming For Beginners/4 Data.md"
     },
@@ -97,10 +121,6 @@
       "path": "_ FullStack/Full Stack Web Development  Bootcamp/_ 0 Full stack Web Dev Bootcamp.md"
     },
     {
-      "basename": "7 Advanced Concepts",
-      "path": "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md"
-    },
-    {
       "basename": "Untitled 1",
       "path": "Untitled 1.canvas"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "1 Functions",
       "path": "HASKELL/Haskell for Imperative Programmers/1 Functions.md"
-    },
-    {
-      "basename": "_ 0 Haskell for Imperative Programmers",
-      "path": "HASKELL/Haskell for Imperative Programmers/_ 0 Haskell for Imperative Programmers.md"
-    },
-    {
-      "basename": "26 JSON Rust",
-      "path": "R U S T/Rust Programming Tutorial/26 JSON Rust.md"
-    },
-    {
-      "basename": "_ Rust Programming Tutorial",
-      "path": "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md"
-    },
-    {
-      "basename": "25 Test Rust",
-      "path": "R U S T/Rust Programming Tutorial/25 Test Rust.md"
-    },
-    {
-      "basename": "_ Programowanie w języku Rust",
-      "path": "R U S T/Programmowanie_w Rust/_ Programowanie w języku Rust.md"
     }
   ],
   "omittedPaths": [],

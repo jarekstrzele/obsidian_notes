@@ -19,7 +19,7 @@
 #rust/copy  #rust/clone   #rust/derive 
 
 >[!info] Derive
->It is a special macrto that is applied to `enum` and `struct`
+>It is a special macro that is applied to `enum` and `struct`
 >`#[dervie(...)]` 
 >`Debug` debug printing functionaity 
 >`Clone`
