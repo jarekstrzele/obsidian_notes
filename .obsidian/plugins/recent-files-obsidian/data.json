@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "9.1 Option Combinators",
+      "path": "R U S T/Rust Programming For Beginners/9.1 Option Combinators.md"
+    },
+    {
+      "basename": "9 Refining Your Code",
+      "path": "R U S T/Rust Programming For Beginners/9 Refining Your Code.md"
+    },
+    {
       "basename": "8.6 Test Rust",
       "path": "R U S T/Rust Programming For Beginners/8.6 Test Rust.md"
     },
     {
-      "basename": "8.5 Modules",
-      "path": "R U S T/Rust Programming For Beginners/8.5 Modules.md"
-    },
-    {
       "basename": "8 Real World",
       "path": "R U S T/Rust Programming For Beginners/8 Real World.md"
+    },
+    {
+      "basename": "8.5 Modules",
+      "path": "R U S T/Rust Programming For Beginners/8.5 Modules.md"
     },
     {
       "basename": "_ Rust Programming for Beginners",
@@ -191,14 +199,6 @@
     {
       "basename": "haskell expression",
       "path": "HASKELL/haskell expression.md"
-    },
-    {
-      "basename": "First steps",
-      "path": "HASKELL/First steps.md"
-    },
-    {
-      "basename": "Simple Haskell File - Structure",
-      "path": "HASKELL/Simple Haskell File - Structure.md"
     }
   ],
   "omittedPaths": [],
