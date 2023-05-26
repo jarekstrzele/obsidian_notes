@@ -66,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/haskell_IO.excalidraw.md",
+                "file": "HASKELL/Haskell for Imperative Programmers/11 IO.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/haskell_IO.excalidraw.md",
+                "file": "HASKELL/Haskell for Imperative Programmers/11 IO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/haskell_IO.excalidraw.md"
+                "file": "HASKELL/Haskell for Imperative Programmers/11 IO.md"
               }
             }
           },
@@ -236,10 +236,10 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "15f0cb8aee19cf04",
+  "active": "6cb05f6c5a797072",
   "lastOpenFiles": [
-    "HASKELL/Haskell for Imperative Programmers/11 IO.md",
     "Excalidraw/haskell_IO.excalidraw.md",
+    "HASKELL/Haskell for Imperative Programmers/11 IO.md",
     "HASKELL/Haskell for Imperative Programmers/10 Maybe.md",
     "HASKELL/Haskell for Imperative Programmers/9 Typeclasses.md",
     "R U S T/Rust Programming For Beginners/8.6 Test Rust.md",
