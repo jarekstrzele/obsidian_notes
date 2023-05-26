@@ -1,5 +1,7 @@
 https://www.youtube.com/watch?v=1txgSlcpQmo&list=PLe7Ei6viL6jGp1Rfu0dil1JH1SHk9bgDV&index=13
 
+#haskell/typeclasses
+
 
 # Type constrain
 ```haskell
@@ -50,7 +52,13 @@ instance Eq Temperature where
 
 ```haskell
 data Temperature = C Float | F Float
-	deriving (Show, Eq)
+	deriving (Show, Eq)o
+
+-- derived equivalence - not good
+instance Eq Temperature where
+  (==) (C n) (C m) = n == m
+  (==) (F n) (F m) = n == m
+  (==) _ _ == false
 ```
 
 

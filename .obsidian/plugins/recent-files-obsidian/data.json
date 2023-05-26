@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "10 Maybe",
+      "path": "HASKELL/Haskell for Imperative Programmers/10 Maybe.md"
+    },
+    {
       "basename": "9 Typeclasses",
       "path": "HASKELL/Haskell for Imperative Programmers/9 Typeclasses.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Cabal",
       "path": "HASKELL/Cabal.md"
-    },
-    {
-      "basename": "haskell expression",
-      "path": "HASKELL/haskell expression.md"
     }
   ],
   "omittedPaths": [],
