@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/9.1 Option Combinators.md",
+                "file": "R U S T/Rust Programming For Beginners/8.6 Test Rust.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/9.1 Option Combinators.md",
+                "file": "R U S T/Rust Programming For Beginners/8.6 Test Rust.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/9.1 Option Combinators.md",
+                "file": "R U S T/Rust Programming For Beginners/8.6 Test Rust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/9.1 Option Combinators.md"
+                "file": "R U S T/Rust Programming For Beginners/8.6 Test Rust.md"
               }
             }
           },
