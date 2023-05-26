@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "haskell_IO.excalidraw",
+      "path": "Excalidraw/haskell_IO.excalidraw.md"
+    },
+    {
+      "basename": "11 IO",
+      "path": "HASKELL/Haskell for Imperative Programmers/11 IO.md"
+    },
+    {
       "basename": "10 Maybe",
       "path": "HASKELL/Haskell for Imperative Programmers/10 Maybe.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Installing",
       "path": "HASKELL/Installing.md"
-    },
-    {
-      "basename": "Haskell Pocket Guide",
-      "path": "HASKELL/Haskell Pocket Guide.md"
-    },
-    {
-      "basename": "Cabal",
-      "path": "HASKELL/Cabal.md"
     }
   ],
   "omittedPaths": [],

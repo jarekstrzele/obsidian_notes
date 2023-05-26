@@ -49,14 +49,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HASKELL/Haskell for Imperative Programmers/10 Maybe.md",
+                "file": "HASKELL/Haskell for Imperative Programmers/11 IO.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "15f0cb8aee19cf04",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/haskell_IO.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -138,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/Haskell for Imperative Programmers/10 Maybe.md",
+                "file": "Excalidraw/haskell_IO.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -155,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/Haskell for Imperative Programmers/10 Maybe.md",
+                "file": "Excalidraw/haskell_IO.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/Haskell for Imperative Programmers/10 Maybe.md"
+                "file": "Excalidraw/haskell_IO.excalidraw.md"
               }
             }
           },
@@ -226,10 +236,12 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "6cb05f6c5a797072",
+  "active": "15f0cb8aee19cf04",
   "lastOpenFiles": [
-    "HASKELL/Haskell for Imperative Programmers/9 Typeclasses.md",
+    "HASKELL/Haskell for Imperative Programmers/11 IO.md",
+    "Excalidraw/haskell_IO.excalidraw.md",
     "HASKELL/Haskell for Imperative Programmers/10 Maybe.md",
+    "HASKELL/Haskell for Imperative Programmers/9 Typeclasses.md",
     "R U S T/Rust Programming For Beginners/8.6 Test Rust.md",
     "R U S T/Rust Programming For Beginners/9 Refining Your Code.md",
     "R U S T/Rust Programming For Beginners/9.1 Option Combinators.md",
@@ -254,8 +266,6 @@
     "_ WEB/N_O_D_E/Node JS 101 Crash",
     "_ WEB/N_O_D_E/Mosh Node/3 RESTful API's using Express.md",
     "_ WEB/N_O_D_E/Mosh Node/1 Node Module System.md",
-    "Studia/Python BackEnd/Django/1 Framework Django.md",
-    "_ WEB/N_O_D_E/Mosh Node/_ 0 Node (Mosh).md",
     "Untitled 1.canvas",
     "R U S T/Rust 101 Crash Course",
     "R U S T/Programowanie w Rust",
