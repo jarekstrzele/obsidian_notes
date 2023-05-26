@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "9 Typeclasses",
+      "path": "HASKELL/Haskell for Imperative Programmers/9 Typeclasses.md"
+    },
+    {
       "basename": "8.6 Test Rust",
       "path": "R U S T/Rust Programming For Beginners/8.6 Test Rust.md"
     },
@@ -103,10 +107,6 @@
     {
       "basename": "2 Django",
       "path": "Studia/Python BackEnd/Django/2 Django.md"
-    },
-    {
-      "basename": "9 Typeclasses",
-      "path": "HASKELL/Haskell for Imperative Programmers/9 Typeclasses.md"
     },
     {
       "basename": "8 Datatypes",
