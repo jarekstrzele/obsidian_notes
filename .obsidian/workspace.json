@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A I/JS uczenie maszynowe/_ 0 Uczenie maszynowe z JS.md",
+                "file": "A I/SI na Froncie/3 AI na froncie.md",
                 "mode": "source",
                 "source": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A I/JS uczenie maszynowe/_ 0 Uczenie maszynowe z JS.md",
+                "file": "A I/SI na Froncie/3 AI na froncie.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A I/JS uczenie maszynowe/_ 0 Uczenie maszynowe z JS.md",
+                "file": "A I/SI na Froncie/3 AI na froncie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A I/JS uczenie maszynowe/_ 0 Uczenie maszynowe z JS.md"
+                "file": "A I/SI na Froncie/3 AI na froncie.md"
               }
             }
           },
@@ -238,6 +238,11 @@
   },
   "active": "6cb05f6c5a797072",
   "lastOpenFiles": [
+    "A I/SI na Froncie/4 tensorflow.js.md",
+    "A I/SI na Froncie/3 AI na froncie.md",
+    "A I/SI na Froncie/2. SI i Uczenie maszynowe.md",
+    "A I/SI na Froncie/_ Wprowadzenie SI z JS.md",
+    "A I/JS uczenie maszynowe/_ 0 Uczenie maszynowe z JS.md",
     "HASKELL/Haskell for Imperative Programmers/11 IO.md",
     "Excalidraw/haskell_IO.excalidraw.md",
     "HASKELL/Haskell for Imperative Programmers/10 Maybe.md",
@@ -248,7 +253,6 @@
     "R U S T/Rust Programming For Beginners/8 Real World.md",
     "R U S T/Rust Programming For Beginners/8.5 Modules.md",
     "R U S T/Rust Programming For Beginners/_ Rust Programming for Beginners.md",
-    "A I/JS uczenie maszynowe/_ 0 Uczenie maszynowe z JS.md",
     "methodology/images/seaborn_relplot_tip_total_bill_4.png",
     "_ Mobile/REACT NATIVE/React Native Practical Guide/1.6 Press to Delete and Style it.md",
     "R U S T/Rust Programming For Beginners/8.1 User Input.md",
@@ -261,11 +265,7 @@
     "R U S T/Rust Programming For Beginners/5 Intermediate Concepts.md",
     "R U S T/Rust Programming For Beginners/6 Data Collections.md",
     "R U S T/Rust Programming For Beginners/2 Making Decisions.md",
-    "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
-    "_ WEB/N_O_D_E/Node JS 101 Crash/_ NodeJS 101 Crash Course.md",
     "_ WEB/N_O_D_E/Node JS 101 Crash",
-    "_ WEB/N_O_D_E/Mosh Node/3 RESTful API's using Express.md",
-    "_ WEB/N_O_D_E/Mosh Node/1 Node Module System.md",
     "Untitled 1.canvas",
     "R U S T/Rust 101 Crash Course",
     "R U S T/Programowanie w Rust",

@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "3 AI na froncie",
+      "path": "A I/SI na Froncie/3 AI na froncie.md"
+    },
+    {
+      "basename": "4 tensorflow.js",
+      "path": "A I/SI na Froncie/4 tensorflow.js.md"
+    },
+    {
+      "basename": "2. SI i Uczenie maszynowe",
+      "path": "A I/SI na Froncie/2. SI i Uczenie maszynowe.md"
+    },
+    {
+      "basename": "_ Wprowadzenie SI z JS",
+      "path": "A I/SI na Froncie/_ Wprowadzenie SI z JS.md"
+    },
+    {
       "basename": "_ 0 Uczenie maszynowe z JS",
       "path": "A I/JS uczenie maszynowe/_ 0 Uczenie maszynowe z JS.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "2 Types and Functions",
       "path": "HASKELL/Real World Haskell/2 Types and Functions.md"
-    },
-    {
-      "basename": "thunk",
-      "path": "HASKELL/thunk.md"
-    },
-    {
-      "basename": "1 Getting Started",
-      "path": "HASKELL/Real World Haskell/1 Getting Started.md"
-    },
-    {
-      "basename": "_ Real World Haskell",
-      "path": "HASKELL/Real World Haskell/_ Real World Haskell.md"
-    },
-    {
-      "basename": "Installing",
-      "path": "HASKELL/Installing.md"
     }
   ],
   "omittedPaths": [],
