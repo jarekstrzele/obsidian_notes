@@ -42,7 +42,7 @@ tools:
 # Variable
 > - assign data to a temporary memory location (allows programmer to easily work with memory)
 > - can be set to any value & type
-> - immutable: cannot b changed. **by default**
+> - immutable: cannot b changed **by default**
 > - mutable: can be changed
 
 
