@@ -89,7 +89,6 @@ Offsets can be ised to "index" into some data*
 
 
 
-
 -------------
 # Ownership
 #rust/ownership 
@@ -158,10 +157,10 @@ fn main(){
 ### `&` the ampersand symbol in Rust indicates that we are borrowing data /referencing data
 ```rust
 fn maim(){
-let dull = Light::Dull;
+	let dull = Light::Dull;
 }
 ```
-We create a`dull` variable
+We create a `dull` variable
 and the `main` function will immediately BECOME THE OWNER
 
 ```rust
