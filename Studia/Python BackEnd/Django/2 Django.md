@@ -101,14 +101,37 @@ urlpatterns = [
 - ten mechanizm bazuje na obiektach `QuerySet` 
 - *QuerySet*
 	- to zbiór zapytań do bazy danych służący do pobierania obiektów z bazy danych
-	- umożliwia stosowanie filtrów pozwalających na zawężenie wynikow kwerendy na podstawie poda
+	- umożliwia stosowanie filtrów pozwalających na zawężenie wynikow kwerendy na podstawie podanych parametrów
+
+*KLASA <-> TABELA*
+Klasa modelu reprezentuje tabelę w bazie danych 
+
+*OBIEKT<->REKORD*
+Intancj klasy reprezentuje pojedynczy rekord w tabeli bazy danych 
+
+**Przykład**
+```python
+from ankiety.models import Quetions
+b = Questions(id=1, question_text="Czy znasz polecenia SQL?", pub_date=2022-01-31)
+b.save()
+```
+Python wykonuje instrukcje `SQL INSERT`.
+Python połączy się z bazą dopiero, gdy wywołana będzie metoda `save()` (ta metoda nie zwraca żadnej wartości)
 
 
 
+**Przykład**
+```python
+from django.contrib.auth.models import User
+from blog.models import Post
 
-
-
-
+user = User.objects.get(username='admin')
+post = Post(title="inny Post", slug="another-post", body="content of post", author=user)
+post.save()
+```
+- najpierw **pobieramy** obiekt `user`
+- tworzymy egzemplarz klasy `Post
+- `
 
 
 
