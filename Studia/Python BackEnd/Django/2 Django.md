@@ -50,6 +50,34 @@ urlpatterns = [
 
 
 
+## parametr `request`
+zawiera wiele przydatnych danych - m.in. :
+- `path` łańcuch reprezentujący ścieżkę do żądanej strony bez domeny (np.`/music.bands/the_beatles`)
+- `scheme` ciąg reprezentujący schemat żadania (zwykle http lub https)
+- `method` łańcuch okreśłający metodę żądania srony (GET albo POST)
+- `cookies` słownik zwierający dane ciasteczek (klucze i wartości są łańcuchami)
+- `meta` słownik zwierający nagłówki HTTP (np. CONTENT_LENGTH, ...)
+- `files` obiekt zwierający dane o wysyłanych plikach (przez firmularz), kluczem jest nazwa pola formularza a wartościa słownik zawierający trzy klucze
+	- `filename`
+	- `content-type` typ mime pliku
+- `user` obiekt rozpoznający zalogowanego użytkownika lub nie zalogowanego użytkownika
+- `session` dane sesji, odczytywany jest obiekt reprezentujący bieżącą sesję 
+
+**wszystkie atrybuty poza `session` powinny być używanie w trybie "tylko do odczytu"**
+
+
+---
+## Jak Django obsługuje żądanie?
+Django obsługuje żądanie, kierując ścieżkę przychodzącego adr
+
+
+
+
+
+
+
+
+
 
 
 
