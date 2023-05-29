@@ -200,7 +200,23 @@ Post.object.order_by("-title") # w porządku malejącym
 
 
 ## Menedżer obiektów `Manager.object`
-**menedżer** to int
+**menedżer** to interfejs, przez który operacje zapytań bazy danych są dostarczane do modeli Django
+
+Dla każdego modelu w aplikacji Django istnieje  co najmniej jeden menedżer.
+`Objects` to domyśłny menedżer każdego modelu, który pobiera wszystkie obiekty z bazy danych
+
+można napisać **własny menedżer** -- DWA SPOSOBY:
+- pierwsz polega dodaniu dodatkowych metod menedżera `Post.objects.my_manager()`
+- drugi na modyfikacji początkowego menedżera kolekcji `QuerySet` -- `Post.my_manager.all()`
+
+DODAWANIE własnego MENEDŻERA
+plik `models.py` (pierwszy menedzęr staje się menedżerem domyślnym )
+
+```python
+class PublishManager(models.Manager)
+```
+
+
 
 
 
