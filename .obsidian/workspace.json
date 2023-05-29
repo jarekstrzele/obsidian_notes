@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6b42a6f3f1995343",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/obiekty_req_res_django.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studia/Python BackEnd/Django/2 Django.md",
+                "file": "Excalidraw/obiekty_req_res_django.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -118,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studia/Python BackEnd/Django/2 Django.md",
+                "file": "Excalidraw/obiekty_req_res_django.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studia/Python BackEnd/Django/2 Django.md"
+                "file": "Excalidraw/obiekty_req_res_django.excalidraw.md"
               }
             }
           },
@@ -189,10 +200,11 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "f0e0ed44f61590cb",
+  "active": "6b42a6f3f1995343",
   "lastOpenFiles": [
-    "Studia/Python BackEnd/Django/1 Framework Django.md",
     "Studia/Python BackEnd/Django/2 Django.md",
+    "Excalidraw/obiekty_req_res_django.excalidraw.md",
+    "Studia/Python BackEnd/Django/1 Framework Django.md",
     "linux/UBUNTU.md",
     "Excalidraw/haskell_IO.excalidraw.md",
     "R U S T/Rust Programming For Beginners/9.2 Iterators - Rust.md",
@@ -217,7 +229,6 @@
     "R U S T/Rust Programming For Beginners/8.5 Modules.md",
     "methodology/images/seaborn_relplot_tip_total_bill_4.png",
     "_ Mobile/REACT NATIVE/React Native Practical Guide/1.6 Press to Delete and Style it.md",
-    "R U S T/Rust Programming For Beginners/8.1 User Input.md",
     "_ WEB/N_O_D_E/Node JS 101 Crash",
     "Untitled 1.canvas",
     "R U S T/Rust 101 Crash Course",

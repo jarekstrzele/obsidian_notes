@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "obiekty_req_res_django.excalidraw",
+      "path": "Excalidraw/obiekty_req_res_django.excalidraw.md"
+    },
+    {
       "basename": "2 Django",
       "path": "Studia/Python BackEnd/Django/2 Django.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Untitled 1",
       "path": "Untitled 1.canvas"
-    },
-    {
-      "basename": "Shell vs Terminal",
-      "path": "_ FullStack/Full Stack Web Development  Bootcamp/Appendixes/Shell vs Terminal.md"
     }
   ],
   "omittedPaths": [],

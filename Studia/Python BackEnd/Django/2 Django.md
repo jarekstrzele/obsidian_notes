@@ -1,3 +1,4 @@
+01:33
 
 1. Obiekty HTTPRequest, HTTPResponse
 2. Routing: urls.py i tworzenie url-i aplikacji
@@ -24,7 +25,25 @@
 
 
 **przykład**
+`hello/views.py`
+```python
+from django.http import HttpResponse
 
+def hello(request):
+	return HttpResponse('Hello, world')
+```
+
+`hello/urls/py`
+```python
+from django.conf.urls import url
+from django.contrib import admin
+from hello import views
+
+urlpatterns = [
+	url(r'^admin/', admin.site.urls),
+	url(r'^$', view.hello)
+]
+```
 
 
 
