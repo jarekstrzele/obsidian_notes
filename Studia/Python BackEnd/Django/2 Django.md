@@ -237,6 +237,8 @@ author = Book.author # pobierz autora książki
 books.author.books_set.all() # pobierze wszystkie książki danego autora
 ```
 
+a
+
 - *wiele-do-wielu* (autorzy - książki, )
 ```python
 class Author(models.Model):
@@ -245,11 +247,16 @@ class Book(models.Model):
 	title = models.CharField(max_length=100)
 	authors = models.ManyToManyField(Author)
 ```
-Pole `Man`
+Pole `ManyToManyField` w celu obsługi relacji tworzy zupełnie nową tabelę, w której wykorzystywany jest znany już mechanizm kluczy obcych
+```python
+book = Book.objects.get(title="Python and Django")
+authors = Book.authors_set.all() # pobierz wszytkich autorów książek
+books = authors[2].book_set.all() # pobierz książki, których autorem jest trzeci z autorów
+```
 
 
 - *jeden-do-jednego* (identyfikator produktu, kod kreskowy produktu)
-
+`OneToOneField`
 
 
 
@@ -257,7 +264,7 @@ Pole `Man`
 #### KLUCZ GŁÓWNY
 - pole, którego wartość w całej tabeli jest unikalna (w całym modelu ORM)
 - często to pola automatycznie inkrementowane
-- wszystkie modele nieawierające jawnie określonego klucza głównego otrzymują *atrybut*  `id` będący polem typu `AutoField)`
+- wszystkie modele niezawierające jawnie określonego klucza głównego otrzymują *atrybut*  `id` będący polem typu `AutoField)`
 
 #### KLUCZ OBCY
 klasa `ForeignKey` (podklas klasy `Field`)
@@ -273,6 +280,24 @@ class Book(models.Model):
 
 ```
 
+-------
+## QueryDict
+zmodyfikowany słownik zdolny przechowywać wiele wartości dla jednego klucza
+
+atrybuty `request.GET` i `request.POST` są instancjami `django.http.QueryDict`
+
+te `QueryDicts` domyślnie są niezmienne
+
+Jeżeli sam tworzę  instancje `QurtyDict`, mogę sprawić, że będzie zmienny `mutable=True` w jego `__init__()`
+
+Ma wszystkie metody słownikowe, plus swoje własne np.
+- `getlist(key)` zwraca listę z wartościami przypisanymi dla danego klucza
+- `lists()` zwraca w listach wszystkie wartości z żądania
+```bash
+>>> q = QueryDict('a=1&a=2&a=3')
+>>> q.lists()
+[('a',['1','2','3'])]
+```
 
 
 
