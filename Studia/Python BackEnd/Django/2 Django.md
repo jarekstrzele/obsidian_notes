@@ -361,7 +361,32 @@ utelpatterns = [
 ## GET vs POST
 
 ## GET
-- dane wysyłane `GET` są dołączane do adresu URL i stanowią jego część (np. `http://www.google.com/search?q=django`,  pole `q` ma wartość `django`, czyli zostało wpisane do formularza , a formularz przesłał dane do skryptu wyszukującego to, co widać w 
+ dane wysyłane `GET` są dołączane do adresu URL i stanowią jego część (np. `http://www.google.com/search?q=django`,  pole `q` ma wartość `django`, czyli zostało wpisane do formularza , a formularz przesłał dane do skryptu wyszukującego to, co widać w adresie
+
+
+### POST
+dane przesyłane na standardowe wejście skryptu (nie potrzebuje adresu URL)
+danych nie widać w adresie
+ten sposób do przesyłania haseł, autoryzacji
+
+
+------
+# `CDRF`
+#csrf
+==Ochrona przed fałszowaniem żądań==
+**CSRF** lub **XSRF** :
+- atak jednym kliknięciem, jazda sesyjna, fałszowanie żądań między witrynami
+- to złośliwe wykorzystanie strony internetowe, aby przesyłać nieautoryzowane od użytkownika polecenia, 
+
+Aby włączyć ochronę CSRF należy dodać *CsrfViewMiddleware* do klasy w `settings.py` - domyśłnie jest włączone
+
+- to oprogramowanie ustawia **token** w pliku **cookie** w odpowiedzi wychodzącej
+- kiedy w przychodzącym żądaniu jest wykorzystywana niebezpieczna metoda (dowolna oprócz GET), plik cookie musi pasować do tokena, który jest wysyłany jako dane formularza `csrfmiddlewaretoken` lub jako nagłówek `X-CsrfToken` (=> klient inicjujący żądanie jest również właścicielem pliku cookie, a co za tym idzie sesji (uwierzytelnionej)  )
+
+Formularze korzystające z metody POST powinny zawierać `token CSRF`
+
+
+
 
 
 
