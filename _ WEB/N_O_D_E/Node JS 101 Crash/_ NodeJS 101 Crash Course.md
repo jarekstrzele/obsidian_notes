@@ -66,6 +66,7 @@ DINO - JS runtimes that use V8 engine similarly to node.js
 
 ------
 # The global object
+https://nodejs.org/docs/latest-v16.x/api/globals.html
 
 browser | node 
 ---  | ---
@@ -76,7 +77,12 @@ location | `__filename`
 navigation | require()
 
 
+-------
+# Backend vs Frontend
 
-
-
+frontend | backend
+-- | --
+client  | server
+what you see on the screen as a user | what happens behind the scenes ; security features, input validation, business logic
+www.google.com ("hi server, can you give me data?"" **REQUEST**) | **RESPONSE** "sure, here it is data"
 
