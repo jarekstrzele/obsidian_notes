@@ -80,9 +80,26 @@ navigation | require()
 -------
 # Backend vs Frontend
 
+the language to send **request** and **response** is *http*/*https*
+
 frontend | backend
 -- | --
 client  | server
 what you see on the screen as a user | what happens behind the scenes ; security features, input validation, business logic
-www.google.com ("hi server, can you give me data?"" **REQUEST**) | **RESPONSE** "sure, here it is data"
+www.google.com ("hi server, can you give me data?"" **REQUEST**) | **RESPONSE** "sure, here it is data to display the web page" `JS, HTML, CSS` ora `JSON, TXT, XML`
+
+**back-end** 
+- serves us the data that we need on the front-end  on the client side to show something useful to the user 
+- does things that we can't do on the front-end side (security logging, input validation., ...)
+
+--------
+# What does Node.Js Do?
+- it has a *V8* engine to run JavaScript codes
+- is is the entire environment
+	- maths
+	- get args
+	- ...
+
+
+
 
