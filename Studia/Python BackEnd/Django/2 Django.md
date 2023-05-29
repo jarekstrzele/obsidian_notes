@@ -300,15 +300,54 @@ Ma wszystkie metody słownikowe, plus swoje własne np.
 ```
 
 
+--------
+## Funkcje i klasy widoków, GET i  POST
+Django to zbiór **komponentów**:
+- które przyjmują zapytania webowe
+- które zwracają odpowiedź w postaci kodu HTML dla przeglądarki
+- **punkt wejścia** - *zapytania URL*
+
+**widok** to funkcja
+- wykonywana zgodnie z żądaniem URL (jaki adres, taki widok)
+- zwraca wartość jako odpowiedź na żądanie
 
 
+#### widok funkcyjny
+`views.py`
+```python
+def book_update_view(request):
+	if request.method == 'GET':
+		### ..
+	if request.method == 'POST':
+		# ....
+```
+
+`urls.py`
+```python
+urlpatterns = [
+	path('update/<int:pk>', views.book_update_view, name='update')		   
+]
+```
 
 
+#### widok klasowy
+`views.py`
+```python
+from django.views import View
 
+class BookUpdateView(View):
+	def get(self, request, *args, **kwargs):
+		# obsługa żądania GET
+def post(self, request, *args, **kwargs):
+	# obsługa żądania POST
+```
 
-
-
-
+`urls.py`
+```python
+utelpatterns = [
+	path('update/<int:pk>', view.BookUpdateView.as_view(), name='update')
+]
+```
 
 
 
