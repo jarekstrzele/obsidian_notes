@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studia/Python BackEnd/Django/1 Framework Django.md",
+                "file": "Studia/Python BackEnd/Django/2 Django.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studia/Python BackEnd/Django/1 Framework Django.md",
+                "file": "Studia/Python BackEnd/Django/2 Django.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studia/Python BackEnd/Django/1 Framework Django.md",
+                "file": "Studia/Python BackEnd/Django/2 Django.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studia/Python BackEnd/Django/1 Framework Django.md"
+                "file": "Studia/Python BackEnd/Django/2 Django.md"
               }
             }
           },
@@ -191,8 +191,8 @@
   },
   "active": "f0e0ed44f61590cb",
   "lastOpenFiles": [
-    "Studia/Python BackEnd/Django/2 Django.md",
     "Studia/Python BackEnd/Django/1 Framework Django.md",
+    "Studia/Python BackEnd/Django/2 Django.md",
     "linux/UBUNTU.md",
     "Excalidraw/haskell_IO.excalidraw.md",
     "R U S T/Rust Programming For Beginners/9.2 Iterators - Rust.md",
