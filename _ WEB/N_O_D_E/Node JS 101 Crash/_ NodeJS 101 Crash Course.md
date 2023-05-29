@@ -55,6 +55,12 @@ Is explore really more fun?
 
 ```
 
+------
+# Node vs JS
+JavaScript
+JS script -> JS engine -> Browser
+
+
 
 
 
