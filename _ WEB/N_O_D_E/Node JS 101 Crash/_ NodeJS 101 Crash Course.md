@@ -14,14 +14,24 @@ Uncaught ReferenceError: hello is not defined
 hello
 undefined
 > .exit
+> 
 
 ```
+
+```node
+$ node
+> process.argv
+[ '/home/jarek/.nvm/versions/node/v16.20.0/bin/node' ]
+```
+
+
 
 It is good for quick testing
 
 # VS Code
-
-
+plugin:
+- intellicode
+- 
 
 
 
