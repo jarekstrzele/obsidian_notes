@@ -1,3 +1,8 @@
+[[#Obiekty `HTTPRequest`, `HTTPResponse`]]
+[[#Modele tworzenie, dodawanie, pobieranie, modyfikacja, komunikacja z DB]]
+	[[#Komunikacja a DB `QuerySet`]]
+
+
 01:33
 
 1. Obiekty HTTPRequest, HTTPResponse

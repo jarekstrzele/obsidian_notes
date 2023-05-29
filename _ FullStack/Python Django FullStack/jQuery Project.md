@@ -1,4 +1,4 @@
-[[jQuery]]
+[[_ FullStack/Python Django FullStack/jQuery]]
 [[jQuery Events]]
 
 ---
