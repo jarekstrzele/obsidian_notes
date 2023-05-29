@@ -341,6 +341,11 @@ class BookUpdateView(View):
 def post(self, request, *args, **kwargs):
 	# obsługa żądania POST
 ```
+klasa `VIew` ma metodę `dispatch()`, która zwiera logiką obsługi dla poszczególnych metod zapytań HTTP:
+- żądanie metodą GET, wywoła metodę get
+- żądanie metodą POST, wywoła metodę post
+- ....
+
 
 `urls.py`
 ```python
@@ -348,11 +353,15 @@ utelpatterns = [
 	path('update/<int:pk>', view.BookUpdateView.as_view(), name='update')
 ]
 ```
+`as_view()` opakowuje naszą klasę w funkcje i możemy przekazać ją do URL resolvera `path()`
 
 
 
+--------
+## GET vs POST
 
-
+## GET
+- dane wysyłane `GET` są dołączane do adresu URL i stanowią jego część (np. `http://www.google.com/search?q=django`,  pole `q` ma wartość `django`, czyli zostało wpisane do formularza , a formularz przesłał dane do skryptu wyszukującego to, co widać w 
 
 
 
