@@ -228,16 +228,50 @@ class Post(models.Model)
 ## Relacje 
 relacje są definiowane na poziomie bazy danych, a nie tylko na poziomie aplikacji
 
-- *wiele-do-jednego* (jeden użytkownik, wiele postów)
+- *wiele-do-jednego* (jeden użytkownik, wiele postów) (*many-to-one*)
+wiele obiektów może odwoływać się do tego samego obiektu
+```python
+book = Book.objects.get(title="Django")
+author = Book.author # pobierz autora książki
+
+books.author.books_set.all() # pobierze wszystkie książki danego autora
+```
+
 - *wiele-do-wielu* (autorzy - książki, )
+```python
+class Author(models.Model):
+	name = models.CharFIeld(max_length=100)
+class Book(models.Model):
+	title = models.CharField(max_length=100)
+	authors = models.ManyToManyField(Author)
+```
+Pole `Man`
+
+
 - *jeden-do-jednego* (identyfikator produktu, kod kreskowy produktu)
+
+
+
+
 
 #### KLUCZ GŁÓWNY
 - pole, którego wartość w całej tabeli jest unikalna (w całym modelu ORM)
 - często to pola automatycznie inkrementowane
-- wszystkie modele nieawierające jawnie okreśłonego klucza głównego otrzymują *atrybut*  `id` będący polem typu `AutoField)`
+- wszystkie modele nieawierające jawnie określonego klucza głównego otrzymują *atrybut*  `id` będący polem typu `AutoField)`
+
+#### KLUCZ OBCY
+klasa `ForeignKey` (podklas klasy `Field`)
+pierwszy argument tej klasy stanowi klasę modelu, do którego należy się odwołać
+```python
+class Author(models.Model):
+	name = models.CharFIeld(max_length=100)
+
+class Book(models.Model):
+	title = models.CharField(max_length=100)
+	author models.ForeignKey("Author")
 
 
+```
 
 
 
