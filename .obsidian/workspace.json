@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/9.1 Option Combinators.md",
+                "file": "R U S T/Rust Programming For Beginners/9.2 Iterators - Rust.md",
                 "mode": "source",
                 "source": false
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/9.1 Option Combinators.md",
+                "file": "R U S T/Rust Programming For Beginners/9.2 Iterators - Rust.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/9.1 Option Combinators.md",
+                "file": "R U S T/Rust Programming For Beginners/9.2 Iterators - Rust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/9.1 Option Combinators.md"
+                "file": "R U S T/Rust Programming For Beginners/9.2 Iterators - Rust.md"
               }
             }
           },
@@ -250,10 +250,11 @@
   },
   "active": "6cb05f6c5a797072",
   "lastOpenFiles": [
+    "R U S T/Rust Programming For Beginners/9 Refining Your Code.md",
+    "R U S T/Rust Programming For Beginners/9.1 Option Combinators.md",
+    "R U S T/Rust Programming For Beginners/9.2 Iterators - Rust.md",
     "Excalidraw/haskell_IO.excalidraw.md",
     "linux/UBUNTU.md",
-    "R U S T/Rust Programming For Beginners/9.1 Option Combinators.md",
-    "R U S T/Rust Programming For Beginners/9 Refining Your Code.md",
     "R U S T/Rust Programming For Beginners/5 Intermediate Concepts.md",
     "R U S T/Rust Programming For Beginners/6 Data Collections.md",
     "R U S T/Rust Programming For Beginners/4 Data.md",
@@ -276,7 +277,6 @@
     "R U S T/Rust Programming For Beginners/8.2 Interactive billing app.md",
     "R U S T/Rust Programming For Beginners/8.3. Closures Rust.md",
     "R U S T/Rust Programming For Beginners/8.4 Map Combinator.md",
-    "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md",
     "_ WEB/N_O_D_E/Node JS 101 Crash",
     "Untitled 1.canvas",
     "R U S T/Rust 101 Crash Course",
