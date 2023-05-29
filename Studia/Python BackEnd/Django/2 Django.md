@@ -416,18 +416,28 @@ Gdy `SessionMiddleware` jest aktywne każdy obiekt `HttpRequest`(pierwszy argume
 `SESSION_COOKIE_AGE` czas ważności cookie sesji w sekunadch
 `SESSION_COOKIE_SECURE`
 
-
 CIASTECZKA
 #cookie
 - dane informatyczne (w szczególności pliki tekstowe), które są przechowywane w urządzeniu końcowym użytkownika strony
 - służą do optymalizacji procesu korzystania ze stron WWW
 - dzielą się na:
-	- **sesyjne** ( tymczasowe) istnieją do 
+	- **sesyjne** ( tymczasowe) istnieją do momentu wylofowania się lub wyłączenia przeglądarki
+	- **stałe** przechowywane przez zdefiniowany czas
 
 
+ustawienia cookie
+```python 
+def view(request):
+	response = HttpResponse("To co chcemy zwrócić")
+	response.set_cookie("cookie_name", "cookie_value")
+```
 
-
-
+pobieranie cookie
+```python
+def view(req):
+	if 'cookie_name' in req.COOKIES:gg
+		value = req.COOKIES['cookie_name']
+```
 
 
 
