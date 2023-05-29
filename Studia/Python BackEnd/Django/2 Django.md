@@ -371,7 +371,7 @@ ten sposób do przesyłania haseł, autoryzacji
 
 
 ------
-# `CDRF`
+# `CSRF`
 #csrf
 ==Ochrona przed fałszowaniem żądań==
 **CSRF** lub **XSRF** :
@@ -383,7 +383,52 @@ Aby włączyć ochronę CSRF należy dodać *CsrfViewMiddleware* do klasy w `set
 - to oprogramowanie ustawia **token** w pliku **cookie** w odpowiedzi wychodzącej
 - kiedy w przychodzącym żądaniu jest wykorzystywana niebezpieczna metoda (dowolna oprócz GET), plik cookie musi pasować do tokena, który jest wysyłany jako dane formularza `csrfmiddlewaretoken` lub jako nagłówek `X-CsrfToken` (=> klient inicjujący żądanie jest również właścicielem pliku cookie, a co za tym idzie sesji (uwierzytelnionej)  )
 
-Formularze korzystające z metody POST powinny zawierać `token CSRF`
+Formularze korzystające z metody POST powinny zawierać `token CSRF` w szablonie
+
+`{% csrf_token %}` - wyświetli ukryte pole i zapewni, że plik cookie zostanie ustawiony w odpowiedzi
+
+
+DEKORATOR wyłączający ochronę `@csrd_exempt`
+```python
+
+@csrf_exempt
+def my_view(req):
+	"""Allows unsafe methods without CSRF protection"""
+	# ....
+```
+
+
+-------
+# Sesje i ciasteczka
+KORZYSTANIE Z SESJI:
+`settings.py`:
+- część `MIDDLEWARE_CLASSES` klasy `django.contrib.sessions.middleware.SessionMiddleware` (domyślnie już jest)
+- części `INSTALLED_APPS` dodać `django.contrib.sessions`
+
+teraz polecenia `python manage.py syncdb`
+
+Gdy `SessionMiddleware` jest aktywne każdy obiekt `HttpRequest`(pierwszy argument każdej funkcji widoków) będzie miał atrybut **session**, który jest podobny do słownika
+
+`request.session['klucz']='wartosc'`
+
+`request.session.get('masz komentarz', False)`
+
+`SESSION_COOKIE_AGE` czas ważności cookie sesji w sekunadch
+`SESSION_COOKIE_SECURE`
+
+
+CIASTECZKA
+#cookie
+- dane informatyczne (w szczególności pliki tekstowe), które są przechowywane w urządzeniu końcowym użytkownika strony
+- służą do optymalizacji procesu korzystania ze stron WWW
+- dzielą się na:
+	- **sesyjne** ( tymczasowe) istnieją do 
+
+
+
+
+
+
 
 
 
