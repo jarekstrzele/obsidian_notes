@@ -67,6 +67,14 @@ DINO - JS runtimes that use V8 engine similarly to node.js
 ------
 # The global object
 
+browser | node 
+---  | ---
+window | global
+document | process
+history | module
+location | `__filename`
+navigation | require()
+
 
 
 
