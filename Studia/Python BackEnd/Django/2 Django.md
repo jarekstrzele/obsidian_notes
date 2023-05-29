@@ -213,11 +213,29 @@ DODAWANIE własnego MENEDŻERA
 plik `models.py` (pierwszy menedzęr staje się menedżerem domyślnym )
 
 ```python
-class PublishManager(models.Manager)
+class PublishedManager(models.Manager):
+	def get_queryset(self):
+		return super(PublishManager, self).get_queryset().filter(status='published')
+
+class Post(models.Model)
+	# ...........
+	objects = models.Manager() # menedżer domyśłny
+	published = PublishedManager() #  menedże nistandardowy
 ```
 
 
 
+## Relacje 
+relacje są definiowane na poziomie bazy danych, a nie tylko na poziomie aplikacji
+
+- *wiele-do-jednego* (jeden użytkownik, wiele postów)
+- *wiele-do-wielu* (autorzy - książki, )
+- *jeden-do-jednego* (identyfikator produktu, kod kreskowy produktu)
+
+#### KLUCZ GŁÓWNY
+- pole, którego wartość w całej tabeli jest unikalna (w całym modelu ORM)
+- często to pola automatycznie inkrementowane
+- wszystkie modele nieawierające jawnie okreśłonego klucza głównego otrzymują *atrybut*  `id` będący polem typu `AutoField)`
 
 
 
