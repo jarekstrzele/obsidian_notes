@@ -58,8 +58,14 @@ Is explore really more fun?
 ------
 # Node vs JS
 JavaScript
-JS script -> JS engine -> Browser
+JS code -> JS engine -> Browser (`window`)
 
+NodeJs - (`global.process`, `global.console.log("eh"`)
+
+DINO - JS runtimes that use V8 engine similarly to node.js
+
+------
+# The global object
 
 
 
