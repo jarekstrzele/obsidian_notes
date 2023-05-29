@@ -11,11 +11,9 @@
             "id": "f0e0ed44f61590cb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "_ WEB/N_O_D_E/Node JS 101 Crash/_ NodeJS 101 Crash Course.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/NODEJS-inside.excalidraw.md"
               }
             }
           },
@@ -121,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ WEB/N_O_D_E/Node JS 101 Crash/_ NodeJS 101 Crash Course.md",
+                "file": "Excalidraw/NODEJS-inside.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -138,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ WEB/N_O_D_E/Node JS 101 Crash/_ NodeJS 101 Crash Course.md",
+                "file": "Excalidraw/NODEJS-inside.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ WEB/N_O_D_E/Node JS 101 Crash/_ NodeJS 101 Crash Course.md"
+                "file": "Excalidraw/NODEJS-inside.excalidraw.md"
               }
             }
           },
@@ -211,8 +209,8 @@
   },
   "active": "f0e0ed44f61590cb",
   "lastOpenFiles": [
-    "Excalidraw/NODEJS-inside.excalidraw.md",
     "_ WEB/N_O_D_E/Node JS 101 Crash/_ NodeJS 101 Crash Course.md",
+    "Excalidraw/NODEJS-inside.excalidraw.md",
     "Studia/Python BackEnd/jQuery.md",
     "Studia/Python BackEnd/Django/2 Django.md",
     "Studia/Python BackEnd/Django/1 Framework Django.md",
