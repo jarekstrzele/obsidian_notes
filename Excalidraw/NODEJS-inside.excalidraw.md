@@ -33,7 +33,7 @@ libuv ^DbapAnG8
 libvu ^xMCHWWAD
 
 deals with input and output tasks, highly optimized library of code
-asynchronous IO ^w5tzviCE
+asynchronous IO, obsługa pętli zdarzeń ^w5tzviCE
 
 bindings ^HwBdfgJF
 
@@ -722,8 +722,8 @@ umożliwia łączenie kody napisanego w C/C++ z apliacjami NodeJs dzięki funkcj
 		},
 		{
 			"type": "text",
-			"version": 157,
-			"versionNonce": 1228142729,
+			"version": 184,
+			"versionNonce": 2068423655,
 			"isDeleted": false,
 			"id": "w5tzviCE",
 			"fillStyle": "solid",
@@ -742,17 +742,17 @@ umożliwia łączenie kody napisanego w C/C++ z apliacjami NodeJs dzięki funkcj
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1685389308855,
+			"updated": 1685392780608,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 2,
-			"text": "deals with input and output tasks, highly optimized library of code\nasynchronous IO",
-			"rawText": "deals with input and output tasks, highly optimized library of code\nasynchronous IO",
+			"text": "deals with input and output tasks, highly optimized library of code\nasynchronous IO, obsługa pętli zdarzeń",
+			"rawText": "deals with input and output tasks, highly optimized library of code\nasynchronous IO, obsługa pętli zdarzeń",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "deals with input and output tasks, highly optimized library of code\nasynchronous IO",
+			"originalText": "deals with input and output tasks, highly optimized library of code\nasynchronous IO, obsługa pętli zdarzeń",
 			"lineHeight": 1.15,
 			"baseline": 41
 		},

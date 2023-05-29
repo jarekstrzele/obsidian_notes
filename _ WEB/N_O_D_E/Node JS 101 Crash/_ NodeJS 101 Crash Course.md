@@ -101,7 +101,7 @@ www.google.com ("hi server, can you give me data?"" **REQUEST**) | **RESPONSE** 
 	- ...
  so 
  
-![[NODEJS-inside.excalidraw | 700]]
+![[NODEJS-inside.excalidraw | 800]]
 
 JS code -> NODEJS -> User Output
 
