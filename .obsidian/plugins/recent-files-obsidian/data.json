@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "1 Framework Django",
+      "path": "Studia/Python BackEnd/Django/1 Framework Django.md"
+    },
+    {
+      "basename": "2 Django",
+      "path": "Studia/Python BackEnd/Django/2 Django.md"
+    },
+    {
+      "basename": "UBUNTU",
+      "path": "linux/UBUNTU.md"
+    },
+    {
+      "basename": "haskell_IO.excalidraw",
+      "path": "Excalidraw/haskell_IO.excalidraw.md"
+    },
+    {
       "basename": "9.2 Iterators - Rust",
       "path": "R U S T/Rust Programming For Beginners/9.2 Iterators - Rust.md"
+    },
+    {
+      "basename": "3.1 Express - introducing",
+      "path": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md"
     },
     {
       "basename": "9 Refining Your Code",
@@ -11,14 +31,6 @@
     {
       "basename": "9.1 Option Combinators",
       "path": "R U S T/Rust Programming For Beginners/9.1 Option Combinators.md"
-    },
-    {
-      "basename": "haskell_IO.excalidraw",
-      "path": "Excalidraw/haskell_IO.excalidraw.md"
-    },
-    {
-      "basename": "UBUNTU",
-      "path": "linux/UBUNTU.md"
     },
     {
       "basename": "5 Intermediate Concepts",
@@ -117,10 +129,6 @@
       "path": "R U S T/Rust Programming For Beginners/3 Repetition.md"
     },
     {
-      "basename": "3.1 Express - introducing",
-      "path": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md"
-    },
-    {
       "basename": "_ NodeJS 101 Crash Course",
       "path": "_ WEB/N_O_D_E/Node JS 101 Crash/_ NodeJS 101 Crash Course.md"
     },
@@ -133,16 +141,8 @@
       "path": "_ WEB/N_O_D_E/Mosh Node/1 Node Module System.md"
     },
     {
-      "basename": "1 Framework Django",
-      "path": "Studia/Python BackEnd/Django/1 Framework Django.md"
-    },
-    {
       "basename": "_ 0 Node (Mosh)",
       "path": "_ WEB/N_O_D_E/Mosh Node/_ 0 Node (Mosh).md"
-    },
-    {
-      "basename": "2 Django",
-      "path": "Studia/Python BackEnd/Django/2 Django.md"
     },
     {
       "basename": "8 Datatypes",

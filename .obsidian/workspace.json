@@ -4,81 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "bc10118b40fd9537",
+        "id": "fd7df2a5a5f5d43d",
         "type": "tabs",
         "children": [
           {
-            "id": "2f713b7e81172dcd",
+            "id": "f0e0ed44f61590cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/ULTIMATE Rust Lang Tutorial/1 Guessing Game in Rust.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b378246ff9e76088",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_ WEB/N_O_D_E/Node JS 101 Crash/_ NodeJS 101 Crash Course.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1cb00c9d98fbe5e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6cb05f6c5a797072",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "R U S T/Rust Programming For Beginners/9.2 Iterators - Rust.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "15f0cb8aee19cf04",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/haskell_IO.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "9f12ac45366c8011",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linux/UBUNTU.md",
+                "file": "Studia/Python BackEnd/Django/1 Framework Django.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -160,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/9.2 Iterators - Rust.md",
+                "file": "Studia/Python BackEnd/Django/1 Framework Django.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -177,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/9.2 Iterators - Rust.md",
+                "file": "Studia/Python BackEnd/Django/1 Framework Django.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/9.2 Iterators - Rust.md"
+                "file": "Studia/Python BackEnd/Django/1 Framework Django.md"
               }
             }
           },
@@ -248,13 +189,16 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "6cb05f6c5a797072",
+  "active": "f0e0ed44f61590cb",
   "lastOpenFiles": [
+    "Studia/Python BackEnd/Django/2 Django.md",
+    "Studia/Python BackEnd/Django/1 Framework Django.md",
+    "linux/UBUNTU.md",
+    "Excalidraw/haskell_IO.excalidraw.md",
+    "R U S T/Rust Programming For Beginners/9.2 Iterators - Rust.md",
+    "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
     "R U S T/Rust Programming For Beginners/9 Refining Your Code.md",
     "R U S T/Rust Programming For Beginners/9.1 Option Combinators.md",
-    "R U S T/Rust Programming For Beginners/9.2 Iterators - Rust.md",
-    "Excalidraw/haskell_IO.excalidraw.md",
-    "linux/UBUNTU.md",
     "R U S T/Rust Programming For Beginners/5 Intermediate Concepts.md",
     "R U S T/Rust Programming For Beginners/6 Data Collections.md",
     "R U S T/Rust Programming For Beginners/4 Data.md",
@@ -274,9 +218,6 @@
     "methodology/images/seaborn_relplot_tip_total_bill_4.png",
     "_ Mobile/REACT NATIVE/React Native Practical Guide/1.6 Press to Delete and Style it.md",
     "R U S T/Rust Programming For Beginners/8.1 User Input.md",
-    "R U S T/Rust Programming For Beginners/8.2 Interactive billing app.md",
-    "R U S T/Rust Programming For Beginners/8.3. Closures Rust.md",
-    "R U S T/Rust Programming For Beginners/8.4 Map Combinator.md",
     "_ WEB/N_O_D_E/Node JS 101 Crash",
     "Untitled 1.canvas",
     "R U S T/Rust 101 Crash Course",
