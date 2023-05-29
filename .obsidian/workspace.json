@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/UBUNTU.md",
+                "file": "R U S T/Rust Programming For Beginners/9.1 Option Combinators.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/UBUNTU.md",
+                "file": "R U S T/Rust Programming For Beginners/9.1 Option Combinators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/UBUNTU.md"
+                "file": "R U S T/Rust Programming For Beginners/9.1 Option Combinators.md"
               }
             }
           },
@@ -248,9 +248,10 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "9f12ac45366c8011",
+  "active": "6cb05f6c5a797072",
   "lastOpenFiles": [
     "Excalidraw/haskell_IO.excalidraw.md",
+    "linux/UBUNTU.md",
     "R U S T/Rust Programming For Beginners/9.1 Option Combinators.md",
     "R U S T/Rust Programming For Beginners/9 Refining Your Code.md",
     "R U S T/Rust Programming For Beginners/5 Intermediate Concepts.md",
@@ -276,7 +277,6 @@
     "R U S T/Rust Programming For Beginners/8.3. Closures Rust.md",
     "R U S T/Rust Programming For Beginners/8.4 Map Combinator.md",
     "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md",
-    "R U S T/Rust Programming For Beginners/3 Repetition.md",
     "_ WEB/N_O_D_E/Node JS 101 Crash",
     "Untitled 1.canvas",
     "R U S T/Rust 101 Crash Course",
