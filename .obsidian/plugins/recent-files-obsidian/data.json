@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "UBUNTU",
+      "path": "linux/UBUNTU.md"
+    },
+    {
+      "basename": "haskell_IO.excalidraw",
+      "path": "Excalidraw/haskell_IO.excalidraw.md"
+    },
+    {
       "basename": "9.1 Option Combinators",
       "path": "R U S T/Rust Programming For Beginners/9.1 Option Combinators.md"
     },
@@ -51,10 +59,6 @@
     {
       "basename": "11 IO",
       "path": "HASKELL/Haskell for Imperative Programmers/11 IO.md"
-    },
-    {
-      "basename": "haskell_IO.excalidraw",
-      "path": "Excalidraw/haskell_IO.excalidraw.md"
     },
     {
       "basename": "10 Maybe",
@@ -195,10 +199,6 @@
     {
       "basename": "3 Defining Types, Streamlining Functions",
       "path": "HASKELL/Real World Haskell/3 Defining Types, Streamlining Functions.md"
-    },
-    {
-      "basename": "2 Types and Functions",
-      "path": "HASKELL/Real World Haskell/2 Types and Functions.md"
     }
   ],
   "omittedPaths": [],

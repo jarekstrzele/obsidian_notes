@@ -64,9 +64,21 @@
                 "file": "Excalidraw/haskell_IO.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "9f12ac45366c8011",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linux/UBUNTU.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -148,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/9.1 Option Combinators.md",
+                "file": "linux/UBUNTU.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -165,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/9.1 Option Combinators.md",
+                "file": "linux/UBUNTU.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/9.1 Option Combinators.md"
+                "file": "linux/UBUNTU.md"
               }
             }
           },
@@ -236,10 +248,11 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "f621f21825dbd82d",
+  "active": "9f12ac45366c8011",
   "lastOpenFiles": [
-    "R U S T/Rust Programming For Beginners/9 Refining Your Code.md",
+    "Excalidraw/haskell_IO.excalidraw.md",
     "R U S T/Rust Programming For Beginners/9.1 Option Combinators.md",
+    "R U S T/Rust Programming For Beginners/9 Refining Your Code.md",
     "R U S T/Rust Programming For Beginners/5 Intermediate Concepts.md",
     "R U S T/Rust Programming For Beginners/6 Data Collections.md",
     "R U S T/Rust Programming For Beginners/4 Data.md",
@@ -251,7 +264,6 @@
     "A I/SI na Froncie/_ Wprowadzenie SI z JS.md",
     "A I/JS uczenie maszynowe/_ 0 Uczenie maszynowe z JS.md",
     "HASKELL/Haskell for Imperative Programmers/11 IO.md",
-    "Excalidraw/haskell_IO.excalidraw.md",
     "HASKELL/Haskell for Imperative Programmers/10 Maybe.md",
     "HASKELL/Haskell for Imperative Programmers/9 Typeclasses.md",
     "R U S T/Rust Programming For Beginners/8.6 Test Rust.md",
