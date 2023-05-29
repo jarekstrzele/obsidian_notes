@@ -46,7 +46,7 @@ urlpatterns = [
 ```
 
 
-
+![[obiekty_req_res_django.excalidraw| 700]]
 
 
 

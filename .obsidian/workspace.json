@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/obiekty_req_res_django.excalidraw.md",
+                "file": "Studia/Python BackEnd/Django/2 Django.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -129,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/obiekty_req_res_django.excalidraw.md",
+                "file": "Studia/Python BackEnd/Django/2 Django.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/obiekty_req_res_django.excalidraw.md"
+                "file": "Studia/Python BackEnd/Django/2 Django.md"
               }
             }
           },
@@ -200,10 +199,10 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "6b42a6f3f1995343",
+  "active": "f0e0ed44f61590cb",
   "lastOpenFiles": [
-    "Studia/Python BackEnd/Django/2 Django.md",
     "Excalidraw/obiekty_req_res_django.excalidraw.md",
+    "Studia/Python BackEnd/Django/2 Django.md",
     "Studia/Python BackEnd/Django/1 Framework Django.md",
     "linux/UBUNTU.md",
     "Excalidraw/haskell_IO.excalidraw.md",
