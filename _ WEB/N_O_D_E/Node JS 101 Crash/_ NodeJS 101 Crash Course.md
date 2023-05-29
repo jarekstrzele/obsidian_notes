@@ -18,6 +18,16 @@ undefined
 
 ```
 
+It is good for quick testing
+
+# VS Code
+plugin:
+- intellicode
+- 
+
+# global
+## process
+### `process.argv`
 ```node
 $ node
 > process.argv
@@ -25,13 +35,27 @@ $ node
 ```
 
 
+```js
+const mission = process.argv[2] ;
 
-It is good for quick testing
+if (mission === 'learn') {
+        console.log('Time to write some Node code!');
+} else {
+        console.log(`Is ${mission} really more fun?`) ;
+}
+```
 
-# VS Code
-plugin:
-- intellicode
-- 
+```node
+$ node hello.js learn
+Time to write some Node code!
+
+$ node hello.js explore
+Is explore really more fun?
+
+
+```
+
+
 
 
 
