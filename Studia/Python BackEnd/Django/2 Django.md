@@ -68,7 +68,42 @@ zawiera wiele przydatnych danych - m.in. :
 
 ---
 ## Jak Django obsługuje żądanie?
-Django obsługuje żądanie, kierując ścieżkę przychodzącego adr
+Django obsługuje żądanie, kierując ścieżkę przychodzącego adresu URL do funkcji widoku.
+
+**Funkcja widoku** odpowiada za zwrócenie odpowiedzi klientowi wysyłającemu żądanie. Różne adresy URL są zwykle obsługiwane przez różne funkcje widoku.
+
+Aby skierować żądanie do określonej funkcji widoku, Django sprawdza konfigurację adresu URL (lub w skrócie **URLconf**).
+
+Domyślony szablon projektu definiuje **URLconf** w `<myproject>/urls.py`
+przykład - `urls.py`
+```python
+from django.conf.urls import url
+from myapp.view import home, about, blog_detaill
+
+urlpatterns = [
+	url(r'^$', home, name="home"),			   
+	url(r'^about/$', about, name="about"),			   
+	url(r'^blog/(?P<id>\d+)/$', blig_detail, name="blog-detail"),			   
+]
+
+```
+
+`^` kotwica początku
+`$` kotwica końca
+
+
+-------
+# Modele: tworzenie, dodawanie, pobieranie, modyfikacja, komunikacja z DB
+
+**ORM** (*object-relational mapper*) - mechanizm mapowania obiektowo-relacyjnego
+- jest kompatybilny z MySQL, PostrgreSQL, SQLite, Oracle
+- `settings.py` - definiowanie baz danych używaną w projekcie w ustawieniach `DATABASES`
+- ten mechanizm bazuje na obiektach `QuerySet` 
+- *QuerySet*
+	- to zbiór zapytań do bazy danych służący do pobierania obiektów z bazy danych
+	- umożliwia stosowanie filtrów pozwalających na zawężenie wynikow kwerendy na podstawie poda
+
+
 
 
 
