@@ -32,7 +32,13 @@ libuv ^DbapAnG8
 
 libvu ^xMCHWWAD
 
-deals with input and output tasks, highly optimized library of code ^w5tzviCE
+deals with input and output tasks, highly optimized library of code
+asynchronous IO ^w5tzviCE
+
+bindings ^HwBdfgJF
+
+umożliwia łączenie kody napisanego w C/C++ z apliacjami NodeJs dzięki funkcji zwanej 
+"Node.js C++ API (szybkość i optymalizacja w C/C++) ^47XFnXZ3
 
 %%
 # Drawing
@@ -427,9 +433,9 @@ deals with input and output tasks, highly optimized library of code ^w5tzviCE
 		{
 			"id": "SPU6o0Yr4VksTzrOUrMzN",
 			"type": "rectangle",
-			"x": 181,
-			"y": -443.4609375,
-			"width": 162.99999999999997,
+			"x": 195,
+			"y": -439.4609375,
+			"width": 141.99999999999994,
 			"height": 371,
 			"angle": 0,
 			"strokeColor": "#000000",
@@ -444,16 +450,20 @@ deals with input and output tasks, highly optimized library of code ^w5tzviCE
 				"type": 3
 			},
 			"seed": 776600649,
-			"version": 429,
-			"versionNonce": 2012742247,
+			"version": 504,
+			"versionNonce": 1503617415,
 			"isDeleted": false,
 			"boundElements": [
 				{
 					"id": "gXRBezBqBn3QWmcfb7TeH",
 					"type": "arrow"
+				},
+				{
+					"id": "i9K4ZdrA7v2acuj3-F7NW",
+					"type": "arrow"
 				}
 			],
-			"updated": 1685388864654,
+			"updated": 1685388963249,
 			"link": null,
 			"locked": false
 		},
@@ -496,9 +506,9 @@ deals with input and output tasks, highly optimized library of code ^w5tzviCE
 		{
 			"id": "c2AkffZW2sFriIA6titeh",
 			"type": "rectangle",
-			"x": 376,
-			"y": -443.4609375,
-			"width": 171,
+			"x": 398,
+			"y": -440.4609375,
+			"width": 132,
 			"height": 374,
 			"angle": 0,
 			"strokeColor": "#000000",
@@ -513,11 +523,16 @@ deals with input and output tasks, highly optimized library of code ^w5tzviCE
 				"type": 3
 			},
 			"seed": 19394889,
-			"version": 198,
-			"versionNonce": 888392199,
+			"version": 312,
+			"versionNonce": 869533479,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1685388699902,
+			"boundElements": [
+				{
+					"id": "i9K4ZdrA7v2acuj3-F7NW",
+					"type": "arrow"
+				}
+			],
+			"updated": 1685388879534,
 			"link": null,
 			"locked": false
 		},
@@ -599,7 +614,7 @@ deals with input and output tasks, highly optimized library of code ^w5tzviCE
 			"x": -209,
 			"y": 41.5390625,
 			"width": 575.87890625,
-			"height": 23,
+			"height": 46,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "#12b886",
@@ -611,31 +626,31 @@ deals with input and output tasks, highly optimized library of code ^w5tzviCE
 			"groupIds": [],
 			"roundness": null,
 			"seed": 1754044073,
-			"version": 139,
-			"versionNonce": 537695945,
+			"version": 157,
+			"versionNonce": 1228142729,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1685388774124,
+			"updated": 1685389308855,
 			"link": null,
 			"locked": false,
-			"text": "deals with input and output tasks, highly optimized library of code",
-			"rawText": "deals with input and output tasks, highly optimized library of code",
+			"text": "deals with input and output tasks, highly optimized library of code\nasynchronous IO",
+			"rawText": "deals with input and output tasks, highly optimized library of code\nasynchronous IO",
 			"fontSize": 20,
 			"fontFamily": 2,
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 18,
+			"baseline": 41,
 			"containerId": null,
-			"originalText": "deals with input and output tasks, highly optimized library of code",
+			"originalText": "deals with input and output tasks, highly optimized library of code\nasynchronous IO",
 			"lineHeight": 1.15
 		},
 		{
 			"id": "FCQDubbMKxiEy8alL-jH8",
 			"type": "arrow",
-			"x": -181,
-			"y": -350.4609375,
-			"width": 56,
-			"height": 1,
+			"x": -204,
+			"y": -349.4609375,
+			"width": 79,
+			"height": 2,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "#12b886",
@@ -649,11 +664,11 @@ deals with input and output tasks, highly optimized library of code ^w5tzviCE
 				"type": 2
 			},
 			"seed": 633591367,
-			"version": 50,
-			"versionNonce": 1092169831,
+			"version": 78,
+			"versionNonce": 2096034983,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1685388854296,
+			"updated": 1685388894727,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -662,19 +677,19 @@ deals with input and output tasks, highly optimized library of code ^w5tzviCE
 					0
 				],
 				[
-					56,
-					-1
+					79,
+					-2
 				]
 			],
 			"lastCommittedPoint": null,
 			"startBinding": {
 				"elementId": "eof4v_3GFckEm9MdLmDph",
-				"focus": -0.5627595514950166,
-				"gap": 25.7204555078266
+				"focus": -0.5574035914041802,
+				"gap": 4.855786817850159
 			},
 			"endBinding": {
 				"elementId": "_hXX08NM_gXi_f_uVElxd",
-				"focus": 0.5230730605071554,
+				"focus": 0.5261089673239636,
 				"gap": 11
 			},
 			"startArrowhead": null,
@@ -685,8 +700,8 @@ deals with input and output tasks, highly optimized library of code ^w5tzviCE
 			"type": "arrow",
 			"x": 141,
 			"y": -359.4609375,
-			"width": 35,
-			"height": 0,
+			"width": 49.64417177914112,
+			"height": 1.217698069788014,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "#12b886",
@@ -700,11 +715,11 @@ deals with input and output tasks, highly optimized library of code ^w5tzviCE
 				"type": 2
 			},
 			"seed": 126126983,
-			"version": 30,
-			"versionNonce": 480245929,
+			"version": 118,
+			"versionNonce": 331281577,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1685388864654,
+			"updated": 1685388963249,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -713,55 +728,142 @@ deals with input and output tasks, highly optimized library of code ^w5tzviCE
 					0
 				],
 				[
-					35,
-					0
+					49.64417177914112,
+					1.217698069788014
 				]
 			],
 			"lastCommittedPoint": null,
 			"startBinding": null,
 			"endBinding": {
 				"elementId": "SPU6o0Yr4VksTzrOUrMzN",
-				"focus": 0.5471698113207548,
-				"gap": 5
+				"gap": 4.355828220858891,
+				"focus": 0.5471698113207548
 			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
 		},
 		{
-			"id": "ZLfF2K6K",
-			"type": "text",
-			"x": 352.296875,
-			"y": -274.7609375,
-			"width": 16.40625,
-			"height": 33.6,
+			"id": "i9K4ZdrA7v2acuj3-F7NW",
+			"type": "arrow",
+			"x": 344.60606060606057,
+			"y": -372.90357654244673,
+			"width": 44.259436469962964,
+			"height": 1.1447055297769566,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "#12b886",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 40,
+			"roughness": 0,
+			"opacity": 100,
 			"groupIds": [],
-			"roundness": null,
-			"seed": 829580969,
-			"version": 301,
-			"versionNonce": 2052390153,
-			"isDeleted": true,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 625802121,
+			"version": 257,
+			"versionNonce": 1462531977,
+			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1685388632242,
+			"updated": 1685388963249,
 			"link": null,
 			"locked": false,
-			"text": "",
-			"rawText": "",
-			"fontSize": 28,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					44.259436469962964,
+					-1.1447055297769566
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "SPU6o0Yr4VksTzrOUrMzN",
+				"gap": 8.606060606060607,
+				"focus": -0.6240340373221006
+			},
+			"endBinding": {
+				"elementId": "c2AkffZW2sFriIA6titeh",
+				"gap": 9.13450292397656,
+				"focus": 0.6493166273400504
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"type": "text",
+			"version": 127,
+			"versionNonce": 642564105,
+			"isDeleted": false,
+			"id": "HwBdfgJF",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -338.734375,
+			"y": 123.9390625,
+			"strokeColor": "#000000",
+			"backgroundColor": "#12b886",
+			"width": 168.75,
+			"height": 43.199999999999996,
+			"seed": 44867783,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1685389314772,
+			"link": null,
+			"locked": false,
+			"fontSize": 36,
 			"fontFamily": 3,
-			"textAlign": "center",
-			"verticalAlign": "middle",
-			"baseline": 26,
-			"containerId": "SPU6o0Yr4VksTzrOUrMzN",
-			"originalText": "",
-			"lineHeight": 1.2
+			"text": "bindings",
+			"rawText": "bindings",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "bindings",
+			"lineHeight": 1.2,
+			"baseline": 35
+		},
+		{
+			"type": "text",
+			"version": 443,
+			"versionNonce": 355811783,
+			"isDeleted": false,
+			"id": "47XFnXZ3",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -150.939453125,
+			"y": 128.0390625,
+			"strokeColor": "#000000",
+			"backgroundColor": "#12b886",
+			"width": 782.59765625,
+			"height": 46,
+			"seed": 1754044073,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1685389318205,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 2,
+			"text": "umożliwia łączenie kody napisanego w C/C++ z apliacjami NodeJs dzięki funkcji zwanej \n\"Node.js C++ API (szybkość i optymalizacja w C/C++)",
+			"rawText": "umożliwia łączenie kody napisanego w C/C++ z apliacjami NodeJs dzięki funkcji zwanej \n\"Node.js C++ API (szybkość i optymalizacja w C/C++)",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "umożliwia łączenie kody napisanego w C/C++ z apliacjami NodeJs dzięki funkcji zwanej \n\"Node.js C++ API (szybkość i optymalizacja w C/C++)",
+			"lineHeight": 1.15,
+			"baseline": 41
 		}
 	],
 	"appState": {

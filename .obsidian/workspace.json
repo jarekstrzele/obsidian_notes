@@ -39,8 +39,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/NODEJS-inside.excalidraw.md",
+                "file": "_ WEB/N_O_D_E/Node JS 101 Crash/_ NodeJS 101 Crash Course.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/NODEJS-inside.excalidraw.md",
+                "file": "_ WEB/N_O_D_E/Node JS 101 Crash/_ NodeJS 101 Crash Course.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/NODEJS-inside.excalidraw.md"
+                "file": "_ WEB/N_O_D_E/Node JS 101 Crash/_ NodeJS 101 Crash Course.md"
               }
             }
           },
@@ -210,10 +209,10 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "5728abafa2153965",
+  "active": "f0e0ed44f61590cb",
   "lastOpenFiles": [
-    "_ WEB/N_O_D_E/Node JS 101 Crash/_ NodeJS 101 Crash Course.md",
     "Excalidraw/NODEJS-inside.excalidraw.md",
+    "_ WEB/N_O_D_E/Node JS 101 Crash/_ NodeJS 101 Crash Course.md",
     "Studia/Python BackEnd/jQuery.md",
     "Studia/Python BackEnd/Django/2 Django.md",
     "Studia/Python BackEnd/Django/1 Framework Django.md",

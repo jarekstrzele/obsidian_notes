@@ -101,6 +101,32 @@ www.google.com ("hi server, can you give me data?"" **REQUEST**) | **RESPONSE** 
 	- ...
  so 
  
+![[NODEJS-inside.excalidraw | 700]]
+
+JS code -> NODEJS -> User Output
+
+------
+# Node internals Deep Dive
+Node project is hosted by GitHub
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
