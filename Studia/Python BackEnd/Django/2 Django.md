@@ -153,7 +153,8 @@ all_posts = Post.objects.all()
 ```
 
 ```python
-
+p1 = Post.objects.get(id=1)
+p1.delete()
 ```
 
 
@@ -164,6 +165,59 @@ jeden obiekt
 
 wszystkie
 `Post.objects.all()`
+
+
+----
+## Komunikacja a DB `QuerySet`
+
+Po utworzeniu modeli danych Django można skorzystać z bezpłatnego interfejsu API do interakcji z nimi
+
+Obiekt `QuerySet` to zbiór zapytań do bazy danych słuzący do pobierania obiektów z DB.
+Obiekt `QuerySet` umożliwia stosowanie filtró
+
+https://docs.djangoproject.com/en/2.0/ref/models
+
+### `filter()`
+```python
+Post.objects.filter(publish_year=2022)
+Post.objects.filter(publish_year=2022, author_username='admin') # to jest równoznaczne z budowaniem obiektu `QuerySet, ktory łączy wiele fitrów`
+```
+
+### `exclude()`
+wszystkie posty z 2022, które NIE zaczynają się od "Dlaczego"
+```python
+Post.objects.filter(publish_year=2022)
+ .exclude(title_startswith='Dlaczego')
+```
+
+
+### `order_by()`
+```python
+Post.object.order_by('title') # porządek rosnący, domyślny
+
+Post.object.order_by("-title") # w porządku malejącym
+```
+
+
+## Menedżer obiektów `Manager.object`
+**menedżer** to int
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
