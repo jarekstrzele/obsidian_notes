@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "NODEJS-inside.excalidraw",
+      "path": "Excalidraw/NODEJS-inside.excalidraw.md"
+    },
+    {
       "basename": "_ NodeJS 101 Crash Course",
       "path": "_ WEB/N_O_D_E/Node JS 101 Crash/_ NodeJS 101 Crash Course.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "1 React",
       "path": "_ FullStack/Full Stack Web Development  Bootcamp/1 React.md"
-    },
-    {
-      "basename": "_ 0 Full stack Web Dev Bootcamp",
-      "path": "_ FullStack/Full Stack Web Development  Bootcamp/_ 0 Full stack Web Dev Bootcamp.md"
     }
   ],
   "omittedPaths": [],

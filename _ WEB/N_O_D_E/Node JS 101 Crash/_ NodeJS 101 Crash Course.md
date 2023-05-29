@@ -99,7 +99,8 @@ www.google.com ("hi server, can you give me data?"" **REQUEST**) | **RESPONSE** 
 	- maths
 	- get args
 	- ...
-
+ so 
+ 
 
 
 

@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "5728abafa2153965",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/NODEJS-inside.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "6b42a6f3f1995343",
             "type": "leaf",
             "state": {
@@ -29,7 +39,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ WEB/N_O_D_E/Node JS 101 Crash/_ NodeJS 101 Crash Course.md",
+                "file": "Excalidraw/NODEJS-inside.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -128,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ WEB/N_O_D_E/Node JS 101 Crash/_ NodeJS 101 Crash Course.md",
+                "file": "Excalidraw/NODEJS-inside.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ WEB/N_O_D_E/Node JS 101 Crash/_ NodeJS 101 Crash Course.md"
+                "file": "Excalidraw/NODEJS-inside.excalidraw.md"
               }
             }
           },
@@ -199,8 +210,10 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "f0e0ed44f61590cb",
+  "active": "5728abafa2153965",
   "lastOpenFiles": [
+    "_ WEB/N_O_D_E/Node JS 101 Crash/_ NodeJS 101 Crash Course.md",
+    "Excalidraw/NODEJS-inside.excalidraw.md",
     "Studia/Python BackEnd/jQuery.md",
     "Studia/Python BackEnd/Django/2 Django.md",
     "Studia/Python BackEnd/Django/1 Framework Django.md",
@@ -225,8 +238,6 @@
     "HASKELL/Haskell for Imperative Programmers/10 Maybe.md",
     "HASKELL/Haskell for Imperative Programmers/9 Typeclasses.md",
     "R U S T/Rust Programming For Beginners/8.6 Test Rust.md",
-    "R U S T/Rust Programming For Beginners/8 Real World.md",
-    "R U S T/Rust Programming For Beginners/8.5 Modules.md",
     "methodology/images/seaborn_relplot_tip_total_bill_4.png",
     "_ WEB/N_O_D_E/Node JS 101 Crash",
     "Untitled 1.canvas",
