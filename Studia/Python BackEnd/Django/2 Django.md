@@ -109,6 +109,8 @@ Klasa modelu reprezentuje tabelę w bazie danych
 *OBIEKT<->REKORD*
 Intancj klasy reprezentuje pojedynczy rekord w tabeli bazy danych 
 
+
+### Tworzenie
 **Przykład**
 ```python
 from ankiety.models import Quetions
@@ -130,8 +132,38 @@ post = Post(title="inny Post", slug="another-post", body="content of post", auth
 post.save()
 ```
 - najpierw **pobieramy** obiekt `user`
-- tworzymy egzemplarz klasy `Post
-- `
+- **tworzymy** egzemplarz klasy `Post`
+- **zapisujemy** obiekt `Post` w bazie danych (`save()`)
+
+można też ==stworzyć== obiekt  i ==zapisać== go w bazie danych za pomocą pojedynczej operacji (`create()`)
+```python
+Post.objects.create(title="some tile", slug="one-more-post", body="body of post", author=user) ;
+```
+
+### Aktualizowanie
+```python
+post.title = "Nowy tytuł"
+post.save()
+```
+metoda `save()` wykona instrukcję `SQL UPDATE`
+
+### Usuwanie 
+```python
+all_posts = Post.objects.all()
+```
+
+```python
+
+```
+
+
+### Pobieranie
+jeden obiekt
+`Post.objets.get(attr=value)` 
+`Post.objets.get(id=1)`
+
+wszystkie
+`Post.objects.all()`
 
 
 
