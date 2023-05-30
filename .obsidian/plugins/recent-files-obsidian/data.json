@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "7.3 Derived instances",
+      "path": "HASKELL/for_great_good/7.3 Derived instances.md"
+    },
+    {
+      "basename": "7.2 Type parameters",
+      "path": "HASKELL/for_great_good/7.2 Type parameters.md"
+    },
+    {
+      "basename": "7.1 Record syntax",
+      "path": "HASKELL/for_great_good/7.1 Record syntax.md"
+    },
+    {
+      "basename": "7 Types and TypeClasses",
+      "path": "HASKELL/for_great_good/7 Types and TypeClasses.md"
+    },
+    {
       "basename": "12 Monads",
       "path": "HASKELL/Haskell for Imperative Programmers/12 Monads.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "_ 0 Rust Web Book",
       "path": "R U S T/Rust Web Book/_ 0 Rust Web Book.md"
-    },
-    {
-      "basename": "1 Rust Calc",
-      "path": "R U S T/Rust - FreeCode Beginner/1 Rust Calc.md"
-    },
-    {
-      "basename": "2 Rust Combiner",
-      "path": "R U S T/Rust - FreeCode Beginner/2 Rust Combiner.md"
-    },
-    {
-      "basename": "makro vs function",
-      "path": "R U S T/Rust - FreeCode Beginner/makro vs function.md"
-    },
-    {
-      "basename": "_ 0 Rust",
-      "path": "R U S T/Rust - FreeCode Beginner/_ 0 Rust.md"
     }
   ],
   "omittedPaths": [],

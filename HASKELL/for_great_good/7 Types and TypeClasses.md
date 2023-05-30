@@ -14,8 +14,8 @@ in the standard library `Bool` is  define:
 
 `data` - define a new data type
 `Bool` denotes the type
-` = ` **value constructor** (specify different values that this type can have)
-` | ` or
+` = ` ----- **value constructor** (specify different values that this type can have)
+` | `  ---- or
 
 
 # generally
