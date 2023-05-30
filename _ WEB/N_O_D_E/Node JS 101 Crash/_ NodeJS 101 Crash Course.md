@@ -3,7 +3,7 @@
 https://www.youtube.com/watch?v=fUJ3ULyyA-Y
 
 -----------
-
+[[1. synchronous vs asynchronous]]
 
 
 
