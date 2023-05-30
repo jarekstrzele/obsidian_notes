@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "0- Intro functional programming (beginner udemy)",
+      "path": "JAVASCRIPT/Functional/0- Intro functional programming (beginner udemy).md"
+    },
+    {
       "basename": "1. synchronous vs asynchronous",
       "path": "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "1 Guessing Game in Rust",
       "path": "R U S T/ULTIMATE Rust Lang Tutorial/1 Guessing Game in Rust.md"
-    },
-    {
-      "basename": "_ Ultimate Rust Lang Tutorial",
-      "path": "R U S T/ULTIMATE Rust Lang Tutorial/_ Ultimate Rust Lang Tutorial.md"
     }
   ],
   "omittedPaths": [],
