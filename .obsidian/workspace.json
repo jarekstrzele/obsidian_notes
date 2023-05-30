@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVASCRIPT/JS_funkcyjnie/Nowe elementy JS.md",
+                "file": "JAVASCRIPT/JS. Programowanie obiektowe/3 Obiekty.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVASCRIPT/JS_funkcyjnie/Nowe elementy JS.md",
+                "file": "JAVASCRIPT/JS. Programowanie obiektowe/3 Obiekty.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVASCRIPT/JS_funkcyjnie/Nowe elementy JS.md",
+                "file": "JAVASCRIPT/JS. Programowanie obiektowe/3 Obiekty.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVASCRIPT/JS_funkcyjnie/Nowe elementy JS.md"
+                "file": "JAVASCRIPT/JS. Programowanie obiektowe/3 Obiekty.md"
               }
             }
           },
@@ -216,20 +216,24 @@
   },
   "active": "da2f65071ae9b616",
   "lastOpenFiles": [
+    "JAVASCRIPT/JS. Programowanie obiektowe/4 Konstruktory i prototypy.md",
+    "JAVASCRIPT/JS. Programowanie obiektowe/3 Obiekty.md",
+    "JAVASCRIPT/Functional/0- Intro functional programming (beginner udemy).md",
+    "JAVASCRIPT/Functional Programming for JS Developers",
+    "JAVASCRIPT/JS Bible/_ 0 JS Bible.md",
+    "JAVASCRIPT/JS współczesny/_ 0 intro JS dzisiaj.md",
+    "JAVASCRIPT/funkcyjnie_JS/Nowe elementy JS.md",
     "JAVASCRIPT/Functional/8.1. Data Model.md",
     "JAVASCRIPT/Functional/8.2. View Function.md",
-    "JAVASCRIPT/Functional/0- Intro functional programming (beginner udemy).md",
     "JAVASCRIPT/Functional/5 - HTML and CSS.md",
-    "JAVASCRIPT/JS_funkcyjnie/Nowe elementy JS.md",
-    "JAVASCRIPT/JS_funkcyjnie/_ JavaScript funkcyjnie.md",
+    "JAVASCRIPT/funkcyjnie_JS/_ JavaScript funkcyjnie.md",
     "test canvas.canvas",
     "HASKELL/for_great_good/7 Types and TypeClasses.md",
     "pexels-alex-fu-1302436.jpg",
-    "JAVASCRIPT/JS współczesny/_ 0 intro JS dzisiaj.md",
     "JAVASCRIPT/DAY JS.md",
     "JAVASCRIPT/Modern JavaScrip From the Beginning/3.2. DOM Selectors for single Elements.md",
     "JAVASCRIPT/Modern JavaScrip From the Beginning/3.1. The Document Object.md",
-    "JAVASCRIPT/JS_funkcyjnie",
+    "JAVASCRIPT/funkcyjnie_JS",
     "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md",
     "_ WEB/N_O_D_E/Node JS 101 Crash/_ NodeJS 101 Crash Course.md",
     "HASKELL/for_great_good/7.4. Type synonyms.md",
@@ -242,9 +246,6 @@
     "HASKELL/Haskell for Imperative Programmers/10 Maybe.md",
     "Excalidraw/obiekty_req_res_django.excalidraw.md",
     "Excalidraw/NODEJS-inside.excalidraw.md",
-    "Studia/Python BackEnd/jQuery.md",
-    "Studia/Python BackEnd/Django/2 Django.md",
-    "Studia/Python BackEnd/Django/1 Framework Django.md",
     "methodology/images/seaborn_relplot_tip_total_bill_4.png",
     "_ WEB/N_O_D_E/Node JS 101 Crash",
     "Untitled 1.canvas",
@@ -256,7 +257,6 @@
     "_ WEB",
     "_ Desktop/Python",
     "_ Desktop",
-    "_ Mobile",
     "Untitled.canvas"
   ]
 }

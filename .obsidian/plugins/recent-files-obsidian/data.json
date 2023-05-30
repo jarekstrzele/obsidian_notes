@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "3 Obiekty",
+      "path": "JAVASCRIPT/JS. Programowanie obiektowe/3 Obiekty.md"
+    },
+    {
+      "basename": "4 Konstruktory i prototypy",
+      "path": "JAVASCRIPT/JS. Programowanie obiektowe/4 Konstruktory i prototypy.md"
+    },
+    {
+      "basename": "0- Intro functional programming (beginner udemy)",
+      "path": "JAVASCRIPT/Functional/0- Intro functional programming (beginner udemy).md"
+    },
+    {
+      "basename": "_ 0 JS Bible",
+      "path": "JAVASCRIPT/JS Bible/_ 0 JS Bible.md"
+    },
+    {
+      "basename": "_ 0 intro JS dzisiaj",
+      "path": "JAVASCRIPT/JS współczesny/_ 0 intro JS dzisiaj.md"
+    },
+    {
       "basename": "Nowe elementy JS",
-      "path": "JAVASCRIPT/JS_funkcyjnie/Nowe elementy JS.md"
+      "path": "JAVASCRIPT/funkcyjnie_JS/Nowe elementy JS.md"
     },
     {
       "basename": "8.1. Data Model",
@@ -13,16 +33,12 @@
       "path": "JAVASCRIPT/Functional/8.2. View Function.md"
     },
     {
-      "basename": "0- Intro functional programming (beginner udemy)",
-      "path": "JAVASCRIPT/Functional/0- Intro functional programming (beginner udemy).md"
-    },
-    {
       "basename": "5 - HTML and CSS",
       "path": "JAVASCRIPT/Functional/5 - HTML and CSS.md"
     },
     {
       "basename": "_ JavaScript funkcyjnie",
-      "path": "JAVASCRIPT/JS_funkcyjnie/_ JavaScript funkcyjnie.md"
+      "path": "JAVASCRIPT/funkcyjnie_JS/_ JavaScript funkcyjnie.md"
     },
     {
       "basename": "test canvas",
@@ -51,10 +67,6 @@
     {
       "basename": "seaborn_relplot_tip_total_bill_4",
       "path": "methodology/images/seaborn_relplot_tip_total_bill_4.png"
-    },
-    {
-      "basename": "_ 0 intro JS dzisiaj",
-      "path": "JAVASCRIPT/JS współczesny/_ 0 intro JS dzisiaj.md"
     },
     {
       "basename": "DAY JS",
@@ -187,18 +199,6 @@
     {
       "basename": "_ Wprowadzenie SI z JS",
       "path": "A I/SI na Froncie/_ Wprowadzenie SI z JS.md"
-    },
-    {
-      "basename": "_ 0 Uczenie maszynowe z JS",
-      "path": "A I/JS uczenie maszynowe/_ 0 Uczenie maszynowe z JS.md"
-    },
-    {
-      "basename": "8.6 Test Rust",
-      "path": "R U S T/Rust Programming For Beginners/8.6 Test Rust.md"
-    },
-    {
-      "basename": "8 Real World",
-      "path": "R U S T/Rust Programming For Beginners/8 Real World.md"
     }
   ],
   "omittedPaths": [],

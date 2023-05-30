@@ -3,7 +3,7 @@
 		{"type":"text","text":"ifwefwef\nf\nwefwef\nwefwe","id":"e327fd86614f59ac","x":60,"y":80,"width":250,"height":223,"color":"2"},
 		{"type":"text","text":"to jest coś nowego\n","id":"1353e858cf21313c","x":931,"y":-93,"width":250,"height":60},
 		{"type":"text","text":"book.realworldhaskell.org/read/","id":"4ede638876de132a","x":340,"y":-1020,"width":364,"height":260},
-		{"type":"file","file":"JAVASCRIPT/JS_funkcyjnie/Nowe elementy JS.md","id":"7d56e073f616e22e","x":522,"y":-580,"width":728,"height":340},
+		{"type":"file","file":"JAVASCRIPT/funkcyjnie_JS/Nowe elementy JS.md","id":"7d56e073f616e22e","x":522,"y":-580,"width":728,"height":340},
 		{"type":"file","file":"methodology/images/seaborn_relplot_tip_total_bill_4.png","id":"16a4349936221340","x":-440,"y":-1020,"width":556,"height":520},
 		{"type":"file","file":"pexels-alex-fu-1302436.jpg","id":"c4aea9b661584bea","x":-440,"y":-68,"width":208,"height":260},
 		{"id":"3ef53ff5390ab49a","x":-320,"y":-1580,"width":732,"height":400,"color":"#9a0909","type":"link","url":"https://book.realworldhaskell.org/read/"},
