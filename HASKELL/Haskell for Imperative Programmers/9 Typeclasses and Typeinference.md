@@ -121,6 +121,7 @@ sort :: Ord e => [e] -> [e]
 ```
 
 ad.3.
-from r
+from reverse . sort derive
+`b = [e], c=[e], c=[a], d=[a]`
 
 

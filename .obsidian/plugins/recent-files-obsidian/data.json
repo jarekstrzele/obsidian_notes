@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "12 Monads",
+      "path": "HASKELL/Haskell for Imperative Programmers/12 Monads.md"
+    },
+    {
       "basename": "9 Typeclasses and Typeinference",
       "path": "HASKELL/Haskell for Imperative Programmers/9 Typeclasses and Typeinference.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_ 0 Rust",
       "path": "R U S T/Rust - FreeCode Beginner/_ 0 Rust.md"
-    },
-    {
-      "basename": "1 React",
-      "path": "_ FullStack/Full Stack Web Development  Bootcamp/1 React.md"
     }
   ],
   "omittedPaths": [],
