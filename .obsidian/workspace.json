@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HASKELL/Haskell for Imperative Programmers/10 Maybe.md",
+                "file": "HASKELL/Haskell for Imperative Programmers/11 IO.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/Haskell for Imperative Programmers/10 Maybe.md",
+                "file": "HASKELL/Haskell for Imperative Programmers/11 IO.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/Haskell for Imperative Programmers/10 Maybe.md",
+                "file": "HASKELL/Haskell for Imperative Programmers/11 IO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/Haskell for Imperative Programmers/10 Maybe.md"
+                "file": "HASKELL/Haskell for Imperative Programmers/11 IO.md"
               }
             }
           },
@@ -191,6 +191,7 @@
   },
   "active": "ba2c8928d029939d",
   "lastOpenFiles": [
+    "HASKELL/Haskell for Imperative Programmers/10 Maybe.md",
     "HASKELL/Haskell for Imperative Programmers/9 Typeclasses.md",
     "HASKELL/Haskell for Imperative Programmers/11 IO.md",
     "Excalidraw/obiekty_req_res_django.excalidraw.md",
@@ -215,7 +216,6 @@
     "A I/SI na Froncie/2. SI i Uczenie maszynowe.md",
     "A I/SI na Froncie/_ Wprowadzenie SI z JS.md",
     "A I/JS uczenie maszynowe/_ 0 Uczenie maszynowe z JS.md",
-    "HASKELL/Haskell for Imperative Programmers/10 Maybe.md",
     "R U S T/Rust Programming For Beginners/8.6 Test Rust.md",
     "methodology/images/seaborn_relplot_tip_total_bill_4.png",
     "_ WEB/N_O_D_E/Node JS 101 Crash",
