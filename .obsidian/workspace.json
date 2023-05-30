@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "da2f65071ae9b616",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_ WEB/N_O_D_E/Node JS 101 Crash/_ NodeJS 101 Crash Course.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/for_great_good/7 Types and TypeClasses.md",
+                "file": "_ WEB/N_O_D_E/Node JS 101 Crash/_ NodeJS 101 Crash Course.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -118,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/for_great_good/7 Types and TypeClasses.md",
+                "file": "_ WEB/N_O_D_E/Node JS 101 Crash/_ NodeJS 101 Crash Course.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/for_great_good/7 Types and TypeClasses.md"
+                "file": "_ WEB/N_O_D_E/Node JS 101 Crash/_ NodeJS 101 Crash Course.md"
               }
             }
           },
@@ -189,13 +202,13 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "ba2c8928d029939d",
+  "active": "da2f65071ae9b616",
   "lastOpenFiles": [
+    "HASKELL/for_great_good/7 Types and TypeClasses.md",
     "HASKELL/for_great_good/7.4. Type synonyms.md",
     "HASKELL/for_great_good/7.3 Derived instances.md",
     "HASKELL/for_great_good/7.2 Type parameters.md",
     "HASKELL/for_great_good/7.1 Record syntax.md",
-    "HASKELL/for_great_good/7 Types and TypeClasses.md",
     "HASKELL/Haskell for Imperative Programmers/12 Monads.md",
     "HASKELL/Haskell for Imperative Programmers/9 Typeclasses and Typeinference.md",
     "HASKELL/Haskell for Imperative Programmers/11 IO.md",

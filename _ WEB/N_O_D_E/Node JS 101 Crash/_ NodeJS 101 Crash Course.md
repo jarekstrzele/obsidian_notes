@@ -108,7 +108,9 @@ JS code -> NODEJS -> User Output
 ------
 # Node internals Deep Dive
 Node project is hosted by GitHub
-
+In GitHub - important folder:
+- `lib`     (JavaScript)(`pocess, console, path ,...` - `.js`)
+- `src`    (C++, low level, NodeJs Bingings)
 
 
 
