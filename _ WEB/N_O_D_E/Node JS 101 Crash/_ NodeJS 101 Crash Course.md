@@ -109,8 +109,26 @@ JS code -> NODEJS -> User Output
 # Node internals Deep Dive
 Node project is hosted by GitHub
 In GitHub - important folder:
-- `lib`     (JavaScript)(`pocess, console, path ,...` - `.js`)
-- `src`    (C++, low level, NodeJs Bingings)
+- `lib`     (JavaScript)(`pocess, console, fs, path ,...` - `.js`)
+- `src`    (C++, low level, NodeJs Bingings; e.g. in `fs.js` from lib you can find `binding.open()` function -that function convert the values between JS in fs  module  and C++; in folder `src` you find `node_file.cc`, this is a C++ code)   
+
+--------
+# `libuv` internals deep dive
+http://libuv.org/
+This library is connected with JS by `binding`. Other languages ca use `libuv`
+Python, C#, PHP, Go, R, Haskell. Del
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
