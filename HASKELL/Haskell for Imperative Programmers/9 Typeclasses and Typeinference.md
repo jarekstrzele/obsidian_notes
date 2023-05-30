@@ -2,6 +2,7 @@ https://www.youtube.com/watch?v=1txgSlcpQmo&list=PLe7Ei6viL6jGp1Rfu0dil1JH1SHk9b
 
 #haskell/typeclasses
 
+# Typeclasses
 
 # Type constrain
 ```haskell
@@ -61,13 +62,22 @@ instance Eq Temperature where
   (==) _ _ == false
 ```
 
+----------
+# Typeinference
+
+algorithm
+1. Assign every variable a unique typevariable
+2. Assign every function its type with new unique typevariables
+3. for each subexpression of the expression generate equations of types
+4. Resolve the equations until no further simplifications can be done. Conflicting types imply a type error otherwise the type has been inferred
 
 
+example:
+```haskell
+add x y z = (x + y) : z
+```
 
-
-
-
-
+ad. 1. 
 
 
 

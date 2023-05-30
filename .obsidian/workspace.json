@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HASKELL/Haskell for Imperative Programmers/11 IO.md",
+                "file": "HASKELL/Haskell for Imperative Programmers/9 Typeclasses and Typeinference.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/Haskell for Imperative Programmers/11 IO.md",
+                "file": "HASKELL/Haskell for Imperative Programmers/9 Typeclasses and Typeinference.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/Haskell for Imperative Programmers/11 IO.md",
+                "file": "HASKELL/Haskell for Imperative Programmers/9 Typeclasses and Typeinference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/Haskell for Imperative Programmers/11 IO.md"
+                "file": "HASKELL/Haskell for Imperative Programmers/9 Typeclasses and Typeinference.md"
               }
             }
           },
@@ -191,9 +191,9 @@
   },
   "active": "ba2c8928d029939d",
   "lastOpenFiles": [
-    "HASKELL/Haskell for Imperative Programmers/10 Maybe.md",
-    "HASKELL/Haskell for Imperative Programmers/9 Typeclasses.md",
     "HASKELL/Haskell for Imperative Programmers/11 IO.md",
+    "HASKELL/Haskell for Imperative Programmers/10 Maybe.md",
+    "HASKELL/Haskell for Imperative Programmers/9 Typeclasses and Typeinference.md",
     "Excalidraw/obiekty_req_res_django.excalidraw.md",
     "Excalidraw/NODEJS-inside.excalidraw.md",
     "_ WEB/N_O_D_E/Node JS 101 Crash/_ NodeJS 101 Crash Course.md",
