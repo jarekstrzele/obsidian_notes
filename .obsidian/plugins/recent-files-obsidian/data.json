@@ -5,6 +5,18 @@
       "path": "JAVASCRIPT/JS_funkcyjnie/lambda JS.md"
     },
     {
+      "basename": "seaborn_relplot_tip_total_bill_4",
+      "path": "methodology/images/seaborn_relplot_tip_total_bill_4.png"
+    },
+    {
+      "basename": "test canvas",
+      "path": "test canvas.canvas"
+    },
+    {
+      "basename": "pexels-alex-fu-1302436",
+      "path": "pexels-alex-fu-1302436.jpg"
+    },
+    {
       "basename": "_ JavaScript funkcyjnie",
       "path": "JAVASCRIPT/JS_funkcyjnie/_ JavaScript funkcyjnie.md"
     },
@@ -169,10 +181,6 @@
       "path": "R U S T/Rust Programming For Beginners/8.5 Modules.md"
     },
     {
-      "basename": "seaborn_relplot_tip_total_bill_4",
-      "path": "methodology/images/seaborn_relplot_tip_total_bill_4.png"
-    },
-    {
       "basename": "1.6 Press to Delete and Style it",
       "path": "_ Mobile/REACT NATIVE/React Native Practical Guide/1.6 Press to Delete and Style it.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "8.4 Map Combinator",
       "path": "R U S T/Rust Programming For Beginners/8.4 Map Combinator.md"
-    },
-    {
-      "basename": "7 Advanced Concepts",
-      "path": "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md"
-    },
-    {
-      "basename": "3 Repetition",
-      "path": "R U S T/Rust Programming For Beginners/3 Repetition.md"
     }
   ],
   "omittedPaths": [],

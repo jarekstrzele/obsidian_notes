@@ -23,11 +23,14 @@
             "id": "da2f65071ae9b616",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "JAVASCRIPT/JS_funkcyjnie/lambda JS.md",
-                "mode": "source",
-                "source": false
+                "file": "test canvas.canvas",
+                "viewState": {
+                  "x": 200,
+                  "y": -601.2900000000001,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -204,8 +207,10 @@
   },
   "active": "da2f65071ae9b616",
   "lastOpenFiles": [
-    "JAVASCRIPT/JS_funkcyjnie/_ JavaScript funkcyjnie.md",
+    "pexels-alex-fu-1302436.jpg",
     "JAVASCRIPT/JS_funkcyjnie/lambda JS.md",
+    "test canvas.canvas",
+    "JAVASCRIPT/JS_funkcyjnie/_ JavaScript funkcyjnie.md",
     "JAVASCRIPT/JS współczesny/_ 0 intro JS dzisiaj.md",
     "JAVASCRIPT/DAY JS.md",
     "JAVASCRIPT/Modern JavaScrip From the Beginning/3.2. DOM Selectors for single Elements.md",
@@ -230,7 +235,6 @@
     "Studia/Python BackEnd/Django/1 Framework Django.md",
     "linux/UBUNTU.md",
     "Excalidraw/haskell_IO.excalidraw.md",
-    "R U S T/Rust Programming For Beginners/9.2 Iterators - Rust.md",
     "methodology/images/seaborn_relplot_tip_total_bill_4.png",
     "_ WEB/N_O_D_E/Node JS 101 Crash",
     "Untitled 1.canvas",
