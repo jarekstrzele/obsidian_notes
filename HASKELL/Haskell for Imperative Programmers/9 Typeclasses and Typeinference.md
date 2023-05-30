@@ -77,10 +77,50 @@ example:
 add x y z = (x + y) : z
 ```
 
-ad. 1. 
+ad. 1.  variables
+```haskell
+x :: a
+y :: b
+z :: c
+```
+
+ad. 2. functions
+```haskell
+(+) :: (Num d) => d -> d -> d
+(:) :: e -> [e] -> [e]
+```
+
+ad. 3. equations
+from `(x + y)` derive `a=d` and `b = d`
+from `(x + y) : z` derive `[e] = c` and `d=e`
+
+update:
+```haskell
+x :: d
+y :: d
+z :: [e]
+z :: [d]
+```
+
+and the type is
+```haskell
+add :: (Num d) => d -> d -> [d] -> [d]
+```
 
 
+example
+```haskell
+f = reverse . sort
+```
 
+ad.2.
+```haskell
+reverse :: [a] -> [a]
+(.) :: (c->d) -> (b->c) -> b -> d
+sort :: Ord e => [e] -> [e]
+```
 
+ad.3.
+from r
 
 
