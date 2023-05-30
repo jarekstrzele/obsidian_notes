@@ -29,7 +29,7 @@ console.log(getliteralObiektu(product)) ;
 
 ----
 # Spread/rest
-
+## rest
 
 
 
