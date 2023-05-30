@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HASKELL/for_great_good/7.3 Derived instances.md",
+                "file": "HASKELL/for_great_good/7.4. Type synonyms.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/for_great_good/7.3 Derived instances.md",
+                "file": "HASKELL/for_great_good/7.4. Type synonyms.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/for_great_good/7.3 Derived instances.md",
+                "file": "HASKELL/for_great_good/7.4. Type synonyms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/for_great_good/7.3 Derived instances.md"
+                "file": "HASKELL/for_great_good/7.4. Type synonyms.md"
               }
             }
           },
@@ -191,10 +191,11 @@
   },
   "active": "ba2c8928d029939d",
   "lastOpenFiles": [
+    "HASKELL/for_great_good/7.3 Derived instances.md",
+    "HASKELL/for_great_good/7.4. Type synonyms.md",
     "HASKELL/for_great_good/7.2 Type parameters.md",
     "HASKELL/for_great_good/7.1 Record syntax.md",
     "HASKELL/for_great_good/7 Types and TypeClasses.md",
-    "HASKELL/for_great_good/7.3 Derived instances.md",
     "HASKELL/Haskell for Imperative Programmers/12 Monads.md",
     "HASKELL/Haskell for Imperative Programmers/9 Typeclasses and Typeinference.md",
     "HASKELL/Haskell for Imperative Programmers/11 IO.md",
@@ -216,7 +217,6 @@
     "R U S T/Rust Programming For Beginners/4 Data.md",
     "R U S T/Rust Programming For Beginners/2 Making Decisions.md",
     "R U S T/Rust Programming For Beginners/_ Rust Programming for Beginners.md",
-    "A I/SI na Froncie/3 AI na froncie.md",
     "methodology/images/seaborn_relplot_tip_total_bill_4.png",
     "_ WEB/N_O_D_E/Node JS 101 Crash",
     "Untitled 1.canvas",
