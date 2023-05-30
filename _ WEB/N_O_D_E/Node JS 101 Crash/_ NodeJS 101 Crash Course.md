@@ -1,8 +1,23 @@
 #youtube  #node #javascript  
 #zero_to_master 
-
 https://www.youtube.com/watch?v=fUJ3ULyyA-Y
 
+-----------
+
+
+
+
+------
+[[#REPL Read Eval Print Loop]]
+[[#VS Code]]
+[[#global]]
+[[#Node vs JS]]
+[[#Backend vs Frontend]]
+[[#What does Node.Js Do?]]
+[[#Node internals Deep Dive]]
+[[#`libuv` internals deep dive]]
+
+---
 # REPL Read Eval Print Loop
 ```node
 $ node
@@ -116,8 +131,11 @@ In GitHub - important folder:
 # `libuv` internals deep dive
 http://libuv.org/
 This library is connected with JS by `binding`. Other languages ca use `libuv`
-Python, C#, PHP, Go, R, Haskell. Del
+Python, C#, PHP, Go, R, Haskell, Delphi , ...
+"tokio" biblioteka zapewnia wydajy model programowania asynchronicznego dla Rusta
 
+https://github.com/libuv/libuv
+`/src` folder in subfolder `unix` you find `fs.c`
 
 
 

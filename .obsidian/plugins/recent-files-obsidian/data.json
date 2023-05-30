@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "1. synchronous vs asynchronous",
+      "path": "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md"
+    },
+    {
       "basename": "_ NodeJS 101 Crash Course",
       "path": "_ WEB/N_O_D_E/Node JS 101 Crash/_ NodeJS 101 Crash Course.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_ Ultimate Rust Lang Tutorial",
       "path": "R U S T/ULTIMATE Rust Lang Tutorial/_ Ultimate Rust Lang Tutorial.md"
-    },
-    {
-      "basename": "_ Rust Tech with Tim",
-      "path": "R U S T/Tech with TIm Rust/_ Rust Tech with Tim.md"
     }
   ],
   "omittedPaths": [],
