@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "_ NodeJS 101 Crash Course",
-      "path": "_ WEB/N_O_D_E/Node JS 101 Crash/_ NodeJS 101 Crash Course.md"
+      "basename": "10 Maybe",
+      "path": "HASKELL/Haskell for Imperative Programmers/10 Maybe.md"
+    },
+    {
+      "basename": "9 Typeclasses",
+      "path": "HASKELL/Haskell for Imperative Programmers/9 Typeclasses.md"
+    },
+    {
+      "basename": "11 IO",
+      "path": "HASKELL/Haskell for Imperative Programmers/11 IO.md"
+    },
+    {
+      "basename": "obiekty_req_res_django.excalidraw",
+      "path": "Excalidraw/obiekty_req_res_django.excalidraw.md"
     },
     {
       "basename": "NODEJS-inside.excalidraw",
       "path": "Excalidraw/NODEJS-inside.excalidraw.md"
+    },
+    {
+      "basename": "_ NodeJS 101 Crash Course",
+      "path": "_ WEB/N_O_D_E/Node JS 101 Crash/_ NodeJS 101 Crash Course.md"
     },
     {
       "basename": "jQuery",
@@ -19,10 +35,6 @@
     {
       "basename": "1 Framework Django",
       "path": "Studia/Python BackEnd/Django/1 Framework Django.md"
-    },
-    {
-      "basename": "obiekty_req_res_django.excalidraw",
-      "path": "Excalidraw/obiekty_req_res_django.excalidraw.md"
     },
     {
       "basename": "UBUNTU",
@@ -87,18 +99,6 @@
     {
       "basename": "_ 0 Uczenie maszynowe z JS",
       "path": "A I/JS uczenie maszynowe/_ 0 Uczenie maszynowe z JS.md"
-    },
-    {
-      "basename": "11 IO",
-      "path": "HASKELL/Haskell for Imperative Programmers/11 IO.md"
-    },
-    {
-      "basename": "10 Maybe",
-      "path": "HASKELL/Haskell for Imperative Programmers/10 Maybe.md"
-    },
-    {
-      "basename": "9 Typeclasses",
-      "path": "HASKELL/Haskell for Imperative Programmers/9 Typeclasses.md"
     },
     {
       "basename": "8.6 Test Rust",

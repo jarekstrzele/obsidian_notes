@@ -4,38 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "fd7df2a5a5f5d43d",
+        "id": "457f864f4f30dc70",
         "type": "tabs",
         "children": [
           {
-            "id": "f0e0ed44f61590cb",
+            "id": "ba2c8928d029939d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ WEB/N_O_D_E/Node JS 101 Crash/_ NodeJS 101 Crash Course.md",
+                "file": "HASKELL/Haskell for Imperative Programmers/10 Maybe.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "5728abafa2153965",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/NODEJS-inside.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "6b42a6f3f1995343",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/obiekty_req_res_django.excalidraw.md"
               }
             }
           }
@@ -121,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ WEB/N_O_D_E/Node JS 101 Crash/_ NodeJS 101 Crash Course.md",
+                "file": "HASKELL/Haskell for Imperative Programmers/10 Maybe.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -138,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ WEB/N_O_D_E/Node JS 101 Crash/_ NodeJS 101 Crash Course.md",
+                "file": "HASKELL/Haskell for Imperative Programmers/10 Maybe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ WEB/N_O_D_E/Node JS 101 Crash/_ NodeJS 101 Crash Course.md"
+                "file": "HASKELL/Haskell for Imperative Programmers/10 Maybe.md"
               }
             }
           },
@@ -209,14 +189,16 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "f0e0ed44f61590cb",
+  "active": "ba2c8928d029939d",
   "lastOpenFiles": [
+    "HASKELL/Haskell for Imperative Programmers/9 Typeclasses.md",
+    "HASKELL/Haskell for Imperative Programmers/11 IO.md",
+    "Excalidraw/obiekty_req_res_django.excalidraw.md",
     "Excalidraw/NODEJS-inside.excalidraw.md",
     "_ WEB/N_O_D_E/Node JS 101 Crash/_ NodeJS 101 Crash Course.md",
     "Studia/Python BackEnd/jQuery.md",
     "Studia/Python BackEnd/Django/2 Django.md",
     "Studia/Python BackEnd/Django/1 Framework Django.md",
-    "Excalidraw/obiekty_req_res_django.excalidraw.md",
     "linux/UBUNTU.md",
     "Excalidraw/haskell_IO.excalidraw.md",
     "R U S T/Rust Programming For Beginners/9.2 Iterators - Rust.md",
@@ -233,9 +215,7 @@
     "A I/SI na Froncie/2. SI i Uczenie maszynowe.md",
     "A I/SI na Froncie/_ Wprowadzenie SI z JS.md",
     "A I/JS uczenie maszynowe/_ 0 Uczenie maszynowe z JS.md",
-    "HASKELL/Haskell for Imperative Programmers/11 IO.md",
     "HASKELL/Haskell for Imperative Programmers/10 Maybe.md",
-    "HASKELL/Haskell for Imperative Programmers/9 Typeclasses.md",
     "R U S T/Rust Programming For Beginners/8.6 Test Rust.md",
     "methodology/images/seaborn_relplot_tip_total_bill_4.png",
     "_ WEB/N_O_D_E/Node JS 101 Crash",
