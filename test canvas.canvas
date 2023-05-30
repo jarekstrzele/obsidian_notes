@@ -1,17 +1,25 @@
 {
 	"nodes":[
-		{"type":"file","file":"pexels-alex-fu-1302436.jpg","id":"c4aea9b661584bea","x":-400,"y":20,"width":208,"height":260},
 		{"type":"text","text":"ifwefwef\nf\nwefwef\nwefwe","id":"e327fd86614f59ac","x":60,"y":80,"width":250,"height":223,"color":"2"},
 		{"type":"text","text":"to jest coś nowego\n","id":"1353e858cf21313c","x":931,"y":-93,"width":250,"height":60},
 		{"type":"text","text":"book.realworldhaskell.org/read/","id":"4ede638876de132a","x":340,"y":-1020,"width":364,"height":260},
-		{"type":"file","file":"methodology/images/seaborn_relplot_tip_total_bill_4.png","id":"16a4349936221340","x":-320,"y":-1100,"width":556,"height":520},
-		{"type":"file","file":"JAVASCRIPT/JS_funkcyjnie/lambda JS.md","id":"7d56e073f616e22e","x":-24,"y":-460,"width":728,"height":340}
+		{"type":"file","file":"JAVASCRIPT/JS_funkcyjnie/lambda JS.md","id":"7d56e073f616e22e","x":522,"y":-580,"width":728,"height":340},
+		{"type":"file","file":"methodology/images/seaborn_relplot_tip_total_bill_4.png","id":"16a4349936221340","x":-440,"y":-1020,"width":556,"height":520},
+		{"type":"file","file":"pexels-alex-fu-1302436.jpg","id":"c4aea9b661584bea","x":-440,"y":-68,"width":208,"height":260},
+		{"id":"3ef53ff5390ab49a","x":-320,"y":-1580,"width":732,"height":400,"color":"#9a0909","type":"link","url":"https://book.realworldhaskell.org/read/"},
+		{"id":"08203631bd594ed6","x":1088,"y":-2174,"width":250,"height":60,"type":"text","text":""},
+		{"id":"eda99ecb379953bd","x":1140,"y":-1960,"width":540,"height":290,"type":"file","file":"_ WEB/N_O_D_E/Mosh Node/_ 0 Node (Mosh).md"},
+		{"id":"52693c150aac99ba","x":985,"y":-2455,"width":400,"height":400,"type":"file","file":"_ WEB/Server/What is the Server.md"},
+		{"id":"61e564183b51a0dd","x":468,"y":-2680,"width":745,"height":276,"type":"file","file":"API/Learn FastAPI by building_udemy/2 Schemas (pydantic models).md"},
+		{"id":"a9773381e36e443b","x":162,"y":-2020,"width":250,"height":60,"color":"6","type":"text","text":"something new\n"}
 	],
 	"edges":[
 		{"id":"7967b8c4553d0305","fromNode":"c4aea9b661584bea","fromSide":"right","toNode":"e327fd86614f59ac","toSide":"left","color":"4"},
 		{"id":"103ebdc12aefed30","fromNode":"e327fd86614f59ac","fromSide":"right","toNode":"1353e858cf21313c","toSide":"left"},
 		{"id":"82fd3c140328cd9a","fromNode":"c4aea9b661584bea","fromSide":"top","toNode":"7d56e073f616e22e","toSide":"bottom","label":"to jest coś"},
 		{"id":"9543132b0f0762bb","fromNode":"4ede638876de132a","fromSide":"top","toNode":"7d56e073f616e22e","toSide":"top"},
-		{"id":"973e38d597785614","fromNode":"4ede638876de132a","fromSide":"top","toNode":"7d56e073f616e22e","toSide":"top"}
+		{"id":"973e38d597785614","fromNode":"4ede638876de132a","fromSide":"top","toNode":"7d56e073f616e22e","toSide":"top"},
+		{"id":"80aa6e1d1a3f1cdb","fromNode":"3ef53ff5390ab49a","fromSide":"bottom","toNode":"16a4349936221340","toSide":"top"},
+		{"id":"8cfad3b0eb05b1b1","fromNode":"3ef53ff5390ab49a","fromSide":"right","toNode":"eda99ecb379953bd","toSide":"left"}
 	]
 }

@@ -5,16 +5,32 @@
       "path": "JAVASCRIPT/JS_funkcyjnie/lambda JS.md"
     },
     {
-      "basename": "seaborn_relplot_tip_total_bill_4",
-      "path": "methodology/images/seaborn_relplot_tip_total_bill_4.png"
-    },
-    {
       "basename": "test canvas",
       "path": "test canvas.canvas"
     },
     {
+      "basename": "7 Types and TypeClasses",
+      "path": "HASKELL/for_great_good/7 Types and TypeClasses.md"
+    },
+    {
+      "basename": "2 Schemas (pydantic models)",
+      "path": "API/Learn FastAPI by building_udemy/2 Schemas (pydantic models).md"
+    },
+    {
+      "basename": "What is the Server",
+      "path": "_ WEB/Server/What is the Server.md"
+    },
+    {
+      "basename": "_ 0 Node (Mosh)",
+      "path": "_ WEB/N_O_D_E/Mosh Node/_ 0 Node (Mosh).md"
+    },
+    {
       "basename": "pexels-alex-fu-1302436",
       "path": "pexels-alex-fu-1302436.jpg"
+    },
+    {
+      "basename": "seaborn_relplot_tip_total_bill_4",
+      "path": "methodology/images/seaborn_relplot_tip_total_bill_4.png"
     },
     {
       "basename": "_ JavaScript funkcyjnie",
@@ -47,10 +63,6 @@
     {
       "basename": "_ NodeJS 101 Crash Course",
       "path": "_ WEB/N_O_D_E/Node JS 101 Crash/_ NodeJS 101 Crash Course.md"
-    },
-    {
-      "basename": "7 Types and TypeClasses",
-      "path": "HASKELL/for_great_good/7 Types and TypeClasses.md"
     },
     {
       "basename": "7.4. Type synonyms",
@@ -187,18 +199,6 @@
     {
       "basename": "8.1 User Input",
       "path": "R U S T/Rust Programming For Beginners/8.1 User Input.md"
-    },
-    {
-      "basename": "8.2 Interactive billing app",
-      "path": "R U S T/Rust Programming For Beginners/8.2 Interactive billing app.md"
-    },
-    {
-      "basename": "8.3. Closures Rust",
-      "path": "R U S T/Rust Programming For Beginners/8.3. Closures Rust.md"
-    },
-    {
-      "basename": "8.4 Map Combinator",
-      "path": "R U S T/Rust Programming For Beginners/8.4 Map Combinator.md"
     }
   ],
   "omittedPaths": [],

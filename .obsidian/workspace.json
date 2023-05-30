@@ -23,14 +23,11 @@
             "id": "da2f65071ae9b616",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "test canvas.canvas",
-                "viewState": {
-                  "x": 200,
-                  "y": -601.2900000000001,
-                  "zoom": 0
-                }
+                "file": "JAVASCRIPT/JS_funkcyjnie/lambda JS.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -207,9 +204,10 @@
   },
   "active": "da2f65071ae9b616",
   "lastOpenFiles": [
+    "test canvas.canvas",
+    "HASKELL/for_great_good/7 Types and TypeClasses.md",
     "pexels-alex-fu-1302436.jpg",
     "JAVASCRIPT/JS_funkcyjnie/lambda JS.md",
-    "test canvas.canvas",
     "JAVASCRIPT/JS_funkcyjnie/_ JavaScript funkcyjnie.md",
     "JAVASCRIPT/JS współczesny/_ 0 intro JS dzisiaj.md",
     "JAVASCRIPT/DAY JS.md",
@@ -219,7 +217,6 @@
     "JAVASCRIPT/JS_funkcyjnie",
     "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md",
     "_ WEB/N_O_D_E/Node JS 101 Crash/_ NodeJS 101 Crash Course.md",
-    "HASKELL/for_great_good/7 Types and TypeClasses.md",
     "HASKELL/for_great_good/7.4. Type synonyms.md",
     "HASKELL/for_great_good/7.3 Derived instances.md",
     "HASKELL/for_great_good/7.2 Type parameters.md",
