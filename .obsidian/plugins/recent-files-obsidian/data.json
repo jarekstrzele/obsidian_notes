@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "7 Types and TypeClasses",
+      "path": "HASKELL/for_great_good/7 Types and TypeClasses.md"
+    },
+    {
       "basename": "7.4. Type synonyms",
       "path": "HASKELL/for_great_good/7.4. Type synonyms.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "7.1 Record syntax",
       "path": "HASKELL/for_great_good/7.1 Record syntax.md"
-    },
-    {
-      "basename": "7 Types and TypeClasses",
-      "path": "HASKELL/for_great_good/7 Types and TypeClasses.md"
     },
     {
       "basename": "12 Monads",

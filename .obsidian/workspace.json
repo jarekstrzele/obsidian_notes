@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HASKELL/for_great_good/7.4. Type synonyms.md",
+                "file": "HASKELL/for_great_good/7 Types and TypeClasses.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/for_great_good/7.4. Type synonyms.md",
+                "file": "HASKELL/for_great_good/7 Types and TypeClasses.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/for_great_good/7.4. Type synonyms.md",
+                "file": "HASKELL/for_great_good/7 Types and TypeClasses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/for_great_good/7.4. Type synonyms.md"
+                "file": "HASKELL/for_great_good/7 Types and TypeClasses.md"
               }
             }
           },
@@ -191,8 +191,8 @@
   },
   "active": "ba2c8928d029939d",
   "lastOpenFiles": [
-    "HASKELL/for_great_good/7.3 Derived instances.md",
     "HASKELL/for_great_good/7.4. Type synonyms.md",
+    "HASKELL/for_great_good/7.3 Derived instances.md",
     "HASKELL/for_great_good/7.2 Type parameters.md",
     "HASKELL/for_great_good/7.1 Record syntax.md",
     "HASKELL/for_great_good/7 Types and TypeClasses.md",

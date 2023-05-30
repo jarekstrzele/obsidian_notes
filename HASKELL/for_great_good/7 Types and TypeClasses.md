@@ -3,6 +3,11 @@ http://learnyouahaskell.com/making-our-own-types-and-typeclasses
 ------
 [[7.1 Record syntax]]
 [[7.2 Type parameters]]
+[[7.3 Derived instances]]
+[[7.4. Type synonyms]]
+
+
+
 
 
 -------
