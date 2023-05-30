@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVASCRIPT/Functional/0- Intro functional programming (beginner udemy).md",
+                "file": "JAVASCRIPT/JS_funkcyjnie/lambda JS.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVASCRIPT/Functional/0- Intro functional programming (beginner udemy).md",
+                "file": "JAVASCRIPT/JS_funkcyjnie/lambda JS.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVASCRIPT/Functional/0- Intro functional programming (beginner udemy).md",
+                "file": "JAVASCRIPT/JS_funkcyjnie/lambda JS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVASCRIPT/Functional/0- Intro functional programming (beginner udemy).md"
+                "file": "JAVASCRIPT/JS_funkcyjnie/lambda JS.md"
               }
             }
           },
@@ -204,6 +204,14 @@
   },
   "active": "da2f65071ae9b616",
   "lastOpenFiles": [
+    "JAVASCRIPT/JS_funkcyjnie/_ JavaScript funkcyjnie.md",
+    "JAVASCRIPT/JS_funkcyjnie/lambda JS.md",
+    "JAVASCRIPT/JS współczesny/_ 0 intro JS dzisiaj.md",
+    "JAVASCRIPT/DAY JS.md",
+    "JAVASCRIPT/Modern JavaScrip From the Beginning/3.2. DOM Selectors for single Elements.md",
+    "JAVASCRIPT/Modern JavaScrip From the Beginning/3.1. The Document Object.md",
+    "JAVASCRIPT/Functional/0- Intro functional programming (beginner udemy).md",
+    "JAVASCRIPT/JS_funkcyjnie",
     "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md",
     "_ WEB/N_O_D_E/Node JS 101 Crash/_ NodeJS 101 Crash Course.md",
     "HASKELL/for_great_good/7 Types and TypeClasses.md",
@@ -223,13 +231,6 @@
     "linux/UBUNTU.md",
     "Excalidraw/haskell_IO.excalidraw.md",
     "R U S T/Rust Programming For Beginners/9.2 Iterators - Rust.md",
-    "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
-    "R U S T/Rust Programming For Beginners/9 Refining Your Code.md",
-    "R U S T/Rust Programming For Beginners/9.1 Option Combinators.md",
-    "R U S T/Rust Programming For Beginners/5 Intermediate Concepts.md",
-    "R U S T/Rust Programming For Beginners/6 Data Collections.md",
-    "R U S T/Rust Programming For Beginners/4 Data.md",
-    "R U S T/Rust Programming For Beginners/2 Making Decisions.md",
     "methodology/images/seaborn_relplot_tip_total_bill_4.png",
     "_ WEB/N_O_D_E/Node JS 101 Crash",
     "Untitled 1.canvas",
@@ -242,7 +243,6 @@
     "_ Desktop/Python",
     "_ Desktop",
     "_ Mobile",
-    "R U S T/Programmowanie_w Rust",
     "Untitled.canvas"
   ]
 }
