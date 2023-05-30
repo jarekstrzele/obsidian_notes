@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVASCRIPT/JS_funkcyjnie/lambda JS.md",
+                "file": "JAVASCRIPT/JS_funkcyjnie/Nowe elementy JS.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVASCRIPT/JS_funkcyjnie/lambda JS.md",
+                "file": "JAVASCRIPT/JS_funkcyjnie/Nowe elementy JS.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVASCRIPT/JS_funkcyjnie/lambda JS.md",
+                "file": "JAVASCRIPT/JS_funkcyjnie/Nowe elementy JS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVASCRIPT/JS_funkcyjnie/lambda JS.md"
+                "file": "JAVASCRIPT/JS_funkcyjnie/Nowe elementy JS.md"
               }
             }
           },
@@ -204,11 +204,11 @@
   },
   "active": "da2f65071ae9b616",
   "lastOpenFiles": [
+    "JAVASCRIPT/JS_funkcyjnie/_ JavaScript funkcyjnie.md",
+    "JAVASCRIPT/JS_funkcyjnie/Nowe elementy JS.md",
     "test canvas.canvas",
     "HASKELL/for_great_good/7 Types and TypeClasses.md",
     "pexels-alex-fu-1302436.jpg",
-    "JAVASCRIPT/JS_funkcyjnie/lambda JS.md",
-    "JAVASCRIPT/JS_funkcyjnie/_ JavaScript funkcyjnie.md",
     "JAVASCRIPT/JS współczesny/_ 0 intro JS dzisiaj.md",
     "JAVASCRIPT/DAY JS.md",
     "JAVASCRIPT/Modern JavaScrip From the Beginning/3.2. DOM Selectors for single Elements.md",
