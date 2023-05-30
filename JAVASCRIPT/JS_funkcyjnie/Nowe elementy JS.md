@@ -57,13 +57,41 @@ const getName = ({id, name, ...rest }) => ({ id, name, rest })
 console.log(getName(product)) ;
 ```
 
+```bash
+Product #1 100 Category #1
+{
+  id: 1,
+  name: 'Product #1',
+  rest: { price: 100, category: 'Category #1' }
+}
+```
 
 
-----
-# Destrukturyzacja
+częściowe wykonanie funkcji
+```js
+const addition = (a,b) => a + b ;
 
+const operation = fn => (x, y) => fn(x,y) ;
 
+// częściowe wywołanie funkcji
+const add = operation(addition) ;
+const result = add(5,0) ;
 
+console.log(result) ; // 0
+```
+
+częściowe wykonanie funkcji
+```js
+const addition = (a,b) => a + b ;
+
+const operation = fn => x => y => fn(x,y) ;
+
+// częściowe wywołanie funkcji
+const add = operation(addition) ;
+const result = add(5)(10) ;
+
+console.log(result) ; // 15
+```
 
 
 

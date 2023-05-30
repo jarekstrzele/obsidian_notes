@@ -30,6 +30,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8790235d9257b94b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JAVASCRIPT/Functional/8.1. Data Model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -204,8 +216,12 @@
   },
   "active": "da2f65071ae9b616",
   "lastOpenFiles": [
-    "JAVASCRIPT/JS_funkcyjnie/_ JavaScript funkcyjnie.md",
+    "JAVASCRIPT/Functional/8.1. Data Model.md",
+    "JAVASCRIPT/Functional/8.2. View Function.md",
+    "JAVASCRIPT/Functional/0- Intro functional programming (beginner udemy).md",
+    "JAVASCRIPT/Functional/5 - HTML and CSS.md",
     "JAVASCRIPT/JS_funkcyjnie/Nowe elementy JS.md",
+    "JAVASCRIPT/JS_funkcyjnie/_ JavaScript funkcyjnie.md",
     "test canvas.canvas",
     "HASKELL/for_great_good/7 Types and TypeClasses.md",
     "pexels-alex-fu-1302436.jpg",
@@ -213,7 +229,6 @@
     "JAVASCRIPT/DAY JS.md",
     "JAVASCRIPT/Modern JavaScrip From the Beginning/3.2. DOM Selectors for single Elements.md",
     "JAVASCRIPT/Modern JavaScrip From the Beginning/3.1. The Document Object.md",
-    "JAVASCRIPT/Functional/0- Intro functional programming (beginner udemy).md",
     "JAVASCRIPT/JS_funkcyjnie",
     "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md",
     "_ WEB/N_O_D_E/Node JS 101 Crash/_ NodeJS 101 Crash Course.md",
@@ -230,8 +245,6 @@
     "Studia/Python BackEnd/jQuery.md",
     "Studia/Python BackEnd/Django/2 Django.md",
     "Studia/Python BackEnd/Django/1 Framework Django.md",
-    "linux/UBUNTU.md",
-    "Excalidraw/haskell_IO.excalidraw.md",
     "methodology/images/seaborn_relplot_tip_total_bill_4.png",
     "_ WEB/N_O_D_E/Node JS 101 Crash",
     "Untitled 1.canvas",

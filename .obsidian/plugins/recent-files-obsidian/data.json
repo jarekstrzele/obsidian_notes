@@ -5,6 +5,22 @@
       "path": "JAVASCRIPT/JS_funkcyjnie/Nowe elementy JS.md"
     },
     {
+      "basename": "8.1. Data Model",
+      "path": "JAVASCRIPT/Functional/8.1. Data Model.md"
+    },
+    {
+      "basename": "8.2. View Function",
+      "path": "JAVASCRIPT/Functional/8.2. View Function.md"
+    },
+    {
+      "basename": "0- Intro functional programming (beginner udemy)",
+      "path": "JAVASCRIPT/Functional/0- Intro functional programming (beginner udemy).md"
+    },
+    {
+      "basename": "5 - HTML and CSS",
+      "path": "JAVASCRIPT/Functional/5 - HTML and CSS.md"
+    },
+    {
       "basename": "_ JavaScript funkcyjnie",
       "path": "JAVASCRIPT/JS_funkcyjnie/_ JavaScript funkcyjnie.md"
     },
@@ -51,10 +67,6 @@
     {
       "basename": "3.1. The Document Object",
       "path": "JAVASCRIPT/Modern JavaScrip From the Beginning/3.1. The Document Object.md"
-    },
-    {
-      "basename": "0- Intro functional programming (beginner udemy)",
-      "path": "JAVASCRIPT/Functional/0- Intro functional programming (beginner udemy).md"
     },
     {
       "basename": "1. synchronous vs asynchronous",
@@ -187,18 +199,6 @@
     {
       "basename": "8 Real World",
       "path": "R U S T/Rust Programming For Beginners/8 Real World.md"
-    },
-    {
-      "basename": "8.5 Modules",
-      "path": "R U S T/Rust Programming For Beginners/8.5 Modules.md"
-    },
-    {
-      "basename": "1.6 Press to Delete and Style it",
-      "path": "_ Mobile/REACT NATIVE/React Native Practical Guide/1.6 Press to Delete and Style it.md"
-    },
-    {
-      "basename": "8.1 User Input",
-      "path": "R U S T/Rust Programming For Beginners/8.1 User Input.md"
     }
   ],
   "omittedPaths": [],
