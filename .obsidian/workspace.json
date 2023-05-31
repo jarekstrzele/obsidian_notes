@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/9.3 Range Rust.md",
+                "file": "R U S T/Rust Programming For Beginners/9.4 Traits Rust.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/9.3 Range Rust.md",
+                "file": "R U S T/Rust Programming For Beginners/9.4 Traits Rust.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/9.3 Range Rust.md",
+                "file": "R U S T/Rust Programming For Beginners/9.4 Traits Rust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/9.3 Range Rust.md"
+                "file": "R U S T/Rust Programming For Beginners/9.4 Traits Rust.md"
               }
             }
           },
@@ -228,8 +228,9 @@
   },
   "active": "8790235d9257b94b",
   "lastOpenFiles": [
-    "R U S T/Rust Programming For Beginners/9.2 Iterators - Rust.md",
     "R U S T/Rust Programming For Beginners/9.3 Range Rust.md",
+    "R U S T/Rust Programming For Beginners/9.4 Traits Rust.md",
+    "R U S T/Rust Programming For Beginners/9.2 Iterators - Rust.md",
     "R U S T/Rust Programming Tutorial/4 Loops.md",
     "R U S T/Rust Programming For Beginners/3 Repetition.md",
     "JAVASCRIPT/Functional/8.1. Data Model.md",
@@ -257,7 +258,6 @@
     "HASKELL/for_great_good/7.3 Derived instances.md",
     "HASKELL/for_great_good/7.2 Type parameters.md",
     "HASKELL/for_great_good/7.1 Record syntax.md",
-    "HASKELL/Haskell for Imperative Programmers/12 Monads.md",
     "methodology/images/seaborn_relplot_tip_total_bill_4.png",
     "_ WEB/N_O_D_E/Node JS 101 Crash",
     "Untitled 1.canvas",

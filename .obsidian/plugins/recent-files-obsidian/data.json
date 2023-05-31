@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "9.4 Traits Rust",
+      "path": "R U S T/Rust Programming For Beginners/9.4 Traits Rust.md"
+    },
+    {
       "basename": "9.3 Range Rust",
       "path": "R U S T/Rust Programming For Beginners/9.3 Range Rust.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2 Making Decisions",
       "path": "R U S T/Rust Programming For Beginners/2 Making Decisions.md"
-    },
-    {
-      "basename": "_ Rust Programming for Beginners",
-      "path": "R U S T/Rust Programming For Beginners/_ Rust Programming for Beginners.md"
     }
   ],
   "omittedPaths": [],
