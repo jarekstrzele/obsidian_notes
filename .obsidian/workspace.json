@@ -37,14 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVASCRIPT/Functional/8.1. Data Model.md",
+                "file": "R U S T/Rust Programming For Beginners/9.2 Iterators - Rust.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 437
   },
   "right": {
     "id": "ec7d1a70da2de581",
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVASCRIPT/Functional Programming for JS Developers/_ Functional Programming for JS Developers.md",
+                "file": "R U S T/Rust Programming For Beginners/9.2 Iterators - Rust.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVASCRIPT/Functional Programming for JS Developers/_ Functional Programming for JS Developers.md",
+                "file": "R U S T/Rust Programming For Beginners/9.2 Iterators - Rust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVASCRIPT/Functional Programming for JS Developers/_ Functional Programming for JS Developers.md"
+                "file": "R U S T/Rust Programming For Beginners/9.2 Iterators - Rust.md"
               }
             }
           },
@@ -214,11 +214,11 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "da2f65071ae9b616",
+  "active": "8790235d9257b94b",
   "lastOpenFiles": [
-    "HASKELL/for_great_good/7 Types and TypeClasses.md",
     "JAVASCRIPT/Functional/8.1. Data Model.md",
     "JAVASCRIPT/Functional Programming for JS Developers/_ Functional Programming for JS Developers.md",
+    "HASKELL/for_great_good/7 Types and TypeClasses.md",
     "JAVASCRIPT/JS. Programowanie obiektowe/3 Obiekty.md",
     "JAVASCRIPT/JS. Programowanie obiektowe/4 Konstruktory i prototypy.md",
     "JAVASCRIPT/Functional/0- Intro functional programming (beginner udemy).md",

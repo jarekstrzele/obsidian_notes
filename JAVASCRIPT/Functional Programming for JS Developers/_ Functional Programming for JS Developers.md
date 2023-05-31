@@ -84,7 +84,15 @@ the same example:
 - take advantage of functions as first-class object
 - don't change external values or state while executing function
 - describe the problem or solution
-- 
+
+the same example
+- code is more concise
+- the functions defined here are independend and reusable
+- no reliance  on an abstract object being passed arpund
+- much easier to unit test
+- `map` to avoid for loop
+- no mutable variables
+- anonymous arrow functions
 
 
 
