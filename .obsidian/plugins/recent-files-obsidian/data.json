@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "_ Functional Programming for JS Developers",
+      "path": "JAVASCRIPT/Functional Programming for JS Developers/_ Functional Programming for JS Developers.md"
+    },
+    {
       "basename": "3 Obiekty",
       "path": "JAVASCRIPT/JS. Programowanie obiektowe/3 Obiekty.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2. SI i Uczenie maszynowe",
       "path": "A I/SI na Froncie/2. SI i Uczenie maszynowe.md"
-    },
-    {
-      "basename": "_ Wprowadzenie SI z JS",
-      "path": "A I/SI na Froncie/_ Wprowadzenie SI z JS.md"
     }
   ],
   "omittedPaths": [],
