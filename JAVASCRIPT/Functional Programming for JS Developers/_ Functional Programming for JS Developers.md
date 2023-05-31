@@ -71,6 +71,20 @@ button -> onclick -> prompt to take a string from user > function to make upperc
 - inheritance
 - 
 
+the same example:
+- improved focus on encapsulation of functionality
+- ability  to "use strict" in a limited scope
+- methods used by a given object are attached to that object
+- methods are defined on the prototype to conserve memory
+- new `addEventListener` is more versatile
+
+
+----
+# Functional Style
+- take advantage of functions as first-class object
+- don't change external values or state while executing function
+- describe the problem or solution
+- 
 
 
 
