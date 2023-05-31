@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "jQuery",
+      "path": "Studia/Python BackEnd/jQuery.md"
+    },
+    {
       "basename": "9.4 Traits Rust",
       "path": "R U S T/Rust Programming For Beginners/9.4 Traits Rust.md"
     },
@@ -151,10 +155,6 @@
     {
       "basename": "NODEJS-inside.excalidraw",
       "path": "Excalidraw/NODEJS-inside.excalidraw.md"
-    },
-    {
-      "basename": "jQuery",
-      "path": "Studia/Python BackEnd/jQuery.md"
     },
     {
       "basename": "2 Django",

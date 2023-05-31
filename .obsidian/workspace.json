@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/9.4 Traits Rust.md",
+                "file": "Studia/Python BackEnd/jQuery.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/9.4 Traits Rust.md",
+                "file": "Studia/Python BackEnd/jQuery.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/9.4 Traits Rust.md",
+                "file": "Studia/Python BackEnd/jQuery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/9.4 Traits Rust.md"
+                "file": "Studia/Python BackEnd/jQuery.md"
               }
             }
           },
@@ -228,8 +228,8 @@
   },
   "active": "8790235d9257b94b",
   "lastOpenFiles": [
-    "R U S T/Rust Programming For Beginners/9.3 Range Rust.md",
     "R U S T/Rust Programming For Beginners/9.4 Traits Rust.md",
+    "R U S T/Rust Programming For Beginners/9.3 Range Rust.md",
     "R U S T/Rust Programming For Beginners/9.2 Iterators - Rust.md",
     "R U S T/Rust Programming Tutorial/4 Loops.md",
     "R U S T/Rust Programming For Beginners/3 Repetition.md",
