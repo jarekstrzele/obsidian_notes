@@ -21,7 +21,7 @@ Applying function techniques today
 
 
 ----
-# Why functional program
+# Why functional programming
 Here are some key reasons why JavaScript developers should consider learning functional programming:
 
 1. ==Readable and expressive== code: FP promotes writing small, pure functions that are easy to understand and reason about. This makes the code more readable and expressive, which in turn facilitates better communication between team members.
@@ -51,9 +51,17 @@ In **summary**, learning functional programming can help JavaScript developers w
 - tell computer step by step instructions
 - each step depends on knowing where you are in the process
 - statements change the state of the application
-- 
 
+**example**
+button -> onclick -> prompt to take a string from user > function to make uppercase string -> alert to display the result
+- variables defined in the global scope, outside function
+- interdependent functions
+- values being passed around and redefined
+- mixed: native JS  and DOM methods
+- unclear what is happening outside the script
+- funcion names being repeated
 
+-
 
 
 

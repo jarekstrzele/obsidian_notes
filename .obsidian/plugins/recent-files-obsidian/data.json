@@ -5,6 +5,14 @@
       "path": "JAVASCRIPT/Functional Programming for JS Developers/_ Functional Programming for JS Developers.md"
     },
     {
+      "basename": "7 Types and TypeClasses",
+      "path": "HASKELL/for_great_good/7 Types and TypeClasses.md"
+    },
+    {
+      "basename": "8.1. Data Model",
+      "path": "JAVASCRIPT/Functional/8.1. Data Model.md"
+    },
+    {
       "basename": "3 Obiekty",
       "path": "JAVASCRIPT/JS. Programowanie obiektowe/3 Obiekty.md"
     },
@@ -29,10 +37,6 @@
       "path": "JAVASCRIPT/funkcyjnie_JS/Nowe elementy JS.md"
     },
     {
-      "basename": "8.1. Data Model",
-      "path": "JAVASCRIPT/Functional/8.1. Data Model.md"
-    },
-    {
       "basename": "8.2. View Function",
       "path": "JAVASCRIPT/Functional/8.2. View Function.md"
     },
@@ -47,10 +51,6 @@
     {
       "basename": "test canvas",
       "path": "test canvas.canvas"
-    },
-    {
-      "basename": "7 Types and TypeClasses",
-      "path": "HASKELL/for_great_good/7 Types and TypeClasses.md"
     },
     {
       "basename": "2 Schemas (pydantic models)",
