@@ -61,7 +61,17 @@ button -> onclick -> prompt to take a string from user > function to make upperc
 - unclear what is happening outside the script
 - funcion names being repeated
 
--
+----
+# OOP
+- data treated as objects to be passed around
+- use defined methods to manipulate objects
+- passing messages
+- hiding and sharing  properties
+- composition
+
+
+
+
 
 
 
