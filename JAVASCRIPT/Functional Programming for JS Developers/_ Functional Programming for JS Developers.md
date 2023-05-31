@@ -68,6 +68,8 @@ button -> onclick -> prompt to take a string from user > function to make upperc
 - passing messages
 - hiding and sharing  properties
 - composition
+- inheritance
+- 
 
 
 
