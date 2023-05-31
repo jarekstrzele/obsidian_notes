@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "4 Loops",
+      "path": "R U S T/Rust Programming Tutorial/4 Loops.md"
+    },
+    {
+      "basename": "3 Repetition",
+      "path": "R U S T/Rust Programming For Beginners/3 Repetition.md"
+    },
+    {
       "basename": "9.2 Iterators - Rust",
       "path": "R U S T/Rust Programming For Beginners/9.2 Iterators - Rust.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "3 AI na froncie",
       "path": "A I/SI na Froncie/3 AI na froncie.md"
-    },
-    {
-      "basename": "4 tensorflow.js",
-      "path": "A I/SI na Froncie/4 tensorflow.js.md"
-    },
-    {
-      "basename": "2. SI i Uczenie maszynowe",
-      "path": "A I/SI na Froncie/2. SI i Uczenie maszynowe.md"
     }
   ],
   "omittedPaths": [],
