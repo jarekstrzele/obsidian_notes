@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "P Y T H O N/OOP Python udemy/8 Descriptors.md",
+                "file": "Studia/Python BackEnd/jQuery.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "P Y T H O N/OOP Python udemy/8 Descriptors.md",
+                "file": "Studia/Python BackEnd/jQuery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "P Y T H O N/OOP Python udemy/8 Descriptors.md"
+                "file": "Studia/Python BackEnd/jQuery.md"
               }
             }
           },
@@ -238,10 +238,10 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "a05f77c95eb40d59",
+  "active": "8790235d9257b94b",
   "lastOpenFiles": [
-    "P Y T H O N/OOP Python udemy/7.2 Dataclasses.md",
     "P Y T H O N/OOP Python udemy/8 Descriptors.md",
+    "P Y T H O N/OOP Python udemy/7.2 Dataclasses.md",
     "P Y T H O N/OOP Python udemy/11 Exceptions.md",
     "P Y T H O N/OOP Python udemy/9 Enum.md",
     "P Y T H O N/OOP Python udemy/8.1. Descriptor example.md",

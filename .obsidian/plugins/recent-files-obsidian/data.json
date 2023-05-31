@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "jQuery",
+      "path": "Studia/Python BackEnd/jQuery.md"
+    },
+    {
       "basename": "8 Descriptors",
       "path": "P Y T H O N/OOP Python udemy/8 Descriptors.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "8.1. Descriptor example",
       "path": "P Y T H O N/OOP Python udemy/8.1. Descriptor example.md"
-    },
-    {
-      "basename": "jQuery",
-      "path": "Studia/Python BackEnd/jQuery.md"
     },
     {
       "basename": "9.4 Traits Rust",
