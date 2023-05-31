@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "9.3 Range Rust",
+      "path": "R U S T/Rust Programming For Beginners/9.3 Range Rust.md"
+    },
+    {
+      "basename": "9.2 Iterators - Rust",
+      "path": "R U S T/Rust Programming For Beginners/9.2 Iterators - Rust.md"
+    },
+    {
       "basename": "4 Loops",
       "path": "R U S T/Rust Programming Tutorial/4 Loops.md"
     },
     {
       "basename": "3 Repetition",
       "path": "R U S T/Rust Programming For Beginners/3 Repetition.md"
-    },
-    {
-      "basename": "9.2 Iterators - Rust",
-      "path": "R U S T/Rust Programming For Beginners/9.2 Iterators - Rust.md"
     },
     {
       "basename": "8.1. Data Model",
@@ -195,10 +199,6 @@
     {
       "basename": "_ Rust Programming for Beginners",
       "path": "R U S T/Rust Programming For Beginners/_ Rust Programming for Beginners.md"
-    },
-    {
-      "basename": "3 AI na froncie",
-      "path": "A I/SI na Froncie/3 AI na froncie.md"
     }
   ],
   "omittedPaths": [],

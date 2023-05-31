@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/9.2 Iterators - Rust.md",
+                "file": "R U S T/Rust Programming For Beginners/9.3 Range Rust.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust Programming Tutorial/4 Loops.md",
+                "file": "R U S T/Rust Programming For Beginners/9.3 Range Rust.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust Programming Tutorial/4 Loops.md",
+                "file": "R U S T/Rust Programming For Beginners/9.3 Range Rust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Rust Programming Tutorial/4 Loops.md"
+                "file": "R U S T/Rust Programming For Beginners/9.3 Range Rust.md"
               }
             }
           },
@@ -226,10 +226,12 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "cdc1f9fbfaf501d7",
+  "active": "8790235d9257b94b",
   "lastOpenFiles": [
-    "R U S T/Rust Programming For Beginners/3 Repetition.md",
     "R U S T/Rust Programming For Beginners/9.2 Iterators - Rust.md",
+    "R U S T/Rust Programming For Beginners/9.3 Range Rust.md",
+    "R U S T/Rust Programming Tutorial/4 Loops.md",
+    "R U S T/Rust Programming For Beginners/3 Repetition.md",
     "JAVASCRIPT/Functional/8.1. Data Model.md",
     "JAVASCRIPT/Functional Programming for JS Developers/_ Functional Programming for JS Developers.md",
     "HASKELL/for_great_good/7 Types and TypeClasses.md",
@@ -256,8 +258,6 @@
     "HASKELL/for_great_good/7.2 Type parameters.md",
     "HASKELL/for_great_good/7.1 Record syntax.md",
     "HASKELL/Haskell for Imperative Programmers/12 Monads.md",
-    "HASKELL/Haskell for Imperative Programmers/9 Typeclasses and Typeinference.md",
-    "HASKELL/Haskell for Imperative Programmers/11 IO.md",
     "methodology/images/seaborn_relplot_tip_total_bill_4.png",
     "_ WEB/N_O_D_E/Node JS 101 Crash",
     "Untitled 1.canvas",
