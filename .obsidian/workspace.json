@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "P Y T H O N/OOP Python udemy/8 Descriptors.md",
+                "file": "P Y T H O N/OOP Python udemy/11 Exceptions.md",
                 "mode": "source",
                 "source": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "P Y T H O N/OOP Python udemy/8 Descriptors.md",
+                "file": "P Y T H O N/OOP Python udemy/11 Exceptions.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "P Y T H O N/OOP Python udemy/8 Descriptors.md",
+                "file": "P Y T H O N/OOP Python udemy/11 Exceptions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "P Y T H O N/OOP Python udemy/8 Descriptors.md"
+                "file": "P Y T H O N/OOP Python udemy/11 Exceptions.md"
               }
             }
           },
@@ -240,6 +240,9 @@
   },
   "active": "a05f77c95eb40d59",
   "lastOpenFiles": [
+    "P Y T H O N/OOP Python udemy/9 Enum.md",
+    "P Y T H O N/OOP Python udemy/8.1. Descriptor example.md",
+    "P Y T H O N/OOP Python udemy/8 Descriptors.md",
     "Studia/Python BackEnd/jQuery.md",
     "R U S T/Rust Programming For Beginners/9.4 Traits Rust.md",
     "R U S T/Rust Programming For Beginners/9.3 Range Rust.md",
@@ -267,9 +270,6 @@
     "JAVASCRIPT/funkcyjnie_JS",
     "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md",
     "_ WEB/N_O_D_E/Node JS 101 Crash/_ NodeJS 101 Crash Course.md",
-    "HASKELL/for_great_good/7.4. Type synonyms.md",
-    "HASKELL/for_great_good/7.3 Derived instances.md",
-    "HASKELL/for_great_good/7.2 Type parameters.md",
     "methodology/images/seaborn_relplot_tip_total_bill_4.png",
     "_ WEB/N_O_D_E/Node JS 101 Crash",
     "Untitled 1.canvas",
