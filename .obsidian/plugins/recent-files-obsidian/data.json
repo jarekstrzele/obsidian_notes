@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "8 Descriptors",
+      "path": "P Y T H O N/OOP Python udemy/8 Descriptors.md"
+    },
+    {
+      "basename": "7.2 Dataclasses",
+      "path": "P Y T H O N/OOP Python udemy/7.2 Dataclasses.md"
+    },
+    {
       "basename": "11 Exceptions",
       "path": "P Y T H O N/OOP Python udemy/11 Exceptions.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "8.1. Descriptor example",
       "path": "P Y T H O N/OOP Python udemy/8.1. Descriptor example.md"
-    },
-    {
-      "basename": "8 Descriptors",
-      "path": "P Y T H O N/OOP Python udemy/8 Descriptors.md"
     },
     {
       "basename": "jQuery",
@@ -195,10 +199,6 @@
     {
       "basename": "9 Refining Your Code",
       "path": "R U S T/Rust Programming For Beginners/9 Refining Your Code.md"
-    },
-    {
-      "basename": "9.1 Option Combinators",
-      "path": "R U S T/Rust Programming For Beginners/9.1 Option Combinators.md"
     }
   ],
   "omittedPaths": [],

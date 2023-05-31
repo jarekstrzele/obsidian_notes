@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "P Y T H O N/OOP Python udemy/11 Exceptions.md",
+                "file": "P Y T H O N/OOP Python udemy/8 Descriptors.md",
                 "mode": "source",
                 "source": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "P Y T H O N/OOP Python udemy/11 Exceptions.md",
+                "file": "P Y T H O N/OOP Python udemy/8 Descriptors.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "P Y T H O N/OOP Python udemy/11 Exceptions.md",
+                "file": "P Y T H O N/OOP Python udemy/8 Descriptors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "P Y T H O N/OOP Python udemy/11 Exceptions.md"
+                "file": "P Y T H O N/OOP Python udemy/8 Descriptors.md"
               }
             }
           },
@@ -240,9 +240,11 @@
   },
   "active": "a05f77c95eb40d59",
   "lastOpenFiles": [
+    "P Y T H O N/OOP Python udemy/7.2 Dataclasses.md",
+    "P Y T H O N/OOP Python udemy/8 Descriptors.md",
+    "P Y T H O N/OOP Python udemy/11 Exceptions.md",
     "P Y T H O N/OOP Python udemy/9 Enum.md",
     "P Y T H O N/OOP Python udemy/8.1. Descriptor example.md",
-    "P Y T H O N/OOP Python udemy/8 Descriptors.md",
     "Studia/Python BackEnd/jQuery.md",
     "R U S T/Rust Programming For Beginners/9.4 Traits Rust.md",
     "R U S T/Rust Programming For Beginners/9.3 Range Rust.md",
@@ -268,8 +270,6 @@
     "JAVASCRIPT/Modern JavaScrip From the Beginning/3.2. DOM Selectors for single Elements.md",
     "JAVASCRIPT/Modern JavaScrip From the Beginning/3.1. The Document Object.md",
     "JAVASCRIPT/funkcyjnie_JS",
-    "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md",
-    "_ WEB/N_O_D_E/Node JS 101 Crash/_ NodeJS 101 Crash Course.md",
     "methodology/images/seaborn_relplot_tip_total_bill_4.png",
     "_ WEB/N_O_D_E/Node JS 101 Crash",
     "Untitled 1.canvas",
