@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "8 Descriptors",
+      "path": "P Y T H O N/OOP Python udemy/8 Descriptors.md"
+    },
+    {
       "basename": "jQuery",
       "path": "Studia/Python BackEnd/jQuery.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "4 Data",
       "path": "R U S T/Rust Programming For Beginners/4 Data.md"
-    },
-    {
-      "basename": "2 Making Decisions",
-      "path": "R U S T/Rust Programming For Beginners/2 Making Decisions.md"
     }
   ],
   "omittedPaths": [],

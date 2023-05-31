@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a05f77c95eb40d59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "P Y T H O N/OOP Python udemy/8 Descriptors.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -138,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studia/Python BackEnd/jQuery.md",
+                "file": "P Y T H O N/OOP Python udemy/8 Descriptors.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -155,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studia/Python BackEnd/jQuery.md",
+                "file": "P Y T H O N/OOP Python udemy/8 Descriptors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studia/Python BackEnd/jQuery.md"
+                "file": "P Y T H O N/OOP Python udemy/8 Descriptors.md"
               }
             }
           },
@@ -226,8 +238,9 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "8790235d9257b94b",
+  "active": "a05f77c95eb40d59",
   "lastOpenFiles": [
+    "Studia/Python BackEnd/jQuery.md",
     "R U S T/Rust Programming For Beginners/9.4 Traits Rust.md",
     "R U S T/Rust Programming For Beginners/9.3 Range Rust.md",
     "R U S T/Rust Programming For Beginners/9.2 Iterators - Rust.md",
@@ -257,7 +270,6 @@
     "HASKELL/for_great_good/7.4. Type synonyms.md",
     "HASKELL/for_great_good/7.3 Derived instances.md",
     "HASKELL/for_great_good/7.2 Type parameters.md",
-    "HASKELL/for_great_good/7.1 Record syntax.md",
     "methodology/images/seaborn_relplot_tip_total_bill_4.png",
     "_ WEB/N_O_D_E/Node JS 101 Crash",
     "Untitled 1.canvas",
