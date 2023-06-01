@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "4.2. Serwer HTTP",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md"
+    },
+    {
+      "basename": "4.1.1. tworzenie własnego klienta",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/4.1.1. tworzenie własnego klienta.md"
+    },
+    {
+      "basename": "4.1. Prosty serwer i klient TCP",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/4.1. Prosty serwer i klient TCP.md"
+    },
+    {
+      "basename": "4. Tworzenie serwerów",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/4. Tworzenie serwerów.md"
+    },
+    {
+      "basename": "3.6. Obserwowanie zmian w plikach",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3.6. Obserwowanie zmian w plikach.md"
+    },
+    {
+      "basename": "3.5. usuwanie plików i katalogów",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3.5. usuwanie plików i katalogów.md"
+    },
+    {
+      "basename": "3.4. Przenoszenie i zmiana nazw plików",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3.4. Przenoszenie i zmiana nazw plików.md"
+    },
+    {
       "basename": "3.3. Tworzenie plików i katalogów",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3.3. Tworzenie plików i katalogów.md"
     },
@@ -171,34 +199,6 @@
     {
       "basename": "_ NodeJS 101 Crash Course",
       "path": "_ WEB/N_O_D_E/Node JS 101 Crash/_ NodeJS 101 Crash Course.md"
-    },
-    {
-      "basename": "7.4. Type synonyms",
-      "path": "HASKELL/for_great_good/7.4. Type synonyms.md"
-    },
-    {
-      "basename": "7.3 Derived instances",
-      "path": "HASKELL/for_great_good/7.3 Derived instances.md"
-    },
-    {
-      "basename": "7.2 Type parameters",
-      "path": "HASKELL/for_great_good/7.2 Type parameters.md"
-    },
-    {
-      "basename": "7.1 Record syntax",
-      "path": "HASKELL/for_great_good/7.1 Record syntax.md"
-    },
-    {
-      "basename": "12 Monads",
-      "path": "HASKELL/Haskell for Imperative Programmers/12 Monads.md"
-    },
-    {
-      "basename": "9 Typeclasses and Typeinference",
-      "path": "HASKELL/Haskell for Imperative Programmers/9 Typeclasses and Typeinference.md"
-    },
-    {
-      "basename": "11 IO",
-      "path": "HASKELL/Haskell for Imperative Programmers/11 IO.md"
     }
   ],
   "omittedPaths": [],

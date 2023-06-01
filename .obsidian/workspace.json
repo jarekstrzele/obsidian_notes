@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/3.3. Tworzenie plików i katalogów.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md",
                 "mode": "source",
                 "source": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/3.3. Tworzenie plików i katalogów.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/3.3. Tworzenie plików i katalogów.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/3.3. Tworzenie plików i katalogów.md"
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md"
               }
             }
           },
@@ -240,6 +240,13 @@
   },
   "active": "a05f77c95eb40d59",
   "lastOpenFiles": [
+    "_ WEB/N_O_D_E/NodeJS - fullstack/4.1.1. tworzenie własnego klienta.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/4.1. Prosty serwer i klient TCP.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/4. Tworzenie serwerów.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/3.6. Obserwowanie zmian w plikach.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/3.5. usuwanie plików i katalogów.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/3.4. Przenoszenie i zmiana nazw plików.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/3.3. Tworzenie plików i katalogów.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/3.2. Odczytywanie plików.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/3 Node praca z Sys. Plików.md",
@@ -261,13 +268,6 @@
     "R U S T/Rust Programming For Beginners/9.3 Range Rust.md",
     "R U S T/Rust Programming For Beginners/9.2 Iterators - Rust.md",
     "R U S T/Rust Programming Tutorial/4 Loops.md",
-    "R U S T/Rust Programming For Beginners/3 Repetition.md",
-    "JAVASCRIPT/Functional/8.1. Data Model.md",
-    "JAVASCRIPT/Functional Programming for JS Developers/_ Functional Programming for JS Developers.md",
-    "HASKELL/for_great_good/7 Types and TypeClasses.md",
-    "JAVASCRIPT/JS. Programowanie obiektowe/3 Obiekty.md",
-    "JAVASCRIPT/JS. Programowanie obiektowe/4 Konstruktory i prototypy.md",
-    "JAVASCRIPT/Functional/0- Intro functional programming (beginner udemy).md",
     "JAVASCRIPT/Functional Programming for JS Developers",
     "test canvas.canvas",
     "pexels-alex-fu-1302436.jpg",
