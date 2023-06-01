@@ -93,9 +93,16 @@ Gdy żądanie jest przesłane przez przeglądarkę do serwera, framework serwera
 można je podglądnąć w przeglądarce *Network* (żądanie z punktu widzenia przeglądarki)
 
 ## adres URL żądania
-reprezentuje on kompletną ścieżkę URL przesłaną na serwer (`Request URL: http://localhost:8000/`)
+reprezentuje on kompletną ścieżkę URL przesłaną na serwer:
+- `Request URL: http://localhost:8000/`
+- gdyby wysłano `http://localhost:8000/home?userid=1` - chodzi o stronę lub dane API umieszczone w podkatalogu home, od znaku zapytania zaczyna się sekcja **parametrów,** które mogą być oddzielone `&`
 
-
+## metoda żądania
+reprezentuje tak zwany "czasownik HTTP" - to opis informujący serwer o czynności, o które wykonanie prosi klient
+GET (wszelkie parametry muszą być przekazywane w adresie URL)
+POST - utworzyć lub wstawić coś, 
+PUT - aktualizacja
+DELETE - usunięcie 
 
 
 
