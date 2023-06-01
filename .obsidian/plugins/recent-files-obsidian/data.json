@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "_ React, TypeScript, Node",
+      "path": "_ WEB/React,TypeScript,Node/_ React, TypeScript, Node.md"
+    },
+    {
       "basename": "2.3. Stream",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.3. Stream.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "DAY JS",
       "path": "JAVASCRIPT/DAY JS.md"
-    },
-    {
-      "basename": "3.2. DOM Selectors for single Elements",
-      "path": "JAVASCRIPT/Modern JavaScrip From the Beginning/3.2. DOM Selectors for single Elements.md"
     }
   ],
   "omittedPaths": [],

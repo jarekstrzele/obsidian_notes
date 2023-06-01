@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/2.3. Stream.md",
+                "file": "_ WEB/React,TypeScript,Node/_ React, TypeScript, Node.md",
                 "mode": "source",
                 "source": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/2.3. Stream.md",
+                "file": "_ WEB/React,TypeScript,Node/_ React, TypeScript, Node.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/2.3. Stream.md",
+                "file": "_ WEB/React,TypeScript,Node/_ React, TypeScript, Node.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/2.3. Stream.md"
+                "file": "_ WEB/React,TypeScript,Node/_ React, TypeScript, Node.md"
               }
             }
           },
@@ -238,12 +238,15 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "a05f77c95eb40d59",
+  "active": "f621f21825dbd82d",
   "lastOpenFiles": [
+    "_ WEB/React,TypeScript,Node/Untitled",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/2.3. Stream.md",
+    "_ WEB/React,TypeScript,Node/_ React, TypeScript, Node.md",
+    "_ WEB/React,TypeScript,Node",
     "_ WEB/N_O_D_E/NodeJS - fullstack/2.2. Buffer.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/4.3. pliki statyczne.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/2.3. Stream.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/4.1. Prosty serwer i klient TCP.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/4.1.1. tworzenie własnego klienta.md",
@@ -266,8 +269,6 @@
     "_ WEB/Actix",
     "P Y T H O N/OOP Python udemy/7.2 Dataclasses.md",
     "P Y T H O N/OOP Python udemy/11 Exceptions.md",
-    "P Y T H O N/OOP Python udemy/9 Enum.md",
-    "P Y T H O N/OOP Python udemy/8.1. Descriptor example.md",
     "JAVASCRIPT/Functional Programming for JS Developers",
     "test canvas.canvas",
     "pexels-alex-fu-1302436.jpg",
@@ -280,7 +281,6 @@
     "R U S T/Untitled.canvas",
     "R U S T/ULTIMATE Rust Lang Tutorial",
     "linux/Vim/Vim od podstaw",
-    "_ WEB",
     "Untitled.canvas"
   ]
 }
