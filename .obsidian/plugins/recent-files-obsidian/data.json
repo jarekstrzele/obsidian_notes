@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "2.3. Stream",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.3. Stream.md"
+    },
+    {
+      "basename": "4.1. Prosty serwer i klient TCP",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/4.1. Prosty serwer i klient TCP.md"
+    },
+    {
+      "basename": "4.3. pliki statyczne",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/4.3. pliki statyczne.md"
+    },
+    {
       "basename": "4.2. Serwer HTTP",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md"
     },
     {
       "basename": "4.1.1. tworzenie własnego klienta",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/4.1.1. tworzenie własnego klienta.md"
-    },
-    {
-      "basename": "4.1. Prosty serwer i klient TCP",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/4.1. Prosty serwer i klient TCP.md"
     },
     {
       "basename": "4. Tworzenie serwerów",
@@ -191,14 +199,6 @@
     {
       "basename": "3.1. The Document Object",
       "path": "JAVASCRIPT/Modern JavaScrip From the Beginning/3.1. The Document Object.md"
-    },
-    {
-      "basename": "1. synchronous vs asynchronous",
-      "path": "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md"
-    },
-    {
-      "basename": "_ NodeJS 101 Crash Course",
-      "path": "_ WEB/N_O_D_E/Node JS 101 Crash/_ NodeJS 101 Crash Course.md"
     }
   ],
   "omittedPaths": [],
