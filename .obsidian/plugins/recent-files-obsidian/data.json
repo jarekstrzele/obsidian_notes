@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "_ Actix Rust",
+      "path": "_ WEB/Actix/_ Actix Rust.md"
+    },
+    {
       "basename": "jQuery",
       "path": "Studia/Python BackEnd/jQuery.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "3.1 Express - introducing",
       "path": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md"
-    },
-    {
-      "basename": "9 Refining Your Code",
-      "path": "R U S T/Rust Programming For Beginners/9 Refining Your Code.md"
     }
   ],
   "omittedPaths": [],
