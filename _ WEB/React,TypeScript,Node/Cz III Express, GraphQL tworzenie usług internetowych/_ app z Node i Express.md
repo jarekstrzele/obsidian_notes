@@ -1,4 +1,8 @@
 #node #express 
+[[_ React, TypeScript, Node]]
+
+
+
 
 **Node** to środowisko uruchomieniowe ogólnego przeznaczenia, a  nie jedynie serwer WWW(s.226)
 
@@ -47,7 +51,30 @@ fs.writeFile("Text.txt", "Witaj świecie!", ()=>{
 });
 ```
 
+nowy styl
+```js
+const fs = require("fs/promises") ;
+// nowsza wersja import fs from "fs";
+// w package.json "type:"module"
 
+(async function(){
+	await fs.writeFile("test-promise.txt", "Witaj , obietnico");
+	const readText = await fs.readFile("test-promise.txt", "utf-8");
+	console.log(readText) ;
+})
+```
+
+# Prosty serwer Node
+
+`npm init` ---> project name 
+make  a new file `server.js` 
+```js
+import http from "http" ;
+
+const server = http.createServer((req,res))
+
+
+```
 
 
 
