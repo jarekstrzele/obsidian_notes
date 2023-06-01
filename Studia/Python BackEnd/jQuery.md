@@ -43,7 +43,8 @@ wędrowanie po dokumencie html
 ## Ajax
 umożliwia bardzo złożone asynchroniczne zapytania do serwera
 
-
+----------
+00:17:00
 
 
 
