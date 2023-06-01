@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
+      "basename": "_ TypeScript",
+      "path": "_ WEB/React,TypeScript,Node/I TypeScript/_ TypeScript.md"
+    },
+    {
       "basename": "_ app z Node i Express",
-      "path": "_ WEB/React,TypeScript,Node/Cz III Express, GraphQL tworzenie usług internetowych/_ app z Node i Express.md"
+      "path": "_ WEB/React,TypeScript,Node/III Express, GraphQL tworzenie usług internetowych/_ app z Node i Express.md"
     },
     {
       "basename": "_ React, TypeScript, Node",
@@ -195,10 +199,6 @@
     {
       "basename": "pexels-alex-fu-1302436",
       "path": "pexels-alex-fu-1302436.jpg"
-    },
-    {
-      "basename": "seaborn_relplot_tip_total_bill_4",
-      "path": "methodology/images/seaborn_relplot_tip_total_bill_4.png"
     }
   ],
   "omittedPaths": [],

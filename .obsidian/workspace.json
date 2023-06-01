@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ WEB/React,TypeScript,Node/Cz III Express, GraphQL tworzenie usług internetowych/_ app z Node i Express.md",
+                "file": "_ WEB/React,TypeScript,Node/I TypeScript/_ TypeScript.md",
                 "mode": "source",
                 "source": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ WEB/React,TypeScript,Node/Cz III Express, GraphQL tworzenie usług internetowych/_ app z Node i Express.md",
+                "file": "_ WEB/React,TypeScript,Node/I TypeScript/_ TypeScript.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ WEB/React,TypeScript,Node/Cz III Express, GraphQL tworzenie usług internetowych/_ app z Node i Express.md",
+                "file": "_ WEB/React,TypeScript,Node/I TypeScript/_ TypeScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ WEB/React,TypeScript,Node/Cz III Express, GraphQL tworzenie usług internetowych/_ app z Node i Express.md"
+                "file": "_ WEB/React,TypeScript,Node/I TypeScript/_ TypeScript.md"
               }
             }
           },
@@ -240,9 +240,11 @@
   },
   "active": "a05f77c95eb40d59",
   "lastOpenFiles": [
+    "_ WEB/React,TypeScript,Node/III Express, GraphQL tworzenie usług internetowych/_ app z Node i Express.md",
+    "_ WEB/React,TypeScript,Node/I TypeScript/_ TypeScript.md",
+    "_ WEB/React,TypeScript,Node/I TypeScript",
     "_ WEB/React,TypeScript,Node/_ React, TypeScript, Node.md",
-    "_ WEB/React,TypeScript,Node/Cz III Express, GraphQL tworzenie usług internetowych/_ app z Node i Express.md",
-    "_ WEB/React,TypeScript,Node/Cz III Express, GraphQL tworzenie usług internetowych",
+    "_ WEB/React,TypeScript,Node/III Express, GraphQL tworzenie usług internetowych",
     "_ WEB/N_O_D_E/NodeJS - fullstack/2.3. Stream.md",
     "_ WEB/React,TypeScript,Node",
     "_ WEB/N_O_D_E/NodeJS - fullstack/2.2. Buffer.md",
@@ -269,7 +271,6 @@
     "_ WEB/Actix/Untitled",
     "_ WEB/Actix",
     "P Y T H O N/OOP Python udemy/7.2 Dataclasses.md",
-    "P Y T H O N/OOP Python udemy/11 Exceptions.md",
     "JAVASCRIPT/Functional Programming for JS Developers",
     "test canvas.canvas",
     "pexels-alex-fu-1302436.jpg",
@@ -280,7 +281,6 @@
     "R U S T/Rust 101 Crash Course",
     "R U S T/Programowanie w Rust",
     "R U S T/Untitled.canvas",
-    "R U S T/ULTIMATE Rust Lang Tutorial",
     "Untitled.canvas"
   ]
 }
