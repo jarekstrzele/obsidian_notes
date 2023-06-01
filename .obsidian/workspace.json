@@ -61,14 +61,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "P Y T H O N/OOP Python udemy/8 Descriptors.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/1 Moduły.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ WEB/Actix/_ Actix Rust.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/1 Moduły.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ WEB/Actix/_ Actix Rust.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/1 Moduły.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ WEB/Actix/_ Actix Rust.md"
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/1 Moduły.md"
               }
             }
           },
@@ -238,13 +238,14 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "8790235d9257b94b",
+  "active": "a05f77c95eb40d59",
   "lastOpenFiles": [
-    "Studia/Python BackEnd/jQuery.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md",
+    "P Y T H O N/OOP Python udemy/8 Descriptors.md",
     "_ WEB/Actix/_ Actix Rust.md",
+    "Studia/Python BackEnd/jQuery.md",
     "_ WEB/Actix/Untitled",
     "_ WEB/Actix",
-    "P Y T H O N/OOP Python udemy/8 Descriptors.md",
     "P Y T H O N/OOP Python udemy/7.2 Dataclasses.md",
     "P Y T H O N/OOP Python udemy/11 Exceptions.md",
     "P Y T H O N/OOP Python udemy/9 Enum.md",
@@ -270,7 +271,6 @@
     "test canvas.canvas",
     "pexels-alex-fu-1302436.jpg",
     "JAVASCRIPT/DAY JS.md",
-    "JAVASCRIPT/Modern JavaScrip From the Beginning/3.2. DOM Selectors for single Elements.md",
     "JAVASCRIPT/funkcyjnie_JS",
     "methodology/images/seaborn_relplot_tip_total_bill_4.png",
     "_ WEB/N_O_D_E/Node JS 101 Crash",
