@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/2.2. Buffer.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/2.3. Stream.md",
                 "mode": "source",
                 "source": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/2.2. Buffer.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/2.3. Stream.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/2.2. Buffer.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/2.3. Stream.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/2.2. Buffer.md"
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/2.3. Stream.md"
               }
             }
           },
@@ -240,6 +240,7 @@
   },
   "active": "a05f77c95eb40d59",
   "lastOpenFiles": [
+    "_ WEB/N_O_D_E/NodeJS - fullstack/2.2. Buffer.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/4.3. pliki statyczne.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/2.3. Stream.md",
@@ -267,7 +268,6 @@
     "P Y T H O N/OOP Python udemy/11 Exceptions.md",
     "P Y T H O N/OOP Python udemy/9 Enum.md",
     "P Y T H O N/OOP Python udemy/8.1. Descriptor example.md",
-    "R U S T/Rust Programming For Beginners/9.4 Traits Rust.md",
     "JAVASCRIPT/Functional Programming for JS Developers",
     "test canvas.canvas",
     "pexels-alex-fu-1302436.jpg",

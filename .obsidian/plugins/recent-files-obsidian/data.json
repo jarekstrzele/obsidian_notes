@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2.3. Stream",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.3. Stream.md"
+    },
+    {
       "basename": "2.2. Buffer",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.2. Buffer.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "4.3. pliki statyczne",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/4.3. pliki statyczne.md"
-    },
-    {
-      "basename": "2.3. Stream",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.3. Stream.md"
     },
     {
       "basename": "4.1. Prosty serwer i klient TCP",
