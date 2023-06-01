@@ -100,9 +100,50 @@ reprezentuje on kompletną ścieżkę URL przesłaną na serwer:
 ## metoda żądania
 reprezentuje tak zwany "czasownik HTTP" - to opis informujący serwer o czynności, o które wykonanie prosi klient
 GET (wszelkie parametry muszą być przekazywane w adresie URL)
-POST - utworzyć lub wstawić coś, 
+POST - utworzyć lub wstawić coś, (wszystkie parametry zapisywane w treści żądania)
 PUT - aktualizacja
 DELETE - usunięcie 
+
+## kod statusu
+200 - ok
+400 - złe żądanie
+401 - dostęp nieautoryzowany
+500 - wewnętrzny błąd serwera
+
+# nagłówki
+opisy, metadane
+
+### nagłówki żądania
+`Content-Type` określa typy mediów stanowiących zawartość odpowiedzi (dla POST, PUT, `application/json` - żądanie zawiera dane zapisane w formacie JSON)
+
+`Cookie` mały plik tekstowy zawierający informacje o użytkoniku oraz jego sesji
+ ....
+
+### nagłówki odpowiedzi
+`Allow` określa dozwolone czasowniki HTTP
+
+`Access-Control-Allo-Origin` stosowane w technice CORS, by zezwolić stronom z różnych witryn (o różnych adresach URL)  na generowanie żądań. `* ` dowolny adres URL
+
+------
+## Trasowanie `routing`
+To w pewnym sensie przekazywanie parametrów do serwera.
+Kiedy serwer zauważy podaną trasę (*route*) będzie wiedział, że musi odpowiedzieć na żądanie w okreśłony sposób
+*route* 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
