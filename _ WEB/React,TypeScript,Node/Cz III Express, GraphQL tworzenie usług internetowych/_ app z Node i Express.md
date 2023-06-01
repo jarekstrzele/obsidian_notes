@@ -87,13 +87,13 @@ server.listen(port, () => {
 
 # Żądania i odpowiedzi
 Gdy żądanie jest przesłane przez przeglądarkę do serwera, framework serwera tworzy DWA OBIEKTY:
-- `Request` - dane związane z żadaniem przesłanym przez przeglądarkę
+- `Request` - dane związane z żądaniem przesłanym przez przeglądarkę
 - `Response` - odpowiedź, która zostanie odesłana
 
-można je podglądnąć w przeglądarce *Network*
+można je podglądnąć w przeglądarce *Network* (żądanie z punktu widzenia przeglądarki)
 
-
-
+## adres URL żądania
+reprezentuje on kompletną ścieżkę URL przesłaną na serwer (`Request URL: http://localhost:8000/`)
 
 
 
