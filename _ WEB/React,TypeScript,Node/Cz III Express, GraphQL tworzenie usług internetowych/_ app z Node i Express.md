@@ -67,15 +67,23 @@ const fs = require("fs/promises") ;
 # Prosty serwer Node
 
 `npm init` ---> project name 
-make  a new file `server.js` 
+make  a new file `server.mjs` 
 ```js
 import http from "http" ;
 
-const server = http.createServer((req,res))
+const server = http.createServer((req,res) => {
+	console.log(req) ;
+	res.end("Witaj świecie") ;
+})
 
-
+//nakaanie obiektowi serwer nasłuchiwania
+const port = 8000;
+server.listen(port, () => {
+	console.log(`server na porcie ${port}`) ;
+})
 ```
 
+`node server.mjs`
 
 
 
