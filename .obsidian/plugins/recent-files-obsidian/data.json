@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "3.3. Tworzenie plików i katalogów",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3.3. Tworzenie plików i katalogów.md"
+    },
+    {
+      "basename": "3.2. Odczytywanie plików",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3.2. Odczytywanie plików.md"
+    },
+    {
       "basename": "3.1. Odczytywanie info o plikach",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "11 IO",
       "path": "HASKELL/Haskell for Imperative Programmers/11 IO.md"
-    },
-    {
-      "basename": "10 Maybe",
-      "path": "HASKELL/Haskell for Imperative Programmers/10 Maybe.md"
-    },
-    {
-      "basename": "obiekty_req_res_django.excalidraw",
-      "path": "Excalidraw/obiekty_req_res_django.excalidraw.md"
     }
   ],
   "omittedPaths": [],

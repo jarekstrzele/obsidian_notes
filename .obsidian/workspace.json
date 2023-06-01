@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/3.3. Tworzenie plików i katalogów.md",
                 "mode": "source",
                 "source": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/3.3. Tworzenie plików i katalogów.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/3.3. Tworzenie plików i katalogów.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md"
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/3.3. Tworzenie plików i katalogów.md"
               }
             }
           },
@@ -240,6 +240,8 @@
   },
   "active": "a05f77c95eb40d59",
   "lastOpenFiles": [
+    "_ WEB/N_O_D_E/NodeJS - fullstack/3.2. Odczytywanie plików.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/3 Node praca z Sys. Plików.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/2. Podstawowe koncepcje.md",
@@ -267,8 +269,6 @@
     "JAVASCRIPT/JS. Programowanie obiektowe/4 Konstruktory i prototypy.md",
     "JAVASCRIPT/Functional/0- Intro functional programming (beginner udemy).md",
     "JAVASCRIPT/Functional Programming for JS Developers",
-    "JAVASCRIPT/JS Bible/_ 0 JS Bible.md",
-    "JAVASCRIPT/JS współczesny/_ 0 intro JS dzisiaj.md",
     "test canvas.canvas",
     "pexels-alex-fu-1302436.jpg",
     "JAVASCRIPT/funkcyjnie_JS",
