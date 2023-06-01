@@ -85,6 +85,17 @@ server.listen(port, () => {
 
 `node server.mjs`
 
+# Żądania i odpowiedzi
+Gdy żądanie jest przesłane przez przeglądarkę do serwera, framework serwera tworzy DWA OBIEKTY:
+- `Request` - dane związane z żadaniem przesłanym przez przeglądarkę
+- `Response` - odpowiedź, która zostanie odesłana
+
+można je podglądnąć w przeglądarce *Network*
+
+
+
+
+
 
 
 
