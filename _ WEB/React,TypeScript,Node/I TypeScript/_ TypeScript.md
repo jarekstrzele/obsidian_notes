@@ -6,8 +6,10 @@
 
 >[!info] TypeScript
 > - **język** - kontrola typów, wzbogacone OOP
-> - kompilator 
-> 
+> - kompilator konwertuje kod napisany w TYpeScripcie na rodzimy kod HHS
+> Jest to język czasu programowania
+> Korzysta z procesu zwanego **transpilacją** (*transpilation*):
+> 	
 
 
 
