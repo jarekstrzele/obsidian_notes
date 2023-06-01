@@ -127,9 +127,27 @@ opisy, metadane
 ------
 ## Trasowanie `routing`
 To w pewnym sensie przekazywanie parametrów do serwera.
-Kiedy serwer zauważy podaną trasę (*route*) będzie wiedział, że musi odpowiedzieć na żądanie w okreśłony sposób
-*route* 
+Kiedy serwer zauważy podaną trasę (*route*) będzie wiedział, że musi odpowiedzieć na żądanie w określony sposób
+mechanizm  *route* -  pozwala nam określać, w jaki sposób serwer powinien reagować na poszczególne żądania
 
+```js
+const server = http.createServer((req, res) => {
+	if (req.url === "/") {
+		res.end("Witaj, świecie!");
+	} else if (req.url === "/a") {
+		res.end("Witaj na trasie A");
+	} else if (req.url === "/b") {
+		res.end("Witaj na trasie B");
+	} else if (req.url ==="/c" && req.method === "POST"){
+		let body = [] ;
+		req.on("data", (chunk) => {
+			body.push(chunk);
+		})
+	} else {
+		res.end("Do zobaczenia");
+	}
+});
+```
 
 
 
