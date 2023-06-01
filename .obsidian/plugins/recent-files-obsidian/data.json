@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "3.1. Odczytywanie info o plikach",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md"
+    },
+    {
+      "basename": "3 Node praca z Sys. Plików",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3 Node praca z Sys. Plików.md"
+    },
+    {
+      "basename": "2.1. Zdarzenia",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md"
+    },
+    {
+      "basename": "2. Podstawowe koncepcje",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2. Podstawowe koncepcje.md"
+    },
+    {
       "basename": "1 Moduły",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/1 Moduły.md"
     },
@@ -183,18 +199,6 @@
     {
       "basename": "obiekty_req_res_django.excalidraw",
       "path": "Excalidraw/obiekty_req_res_django.excalidraw.md"
-    },
-    {
-      "basename": "NODEJS-inside.excalidraw",
-      "path": "Excalidraw/NODEJS-inside.excalidraw.md"
-    },
-    {
-      "basename": "2 Django",
-      "path": "Studia/Python BackEnd/Django/2 Django.md"
-    },
-    {
-      "basename": "1 Framework Django",
-      "path": "Studia/Python BackEnd/Django/1 Framework Django.md"
     }
   ],
   "omittedPaths": [],

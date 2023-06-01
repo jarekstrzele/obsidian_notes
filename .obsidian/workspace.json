@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/1 Moduły.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md",
                 "mode": "source",
                 "source": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/1 Moduły.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/1 Moduły.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/1 Moduły.md"
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md"
               }
             }
           },
@@ -240,8 +240,11 @@
   },
   "active": "a05f77c95eb40d59",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/3 Node praca z Sys. Plików.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/2. Podstawowe koncepcje.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/1 Moduły.md",
+    "conflict-files-obsidian-git.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md",
     "P Y T H O N/OOP Python udemy/8 Descriptors.md",
     "_ WEB/Actix/_ Actix Rust.md",
@@ -266,9 +269,6 @@
     "JAVASCRIPT/Functional Programming for JS Developers",
     "JAVASCRIPT/JS Bible/_ 0 JS Bible.md",
     "JAVASCRIPT/JS współczesny/_ 0 intro JS dzisiaj.md",
-    "JAVASCRIPT/funkcyjnie_JS/Nowe elementy JS.md",
-    "JAVASCRIPT/Functional/8.2. View Function.md",
-    "JAVASCRIPT/Functional/5 - HTML and CSS.md",
     "test canvas.canvas",
     "pexels-alex-fu-1302436.jpg",
     "JAVASCRIPT/funkcyjnie_JS",
