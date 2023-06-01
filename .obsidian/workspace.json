@@ -4,64 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "457f864f4f30dc70",
+        "id": "c1b14dbbaa1c95eb",
         "type": "tabs",
         "children": [
           {
-            "id": "ba2c8928d029939d",
+            "id": "04bccf1dc56dfdd4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HASKELL/for_great_good/7 Types and TypeClasses.md",
+                "file": "R U S T/Learn Rust by Building Real App/4.2 Strings.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "da2f65071ae9b616",
+            "id": "2fc25a02aaa2c0a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVASCRIPT/Functional Programming for JS Developers/_ Functional Programming for JS Developers.md",
+                "file": "R U S T/Rust Programming Tutorial/12 String.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8790235d9257b94b",
+            "id": "041803bbb3795df4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ WEB/Actix/_ Actix Rust.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cdc1f9fbfaf501d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "R U S T/Rust Programming Tutorial/4 Loops.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a05f77c95eb40d59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "P Y T H O N/OOP Python udemy/8 Descriptors.md",
+                "file": "_ WEB/REACT/React - the Complete Guide/3 React Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "stash",
+                "query": "tag:#udemy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,20 +97,12 @@
               "type": "recent-files",
               "state": {}
             }
-          },
-          {
-            "id": "8fb97ec29b64ab2e",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 316
+    "width": 406.0110321044922
   },
   "right": {
     "id": "ec7d1a70da2de581",
@@ -150,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ WEB/Actix/_ Actix Rust.md",
+                "file": "_ WEB/REACT/React - the Complete Guide/3 React Basics.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -167,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ WEB/Actix/_ Actix Rust.md",
+                "file": "_ WEB/REACT/React - the Complete Guide/3 React Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ WEB/Actix/_ Actix Rust.md"
+                "file": "_ WEB/REACT/React - the Complete Guide/3 React Basics.md"
               }
             }
           },
@@ -234,53 +202,52 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "juggl:Juggl global graph": false
+      "juggl:Juggl global graph": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8790235d9257b94b",
+  "active": "041803bbb3795df4",
   "lastOpenFiles": [
-    "Studia/Python BackEnd/jQuery.md",
-    "_ WEB/Actix/_ Actix Rust.md",
-    "_ WEB/Actix/Untitled",
-    "_ WEB/Actix",
-    "P Y T H O N/OOP Python udemy/8 Descriptors.md",
-    "P Y T H O N/OOP Python udemy/7.2 Dataclasses.md",
-    "P Y T H O N/OOP Python udemy/11 Exceptions.md",
-    "P Y T H O N/OOP Python udemy/9 Enum.md",
-    "P Y T H O N/OOP Python udemy/8.1. Descriptor example.md",
-    "R U S T/Rust Programming For Beginners/9.4 Traits Rust.md",
-    "R U S T/Rust Programming For Beginners/9.3 Range Rust.md",
-    "R U S T/Rust Programming For Beginners/9.2 Iterators - Rust.md",
-    "R U S T/Rust Programming Tutorial/4 Loops.md",
-    "R U S T/Rust Programming For Beginners/3 Repetition.md",
-    "JAVASCRIPT/Functional/8.1. Data Model.md",
-    "JAVASCRIPT/Functional Programming for JS Developers/_ Functional Programming for JS Developers.md",
-    "HASKELL/for_great_good/7 Types and TypeClasses.md",
-    "JAVASCRIPT/JS. Programowanie obiektowe/3 Obiekty.md",
-    "JAVASCRIPT/JS. Programowanie obiektowe/4 Konstruktory i prototypy.md",
-    "JAVASCRIPT/Functional/0- Intro functional programming (beginner udemy).md",
-    "JAVASCRIPT/Functional Programming for JS Developers",
-    "JAVASCRIPT/JS Bible/_ 0 JS Bible.md",
-    "JAVASCRIPT/JS współczesny/_ 0 intro JS dzisiaj.md",
-    "JAVASCRIPT/funkcyjnie_JS/Nowe elementy JS.md",
-    "JAVASCRIPT/Functional/8.2. View Function.md",
-    "JAVASCRIPT/Functional/5 - HTML and CSS.md",
+    "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
     "JAVASCRIPT/funkcyjnie_JS/_ JavaScript funkcyjnie.md",
+    "JAVASCRIPT/funkcyjnie_JS/Nowe elementy JS.md",
+    "JAVASCRIPT/funkcyjnie_JS",
     "test canvas.canvas",
     "pexels-alex-fu-1302436.jpg",
-    "JAVASCRIPT/DAY JS.md",
-    "JAVASCRIPT/Modern JavaScrip From the Beginning/3.2. DOM Selectors for single Elements.md",
-    "JAVASCRIPT/funkcyjnie_JS",
-    "methodology/images/seaborn_relplot_tip_total_bill_4.png",
-    "_ WEB/N_O_D_E/Node JS 101 Crash",
-    "Untitled 1.canvas",
-    "R U S T/Rust 101 Crash Course",
-    "R U S T/Programowanie w Rust",
-    "R U S T/Untitled.canvas",
-    "R U S T/ULTIMATE Rust Lang Tutorial",
+    "N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md",
+    "middleware.md",
+    "memory_leak.md",
+    "linux/Vim/Vim od podstaw/_ Vim od podstaw.md",
     "linux/Vim/Vim od podstaw",
-    "_ WEB",
+    "_ WEB/REACT/plurasight/React 17 Getting Started/4 the Star Match Game.md",
+    "_ WEB/REACT/plurasight/React 17 Getting Started/_ 0 Getting Started.md",
+    "_ WEB/REACT/plurasight/React 17 Getting Started/3 The GitHub Cards App.md",
+    "_ WEB/REACT/plurasight/React 17 Getting Started/2 Modern JS Crash.md",
+    "_ WEB/REACT/plurasight/React 17 Getting Started/1 the basics.md",
+    "_ WEB/REACT/plurasight/build web app with React/React The Big Picture.md",
+    "_ WEB/Django/Mosh/1/_ Django 1 start Mosh.md",
+    "_ WEB/Django/Mosh/1/Debugging Django App in VSCode.md",
+    "_ WEB/Django/Mosh/1/5 the Admin Site.md",
+    "_ WEB/Django/Mosh/1/4 Django ORM.md",
+    "_ WEB/Django/Mosh/1/3 Setting Up the Database.md",
+    "_ WEB/Django/Mosh/1/2 Building a Data Model.md",
+    "_ WEB/Django/Angular/Praktyczny kurs Angulara/todo_list_project.md",
+    "_ WEB/Django/Angular/Praktyczny kurs Angulara/0 Podstawy Angular.md",
+    "_ WEB/Django/Angular/Praktyczny kurs Angulara/INERPOLACJA.md",
+    "_ WEB/Django/Angular/Praktyczny kurs Angulara/Section 4 Architektura Angulara.md",
+    "_ WEB/REACT/w3school/_ 0 w3school React.md",
+    "_ WEB/REACT/w3school/_ 0 React Hooks.md",
+    "_ WEB/REACT/w3school/6 React Events.md",
+    "_ WEB/REACT/plurasight/React 17 Getting Started",
+    "_ WEB/REACT/plurasight/build web app with React",
+    "_ WEB/Django/Mosh/1",
+    "_ WEB/Django/Angular/Praktyczny kurs Angulara",
+    "_ WEB/REACT/w3school",
+    "_ WEB/REACT/React_Node_Helion",
+    "_ WEB/REACT/React Mosh",
+    "_ WEB/REACT/React Bob Ziroll",
+    "Untitled 1.canvas",
+    "R U S T/Untitled.canvas",
     "Untitled.canvas"
   ]
 }

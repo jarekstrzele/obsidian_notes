@@ -1,204 +1,112 @@
 {
   "recentFiles": [
     {
-      "basename": "_ Actix Rust",
-      "path": "_ WEB/Actix/_ Actix Rust.md"
+      "basename": "3 React Basics",
+      "path": "_ WEB/REACT/React - the Complete Guide/3 React Basics.md"
     },
     {
-      "basename": "jQuery",
-      "path": "Studia/Python BackEnd/jQuery.md"
+      "basename": "2 Właściwości grafów",
+      "path": "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md"
     },
     {
-      "basename": "8 Descriptors",
-      "path": "P Y T H O N/OOP Python udemy/8 Descriptors.md"
+      "basename": "4 HTTP Server",
+      "path": "R U S T/Learn Rust by Building Real App/4 HTTP Server.md"
     },
     {
-      "basename": "7.2 Dataclasses",
-      "path": "P Y T H O N/OOP Python udemy/7.2 Dataclasses.md"
+      "basename": "4.3. Enum",
+      "path": "R U S T/Learn Rust by Building Real App/4.3. Enum.md"
     },
     {
-      "basename": "11 Exceptions",
-      "path": "P Y T H O N/OOP Python udemy/11 Exceptions.md"
+      "basename": "4.2 Strings",
+      "path": "R U S T/Learn Rust by Building Real App/4.2 Strings.md"
     },
     {
-      "basename": "9 Enum",
-      "path": "P Y T H O N/OOP Python udemy/9 Enum.md"
+      "basename": "4.1 Struct",
+      "path": "R U S T/Learn Rust by Building Real App/4.1 Struct.md"
     },
     {
-      "basename": "8.1. Descriptor example",
-      "path": "P Y T H O N/OOP Python udemy/8.1. Descriptor example.md"
+      "basename": "3 Building a Command Line Application",
+      "path": "R U S T/Learn Rust by Building Real App/3 Building a Command Line Application.md"
     },
     {
-      "basename": "9.4 Traits Rust",
-      "path": "R U S T/Rust Programming For Beginners/9.4 Traits Rust.md"
+      "basename": "_ Learn Rust by Building Apps",
+      "path": "R U S T/Learn Rust by Building Real App/_ Learn Rust by Building Apps.md"
     },
     {
-      "basename": "9.3 Range Rust",
-      "path": "R U S T/Rust Programming For Beginners/9.3 Range Rust.md"
+      "basename": "9 Reference",
+      "path": "R U S T/Rust Programming Tutorial/9 Reference.md"
     },
     {
-      "basename": "9.2 Iterators - Rust",
-      "path": "R U S T/Rust Programming For Beginners/9.2 Iterators - Rust.md"
-    },
-    {
-      "basename": "4 Loops",
-      "path": "R U S T/Rust Programming Tutorial/4 Loops.md"
-    },
-    {
-      "basename": "3 Repetition",
-      "path": "R U S T/Rust Programming For Beginners/3 Repetition.md"
-    },
-    {
-      "basename": "8.1. Data Model",
-      "path": "JAVASCRIPT/Functional/8.1. Data Model.md"
-    },
-    {
-      "basename": "_ Functional Programming for JS Developers",
-      "path": "JAVASCRIPT/Functional Programming for JS Developers/_ Functional Programming for JS Developers.md"
+      "basename": "13 Traits",
+      "path": "R U S T/Rust Programming Tutorial/13 Traits.md"
     },
     {
       "basename": "7 Types and TypeClasses",
       "path": "HASKELL/for_great_good/7 Types and TypeClasses.md"
     },
     {
-      "basename": "3 Obiekty",
-      "path": "JAVASCRIPT/JS. Programowanie obiektowe/3 Obiekty.md"
+      "basename": "10 Structs",
+      "path": "R U S T/Rust Programming Tutorial/10 Structs.md"
     },
     {
-      "basename": "4 Konstruktory i prototypy",
-      "path": "JAVASCRIPT/JS. Programowanie obiektowe/4 Konstruktory i prototypy.md"
+      "basename": "_ Wprowadzenie SI z JS",
+      "path": "A I/SI na Froncie/_ Wprowadzenie SI z JS.md"
     },
     {
-      "basename": "0- Intro functional programming (beginner udemy)",
-      "path": "JAVASCRIPT/Functional/0- Intro functional programming (beginner udemy).md"
+      "basename": "_ 0 Uczenie maszynowe z JS",
+      "path": "A I/JS uczenie maszynowe/_ 0 Uczenie maszynowe z JS.md"
     },
     {
-      "basename": "_ 0 JS Bible",
-      "path": "JAVASCRIPT/JS Bible/_ 0 JS Bible.md"
+      "basename": "2 Memory Management",
+      "path": "R U S T/Learn Rust by Building Real App/2 Memory Management.md"
     },
     {
-      "basename": "_ 0 intro JS dzisiaj",
-      "path": "JAVASCRIPT/JS współczesny/_ 0 intro JS dzisiaj.md"
+      "basename": "2. SI i Uczenie maszynowe",
+      "path": "A I/SI na Froncie/2. SI i Uczenie maszynowe.md"
     },
     {
-      "basename": "Nowe elementy JS",
-      "path": "JAVASCRIPT/funkcyjnie_JS/Nowe elementy JS.md"
+      "basename": "_ Uczenie Maszynowe  Helion Piotr Szajowski",
+      "path": "A I/uczenie maszynowe/_ Uczenie Maszynowe  Helion Piotr Szajowski.md"
     },
     {
-      "basename": "8.2. View Function",
-      "path": "JAVASCRIPT/Functional/8.2. View Function.md"
+      "basename": "1 Poznawanie potencjału języka JS",
+      "path": "A I/JS uczenie maszynowe/1 Poznawanie potencjału języka JS.md"
     },
     {
-      "basename": "5 - HTML and CSS",
-      "path": "JAVASCRIPT/Functional/5 - HTML and CSS.md"
+      "basename": "2 Badanie danych",
+      "path": "A I/JS uczenie maszynowe/2 Badanie danych.md"
     },
     {
-      "basename": "_ JavaScript funkcyjnie",
-      "path": "JAVASCRIPT/funkcyjnie_JS/_ JavaScript funkcyjnie.md"
+      "basename": "2 Types and Functions",
+      "path": "HASKELL/Real World Haskell/2 Types and Functions.md"
     },
     {
-      "basename": "test canvas",
-      "path": "test canvas.canvas"
+      "basename": "7 Folding",
+      "path": "HASKELL/Haskell for Imperative Programmers/7 Folding.md"
     },
     {
-      "basename": "2 Schemas (pydantic models)",
-      "path": "API/Learn FastAPI by building_udemy/2 Schemas (pydantic models).md"
-    },
-    {
-      "basename": "What is the Server",
-      "path": "_ WEB/Server/What is the Server.md"
-    },
-    {
-      "basename": "_ 0 Node (Mosh)",
-      "path": "_ WEB/N_O_D_E/Mosh Node/_ 0 Node (Mosh).md"
-    },
-    {
-      "basename": "pexels-alex-fu-1302436",
-      "path": "pexels-alex-fu-1302436.jpg"
-    },
-    {
-      "basename": "seaborn_relplot_tip_total_bill_4",
-      "path": "methodology/images/seaborn_relplot_tip_total_bill_4.png"
-    },
-    {
-      "basename": "DAY JS",
-      "path": "JAVASCRIPT/DAY JS.md"
-    },
-    {
-      "basename": "3.2. DOM Selectors for single Elements",
-      "path": "JAVASCRIPT/Modern JavaScrip From the Beginning/3.2. DOM Selectors for single Elements.md"
-    },
-    {
-      "basename": "3.1. The Document Object",
-      "path": "JAVASCRIPT/Modern JavaScrip From the Beginning/3.1. The Document Object.md"
-    },
-    {
-      "basename": "1. synchronous vs asynchronous",
-      "path": "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md"
-    },
-    {
-      "basename": "_ NodeJS 101 Crash Course",
-      "path": "_ WEB/N_O_D_E/Node JS 101 Crash/_ NodeJS 101 Crash Course.md"
-    },
-    {
-      "basename": "7.4. Type synonyms",
-      "path": "HASKELL/for_great_good/7.4. Type synonyms.md"
-    },
-    {
-      "basename": "7.3 Derived instances",
-      "path": "HASKELL/for_great_good/7.3 Derived instances.md"
-    },
-    {
-      "basename": "7.2 Type parameters",
-      "path": "HASKELL/for_great_good/7.2 Type parameters.md"
+      "basename": "8 Datatypes",
+      "path": "HASKELL/Haskell for Imperative Programmers/8 Datatypes.md"
     },
     {
       "basename": "7.1 Record syntax",
       "path": "HASKELL/for_great_good/7.1 Record syntax.md"
     },
     {
-      "basename": "12 Monads",
-      "path": "HASKELL/Haskell for Imperative Programmers/12 Monads.md"
+      "basename": "Simple Haskell File - Structure",
+      "path": "HASKELL/Simple Haskell File - Structure.md"
     },
     {
-      "basename": "9 Typeclasses and Typeinference",
-      "path": "HASKELL/Haskell for Imperative Programmers/9 Typeclasses and Typeinference.md"
+      "basename": "14. Vectors",
+      "path": "R U S T/Rust Programming Tutorial/14. Vectors.md"
     },
     {
-      "basename": "11 IO",
-      "path": "HASKELL/Haskell for Imperative Programmers/11 IO.md"
+      "basename": "_ Rust Programming Tutorial",
+      "path": "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md"
     },
     {
-      "basename": "10 Maybe",
-      "path": "HASKELL/Haskell for Imperative Programmers/10 Maybe.md"
-    },
-    {
-      "basename": "obiekty_req_res_django.excalidraw",
-      "path": "Excalidraw/obiekty_req_res_django.excalidraw.md"
-    },
-    {
-      "basename": "NODEJS-inside.excalidraw",
-      "path": "Excalidraw/NODEJS-inside.excalidraw.md"
-    },
-    {
-      "basename": "2 Django",
-      "path": "Studia/Python BackEnd/Django/2 Django.md"
-    },
-    {
-      "basename": "1 Framework Django",
-      "path": "Studia/Python BackEnd/Django/1 Framework Django.md"
-    },
-    {
-      "basename": "UBUNTU",
-      "path": "linux/UBUNTU.md"
-    },
-    {
-      "basename": "haskell_IO.excalidraw",
-      "path": "Excalidraw/haskell_IO.excalidraw.md"
-    },
-    {
-      "basename": "3.1 Express - introducing",
-      "path": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md"
+      "basename": "2 Variables",
+      "path": "R U S T/Rust Programming Tutorial/2 Variables.md"
     }
   ],
   "omittedPaths": [],
