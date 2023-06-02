@@ -66,9 +66,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2bdf23d5329d27e9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.5"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -238,7 +248,7 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "a05f77c95eb40d59",
+  "active": "2bdf23d5329d27e9",
   "lastOpenFiles": [
     "_ WEB/React,TypeScript,Node/III Express, GraphQL tworzenie usług internetowych/_ app z Node i Express.md",
     "_ WEB/React,TypeScript,Node/I TypeScript/_ TypeScript.md",
