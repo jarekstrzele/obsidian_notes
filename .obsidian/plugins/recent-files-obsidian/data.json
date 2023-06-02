@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Firebase full course",
+      "path": "_ Desktop/Python/GUI/Firebase full course.md"
+    },
+    {
       "basename": "_ 0 React Native - Practical Guide",
       "path": "_ Mobile/REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "What is the Server",
       "path": "_ WEB/Server/What is the Server.md"
-    },
-    {
-      "basename": "_ 0 Node (Mosh)",
-      "path": "_ WEB/N_O_D_E/Mosh Node/_ 0 Node (Mosh).md"
     }
   ],
   "omittedPaths": [],

@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
+                "file": "_ Desktop/Python/GUI/Firebase full course.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "stash",
+                "query": "firebase",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -142,7 +142,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -162,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
+                "file": "_ Desktop/Python/GUI/Firebase full course.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -179,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
+                "file": "_ Desktop/Python/GUI/Firebase full course.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md"
+                "file": "_ Desktop/Python/GUI/Firebase full course.md"
               }
             }
           },
@@ -250,8 +251,9 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "2a3b0cb5c626b31e",
+  "active": "71e065b19cb47489",
   "lastOpenFiles": [
+    "_ Mobile/REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/1 Moduły.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/2. Podstawowe koncepcje.md",
@@ -280,7 +282,6 @@
     "conflict-files-obsidian-git.md",
     "P Y T H O N/OOP Python udemy/8 Descriptors.md",
     "_ WEB/Actix/_ Actix Rust.md",
-    "Studia/Python BackEnd/jQuery.md",
     "_ WEB/Actix/Untitled",
     "_ WEB/Actix",
     "JAVASCRIPT/Functional Programming for JS Developers",
