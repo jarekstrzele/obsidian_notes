@@ -42,9 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cd0e9cec5e840fd5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.4"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -95,6 +105,14 @@
             "type": "leaf",
             "state": {
               "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "f5795f834df34cb4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -206,7 +224,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "041803bbb3795df4",
+  "active": "cd0e9cec5e840fd5",
   "lastOpenFiles": [
     "algorithmic/Grafy w Pythonie/2 Właściwości grafów.md",
     "JAVASCRIPT/funkcyjnie_JS/_ JavaScript funkcyjnie.md",
