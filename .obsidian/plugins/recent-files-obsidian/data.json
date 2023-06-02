@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "2.1. Zdarzenia",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md"
+    },
+    {
+      "basename": "3.2. Odczytywanie plików",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3.2. Odczytywanie plików.md"
+    },
+    {
+      "basename": "3.1. Odczytywanie info o plikach",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md"
+    },
+    {
+      "basename": "3 Node praca z Sys. Plików",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3 Node praca z Sys. Plików.md"
+    },
+    {
+      "basename": "2. Podstawowe koncepcje",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2. Podstawowe koncepcje.md"
+    },
+    {
+      "basename": "1 Moduły",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/1 Moduły.md"
+    },
+    {
+      "basename": "4 Loops",
+      "path": "R U S T/Rust Programming Tutorial/4 Loops.md"
+    },
+    {
       "basename": "_ TypeScript",
       "path": "_ WEB/React,TypeScript,Node/I TypeScript/_ TypeScript.md"
     },
@@ -19,10 +47,6 @@
     {
       "basename": "2.2. Buffer",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.2. Buffer.md"
-    },
-    {
-      "basename": "2.1. Zdarzenia",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md"
     },
     {
       "basename": "4.3. pliki statyczne",
@@ -59,26 +83,6 @@
     {
       "basename": "3.3. Tworzenie plików i katalogów",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3.3. Tworzenie plików i katalogów.md"
-    },
-    {
-      "basename": "3.2. Odczytywanie plików",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3.2. Odczytywanie plików.md"
-    },
-    {
-      "basename": "3.1. Odczytywanie info o plikach",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md"
-    },
-    {
-      "basename": "3 Node praca z Sys. Plików",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3 Node praca z Sys. Plików.md"
-    },
-    {
-      "basename": "2. Podstawowe koncepcje",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2. Podstawowe koncepcje.md"
-    },
-    {
-      "basename": "1 Moduły",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/1 Moduły.md"
     },
     {
       "basename": "_ 0 NodeJS - zostań fullstack",
@@ -123,10 +127,6 @@
     {
       "basename": "9.2 Iterators - Rust",
       "path": "R U S T/Rust Programming For Beginners/9.2 Iterators - Rust.md"
-    },
-    {
-      "basename": "4 Loops",
-      "path": "R U S T/Rust Programming Tutorial/4 Loops.md"
     },
     {
       "basename": "3 Repetition",
