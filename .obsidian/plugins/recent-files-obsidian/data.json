@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "9 Refining Your Code",
+      "path": "R U S T/Rust Programming For Beginners/9 Refining Your Code.md"
+    },
+    {
+      "basename": "9.5 If let else",
+      "path": "R U S T/Rust Programming For Beginners/9.5 If let else.md"
+    },
+    {
       "basename": "9.4 Traits Rust",
       "path": "R U S T/Rust Programming For Beginners/9.4 Traits Rust.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "0- Intro functional programming (beginner udemy)",
       "path": "JAVASCRIPT/Functional/0- Intro functional programming (beginner udemy).md"
-    },
-    {
-      "basename": "_ 0 JS Bible",
-      "path": "JAVASCRIPT/JS Bible/_ 0 JS Bible.md"
-    },
-    {
-      "basename": "_ 0 intro JS dzisiaj",
-      "path": "JAVASCRIPT/JS współczesny/_ 0 intro JS dzisiaj.md"
     }
   ],
   "omittedPaths": [],

@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/9.4 Traits Rust.md",
+                "file": "R U S T/Rust Programming For Beginners/9 Refining Your Code.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/9.4 Traits Rust.md",
+                "file": "R U S T/Rust Programming For Beginners/9 Refining Your Code.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/9.4 Traits Rust.md",
+                "file": "R U S T/Rust Programming For Beginners/9 Refining Your Code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/9.4 Traits Rust.md"
+                "file": "R U S T/Rust Programming For Beginners/9 Refining Your Code.md"
               }
             }
           },
@@ -252,10 +252,11 @@
   },
   "active": "2a3b0cb5c626b31e",
   "lastOpenFiles": [
+    "R U S T/Rust Programming For Beginners/9.5 If let else.md",
+    "R U S T/Rust Programming For Beginners/9.4 Traits Rust.md",
     "linux/UBUNTU.md",
     "R U S T/Rust Programming Tutorial/4 Loops.md",
     "_ WEB/React,TypeScript,Node/I TypeScript/_ TypeScript.md",
-    "R U S T/Rust Programming For Beginners/9.4 Traits Rust.md",
     "R U S T/Rust Programming For Beginners/9.3 Range Rust.md",
     "R U S T/Rust Programming For Beginners/9.2 Iterators - Rust.md",
     "R U S T/Rust Programming For Beginners/9.1 Option Combinators.md",
@@ -280,7 +281,6 @@
     "_ WEB/N_O_D_E/NodeJS - fullstack/2.3. Stream.md",
     "_ WEB/React,TypeScript,Node",
     "_ WEB/N_O_D_E/NodeJS - fullstack/2.2. Buffer.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/4.3. pliki statyczne.md",
     "_ WEB/Actix/Untitled",
     "_ WEB/Actix",
     "JAVASCRIPT/Functional Programming for JS Developers",
