@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ WEB/Actix/_ Actix Rust.md",
+                "file": "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/ULTIMATE Rust Lang Tutorial/2. Common Programming Concepts in Rust.md",
+                "file": "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/ULTIMATE Rust Lang Tutorial/2. Common Programming Concepts in Rust.md",
+                "file": "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/ULTIMATE Rust Lang Tutorial/2. Common Programming Concepts in Rust.md"
+                "file": "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md"
               }
             }
           },
@@ -250,11 +250,15 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "cdc1f9fbfaf501d7",
+  "active": "8790235d9257b94b",
   "lastOpenFiles": [
+    "_ WEB/N_O_D_E/Node JS 101 Crash/_ NodeJS 101 Crash Course.md",
+    "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md",
+    "_ WEB/Rust/Actix/_ Actix Rust.md",
+    "_ WEB/Rust",
+    "R U S T/ULTIMATE Rust Lang Tutorial/2. Common Programming Concepts in Rust.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/1 Guessing Game in Rust.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/_ Ultimate Rust Lang Tutorial.md",
-    "R U S T/ULTIMATE Rust Lang Tutorial/2. Common Programming Concepts in Rust.md",
     "R U S T/Tech with TIm Rust/_ Rust Tech with Tim.md",
     "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md",
     "R U S T/Rust by example/_ Rust by Example.md",
@@ -275,14 +279,11 @@
     "R U S T/Rust Programming For Beginners/8.3. Closures Rust.md",
     "R U S T/Rust Programming For Beginners/8.1 User Input.md",
     "R U S T/Rust Programming For Beginners/6 Data Collections.md",
-    "R U S T/Rust Programming For Beginners/5 Intermediate Concepts.md",
-    "HASKELL/for_great_good/7 Types and TypeClasses.md",
-    "_ Mobile/REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
     "_ WEB/React,TypeScript,Node/I TypeScript",
     "_ WEB/React,TypeScript,Node/III Express, GraphQL tworzenie usług internetowych",
     "_ WEB/React,TypeScript,Node",
     "_ WEB/Actix/Untitled",
-    "_ WEB/Actix",
+    "_ WEB/Rust/Actix",
     "JAVASCRIPT/Functional Programming for JS Developers",
     "test canvas.canvas",
     "pexels-alex-fu-1302436.jpg",
@@ -291,7 +292,6 @@
     "_ WEB/N_O_D_E/Node JS 101 Crash",
     "Untitled 1.canvas",
     "R U S T/Rust 101 Crash Course",
-    "R U S T/Programowanie w Rust",
     "R U S T/Untitled.canvas",
     "Untitled.canvas"
   ]
