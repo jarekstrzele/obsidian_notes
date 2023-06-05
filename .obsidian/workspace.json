@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Rust Programming Tutorial/4 Loops.md",
+                "file": "linux/UBUNTU.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/9.4 Traits Rust.md",
+                "file": "linux/UBUNTU.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/9.4 Traits Rust.md",
+                "file": "linux/UBUNTU.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/9.4 Traits Rust.md"
+                "file": "linux/UBUNTU.md"
               }
             }
           },
@@ -250,8 +250,11 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "2a3b0cb5c626b31e",
+  "active": "cdc1f9fbfaf501d7",
   "lastOpenFiles": [
+    "R U S T/Rust Programming Tutorial/4 Loops.md",
+    "_ WEB/React,TypeScript,Node/I TypeScript/_ TypeScript.md",
+    "R U S T/Rust Programming For Beginners/9.4 Traits Rust.md",
     "R U S T/Rust Programming For Beginners/9.3 Range Rust.md",
     "R U S T/Rust Programming For Beginners/9.2 Iterators - Rust.md",
     "R U S T/Rust Programming For Beginners/9.1 Option Combinators.md",
@@ -260,7 +263,6 @@
     "R U S T/Rust Programming For Beginners/8.1 User Input.md",
     "R U S T/Rust Programming For Beginners/6 Data Collections.md",
     "R U S T/Rust Programming For Beginners/5 Intermediate Concepts.md",
-    "R U S T/Rust Programming For Beginners/9.4 Traits Rust.md",
     "HASKELL/for_great_good/7 Types and TypeClasses.md",
     "_ Mobile/REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md",
@@ -270,8 +272,6 @@
     "_ WEB/N_O_D_E/NodeJS - fullstack/3.2. Odczytywanie plików.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/3 Node praca z Sys. Plików.md",
-    "R U S T/Rust Programming Tutorial/4 Loops.md",
-    "_ WEB/React,TypeScript,Node/I TypeScript/_ TypeScript.md",
     "_ WEB/React,TypeScript,Node/III Express, GraphQL tworzenie usług internetowych/_ app z Node i Express.md",
     "_ WEB/React,TypeScript,Node/I TypeScript",
     "_ WEB/React,TypeScript,Node/_ React, TypeScript, Node.md",
