@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "_ Rocket Rust",
+      "path": "_ WEB/Rust/Rocket/_ Rocket Rust.md"
+    },
+    {
       "basename": "Application Actix",
       "path": "_ WEB/Rust/Actix/Application Actix.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Firebase full course",
       "path": "_ Desktop/Python/GUI/Firebase full course.md"
-    },
-    {
-      "basename": "_ 0 React Native - Practical Guide",
-      "path": "_ Mobile/REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md"
     }
   ],
   "omittedPaths": [],

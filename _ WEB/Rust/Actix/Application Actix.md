@@ -65,3 +65,7 @@ async fn main() -> std::io::Result<()>{
 
 `service(index)` rejestruje funkcję obsługującą `index` jako usługę serwera
 
+`app_data()` funkcja pomocnicza z modułu `actix_web::web`, służy do dodawania danych aplikacji, które będą dostępne w całym cyklu obsługi żądań
+
+
+
