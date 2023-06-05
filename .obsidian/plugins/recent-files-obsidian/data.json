@@ -1,8 +1,64 @@
 {
   "recentFiles": [
     {
+      "basename": "asynch_in_node.excalidraw",
+      "path": "Excalidraw/asynch_in_node.excalidraw.md"
+    },
+    {
       "basename": "1. synchronous vs asynchronous",
       "path": "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md"
+    },
+    {
+      "basename": "docker mysql node phpmyadmin",
+      "path": "_ WEB/N_O_D_E/Lear Node.js and Javascript/docker mysql node phpmyadmin.md"
+    },
+    {
+      "basename": "_ Node and JavaScript",
+      "path": "_ WEB/N_O_D_E/Lear Node.js and Javascript/_ Node and JavaScript.md"
+    },
+    {
+      "basename": "- 3 Node",
+      "path": "_ WEB/N_O_D_E/Lear Node.js and Javascript/- 3 Node.md"
+    },
+    {
+      "basename": "- 2 JavaScript",
+      "path": "_ WEB/N_O_D_E/Lear Node.js and Javascript/- 2 JavaScript.md"
+    },
+    {
+      "basename": "3 RESTful API's using Express",
+      "path": "_ WEB/N_O_D_E/Mosh Node/3 RESTful API's using Express.md"
+    },
+    {
+      "basename": "_ 0 W3Schools Node",
+      "path": "_ WEB/N_O_D_E/w3school/_ 0 W3Schools Node.md"
+    },
+    {
+      "basename": "4.3. pliki statyczne",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/4.3. pliki statyczne.md"
+    },
+    {
+      "basename": "3.1. Odczytywanie info o plikach",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md"
+    },
+    {
+      "basename": "3 Node praca z Sys. Plików",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3 Node praca z Sys. Plików.md"
+    },
+    {
+      "basename": "2.4. Process",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.4. Process.md"
+    },
+    {
+      "basename": "2.3. Stream",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.3. Stream.md"
+    },
+    {
+      "basename": "2.2. Buffer",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.2. Buffer.md"
+    },
+    {
+      "basename": "2.1. Zdarzenia",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md"
     },
     {
       "basename": "_ NodeJS 101 Crash Course",
@@ -121,10 +177,6 @@
       "path": "_ Mobile/REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md"
     },
     {
-      "basename": "2.1. Zdarzenia",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md"
-    },
-    {
       "basename": "1 Moduły",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/1 Moduły.md"
     },
@@ -141,64 +193,12 @@
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3.2. Odczytywanie plików.md"
     },
     {
-      "basename": "3.1. Odczytywanie info o plikach",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md"
-    },
-    {
-      "basename": "3 Node praca z Sys. Plików",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3 Node praca z Sys. Plików.md"
-    },
-    {
       "basename": "_ app z Node i Express",
       "path": "_ WEB/React,TypeScript,Node/III Express, GraphQL tworzenie usług internetowych/_ app z Node i Express.md"
     },
     {
       "basename": "_ React, TypeScript, Node",
       "path": "_ WEB/React,TypeScript,Node/_ React, TypeScript, Node.md"
-    },
-    {
-      "basename": "2.3. Stream",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.3. Stream.md"
-    },
-    {
-      "basename": "2.2. Buffer",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.2. Buffer.md"
-    },
-    {
-      "basename": "4.3. pliki statyczne",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/4.3. pliki statyczne.md"
-    },
-    {
-      "basename": "4.1. Prosty serwer i klient TCP",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/4.1. Prosty serwer i klient TCP.md"
-    },
-    {
-      "basename": "4.2. Serwer HTTP",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md"
-    },
-    {
-      "basename": "4.1.1. tworzenie własnego klienta",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/4.1.1. tworzenie własnego klienta.md"
-    },
-    {
-      "basename": "4. Tworzenie serwerów",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/4. Tworzenie serwerów.md"
-    },
-    {
-      "basename": "3.6. Obserwowanie zmian w plikach",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3.6. Obserwowanie zmian w plikach.md"
-    },
-    {
-      "basename": "3.5. usuwanie plików i katalogów",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3.5. usuwanie plików i katalogów.md"
-    },
-    {
-      "basename": "3.4. Przenoszenie i zmiana nazw plików",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3.4. Przenoszenie i zmiana nazw plików.md"
-    },
-    {
-      "basename": "3.3. Tworzenie plików i katalogów",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3.3. Tworzenie plików i katalogów.md"
     }
   ],
   "omittedPaths": [],
