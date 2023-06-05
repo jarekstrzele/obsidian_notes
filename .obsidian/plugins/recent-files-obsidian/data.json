@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Application Actix",
+      "path": "_ WEB/Rust/Actix/Application Actix.md"
+    },
+    {
       "basename": "_ Actix Rust",
       "path": "_ WEB/Rust/Actix/_ Actix Rust.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "App Actix",
       "path": "_ WEB/Rust/Actix/App Actix.md"
-    },
-    {
-      "basename": "Application Actix",
-      "path": "_ WEB/Rust/Actix/Application Actix.md"
     },
     {
       "basename": "middleware",

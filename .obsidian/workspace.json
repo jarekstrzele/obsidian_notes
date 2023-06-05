@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ WEB/Rust/Actix/_ Actix Rust.md",
+                "file": "_ WEB/Rust/Actix/Application Actix.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ WEB/Rust/Actix/_ Actix Rust.md",
+                "file": "_ WEB/Rust/Actix/Application Actix.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ WEB/Rust/Actix/_ Actix Rust.md",
+                "file": "_ WEB/Rust/Actix/Application Actix.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ WEB/Rust/Actix/_ Actix Rust.md"
+                "file": "_ WEB/Rust/Actix/Application Actix.md"
               }
             }
           },
@@ -252,8 +252,8 @@
   },
   "active": "2a3b0cb5c626b31e",
   "lastOpenFiles": [
-    "_ WEB/Rust/Actix/Web Actix.md",
     "_ WEB/Rust/Actix/_ Actix Rust.md",
+    "_ WEB/Rust/Actix/Web Actix.md",
     "_ WEB/Rust/Actix/Responder Actix.md",
     "_ WEB/Rust/Actix/App Actix.md",
     "_ WEB/Rust/Actix/Application Actix.md",
