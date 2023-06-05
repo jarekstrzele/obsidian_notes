@@ -31,7 +31,8 @@ async fn main() -> std::io::Result<()>{
 ```
 
 # State
-
+- app state is shared with all routes and resources within the same scope
+- state can be accessed with the `web::Data<T>`
 
 
 

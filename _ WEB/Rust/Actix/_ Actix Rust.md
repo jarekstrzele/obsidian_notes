@@ -32,25 +32,11 @@ actix-web ="4"
 - these parameters can be extracted from a request (`FromRequest`  trait) and 
 - returns a type that can be converted into an `HttpResponse` (`Responder` trait)
 
-#### `App` 
-- główny komponent, który służy do konfigurowania aplikacji serwera HTTP
-- jego struktura reprezentuje aplikację serwera HTTP i jest używana do definiowania tras (routing) oraz konfiguracji obsługi żądań
-- umożliwia definiowanie ścieżek URL i przypisywania im funkcje obsługi *handler* (funkcja wywoływana w momencie otrzymania żądania)
-- przykładowe metody:
-	- `route()` umożliwia zdefiniowanie konkretnejścieżki URL i metody HTTP, która ma być obsługiwana przez określony handler
-	- `service()` rejestruje *handler* jako obsługę okreśłonej ścieżki URL. Można zarejestrować wielokrotnie różne handlery dla tej samej ścieżki, obsługujące różne metody HTTP
-	- `data()` przechowuje dane aplikacji,  które będą dostępne dla wszystkich handlerów w ramach aplikacji
-	- `wrap()` dodaje  [[middleware]] do aplikacji, który jest wywoływany przed osbłygą żądań przez handlery. 
+#### [[App Actix]]
+#### [[Responder Actix]]
+#### [[Web Actix]]
 
-#### `Responder`
-- jest używany do reprezentowania typów, które mogą być zamieniane na odpowiedzi HTTP
-- każdy *handler* **musi** zwracać typ implementujący trait `Responder` . Dzięki temu, biblioteka może automatycznie przekształcać wartości zwracane przez handlery na odpowiednie odpowiedzi HTTP
-- definiuje metodę `respond_to`, która jest odpowiedzialna za przekształcenie wartości na odpowiedzi HTTP
-- przykładowe typy, które implementują trait `Responder`:
-	- `String` zwrócenie tekstu jako odpowiedź
-	- `&str` zwrócenie referencję do napisu jako odpowiedź
-	- `Vec<u8>` zwrócenie wektora bajtów jako odpowiedź
-	- `HttpResponse` można zwrócić gotową strukturę `HttpResponse` z odpowiednimi nagłówkami, statusem i treścią
+
 ```rust
 use actix_web::{get,post, web, App, HttpResponse, HttpServer, Responder} ;
   
@@ -94,12 +80,3 @@ async fn main() -> std::io::Result<()>{
 	- jeżeli `bind()` zakończy się sukcesem, to wywoływana jest metoda `run()`
 		- `run().await` - oznacza, że bieżąca funkcja `main` będzie wstrzymywana  do mementu zakończenia działania metody `.run()`
 
-
-#### `web` 
-moduł zwiera funkcje pomocnicze i struktury danych, które ułatwiają definiowanie tras i obsługę routingu:
-	- `web::put()`
-	- `web::post()`
-	- `web::put()`
-	- `web::path()` umożliwia definiowanie fragmentu ścieżki jako parametru
-	- `web::Json` typ , który reprezentuje dane JSON otrzymane w żądaniu
-	- ....

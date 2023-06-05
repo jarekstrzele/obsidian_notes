@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ WEB/Rust/Actix/Application Actix.md",
+                "file": "_ WEB/Rust/Actix/_ Actix Rust.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ WEB/Rust/Actix/Application Actix.md",
+                "file": "_ WEB/Rust/Actix/_ Actix Rust.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ WEB/Rust/Actix/Application Actix.md",
+                "file": "_ WEB/Rust/Actix/_ Actix Rust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ WEB/Rust/Actix/Application Actix.md"
+                "file": "_ WEB/Rust/Actix/_ Actix Rust.md"
               }
             }
           },
@@ -252,7 +252,10 @@
   },
   "active": "2a3b0cb5c626b31e",
   "lastOpenFiles": [
+    "_ WEB/Rust/Actix/Web Actix.md",
     "_ WEB/Rust/Actix/_ Actix Rust.md",
+    "_ WEB/Rust/Actix/Responder Actix.md",
+    "_ WEB/Rust/Actix/App Actix.md",
     "_ WEB/Rust/Actix/Application Actix.md",
     "middleware.md",
     "R U S T/Rust Programming For Beginners/9 Refining Your Code.md",
@@ -275,10 +278,7 @@
     "_ WEB/N_O_D_E/NodeJS - fullstack/2.3. Stream.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/2.2. Buffer.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md",
-    "_ WEB/N_O_D_E/Node JS 101 Crash/_ NodeJS 101 Crash Course.md",
     "_ WEB/Rust",
-    "R U S T/ULTIMATE Rust Lang Tutorial/1 Guessing Game in Rust.md",
-    "R U S T/ULTIMATE Rust Lang Tutorial/_ Ultimate Rust Lang Tutorial.md",
     "_ WEB/React,TypeScript,Node/I TypeScript",
     "_ WEB/React,TypeScript,Node/III Express, GraphQL tworzenie usług internetowych",
     "_ WEB/React,TypeScript,Node",
