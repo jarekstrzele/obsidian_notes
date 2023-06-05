@@ -9,7 +9,16 @@ https://docs.rs/actix-web/4.3.1/actix_web/struct.App.html
 	- for application with scope `/app` any request with the path `/app`, `/app/`, `/app/test` would match
 	- the path `/application` would not match
 
+```rust
+async fn index() -> impl Responder{
+	"Hello world!"
+}
 
+#[actix_web::main]
+async fn main() -> std::io::Result<()>{
+
+}
+```
 
 
 
