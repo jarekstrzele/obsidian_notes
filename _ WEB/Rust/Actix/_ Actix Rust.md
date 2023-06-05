@@ -63,8 +63,12 @@ async fn main() -> std::io::Result<()>{
 
 `#[actix_web::main]` atrybut wskazuje, że jest to punkt wejścia dla frameworka Actix Web i rozpoczyna wykonanie serwera
 `HttpServer::new()` tworzy server HTTP i przyjmuje dwa argumenty:
-- *closure*  `||` jest wykonywany w momencie tworzenia instancji serwera 
-	- przekazuje konfigurację dla serwera HTTP
+- *closure*  `||`  (akurat bez argumentów) jest wykonywany w momencie tworzenia instancji serwera 
+	- przekazuje konfigurację dla serwera HTTP (routing i obsługa zdarzeń)
+	- zwraca obiekt typu  `App`
+- *konfiguracja adresu i portu* 
+	- funkcja `bind()` zwraca wynik w postaci `Result` (operator `?` do obsługi błędów)
+	- jeżeli `bind()` zakończy się sukcesem, to wywoływana jest metoda `run()`
 
 
 
