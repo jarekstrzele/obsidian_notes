@@ -34,7 +34,12 @@ actix-web ="4"
 - przykładowe metody:
 	- `route()` umożliwia zdefiniowanie konkretnejścieżki URL i metody HTTP, która ma być obsługiwana przez określony handler
 	- `service()` rejestruje *handler* jako obsługę okreśłonej ścieżki URL. Można zarejestrować wielokrotnie różne handlery dla tej samej ścieżki, obsługujące różne metody HTTP
-	- `data()` przechowuje dane aplikacji,  które b
+	- `data()` przechowuje dane aplikacji,  które będą dostępne dla wszystkich handlerów w ramach aplikacji
+	- `wrap()` dodaje  [[middleware]] do aplikacji, który jest wywoływany przed osbłygą żądań przez handlery. 
+
+#### `Responder`
+- jest używany do reprezentowania typów, które mogą być zamieniane na odpowiedzi HTTP
+- każdy *handler* **musi** zwracać typ implementujący trait `Responder` . Dzięki temu, biblioteka może automatycznie przekształcać wartości zwracane przez handlery na odpowiednie odpowiedzi HTTP
 ```rust
 use actix_web::{get,post, web, App, HttpResponse, HttpServer, Responder} ;
   
@@ -61,9 +66,9 @@ async fn main() -> std::io::Result<()>{
 		.service(echo)
 		.route("/hey", web::get().to(manual_hello))
 })
-.bind(("127.0.0.1", 8080))?
-.run()
-.await
+	.bind(("127.0.0.1", 8080))?
+	.run()
+	.await
 
 }
 ```

@@ -5,6 +5,10 @@
       "path": "_ WEB/Rust/Actix/_ Actix Rust.md"
     },
     {
+      "basename": "middleware",
+      "path": "middleware.md"
+    },
+    {
       "basename": "9 Refining Your Code",
       "path": "R U S T/Rust Programming For Beginners/9 Refining Your Code.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "3.2. Odczytywanie plików",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3.2. Odczytywanie plików.md"
-    },
-    {
-      "basename": "_ app z Node i Express",
-      "path": "_ WEB/React,TypeScript,Node/III Express, GraphQL tworzenie usług internetowych/_ app z Node i Express.md"
     }
   ],
   "omittedPaths": [],
