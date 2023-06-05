@@ -27,7 +27,14 @@ actix-web ="4"
 - these parameters can be extracted from a request (`FromRequest`  trait) and 
 - returns a type that can be converted into an `HttpResponse` (`Responder` trait)
 
-
+#### `App` 
+- główny komponent, który służy do konfigurowania aplikacji serwera HTTP
+- jego struktura reprezentuje aplikację serwera HTTP i jest używana do definiowania tras (routing) oraz konfiguracji obsługi żądań
+- umożliwia definiowanie ścieżek URL i przypisywania im funkcje obsługi *handler* (funkcja wywoływana w momencie otrzymania żądania)
+- przykładowe metody:
+	- `route()` umożliwia zdefiniowanie konkretnejścieżki URL i metody HTTP, która ma być obsługiwana przez określony handler
+	- `service()` rejestruje *handler* jako obsługę okreśłonej ścieżki URL. Można zarejestrować wielokrotnie różne handlery dla tej samej ścieżki, obsługujące różne metody HTTP
+	- `data()` przechowuje dane aplikacji,  które b
 ```rust
 use actix_web::{get,post, web, App, HttpResponse, HttpServer, Responder} ;
   
@@ -69,6 +76,7 @@ async fn main() -> std::io::Result<()>{
 - *konfiguracja adresu i portu* 
 	- funkcja `bind()` zwraca wynik w postaci `Result` (operator `?` do obsługi błędów)
 	- jeżeli `bind()` zakończy się sukcesem, to wywoływana jest metoda `run()`
+		- `run().await` - oznacza, że bieżąca funkcja `main` będzie wstrzymywana  do mementu zakończenia działania metody `.run()`
 
 
 
