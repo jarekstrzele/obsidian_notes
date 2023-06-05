@@ -22,5 +22,12 @@ https://rocket.rs/v0.5-rc/guide/
 >2.  all request handling information should be typed and self-contained
 >3. decisions should not be forced
 
-to experiment with 
+to experiment with Rocket
+```bash
+1 git clone https://github.com/SergioBenitez/Rocket
+2 cd Rocket
+3. git checkout v0.5-rc
+4. cd examples/hello
+5. cargo run|
+```
 
