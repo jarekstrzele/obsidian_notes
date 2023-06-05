@@ -55,7 +55,7 @@ async fn main() -> std::io::Result<()>{
 			.app_data(web::Data::new(AppState {
 				app_name: String::from ("Actix Web"),
 		}))
-		.service(index)
+			.service(index)
 	})
 	.bind(("127.0.0.1", 8080))?
 	.run()
@@ -63,5 +63,5 @@ async fn main() -> std::io::Result<()>{
 }
 ```
 
-
+`service(index)` rejestruje funkcję obsługującą `index` jako usługę serwera
 
