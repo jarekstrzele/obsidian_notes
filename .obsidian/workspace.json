@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ WEB/Rust/Actix/_ Actix Rust.md",
+                "file": "_ WEB/Rust/Actix/Application Actix.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ WEB/Rust/Actix/_ Actix Rust.md",
+                "file": "_ WEB/Rust/Actix/Application Actix.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ WEB/Rust/Actix/_ Actix Rust.md",
+                "file": "_ WEB/Rust/Actix/Application Actix.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ WEB/Rust/Actix/_ Actix Rust.md"
+                "file": "_ WEB/Rust/Actix/Application Actix.md"
               }
             }
           },
@@ -252,8 +252,9 @@
   },
   "active": "2a3b0cb5c626b31e",
   "lastOpenFiles": [
-    "middleware.md",
     "_ WEB/Rust/Actix/_ Actix Rust.md",
+    "_ WEB/Rust/Actix/Application Actix.md",
+    "middleware.md",
     "R U S T/Rust Programming For Beginners/9 Refining Your Code.md",
     "_ WEB/React,TypeScript,Node/I TypeScript/_ TypeScript.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/2. Common Programming Concepts in Rust.md",
@@ -278,7 +279,6 @@
     "_ WEB/Rust",
     "R U S T/ULTIMATE Rust Lang Tutorial/1 Guessing Game in Rust.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/_ Ultimate Rust Lang Tutorial.md",
-    "R U S T/Tech with TIm Rust/_ Rust Tech with Tim.md",
     "_ WEB/React,TypeScript,Node/I TypeScript",
     "_ WEB/React,TypeScript,Node/III Express, GraphQL tworzenie usług internetowych",
     "_ WEB/React,TypeScript,Node",

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Application Actix",
+      "path": "_ WEB/Rust/Actix/Application Actix.md"
+    },
+    {
       "basename": "_ Actix Rust",
       "path": "_ WEB/Rust/Actix/_ Actix Rust.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_ 0 NodeJS - zostań fullstack",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md"
-    },
-    {
-      "basename": "3.2. Odczytywanie plików",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3.2. Odczytywanie plików.md"
     }
   ],
   "omittedPaths": [],

@@ -1,6 +1,11 @@
 #actix #rust
 https://actix.rs/docs/
 
+----------
+[[Application Actix]]
+
+
+---
 Actix Web lets you quickly and confidently develop web services in Rust.
 You need rust 1.59 or more.
 `rustc --version`
