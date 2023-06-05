@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "2. Common Programming Concepts in Rust",
+      "path": "R U S T/ULTIMATE Rust Lang Tutorial/2. Common Programming Concepts in Rust.md"
+    },
+    {
       "basename": "1 Guessing Game in Rust",
       "path": "R U S T/ULTIMATE Rust Lang Tutorial/1 Guessing Game in Rust.md"
+    },
+    {
+      "basename": "_ Ultimate Rust Lang Tutorial",
+      "path": "R U S T/ULTIMATE Rust Lang Tutorial/_ Ultimate Rust Lang Tutorial.md"
     },
     {
       "basename": "_ Rust Tech with Tim",
@@ -191,14 +199,6 @@
     {
       "basename": "jQuery",
       "path": "Studia/Python BackEnd/jQuery.md"
-    },
-    {
-      "basename": "7.2 Dataclasses",
-      "path": "P Y T H O N/OOP Python udemy/7.2 Dataclasses.md"
-    },
-    {
-      "basename": "11 Exceptions",
-      "path": "P Y T H O N/OOP Python udemy/11 Exceptions.md"
     }
   ],
   "omittedPaths": [],

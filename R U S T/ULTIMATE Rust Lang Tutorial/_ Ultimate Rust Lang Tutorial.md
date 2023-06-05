@@ -11,6 +11,6 @@ next
 #### `cargo run`
 
 -------
-
-
+[[1 Guessing Game in Rust]]
+[[2. Common Programming Concepts in Rust]]
 

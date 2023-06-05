@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/ULTIMATE Rust Lang Tutorial/1 Guessing Game in Rust.md",
+                "file": "R U S T/ULTIMATE Rust Lang Tutorial/2. Common Programming Concepts in Rust.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/ULTIMATE Rust Lang Tutorial/1 Guessing Game in Rust.md",
+                "file": "R U S T/ULTIMATE Rust Lang Tutorial/2. Common Programming Concepts in Rust.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/ULTIMATE Rust Lang Tutorial/1 Guessing Game in Rust.md",
+                "file": "R U S T/ULTIMATE Rust Lang Tutorial/2. Common Programming Concepts in Rust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/ULTIMATE Rust Lang Tutorial/1 Guessing Game in Rust.md"
+                "file": "R U S T/ULTIMATE Rust Lang Tutorial/2. Common Programming Concepts in Rust.md"
               }
             }
           },
@@ -252,6 +252,9 @@
   },
   "active": "cdc1f9fbfaf501d7",
   "lastOpenFiles": [
+    "R U S T/ULTIMATE Rust Lang Tutorial/1 Guessing Game in Rust.md",
+    "R U S T/ULTIMATE Rust Lang Tutorial/_ Ultimate Rust Lang Tutorial.md",
+    "R U S T/ULTIMATE Rust Lang Tutorial/2. Common Programming Concepts in Rust.md",
     "R U S T/Tech with TIm Rust/_ Rust Tech with Tim.md",
     "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md",
     "R U S T/Rust by example/_ Rust by Example.md",
@@ -275,9 +278,6 @@
     "R U S T/Rust Programming For Beginners/5 Intermediate Concepts.md",
     "HASKELL/for_great_good/7 Types and TypeClasses.md",
     "_ Mobile/REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/1 Moduły.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/2. Podstawowe koncepcje.md",
     "_ WEB/React,TypeScript,Node/I TypeScript",
     "_ WEB/React,TypeScript,Node/III Express, GraphQL tworzenie usług internetowych",
     "_ WEB/React,TypeScript,Node",
