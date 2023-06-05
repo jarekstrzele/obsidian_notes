@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/asynch_in_node.excalidraw.md",
+                "file": "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -189,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/asynch_in_node.excalidraw.md",
+                "file": "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/asynch_in_node.excalidraw.md"
+                "file": "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md"
               }
             }
           },
@@ -260,10 +260,10 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "0899faba4a4b20d5",
+  "active": "8790235d9257b94b",
   "lastOpenFiles": [
-    "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md",
     "Excalidraw/asynch_in_node.excalidraw.md",
+    "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md",
     "_ WEB/N_O_D_E/Lear Node.js and Javascript/docker mysql node phpmyadmin.md",
     "_ WEB/N_O_D_E/Lear Node.js and Javascript/_ Node and JavaScript.md",
     "_ WEB/N_O_D_E/Lear Node.js and Javascript/- 3 Node.md",

@@ -73,7 +73,9 @@ Thread Pool ^rSwAfC9e
 
 operating system ^L7shzwOL
 
-Event loop is like a boss. Workers are
+Event loop is like a boss. 
+
+Workers are:
 - thread pool
 - operating system ^niQNrLUv
 
@@ -2556,8 +2558,8 @@ Event loop is like a boss. Workers are
 			"type": "text",
 			"x": -264.5,
 			"y": 1268.5390625,
-			"width": 334.21875,
-			"height": 69,
+			"width": 225.673828125,
+			"height": 115,
 			"angle": 0,
 			"strokeColor": "#5f3dc4",
 			"backgroundColor": "transparent",
@@ -2569,22 +2571,22 @@ Event loop is like a boss. Workers are
 			"groupIds": [],
 			"roundness": null,
 			"seed": 458736873,
-			"version": 89,
-			"versionNonce": 1002629993,
+			"version": 92,
+			"versionNonce": 6982537,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1685964694325,
+			"updated": 1685966408423,
 			"link": null,
 			"locked": false,
-			"text": "Event loop is like a boss. Workers are\n- thread pool\n- operating system",
-			"rawText": "Event loop is like a boss. Workers are\n- thread pool\n- operating system",
+			"text": "Event loop is like a boss. \n\nWorkers are:\n- thread pool\n- operating system",
+			"rawText": "Event loop is like a boss. \n\nWorkers are:\n- thread pool\n- operating system",
 			"fontSize": 20,
 			"fontFamily": 2,
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 64,
+			"baseline": 110,
 			"containerId": null,
-			"originalText": "Event loop is like a boss. Workers are\n- thread pool\n- operating system",
+			"originalText": "Event loop is like a boss. \n\nWorkers are:\n- thread pool\n- operating system",
 			"lineHeight": 1.15
 		},
 		{
