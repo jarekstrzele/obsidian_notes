@@ -6,7 +6,7 @@
 add to `Cargo.toml` some dependencies:
 ```toml
 [dependencies]
-rand = "0.5.5"
+rand = "0.8.5"
 ```
 and now 
 ##### `cargo build`
