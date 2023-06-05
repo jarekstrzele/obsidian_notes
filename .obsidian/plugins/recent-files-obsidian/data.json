@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "_ Actix Rust",
+      "path": "_ WEB/Rust/Actix/_ Actix Rust.md"
+    },
+    {
+      "basename": "9 Refining Your Code",
+      "path": "R U S T/Rust Programming For Beginners/9 Refining Your Code.md"
+    },
+    {
+      "basename": "_ TypeScript",
+      "path": "_ WEB/React,TypeScript,Node/I TypeScript/_ TypeScript.md"
+    },
+    {
+      "basename": "2. Common Programming Concepts in Rust",
+      "path": "R U S T/ULTIMATE Rust Lang Tutorial/2. Common Programming Concepts in Rust.md"
+    },
+    {
       "basename": "1. synchronous vs asynchronous",
       "path": "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md"
     },
     {
       "basename": "asynch_in_node.excalidraw",
       "path": "Excalidraw/asynch_in_node.excalidraw.md"
+    },
+    {
+      "basename": "7 Types and TypeClasses",
+      "path": "HASKELL/for_great_good/7 Types and TypeClasses.md"
+    },
+    {
+      "basename": "_ Functional Programming for JS Developers",
+      "path": "JAVASCRIPT/Functional Programming for JS Developers/_ Functional Programming for JS Developers.md"
     },
     {
       "basename": "docker mysql node phpmyadmin",
@@ -65,14 +89,6 @@
       "path": "_ WEB/N_O_D_E/Node JS 101 Crash/_ NodeJS 101 Crash Course.md"
     },
     {
-      "basename": "_ Actix Rust",
-      "path": "_ WEB/Rust/Actix/_ Actix Rust.md"
-    },
-    {
-      "basename": "2. Common Programming Concepts in Rust",
-      "path": "R U S T/ULTIMATE Rust Lang Tutorial/2. Common Programming Concepts in Rust.md"
-    },
-    {
       "basename": "1 Guessing Game in Rust",
       "path": "R U S T/ULTIMATE Rust Lang Tutorial/1 Guessing Game in Rust.md"
     },
@@ -113,10 +129,6 @@
       "path": "linux/UBUNTU.md"
     },
     {
-      "basename": "9 Refining Your Code",
-      "path": "R U S T/Rust Programming For Beginners/9 Refining Your Code.md"
-    },
-    {
       "basename": "9.5 If let else",
       "path": "R U S T/Rust Programming For Beginners/9.5 If let else.md"
     },
@@ -127,10 +139,6 @@
     {
       "basename": "4 Loops",
       "path": "R U S T/Rust Programming Tutorial/4 Loops.md"
-    },
-    {
-      "basename": "_ TypeScript",
-      "path": "_ WEB/React,TypeScript,Node/I TypeScript/_ TypeScript.md"
     },
     {
       "basename": "9.3 Range Rust",
@@ -165,10 +173,6 @@
       "path": "R U S T/Rust Programming For Beginners/5 Intermediate Concepts.md"
     },
     {
-      "basename": "7 Types and TypeClasses",
-      "path": "HASKELL/for_great_good/7 Types and TypeClasses.md"
-    },
-    {
       "basename": "Firebase full course",
       "path": "_ Desktop/Python/GUI/Firebase full course.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_ app z Node i Express",
       "path": "_ WEB/React,TypeScript,Node/III Express, GraphQL tworzenie usług internetowych/_ app z Node i Express.md"
-    },
-    {
-      "basename": "_ React, TypeScript, Node",
-      "path": "_ WEB/React,TypeScript,Node/_ React, TypeScript, Node.md"
     }
   ],
   "omittedPaths": [],

@@ -44,16 +44,6 @@
             }
           },
           {
-            "id": "0899faba4a4b20d5",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/asynch_in_node.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "cdc1f9fbfaf501d7",
             "type": "leaf",
             "state": {
@@ -83,14 +73,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/9 Refining Your Code.md",
+                "file": "_ WEB/Rust/Actix/_ Actix Rust.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -172,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md",
+                "file": "_ WEB/Rust/Actix/_ Actix Rust.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -189,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md",
+                "file": "_ WEB/Rust/Actix/_ Actix Rust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md"
+                "file": "_ WEB/Rust/Actix/_ Actix Rust.md"
               }
             }
           },
@@ -260,10 +250,15 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "8790235d9257b94b",
+  "active": "2a3b0cb5c626b31e",
   "lastOpenFiles": [
-    "Excalidraw/asynch_in_node.excalidraw.md",
+    "R U S T/Rust Programming For Beginners/9 Refining Your Code.md",
+    "_ WEB/React,TypeScript,Node/I TypeScript/_ TypeScript.md",
+    "R U S T/ULTIMATE Rust Lang Tutorial/2. Common Programming Concepts in Rust.md",
     "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md",
+    "Excalidraw/asynch_in_node.excalidraw.md",
+    "HASKELL/for_great_good/7 Types and TypeClasses.md",
+    "JAVASCRIPT/Functional Programming for JS Developers/_ Functional Programming for JS Developers.md",
     "_ WEB/N_O_D_E/Lear Node.js and Javascript/docker mysql node phpmyadmin.md",
     "_ WEB/N_O_D_E/Lear Node.js and Javascript/_ Node and JavaScript.md",
     "_ WEB/N_O_D_E/Lear Node.js and Javascript/- 3 Node.md",
@@ -280,15 +275,10 @@
     "_ WEB/N_O_D_E/Node JS 101 Crash/_ NodeJS 101 Crash Course.md",
     "_ WEB/Rust/Actix/_ Actix Rust.md",
     "_ WEB/Rust",
-    "R U S T/ULTIMATE Rust Lang Tutorial/2. Common Programming Concepts in Rust.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/1 Guessing Game in Rust.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/_ Ultimate Rust Lang Tutorial.md",
     "R U S T/Tech with TIm Rust/_ Rust Tech with Tim.md",
     "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md",
-    "R U S T/Rust by example/_ Rust by Example.md",
-    "R U S T/Rust 101 Crash Course/_ Rust 101 Crash Course.md",
-    "R U S T/Rust - FreeCode Beginner/_ 0 Rust.md",
-    "R U S T/Learn Rust by Building Real App/_ Learn Rust by Building Apps.md",
     "_ WEB/React,TypeScript,Node/I TypeScript",
     "_ WEB/React,TypeScript,Node/III Express, GraphQL tworzenie usług internetowych",
     "_ WEB/React,TypeScript,Node",
