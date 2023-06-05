@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "9.4 Traits Rust",
+      "path": "R U S T/Rust Programming For Beginners/9.4 Traits Rust.md"
+    },
+    {
+      "basename": "9.3 Range Rust",
+      "path": "R U S T/Rust Programming For Beginners/9.3 Range Rust.md"
+    },
+    {
+      "basename": "9.2 Iterators - Rust",
+      "path": "R U S T/Rust Programming For Beginners/9.2 Iterators - Rust.md"
+    },
+    {
+      "basename": "9.1 Option Combinators",
+      "path": "R U S T/Rust Programming For Beginners/9.1 Option Combinators.md"
+    },
+    {
+      "basename": "8.6 Test Rust",
+      "path": "R U S T/Rust Programming For Beginners/8.6 Test Rust.md"
+    },
+    {
+      "basename": "8.3. Closures Rust",
+      "path": "R U S T/Rust Programming For Beginners/8.3. Closures Rust.md"
+    },
+    {
+      "basename": "8.1 User Input",
+      "path": "R U S T/Rust Programming For Beginners/8.1 User Input.md"
+    },
+    {
+      "basename": "6 Data Collections",
+      "path": "R U S T/Rust Programming For Beginners/6 Data Collections.md"
+    },
+    {
+      "basename": "5 Intermediate Concepts",
+      "path": "R U S T/Rust Programming For Beginners/5 Intermediate Concepts.md"
+    },
+    {
       "basename": "7 Types and TypeClasses",
       "path": "HASKELL/for_great_good/7 Types and TypeClasses.md"
     },
@@ -129,18 +165,6 @@
       "path": "P Y T H O N/OOP Python udemy/8.1. Descriptor example.md"
     },
     {
-      "basename": "9.4 Traits Rust",
-      "path": "R U S T/Rust Programming For Beginners/9.4 Traits Rust.md"
-    },
-    {
-      "basename": "9.3 Range Rust",
-      "path": "R U S T/Rust Programming For Beginners/9.3 Range Rust.md"
-    },
-    {
-      "basename": "9.2 Iterators - Rust",
-      "path": "R U S T/Rust Programming For Beginners/9.2 Iterators - Rust.md"
-    },
-    {
       "basename": "3 Repetition",
       "path": "R U S T/Rust Programming For Beginners/3 Repetition.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "Nowe elementy JS",
       "path": "JAVASCRIPT/funkcyjnie_JS/Nowe elementy JS.md"
-    },
-    {
-      "basename": "8.2. View Function",
-      "path": "JAVASCRIPT/Functional/8.2. View Function.md"
-    },
-    {
-      "basename": "5 - HTML and CSS",
-      "path": "JAVASCRIPT/Functional/5 - HTML and CSS.md"
-    },
-    {
-      "basename": "_ JavaScript funkcyjnie",
-      "path": "JAVASCRIPT/funkcyjnie_JS/_ JavaScript funkcyjnie.md"
-    },
-    {
-      "basename": "test canvas",
-      "path": "test canvas.canvas"
-    },
-    {
-      "basename": "2 Schemas (pydantic models)",
-      "path": "API/Learn FastAPI by building_udemy/2 Schemas (pydantic models).md"
-    },
-    {
-      "basename": "What is the Server",
-      "path": "_ WEB/Server/What is the Server.md"
     }
   ],
   "omittedPaths": [],
