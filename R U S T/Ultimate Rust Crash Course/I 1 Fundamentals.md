@@ -166,9 +166,11 @@ Project structure:
 hello
 	- Cargo.toml
 	- src
+		- lib.rs (this will be added)
+		- main.rs
 ```
 
-
+`main.rs` is a special file that will be the hello binary  lib.rs
 
 
 
