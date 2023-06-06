@@ -142,12 +142,23 @@ fn do_stuff(){
 }
 ```
 
-**function parameters are always defined with `name:type`**
-`fn do_stuff(qty: f63`
+**function parameters are always defined with `name:type`** 
+and a return type by `->`
+```rust
+fn do_stuff(qty: f64, oz: f64) -> f64 {
+	//without `return` -- TAIL Expression
+	qty*oz
+}
 
+```
+#### `{ return true; }` is the same as `{ true }`
 
-
-
+----
+# Module
+```rust
+// Silence some warnings so they don't distract from the exercise.
+#![allow(unused_variables)]
+```
 
 
 
