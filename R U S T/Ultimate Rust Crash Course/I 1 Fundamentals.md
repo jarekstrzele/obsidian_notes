@@ -155,6 +155,7 @@ fn do_stuff(qty: f64, oz: f64) -> f64 {
 
 ----
 # Module
+#rust/module 
 ```rust
 // Silence some warnings so they don't distract from the exercise.
 #![allow(unused_variables)]
@@ -171,9 +172,10 @@ hello
 ```
 
 `main.rs` is a special file that will be the hello binary  lib.rs
+**all items in a library are PRIVATE** event to binaries in the same project
 
-
-
+### `use`
+it brings an item from some path into some scope 
 
 
 
