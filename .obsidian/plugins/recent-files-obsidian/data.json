@@ -1,20 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "Untitled",
-      "path": "R U S T/Ultimate Rust Crash Course/Untitled.md"
-    },
-    {
-      "basename": "I 5 Final Lectures",
-      "path": "R U S T/Ultimate Rust Crash Course/I 5 Final Lectures.md"
-    },
-    {
-      "basename": "I 4 The Meat of Rust",
-      "path": "R U S T/Ultimate Rust Crash Course/I 4 The Meat of Rust.md"
-    },
-    {
-      "basename": "I 3 The Heart of Rust",
-      "path": "R U S T/Ultimate Rust Crash Course/I 3 The Heart of Rust.md"
+      "basename": "I 1 Fundamentals",
+      "path": "R U S T/Ultimate Rust Crash Course/I 1 Fundamentals.md"
     },
     {
       "basename": "_ Ultimate Rust Crash Course",
@@ -25,8 +13,20 @@
       "path": "R U S T/Ultimate Rust Crash Course/I 2 Primitive Types & Control Flow.md"
     },
     {
-      "basename": "I 1 Fundamentals",
-      "path": "R U S T/Ultimate Rust Crash Course/I 1 Fundamentals.md"
+      "basename": "I 3 The Heart of Rust",
+      "path": "R U S T/Ultimate Rust Crash Course/I 3 The Heart of Rust.md"
+    },
+    {
+      "basename": "I 4 The Meat of Rust",
+      "path": "R U S T/Ultimate Rust Crash Course/I 4 The Meat of Rust.md"
+    },
+    {
+      "basename": "I 5 Final Lectures",
+      "path": "R U S T/Ultimate Rust Crash Course/I 5 Final Lectures.md"
+    },
+    {
+      "basename": "I 6 Invaders Project",
+      "path": "R U S T/Ultimate Rust Crash Course/I 6 Invaders Project.md"
     },
     {
       "basename": "_ Ultimate Rust Lang Tutorial",

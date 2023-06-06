@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Ultimate Rust Crash Course/Untitled.md",
+                "file": "R U S T/Ultimate Rust Crash Course/I 1 Fundamentals.md",
                 "mode": "source",
                 "source": false
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Ultimate Rust Crash Course/Untitled.md",
+                "file": "R U S T/Ultimate Rust Crash Course/I 1 Fundamentals.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Ultimate Rust Crash Course/Untitled.md",
+                "file": "R U S T/Ultimate Rust Crash Course/I 1 Fundamentals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Ultimate Rust Crash Course/Untitled.md"
+                "file": "R U S T/Ultimate Rust Crash Course/I 1 Fundamentals.md"
               }
             }
           },
@@ -264,13 +264,13 @@
   },
   "active": "28904844fae16228",
   "lastOpenFiles": [
-    "R U S T/Ultimate Rust Crash Course/I 5 Final Lectures.md",
-    "R U S T/Ultimate Rust Crash Course/Untitled.md",
-    "R U S T/Ultimate Rust Crash Course/I 4 The Meat of Rust.md",
-    "R U S T/Ultimate Rust Crash Course/I 3 The Heart of Rust.md",
     "R U S T/Ultimate Rust Crash Course/_ Ultimate Rust Crash Course.md",
-    "R U S T/Ultimate Rust Crash Course/I 2 Primitive Types & Control Flow.md",
     "R U S T/Ultimate Rust Crash Course/I 1 Fundamentals.md",
+    "R U S T/Ultimate Rust Crash Course/I 2 Primitive Types & Control Flow.md",
+    "R U S T/Ultimate Rust Crash Course/I 3 The Heart of Rust.md",
+    "R U S T/Ultimate Rust Crash Course/I 4 The Meat of Rust.md",
+    "R U S T/Ultimate Rust Crash Course/I 5 Final Lectures.md",
+    "R U S T/Ultimate Rust Crash Course/I 6 Invaders Project.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/_ Ultimate Rust Lang Tutorial.md",
     "R U S T/Ultimate Rust Crash Course",
     "R U S T/Rust Programming For Beginners/9.6 External crates.md",
