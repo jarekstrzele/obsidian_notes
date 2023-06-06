@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/9.5 If let else, While let.md",
+                "file": "R U S T/Rust Programming For Beginners/9.6 External crates.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/9.5 If let else, While let.md",
+                "file": "R U S T/Rust Programming For Beginners/9.6 External crates.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/9.5 If let else, While let.md",
+                "file": "R U S T/Rust Programming For Beginners/9.6 External crates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/9.5 If let else, While let.md"
+                "file": "R U S T/Rust Programming For Beginners/9.6 External crates.md"
               }
             }
           },
@@ -252,6 +252,8 @@
   },
   "active": "2a3b0cb5c626b31e",
   "lastOpenFiles": [
+    "R U S T/Rust Programming For Beginners/9.5 If let else, While let.md",
+    "R U S T/Rust Programming For Beginners/9.6 External crates.md",
     "_ WEB/Rust/Rocket/_ Rocket Rust.md",
     "conflict-files-obsidian-git.md",
     "_ WEB/Rust/Actix/Application Actix.md",
@@ -277,8 +279,6 @@
     "_ WEB/N_O_D_E/NodeJS - fullstack/4.3. pliki statyczne.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/3 Node praca z Sys. Plików.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/2.4. Process.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/2.3. Stream.md",
     "_ WEB/Rust",
     "_ WEB/React,TypeScript,Node/I TypeScript",
     "_ WEB/React,TypeScript,Node/III Express, GraphQL tworzenie usług internetowych",
