@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "R U S T/Ultimate Rust Crash Course/Untitled.md"
+    },
+    {
+      "basename": "I 5 Final Lectures",
+      "path": "R U S T/Ultimate Rust Crash Course/I 5 Final Lectures.md"
+    },
+    {
+      "basename": "I 4 The Meat of Rust",
+      "path": "R U S T/Ultimate Rust Crash Course/I 4 The Meat of Rust.md"
+    },
+    {
+      "basename": "I 3 The Heart of Rust",
+      "path": "R U S T/Ultimate Rust Crash Course/I 3 The Heart of Rust.md"
+    },
+    {
+      "basename": "_ Ultimate Rust Crash Course",
+      "path": "R U S T/Ultimate Rust Crash Course/_ Ultimate Rust Crash Course.md"
+    },
+    {
+      "basename": "I 2 Primitive Types & Control Flow",
+      "path": "R U S T/Ultimate Rust Crash Course/I 2 Primitive Types & Control Flow.md"
+    },
+    {
+      "basename": "I 1 Fundamentals",
+      "path": "R U S T/Ultimate Rust Crash Course/I 1 Fundamentals.md"
+    },
+    {
+      "basename": "_ Ultimate Rust Lang Tutorial",
+      "path": "R U S T/ULTIMATE Rust Lang Tutorial/_ Ultimate Rust Lang Tutorial.md"
+    },
+    {
       "basename": "9.6 External crates",
       "path": "R U S T/Rust Programming For Beginners/9.6 External crates.md"
     },
@@ -125,10 +157,6 @@
       "path": "R U S T/ULTIMATE Rust Lang Tutorial/1 Guessing Game in Rust.md"
     },
     {
-      "basename": "_ Ultimate Rust Lang Tutorial",
-      "path": "R U S T/ULTIMATE Rust Lang Tutorial/_ Ultimate Rust Lang Tutorial.md"
-    },
-    {
       "basename": "_ Rust Tech with Tim",
       "path": "R U S T/Tech with TIm Rust/_ Rust Tech with Tim.md"
     },
@@ -171,34 +199,6 @@
     {
       "basename": "9.3 Range Rust",
       "path": "R U S T/Rust Programming For Beginners/9.3 Range Rust.md"
-    },
-    {
-      "basename": "9.2 Iterators - Rust",
-      "path": "R U S T/Rust Programming For Beginners/9.2 Iterators - Rust.md"
-    },
-    {
-      "basename": "9.1 Option Combinators",
-      "path": "R U S T/Rust Programming For Beginners/9.1 Option Combinators.md"
-    },
-    {
-      "basename": "8.6 Test Rust",
-      "path": "R U S T/Rust Programming For Beginners/8.6 Test Rust.md"
-    },
-    {
-      "basename": "8.3. Closures Rust",
-      "path": "R U S T/Rust Programming For Beginners/8.3. Closures Rust.md"
-    },
-    {
-      "basename": "8.1 User Input",
-      "path": "R U S T/Rust Programming For Beginners/8.1 User Input.md"
-    },
-    {
-      "basename": "6 Data Collections",
-      "path": "R U S T/Rust Programming For Beginners/6 Data Collections.md"
-    },
-    {
-      "basename": "5 Intermediate Concepts",
-      "path": "R U S T/Rust Programming For Beginners/5 Intermediate Concepts.md"
     }
   ],
   "omittedPaths": [],

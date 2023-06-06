@@ -78,9 +78,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "28904844fae16228",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "R U S T/Ultimate Rust Crash Course/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -162,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/9.6 External crates.md",
+                "file": "R U S T/Ultimate Rust Crash Course/Untitled.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -179,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/9.6 External crates.md",
+                "file": "R U S T/Ultimate Rust Crash Course/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/9.6 External crates.md"
+                "file": "R U S T/Ultimate Rust Crash Course/Untitled.md"
               }
             }
           },
@@ -250,10 +262,19 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "2a3b0cb5c626b31e",
+  "active": "28904844fae16228",
   "lastOpenFiles": [
-    "R U S T/Rust Programming For Beginners/9.5 If let else, While let.md",
+    "R U S T/Ultimate Rust Crash Course/I 5 Final Lectures.md",
+    "R U S T/Ultimate Rust Crash Course/Untitled.md",
+    "R U S T/Ultimate Rust Crash Course/I 4 The Meat of Rust.md",
+    "R U S T/Ultimate Rust Crash Course/I 3 The Heart of Rust.md",
+    "R U S T/Ultimate Rust Crash Course/_ Ultimate Rust Crash Course.md",
+    "R U S T/Ultimate Rust Crash Course/I 2 Primitive Types & Control Flow.md",
+    "R U S T/Ultimate Rust Crash Course/I 1 Fundamentals.md",
+    "R U S T/ULTIMATE Rust Lang Tutorial/_ Ultimate Rust Lang Tutorial.md",
+    "R U S T/Ultimate Rust Crash Course",
     "R U S T/Rust Programming For Beginners/9.6 External crates.md",
+    "R U S T/Rust Programming For Beginners/9.5 If let else, While let.md",
     "_ WEB/Rust/Rocket/_ Rocket Rust.md",
     "conflict-files-obsidian-git.md",
     "_ WEB/Rust/Actix/Application Actix.md",
@@ -271,14 +292,6 @@
     "HASKELL/for_great_good/7 Types and TypeClasses.md",
     "JAVASCRIPT/Functional Programming for JS Developers/_ Functional Programming for JS Developers.md",
     "_ WEB/N_O_D_E/Lear Node.js and Javascript/docker mysql node phpmyadmin.md",
-    "_ WEB/N_O_D_E/Lear Node.js and Javascript/_ Node and JavaScript.md",
-    "_ WEB/N_O_D_E/Lear Node.js and Javascript/- 3 Node.md",
-    "_ WEB/N_O_D_E/Lear Node.js and Javascript/- 2 JavaScript.md",
-    "_ WEB/N_O_D_E/Mosh Node/3 RESTful API's using Express.md",
-    "_ WEB/N_O_D_E/w3school/_ 0 W3Schools Node.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/4.3. pliki statyczne.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/3 Node praca z Sys. Plików.md",
     "_ WEB/Rust",
     "_ WEB/React,TypeScript,Node/I TypeScript",
     "_ WEB/React,TypeScript,Node/III Express, GraphQL tworzenie usług internetowych",
@@ -290,7 +303,6 @@
     "pexels-alex-fu-1302436.jpg",
     "JAVASCRIPT/funkcyjnie_JS",
     "methodology/images/seaborn_relplot_tip_total_bill_4.png",
-    "_ WEB/N_O_D_E/Node JS 101 Crash",
     "Untitled 1.canvas",
     "R U S T/Untitled.canvas",
     "Untitled.canvas"
