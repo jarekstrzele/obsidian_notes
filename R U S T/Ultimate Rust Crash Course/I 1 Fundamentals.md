@@ -34,7 +34,47 @@ let bunnies: i32 = 4 ;
 let (bunnies, carrots) = (8,  50) ;
 
 ```
-- variable are immutable by default
+- variable are immutable by default because:
+	- safety  - a lot of bugs never happen if  values never change
+	- concurrency - data that never changes can be shared between multiple threads
+	- speed - compiler can do extra optimizations on data it knows won't change
+```rust
+let bunnis = 4 ;
+bunnis = 5 ; // error!!! cannot assign twice to immutable variable
+
+```
+
+```rust
+let mut bunnis = 4 ;
+bunnis = 5 ;
+```
+
+#### `const`
+- use `const` keyword
+- use screaming-snake-case for constants `const WRAP_FACTOR = ask_scotty();`
+- type annotation is require `const WRAP_FACTOR: f64 = ask_scotty() ;`
+- value must be **constant expression**
+
+1. `const` can be in a global scope
+2.  `const` are inlined at compile time - so they are really fast
+
+--------
+# Scope
+#rust/scope
+- Variables have a scope, which is the place in the code that you are allowed to use them.
+- it begins where a variable is created and extends to the end of the block
+	- *block* it a collection of statements inside **curly brace
+
+
+
+
+
+
+
+
+
+
+
 
 
 
