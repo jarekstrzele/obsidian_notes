@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ WEB/Rust/Rocket/_ Rocket Rust.md",
+                "file": "R U S T/Rust Programming For Beginners/9.5 If let else, While let.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ WEB/Rust/Rocket/_ Rocket Rust.md",
+                "file": "R U S T/Rust Programming For Beginners/9.5 If let else, While let.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ WEB/Rust/Rocket/_ Rocket Rust.md",
+                "file": "R U S T/Rust Programming For Beginners/9.5 If let else, While let.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ WEB/Rust/Rocket/_ Rocket Rust.md"
+                "file": "R U S T/Rust Programming For Beginners/9.5 If let else, While let.md"
               }
             }
           },
@@ -252,9 +252,9 @@
   },
   "active": "2a3b0cb5c626b31e",
   "lastOpenFiles": [
+    "_ WEB/Rust/Rocket/_ Rocket Rust.md",
     "conflict-files-obsidian-git.md",
     "_ WEB/Rust/Actix/Application Actix.md",
-    "_ WEB/Rust/Rocket/_ Rocket Rust.md",
     "_ WEB/Rust/Rocket",
     "_ WEB/Rust/Actix/_ Actix Rust.md",
     "_ WEB/Rust/Actix/Web Actix.md",
