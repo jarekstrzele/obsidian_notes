@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Ultimate Rust Crash Course/I 1 Fundamentals.md",
+                "file": "R U S T/Ultimate Rust Crash Course/I 2 Primitive Types & Control Flow.md",
                 "mode": "source",
                 "source": false
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Ultimate Rust Crash Course/I 1 Fundamentals.md",
+                "file": "R U S T/Ultimate Rust Crash Course/I 2 Primitive Types & Control Flow.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Ultimate Rust Crash Course/I 1 Fundamentals.md",
+                "file": "R U S T/Ultimate Rust Crash Course/I 2 Primitive Types & Control Flow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Ultimate Rust Crash Course/I 1 Fundamentals.md"
+                "file": "R U S T/Ultimate Rust Crash Course/I 2 Primitive Types & Control Flow.md"
               }
             }
           },
@@ -264,8 +264,8 @@
   },
   "active": "28904844fae16228",
   "lastOpenFiles": [
-    "R U S T/Ultimate Rust Crash Course/_ Ultimate Rust Crash Course.md",
     "R U S T/Ultimate Rust Crash Course/I 1 Fundamentals.md",
+    "R U S T/Ultimate Rust Crash Course/_ Ultimate Rust Crash Course.md",
     "R U S T/Ultimate Rust Crash Course/I 2 Primitive Types & Control Flow.md",
     "R U S T/Ultimate Rust Crash Course/I 3 The Heart of Rust.md",
     "R U S T/Ultimate Rust Crash Course/I 4 The Meat of Rust.md",

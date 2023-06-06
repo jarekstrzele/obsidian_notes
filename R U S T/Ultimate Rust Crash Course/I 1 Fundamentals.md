@@ -176,8 +176,21 @@ hello
 
 ### `use`
 it brings an item from some path into some scope 
+main.rs (`tests` is the name of project (as `hello`))
+```rust
+use tests::greet ;
 
+fn main(){
+	greet() ;
+}
+```
 
+src/lib.rs
+```rust
+pub fn greet(){
+	println!("Hi") ;
+}
+```
 
 
 
