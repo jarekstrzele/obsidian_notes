@@ -3,6 +3,7 @@ Please resolve them and commit them using the commands `Obsidian Git: Commit all
 (This file will automatically be deleted before commit)
 [[#Additional Instructions]] available below file list
 
+- Not a file: .obsidian/plugins/recent-files-obsidian/data.json
 - Not a file: .obsidian/workspace.json
 
 # Additional Instructions

@@ -132,7 +132,7 @@ In GitHub - important folder:
 http://libuv.org/
 This library is connected with JS by `binding`. Other languages ca use `libuv`
 Python, C#, PHP, Go, R, Haskell, Delphi , ...
-"tokio" biblioteka zapewnia wydajy model programowania asynchronicznego dla Rusta
+"tokio" biblioteka zapewnia wydajny model programowania asynchronicznego dla Rusta
 
 https://github.com/libuv/libuv
 `/src` folder in subfolder `unix` you find `fs.c`
