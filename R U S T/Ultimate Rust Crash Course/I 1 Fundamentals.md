@@ -6,7 +6,9 @@
 - speed
 - from 2006 Graydon Hoare (Mozilla from 2009), version 1.0 in 2015
 
-this course: github: ultimate_rust_crash_course
+##### this course: github: ultimate_rust_crash_course
+https://github.com/CleanCut/ultimate_rust_crash_course
+
 
 ---
 # Crago
@@ -99,9 +101,31 @@ fn main(){
 ------
 # Memory safety
 #rust/memory 
+safety at **compile time**
+
+```rust
+fn main(){
+	let enigma: i32 ;
+	println!("{}", enigma) ; // ERROR, because enigma is declared but not initialized to a value before we try to use is
+// it won't compile 
+}
+
+```
 
 
+```rust
+fn main(){
+	let enigma: i32 ;
+	if true {
+		enigma = 43;
+	} else {
+		enigma = 7 ;
+	}
+	
+	println!("{}", enigma) ; // it works, because the compiler can tell that enigma is GUARANTEED to be initilized bedore it is used
+}
 
+```
 
 
 
