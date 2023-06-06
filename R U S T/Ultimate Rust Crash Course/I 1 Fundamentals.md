@@ -63,9 +63,42 @@ bunnis = 5 ;
 #rust/scope
 - Variables have a scope, which is the place in the code that you are allowed to use them.
 - it begins where a variable is created and extends to the end of the block
-	- *block* it a collection of statements inside **curly brace
+	- *block* it a collection of statements inside **curly braces**
+```rust
+fn main() {//start scope
+	let x = 5;
+	{ // a new scope
+		let y = 99 ;
+	} //end of that new nested scope
+	println!("{}", y) ; //GENERATE an error, because y is not defined
 
 
+} //end of the scope
+```
+==Values are always immediately dropped when they go out of scope==
+
+**shadowing**
+The variables are always local to their scope
+```rust
+fn main(){
+	let x = 10;
+	{
+		let x = 20; 
+	}
+	println!("{x}") ; //10
+
+	let meme = "more cowbell" ;
+	let meme = make_image(meme);
+
+
+}
+
+
+```
+
+------
+# Memory safety
+#rust/memory 
 
 
 
