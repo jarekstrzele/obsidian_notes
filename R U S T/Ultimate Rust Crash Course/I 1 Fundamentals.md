@@ -11,7 +11,7 @@ https://github.com/CleanCut/ultimate_rust_crash_course
 
 
 ---
-# Crago
+# Cargo
 **cargo** 
 - package manager
 - build system
@@ -126,6 +126,30 @@ fn main(){
 }
 
 ```
+
+
+-------
+# Functions
+#rust/function 
+**Functions don't have to appear in the file before code that calls them**
+```rust
+fn main(){
+	do_stuff(); //it workd
+}
+
+fn do_stuff(){
+
+}
+```
+
+**function parameters are always defined with `name:type`**
+`fn do_stuff(qty: f63`
+
+
+
+
+
+
 
 
 
