@@ -78,23 +78,22 @@ we **can't use** `s1` anymore, because it got moved!!!!!
 #rust/reference #rust/borrowing 
 ```rust
 let s1 = String::from("abc") ;
-do_stuff(s1) ;
+do_stuff(&s1) ;
 
 fn do_stuff(s: &String) {
 
 }
 ```
 
-`&String` -- it indicates a reference to a type
+`do_stuff(&s1)`  - you pass a reference (`s1`**retains** ownership of the value),
+`do_stuff()` **borrows** a reference to the value (THE REFERENCE, NOT THE VALUE,  **gets moved into** the function, so at the end of the scope the reference gets dropped)
 
+`(s: &String)` -- it indicates a reference to a type
 
+when we create  a reference to `s1`, Rust creates a pointer to `s1`
 
+`s`  -- points to --> the pointer of `s1`  -- points to --> `a` on the Heap
 
-
-
-
----
-# References and Borrowing
 
 
 
