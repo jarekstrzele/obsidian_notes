@@ -94,8 +94,23 @@ when we create  a reference to `s1`, Rust creates a pointer to `s1`
 
 `s`  -- points to --> the pointer of `s1`  -- points to --> `a` on the Heap
 
+### ==reference are immutable by default ==
 
+if you *make*
+- a  *mutable reference* (e.g. `&mut String`) 
+- to a *mutable value* (`let mut s1...`) 
+- that you can use the reference *to change the value* as well
+```rust
+let mut s1 = String::from("abc") ;
+do_stuff(&mut s1) ;
 
+fn do_stuff(s: &mut String){
+	s.insert_str(0, "Hi, ") ;
+}
+```
+
+#### `x` --this is a variable
+#### `&xthis creates an immutable reference to that variable
 
 
 
