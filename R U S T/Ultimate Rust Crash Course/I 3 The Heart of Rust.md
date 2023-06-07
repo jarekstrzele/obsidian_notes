@@ -52,17 +52,40 @@ println("{}", s1) ;
 	- 1. the value has to have an owner
 	- 2. only one owner
 	- 3. the variable out of the scope the value will be immediately dropped -DROP:
-		- destructor (if it is, it is immediately run)
+		- destructor
 		- free heap
 		- pop stack
+		- so ==> ==no leaks, no dangling pointers==
 
 #rust.copy
 `copy()` when only the Stack data is being copied
 
+-------
+# References and Borrowing
 
+```rust
+let s1 = String::from("abc") ;
+do_stuff(s1) ;
 
+fn do_stuff(s: String) {
 
+}
+```
+in this code we pass `s1` to that function, `s1` is MOVED into the  local variable `s` in the function `do_stuff`
+so 
+we **can't use** `s1` anymore, because it got moved!!!!!
 
+#rust/reference #rust/borrowing 
+```rust
+let s1 = String::from("abc") ;
+do_stuff(s1) ;
+
+fn do_stuff(s: &String) {
+
+}
+```
+
+`&String` -- it indicates a reference to a type
 
 
 
