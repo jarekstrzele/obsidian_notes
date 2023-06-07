@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Ultimate Rust Crash Course/I 3 The Heart of Rust.md",
+                "file": "P Y T H O N/Lear_Build_Flask/_ Intro Scalable Web Applications with Python, Flask and SQLAlchemy.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "python virt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -114,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Ultimate Rust Crash Course/I 3 The Heart of Rust.md",
+                "file": "P Y T H O N/Lear_Build_Flask/_ Intro Scalable Web Applications with Python, Flask and SQLAlchemy.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -131,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Ultimate Rust Crash Course/I 3 The Heart of Rust.md",
+                "file": "P Y T H O N/Lear_Build_Flask/_ Intro Scalable Web Applications with Python, Flask and SQLAlchemy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Ultimate Rust Crash Course/I 3 The Heart of Rust.md"
+                "file": "P Y T H O N/Lear_Build_Flask/_ Intro Scalable Web Applications with Python, Flask and SQLAlchemy.md"
               }
             }
           },
@@ -204,6 +205,8 @@
   },
   "active": "9c4d1223ba4d274b",
   "lastOpenFiles": [
+    "API/FastAPI/_ 0 FastAPI.md",
+    "R U S T/Ultimate Rust Crash Course/I 3 The Heart of Rust.md",
     "Studia/Python BackEnd/jQuery.md",
     "R U S T/Ultimate Rust Crash Course/I 2 Primitive Types & Control Flow.md",
     "R U S T/Rust Programming For Beginners/9.6 External crates.md",
@@ -211,7 +214,6 @@
     "R U S T/ULTIMATE Rust Lang Tutorial/2. Common Programming Concepts in Rust.md",
     "R U S T/Ultimate Rust Crash Course/I 1 Fundamentals.md",
     "R U S T/Ultimate Rust Crash Course/_ Ultimate Rust Crash Course.md",
-    "R U S T/Ultimate Rust Crash Course/I 3 The Heart of Rust.md",
     "R U S T/Ultimate Rust Crash Course/I 4 The Meat of Rust.md",
     "R U S T/Ultimate Rust Crash Course/I 5 Final Lectures.md",
     "R U S T/Ultimate Rust Crash Course/I 6 Invaders Project.md",
@@ -231,7 +233,6 @@
     "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md",
     "Excalidraw/asynch_in_node.excalidraw.md",
     "HASKELL/for_great_good/7 Types and TypeClasses.md",
-    "JAVASCRIPT/Functional Programming for JS Developers/_ Functional Programming for JS Developers.md",
     "_ WEB/Rust",
     "_ WEB/React,TypeScript,Node/I TypeScript",
     "_ WEB/React,TypeScript,Node/III Express, GraphQL tworzenie usług internetowych",

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "_ Intro Scalable Web Applications with Python, Flask and SQLAlchemy",
+      "path": "P Y T H O N/Lear_Build_Flask/_ Intro Scalable Web Applications with Python, Flask and SQLAlchemy.md"
+    },
+    {
+      "basename": "_ 0 FastAPI",
+      "path": "API/FastAPI/_ 0 FastAPI.md"
+    },
+    {
       "basename": "I 3 The Heart of Rust",
       "path": "R U S T/Ultimate Rust Crash Course/I 3 The Heart of Rust.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "UBUNTU",
       "path": "linux/UBUNTU.md"
-    },
-    {
-      "basename": "9.4 Traits Rust",
-      "path": "R U S T/Rust Programming For Beginners/9.4 Traits Rust.md"
-    },
-    {
-      "basename": "4 Loops",
-      "path": "R U S T/Rust Programming Tutorial/4 Loops.md"
     }
   ],
   "omittedPaths": [],
