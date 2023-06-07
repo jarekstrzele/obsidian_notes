@@ -40,8 +40,32 @@ to **copy** a value use `clone()` method:
 ```rust
 let s1 = String::from("abc") ;
 let s2 = s1.clone() ;
-println
+println("{}", s1) ;
 ```
+
+`clone()` : (*deep copy* in other languages)
+#rust/clone
+- it copies the stack
+- it copies the heap
+- so there will be two pointers on the Stack and two strings "abc" on the Heap
+- so all three principles are satisfied: 
+	- 1. the value has to have an owner
+	- 2. only one owner
+	- 3. the variable out of the scope the value will be immediately dropped -DROP:
+		- destructor (if it is, it is immediately run)
+		- free heap
+		- pop stack
+
+#rust.copy
+`copy()` when only the Stack data is being copied
+
+
+
+
+
+
+
+
 
 
 
