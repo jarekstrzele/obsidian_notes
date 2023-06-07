@@ -110,14 +110,21 @@ fn do_stuff(s: &mut String){
 ```
 
 #### `x` --this is a variable
-#### `&xthis creates an immutable reference to that variable
+#### `&x` this creates an immutable reference to that variable
+#### `&mut x`  this creates a mutable reference to that variable's value
 
+`i32` this is a type of a value
+`&i32` this is a immutable reference to that value
+`&mut i32` this is a mutable reference to that value
 
+```rust
+x: &mut i32 // this is a mutable reference to a value
+*x // deferencing `x` gives mutable access to the value
+```
 
-
-
-
-
+==you can have==:
+- exactly **ONE MUTABLE reference**  
+- **ANY NUMBER of immutable reference
 
 
 
