@@ -45,7 +45,7 @@ umożliwia bardzo złożone asynchroniczne zapytania do serwera
 
 ----------
 00:17:00
-
+## `$(tagName).find("*").css({...})`
 index.html
 ```html
 <!DOCTYPE html>
@@ -67,14 +67,95 @@ index.html
 <script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
 
 <script>
-	//$("*").css("backgroundColor","red") ;
-	$("*").css({"border":"1px solid black", "backgroundColor":"grey"}) ;
+
+//$("*").css("backgroundColor","red") ;
+//$("*").css({"border":"1px solid black", "backgroundColor":"grey"}) ;
+// $("#form1").find("*").css({"border":"1px solid black", "backgroundColor":"grey"})
+$("#d1").find("*").css({"border":"1px solid black", "backgroundColor":"grey"}) ;
+
 </script>
 </body>
 </html>
 ```
 
 
+style.css
+```css
+.body{
+
+}
+
+  
+
+.form {
+
+width:310;
+
+min-height:250px;
+
+margin-left: auto;
+
+margin-right: auto;
+
+}
+
+  
+
+#d1, #d2, #d3, #d4 {
+
+float: left;
+
+width: 140px;
+
+height: 130px;
+
+}
+
+  
+
+#d1{
+
+background-color: red;;
+
+}
+
+  
+  
+
+#d2{
+
+background-color: blue;;
+
+}
+
+  
+
+#d3{
+
+background-color: forestgreen;;
+
+}
+
+  
+
+#d4{
+
+background-color: aquamarine;
+
+}
+
+  
+
+.clear{
+
+clear: both;
+
+}
+```
+
+
+---------
+## selector `animated`
 
 
 
