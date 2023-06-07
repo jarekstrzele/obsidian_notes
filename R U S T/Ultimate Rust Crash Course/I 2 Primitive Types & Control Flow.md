@@ -106,5 +106,48 @@ num = if a  { b } else { c } ;
 
 ## `while condition {}`
 
+## `for`
+```rust
+for num in [7,6,5,4].iter() {
+ ///
+}
+
+let array = [(1,2), (3,4)] ;
+
+for (x,y) in array.iter(){
+ ///
+}
+
+//R A N G E
+for num in 0..50 {
+  //// 0 - 49
+  /// 0..=50  -> 0 -50
+}
+```
+
+
+----
+# String
+#rust/string 
+
+There are at least 6 types of strings int the Rust standard library!!!!!
+
+Two of them are very often used:
+1. `&str` string slice 
+	1. a literal string is always  a borrowed string slice `let msg = "hello";`
+	2. data in that type of string CANNOT BE MODIFIED
+	3. ==it is made up  of a pointer to 
+		1. some BYTES
+		2. and a LENGTH
+2. `String`  
+	1. its data can be modified
+	2. `to_string()` creates a `String` (e.g. `let msg = "abc".to_string() ;`)
+	3. `String::from()` create a String (e.g. `let msg = String::from("abc") ;`)
+
+
+
+
+
+
 
 
