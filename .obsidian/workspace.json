@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9c4d1223ba4d274b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "R U S T/Ultimate Rust Crash Course/I 3 The Heart of Rust.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studia/Python BackEnd/jQuery.md",
+                "file": "R U S T/Ultimate Rust Crash Course/I 3 The Heart of Rust.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -118,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studia/Python BackEnd/jQuery.md",
+                "file": "R U S T/Ultimate Rust Crash Course/I 3 The Heart of Rust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studia/Python BackEnd/jQuery.md"
+                "file": "R U S T/Ultimate Rust Crash Course/I 3 The Heart of Rust.md"
               }
             }
           },
@@ -189,8 +202,9 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "3a3a1f2abdc2f910",
+  "active": "9c4d1223ba4d274b",
   "lastOpenFiles": [
+    "Studia/Python BackEnd/jQuery.md",
     "R U S T/Ultimate Rust Crash Course/I 2 Primitive Types & Control Flow.md",
     "R U S T/Rust Programming For Beginners/9.6 External crates.md",
     "_ WEB/React,TypeScript,Node/I TypeScript/_ TypeScript.md",
@@ -218,7 +232,6 @@
     "Excalidraw/asynch_in_node.excalidraw.md",
     "HASKELL/for_great_good/7 Types and TypeClasses.md",
     "JAVASCRIPT/Functional Programming for JS Developers/_ Functional Programming for JS Developers.md",
-    "_ WEB/N_O_D_E/Lear Node.js and Javascript/docker mysql node phpmyadmin.md",
     "_ WEB/Rust",
     "_ WEB/React,TypeScript,Node/I TypeScript",
     "_ WEB/React,TypeScript,Node/III Express, GraphQL tworzenie usług internetowych",
