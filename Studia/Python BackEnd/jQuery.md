@@ -46,5 +46,41 @@ umożliwia bardzo złożone asynchroniczne zapytania do serwera
 ----------
 00:17:00
 
+index.html
+```html
+<!DOCTYPE html>
+<html>
+<head>
+<title>Selector All</title>
+<link rel=""stylesheet" type="text/css" href="style.css" />
+</head>
+
+<body>
+	<form id="form1" >
+	<div id="d1"> </div>
+	<div id="d2"> </div>
+	<div class="clear"> </div>
+	<div id="d3"> </div>
+	<div id="d4"> </div>
+</form>
+
+<script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
+
+<script>
+	//$("*").css("backgroundColor","red") ;
+	$("*").css({"border":"1px solid black", "backgroundColor":"grey"}) ;
+</script>
+</body>
+</html>
+```
+
+
+
+
+
+
+
+
+
 
 
