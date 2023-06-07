@@ -136,14 +136,20 @@ Two of them are very often used:
 1. `&str` string slice 
 	1. a literal string is always  a borrowed string slice `let msg = "hello";`
 	2. data in that type of string CANNOT BE MODIFIED
-	3. ==it is made up  of a pointer to 
+	3. ==it is made up  of a pointer to ==:
 		1. some BYTES
 		2. and a LENGTH
 2. `String`  
 	1. its data can be modified
 	2. `to_string()` creates a `String` (e.g. `let msg = "abc".to_string() ;`)
 	3. `String::from()` create a String (e.g. `let msg = String::from("abc") ;`)
+	4. ==it is made up of a pointer to==:
+		1. some BYTES
+		2. and a LENGTH
+		3. and a CAPACITY (may be higher than what is currently being used )
 
+you cannot have access by `[index]` with `String`
+iterator have `.nth(3)` and use it instead of `[index]`
 
 
 
