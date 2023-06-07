@@ -122,11 +122,11 @@ x: &mut i32 // this is a mutable reference to a value
 *x // deferencing `x` gives mutable access to the value
 ```
 
-==you can have==:
-- exactly **ONE MUTABLE reference**  
-- **ANY NUMBER of immutable reference
-
-
+>
+> ==you can have==:
+> - exactly **ONE MUTABLE reference**  
+> - **ANY NUMBER of IMMUTABLE references**
+this rule applies across all threads!!
 
 
 
