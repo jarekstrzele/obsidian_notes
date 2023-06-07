@@ -40,12 +40,31 @@ let my_letter = 'a' ;
 They gather multiple values of other types into one type
 
 ## `tuple`
-It store multiple 
+It store multiple  values of ANY TYPE.
+```rust
+let info: (u8, f64, i32) = (1, 3.3, 999) ;
+```
 
+access by DOT SYNTAX
+```rust
+let jets = info.0 ;
+let fuel = info.1 ;
+let ammo = info.2 ;
+```
 
+access all at once:
+```rust
+let (jets, fuel, ammo ) = info ;
+```
 
+**arity** means how many items are in the tuple. maybe 12 items are maximum
 
+## `array`
+```rust
+let buf_1 = [1,2,3] ;
 
+let buf_2 = [0; 3] ; //[value, how many]
+```
 
 
 
