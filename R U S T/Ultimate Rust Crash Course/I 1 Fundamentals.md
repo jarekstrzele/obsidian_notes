@@ -65,7 +65,7 @@ bunnis = 5 ;
 #rust/scope
 - Variables have a scope, which is the place in the code that you are allowed to use them.
 - it begins where a variable is created and extends to the end of the block
-	- *block* it a collection of statements inside **curly braces**
+	- *block* - it is  a collection of statements inside **curly braces**
 ```rust
 fn main() {//start scope
 	let x = 5;

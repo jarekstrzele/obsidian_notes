@@ -63,7 +63,7 @@ let (jets, fuel, ammo ) = info ;
 ```rust
 let buf_1 = [1,2,3] ;
 
-let buf_2 = [0; 3] ; //[value, how many]
+let buf_2 = [0; 3] ; //[value, how many] [0, 0, 0]
 ```
 
 
