@@ -157,9 +157,80 @@ clear: both;
 ---------
 ## selector `animated`
 
+style.css
+```css
+#main{
+	width:400px;
+	min-height:250px;
+}
 
+div{
+	background-color: brown;
+	border: 1px solid #aaa;
+	width: 80px;
+	height: 80px;
+	margin: 0 5px;
+	float: left;
+}
 
+div.colored {
+	background:blue;
+}
 
+  
+
+clear {
+	clear:both;
+}
+
+button{
+	display: block;
+	width:400px;
+	text-align: center;
+}
+
+h2 {
+	text-align: center;
+}
+```
+
+index.html
+```html
+<!DOCTYPE html>
+<html>
+	<head>
+	<title>Selector All</title>
+	<link rel="stylesheet" type="text/css" href="style.css" />
+</head>
+
+<body>
+	<div id="main" >
+	<h2> Left Animated div </h2>
+	<div></div>
+	<div id="animated-div"></div>
+	<div></div>
+	<div></div>
+	<p class="clear"></p>
+	<button id="change">Change background color</button>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
+<script>
+	$("#change").click(function(){
+		console.log("click")
+		$("div:animated").toggleClass("colored") ;
+})
+
+	function animate(){
+		$("#animated-div").slideToggle(1500, animate) ;
+}
+
+	animate();
+
+</script>
+</body>
+</html>
+```
 
 
 
