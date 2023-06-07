@@ -9,6 +9,15 @@
 ##### this course: github: ultimate_rust_crash_course
 https://github.com/CleanCut/ultimate_rust_crash_course
 
+--------
+[[#Cargo]]
+[[#variable]]
+[[#Scope]]
+[[#Memory safety]]
+[[#Functions]]
+[[#Module]]
+
+
 
 ---
 # Cargo
@@ -177,6 +186,7 @@ hello
 ### `use`
 it brings an item from some path into some scope 
 main.rs (`tests` is the name of project (as `hello`))
+#### `use <project_name>::{pub_func, pub_func...} ;`
 ```rust
 use tests::greet ;
 

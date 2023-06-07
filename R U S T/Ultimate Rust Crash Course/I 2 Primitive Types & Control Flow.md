@@ -67,5 +67,44 @@ let buf_2 = [0; 3] ; //[value, how many] [0, 0, 0]
 ```
 
 
+-------------
+# control flow
+
+## `if`
+`if condition {} else {}`
+
+`if` it is an expression (returns a value), not statement (doesn't return a value) - so:
+```rust
+let msg = if num == 5 {
+		"five" 
+	} else if num == 4{
+		"four" 
+	} else {
+		"other"
+	} ;
+
+```
+
+generally:
+```rust
+num = if a  { b } else { c } ;
+```
+
+
+## `loop{}`
+
+```rust
+'bob: loop {
+	loop {
+		loop {
+			break 'bob; // breaks named loop
+		}
+	}
+}
+```
+
+
+## `while condition {}`
+
 
 
