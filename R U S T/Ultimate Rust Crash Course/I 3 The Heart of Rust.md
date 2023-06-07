@@ -31,6 +31,19 @@ so
 `let s2=s1 ;` you move the ownership for `s1` to `s2` (it can be only one owner)
 so
 `s2` on the Stack:
+- `ptr` -- the pointer to --> the same `a` that is on the heap
+- `len` : 3
+- `capacity`: 3
+and `s1` is uninitialized and the compiler won't let you use it
+
+to **copy** a value use `clone()` method:
+```rust
+let s1 = String::from("abc") ;
+let s2 = s1.clone() ;
+println
+```
+
+
 
 
 ---
