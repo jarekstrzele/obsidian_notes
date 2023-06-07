@@ -194,6 +194,9 @@ h2 {
 }
 ```
 
+	` div.colored { background:blue;}` - It selects all `<div>` elements that have the class "colored".
+
+
 index.html
 ```html
 <!DOCTYPE html>
