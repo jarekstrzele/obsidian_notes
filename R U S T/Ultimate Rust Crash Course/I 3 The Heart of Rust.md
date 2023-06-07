@@ -1,7 +1,6 @@
 [[_ Ultimate Rust Crash Course]]
 
 
-
 # Ownership
 
 ### THREE RULES:

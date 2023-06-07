@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studia/Python BackEnd/jQuery.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9c4d1223ba4d274b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "P Y T H O N/Lear_Build_Flask/_ Intro Scalable Web Applications with Python, Flask and SQLAlchemy.md",
+                "file": "R U S T/Ultimate Rust Crash Course/I 3 The Heart of Rust.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "python virt",
+                "query": "#python/vir",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,8 +81,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -115,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "P Y T H O N/Lear_Build_Flask/_ Intro Scalable Web Applications with Python, Flask and SQLAlchemy.md",
+                "file": "R U S T/Ultimate Rust Crash Course/I 3 The Heart of Rust.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -132,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "P Y T H O N/Lear_Build_Flask/_ Intro Scalable Web Applications with Python, Flask and SQLAlchemy.md",
+                "file": "R U S T/Ultimate Rust Crash Course/I 3 The Heart of Rust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "P Y T H O N/Lear_Build_Flask/_ Intro Scalable Web Applications with Python, Flask and SQLAlchemy.md"
+                "file": "R U S T/Ultimate Rust Crash Course/I 3 The Heart of Rust.md"
               }
             }
           },
@@ -203,17 +189,19 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "9c4d1223ba4d274b",
+  "active": "3a3a1f2abdc2f910",
   "lastOpenFiles": [
+    "R U S T/Ultimate Rust Crash Course/_ Ultimate Rust Crash Course.md",
+    "P Y T H O N/0 python ogólne.md",
+    "P Y T H O N/Lear_Build_Flask/_ Intro Scalable Web Applications with Python, Flask and SQLAlchemy.md",
+    "Studia/Python BackEnd/jQuery.md",
     "API/FastAPI/_ 0 FastAPI.md",
     "R U S T/Ultimate Rust Crash Course/I 3 The Heart of Rust.md",
-    "Studia/Python BackEnd/jQuery.md",
     "R U S T/Ultimate Rust Crash Course/I 2 Primitive Types & Control Flow.md",
     "R U S T/Rust Programming For Beginners/9.6 External crates.md",
     "_ WEB/React,TypeScript,Node/I TypeScript/_ TypeScript.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/2. Common Programming Concepts in Rust.md",
     "R U S T/Ultimate Rust Crash Course/I 1 Fundamentals.md",
-    "R U S T/Ultimate Rust Crash Course/_ Ultimate Rust Crash Course.md",
     "R U S T/Ultimate Rust Crash Course/I 4 The Meat of Rust.md",
     "R U S T/Ultimate Rust Crash Course/I 5 Final Lectures.md",
     "R U S T/Ultimate Rust Crash Course/I 6 Invaders Project.md",
@@ -231,8 +219,6 @@
     "middleware.md",
     "R U S T/Rust Programming For Beginners/9 Refining Your Code.md",
     "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md",
-    "Excalidraw/asynch_in_node.excalidraw.md",
-    "HASKELL/for_great_good/7 Types and TypeClasses.md",
     "_ WEB/Rust",
     "_ WEB/React,TypeScript,Node/I TypeScript",
     "_ WEB/React,TypeScript,Node/III Express, GraphQL tworzenie usług internetowych",
