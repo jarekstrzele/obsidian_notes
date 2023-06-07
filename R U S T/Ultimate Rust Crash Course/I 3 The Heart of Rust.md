@@ -112,6 +112,8 @@ fn do_stuff(s: &mut String){
 #### `x` --this is a variable
 #### `&x` this creates an immutable reference to that variable
 #### `&mut x`  this creates a mutable reference to that variable's value
+##### `s.insert_str()` ----> the dot operator for a method or a field **auto-dereferences** down to the actual value
+if you want manually dereferenced `s`. it would look like this: `(*s).instert_str()`
 
 `i32` this is a type of a value
 `&i32` this is a immutable reference to that value
@@ -122,7 +124,7 @@ x: &mut i32 // this is a mutable reference to a value
 *x // deferencing `x` gives mutable access to the value
 ```
 
->
+>[!important]
 > ==you can have==:
 > - exactly **ONE MUTABLE reference**  
 > - **ANY NUMBER of IMMUTABLE references**
