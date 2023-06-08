@@ -43,8 +43,20 @@ błędy w stosowaniu uczenia maszynowego (błędnie przetworzone dane)
 > Aby rozwiązać te problemy, musimy dokonać lepszego wyboru cech przekazywanych do modelu i wykorzystywanych w procesie uczenia
 
 ## Przekleństwo wymiarowości
-- *Na przykład: algorytm, który ma dobierać reklamy dla klientów w sklepie internetowym. Jeśli dla każdego użytkownika odwiedzającego nasz sklep internetowy rejestrujemy 60 różnych miar, to pracujemy w **50-wymiarowej przestrzeni**.
+- Na przykład: algorytm, który ma dobierać reklamy dla klientów w sklepie internetowym. Jeśli dla każdego użytkownika odwiedzającego nasz sklep internetowy rejestrujemy 60 różnych miar, to pracujemy w **50-wymiarowej przestrzeni**.
 - analiza o wymiarach `100x100` pikseli zapisane w skali szarości -> operujemy na przestrzeni **10 tys. wymiarów**
+- **przetwarzanie języków naturalnych** - ukazuje przekleństwo wymiarowości
+
+> Ta dyskusja odnosiła się do pojęć
+> 	-  wyboru cech (ang. *feature selection*),
+> 	-  wyodrębniania cech (ang. *feature extraction*) oraz 
+> 	-  wymiarowości. 
+> 
+> Ogólnie rzecz biorąc, naszym **celem** jest
+> 	- **wybranie tylko tych cech**, które mają znaczenie (ignorujemy trendy zakupowe, które nas nie interesują), 
+> 	- **wyodrębnianie czy też wyekstrahowanie cech**, które lepiej reprezentują nasze dane (np. poprzez zastosowanie pomiarów twarzy zamiast nieprzetworzonych pikseli), oraz
+> 	- **zmniejszenie wymiarowości**, tak byśmy używali jak najmniej wymiarów mających znaczenie.
+
 
 
 
