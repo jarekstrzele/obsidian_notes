@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Ultimate Rust Crash Course/I 3 The Heart of Rust.md",
+                "file": "R U S T/Ultimate Rust Crash Course/I 4 The Meat of Rust.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Ultimate Rust Crash Course/I 3 The Heart of Rust.md",
+                "file": "R U S T/Ultimate Rust Crash Course/I 4 The Meat of Rust.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Ultimate Rust Crash Course/I 3 The Heart of Rust.md",
+                "file": "R U S T/Ultimate Rust Crash Course/I 4 The Meat of Rust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Ultimate Rust Crash Course/I 3 The Heart of Rust.md"
+                "file": "R U S T/Ultimate Rust Crash Course/I 4 The Meat of Rust.md"
               }
             }
           },
@@ -203,10 +203,10 @@
   },
   "active": "3a3a1f2abdc2f910",
   "lastOpenFiles": [
+    "R U S T/Ultimate Rust Crash Course/I 3 The Heart of Rust.md",
     "A I/JS uczenie maszynowe/2 Badanie danych.md",
     "A I/JS uczenie maszynowe/1 Poznawanie potencjału języka JS.md",
     "A I/JS uczenie maszynowe/_ 0 Uczenie maszynowe z JS.md",
-    "R U S T/Ultimate Rust Crash Course/I 3 The Heart of Rust.md",
     "R U S T/Ultimate Rust Crash Course/_ Ultimate Rust Crash Course.md",
     "P Y T H O N/0 python ogólne.md",
     "P Y T H O N/Lear_Build_Flask/_ Intro Scalable Web Applications with Python, Flask and SQLAlchemy.md",
