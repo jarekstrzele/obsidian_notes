@@ -86,19 +86,29 @@ impl Noisy for RedFox {
 we have traits, so ==we can start  writing GENERIC FUNCTIONS== that accept any value that implements the trait
 ```rust
 //GENERIC FUNCTION
-fn print_noise<T: Noisy<(item: T){
+fn print_noise<T: Noisy>(item: T){
 	println!("{}", item.get_noise()) ;
 }
 ```
-- the function takes an item of type `T` which is defined to be anything that implements the Noisy trait
+- the function takes a GENERIC  item of type `T` which is defined to be **anything that implements the Noisy trait**
 - you can implement any `trait` for any `struct`
 
-to implemente the Noisy trait for the built-in type `u8`
+to implement the Noisy trait for the built-in type `u8`
 ```rust
 impl Noisy for u8{
 	fn get_noise(&self) -> &str("BYTE!")
 }
 ```
+
+
+```rust
+fn main(){
+	print_noise(5_u8) ; // prints "BYTE!"
+}
+```
+
+#### `copy`
+a special trait
 
 
 # Collections
