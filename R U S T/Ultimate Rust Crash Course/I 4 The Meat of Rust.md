@@ -113,7 +113,7 @@ fn main(){
 - types from the heap do not implement `copy`
 
 ==TRAITS implement INHERITANCE==, so  a trait can inherit from another trait
-TRAITS can have defau
+TRAITS can have default behaviors
 
 ![[traits_inheritance.excalidraw]]
 
