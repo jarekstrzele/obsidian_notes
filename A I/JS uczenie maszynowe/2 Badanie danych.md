@@ -34,7 +34,7 @@ przykład wstępnego przetwarzania danych:
 
 
 -----
-# Identyfikacja cech
+## Identyfikacja cech
 s.42
 błędy w stosowaniu uczenia maszynowego (błędnie przetworzone dane)
 - **nieistotne cechy** - uczenie maszynowe doskonale nadaje się do odnajdywania wzorców w danych, jednak nie wszystkie dane takie wzorce zawierają
@@ -45,7 +45,7 @@ błędy w stosowaniu uczenia maszynowego (błędnie przetworzone dane)
 
 
 
-
+[[]]
 
 
 ----
