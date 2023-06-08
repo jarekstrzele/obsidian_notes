@@ -42,10 +42,15 @@ błędy w stosowaniu uczenia maszynowego (błędnie przetworzone dane)
 
 > Aby rozwiązać te problemy, musimy dokonać lepszego wyboru cech przekazywanych do modelu i wykorzystywanych w procesie uczenia
 
+## Przekleństwo wymiarowości
+- *Na przykład: algorytm, który ma dobierać reklamy dla klientów w sklepie internetowym. Jeśli dla każdego użytkownika odwiedzającego nasz sklep internetowy rejestrujemy 60 różnych miar, to pracujemy w **50-wymiarowej przestrzeni**.
+- analiza o wymiarach `100x100` pikseli zapisane w skali szarości -> operujemy na przestrzeni **10 tys. wymiarów**
 
 
 
-[[]]
+
+-------------
+# Identyfikacja zmiennych
 
 
 ----
