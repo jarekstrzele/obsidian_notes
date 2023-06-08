@@ -33,6 +33,16 @@ impl RedFox {
 `new()` is **an associated  function** (like *class method* in other languages )
 `Self` can be used in place of the struct name
 
+to CREATE an instance of that struct:
+```rust
+let fox = RedFox::new();
+```
+the scope operator in Rust is double colons `::`, and we use it to access parts of namespace-like things
+
+
+
+
+
 # Traits
 
 
