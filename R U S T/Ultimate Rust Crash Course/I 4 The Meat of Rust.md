@@ -64,8 +64,8 @@ impl RedFox{
 >[!info] Trait
 >- It is similar to in *interfaces* in other languages 
 >-  it defines required behavior:
->		- finctions that struct must implement
->		- 
+>		- **functions** that struct must implement
+>		- **method** that struct must implement
 
 ```rust
 struct RedFox{
@@ -74,13 +74,24 @@ struct RedFox{
 }
 
 tait Noisy {
-	fn get_noise(&self){...}
+	fn get_noise(&self) -> &str;
+}
+
+impl Noisy for RedFox {
+	fn get_noise(&self) -> &str {
+		"Meow?"
+	}
 }
 ```
-
-
-
-
+we have traits, so ==we can start  writing GENERIC FUNCTIONS== that accept any value that implements the trait
+```rust
+//GENERIC FUNCTION
+fn print_noise<T: Noisy<(item: T){
+	println!("{}", item.get_noise()) ;
+}
+```
+- the function takes an item of type `T` which is defined to be anything that implements the Noisy trait
+- you can implement any `trait` for any `struct`
 
 
 
