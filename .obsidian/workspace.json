@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A I/JS uczenie maszynowe/2 Badanie danych.md",
+                "file": "R U S T/Ultimate Rust Crash Course/I 3 The Heart of Rust.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -131,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A I/JS uczenie maszynowe/2 Badanie danych.md",
+                "file": "R U S T/Ultimate Rust Crash Course/I 3 The Heart of Rust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A I/JS uczenie maszynowe/2 Badanie danych.md"
+                "file": "R U S T/Ultimate Rust Crash Course/I 3 The Heart of Rust.md"
               }
             }
           },
@@ -202,8 +201,9 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "60e9225056dfc3ec",
+  "active": "3a3a1f2abdc2f910",
   "lastOpenFiles": [
+    "A I/JS uczenie maszynowe/2 Badanie danych.md",
     "A I/JS uczenie maszynowe/1 Poznawanie potencjału języka JS.md",
     "A I/JS uczenie maszynowe/_ 0 Uczenie maszynowe z JS.md",
     "R U S T/Ultimate Rust Crash Course/I 3 The Heart of Rust.md",
@@ -231,7 +231,6 @@
     "_ WEB/Rust/Actix/Web Actix.md",
     "_ WEB/Rust/Actix/Responder Actix.md",
     "_ WEB/Rust/Actix/App Actix.md",
-    "middleware.md",
     "_ WEB/Rust",
     "_ WEB/React,TypeScript,Node/I TypeScript",
     "_ WEB/React,TypeScript,Node/III Express, GraphQL tworzenie usług internetowych",

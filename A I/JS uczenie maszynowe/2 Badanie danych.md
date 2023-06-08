@@ -58,6 +58,11 @@ błędy w stosowaniu uczenia maszynowego (błędnie przetworzone dane)
 > 	- **zmniejszenie wymiarowości**, tak byśmy używali jak najmniej wymiarów mających znaczenie.
 
 
+## wybór cech oraz wyodrębnianie cech
+s.42
+
+
+
 
 
 

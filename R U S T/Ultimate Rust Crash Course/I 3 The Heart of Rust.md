@@ -28,7 +28,7 @@ so
 - `len` : 3
 - `capacity`: 3
 
-`let s2=s1 ;` you move the ownership for `s1` to `s2` (it can be only one owner)
+`let s2=s1 ;` you move the ownership from `s1` to `s2` (it can be only one owner)
 so
 `s2` on the Stack:
 - `ptr` -- the pointer to --> the same `a` that is on the heap
