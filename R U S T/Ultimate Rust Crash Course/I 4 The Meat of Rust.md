@@ -30,8 +30,8 @@ impl RedFox {
 	}
 }
 ```
-
-
+`new()` is **an associated  function** (like *class method* in other languages )
+`Self` can be used in place of the struct name
 
 # Traits
 
