@@ -117,7 +117,7 @@ TRAITS can have default behaviors
 
 ![[traits_inheritance.excalidraw | 300]]
 
-**the default implementation**:
+### **the default implementation**:
 ```rust
 trait Run {
 	fn run(&self) {
@@ -133,6 +133,9 @@ fn main(){
 	robot.run();
 }
 ```
+
+==No fields in Traits== 
+
 
 
 # Collections
