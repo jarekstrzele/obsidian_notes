@@ -28,7 +28,7 @@ W uczeniu maszynowym ważną kwestią są:
 przykład wstępnego przetwarzania danych:
 - CNN (*Convolutional Neural Networks*) konwolucyjna sieć neuronowa, splotowa sieć neuronowa
 - CNN przetwarza obrazy, ale nie dowolne, lecz taki, które spełniają odpowiednie wymagania (np. kolory, rozmiar, ilość pikseli)
-- jakość danych też ma znaczenie (np. 100 pacjentów, ale jeden z nich ma wzrost 221 -czy to prawdziwy wzrost, czy 100 pacjentów wystarczy, ....)
+- jakość danych też ma znaczenie (np. 100 pacjentów, ale jeden z nich ma wzrost 221 (*element odstający*) -czy to prawdziwy wzrost, czy 100 pacjentów wystarczy, ....)
 
 
 

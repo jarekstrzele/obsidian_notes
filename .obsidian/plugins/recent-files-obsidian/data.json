@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "2 Badanie danych",
+      "path": "A I/JS uczenie maszynowe/2 Badanie danych.md"
+    },
+    {
+      "basename": "1 Poznawanie potencjału języka JS",
+      "path": "A I/JS uczenie maszynowe/1 Poznawanie potencjału języka JS.md"
+    },
+    {
+      "basename": "_ 0 Uczenie maszynowe z JS",
+      "path": "A I/JS uczenie maszynowe/_ 0 Uczenie maszynowe z JS.md"
+    },
+    {
       "basename": "I 3 The Heart of Rust",
       "path": "R U S T/Ultimate Rust Crash Course/I 3 The Heart of Rust.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "_ Rust 101 Crash Course",
       "path": "R U S T/Rust 101 Crash Course/_ Rust 101 Crash Course.md"
-    },
-    {
-      "basename": "_ 0 Rust",
-      "path": "R U S T/Rust - FreeCode Beginner/_ 0 Rust.md"
-    },
-    {
-      "basename": "_ Learn Rust by Building Apps",
-      "path": "R U S T/Learn Rust by Building Real App/_ Learn Rust by Building Apps.md"
-    },
-    {
-      "basename": "Rust Tutorial Full Course",
-      "path": "R U S T/Rust Tutorial Full Course.md"
     }
   ],
   "omittedPaths": [],
