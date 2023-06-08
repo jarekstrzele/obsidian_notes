@@ -19,7 +19,7 @@ let fox = RedFox {
 	life: 70,
 }
 ```
-you would implement an associated fun
+you would implement an associated function to use as a CONSTRUCTOR
 
 
 
