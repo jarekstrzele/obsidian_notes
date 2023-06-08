@@ -19,8 +19,17 @@ let fox = RedFox {
 	life: 70,
 }
 ```
-you would implement an associated function to use as a CONSTRUCTOR
-
+you would implement an associated function to use as a CONSTRUCTOR to create a struct with default values
+```rust
+impl RedFox {
+	fn new() -> Self{
+		Self {
+			enemy: true,
+			life: 70,
+		}
+	}
+}
+```
 
 
 
