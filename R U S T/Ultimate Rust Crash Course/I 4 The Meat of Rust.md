@@ -36,9 +36,27 @@ impl RedFox {
 to CREATE an instance of that struct:
 ```rust
 let fox = RedFox::new();
+let life_left = fox.life;
+fox.enemy = false;
+fox.some_method()
 ```
 the scope operator in Rust is double colons `::`, and we use it to access parts of namespace-like things
 
+METHODS are also DEFINED in the IMPLEMENTATION BLOCK:
+```rust
+impl RedFox{
+	//associated function
+	fn function() ...
+
+	//method
+	fn move(self) ..
+	fn borrow(&self) ...
+	fn mut_borrow(&mut self)
+}
+```
+
+==NO STRUCT  INHERITANCE in Rust!!!!!==, because this gives us a better way to solve the problem we wish inheritance solved: TRAITS
+#rust/traits 
 
 
 
