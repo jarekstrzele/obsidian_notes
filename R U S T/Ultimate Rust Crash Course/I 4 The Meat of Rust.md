@@ -57,12 +57,26 @@ impl RedFox{
 
 ==NO STRUCT  INHERITANCE in Rust!!!!!==, because this gives us a better way to solve the problem we wish inheritance solved: TRAITS
 #rust/traits 
-
-
+==Rust takes the COMPOSITION over INHERITANCE APPROACH==
 
 
 # Traits
+>[!info] Trait
+>- It is similar to in *interfaces* in other languages 
+>-  it defines required behavior:
+>		- finctions that struct must implement
+>		- 
 
+```rust
+struct RedFox{
+	enemy: bool,
+	life: u8,
+}
+
+tait Noisy {
+	fn get_noise(&self){...}
+}
+```
 
 
 
