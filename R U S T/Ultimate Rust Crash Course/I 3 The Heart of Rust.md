@@ -85,8 +85,9 @@ fn do_stuff(s: &String) {
 }
 ```
 
-`do_stuff(&s1)`  - you pass a reference (`s1`**retains** ownership of the value),
-`do_stuff()` **borrows** a reference to the value (THE REFERENCE, NOT THE VALUE,  **gets moved into** the function, so at the end of the scope the reference gets dropped)
+`do_stuff(&s1)` 
+	-  you pass a reference (`s1`  **retains** ownership of the value),
+	-  **borrows** a reference to the value (THE REFERENCE, NOT THE VALUE,  **gets moved into** the function, so at the end of the scope the reference gets dropped)
 
 `(s: &String)` -- it indicates a reference to a type
 
