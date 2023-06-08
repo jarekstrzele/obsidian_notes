@@ -108,7 +108,16 @@ fn main(){
 ```
 
 #### `copy`
-a special trait
+- a special trait
+- types from the stack implement `copy` (integer, float, bool)
+- types from the heap do not implement `copy`
+
+==TRAITS implement INHERITANCE==, so  a trait can inherit from another trait
+TRAITS can have defau
+
+![[traits_inheritance.excalidraw]]
+
+
 
 
 # Collections

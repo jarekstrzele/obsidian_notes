@@ -5,6 +5,10 @@
       "path": "R U S T/Ultimate Rust Crash Course/I 4 The Meat of Rust.md"
     },
     {
+      "basename": "traits_inheritance.excalidraw",
+      "path": "Excalidraw/traits_inheritance.excalidraw.md"
+    },
+    {
       "basename": "I 3 The Heart of Rust",
       "path": "R U S T/Ultimate Rust Crash Course/I 3 The Heart of Rust.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_ Rust by Example",
       "path": "R U S T/Rust by example/_ Rust by Example.md"
-    },
-    {
-      "basename": "_ Rust 101 Crash Course",
-      "path": "R U S T/Rust 101 Crash Course/_ Rust 101 Crash Course.md"
     }
   ],
   "omittedPaths": [],
