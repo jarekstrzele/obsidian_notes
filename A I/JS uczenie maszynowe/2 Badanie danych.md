@@ -34,9 +34,11 @@ przykład wstępnego przetwarzania danych:
 
 
 -----
-# Identyfikacja zmiennych
-s.40
-
+# Identyfikacja cech
+s.42
+błędy w stosowaniu uczenia maszynowego
+- **nieistotne cechy** - uczenie maszynowe doskonale nadaje się do odnajdywania wzorców w danych, jednak nie wszystkie dane takie wzorce zawierają
+- **przetrenowany model** - model potrafi doskonale przewidywać np. zachowania zakupowe Jana Kowalskiego, ale nie potrafi uogólnić wzorca do szerszego zastosowania
 
 
 
