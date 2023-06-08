@@ -93,7 +93,12 @@ fn print_noise<T: Noisy<(item: T){
 - the function takes an item of type `T` which is defined to be anything that implements the Noisy trait
 - you can implement any `trait` for any `struct`
 
-
+to implemente the Noisy trait for the built-in type `u8`
+```rust
+impl Noisy for u8{
+	fn get_noise(&self) -> &str("BYTE!")
+}
+```
 
 
 # Collections
