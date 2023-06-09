@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "idiomatic code",
-      "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 2/idiomatic code.md"
+      "basename": "1. synchronous vs asynchronous",
+      "path": "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md"
+    },
+    {
+      "basename": "2 Badanie danych",
+      "path": "A I/JS uczenie maszynowe/2 Badanie danych.md"
     },
     {
       "basename": "jQuery",
       "path": "Studia/Python BackEnd/jQuery.md"
+    },
+    {
+      "basename": "idiomatic code",
+      "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 2/idiomatic code.md"
     },
     {
       "basename": "_ Ultimate Rust Crash Course 2",
@@ -21,20 +29,12 @@
       "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 2 Primitive Types & Control Flow.md"
     },
     {
-      "basename": "1. synchronous vs asynchronous",
-      "path": "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md"
-    },
-    {
       "basename": "_ NodeJS 101 Crash Course",
       "path": "_ WEB/N_O_D_E/Node JS 101 Crash/_ NodeJS 101 Crash Course.md"
     },
     {
       "basename": "I 5 Final Lectures",
       "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 5 Final Lectures.md"
-    },
-    {
-      "basename": "2 Badanie danych",
-      "path": "A I/JS uczenie maszynowe/2 Badanie danych.md"
     },
     {
       "basename": "traits_inheritance.excalidraw",
