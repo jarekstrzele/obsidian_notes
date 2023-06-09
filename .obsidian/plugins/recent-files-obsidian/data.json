@@ -5,6 +5,10 @@
       "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 2/idiomatic code.md"
     },
     {
+      "basename": "jQuery",
+      "path": "Studia/Python BackEnd/jQuery.md"
+    },
+    {
       "basename": "_ Ultimate Rust Crash Course 2",
       "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 2/_ Ultimate Rust Crash Course 2.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "I 5 Final Lectures",
       "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 5 Final Lectures.md"
-    },
-    {
-      "basename": "jQuery",
-      "path": "Studia/Python BackEnd/jQuery.md"
     },
     {
       "basename": "2 Badanie danych",
