@@ -1,8 +1,5 @@
 #jquery 
 
-
-
-
 ---
 # Selectory
 
@@ -17,27 +14,17 @@
 ## `traversing`
 wędrowanie po dokumencie html
 `add()` - możemy dotrzeć do konkretnego tagu html i dołączyć do niego jakiś nowy element
-
 `Children()` pobiera elementy potomne względem danego znacznika html
-
 `Each()` pętla, iterowanie po tak samo określonych elementach
-
 `Not()` metoda, która usuwa elementy z wybranej grupy elementów
-
 `Siblings()` w pamięci przeglądarki można określać style elementów z tej samej klasy
-
 `...` 
 
 ## `events`
 **zdarzenie** - rejestrowanie zachowania zewnętrznego (np. kliknięcie myszą) poprzez nasłuchiwanie interakcji między użytkownikiem a przeglądarką
-
-
 `on()` podłączenie dowolnego zdarzenia
-
 `blur()` zwolnienie elementu
-
 `focus()` zaznaczanie elementu
-
 `hover()` najeżdżanie na element (na, z)
 
 ## Ajax
@@ -85,71 +72,39 @@ style.css
 
 }
 
-  
-
 .form {
-
-width:310;
-
-min-height:250px;
-
-margin-left: auto;
-
-margin-right: auto;
-
+	width:310;
+	min-height:250px;
+	margin-left: auto;
+	margin-right: auto;
 }
 
   
 
 #d1, #d2, #d3, #d4 {
-
-float: left;
-
-width: 140px;
-
-height: 130px;
-
+	float: left;
+	width: 140px;
+	height: 130px;
 }
-
-  
 
 #d1{
-
-background-color: red;;
-
+	background-color: red;;
 }
-
-  
-  
 
 #d2{
-
-background-color: blue;;
-
+	background-color: blue;;
 }
-
-  
 
 #d3{
-
-background-color: forestgreen;;
-
+	background-color: forestgreen;;
 }
-
-  
 
 #d4{
-
-background-color: aquamarine;
-
+	background-color: aquamarine;
 }
 
-  
-
 .clear{
-
-clear: both;
-
+	clear: both;
 }
 ```
 
@@ -176,8 +131,6 @@ div{
 div.colored {
 	background:blue;
 }
-
-  
 
 clear {
 	clear:both;
@@ -235,7 +188,8 @@ index.html
 </html>
 ```
 
-
+----------
+# Attribute Selector
 40 min.
 
 
