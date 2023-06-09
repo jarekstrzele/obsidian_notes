@@ -276,13 +276,43 @@ let item3 = Place {x: 24, y: 48} ;
 
 `Enum` can be any one of those,==BUT ONLY ONE AT A TIME.==
 
-==you can implement functions and methods for an 
+==you can implement functions and methods for an `enum`==
+```rust
+impl DispenserItem{
+	fn display(&self){}
+}
+```
 
 
+==You can also use `enum` with GENERICS==
 
+### Option
+e.g. `Option` is a generic `enum` in the standard library:
+#rust/option 
+```rust
+enum Option<T> {
+	Some(T),
+	None,
+}
+```
+`Option` represents when something is either absent or present
 
+```rust
+// if you manage with one value, you can use:
+if let Some(x) = my_variable {
+	println!("value is {}", x) ;
+}
 
-
+//MATCH EXPRESSION
+match my_variable {
+	Some(x) => {
+	println!("value is {}", x)
+	},
+	None => { 
+		println!("no value")
+	},
+}
+```
 
 
 
