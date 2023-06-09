@@ -246,5 +246,77 @@ selektory poprzedzone wyłącznie znakiem `:`
 
 > Znak `:` przed selektorem oznacza, że mamy do czynienia z selektorem pseudo-klasy, który jest wbudowany w język CSS i dostarczany przez bibliotekę jQuery. Selektory pseudo-klas są używane do wybrania elementów, które mają określone cechy lub są w określonym stanie.
 
+```html
+<script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
+
+<script>
+
+$(":button").css({
+
+backgroundColor: "green",
+
+color:"black",
+
+border: "3px solid brown"
+
+}) ;
+
+$(":checkbox")
+
+.wrap("<span></span>")
+
+.parent()
+
+.css({
+
+backgroundColor: "green",
+
+border: "3px red solid"
+
+})
+
+</script>
+```
+
+
+
+
+
+
+
+----------
+# traversing
+```html
+<script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
+
+<script>
+	$(".main")
+		.css({
+			backgroundColor: "yellow",
+			maringLeft ="auto"
+		}).add("div")
+		.css({
+			border: "2px solid red",
+			width: "60%",
+		})
+
+</script>
+```
+
+
+```html
+<script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
+
+<script>
+	$(".div, div > p").addClass("border");
+	$("div.before-addback").find("p")
+
+</script>
+```
+
+
+
+
+
 
 
