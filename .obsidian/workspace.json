@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Ultimate Rust Crash Course/I 4 The Meat of Rust.md",
+                "file": "R U S T/Ultimate Rust Crash Course/I 5 Final Lectures.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Ultimate Rust Crash Course/I 4 The Meat of Rust.md",
+                "file": "R U S T/Ultimate Rust Crash Course/I 5 Final Lectures.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Ultimate Rust Crash Course/I 4 The Meat of Rust.md",
+                "file": "R U S T/Ultimate Rust Crash Course/I 5 Final Lectures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Ultimate Rust Crash Course/I 4 The Meat of Rust.md"
+                "file": "R U S T/Ultimate Rust Crash Course/I 5 Final Lectures.md"
               }
             }
           },
@@ -213,8 +213,8 @@
   },
   "active": "3a3a1f2abdc2f910",
   "lastOpenFiles": [
-    "Excalidraw/traits_inheritance.excalidraw.md",
     "R U S T/Ultimate Rust Crash Course/I 4 The Meat of Rust.md",
+    "Excalidraw/traits_inheritance.excalidraw.md",
     "R U S T/Ultimate Rust Crash Course/I 3 The Heart of Rust.md",
     "A I/JS uczenie maszynowe/2 Badanie danych.md",
     "A I/JS uczenie maszynowe/1 Poznawanie potencjału języka JS.md",
