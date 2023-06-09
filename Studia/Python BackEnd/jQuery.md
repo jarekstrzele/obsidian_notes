@@ -244,6 +244,7 @@ $("a[hreflang*='pl']").css("backgroundColor", "yellow") ;
 # Pseudo selektory
 selektory poprzedzone wyłącznie znakiem `:`
 
+> Znak `:` przed selektorem oznacza, że mamy do czynienia z selektorem pseudo-klasy, który jest wbudowany w język CSS i dostarczany przez bibliotekę jQuery. Selektory pseudo-klas są używane do wybrania elementów, które mają określone cechy lub są w określonym stanie.
 
 
 
