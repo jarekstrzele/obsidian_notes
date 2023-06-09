@@ -1,4 +1,4 @@
-[[_ Ultimate Rust Crash Course]]
+[[_ Ultimate Rust Crash Course 1]]
 
 **Rust** is a systems programming language:
 - safety

@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "_ Ultimate Rust Crash Course 2",
+      "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 2/_ Ultimate Rust Crash Course 2.md"
+    },
+    {
+      "basename": "_ Ultimate Rust Crash Course 1",
+      "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/_ Ultimate Rust Crash Course 1.md"
+    },
+    {
+      "basename": "I 2 Primitive Types & Control Flow",
+      "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 2 Primitive Types & Control Flow.md"
+    },
+    {
       "basename": "1. synchronous vs asynchronous",
       "path": "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md"
     },
@@ -10,7 +22,7 @@
     },
     {
       "basename": "I 5 Final Lectures",
-      "path": "R U S T/Ultimate Rust Crash Course/I 5 Final Lectures.md"
+      "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 5 Final Lectures.md"
     },
     {
       "basename": "jQuery",
@@ -26,11 +38,11 @@
     },
     {
       "basename": "I 4 The Meat of Rust",
-      "path": "R U S T/Ultimate Rust Crash Course/I 4 The Meat of Rust.md"
+      "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 4 The Meat of Rust.md"
     },
     {
       "basename": "I 3 The Heart of Rust",
-      "path": "R U S T/Ultimate Rust Crash Course/I 3 The Heart of Rust.md"
+      "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 3 The Heart of Rust.md"
     },
     {
       "basename": "1 Poznawanie potencjału języka JS",
@@ -39,10 +51,6 @@
     {
       "basename": "_ 0 Uczenie maszynowe z JS",
       "path": "A I/JS uczenie maszynowe/_ 0 Uczenie maszynowe z JS.md"
-    },
-    {
-      "basename": "_ Ultimate Rust Crash Course",
-      "path": "R U S T/Ultimate Rust Crash Course/_ Ultimate Rust Crash Course.md"
     },
     {
       "basename": "0 python ogólne",
@@ -55,10 +63,6 @@
     {
       "basename": "_ 0 FastAPI",
       "path": "API/FastAPI/_ 0 FastAPI.md"
-    },
-    {
-      "basename": "I 2 Primitive Types & Control Flow",
-      "path": "R U S T/Ultimate Rust Crash Course/I 2 Primitive Types & Control Flow.md"
     },
     {
       "basename": "9.6 External crates",
@@ -74,11 +78,11 @@
     },
     {
       "basename": "I 1 Fundamentals",
-      "path": "R U S T/Ultimate Rust Crash Course/I 1 Fundamentals.md"
+      "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 1 Fundamentals.md"
     },
     {
       "basename": "I 6 Invaders Project",
-      "path": "R U S T/Ultimate Rust Crash Course/I 6 Invaders Project.md"
+      "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 6 Invaders Project.md"
     },
     {
       "basename": "_ Ultimate Rust Lang Tutorial",
@@ -195,10 +199,6 @@
     {
       "basename": "_ Rust Programming Tutorial",
       "path": "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md"
-    },
-    {
-      "basename": "_ Rust by Example",
-      "path": "R U S T/Rust by example/_ Rust by Example.md"
     }
   ],
   "omittedPaths": [],

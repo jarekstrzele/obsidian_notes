@@ -42,8 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2de058ad1fe22a1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 2/_ Ultimate Rust Crash Course 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -125,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md",
+                "file": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 2/_ Ultimate Rust Crash Course 2.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -142,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md",
+                "file": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 2/_ Ultimate Rust Crash Course 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md"
+                "file": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 2/_ Ultimate Rust Crash Course 2.md"
               }
             }
           },
@@ -213,28 +226,31 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "3a3a1f2abdc2f910",
+  "active": "2de058ad1fe22a1a",
   "lastOpenFiles": [
-    "_ WEB/N_O_D_E/Node JS 101 Crash/_ NodeJS 101 Crash Course.md",
+    "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/_ Ultimate Rust Crash Course 1.md",
+    "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 2/_ Ultimate Rust Crash Course 2.md",
+    "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 2 Primitive Types & Control Flow.md",
+    "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 2",
+    "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1",
     "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md",
-    "R U S T/Ultimate Rust Crash Course/I 5 Final Lectures.md",
+    "_ WEB/N_O_D_E/Node JS 101 Crash/_ NodeJS 101 Crash Course.md",
+    "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 5 Final Lectures.md",
     "Studia/Python BackEnd/jQuery.md",
     "A I/JS uczenie maszynowe/2 Badanie danych.md",
     "Excalidraw/traits_inheritance.excalidraw.md",
-    "R U S T/Ultimate Rust Crash Course/I 4 The Meat of Rust.md",
-    "R U S T/Ultimate Rust Crash Course/I 3 The Heart of Rust.md",
+    "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 4 The Meat of Rust.md",
+    "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 3 The Heart of Rust.md",
     "A I/JS uczenie maszynowe/1 Poznawanie potencjału języka JS.md",
     "A I/JS uczenie maszynowe/_ 0 Uczenie maszynowe z JS.md",
-    "R U S T/Ultimate Rust Crash Course/_ Ultimate Rust Crash Course.md",
     "P Y T H O N/0 python ogólne.md",
     "P Y T H O N/Lear_Build_Flask/_ Intro Scalable Web Applications with Python, Flask and SQLAlchemy.md",
     "API/FastAPI/_ 0 FastAPI.md",
-    "R U S T/Ultimate Rust Crash Course/I 2 Primitive Types & Control Flow.md",
     "R U S T/Rust Programming For Beginners/9.6 External crates.md",
     "_ WEB/React,TypeScript,Node/I TypeScript/_ TypeScript.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/2. Common Programming Concepts in Rust.md",
-    "R U S T/Ultimate Rust Crash Course/I 1 Fundamentals.md",
-    "R U S T/Ultimate Rust Crash Course/I 6 Invaders Project.md",
+    "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 1 Fundamentals.md",
+    "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 6 Invaders Project.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/_ Ultimate Rust Lang Tutorial.md",
     "R U S T/Ultimate Rust Crash Course",
     "R U S T/Rust Programming For Beginners/9.5 If let else, While let.md",
@@ -242,17 +258,14 @@
     "conflict-files-obsidian-git.md",
     "_ WEB/Rust/Actix/Application Actix.md",
     "_ WEB/Rust/Rocket",
-    "_ WEB/Rust/Actix/_ Actix Rust.md",
     "_ WEB/Rust",
     "_ WEB/React,TypeScript,Node/I TypeScript",
     "_ WEB/React,TypeScript,Node/III Express, GraphQL tworzenie usług internetowych",
     "_ WEB/React,TypeScript,Node",
     "_ WEB/Actix/Untitled",
     "_ WEB/Rust/Actix",
-    "JAVASCRIPT/Functional Programming for JS Developers",
     "test canvas.canvas",
     "pexels-alex-fu-1302436.jpg",
-    "JAVASCRIPT/funkcyjnie_JS",
     "methodology/images/seaborn_relplot_tip_total_bill_4.png",
     "Untitled 1.canvas",
     "R U S T/Untitled.canvas",

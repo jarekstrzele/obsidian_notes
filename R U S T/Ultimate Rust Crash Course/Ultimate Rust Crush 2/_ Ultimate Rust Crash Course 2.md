@@ -1,0 +1,8 @@
+#rust  #stocks_nathan 
+
+
+
+
+
+
+
