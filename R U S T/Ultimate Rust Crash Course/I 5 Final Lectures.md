@@ -56,12 +56,18 @@ v.iter()
 use std::thread;
 
 fn main(){
-	
+	//this closure is executed as the main function of the thread
 	let handle = thread::spawn(move || {
 		// do stuff in a child thread
 	}) ;
+// do stuff simultaneously in the main thread
+
+// wait until thread has exited
+	handle.join().unwrap();
 
 }
 ```
+
+`async` / `await` is a much more efficient approach with `I/O`: network or disk
 
 
