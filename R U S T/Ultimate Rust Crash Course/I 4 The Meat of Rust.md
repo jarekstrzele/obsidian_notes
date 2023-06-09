@@ -359,8 +359,20 @@ use std::fs::File ;
 
 fn main(){
 	let res = File::open("foo") ;
-	let 
+	let f = res.expect("error message") ; //it works like unwrap(), but also print a msg, if it will be an error
 
 }
 ```
+other option
+```rust
+use std::fs::File ;
 
+fn main(){
+	let res = File::open("foo") ;
+	match res {
+		Ok(f) => { /* ...*/},
+		Err(e) => { /* ...*/},
+	}
+
+}
+```
