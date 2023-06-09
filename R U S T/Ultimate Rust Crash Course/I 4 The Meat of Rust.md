@@ -236,6 +236,9 @@ h.insert(6, false) ;
 let have_five = h.remove(&5).unwrap();
 
 ```
+==Dlaczego `&5` a nie `5`?==
+- Jeśli użyjemy tylko `5` jako argumentu, oznaczałoby to, że próbujemy usunąć klucz, który jest równy `5`, a nie klucz przechowujący wartość `5`.
+- `remove()` oczekuje referencji do klucza
 
 
 other
@@ -243,10 +246,37 @@ other
 `LinkedList, HashSet, BTreeMap, LinkedList, BinaryHeap, BTreeSet`
 
 # Enum
+Enums in Rust are more like algebraic data types in Haskell.
+
+```rust
+enum Color {
+	Red,
+	Green,
+	Blue,
+}
+
+let color = Color::Red ;
+
+enum DispenserItem {
+	Empty,
+	Ammo(u8),
+	Thing(String, i32),
+	Place {x: i32, y: i32},
+}
+
+use DispenserItem::* ;
+let item = Empty ;
+let item1 = Ammo(68) ;
+let item2 = Things("hat".to_string(), 7) ;
+let item3 = Place {x: 24, y: 48} ;
 
 
 
+```
 
+`Enum` can be any one of those,==BUT ONLY ONE AT A TIME.==
+
+==you can implement functions and methods for an 
 
 
 
