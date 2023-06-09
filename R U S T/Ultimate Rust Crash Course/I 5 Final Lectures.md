@@ -36,14 +36,32 @@ let f = move || {
 }
 f();
 ```
-- that closure takes ownership of  `s`, so `s` will live untile the closure itself
+- that closure takes ownership of  `s`, so `s` will live until the closure itself  goes out of scope and gets dropped
+- so we could send this closure over to another thread or return it as the value of a function
 
+```rust
+let mut v = vec![2,4,6];
 
+v.iter()
+	.map(|x| x * 3)
+	.filter(|x| *x > 10)
+	.fold(0, |acc, x| acc + x) ;
+```
 
 
 
 # Threads
 #rust/thread
+```rust
+use std::thread;
 
+fn main(){
+	
+	let handle = thread::spawn(move || {
+		// do stuff in a child thread
+	}) ;
+
+}
+```
 
 
