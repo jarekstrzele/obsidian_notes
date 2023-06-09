@@ -137,8 +137,91 @@ fn main(){
 ==No fields in Traits== 
 
 
+```rust
+// 1. Define a trait named `Bite`
+// Define a single required method, `fn bite(self: &mut Self)`. We will call this method when we
+// want to bite something. Once this trait is defined, you should be able to run the program with
+// `cargo run` without any errors.
+//
 
+trait Bite {
+	fn bite(self: &mut Self) ;
+}
+  
 
+// 2. Now create a struct named Grapes with a field that tracks how many grapes are left. If you
+// need a hint, look at how it was done for Carrot at the bottom of this file (you should probably
+// use a different field, though).
+//
+
+#[derive(Debug)] // include this line right before your struct definition
+struct Grapes {
+	amount_left: f32,
+}
+
+// 3. Implement Bite for Grapes. When you bite a Grapes, subtract 1 from how many grapes are left.
+// If you need a hint, look at how it was done for Carrot at the bottom of this file.
+
+impl Bite for Grapes {
+	fn bite(&mut self){
+	self.amount_left *= 0.8 ; //self.percent_left - 1.0 ;
+	}
+}
+
+fn main() {
+
+	let mut carrot = Carrot { percent_left: 100.0 };
+	carrot.bite();
+	println!("I take a bite: {:?}", carrot);
+
+	let mut grapes = Grapes { amount_left: 100.0 };
+	grapes.bite();
+	println!("Eat a grape: {:?}", grapes);
+
+	fn bunny_nibbles<T: Bite>(item: &mut T) {
+		item.bite();
+		item.bite();
+		item.bite();
+	}
+
+	bunny_nibbles(&mut carrot);
+	println!("Bunny nibbles for awhile: {:?}", carrot);
+}
+
+#[derive(Debug)] // This enables using the debugging format string "{:?}"
+struct Carrot {
+	percent_left: f32,
+}
+
+impl Bite for Carrot {
+	fn bite(self: &mut Self) {
+	// Eat 20% of the remaining carrot. It may take awhile to eat it all...
+	self.percent_left *= 0.8;
+	}
+}
+```
+
+-------
+# Collections
+## vector `Vec<T>`
+It is a generic collection that holds a bunch of one type
+```rust
+let mut v: Vec<i32> = Vec::new();
+//vector is like a stack
+// add item
+v.push(2);
+v.push(4);
+v.push(6);
+
+//remove the item at the end of the vectora and returns it
+let x = v.pop(); // x is 6
+
+println!("{}", v[1]) ; // prints "4"
+
+// MACRO to create a vector
+let mut v = vec![2,4,6] ;
+
+```
 
 
 
