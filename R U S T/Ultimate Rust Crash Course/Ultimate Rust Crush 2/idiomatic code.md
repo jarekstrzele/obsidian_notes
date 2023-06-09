@@ -16,8 +16,8 @@ TWO TOOLS:
 		1. STYLE
 		2.  CORRECTNESS
 		3.  COMPLEXITY
-			1. if you want to left your compl
-		4. 
+			1. if you want to left your complexity,   you can add something like that:  `#[allow(clippy::too_many_arguments)]` (so clippy accept too many args in your function)
+		4.  PERFORMANCE
 
 
 
