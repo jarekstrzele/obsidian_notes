@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "idiomatic code",
+      "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 2/idiomatic code.md"
+    },
+    {
       "basename": "_ Ultimate Rust Crash Course 2",
       "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 2/_ Ultimate Rust Crash Course 2.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_ Rust Tech with Tim",
       "path": "R U S T/Tech with TIm Rust/_ Rust Tech with Tim.md"
-    },
-    {
-      "basename": "_ Rust Programming Tutorial",
-      "path": "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md"
     }
   ],
   "omittedPaths": [],
