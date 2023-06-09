@@ -223,19 +223,24 @@ let mut v = vec![2,4,6] ;
 
 ```
 
+## HashMap `HashMap<K,V>`
+It is a generic collection where you specify a type for the key and a type for the value.
+You access the values by key (like DICTIONARY)
+```rust
+let mut h: HashMap<u8, bool> = HashMap::new() ;
+
+h.insert(5, true) ;
+h.insert(6, false) ;
+
+//remove returns an Enum called OPTION
+let have_five = h.remove(&5).unwrap();
+
+```
 
 
-
-
-
-
-
-
-# Collections
-
-
-
-
+other
+`VecDeque` It  uses a ring buffer to implement a double-ended queue
+`LinkedList, HashSet, BTreeMap, LinkedList, BinaryHeap, BTreeSet`
 
 # Enum
 
