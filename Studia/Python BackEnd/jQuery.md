@@ -191,8 +191,40 @@ index.html
 ----------
 # Attribute Selector
 40 min.
+fragment kodu
+index.html
+```html
+<script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
+
+<script>
+
+//wybierze tag `a` w którego atrybucie wystęþuje "en" i zmień jego css
+
+// $("a[hreflang|='en']" ).css("backgroundColor", "green") ;
+
+//znajdzie podciąg pl
+
+$("a[hreflang*='pl']").css("backgroundColor", "yellow") ;
+
+</script>
+```
 
 
+1. `*` (gwiazdka):
+    - Przykład użycia: `a[hreflang*='pl']`
+    - Odnajduje elementy, których atrybut zawiera określony fragment, gdziekolwiek wewnątrz atrybutu.
+    - Na przykład `<a hreflang="pl">`, `<a hreflang="en-pl">`
+    - Nie wymaga, aby fragment był oddzielony od reszty atrybutu żadnym konkretnym znakiem.
+2. `|` (kreska pionowa):
+    - Przykład użycia: `a[hreflang|='pl']`
+    - Odnajduje elementy, których atrybut jest równy określonemu wartości lub zaczyna się od niej i jest połączony z myślnikiem.
+    - Na przykład `<a hreflang="pl">`, `<a hreflang="pl-PL">`, `<a hreflang="pl-xyz">`
+    - Przyjmuje tylko wartości, które są dokładnym dopasowaniem lub zaczynają się od wartości, po której następuje myślnik.
+3. `~` (tylda):
+    - Przykład użycia: `a[hreflang~='pl']`
+    - Odnajduje elementy, których atrybut zawiera określone słowo, niezależnie od pozycji słowa wewnątrz atrybutu.
+    - Na przykład `<a hreflang="en pl">`, `<a hreflang="de pl it">`, `<a hreflang="xyzpl">`
+    - Przyjmuje wartości, które są oddzielone spacją i zawierają określone słowo.
 
 
 
