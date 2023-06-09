@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "1. synchronous vs asynchronous",
+      "path": "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md"
+    },
+    {
+      "basename": "_ NodeJS 101 Crash Course",
+      "path": "_ WEB/N_O_D_E/Node JS 101 Crash/_ NodeJS 101 Crash Course.md"
+    },
+    {
+      "basename": "I 5 Final Lectures",
+      "path": "R U S T/Ultimate Rust Crash Course/I 5 Final Lectures.md"
+    },
+    {
       "basename": "jQuery",
       "path": "Studia/Python BackEnd/jQuery.md"
     },
@@ -11,10 +23,6 @@
     {
       "basename": "traits_inheritance.excalidraw",
       "path": "Excalidraw/traits_inheritance.excalidraw.md"
-    },
-    {
-      "basename": "I 5 Final Lectures",
-      "path": "R U S T/Ultimate Rust Crash Course/I 5 Final Lectures.md"
     },
     {
       "basename": "I 4 The Meat of Rust",
@@ -113,10 +121,6 @@
       "path": "R U S T/Rust Programming For Beginners/9 Refining Your Code.md"
     },
     {
-      "basename": "1. synchronous vs asynchronous",
-      "path": "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md"
-    },
-    {
       "basename": "asynch_in_node.excalidraw",
       "path": "Excalidraw/asynch_in_node.excalidraw.md"
     },
@@ -179,10 +183,6 @@
     {
       "basename": "2.1. Zdarzenia",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md"
-    },
-    {
-      "basename": "_ NodeJS 101 Crash Course",
-      "path": "_ WEB/N_O_D_E/Node JS 101 Crash/_ NodeJS 101 Crash Course.md"
     },
     {
       "basename": "1 Guessing Game in Rust",

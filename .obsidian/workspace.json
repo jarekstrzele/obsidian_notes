@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Ultimate Rust Crash Course/I 5 Final Lectures.md",
+                "file": "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studia/Python BackEnd/jQuery.md",
+                "file": "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -143,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studia/Python BackEnd/jQuery.md",
+                "file": "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studia/Python BackEnd/jQuery.md"
+                "file": "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md"
               }
             }
           },
@@ -214,11 +213,14 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "3f91bd16ec31f204",
+  "active": "3a3a1f2abdc2f910",
   "lastOpenFiles": [
+    "_ WEB/N_O_D_E/Node JS 101 Crash/_ NodeJS 101 Crash Course.md",
+    "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md",
+    "R U S T/Ultimate Rust Crash Course/I 5 Final Lectures.md",
+    "Studia/Python BackEnd/jQuery.md",
     "A I/JS uczenie maszynowe/2 Badanie danych.md",
     "Excalidraw/traits_inheritance.excalidraw.md",
-    "R U S T/Ultimate Rust Crash Course/I 5 Final Lectures.md",
     "R U S T/Ultimate Rust Crash Course/I 4 The Meat of Rust.md",
     "R U S T/Ultimate Rust Crash Course/I 3 The Heart of Rust.md",
     "A I/JS uczenie maszynowe/1 Poznawanie potencjału języka JS.md",
@@ -226,7 +228,6 @@
     "R U S T/Ultimate Rust Crash Course/_ Ultimate Rust Crash Course.md",
     "P Y T H O N/0 python ogólne.md",
     "P Y T H O N/Lear_Build_Flask/_ Intro Scalable Web Applications with Python, Flask and SQLAlchemy.md",
-    "Studia/Python BackEnd/jQuery.md",
     "API/FastAPI/_ 0 FastAPI.md",
     "R U S T/Ultimate Rust Crash Course/I 2 Primitive Types & Control Flow.md",
     "R U S T/Rust Programming For Beginners/9.6 External crates.md",
@@ -242,8 +243,6 @@
     "_ WEB/Rust/Actix/Application Actix.md",
     "_ WEB/Rust/Rocket",
     "_ WEB/Rust/Actix/_ Actix Rust.md",
-    "_ WEB/Rust/Actix/Web Actix.md",
-    "_ WEB/Rust/Actix/Responder Actix.md",
     "_ WEB/Rust",
     "_ WEB/React,TypeScript,Node/I TypeScript",
     "_ WEB/React,TypeScript,Node/III Express, GraphQL tworzenie usług internetowych",

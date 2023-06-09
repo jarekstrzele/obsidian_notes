@@ -309,12 +309,20 @@ border: "3px red solid"
 
 <script>
 	$(".div, div > p").addClass("border");
-	$("div.before-addback").find("p")
+	$("div.before-addback").find("p").addClass("background");
+	$("div.after-addback").find("p").addBack().addClass("background") ;
+	
 
 </script>
 ```
 
-
+1. `<script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>` - Ten wiersz importuje bibliotekę jQuery, umożliwiając korzystanie z jej funkcji i metod. Pobiera ona bibliotekę jQuery w wersji 3.7.0 ze zdalnego źródła przy użyciu podanego adresu URL.
+    
+2. `$(".div, div > p").addClass("border");` - Ta linia kodu dodaje klasę "border" do wszystkich elementów o klasie "div" oraz do wszystkich elementów `<p>`, które są bezpośrednimi potomkami elementów "div". W wyniku tego kodu, te elementy będą miały dodaną klasę "border", co może wpłynąć na ich stylizację za pomocą CSS.
+    
+3. `$("div.before-addback").find("p").addClass("background");` - Ta linia kodu znajduje wszystkie elementy `<p>` znajdujące się wewnątrz elementu o klasie "before-addback", a następnie dodaje im klasę "background". W rezultacie, elementy `<p>` wewnątrz tego konkretnego elementu "div" otrzymają klasę "background", co może wpływać na ich wygląd przy użyciu reguł CSS.
+    
+4. `$("div.after-addback").find("p").addBack().addClass("background");` - Ten fragment kodu znajduje wszystkie elementy `<p>` znajdujące się wewnątrz elementu o klasie "after-addback" i dodaje im klasę "background". Jednak w przeciwieństwie do poprzedniego przykładu, ta linia kodu zawiera również metodę `addBack()`. Metoda `addBack()` dodaje również oryginalny element, który był na stosie, do zbioru znalezionych elementów. W rezultacie, nie tylko elementy `<p>` wewnątrz elementu "div" o klasie "after-addback" otrzymają klasę "background", ale także sam element "div" otrzyma tę klasę.
 
 
 
