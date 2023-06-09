@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "jQuery",
+      "path": "Studia/Python BackEnd/jQuery.md"
+    },
+    {
+      "basename": "2 Badanie danych",
+      "path": "A I/JS uczenie maszynowe/2 Badanie danych.md"
+    },
+    {
+      "basename": "traits_inheritance.excalidraw",
+      "path": "Excalidraw/traits_inheritance.excalidraw.md"
+    },
+    {
       "basename": "I 5 Final Lectures",
       "path": "R U S T/Ultimate Rust Crash Course/I 5 Final Lectures.md"
     },
@@ -9,16 +21,8 @@
       "path": "R U S T/Ultimate Rust Crash Course/I 4 The Meat of Rust.md"
     },
     {
-      "basename": "traits_inheritance.excalidraw",
-      "path": "Excalidraw/traits_inheritance.excalidraw.md"
-    },
-    {
       "basename": "I 3 The Heart of Rust",
       "path": "R U S T/Ultimate Rust Crash Course/I 3 The Heart of Rust.md"
-    },
-    {
-      "basename": "2 Badanie danych",
-      "path": "A I/JS uczenie maszynowe/2 Badanie danych.md"
     },
     {
       "basename": "1 Poznawanie potencjału języka JS",
@@ -39,10 +43,6 @@
     {
       "basename": "_ Intro Scalable Web Applications with Python, Flask and SQLAlchemy",
       "path": "P Y T H O N/Lear_Build_Flask/_ Intro Scalable Web Applications with Python, Flask and SQLAlchemy.md"
-    },
-    {
-      "basename": "jQuery",
-      "path": "Studia/Python BackEnd/jQuery.md"
     },
     {
       "basename": "_ 0 FastAPI",

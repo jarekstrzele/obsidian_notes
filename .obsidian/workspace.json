@@ -20,16 +20,6 @@
             }
           },
           {
-            "id": "6f864d952f29378c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/traits_inheritance.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "60e9225056dfc3ec",
             "type": "leaf",
             "state": {
@@ -40,8 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3f91bd16ec31f204",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studia/Python BackEnd/jQuery.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -123,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Ultimate Rust Crash Course/I 5 Final Lectures.md",
+                "file": "Studia/Python BackEnd/jQuery.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -140,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Ultimate Rust Crash Course/I 5 Final Lectures.md",
+                "file": "Studia/Python BackEnd/jQuery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Ultimate Rust Crash Course/I 5 Final Lectures.md"
+                "file": "Studia/Python BackEnd/jQuery.md"
               }
             }
           },
@@ -211,12 +214,13 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "3a3a1f2abdc2f910",
+  "active": "3f91bd16ec31f204",
   "lastOpenFiles": [
-    "R U S T/Ultimate Rust Crash Course/I 4 The Meat of Rust.md",
-    "Excalidraw/traits_inheritance.excalidraw.md",
-    "R U S T/Ultimate Rust Crash Course/I 3 The Heart of Rust.md",
     "A I/JS uczenie maszynowe/2 Badanie danych.md",
+    "Excalidraw/traits_inheritance.excalidraw.md",
+    "R U S T/Ultimate Rust Crash Course/I 5 Final Lectures.md",
+    "R U S T/Ultimate Rust Crash Course/I 4 The Meat of Rust.md",
+    "R U S T/Ultimate Rust Crash Course/I 3 The Heart of Rust.md",
     "A I/JS uczenie maszynowe/1 Poznawanie potencjału języka JS.md",
     "A I/JS uczenie maszynowe/_ 0 Uczenie maszynowe z JS.md",
     "R U S T/Ultimate Rust Crash Course/_ Ultimate Rust Crash Course.md",
@@ -229,7 +233,6 @@
     "_ WEB/React,TypeScript,Node/I TypeScript/_ TypeScript.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/2. Common Programming Concepts in Rust.md",
     "R U S T/Ultimate Rust Crash Course/I 1 Fundamentals.md",
-    "R U S T/Ultimate Rust Crash Course/I 5 Final Lectures.md",
     "R U S T/Ultimate Rust Crash Course/I 6 Invaders Project.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/_ Ultimate Rust Lang Tutorial.md",
     "R U S T/Ultimate Rust Crash Course",
