@@ -209,22 +209,40 @@ $("a[hreflang*='pl']").css("backgroundColor", "yellow") ;
 </script>
 ```
 
-
 1. `*` (gwiazdka):
-    - Przykład użycia: `a[hreflang*='pl']`
-    - Odnajduje elementy, których atrybut zawiera określony fragment, gdziekolwiek wewnątrz atrybutu.
-    - Na przykład `<a hreflang="pl">`, `<a hreflang="en-pl">`
-    - Nie wymaga, aby fragment był oddzielony od reszty atrybutu żadnym konkretnym znakiem.
+    
+    - Przykład: `div *`
+    - Selektor dla wszystkich elementów potomnych dowolnego elementu.
+    - Przykład: `div *` wybierze wszystkie elementy, które są potomkami elementu `<div>`.
 2. `|` (kreska pionowa):
-    - Przykład użycia: `a[hreflang|='pl']`
-    - Odnajduje elementy, których atrybut jest równy określonemu wartości lub zaczyna się od niej i jest połączony z myślnikiem.
-    - Na przykład `<a hreflang="pl">`, `<a hreflang="pl-PL">`, `<a hreflang="pl-xyz">`
-    - Przyjmuje tylko wartości, które są dokładnym dopasowaniem lub zaczynają się od wartości, po której następuje myślnik.
+    
+    - Przykład: `td|input`
+    - Selektor dla elementów, które są w przestrzeni nazw określonej przez przedrostek przed kreską pionową.
+    - Przykład: `td|input` wybierze wszystkie elementy `<input>`, które są wewnątrz elementu `<td>` w tej samej przestrzeni nazw.
 3. `~` (tylda):
-    - Przykład użycia: `a[hreflang~='pl']`
-    - Odnajduje elementy, których atrybut zawiera określone słowo, niezależnie od pozycji słowa wewnątrz atrybutu.
-    - Na przykład `<a hreflang="en pl">`, `<a hreflang="de pl it">`, `<a hreflang="xyzpl">`
-    - Przyjmuje wartości, które są oddzielone spacją i zawierają określone słowo.
+    
+    - Przykład: `p ~ span`
+    - Selektor dla elementów, które są rodzeństwem (mają tego samego rodzica) i znajdują się po nim.
+    - Przykład: `p ~ span` wybierze wszystkie elementy `<span>`, które są rodzeństwem elementu `<p>` i występują po nim.
+4. `$` (dolar):
+    
+    - Przykład: `a[href$='.pdf']`
+    - Selektor dla elementów, których atrybut kończy się określonym ciągiem znaków.
+    - Przykład: `a[href$='.pdf']` wybierze wszystkie elementy `<a>`, których atrybut `href` kończy się na `.pdf`.
+5. `=` (równość):
+    
+    - Przykład: `input[type='text']`
+    - Selektor dla elementów, których atrybut ma dokładnie określoną wartość.
+    - Przykład: `input[type='text']` wybierze wszystkie elementy `<input>`, które mają atrybut `type` ustawiony na `'text'`.
+6. `!` (negacja):
+    
+    - Przykład: `:not(.class)`
+    - Selektor dla elementów, które nie pasują do określonego selektora.
+    - Przykład: `:not(.class)` wybierze wszystkie elementy, które nie mają klasy `class`.
+
+---
+# Pseudo selektory
+selektory poprzedzone wyłącznie znakiem `:`
 
 
 
