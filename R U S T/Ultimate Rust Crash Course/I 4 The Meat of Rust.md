@@ -314,5 +314,53 @@ match my_variable {
 }
 ```
 
+OPTION
+```rust
+let mut x = None;
+x = Some(5) ;
+x.is_some(); //true
+x.is_none(); //false
+for i in x {println!("{}", i) ;} //print 5
+```
 
+
+### RESULT
+#rust/result 
+`Result` is used whenever something might have a useful result, or might have an error 
+definition
+```rust
+#[must_use] //it makes a compiler warning to sulently drop a result
+enum Result<T,E<{
+	Ok(T),
+	Err(E),
+}
+```
+
+example
+```rust
+use std::fs::File;
+
+fn main() {
+	File::open("foo") ; //this returns Result because the file might not get opened successfully
+}
+```
+
+```rust
+use std::fs::File;
+
+fn main() {
+	let res = File::open("foo") ; //this returns Result because the file might not get opened successfully
+	let f= res.unwrap() ; // if the Result is Ok(), it gives you the File struct that you wanted;; Err crashes the program
+}
+```
+other option
+```rust
+use std::fs::File ;
+
+fn main(){
+	let res = File::open("foo") ;
+	let 
+
+}
+```
 
