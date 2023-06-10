@@ -200,8 +200,6 @@ from . import views
 urlpatterns = [path('', views.index, name='index')]
 ```
 
-
-
 - w pliku projektu `mysite` folder główny zmodyfikuj `urls.py`
 	- dodaj `include` do biblioteki `django.urls` wstawiając include() na listę url patterns
 	- uzyskamy wskazanie w podstawowej konfiguracji adresu URL na moduł `ankiety.urls`

@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studia/Python BackEnd/Django/1 Framework Django.md",
+                "file": "Studia/Python BackEnd/Django/2 Django.md",
                 "mode": "source",
                 "source": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studia/Python BackEnd/Django/1 Framework Django.md",
+                "file": "Studia/Python BackEnd/Django/2 Django.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studia/Python BackEnd/Django/1 Framework Django.md",
+                "file": "Studia/Python BackEnd/Django/2 Django.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studia/Python BackEnd/Django/1 Framework Django.md"
+                "file": "Studia/Python BackEnd/Django/2 Django.md"
               }
             }
           },
@@ -240,6 +240,7 @@
   },
   "active": "695783a7b13fa71c",
   "lastOpenFiles": [
+    "Studia/Python BackEnd/Django/1 Framework Django.md",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 6 Invaders Project.md",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 5 Final Lectures.md",
     "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md",
@@ -268,7 +269,6 @@
     "R U S T/Ultimate Rust Crash Course",
     "R U S T/Rust Programming For Beginners/9.5 If let else, While let.md",
     "_ WEB/Rust/Rocket/_ Rocket Rust.md",
-    "conflict-files-obsidian-git.md",
     "_ WEB/Rust/Rocket",
     "_ WEB/Rust",
     "_ WEB/React,TypeScript,Node/I TypeScript",
