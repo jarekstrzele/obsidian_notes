@@ -32,18 +32,6 @@
             }
           },
           {
-            "id": "3f91bd16ec31f204",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Studia/Python BackEnd/jQuery.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2de058ad1fe22a1a",
             "type": "leaf",
             "state": {
@@ -62,6 +50,18 @@
               "type": "markdown",
               "state": {
                 "file": "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "695783a7b13fa71c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 5 Final Lectures.md",
                 "mode": "source",
                 "source": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md",
+                "file": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 5 Final Lectures.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md",
+                "file": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 5 Final Lectures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md"
+                "file": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 5 Final Lectures.md"
               }
             }
           },
@@ -238,7 +238,7 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "21db1e08a12ec1e9",
+  "active": "695783a7b13fa71c",
   "lastOpenFiles": [
     "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md",
     "A I/JS uczenie maszynowe/2 Badanie danych.md",
