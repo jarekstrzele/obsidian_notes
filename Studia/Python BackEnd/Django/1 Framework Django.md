@@ -33,7 +33,7 @@ Aby rozpocząc pracę z frameworkiem Django:
 
 # WSTĘP
 >[!info]  Django (dżango) 
->TO darmowy i open-source'owy framwork do tworzenia aplikacji webowych napisnaych w pYthonie
+>TO darmowy i open-source'owy framework do tworzenia aplikacji webowych napisnaych w pYthonie
 >- 2003 Lawrence Journal-World
 >- 2005 licencja BSD
 >- 2008 funcdacja Django Software Foundation

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "1 Framework Django",
+      "path": "Studia/Python BackEnd/Django/1 Framework Django.md"
+    },
+    {
       "basename": "I 6 Invaders Project",
       "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 6 Invaders Project.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "1 Guessing Game in Rust",
       "path": "R U S T/ULTIMATE Rust Lang Tutorial/1 Guessing Game in Rust.md"
-    },
-    {
-      "basename": "_ Rust Tech with Tim",
-      "path": "R U S T/Tech with TIm Rust/_ Rust Tech with Tim.md"
     }
   ],
   "omittedPaths": [],
