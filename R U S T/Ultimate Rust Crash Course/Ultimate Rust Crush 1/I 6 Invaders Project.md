@@ -8,7 +8,8 @@
 >- **stylizacja i formatowanie tekstu**
 
 `use crossterm::{terminal, ExecutableCommand} ;`
-- modu
+- moduł `terminal` zwiera finkcje i typy związane z zarządzaniem terminalem, takie jak przejście do alternatywnego ekranu ...
+- moduł `ExecutableCommand` - to trait, który rozszerza  możliwości strumienia `std::io::stdout()`
 
 
 
