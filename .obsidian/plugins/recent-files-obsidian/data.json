@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "9.4 Traits Rust",
+      "path": "R U S T/Rust Programming For Beginners/9.4 Traits Rust.md"
+    },
+    {
       "basename": "9.6 External crates",
       "path": "R U S T/Rust Programming For Beginners/9.6 External crates.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2.3. Stream",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.3. Stream.md"
-    },
-    {
-      "basename": "2.2. Buffer",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.2. Buffer.md"
     }
   ],
   "omittedPaths": [],

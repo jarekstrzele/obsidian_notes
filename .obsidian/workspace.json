@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/9.6 External crates.md",
+                "file": "R U S T/Rust Programming For Beginners/9.4 Traits Rust.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/9.6 External crates.md",
+                "file": "R U S T/Rust Programming For Beginners/9.4 Traits Rust.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/9.6 External crates.md",
+                "file": "R U S T/Rust Programming For Beginners/9.4 Traits Rust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/9.6 External crates.md"
+                "file": "R U S T/Rust Programming For Beginners/9.4 Traits Rust.md"
               }
             }
           },
@@ -252,8 +252,8 @@
   },
   "active": "829465de0b903ab8",
   "lastOpenFiles": [
-    "R U S T/Rust Programming For Beginners/9.5 If let else, While let.md",
     "R U S T/Rust Programming For Beginners/9.6 External crates.md",
+    "R U S T/Rust Programming For Beginners/9.5 If let else, While let.md",
     "Studia/Python BackEnd/Django/3 Django zaawansowane cz 1.md",
     "Studia/Python BackEnd/Django/2 Django.md",
     "Studia/Python BackEnd/Django/1 Framework Django.md",
