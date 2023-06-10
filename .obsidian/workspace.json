@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/9.4 Traits Rust.md",
+                "file": "R U S T/Rust Programming For Beginners/9.7 Modules as separate files.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/9.4 Traits Rust.md",
+                "file": "R U S T/Rust Programming For Beginners/9.7 Modules as separate files.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/9.4 Traits Rust.md",
+                "file": "R U S T/Rust Programming For Beginners/9.7 Modules as separate files.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/9.4 Traits Rust.md"
+                "file": "R U S T/Rust Programming For Beginners/9.7 Modules as separate files.md"
               }
             }
           },
@@ -252,6 +252,8 @@
   },
   "active": "829465de0b903ab8",
   "lastOpenFiles": [
+    "R U S T/Rust Programming For Beginners/9.4 Traits Rust.md",
+    "R U S T/Rust Programming For Beginners/9.7 Modules as separate files.md",
     "R U S T/Rust Programming For Beginners/9.6 External crates.md",
     "R U S T/Rust Programming For Beginners/9.5 If let else, While let.md",
     "Studia/Python BackEnd/Django/3 Django zaawansowane cz 1.md",
@@ -278,8 +280,6 @@
     "P Y T H O N/Lear_Build_Flask/_ Intro Scalable Web Applications with Python, Flask and SQLAlchemy.md",
     "API/FastAPI/_ 0 FastAPI.md",
     "_ WEB/React,TypeScript,Node/I TypeScript/_ TypeScript.md",
-    "R U S T/ULTIMATE Rust Lang Tutorial/2. Common Programming Concepts in Rust.md",
-    "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 1 Fundamentals.md",
     "R U S T/Ultimate Rust Crash Course",
     "_ WEB/Rust/Rocket",
     "_ WEB/Rust",

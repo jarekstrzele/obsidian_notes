@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "9.7 Modules as separate files",
+      "path": "R U S T/Rust Programming For Beginners/9.7 Modules as separate files.md"
+    },
+    {
       "basename": "9.4 Traits Rust",
       "path": "R U S T/Rust Programming For Beginners/9.4 Traits Rust.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2.4. Process",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.4. Process.md"
-    },
-    {
-      "basename": "2.3. Stream",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.3. Stream.md"
     }
   ],
   "omittedPaths": [],
