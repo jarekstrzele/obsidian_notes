@@ -126,7 +126,6 @@ Python wykonuje instrukcje `SQL INSERT`.
 Python połączy się z bazą dopiero, gdy wywołana będzie metoda `save()` (ta metoda nie zwraca żadnej wartości)
 
 
-
 **Przykład**
 ```python
 from django.contrib.auth.models import User
@@ -229,7 +228,6 @@ class Post(models.Model)
 ```
 
 
-
 ## Relacje 
 relacje są definiowane na poziomie bazy danych, a nie tylko na poziomie aplikacji
 
@@ -262,8 +260,6 @@ books = authors[2].book_set.all() # pobierz książki, których autorem jest trz
 
 - *jeden-do-jednego* (identyfikator produktu, kod kreskowy produktu)
 `OneToOneField`
-
-
 
 
 #### KLUCZ GŁÓWNY

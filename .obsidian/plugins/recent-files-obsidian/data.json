@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "3 Django zaawansowane cz 1",
+      "path": "Studia/Python BackEnd/Django/3 Django zaawansowane cz 1.md"
+    },
+    {
       "basename": "2 Django",
       "path": "Studia/Python BackEnd/Django/2 Django.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2.2. Buffer",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.2. Buffer.md"
-    },
-    {
-      "basename": "2.1. Zdarzenia",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md"
     }
   ],
   "omittedPaths": [],

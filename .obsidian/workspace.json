@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studia/Python BackEnd/Django/2 Django.md",
+                "file": "Studia/Python BackEnd/Django/3 Django zaawansowane cz 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studia/Python BackEnd/Django/2 Django.md",
+                "file": "Studia/Python BackEnd/Django/3 Django zaawansowane cz 1.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studia/Python BackEnd/Django/2 Django.md",
+                "file": "Studia/Python BackEnd/Django/3 Django zaawansowane cz 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studia/Python BackEnd/Django/2 Django.md"
+                "file": "Studia/Python BackEnd/Django/3 Django zaawansowane cz 1.md"
               }
             }
           },
@@ -240,6 +240,8 @@
   },
   "active": "695783a7b13fa71c",
   "lastOpenFiles": [
+    "Studia/Python BackEnd/Django/2 Django.md",
+    "Studia/Python BackEnd/Django/3 Django zaawansowane cz 1.md",
     "Studia/Python BackEnd/Django/1 Framework Django.md",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 6 Invaders Project.md",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 5 Final Lectures.md",
@@ -267,8 +269,6 @@
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 1 Fundamentals.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/_ Ultimate Rust Lang Tutorial.md",
     "R U S T/Ultimate Rust Crash Course",
-    "R U S T/Rust Programming For Beginners/9.5 If let else, While let.md",
-    "_ WEB/Rust/Rocket/_ Rocket Rust.md",
     "_ WEB/Rust/Rocket",
     "_ WEB/Rust",
     "_ WEB/React,TypeScript,Node/I TypeScript",
