@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 5 Final Lectures.md",
+                "file": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 6 Invaders Project.md",
                 "mode": "source",
                 "source": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 5 Final Lectures.md",
+                "file": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 6 Invaders Project.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 5 Final Lectures.md",
+                "file": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 6 Invaders Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 5 Final Lectures.md"
+                "file": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 6 Invaders Project.md"
               }
             }
           },
@@ -240,6 +240,7 @@
   },
   "active": "695783a7b13fa71c",
   "lastOpenFiles": [
+    "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 5 Final Lectures.md",
     "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md",
     "A I/JS uczenie maszynowe/2 Badanie danych.md",
     "Studia/Python BackEnd/jQuery.md",
@@ -250,7 +251,6 @@
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 2",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1",
     "_ WEB/N_O_D_E/Node JS 101 Crash/_ NodeJS 101 Crash Course.md",
-    "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 5 Final Lectures.md",
     "Excalidraw/traits_inheritance.excalidraw.md",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 4 The Meat of Rust.md",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 3 The Heart of Rust.md",
