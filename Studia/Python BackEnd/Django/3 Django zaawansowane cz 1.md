@@ -112,4 +112,35 @@ TEMPLATES = [
 ```
 katalog szablonów będzie widoczny dla modułu ładującego szablony
 
+#### konfiguracja dwóch silników na raz
+```python
+TEMPLATES = [
+{
+  'BACKEND':'django.template.backends.django.DjangoTemplates',
+  'DIRS': [
+    '/home/html/example.com',
+    '/home/html/default',
+  ],
+},
+{
+ 'BACKEND':'django.template.backends.jinja2.Jinja2',
+ `DIRS`:[
+	 '/home/html/jinja2',
+ ]
+}
+]
+```
+
+
+
+## Kontekst i procesory konteksty
+kontekst `django.template.Context` oprócz danych kontekstowych przechowuje pewne metadane. Jest przekazywany do `Template.render()` w celu renderowania
+
+
+
+
+
+
+
+
 
