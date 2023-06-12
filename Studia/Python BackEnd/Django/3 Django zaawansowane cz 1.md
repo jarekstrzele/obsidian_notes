@@ -29,6 +29,16 @@ WIDOK:
 - w pliku `view.py` 
 - to funkcja, która przyjmuje co najmniej jeden argument - obiekt `request`, a zwraca odpowiedź za pomocą ==`render_to_response`== (z szablonem może przyjmować kilka argumentów: nazwa szablony, słownik ze zmiennymi szablonu, `RequestContext` (zmienne globalne dla wszystkich szablonów)
 
+**wygląd strony www** = kod z `view.py` + kod z `index.html`
+
+SZABLON
+#django/templates 
+- plik tekstowy zawierający kod HTML, do którego możemy "wstrzykiwać" dodatkowe zmienne przekazane z widoku (dynamiczne renderowanie strony)
+- może być generowany w dowolny formacie tekstowym (HTML< XML< CSV, ...)
+- podstawowe elementy to `{{ content }}` symbole zastępcze, który wartości są generowane f=dynamicznie
+- zaleca się tworzenie dla szablonów *przestrzeni nazw* (podfoldery z nazwą aplikacji)
+- utwórz katalog `templates` w katalogu głównym aplikacji
+- 
 
 
 
