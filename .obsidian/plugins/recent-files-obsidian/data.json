@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "1 Variables",
+      "path": "R U S T/1 - Full Rust Beginner s Course/1 Variables.md"
+    },
+    {
       "basename": "_ 1 Full Rust Beginners Cours",
       "path": "R U S T/1 - Full Rust Beginner s Course/_ 1 Full Rust Beginners Cours.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "middleware",
       "path": "middleware.md"
-    },
-    {
-      "basename": "asynch_in_node.excalidraw",
-      "path": "Excalidraw/asynch_in_node.excalidraw.md"
     }
   ],
   "omittedPaths": [],

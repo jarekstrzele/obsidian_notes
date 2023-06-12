@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/1 - Full Rust Beginner s Course/_ 1 Full Rust Beginners Cours.md",
+                "file": "R U S T/1 - Full Rust Beginner s Course/1 Variables.md",
                 "mode": "source",
                 "source": false
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/1 - Full Rust Beginner s Course/_ 1 Full Rust Beginners Cours.md",
+                "file": "R U S T/1 - Full Rust Beginner s Course/1 Variables.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -198,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/1 - Full Rust Beginner s Course/_ 1 Full Rust Beginners Cours.md",
+                "file": "R U S T/1 - Full Rust Beginner s Course/1 Variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/1 - Full Rust Beginner s Course/_ 1 Full Rust Beginners Cours.md"
+                "file": "R U S T/1 - Full Rust Beginner s Course/1 Variables.md"
               }
             }
           },
@@ -271,12 +271,13 @@
   },
   "active": "21db1e08a12ec1e9",
   "lastOpenFiles": [
+    "R U S T/1 - Full Rust Beginner s Course/_ 1 Full Rust Beginners Cours.md",
+    "R U S T/1 - Full Rust Beginner s Course/1 Variables.md",
     "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md",
     "R U S T/Rust Programming For Beginners/10 Final Project.md",
     "R U S T/Rust Programming For Beginners/10.2 New Types Patterns.md",
     "R U S T/Rust Programming For Beginners/10.1 Custom Error Types.md",
     "R U S T/Rust Programming For Beginners/Untitled.md",
-    "R U S T/1 - Full Rust Beginner s Course/_ 1 Full Rust Beginners Cours.md",
     "A I/JS uczenie maszynowe/2 Badanie danych.md",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 2/idiomatic code.md",
     "R U S T/1 - Full Rust Beginner s Course",
@@ -297,7 +298,6 @@
     "Studia/Python BackEnd/Django/2 Django.md",
     "Studia/Python BackEnd/Django/1 Framework Django.md",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 6 Invaders Project.md",
-    "Studia/Python BackEnd/jQuery.md",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 2",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1",
     "R U S T/Ultimate Rust Crash Course",
