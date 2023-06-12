@@ -190,9 +190,25 @@ niektóre tagi wymagają tagów początkowych i końcowych
 
 większość tagów akceptuje argumenty(np. cykl przez wartości parzysty nieparzysty `{% cycle 'odd' 'event' %}`)
 
+`block` dodaje blok, który może być nadpisany przez szablony potomków
 
+`{% comment  %}  {% endcomment %}` - comment
 
+`for` pętla
+```html
+<ul>
+	{% for athlete in athlete_list %}
+	 <li> {{ athlete.name}} </li>
+	{% endfor %}
+</ul>
+```
 
+### Django i Jinja2
+Django -Jinja to prosty i nie przeszkadzający backend Jinja2 
+
+**Jinja2** ma pewne zalety w stosunku do natywnego systemu Django, na przykład jawne wywołania z szablonów, lepszą wydajność i system wtycznek
+*konfiguracja*
+- `python4 -m pip install Jinja`
 
 
 
