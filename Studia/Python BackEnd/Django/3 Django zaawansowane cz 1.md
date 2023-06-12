@@ -36,9 +36,26 @@ SZABLON
 - plik tekstowy zawierający kod HTML, do którego możemy "wstrzykiwać" dodatkowe zmienne przekazane z widoku (dynamiczne renderowanie strony)
 - może być generowany w dowolny formacie tekstowym (HTML< XML< CSV, ...)
 - podstawowe elementy to `{{ content }}` symbole zastępcze, który wartości są generowane f=dynamicznie
-- zaleca się tworzenie dla szablonów *przestrzeni nazw* (podfoldery z nazwą aplikacji), aby uniknąć błędów duplikowani, gdy
-- utwórz katalog `templates` w katalogu głównym aplikacji
-- 
+- zaleca się tworzenie dla szablonów *przestrzeni nazw* (podfoldery z nazwą aplikacji), aby uniknąć błędów duplikowani, gdy w projekcie jest więcej aplikacji o takiej samej strukturze folderów
+	- utwórz katalog `templates` w katalogu głównym aplikacji, czyli 
+	- `project_directory` > `aplication_name` >`base.html` i folder `templates` > `aplication_name` > html files
+przykład `application_name\templates\archive.html`
+```html
+{% extends "base.html" %}
+{% block title %} Article for {{ year }} {% endblock %}
+
+{% block content %}
+<h1> Articles for {{ year }} </h1>
+
+{% for article in article_list %}
+	<p> {{ article.headline }} </p>
+	<p> By {{ article.reporter.full_name}} </p>
+{% endfor %}
+{% enblock %}
+```
+
+*{% extends %}* informuje Django o konieczności dziedziczenia po szablonie `base.html`
+bloki *title* i *content* wypełniane są treścią z przekazanych wartości zmiennych
 
 
 
