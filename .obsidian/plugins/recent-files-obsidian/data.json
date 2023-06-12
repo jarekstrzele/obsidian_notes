@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "3 Django zaawansowane cz 1",
-      "path": "Studia/Python BackEnd/Django/3 Django zaawansowane cz 1.md"
+      "basename": "3.2 Django zaawansowane cz 2",
+      "path": "Studia/Python BackEnd/Django/3.2 Django zaawansowane cz 2.md"
+    },
+    {
+      "basename": "3.1 Django zaawansowane cz 1",
+      "path": "Studia/Python BackEnd/Django/3.1 Django zaawansowane cz 1.md"
     },
     {
       "basename": "2 Django",
@@ -195,10 +199,6 @@
     {
       "basename": "Responder Actix",
       "path": "_ WEB/Rust/Actix/Responder Actix.md"
-    },
-    {
-      "basename": "App Actix",
-      "path": "_ WEB/Rust/Actix/App Actix.md"
     }
   ],
   "omittedPaths": [],

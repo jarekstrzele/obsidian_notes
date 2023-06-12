@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studia/Python BackEnd/Django/3 Django zaawansowane cz 1.md",
+                "file": "Studia/Python BackEnd/Django/3.2 Django zaawansowane cz 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 368.5
   },
   "right": {
     "id": "ec7d1a70da2de581",
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studia/Python BackEnd/Django/3 Django zaawansowane cz 1.md",
+                "file": "Studia/Python BackEnd/Django/3.2 Django zaawansowane cz 2.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studia/Python BackEnd/Django/3 Django zaawansowane cz 1.md",
+                "file": "Studia/Python BackEnd/Django/3.2 Django zaawansowane cz 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studia/Python BackEnd/Django/3 Django zaawansowane cz 1.md"
+                "file": "Studia/Python BackEnd/Django/3.2 Django zaawansowane cz 2.md"
               }
             }
           },
@@ -191,8 +191,9 @@
   },
   "active": "60e9225056dfc3ec",
   "lastOpenFiles": [
+    "Studia/Python BackEnd/Django/3.1 Django zaawansowane cz 1.md",
+    "Studia/Python BackEnd/Django/3.2 Django zaawansowane cz 2.md",
     "Studia/Python BackEnd/Django/2 Django.md",
-    "Studia/Python BackEnd/Django/3 Django zaawansowane cz 1.md",
     "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md",
     "A I/JS uczenie maszynowe/2 Badanie danych.md",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 2/idiomatic code.md",
@@ -217,7 +218,6 @@
     "R U S T/Rust Programming For Beginners/9.4 Traits Rust.md",
     "R U S T/Rust Programming For Beginners/9.6 External crates.md",
     "R U S T/Rust Programming For Beginners/9.5 If let else, While let.md",
-    "Studia/Python BackEnd/Django/1 Framework Django.md",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 2",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1",
     "R U S T/Ultimate Rust Crash Course",
