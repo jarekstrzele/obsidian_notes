@@ -36,7 +36,7 @@ SZABLON
 - plik tekstowy zawierający kod HTML, do którego możemy "wstrzykiwać" dodatkowe zmienne przekazane z widoku (dynamiczne renderowanie strony)
 - może być generowany w dowolny formacie tekstowym (HTML< XML< CSV, ...)
 - podstawowe elementy to `{{ content }}` symbole zastępcze, który wartości są generowane f=dynamicznie
-- zaleca się tworzenie dla szablonów *przestrzeni nazw* (podfoldery z nazwą aplikacji)
+- zaleca się tworzenie dla szablonów *przestrzeni nazw* (podfoldery z nazwą aplikacji), aby uniknąć błędów duplikowani, gdy
 - utwórz katalog `templates` w katalogu głównym aplikacji
 - 
 
