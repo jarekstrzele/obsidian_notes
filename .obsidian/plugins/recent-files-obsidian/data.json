@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "10.2 New Types Patterns",
-      "path": "R U S T/Rust Programming For Beginners/10.2 New Types Patterns.md"
+      "basename": "3 Django zaawansowane cz 1",
+      "path": "Studia/Python BackEnd/Django/3 Django zaawansowane cz 1.md"
+    },
+    {
+      "basename": "2 Django",
+      "path": "Studia/Python BackEnd/Django/2 Django.md"
+    },
+    {
+      "basename": "1. synchronous vs asynchronous",
+      "path": "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md"
+    },
+    {
+      "basename": "2 Badanie danych",
+      "path": "A I/JS uczenie maszynowe/2 Badanie danych.md"
+    },
+    {
+      "basename": "idiomatic code",
+      "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 2/idiomatic code.md"
     },
     {
       "basename": "1 Variables",
       "path": "R U S T/1 - Full Rust Beginner s Course/1 Variables.md"
+    },
+    {
+      "basename": "10.2 New Types Patterns",
+      "path": "R U S T/Rust Programming For Beginners/10.2 New Types Patterns.md"
     },
     {
       "basename": "_ Full Rust Beginners Cours",
@@ -15,10 +35,6 @@
     {
       "basename": "2 Numbers",
       "path": "R U S T/1 - Full Rust Beginner s Course/2 Numbers.md"
-    },
-    {
-      "basename": "1. synchronous vs asynchronous",
-      "path": "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md"
     },
     {
       "basename": "10 Final Project",
@@ -31,14 +47,6 @@
     {
       "basename": "Untitled",
       "path": "R U S T/Rust Programming For Beginners/Untitled.md"
-    },
-    {
-      "basename": "2 Badanie danych",
-      "path": "A I/JS uczenie maszynowe/2 Badanie danych.md"
-    },
-    {
-      "basename": "idiomatic code",
-      "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 2/idiomatic code.md"
     },
     {
       "basename": "7 Advanced Concepts",
@@ -81,10 +89,6 @@
       "path": "linux/UBUNTU.md"
     },
     {
-      "basename": "3 Django zaawansowane cz 1",
-      "path": "Studia/Python BackEnd/Django/3 Django zaawansowane cz 1.md"
-    },
-    {
       "basename": "9.4 Traits Rust",
       "path": "R U S T/Rust Programming For Beginners/9.4 Traits Rust.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "9.5 If let else, While let",
       "path": "R U S T/Rust Programming For Beginners/9.5 If let else, While let.md"
-    },
-    {
-      "basename": "2 Django",
-      "path": "Studia/Python BackEnd/Django/2 Django.md"
     },
     {
       "basename": "1 Framework Django",
