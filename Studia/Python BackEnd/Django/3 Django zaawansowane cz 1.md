@@ -207,11 +207,15 @@ większość tagów akceptuje argumenty(np. cykl przez wartości parzysty niepar
 Django -Jinja to prosty i nie przeszkadzający backend Jinja2 
 
 **Jinja2** ma pewne zalety w stosunku do natywnego systemu Django, na przykład jawne wywołania z szablonów, lepszą wydajność i system wtycznek
-*konfiguracja*
-- `python4 -m pip install Jinja`
+#### konfiguracja
+- `python4 -m pip install Jinja2`
 
-
-
+#### przestrzeń nazw
+- dodanie dodatkowego podfolderu, który będzie działał jako przestrzeń nazw w każdym katalogu jinj2
+- aby uniemożliwić ładowanie szablonów z tych wewnętrznych podfolderów aplikacji, można ustawić `APP_DIRS` na FALSE
+- najlepiej do przechowywania szablonów Jinja używać folderów poza strukturami aplikacji (DJango najpierw szuka pasujących szablonów Jinja w pierwszej wartości `DIRS`, potem w folderach `Jinja2` a aplikacjach jeśli `APP_DIRS` ma wartość true dopóki nie znajdzie pasującego szablonu lin nie zgłosi błędu `TemplateDoesNotExist`)
+- 
+## OPTIONS
 
 
 
