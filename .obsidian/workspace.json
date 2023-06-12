@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e30016c585ace1f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linux/UBUNTU.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -150,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/9.7 Modules as separate files.md",
+                "file": "linux/UBUNTU.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -167,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/9.7 Modules as separate files.md",
+                "file": "linux/UBUNTU.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/9.7 Modules as separate files.md"
+                "file": "linux/UBUNTU.md"
               }
             }
           },
@@ -238,10 +250,10 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "829465de0b903ab8",
+  "active": "e30016c585ace1f4",
   "lastOpenFiles": [
-    "Studia/Python BackEnd/Django/3 Django zaawansowane cz 1.md",
     "R U S T/Rust Programming For Beginners/9.7 Modules as separate files.md",
+    "Studia/Python BackEnd/Django/3 Django zaawansowane cz 1.md",
     "R U S T/Rust Programming For Beginners/9.4 Traits Rust.md",
     "R U S T/Rust Programming For Beginners/9.6 External crates.md",
     "R U S T/Rust Programming For Beginners/9.5 If let else, While let.md",

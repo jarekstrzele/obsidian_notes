@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "UBUNTU",
+      "path": "linux/UBUNTU.md"
+    },
+    {
       "basename": "9.7 Modules as separate files",
       "path": "R U S T/Rust Programming For Beginners/9.7 Modules as separate files.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "3 Node praca z Sys. Plików",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3 Node praca z Sys. Plików.md"
-    },
-    {
-      "basename": "2.4. Process",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.4. Process.md"
     }
   ],
   "omittedPaths": [],
