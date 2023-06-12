@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/10.1 Personal Contacts Manager.md",
+                "file": "R U S T/1 - Full Rust Beginner s Course/_ 1 Full Rust Beginners Cours.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/10.1 Personal Contacts Manager.md",
+                "file": "R U S T/1 - Full Rust Beginner s Course/_ 1 Full Rust Beginners Cours.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/10.1 Personal Contacts Manager.md",
+                "file": "R U S T/1 - Full Rust Beginner s Course/_ 1 Full Rust Beginners Cours.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/10.1 Personal Contacts Manager.md"
+                "file": "R U S T/1 - Full Rust Beginner s Course/_ 1 Full Rust Beginners Cours.md"
               }
             }
           },
@@ -256,15 +256,16 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "f621f21825dbd82d",
+  "active": "829465de0b903ab8",
   "lastOpenFiles": [
-    "R U S T/Untitled",
+    "R U S T/Rust Programming For Beginners/10.1 Personal Contacts Manager.md",
+    "R U S T/1 - Full Rust Beginner s Course/_ 1 Full Rust Beginners Cours.md",
+    "R U S T/1 - Full Rust Beginner s Course",
     "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md",
     "R U S T/Rust Programming For Beginners/6 Data Collections.md",
     "R U S T/Rust Programming For Beginners/5 Intermediate Concepts.md",
     "R U S T/Rust Programming For Beginners/4 Data.md",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 5 Final Lectures.md",
-    "R U S T/Rust Programming For Beginners/10.1 Personal Contacts Manager.md",
     "R U S T/Rust Programming For Beginners/8.3. Closures Rust.md",
     "R U S T/Rust Programming For Beginners/10 Final Project.md",
     "R U S T/Rust Programming For Beginners/_ Rust Programming for Beginners.md",
@@ -293,7 +294,6 @@
     "_ WEB/React,TypeScript,Node/III Express, GraphQL tworzenie usług internetowych",
     "_ WEB/React,TypeScript,Node",
     "_ WEB/Actix/Untitled",
-    "_ WEB/Rust/Actix",
     "test canvas.canvas",
     "pexels-alex-fu-1302436.jpg",
     "methodology/images/seaborn_relplot_tip_total_bill_4.png",
