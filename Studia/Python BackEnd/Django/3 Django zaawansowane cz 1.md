@@ -18,20 +18,20 @@ Agenda
 15. widoki generyczne
 
 --------------
-**WZORZEC MTV** *Model-Template-View*
+# **WZORZEC MTV** *Model-Template-View*
 #django/mtv
 
 MODEL - logika bazodanowa
 SZABLON - określa wygląd (HTML)
 WIDOK - spina razem model i szablon tworząc gotową stronę
 
-WIDOK:
+# WIDOK:
 - w pliku `view.py` 
 - to funkcja, która przyjmuje co najmniej jeden argument - obiekt `request`, a zwraca odpowiedź za pomocą ==`render_to_response`== (z szablonem może przyjmować kilka argumentów: nazwa szablony, słownik ze zmiennymi szablonu, `RequestContext` (zmienne globalne dla wszystkich szablonów)
 
 **wygląd strony www** = kod z `view.py` + kod z `index.html`
 
-SZABLON
+# SZABLON
 #django/templates 
 - plik tekstowy zawierający kod HTML, do którego możemy "wstrzykiwać" dodatkowe zmienne przekazane z widoku (dynamiczne renderowanie strony)
 - może być generowany w dowolny formacie tekstowym (HTML< XML< CSV, ...)
@@ -57,6 +57,26 @@ przykład `application_name\templates\archive.html`
 *{% extends %}* informuje Django o konieczności dziedziczenia po szablonie `base.html`
 bloki *title* i *content* wypełniane są treścią z przekazanych wartości zmiennych
 
+`aplication_name\base.html`
+```html
+{% load static %}
+<html>
+<head>
+	<title>{% title %} {% endblock %}</title>
+</head>
+<body>
+	<img src="{% static 'images/sitelogo.png' %}" alt="Logo">
+	{% block content %} {% endblock %}
+</body>
+<html>
+```
+
+*{% load static %}* umożliwia dołączanie plików statycznych, bo nakazuje Django wczytanie znaczników szablonu *static*
+
+*{% block <nazwa_bloku> %}* informują Django, że chcemy zdefiniować blok we wskazanym miejscu ---> inne szablony, które będą dziedziczyć po tym szablonie będą mogły umieszczać treść we wspomnianych blokach
+
+## Konfiguracja szablonu
+Są konfigurowane za pomocą ustawień `TEMPLATES`
 
 
 
