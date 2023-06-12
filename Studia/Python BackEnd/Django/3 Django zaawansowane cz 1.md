@@ -230,9 +230,14 @@ dodaje czego brakuje w wbudowanym backendzie Django:
 ## Pliki statyczne
 strony internetowe na ogół wymagają serwowania dodatkowych plików takich jak zdjęcia, skrypty JavaScript lub style CSS (to są w Django *pliki statyczne*)
 
-`django.contrib.staticfiles` - ułatwi zarządzanie plikami statycznymi
+`django.contrib.staticfiles` 
+- ułatwi zarządzanie plikami statycznymi
+- zbiera ono pliki statyczne z każdej aplikacji oraz każdego innego miejsca, które zostanie wskazane w jedna lokację, która może być prosto zaserwowana na produkcji 
 
-
+#### zarządzanie statycznymi plikami
+- utwórz katalog `static` w katalogu bieżącej aplikacji
+- ustawienie Django `STATICFILES_FINDERS` zawiera listę finderów, które wiedzą jak odnajdywać pliki statyczne w rożnych źródłach
+	- np. `AppDirectoriesFInder` szuka "statycznego" podkatalogu w każdej z `INSTALLED_APPS`
 
 
 
