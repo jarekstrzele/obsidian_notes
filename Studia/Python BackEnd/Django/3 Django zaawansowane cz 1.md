@@ -76,8 +76,40 @@ bloki *title* i *content* wypełniane są treścią z przekazanych wartości zmi
 *{% block <nazwa_bloku> %}* informują Django, że chcemy zdefiniować blok we wskazanym miejscu ---> inne szablony, które będą dziedziczyć po tym szablonie będą mogły umieszczać treść we wspomnianych blokach
 
 ## Konfiguracja szablonu
-Są konfigurowane za pomocą ustawień `TEMPLATES`
+Są konfigurowane za pomocą ustawień `TEMPLATES` zawartych w pliku `settings.py`
+np. 
+```python
+TEMPLATES = [
+{
+	'BACKEND': 'django.template.backends.django.DjangoTemplate',
+	'DIR':[],
+	'APP_DIRS': True,
+	'OTIONS': {
+	# /////
+	}
+}
+]
+```
+to są domyślne ustawienia, więc DjangoTemplates szuka podkatalogu `templates` (`'DIR': []`)
 
+`BACKEND` to ścieżka Python dla klasy silnika szablonów implementującej API. Wbudowane backend to :
+- `django.template.backends.django.DjangoTemplates`
+- `django.template.backends.jinja2.Jinja2`
 
+`DIRS` definiuje listę katalogów, w których silnik powinien szukać plików źródłowych szablonów w kolejności wyszukiwania
+
+`APP_DIRS` mówi, czy silnik powinien szukać szablonów w zainstalowanych aplikacjach
+przykład
+```python
+import os
+
+TEMPLATES = [
+{
+...
+'DIRS': [os.path.jin(BASE_DIR, 'templates)]
+}
+]
+```
+katalog szablonów będzie widoczny dla modułu ładującego szablony
 
 
