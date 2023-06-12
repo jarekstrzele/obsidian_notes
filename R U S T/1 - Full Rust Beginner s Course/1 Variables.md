@@ -1,7 +1,8 @@
 #rust/variable 
+[[_ Full Rust Beginners Cours]]
 
 
-# variable
+# declaration
 ```rust
 let  x= 1 ; //immutable
 let mut y = 1 ; // mutable
@@ -35,11 +36,11 @@ fn main() {
 		let x = 12;
 		assert_eq!(x,12); //true
 	}
-	assert_eq(x,12) ; // false
+	assert_eq!(x,12) ; // false
 
 	//shadowing
 	let x = 10 ;
-	assert_eq(x, 10) ; //true
+	assert_eq!(x, 10) ; //true
 }
 ```
 
@@ -69,8 +70,8 @@ fn main(){
  let (mut x, y) = (1,2) ;
 	x += 2;
 
- assert_eq(x, 3) ; //true
- assert_eq(y, 2) ; // true
+ assert_eq!(x, 3) ; //true
+ assert_eq!(y, 2) ; // true
 }
 ```
 
@@ -80,7 +81,7 @@ fn main(){
 	let (x,y) ; //declares two vars at once
 	(x, ..) = (3,4) ; // x = 3
 	[..,y] = [1,2] ; //  y = 2
-	
+	assert_eq!([x,y], [3,2]) ; // true
 
 
 }
