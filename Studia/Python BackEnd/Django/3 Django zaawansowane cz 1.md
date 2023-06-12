@@ -182,3 +182,20 @@ np,
 `{{ zmienna | escape | linebreaks }}` stosowanie kilku filtrów, wychodzi z treści tekstu oraz łamie tekst w linii poleceniem `<p>` `
 
 
+#### Tagi
+`{% tag %}`
+starują logiką wyświetlanych danych
+niektóre tagi wymagają tagów początkowych i końcowych
+`{% if user.is_authenticated %} Hello, {{ user.username }}.{% endif %}`
+
+większość tagów akceptuje argumenty(np. cykl przez wartości parzysty nieparzysty `{% cycle 'odd' 'event' %}`)
+
+
+
+
+
+
+
+
+
+
