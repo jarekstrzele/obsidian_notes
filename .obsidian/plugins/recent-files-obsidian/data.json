@@ -1,12 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "UBUNTU",
-      "path": "linux/UBUNTU.md"
+      "basename": "7 Advanced Concepts",
+      "path": "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md"
+    },
+    {
+      "basename": "5 Intermediate Concepts",
+      "path": "R U S T/Rust Programming For Beginners/5 Intermediate Concepts.md"
+    },
+    {
+      "basename": "10.1 Personal Contacts Manager",
+      "path": "R U S T/Rust Programming For Beginners/10.1 Personal Contacts Manager.md"
+    },
+    {
+      "basename": "10 Final Project",
+      "path": "R U S T/Rust Programming For Beginners/10 Final Project.md"
+    },
+    {
+      "basename": "_ Rust Programming for Beginners",
+      "path": "R U S T/Rust Programming For Beginners/_ Rust Programming for Beginners.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "R U S T/Rust Programming For Beginners/Untitled.md"
+    },
+    {
+      "basename": "9 Refining Your Code",
+      "path": "R U S T/Rust Programming For Beginners/9 Refining Your Code.md"
     },
     {
       "basename": "9.7 Modules as separate files",
       "path": "R U S T/Rust Programming For Beginners/9.7 Modules as separate files.md"
+    },
+    {
+      "basename": "UBUNTU",
+      "path": "linux/UBUNTU.md"
     },
     {
       "basename": "3 Django zaawansowane cz 1",
@@ -149,10 +177,6 @@
       "path": "middleware.md"
     },
     {
-      "basename": "9 Refining Your Code",
-      "path": "R U S T/Rust Programming For Beginners/9 Refining Your Code.md"
-    },
-    {
       "basename": "asynch_in_node.excalidraw",
       "path": "Excalidraw/asynch_in_node.excalidraw.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "- 3 Node",
       "path": "_ WEB/N_O_D_E/Lear Node.js and Javascript/- 3 Node.md"
-    },
-    {
-      "basename": "- 2 JavaScript",
-      "path": "_ WEB/N_O_D_E/Lear Node.js and Javascript/- 2 JavaScript.md"
-    },
-    {
-      "basename": "3 RESTful API's using Express",
-      "path": "_ WEB/N_O_D_E/Mosh Node/3 RESTful API's using Express.md"
-    },
-    {
-      "basename": "_ 0 W3Schools Node",
-      "path": "_ WEB/N_O_D_E/w3school/_ 0 W3Schools Node.md"
-    },
-    {
-      "basename": "4.3. pliki statyczne",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/4.3. pliki statyczne.md"
-    },
-    {
-      "basename": "3.1. Odczytywanie info o plikach",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md"
-    },
-    {
-      "basename": "3 Node praca z Sys. Plików",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3 Node praca z Sys. Plików.md"
     }
   ],
   "omittedPaths": [],

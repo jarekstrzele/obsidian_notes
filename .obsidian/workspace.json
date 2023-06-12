@@ -61,26 +61,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/9.7 Modules as separate files.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e30016c585ace1f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linux/UBUNTU.md",
+                "file": "R U S T/Rust Programming For Beginners/10.1 Personal Contacts Manager.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
+      },
+      {
+        "id": "b364adf9e2ad1e19",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d9c60cdba6b5ec5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -162,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/UBUNTU.md",
+                "file": "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -179,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/UBUNTU.md",
+                "file": "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/UBUNTU.md"
+                "file": "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md"
               }
             }
           },
@@ -250,9 +256,16 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "e30016c585ace1f4",
+  "active": "0d9c60cdba6b5ec5",
   "lastOpenFiles": [
+    "R U S T/Rust Programming For Beginners/5 Intermediate Concepts.md",
+    "R U S T/Rust Programming For Beginners/10.1 Personal Contacts Manager.md",
+    "R U S T/Rust Programming For Beginners/10 Final Project.md",
+    "R U S T/Rust Programming For Beginners/_ Rust Programming for Beginners.md",
+    "R U S T/Rust Programming For Beginners/Untitled.md",
+    "R U S T/Rust Programming For Beginners/9 Refining Your Code.md",
     "R U S T/Rust Programming For Beginners/9.7 Modules as separate files.md",
+    "linux/UBUNTU.md",
     "Studia/Python BackEnd/Django/3 Django zaawansowane cz 1.md",
     "R U S T/Rust Programming For Beginners/9.4 Traits Rust.md",
     "R U S T/Rust Programming For Beginners/9.6 External crates.md",
@@ -273,13 +286,6 @@
     "_ WEB/N_O_D_E/Node JS 101 Crash/_ NodeJS 101 Crash Course.md",
     "Excalidraw/traits_inheritance.excalidraw.md",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 4 The Meat of Rust.md",
-    "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 3 The Heart of Rust.md",
-    "A I/JS uczenie maszynowe/1 Poznawanie potencjału języka JS.md",
-    "A I/JS uczenie maszynowe/_ 0 Uczenie maszynowe z JS.md",
-    "P Y T H O N/0 python ogólne.md",
-    "P Y T H O N/Lear_Build_Flask/_ Intro Scalable Web Applications with Python, Flask and SQLAlchemy.md",
-    "API/FastAPI/_ 0 FastAPI.md",
-    "_ WEB/React,TypeScript,Node/I TypeScript/_ TypeScript.md",
     "R U S T/Ultimate Rust Crash Course",
     "_ WEB/Rust/Rocket",
     "_ WEB/Rust",
