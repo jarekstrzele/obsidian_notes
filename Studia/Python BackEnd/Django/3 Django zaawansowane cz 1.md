@@ -14,8 +14,20 @@ Agenda
 11. waliacja formularza
 12. walidatory
 13. obsługa błędów formularza
-14. me
+14. metaklasy i meadane formularzy
+15. widoki generyczne
 
+--------------
+**WZORZEC MTV** *Model-Template-View*
+#django/mtv
+
+MODEL - logika bazodanowa
+SZABLON - określa wygląd (HTML)
+WIDOK - spina razem model i szablon tworząc gotową stronę
+
+WIDOK:
+- w pliku `view.py` 
+- to funkcja, która przyjmuje co najmniej jeden argument - obiekt `request`, a zwraca odpowiedź za pomocą ==`render_to_response`== (z szablonem może przyjmować kilka argumentów: nazwa szablony, słownik ze zmiennymi szablonu, `RequestContext` (zmienne globalne dla wszystkich szablonów)
 
 
 

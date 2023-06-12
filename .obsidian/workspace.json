@@ -10,6 +10,7 @@
           {
             "id": "877e58ea58fc4f10",
             "type": "tabs",
+            "dimension": 67.91666666666667,
             "children": [
               {
                 "id": "60e9225056dfc3ec",
@@ -28,6 +29,7 @@
           {
             "id": "eb554d338393c2f1",
             "type": "tabs",
+            "dimension": 32.083333333333336,
             "children": [
               {
                 "id": "3a3a1f2abdc2f910",
@@ -217,8 +219,8 @@
   "active": "60e9225056dfc3ec",
   "lastOpenFiles": [
     "Studia/Python BackEnd/Django/2 Django.md",
-    "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md",
     "Studia/Python BackEnd/Django/3 Django zaawansowane cz 1.md",
+    "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md",
     "A I/JS uczenie maszynowe/2 Badanie danych.md",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 2/idiomatic code.md",
     "R U S T/1 - Full Rust Beginner s Course/1 Variables.md",

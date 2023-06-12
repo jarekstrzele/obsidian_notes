@@ -5,16 +5,16 @@
 
 01:33
 
-1. Obiekty HTTPRequest, HTTPResponse
-2. Routing: urls.py i tworzenie url-i aplikacji
+1. Obiekty HTTPRequest, HTTPResponse [[#Obiekty `HTTPRequest`, `HTTPResponse`]]
+2. Routing: urls.py i tworzenie url-i aplikacji [[#]]
 3. modele: tworzenie dodawania, pobieranie modyfikacja danych, komunikacja z DB
 4. manager .objects
-5. interaktywan konsola Pythona w Django
-6. Relacje
-7. Funkcje i klasy widoków, GET, POST
-8. QueryDict
-9. CSRF (bezpieczeństwo)
-10. Sesje, cookies
+5. interaktywan konsola Pythona w Django [[#]]
+6. Relacje [[#Relacje]]
+7. Funkcje i klasy widoków, GET, POST 
+8. QueryDict [[#QueryDict]]
+9. CSRF (bezpieczeństwo) [[#`CSRF`]]
+10. Sesje, cookies [[#Sesje i ciasteczka]]
 
 ---------
 # Obiekty `HTTPRequest`, `HTTPResponse`
