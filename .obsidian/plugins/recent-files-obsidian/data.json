@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2. Pierwsze spotkanie z Rustem",
+      "path": "R U S T/Programmowanie_w Rust/2. Pierwsze spotkanie z Rustem.md"
+    },
+    {
+      "basename": "_ Programowanie w języku Rust",
+      "path": "R U S T/Programmowanie_w Rust/_ Programowanie w języku Rust.md"
+    },
+    {
       "basename": "3.2 Django zaawansowane cz 2",
       "path": "Studia/Python BackEnd/Django/3.2 Django zaawansowane cz 2.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "_ Actix Rust",
       "path": "_ WEB/Rust/Actix/_ Actix Rust.md"
-    },
-    {
-      "basename": "Web Actix",
-      "path": "_ WEB/Rust/Actix/Web Actix.md"
-    },
-    {
-      "basename": "Responder Actix",
-      "path": "_ WEB/Rust/Actix/Responder Actix.md"
     }
   ],
   "omittedPaths": [],

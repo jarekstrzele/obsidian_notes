@@ -3,7 +3,7 @@
 #tindall_leaonora
 #helion 
 
-> Rust to język, który został opracowny z myślą o programowaniu systemowym.
+> Rust to język, który został opracowany z myślą o programowaniu systemowym.
 
 **Programowanie systemowe** to następujące obszary:
 • Systemy operacyjne
