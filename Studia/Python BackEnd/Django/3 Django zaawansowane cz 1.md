@@ -228,4 +228,13 @@ dodaje czego brakuje w wbudowanym backendzie Django:
 - zapewnia wsparcie dla procesorów kontekstowych Django
 
 ## Pliki statyczne
-strony internetowe na ogół wymagają serwowania dodatkowych plików takich jak zdjęcia, skrypty JavaScript lub style CSS
+strony internetowe na ogół wymagają serwowania dodatkowych plików takich jak zdjęcia, skrypty JavaScript lub style CSS (to są w Django *pliki statyczne*)
+
+`django.contrib.staticfiles` - ułatwi zarządzanie plikami statycznymi
+
+
+
+
+
+
+
