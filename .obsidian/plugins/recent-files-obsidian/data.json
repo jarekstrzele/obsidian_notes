@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "10.2 New Types Patterns",
+      "path": "R U S T/Rust Programming For Beginners/10.2 New Types Patterns.md"
+    },
+    {
+      "basename": "10.1 Custom Error Types",
+      "path": "R U S T/Rust Programming For Beginners/10.1 Custom Error Types.md"
+    },
+    {
+      "basename": "10 Final Project",
+      "path": "R U S T/Rust Programming For Beginners/10 Final Project.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "R U S T/Rust Programming For Beginners/Untitled.md"
+    },
+    {
       "basename": "_ 1 Full Rust Beginners Cours",
       "path": "R U S T/1 - Full Rust Beginner s Course/_ 1 Full Rust Beginners Cours.md"
     },
     {
-      "basename": "10.1 Personal Contacts Manager",
-      "path": "R U S T/Rust Programming For Beginners/10.1 Personal Contacts Manager.md"
+      "basename": "1. synchronous vs asynchronous",
+      "path": "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md"
+    },
+    {
+      "basename": "2 Badanie danych",
+      "path": "A I/JS uczenie maszynowe/2 Badanie danych.md"
+    },
+    {
+      "basename": "idiomatic code",
+      "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 2/idiomatic code.md"
     },
     {
       "basename": "7 Advanced Concepts",
@@ -33,16 +57,8 @@
       "path": "R U S T/Rust Programming For Beginners/8.3. Closures Rust.md"
     },
     {
-      "basename": "10 Final Project",
-      "path": "R U S T/Rust Programming For Beginners/10 Final Project.md"
-    },
-    {
       "basename": "_ Rust Programming for Beginners",
       "path": "R U S T/Rust Programming For Beginners/_ Rust Programming for Beginners.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "R U S T/Rust Programming For Beginners/Untitled.md"
     },
     {
       "basename": "9 Refining Your Code",
@@ -85,20 +101,8 @@
       "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 6 Invaders Project.md"
     },
     {
-      "basename": "1. synchronous vs asynchronous",
-      "path": "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md"
-    },
-    {
-      "basename": "2 Badanie danych",
-      "path": "A I/JS uczenie maszynowe/2 Badanie danych.md"
-    },
-    {
       "basename": "jQuery",
       "path": "Studia/Python BackEnd/jQuery.md"
-    },
-    {
-      "basename": "idiomatic code",
-      "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 2/idiomatic code.md"
     },
     {
       "basename": "_ Ultimate Rust Crash Course 2",
@@ -195,10 +199,6 @@
     {
       "basename": "asynch_in_node.excalidraw",
       "path": "Excalidraw/asynch_in_node.excalidraw.md"
-    },
-    {
-      "basename": "7 Types and TypeClasses",
-      "path": "HASKELL/for_great_good/7 Types and TypeClasses.md"
     }
   ],
   "omittedPaths": [],
