@@ -215,7 +215,17 @@ Django -Jinja to prosty i nie przeszkadzający backend Jinja2
 - aby uniemożliwić ładowanie szablonów z tych wewnętrznych podfolderów aplikacji, można ustawić `APP_DIRS` na FALSE
 - najlepiej do przechowywania szablonów Jinja używać folderów poza strukturami aplikacji (DJango najpierw szuka pasujących szablonów Jinja w pierwszej wartości `DIRS`, potem w folderach `Jinja2` a aplikacjach jeśli `APP_DIRS` ma wartość true dopóki nie znajdzie pasującego szablonu lin nie zgłosi błędu `TemplateDoesNotExist`)
 - 
-## OPTIONS
+#### OPTIONS (01:01:00)
+Jinja obsługuje również szereg dostosowań. Domyśłnie Django wewnętrznie ustawia szereg parametrów inicjalizacji środowiska Jinja, aby dopasować zachowanie szablonu Jinja do zachowania szablonów Django. Można to zmienić
 
+#### co daje Jinja
+dodaje czego brakuje w wbudowanym backendzie Django:
+- automatycznie ładuje szablony kompatybilne z Jinja2
+- szablony Django mogą bez problemu współistnieć z szablonami Jinja2
+- działa jako oprogramowanie pośredniczące, przechwytuje szablony Jinja według wzorca ścieżki pliku
+- filtry i tagi szablonów Django mogą być używane  również w szablonach Jinja2
+- pamięć podręczna koduy bajtowego Jinja2 jest przystosowana do korzystania z podsystemu pamięci podręcznej Django
+- zapewnia wsparcie dla procesorów kontekstowych Django
 
-
+## Pliki statyczne
+strony internetowe na ogół wymagają serwowania dodatkowych plików takich jak zdjęcia, skrypty JavaScript lub style CSS
