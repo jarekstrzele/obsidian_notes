@@ -146,7 +146,23 @@ Dane kontekstowe są przekazywane w postaci zwykłego tekstu, a bieżące żąda
 >- to funkcje, które odbierają bieżące `HttpRequest` jako argument i zwracają wartości danych, które mają zostać dodane do kontekstu renderowania
 >- ich głównym zastosowaniem jest dodawanie do kontekstu wspólnych danych udostępnianych przez wszystkie szablony bez powtarzania kodu w każdym widoku
 
+np. `settings.py`
+```python
+TEMPLATES = [
+{
+'BACKEND' ..
+'OPTIONS': {
+	'context_processors': [
+		'django.template.context_processors.debug',
+		'django.template.context_processors.request',
+		'django.contrib.auth.context_processors.auth',
+		'django.contrib.messages.context_processors.messages'
+	]
+}
+}
+]
+```
 
-
+### składnia języka szablonów
 
 
