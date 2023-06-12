@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "b364adf9e2ad1e19",
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/1 - Full Rust Beginner s Course/1 Variables.md",
+                "file": "R U S T/Rust Programming For Beginners/10.2 New Types Patterns.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -198,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/1 - Full Rust Beginner s Course/1 Variables.md",
+                "file": "R U S T/Rust Programming For Beginners/10.2 New Types Patterns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/1 - Full Rust Beginner s Course/1 Variables.md"
+                "file": "R U S T/Rust Programming For Beginners/10.2 New Types Patterns.md"
               }
             }
           },
@@ -269,11 +269,11 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "21db1e08a12ec1e9",
+  "active": "829465de0b903ab8",
   "lastOpenFiles": [
+    "R U S T/1 - Full Rust Beginner s Course/1 Variables.md",
     "R U S T/1 - Full Rust Beginner s Course/_ Full Rust Beginners Cours.md",
     "R U S T/1 - Full Rust Beginner s Course/2 Numbers.md",
-    "R U S T/1 - Full Rust Beginner s Course/1 Variables.md",
     "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md",
     "R U S T/Rust Programming For Beginners/10 Final Project.md",
     "R U S T/Rust Programming For Beginners/10.2 New Types Patterns.md",
