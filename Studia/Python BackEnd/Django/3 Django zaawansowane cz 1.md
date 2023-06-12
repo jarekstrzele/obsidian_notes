@@ -165,4 +165,20 @@ TEMPLATES = [
 
 ### składnia języka szablonów
 
+#### zmienne
+dostęp do zmiennych podanych kontekście widoku można uzyskać za pomocą notacji w podwójnym nawiastem klamrowym
+```html
+<h1>{{ user.username }} </h1>
+<di class="email"> {{ user.email }} </div>
+```
+
+#### filtry
+wykonują zazwyczaj różne operacje formatyujące tekstu, łamanie linii, zmieniają wielkość liter, parsują okreśrone tagi ....
+
+`{{ zmienna | nazwa_filtru }}`
+np,
+`{{ zmienna | lower }}` wyświetla zmienną po przefiltrowaniu przez filtr, który konwertuje tekst na małe listery
+
+`{{ zmienna | escape | linebreaks }}` stosowanie kilku filtrów, wychodzi z treści tekstu oraz łamie tekst w linii poleceniem `<p>` `
+
 
