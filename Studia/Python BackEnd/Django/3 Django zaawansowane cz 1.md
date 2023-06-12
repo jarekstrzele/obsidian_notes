@@ -134,11 +134,17 @@ TEMPLATES = [
 
 
 ## Kontekst i procesory konteksty
-kontekst `django.template.Context` oprócz danych kontekstowych przechowuje pewne metadane. Jest przekazywany do `Template.render()` w celu renderowania
+kontekst `django.template.Context` oprócz danych kontekstowych przechowuje pewne metadane. Jest przekazywany do `Template.render()` w celu renderowania `template.django.template.RequestContext`
+
+podklasa `Context ` przechowuje bieżące `HttpRequest` i uruchamia procesory kontekstu szablonów
+
+Dane kontekstowe są przekazywane w postaci zwykłego tekstu, a bieżące żądanie `HttpRequest` jest przekazywane osobno w razie potrzeby
 
 
-
-
+>[!info] Procesory kontekstowe
+>- obiekty wywoływalne, które przyjmują obiekt żądania jako argument i zwracają słownik elementów, które mają zostać włączone do kontekstu
+>- to funkcje, które odbierają bieżące `HttpRequest` jako argument i zwracają wartości danych, które mają zostać dodane do kontekstu renderowania
+>- ich głównym zastosowaniem jest dodawanie do kontekstu wspólnych danych udostępnianych przez wszystkie szablony bez powtarzania kodu w każdym widoku
 
 
 
