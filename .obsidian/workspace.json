@@ -115,7 +115,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#python/vir",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -152,7 +152,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316
+    "width": 200
   },
   "right": {
     "id": "ec7d1a70da2de581",
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md",
+                "file": "R U S T/Rust Programming For Beginners/10.1 Personal Contacts Manager.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md",
+                "file": "R U S T/Rust Programming For Beginners/10.1 Personal Contacts Manager.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md"
+                "file": "R U S T/Rust Programming For Beginners/10.1 Personal Contacts Manager.md"
               }
             }
           },
@@ -256,10 +256,15 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "0d9c60cdba6b5ec5",
+  "active": "829465de0b903ab8",
   "lastOpenFiles": [
+    "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md",
+    "R U S T/Rust Programming For Beginners/6 Data Collections.md",
     "R U S T/Rust Programming For Beginners/5 Intermediate Concepts.md",
+    "R U S T/Rust Programming For Beginners/4 Data.md",
+    "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 5 Final Lectures.md",
     "R U S T/Rust Programming For Beginners/10.1 Personal Contacts Manager.md",
+    "R U S T/Rust Programming For Beginners/8.3. Closures Rust.md",
     "R U S T/Rust Programming For Beginners/10 Final Project.md",
     "R U S T/Rust Programming For Beginners/_ Rust Programming for Beginners.md",
     "R U S T/Rust Programming For Beginners/Untitled.md",
@@ -273,19 +278,14 @@
     "Studia/Python BackEnd/Django/2 Django.md",
     "Studia/Python BackEnd/Django/1 Framework Django.md",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 6 Invaders Project.md",
-    "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 5 Final Lectures.md",
     "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md",
     "A I/JS uczenie maszynowe/2 Badanie danych.md",
     "Studia/Python BackEnd/jQuery.md",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 2/idiomatic code.md",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 2/_ Ultimate Rust Crash Course 2.md",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/_ Ultimate Rust Crash Course 1.md",
-    "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 2 Primitive Types & Control Flow.md",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 2",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1",
-    "_ WEB/N_O_D_E/Node JS 101 Crash/_ NodeJS 101 Crash Course.md",
-    "Excalidraw/traits_inheritance.excalidraw.md",
-    "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 4 The Meat of Rust.md",
     "R U S T/Ultimate Rust Crash Course",
     "_ WEB/Rust/Rocket",
     "_ WEB/Rust",

@@ -95,7 +95,6 @@ fn main() {
 ```
 
 ```rust
-
 // Silence some warnings so they don't distract from the exercise.
 #![allow(dead_code, unused_imports, unused_variables)]
 use crossbeam::channel;
