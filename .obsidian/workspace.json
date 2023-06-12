@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md",
+                "file": "R U S T/1 - Full Rust Beginner s Course/_ 1 Full Rust Beginners Cours.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "b364adf9e2ad1e19",
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/10.2 New Types Patterns.md",
+                "file": "R U S T/1 - Full Rust Beginner s Course/_ 1 Full Rust Beginners Cours.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -198,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/10.2 New Types Patterns.md",
+                "file": "R U S T/1 - Full Rust Beginner s Course/_ 1 Full Rust Beginners Cours.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/10.2 New Types Patterns.md"
+                "file": "R U S T/1 - Full Rust Beginner s Course/_ 1 Full Rust Beginners Cours.md"
               }
             }
           },
@@ -269,14 +269,14 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "829465de0b903ab8",
+  "active": "21db1e08a12ec1e9",
   "lastOpenFiles": [
-    "R U S T/Rust Programming For Beginners/10.1 Custom Error Types.md",
-    "R U S T/Rust Programming For Beginners/10.2 New Types Patterns.md",
+    "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md",
     "R U S T/Rust Programming For Beginners/10 Final Project.md",
+    "R U S T/Rust Programming For Beginners/10.2 New Types Patterns.md",
+    "R U S T/Rust Programming For Beginners/10.1 Custom Error Types.md",
     "R U S T/Rust Programming For Beginners/Untitled.md",
     "R U S T/1 - Full Rust Beginner s Course/_ 1 Full Rust Beginners Cours.md",
-    "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md",
     "A I/JS uczenie maszynowe/2 Badanie danych.md",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 2/idiomatic code.md",
     "R U S T/1 - Full Rust Beginner s Course",
