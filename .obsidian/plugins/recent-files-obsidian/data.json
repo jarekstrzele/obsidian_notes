@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "3.1 Django zaawansowane cz 1",
+      "path": "Studia/Python BackEnd/Django/3.1 Django zaawansowane cz 1.md"
+    },
+    {
+      "basename": "2 Django",
+      "path": "Studia/Python BackEnd/Django/2 Django.md"
+    },
+    {
       "basename": "3.2 Django zaawansowane cz 2",
       "path": "Studia/Python BackEnd/Django/3.2 Django zaawansowane cz 2.md"
     },
@@ -11,14 +19,6 @@
     {
       "basename": "_ Programowanie w języku Rust",
       "path": "R U S T/Programmowanie_w Rust/_ Programowanie w języku Rust.md"
-    },
-    {
-      "basename": "3.1 Django zaawansowane cz 1",
-      "path": "Studia/Python BackEnd/Django/3.1 Django zaawansowane cz 1.md"
-    },
-    {
-      "basename": "2 Django",
-      "path": "Studia/Python BackEnd/Django/2 Django.md"
     },
     {
       "basename": "1. synchronous vs asynchronous",
