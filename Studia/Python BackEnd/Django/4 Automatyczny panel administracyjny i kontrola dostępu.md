@@ -82,7 +82,15 @@ w `settings.py` powinny być zdefiniowane:
 
 to oprogramowanie jest dodawane domyśłnie podczas tworzenia nowego projektu za pomocą polecenia `startproject`
 
+gdy `SessionMiddleware`  jest aktywne każdy obiekt `HttpRequest` (pierwszy argument każdej funkcji widoków) będzie miał atrybut `session`,  który jest podobny do słownika
 
+### ustawienia sesji
+`Middleware` można konfigurować z poziomu `settings.py`
 
+`SESSION_ENGINE` pozwala na zdefiniowanie miejsca przeznaczonego do przechowywania sesji (domyślnie sesja jest przechowywana w bazie danych - model Session `django.contrib.sessions`)
 
+##### opcje przechowywania sesji
+- **sesje oparte na bazie danych** (domyślni silnik sesji)
+- **sesje oparte na plikach** - d
+- 
 
