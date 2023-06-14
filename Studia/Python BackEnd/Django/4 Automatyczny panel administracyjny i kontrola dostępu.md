@@ -103,5 +103,20 @@ gdy `SessionMiddleware`  jest aktywne każdy obiekt `HttpRequest` (pierwszy argu
 - `SESSION_COOKIE_SECURE` - jeżeli ustawione na `TRUE` ciasteczko będzie przesyłane tylko przez połączenia `HTTPS`
 - `SESSION_EXPIRE_AT_BROWSER_CLOSE` jężeli ustawione na `True` sesja wygaśnie po zamknięciu przeglądarki
 
+atrybuty sesji
+```python
+# ustawiamy sesję o nazwie "moj_wybor"
+request.session['moj_wybor'] = 'wybor1'
+
+request.session.get('moj_wybor')
+
+del request.session['moj_wybor']
+```
+
+domyślnie Django zapisuje tyl
+
+
+
+
 
 
