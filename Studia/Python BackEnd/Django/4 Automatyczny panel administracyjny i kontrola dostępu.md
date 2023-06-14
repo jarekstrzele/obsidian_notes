@@ -113,8 +113,9 @@ request.session.get('moj_wybor')
 del request.session['moj_wybor']
 ```
 
-domyślnie Django zapisuje tyl
+domyślnie Django zapisuje tylko w bazie danych sesje i wysyła plik cookie sesji do klienta
 
+38:00
 
 
 
