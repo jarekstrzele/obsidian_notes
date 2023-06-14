@@ -138,8 +138,8 @@ return render(request, 'index.html', context=context)
 ```
 
 ## uwierzytelnienia
-1. `django-admin startproject`
-2. `python manage.py migrate` 
+1. `django-admin startproject` - utworzenie szkieletu witryny
+2. `python manage.py migrate`  tabele bazy danych dla użytkowników i uprawnień modelu zostają utworzone
 
-
+jeżeli jest już superuser, testowych użytkowników tworzymy przy pomocy panelu administracyjnego
 
