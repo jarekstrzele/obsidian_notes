@@ -143,3 +143,28 @@ return render(request, 'index.html', context=context)
 
 jeżeli jest już superuser, testowych użytkowników tworzymy przy pomocy panelu administracyjnego
 
+## testowanie w widokach
+```python
+from django.contrib.auth.decorators import login_required
+
+@login_required
+def my_veiw(request)
+...
+```
+
+`@login_required` ogranicza dostęp do funkcji widoku:
+- użytkownik zalogowany, kod zostanie wykonany normalnie
+- użytkownik niezalogowany, nastąpi przekierowanie do adresu URL  logowania zdefiniowanego w ustawieniach projektu  `settings.LOGIN_URL`
+
+
+
+
+
+
+
+
+
+
+
+
+
