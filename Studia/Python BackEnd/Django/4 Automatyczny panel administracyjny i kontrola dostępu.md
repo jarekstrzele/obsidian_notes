@@ -43,13 +43,18 @@ po zalogowaniu mamy dostęp do struktury zarządzania grupami i użytkownikami
 
 ## Dodanie modelu aplikacji do panelu administracyjnego
 
-Przykładowa aplikacja ma `Question`, `Choice`. Aby dodać te obiekty do strruktury utworzonej w pliku `model.py` należy zmodyfikować zawartość pliku `ankiety/admin.py` (`an`)
+Przykładowa aplikacja ma `Question`, `Choice`. Aby dodać te obiekty do strruktury utworzonej w pliku `model.py` należy zmodyfikować zawartość pliku `ankiety/admin.py` (`ankiety` - to nazwa projektu)
+```python
+from .models import Question
 
+admin.site.register(Question)
 
+from .models import Choice
 
+admin.site.register(Choice)
+```
 
-5
-5
+po ponownym uruchomieniu w panelu pojawi się projekt `ankiety` z `Choices` i `Questions` -> teraz na tych obiektach można wykonywać CRUD
 
 
 
