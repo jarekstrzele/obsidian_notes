@@ -91,6 +91,17 @@ gdy `SessionMiddleware`  jest aktywne każdy obiekt `HttpRequest` (pierwszy argu
 
 ##### opcje przechowywania sesji
 - **sesje oparte na bazie danych** (domyślni silnik sesji)
-- **sesje oparte na plikach** - d
+- **sesje oparte na plikach** - dane sesji przechowywane w systemie plików
+- **sesje buforowane** dane sesji są przechowywane w buforze (opcja CACHES można wskazać mechanizm buforowania - najlepsza wydajność)
+- **buforowane sesje oparte na bazie danych** - dane sesji są przechowywane w buforze operacji zapisu i bazie danych. Odczyt danych następuje z bazy danych tylko wtedy, gdy dane nie znajdują się już w buforze
+- **buforowane sesje oparte na mechanizmie cookies** dane sesji są przechowywane w plikach cookies wysyłanych do przeglądarki internetowej
 - 
+#### pozostałe opcje `Middleware`
+- `SESSION_COOKIE_AGE` czas ważności cookie sesji w sekundach
+- `SESSION_COOKIE_DOMAIN` domena ciasteczka pozwala na ustawienie dowolnej domeny tak by uzyskać dostęp do ciasteczka w obrębie całej domeny i subdomeny, wartość 'None' pozwala na standardowe ustawienia ciasteczka dla bieżącej domeny
+- `SESSION_COOKIE_NAME` nazwa ciasteczka dla sesji, domyślnie sessionid
+- `SESSION_COOKIE_SECURE` - jeżeli ustawione na `TRUE` ciasteczko będzie przesyłane tylko przez połączenia `HTTPS`
+- `SESSION_EXPIRE_AT_BROWSER_CLOSE` jężeli ustawione na `True` sesja wygaśnie po zamknięciu przeglądarki
+
+
 
