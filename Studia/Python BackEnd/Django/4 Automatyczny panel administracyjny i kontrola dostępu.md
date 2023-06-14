@@ -70,12 +70,17 @@ zatem jeżeli chcemy mieć witrynę, która śledzi bieżące relacje z klientem
 
 - sesje umożliwiają przechowywanie dowolnych danych dla każdej przeglądarki i udostępnianie tych danych witrynie za każdym razem, gdy przeglądarka  połączy się ze stroną 
 - 
+### cookie
+Django używa pliki cookie zawierające specjalny **identyfikator sesji** , aby zidentyfikować każdą przeglądarkę i powiązaną z nią sesję w witryną
 
+rzeczywiste dane sesji są domyślnie przechowywane w bazie danych witryny (jest to bezpieczniejsze niż przechowywanie danych w pliku cookie, gdzie są bardzie podatne na złośliwych użytkowników)
 
+### włączanie sesji
+w `settings.py` powinny być zdefiniowane:
+- w `MIDDLEWARE_CLASSES` klasa `django.contrib.sessions.middleware.SessionMiddleware`
+- w `INSTALLED_APPS` aplikacja `django.contrib.sessions`
 
-
-
-
+to oprogramowanie jest dodawane domyśłnie podczas tworzenia nowego projektu za pomocą polecenia `startproject`
 
 
 
