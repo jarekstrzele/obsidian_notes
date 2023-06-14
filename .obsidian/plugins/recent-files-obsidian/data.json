@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "4 Automatyczny panel administracyjny i kontrola dostępu",
+      "path": "Studia/Python BackEnd/Django/4 Automatyczny panel administracyjny i kontrola dostępu.md"
+    },
+    {
+      "basename": "3.2 Django zaawansowane cz 2",
+      "path": "Studia/Python BackEnd/Django/3.2 Django zaawansowane cz 2.md"
+    },
+    {
       "basename": "3.1 Django zaawansowane cz 1",
       "path": "Studia/Python BackEnd/Django/3.1 Django zaawansowane cz 1.md"
     },
     {
       "basename": "2 Django",
       "path": "Studia/Python BackEnd/Django/2 Django.md"
-    },
-    {
-      "basename": "3.2 Django zaawansowane cz 2",
-      "path": "Studia/Python BackEnd/Django/3.2 Django zaawansowane cz 2.md"
     },
     {
       "basename": "2. Pierwsze spotkanie z Rustem",
@@ -195,10 +199,6 @@
     {
       "basename": "Application Actix",
       "path": "_ WEB/Rust/Actix/Application Actix.md"
-    },
-    {
-      "basename": "_ Actix Rust",
-      "path": "_ WEB/Rust/Actix/_ Actix Rust.md"
     }
   ],
   "omittedPaths": [],
