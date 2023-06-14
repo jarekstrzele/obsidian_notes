@@ -58,11 +58,18 @@ po ponownym uruchomieniu w panelu pojawi się projekt `ankiety` z `Choices` i `Q
 
 
 
+# Sesje
+- HTTP jest protokołem bezstanowym
+	- *bezstanowy* komunikaty między klientem a serwerem są od siebie całkowicie niezależne, nie ma pojęcia "sekwencji" ani zachowania opartego na poprzednich komunikatach
+- Komunikacja między przeglądarką a serwerem odbywa się za pomocą protokołu HTTP
 
+zatem jeżeli chcemy mieć witrynę, która śledzi bieżące relacje z klientem, musimy to wdrożyć samodzielnie
 
+>[!info] sesje
+>mechanizm używany przez Django (i większość narzędzi Internetu) do śledzenia "stanu" między witryną a daną przeglądarką
 
-
-
+- sesje umożliwiają przechowywanie dowolnych danych dla każdej przeglądarki i udostępnianie tych danych witrynie za każdym razem, gdy przeglądarka  połączy się ze stroną 
+- 
 
 
 
