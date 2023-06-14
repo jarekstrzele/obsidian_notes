@@ -115,7 +115,27 @@ del request.session['moj_wybor']
 
 domyślnie Django zapisuje tylko w bazie danych sesje i wysyła plik cookie sesji do klienta
 
-38:00
+p r z y k ł a d
+modyfikacja pliku `views.py`
+- wartość klucza sesji `num_visits` zostaje ustawiona na `0`
+- za każdym razem ,gdy odbierane jest żądanie, wartość `num_visits` zostaje zwiększona i przechowana w sesji
+- zmienna `num_cisits` jest następnie przekazywana do szablony dokumentu html
+
+```python
+index(request):
+# ...
+num_authors = Author.objects.count()
+num_visits = request.session.get('num_visits', 0)
+request.session['num_visits'] = num_visits + 1
+constex = {
+		   'num_books': num_books,
+		   'num_intances`: num_instances,
+		   'num_authors': num_authors,
+		   'num_visits': num_visits,
+}
+
+return render(request, 'index.html', context=context)
+```
 
 
 
