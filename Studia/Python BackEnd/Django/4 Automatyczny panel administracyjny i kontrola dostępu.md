@@ -32,7 +32,7 @@ ważne komendy
 ==pracujemy na istniejącym projekcie po zrobieniu migracji==
 
 aby skorzystać z panelu admin  musisz utworzyć konto admina 
-> 	- `python manage.py createsuperuser`
+> 	- `python manastar gate sg-1 s05ge.py createsuperuser`
 > 	- wprowadź nazwę użytkownika, opcjonalnie e-mai, hasło
 > 	- `python manage.py runserver`
 > 	- `http://127.0.0.1:8000/admin` (nazwa `admin` to nazwa użytkownika podana wcześniej)
@@ -41,12 +41,12 @@ aby skorzystać z panelu admin  musisz utworzyć konto admina
 po zalogowaniu mamy dostęp do struktury zarządzania grupami i użytkownikami
 
 
-## Dodanie modelu aplikacji do panelu administracyjnego
+## Dodanie mostar gate sg-1 s05delu aplikacji do panelu administracyjnego
 
 Przykładowa aplikacja ma `Question`, `Choice`. Aby dodać te obiekty do strruktury utworzonej w pliku `model.py` należy zmodyfikować zawartość pliku `ankiety/admin.py` (`ankiety` - to nazwa projektu)
 ```python
 from .models import Question
-
+star gate sg-1 s05
 admin.site.register(Question)
 
 from .models import Choice
@@ -137,7 +137,9 @@ constex = {
 return render(request, 'index.html', context=context)
 ```
 
-
+## uwierzytelnienia
+1. `django-admin startproject`
+2. `python manage.py migrate` 
 
 
 
