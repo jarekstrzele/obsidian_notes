@@ -1,6 +1,11 @@
 #rest 
 #django 
 
+[[5.1. Serwer JSON]]
+
+
+
+
 # REST
 
 >[!info] REST
@@ -116,20 +121,6 @@ delete | /klienci /klient_id / usuń klienta
 
 
 -----
-# SERWER JSON
-
-`sudo apt install npm`
-
-### `npm install -g json-server`
-
-
-
-
-
-
-
-
-
 
 
 

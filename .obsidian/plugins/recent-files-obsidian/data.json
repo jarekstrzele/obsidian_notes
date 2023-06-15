@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "5.1. Serwer JSON",
+      "path": "Studia/Python BackEnd/Django/5.1. Serwer JSON.md"
+    },
+    {
       "basename": "5 REST",
       "path": "Studia/Python BackEnd/Django/5 REST.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "0 python ogólne",
       "path": "P Y T H O N/0 python ogólne.md"
-    },
-    {
-      "basename": "_ Intro Scalable Web Applications with Python, Flask and SQLAlchemy",
-      "path": "P Y T H O N/Lear_Build_Flask/_ Intro Scalable Web Applications with Python, Flask and SQLAlchemy.md"
     }
   ],
   "omittedPaths": [],
