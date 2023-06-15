@@ -71,7 +71,17 @@ podczas tworzenia REST API do komunikacji wykorzystuje się **metody HTTP**
 - oddziaływanie pomiędzy warstwami powinno być znikome lub żadne
 
 
+## udostępnienie adapterów i skryptów użytkownikowi
+opcjonalna reguła, mówiąca o tym, że jeżeli wiemy, że klient chce wykonać konkretne operacje na danych to można udostępnić gotowe rozwiązania
 
+
+----
+# Praca z REST API
+do najpopularniejszych metod HTTP zaliczamy:
+- GET
+- POST
+- PUT
+- DELETE
 
 
 
