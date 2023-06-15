@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "_ Rust 101 Crash Course",
+      "path": "R U S T/Rust 101 Crash Course/_ Rust 101 Crash Course.md"
+    },
+    {
+      "basename": "2. Pierwsze spotkanie z Rustem",
+      "path": "R U S T/Programmowanie_w Rust/2. Pierwsze spotkanie z Rustem.md"
+    },
+    {
       "basename": "4 Automatyczny panel administracyjny i kontrola dostępu",
       "path": "Studia/Python BackEnd/Django/4 Automatyczny panel administracyjny i kontrola dostępu.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "2 Django",
       "path": "Studia/Python BackEnd/Django/2 Django.md"
-    },
-    {
-      "basename": "2. Pierwsze spotkanie z Rustem",
-      "path": "R U S T/Programmowanie_w Rust/2. Pierwsze spotkanie z Rustem.md"
     },
     {
       "basename": "_ Programowanie w języku Rust",
@@ -195,10 +199,6 @@
     {
       "basename": "_ Rocket Rust",
       "path": "_ WEB/Rust/Rocket/_ Rocket Rust.md"
-    },
-    {
-      "basename": "Application Actix",
-      "path": "_ WEB/Rust/Actix/Application Actix.md"
     }
   ],
   "omittedPaths": [],
