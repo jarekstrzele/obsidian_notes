@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "5 REST",
+      "path": "Studia/Python BackEnd/Django/5 REST.md"
+    },
+    {
+      "basename": "4 Automatyczny panel administracyjny i kontrola dostępu",
+      "path": "Studia/Python BackEnd/Django/4 Automatyczny panel administracyjny i kontrola dostępu.md"
+    },
+    {
       "basename": "_ Rust 101 Crash Course",
       "path": "R U S T/Rust 101 Crash Course/_ Rust 101 Crash Course.md"
     },
     {
       "basename": "2. Pierwsze spotkanie z Rustem",
       "path": "R U S T/Programmowanie_w Rust/2. Pierwsze spotkanie z Rustem.md"
-    },
-    {
-      "basename": "4 Automatyczny panel administracyjny i kontrola dostępu",
-      "path": "Studia/Python BackEnd/Django/4 Automatyczny panel administracyjny i kontrola dostępu.md"
     },
     {
       "basename": "3.2 Django zaawansowane cz 2",
@@ -195,10 +199,6 @@
     {
       "basename": "_ Ultimate Rust Lang Tutorial",
       "path": "R U S T/ULTIMATE Rust Lang Tutorial/_ Ultimate Rust Lang Tutorial.md"
-    },
-    {
-      "basename": "_ Rocket Rust",
-      "path": "_ WEB/Rust/Rocket/_ Rocket Rust.md"
     }
   ],
   "omittedPaths": [],
