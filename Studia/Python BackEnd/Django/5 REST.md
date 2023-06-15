@@ -1,6 +1,7 @@
 #rest 
 #django 
 
+# REST
 
 >[!info] REST
 > Representational State Transfer
@@ -13,7 +14,7 @@
 podczas tworzenia REST API do komunikacji wykorzystuje się **metody HTTP**
 
 
-
+# API
 >[!info] API
 >Application Programming Interface
 >- **interfejs** programowania aplikacji wykorzystywany do łączenia aplikacji
@@ -22,12 +23,12 @@ podczas tworzenia REST API do komunikacji wykorzystuje się **metody HTTP**
 - rozszerza funkcjonalności aplikacji sieciowych poprzez gromadzenie **danych ze źródeł zewnętrznych**
 - umożliwia **dzielenie dużych systemów** na małe usługi 
 
-**Elementy API**
+## Elementy API
 - *procedury* - (rutyny) odnoszą się do konkretnych zadań lub funkcji wykonywanych przez program
 - *protokoły* - służy do wymiany danych pomiędzy aplikacjami
 - *narzędzia* - segmenty, z których można tworzyć nowe programy
 
-**ZALETY API**
+## ZALETY API
 - *uniwersalność* - umożliwia stworzenie jednego API do różnych aplikacji
 - *intuicyjny interfejs* - 
 - *wykorzystanie formatu JSON* - lekki testowy format wymiany danych 
@@ -36,15 +37,25 @@ podczas tworzenia REST API do komunikacji wykorzystuje się **metody HTTP**
 - łatwe testowanie endpointów
 
 
-**DZIAŁANIE API**
+## działanie API
 - klient tworzy zapytanie w postaci adresu (endpoint)
 - klient wysyła zapytanie (*request*)
-- serwer otrzymuje zapytanie 
+- serwer otrzymuje zapytanie klienta i przygotowuje odpowiedź (*response*)
+- serwer zwraca odpowiedź na zapytanie klient
+- klient otrzymuje i przetwarza odpowiedź
 
 
+# zasady opisujące REST
+
+## odseparowanie interfejsu użytkownika od operacji na serwerze
+- klient po wydaniu zapytania nie może wpłynąć na działanie serwera
+- umożliwia wykorzystani jednego REST API w wielu niezależnych od siebie aplikacjach, a dane pozostaną spójne
+
+## Bezstanowość (*stateless*)
+- każde zapytanie klienta musi zawierać komplet informacji
+- serwer nie przechowuje stanu o sesji użytkownika
 
 
-
-
-
+## Cacheability
+06:00
 
