@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "4 tensorflow.js",
+      "path": "A I/SI na Froncie/4 tensorflow.js.md"
+    },
+    {
+      "basename": "3 AI na froncie",
+      "path": "A I/SI na Froncie/3 AI na froncie.md"
+    },
+    {
+      "basename": "2. SI i Uczenie maszynowe",
+      "path": "A I/SI na Froncie/2. SI i Uczenie maszynowe.md"
+    },
+    {
+      "basename": "_ Wprowadzenie SI z JS",
+      "path": "A I/SI na Froncie/_ Wprowadzenie SI z JS.md"
+    },
+    {
+      "basename": "_ 0 Uczenie maszynowe z JS",
+      "path": "A I/JS uczenie maszynowe/_ 0 Uczenie maszynowe z JS.md"
+    },
+    {
       "basename": "5 REST",
       "path": "Studia/Python BackEnd/Django/5 REST.md"
     },
@@ -169,10 +189,6 @@
       "path": "A I/JS uczenie maszynowe/1 Poznawanie potencjału języka JS.md"
     },
     {
-      "basename": "_ 0 Uczenie maszynowe z JS",
-      "path": "A I/JS uczenie maszynowe/_ 0 Uczenie maszynowe z JS.md"
-    },
-    {
       "basename": "0 python ogólne",
       "path": "P Y T H O N/0 python ogólne.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "_ 0 FastAPI",
       "path": "API/FastAPI/_ 0 FastAPI.md"
-    },
-    {
-      "basename": "_ TypeScript",
-      "path": "_ WEB/React,TypeScript,Node/I TypeScript/_ TypeScript.md"
-    },
-    {
-      "basename": "2. Common Programming Concepts in Rust",
-      "path": "R U S T/ULTIMATE Rust Lang Tutorial/2. Common Programming Concepts in Rust.md"
-    },
-    {
-      "basename": "I 1 Fundamentals",
-      "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 1 Fundamentals.md"
-    },
-    {
-      "basename": "_ Ultimate Rust Lang Tutorial",
-      "path": "R U S T/ULTIMATE Rust Lang Tutorial/_ Ultimate Rust Lang Tutorial.md"
     }
   ],
   "omittedPaths": [],
