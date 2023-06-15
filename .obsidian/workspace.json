@@ -37,14 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A I/SI na Froncie/4 tensorflow.js.md",
+                "file": "_ Desktop/Python/GUI/Firebase full course.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A I/SI na Froncie/4 tensorflow.js.md",
+                "file": "Studia/Python BackEnd/Django/5 REST.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A I/SI na Froncie/4 tensorflow.js.md",
+                "file": "Studia/Python BackEnd/Django/5 REST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A I/SI na Froncie/4 tensorflow.js.md"
+                "file": "Studia/Python BackEnd/Django/5 REST.md"
               }
             }
           },
@@ -214,8 +214,10 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "78770d215dac2332",
+  "active": "428260ba5ea36e8f",
   "lastOpenFiles": [
+    "_ Desktop/Python/GUI/Firebase full course.md",
+    "A I/SI na Froncie/4 tensorflow.js.md",
     "A I/SI na Froncie/3 AI na froncie.md",
     "A I/SI na Froncie/2. SI i Uczenie maszynowe.md",
     "A I/SI na Froncie/_ Wprowadzenie SI z JS.md",
@@ -241,8 +243,6 @@
     "R U S T/1 - Full Rust Beginner s Course",
     "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md",
     "R U S T/Rust Programming For Beginners/6 Data Collections.md",
-    "R U S T/Rust Programming For Beginners/5 Intermediate Concepts.md",
-    "R U S T/Rust Programming For Beginners/4 Data.md",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 2",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1",
     "R U S T/Ultimate Rust Crash Course",
