@@ -58,4 +58,24 @@ podczas tworzenia REST API do komunikacji wykorzystuje się **metody HTTP**
 
 ## Cacheability
 06:00
+- otrzymana odpowiedź z REST API musi być zdefiniowana jako cacheable czy non-cacheable
+- ma to związek z danymi które często się zmieniają
+- np. można podać dane pogodowe w ujęciu minotowym, które szybko się zmieniają
+
+## endpoint
+- adresy zasobów, powinny jednoznacznie wskazywać, do którego zasobu się odwołują
+- dane otrzymana w API powinny być niezależne od schematu bazy danych, w której są przechowywane
+
+## separacja warstw
+- warstwa dostępu do danych powinna być oddzielona od logiki biznesowej oraz prezentacji
+- oddziaływanie pomiędzy warstwami powinno być znikome lub żadne
+
+
+
+
+
+
+
+
+
 
