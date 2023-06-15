@@ -101,7 +101,41 @@ do najpopularniejszych metod HTTP zaliczamy:
 `404` żądany zasób nie został znaleziony
 
 ## endpoint
-- uzyskanie dostępu do zasobu jest realizowanie za pomocą udostępnionego 
+- uzyskanie dostępu do zasobu jest realizowanie za pomocą udostępnionego zestawu publicznych adresów URL
+- interfejs API REST udostępnia taki zestaw
+- **adresy URL** w kontekście interfejsu API są nazywane **endpoints** punktami końcowymi
+
+
+metoda http | endpoint | opis
+---| --- | ----
+get | /klienci | uzyskaj listę klientów
+get | /klienci/klient_id | uzyskaj dostęp do klienta
+post | /klienci | zaktualizuj dane klienta
+delete | /klienci /klient_id / usuń klienta
+
+
+
+-----
+# SERWER JSON
+
+`sudo apt install npm`
+
+### `npm install -g json-server`
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
