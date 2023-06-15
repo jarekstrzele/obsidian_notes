@@ -77,14 +77,31 @@ opcjonalna reguła, mówiąca o tym, że jeżeli wiemy, że klient chce wykonać
 
 ----
 # Praca z REST API
+
+## metody
 do najpopularniejszych metod HTTP zaliczamy:
-- GET
-- POST
-- PUT
+- GET - pobierać zasób
+- POST - wysyłać/tworzyć nowy zasób (np. uzupełnianie formularza na stronie internetowej)
+- PUT - aktualizuje zasób
 - DELETE
 
+## kody statusu
+- praca z REST API wiąże się z otrzymywaniem komunikatów podczas odbioru i przetworzenia żądania HTTP
+- w odpowiedzi znajduje się kod stanu HTTP
+- kod zawiera informacje o wynikach żądania
+
+`200` ok
+`201` utworzono nowy zasób
+`202` prośba została odebrana, ale nie wprowadzono jeszcze żadnych zmian
+`204` żądanie powiodło się, ale odpowiedź nie zawiera treści
 
 
+`400` żądanie było zniekształcone
+`401`  klient nie ma uprawnień do wykonania żądanej akcji
+`404` żądany zasób nie został znaleziony
+
+## endpoint
+- uzyskanie dostępu do zasobu jest realizowanie za pomocą udostępnionego 
 
 
 
