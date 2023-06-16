@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Rust 101 Crash Course/1 Data types.md",
+                "file": "R U S T/Rust 101 Crash Course/_ Rust 101 Crash Course.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust 101 Crash Course/1 Data types.md",
+                "file": "R U S T/Rust 101 Crash Course/_ Rust 101 Crash Course.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust 101 Crash Course/1 Data types.md",
+                "file": "R U S T/Rust 101 Crash Course/_ Rust 101 Crash Course.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Rust 101 Crash Course/1 Data types.md"
+                "file": "R U S T/Rust 101 Crash Course/_ Rust 101 Crash Course.md"
               }
             }
           },
@@ -215,6 +215,8 @@
   },
   "active": "60e9225056dfc3ec",
   "lastOpenFiles": [
+    "R U S T/Rust 101 Crash Course/4 Vectors - data structure.md",
+    "R U S T/Rust 101 Crash Course/1 Data types.md",
     "R U S T/Rust 101 Crash Course/3 Memory.md",
     "Excalidraw/rust_address_offset.excalidraw.md",
     "R U S T/Rust 101 Crash Course/_ Rust 101 Crash Course.md",
@@ -223,7 +225,6 @@
     "R U S T/Rust - FreeCode Beginner/1 Rust Calc.md",
     "R U S T/Rust - FreeCode Beginner/_ 0 Rust.md",
     "R U S T/Rust 101 Crash Course/2 Expressions.md",
-    "R U S T/Rust 101 Crash Course/1 Data types.md",
     "_ Desktop/Python/GUI/Firebase full course.md",
     "Studia/Python BackEnd/Django/5.1. Serwer JSON.md",
     "Studia/Python BackEnd/Django/5 REST.md",
@@ -240,7 +241,6 @@
     "R U S T/Programmowanie_w Rust/_ Programowanie w języku Rust.md",
     "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md",
     "A I/JS uczenie maszynowe/2 Badanie danych.md",
-    "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 2/idiomatic code.md",
     "R U S T/1 - Full Rust Beginner s Course",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 2",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1",

@@ -169,6 +169,7 @@ fn main(){
 		depth: 3.0,
 	};
 let small_box = ShippingBox::new(5.0, Color::Red, small_dimensions)
+small_box.print();
 
 
 

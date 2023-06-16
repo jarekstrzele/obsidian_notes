@@ -2,6 +2,17 @@
 https://www.youtube.com/watch?v=lzKeecy4OmQ
 
 ------------
+[[1 Data types]]
+[[2 Expressions]]
+[[3 Memory]]
+[[4 Vectors - data structure]]
+
+
+
+------------
+
+# In this note:
+
 [[#Tools]]
 [[#Comments]]
 [[#Data types]]

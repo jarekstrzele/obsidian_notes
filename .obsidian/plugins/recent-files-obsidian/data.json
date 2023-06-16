@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "_ Rust 101 Crash Course",
+      "path": "R U S T/Rust 101 Crash Course/_ Rust 101 Crash Course.md"
+    },
+    {
+      "basename": "4 Vectors - data structure",
+      "path": "R U S T/Rust 101 Crash Course/4 Vectors - data structure.md"
+    },
+    {
       "basename": "1 Data types",
       "path": "R U S T/Rust 101 Crash Course/1 Data types.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "rust_address_offset.excalidraw",
       "path": "Excalidraw/rust_address_offset.excalidraw.md"
-    },
-    {
-      "basename": "_ Rust 101 Crash Course",
-      "path": "R U S T/Rust 101 Crash Course/_ Rust 101 Crash Course.md"
     },
     {
       "basename": "makro vs function",
@@ -195,10 +199,6 @@
     {
       "basename": "jQuery",
       "path": "Studia/Python BackEnd/jQuery.md"
-    },
-    {
-      "basename": "_ Ultimate Rust Crash Course 2",
-      "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 2/_ Ultimate Rust Crash Course 2.md"
     }
   ],
   "omittedPaths": [],
