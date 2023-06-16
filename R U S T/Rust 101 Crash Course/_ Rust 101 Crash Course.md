@@ -18,6 +18,8 @@ https://www.youtube.com/watch?v=lzKeecy4OmQ
 - rustup ( manages Rust installation)
 - VS Code
 - MSVC C++ Build Tools (needed to build on Windows)
+	- check MSVC 
+	- check Windows 10 SDK
 
 ### `cargo init projectName`
 ### `cargo run`

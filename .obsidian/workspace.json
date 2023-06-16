@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "428260ba5ea36e8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Studia/Python BackEnd/Django/5.1. Serwer JSON.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "78770d215dac2332",
             "type": "leaf",
             "state": {
@@ -43,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studia/Python BackEnd/Django/5.1. Serwer JSON.md",
+                "file": "R U S T/Rust 101 Crash Course/_ Rust 101 Crash Course.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -143,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studia/Python BackEnd/Django/5.1. Serwer JSON.md",
+                "file": "R U S T/Rust 101 Crash Course/_ Rust 101 Crash Course.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studia/Python BackEnd/Django/5.1. Serwer JSON.md"
+                "file": "R U S T/Rust 101 Crash Course/_ Rust 101 Crash Course.md"
               }
             }
           },
@@ -214,10 +201,10 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "428260ba5ea36e8f",
+  "active": "f621f21825dbd82d",
   "lastOpenFiles": [
-    "Studia/Python BackEnd/Django/5 REST.md",
     "Studia/Python BackEnd/Django/5.1. Serwer JSON.md",
+    "Studia/Python BackEnd/Django/5 REST.md",
     "_ Desktop/Python/GUI/Firebase full course.md",
     "A I/SI na Froncie/4 tensorflow.js.md",
     "A I/SI na Froncie/3 AI na froncie.md",
