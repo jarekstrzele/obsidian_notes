@@ -71,7 +71,7 @@ println!("{:?}, {:?}", x, numbers.0) ; //1
 println!("{:?}, {:?}", y, numbers.1) ; //2
 println!("{:?}, {:?}", z, numbers.2) ; //3
 
-let (emplo)
+let (employee, access) = ("Jake", Access::Full)
 
 
 

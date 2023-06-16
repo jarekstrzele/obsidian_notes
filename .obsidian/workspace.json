@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Rust 101 Crash Course/1 Data types.md",
+                "file": "R U S T/Rust 101 Crash Course/2 Expressions.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust 101 Crash Course/1 Data types.md",
+                "file": "R U S T/Rust 101 Crash Course/2 Expressions.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust 101 Crash Course/1 Data types.md",
+                "file": "R U S T/Rust 101 Crash Course/2 Expressions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Rust 101 Crash Course/1 Data types.md"
+                "file": "R U S T/Rust 101 Crash Course/2 Expressions.md"
               }
             }
           },
@@ -203,8 +203,9 @@
   },
   "active": "60e9225056dfc3ec",
   "lastOpenFiles": [
-    "R U S T/Rust 101 Crash Course/_ Rust 101 Crash Course.md",
     "R U S T/Rust 101 Crash Course/1 Data types.md",
+    "R U S T/Rust 101 Crash Course/2 Expressions.md",
+    "R U S T/Rust 101 Crash Course/_ Rust 101 Crash Course.md",
     "_ Desktop/Python/GUI/Firebase full course.md",
     "Studia/Python BackEnd/Django/5.1. Serwer JSON.md",
     "Studia/Python BackEnd/Django/5 REST.md",
@@ -228,7 +229,6 @@
     "R U S T/1 - Full Rust Beginner s Course/2 Numbers.md",
     "R U S T/Rust Programming For Beginners/10 Final Project.md",
     "R U S T/Rust Programming For Beginners/10.1 Custom Error Types.md",
-    "R U S T/Rust Programming For Beginners/Untitled.md",
     "R U S T/1 - Full Rust Beginner s Course",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 2",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1",
