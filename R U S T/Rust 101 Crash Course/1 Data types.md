@@ -47,3 +47,51 @@ println!("the box is {:?} units tall", tall) ;
 ```
 
 
+-----
+# Tuples
+#rust/tuple 
+- a type of "record"
+- store data anonymously (no need to name fields)
+- useful to return pairs of data from functions
+- can be "destructed" easily into variables
+
+```rust
+enum Access {
+  Full,
+}
+
+fn one_two_three() -> (i32,i32,i32){
+   (1,2,3)
+}
+
+let numbers = one_two_three();
+let (x,y,z) = one_two_three() ;
+
+println!("{:?}, {:?}", x, numbers.0) ; //1
+println!("{:?}, {:?}", y, numbers.1) ; //2
+println!("{:?}, {:?}", z, numbers.2) ; //3
+
+let (emplo)
+
+
+
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
