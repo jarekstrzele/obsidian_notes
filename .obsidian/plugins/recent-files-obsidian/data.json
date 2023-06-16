@@ -5,6 +5,10 @@
       "path": "R U S T/Rust 101 Crash Course/3 Memory.md"
     },
     {
+      "basename": "rust_address_offset.excalidraw",
+      "path": "Excalidraw/rust_address_offset.excalidraw.md"
+    },
+    {
       "basename": "2 Expressions",
       "path": "R U S T/Rust 101 Crash Course/2 Expressions.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "traits_inheritance.excalidraw",
       "path": "Excalidraw/traits_inheritance.excalidraw.md"
-    },
-    {
-      "basename": "I 4 The Meat of Rust",
-      "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 4 The Meat of Rust.md"
     }
   ],
   "omittedPaths": [],

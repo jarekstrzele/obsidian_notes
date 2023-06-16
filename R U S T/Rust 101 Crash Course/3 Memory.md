@@ -12,9 +12,12 @@
 >- usually don't utilize addresses directly
 >	- variables handle most of the work
 
+>[!info] offsets
+>- items can be located at an address using an "offset",
+>- offsets begin at `0`
+>- represent the number of bytes away from the original address (normally deal with indexes instead)
 
-
-
+![[rust_address_offset.excalidraw | 600]]
 
 
 
