@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Firebase full course",
+      "path": "_ Desktop/Python/GUI/Firebase full course.md"
+    },
+    {
+      "basename": "1 Match",
+      "path": "R U S T/Rust 101 Crash Course/1 Match.md"
+    },
+    {
       "basename": "_ Rust 101 Crash Course",
       "path": "R U S T/Rust 101 Crash Course/_ Rust 101 Crash Course.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "5 REST",
       "path": "Studia/Python BackEnd/Django/5 REST.md"
-    },
-    {
-      "basename": "Firebase full course",
-      "path": "_ Desktop/Python/GUI/Firebase full course.md"
     },
     {
       "basename": "4 tensorflow.js",
@@ -195,10 +199,6 @@
     {
       "basename": "1 Poznawanie potencjału języka JS",
       "path": "A I/JS uczenie maszynowe/1 Poznawanie potencjału języka JS.md"
-    },
-    {
-      "basename": "0 python ogólne",
-      "path": "P Y T H O N/0 python ogólne.md"
     }
   ],
   "omittedPaths": [],

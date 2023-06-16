@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Rust 101 Crash Course/_ Rust 101 Crash Course.md",
+                "file": "R U S T/Rust 101 Crash Course/1 Match.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust 101 Crash Course/_ Rust 101 Crash Course.md",
+                "file": "_ Desktop/Python/GUI/Firebase full course.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -130,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust 101 Crash Course/_ Rust 101 Crash Course.md",
+                "file": "_ Desktop/Python/GUI/Firebase full course.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Rust 101 Crash Course/_ Rust 101 Crash Course.md"
+                "file": "_ Desktop/Python/GUI/Firebase full course.md"
               }
             }
           },
@@ -203,6 +204,8 @@
   },
   "active": "f621f21825dbd82d",
   "lastOpenFiles": [
+    "R U S T/Rust 101 Crash Course/1 Match.md",
+    "R U S T/Rust 101 Crash Course/_ Rust 101 Crash Course.md",
     "Studia/Python BackEnd/Django/5.1. Serwer JSON.md",
     "Studia/Python BackEnd/Django/5 REST.md",
     "_ Desktop/Python/GUI/Firebase full course.md",
@@ -212,7 +215,6 @@
     "A I/SI na Froncie/_ Wprowadzenie SI z JS.md",
     "A I/JS uczenie maszynowe/_ 0 Uczenie maszynowe z JS.md",
     "Studia/Python BackEnd/Django/4 Automatyczny panel administracyjny i kontrola dostępu.md",
-    "R U S T/Rust 101 Crash Course/_ Rust 101 Crash Course.md",
     "R U S T/Programmowanie_w Rust/2. Pierwsze spotkanie z Rustem.md",
     "Studia/Python BackEnd/Django/3.2 Django zaawansowane cz 2.md",
     "Studia/Python BackEnd/Django/3.1 Django zaawansowane cz 1.md",
@@ -229,7 +231,6 @@
     "R U S T/Rust Programming For Beginners/10.1 Custom Error Types.md",
     "R U S T/Rust Programming For Beginners/Untitled.md",
     "R U S T/1 - Full Rust Beginner s Course",
-    "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 2",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1",
     "R U S T/Ultimate Rust Crash Course",
