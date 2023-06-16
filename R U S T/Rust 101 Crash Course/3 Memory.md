@@ -47,7 +47,7 @@ fn display_light(light: Light){
 		Light::Bright => println!("Bright"),
 		Light::Dull => println!("dull"),
 	}
-} // when the function is finshed the dull is deleted
+} // when the function is finshed, the dull is deleted
 
 fn main(){
 	let dull = Light::Dull; // the owner of dull is the main function
@@ -58,6 +58,29 @@ fn main(){
 
 ```
 
+
+### borrowed `&`
+```rust
+enum Light {
+	Bright,
+	Dull,
+}
+
+fn display_light(light: &Light){
+	match light{
+		Light::Bright => println!("Bright"),
+		Light::Dull => println!("dull"),
+	}
+} // when the function is finshed, the dull is deleted
+
+fn main(){
+	let dull = Light::Dull; // the owner of dull is the main function
+	display_light(&dull) ; // the function only borrows the dull (it passes reference)
+	display_light(&dull) ; // O K 
+}
+
+
+```
 
 
 
