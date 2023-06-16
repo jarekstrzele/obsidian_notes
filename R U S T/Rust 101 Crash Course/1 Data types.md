@@ -106,7 +106,43 @@ fn main(){
 ```
 
 
+```rust
+struct Color{
+	Browm,
+	Red,
+}
 
+impl Color{
+	fn print(&self){
+		match self{
+			Color::Brown => println!("brown"),
+			Color::Red => println!("red"),
+		}
+	}
+}
+
+
+
+struct ShippingBox{
+	color: Color,
+	weight: f64,
+	dimensions: Dimensions,
+}
+
+impl ShippingBox{
+	fn new(weight: f64, color: Color, dimensions: Dimensions) -> Self {
+		Self {
+		// because names are the same
+		// you don't have to write
+		// color:color, weight:weight, 
+		// dimensions: dimensons
+			weight,
+			color,
+			dimensions
+		}
+	}
+}
+```
 
 
 
