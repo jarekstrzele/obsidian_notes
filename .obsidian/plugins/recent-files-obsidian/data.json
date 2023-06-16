@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "makro vs function",
+      "path": "R U S T/Rust - FreeCode Beginner/makro vs function.md"
+    },
+    {
+      "basename": "2 Rust Combiner",
+      "path": "R U S T/Rust - FreeCode Beginner/2 Rust Combiner.md"
+    },
+    {
+      "basename": "1 Rust Calc",
+      "path": "R U S T/Rust - FreeCode Beginner/1 Rust Calc.md"
+    },
+    {
+      "basename": "_ 0 Rust",
+      "path": "R U S T/Rust - FreeCode Beginner/_ 0 Rust.md"
+    },
+    {
       "basename": "3 Memory",
       "path": "R U S T/Rust 101 Crash Course/3 Memory.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "_ Ultimate Rust Crash Course 2",
       "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 2/_ Ultimate Rust Crash Course 2.md"
-    },
-    {
-      "basename": "_ Ultimate Rust Crash Course 1",
-      "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/_ Ultimate Rust Crash Course 1.md"
-    },
-    {
-      "basename": "I 2 Primitive Types & Control Flow",
-      "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 2 Primitive Types & Control Flow.md"
-    },
-    {
-      "basename": "_ NodeJS 101 Crash Course",
-      "path": "_ WEB/N_O_D_E/Node JS 101 Crash/_ NodeJS 101 Crash Course.md"
-    },
-    {
-      "basename": "traits_inheritance.excalidraw",
-      "path": "Excalidraw/traits_inheritance.excalidraw.md"
     }
   ],
   "omittedPaths": [],

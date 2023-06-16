@@ -40,8 +40,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "da41f4fe8cb4f94d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "R U S T/Rust - FreeCode Beginner/makro vs function.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -123,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust 101 Crash Course/3 Memory.md",
+                "file": "R U S T/Rust - FreeCode Beginner/makro vs function.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -140,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust 101 Crash Course/3 Memory.md",
+                "file": "R U S T/Rust - FreeCode Beginner/makro vs function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Rust 101 Crash Course/3 Memory.md"
+                "file": "R U S T/Rust - FreeCode Beginner/makro vs function.md"
               }
             }
           },
@@ -211,10 +224,13 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "60e9225056dfc3ec",
+  "active": "da41f4fe8cb4f94d",
   "lastOpenFiles": [
-    "Excalidraw/rust_address_offset.excalidraw.md",
+    "R U S T/Rust - FreeCode Beginner/2 Rust Combiner.md",
+    "R U S T/Rust - FreeCode Beginner/1 Rust Calc.md",
+    "R U S T/Rust - FreeCode Beginner/_ 0 Rust.md",
     "R U S T/Rust 101 Crash Course/3 Memory.md",
+    "Excalidraw/rust_address_offset.excalidraw.md",
     "R U S T/Rust 101 Crash Course/2 Expressions.md",
     "R U S T/Rust 101 Crash Course/1 Data types.md",
     "R U S T/Rust 101 Crash Course/_ Rust 101 Crash Course.md",
@@ -236,9 +252,6 @@
     "A I/JS uczenie maszynowe/2 Badanie danych.md",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 2/idiomatic code.md",
     "R U S T/1 - Full Rust Beginner s Course/1 Variables.md",
-    "R U S T/Rust Programming For Beginners/10.2 New Types Patterns.md",
-    "R U S T/1 - Full Rust Beginner s Course/_ Full Rust Beginners Cours.md",
-    "R U S T/1 - Full Rust Beginner s Course/2 Numbers.md",
     "R U S T/1 - Full Rust Beginner s Course",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 2",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1",
