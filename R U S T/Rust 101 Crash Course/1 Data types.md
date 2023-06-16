@@ -29,6 +29,21 @@ fn which_way(go: Direction){
 - each piece of data is called a "field"
 - makes working with data easier (similar data can be grouped together)
 
+```rust
+struct ShippingBox{
+	depth: i32,
+	width: i32,
+	height: i32
+}
 
+let my_box = ShippingBox {
+	depth: 3,
+	width: 2,
+	height: 5,
+}
+
+let tall = my_box.height ;
+println!("the box is {:?} units tall", tall) ;
+```
 
 
