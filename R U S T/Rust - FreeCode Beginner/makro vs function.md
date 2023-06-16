@@ -11,3 +11,25 @@ Makro, z drugiej strony, to szablon kodu, który jest przetwarzany podczas kompi
 # Funkcja vs Maro
 Podsumowując, główna różnica między makrami a funkcjami polega na tym, że makra są przetwarzane w trakcie kompilacji, a funkcje są wykonywane w trakcie działania programu. Makra są zwykle bardziej elastyczne i pozwalają na bardziej zaawansowane przetwarzanie kodu, ale mogą być trudniejsze w użyciu niż funkcje.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
