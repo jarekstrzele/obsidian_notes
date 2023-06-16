@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Rust 101 Crash Course/1 Match.md",
+                "file": "R U S T/Rust 101 Crash Course/1 Data types.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Desktop/Python/GUI/Firebase full course.md",
+                "file": "R U S T/Rust 101 Crash Course/_ Rust 101 Crash Course.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5
+    "width": 364.5
   },
   "right": {
     "id": "ec7d1a70da2de581",
@@ -114,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Desktop/Python/GUI/Firebase full course.md",
+                "file": "R U S T/Rust 101 Crash Course/1 Data types.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -131,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Desktop/Python/GUI/Firebase full course.md",
+                "file": "R U S T/Rust 101 Crash Course/1 Data types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Desktop/Python/GUI/Firebase full course.md"
+                "file": "R U S T/Rust 101 Crash Course/1 Data types.md"
               }
             }
           },
@@ -202,13 +201,13 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "f621f21825dbd82d",
+  "active": "60e9225056dfc3ec",
   "lastOpenFiles": [
-    "R U S T/Rust 101 Crash Course/1 Match.md",
     "R U S T/Rust 101 Crash Course/_ Rust 101 Crash Course.md",
+    "R U S T/Rust 101 Crash Course/1 Data types.md",
+    "_ Desktop/Python/GUI/Firebase full course.md",
     "Studia/Python BackEnd/Django/5.1. Serwer JSON.md",
     "Studia/Python BackEnd/Django/5 REST.md",
-    "_ Desktop/Python/GUI/Firebase full course.md",
     "A I/SI na Froncie/4 tensorflow.js.md",
     "A I/SI na Froncie/3 AI na froncie.md",
     "A I/SI na Froncie/2. SI i Uczenie maszynowe.md",

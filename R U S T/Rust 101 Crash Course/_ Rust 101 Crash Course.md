@@ -10,6 +10,7 @@ https://www.youtube.com/watch?v=lzKeecy4OmQ
 [[#Println macro]]
 [[#Control flow `if`]]
 [[#loops]]
+[[#Match]]
 
 
 
@@ -118,8 +119,8 @@ loop {
 
 ```rust
 let mut a = 0 ;
-whie a != 5 {
-	println!("{:?}"m a) ;
+while a != 5 {
+	println!("{:?}", a) ;
 	a = a + 1 ;
 }
 ```
@@ -145,6 +146,29 @@ fn main(){
 
 
 ```
+
+
+ ----------
+# Match
+#rust/match 
+
+==Match must be exhaustive==
+
+```rust
+fn main() {
+	let some_bool = true ;
+	match some_bool {
+		true => println!("it's true"),
+		false => println!("it's false"),
+	}
+}
+```
+
+#### `_` all posibility
+
+
+
+
 
 
 
