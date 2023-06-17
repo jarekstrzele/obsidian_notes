@@ -145,7 +145,33 @@ console.log(pure(4, external)) ; // -> 8
 
 ADVANTAGES OF PUR FUNCTIONS
 - results are easy to reproduce and test
-- can be called in parallel 
+- can be called in parallel  without altering results
+- allow for memoization
+- potential for lazy evaluation
+- 
+
+
+---
+# Higher order functions
+
+in JS
+- the type of a function is Object
+- functions can be assigned to a variable as a value
+- functions can be passed to another function as an argument
+- functions can be returned by another function as a result
+
+
+>[!info] HOF
+>- a function that takes a function as an argument
+>- a function that returns a function as result
+>- a function that both accepts and returns functions
+
+
+
+
+
+
+
 
 
 
