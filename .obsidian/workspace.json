@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ WEB/N_O_D_E/Mosh Node/1 Node Module System.md",
+                "file": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ WEB/N_O_D_E/Mosh Node/1 Node Module System.md",
+                "file": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ WEB/N_O_D_E/Mosh Node/1 Node Module System.md",
+                "file": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ WEB/N_O_D_E/Mosh Node/1 Node Module System.md"
+                "file": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md"
               }
             }
           },
@@ -216,8 +216,10 @@
   },
   "active": "da41f4fe8cb4f94d",
   "lastOpenFiles": [
-    "_ WEB/N_O_D_E/Mosh Node/_ 0 Node (Mosh).md",
+    "_ WEB/N_O_D_E/Mosh Node/3 RESTful API's using Express.md",
+    "_ WEB/N_O_D_E/Mosh Node/2 Node Package Manager.md",
     "_ WEB/N_O_D_E/Mosh Node/1 Node Module System.md",
+    "_ WEB/N_O_D_E/Mosh Node/_ 0 Node (Mosh).md",
     "R U S T/Rust - FreeCode Beginner/makro vs function.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/4.4. HTTPS Node.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/4.3. pliki statyczne.md",
@@ -240,8 +242,6 @@
     "Studia/Python BackEnd/Django/5 REST.md",
     "A I/SI na Froncie/4 tensorflow.js.md",
     "A I/SI na Froncie/3 AI na froncie.md",
-    "A I/SI na Froncie/2. SI i Uczenie maszynowe.md",
-    "A I/SI na Froncie/_ Wprowadzenie SI z JS.md",
     "R U S T/1 - Full Rust Beginner s Course",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 2",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1",
