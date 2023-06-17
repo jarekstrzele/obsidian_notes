@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "4.4. HTTPS Node",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/4.4. HTTPS Node.md"
+    },
+    {
+      "basename": "4.3. pliki statyczne",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/4.3. pliki statyczne.md"
+    },
+    {
+      "basename": "4.2. Serwer HTTP",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md"
+    },
+    {
+      "basename": "1. synchronous vs asynchronous",
+      "path": "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md"
+    },
+    {
+      "basename": "_ NodeJS 101 Crash Course",
+      "path": "_ WEB/N_O_D_E/Node JS 101 Crash/_ NodeJS 101 Crash Course.md"
+    },
+    {
       "basename": "6 Option",
       "path": "R U S T/Rust 101 Crash Course/6 Option.md"
     },
@@ -105,10 +125,6 @@
       "path": "R U S T/Programmowanie_w Rust/_ Programowanie w języku Rust.md"
     },
     {
-      "basename": "1. synchronous vs asynchronous",
-      "path": "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md"
-    },
-    {
       "basename": "2 Badanie danych",
       "path": "A I/JS uczenie maszynowe/2 Badanie danych.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "UBUNTU",
       "path": "linux/UBUNTU.md"
-    },
-    {
-      "basename": "9.4 Traits Rust",
-      "path": "R U S T/Rust Programming For Beginners/9.4 Traits Rust.md"
-    },
-    {
-      "basename": "9.6 External crates",
-      "path": "R U S T/Rust Programming For Beginners/9.6 External crates.md"
-    },
-    {
-      "basename": "9.5 If let else, While let",
-      "path": "R U S T/Rust Programming For Beginners/9.5 If let else, While let.md"
-    },
-    {
-      "basename": "1 Framework Django",
-      "path": "Studia/Python BackEnd/Django/1 Framework Django.md"
     }
   ],
   "omittedPaths": [],

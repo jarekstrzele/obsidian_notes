@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Rust 101 Crash Course/6 Option.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/4.4. HTTPS Node.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust 101 Crash Course/6 Option.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/4.4. HTTPS Node.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust 101 Crash Course/6 Option.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/4.4. HTTPS Node.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Rust 101 Crash Course/6 Option.md"
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/4.4. HTTPS Node.md"
               }
             }
           },
@@ -216,12 +216,17 @@
   },
   "active": "78770d215dac2332",
   "lastOpenFiles": [
+    "_ WEB/N_O_D_E/NodeJS - fullstack/4.3. pliki statyczne.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/4.4. HTTPS Node.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md",
+    "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md",
+    "_ WEB/N_O_D_E/Node JS 101 Crash/_ NodeJS 101 Crash Course.md",
+    "R U S T/Rust 101 Crash Course/6 Option.md",
     "R U S T/Rust 101 Crash Course/_ Rust 101 Crash Course.md",
     "R U S T/Rust 101 Crash Course/1 Data types.md",
     "R U S T/Rust 101 Crash Course/4 Vectors - data structure.md",
     "R U S T/Rust 101 Crash Course/3 Memory.md",
     "R U S T/Rust 101 Crash Course/2 Expressions.md",
-    "R U S T/Rust 101 Crash Course/6 Option.md",
     "R U S T/Rust 101 Crash Course/5 String.md",
     "Excalidraw/rust_address_offset.excalidraw.md",
     "R U S T/Rust - FreeCode Beginner/makro vs function.md",
@@ -237,11 +242,6 @@
     "A I/SI na Froncie/_ Wprowadzenie SI z JS.md",
     "A I/JS uczenie maszynowe/_ 0 Uczenie maszynowe z JS.md",
     "Studia/Python BackEnd/Django/4 Automatyczny panel administracyjny i kontrola dostępu.md",
-    "R U S T/Programmowanie_w Rust/2. Pierwsze spotkanie z Rustem.md",
-    "Studia/Python BackEnd/Django/3.2 Django zaawansowane cz 2.md",
-    "Studia/Python BackEnd/Django/3.1 Django zaawansowane cz 1.md",
-    "Studia/Python BackEnd/Django/2 Django.md",
-    "R U S T/Programmowanie_w Rust/_ Programowanie w języku Rust.md",
     "R U S T/1 - Full Rust Beginner s Course",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 2",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1",
