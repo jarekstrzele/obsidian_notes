@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "6 Option",
+      "path": "R U S T/Rust 101 Crash Course/6 Option.md"
+    },
+    {
       "basename": "_ Rust 101 Crash Course",
       "path": "R U S T/Rust 101 Crash Course/_ Rust 101 Crash Course.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "2 Expressions",
       "path": "R U S T/Rust 101 Crash Course/2 Expressions.md"
-    },
-    {
-      "basename": "6 Derive",
-      "path": "R U S T/Rust 101 Crash Course/6 Derive.md"
     },
     {
       "basename": "5 String",
