@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Rust 101 Crash Course/5 String.md",
+                "file": "R U S T/Rust 101 Crash Course/6 Derive.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust 101 Crash Course/5 String.md",
+                "file": "R U S T/Rust 101 Crash Course/6 Derive.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust 101 Crash Course/5 String.md",
+                "file": "R U S T/Rust 101 Crash Course/6 Derive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Rust 101 Crash Course/5 String.md"
+                "file": "R U S T/Rust 101 Crash Course/6 Derive.md"
               }
             }
           },
@@ -215,8 +215,9 @@
   },
   "active": "60e9225056dfc3ec",
   "lastOpenFiles": [
-    "R U S T/Rust 101 Crash Course/4 Vectors - data structure.md",
     "R U S T/Rust 101 Crash Course/5 String.md",
+    "R U S T/Rust 101 Crash Course/6 Derive.md",
+    "R U S T/Rust 101 Crash Course/4 Vectors - data structure.md",
     "R U S T/Rust 101 Crash Course/_ Rust 101 Crash Course.md",
     "R U S T/Rust 101 Crash Course/1 Data types.md",
     "R U S T/Rust 101 Crash Course/3 Memory.md",
@@ -240,7 +241,6 @@
     "Studia/Python BackEnd/Django/3.1 Django zaawansowane cz 1.md",
     "Studia/Python BackEnd/Django/2 Django.md",
     "R U S T/Programmowanie_w Rust/_ Programowanie w języku Rust.md",
-    "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md",
     "R U S T/1 - Full Rust Beginner s Course",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 2",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1",

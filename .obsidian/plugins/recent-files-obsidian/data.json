@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "6 Derive",
+      "path": "R U S T/Rust 101 Crash Course/6 Derive.md"
+    },
+    {
       "basename": "5 String",
       "path": "R U S T/Rust 101 Crash Course/5 String.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "1 Framework Django",
       "path": "Studia/Python BackEnd/Django/1 Framework Django.md"
-    },
-    {
-      "basename": "I 6 Invaders Project",
-      "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 6 Invaders Project.md"
     }
   ],
   "omittedPaths": [],
