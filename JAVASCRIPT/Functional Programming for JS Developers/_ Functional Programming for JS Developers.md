@@ -87,15 +87,18 @@ the same example:
 
 the same example
 - code is more concise
-- the functions defined here are independend and reusable
-- no reliance  on an abstract object being passed arpund
+- the functions defined here are independent and reusable
+- no reliance  on an abstract object being passed around
 - much easier to unit test
 - `map` to avoid for loop
 - no mutable variables
 - anonymous arrow functions
 
 
-
-
+# Pure Functions
+#pure_function
+- don't rely on the state of the code they are called from
+- don't create side effects that alter variables outside themselves
+- only one result for any given set of argumen
 
 

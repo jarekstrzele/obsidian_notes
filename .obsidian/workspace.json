@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
+                "file": "JAVASCRIPT/Functional Programming for JS Developers/_ Functional Programming for JS Developers.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
+                "file": "JAVASCRIPT/Functional Programming for JS Developers/_ Functional Programming for JS Developers.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
+                "file": "JAVASCRIPT/Functional Programming for JS Developers/_ Functional Programming for JS Developers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md"
+                "file": "JAVASCRIPT/Functional Programming for JS Developers/_ Functional Programming for JS Developers.md"
               }
             }
           },
@@ -216,6 +216,10 @@
   },
   "active": "da41f4fe8cb4f94d",
   "lastOpenFiles": [
+    "JAVASCRIPT/funkcyjnie_JS/_ JavaScript funkcyjnie.md",
+    "JAVASCRIPT/funkcyjnie_JS/Nowe elementy JS.md",
+    "JAVASCRIPT/Functional Programming for JS Developers/_ Functional Programming for JS Developers.md",
+    "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
     "_ WEB/N_O_D_E/Mosh Node/3 RESTful API's using Express.md",
     "_ WEB/N_O_D_E/Mosh Node/2 Node Package Manager.md",
     "_ WEB/N_O_D_E/Mosh Node/1 Node Module System.md",
@@ -238,10 +242,6 @@
     "R U S T/Rust - FreeCode Beginner/1 Rust Calc.md",
     "R U S T/Rust - FreeCode Beginner/_ 0 Rust.md",
     "_ Desktop/Python/GUI/Firebase full course.md",
-    "Studia/Python BackEnd/Django/5.1. Serwer JSON.md",
-    "Studia/Python BackEnd/Django/5 REST.md",
-    "A I/SI na Froncie/4 tensorflow.js.md",
-    "A I/SI na Froncie/3 AI na froncie.md",
     "R U S T/1 - Full Rust Beginner s Course",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 2",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1",

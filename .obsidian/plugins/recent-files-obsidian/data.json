@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "_ Functional Programming for JS Developers",
+      "path": "JAVASCRIPT/Functional Programming for JS Developers/_ Functional Programming for JS Developers.md"
+    },
+    {
+      "basename": "_ JavaScript funkcyjnie",
+      "path": "JAVASCRIPT/funkcyjnie_JS/_ JavaScript funkcyjnie.md"
+    },
+    {
+      "basename": "Nowe elementy JS",
+      "path": "JAVASCRIPT/funkcyjnie_JS/Nowe elementy JS.md"
+    },
+    {
       "basename": "3.1 Express - introducing",
       "path": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "6 Data Collections",
       "path": "R U S T/Rust Programming For Beginners/6 Data Collections.md"
-    },
-    {
-      "basename": "5 Intermediate Concepts",
-      "path": "R U S T/Rust Programming For Beginners/5 Intermediate Concepts.md"
-    },
-    {
-      "basename": "4 Data",
-      "path": "R U S T/Rust Programming For Beginners/4 Data.md"
-    },
-    {
-      "basename": "I 5 Final Lectures",
-      "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 5 Final Lectures.md"
     }
   ],
   "omittedPaths": [],
