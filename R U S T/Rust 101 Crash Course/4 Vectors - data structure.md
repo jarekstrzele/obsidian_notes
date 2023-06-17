@@ -15,7 +15,15 @@ let mut my_numbers = Vec::new();
 my_numbers.push(1);
 my_numbers.push(2);
 my_numbers.push(3);
-my_numbers.ppop(1);
+my_numbers.pop(); //removes the last elem
+my_numbers.net(); // this is 2
+
+let two = my_numbers[1];
+
+
+for num in my_numbers{
+	println!("{:?}", num) ;
+}
 ```
 
 
