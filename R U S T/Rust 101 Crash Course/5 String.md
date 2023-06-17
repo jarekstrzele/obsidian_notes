@@ -1,4 +1,10 @@
 #rust/string 
+>[!info] Strings
+>- they are automatically borrowed
+>- use `.to_owned()` or `String::from()` to create an owned copy of a string slice
+>- use an owned `String` when string  in a `struct`
+
+
 
 - two commonly use types of strings
 	- `String` - owned
@@ -21,7 +27,19 @@ fn main(){
 ```
 
 
+```rust
+struct Employee{
+	name: String,
+}
 
+fn main(){
+	let emp_name = "Jayson".to_owned() ;
+	// let emp_name = String::from("Jayson") ;
+	let emp = Employee {
+		name:emp_name
+	} ;
+}
+```
 
 
 
