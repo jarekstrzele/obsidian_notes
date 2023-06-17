@@ -125,11 +125,27 @@ console.log(impure(4)) ;  // --> 8
 **only one result for any given set of arguments**
 -- an impure function may not always return the same result with the same input
 
+```js
+
+const external = [1,2,3] ;
+const pure = (value, arr) => {
+  let result = value + arr.length; //external.length 
+  return result ;
+};
+
+console.log(pure(4, external)) ; // -> 7
+console.log(pure(4, external)) ; // -> 7
+external.push(4) ;
+console.log(pure(4, external)) ; // -> 8
+
+```
+``
+==Mutable values can change result, even with a pure function==
 
 
-
-
-
+ADVANTAGES OF PUR FUNCTIONS
+- results are easy to reproduce and test
+- can be called in parallel 
 
 
 
