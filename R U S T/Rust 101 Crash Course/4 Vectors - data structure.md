@@ -21,7 +21,7 @@ my_numbers.net(); // this is 2
 let two = my_numbers[1];
 
 
-for num in my_numbers{
+for num in my_numbers{ //my_numbers is moved to for
 	println!("{:?}", num) ;
 }
 ```

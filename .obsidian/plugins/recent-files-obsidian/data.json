@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "5 String",
+      "path": "R U S T/Rust 101 Crash Course/5 String.md"
+    },
+    {
       "basename": "4 Vectors - data structure",
       "path": "R U S T/Rust 101 Crash Course/4 Vectors - data structure.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "I 6 Invaders Project",
       "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 6 Invaders Project.md"
-    },
-    {
-      "basename": "jQuery",
-      "path": "Studia/Python BackEnd/jQuery.md"
     }
   ],
   "omittedPaths": [],
