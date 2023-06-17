@@ -1,20 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "1 Data types",
-      "path": "R U S T/Rust 101 Crash Course/1 Data types.md"
-    },
-    {
       "basename": "_ Rust 101 Crash Course",
       "path": "R U S T/Rust 101 Crash Course/_ Rust 101 Crash Course.md"
     },
     {
-      "basename": "6 Derive",
-      "path": "R U S T/Rust 101 Crash Course/6 Derive.md"
-    },
-    {
-      "basename": "5 String",
-      "path": "R U S T/Rust 101 Crash Course/5 String.md"
+      "basename": "1 Data types",
+      "path": "R U S T/Rust 101 Crash Course/1 Data types.md"
     },
     {
       "basename": "4 Vectors - data structure",
@@ -23,6 +15,18 @@
     {
       "basename": "3 Memory",
       "path": "R U S T/Rust 101 Crash Course/3 Memory.md"
+    },
+    {
+      "basename": "2 Expressions",
+      "path": "R U S T/Rust 101 Crash Course/2 Expressions.md"
+    },
+    {
+      "basename": "6 Derive",
+      "path": "R U S T/Rust 101 Crash Course/6 Derive.md"
+    },
+    {
+      "basename": "5 String",
+      "path": "R U S T/Rust 101 Crash Course/5 String.md"
     },
     {
       "basename": "rust_address_offset.excalidraw",
@@ -43,10 +47,6 @@
     {
       "basename": "_ 0 Rust",
       "path": "R U S T/Rust - FreeCode Beginner/_ 0 Rust.md"
-    },
-    {
-      "basename": "2 Expressions",
-      "path": "R U S T/Rust 101 Crash Course/2 Expressions.md"
     },
     {
       "basename": "Firebase full course",

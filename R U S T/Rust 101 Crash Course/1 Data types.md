@@ -50,7 +50,10 @@ enum PromoDiscount {
 }
 
 enum Discount{
-
+	Percent(f64),
+	Flat(i32),
+	Promo(PromoDiscount),
+	Custom(String),
 }
 ```
 
