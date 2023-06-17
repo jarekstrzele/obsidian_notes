@@ -37,14 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Rust - FreeCode Beginner/makro vs function.md",
+                "file": "_ WEB/N_O_D_E/Mosh Node/1 Node Module System.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/4.4. HTTPS Node.md",
+                "file": "_ WEB/N_O_D_E/Mosh Node/1 Node Module System.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/4.4. HTTPS Node.md",
+                "file": "_ WEB/N_O_D_E/Mosh Node/1 Node Module System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/4.4. HTTPS Node.md"
+                "file": "_ WEB/N_O_D_E/Mosh Node/1 Node Module System.md"
               }
             }
           },
@@ -214,10 +214,13 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "78770d215dac2332",
+  "active": "da41f4fe8cb4f94d",
   "lastOpenFiles": [
-    "_ WEB/N_O_D_E/NodeJS - fullstack/4.3. pliki statyczne.md",
+    "_ WEB/N_O_D_E/Mosh Node/_ 0 Node (Mosh).md",
+    "_ WEB/N_O_D_E/Mosh Node/1 Node Module System.md",
+    "R U S T/Rust - FreeCode Beginner/makro vs function.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/4.4. HTTPS Node.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/4.3. pliki statyczne.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md",
     "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md",
     "_ WEB/N_O_D_E/Node JS 101 Crash/_ NodeJS 101 Crash Course.md",
@@ -229,7 +232,6 @@
     "R U S T/Rust 101 Crash Course/2 Expressions.md",
     "R U S T/Rust 101 Crash Course/5 String.md",
     "Excalidraw/rust_address_offset.excalidraw.md",
-    "R U S T/Rust - FreeCode Beginner/makro vs function.md",
     "R U S T/Rust - FreeCode Beginner/2 Rust Combiner.md",
     "R U S T/Rust - FreeCode Beginner/1 Rust Calc.md",
     "R U S T/Rust - FreeCode Beginner/_ 0 Rust.md",
@@ -240,8 +242,6 @@
     "A I/SI na Froncie/3 AI na froncie.md",
     "A I/SI na Froncie/2. SI i Uczenie maszynowe.md",
     "A I/SI na Froncie/_ Wprowadzenie SI z JS.md",
-    "A I/JS uczenie maszynowe/_ 0 Uczenie maszynowe z JS.md",
-    "Studia/Python BackEnd/Django/4 Automatyczny panel administracyjny i kontrola dostępu.md",
     "R U S T/1 - Full Rust Beginner s Course",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 2",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1",
