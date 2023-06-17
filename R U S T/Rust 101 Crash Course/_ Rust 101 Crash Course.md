@@ -179,7 +179,43 @@ fn main() {
 
 
 
+```rust
+enum Discount {
+	Percent(i32),
+	Flat(i32),
+}
 
+struct Ticker{
+	event: String,
+	price: i32,
+}
+
+fn main(){
+	let n = 3;
+	match n {
+		3 => println!("three"),
+		other => println!("number: {:?}", other),
+	}
+
+	let flat = Discount::Flat(2) ;
+	match flat {
+		Discount::Flat(2) => println!("flat discount of {:?}", 2),
+		Discount::Flat(amount) => println!("flat discount of {:?}", amount),
+		_ => (),
+	}
+
+let concert = Ticker {
+	event: "concert".to_owned(),
+	price: 50,
+};
+
+// .. - this means ignore others fields
+match concert {
+	Ticker { price: 50, event} => println!("event @ 50 = {:?}", event),
+	Ticker {price, ..} => println!("price= {:?}", price),
+	}
+}
+```
 
 
 
