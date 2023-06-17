@@ -32,6 +32,29 @@ fn which_way(go: Direction){
 }
 ```
 
+`enum` is not limited to just plain variants (==each variant can optionally contain additional data==)
+```rust
+enum Mouse {
+	LeftClick,
+	RightClick,
+	MiddleClick,
+	Scroll(i32),
+	Move(i32, i32),
+}
+```
+
+```rust
+enum PromoDiscount {
+	NewUser,
+	Holiday(String),
+}
+
+enum Discount{
+
+}
+```
+
+
 --------
 # Structure
 - a type that contains multiple pieces of data (all or nothing - cannot have some pieces od data and not others)
@@ -263,10 +286,16 @@ let num2 = 15 ;
 ```
 - can also be specified in code
 
-GENERICS
+GENERICS DATA TYPE
+It is a data type that contains other types and it can contain any other type
 #rust/generics
 ```rust
-let nums: Vec<
+let nums: Vec<i32> = vec![1,2,3] ; //compile figures out itself that type
+let letts: Vec<char> = vec!['a', 'b'] ;
+let clicks: Vec<Mouse> = vec![
+	Mouse::LeftClick,
+	Mouse::RightClick,
+]
 ```
 
 
