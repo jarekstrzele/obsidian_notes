@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Rust 101 Crash Course/_ Rust 101 Crash Course.md",
+                "file": "R U S T/Rust 101 Crash Course/4 Vectors - data structure.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust 101 Crash Course/_ Rust 101 Crash Course.md",
+                "file": "R U S T/Rust 101 Crash Course/4 Vectors - data structure.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust 101 Crash Course/_ Rust 101 Crash Course.md",
+                "file": "R U S T/Rust 101 Crash Course/4 Vectors - data structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Rust 101 Crash Course/_ Rust 101 Crash Course.md"
+                "file": "R U S T/Rust 101 Crash Course/4 Vectors - data structure.md"
               }
             }
           },
@@ -215,11 +215,11 @@
   },
   "active": "60e9225056dfc3ec",
   "lastOpenFiles": [
+    "R U S T/Rust 101 Crash Course/_ Rust 101 Crash Course.md",
     "R U S T/Rust 101 Crash Course/4 Vectors - data structure.md",
     "R U S T/Rust 101 Crash Course/1 Data types.md",
     "R U S T/Rust 101 Crash Course/3 Memory.md",
     "Excalidraw/rust_address_offset.excalidraw.md",
-    "R U S T/Rust 101 Crash Course/_ Rust 101 Crash Course.md",
     "R U S T/Rust - FreeCode Beginner/makro vs function.md",
     "R U S T/Rust - FreeCode Beginner/2 Rust Combiner.md",
     "R U S T/Rust - FreeCode Beginner/1 Rust Calc.md",
