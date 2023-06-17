@@ -99,6 +99,38 @@ the same example
 #pure_function
 - don't rely on the state of the code they are called from
 - don't create side effects that alter variables outside themselves
-- only one result for any given set of argumen
+- only one result for any given set of arguments
+- 
+
+**don't rely on the state of the code they are called from**
+```js
+// an impure function may rely on global or externally deined values
+const external = [1,2,3] ;
+const impure = value => {
+  let result = value + external.length; //external.length  
+  external.push(result) ;
+  return result ;
+};
+
+console.log(impure(4)) ; //  --> 7
+console.log(impure(4)) ;  // --> 8
+```
+
+
+
+**don't create side effects that alter variables outside themselves**
+-- an impure function may make changes to values outside of itself
+
+
+
+
+
+
+
+
+
+
+
+
 
 
