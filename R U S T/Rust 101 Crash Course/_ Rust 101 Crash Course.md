@@ -6,7 +6,7 @@ https://www.youtube.com/watch?v=lzKeecy4OmQ
 [[2 Expressions]]
 [[3 Memory]]
 [[4 Vectors - data structure]]
-
+[[5 String]]
 
 
 ------------

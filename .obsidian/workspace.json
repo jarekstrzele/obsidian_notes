@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Rust 101 Crash Course/_ Rust 101 Crash Course.md",
+                "file": "R U S T/Rust 101 Crash Course/1 Data types.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust 101 Crash Course/6 Derive.md",
+                "file": "R U S T/Rust 101 Crash Course/1 Data types.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -142,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust 101 Crash Course/6 Derive.md",
+                "file": "R U S T/Rust 101 Crash Course/1 Data types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Rust 101 Crash Course/6 Derive.md"
+                "file": "R U S T/Rust 101 Crash Course/1 Data types.md"
               }
             }
           },
@@ -213,12 +214,12 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "60e9225056dfc3ec",
+  "active": "78770d215dac2332",
   "lastOpenFiles": [
-    "R U S T/Rust 101 Crash Course/5 String.md",
-    "R U S T/Rust 101 Crash Course/6 Derive.md",
-    "R U S T/Rust 101 Crash Course/4 Vectors - data structure.md",
     "R U S T/Rust 101 Crash Course/_ Rust 101 Crash Course.md",
+    "R U S T/Rust 101 Crash Course/6 Derive.md",
+    "R U S T/Rust 101 Crash Course/5 String.md",
+    "R U S T/Rust 101 Crash Course/4 Vectors - data structure.md",
     "R U S T/Rust 101 Crash Course/1 Data types.md",
     "R U S T/Rust 101 Crash Course/3 Memory.md",
     "Excalidraw/rust_address_offset.excalidraw.md",
