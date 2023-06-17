@@ -122,6 +122,9 @@ console.log(impure(4)) ;  // --> 8
 -- an impure function may make changes to values outside of itself
 
 
+**only one result for any given set of arguments**
+-- an impure function may not always return the same result with the same input
+
 
 
 
