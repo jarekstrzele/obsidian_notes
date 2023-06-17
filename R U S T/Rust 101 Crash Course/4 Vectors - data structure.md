@@ -8,7 +8,15 @@ https://www.youtube.com/watch?v=lzKeecy4OmQ
 >used for lists of information
 >can add, remove, travers the entries
 
+```rust
+let my_numbers = vec![1,2,3] ;
 
+let mut my_numbers = Vec::new();
+my_numbers.push(1);
+my_numbers.push(2);
+my_numbers.push(3);
+my_numbers.ppop(1);
+```
 
 
 
