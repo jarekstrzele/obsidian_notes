@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "I 6 Invaders Project",
+      "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 6 Invaders Project.md"
+    },
+    {
+      "basename": "I 1 Fundamentals",
+      "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 1 Fundamentals.md"
+    },
+    {
+      "basename": "idiomatic code",
+      "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 2/idiomatic code.md"
+    },
+    {
+      "basename": "_ Ultimate Rust Crash Course 2",
+      "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 2/_ Ultimate Rust Crash Course 2.md"
+    },
+    {
       "basename": "10.1 Custom Error Types",
       "path": "R U S T/Rust Programming For Beginners/10.1 Custom Error Types.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "3.2 Django zaawansowane cz 2",
       "path": "Studia/Python BackEnd/Django/3.2 Django zaawansowane cz 2.md"
-    },
-    {
-      "basename": "3.1 Django zaawansowane cz 1",
-      "path": "Studia/Python BackEnd/Django/3.1 Django zaawansowane cz 1.md"
-    },
-    {
-      "basename": "2 Django",
-      "path": "Studia/Python BackEnd/Django/2 Django.md"
-    },
-    {
-      "basename": "_ Programowanie w języku Rust",
-      "path": "R U S T/Programmowanie_w Rust/_ Programowanie w języku Rust.md"
-    },
-    {
-      "basename": "2 Badanie danych",
-      "path": "A I/JS uczenie maszynowe/2 Badanie danych.md"
     }
   ],
   "omittedPaths": [],
