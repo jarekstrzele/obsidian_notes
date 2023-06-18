@@ -34,7 +34,9 @@ match sound {
 
 ```
 
-
+### `?` automatically perform a `match` operation:
+- if Ok(), inner data will get out
+- if Err(), error will be display
 
 
 
