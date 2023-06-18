@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Rust 101 Crash Course/9 Hashmap.md",
+                "file": "R U S T/Rust Programming For Beginners/10.1 Custom Error Types.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust 101 Crash Course/9 Hashmap.md",
+                "file": "R U S T/Rust Programming For Beginners/10.1 Custom Error Types.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust 101 Crash Course/9 Hashmap.md",
+                "file": "R U S T/Rust Programming For Beginners/10.1 Custom Error Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Rust 101 Crash Course/9 Hashmap.md"
+                "file": "R U S T/Rust Programming For Beginners/10.1 Custom Error Types.md"
               }
             }
           },
@@ -215,8 +215,14 @@
   },
   "active": "60e9225056dfc3ec",
   "lastOpenFiles": [
-    "R U S T/Rust 101 Crash Course/8 Result.md",
+    "R U S T/Rust Programming For Beginners/10 Final Project.md",
+    "R U S T/Rust Programming For Beginners/9.7 Modules as separate files.md",
+    "R U S T/Rust Programming For Beginners/10.2 New Types Patterns.md",
+    "R U S T/Rust Programming For Beginners/8.2 Interactive billing app.md",
+    "R U S T/Rust Programming For Beginners/8.3. Closures Rust.md",
+    "R U S T/Rust Programming For Beginners/_ Rust Programming for Beginners.md",
     "R U S T/Rust 101 Crash Course/9 Hashmap.md",
+    "R U S T/Rust 101 Crash Course/8 Result.md",
     "R U S T/Rust 101 Crash Course/7 Documentations.md",
     "R U S T/Rust 101 Crash Course/6 Option.md",
     "JAVASCRIPT/Functional Programming for JS Developers/_ Functional Programming for JS Developers.md",
@@ -235,12 +241,6 @@
     "_ WEB/N_O_D_E/Node JS 101 Crash/_ NodeJS 101 Crash Course.md",
     "R U S T/Rust 101 Crash Course/_ Rust 101 Crash Course.md",
     "R U S T/Rust 101 Crash Course/1 Data types.md",
-    "R U S T/Rust 101 Crash Course/4 Vectors - data structure.md",
-    "R U S T/Rust 101 Crash Course/3 Memory.md",
-    "R U S T/Rust 101 Crash Course/2 Expressions.md",
-    "R U S T/Rust 101 Crash Course/5 String.md",
-    "Excalidraw/rust_address_offset.excalidraw.md",
-    "R U S T/Rust - FreeCode Beginner/2 Rust Combiner.md",
     "R U S T/1 - Full Rust Beginner s Course",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 2",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1",
