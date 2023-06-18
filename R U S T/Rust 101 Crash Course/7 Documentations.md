@@ -2,7 +2,7 @@
 
 ### to  make `///` docs in a code
 
-## to genetate docs
+## to generate docs `cargo doc` or `cargo doc --open`
 
 
 
