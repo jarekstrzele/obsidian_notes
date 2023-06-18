@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Rust 101 Crash Course/8 Result.md",
+                "file": "R U S T/Rust 101 Crash Course/9 Hashmap.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust 101 Crash Course/8 Result.md",
+                "file": "R U S T/Rust 101 Crash Course/9 Hashmap.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust 101 Crash Course/8 Result.md",
+                "file": "R U S T/Rust 101 Crash Course/9 Hashmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Rust 101 Crash Course/8 Result.md"
+                "file": "R U S T/Rust 101 Crash Course/9 Hashmap.md"
               }
             }
           },
@@ -215,8 +215,9 @@
   },
   "active": "60e9225056dfc3ec",
   "lastOpenFiles": [
-    "R U S T/Rust 101 Crash Course/7 Documentations.md",
     "R U S T/Rust 101 Crash Course/8 Result.md",
+    "R U S T/Rust 101 Crash Course/9 Hashmap.md",
+    "R U S T/Rust 101 Crash Course/7 Documentations.md",
     "R U S T/Rust 101 Crash Course/6 Option.md",
     "JAVASCRIPT/Functional Programming for JS Developers/_ Functional Programming for JS Developers.md",
     "JAVASCRIPT/funkcyjnie_JS/_ JavaScript funkcyjnie.md",
@@ -240,7 +241,6 @@
     "R U S T/Rust 101 Crash Course/5 String.md",
     "Excalidraw/rust_address_offset.excalidraw.md",
     "R U S T/Rust - FreeCode Beginner/2 Rust Combiner.md",
-    "R U S T/Rust - FreeCode Beginner/1 Rust Calc.md",
     "R U S T/1 - Full Rust Beginner s Course",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 2",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1",

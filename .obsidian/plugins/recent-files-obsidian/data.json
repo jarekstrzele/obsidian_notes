@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "9 Hashmap",
+      "path": "R U S T/Rust 101 Crash Course/9 Hashmap.md"
+    },
+    {
       "basename": "8 Result",
       "path": "R U S T/Rust 101 Crash Course/8 Result.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "10.1 Custom Error Types",
       "path": "R U S T/Rust Programming For Beginners/10.1 Custom Error Types.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "R U S T/Rust Programming For Beginners/Untitled.md"
     }
   ],
   "omittedPaths": [],
