@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVASCRIPT/Functional Programming for JS Developers/_ Functional Programming for JS Developers.md",
+                "file": "R U S T/Rust 101 Crash Course/6 Option.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -143,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVASCRIPT/Functional Programming for JS Developers/_ Functional Programming for JS Developers.md",
+                "file": "R U S T/Rust 101 Crash Course/6 Option.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVASCRIPT/Functional Programming for JS Developers/_ Functional Programming for JS Developers.md"
+                "file": "R U S T/Rust 101 Crash Course/6 Option.md"
               }
             }
           },
@@ -214,11 +213,11 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "da41f4fe8cb4f94d",
+  "active": "60e9225056dfc3ec",
   "lastOpenFiles": [
+    "JAVASCRIPT/Functional Programming for JS Developers/_ Functional Programming for JS Developers.md",
     "JAVASCRIPT/funkcyjnie_JS/_ JavaScript funkcyjnie.md",
     "JAVASCRIPT/funkcyjnie_JS/Nowe elementy JS.md",
-    "JAVASCRIPT/Functional Programming for JS Developers/_ Functional Programming for JS Developers.md",
     "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
     "_ WEB/N_O_D_E/Mosh Node/3 RESTful API's using Express.md",
     "_ WEB/N_O_D_E/Mosh Node/2 Node Package Manager.md",
