@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "7 Documentations",
+      "path": "R U S T/Rust 101 Crash Course/7 Documentations.md"
+    },
+    {
       "basename": "6 Option",
       "path": "R U S T/Rust 101 Crash Course/6 Option.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "7 Advanced Concepts",
       "path": "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md"
-    },
-    {
-      "basename": "6 Data Collections",
-      "path": "R U S T/Rust Programming For Beginners/6 Data Collections.md"
     }
   ],
   "omittedPaths": [],

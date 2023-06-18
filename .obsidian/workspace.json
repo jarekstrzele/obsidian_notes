@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Rust 101 Crash Course/6 Option.md",
+                "file": "R U S T/Rust 101 Crash Course/7 Documentations.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust 101 Crash Course/6 Option.md",
+                "file": "R U S T/Rust 101 Crash Course/7 Documentations.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust 101 Crash Course/6 Option.md",
+                "file": "R U S T/Rust 101 Crash Course/7 Documentations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Rust 101 Crash Course/6 Option.md"
+                "file": "R U S T/Rust 101 Crash Course/7 Documentations.md"
               }
             }
           },
@@ -215,6 +215,8 @@
   },
   "active": "60e9225056dfc3ec",
   "lastOpenFiles": [
+    "R U S T/Rust 101 Crash Course/6 Option.md",
+    "R U S T/Rust 101 Crash Course/7 Documentations.md",
     "JAVASCRIPT/Functional Programming for JS Developers/_ Functional Programming for JS Developers.md",
     "JAVASCRIPT/funkcyjnie_JS/_ JavaScript funkcyjnie.md",
     "JAVASCRIPT/funkcyjnie_JS/Nowe elementy JS.md",
@@ -229,7 +231,6 @@
     "_ WEB/N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md",
     "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md",
     "_ WEB/N_O_D_E/Node JS 101 Crash/_ NodeJS 101 Crash Course.md",
-    "R U S T/Rust 101 Crash Course/6 Option.md",
     "R U S T/Rust 101 Crash Course/_ Rust 101 Crash Course.md",
     "R U S T/Rust 101 Crash Course/1 Data types.md",
     "R U S T/Rust 101 Crash Course/4 Vectors - data structure.md",
@@ -240,7 +241,6 @@
     "R U S T/Rust - FreeCode Beginner/2 Rust Combiner.md",
     "R U S T/Rust - FreeCode Beginner/1 Rust Calc.md",
     "R U S T/Rust - FreeCode Beginner/_ 0 Rust.md",
-    "_ Desktop/Python/GUI/Firebase full course.md",
     "R U S T/1 - Full Rust Beginner s Course",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 2",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1",
