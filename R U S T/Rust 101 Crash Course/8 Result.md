@@ -26,7 +26,12 @@ fn get_sound(name: &str) -> Result<SoundData, String> {
 	}
 }
 
-let sound = get_sound("alert")
+let sound = get_sound("alert") ;
+match sound {
+	Ok(_)=>println!("sound data located"),
+	Err(e) => println!("error: {:?}", e),
+}
+
 ```
 
 
