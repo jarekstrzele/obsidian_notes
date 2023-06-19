@@ -54,16 +54,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ee0f6763a3c260f6",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/nodeFlow.excalidraw.md"
-              }
-            }
           }
         ],
         "currentTab": 3
@@ -238,11 +228,11 @@
   },
   "active": "00b7b8d9fee66fde",
   "lastOpenFiles": [
-    "_ WEB/N_O_D_E/Node JS 101 Crash/3 Observer design pattern.md",
+    "Excalidraw/nodeFlow.excalidraw.md",
     "_ WEB/N_O_D_E/Node JS 101 Crash/4.  Modules.md",
+    "_ WEB/N_O_D_E/Node JS 101 Crash/3 Observer design pattern.md",
     "_ WEB/N_O_D_E/Node JS 101 Crash/_ NodeJS 101 Crash Course.md",
     "_ WEB/N_O_D_E/Node JS 101 Crash/2. what is node.js best at.md",
-    "Excalidraw/nodeFlow.excalidraw.md",
     "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/2.2. Buffer.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md",
