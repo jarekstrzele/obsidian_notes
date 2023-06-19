@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "UBUNTU",
+      "path": "linux/UBUNTU.md"
+    },
+    {
+      "basename": "_ Functional Programming for JS Developers",
+      "path": "JAVASCRIPT/Functional Programming for JS Developers/_ Functional Programming for JS Developers.md"
+    },
+    {
+      "basename": "6.the Node Package Manager",
+      "path": "_ WEB/N_O_D_E/Node JS 101 Crash/6.the Node Package Manager.md"
+    },
+    {
       "basename": "5. `index.js`",
       "path": "_ WEB/N_O_D_E/Node JS 101 Crash/5. `index.js`.md"
     },
@@ -35,10 +47,6 @@
     {
       "basename": "2.1. Zdarzenia",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md"
-    },
-    {
-      "basename": "_ Functional Programming for JS Developers",
-      "path": "JAVASCRIPT/Functional Programming for JS Developers/_ Functional Programming for JS Developers.md"
     },
     {
       "basename": "I 6 Invaders Project",
@@ -191,14 +199,6 @@
     {
       "basename": "5.1. Serwer JSON",
       "path": "Studia/Python BackEnd/Django/5.1. Serwer JSON.md"
-    },
-    {
-      "basename": "5 REST",
-      "path": "Studia/Python BackEnd/Django/5 REST.md"
-    },
-    {
-      "basename": "4 tensorflow.js",
-      "path": "A I/SI na Froncie/4 tensorflow.js.md"
     }
   ],
   "omittedPaths": [],
