@@ -109,5 +109,23 @@ fn main() -> Result<(), Box<dyn Error>>{
 
 > Powyższy fragment kodu tworzy pętlę, która sprawdza zdarzenia w kolejce zdarzeń, odczytuje klawisze i reaguje na określone kody klawiszy. Jeśli wciśnięty zostanie klawisz Escape lub 'q', odtwarza się dźwięk "lose" i pętla gry jest
 
+--------
+# Divide the code
+
+`pub type Frame = Vec<Vec<&'static str>>`
+
+> W podanym fragmencie kodu definiowany jest nowy typ `Frame`, który jest aliasem dla `Vec<Vec<&'static str>>`.
+
+> `Vec<T>` jest wektorem dynamicznej wielkości, który przechowuje elementy typu `T`. W przypadku `Frame`, jest to wektor, który przechowuje wektory elementów typu `&'static str`.
+
+> `&'static str` jest typem odwołania do napisu (string) o statycznym czasie życia. Oznacza to, że referencja jest ważna przez cały czas trwania programu.
+
+> Zatem `Frame` jest wektorem, który zawiera wektory odwołań do napisów o statycznym czasie życia. Może to być używane do reprezentacji dwuwymiarowej tablicy lub siatki napisów, gdzie każdy wiersz zawiera różną liczbę elementów tekstowych.
+
+> Metoda `with_capacity` służy do utworzenia wektora z zadaną pojemnością, czyli rezerwuje pamięć na określoną liczbę elementów, ale bez faktycznego ich inicjowania. Pojemność jest informacją dla wektora, ile elementów można przechować przed koniecznością realokacji pamięci w celu zwiększenia pojemności.
+
+
+
+
 
 
