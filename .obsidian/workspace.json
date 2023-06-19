@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ WEB/N_O_D_E/Node JS 101 Crash/4. require function.md",
+                "file": "_ WEB/N_O_D_E/Node JS 101 Crash/4.  Modules.md",
                 "mode": "source",
                 "source": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ WEB/N_O_D_E/Node JS 101 Crash/4. require function.md",
+                "file": "_ WEB/N_O_D_E/Node JS 101 Crash/4.  Modules.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ WEB/N_O_D_E/Node JS 101 Crash/4. require function.md",
+                "file": "_ WEB/N_O_D_E/Node JS 101 Crash/4.  Modules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ WEB/N_O_D_E/Node JS 101 Crash/4. require function.md"
+                "file": "_ WEB/N_O_D_E/Node JS 101 Crash/4.  Modules.md"
               }
             }
           },
@@ -239,7 +239,7 @@
   "active": "00b7b8d9fee66fde",
   "lastOpenFiles": [
     "_ WEB/N_O_D_E/Node JS 101 Crash/3 Observer design pattern.md",
-    "_ WEB/N_O_D_E/Node JS 101 Crash/4. require function.md",
+    "_ WEB/N_O_D_E/Node JS 101 Crash/4.  Modules.md",
     "_ WEB/N_O_D_E/Node JS 101 Crash/_ NodeJS 101 Crash Course.md",
     "_ WEB/N_O_D_E/Node JS 101 Crash/2. what is node.js best at.md",
     "Excalidraw/nodeFlow.excalidraw.md",
