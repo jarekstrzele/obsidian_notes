@@ -4,8 +4,8 @@ https://www.youtube.com/watch?v=fUJ3ULyyA-Y
 
 -----------
 [[1. synchronous vs asynchronous]]
-
-
+[[2. what is node.js best at]]
+[[3 Observer design pattern]]
 
 ------
 [[#REPL Read Eval Print Loop]]

@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ WEB/N_O_D_E/Node JS 101 Crash/2. what is node.js best at.md",
+                "file": "_ WEB/N_O_D_E/Node JS 101 Crash/3 Observer design pattern.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/nodeFlow.excalidraw.md",
+                "file": "_ WEB/N_O_D_E/Node JS 101 Crash/3 Observer design pattern.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/nodeFlow.excalidraw.md",
+                "file": "_ WEB/N_O_D_E/Node JS 101 Crash/3 Observer design pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/nodeFlow.excalidraw.md"
+                "file": "_ WEB/N_O_D_E/Node JS 101 Crash/3 Observer design pattern.md"
               }
             }
           },
@@ -236,9 +236,11 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "ee0f6763a3c260f6",
+  "active": "00b7b8d9fee66fde",
   "lastOpenFiles": [
+    "_ WEB/N_O_D_E/Node JS 101 Crash/_ NodeJS 101 Crash Course.md",
     "_ WEB/N_O_D_E/Node JS 101 Crash/2. what is node.js best at.md",
+    "_ WEB/N_O_D_E/Node JS 101 Crash/3 Observer design pattern.md",
     "Excalidraw/nodeFlow.excalidraw.md",
     "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/2.2. Buffer.md",
@@ -262,8 +264,6 @@
     "JAVASCRIPT/funkcyjnie_JS/_ JavaScript funkcyjnie.md",
     "JAVASCRIPT/funkcyjnie_JS/Nowe elementy JS.md",
     "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
-    "_ WEB/N_O_D_E/Mosh Node/3 RESTful API's using Express.md",
-    "_ WEB/N_O_D_E/Mosh Node/2 Node Package Manager.md",
     "R U S T/1 - Full Rust Beginner s Course",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 2",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1",
