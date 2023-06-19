@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "1. synchronous vs asynchronous",
+      "path": "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md"
+    },
+    {
+      "basename": "2.2. Buffer",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.2. Buffer.md"
+    },
+    {
+      "basename": "2.1. Zdarzenia",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md"
+    },
+    {
+      "basename": "_ Functional Programming for JS Developers",
+      "path": "JAVASCRIPT/Functional Programming for JS Developers/_ Functional Programming for JS Developers.md"
+    },
+    {
       "basename": "I 6 Invaders Project",
       "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 6 Invaders Project.md"
     },
@@ -61,10 +77,6 @@
       "path": "R U S T/Rust 101 Crash Course/6 Option.md"
     },
     {
-      "basename": "_ Functional Programming for JS Developers",
-      "path": "JAVASCRIPT/Functional Programming for JS Developers/_ Functional Programming for JS Developers.md"
-    },
-    {
       "basename": "_ JavaScript funkcyjnie",
       "path": "JAVASCRIPT/funkcyjnie_JS/_ JavaScript funkcyjnie.md"
     },
@@ -107,10 +119,6 @@
     {
       "basename": "4.2. Serwer HTTP",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md"
-    },
-    {
-      "basename": "1. synchronous vs asynchronous",
-      "path": "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md"
     },
     {
       "basename": "_ NodeJS 101 Crash Course",
@@ -191,14 +199,6 @@
     {
       "basename": "4 Automatyczny panel administracyjny i kontrola dostępu",
       "path": "Studia/Python BackEnd/Django/4 Automatyczny panel administracyjny i kontrola dostępu.md"
-    },
-    {
-      "basename": "2. Pierwsze spotkanie z Rustem",
-      "path": "R U S T/Programmowanie_w Rust/2. Pierwsze spotkanie z Rustem.md"
-    },
-    {
-      "basename": "3.2 Django zaawansowane cz 2",
-      "path": "Studia/Python BackEnd/Django/3.2 Django zaawansowane cz 2.md"
     }
   ],
   "omittedPaths": [],
