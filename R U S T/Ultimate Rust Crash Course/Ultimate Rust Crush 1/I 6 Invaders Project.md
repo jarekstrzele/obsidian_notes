@@ -96,7 +96,18 @@ fn main() -> Result<(), Box<dyn Error>>{
 }
 ```
 
+> Opis krok po kroku, co się dzieje w tym fragmencie:
+>1. `gameloop: loop {` - Zaczynamy nieskończoną pętlę gry oznaczoną etykietą `'gameloop`. Etykieta ta będzie używana później, aby przerwać zagnieżdżoną pętlę.
+> 2. `while event::poll(Duration::default())? {` - Wewnątrz pętli, sprawdzamy, czy są dostępne jakiekolwiek zdarzenia. Funkcja `event::poll(Duration::default())` sprawdza, czy są jakieś zdarzenia w kolejce zdarzeń. Jeśli tak, to pętla jest wykonywana. `Duration::default()` oznacza domyślny czas oczekiwania na zdarzenia.
+> 3. `if let Event::Key(key_event) = event::read()? {` - Jeśli jest dostępne zdarzenie typu `Event::Key`, to rozpakowujemy `key_event` i przechodzimy do bloku instrukcji wewnątrz tego warunku. Funkcja `event::read()` odczytuje następne zdarzenie z kolejki zdarzeń.
+> 4. `match key_event.code {` - Tutaj rozpoczyna się dopasowanie kodu klawisza `key_event.code` do różnych przypadków.
+> 5. `KeyCode::Esc | KeyCode::Char('q') => {` - Jeśli kod klawisza jest równy `KeyCode::Esc` (klawisz Escape) lub `KeyCode::Char('q')` (klawisz 'q'), wykonujemy następujące instrukcje:
+	    - `audio.play("lose");` - Odtwarzamy dźwięk "lose" przy użyciu obiektu `audio`.
+	    - `break 'gameloop;` - Przerywamy nadrzędną pętlę gry oznaczoną etykietą `'gameloop`. Oznacza to, że program opuści pętlę gry i przejdzie dalej w kodzie.
+    6. `_ => {}` - To jest tzw. wzorzec underscore, który pasuje do wszystkich innych przypadków, które nie zostały dopasowane wcześniej. W tym przypadku, jeśli kod klawisza nie jest równy `KeyCode::Esc` ani `KeyCode::Char('q')`, wykonujemy pustą instrukcję.
+    
 
+> Powyższy fragment kodu tworzy pętlę, która sprawdza zdarzenia w kolejce zdarzeń, odczytuje klawisze i reaguje na określone kody klawiszy. Jeśli wciśnięty zostanie klawisz Escape lub 'q', odtwarza się dźwięk "lose" i pętla gry jest
 
 
 
