@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "4. require function",
+      "path": "_ WEB/N_O_D_E/Node JS 101 Crash/4. require function.md"
+    },
+    {
       "basename": "3 Observer design pattern",
       "path": "_ WEB/N_O_D_E/Node JS 101 Crash/3 Observer design pattern.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "3 AI na froncie",
       "path": "A I/SI na Froncie/3 AI na froncie.md"
-    },
-    {
-      "basename": "2. SI i Uczenie maszynowe",
-      "path": "A I/SI na Froncie/2. SI i Uczenie maszynowe.md"
     }
   ],
   "omittedPaths": [],
