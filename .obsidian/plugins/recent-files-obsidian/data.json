@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Rust Tutorial Full Course",
+      "path": "R U S T/Rust Tutorial Full Course.md"
+    },
+    {
+      "basename": "_ Ultimate Rust Lang Tutorial",
+      "path": "R U S T/ULTIMATE Rust Lang Tutorial/_ Ultimate Rust Lang Tutorial.md"
+    },
+    {
+      "basename": "_ 0 Rust",
+      "path": "R U S T/Rust - FreeCode Beginner/_ 0 Rust.md"
+    },
+    {
       "basename": "7 Advanced Concepts",
       "path": "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "rust_address_offset.excalidraw",
       "path": "Excalidraw/rust_address_offset.excalidraw.md"
-    },
-    {
-      "basename": "2 Rust Combiner",
-      "path": "R U S T/Rust - FreeCode Beginner/2 Rust Combiner.md"
-    },
-    {
-      "basename": "1 Rust Calc",
-      "path": "R U S T/Rust - FreeCode Beginner/1 Rust Calc.md"
-    },
-    {
-      "basename": "_ 0 Rust",
-      "path": "R U S T/Rust - FreeCode Beginner/_ 0 Rust.md"
     }
   ],
   "omittedPaths": [],
