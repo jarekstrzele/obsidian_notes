@@ -125,6 +125,8 @@ fn main() -> Result<(), Box<dyn Error>>{
 > Metoda `with_capacity` służy do utworzenia wektora z zadaną pojemnością, czyli rezerwuje pamięć na określoną liczbę elementów, ale bez faktycznego ich inicjowania. Pojemność jest informacją dla wektora, ile elementów można przechować przed koniecznością realokacji pamięci w celu zwiększenia pojemności.
 
 
+`> Stdout` jest strumieniem reprezentującym standardowe wyjście (zazwyczaj terminal lub konsolę), do którego można wysyłać dane w celu wyświetlenia ich użytkownikowi.
+
 
 
 
