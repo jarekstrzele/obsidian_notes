@@ -91,6 +91,10 @@ Max f128: 1797693134862315700000000000000000000000000000000000000000000000000000
 `u64`
 
 ---
+
+# Random
+#rust/random
+
 ```rust
 use rand::Rng ;
 
@@ -161,15 +165,11 @@ st6 "Random"
 string length : 6
 74117115116321151111091013232119111114100115
 Just some  words
-
-
-
-
-
 ```
 
 
-
+----
+# Vectors 
 ```rust
 pub fn vec_example() {
 	let vec: Vec<i32> = Vec::new() ;
