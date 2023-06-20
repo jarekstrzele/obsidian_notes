@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/10.2 New Types Patterns.md",
+                "file": "R U S T/Rust Programming For Beginners/9.7 Modules as separate files.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/10.2 New Types Patterns.md",
+                "file": "R U S T/Rust Programming For Beginners/9.7 Modules as separate files.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/10.2 New Types Patterns.md",
+                "file": "R U S T/Rust Programming For Beginners/9.7 Modules as separate files.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/10.2 New Types Patterns.md"
+                "file": "R U S T/Rust Programming For Beginners/9.7 Modules as separate files.md"
               }
             }
           },
@@ -253,9 +253,9 @@
   "active": "e42b123f4efdd8f5",
   "lastOpenFiles": [
     "R U S T/Rust Programming For Beginners/10.1 Custom Error Types.md",
+    "R U S T/Rust Programming For Beginners/10.2 New Types Patterns.md",
     "R U S T/Rust Programming For Beginners/10.3. Contact manager app.md",
     "R U S T/Rust Programming For Beginners/10 Final Project.md",
-    "R U S T/Rust Programming For Beginners/10.2 New Types Patterns.md",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 6 Invaders Project.md",
     "linux/UBUNTU.md",
     "JAVASCRIPT/Functional Programming for JS Developers/_ Functional Programming for JS Developers.md",

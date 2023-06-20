@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "10.2 New Types Patterns",
-      "path": "R U S T/Rust Programming For Beginners/10.2 New Types Patterns.md"
+      "basename": "9.7 Modules as separate files",
+      "path": "R U S T/Rust Programming For Beginners/9.7 Modules as separate files.md"
     },
     {
       "basename": "10.1 Custom Error Types",
       "path": "R U S T/Rust Programming For Beginners/10.1 Custom Error Types.md"
+    },
+    {
+      "basename": "10.2 New Types Patterns",
+      "path": "R U S T/Rust Programming For Beginners/10.2 New Types Patterns.md"
     },
     {
       "basename": "10.3. Contact manager app",
@@ -79,10 +83,6 @@
     {
       "basename": "_ Ultimate Rust Crash Course 2",
       "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 2/_ Ultimate Rust Crash Course 2.md"
-    },
-    {
-      "basename": "9.7 Modules as separate files",
-      "path": "R U S T/Rust Programming For Beginners/9.7 Modules as separate files.md"
     },
     {
       "basename": "8.2 Interactive billing app",
