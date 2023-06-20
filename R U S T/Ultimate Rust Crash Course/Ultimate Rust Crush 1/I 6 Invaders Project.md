@@ -74,7 +74,7 @@ fn main() -> Result<(), Box<dyn Error>>{
 //game loop
 	'gameloop: loop {
 		while event::poll(Duration::default())?{
-		if let Event::Key(key_event) = event::read()?{
+			if let Event::Key(key_event) = event::read()?{
 
 	match key_event.code {
 		KeyCode::Esc | KeyCode::Char('q') =>{
