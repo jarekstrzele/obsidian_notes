@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e42b123f4efdd8f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "R U S T/Rust Programming For Beginners/10.1 Custom Error Types.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 379.5
   },
   "right": {
     "id": "ec7d1a70da2de581",
@@ -150,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 6 Invaders Project.md",
+                "file": "R U S T/Rust Programming For Beginners/10.1 Custom Error Types.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -167,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 6 Invaders Project.md",
+                "file": "R U S T/Rust Programming For Beginners/10.1 Custom Error Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 6 Invaders Project.md"
+                "file": "R U S T/Rust Programming For Beginners/10.1 Custom Error Types.md"
               }
             }
           },
@@ -238,8 +250,13 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "7d46fa22db8bac81",
+  "active": "e42b123f4efdd8f5",
   "lastOpenFiles": [
+    "R U S T/Rust Programming For Beginners/10.3. Contact manager app.md",
+    "R U S T/Rust Programming For Beginners/10 Final Project.md",
+    "R U S T/Rust Programming For Beginners/10.1 Custom Error Types.md",
+    "R U S T/Rust Programming For Beginners/10.2 New Types Patterns.md",
+    "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 6 Invaders Project.md",
     "linux/UBUNTU.md",
     "JAVASCRIPT/Functional Programming for JS Developers/_ Functional Programming for JS Developers.md",
     "_ WEB/N_O_D_E/Node JS 101 Crash/6.the Node Package Manager.md",
@@ -252,20 +269,15 @@
     "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/2.2. Buffer.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md",
-    "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 6 Invaders Project.md",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 1 Fundamentals.md",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 2/idiomatic code.md",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 2/_ Ultimate Rust Crash Course 2.md",
-    "R U S T/Rust Programming For Beginners/10.1 Custom Error Types.md",
-    "R U S T/Rust Programming For Beginners/10 Final Project.md",
     "R U S T/Rust Programming For Beginners/9.7 Modules as separate files.md",
-    "R U S T/Rust Programming For Beginners/10.2 New Types Patterns.md",
     "R U S T/Rust Programming For Beginners/8.2 Interactive billing app.md",
     "R U S T/Rust Programming For Beginners/8.3. Closures Rust.md",
     "R U S T/Rust Programming For Beginners/_ Rust Programming for Beginners.md",
     "R U S T/Rust 101 Crash Course/9 Hashmap.md",
     "R U S T/Rust 101 Crash Course/8 Result.md",
-    "R U S T/Rust 101 Crash Course/7 Documentations.md",
     "R U S T/1 - Full Rust Beginner s Course",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 2",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1",

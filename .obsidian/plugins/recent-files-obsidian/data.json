@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "10.1 Custom Error Types",
+      "path": "R U S T/Rust Programming For Beginners/10.1 Custom Error Types.md"
+    },
+    {
+      "basename": "10.3. Contact manager app",
+      "path": "R U S T/Rust Programming For Beginners/10.3. Contact manager app.md"
+    },
+    {
+      "basename": "10 Final Project",
+      "path": "R U S T/Rust Programming For Beginners/10 Final Project.md"
+    },
+    {
+      "basename": "10.2 New Types Patterns",
+      "path": "R U S T/Rust Programming For Beginners/10.2 New Types Patterns.md"
+    },
+    {
       "basename": "I 6 Invaders Project",
       "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 6 Invaders Project.md"
     },
@@ -65,20 +81,8 @@
       "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 2/_ Ultimate Rust Crash Course 2.md"
     },
     {
-      "basename": "10.1 Custom Error Types",
-      "path": "R U S T/Rust Programming For Beginners/10.1 Custom Error Types.md"
-    },
-    {
-      "basename": "10 Final Project",
-      "path": "R U S T/Rust Programming For Beginners/10 Final Project.md"
-    },
-    {
       "basename": "9.7 Modules as separate files",
       "path": "R U S T/Rust Programming For Beginners/9.7 Modules as separate files.md"
-    },
-    {
-      "basename": "10.2 New Types Patterns",
-      "path": "R U S T/Rust Programming For Beginners/10.2 New Types Patterns.md"
     },
     {
       "basename": "8.2 Interactive billing app",
@@ -195,10 +199,6 @@
     {
       "basename": "Firebase full course",
       "path": "_ Desktop/Python/GUI/Firebase full course.md"
-    },
-    {
-      "basename": "5.1. Serwer JSON",
-      "path": "Studia/Python BackEnd/Django/5.1. Serwer JSON.md"
     }
   ],
   "omittedPaths": [],
