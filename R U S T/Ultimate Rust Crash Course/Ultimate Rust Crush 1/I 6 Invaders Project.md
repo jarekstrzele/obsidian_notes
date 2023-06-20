@@ -128,6 +128,33 @@ fn main() -> Result<(), Box<dyn Error>>{
 `> Stdout` jest strumieniem reprezentującym standardowe wyjście (zazwyczaj terminal lub konsolę), do którego można wysyłać dane w celu wyświetlenia ich użytkownikowi.
 
 
+```rust
+pub fn render(stdout: &mut Stdout, last_frame: &Frame, curr_frame: &Frame, force: bool) { if force { stdout.queue(SetBackgroundColor(Color::Blue)).unwrap(); stdout.queue(Clear(ClearType::All)).unwrap(); stdout.queue(SetBackgroundColor(Color::Black)).unwrap(); stdout.queue(SetForegroundColor(Color::White)).unwrap(); }
+```
+
+Podany fragment kodu jest przykładem funkcji `render`, która przyjmuje jako argumenty:
+
+- Referencję do mutowalnego `Stdout` (`&mut Stdout`), która umożliwia zapis do standardowego wyjścia.
+- Referencje do dwóch struktur `last_frame` i `curr_frame`, które są typem `Frame`.
+- Wartość logiczną `force`, która wskazuje, czy należy wymusić odświeżenie wyjścia.
+
+Jeśli wartość `force` jest prawdziwa (`true`), następuje sekwencja poleceń wywołujących różne akcje na standardowym wyjściu, które zmieniają kolor tła, czyśćą ekran oraz ustawiają kolory czcionki. Kod wykorzystuje `stdout.queue()` do kolejkowania poleceń, które zostaną wykonane po wywołaniu metody `flush()`.
+
+Oto krótkie wyjaśnienie poszczególnych poleceń:
+
+- `stdout.queue(SetBackgroundColor(Color::Blue)).unwrap();` - Ustawia kolor tła na niebieski.
+- `stdout.queue(Clear(ClearType::All)).unwrap();` - Czyści ekran, usuwając wszystko.
+- `stdout.queue(SetBackgroundColor(Color::Black)).unwrap();` - Ponownie ustawia kolor tła na czarny.
+- `stdout.queue(SetForegroundColor(Color::White)).unwrap();` - Ustawia kolor czcionki na biały.
+
+Cała sekwencja poleceń ma na celu wykonanie pewnych operacji wizualnych na standardowym wyjściu, najprawdopodobniej w celu odświeżenia obrazu lub zmiany jego wyglądu.
+
+
+
+
+
+
+
 
 
 
