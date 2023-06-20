@@ -8,7 +8,7 @@
 >- **stylizacja i formatowanie tekstu**
 
 `use crossterm::{terminal, ExecutableCommand} ;`
-- moduł `terminal` zwiera finkcje i typy związane z zarządzaniem terminalem, takie jak przejście do alternatywnego ekranu ...
+- moduł `terminal` zwiera funkcje i typy związane z zarządzaniem terminalem, takie jak przejście do alternatywnego ekranu ...
 - moduł `ExecutableCommand` - to trait, który rozszerza  możliwości strumienia `std::io::stdout()`
 
 Invaders 1.0
