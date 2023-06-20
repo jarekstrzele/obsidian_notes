@@ -8,48 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "60e9225056dfc3ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 6 Invaders Project.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "78770d215dac2332",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/4.4. HTTPS Node.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "da41f4fe8cb4f94d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JAVASCRIPT/Functional Programming for JS Developers/_ Functional Programming for JS Developers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "00b7b8d9fee66fde",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ WEB/N_O_D_E/Node JS 101 Crash/6.the Node Package Manager.md",
+                "file": "R U S T/Rust Programming For Beginners/9.7 Modules as separate files.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,14 +37,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Rust Tutorial Full Course.md",
+                "file": "R U S T/ULTIMATE Rust Lang Tutorial/Casting.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -162,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust Tutorial Full Course.md",
+                "file": "R U S T/Rust Programming For Beginners/9.7 Modules as separate files.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -179,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust Tutorial Full Course.md",
+                "file": "R U S T/Rust Programming For Beginners/9.7 Modules as separate files.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Rust Tutorial Full Course.md"
+                "file": "R U S T/Rust Programming For Beginners/9.7 Modules as separate files.md"
               }
             }
           },
@@ -250,8 +213,13 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "e42b123f4efdd8f5",
+  "active": "00b7b8d9fee66fde",
   "lastOpenFiles": [
+    "_ WEB/N_O_D_E/Node JS 101 Crash/6.the Node Package Manager.md",
+    "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 6 Invaders Project.md",
+    "R U S T/ULTIMATE Rust Lang Tutorial/Casting.md",
+    "R U S T/Rust Tutorial Full Course.md",
+    "R U S T/atrybut.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/_ Ultimate Rust Lang Tutorial.md",
     "R U S T/Rust - FreeCode Beginner/_ 0 Rust.md",
     "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md",
@@ -260,10 +228,8 @@
     "R U S T/Rust Programming For Beginners/10.2 New Types Patterns.md",
     "R U S T/Rust Programming For Beginners/10.3. Contact manager app.md",
     "R U S T/Rust Programming For Beginners/10 Final Project.md",
-    "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 6 Invaders Project.md",
     "linux/UBUNTU.md",
     "JAVASCRIPT/Functional Programming for JS Developers/_ Functional Programming for JS Developers.md",
-    "_ WEB/N_O_D_E/Node JS 101 Crash/6.the Node Package Manager.md",
     "_ WEB/N_O_D_E/Node JS 101 Crash/5. `index.js`.md",
     "_ WEB/N_O_D_E/Node JS 101 Crash/4.  Modules.md",
     "Excalidraw/nodeFlow.excalidraw.md",
@@ -275,9 +241,6 @@
     "_ WEB/N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 1 Fundamentals.md",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 2/idiomatic code.md",
-    "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 2/_ Ultimate Rust Crash Course 2.md",
-    "R U S T/Rust Programming For Beginners/8.2 Interactive billing app.md",
-    "R U S T/Rust Programming For Beginners/8.3. Closures Rust.md",
     "R U S T/1 - Full Rust Beginner s Course",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 2",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1",

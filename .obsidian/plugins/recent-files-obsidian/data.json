@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "9.7 Modules as separate files",
+      "path": "R U S T/Rust Programming For Beginners/9.7 Modules as separate files.md"
+    },
+    {
+      "basename": "6.the Node Package Manager",
+      "path": "_ WEB/N_O_D_E/Node JS 101 Crash/6.the Node Package Manager.md"
+    },
+    {
+      "basename": "I 6 Invaders Project",
+      "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 6 Invaders Project.md"
+    },
+    {
+      "basename": "Casting",
+      "path": "R U S T/ULTIMATE Rust Lang Tutorial/Casting.md"
+    },
+    {
       "basename": "Rust Tutorial Full Course",
       "path": "R U S T/Rust Tutorial Full Course.md"
+    },
+    {
+      "basename": "atrybut",
+      "path": "R U S T/atrybut.md"
     },
     {
       "basename": "_ Ultimate Rust Lang Tutorial",
@@ -15,10 +35,6 @@
     {
       "basename": "7 Advanced Concepts",
       "path": "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md"
-    },
-    {
-      "basename": "9.7 Modules as separate files",
-      "path": "R U S T/Rust Programming For Beginners/9.7 Modules as separate files.md"
     },
     {
       "basename": "10.1 Custom Error Types",
@@ -37,20 +53,12 @@
       "path": "R U S T/Rust Programming For Beginners/10 Final Project.md"
     },
     {
-      "basename": "I 6 Invaders Project",
-      "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 6 Invaders Project.md"
-    },
-    {
       "basename": "UBUNTU",
       "path": "linux/UBUNTU.md"
     },
     {
       "basename": "_ Functional Programming for JS Developers",
       "path": "JAVASCRIPT/Functional Programming for JS Developers/_ Functional Programming for JS Developers.md"
-    },
-    {
-      "basename": "6.the Node Package Manager",
-      "path": "_ WEB/N_O_D_E/Node JS 101 Crash/6.the Node Package Manager.md"
     },
     {
       "basename": "5. `index.js`",
@@ -191,14 +199,6 @@
     {
       "basename": "2 Expressions",
       "path": "R U S T/Rust 101 Crash Course/2 Expressions.md"
-    },
-    {
-      "basename": "5 String",
-      "path": "R U S T/Rust 101 Crash Course/5 String.md"
-    },
-    {
-      "basename": "rust_address_offset.excalidraw",
-      "path": "Excalidraw/rust_address_offset.excalidraw.md"
     }
   ],
   "omittedPaths": [],
