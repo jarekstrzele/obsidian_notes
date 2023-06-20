@@ -202,3 +202,28 @@ println!("Pop: {:?} ", vec2.pop()) ;
 --- output
 
 ```
+
+
+-----
+# Function
+#rust/function 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
