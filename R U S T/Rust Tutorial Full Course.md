@@ -88,6 +88,20 @@ Max f128: 1797693134862315700000000000000000000000000000000000000000000000000000
 `f32`
 `f64`
 `u32`
-`u`
+`u64`
+
+---
+```rust
+use rand::Rng ;
 
 
+fn main() {
+	let random_num: i32 = rand::thread_rng().gen_range(1..6+1) ;
+	println!("random number {:?}", random_num) ;
+
+}
+```
+
+1. `rand::thread_rng()` - Tworzy generator liczb losowych, który jest lokalny dla bieżącego wątku. Jest to inicjalizacja generatora losowego.
+    
+2. `.gen_range(1..6+1)` - Wywołuje metodę `gen_range` na obiekcie generatora losowego. Metoda ta generuje losową liczbę z podanego zakresu (włącznie z dolnym limitem, ale wyłączając górny limit).
