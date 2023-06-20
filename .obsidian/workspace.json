@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/9.7 Modules as separate files.md",
+                "file": "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "#rust/doc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -142,7 +142,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -162,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/9.7 Modules as separate files.md",
+                "file": "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -179,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/9.7 Modules as separate files.md",
+                "file": "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/9.7 Modules as separate files.md"
+                "file": "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md"
               }
             }
           },
@@ -252,6 +253,7 @@
   },
   "active": "e42b123f4efdd8f5",
   "lastOpenFiles": [
+    "R U S T/Rust Programming For Beginners/9.7 Modules as separate files.md",
     "R U S T/Rust Programming For Beginners/10.1 Custom Error Types.md",
     "R U S T/Rust Programming For Beginners/10.2 New Types Patterns.md",
     "R U S T/Rust Programming For Beginners/10.3. Contact manager app.md",
@@ -272,7 +274,6 @@
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 1 Fundamentals.md",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 2/idiomatic code.md",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 2/_ Ultimate Rust Crash Course 2.md",
-    "R U S T/Rust Programming For Beginners/9.7 Modules as separate files.md",
     "R U S T/Rust Programming For Beginners/8.2 Interactive billing app.md",
     "R U S T/Rust Programming For Beginners/8.3. Closures Rust.md",
     "R U S T/Rust Programming For Beginners/_ Rust Programming for Beginners.md",

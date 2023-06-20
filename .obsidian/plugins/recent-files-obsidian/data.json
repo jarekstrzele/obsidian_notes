@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "7 Advanced Concepts",
+      "path": "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md"
+    },
+    {
       "basename": "9.7 Modules as separate files",
       "path": "R U S T/Rust Programming For Beginners/9.7 Modules as separate files.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_ 0 Rust",
       "path": "R U S T/Rust - FreeCode Beginner/_ 0 Rust.md"
-    },
-    {
-      "basename": "Firebase full course",
-      "path": "_ Desktop/Python/GUI/Firebase full course.md"
     }
   ],
   "omittedPaths": [],
