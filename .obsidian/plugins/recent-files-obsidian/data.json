@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Rust Tutorial Full Course",
+      "path": "R U S T/Rust Tutorial Full Course.md"
+    },
+    {
       "basename": "9.7 Modules as separate files",
       "path": "R U S T/Rust Programming For Beginners/9.7 Modules as separate files.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "canvas_moduls_rust",
       "path": "canvas_moduls_rust.canvas"
-    },
-    {
-      "basename": "Rust Tutorial Full Course",
-      "path": "R U S T/Rust Tutorial Full Course.md"
     },
     {
       "basename": "Casting",

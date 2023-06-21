@@ -42,8 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6ca320f6e0c44aaf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "R U S T/Rust Tutorial Full Course.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -125,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/9.7 Modules as separate files.md",
+                "file": "R U S T/Rust Tutorial Full Course.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -142,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/9.7 Modules as separate files.md",
+                "file": "R U S T/Rust Tutorial Full Course.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/9.7 Modules as separate files.md"
+                "file": "R U S T/Rust Tutorial Full Course.md"
               }
             }
           },
@@ -213,15 +226,15 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "00b7b8d9fee66fde",
+  "active": "6ca320f6e0c44aaf",
   "lastOpenFiles": [
+    "R U S T/Rust Programming For Beginners/9.7 Modules as separate files.md",
     "_ WEB/N_O_D_E/Node JS 101 Crash/6.the Node Package Manager.md",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 6 Invaders Project.md",
     "Untitled 2.canvas",
     "canvas_moduls_rust.canvas",
     "R U S T/Rust Tutorial Full Course.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/Casting.md",
-    "R U S T/Rust Programming For Beginners/9.7 Modules as separate files.md",
     "R U S T/atrybut.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/_ Ultimate Rust Lang Tutorial.md",
     "R U S T/Rust - FreeCode Beginner/_ 0 Rust.md",

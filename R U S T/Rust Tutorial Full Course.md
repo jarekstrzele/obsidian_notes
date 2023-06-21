@@ -10,6 +10,10 @@ https://www.youtube.com/watch?v=ygL_xcavzQ4
 [[#Random]]
 [[#Vectors]]
 [[#Function]]
+[[#Generics]]
+[[#Modules, crates]]
+[[#Memory]]
+[[#hashmap]]
 
 
 
@@ -470,7 +474,13 @@ pub fn hashmap_example(){
 
 
 --------
-# Modules
+# Errors
+
+
+
+
+
+
 
 
 
