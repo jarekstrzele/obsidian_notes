@@ -476,7 +476,14 @@ pub fn hashmap_example(){
 --------
 # Errors
 
-
+```rust
+fn main(){
+	panic!("terrible error") ;
+}
+--output
+thread 'main' panicked at 'Terrible error', src/errors_my.rs:4:5
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace
+```
 
 
 
