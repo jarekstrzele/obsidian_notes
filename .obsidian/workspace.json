@@ -32,21 +32,6 @@
             }
           },
           {
-            "id": "e42b123f4efdd8f5",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled 3.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 147.87,
-                  "zoom": 0
-                }
-              }
-            }
-          },
-          {
             "id": "ab79f1a053b363d0",
             "type": "leaf",
             "state": {
@@ -58,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -141,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 3.canvas",
+                "file": "R U S T/Rust Programming For Beginners/9.7 Modules as separate files.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -158,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 3.canvas",
+                "file": "R U S T/Rust Programming For Beginners/9.7 Modules as separate files.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 3.canvas"
+                "file": "R U S T/Rust Programming For Beginners/9.7 Modules as separate files.md"
               }
             }
           },
@@ -229,15 +213,15 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "e42b123f4efdd8f5",
+  "active": "00b7b8d9fee66fde",
   "lastOpenFiles": [
     "_ WEB/N_O_D_E/Node JS 101 Crash/6.the Node Package Manager.md",
-    "Untitled 3.canvas",
+    "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 6 Invaders Project.md",
     "Untitled 2.canvas",
+    "canvas_moduls_rust.canvas",
     "R U S T/Rust Tutorial Full Course.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/Casting.md",
     "R U S T/Rust Programming For Beginners/9.7 Modules as separate files.md",
-    "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 6 Invaders Project.md",
     "R U S T/atrybut.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/_ Ultimate Rust Lang Tutorial.md",
     "R U S T/Rust - FreeCode Beginner/_ 0 Rust.md",
