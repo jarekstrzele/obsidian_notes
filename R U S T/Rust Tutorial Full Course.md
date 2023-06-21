@@ -572,9 +572,11 @@ pub fn iter_example(){
 
 -----------
 # Closure
-
 #rust/closure 
 
+>[!info] closure
+>It is a function without a name 
+>`let var_name = |params| -> return_type {BODY}`
 
 
 
