@@ -267,7 +267,19 @@ fn get_sum_gen<T: Add<Output = T>>(x: T, y: T) -> T{
 ```
 
 ## generic struct
+```rust
+pub fn generics_examples(){
 
+	let rec: Rectangle1<i32, f64> = Rectangle1{length: 4, height: 10.5};
+	println!("{:?}", rec) ;
+}
+
+#[derive(Debug)]
+struct Rectangle1<T, U>{
+	length: T,
+	height: U,
+}
+```
 
 
 
