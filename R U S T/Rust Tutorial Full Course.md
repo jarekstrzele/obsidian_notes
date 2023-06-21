@@ -503,7 +503,29 @@ let buffered = BufReader::new(input);
 `unwrap()` 
 #rust/unwrap 
 - metoda dostępna dla typu `Result<T, E>` , 
-- metoda ta "rozpakowuje" wartość z  z `Result`
+- metoda ta "rozpakowuje" wartość z  z `Result`, zwraca wartość sukcesu, jeśli wynik jest `Ok` lub `panic!`, jeśli wynik jest `Err`
+
+`BufReader`
+#rust/bufreader 
+- struktura z modułu `std:io`
+- zapewnia buforowanie odczytu danych z danego źródła (np. z pliku)
+- optymalizuje  odczyt danych redukując ilość bezpośrednich operacji odczytu 
+	- `BufReader` przechowuje pewien bufor w pamięci, a następnie dokonuje operacji odczytu z tego bufora
+	- `let buffered = BufReader::new(input)` 
+		- tworzymy nową instancję BufReader
+		- instancja będzie buforować odczyt z pliku reprezentowanego przez `input`
+
+```rust
+let buffered = BufReader::new(input);
+
+for line in buffered.lines(){
+	println!("{}", line.unwrap()) ;
+}
+```
+
+
+
+
 
 
 
