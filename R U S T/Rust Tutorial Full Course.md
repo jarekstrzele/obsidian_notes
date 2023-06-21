@@ -1,6 +1,22 @@
 #rust #youtube 
 https://www.youtube.com/watch?v=ygL_xcavzQ4
 
+
+[[#generate a project]]
+[[#app 'what is your name']]
+[[#Constant]]
+[[#shadowing]]
+[[#Types]]
+[[#Random]]
+[[#Vectors]]
+[[#Function]]
+
+
+
+
+--------
+# generate a project
+
 #### `cargo new rust_tutorial`
 
 at the beginning of a file write
@@ -224,6 +240,17 @@ sum
 }
 ```
 
+
+---------
+# Generics
+**generic types** we can specify the data type to be used at a later time 
+
+YOU CAN'T write that way:
+```rust
+fn get_sum_gen(a: T, y: T) -> T {
+	x + y
+}
+```
 
 
 
