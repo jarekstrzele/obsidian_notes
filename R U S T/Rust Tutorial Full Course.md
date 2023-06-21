@@ -332,8 +332,22 @@ fn get_sum_gen<T: Add<Output = T>>(x: T, y: T) -> T{
 #rust/crate 
 
 >[!info] crates
->modules that produce a library
+>modules that produce a library or executable
 
+>[!info] modules
+>organize and handle privacy
+
+>[!info] package
+> build, test and share crates
+
+>[!info] paths
+>a way of naming  an item such as a struct , function ...
+
+in `src` > a new folder `restaurant` > a new file `mod.rs`
+```rust
+
+
+```
 
 
 
