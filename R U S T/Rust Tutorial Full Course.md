@@ -529,7 +529,20 @@ for line in buffered.lines(){
 }
 ```
 
-`lines()` -  zwraca `Result` type  
+`lines()` -  zwraca `Result` type  (iterator)
+
+--------
+# iterators
+#rust/iterator 
+>[!info] iterator
+>it can help us cycle through values in:
+>	- arrays
+>	- vectors
+>	- map
+>	- ...
+
+iterate through values by borrowing them
+
 
 
 
