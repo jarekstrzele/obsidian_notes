@@ -542,6 +542,44 @@ for line in buffered.lines(){
 >	- ...
 
 iterate through values by borrowing them
+```rust
+pub fn iter_example(){
+	let mut arr_it = [1,2,3] ;
+	for val in arr_it.iter() {
+		println!("{}", val) ;
+	}
+
+	// `for val in arr_it {}` 
+	//  this code automatically generate an iterator  
+	
+	// create your own iterator
+	let mut iter1 = arr_it.iter() ;
+	println!("1st: {:?} ", iter1.next()) ;
+	println!("2nd: {:?} ", iter1.next()) ;
+	println!("3rd: {:?} ", iter1.next()) ;
+	println!("4th: {:?} ", iter1.next()) ;
+}
+
+/// output
+1
+2
+3
+1st: Some(1) 
+2nd: Some(2) 
+3rd: Some(3) 
+4th: None 
+```
+
+-----------
+# Closure
+
+#rust/closure 
+
+
+
+
+
+
 
 
 
