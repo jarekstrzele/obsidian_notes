@@ -266,6 +266,17 @@ fn get_sum_gen<T: Add<Output = T>>(x: T, y: T) -> T{
 }
 ```
 
+## generic struct
+
+
+
+
+
+
+
+
+---
+# Memory
 #rust/ownership 
 >[!info] managing memory - ownership
 >- memory is managed by the system of ownership with rules that are checked at compile time
@@ -300,7 +311,59 @@ fn main(){
 }
 ```
 
+------
+# hashmap
 
+```rust
+use std::collections::HashMap ;
+
+  
+
+pub fn hashmap_example(){
+
+let mut heroes = HashMap::new() ;
+
+heroes.insert("Superman", "Clark Kent") ;
+
+heroes.insert("Batman", "Bruce Wayne") ;
+
+heroes.insert("The Flash", "Barry Allen") ;
+
+  
+
+for (key, value) in heroes.iter(){
+
+println!("{} = {}", key, value) ;
+
+  
+
+}
+
+println!("length {}", heroes.len()) ;
+
+  
+  
+
+if heroes.contains_key(&"Batman"){
+
+let the_batman = heroes.get(&"Batman");
+
+println!("the batman {:?}", the_batman) ;
+
+  
+
+match the_batman {
+
+Some(x) => println!("Batmanis a hero!!"),
+
+None => println!("Batman is not a hero"),
+
+}
+
+}
+
+}
+```
 
 
 
