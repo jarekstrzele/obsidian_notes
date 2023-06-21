@@ -343,6 +343,17 @@ fn get_sum_gen<T: Add<Output = T>>(x: T, y: T) -> T{
 >[!info] paths
 >a way of naming  an item such as a struct , function ...
 
+in `main.rs`
+```rust
+mod restaurant;
+use crate::restaurant::order_food;
+
+fn main() {
+	order_food() ;
+}
+```
+
+
 in `src` > a new folder `restaurant` > a new file `mod.rs`
 ```rust
 mod pizza_order {
