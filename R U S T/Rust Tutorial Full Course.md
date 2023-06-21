@@ -266,13 +266,18 @@ fn get_sum_gen<T: Add<Output = T>>(x: T, y: T) -> T{
 }
 ```
 
->[!info] managing memory
->- 
+#rust/ownership 
+>[!info] managing memory - ownership
+>- memory is managed by the system of ownership with rules that are checked at compile time
 
+>[!info] stack
+>
+> - store values in last in first out format LIFO
+> - stack data must have a defined size
 
-
-
-
+>[!info] heap
+>- when you are putting data on the heap you request a certain amount of space and 
+>- the operating system is going to find space that is available and then it's going to return an address for that space and that reference to the space in memory is going to be called a point
 
 
 
