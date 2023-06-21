@@ -284,7 +284,14 @@ fn get_sum_gen<T: Add<Output = T>>(x: T, y: T) -> T{
 >- the operating system is going to find space that is available and then it's going to return an address for that space and that reference to the space in memory is going to be called a **pointer**
 >- a pointer is like an address now
 
-
+example of moving ownership
+```rust
+fn main(){
+	let str1 = String::from("world") ;
+	let str2 = str1 ;
+	println!("Hello {}", str1) ; 
+}
+```
 
 
 
