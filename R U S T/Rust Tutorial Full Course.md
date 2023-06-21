@@ -288,8 +288,15 @@ example of moving ownership
 ```rust
 fn main(){
 	let str1 = String::from("world") ;
-	let str2 = str1 ;
+	// let str2 = str1 ;
+	// println!("Hello {}", str1) ; 
+	// it generates error
+	//   ---- move occurs because `str1` has type `String`, which does not implement the `Copy` trait
+
+	let str2 : str1.clone() ;
 	println!("Hello {}", str1) ; 
+	
+	
 }
 ```
 
