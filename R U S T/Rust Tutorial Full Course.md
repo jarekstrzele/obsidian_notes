@@ -345,6 +345,46 @@ fn get_sum_gen<T: Add<Output = T>>(x: T, y: T) -> T{
 
 in `src` > a new folder `restaurant` > a new file `mod.rs`
 ```rust
+mod pizza_order {
+    pub struct Pizza{
+        pub dough: String,
+        pub cheese: String,
+        pub topping: String,
+    }
+
+    impl Pizza {
+        pub fn lunch(topping: &str) -> Pizza{
+            Pizza {
+               dough: String::from("regular dough"),
+               cheese: String::from("mozzarella"),
+               topping: String::from(topping),
+            }
+        }
+    }
+
+	pub mod help_customer{
+        fn seat_at_table(){
+            println!("Customer seated at table") ;
+        }
+
+        pub fn take_order(){
+            seat_at_table();
+            let cust_pizza: super::Pizza = 
+                super::Pizza::lunch("veggies") ;
+            serve_customer(cust_pizza) ;
+        }
+
+        fn serve_customer(cust_pizza: super::Pizza){
+            println!("the customer is erved a regular pizza with {}", cust_pizza.topping) ;
+        }
+    }
+
+}
+
+pub fn order_food(){
+    crate::restaurant::pizza_order::help_customer::take_order();
+}
+
 
 
 ```
@@ -394,54 +434,32 @@ fn main(){
 ```rust
 use std::collections::HashMap ;
 
-  
-
 pub fn hashmap_example(){
+	let mut heroes = HashMap::new() ;
+	heroes.insert("Superman", "Clark Kent") ;
+	heroes.insert("Batman", "Bruce Wayne") ;
+	heroes.insert("The Flash", "Barry Allen") ;
 
-let mut heroes = HashMap::new() ;
+	for (key, value) in heroes.iter(){
+		println!("{} = {}", key, value) ;
+	}
+	println!("length {}", heroes.len()) ;
 
-heroes.insert("Superman", "Clark Kent") ;
+	if heroes.contains_key(&"Batman"){
+		let the_batman = heroes.get(&"Batman");
+		println!("the batman {:?}", the_batman) ;
 
-heroes.insert("Batman", "Bruce Wayne") ;
-
-heroes.insert("The Flash", "Barry Allen") ;
-
-  
-
-for (key, value) in heroes.iter(){
-
-println!("{} = {}", key, value) ;
-
-  
-
-}
-
-println!("length {}", heroes.len()) ;
-
-  
-  
-
-if heroes.contains_key(&"Batman"){
-
-let the_batman = heroes.get(&"Batman");
-
-println!("the batman {:?}", the_batman) ;
-
-  
-
-match the_batman {
-
-Some(x) => println!("Batmanis a hero!!"),
-
-None => println!("Batman is not a hero"),
-
-}
-
-}
-
+	match the_batman {
+		Some(x) => println!("Batmanis a hero!!"),
+		None => println!("Batman is not a hero"),
+	}
+	}
 }
 ```
 
+
+--------
+# Modules
 
 
 
