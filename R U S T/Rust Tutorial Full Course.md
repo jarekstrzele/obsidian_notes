@@ -269,6 +269,10 @@ fn get_sum_gen<T: Add<Output = T>>(x: T, y: T) -> T{
 #rust/ownership 
 >[!info] managing memory - ownership
 >- memory is managed by the system of ownership with rules that are checked at compile time
+>- **rules**:
+>	- each value has its owner
+>	- one owner at any one time 
+>	- whenever the owner goes out of scope, the value is going to disapear
 
 >[!info] stack
 >
@@ -277,7 +281,8 @@ fn get_sum_gen<T: Add<Output = T>>(x: T, y: T) -> T{
 
 >[!info] heap
 >- when you are putting data on the heap you request a certain amount of space and 
->- the operating system is going to find space that is available and then it's going to return an address for that space and that reference to the space in memory is going to be called a point
+>- the operating system is going to find space that is available and then it's going to return an address for that space and that reference to the space in memory is going to be called a **pointer**
+>- a pointer is like an address now
 
 
 
