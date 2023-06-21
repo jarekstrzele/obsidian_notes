@@ -485,9 +485,11 @@ thread 'main' panicked at 'Terrible error', src/errors_my.rs:4:5
 note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace
 ```
 
-
-
-
+```rust
+write!(output, "Just some\nRandom words").expect("Fail to write to file") ;
+```
+makro `write!` pochodzi z modułu `std::io::Write`
+`.expect()` - ke
 
 
 
