@@ -578,7 +578,17 @@ pub fn iter_example(){
 >It is a function without a name 
 >`let var_name = |params| -> return_type {BODY}`
 
+basic:
+```rust
+let can_vote =|age: i32| {
+	age >= 18
+} ;
 
+println!("Can vote: {}", can_vote(8)) ;
+
+- output -
+Can vote: false
+```
 
 
 
