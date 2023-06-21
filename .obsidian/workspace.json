@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#rust/doc",
+                "query": "tag:#rust/unwrap-",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,7 +118,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",

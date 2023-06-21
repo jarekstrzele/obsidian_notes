@@ -486,12 +486,24 @@ note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace
 ```
 
 ```rust
+let mut output = match output { 
+	Ok(file) => file,
+	Err(error) => { panic!("Problem creating file: {:?}", error); } 
+};
+
 write!(output, "Just some\nRandom words").expect("Fail to write to file") ;
+let input = File::open(path).unwrap(); 
+let buffered = BufReader::new(input);
+
+
 ```
-makro `write!` pochodzi z modułu `std::io::Write`
-`.expect()` - ke
+- makro `write!` pochodzi z modułu `std::io::Write`
+- `.expect()` - jeśli  operacja zapisu zakończy się  niepowodzeniem, metoda ta spowoduje przerwanie programu i wyświetli się komunikat "Fail to write to file"
 
-
+`unwrap()` 
+#rust/unwrap 
+- metoda dostępna dla typu `Result<T, E>` , 
+- metoda ta "rozpakowuje" wartość z  z `Result`
 
 
 
