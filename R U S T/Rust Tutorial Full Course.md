@@ -654,8 +654,18 @@ Oba smart pointery są często używane w Rust do zarządzania pamięcią w spos
 Warto zaznaczyć, że Rust również zapewnia wskaźniki surowe (raw pointers) `*const T` i `*mut T`, ale ich użycie jest bardziej ryzykowne i wymaga ostrożności związanej z bezpieczeństwem. Wskaźniki surowe są rzadziej stosowane i zazwyczaj używane są do interakcji z kodem niskiego poziomu lub do tworzenia bezpiecznych abstrakcji wewnątrz zaawansowanych bibliotek.
 
 
+>[!info] smart pointer
+>- own data and have some  function for manipulating that data
 
+### Box
+binary tree structure utilizing box
 
+>[!info] box
+>- store data on ==the heap== instead of the stack
+
+**stack** 
+- stores values in LIFO
+- data on the stack must have a defined fixed size
 
 
 
