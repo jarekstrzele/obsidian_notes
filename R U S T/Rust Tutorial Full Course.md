@@ -791,7 +791,6 @@ The `use` statements you provided are used to bring specific types or modules fr
     - `RefCell` enforces Rust's borrowing rules at runtime, rather than compile-time, by performing runtime checks to ensure that mutable borrows are exclusive and don't violate borrowing rules.
     - `RefCell` can be used in single-threaded scenarios where dynamic borrowing and mutability are needed.
 3. `use std::sync::{Arc, Mutex};`
-    
     - This statement imports the `Arc` and `Mutex` types from the `std::sync` module.
     - `Arc` stands for "atomic reference counting" and is similar to `Rc` but provides thread-safe shared ownership.
     - `Arc` allows multiple threads to have shared ownership of the same data, and it tracks the number of references using atomic operations to ensure thread safety.
