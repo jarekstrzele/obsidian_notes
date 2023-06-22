@@ -719,7 +719,9 @@ Common problems with parallel programming involve:
 - threads are blocked from executing because of confusion
 
 
-
+1. `std::thread`: Ta biblioteka umożliwia tworzenie i zarządzanie wątkami w Rust. Daje programiście możliwość tworzenia nowych wątków, zarządzania ich cyklami życia, komunikacji między wątkami i synchronizacji dostępu do danych. Umożliwia tworzenie współbieżnych programów i wykonywanie równoległych operacji. Przykładowe funkcje z tej biblioteki to `spawn`, `join`, `sleep` itp.
+    
+2. `std::time::Duration`: Ta biblioteka umożliwia manipulację czasem w Rust. Zapewnia typ `Duration`, który reprezentuje okres czasu. Można go używać do wykonywania operacji na czasie, takich jak oczekiwanie przez określony czas, mierzenie czasu trwania operacji, tworzenie opóźnień itp. Udostępnia różne metody i operatory, takie jak `from_secs`, `as_secs`, `add`, `sub` itp., które umożliwiają wygodną manipulację czasem.
 
 
 
