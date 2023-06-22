@@ -724,6 +724,48 @@ Common problems with parallel programming involve:
 2. `std::time::Duration`: Ta biblioteka umożliwia manipulację czasem w Rust. Zapewnia typ `Duration`, który reprezentuje okres czasu. Można go używać do wykonywania operacji na czasie, takich jak oczekiwanie przez określony czas, mierzenie czasu trwania operacji, tworzenie opóźnień itp. Udostępnia różne metody i operatory, takie jak `from_secs`, `as_secs`, `add`, `sub` itp., które umożliwiają wygodną manipulację czasem.
 
 
+```rust
+use std::thread;
 
+use std::time::Duration;
+
+  
+
+pub fn tread_example(){
+
+  
+
+// create a thread
+
+let thread_1 = thread::spawn( || {
+
+for i in 1..10 {
+
+println!("Spawned thread : {} ", i) ;
+
+thread::sleep(Duration::from_millis(1))
+
+};
+
+});
+
+  
+
+for i in 1..8{
+
+println!("Main thread : {} ", i);
+
+thread::sleep(Duration::from_millis(1));
+
+} ;
+
+  
+
+thread_1.join().unwrap() ; // two thread will end its works
+
+  
+
+}
+```
 
 
