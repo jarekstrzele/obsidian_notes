@@ -631,9 +631,19 @@ pub fn closure_example(){
 ```
 
 
+----------
+# Pointer `&`
+#rust/pointer
 
+>[!info] pointer
+> it is an address to a location in memory
 
-
+## smart pointer:
+- string
+- vectors
+- &
+- ...
+- 
 
 
 
