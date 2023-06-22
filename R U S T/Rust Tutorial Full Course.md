@@ -14,6 +14,12 @@ https://www.youtube.com/watch?v=ygL_xcavzQ4
 [[#Modules, crates]]
 [[#Memory]]
 [[#hashmap]]
+[[#Errors]]
+[[#iterators]]
+[[#Closure]]
+[[#Pointer `&`]]
+
+
 
 
 
@@ -764,5 +770,57 @@ Spawned thread : 7
 Spawned thread : 8 
 Spawned thread : 9 
 ```
+
+```rust 
+
+use std::rc::Rc;
+use std::cell::RefCell ;
+use std::sync::{Arc, Mutex} ;
+
+```
+The `use` statements you provided are used to bring specific types or modules from the `std` (standard) library into the current scope. Here's a breakdown of each statement:
+
+1. `use std::rc::Rc;`
+    
+    - This statement imports the `Rc` type from the `std::rc` module.
+    - `Rc` stands for "reference counting" and is a type for shared ownership of data. It allows multiple references to the same data and keeps track of the number of references. When the last reference goes out of scope, the data is deallocated.
+    - `Rc` provides non-thread-safe shared ownership, meaning it can be used in single-threaded scenarios.
+2. `use std::cell::RefCell;`
+    
+    - This statement imports the `RefCell` type from the `std::cell` module.
+    - `RefCell` is a type for interior mutability, allowing for mutable access to data even when it's behind an immutable reference.
+    - `RefCell` enforces Rust's borrowing rules at runtime, rather than compile-time, by performing runtime checks to ensure that mutable borrows are exclusive and don't violate borrowing rules.
+    - `RefCell` can be used in single-threaded scenarios where dynamic borrowing and mutability are needed.
+3. `use std::sync::{Arc, Mutex};`
+    
+    - This statement imports the `Arc` and `Mutex` types from the `std::sync` module.
+    - `Arc` stands for "atomic reference counting" and is similar to `Rc` but provides thread-safe shared ownership.
+    - `Arc` allows multiple threads to have shared ownership of the same data, and it tracks the number of references using atomic operations to ensure thread safety.
+    - `Mutex` is a type for mutual exclusion, providing interior mutability in a thread-safe manner. It ensures that only one thread can access the data at a time by acquiring and releasing a lock.
+    - `Mutex` can be used in multi-threaded scenarios to protect shared resources from data races and ensure exclusive access.
+
+These modules and types are part of the Rust standard library and provide essential functionality for managing shared ownership, interior mutability, and thread safety in Rust programs.
+
+
+
+--------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
