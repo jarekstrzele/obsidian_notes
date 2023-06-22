@@ -578,7 +578,7 @@ pub fn iter_example(){
 >It is a function without a name 
 >`let var_name = |params| -> return_type {BODY}`
 
-## basic example - clo
+## basic example - closure
 ```rust
 let can_vote =|age: i32| {
 	age >= 18
@@ -615,6 +615,19 @@ samp1 = 10
 ```
 
 ## function as argument - closure
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
