@@ -726,46 +726,43 @@ Common problems with parallel programming involve:
 
 ```rust
 use std::thread;
-
 use std::time::Duration;
-
-  
 
 pub fn tread_example(){
 
-  
+	// create a thread
+	let thread_1 = thread::spawn( || {
+		for i in 1..10 {
+			println!("Spawned thread : {} ", i) ;
+			thread::sleep(Duration::from_millis(1))
+		};
+	});
 
-// create a thread
-
-let thread_1 = thread::spawn( || {
-
-for i in 1..10 {
-
-println!("Spawned thread : {} ", i) ;
-
-thread::sleep(Duration::from_millis(1))
-
-};
-
-});
-
-  
-
-for i in 1..8{
-
-println!("Main thread : {} ", i);
-
-thread::sleep(Duration::from_millis(1));
-
-} ;
-
-  
-
-thread_1.join().unwrap() ; // two thread will end its works
-
-  
-
+	for i in 1..8{
+		println!("Main thread : {} ", i);
+		thread::sleep(Duration::from_millis(1));
+	} ;
+	
+	thread_1.join().unwrap() ; // two thread will end its works
 }
+
+-- out put
+Main thread : 1 
+Spawned thread : 1 
+Main thread : 2 
+Spawned thread : 2 
+Main thread : 3 
+Spawned thread : 3 
+Main thread : 4 
+Spawned thread : 4 
+Main thread : 5 
+Spawned thread : 5 
+Main thread : 6 
+Spawned thread : 6 
+Main thread : 7 
+Spawned thread : 7 
+Spawned thread : 8 
+Spawned thread : 9 
 ```
 
 
