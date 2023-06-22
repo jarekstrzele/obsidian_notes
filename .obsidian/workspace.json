@@ -118,8 +118,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -227,7 +226,7 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "6ca320f6e0c44aaf",
+  "active": "f621f21825dbd82d",
   "lastOpenFiles": [
     "R U S T/Rust Programming For Beginners/9.7 Modules as separate files.md",
     "_ WEB/N_O_D_E/Node JS 101 Crash/6.the Node Package Manager.md",

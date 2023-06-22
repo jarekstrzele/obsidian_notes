@@ -578,7 +578,7 @@ pub fn iter_example(){
 >It is a function without a name 
 >`let var_name = |params| -> return_type {BODY}`
 
-basic:
+## basic example - clo
 ```rust
 let can_vote =|age: i32| {
 	age >= 18
@@ -590,10 +590,31 @@ println!("Can vote: {}", can_vote(8)) ;
 Can vote: false
 ```
 
+## more advance example - closure
 
+```rust
+pub fn closure_example(){
+	let mut samp1 = 5;
+	let print_var = || println!(
+		"samp1 = {}", samp1) ;
+		print_var();
+	  
+	samp1 = 10 ;
+	let mut change_var = || samp1 += 1;
+	change_var() ;
+	println!("Sampl1 = {}", samp1) ;
+	samp1 = 10;
+	println!("samp1 = {}", samp1)
+}
 
+--- ouput
 
+samp1 = 5
+Sampl1 = 11
+samp1 = 10
+```
 
+## function as argument - closure
 
 
 
