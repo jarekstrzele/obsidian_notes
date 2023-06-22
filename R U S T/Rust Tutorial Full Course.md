@@ -786,7 +786,6 @@ The `use` statements you provided are used to bring specific types or modules fr
     - `Rc` stands for "reference counting" and is a type for shared ownership of data. It allows multiple references to the same data and keeps track of the number of references. When the last reference goes out of scope, the data is deallocated.
     - `Rc` provides non-thread-safe shared ownership, meaning it can be used in single-threaded scenarios.
 2. `use std::cell::RefCell;`
-    
     - This statement imports the `RefCell` type from the `std::cell` module.
     - `RefCell` is a type for interior mutability, allowing for mutable access to data even when it's behind an immutable reference.
     - `RefCell` enforces Rust's borrowing rules at runtime, rather than compile-time, by performing runtime checks to ensure that mutable borrows are exclusive and don't violate borrowing rules.
