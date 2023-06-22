@@ -675,7 +675,48 @@ pub fn box_example(){
 ```
 
 
+```rust
+pub fn box_example(){
 
+	struct TreeNode<T>{
+	// pub left: TreeNode<T>,
+	// pub tight: TreeNode<T>,
+		pub left: Option<Box<TreeNode<T>>>,
+		pub right: Option<Box<TreeNode<T>>>,
+		pub key: T,
+	}
+
+	impl<T> TreeNode<T>{
+		pub fn new(key: T) -> Self{
+		TreeNode { left: None, right: None, key,}
+	}
+
+	pub fn left(mut self, node: TreeNode<T>) -> Self {
+	self.left = Some(Box::new(node)) ;
+	self
+	}
+	
+
+	pub fn right(mut self, node: TreeNode<T>) -> Self {
+	self.right = Some(Box::new(node)) ;
+	self
+	}
+	}
+
+	let node1 = TreeNode::new(1)
+		.left(TreeNode::new(2))
+		.right(TreeNode::new(3)) ;
+}
+```
+
+
+---------
+# Concurrency
+simulate a bank transactions
+
+Common problems with parallel programming involve:
+- threads are accessing data in the wrong order
+- threads are blocked from executing because of confusion
 
 
 
