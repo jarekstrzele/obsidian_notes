@@ -642,10 +642,16 @@ pub fn closure_example(){
 - vectors
 - &
 ## smart pointer:
-- 
-- ...
-- 
+W języku Rust istnieją tzw. "smart pointery" (inteligentne wskaźniki), które są strukturami danych zapewniającymi pewne dodatkowe funkcjonalności w zakresie zarządzania pamięcią. Dwa najważniejsze smart pointery w Rust to `Box<T>` i `Rc<T>`.
 
+1. `Box<T>` to smart pointer reprezentujący własność (ownership) na alokowanym na stercie (heap) obiekcie typu `T`. `Box<T>` zapewnia statyczne rozmiary i jest używany, gdy chcemy przechowywać dane na stercie, a nie na stosie. `Box<T>` gwarantuje, że obiekt zostanie zwolniony z pamięci po opuszczeniu zakresu.
+    
+2. `Rc<T>` (Reference Counted) to smart pointer reprezentujący współdzieloną (shared) własność na obiekcie typu `T`. `Rc<T>` umożliwia wielokrotne posiadanie niezmiennej referencji do tego samego obiektu. Zlicza ilość referencji do obiektu i automatycznie zwalnia pamięć, gdy ostatnia referencja jest usuwana.
+    
+
+Oba smart pointery są często używane w Rust do zarządzania pamięcią w sposób bezpieczny i bez konieczności ręcznego zwalniania zasobów. Wybór między nimi zależy od potrzeb i wymagań konkretnego przypadku.
+
+Warto zaznaczyć, że Rust również zapewnia wskaźniki surowe (raw pointers) `*const T` i `*mut T`, ale ich użycie jest bardziej ryzykowne i wymaga ostrożności związanej z bezpieczeństwem. Wskaźniki surowe są rzadziej stosowane i zazwyczaj używane są do interakcji z kodem niskiego poziomu lub do tworzenia bezpiecznych abstrakcji wewnątrz zaawansowanych bibliotek.
 
 
 
