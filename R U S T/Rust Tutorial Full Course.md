@@ -638,10 +638,11 @@ pub fn closure_example(){
 >[!info] pointer
 > it is an address to a location in memory
 
-## smart pointer:
 - string
 - vectors
 - &
+## smart pointer:
+- 
 - ...
 - 
 
