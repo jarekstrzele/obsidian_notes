@@ -122,7 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5
+    "width": 391.5
   },
   "right": {
     "id": "ec7d1a70da2de581",
@@ -226,14 +226,15 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "f621f21825dbd82d",
+  "active": "6ca320f6e0c44aaf",
   "lastOpenFiles": [
+    "R U S T/Box.md",
+    "R U S T/Rust Tutorial Full Course.md",
     "R U S T/Rust Programming For Beginners/9.7 Modules as separate files.md",
     "_ WEB/N_O_D_E/Node JS 101 Crash/6.the Node Package Manager.md",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 6 Invaders Project.md",
     "Untitled 2.canvas",
     "canvas_moduls_rust.canvas",
-    "R U S T/Rust Tutorial Full Course.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/Casting.md",
     "R U S T/atrybut.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/_ Ultimate Rust Lang Tutorial.md",

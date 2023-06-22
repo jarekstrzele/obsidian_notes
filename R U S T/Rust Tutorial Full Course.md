@@ -659,6 +659,7 @@ Warto zaznaczyć, że Rust również zapewnia wskaźniki surowe (raw pointers) `
 
 ### Box
 binary tree structure utilizing box
+[[Box]]
 
 >[!info] box
 >- store data on ==the heap== instead of the stack
@@ -666,6 +667,17 @@ binary tree structure utilizing box
 **stack** 
 - stores values in LIFO
 - data on the stack must have a defined fixed size
+```rust
+pub fn box_example(){
+	let b_int1 = Box::new(10) ;
+	println!("b_int1 = {} ", b_int1) ;
+}
+```
+
+
+
+
+
 
 
 

@@ -5,6 +5,10 @@
       "path": "R U S T/Rust Tutorial Full Course.md"
     },
     {
+      "basename": "Box",
+      "path": "R U S T/Box.md"
+    },
+    {
       "basename": "9.7 Modules as separate files",
       "path": "R U S T/Rust Programming For Beginners/9.7 Modules as separate files.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "1 Data types",
       "path": "R U S T/Rust 101 Crash Course/1 Data types.md"
-    },
-    {
-      "basename": "4 Vectors - data structure",
-      "path": "R U S T/Rust 101 Crash Course/4 Vectors - data structure.md"
     }
   ],
   "omittedPaths": [],
