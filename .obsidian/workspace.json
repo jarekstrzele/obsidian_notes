@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Rust_stack_heap.excalidraw.md",
+                "file": "R U S T/ULTIMATE Rust Lang Tutorial/3 Ownership.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -129,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Rust_stack_heap.excalidraw.md",
+                "file": "R U S T/ULTIMATE Rust Lang Tutorial/3 Ownership.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Rust_stack_heap.excalidraw.md"
+                "file": "R U S T/ULTIMATE Rust Lang Tutorial/3 Ownership.md"
               }
             }
           },
@@ -200,10 +199,10 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "4bcafd3510e5a4a9",
+  "active": "6ca320f6e0c44aaf",
   "lastOpenFiles": [
-    "R U S T/ULTIMATE Rust Lang Tutorial/3 Ownership.md",
     "Excalidraw/Rust_stack_heap.excalidraw.md",
+    "R U S T/ULTIMATE Rust Lang Tutorial/3 Ownership.md",
     "Git/git and github/_ Git and Github.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/2. Common Programming Concepts in Rust.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/1 Guessing Game in Rust.md",

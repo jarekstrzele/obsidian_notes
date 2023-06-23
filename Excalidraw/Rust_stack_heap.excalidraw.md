@@ -18,6 +18,18 @@ b() x ^BWUoNCvl
 
 "hello" ^GxxaJste
 
+fn main(){
+    fn a() {
+        let x: &str = "hello" ;
+        let y: i32 = 22;
+        b() ;
+    }
+    fn b(){
+        let x: String = String::from("world") ;
+    }
+}
+ ^KdjtBbUh
+
 %%
 # Drawing
 ```json
@@ -254,7 +266,7 @@ b() x ^BWUoNCvl
 			"width": 58.59375,
 			"height": 24,
 			"angle": 0,
-			"strokeColor": "#000000",
+			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
@@ -264,11 +276,11 @@ b() x ^BWUoNCvl
 			"groupIds": [],
 			"roundness": null,
 			"seed": 223746785,
-			"version": 6,
-			"versionNonce": 809459695,
+			"version": 7,
+			"versionNonce": 1449109583,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1687528154364,
+			"updated": 1687538568993,
 			"link": null,
 			"locked": false,
 			"text": "b() x",
@@ -290,7 +302,7 @@ b() x ^BWUoNCvl
 			"width": 82.03125,
 			"height": 24,
 			"angle": 0,
-			"strokeColor": "#000000",
+			"strokeColor": "#a61e4d",
 			"backgroundColor": "transparent",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
@@ -300,11 +312,11 @@ b() x ^BWUoNCvl
 			"groupIds": [],
 			"roundness": null,
 			"seed": 731193953,
-			"version": 8,
-			"versionNonce": 744131215,
+			"version": 9,
+			"versionNonce": 402900591,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1687528159924,
+			"updated": 1687538573325,
 			"link": null,
 			"locked": false,
 			"text": "\"hello\"",
@@ -319,10 +331,89 @@ b() x ^BWUoNCvl
 			"lineHeight": 1.2
 		},
 		{
-			"id": "C8PKj058",
+			"id": "KdjtBbUh",
 			"type": "text",
-			"x": -224,
-			"y": 76.87890625,
+			"x": -244.89473684210526,
+			"y": 219.5139802631578,
+			"width": 550.78125,
+			"height": 264,
+			"angle": 0,
+			"strokeColor": "#364fc7",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 13534657,
+			"version": 156,
+			"versionNonce": 284262607,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1687538541861,
+			"link": null,
+			"locked": false,
+			"text": "fn main(){\n    fn a() {\n        let x: &str = \"hello\" ;\n        let y: i32 = 22;\n        b() ;\n    }\n    fn b(){\n        let x: String = String::from(\"world\") ;\n    }\n}\n",
+			"rawText": "fn main(){\n    fn a() {\n        let x: &str = \"hello\" ;\n        let y: i32 = 22;\n        b() ;\n    }\n    fn b(){\n        let x: String = String::from(\"world\") ;\n    }\n}\n",
+			"fontSize": 20,
+			"fontFamily": 3,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 259,
+			"containerId": null,
+			"originalText": "fn main(){\n    fn a() {\n        let x: &str = \"hello\" ;\n        let y: i32 = 22;\n        b() ;\n    }\n    fn b(){\n        let x: String = String::from(\"world\") ;\n    }\n}\n",
+			"lineHeight": 1.2
+		},
+		{
+			"id": "enxFfPCh1ZkS-OlRqo1Yu",
+			"type": "arrow",
+			"x": -194.69230769230762,
+			"y": 85.00478660593791,
+			"width": 326.66666666666663,
+			"height": 170.76923076923077,
+			"angle": 0,
+			"strokeColor": "#a61e4d",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1137086191,
+			"version": 117,
+			"versionNonce": 67782191,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1687538562735,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					326.66666666666663,
+					-170.76923076923077
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "GoZsoGMu",
+			"type": "text",
+			"x": 134.05263157894734,
+			"y": 279.5139802631578,
 			"width": 11.71875,
 			"height": 24,
 			"angle": 0,
@@ -335,12 +426,12 @@ b() x ^BWUoNCvl
 			"opacity": 100,
 			"groupIds": [],
 			"roundness": null,
-			"seed": 1863539361,
+			"seed": 1262326287,
 			"version": 2,
-			"versionNonce": 1113447407,
+			"versionNonce": 1051171425,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1687528110717,
+			"updated": 1687538478093,
 			"link": null,
 			"locked": false,
 			"text": "",
@@ -358,7 +449,7 @@ b() x ^BWUoNCvl
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#000000",
+		"currentItemStrokeColor": "#a61e4d",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "hachure",
 		"currentItemStrokeWidth": 1,
@@ -370,10 +461,10 @@ b() x ^BWUoNCvl
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 774.5,
-		"scrollY": 326.66015625,
+		"scrollX": 794.6923076923076,
+		"scrollY": 190.9327133940621,
 		"zoom": {
-			"value": 2
+			"value": 1.9500000000000002
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
