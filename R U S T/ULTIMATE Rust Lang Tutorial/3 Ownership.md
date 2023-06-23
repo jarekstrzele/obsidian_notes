@@ -69,13 +69,36 @@ fn main(){
 	let s1: String = gives_ownership();
 	println!("s1= {}", s1) ;
 
+	fn gives_ownership() -> String {
+		let some_string: String = String::from("hello") ;
+
+	some_string
+	}
 }
 ```
 
+**take ownership and give it back**
+```rust
+fn main(){
+	let s2 = String::from("hello") ;
+	let s3 = takes_and_gives_back(s2) ;
 
+	fn takes_and_gives_back(a_string: String) -> String {
+	a_string
+	}
+}
+```
 
+### using string without moving its ownership
+```rust
+fn main(){
+	let s1: String = String::from("hello") ;
+	let len: usize = calculate_length(&s1);
+	println!("the length of '{}' is {}.", s1, len) ;
 
-
+	fn calculate_length(s: &String) -> usize
+}
+```
 
 
 
