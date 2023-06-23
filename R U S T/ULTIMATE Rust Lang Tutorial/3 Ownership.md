@@ -133,6 +133,21 @@ fn main(){
 #### ==only one mutable reference at time==
 
 
+>[!important] The Rules of References
+> 1. at any given time, you can have either one MUTABLE reference
+> 2. references must always be valid
+
+-----
+# slices
+> - slices let you reference contiguous sequence of elements within a collection instead of referencing the entire collection
+> - they do not take ownership of underlying data
+
+```rust
+
+
+
+```
+
 
 
 
