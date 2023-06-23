@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Rust Tutorial Full Course.md",
+                "file": "R U S T/Rust Programming Tutorial/24 Run in CLI.md",
                 "mode": "source",
                 "source": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust Tutorial Full Course.md",
+                "file": "R U S T/Rust Programming Tutorial/24 Run in CLI.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust Tutorial Full Course.md",
+                "file": "R U S T/Rust Programming Tutorial/24 Run in CLI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Rust Tutorial Full Course.md"
+                "file": "R U S T/Rust Programming Tutorial/24 Run in CLI.md"
               }
             }
           },
@@ -240,9 +240,17 @@
   },
   "active": "6ca320f6e0c44aaf",
   "lastOpenFiles": [
+    "R U S T/Rust Programming Tutorial/23 HTTP Get Request.md",
+    "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md",
+    "R U S T/Rust Programming For Beginners/_ Rust Programming for Beginners.md",
+    "R U S T/Rust by example/_ Rust by Example.md",
+    "R U S T/Rust - FreeCode Beginner/_ 0 Rust.md",
+    "R U S T/Programmowanie_w Rust/_ Programowanie w języku Rust.md",
+    "R U S T/Learn Rust by Building Real App/_ Learn Rust by Building Apps.md",
+    "R U S T/1 - Full Rust Beginner s Course/_ Full Rust Beginners Cours.md",
+    "R U S T/Rust Tutorial Full Course.md",
     "Git/git and github/_ Git and Github.md",
     "Git/git and github",
-    "R U S T/Rust Tutorial Full Course.md",
     "R U S T/Box.md",
     "R U S T/Rust Programming For Beginners/9.7 Modules as separate files.md",
     "_ WEB/N_O_D_E/Node JS 101 Crash/6.the Node Package Manager.md",
@@ -252,7 +260,6 @@
     "R U S T/ULTIMATE Rust Lang Tutorial/Casting.md",
     "R U S T/atrybut.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/_ Ultimate Rust Lang Tutorial.md",
-    "R U S T/Rust - FreeCode Beginner/_ 0 Rust.md",
     "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md",
     "R U S T/Rust Programming For Beginners/10.1 Custom Error Types.md",
     "R U S T/Rust Programming For Beginners/10.2 New Types Patterns.md",
@@ -262,13 +269,6 @@
     "JAVASCRIPT/Functional Programming for JS Developers/_ Functional Programming for JS Developers.md",
     "_ WEB/N_O_D_E/Node JS 101 Crash/5. `index.js`.md",
     "_ WEB/N_O_D_E/Node JS 101 Crash/4.  Modules.md",
-    "Excalidraw/nodeFlow.excalidraw.md",
-    "_ WEB/N_O_D_E/Node JS 101 Crash/3 Observer design pattern.md",
-    "_ WEB/N_O_D_E/Node JS 101 Crash/_ NodeJS 101 Crash Course.md",
-    "_ WEB/N_O_D_E/Node JS 101 Crash/2. what is node.js best at.md",
-    "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/2.2. Buffer.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md",
     "R U S T/1 - Full Rust Beginner s Course",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 2",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1",
