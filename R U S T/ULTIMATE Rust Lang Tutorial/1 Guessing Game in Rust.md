@@ -22,9 +22,7 @@ use colored::*;
 
 fn main() {
 	println!("Guessing the number!");
-
 //thread_rng() - gives a random number generator
-
 // gen_range() - method that will produce random number
 
 //let secret_number = rand::thread_rng().gen_range(1);
