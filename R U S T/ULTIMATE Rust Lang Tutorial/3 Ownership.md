@@ -143,7 +143,20 @@ fn main(){
 > - they do not take ownership of underlying data
 
 ```rust
+fn main(){
 
+let mut s = String::from("hello world") ;
+let hello: &str = &s[0..5] ; //[..5]
+let world: &str = &s[6..11] ; //[6..]
+let hello_world: &str = &s[..] ;
+
+
+	// SLICES WITH ARRAYS
+let a:[i32; _] = [1,2,3,4,5] ;
+let slice: &[i32] = &a[0..2] ;
+
+
+}
 
 
 ```
