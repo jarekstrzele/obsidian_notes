@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "rust_move_ownership.excalidraw",
+      "path": "Excalidraw/rust_move_ownership.excalidraw.md"
+    },
+    {
       "basename": "3 Ownership",
       "path": "R U S T/ULTIMATE Rust Lang Tutorial/3 Ownership.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "6 Option",
       "path": "R U S T/Rust 101 Crash Course/6 Option.md"
-    },
-    {
-      "basename": "_ JavaScript funkcyjnie",
-      "path": "JAVASCRIPT/funkcyjnie_JS/_ JavaScript funkcyjnie.md"
     }
   ],
   "omittedPaths": [],

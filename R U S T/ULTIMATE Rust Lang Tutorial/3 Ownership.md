@@ -22,9 +22,12 @@ fn main(){
 	let x:i32 = 5;
 	let y: i32 = x ; //copy
 
+	let s1: String = String::from("hello") ;
+	let s2: String = s1 ;
 }
 ```
 
+`s1` moves its ownership to `s2`
 
 
 
