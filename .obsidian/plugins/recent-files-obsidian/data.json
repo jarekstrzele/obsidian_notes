@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "1 Guessing Game in Rust",
+      "path": "R U S T/ULTIMATE Rust Lang Tutorial/1 Guessing Game in Rust.md"
+    },
+    {
+      "basename": "_ LetsGetRusty Ultimate Rust Lang Tutorial",
+      "path": "R U S T/ULTIMATE Rust Lang Tutorial/_ LetsGetRusty Ultimate Rust Lang Tutorial.md"
+    },
+    {
       "basename": "24 Run in CLI",
       "path": "R U S T/Rust Programming Tutorial/24 Run in CLI.md"
     },
@@ -75,10 +83,6 @@
     {
       "basename": "atrybut",
       "path": "R U S T/atrybut.md"
-    },
-    {
-      "basename": "_ Ultimate Rust Lang Tutorial",
-      "path": "R U S T/ULTIMATE Rust Lang Tutorial/_ Ultimate Rust Lang Tutorial.md"
     },
     {
       "basename": "7 Advanced Concepts",
@@ -195,10 +199,6 @@
     {
       "basename": "3 RESTful API's using Express",
       "path": "_ WEB/N_O_D_E/Mosh Node/3 RESTful API's using Express.md"
-    },
-    {
-      "basename": "2 Node Package Manager",
-      "path": "_ WEB/N_O_D_E/Mosh Node/2 Node Package Manager.md"
     }
   ],
   "omittedPaths": [],

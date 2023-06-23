@@ -1,4 +1,4 @@
-[[_ Ultimate Rust Lang Tutorial]]
+[[_ LetsGetRusty Ultimate Rust Lang Tutorial]]
 
 
 ### `cargo new guessing_game`
@@ -6,8 +6,6 @@
 - variable are immutable by default
 add to `Cargo.toml` some dependencies:
 ```toml
-  
-
 [dependencies]
 rand = "0.8.5"
 colored = "2.0.0"

@@ -8,7 +8,7 @@ other courses:
 [[_ Learn Rust by Building Apps]]
 [[_ 0 Rust Web Book]]
 [[_ Rust Tech with Tim]]
-[[_ Ultimate Rust Lang Tutorial]]
+[[_ LetsGetRusty Ultimate Rust Lang Tutorial]]
 
 ---
 
