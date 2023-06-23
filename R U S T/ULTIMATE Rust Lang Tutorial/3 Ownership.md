@@ -28,6 +28,49 @@ fn main(){
 ```
 
 `s1` moves its ownership to `s2`
+![[rust_move_ownership.excalidraw | 600]]
+
+to copy `String` use `clone()` method
+```rust
+let s1 = String::from("hello") ;
+let s2 = s1.clone() ;
+```
+
+## Copy Traits
+integer, booleans, characters implement this trait
+
+```rust
+fn main() {
+	let s = String::from("hello") ;
+	takes_ownership(s) ;
+	println!("s = {}", s) ; // generates error `s` was moved to function
+
+	let x: i32 = 5;
+	makes_copy(x) ;
+	println!("{}", x) ; // it doesn't generate an error, because integer implement Trait Copy, 
+
+
+
+	fn takes_ownership(some_string: String){
+	println!("{}", some_string) ;
+	}
+
+
+	fn makes_copy(some_integer: i32){
+		println!("{}", some_integer) ;
+	}
+}
+```
+
+
+**give ownership**
+```rust
+fn main(){
+	let s1: String = gives_ownership();
+	println!("s1= {}", s1) ;
+
+}
+```
 
 
 
