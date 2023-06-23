@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Rust_stack_heap.excalidraw",
+      "path": "Excalidraw/Rust_stack_heap.excalidraw.md"
+    },
+    {
       "basename": "3 Ownership",
       "path": "R U S T/ULTIMATE Rust Lang Tutorial/3 Ownership.md"
+    },
+    {
+      "basename": "_ Git and Github",
+      "path": "Git/git and github/_ Git and Github.md"
     },
     {
       "basename": "2. Common Programming Concepts in Rust",
@@ -55,10 +63,6 @@
     {
       "basename": "Rust Tutorial Full Course",
       "path": "R U S T/Rust Tutorial Full Course.md"
-    },
-    {
-      "basename": "_ Git and Github",
-      "path": "Git/git and github/_ Git and Github.md"
     },
     {
       "basename": "Box",
@@ -195,10 +199,6 @@
     {
       "basename": "_ JavaScript funkcyjnie",
       "path": "JAVASCRIPT/funkcyjnie_JS/_ JavaScript funkcyjnie.md"
-    },
-    {
-      "basename": "Nowe elementy JS",
-      "path": "JAVASCRIPT/funkcyjnie_JS/Nowe elementy JS.md"
     }
   ],
   "omittedPaths": [],
