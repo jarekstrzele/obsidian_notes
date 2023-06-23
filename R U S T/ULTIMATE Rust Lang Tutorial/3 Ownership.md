@@ -89,16 +89,64 @@ fn main(){
 }
 ```
 
-### using string without moving its ownership
+
+## Borrowing
+
+### immutable
+##### using string without moving its ownership
 ```rust
 fn main(){
 	let s1: String = String::from("hello") ;
 	let len: usize = calculate_length(&s1);
 	println!("the length of '{}' is {}.", s1, len) ;
 
-	fn calculate_length(s: &String) -> usize
+	fn calculate_length(s: &String) -> usize {
+		let length: usize = s.len();
+		length
+	}
 }
+
+#### ==references don't take ownership of the underlying value!!!==
+
+### `s` points to pointer of `s1`
+### `s1` points to the address on the heap of "hello"
+when function  `calculate_length` end its working only `s` will be dropped
+
 ```
+
+
+## borrowing mutable to modify
+```rust
+fn main(){
+	let mut s1: String = String::from("hello") ;
+	let len: usize = calculate_length(&mut s1);
+	println!("the length of '{}' is {}.", s1, len) ;
+
+	fn calculate_length(s: &mut String) -> usize {
+		let length: usize = s.len();
+		length
+	}
+}
+
+```
+
+#### ==only one mutable reference at time==
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
