@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/ULTIMATE Rust Lang Tutorial/1 Guessing Game in Rust.md",
+                "file": "R U S T/ULTIMATE Rust Lang Tutorial/2. Common Programming Concepts in Rust.md",
                 "mode": "source",
                 "source": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/ULTIMATE Rust Lang Tutorial/1 Guessing Game in Rust.md",
+                "file": "R U S T/ULTIMATE Rust Lang Tutorial/2. Common Programming Concepts in Rust.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/ULTIMATE Rust Lang Tutorial/1 Guessing Game in Rust.md",
+                "file": "R U S T/ULTIMATE Rust Lang Tutorial/2. Common Programming Concepts in Rust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/ULTIMATE Rust Lang Tutorial/1 Guessing Game in Rust.md"
+                "file": "R U S T/ULTIMATE Rust Lang Tutorial/2. Common Programming Concepts in Rust.md"
               }
             }
           },
@@ -240,6 +240,7 @@
   },
   "active": "6ca320f6e0c44aaf",
   "lastOpenFiles": [
+    "R U S T/ULTIMATE Rust Lang Tutorial/1 Guessing Game in Rust.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/_ LetsGetRusty Ultimate Rust Lang Tutorial.md",
     "R U S T/Rust Programming Tutorial/24 Run in CLI.md",
     "R U S T/Rust Programming Tutorial/23 HTTP Get Request.md",
@@ -268,7 +269,6 @@
     "R U S T/Rust Programming For Beginners/10 Final Project.md",
     "linux/UBUNTU.md",
     "JAVASCRIPT/Functional Programming for JS Developers/_ Functional Programming for JS Developers.md",
-    "_ WEB/N_O_D_E/Node JS 101 Crash/5. `index.js`.md",
     "R U S T/1 - Full Rust Beginner s Course",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 2",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1",
