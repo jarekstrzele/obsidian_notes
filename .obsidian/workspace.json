@@ -105,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ec7d1a70da2de581",
@@ -209,7 +210,7 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "6ca320f6e0c44aaf",
+  "active": "f621f21825dbd82d",
   "lastOpenFiles": [
     "R U S T/ULTIMATE Rust Lang Tutorial/_ LetsGetRusty Ultimate Rust Lang Tutorial.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/4. Structs in Rust.md",
