@@ -23,9 +23,11 @@
             "id": "e09fd8603ad2539e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/rust_move_ownership.excalidraw.md"
+                "file": "R U S T/ULTIMATE Rust Lang Tutorial/4. Structs in Rust.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -39,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/ULTIMATE Rust Lang Tutorial/5 Enum.md",
+                "file": "R U S T/ULTIMATE Rust Lang Tutorial/4. Structs in Rust.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -138,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/ULTIMATE Rust Lang Tutorial/5 Enum.md",
+                "file": "R U S T/ULTIMATE Rust Lang Tutorial/4. Structs in Rust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/ULTIMATE Rust Lang Tutorial/5 Enum.md"
+                "file": "R U S T/ULTIMATE Rust Lang Tutorial/4. Structs in Rust.md"
               }
             }
           },
@@ -209,13 +212,13 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "6ca320f6e0c44aaf",
+  "active": "e09fd8603ad2539e",
   "lastOpenFiles": [
-    "R U S T/ULTIMATE Rust Lang Tutorial/_ LetsGetRusty Ultimate Rust Lang Tutorial.md",
+    "Excalidraw/rust_move_ownership.excalidraw.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/5 Enum.md",
+    "R U S T/ULTIMATE Rust Lang Tutorial/_ LetsGetRusty Ultimate Rust Lang Tutorial.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/4. Structs in Rust.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/3 Ownership.md",
-    "Excalidraw/rust_move_ownership.excalidraw.md",
     "Excalidraw/Rust_stack_heap.excalidraw.md",
     "Git/git and github/_ Git and Github.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/2. Common Programming Concepts in Rust.md",

@@ -22,6 +22,11 @@ fn main(){
 ```
 
 
+```rust
+enum Message
 
+
+
+```
 
 
