@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "6 System Module",
+      "path": "R U S T/ULTIMATE Rust Lang Tutorial/6 System Module.md"
+    },
+    {
       "basename": "4. Structs in Rust",
       "path": "R U S T/ULTIMATE Rust Lang Tutorial/4. Structs in Rust.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "9 Hashmap",
       "path": "R U S T/Rust 101 Crash Course/9 Hashmap.md"
-    },
-    {
-      "basename": "8 Result",
-      "path": "R U S T/Rust 101 Crash Course/8 Result.md"
     }
   ],
   "omittedPaths": [],
