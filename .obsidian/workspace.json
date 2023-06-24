@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/ULTIMATE Rust Lang Tutorial/4. Structs in Rust.md",
+                "file": "R U S T/ULTIMATE Rust Lang Tutorial/5 Enum.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,8 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ec7d1a70da2de581",
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/ULTIMATE Rust Lang Tutorial/4. Structs in Rust.md",
+                "file": "R U S T/ULTIMATE Rust Lang Tutorial/5 Enum.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/ULTIMATE Rust Lang Tutorial/4. Structs in Rust.md",
+                "file": "R U S T/ULTIMATE Rust Lang Tutorial/5 Enum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/ULTIMATE Rust Lang Tutorial/4. Structs in Rust.md"
+                "file": "R U S T/ULTIMATE Rust Lang Tutorial/5 Enum.md"
               }
             }
           },
@@ -210,9 +209,10 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "f621f21825dbd82d",
+  "active": "6ca320f6e0c44aaf",
   "lastOpenFiles": [
     "R U S T/ULTIMATE Rust Lang Tutorial/_ LetsGetRusty Ultimate Rust Lang Tutorial.md",
+    "R U S T/ULTIMATE Rust Lang Tutorial/5 Enum.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/4. Structs in Rust.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/3 Ownership.md",
     "Excalidraw/rust_move_ownership.excalidraw.md",
@@ -240,7 +240,6 @@
     "R U S T/ULTIMATE Rust Lang Tutorial/Casting.md",
     "R U S T/atrybut.md",
     "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md",
-    "R U S T/Rust Programming For Beginners/10.1 Custom Error Types.md",
     "R U S T/1 - Full Rust Beginner s Course",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 2",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1",
