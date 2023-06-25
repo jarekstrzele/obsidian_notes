@@ -136,5 +136,34 @@ pub fn eat_at_restaurant(){
 ```
 
 
+### renaming import
+```rust
+use std::fmt::Result ;
+use std::io::Result as IoResult ;
+
+fn fun2() -> IoResult<()> {
+
+	Ok(())
+}
+```
+
+### external importing
+```rust
+use rand::{Rng, CryptoRng, ErrorKind::Transient} ;
+
+use std::io;
+use std::io::Write ;
+//you can write equivalent:
+use std::io::{self, Write} ;
+```
+
+``
+import all
+``
+
+
+
+
+
 
 
