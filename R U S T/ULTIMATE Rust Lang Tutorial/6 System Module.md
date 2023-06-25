@@ -87,7 +87,8 @@ mod back_of_house {
 >
 > - all items are private by default  (e.g. struct, fn, enum, mod, ...)
 > - even `stuct` is public, its, fields are private by default
-> - event in the `struct`
+> - event in the `struct` is one private field, you can't create an instance of that structure directly
+> - `enum` - if it is `pub`  all its variants are public too, so you cannot mark its variants as `pub`
 --------
 # Crates
 a new package stores **crates**
@@ -114,9 +115,25 @@ They allow you to organize a chunk of code and control the privacy rules
 They contain packages
 
 
+# `use` keyword
+#rust/use
 
+instead of using long path (e.g. `front_of_house::hosting::add_to_waitlist()` you can use `use`)
 
+```rust
+mod front_of_house {
+	pub mod hosting {
+		pub fn add_to_waitlist() {}
+	}
+}
 
+use crate::front_of_house::hosting ;
+
+pub fn eat_at_restaurant(){
+	//font_of_house::hosting:add_to_waitlist();
+	hosting::add_to_waitlist() ;
+}
+```
 
 
 
