@@ -7,6 +7,12 @@ https://www.youtube.com/watch?v=OX9HJsJUDxA&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H
 [[3 Ownership]]
 [[4. Structs in Rust]]
 [[R U S T/ULTIMATE Rust Lang Tutorial/5 Enum]]
+[[6 System Module]]
+[[7 Common Collections in Rust]]
+
+
+
+
 
 
 -----------

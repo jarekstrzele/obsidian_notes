@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "7 Common Collections in Rust",
+      "path": "R U S T/ULTIMATE Rust Lang Tutorial/7 Common Collections in Rust.md"
+    },
+    {
+      "basename": "_ LetsGetRusty Ultimate Rust Lang Tutorial",
+      "path": "R U S T/ULTIMATE Rust Lang Tutorial/_ LetsGetRusty Ultimate Rust Lang Tutorial.md"
+    },
+    {
       "basename": "6 System Module",
       "path": "R U S T/ULTIMATE Rust Lang Tutorial/6 System Module.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "5 Enum",
       "path": "R U S T/ULTIMATE Rust Lang Tutorial/5 Enum.md"
-    },
-    {
-      "basename": "_ LetsGetRusty Ultimate Rust Lang Tutorial",
-      "path": "R U S T/ULTIMATE Rust Lang Tutorial/_ LetsGetRusty Ultimate Rust Lang Tutorial.md"
     },
     {
       "basename": "3 Ownership",
@@ -195,10 +199,6 @@
     {
       "basename": "8.3. Closures Rust",
       "path": "R U S T/Rust Programming For Beginners/8.3. Closures Rust.md"
-    },
-    {
-      "basename": "9 Hashmap",
-      "path": "R U S T/Rust 101 Crash Course/9 Hashmap.md"
     }
   ],
   "omittedPaths": [],

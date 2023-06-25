@@ -159,7 +159,7 @@ use std::io::{self, Write} ;
 
 ``
 import all
-``
+`use std::io::* ;`
 
 
 

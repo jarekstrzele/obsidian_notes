@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/ULTIMATE Rust Lang Tutorial/6 System Module.md",
+                "file": "R U S T/ULTIMATE Rust Lang Tutorial/7 Common Collections in Rust.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/ULTIMATE Rust Lang Tutorial/6 System Module.md",
+                "file": "R U S T/ULTIMATE Rust Lang Tutorial/7 Common Collections in Rust.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/ULTIMATE Rust Lang Tutorial/6 System Module.md",
+                "file": "R U S T/ULTIMATE Rust Lang Tutorial/7 Common Collections in Rust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/ULTIMATE Rust Lang Tutorial/6 System Module.md"
+                "file": "R U S T/ULTIMATE Rust Lang Tutorial/7 Common Collections in Rust.md"
               }
             }
           },
@@ -214,11 +214,12 @@
   },
   "active": "e09fd8603ad2539e",
   "lastOpenFiles": [
-    "R U S T/ULTIMATE Rust Lang Tutorial/4. Structs in Rust.md",
+    "R U S T/ULTIMATE Rust Lang Tutorial/_ LetsGetRusty Ultimate Rust Lang Tutorial.md",
+    "R U S T/ULTIMATE Rust Lang Tutorial/7 Common Collections in Rust.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/6 System Module.md",
+    "R U S T/ULTIMATE Rust Lang Tutorial/4. Structs in Rust.md",
     "Excalidraw/rust_move_ownership.excalidraw.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/5 Enum.md",
-    "R U S T/ULTIMATE Rust Lang Tutorial/_ LetsGetRusty Ultimate Rust Lang Tutorial.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/3 Ownership.md",
     "Excalidraw/Rust_stack_heap.excalidraw.md",
     "Git/git and github/_ Git and Github.md",
@@ -242,7 +243,6 @@
     "Untitled 2.canvas",
     "canvas_moduls_rust.canvas",
     "R U S T/ULTIMATE Rust Lang Tutorial/Casting.md",
-    "R U S T/atrybut.md",
     "R U S T/1 - Full Rust Beginner s Course",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 2",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1",
