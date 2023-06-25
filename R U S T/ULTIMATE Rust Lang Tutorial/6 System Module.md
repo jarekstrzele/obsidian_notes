@@ -19,6 +19,13 @@ edition
 
 ```
 
+
+### `cargo new --lib projectName`
+- structure is the same
+- instead of `main.rs` you have `lib.rs`> `test module`
+
+
+
 # Crates
 a new package stores **crates**
 Crates can be:
