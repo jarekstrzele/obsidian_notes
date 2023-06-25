@@ -1,3 +1,11 @@
+
+>[!inf] RULES
+>- a package must have at least one crate
+>- a package could have either zero library crates or one library crate  
+>- a package could have any number of binary crates `src/bin`
+
+
+
 # Package
 `cargo new projectName` --> generates a package
 in `Cargo.toml` you will find 
@@ -21,6 +29,10 @@ Crates contain modules.
 
 **a crate root** (e.g. `main.rs`) is the source file that the rust compiler starts at when building your crate
 
+**library** (`src/lib.rs`)
+if `lib.rs` defied in the root of your source directory then rust will automatically create a library crate with the same name as your package and `lib.rs` will be the create root 
+
+Your `.toml` file may have no annotation, but you have two crates `main.rs`, `lib.rs`
 
 
 
