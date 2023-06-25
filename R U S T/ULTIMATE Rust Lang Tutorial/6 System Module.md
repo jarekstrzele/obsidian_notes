@@ -26,10 +26,14 @@ edition
 e.g. -> `lib.rs`
 ```rust
 mod front_of_house {
-	mod hosting {
-		fn add_to_waitlist() {}
+	pub mod hosting {
+		pub fn add_to_waitlist() {}
 		fn seat_at_table() {}
 	}
+
+	pub fn eat_at_restaurant(){
+	// Absolute path
+		
 
 	mod serving {
 		fn take_order() {}
@@ -37,16 +41,31 @@ mod front_of_house {
 		fn take_payment() {}
 	}
 }
+
+crate:front_of_house::hosting::add_to__waitlist();
+
+	// relative path
+	front_of_house::hosting::add_to_waitlist();
+}
 ```
 
 MODULE TREE
 ```
 crate 
-|-
+	|---front_of_house
+	|	|--hosting
+	|		|--add_to_waitlist
+	|		|--seat_at_table
+	|
+	|---serving
+		|-- take_order
+		|-- serve_order
+		|-- take_payment
+
 ```
+that `crate` is a module that gets created by default for our crate root which is `lib.rs`
 
-
-
+relative paths start from the current module
 
 
 
