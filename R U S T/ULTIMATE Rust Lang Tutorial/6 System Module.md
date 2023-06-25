@@ -19,6 +19,7 @@ edition
 
 ```
 
+# PATHs
 
 ### `cargo new --lib projectName`
 - structure is the same
@@ -49,7 +50,7 @@ crate:front_of_house::hosting::add_to__waitlist();
 }
 ```
 
-MODULE TREE
+## MODULE TREE
 ```
 crate 
 	|---front_of_house
@@ -67,8 +68,27 @@ that `crate` is a module that gets created by default for our crate root which i
 
 relative paths start from the current module
 
+### `super`
+```rust
+fn serve_order(){}
 
+mod back_of_house {
+	fn fix_incorrect_order(){
+		cook_order():
+		super::serve_order();
+	}
 
+	fn cook_order() {}
+	
+}
+```
+
+>[!important] Privacy rules
+>
+> - all items are private by default  (e.g. struct, fn, enum, mod, ...)
+> - even `stuct` is public, its, fields are private by default
+> - event in the `struct`
+--------
 # Crates
 a new package stores **crates**
 Crates can be:
