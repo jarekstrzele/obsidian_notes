@@ -104,8 +104,30 @@ pub fn notify<T: Summary+ Display>(item: &T, item2: &T){
 
 
 ### `where` clause
+this code is not readable
 ```rust
-fn some_func<
+fn some_func<T: Display + Clone, U: Clone + Debug>(t: &T, u: &U) -> i32 {
+	// .....
+}
 ```
+
+so you can use `where` clause
+```rust
+fn some_func<T, U>(t: &T, u: &U)-> i32
+	where   T: Display + Clone,
+			U: Clone + Debug
+{
+	//...
+}
+```
+
+
+## Traits as a returned value
+```rust
+fn returns_summarizable() -> impl Summary {
+//...
+}
+```
+
 
 
