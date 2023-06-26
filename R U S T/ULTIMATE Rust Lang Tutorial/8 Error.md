@@ -87,7 +87,9 @@ fn main(){
 
 #rust/error_propagation
 
-
+`.read_to_string()`:
+- służy do odczytywania zawartości pliku do `String`,
+- funkcja należy do modułu `std::fs`
 
 
 
