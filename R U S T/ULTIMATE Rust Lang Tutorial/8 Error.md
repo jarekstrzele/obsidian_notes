@@ -78,3 +78,28 @@ fn main(){
 }
 ```
 
+
+----
+## error propagation
+- you have a function whose implementation calls something that could fail 
+- you want to return that error back to the caller instead of handling it within the function
+- that way gives the caller more control, that caller will decide what to do with that error -- this is called ==error propagation==
+
+#rust/error_propagation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
