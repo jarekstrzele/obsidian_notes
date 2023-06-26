@@ -90,10 +90,22 @@ pub fn notify<T: Summary>(item1: &T, item2: &T) {
 }
 ```
 
+## multiple traits
+```rust
+pub fn notify(item1: &(impl Summary + Display), item2: &impl Summary ){
+	// ... 
+}
+
+// the same functionality
+pub fn notify<T: Summary+ Display>(item: &T, item2: &T){
+	// ...
+}
+```
 
 
-
-
-
+### `where` clause
+```rust
+fn some_func<
+```
 
 
