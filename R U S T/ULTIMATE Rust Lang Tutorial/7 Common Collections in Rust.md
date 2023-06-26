@@ -49,7 +49,9 @@ let third = &v[2] ;
 6 |   v.push(6);
   |   ^^^^^^^^^ mutable borrow occurs here
 ```
+W tym kodzie zastosowano referencję (`&`) przy przypisaniu wartości trzeciego elementu wektora do zmiennej "third".
 
+Jednak następnie dodano nowy element o wartości 6 do wektora za pomocą metody "push". Operacja ta może spowodować realokację wektora, jeśli przekroczy jego pojemność. W rezultacie, referencja "third" może wskazywać na niepoprawną lokalizację pamięci, co prowadzi do niezdefiniowanego zachowania.
 
 
 # strings
