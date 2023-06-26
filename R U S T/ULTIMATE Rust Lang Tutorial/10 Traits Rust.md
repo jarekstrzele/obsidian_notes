@@ -69,7 +69,31 @@ pub fn notify(item: &impl Summary){
 	println!("Breaking news! {}", item.summarize())
 }
 
-// the same funct
+// the same functionality
+pub fn notify<T: Summary>(item: &T){
+	println!("Breaking news! {}", item.summarize())
+}
 
 ```
+
+
+if you want to have the same type
+```rust
+pub fn notify(item1: &impl Summary, item2: &impl Summary) {
+ // ...
+}
+```
+you have to use the second syntax
+```rust
+pub fn notify<T: Summary>(item1: &T, item2: &T) {
+//...
+}
+```
+
+
+
+
+
+
+
 
