@@ -2,7 +2,32 @@
 
 COLLECTIONS:
 - allow you to store multiple values 
-- are allocated on the heap
+- are allocated on the heap:
+	- their size is changeable
+
+# vectors
+
+
+
+
+
+
+
+
+# strings
+
+
+
+
+
+
+# hashmaps
+
+
+
+
+
+
 
 
 
