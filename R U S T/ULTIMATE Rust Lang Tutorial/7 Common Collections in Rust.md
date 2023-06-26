@@ -33,8 +33,22 @@ fn main(){
 }
 ```
 
+```rust
+fn main(){
+  let mut v = vec![10,20,30,40,50] ;
 
-
+  let third = &v[2] ;
+  v.push(6);
+  println!("the third element is {}", third) ;
+}
+```
+this code generates an error:
+```bsh
+let third = &v[2] ;
+  |            - immutable borrow occurs here
+6 |   v.push(6);
+  |   ^^^^^^^^^ mutable borrow occurs here
+```
 
 
 
