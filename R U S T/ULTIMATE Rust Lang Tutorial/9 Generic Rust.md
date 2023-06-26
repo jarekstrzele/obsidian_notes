@@ -38,10 +38,35 @@ fn main(){
 
 ```
 
-# generic struct
+# generic `struct`
 
+```rust
+struct Point<T, U>{
+  x: T,
+  y: U,
+}
+
+fn main(){
+  let p1 = Point {x:5, y:10} ;
+  let p2 = Point {x:5.0, y: 10.11} ;
+  let p3 = Point {x: 4, y: 12.45} ;
+}
 ```
+
+
+# generic `enum`
+```rust
+enum Option<t>{
+	Some(T),
+	None
+}
+
+enum Result<T,E>{
+	Ok(T),
+	Err(E),
+}
 ```
+
 
 
 
