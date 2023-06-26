@@ -130,4 +130,15 @@ fn returns_summarizable() -> impl Summary {
 ```
 
 
+## traits that implement other traits
+```rust
+impl<T: Display> ToString for T {
+ // --snip --
+}
+```
+
+
+
+
+
 

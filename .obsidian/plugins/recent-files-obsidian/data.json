@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "11 Rust Lifetimes",
+      "path": "R U S T/ULTIMATE Rust Lang Tutorial/11 Rust Lifetimes.md"
+    },
+    {
       "basename": "10 Traits Rust",
       "path": "R U S T/ULTIMATE Rust Lang Tutorial/10 Traits Rust.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "I 1 Fundamentals",
       "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 1 Fundamentals.md"
-    },
-    {
-      "basename": "idiomatic code",
-      "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 2/idiomatic code.md"
     }
   ],
   "omittedPaths": [],
