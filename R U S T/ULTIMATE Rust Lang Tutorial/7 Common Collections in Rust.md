@@ -107,6 +107,14 @@ fn main(){
 
 -----------------
 # strings
+Strings are stored as a collection of UTF-8 encoded bytes
+```rust
+let s1: String = String::new();
+let s2: &str = "initial contents" ;
+let s3: String = s2.to_string();
+let s4: String = String::from("initial content") ;
+```
+
 
 
 
