@@ -115,10 +115,31 @@ let s3: String = s2.to_string();
 let s4: String = String::from("initial content") ;
 ```
 
+adding characters to String:
+`push()` add one character to the end of the string 
+`push_str()` add a string slice to the end of the string
 
+```rust
+fn main(){
+  let mut s = String::from("foo") ;
+  s.push_str("bar") ;
+  s.push('!') ;
+  println!("{s}") ;
+}
+// output 
+foobar!
+```
 
-
-
+```rust
+fn main(){
+  let s1 = String::from("hello, ") ;
+  let s2 = String::from("world!") ;
+  //concatanation
+  let s3 = format!("{}{}", s1, s2) ;
+  println!("{s3}") ;
+  
+}
+```
 
 
 # hashmaps
