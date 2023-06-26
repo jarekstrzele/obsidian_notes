@@ -5,6 +5,19 @@ COLLECTIONS:
 - are allocated on the heap:
 	- their size is changeable
 
+-------
+[[#vectors]]
+[[#strings]]
+[[#hashmaps]]
+
+
+
+----
+
+
+
+
+
 # vectors
 
 A vector will be dropped out of the scope
@@ -53,7 +66,46 @@ W tym kodzie zastosowano referencję (`&`) przy przypisaniu wartości trzeciego 
 
 Jednak następnie dodano nowy element o wartości 6 do wektora za pomocą metody "push". Operacja ta może spowodować realokację wektora, jeśli przekroczy jego pojemność. W rezultacie, referencja "third" może wskazywać na niepoprawną lokalizację pamięci, co prowadzi do niezdefiniowanego zachowania.
 
+```rust
+fn main(){
+  let mut v = vec![10,20,30,40,50] ;
 
+ for i in &mut v {
+   *i *= 11 ;
+   println!("{}", i) ;
+ }
+}
+```
+
+
+The vector can contain only one type of elements.
+If you want to store different types in one vector:
+```rust
+
+fn main(){
+  enum SpreadsheetCell{
+    Int(i32),
+    Float(f64),
+    Text(String),
+  }
+
+  let row = vec![
+    SpreadsheetCell::Int(3),
+    SpreadsheetCell::Text(String::from("blue")),
+    SpreadsheetCell::Float(10.12),
+  ] ;
+
+  match row[0] {
+    SpreadsheetCell::Int(i) => println!("{}", i),
+    _ => println!("Not integer!")
+  }
+}
+
+
+```
+
+
+-----------------
 # strings
 
 
