@@ -164,6 +164,32 @@ fn main(){
 
 
 # hashmaps
+```rust
+use std::collections::HashMap;
+
+fn main(){
+	let blue: String = String::from("Blue") ;
+	let yellow: String = String::from("Yellow") ;
+	let mut scores: HashMap<String, i32> = HashMap::new() ;
+
+	scores.insert(blue, 10) ; //you move the ownership from string to hashmap
+	scores.insert(yellow, 50) ;
+
+	let score = scores.get("Blue") ;
+  println!("{:?}", score) ; // Some(10)
+	for(k, v) in &scores {
+	    println!("{} : {}", k, v) ;
+	}
+  println!("{:?}", scores) ;
+}
+
+--- output
+Some(10)
+Blue : 10
+Yellow : 50
+{"Blue": 10, "Yellow": 50}
+```
+
 
 
 
