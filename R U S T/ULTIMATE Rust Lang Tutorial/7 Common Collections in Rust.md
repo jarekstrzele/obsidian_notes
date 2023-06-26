@@ -141,6 +141,27 @@ fn main(){
 }
 ```
 
+the type `String` can be indexing `s1[0]`
+
+```rust
+fn main(){
+  let s1 = String::from("hello world") ;
+  //let my_h = s1[0] ; // error
+
+  for b in s1.bytes(){
+    println!("{b}") ;
+  }
+
+  
+  for b in s1.chars(){
+    println!("{b}") ;
+  }
+  
+}
+```
+
+
+
 
 # hashmaps
 
