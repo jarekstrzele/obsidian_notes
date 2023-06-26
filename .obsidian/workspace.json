@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/ULTIMATE Rust Lang Tutorial/8 Error.md",
+                "file": "R U S T/ULTIMATE Rust Lang Tutorial/9 Generic Rust.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/ULTIMATE Rust Lang Tutorial/8 Error.md",
+                "file": "R U S T/ULTIMATE Rust Lang Tutorial/9 Generic Rust.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/ULTIMATE Rust Lang Tutorial/8 Error.md",
+                "file": "R U S T/ULTIMATE Rust Lang Tutorial/9 Generic Rust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/ULTIMATE Rust Lang Tutorial/8 Error.md"
+                "file": "R U S T/ULTIMATE Rust Lang Tutorial/9 Generic Rust.md"
               }
             }
           },
@@ -214,8 +214,9 @@
   },
   "active": "e09fd8603ad2539e",
   "lastOpenFiles": [
-    "R U S T/ULTIMATE Rust Lang Tutorial/_ LetsGetRusty Ultimate Rust Lang Tutorial.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/8 Error.md",
+    "R U S T/ULTIMATE Rust Lang Tutorial/9 Generic Rust.md",
+    "R U S T/ULTIMATE Rust Lang Tutorial/_ LetsGetRusty Ultimate Rust Lang Tutorial.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/7 Common Collections in Rust.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/6 System Module.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/4. Structs in Rust.md",
@@ -240,7 +241,6 @@
     "R U S T/Box.md",
     "R U S T/Rust Programming For Beginners/9.7 Modules as separate files.md",
     "_ WEB/N_O_D_E/Node JS 101 Crash/6.the Node Package Manager.md",
-    "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 6 Invaders Project.md",
     "Untitled 2.canvas",
     "canvas_moduls_rust.canvas",
     "R U S T/1 - Full Rust Beginner s Course",

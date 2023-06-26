@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "9 Generic Rust",
+      "path": "R U S T/ULTIMATE Rust Lang Tutorial/9 Generic Rust.md"
+    },
+    {
       "basename": "8 Error",
       "path": "R U S T/ULTIMATE Rust Lang Tutorial/8 Error.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_ Ultimate Rust Crash Course 2",
       "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 2/_ Ultimate Rust Crash Course 2.md"
-    },
-    {
-      "basename": "8.2 Interactive billing app",
-      "path": "R U S T/Rust Programming For Beginners/8.2 Interactive billing app.md"
     }
   ],
   "omittedPaths": [],

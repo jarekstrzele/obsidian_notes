@@ -130,8 +130,20 @@ fn read_username_from_file() -> Result<String, io::Error>{
 
 you can simplify more:
 ```rust
+use std::fs::{self, File} ;
+use std::io::{self, Read} ;
 
+fn read_username_from_file() -> Result<String, io::Error>{
+  fs::read_to_string("hello.txt")
+}
 ```
+
+
+### `?` 
+can be used only in the functions that return `Result` or `Option`
+
+
+
 
 
 
