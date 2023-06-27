@@ -15,9 +15,10 @@ https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbl
 ### streams
 #node/stream 
 - in Node ==all streams== are implemented using the event emitter
-- it is a very efficant way to process large data 
+- it is a very efficient way to process large data 
 
-
+#node/buffer 
+*buffer* - it is an object that node uses to represent a collection of bytes
 
 
 
