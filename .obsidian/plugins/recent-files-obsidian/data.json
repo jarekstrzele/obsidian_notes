@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "1. synchronous vs asynchronous",
+      "path": "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md"
+    },
+    {
+      "basename": "_ NodeJS 101 Crash Course",
+      "path": "_ WEB/N_O_D_E/Node JS 101 Crash/_ NodeJS 101 Crash Course.md"
+    },
+    {
+      "basename": "5 Enum",
+      "path": "R U S T/ULTIMATE Rust Lang Tutorial/5 Enum.md"
+    },
+    {
       "basename": "11 Rust Lifetimes",
       "path": "R U S T/ULTIMATE Rust Lang Tutorial/11 Rust Lifetimes.md"
     },
@@ -35,10 +47,6 @@
     {
       "basename": "rust_move_ownership.excalidraw",
       "path": "Excalidraw/rust_move_ownership.excalidraw.md"
-    },
-    {
-      "basename": "5 Enum",
-      "path": "R U S T/ULTIMATE Rust Lang Tutorial/5 Enum.md"
     },
     {
       "basename": "3 Ownership",
@@ -177,16 +185,8 @@
       "path": "_ WEB/N_O_D_E/Node JS 101 Crash/3 Observer design pattern.md"
     },
     {
-      "basename": "_ NodeJS 101 Crash Course",
-      "path": "_ WEB/N_O_D_E/Node JS 101 Crash/_ NodeJS 101 Crash Course.md"
-    },
-    {
       "basename": "2. what is node.js best at",
       "path": "_ WEB/N_O_D_E/Node JS 101 Crash/2. what is node.js best at.md"
-    },
-    {
-      "basename": "1. synchronous vs asynchronous",
-      "path": "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md"
     },
     {
       "basename": "2.2. Buffer",

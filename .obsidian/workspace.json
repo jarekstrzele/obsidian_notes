@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/ULTIMATE Rust Lang Tutorial/5 Enum.md",
+                "file": "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,19 +30,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "4bcafd3510e5a4a9",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Rust_stack_heap.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 310.5
   },
   "right": {
     "id": "ec7d1a70da2de581",
@@ -124,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/ULTIMATE Rust Lang Tutorial/11 Rust Lifetimes.md",
+                "file": "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -141,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/ULTIMATE Rust Lang Tutorial/11 Rust Lifetimes.md",
+                "file": "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/ULTIMATE Rust Lang Tutorial/11 Rust Lifetimes.md"
+                "file": "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md"
               }
             }
           },
@@ -212,10 +201,12 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "e09fd8603ad2539e",
+  "active": "6ca320f6e0c44aaf",
   "lastOpenFiles": [
-    "R U S T/ULTIMATE Rust Lang Tutorial/10 Traits Rust.md",
+    "_ WEB/N_O_D_E/Node JS 101 Crash/_ NodeJS 101 Crash Course.md",
+    "R U S T/ULTIMATE Rust Lang Tutorial/5 Enum.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/11 Rust Lifetimes.md",
+    "R U S T/ULTIMATE Rust Lang Tutorial/10 Traits Rust.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/9 Generic Rust.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/8 Error.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/_ LetsGetRusty Ultimate Rust Lang Tutorial.md",
@@ -223,7 +214,6 @@
     "R U S T/ULTIMATE Rust Lang Tutorial/6 System Module.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/4. Structs in Rust.md",
     "Excalidraw/rust_move_ownership.excalidraw.md",
-    "R U S T/ULTIMATE Rust Lang Tutorial/5 Enum.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/3 Ownership.md",
     "Excalidraw/Rust_stack_heap.excalidraw.md",
     "Git/git and github/_ Git and Github.md",
@@ -240,7 +230,6 @@
     "R U S T/1 - Full Rust Beginner s Course/_ Full Rust Beginners Cours.md",
     "R U S T/Rust Tutorial Full Course.md",
     "Git/git and github",
-    "R U S T/Box.md",
     "Untitled 2.canvas",
     "canvas_moduls_rust.canvas",
     "R U S T/1 - Full Rust Beginner s Course",
