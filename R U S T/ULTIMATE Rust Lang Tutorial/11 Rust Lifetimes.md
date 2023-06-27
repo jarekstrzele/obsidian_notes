@@ -26,9 +26,13 @@ fn main() {
 	println!("r: {}", r) ; // generates an error
 }
 ```
-`x` - its lifetime ends with its scope
+`x` - its lifetime ends with its scope so `r` will have a dandling reference
 
 
+>[!inf] generic lifetime annotations
+>They describe the relationship between the lifetimes of multiple references and how they relate to each other so they don't change the lifetime of  a reference but rather just explain the relationship between different lifetimes 
+
+`as_str()` - konwertuje wartość `String` ma `&str` (reprezentuje pożyczony *borrowed* napis *slice*)
 
 
 
