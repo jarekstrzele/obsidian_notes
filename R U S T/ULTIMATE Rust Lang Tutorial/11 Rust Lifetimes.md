@@ -30,11 +30,37 @@ fn main() {
 
 
 >[!inf] generic lifetime annotations
->They describe the relationship between the lifetimes of multiple references and how they relate to each other so they don't change the lifetime of  a reference but rather just explain the relationship between different lifetimes 
+>- They describe the relationship between the lifetimes of multiple references and how they relate to each other so they don't change the lifetime of  a reference but rather just explain the relationship between different lifetimes 
+>- they always start with `'`
+>- you can name it like you want `'a` , `'apple` but convention is to start with `'a`  and following the alphabet
+>- example:
+>	- `&i32` - a reference
+>	- `&'a i32` - a reference with an explicit lifetime 
+>	- `&'a mut i32` - a mutable reference with an explicit lifetime
+
+
 
 `as_str()` - konwertuje wartość `String` ma `&str` (reprezentuje pożyczony *borrowed* napis *slice*)
 
+this code generate an error `error[E0106]: missing lifetime specifier`
+```rust
+fn main(){
+  let string1 = String::from("abcd") ;
+  let string2 = String::from("abcd") ;
 
+  let result: &str = longest(string1.as_str(), string2.as_str()) ;
+    println!("the longest string is {}", result)  ;
+
+}
+
+fn longest(x: &str, y: &str) -> &str {
+  if x.len() > y.len() {
+    x
+  } else {
+    y
+  }
+}
+```
 
 
 
