@@ -5,6 +5,10 @@
       "path": "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md"
     },
     {
+      "basename": "asynch_in_node.excalidraw",
+      "path": "Excalidraw/asynch_in_node.excalidraw.md"
+    },
+    {
       "basename": "_ NodeJS 101 Crash Course",
       "path": "_ WEB/N_O_D_E/Node JS 101 Crash/_ NodeJS 101 Crash Course.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2.1. Zdarzenia",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md"
-    },
-    {
-      "basename": "I 1 Fundamentals",
-      "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 1 Fundamentals.md"
     }
   ],
   "omittedPaths": [],
