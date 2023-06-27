@@ -63,6 +63,27 @@ fn longest(x: &str, y: &str) -> &str {
 ```
 
 
+this code i correct with generic annotation of lifetime
+```rust
+fn main(){
+  let string1 = String::from("abcd") ;
+  let string2 = String::from("abcd") ;
 
+  let result: &str = longest(string1.as_str(), string2.as_str()) ;
+  println!("the longest string is {}", result)  ;
+  
+  
+}
+
+// generic lifetime annotation
+// lifetime of return value will be the same as the lifetime of arguments
+fn longest<'a>(x: &'a str, y: &'a str) -> &'a str {
+  if x.len() > y.len() {
+    x
+  } else {
+    y
+  }
+}
+```
 
 
