@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "7 Project",
+      "path": "_ WEB/N_O_D_E/Node JS 101 Crash/7 Project.md"
+    },
+    {
       "basename": "6.the Node Package Manager",
       "path": "_ WEB/N_O_D_E/Node JS 101 Crash/6.the Node Package Manager.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2.2. Buffer",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.2. Buffer.md"
-    },
-    {
-      "basename": "2.1. Zdarzenia",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md"
     }
   ],
   "omittedPaths": [],
