@@ -41,8 +41,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/pipe_node.excalidraw.md",
+                "file": "_ WEB/N_O_D_E/Node JS 101 Crash/7 Project.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -141,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/pipe_node.excalidraw.md",
+                "file": "_ WEB/N_O_D_E/Node JS 101 Crash/7 Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/pipe_node.excalidraw.md"
+                "file": "_ WEB/N_O_D_E/Node JS 101 Crash/7 Project.md"
               }
             }
           },
@@ -212,10 +211,10 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "a344f6ee2252a92b",
+  "active": "6ca320f6e0c44aaf",
   "lastOpenFiles": [
-    "_ WEB/N_O_D_E/Node JS 101 Crash/7 Project.md",
     "Excalidraw/pipe_node.excalidraw.md",
+    "_ WEB/N_O_D_E/Node JS 101 Crash/7 Project.md",
     "_ WEB/N_O_D_E/Node JS 101 Crash/6.the Node Package Manager.md",
     "_ WEB/N_O_D_E/Node JS 101 Crash/5. `index.js`.md",
     "_ WEB/N_O_D_E/Node JS 101 Crash/4.  Modules.md",
