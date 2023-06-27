@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ WEB/N_O_D_E/Node JS 101 Crash/4.  Modules.md",
+                "file": "_ WEB/N_O_D_E/Node JS 101 Crash/6.the Node Package Manager.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 257.5
   },
   "right": {
     "id": "ec7d1a70da2de581",
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ WEB/N_O_D_E/Node JS 101 Crash/4.  Modules.md",
+                "file": "_ WEB/N_O_D_E/Node JS 101 Crash/6.the Node Package Manager.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ WEB/N_O_D_E/Node JS 101 Crash/4.  Modules.md",
+                "file": "_ WEB/N_O_D_E/Node JS 101 Crash/6.the Node Package Manager.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ WEB/N_O_D_E/Node JS 101 Crash/4.  Modules.md"
+                "file": "_ WEB/N_O_D_E/Node JS 101 Crash/6.the Node Package Manager.md"
               }
             }
           },
@@ -203,6 +203,9 @@
   },
   "active": "6ca320f6e0c44aaf",
   "lastOpenFiles": [
+    "_ WEB/N_O_D_E/Node JS 101 Crash/5. `index.js`.md",
+    "_ WEB/N_O_D_E/Node JS 101 Crash/4.  Modules.md",
+    "_ WEB/N_O_D_E/Node JS 101 Crash/6.the Node Package Manager.md",
     "_ WEB/N_O_D_E/Node JS 101 Crash/3 Observer design pattern.md",
     "_ WEB/N_O_D_E/Node JS 101 Crash/2. what is node.js best at.md",
     "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md",
@@ -226,9 +229,6 @@
     "R U S T/Rust Programming Tutorial/24 Run in CLI.md",
     "R U S T/Rust Programming Tutorial/23 HTTP Get Request.md",
     "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md",
-    "R U S T/Rust Programming For Beginners/_ Rust Programming for Beginners.md",
-    "R U S T/Rust by example/_ Rust by Example.md",
-    "R U S T/Rust - FreeCode Beginner/_ 0 Rust.md",
     "Git/git and github",
     "Untitled 2.canvas",
     "canvas_moduls_rust.canvas",
