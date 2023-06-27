@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "pipe_node.excalidraw",
+      "path": "Excalidraw/pipe_node.excalidraw.md"
+    },
+    {
       "basename": "7 Project",
       "path": "_ WEB/N_O_D_E/Node JS 101 Crash/7 Project.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "nodeFlow.excalidraw",
       "path": "Excalidraw/nodeFlow.excalidraw.md"
-    },
-    {
-      "basename": "2.2. Buffer",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.2. Buffer.md"
     }
   ],
   "omittedPaths": [],

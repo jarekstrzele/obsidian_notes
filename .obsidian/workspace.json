@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "a344f6ee2252a92b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/pipe_node.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "e09fd8603ad2539e",
             "type": "leaf",
             "state": {
@@ -31,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ WEB/N_O_D_E/Node JS 101 Crash/7 Project.md",
+                "file": "Excalidraw/pipe_node.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -130,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ WEB/N_O_D_E/Node JS 101 Crash/7 Project.md",
+                "file": "Excalidraw/pipe_node.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ WEB/N_O_D_E/Node JS 101 Crash/7 Project.md"
+                "file": "Excalidraw/pipe_node.excalidraw.md"
               }
             }
           },
@@ -201,10 +212,11 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "6ca320f6e0c44aaf",
+  "active": "a344f6ee2252a92b",
   "lastOpenFiles": [
-    "_ WEB/N_O_D_E/Node JS 101 Crash/6.the Node Package Manager.md",
     "_ WEB/N_O_D_E/Node JS 101 Crash/7 Project.md",
+    "Excalidraw/pipe_node.excalidraw.md",
+    "_ WEB/N_O_D_E/Node JS 101 Crash/6.the Node Package Manager.md",
     "_ WEB/N_O_D_E/Node JS 101 Crash/5. `index.js`.md",
     "_ WEB/N_O_D_E/Node JS 101 Crash/4.  Modules.md",
     "_ WEB/N_O_D_E/Node JS 101 Crash/3 Observer design pattern.md",
@@ -228,7 +240,6 @@
     "R U S T/ULTIMATE Rust Lang Tutorial/2. Common Programming Concepts in Rust.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/1 Guessing Game in Rust.md",
     "R U S T/Rust Programming Tutorial/24 Run in CLI.md",
-    "R U S T/Rust Programming Tutorial/23 HTTP Get Request.md",
     "Git/git and github",
     "Untitled 2.canvas",
     "canvas_moduls_rust.canvas",
