@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ WEB/N_O_D_E/Node JS 101 Crash/7 Project.md",
+                "file": "_ FullStack/RSTY/_ RSTY.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ WEB/N_O_D_E/Node JS 101 Crash/7 Project.md",
+                "file": "_ FullStack/RSTY/_ RSTY.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ WEB/N_O_D_E/Node JS 101 Crash/7 Project.md",
+                "file": "_ FullStack/RSTY/_ RSTY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ WEB/N_O_D_E/Node JS 101 Crash/7 Project.md"
+                "file": "_ FullStack/RSTY/_ RSTY.md"
               }
             }
           },
@@ -213,8 +213,11 @@
   },
   "active": "6ca320f6e0c44aaf",
   "lastOpenFiles": [
-    "Excalidraw/pipe_node.excalidraw.md",
     "_ WEB/N_O_D_E/Node JS 101 Crash/7 Project.md",
+    "_ FullStack/RSTY/_ RSTY.md",
+    "_ FullStack/RSTY",
+    "Untitled",
+    "Excalidraw/pipe_node.excalidraw.md",
     "_ WEB/N_O_D_E/Node JS 101 Crash/6.the Node Package Manager.md",
     "_ WEB/N_O_D_E/Node JS 101 Crash/5. `index.js`.md",
     "_ WEB/N_O_D_E/Node JS 101 Crash/4.  Modules.md",
@@ -238,7 +241,6 @@
     "Git/git and github/_ Git and Github.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/2. Common Programming Concepts in Rust.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/1 Guessing Game in Rust.md",
-    "R U S T/Rust Programming Tutorial/24 Run in CLI.md",
     "Git/git and github",
     "Untitled 2.canvas",
     "canvas_moduls_rust.canvas",
@@ -249,8 +251,6 @@
     "_ WEB/Rust/Rocket",
     "_ WEB/Rust",
     "_ WEB/React,TypeScript,Node/I TypeScript",
-    "_ WEB/React,TypeScript,Node/III Express, GraphQL tworzenie usług internetowych",
-    "_ WEB/React,TypeScript,Node",
     "test canvas.canvas",
     "pexels-alex-fu-1302436.jpg",
     "methodology/images/seaborn_relplot_tip_total_bill_4.png",

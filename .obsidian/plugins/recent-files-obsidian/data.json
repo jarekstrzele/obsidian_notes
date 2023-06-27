@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "_ RSTY",
+      "path": "_ FullStack/RSTY/_ RSTY.md"
+    },
+    {
       "basename": "7 Project",
       "path": "_ WEB/N_O_D_E/Node JS 101 Crash/7 Project.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_ Functional Programming for JS Developers",
       "path": "JAVASCRIPT/Functional Programming for JS Developers/_ Functional Programming for JS Developers.md"
-    },
-    {
-      "basename": "nodeFlow.excalidraw",
-      "path": "Excalidraw/nodeFlow.excalidraw.md"
     }
   ],
   "omittedPaths": [],
