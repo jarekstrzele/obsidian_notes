@@ -122,6 +122,8 @@ fn main(){
 ## `static`
 *static lifetime* means that the reference could live as long as the duration of the program
 
+*string literals* have a static lifetime
+
 
 
 
