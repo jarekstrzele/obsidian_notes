@@ -89,14 +89,33 @@ fn longest<'a>(x: &'a str, y: &'a str) -> &'a str {
 
 ----
 ## `struct` with lifetime annotations
+```rust
+
+struct ImportantExcept<'a> {
+  part: &'a str,
+}
+
+fn main(){
+  let novel =String::from("Call me Ishmael. SOme years ") ;
+  let first_sentence: &str = novel.split('.').next().expect("Could not found.") ;
+  let i = ImportantExcept{
+    part: first_sentence,
+  } ;
+  
+}
+```
 
 
+---
+## lifetime illusion RULES
+*input lifetime* - arguments being passed in a function 
 
+*output lifetime* - it is a lifetime of the return values
 
-
-
-
-
+>![info] rules
+>1. each parameter that is a reference gets its own lifetime parameter
+>2. if there is exactly one input lifetime parameter, that lifetime is assigned to all output lifetime parameters
+>3. 
 
 
 
