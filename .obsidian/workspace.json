@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ FullStack/RSTY/_ RSTY.md",
+                "file": "linux/UBUNTU.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ FullStack/RSTY/_ RSTY.md",
+                "file": "linux/UBUNTU.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ FullStack/RSTY/_ RSTY.md",
+                "file": "linux/UBUNTU.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ FullStack/RSTY/_ RSTY.md"
+                "file": "linux/UBUNTU.md"
               }
             }
           },
@@ -213,8 +213,8 @@
   },
   "active": "6ca320f6e0c44aaf",
   "lastOpenFiles": [
-    "_ WEB/N_O_D_E/Node JS 101 Crash/7 Project.md",
     "_ FullStack/RSTY/_ RSTY.md",
+    "_ WEB/N_O_D_E/Node JS 101 Crash/7 Project.md",
     "_ FullStack/RSTY",
     "Untitled",
     "Excalidraw/pipe_node.excalidraw.md",

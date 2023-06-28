@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "UBUNTU",
+      "path": "linux/UBUNTU.md"
+    },
+    {
       "basename": "_ RSTY",
       "path": "_ FullStack/RSTY/_ RSTY.md"
     },
@@ -191,10 +195,6 @@
     {
       "basename": "10 Final Project",
       "path": "R U S T/Rust Programming For Beginners/10 Final Project.md"
-    },
-    {
-      "basename": "UBUNTU",
-      "path": "linux/UBUNTU.md"
     },
     {
       "basename": "_ Functional Programming for JS Developers",
