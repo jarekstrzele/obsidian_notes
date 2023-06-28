@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "12 Testing Rust",
+      "path": "R U S T/ULTIMATE Rust Lang Tutorial/12 Testing Rust.md"
+    },
+    {
       "basename": "11 Rust Lifetimes",
       "path": "R U S T/ULTIMATE Rust Lang Tutorial/11 Rust Lifetimes.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "10 Final Project",
       "path": "R U S T/Rust Programming For Beginners/10 Final Project.md"
-    },
-    {
-      "basename": "_ Functional Programming for JS Developers",
-      "path": "JAVASCRIPT/Functional Programming for JS Developers/_ Functional Programming for JS Developers.md"
     }
   ],
   "omittedPaths": [],

@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/ULTIMATE Rust Lang Tutorial/11 Rust Lifetimes.md",
+                "file": "R U S T/ULTIMATE Rust Lang Tutorial/12 Testing Rust.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.5
+    "width": 327.5
   },
   "right": {
     "id": "ec7d1a70da2de581",
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/ULTIMATE Rust Lang Tutorial/11 Rust Lifetimes.md",
+                "file": "R U S T/ULTIMATE Rust Lang Tutorial/12 Testing Rust.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/ULTIMATE Rust Lang Tutorial/11 Rust Lifetimes.md",
+                "file": "R U S T/ULTIMATE Rust Lang Tutorial/12 Testing Rust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/ULTIMATE Rust Lang Tutorial/11 Rust Lifetimes.md"
+                "file": "R U S T/ULTIMATE Rust Lang Tutorial/12 Testing Rust.md"
               }
             }
           },
@@ -200,8 +200,10 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "f621f21825dbd82d",
+  "active": "e09fd8603ad2539e",
   "lastOpenFiles": [
+    "R U S T/ULTIMATE Rust Lang Tutorial/11 Rust Lifetimes.md",
+    "R U S T/ULTIMATE Rust Lang Tutorial/12 Testing Rust.md",
     "Excalidraw/pipe_node.excalidraw.md",
     "linux/UBUNTU.md",
     "_ FullStack/RSTY/_ RSTY.md",
@@ -217,7 +219,6 @@
     "Excalidraw/asynch_in_node.excalidraw.md",
     "_ WEB/N_O_D_E/Node JS 101 Crash/_ NodeJS 101 Crash Course.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/5 Enum.md",
-    "R U S T/ULTIMATE Rust Lang Tutorial/11 Rust Lifetimes.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/10 Traits Rust.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/9 Generic Rust.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/8 Error.md",
@@ -229,7 +230,6 @@
     "R U S T/ULTIMATE Rust Lang Tutorial/3 Ownership.md",
     "Excalidraw/Rust_stack_heap.excalidraw.md",
     "Git/git and github/_ Git and Github.md",
-    "R U S T/ULTIMATE Rust Lang Tutorial/2. Common Programming Concepts in Rust.md",
     "Git/git and github",
     "Untitled 2.canvas",
     "canvas_moduls_rust.canvas",
