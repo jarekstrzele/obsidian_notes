@@ -112,11 +112,15 @@ fn main(){
 
 *output lifetime* - it is a lifetime of the return values
 
->![info] rules
+>[!info] rules
 >1. each parameter that is a reference gets its own lifetime parameter
 >2. if there is exactly one input lifetime parameter, that lifetime is assigned to all output lifetime parameters
->3. 
+>3. if there are multiple  input lifetime parameters, but one of them is `&self`, or `&mut self` the lifetime of `self` is assigned to all output lifetime parameters (**methods**!!)
 
+
+---
+## `static`
+*static lifetime* means that the reference could live as long as the duration of the program
 
 
 
