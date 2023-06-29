@@ -57,7 +57,46 @@ mod tests {
 `assert_ne!(arg1, arg2)`
 
 
+```rust
+  
 
+pub fn greeting(name: &str) -> String{
+
+format!("Hello {}", name)
+
+}
+
+  
+
+#[cfg(test)]
+
+mod tests {
+
+use super::*;
+
+  
+
+#[test]
+
+fn greeting_contains_name(){
+
+let result = greeting("Carol") ;
+
+assert!(
+
+result.contains("Carolll"),
+
+"Greeting did not contain name, value was `{}`",
+
+result
+
+) ;
+
+}
+
+}
+
+```
 
 
 
