@@ -200,9 +200,12 @@ mod tests {
 
 ## test organisation
 
+>[!info] unit test
+>It is a small focused test one module in isolation and could test private interface
+>Unit test (test jednostkowy) to rodzaj testu oprogramowania, który polega na testowaniu pojedynczych, niezależnych jednostek kodu, takich jak funkcje, metody, klasy lub moduły. Celem testów jednostkowych jest zweryfikowanie, czy dane jednostki kodu działają zgodnie z oczekiwaniami, czyli czy zwracają poprawne wyniki dla różnych zestawów danych wejściowych oraz czy poprawnie obsługują różne przypadki brzegowe.
 
-
-
+>![info] integration tests
+>it is a completely EXTERNAL to your library and thus test the public interface of your library
 
 
 
