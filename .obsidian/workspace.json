@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/ULTIMATE Rust Lang Tutorial/12 Testing Rust.md",
+                "file": "R U S T/Rust Programming For Beginners/10.3. Contact manager app.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 215.5
+    "width": 419.5
   },
   "right": {
     "id": "ec7d1a70da2de581",
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/ULTIMATE Rust Lang Tutorial/12 Testing Rust.md",
+                "file": "R U S T/Rust Programming For Beginners/10.3. Contact manager app.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/ULTIMATE Rust Lang Tutorial/12 Testing Rust.md",
+                "file": "R U S T/Rust Programming For Beginners/10.3. Contact manager app.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/ULTIMATE Rust Lang Tutorial/12 Testing Rust.md"
+                "file": "R U S T/Rust Programming For Beginners/10.3. Contact manager app.md"
               }
             }
           },
@@ -202,8 +202,8 @@
   },
   "active": "e09fd8603ad2539e",
   "lastOpenFiles": [
-    "R U S T/ULTIMATE Rust Lang Tutorial/11 Rust Lifetimes.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/12 Testing Rust.md",
+    "R U S T/ULTIMATE Rust Lang Tutorial/11 Rust Lifetimes.md",
     "Excalidraw/pipe_node.excalidraw.md",
     "linux/UBUNTU.md",
     "_ FullStack/RSTY/_ RSTY.md",
