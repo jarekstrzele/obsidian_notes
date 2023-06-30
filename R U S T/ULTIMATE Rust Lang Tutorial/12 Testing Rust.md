@@ -145,6 +145,8 @@ Opcja `--show-output` powoduje, że Cargo wyświetla wszystko, co zostało wyp
 
 ### when you want to run   a specific test
 `cargo test <test_name>`
+`cargo test <a_part_of_name_of_test>`
+`cargo test <test_module_name>`
 
 
 
