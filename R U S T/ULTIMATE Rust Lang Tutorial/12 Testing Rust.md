@@ -59,49 +59,56 @@ mod tests {
 
 ```rust
   
-
 pub fn greeting(name: &str) -> String{
-
-format!("Hello {}", name)
-
+	format!("Hello {}", name)
 }
-
-  
 
 #[cfg(test)]
-
 mod tests {
+	use super::*;
 
-use super::*;
-
-  
-
-#[test]
-
-fn greeting_contains_name(){
-
-let result = greeting("Carol") ;
-
-assert!(
-
-result.contains("Carolll"),
-
-"Greeting did not contain name, value was `{}`",
-
-result
-
-) ;
-
-}
-
+	#[test]
+	fn greeting_contains_name(){
+		let result = greeting("Carol") ;
+		assert!(
+			result.contains("Carolll"),
+			"Greeting did not contain name, value was `{}`",
+		result
+	) ;
+	}
 }
 
 ```
 
+```rust
+pub struct Guess {
+	value: i32,
+}
 
+impl Guess {
+	pub fn new(value: i32) -> Guess{
+		if value < 1 || value > 100 {
+		panic!("Guess value must be between 1 and 100, ") ;
+	}
+	Guess{ value }
+	}
+}
 
+#[cfg(test)]
+mod tests {
+	use super::*;
 
+	#[test]
+	#[should_panic]
+	fn greater_than_100(){
+		Guess::new(200) ;
+	}
+}
+```
 
+## test returing `Result`
+
+`()` unit type, nothing
 
 
 
