@@ -144,10 +144,61 @@ Opcja `--show-output` powoduje, że Cargo wyświetla wszystko, co zostało wyp
 
 
 ### when you want to run   a specific test
-`cargo test <test_name>`
-`cargo test <a_part_of_name_of_test>`
-`cargo test <test_module_name>`
+```rust
+pub fn add_two(a: i32) -> i32 {
+	a + 2
+}
 
+#[cfg(test)]
+mod my_tests{
+	use super::*;
+
+	#[test]
+	fn add_two_and_two(){
+		assert_eq!(4, add_two(2))
+	}
+
+	#[test]
+	fn add_tree_and_two(){
+		assert_eq!(5, add_two(3))
+	}
+
+	#[test]
+	fn one_hundred(){
+		assert_eq!(102, add_two(100))
+	}
+}
+```
+
+
+`cargo test <test_name>`
+`cargo test add_two_and_two`
+
+`cargo test <a_part_of_name_of_test>`
+`cargo test add`
+
+`cargo test <test_module_name>`
+`cargo test my_tests`
+
+
+## ignoring tests
+```rust
+#[cfg(test)]
+mod tests {
+	#[test]
+	fn it_works(){
+		assert_eq!(2+2, 4) ;
+	}
+
+	#[test]
+	#[ignore]
+	fn expensive_test(){
+		// code that takes an hour to run
+	}
+}
+```
+
+## test organisation
 
 
 
