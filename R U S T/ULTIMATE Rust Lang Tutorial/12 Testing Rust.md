@@ -213,6 +213,8 @@ mod tests {
 >it is a completely EXTERNAL to your library and thus test the public interface of your library
 >
 > [integration test](https://www.google.com/search?q=integration%20test) (**test integracyjny**) to rodzaj testu oprogramowania, który polega na testowaniu integracji między różnymi jednostkami kodu w celu weryfikacji, czy działają one razem zgodnie z oczekiwaniami. Testy integracyjne są ważne dla zapewnienia jakości oprogramowania i pozwalają na weryfikację interakcji między różnymi elementami systemu.
+> 
+> In Rust *integration tests*   lives in a a folder `tests` **at the root of your project
 
 
 
