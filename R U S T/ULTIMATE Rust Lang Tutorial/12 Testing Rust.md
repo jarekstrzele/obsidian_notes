@@ -57,8 +57,7 @@ mod tests {
 `assert_ne!(arg1, arg2)`
 
 
-```rust
-  
+```rust  
 pub fn greeting(name: &str) -> String{
 	format!("Hello {}", name)
 }
@@ -77,7 +76,6 @@ mod tests {
 	) ;
 	}
 }
-
 ```
 
 ```rust
@@ -109,6 +107,30 @@ mod tests {
 ## test returing `Result`
 
 `()` unit type, nothing
+```rust
+#[cfg(test)]
+mod tests {
+
+#[test]
+	fn it_works() -> Result<(), String>{
+		if 2+2==4{
+			Ok(())
+		} else {
+			Err(String::from("two plus two does not equal four"))
+		}
+	}
+
+	#[test]
+	fn it_works2(){
+		assert_eq!(2+2, 4) ;
+	}
+}
+```
+
+------------
+### `cargo test -- --help` 
+
+
 
 
 
