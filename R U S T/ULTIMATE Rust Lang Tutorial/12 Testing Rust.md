@@ -1,4 +1,5 @@
 #rust/test 
+
 `cargo new adder --lib`
 
 Functions are tests, if they have an attribute `#[test]`.
@@ -137,11 +138,13 @@ mod tests {
 
 `cargo test -- --test-threads=2`  - sometimes resolves problems with tests that have to be run paralel
 
+### ` cargo test -- --show-output`
+Opcja `--show-output` powoduje, że Cargo wyświetla wszystko, co zostało wypisane przez testy na standardowe wyjście, nawet jeśli testy przeszły pomyślnie.
+> Opcja `--show-output` powoduje, że Cargo wyświetla wszystko, co zostało wypisane przez testy na standardowe wyjście, nawet jeśli testy przeszły pomyślnie.
 
 
-
-
-
+### when you want to run   a specific test
+`cargo test <test_name>`
 
 
 
