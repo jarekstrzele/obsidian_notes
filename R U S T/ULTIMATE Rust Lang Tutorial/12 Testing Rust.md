@@ -128,7 +128,18 @@ mod tests {
 ```
 
 ------------
-### `cargo test -- --help` 
+##### `--` każdy element po tym znaku będzie argumentem a nie opcją
+
+##### `cargo test -- --help`  pomoc dla samych testów
+
+##### `cargo test --help` pomoc na temat opcji dla `carg test`
+
+
+`cargo test -- --test-threads=2`  - sometimes resolves problems with tests that have to be run paralel
+
+
+
+
 
 
 
