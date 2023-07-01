@@ -23,14 +23,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/10.3. Contact manager app.md",
+                "file": "INTERVIEWS/ZTM/The coding interview.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "d1b00138924bbed4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -59,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#rust/unwrap-",
+                "query": "interview",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -112,7 +120,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/10.3. Contact manager app.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -129,7 +136,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/10.3. Contact manager app.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,9 +157,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "R U S T/Rust Programming For Beginners/10.3. Contact manager app.md"
-              }
+              "state": {}
             }
           },
           {
@@ -200,8 +204,15 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "e09fd8603ad2539e",
+  "active": "d1b00138924bbed4",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-07-02 01.06.41.excalidraw.md",
+    "INTERVIEWS/ZTM/The coding interview.md",
+    "INTERVIEWS/ZTM/arrays.md",
+    "JAVASCRIPT/funkcyjnie_JS/_ JavaScript funkcyjnie.md",
+    "R U S T/Rust Programming For Beginners/10.3. Contact manager app.md",
+    "INTERVIEWS/ZTM",
+    "INTERVIEWS",
     "R U S T/ULTIMATE Rust Lang Tutorial/12 Testing Rust.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/11 Rust Lifetimes.md",
     "Excalidraw/pipe_node.excalidraw.md",
@@ -225,11 +236,6 @@
     "R U S T/ULTIMATE Rust Lang Tutorial/_ LetsGetRusty Ultimate Rust Lang Tutorial.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/7 Common Collections in Rust.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/6 System Module.md",
-    "R U S T/ULTIMATE Rust Lang Tutorial/4. Structs in Rust.md",
-    "Excalidraw/rust_move_ownership.excalidraw.md",
-    "R U S T/ULTIMATE Rust Lang Tutorial/3 Ownership.md",
-    "Excalidraw/Rust_stack_heap.excalidraw.md",
-    "Git/git and github/_ Git and Github.md",
     "Git/git and github",
     "Untitled 2.canvas",
     "canvas_moduls_rust.canvas",
@@ -238,8 +244,6 @@
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1",
     "R U S T/Ultimate Rust Crash Course",
     "_ WEB/Rust/Rocket",
-    "_ WEB/Rust",
-    "_ WEB/React,TypeScript,Node/I TypeScript",
     "test canvas.canvas",
     "pexels-alex-fu-1302436.jpg",
     "methodology/images/seaborn_relplot_tip_total_bill_4.png",

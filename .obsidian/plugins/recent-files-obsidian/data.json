@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Drawing 2023-07-02 01.06.41.excalidraw",
+      "path": "Excalidraw/Drawing 2023-07-02 01.06.41.excalidraw.md"
+    },
+    {
+      "basename": "The coding interview",
+      "path": "INTERVIEWS/ZTM/The coding interview.md"
+    },
+    {
+      "basename": "arrays",
+      "path": "INTERVIEWS/ZTM/arrays.md"
+    },
+    {
+      "basename": "_ JavaScript funkcyjnie",
+      "path": "JAVASCRIPT/funkcyjnie_JS/_ JavaScript funkcyjnie.md"
+    },
+    {
       "basename": "10.3. Contact manager app",
       "path": "R U S T/Rust Programming For Beginners/10.3. Contact manager app.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "atrybut",
       "path": "R U S T/atrybut.md"
-    },
-    {
-      "basename": "7 Advanced Concepts",
-      "path": "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md"
-    },
-    {
-      "basename": "10.1 Custom Error Types",
-      "path": "R U S T/Rust Programming For Beginners/10.1 Custom Error Types.md"
-    },
-    {
-      "basename": "10.2 New Types Patterns",
-      "path": "R U S T/Rust Programming For Beginners/10.2 New Types Patterns.md"
-    },
-    {
-      "basename": "10 Final Project",
-      "path": "R U S T/Rust Programming For Beginners/10 Final Project.md"
     }
   ],
   "omittedPaths": [],
