@@ -42,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TYPESCRIPT/Learn TypeScript - Full Tutorial/_ Learn TypeScript.md",
+                "file": "INTERVIEWS/ZTM/The coding interview.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TYPESCRIPT/Learn TypeScript - Full Tutorial/_ Learn TypeScript.md",
+                "file": "INTERVIEWS/ZTM/The coding interview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TYPESCRIPT/Learn TypeScript - Full Tutorial/_ Learn TypeScript.md"
+                "file": "INTERVIEWS/ZTM/The coding interview.md"
               }
             }
           },
@@ -212,10 +212,10 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "d1b00138924bbed4",
+  "active": "e09fd8603ad2539e",
   "lastOpenFiles": [
-    "Untitled.md",
     "TYPESCRIPT/Learn TypeScript - Full Tutorial/_ Learn TypeScript.md",
+    "Untitled.md",
     "TYPESCRIPT/Learn TypeScript - Full Tutorial",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
