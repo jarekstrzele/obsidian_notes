@@ -199,6 +199,9 @@ mod tests {
 ```
 
 ## test organisation
+CONVENTION:
+- write `mod tests` and put inside it your tests
+- `#[cfg(test)]` - this makes that `cargo test` will run the module with that attribute
 
 >[!info] unit test
 >It is a small focused test one module in isolation and could test private interface
@@ -246,10 +249,7 @@ fn main() {
 > 
 > In Rust *integration tests*   lives in a a folder `tests` **at the root of your project
 
-CONVENSION:
-- write `mod tests` and put inside it your tests
-- `#[cfg(test)]` - this makes that `cargo test` will run the module with that attribute
-
-
+example
+`tests` > `integration_tests.rs`
 
 
