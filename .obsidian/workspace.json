@@ -33,8 +33,12 @@
             "id": "d1b00138924bbed4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "TYPESCRIPT/Learn TypeScript - Full Tutorial/_ Learn TypeScript.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -67,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "interview",
+                "query": "typesc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -120,6 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "TYPESCRIPT/Learn TypeScript - Full Tutorial/_ Learn TypeScript.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -136,6 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "TYPESCRIPT/Learn TypeScript - Full Tutorial/_ Learn TypeScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +163,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "TYPESCRIPT/Learn TypeScript - Full Tutorial/_ Learn TypeScript.md"
+              }
             }
           },
           {
@@ -206,6 +214,14 @@
   },
   "active": "d1b00138924bbed4",
   "lastOpenFiles": [
+    "Untitled.md",
+    "TYPESCRIPT/Learn TypeScript - Full Tutorial/_ Learn TypeScript.md",
+    "TYPESCRIPT/Learn TypeScript - Full Tutorial",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "_ WEB/React,TypeScript,Node/I TypeScript/_ TypeScript.md",
+    "Untitled.canvas",
+    "TYPESCRIPT",
     "Excalidraw/Drawing 2023-07-02 01.06.41.excalidraw.md",
     "INTERVIEWS/ZTM/The coding interview.md",
     "INTERVIEWS/ZTM/arrays.md",
@@ -233,22 +249,14 @@
     "R U S T/ULTIMATE Rust Lang Tutorial/10 Traits Rust.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/9 Generic Rust.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/8 Error.md",
-    "R U S T/ULTIMATE Rust Lang Tutorial/_ LetsGetRusty Ultimate Rust Lang Tutorial.md",
-    "R U S T/ULTIMATE Rust Lang Tutorial/7 Common Collections in Rust.md",
-    "R U S T/ULTIMATE Rust Lang Tutorial/6 System Module.md",
     "Git/git and github",
-    "Untitled 2.canvas",
     "canvas_moduls_rust.canvas",
     "R U S T/1 - Full Rust Beginner s Course",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 2",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1",
-    "R U S T/Ultimate Rust Crash Course",
-    "_ WEB/Rust/Rocket",
     "test canvas.canvas",
     "pexels-alex-fu-1302436.jpg",
     "methodology/images/seaborn_relplot_tip_total_bill_4.png",
-    "Untitled 1.canvas",
-    "R U S T/Untitled.canvas",
-    "Untitled.canvas"
+    "R U S T/Untitled.canvas"
   ]
 }

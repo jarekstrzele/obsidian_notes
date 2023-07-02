@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "_ Learn TypeScript",
+      "path": "TYPESCRIPT/Learn TypeScript - Full Tutorial/_ Learn TypeScript.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
+      "basename": "_ TypeScript",
+      "path": "_ WEB/React,TypeScript,Node/I TypeScript/_ TypeScript.md"
+    },
+    {
       "basename": "Drawing 2023-07-02 01.06.41.excalidraw",
       "path": "Excalidraw/Drawing 2023-07-02 01.06.41.excalidraw.md"
     },
@@ -183,22 +195,6 @@
     {
       "basename": "I 6 Invaders Project",
       "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 6 Invaders Project.md"
-    },
-    {
-      "basename": "Untitled 2",
-      "path": "Untitled 2.canvas"
-    },
-    {
-      "basename": "canvas_moduls_rust",
-      "path": "canvas_moduls_rust.canvas"
-    },
-    {
-      "basename": "Casting",
-      "path": "R U S T/ULTIMATE Rust Lang Tutorial/Casting.md"
-    },
-    {
-      "basename": "atrybut",
-      "path": "R U S T/atrybut.md"
     }
   ],
   "omittedPaths": [],
