@@ -78,6 +78,22 @@ the basics
 https://www.typescriptlang.org/docs/handbook/2/basic-types.html
 
 
+TS is very useful with function (it checks args as a input, and value that are returns)
+
+`let varName: <lowercaseTypeName> = value`
+
+```ts
+let greetings: string = "Hello world" l
+
+let num: number = 6;
+
+greetings.toLowerCase() ;
+console.log(greetings) ;
+
+export {}
+```
+
+
 
 
 
