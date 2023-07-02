@@ -85,7 +85,10 @@ TS is very useful with function (it checks args as a input, and value that are r
 ```ts
 let greetings: string = "Hello world" l
 
-let num: number = 6;
+let num1: number = 6;
+let num2: number = 6.23;
+
+let isLoggedIn: boolean = false
 
 greetings.toLowerCase() ;
 console.log(greetings) ;
@@ -94,8 +97,20 @@ export {}
 ```
 
 
+TS can automatically detect the type of a variable
+```ts
+let greetings = "Hello world" l
 
+let num1 = 6;
+let num2 = 6.23;
 
+let isLoggedIn: boolean = false
+
+greetings.toLowerCase() ;
+console.log(greetings) ;
+
+export {}
+```
 
 
 
