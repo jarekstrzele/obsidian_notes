@@ -46,6 +46,48 @@ Version 5.1.6
 # A First File
 
 `intro.ts`
+```ts
+var user = { name: "jan", age: 10 };
+
+var user_name = user.name;
+
+console.log(user_name);
+```
+
+`tsc intro.ts` -> `intro.js`
+
+---
+# Types
+- number
+- string
+- boolean
+- null
+- undefined
+- void
+- object
+- array
+- tupes
+- ...
+- any
+- never
+
+DOCUMENTATION
+https://www.typescriptlang.org/docs/
+
+the basics
+https://www.typescriptlang.org/docs/handbook/2/basic-types.html
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
