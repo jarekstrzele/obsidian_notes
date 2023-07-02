@@ -207,6 +207,36 @@ mod tests {
 >
 >In Rust *unit test* lives  in the same file as our product code
 
+e x a m p l e
+```rust
+pub fn add_two(a: i32) -> i32 {
+	internal_adder(a, 2)
+}
+
+
+fn internal_adder(a: i32, b: i32) -> i32 {
+	a + b
+}
+
+  
+
+#[cfg(test)]
+mod tests_2 {
+// the child module has access to anything in their parent
+// event private fields
+use super::* ; // use fn add_two(), interma;_adder
+
+#[test]
+fn internal(){
+	assert_eq!(4, internal_adder(2,2)) ;
+	}
+}
+
+fn main() {
+	println!("Hello, world!");
+}
+```
+
 
 
 >[!info] integration tests
@@ -215,6 +245,11 @@ mod tests {
 > [integration test](https://www.google.com/search?q=integration%20test) (**test integracyjny**) to rodzaj testu oprogramowania, który polega na testowaniu integracji między różnymi jednostkami kodu w celu weryfikacji, czy działają one razem zgodnie z oczekiwaniami. Testy integracyjne są ważne dla zapewnienia jakości oprogramowania i pozwalają na weryfikację interakcji między różnymi elementami systemu.
 > 
 > In Rust *integration tests*   lives in a a folder `tests` **at the root of your project
+
+CONVENSION:
+- write `mod tests` and put inside it your tests
+- `#[cfg(test)]` - this makes that `cargo test` will run the module with that attribute
+
 
 
 
