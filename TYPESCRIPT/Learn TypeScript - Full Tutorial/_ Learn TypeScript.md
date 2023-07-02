@@ -25,6 +25,28 @@ https://www.typescriptlang.org/play
 -----
 # Install TypeScript
 
+In Windows use `GitBash`
+
+- you can install global
+`npm install -g typescript`
+```bash
+$ npm install -g typescript
+
+added 1 package, and audited 2 packages in 22s
+
+found 0 vulnerabilities
+jarek@jarek-legion:~$ tsc -v
+Version 5.1.6
+```
+
+- you can install loca (to that project)
+``npm install typescript --save-dev``
+
+---
+# A First File
+
+`intro.ts`
+
 
 
 
