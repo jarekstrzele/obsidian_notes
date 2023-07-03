@@ -65,36 +65,24 @@ fn main() {
 
 // to link query with filename
 struct Config{
-
-query: String,
-
-filename: String,
-
+	query: String,
+	filename: String,
 }
-
-  
 
 impl Config {
+	fn new(args: &[String]) -> Config {
+		if args.len() < 3 {
+			panic!("not enough arguments") ;
+		}
+		let query = args[1].clone() ;
+		let filename = args[2].clone() ;
 
-fn new(args: &[String]) -> Config {
-
-if args.len() < 3 {
-
-panic!("not enough arguments") ;
-
-}
-
-let query = args[1].clone() ;
-
-let filename = args[2].clone() ;
-
-Config { query, filename }
-
-}
-
+	Config { query, filename }
+	}
 }
 ```
 
+better way to handle errors
 
 
 
