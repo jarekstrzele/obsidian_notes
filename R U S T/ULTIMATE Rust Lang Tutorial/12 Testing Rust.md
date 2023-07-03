@@ -298,6 +298,9 @@ fn it_adds_two(){
 `cargo test` - it tests all tests
 `cargo test --test integration_tests` - it tests only the tests in the file `integration_tests.rs`
 
+### ==All file in `tests` folder are tests for Rust!!!!==
+But files in sub folders won't be treated as test files
+
 
 
 

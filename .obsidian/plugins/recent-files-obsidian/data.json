@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "13 CLI App MiniGrap",
+      "path": "R U S T/ULTIMATE Rust Lang Tutorial/13 CLI App MiniGrap.md"
+    },
+    {
       "basename": "12 Testing Rust",
       "path": "R U S T/ULTIMATE Rust Lang Tutorial/12 Testing Rust.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_ Learn Rust by Building Apps",
       "path": "R U S T/Learn Rust by Building Real App/_ Learn Rust by Building Apps.md"
-    },
-    {
-      "basename": "_ Full Rust Beginners Cours",
-      "path": "R U S T/1 - Full Rust Beginner s Course/_ Full Rust Beginners Cours.md"
     }
   ],
   "omittedPaths": [],
