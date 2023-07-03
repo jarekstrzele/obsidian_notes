@@ -52,9 +52,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3daba290f3f583f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "R U S T/Rust Programming For Beginners/8 Real World.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -120,7 +132,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 218.5
+    "width": 380.5
   },
   "right": {
     "id": "ec7d1a70da2de581",
@@ -136,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/ULTIMATE Rust Lang Tutorial/12 Testing Rust.md",
+                "file": "R U S T/Rust Programming For Beginners/8 Real World.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -153,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/ULTIMATE Rust Lang Tutorial/12 Testing Rust.md",
+                "file": "R U S T/Rust Programming For Beginners/8 Real World.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/ULTIMATE Rust Lang Tutorial/12 Testing Rust.md"
+                "file": "R U S T/Rust Programming For Beginners/8 Real World.md"
               }
             }
           },
@@ -224,11 +236,15 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "2d800acb682c528a",
+  "active": "3daba290f3f583f2",
   "lastOpenFiles": [
-    "TYPESCRIPT/Learn TypeScript - Full Tutorial/_ Learn TypeScript.md",
-    "Excalidraw/pipe_node.excalidraw.md",
+    "R U S T/Rust Programming For Beginners/8.5 Modules.md",
+    "R U S T/Rust Programming Tutorial/25 Test Rust.md",
+    "R U S T/Rust Programming Tutorial/21 Regex Regular Expressions.md",
     "INTERVIEWS/ZTM/The coding interview.md",
+    "TYPESCRIPT/Learn TypeScript - Full Tutorial/_ Learn TypeScript.md",
+    "R U S T/ULTIMATE Rust Lang Tutorial/12 Testing Rust.md",
+    "Excalidraw/pipe_node.excalidraw.md",
     "Untitled.md",
     "TYPESCRIPT/Learn TypeScript - Full Tutorial",
     "Untitled 2.canvas",
@@ -242,7 +258,6 @@
     "R U S T/Rust Programming For Beginners/10.3. Contact manager app.md",
     "INTERVIEWS/ZTM",
     "INTERVIEWS",
-    "R U S T/ULTIMATE Rust Lang Tutorial/12 Testing Rust.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/11 Rust Lifetimes.md",
     "linux/UBUNTU.md",
     "_ FullStack/RSTY/_ RSTY.md",
@@ -258,9 +273,6 @@
     "Excalidraw/asynch_in_node.excalidraw.md",
     "_ WEB/N_O_D_E/Node JS 101 Crash/_ NodeJS 101 Crash Course.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/5 Enum.md",
-    "R U S T/ULTIMATE Rust Lang Tutorial/10 Traits Rust.md",
-    "R U S T/ULTIMATE Rust Lang Tutorial/9 Generic Rust.md",
-    "R U S T/ULTIMATE Rust Lang Tutorial/8 Error.md",
     "Git/git and github",
     "canvas_moduls_rust.canvas",
     "R U S T/1 - Full Rust Beginner s Course",

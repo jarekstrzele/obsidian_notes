@@ -1,5 +1,13 @@
 #rust/test 
 
+---
+[[#test returing `Result`]]
+[[#when you want to run a specific test]]
+[[#ignoring tests]]
+[[#test organisation]]
+[[#unit test]]
+[[#integration tests]]
+
 `cargo new adder --lib`
 
 Functions are tests, if they have an attribute `#[test]`.
@@ -203,6 +211,7 @@ CONVENTION:
 - write `mod tests` and put inside it your tests
 - `#[cfg(test)]` - this makes that `cargo test` will run the module with that attribute
 
+### unit test
 >[!info] unit test
 >It is a small focused test one module in isolation and could test private interface
 >
@@ -241,7 +250,7 @@ fn main() {
 ```
 
 
-
+### integration tests
 >[!info] integration tests
 >it is a completely EXTERNAL to your library and thus test the public interface of your library
 >

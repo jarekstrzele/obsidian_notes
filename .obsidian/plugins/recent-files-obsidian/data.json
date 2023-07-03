@@ -1,20 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "12 Testing Rust",
-      "path": "R U S T/ULTIMATE Rust Lang Tutorial/12 Testing Rust.md"
+      "basename": "8 Real World",
+      "path": "R U S T/Rust Programming For Beginners/8 Real World.md"
+    },
+    {
+      "basename": "8.5 Modules",
+      "path": "R U S T/Rust Programming For Beginners/8.5 Modules.md"
+    },
+    {
+      "basename": "25 Test Rust",
+      "path": "R U S T/Rust Programming Tutorial/25 Test Rust.md"
+    },
+    {
+      "basename": "21 Regex Regular Expressions",
+      "path": "R U S T/Rust Programming Tutorial/21 Regex Regular Expressions.md"
+    },
+    {
+      "basename": "The coding interview",
+      "path": "INTERVIEWS/ZTM/The coding interview.md"
     },
     {
       "basename": "_ Learn TypeScript",
       "path": "TYPESCRIPT/Learn TypeScript - Full Tutorial/_ Learn TypeScript.md"
     },
     {
-      "basename": "pipe_node.excalidraw",
-      "path": "Excalidraw/pipe_node.excalidraw.md"
+      "basename": "12 Testing Rust",
+      "path": "R U S T/ULTIMATE Rust Lang Tutorial/12 Testing Rust.md"
     },
     {
-      "basename": "The coding interview",
-      "path": "INTERVIEWS/ZTM/The coding interview.md"
+      "basename": "pipe_node.excalidraw",
+      "path": "Excalidraw/pipe_node.excalidraw.md"
     },
     {
       "basename": "Untitled",
@@ -183,18 +199,6 @@
     {
       "basename": "Rust Tutorial Full Course",
       "path": "R U S T/Rust Tutorial Full Course.md"
-    },
-    {
-      "basename": "Box",
-      "path": "R U S T/Box.md"
-    },
-    {
-      "basename": "9.7 Modules as separate files",
-      "path": "R U S T/Rust Programming For Beginners/9.7 Modules as separate files.md"
-    },
-    {
-      "basename": "I 6 Invaders Project",
-      "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 6 Invaders Project.md"
     }
   ],
   "omittedPaths": [],
