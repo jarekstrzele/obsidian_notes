@@ -23,6 +23,33 @@ $ cargo run first dua
 ["target/debug/minigrep", "first", "dua"]
 ```
 
+---
+create a file `poem.txt` with some text
+`main.rs`
+```rust
+use std::env;
+use std::fs;
+
+fn main() {
+	let args: Vec<String> = env::args().collect() ;
+	let query = &args[1] ;
+	let filename = &args[2] ;
+
+	println!("Searching for {}", query) ;
+	println!("in file {}", filename) ;
+
+	let contents = fs::read_to_string(filename).expect("Something went wrong reading the file") ;
+	println!("With text: \n{}", contents) ;
+}
+```
+
+
+## refactoring
+
+### too many responsibilities in the main file
+
+
+
 
 
 
