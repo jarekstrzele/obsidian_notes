@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/8 Real World.md",
+                "file": "R U S T/Learn Rust by Building Real App/4.4 Organising a Code into Modules.md",
                 "mode": "source",
                 "source": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/8 Real World.md",
+                "file": "R U S T/Learn Rust by Building Real App/4.4 Organising a Code into Modules.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/8 Real World.md",
+                "file": "R U S T/Learn Rust by Building Real App/4.4 Organising a Code into Modules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/8 Real World.md"
+                "file": "R U S T/Learn Rust by Building Real App/4.4 Organising a Code into Modules.md"
               }
             }
           },
@@ -238,6 +238,7 @@
   },
   "active": "3daba290f3f583f2",
   "lastOpenFiles": [
+    "R U S T/Rust Programming For Beginners/8 Real World.md",
     "R U S T/Rust Programming For Beginners/8.5 Modules.md",
     "R U S T/Rust Programming Tutorial/25 Test Rust.md",
     "R U S T/Rust Programming Tutorial/21 Regex Regular Expressions.md",
@@ -272,7 +273,6 @@
     "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md",
     "Excalidraw/asynch_in_node.excalidraw.md",
     "_ WEB/N_O_D_E/Node JS 101 Crash/_ NodeJS 101 Crash Course.md",
-    "R U S T/ULTIMATE Rust Lang Tutorial/5 Enum.md",
     "Git/git and github",
     "canvas_moduls_rust.canvas",
     "R U S T/1 - Full Rust Beginner s Course",
