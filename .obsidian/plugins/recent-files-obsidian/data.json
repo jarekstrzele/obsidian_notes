@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "6 Modules",
+      "path": "HASKELL/for_great_good/6 Modules.md"
+    },
+    {
+      "basename": "0 - Haskell intro",
+      "path": "HASKELL/for_great_good/0 - Haskell intro.md"
+    },
+    {
+      "basename": "_ Learn TypeScript",
+      "path": "TYPESCRIPT/Learn TypeScript - Full Tutorial/_ Learn TypeScript.md"
+    },
+    {
       "basename": "13 CLI App MiniGrap",
       "path": "R U S T/ULTIMATE Rust Lang Tutorial/13 CLI App MiniGrap.md"
     },
@@ -31,10 +43,6 @@
     {
       "basename": "The coding interview",
       "path": "INTERVIEWS/ZTM/The coding interview.md"
-    },
-    {
-      "basename": "_ Learn TypeScript",
-      "path": "TYPESCRIPT/Learn TypeScript - Full Tutorial/_ Learn TypeScript.md"
     },
     {
       "basename": "pipe_node.excalidraw",
@@ -191,14 +199,6 @@
     {
       "basename": "_ 0 Rust",
       "path": "R U S T/Rust - FreeCode Beginner/_ 0 Rust.md"
-    },
-    {
-      "basename": "_ Programowanie w języku Rust",
-      "path": "R U S T/Programmowanie_w Rust/_ Programowanie w języku Rust.md"
-    },
-    {
-      "basename": "_ Learn Rust by Building Apps",
-      "path": "R U S T/Learn Rust by Building Real App/_ Learn Rust by Building Apps.md"
     }
   ],
   "omittedPaths": [],
