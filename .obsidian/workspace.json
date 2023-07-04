@@ -64,9 +64,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d318909943b6e419",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HASKELL/Real World Haskell/3 Defining Types, Streamlining Functions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -148,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/for_great_good/6 Modules.md",
+                "file": "HASKELL/Real World Haskell/3 Defining Types, Streamlining Functions.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -165,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/for_great_good/6 Modules.md",
+                "file": "HASKELL/Real World Haskell/3 Defining Types, Streamlining Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/for_great_good/6 Modules.md"
+                "file": "HASKELL/Real World Haskell/3 Defining Types, Streamlining Functions.md"
               }
             }
           },
@@ -236,18 +248,22 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "d1b00138924bbed4",
+  "active": "d318909943b6e419",
   "lastOpenFiles": [
+    "HASKELL/Real World Haskell/2 Types and Functions.md",
+    "HASKELL/Real World Haskell/1 Getting Started.md",
+    "HASKELL/Real World Haskell/_ Real World Haskell.md",
+    "R U S T/Learn Rust by Building Real App/4.4 Organising a Code into Modules.md",
+    "INTERVIEWS/ZTM/The coding interview.md",
+    "HASKELL/for_great_good/6 Modules.md",
     "HASKELL/for_great_good/0 - Haskell intro.md",
     "TYPESCRIPT/Learn TypeScript - Full Tutorial/_ Learn TypeScript.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/13 CLI App MiniGrap.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/12 Testing Rust.md",
-    "R U S T/Learn Rust by Building Real App/4.4 Organising a Code into Modules.md",
     "R U S T/Rust Programming For Beginners/8 Real World.md",
     "R U S T/Rust Programming For Beginners/8.5 Modules.md",
     "R U S T/Rust Programming Tutorial/25 Test Rust.md",
     "R U S T/Rust Programming Tutorial/21 Regex Regular Expressions.md",
-    "INTERVIEWS/ZTM/The coding interview.md",
     "Excalidraw/pipe_node.excalidraw.md",
     "Untitled.md",
     "TYPESCRIPT/Learn TypeScript - Full Tutorial",
@@ -269,10 +285,6 @@
     "_ FullStack/RSTY",
     "Untitled",
     "_ WEB/N_O_D_E/Node JS 101 Crash/6.the Node Package Manager.md",
-    "_ WEB/N_O_D_E/Node JS 101 Crash/5. `index.js`.md",
-    "_ WEB/N_O_D_E/Node JS 101 Crash/4.  Modules.md",
-    "_ WEB/N_O_D_E/Node JS 101 Crash/3 Observer design pattern.md",
-    "_ WEB/N_O_D_E/Node JS 101 Crash/2. what is node.js best at.md",
     "Git/git and github",
     "canvas_moduls_rust.canvas",
     "R U S T/1 - Full Rust Beginner s Course",

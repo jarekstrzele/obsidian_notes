@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "3 Defining Types, Streamlining Functions",
+      "path": "HASKELL/Real World Haskell/3 Defining Types, Streamlining Functions.md"
+    },
+    {
+      "basename": "2 Types and Functions",
+      "path": "HASKELL/Real World Haskell/2 Types and Functions.md"
+    },
+    {
+      "basename": "1 Getting Started",
+      "path": "HASKELL/Real World Haskell/1 Getting Started.md"
+    },
+    {
+      "basename": "_ Real World Haskell",
+      "path": "HASKELL/Real World Haskell/_ Real World Haskell.md"
+    },
+    {
+      "basename": "4.4 Organising a Code into Modules",
+      "path": "R U S T/Learn Rust by Building Real App/4.4 Organising a Code into Modules.md"
+    },
+    {
+      "basename": "The coding interview",
+      "path": "INTERVIEWS/ZTM/The coding interview.md"
+    },
+    {
       "basename": "6 Modules",
       "path": "HASKELL/for_great_good/6 Modules.md"
     },
@@ -21,10 +45,6 @@
       "path": "R U S T/ULTIMATE Rust Lang Tutorial/12 Testing Rust.md"
     },
     {
-      "basename": "4.4 Organising a Code into Modules",
-      "path": "R U S T/Learn Rust by Building Real App/4.4 Organising a Code into Modules.md"
-    },
-    {
       "basename": "8 Real World",
       "path": "R U S T/Rust Programming For Beginners/8 Real World.md"
     },
@@ -39,10 +59,6 @@
     {
       "basename": "21 Regex Regular Expressions",
       "path": "R U S T/Rust Programming Tutorial/21 Regex Regular Expressions.md"
-    },
-    {
-      "basename": "The coding interview",
-      "path": "INTERVIEWS/ZTM/The coding interview.md"
     },
     {
       "basename": "pipe_node.excalidraw",
@@ -183,22 +199,6 @@
     {
       "basename": "23 HTTP Get Request",
       "path": "R U S T/Rust Programming Tutorial/23 HTTP Get Request.md"
-    },
-    {
-      "basename": "_ Rust Programming Tutorial",
-      "path": "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md"
-    },
-    {
-      "basename": "_ Rust Programming for Beginners",
-      "path": "R U S T/Rust Programming For Beginners/_ Rust Programming for Beginners.md"
-    },
-    {
-      "basename": "_ Rust by Example",
-      "path": "R U S T/Rust by example/_ Rust by Example.md"
-    },
-    {
-      "basename": "_ 0 Rust",
-      "path": "R U S T/Rust - FreeCode Beginner/_ 0 Rust.md"
     }
   ],
   "omittedPaths": [],
