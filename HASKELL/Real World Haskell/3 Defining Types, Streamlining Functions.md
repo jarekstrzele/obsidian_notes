@@ -50,7 +50,12 @@ data BookReview = BookReview BookInfo CustomerId String
 
 -------
 # type synonyms
+```haskell
+type CustomerID = Int
+type ReviewBody = String
 
+data BetterReview = BetterReview BookInfo
+```
 
 
 
