@@ -54,7 +54,7 @@ data BookReview = BookReview BookInfo CustomerId String
 type CustomerID = Int
 type ReviewBody = String
 
-data BetterReview = BetterReview BookInfo
+data BetterReview = BetterReview BookInfo CustomerID ReviewBody
 ```
 
 
