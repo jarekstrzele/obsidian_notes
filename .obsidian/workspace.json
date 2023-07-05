@@ -76,21 +76,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "47fea66f1c966b46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linux/UBUNTU.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -172,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/UBUNTU.md",
+                "file": "R U S T/ULTIMATE Rust Lang Tutorial/13 CLI App MiniGrap.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -189,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/UBUNTU.md",
+                "file": "R U S T/ULTIMATE Rust Lang Tutorial/13 CLI App MiniGrap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/UBUNTU.md"
+                "file": "R U S T/ULTIMATE Rust Lang Tutorial/13 CLI App MiniGrap.md"
               }
             }
           },
@@ -260,9 +248,10 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "47fea66f1c966b46",
+  "active": "2d800acb682c528a",
   "lastOpenFiles": [
     "HASKELL/Real World Haskell/3 Defining Types, Streamlining Functions.md",
+    "linux/UBUNTU.md",
     "HASKELL/Real World Haskell/2 Types and Functions.md",
     "HASKELL/Real World Haskell/1 Getting Started.md",
     "HASKELL/Real World Haskell/_ Real World Haskell.md",
@@ -292,7 +281,6 @@
     "INTERVIEWS/ZTM",
     "INTERVIEWS",
     "R U S T/ULTIMATE Rust Lang Tutorial/11 Rust Lifetimes.md",
-    "linux/UBUNTU.md",
     "_ FullStack/RSTY/_ RSTY.md",
     "_ WEB/N_O_D_E/Node JS 101 Crash/7 Project.md",
     "_ FullStack/RSTY",
