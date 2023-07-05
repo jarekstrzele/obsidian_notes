@@ -76,9 +76,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "47fea66f1c966b46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linux/UBUNTU.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -160,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/Real World Haskell/3 Defining Types, Streamlining Functions.md",
+                "file": "linux/UBUNTU.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -177,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/Real World Haskell/3 Defining Types, Streamlining Functions.md",
+                "file": "linux/UBUNTU.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/Real World Haskell/3 Defining Types, Streamlining Functions.md"
+                "file": "linux/UBUNTU.md"
               }
             }
           },
@@ -248,8 +260,9 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "d318909943b6e419",
+  "active": "47fea66f1c966b46",
   "lastOpenFiles": [
+    "HASKELL/Real World Haskell/3 Defining Types, Streamlining Functions.md",
     "HASKELL/Real World Haskell/2 Types and Functions.md",
     "HASKELL/Real World Haskell/1 Getting Started.md",
     "HASKELL/Real World Haskell/_ Real World Haskell.md",
@@ -284,7 +297,6 @@
     "_ WEB/N_O_D_E/Node JS 101 Crash/7 Project.md",
     "_ FullStack/RSTY",
     "Untitled",
-    "_ WEB/N_O_D_E/Node JS 101 Crash/6.the Node Package Manager.md",
     "Git/git and github",
     "canvas_moduls_rust.canvas",
     "R U S T/1 - Full Rust Beginner s Course",

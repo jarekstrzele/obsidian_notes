@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "UBUNTU",
+      "path": "linux/UBUNTU.md"
+    },
+    {
       "basename": "3 Defining Types, Streamlining Functions",
       "path": "HASKELL/Real World Haskell/3 Defining Types, Streamlining Functions.md"
     },
@@ -91,10 +95,6 @@
     {
       "basename": "11 Rust Lifetimes",
       "path": "R U S T/ULTIMATE Rust Lang Tutorial/11 Rust Lifetimes.md"
-    },
-    {
-      "basename": "UBUNTU",
-      "path": "linux/UBUNTU.md"
     },
     {
       "basename": "_ RSTY",
