@@ -8,7 +8,7 @@ other courses:
 [[_ Learn Rust by Building Apps]]
 [[_ 0 Rust Web Book]]
 [[_ Rust Tech with Tim]]
-[[_ Ultimate Rust Lang Tutorial]]
+[[_ LetsGetRusty Ultimate Rust Lang Tutorial]]
 
 ---
 
@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=vOMJlQ5B-M0&list=PLVvjrrRCBy2JSHf9tGxGKJ-bYAN_uD
 [[2 Variables]]
 [[3 If statement]]
 [[4 Loops]]
-[[5 Enum]]
+[[R U S T/Rust Programming Tutorial/5 Enum]]
 [[6 Constants]]
 [[7 Tuples]]
 [[8 Funcs, Blocks, Shadowing]]

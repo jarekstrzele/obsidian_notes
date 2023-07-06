@@ -10,6 +10,16 @@ https://www.youtube.com/watch?v=ygL_xcavzQ4
 [[#Random]]
 [[#Vectors]]
 [[#Function]]
+[[#Generics]]
+[[#Modules, crates]]
+[[#Memory]]
+[[#hashmap]]
+[[#Errors]]
+[[#iterators]]
+[[#Closure]]
+[[#Pointer `&`]]
+
+
 
 
 
@@ -343,8 +353,59 @@ fn get_sum_gen<T: Add<Output = T>>(x: T, y: T) -> T{
 >[!info] paths
 >a way of naming  an item such as a struct , function ...
 
+in `main.rs`
+```rust
+mod restaurant;
+use crate::restaurant::order_food;
+
+fn main() {
+	order_food() ;
+}
+```
+
+
 in `src` > a new folder `restaurant` > a new file `mod.rs`
 ```rust
+mod pizza_order {
+    pub struct Pizza{
+        pub dough: String,
+        pub cheese: String,
+        pub topping: String,
+    }
+
+    impl Pizza {
+        pub fn lunch(topping: &str) -> Pizza{
+            Pizza {
+               dough: String::from("regular dough"),
+               cheese: String::from("mozzarella"),
+               topping: String::from(topping),
+            }
+        }
+    }
+
+	pub mod help_customer{
+        fn seat_at_table(){
+            println!("Customer seated at table") ;
+        }
+
+        pub fn take_order(){
+            seat_at_table();
+            let cust_pizza: super::Pizza = 
+                super::Pizza::lunch("veggies") ;
+            serve_customer(cust_pizza) ;
+        }
+
+        fn serve_customer(cust_pizza: super::Pizza){
+            println!("the customer is erved a regular pizza with {}", cust_pizza.topping) ;
+        }
+    }
+
+}
+
+pub fn order_food(){
+    crate::restaurant::pizza_order::help_customer::take_order();
+}
+
 
 
 ```
@@ -394,53 +455,487 @@ fn main(){
 ```rust
 use std::collections::HashMap ;
 
-  
-
 pub fn hashmap_example(){
+	let mut heroes = HashMap::new() ;
+	heroes.insert("Superman", "Clark Kent") ;
+	heroes.insert("Batman", "Bruce Wayne") ;
+	heroes.insert("The Flash", "Barry Allen") ;
 
-let mut heroes = HashMap::new() ;
+	for (key, value) in heroes.iter(){
+		println!("{} = {}", key, value) ;
+	}
+	println!("length {}", heroes.len()) ;
 
-heroes.insert("Superman", "Clark Kent") ;
+	if heroes.contains_key(&"Batman"){
+		let the_batman = heroes.get(&"Batman");
+		println!("the batman {:?}", the_batman) ;
 
-heroes.insert("Batman", "Bruce Wayne") ;
+	match the_batman {
+		Some(x) => println!("Batmanis a hero!!"),
+		None => println!("Batman is not a hero"),
+	}
+	}
+}
+```
 
-heroes.insert("The Flash", "Barry Allen") ;
+
+--------
+# Errors
+
+```rust
+fn main(){
+	panic!("terrible error") ;
+}
+--output
+thread 'main' panicked at 'Terrible error', src/errors_my.rs:4:5
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace
+```
+
+```rust
+use std::fs::File ;
+use std::io::{BufReader, Write, BufRead} ;
+
+pub fn errors_example(){
+	let path = "lines.txt" ;
+	let output = File::create(path) ;
+	let mut output = match output { 
+		Ok(file) => file,
+		Err(error) => { panic!("Problem creating file: {:?}", error); } 
+};
+
+	write!(output, "Just some\nRandom words").expect("Fail to write to file") ;
+	let input = File::open(path).unwrap(); 
+	let buffered = BufReader::new(input);
+
+
+```
+- makro `write!` pochodzi z modułu `std::io::Write`
+- `.expect()` - jeśli  operacja zapisu zakończy się  niepowodzeniem, metoda ta spowoduje przerwanie programu i wyświetli się komunikat "Fail to write to file"
+
+`unwrap()` 
+#rust/unwrap 
+- metoda dostępna dla typu `Result<T, E>` , 
+- metoda ta "rozpakowuje" wartość z  z `Result`, zwraca wartość sukcesu, jeśli wynik jest `Ok` lub `panic!`, jeśli wynik jest `Err`
+
+`BufReader`
+#rust/bufreader 
+- struktura z modułu `std:io`
+- zapewnia buforowanie odczytu danych z danego źródła (np. z pliku)
+- optymalizuje  odczyt danych redukując ilość bezpośrednich operacji odczytu 
+	- `BufReader` przechowuje pewien bufor w pamięci, a następnie dokonuje operacji odczytu z tego bufora
+	- `let buffered = BufReader::new(input)` 
+		- tworzymy nową instancję BufReader
+		- instancja będzie buforować odczyt z pliku reprezentowanego przez `input`
+
+```rust
+let buffered = BufReader::new(input);
+
+for line in buffered.lines(){
+	println!("{}", line.unwrap()) ;
+}
+```
+
+`lines()` -  zwraca `Result` type  (iterator)
+
+--------
+# iterators
+#rust/iterator 
+>[!info] iterator
+>it can help us cycle through values in:
+>	- arrays
+>	- vectors
+>	- map
+>	- ...
+
+iterate through values by borrowing them
+```rust
+pub fn iter_example(){
+	let mut arr_it = [1,2,3] ;
+	for val in arr_it.iter() {
+		println!("{}", val) ;
+	}
+
+	// `for val in arr_it {}` 
+	//  this code automatically generate an iterator  
+	
+	// create your own iterator
+	let mut iter1 = arr_it.iter() ;
+	println!("1st: {:?} ", iter1.next()) ;
+	println!("2nd: {:?} ", iter1.next()) ;
+	println!("3rd: {:?} ", iter1.next()) ;
+	println!("4th: {:?} ", iter1.next()) ;
+}
+
+/// output
+1
+2
+3
+1st: Some(1) 
+2nd: Some(2) 
+3rd: Some(3) 
+4th: None 
+```
+
+-----------
+# Closure
+#rust/closure 
+
+>[!info] closure
+>It is a function without a name 
+>`let var_name = |params| -> return_type {BODY}`
+
+## basic example - closure
+```rust
+let can_vote =|age: i32| {
+	age >= 18
+} ;
+
+println!("Can vote: {}", can_vote(8)) ;
+
+- output -
+Can vote: false
+```
+
+## more advance example - closure
+
+```rust
+pub fn closure_example(){
+	let mut samp1 = 5;
+	let print_var = || println!(
+		"samp1 = {}", samp1) ;
+		print_var();
+	  
+	samp1 = 10 ;
+	let mut change_var = || samp1 += 1;
+	change_var() ;
+	println!("Sampl1 = {}", samp1) ;
+	samp1 = 10;
+	println!("samp1 = {}", samp1)
+}
+
+--- ouput
+
+samp1 = 5
+Sampl1 = 11
+samp1 = 10
+```
+
+## function as argument - closure
+
+```rust
+pub fn closure_example(){
+	fn use_func<T>(a: i32, b: i32, func: T) -> i32
+		where T: Fn(i32, i32) -> i32 {
+			func(a, b)
+}
+
+	let sum = |a, b| a + b ;
+	let prod = |a, b| a * b ;
+	println!("5+4={}", use_func(5, 4, sum)) ;
+	println!("5*4={}", use_func(5, 4, prod)) ;
+}
+```
+
+
+----------
+# Pointer `&`
+#rust/pointer
+
+>[!info] pointer
+> it is an address to a location in memory
+
+- string
+- vectors
+- &
+## smart pointer:
+W języku Rust istnieją tzw. "smart pointery" (inteligentne wskaźniki), które są strukturami danych zapewniającymi pewne dodatkowe funkcjonalności w zakresie zarządzania pamięcią. Dwa najważniejsze smart pointery w Rust to `Box<T>` i `Rc<T>`.
+
+1. `Box<T>` to smart pointer reprezentujący własność (ownership) na alokowanym na stercie (heap) obiekcie typu `T`. `Box<T>` zapewnia statyczne rozmiary i jest używany, gdy chcemy przechowywać dane na stercie, a nie na stosie. `Box<T>` gwarantuje, że obiekt zostanie zwolniony z pamięci po opuszczeniu zakresu.
+    
+2. `Rc<T>` (Reference Counted) to smart pointer reprezentujący współdzieloną (shared) własność na obiekcie typu `T`. `Rc<T>` umożliwia wielokrotne posiadanie niezmiennej referencji do tego samego obiektu. Zlicza ilość referencji do obiektu i automatycznie zwalnia pamięć, gdy ostatnia referencja jest usuwana.
+    
+
+Oba smart pointery są często używane w Rust do zarządzania pamięcią w sposób bezpieczny i bez konieczności ręcznego zwalniania zasobów. Wybór między nimi zależy od potrzeb i wymagań konkretnego przypadku.
+
+Warto zaznaczyć, że Rust również zapewnia wskaźniki surowe (raw pointers) `*const T` i `*mut T`, ale ich użycie jest bardziej ryzykowne i wymaga ostrożności związanej z bezpieczeństwem. Wskaźniki surowe są rzadziej stosowane i zazwyczaj używane są do interakcji z kodem niskiego poziomu lub do tworzenia bezpiecznych abstrakcji wewnątrz zaawansowanych bibliotek.
+
+
+>[!info] smart pointer
+>- own data and have some  function for manipulating that data
+
+### Box
+binary tree structure utilizing box
+[[Box]]
+
+>[!info] box
+>- store data on ==the heap== instead of the stack
+
+**stack** 
+- stores values in LIFO
+- data on the stack must have a defined fixed size
+```rust
+pub fn box_example(){
+	let b_int1 = Box::new(10) ;
+	println!("b_int1 = {} ", b_int1) ;
+}
+```
+
+
+```rust
+pub fn box_example(){
+
+	struct TreeNode<T>{
+	// pub left: TreeNode<T>,
+	// pub tight: TreeNode<T>,
+		pub left: Option<Box<TreeNode<T>>>,
+		pub right: Option<Box<TreeNode<T>>>,
+		pub key: T,
+	}
+
+	impl<T> TreeNode<T>{
+		pub fn new(key: T) -> Self{
+		TreeNode { left: None, right: None, key,}
+	}
+
+	pub fn left(mut self, node: TreeNode<T>) -> Self {
+	self.left = Some(Box::new(node)) ;
+	self
+	}
+	
+
+	pub fn right(mut self, node: TreeNode<T>) -> Self {
+	self.right = Some(Box::new(node)) ;
+	self
+	}
+	}
+
+	let node1 = TreeNode::new(1)
+		.left(TreeNode::new(2))
+		.right(TreeNode::new(3)) ;
+}
+```
+
+
+---------
+# Concurrency
+simulate a bank transactions
+
+Common problems with parallel programming involve:
+- threads are accessing data in the wrong order
+- threads are blocked from executing because of confusion
+
+
+1. `std::thread`: Ta biblioteka umożliwia tworzenie i zarządzanie wątkami w Rust. Daje programiście możliwość tworzenia nowych wątków, zarządzania ich cyklami życia, komunikacji między wątkami i synchronizacji dostępu do danych. Umożliwia tworzenie współbieżnych programów i wykonywanie równoległych operacji. Przykładowe funkcje z tej biblioteki to `spawn`, `join`, `sleep` itp.
+    
+2. `std::time::Duration`: Ta biblioteka umożliwia manipulację czasem w Rust. Zapewnia typ `Duration`, który reprezentuje okres czasu. Można go używać do wykonywania operacji na czasie, takich jak oczekiwanie przez określony czas, mierzenie czasu trwania operacji, tworzenie opóźnień itp. Udostępnia różne metody i operatory, takie jak `from_secs`, `as_secs`, `add`, `sub` itp., które umożliwiają wygodną manipulację czasem.
+
+
+```rust
+use std::thread;
+use std::time::Duration;
+
+pub fn tread_example(){
+
+	// create a thread
+	let thread_1 = thread::spawn( || {
+		for i in 1..10 {
+			println!("Spawned thread : {} ", i) ;
+			thread::sleep(Duration::from_millis(1))
+		};
+	});
+
+	for i in 1..8{
+		println!("Main thread : {} ", i);
+		thread::sleep(Duration::from_millis(1));
+	} ;
+	
+	thread_1.join().unwrap() ; // two thread will end its works
+}
+
+-- out put
+Main thread : 1 
+Spawned thread : 1 
+Main thread : 2 
+Spawned thread : 2 
+Main thread : 3 
+Spawned thread : 3 
+Main thread : 4 
+Spawned thread : 4 
+Main thread : 5 
+Spawned thread : 5 
+Main thread : 6 
+Spawned thread : 6 
+Main thread : 7 
+Spawned thread : 7 
+Spawned thread : 8 
+Spawned thread : 9 
+```
+
+```rust 
+
+use std::rc::Rc;
+use std::cell::RefCell ;
+use std::sync::{Arc, Mutex} ;
+
+```
+The `use` statements you provided are used to bring specific types or modules from the `std` (standard) library into the current scope. Here's a breakdown of each statement:
+
+1. `use std::rc::Rc;`
+    
+    - This statement imports the `Rc` type from the `std::rc` module.
+    - `Rc` stands for "reference counting" and is a type for shared ownership of data. It allows multiple references to the same data and keeps track of the number of references. When the last reference goes out of scope, the data is deallocated.
+    - `Rc` provides non-thread-safe shared ownership, meaning it can be used in single-threaded scenarios.
+2. `use std::cell::RefCell;`
+    - This statement imports the `RefCell` type from the `std::cell` module.
+    - `RefCell` is a type for interior mutability, allowing for mutable access to data even when it's behind an immutable reference.
+    - `RefCell` enforces Rust's borrowing rules at runtime, rather than compile-time, by performing runtime checks to ensure that mutable borrows are exclusive and don't violate borrowing rules.
+    - `RefCell` can be used in single-threaded scenarios where dynamic borrowing and mutability are needed.
+3. `use std::sync::{Arc, Mutex};`
+    - This statement imports the `Arc` and `Mutex` types from the `std::sync` module.
+    - `Arc` stands for "atomic reference counting" and is similar to `Rc` but provides thread-safe shared ownership.
+    - `Arc` allows multiple threads to have shared ownership of the same data, and it tracks the number of references using atomic operations to ensure thread safety.
+    - `Mutex` is a type for mutual exclusion, providing interior mutability in a thread-safe manner. It ensures that only one thread can access the data at a time by acquiring and releasing a lock.
+    - `Mutex` can be used in multi-threaded scenarios to protect shared resources from data races and ensure exclusive access.
+
+These modules and types are part of the Rust standard library and provide essential functionality for managing shared ownership, interior mutability, and thread safety in Rust programs.
+
+```rust
+use std::thread;
+
+use std::time::Duration;
+
+use std::rc::Rc;
+
+use std::cell::RefCell ;
+
+use std::sync::{Arc, Mutex} ;
 
   
-
-for (key, value) in heroes.iter(){
-
-println!("{} = {}", key, value) ;
-
   
+  
+
+pub fn tread_example(){
+
+pub struct Bank {
+
+balance: f32
 
 }
 
-println!("length {}", heroes.len()) ;
-
-  
   
 
-if heroes.contains_key(&"Batman"){
+fn withdraw(the_bank: &Arc<Mutex<Bank>>, amt: f32){
 
-let the_batman = heroes.get(&"Batman");
-
-println!("the batman {:?}", the_batman) ;
+let mut bank_ref = the_bank.lock().unwrap() ;
 
   
 
-match the_batman {
+if bank_ref.balance < 5.00 {
 
-Some(x) => println!("Batmanis a hero!!"),
+println!("Current Balance: {} withdraw a smaollwe amount", bank_ref.balance) ;
 
-None => println!("Batman is not a hero"),
+  
+
+} else {
+
+bank_ref.balance -= amt ;
+
+println!("Customer withdrew {} Current balance {}", amt, bank_ref.balance) ;
 
 }
 
 }
+
+  
+
+fn customer(the_bank: Arc<Mutex<Bank>>){
+
+withdraw(&the_bank, 5.00) ;
+
+}
+
+  
+
+let bank: Arc<Mutex<Bank>> = Arc::new(Mutex::new(Bank {balance: 20.00}));
+
+  
+
+let handles = (0..10).map(|_| {
+
+let bank_ref = bank.clone() ;
+
+thread::spawn(|| {
+
+customer(bank_ref) ;
+
+})
+
+});
+
+  
+
+for handle in handles {
+
+handle.join().unwrap();
+
+}
+
+  
+
+println!("Total {}", bank.lock().unwrap().balance) ;
+
+  
+  
+  
+
+// fn withdraw(the_bank: &mut Bank, amt: f32){
+
+// the_bank.balance -= amt ;
+
+// }
+
+  
+
+// let mut bank = Bank {balance: 100.0} ;
+
+// withdraw(&mut bank, 5.00) ;
+
+// println!("Balance : {} ", bank.balance) ;
+
+// fn customer(the_bank: &mut Bank){
+
+// withdraw(the_bank, 5.00)
+
+// }
+
+  
+
+// thread::spawn( || {
+
+// customer(&mut bank)
+
+// }).join().unwrap();
+
+  
+  
 
 }
 ```
+
+--------
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -48,11 +48,14 @@ you can write use the same name as the data constructor and the value constructo
 data BookReview = BookReview BookInfo CustomerId String
 ```
 
-
-
 -------
 # type synonyms
+```haskell
+type CustomerID = Int
+type ReviewBody = String
 
+data BetterReview = BetterReview BookInfo CustomerID ReviewBody
+```
 
 
 

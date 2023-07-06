@@ -1,7 +1,7 @@
 #rust/option #rust/enum 
 
 [[_ Rust Programming Tutorial]]
-[[5 Enum]]
+[[R U S T/Rust Programming Tutorial/5 Enum]]
 
 #### `Option` represents either **a value** (**Some( )**) or **no value** (**None**)
 
