@@ -26,13 +26,53 @@ class Program
 {
      static void Main(string[] args)
     {
+        int a = 5;
+        int b = 39;
+        b = 111;
         Console.WriteLine("Hello, World!");
+
+        Console.WriteLine("a = " + a);
+        Console.WriteLine("b = " + b);
+
+        /* 
+        CAŁKOWITE
+        ze znakiem: sbyte, short, int, long
+        bez znaku: byte, ushort, uint, ulong
+
+        ZMIENNOPRZECINKOWE
+        float(32) double(64) decimal (128)
+
+        BOOLEAN
+        true false
+
+        char x = 'a' ;
+
+        string name = "Imię" ;
+        
+         */
+        float xf = 1234.234234234234F;
+        Console.WriteLine("float " + xf);
+
+        double xdouble = 1234.234234234234F;
+        Console.WriteLine("double " + xdouble);
+
+        decimal xdecimal = 2131231.234234234231231234M;
+        Console.WriteLine("decimal " + xdecimal);
+
+
+        const double PI = 3.14;
     }
+
 }
 ```
 
 
+---
+# Działanie
+`+ -  / * %`
 
+`a / (double)b ;`
 
-
+`++x`  `--x`
+`x++` `x--`
 
