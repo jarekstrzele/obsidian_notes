@@ -4,59 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "877e58ea58fc4f10",
+        "id": "027c7b2371163738",
         "type": "tabs",
         "children": [
           {
-            "id": "00b7b8d9fee66fde",
+            "id": "8247b081ac64a0c1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "R U S T/Rust Programming For Beginners/9.7 Modules as separate files.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7d46fa22db8bac81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 6 Invaders Project.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e42b123f4efdd8f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "R U S T/Rust Tutorial Full Course.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ab79f1a053b363d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_ WEB/N_O_D_E/Node JS 101 Crash/6.the Node Package Manager.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#rust/doc",
+                "query": "tag:#udemy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,7 +70,7 @@
             }
           },
           {
-            "id": "8fb97ec29b64ab2e",
+            "id": "f5795f834df34cb4",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -122,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5
+    "width": 406.0110321044922
   },
   "right": {
     "id": "ec7d1a70da2de581",
@@ -138,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust Tutorial Full Course.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -155,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust Tutorial Full Course.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "R U S T/Rust Tutorial Full Course.md"
-              }
+              "state": {}
             }
           },
           {
@@ -222,51 +177,50 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "juggl:Juggl global graph": false
+      "juggl:Juggl global graph": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e42b123f4efdd8f5",
+  "active": "8247b081ac64a0c1",
   "lastOpenFiles": [
+    "_ WEB/REACT/React - the Complete Guide/3 React Basics.md",
+    "R U S T/Rust Programming Tutorial/12 String.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/4.4. HTTPS Node.md",
     "_ WEB/N_O_D_E/Node JS 101 Crash/6.the Node Package Manager.md",
-    "R U S T/Rust Tutorial Full Course.md",
-    "R U S T/ULTIMATE Rust Lang Tutorial/Casting.md",
-    "R U S T/Rust Programming For Beginners/9.7 Modules as separate files.md",
-    "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 6 Invaders Project.md",
-    "R U S T/atrybut.md",
-    "R U S T/ULTIMATE Rust Lang Tutorial/_ Ultimate Rust Lang Tutorial.md",
-    "R U S T/Rust - FreeCode Beginner/_ 0 Rust.md",
-    "R U S T/Rust Programming For Beginners/7 Advanced Concepts.md",
-    "R U S T/Rust Programming For Beginners/10.1 Custom Error Types.md",
-    "R U S T/Rust Programming For Beginners/10.2 New Types Patterns.md",
-    "R U S T/Rust Programming For Beginners/10.3. Contact manager app.md",
-    "R U S T/Rust Programming For Beginners/10 Final Project.md",
-    "linux/UBUNTU.md",
-    "JAVASCRIPT/Functional Programming for JS Developers/_ Functional Programming for JS Developers.md",
     "_ WEB/N_O_D_E/Node JS 101 Crash/5. `index.js`.md",
     "_ WEB/N_O_D_E/Node JS 101 Crash/4.  Modules.md",
-    "Excalidraw/nodeFlow.excalidraw.md",
     "_ WEB/N_O_D_E/Node JS 101 Crash/3 Observer design pattern.md",
-    "_ WEB/N_O_D_E/Node JS 101 Crash/_ NodeJS 101 Crash Course.md",
     "_ WEB/N_O_D_E/Node JS 101 Crash/2. what is node.js best at.md",
-    "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/2.2. Buffer.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md",
-    "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 1 Fundamentals.md",
+    "Studia/Python BackEnd/Django/5.1. Serwer JSON.md",
+    "conflict-files-obsidian-git.md",
+    "Studia/Python BackEnd/Django/5 REST.md",
+    "Studia/Python BackEnd/Django/4 Automatyczny panel administracyjny i kontrola dostępu.md",
+    "Studia/Python BackEnd/Django/3.2 Django zaawansowane cz 2.md",
+    "Studia/Python BackEnd/Django/3.1 Django zaawansowane cz 1.md",
+    "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 2/_ Ultimate Rust Crash Course 2.md",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 2/idiomatic code.md",
-    "R U S T/1 - Full Rust Beginner s Course",
+    "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/_ Ultimate Rust Crash Course 1.md",
+    "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 6 Invaders Project.md",
+    "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 5 Final Lectures.md",
+    "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 4 The Meat of Rust.md",
+    "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 3 The Heart of Rust.md",
+    "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 2 Primitive Types & Control Flow.md",
+    "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 1 Fundamentals.md",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 2",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1",
     "R U S T/Ultimate Rust Crash Course",
+    "R U S T/ULTIMATE Rust Lang Tutorial/Casting.md",
+    "R U S T/Rust Programming For Beginners/Untitled.md",
+    "R U S T/1 - Full Rust Beginner s Course",
     "_ WEB/Rust/Rocket",
+    "_ WEB/Rust/Rust Web Book",
+    "_ WEB/Rust/Actix",
     "_ WEB/Rust",
-    "_ WEB/React,TypeScript,Node/I TypeScript",
     "_ WEB/React,TypeScript,Node/III Express, GraphQL tworzenie usług internetowych",
-    "_ WEB/React,TypeScript,Node",
-    "_ WEB/Actix/Untitled",
+    "_ WEB/React,TypeScript,Node/I TypeScript",
     "test canvas.canvas",
     "pexels-alex-fu-1302436.jpg",
-    "methodology/images/seaborn_relplot_tip_total_bill_4.png",
     "Untitled 1.canvas",
     "R U S T/Untitled.canvas",
     "Untitled.canvas"
