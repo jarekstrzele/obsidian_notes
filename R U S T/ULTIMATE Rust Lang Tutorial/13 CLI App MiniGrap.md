@@ -139,8 +139,14 @@ a new file in `src` > `libr.rs` (a root of a lib crate) and:
 - paste in it `run` function and `Config` structure
 - paste some `use` (`fs`, `error`)
 - make `run` and `Config` public and fields public too
+- import `Config` to `main` -> `use minigrep:Config` (*minigrep* it is a name of project) -> now you can use `Config` in `main.rs`
+- if you want to use `run` function in `main`, write `minigrep::run`
+- 
 
+`main.rs`
+```rust
 
+```
 
 
 
