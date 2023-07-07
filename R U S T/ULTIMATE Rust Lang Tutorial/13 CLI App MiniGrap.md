@@ -133,5 +133,19 @@ impl Config {
 }
 ```
 
+------
+Extract some logic from the `main.rs`
+a new file in `src` > `libr.rs` (a root of a lib crate) and:
+- paste in it `run` function and `Config` structure
+- paste some `use` (`fs`, `error`)
+- make `run` and `Config` public and fields public too
+
+
+
+
+
+
+
+
 
 
