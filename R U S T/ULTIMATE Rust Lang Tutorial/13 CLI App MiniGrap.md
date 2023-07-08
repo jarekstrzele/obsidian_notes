@@ -1,6 +1,6 @@
 [[_ LetsGetRusty Ultimate Rust Lang Tutorial]]
 
-`use std:env` - a user will be able to pass in a string and a file name
+`use std::env` - a user will be able to pass in a string and a file name
 
 `collect()` - initializes a vector, makes a vector from args passed at invocation
 `env::args()` - returns an iterator that allows iterating over the command-line arguments
@@ -146,43 +146,23 @@ a new file in `src` > `libr.rs` (a root of a lib crate) and:
 `main.rs`
 ```rust
 use std::env;
-
 use std::process; // to exit a program without panicing
-
-  
-
 use minigrep::Config ;
 
-  
-
 fn main() {
+	let args: Vec<String> = env::args().collect() ;
+	let config = Config::new(&args).unwrap_or_else( |err: &str| {
+	println!("Problem parsing arguments: {}", err) ;
+	process::exit(1) ;
+	}) ;
 
-let args: Vec<String> = env::args().collect() ;
+	println!("Searching for {}", config.query) ;
+	println!("in file {}", config.filename) ;
 
-let config = Config::new(&args).unwrap_or_else( |err: &str| {
-
-println!("Problem parsing arguments: {}", err) ;
-
-process::exit(1) ;
-
-}) ;
-
-  
-
-println!("Searching for {}", config.query) ;
-
-println!("in file {}", config.filename) ;
-
-  
-
-if let Err(e) = minigrep::run(config) {
-
-println!("Application error: {}" , e) ;
-
-process::exit(1) ;
-
-}
-
+	if let Err(e) = minigrep::run(config) {
+		println!("Application error: {}" , e) ;
+		process::exit(1) ;
+	}
 }
 ```
 
