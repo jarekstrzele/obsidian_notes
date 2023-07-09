@@ -122,5 +122,15 @@ for (int i= 0; i < 3; i++){
 ```
 `i` jest lokalne, istnieje tylko w pętli `for`
 
+```c#
+while (warunek) 
+{
 
+}
+
+do
+{
+
+}while (warunek) ;
+```
 
