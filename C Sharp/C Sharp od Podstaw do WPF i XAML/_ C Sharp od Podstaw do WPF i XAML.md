@@ -134,3 +134,13 @@ do
 }while (warunek) ;
 ```
 
+--------
+# Tablice
+#csharp/table
+
+
+
+
+
+
+
