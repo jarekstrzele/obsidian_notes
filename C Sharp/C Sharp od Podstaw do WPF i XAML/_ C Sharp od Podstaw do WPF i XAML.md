@@ -84,13 +84,33 @@ class Program
 
 
 ```c#
-if () {}
+if ( warunek ) {
+
+} else {
+
+}
 ```
 
 
+```c#
+string nazwaKraju = "PL" ;
+
+switch (nazwaKraju)
+{
+	case "PL":
+		Console.WriteLine("Jesteś  z Polski") ;
+		break l
+	case "EN":
+	case "UK":
+		Console.WriteLine("Jesteś z  Angli") ;
+		break ;
+	default:
+		// ....
+		break ;
+}
+```
 
 
-
-
+`(warunek) ? gdy warunek true : gdy warunek false`
 
 
