@@ -113,4 +113,14 @@ switch (nazwaKraju)
 
 `(warunek) ? gdy warunek true : gdy warunek false`
 
+# Pętle
+
+```c#
+for (int i= 0; i < 3; i++){
+ // some code
+}
+```
+`i` jest lokalne, istnieje tylko w pętli `for`
+
+
 
