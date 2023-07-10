@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a344f6ee2252a92b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/pipe_node.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "e09fd8603ad2539e",
             "type": "leaf",
             "state": {
@@ -35,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HASKELL/for_great_good/6 Modules.md",
+                "file": "HASKELL/for_great_good/7 Types and TypeClasses.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/ULTIMATE Rust Lang Tutorial/14 Closure.md",
+                "file": "HASKELL/for_great_good/7 Types and TypeClasses.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -177,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/ULTIMATE Rust Lang Tutorial/14 Closure.md",
+                "file": "HASKELL/for_great_good/7 Types and TypeClasses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/ULTIMATE Rust Lang Tutorial/14 Closure.md"
+                "file": "HASKELL/for_great_good/7 Types and TypeClasses.md"
               }
             }
           },
@@ -248,10 +238,15 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "2d800acb682c528a",
+  "active": "d1b00138924bbed4",
   "lastOpenFiles": [
-    "R U S T/ULTIMATE Rust Lang Tutorial/13 CLI App MiniGrap.md",
+    "HASKELL/for_great_good/7.1 Record syntax.md",
+    "HASKELL/for_great_good/7.3 Derived instances.md",
+    "HASKELL/for_great_good/7.4. Type synonyms.md",
+    "HASKELL/for_great_good/6 Modules.md",
+    "INTERVIEWS/ZTM/The coding interview.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/14 Closure.md",
+    "R U S T/ULTIMATE Rust Lang Tutorial/13 CLI App MiniGrap.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/_ LetsGetRusty Ultimate Rust Lang Tutorial.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML",
@@ -262,8 +257,6 @@
     "HASKELL/Real World Haskell/1 Getting Started.md",
     "HASKELL/Real World Haskell/_ Real World Haskell.md",
     "R U S T/Learn Rust by Building Real App/4.4 Organising a Code into Modules.md",
-    "INTERVIEWS/ZTM/The coding interview.md",
-    "HASKELL/for_great_good/6 Modules.md",
     "HASKELL/for_great_good/0 - Haskell intro.md",
     "TYPESCRIPT/Learn TypeScript - Full Tutorial/_ Learn TypeScript.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/12 Testing Rust.md",
@@ -280,9 +273,6 @@
     "Untitled.canvas",
     "TYPESCRIPT",
     "Excalidraw/Drawing 2023-07-02 01.06.41.excalidraw.md",
-    "INTERVIEWS/ZTM/arrays.md",
-    "JAVASCRIPT/funkcyjnie_JS/_ JavaScript funkcyjnie.md",
-    "R U S T/Rust Programming For Beginners/10.3. Contact manager app.md",
     "INTERVIEWS/ZTM",
     "INTERVIEWS",
     "_ FullStack/RSTY",

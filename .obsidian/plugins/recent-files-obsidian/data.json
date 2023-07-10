@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "7 Types and TypeClasses",
+      "path": "HASKELL/for_great_good/7 Types and TypeClasses.md"
+    },
+    {
+      "basename": "7.1 Record syntax",
+      "path": "HASKELL/for_great_good/7.1 Record syntax.md"
+    },
+    {
+      "basename": "7.3 Derived instances",
+      "path": "HASKELL/for_great_good/7.3 Derived instances.md"
+    },
+    {
+      "basename": "7.4. Type synonyms",
+      "path": "HASKELL/for_great_good/7.4. Type synonyms.md"
+    },
+    {
+      "basename": "6 Modules",
+      "path": "HASKELL/for_great_good/6 Modules.md"
+    },
+    {
+      "basename": "The coding interview",
+      "path": "INTERVIEWS/ZTM/The coding interview.md"
+    },
+    {
       "basename": "14 Closure",
       "path": "R U S T/ULTIMATE Rust Lang Tutorial/14 Closure.md"
     },
@@ -73,10 +97,6 @@
       "path": "R U S T/Rust Programming Tutorial/13 Traits.md"
     },
     {
-      "basename": "7 Types and TypeClasses",
-      "path": "HASKELL/for_great_good/7 Types and TypeClasses.md"
-    },
-    {
       "basename": "10 Structs",
       "path": "R U S T/Rust Programming Tutorial/10 Structs.md"
     },
@@ -119,10 +139,6 @@
     {
       "basename": "8 Datatypes",
       "path": "HASKELL/Haskell for Imperative Programmers/8 Datatypes.md"
-    },
-    {
-      "basename": "7.1 Record syntax",
-      "path": "HASKELL/for_great_good/7.1 Record syntax.md"
     },
     {
       "basename": "Simple Haskell File - Structure",

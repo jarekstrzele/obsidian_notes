@@ -24,8 +24,8 @@ in the standard library `Bool` is  define:
 
 
 # generally
-#### ` type = value constructor`
-### `data typeName = value constructor`
+> ` type = value constructor`
+`data typeName = value constructor`
 
 
 
