@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/ULTIMATE Rust Lang Tutorial/13 CLI App MiniGrap.md",
+                "file": "R U S T/ULTIMATE Rust Lang Tutorial/14 Closure.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 333.5
   },
   "right": {
     "id": "ec7d1a70da2de581",
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/ULTIMATE Rust Lang Tutorial/13 CLI App MiniGrap.md",
+                "file": "R U S T/ULTIMATE Rust Lang Tutorial/14 Closure.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/ULTIMATE Rust Lang Tutorial/13 CLI App MiniGrap.md",
+                "file": "R U S T/ULTIMATE Rust Lang Tutorial/14 Closure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/ULTIMATE Rust Lang Tutorial/13 CLI App MiniGrap.md"
+                "file": "R U S T/ULTIMATE Rust Lang Tutorial/14 Closure.md"
               }
             }
           },
@@ -250,6 +250,9 @@
   },
   "active": "2d800acb682c528a",
   "lastOpenFiles": [
+    "R U S T/ULTIMATE Rust Lang Tutorial/13 CLI App MiniGrap.md",
+    "R U S T/ULTIMATE Rust Lang Tutorial/14 Closure.md",
+    "R U S T/ULTIMATE Rust Lang Tutorial/_ LetsGetRusty Ultimate Rust Lang Tutorial.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML",
     "C Sharp",
@@ -263,7 +266,6 @@
     "HASKELL/for_great_good/6 Modules.md",
     "HASKELL/for_great_good/0 - Haskell intro.md",
     "TYPESCRIPT/Learn TypeScript - Full Tutorial/_ Learn TypeScript.md",
-    "R U S T/ULTIMATE Rust Lang Tutorial/13 CLI App MiniGrap.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/12 Testing Rust.md",
     "R U S T/Rust Programming For Beginners/8 Real World.md",
     "R U S T/Rust Programming For Beginners/8.5 Modules.md",
@@ -283,8 +285,6 @@
     "R U S T/Rust Programming For Beginners/10.3. Contact manager app.md",
     "INTERVIEWS/ZTM",
     "INTERVIEWS",
-    "R U S T/ULTIMATE Rust Lang Tutorial/11 Rust Lifetimes.md",
-    "_ FullStack/RSTY/_ RSTY.md",
     "_ FullStack/RSTY",
     "Untitled",
     "Git/git and github",

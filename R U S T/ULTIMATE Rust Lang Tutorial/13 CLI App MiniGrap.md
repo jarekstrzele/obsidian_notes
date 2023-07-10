@@ -303,54 +303,74 @@ mod tests {
 #[test]
 fn case_sensitive(){
 
-let query = "duct";
-
-let contents = "\
-
+	let query = "duct";
+	let contents = "\
 Rust:
-
 safe, fast, productive.
-
 Pick three.
-
 Duct tape.";
-
 assert_eq!(vec!["safe, fast, productive."], search(query, contents)) ;
 
 }
 
-  
-
 #[test]
-
 fn case_insensitive(){
-
-let query: &str = "rUsT" ;
-
-let contents: &str = "\
-
+	let query: &str = "rUsT" ;
+	let contents: &str = "\
 Rust:
-
 safe, fast, productive.
-
 Pick three.
-
 Trust me." ;
 
+	assert_eq!(
+		vec!["Rust", "Trust me."],
+		search_case_insensitive(query, contents)
+	)
+	}
+}
+```
+
+`main.rs`
+```rust
+use std::env;
+
+use std::process; // to exit a program without panicing
+
   
 
-assert_eq!(
+use minigrep::Config ;
 
-vec!["Rust", "Trust me."],
+  
 
-search_case_insensitive(query, contents)
+fn main() {
 
-)
+let args: Vec<String> = env::args().collect() ;
+
+let config = Config::new(&args).unwrap_or_else( |err: &str| {
+
+eprintln!("Problem parsing arguments: {}", err) ;
+
+process::exit(1) ;
+
+}) ;
+
+  
+
+println!("Searching for {}", config.query) ;
+
+println!("in file {}", config.filename) ;
+
+  
+
+if let Err(e) = minigrep::run(config) {
+
+eprintln!("Application error: {}" , e) ;
+
+process::exit(1) ;
 
 }
 
 }
 ```
-
 
 
