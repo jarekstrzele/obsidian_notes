@@ -201,6 +201,15 @@ impl Config {
 ---
 ## testing
 
+`export CASE_INSENSITIVE=true` in linux you set a environment variable `CASE_INSENSITIVE` as `true`
+
+`unset CASE_INSENSITIVE`
+
+`env:var("<varName>)"` it reads a value of `varName`
+`is_err()` sprawdza, czy wynik odczytu zmiennej środowiskowej zwraca błąd (jeśli  błąd, zwraca `true`, jeśli sukces, zwraca `false`)
+
+cargo run 
+
 in `lib.rs` :
 ```rust
 #[cfg(test)]
