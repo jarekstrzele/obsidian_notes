@@ -20,10 +20,20 @@ http://web.archive.org
 
 ```html
 <h1> contents </h2>
+
+<p> paragraph content (line between paragraphs elements) </p>
+
+
+A VOID ELEMENTS (without content)
+<hr />
+<br />
+
+
 ```
 
 
-
+---
+# List element `<ul>`, `<ol>`
 
 
 
