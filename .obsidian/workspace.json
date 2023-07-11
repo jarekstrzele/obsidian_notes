@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ WEB/Django/Django For Everybody/_ Django For Everybody.md",
+                "file": "_ FullStack/Web Development 2023/_ 0 start.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "typesc",
+                "query": "#yu",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ WEB/Django/Django For Everybody/_ Django For Everybody.md",
+                "file": "_ FullStack/Web Development 2023/_ 0 start.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ WEB/Django/Django For Everybody/_ Django For Everybody.md",
+                "file": "_ FullStack/Web Development 2023/_ 0 start.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ WEB/Django/Django For Everybody/_ Django For Everybody.md"
+                "file": "_ FullStack/Web Development 2023/_ 0 start.md"
               }
             }
           },
@@ -238,10 +238,10 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "d1b00138924bbed4",
+  "active": "f621f21825dbd82d",
   "lastOpenFiles": [
-    "HASKELL/for_great_good/7 Types and TypeClasses.md",
     "_ WEB/Django/Django For Everybody/_ Django For Everybody.md",
+    "HASKELL/for_great_good/7 Types and TypeClasses.md",
     "_ WEB/Django/Django For Everybody",
     "HASKELL/for_great_good/7.1 Record syntax.md",
     "HASKELL/for_great_good/7.3 Derived instances.md",
