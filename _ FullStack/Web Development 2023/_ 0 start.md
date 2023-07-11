@@ -24,8 +24,6 @@
 ### What does HTML, CSS and JavaScript do exactly?
 - the data that you received from a web server usually contains files: HTML, CSS, JavaScript
 
-
-
 ## Needed apps
 - Chrome
 - Atom

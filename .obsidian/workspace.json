@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ FullStack/Web Development 2023/_ 0 start.md",
+                "file": "_ FullStack/Web Development 2023/0 HTML.md",
                 "mode": "source",
                 "source": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ FullStack/Web Development 2023/_ 0 start.md",
+                "file": "_ FullStack/Web Development 2023/0 HTML.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ FullStack/Web Development 2023/_ 0 start.md",
+                "file": "_ FullStack/Web Development 2023/0 HTML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ FullStack/Web Development 2023/_ 0 start.md"
+                "file": "_ FullStack/Web Development 2023/0 HTML.md"
               }
             }
           },
@@ -238,8 +238,10 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "f621f21825dbd82d",
+  "active": "d1b00138924bbed4",
   "lastOpenFiles": [
+    "_ FullStack/Web Development 2023/_ 0 start.md",
+    "_ FullStack/Web Development 2023/0 HTML.md",
     "_ WEB/Django/Django For Everybody/_ Django For Everybody.md",
     "HASKELL/for_great_good/7 Types and TypeClasses.md",
     "_ WEB/Django/Django For Everybody",
@@ -267,8 +269,6 @@
     "R U S T/Rust Programming For Beginners/8.5 Modules.md",
     "R U S T/Rust Programming Tutorial/25 Test Rust.md",
     "R U S T/Rust Programming Tutorial/21 Regex Regular Expressions.md",
-    "Excalidraw/pipe_node.excalidraw.md",
-    "Untitled.md",
     "TYPESCRIPT/Learn TypeScript - Full Tutorial",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
