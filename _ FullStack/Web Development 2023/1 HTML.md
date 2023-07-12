@@ -2,8 +2,11 @@
 
 
 ----
-# 0 HTML
+[[#List element `<ul>`, `<ol>`]]
+[[#Attributes]]
 
+
+---------
 https://codepen.io/
 https://devdocs.io/
 e.g. https://devdocs.io/html/element/button
@@ -34,15 +37,44 @@ A VOID ELEMENTS (without content)
 
 ---
 # List element `<ul>`, `<ol>`
+```html
+<ul>
+	<li>Milk</li>
+	<li>Eggs</li>
+</ul>
 
+```
 
+```html
+<ol>
+	<li>Milk</li>
+	<li>Eggs</li>
+	```html
+	<ul>
+		<li>Milk</li>
+		<li>Eggs</li>
+	</ul>
+</ol>
 
+```
 
+---
+# Attributes
 
 `<img src="angela.png" />`
+random photo
+`<img src="https://picsum.photos/200" alt="some random photo"/>`
+
 `<a href="https:// ..."> Tekst </a>`
 
-## table
+there are global attributes
+e.g. `draggable`
+```html
+<a draggable=true>
+this is a link to Google
+</a>
+```
+
 
 
 

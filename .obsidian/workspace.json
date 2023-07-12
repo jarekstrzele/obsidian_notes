@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ FullStack/Web Development 2023/0 HTML.md",
+                "file": "_ FullStack/Web Development 2023/1 HTML.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ FullStack/Web Development 2023/0 HTML.md",
+                "file": "R U S T/ULTIMATE Rust Lang Tutorial/14 Closure.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ FullStack/Web Development 2023/0 HTML.md",
+                "file": "R U S T/ULTIMATE Rust Lang Tutorial/14 Closure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ FullStack/Web Development 2023/0 HTML.md"
+                "file": "R U S T/ULTIMATE Rust Lang Tutorial/14 Closure.md"
               }
             }
           },
@@ -238,10 +238,14 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "d1b00138924bbed4",
+  "active": "2d800acb682c528a",
   "lastOpenFiles": [
+    "_ FullStack/Web Development 2023/1 HTML.md",
     "_ FullStack/Web Development 2023/_ 0 start.md",
-    "_ FullStack/Web Development 2023/0 HTML.md",
+    "_ FullStack/Web Development 2023/4 Grid.md",
+    "_ FullStack/Web Development 2023/3 Flexbox.md",
+    "_ FullStack/Web Development 2023/5 Bootstrap.md",
+    "_ FullStack/Web Development 2023/2 CSS.md",
     "_ WEB/Django/Django For Everybody/_ Django For Everybody.md",
     "HASKELL/for_great_good/7 Types and TypeClasses.md",
     "_ WEB/Django/Django For Everybody",
@@ -265,10 +269,6 @@
     "HASKELL/for_great_good/0 - Haskell intro.md",
     "TYPESCRIPT/Learn TypeScript - Full Tutorial/_ Learn TypeScript.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/12 Testing Rust.md",
-    "R U S T/Rust Programming For Beginners/8 Real World.md",
-    "R U S T/Rust Programming For Beginners/8.5 Modules.md",
-    "R U S T/Rust Programming Tutorial/25 Test Rust.md",
-    "R U S T/Rust Programming Tutorial/21 Regex Regular Expressions.md",
     "TYPESCRIPT/Learn TypeScript - Full Tutorial",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
