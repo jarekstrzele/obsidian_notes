@@ -8,7 +8,9 @@
 # Wprowadzenie do dockera
 
 >[!info] Docker
->Otwarte oprogramowanie służące jako "platforma dla programistów i administratorów do tworzenia, wdrażania"
+>Otwarte oprogramowanie służące jako "platforma dla programistów i administratorów do tworzenia, wdrażania i uruchamiania aplikacji rozproszonych" (wiki)
+
+
 
 
 
