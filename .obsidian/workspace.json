@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/UBUNTU.md",
+                "file": "Docker/Docker od podstaw/_ Wprowadzenie docker.md",
                 "mode": "source",
                 "source": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/UBUNTU.md",
+                "file": "Docker/Docker od podstaw/_ Wprowadzenie docker.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/UBUNTU.md",
+                "file": "Docker/Docker od podstaw/_ Wprowadzenie docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/UBUNTU.md"
+                "file": "Docker/Docker od podstaw/_ Wprowadzenie docker.md"
               }
             }
           },
@@ -239,35 +239,36 @@
   },
   "active": "e09fd8603ad2539e",
   "lastOpenFiles": [
-    "INTERVIEWS/ZTM/The coding interview.md",
+    "Docker/Docker od podstaw/6 Registry - przechowywanie obrazów.md",
+    "Docker/Docker od podstaw/5 Docker compose.md",
+    "Docker/Docker od podstaw/4 Bezpieczeństwo - docker.md",
+    "Docker/Docker od podstaw/3 Przechowywanie danych.md",
+    "Docker/Docker od podstaw/2 Budowanie obrazów.md",
+    "Docker/Docker od podstaw/1 Uruchamianie kontenerów.md",
+    "Docker/Docker od podstaw/_ Wprowadzenie docker.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/14 Closure.md",
+    "Docker/General.md",
+    "Docker/Docker od podstaw",
+    "Docker/Plurasight/Building and Running your first docker app.md",
+    "Docker/For Absolute Beginner/_ Intro Docker Mumshad.md",
+    "Docker/For Absolute Beginner/Command vs Entrypoint.md",
+    "Docker/Docker Projektowanie i wdrażanie aplikacji ebook/_ wprowadzenie do dockera.md",
+    "Docker/Docker Intro Essentials/_ Intro Docker Essentials.md",
+    "Docker/docker HELION Adam Raźniewski/_ start docker helion Raźniewski.md",
+    "Docker/Docker essentials for Python Developers/3 Quick Start/_intro quick start docker.md",
+    "Docker/Docker Certified Associate 2022/1 Getting started.md",
+    "Docker/Developing Python 3 Apps with Docker/_0 start developing Python apps with Docker.md",
+    "linux/UBUNTU.md",
+    "INTERVIEWS/ZTM/The coding interview.md",
     "_ FullStack/Web Development 2023/1 HTML.md",
     "_ FullStack/Web Development 2023/_ 0 start.md",
     "_ FullStack/Web Development 2023/4 Grid.md",
     "_ FullStack/Web Development 2023/3 Flexbox.md",
     "_ FullStack/Web Development 2023/5 Bootstrap.md",
     "_ FullStack/Web Development 2023/2 CSS.md",
-    "_ WEB/Django/Django For Everybody/_ Django For Everybody.md",
-    "HASKELL/for_great_good/7 Types and TypeClasses.md",
     "_ WEB/Django/Django For Everybody",
-    "HASKELL/for_great_good/7.1 Record syntax.md",
-    "HASKELL/for_great_good/7.3 Derived instances.md",
-    "HASKELL/for_great_good/7.4. Type synonyms.md",
-    "HASKELL/for_great_good/6 Modules.md",
-    "R U S T/ULTIMATE Rust Lang Tutorial/13 CLI App MiniGrap.md",
-    "R U S T/ULTIMATE Rust Lang Tutorial/_ LetsGetRusty Ultimate Rust Lang Tutorial.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML",
     "C Sharp",
-    "HASKELL/Real World Haskell/3 Defining Types, Streamlining Functions.md",
-    "linux/UBUNTU.md",
-    "HASKELL/Real World Haskell/2 Types and Functions.md",
-    "HASKELL/Real World Haskell/1 Getting Started.md",
-    "HASKELL/Real World Haskell/_ Real World Haskell.md",
-    "R U S T/Learn Rust by Building Real App/4.4 Organising a Code into Modules.md",
-    "HASKELL/for_great_good/0 - Haskell intro.md",
-    "TYPESCRIPT/Learn TypeScript - Full Tutorial/_ Learn TypeScript.md",
-    "R U S T/ULTIMATE Rust Lang Tutorial/12 Testing Rust.md",
     "TYPESCRIPT/Learn TypeScript - Full Tutorial",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
@@ -277,7 +278,6 @@
     "INTERVIEWS",
     "_ FullStack/RSTY",
     "Untitled",
-    "Git/git and github",
     "canvas_moduls_rust.canvas",
     "test canvas.canvas",
     "pexels-alex-fu-1302436.jpg",

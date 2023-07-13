@@ -1,16 +1,84 @@
 {
   "recentFiles": [
     {
+      "basename": "_ Wprowadzenie docker",
+      "path": "Docker/Docker od podstaw/_ Wprowadzenie docker.md"
+    },
+    {
+      "basename": "6 Registry - przechowywanie obrazów",
+      "path": "Docker/Docker od podstaw/6 Registry - przechowywanie obrazów.md"
+    },
+    {
+      "basename": "5 Docker compose",
+      "path": "Docker/Docker od podstaw/5 Docker compose.md"
+    },
+    {
+      "basename": "4 Bezpieczeństwo - docker",
+      "path": "Docker/Docker od podstaw/4 Bezpieczeństwo - docker.md"
+    },
+    {
+      "basename": "3 Przechowywanie danych",
+      "path": "Docker/Docker od podstaw/3 Przechowywanie danych.md"
+    },
+    {
+      "basename": "2 Budowanie obrazów",
+      "path": "Docker/Docker od podstaw/2 Budowanie obrazów.md"
+    },
+    {
+      "basename": "1 Uruchamianie kontenerów",
+      "path": "Docker/Docker od podstaw/1 Uruchamianie kontenerów.md"
+    },
+    {
+      "basename": "14 Closure",
+      "path": "R U S T/ULTIMATE Rust Lang Tutorial/14 Closure.md"
+    },
+    {
+      "basename": "General",
+      "path": "Docker/General.md"
+    },
+    {
+      "basename": "Building and Running your first docker app",
+      "path": "Docker/Plurasight/Building and Running your first docker app.md"
+    },
+    {
+      "basename": "_ Intro Docker Mumshad",
+      "path": "Docker/For Absolute Beginner/_ Intro Docker Mumshad.md"
+    },
+    {
+      "basename": "Command vs Entrypoint",
+      "path": "Docker/For Absolute Beginner/Command vs Entrypoint.md"
+    },
+    {
+      "basename": "_ wprowadzenie do dockera",
+      "path": "Docker/Docker Projektowanie i wdrażanie aplikacji ebook/_ wprowadzenie do dockera.md"
+    },
+    {
+      "basename": "_ Intro Docker Essentials",
+      "path": "Docker/Docker Intro Essentials/_ Intro Docker Essentials.md"
+    },
+    {
+      "basename": "_ start docker helion Raźniewski",
+      "path": "Docker/docker HELION Adam Raźniewski/_ start docker helion Raźniewski.md"
+    },
+    {
+      "basename": "_intro quick start docker",
+      "path": "Docker/Docker essentials for Python Developers/3 Quick Start/_intro quick start docker.md"
+    },
+    {
+      "basename": "1 Getting started",
+      "path": "Docker/Docker Certified Associate 2022/1 Getting started.md"
+    },
+    {
+      "basename": "_0 start developing Python apps with Docker",
+      "path": "Docker/Developing Python 3 Apps with Docker/_0 start developing Python apps with Docker.md"
+    },
+    {
       "basename": "UBUNTU",
       "path": "linux/UBUNTU.md"
     },
     {
       "basename": "The coding interview",
       "path": "INTERVIEWS/ZTM/The coding interview.md"
-    },
-    {
-      "basename": "14 Closure",
-      "path": "R U S T/ULTIMATE Rust Lang Tutorial/14 Closure.md"
     },
     {
       "basename": "1 HTML",
@@ -131,62 +199,6 @@
     {
       "basename": "10 Structs",
       "path": "R U S T/Rust Programming Tutorial/10 Structs.md"
-    },
-    {
-      "basename": "_ Wprowadzenie SI z JS",
-      "path": "A I/SI na Froncie/_ Wprowadzenie SI z JS.md"
-    },
-    {
-      "basename": "_ 0 Uczenie maszynowe z JS",
-      "path": "A I/JS uczenie maszynowe/_ 0 Uczenie maszynowe z JS.md"
-    },
-    {
-      "basename": "2 Memory Management",
-      "path": "R U S T/Learn Rust by Building Real App/2 Memory Management.md"
-    },
-    {
-      "basename": "2. SI i Uczenie maszynowe",
-      "path": "A I/SI na Froncie/2. SI i Uczenie maszynowe.md"
-    },
-    {
-      "basename": "_ Uczenie Maszynowe  Helion Piotr Szajowski",
-      "path": "A I/uczenie maszynowe/_ Uczenie Maszynowe  Helion Piotr Szajowski.md"
-    },
-    {
-      "basename": "1 Poznawanie potencjału języka JS",
-      "path": "A I/JS uczenie maszynowe/1 Poznawanie potencjału języka JS.md"
-    },
-    {
-      "basename": "2 Badanie danych",
-      "path": "A I/JS uczenie maszynowe/2 Badanie danych.md"
-    },
-    {
-      "basename": "2 Types and Functions",
-      "path": "HASKELL/Real World Haskell/2 Types and Functions.md"
-    },
-    {
-      "basename": "7 Folding",
-      "path": "HASKELL/Haskell for Imperative Programmers/7 Folding.md"
-    },
-    {
-      "basename": "8 Datatypes",
-      "path": "HASKELL/Haskell for Imperative Programmers/8 Datatypes.md"
-    },
-    {
-      "basename": "Simple Haskell File - Structure",
-      "path": "HASKELL/Simple Haskell File - Structure.md"
-    },
-    {
-      "basename": "14. Vectors",
-      "path": "R U S T/Rust Programming Tutorial/14. Vectors.md"
-    },
-    {
-      "basename": "_ Rust Programming Tutorial",
-      "path": "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md"
-    },
-    {
-      "basename": "2 Variables",
-      "path": "R U S T/Rust Programming Tutorial/2 Variables.md"
     }
   ],
   "omittedPaths": [],
