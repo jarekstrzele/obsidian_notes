@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "The coding interview",
+      "path": "INTERVIEWS/ZTM/The coding interview.md"
+    },
+    {
       "basename": "14 Closure",
       "path": "R U S T/ULTIMATE Rust Lang Tutorial/14 Closure.md"
     },
@@ -51,10 +55,6 @@
     {
       "basename": "6 Modules",
       "path": "HASKELL/for_great_good/6 Modules.md"
-    },
-    {
-      "basename": "The coding interview",
-      "path": "INTERVIEWS/ZTM/The coding interview.md"
     },
     {
       "basename": "13 CLI App MiniGrap",

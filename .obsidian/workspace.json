@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -150,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/ULTIMATE Rust Lang Tutorial/14 Closure.md",
+                "file": "INTERVIEWS/ZTM/The coding interview.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -167,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/ULTIMATE Rust Lang Tutorial/14 Closure.md",
+                "file": "INTERVIEWS/ZTM/The coding interview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/ULTIMATE Rust Lang Tutorial/14 Closure.md"
+                "file": "INTERVIEWS/ZTM/The coding interview.md"
               }
             }
           },
@@ -238,8 +237,9 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "2d800acb682c528a",
+  "active": "e09fd8603ad2539e",
   "lastOpenFiles": [
+    "R U S T/ULTIMATE Rust Lang Tutorial/14 Closure.md",
     "_ FullStack/Web Development 2023/1 HTML.md",
     "_ FullStack/Web Development 2023/_ 0 start.md",
     "_ FullStack/Web Development 2023/4 Grid.md",
@@ -254,7 +254,6 @@
     "HASKELL/for_great_good/7.4. Type synonyms.md",
     "HASKELL/for_great_good/6 Modules.md",
     "INTERVIEWS/ZTM/The coding interview.md",
-    "R U S T/ULTIMATE Rust Lang Tutorial/14 Closure.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/13 CLI App MiniGrap.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/_ LetsGetRusty Ultimate Rust Lang Tutorial.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md",
