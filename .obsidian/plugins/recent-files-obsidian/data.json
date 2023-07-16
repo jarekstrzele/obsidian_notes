@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "_ git od podstaw",
+      "path": "Git/git od podstaw dla każdego/_ git od podstaw.md"
+    },
+    {
       "basename": "_ Wprowadzenie docker",
       "path": "Docker/Docker od podstaw/_ Wprowadzenie docker.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "13 Traits",
       "path": "R U S T/Rust Programming Tutorial/13 Traits.md"
-    },
-    {
-      "basename": "10 Structs",
-      "path": "R U S T/Rust Programming Tutorial/10 Structs.md"
     }
   ],
   "omittedPaths": [],
