@@ -16,7 +16,16 @@ konfiguracja
 >[!info] repozytorium
 > to katalog, w którym system kontroli wersji trzyma całą historię projektu  `.git`
 
-`git init` inicjalizacja  
+`git init` inicjalizacja  --> wewnątrz folderu z projektem :
+- powstaje `.git` folder
+- a folder z projektem zostaje podzielony jak gdyby na trzy części:
+	- `working tree`
+		- wszystko, co znajduje się wewnątrz folderu z projektem **oprócz** `.git`
+		- CRUD na plikach i folderach w normalny sposób
+	- `staging area (index)`
+	- `local repository`
+
+
 
 
 
