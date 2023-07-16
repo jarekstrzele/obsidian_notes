@@ -8,6 +8,18 @@
 
 (pracuje na notepad++)
 
+konfiguracja
+`git config --global user.name <nazwa użytkownika>`
+`git config --global user.email <mejl użytkownika`
+
+--------
+>[!info] repozytorium
+> to katalog, w którym system kontroli wersji trzyma całą historię projektu  `.git`
+
+`git init` inicjalizacja  
+
+
+
 
 
 
