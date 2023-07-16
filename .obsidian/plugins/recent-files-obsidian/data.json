@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "1 wprowadzanie zmian i rewizje",
+      "path": "Git/git od podstaw dla każdego/1 wprowadzanie zmian i rewizje.md"
+    },
+    {
       "basename": "_ git od podstaw",
       "path": "Git/git od podstaw dla każdego/_ git od podstaw.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "9 Reference",
       "path": "R U S T/Rust Programming Tutorial/9 Reference.md"
-    },
-    {
-      "basename": "13 Traits",
-      "path": "R U S T/Rust Programming Tutorial/13 Traits.md"
     }
   ],
   "omittedPaths": [],

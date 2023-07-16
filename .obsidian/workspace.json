@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/git od podstaw dla każdego/_ git od podstaw.md",
+                "file": "Git/git od podstaw dla każdego/1 wprowadzanie zmian i rewizje.md",
                 "mode": "source",
                 "source": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/git od podstaw dla każdego/_ git od podstaw.md",
+                "file": "Git/git od podstaw dla każdego/1 wprowadzanie zmian i rewizje.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/git od podstaw dla każdego/_ git od podstaw.md",
+                "file": "Git/git od podstaw dla każdego/1 wprowadzanie zmian i rewizje.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/git od podstaw dla każdego/_ git od podstaw.md"
+                "file": "Git/git od podstaw dla każdego/1 wprowadzanie zmian i rewizje.md"
               }
             }
           },
@@ -239,8 +239,9 @@
   },
   "active": "e09fd8603ad2539e",
   "lastOpenFiles": [
-    "Docker/Docker od podstaw/_ Wprowadzenie docker.md",
     "Git/git od podstaw dla każdego/_ git od podstaw.md",
+    "Git/git od podstaw dla każdego/1 wprowadzanie zmian i rewizje.md",
+    "Docker/Docker od podstaw/_ Wprowadzenie docker.md",
     "Git/git od podstaw dla każdego",
     "Docker/Docker od podstaw/6 Registry - przechowywanie obrazów.md",
     "Docker/Docker od podstaw/5 Docker compose.md",
@@ -266,7 +267,6 @@
     "_ FullStack/Web Development 2023/_ 0 start.md",
     "_ FullStack/Web Development 2023/4 Grid.md",
     "_ FullStack/Web Development 2023/3 Flexbox.md",
-    "_ FullStack/Web Development 2023/5 Bootstrap.md",
     "_ WEB/Django/Django For Everybody",
     "C Sharp/C Sharp od Podstaw do WPF i XAML",
     "C Sharp",
