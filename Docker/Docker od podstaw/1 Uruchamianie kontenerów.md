@@ -32,16 +32,32 @@ NEW VERSION
 ```bash
 jarek@jarek-legion:~$ sudo docker container run --publish 8080:80 -detach nginx
 834bcb7ebd1ad2fee33be5c4f9dec5e6284896e441a9b2798ba6b1220a464a3d
+
 jarek@jarek-legion:~$ sudo docker container ls
 CONTAINER ID   IMAGE     COMMAND                  CREATED              STATUS              PORTS                                   NAMES
 834bcb7ebd1a   nginx     "/docker-entrypoint.…"   About a minute ago   Up About a minute   0.0.0.0:8080->80/tcp, :::8080->80/tcp   naughty_dubinsky
 
 ```
 
+## zatrzymanie kontenera `docker container stop`
 
+`$ docker container stop 834`
 
+zatrzymanie != usuwanie
+```bash
+$ sudo docker container ls -a
+CONTAINER ID   IMAGE         COMMAND                  CREATED          STATUS                          PORTS     NAMES
+834bcb7ebd1a   nginx         "/docker-entrypoint.…"   5 minutes ago    Exited (0) About a minute ago             naughty_dubinsky
+5f321aa42b33   nginx         "/docker-entrypoint.…"   15 minutes ago   Exited (0) 12 minutes ago                 trusting_goldberg
+6c304c0b1cc3   hello-world   "/hello"                 4 days ago       Exited (0) 4 days ago                     boring_wright
 
+```
 
-
-
+można ponownie uruchomić kontener `container start`
+```bash
+jarek@jarek-legion:~$ sudo docker container start 6c3
+6c3
+jarek@jarek-legion:~$ sudo docker container start 5f3
+5f3
+```
 
