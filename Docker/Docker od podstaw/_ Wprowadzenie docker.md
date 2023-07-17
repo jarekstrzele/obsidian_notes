@@ -52,6 +52,8 @@ Obecnie rozwijane i wspierane przez (Google, Microsoft, IBM, Red Hat, Cisco)
 
 ![[docker_architecture.excalidraw|700]]
 
+https://hub.docker.com
+
 
 ----
 # Koncepty Dockera
@@ -62,7 +64,9 @@ tworzony w pliku `Dockerfile`
 ```dockerfile
 FROM nginx:latest
 
-WORKDIR /usr/share/nginx/
+WORKDIR /usr/share/nginx/html
+
+COPY index.html index.html
 ```
 
 
