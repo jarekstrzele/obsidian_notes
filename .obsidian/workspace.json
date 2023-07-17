@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "d1b00138924bbed4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_ FullStack/Web Development 2023/1 HTML.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2d800acb682c528a",
             "type": "leaf",
             "state": {
@@ -61,13 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HASKELL/Real World Haskell/3 Defining Types, Streamlining Functions.md",
+                "file": "Docker/Docker od podstaw/_ Wprowadzenie docker.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -133,7 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5
+    "width": 200
   },
   "right": {
     "id": "ec7d1a70da2de581",
@@ -149,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/git od podstaw dla każdego/1 wprowadzanie zmian i rewizje.md",
+                "file": "Docker/Docker od podstaw/_ Wprowadzenie docker.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -166,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/git od podstaw dla każdego/1 wprowadzanie zmian i rewizje.md",
+                "file": "Docker/Docker od podstaw/_ Wprowadzenie docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/git od podstaw dla każdego/1 wprowadzanie zmian i rewizje.md"
+                "file": "Docker/Docker od podstaw/_ Wprowadzenie docker.md"
               }
             }
           },
@@ -237,19 +226,22 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "e09fd8603ad2539e",
+  "active": "d318909943b6e419",
   "lastOpenFiles": [
-    "Git/git od podstaw dla każdego/_ git od podstaw.md",
-    "Git/git od podstaw dla każdego/1 wprowadzanie zmian i rewizje.md",
+    "Docker/Docker od podstaw/1 Uruchamianie kontenerów.md",
     "Docker/Docker od podstaw/_ Wprowadzenie docker.md",
+    "HASKELL/Real World Haskell/3 Defining Types, Streamlining Functions.md",
+    "R U S T/Learn Rust by Building Real App/4.4 Organising a Code into Modules.md",
+    "R U S T/ULTIMATE Rust Lang Tutorial/14 Closure.md",
+    "Git/git od podstaw dla każdego/1 wprowadzanie zmian i rewizje.md",
+    "_ FullStack/Web Development 2023/1 HTML.md",
+    "Git/git od podstaw dla każdego/_ git od podstaw.md",
     "Git/git od podstaw dla każdego",
     "Docker/Docker od podstaw/6 Registry - przechowywanie obrazów.md",
     "Docker/Docker od podstaw/5 Docker compose.md",
     "Docker/Docker od podstaw/4 Bezpieczeństwo - docker.md",
     "Docker/Docker od podstaw/3 Przechowywanie danych.md",
     "Docker/Docker od podstaw/2 Budowanie obrazów.md",
-    "Docker/Docker od podstaw/1 Uruchamianie kontenerów.md",
-    "R U S T/ULTIMATE Rust Lang Tutorial/14 Closure.md",
     "Docker/General.md",
     "Docker/Docker od podstaw",
     "Docker/Plurasight/Building and Running your first docker app.md",
@@ -263,10 +255,7 @@
     "Docker/Developing Python 3 Apps with Docker/_0 start developing Python apps with Docker.md",
     "linux/UBUNTU.md",
     "INTERVIEWS/ZTM/The coding interview.md",
-    "_ FullStack/Web Development 2023/1 HTML.md",
     "_ FullStack/Web Development 2023/_ 0 start.md",
-    "_ FullStack/Web Development 2023/4 Grid.md",
-    "_ FullStack/Web Development 2023/3 Flexbox.md",
     "_ WEB/Django/Django For Everybody",
     "C Sharp/C Sharp od Podstaw do WPF i XAML",
     "C Sharp",
