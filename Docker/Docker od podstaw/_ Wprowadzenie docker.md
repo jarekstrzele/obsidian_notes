@@ -74,9 +74,26 @@ COPY index.html index.html
 jest jak obiekt
 
 
+-----
+# instalacja
+
+## Linux
+####  instalacja dockera
+https://docs.docker.com/engine/install/ubuntu/
+
+aby uruchamiać dockera bez `sudo`
+## `sudo usermod -aG docker $USER`
+
+```bash
+$ sudo usermod -aG docker $USER
+jarek@jarek-legion:~$ echo $USER
+jarek
+
+```
 
 
-
+#### instalacja `docker Compose`
+https://docs.docker.com/compose/install/linux/
 
 
 
