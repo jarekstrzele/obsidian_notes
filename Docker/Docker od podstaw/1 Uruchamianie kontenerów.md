@@ -18,6 +18,9 @@ NEW VERSION
 `docker container run`
 
 -----------
+# Uruchamianie
+`docker container run --publish 8080:80 nginx`
+----> in the browser `localhost:8080`
 
 
 
