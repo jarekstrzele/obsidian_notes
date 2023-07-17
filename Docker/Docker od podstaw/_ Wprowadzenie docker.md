@@ -95,6 +95,16 @@ jarek
 #### instalacja `docker Compose`
 https://docs.docker.com/compose/install/linux/
 
+#### `sudo apt-get install docker-compose`
+
+# INSTALL ON Windows
+
+
+
+
+
+
+
 
 
 
