@@ -28,12 +28,32 @@ Obecnie rozwijane i wspierane przez (Google, Microsoft, IBM, Red Hat, Cisco)
 - szybkość:
 	- development, 
 		- wszystkie zależności spakować w obraz
+		- nowy developer uruchamia taki obraz lokalnie na swojej maszynie bez problemu
 	- budowanie, 
 	- testowanie, 
 	- deployment
+		- skalowalność
+		- reużywalność
+		- izolacja
+		- łatwość budowy mikro-serwisów (każda usługa w innym kontenerze)
 - redukcja złożoności
 - izolacja
 - 
+
+# Architektura
+- zbudowana na architekturze *klient-serwer* - składa się z trzech części:
+	- *docker daemon* - część SERWEROWA
+		- zarządzanie wszystkimi obiektami (obrazy, kontenery, sieci,dyski)
+	- *REST API* służy do komunikacji z częścią serwerową 
+	- *docker CLI* - KLIENT (różne polecenia z linii komend, aby komunikować się z serwerem):
+		- nie musi być uruchomiony na tej samej maszynie co serwerowa część
+		- nie musi być w formie terminalowej, może mieć wersję graficzną
+
+
+
+
+
+
 
 
 
