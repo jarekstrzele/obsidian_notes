@@ -44,8 +44,8 @@ Ubuntu ^GIMirkD0
 	"elements": [
 		{
 			"type": "rectangle",
-			"version": 585,
-			"versionNonce": 1612123775,
+			"version": 586,
+			"versionNonce": 2017954527,
 			"isDeleted": false,
 			"id": "7AC1PmDwd6_nTvWczre4e",
 			"fillStyle": "hachure",
@@ -57,7 +57,7 @@ Ubuntu ^GIMirkD0
 			"x": -549.5,
 			"y": 34.21875,
 			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"backgroundColor": "#82c91e",
 			"width": 185,
 			"height": 195.5,
 			"seed": 142694079,
@@ -66,26 +66,26 @@ Ubuntu ^GIMirkD0
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1689624586489,
+			"updated": 1689624901762,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 326,
-			"versionNonce": 461790449,
+			"version": 333,
+			"versionNonce": 1042785119,
 			"isDeleted": false,
 			"id": "2E-KTa11quGa1wzhxy7Zp",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
-			"opacity": 100,
+			"opacity": 40,
 			"angle": 0,
 			"x": -343,
 			"y": 34.578125,
 			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"backgroundColor": "#15aabf",
 			"width": 364,
 			"height": 319,
 			"seed": 1603519,
@@ -94,7 +94,7 @@ Ubuntu ^GIMirkD0
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1689624586489,
+			"updated": 1689624910660,
 			"link": null,
 			"locked": false
 		},
@@ -1828,11 +1828,24 @@ Ubuntu ^GIMirkD0
 			"groupIds": [],
 			"roundness": null,
 			"seed": 682953009,
-			"version": 128,
-			"versionNonce": 145036063,
+			"version": 131,
+			"versionNonce": 221386417,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1689624747161,
+			"boundElements": [
+				{
+					"id": "Vcqo-GegaHQPmuut3kS3v",
+					"type": "arrow"
+				},
+				{
+					"id": "CUCFM8M2xCK-4e5No30Nb",
+					"type": "arrow"
+				},
+				{
+					"id": "0UCZE5hAdkKINiJtDZ5Jc",
+					"type": "arrow"
+				}
+			],
+			"updated": 1689624892475,
 			"link": null,
 			"locked": false,
 			"text": "Ubuntu",
@@ -1876,8 +1889,8 @@ Ubuntu ^GIMirkD0
 		},
 		{
 			"type": "text",
-			"version": 288,
-			"versionNonce": 1977622289,
+			"version": 289,
+			"versionNonce": 647190737,
 			"isDeleted": false,
 			"id": "GIMirkD0",
 			"fillStyle": "hachure",
@@ -1895,8 +1908,13 @@ Ubuntu ^GIMirkD0
 			"seed": 682953009,
 			"groupIds": [],
 			"roundness": null,
-			"boundElements": [],
-			"updated": 1689624773434,
+			"boundElements": [
+				{
+					"id": "0UCZE5hAdkKINiJtDZ5Jc",
+					"type": "arrow"
+				}
+			],
+			"updated": 1689624892475,
 			"link": null,
 			"locked": false,
 			"fontSize": 12.521739130434783,
@@ -1916,31 +1934,35 @@ Ubuntu ^GIMirkD0
 			"x": -384,
 			"y": 76.9375,
 			"width": 74,
-			"height": 7,
+			"height": 28,
 			"angle": 0,
 			"strokeColor": "#862e9c",
 			"backgroundColor": "#fd7e14",
 			"fillStyle": "solid",
-			"strokeWidth": 0.5,
+			"strokeWidth": 2,
 			"strokeStyle": "solid",
-			"roughness": 1,
+			"roughness": 0,
 			"opacity": 100,
 			"groupIds": [],
 			"roundness": {
 				"type": 2
 			},
-			"seed": 38968081,
-			"version": 48,
-			"versionNonce": 241891345,
+			"seed": 468693361,
+			"version": 79,
+			"versionNonce": 314202961,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1689624802907,
+			"updated": 1689624856856,
 			"link": null,
 			"locked": false,
 			"points": [
 				[
 					0,
 					0
+				],
+				[
+					35,
+					-21
 				],
 				[
 					74,
@@ -1950,7 +1972,7 @@ Ubuntu ^GIMirkD0
 			"lastCommittedPoint": null,
 			"startBinding": {
 				"elementId": "4W58AwQm",
-				"focus": -0.8411708800608249,
+				"focus": -0.040978593272171245,
 				"gap": 4.375
 			},
 			"endBinding": null,
@@ -1960,7 +1982,7 @@ Ubuntu ^GIMirkD0
 		{
 			"id": "g3Mnbc3sM4pYFY0XXy_b6",
 			"type": "arrow",
-			"x": -394,
+			"x": -393,
 			"y": 132.9375,
 			"width": 71,
 			"height": 31,
@@ -1968,20 +1990,20 @@ Ubuntu ^GIMirkD0
 			"strokeColor": "#862e9c",
 			"backgroundColor": "#fd7e14",
 			"fillStyle": "solid",
-			"strokeWidth": 0.5,
+			"strokeWidth": 2,
 			"strokeStyle": "solid",
-			"roughness": 1,
+			"roughness": 0,
 			"opacity": 100,
 			"groupIds": [],
 			"roundness": {
 				"type": 2
 			},
-			"seed": 468520319,
-			"version": 59,
-			"versionNonce": 234934559,
+			"seed": 1948678929,
+			"version": 62,
+			"versionNonce": 601832063,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1689624808573,
+			"updated": 1689624861749,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1999,18 +2021,269 @@ Ubuntu ^GIMirkD0
 			"endBinding": null,
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
+		},
+		{
+			"id": "Y7J2nW1r1n8BykZWX6P7u",
+			"type": "arrow",
+			"x": -396,
+			"y": 177.9375,
+			"width": 93,
+			"height": 72,
+			"angle": 0,
+			"strokeColor": "#862e9c",
+			"backgroundColor": "#fd7e14",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"seed": 2117178015,
+			"version": 103,
+			"versionNonce": 1757669055,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1689624866841,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					54,
+					-24
+				],
+				[
+					93,
+					-72
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "Vcqo-GegaHQPmuut3kS3v",
+			"type": "arrow",
+			"x": -180,
+			"y": 94.9375,
+			"width": 58,
+			"height": 120,
+			"angle": 0,
+			"strokeColor": "#862e9c",
+			"backgroundColor": "#fd7e14",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"seed": 450620049,
+			"version": 115,
+			"versionNonce": 18514687,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1689624871563,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					35,
+					36
+				],
+				[
+					58,
+					120
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": {
+				"elementId": "bMgeL3qM",
+				"focus": -1.0644402620831388,
+				"gap": 6
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "CUCFM8M2xCK-4e5No30Nb",
+			"type": "arrow",
+			"x": -108,
+			"y": 239.9375,
+			"width": 149,
+			"height": 36,
+			"angle": 0,
+			"strokeColor": "#862e9c",
+			"backgroundColor": "#fd7e14",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1511864913,
+			"version": 143,
+			"versionNonce": 1294405439,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1689624874939,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-53,
+					33
+				],
+				[
+					-149,
+					36
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "bMgeL3qM",
+				"focus": -0.40056238540434125,
+				"gap": 8.299999999999997
+			},
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "xLUjZ7lGVq6LqL5RA23bJ",
+			"type": "line",
+			"x": -18,
+			"y": 99.9375,
+			"width": 129,
+			"height": 46,
+			"angle": 0,
+			"strokeColor": "#862e9c",
+			"backgroundColor": "#fd7e14",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1208207409,
+			"version": 127,
+			"versionNonce": 595040063,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1689624886865,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					69,
+					-3
+				],
+				[
+					129,
+					43
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "0UCZE5hAdkKINiJtDZ5Jc",
+			"type": "arrow",
+			"x": 114,
+			"y": 158.9375,
+			"width": 178,
+			"height": 62,
+			"angle": 0,
+			"strokeColor": "#862e9c",
+			"backgroundColor": "#fd7e14",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"seed": 585089073,
+			"version": 179,
+			"versionNonce": 1353148063,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1689624896191,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-62,
+					49
+				],
+				[
+					-178,
+					62
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "GIMirkD0",
+				"focus": 0.12299436388667709,
+				"gap": 1.7999999999999972
+			},
+			"endBinding": {
+				"elementId": "bMgeL3qM",
+				"focus": 0.006990888777627858,
+				"gap": 11.641952514648438
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
 		}
 	],
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
 		"currentItemStrokeColor": "#862e9c",
-		"currentItemBackgroundColor": "#fd7e14",
+		"currentItemBackgroundColor": "#15aabf",
 		"currentItemFillStyle": "solid",
-		"currentItemStrokeWidth": 0.5,
+		"currentItemStrokeWidth": 2,
 		"currentItemStrokeStyle": "solid",
-		"currentItemRoughness": 1,
-		"currentItemOpacity": 100,
+		"currentItemRoughness": 0,
+		"currentItemOpacity": 40,
 		"currentItemFontFamily": 2,
 		"currentItemFontSize": 16,
 		"currentItemTextAlign": "left",

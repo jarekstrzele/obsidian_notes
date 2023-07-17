@@ -50,9 +50,24 @@ Obecnie rozwijane i wspierane przez (Google, Microsoft, IBM, Red Hat, Cisco)
 		- nie musi być w formie terminalowej, może mieć wersję graficzną
 
 
+![[docker_architecture.excalidraw|700]]
 
 
+----
+# Koncepty Dockera
 
+### *images*
+jest jak klasa
+tworzony w pliku `Dockerfile`
+```dockerfile
+FROM nginx:latest
+
+WORKDIR /usr/share/nginx/
+```
+
+
+### *containers*
+jest jak obiekt
 
 
 
