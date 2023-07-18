@@ -72,6 +72,39 @@ fn generate_workout(intensity: u32, random_number: u32){
 # with closure
 In order to define `structs`, `enums`, or even function `parameters` that use closures we need to use **generics** and **traits bound** 
 
+```rust
+struct Cacher<T>
+where
+	T: Fn(u32) -> u32,
+{
+	calculation: T,
+	value: Option<u32>,
+}
+```
+
+> `struct Cacher<T>` to struktura w języku Rust, która jest generyczna i może przechowywać funkcje (closures) jako swoje pole.
+> 
+> Oto wyjaśnienie poszczególnych elementów struktury `Cacher<T>`:
+> 	- `T: Fn(u32) -> u32` - jest to ogólne ograniczenie typu (generic type constraint), które mówi, że `T` musi być typem, który jest funkcją. Funkcje te muszą przyjmować argument typu `u32` i zwracać wartość typu `u32`.
+> 	- `calculation: T` - jest to pole struktury `Cacher`, które przechowuje funkcję (closure). Ta funkcja będzie używana do obliczenia wartości, jeśli jest to konieczne.
+> 	- `value: Option<u32>` - jest to pole struktury `Cacher`, które przechowuje wynik obliczeń. Jest to typ `Option<u32>`, co oznacza, że może zawierać wartość `Some(u32)` (konkretną wartość) lub `None` (brak wartości).
+> 
+> Struktura `Cacher<T>` jest używana do pamiętania wyników obliczeń funkcji dla danego argumentu. Jeśli dla danego argumentu wynik jest już obliczony, zostaje on przechowany w polu `value` i może zostać zwrócony bez ponownego obliczania. Jeśli wynik nie jest jeszcze obliczony, funkcja przechowywana w polu `calculation` jest wywoływana, a jej wynik jest przechowywany w polu `value` i zwracany.
+> 
+> Dzięki temu struktura `Cacher<T>` pozwala na przechowywanie wyników obliczeń i unika zbędnego ponownego wykonywania obliczeń dla tych samych argumentów, co może być przydatne w celu poprawy wydajności programu.
+
+
+> `Fn` to trait (interfejs) w języku Rust, który reprezentuje typy, które można wywołać jak funkcje. Jest to jedno z trzech podobnych traitów, obok `FnMut` i `FnOnce`, które różnią się sposobem, w jaki można używać funkcji.
+> 
+> Oto wyjaśnienie poszczególnych traitów:
+> 	- `Fn`: Reprezentuje typy, które można wywołać jak funkcje, ale nie zmieniają stanu otoczenia, w którym są używane. Oznacza to, że nie mają wpływu na zmienne zewnętrzne ani nie modyfikują żadnych innych danych w swoim otoczeniu. Są to tzw. funkcje niemutowalne.
+> 	- `FnMut`: Reprezentuje typy, które można wywołać jak funkcje i mogą zmieniać stan otoczenia, w którym są używane. Mogą modyfikować zmienne zewnętrzne, ale nie są w stanie zmienić samego siebie. Są to tzw. funkcje mutowalne.
+> 	- `FnOnce`: Reprezentuje typy, które można wywołać jak funkcje i które konsumują swoje otoczenie przy pierwszym wywołaniu. Oznacza to, że po wywołaniu nie można ich już ponownie wywołać. Są to tzw. funkcje konsumujące.
+> 
+> W przypadku struktury `Cacher<T>`, która ma ograniczenie typu `T: Fn(u32) -> u32`, oznacza to, że pole `calculation` musi być funkcją, która przyjmuje argument typu `u32` i zwraca wartość typu `u32`. Może to być funkcja niemutowalna, mutowalna lub konsumująca, pod warunkiem, że spełnia ogólny warunek ograniczenia `Fn`.
+> 
+> Dzięki temu ograniczeniu struktura `Cacher<T>` może przechowywać różne funkcje jako swoje pole `calculation`, pod warunkiem, że spełniają wymagania dotyczące wywoływalności i typów argumentów oraz zwracanych wartości.
+
 
 
 
