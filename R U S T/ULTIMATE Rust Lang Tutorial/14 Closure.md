@@ -7,7 +7,8 @@
 >- it could be passed in as input parameters to a function and  it capture a variable inside the scope in which it is defined
 >
 
-without closure
+---
+# without closure
 ```rust
 use std::thread;
 use std::time::Duration;
@@ -67,7 +68,9 @@ fn generate_workout(intensity: u32, random_number: u32){
 > Jeśli chcemy zatrzymać wątek na inną ilość czasu, można użyć innych jednostek czasu, takich jak `Duration::from_millis(500)` dla 500 milisekund lub `Duration::from_micros(10000)` dla 10 000 mikrosekund.
 
 
-
+---
+# with closure
+In order to define `structs`, `enums`, or even function `parameters` that use closures we need to use **generics** and **traits bound** 
 
 
 
