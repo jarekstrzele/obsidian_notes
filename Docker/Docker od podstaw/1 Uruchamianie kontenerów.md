@@ -90,8 +90,38 @@ Commands:
 
 ## elasticsearch
 Elasticsearch to silnik wyszukiwania oparty na bibliotece Lucene.
+> Elasticsearch zapewnia rozproszony, wieloklientowy silnik wyszukiwania pełnotekstowego z interfejsem HTTP i dokumentami w formacie JSON bez schematu.
 
 `docker run -p 9200:9200 -p 9300:9300 -e "discovery.type=single-node" -d docker.elastic.co/elasticsearch/elasticsearch:6.5.4`
+
+sprawdzenie logów
+`docker container logs <container_id> -f`
+
+```bash
+$ curl localhost:9200
+{
+  "name" : "BAyiEbB",
+  "cluster_name" : "docker-cluster",
+  "cluster_uuid" : "cWNEeCUnSraVoeV55LIHxA",
+  "version" : {
+    "number" : "6.5.4",
+    "build_flavor" : "default",
+    "build_type" : "tar",
+    "build_hash" : "d2ef93d",
+    "build_date" : "2018-12-17T21:17:40.758843Z",
+    "build_snapshot" : false,
+    "lucene_version" : "7.5.0",
+    "minimum_wire_compatibility_version" : "5.6.0",
+    "minimum_index_compatibility_version" : "5.0.0"
+  },
+  "tagline" : "You Know, for Search"
+}
+
+```
+
+
+
+
 
 
 
