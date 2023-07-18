@@ -126,7 +126,7 @@ $ curl localhost:9200
 
 *-XPOST* żądanie będzie wysłane metoda POST
 
-*"http://localhost:9200/docker/image/1"* wysyłane żądanie do lokal
+*"http://localhost:9200/docker/image/1"* wysyłane żądanie do lokalnego serwera do indeksu "docker"
 
 
 
