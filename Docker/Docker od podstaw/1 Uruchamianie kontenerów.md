@@ -120,9 +120,13 @@ $ curl localhost:9200
 ```
 
 
+`$ curl -H "Content-Type: application/json" -XPOST "http://localhost:9200/docker/image/1" -d "{ \"name\" : \"elasticsearch\"}"`
 
+*"Content-Type: application/json"* nagłówek żądania HTTP (dane przesyłane w treści żądania są w formacie JSON)
 
+*-XPOST* żądanie będzie wysłane metoda POST
 
+*"http://localhost:9200/docker/image/1"* wysyłane żądanie do lokal
 
 
 
