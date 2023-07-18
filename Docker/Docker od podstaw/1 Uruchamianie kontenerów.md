@@ -129,5 +129,9 @@ $ curl localhost:9200
 *"http://localhost:9200/docker/image/1"* wysyłane żądanie do lokalnego serwera do indeksu "docker"
 
 
+```
+$ curl localhost:9200/docker/image/1
+{"_index":"docker","_type":"image","_id":"1","_version":1,"found":true,"_source":{ "name" : "elasticsearch"}}
 
+```
 
