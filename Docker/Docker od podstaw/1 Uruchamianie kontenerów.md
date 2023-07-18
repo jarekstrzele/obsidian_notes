@@ -61,3 +61,32 @@ jarek@jarek-legion:~$ sudo docker container start 5f3
 5f3
 ```
 
+nadanie nazwy:
+`docker container run --publish 8080:80 --detach --name=mynginx nginx`
+
+usuwanie
+`$ sudo docker container rm 5f32`
+`docker container rm <nazwa>`
+`-f` usuwanie włączonego kontenera 
+
+```bash
+$ docker container --help
+
+Usage:  docker container COMMAND
+
+Manage containers
+
+Commands:
+  attach      Attach local standard input, output, and error streams to a running container
+  commit      Create a new image from a container's changes
+  cp          Copy files/folders between a container and the local filesystem
+  create      Create a new co ...
+```
+
+`top  Display the running processes of a container`
+
+
+
+
+
+
