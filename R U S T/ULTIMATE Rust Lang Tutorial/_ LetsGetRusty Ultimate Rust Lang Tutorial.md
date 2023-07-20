@@ -9,10 +9,13 @@ https://www.youtube.com/watch?v=OX9HJsJUDxA&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H
 [[R U S T/ULTIMATE Rust Lang Tutorial/5 Enum]]
 [[6 System Module]]
 [[7 Common Collections in Rust]]
-
-
-
-
+[[8 Error]]
+[[9 Generic Rust]]
+[[10 Traits Rust]]
+[[11 Rust Lifetimes]]
+[[12 Testing Rust]]
+[[13 CLI App MiniGrap]]
+[[14 Closure]]
 
 
 -----------

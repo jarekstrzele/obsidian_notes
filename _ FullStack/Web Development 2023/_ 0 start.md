@@ -3,9 +3,12 @@
 -----
 # The Complete 2023 Web Development Bootcamp 65.5hours
 
-#### [[0 HTML]]
-#### [[0 CSS]]
-#### [[0 Bootstrap]]
+#### [[1 HTML]]
+#### [[2 CSS]]
+#### [[3 Flexbox]]
+#### [[4 Grid]]
+#### [[5 Bootstrap]]
+
 
 
 
@@ -23,8 +26,6 @@
 ## How Do Websites Work? 
 ### What does HTML, CSS and JavaScript do exactly?
 - the data that you received from a web server usually contains files: HTML, CSS, JavaScript
-
-
 
 ## Needed apps
 - Chrome
