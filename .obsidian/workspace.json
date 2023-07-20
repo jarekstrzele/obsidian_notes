@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/UBUNTU.md",
+                "file": "_ WEB/Django/Mosh/Django z docker.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/UBUNTU.md",
+                "file": "_ WEB/Django/Mosh/Django z docker.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/UBUNTU.md",
+                "file": "_ WEB/Django/Mosh/Django z docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/UBUNTU.md"
+                "file": "_ WEB/Django/Mosh/Django z docker.md"
               }
             }
           },
@@ -228,6 +228,8 @@
   },
   "active": "2d800acb682c528a",
   "lastOpenFiles": [
+    "linux/UBUNTU.md",
+    "_ WEB/Django/Mosh/Django z docker.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/14 Closure.md",
     "_ WEB/Django/Mosh/1/_ Django 1 start Mosh.md",
     "_ WEB/Django/Mosh/1/Debugging Django App in VSCode.md",
@@ -253,8 +255,6 @@
     "Docker/Docker od podstaw/5 Docker compose.md",
     "Docker/Docker od podstaw/4 Bezpieczeństwo - docker.md",
     "Docker/Docker od podstaw/3 Przechowywanie danych.md",
-    "Docker/Docker od podstaw/2 Budowanie obrazów.md",
-    "Docker/General.md",
     "Docker/Docker od podstaw",
     "_ WEB/Django/Django For Everybody",
     "C Sharp/C Sharp od Podstaw do WPF i XAML",

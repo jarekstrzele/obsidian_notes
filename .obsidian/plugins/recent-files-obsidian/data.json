@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Django z docker",
+      "path": "_ WEB/Django/Mosh/Django z docker.md"
+    },
+    {
       "basename": "UBUNTU",
       "path": "linux/UBUNTU.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_ LetsGetRusty Ultimate Rust Lang Tutorial",
       "path": "R U S T/ULTIMATE Rust Lang Tutorial/_ LetsGetRusty Ultimate Rust Lang Tutorial.md"
-    },
-    {
-      "basename": "_ C Sharp od Podstaw do WPF i XAML",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md"
     }
   ],
   "omittedPaths": [],
