@@ -1,4 +1,4 @@
-[[_ WEB/Django/Angular/Praktyczny kurs Angulara/0 Podstawy Angular]]
+[[_ WEB/Angular/Praktyczny kurs Angulara/0 Podstawy Angular]]
 
 
 ---
