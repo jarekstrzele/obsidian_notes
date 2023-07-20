@@ -27,7 +27,7 @@ CMD ["python3", "manage.py", "runserver", "0.0.0.0:8000"]
 
 ```
 
-docer-compose.yml
+docker-compose.yml
 ```yml
 version: "3"
 
@@ -50,6 +50,8 @@ Django>=3.2,<4
 
 
 ## Dockerfile
+określa jak zbudować nasz obraz Docker dla aplikacji 
+
 
 `FROM python:3.9` określenie obrazu bazowego, na którym będziemy budować nasz obraz Dockera
 
@@ -57,12 +59,23 @@ Django>=3.2,<4
 
 `COPY requirements.txt /app/` kopiuje `requirements.txt` z katalogu, w którym znajduje się plik `Dockerfile` do katalogu `/app/` wewnątrz kontenera
 
-`RUN pip install --no-cache-dir -r requirements.txt` instalowanie 
+`RUN pip install --no-cache-dir -r requirements.txt` instalowanie zależności przez wykonanie instrukcji `pip`
+
+`ENV DJANGO_ENV=development` ustawia zmienną środowiskową 
 
 
+-----
+## docker-compose.yml
 
+`services` definiuje usługi (kontenery) w naszym projekcie 
 
+`web` nazwa usługi(kontenera), można użyć dowolnej nazwy, ale wartością domyślną jest `web` (w kontenerach webowych)
 
+`build:. ` obraz dla tej usługi będzie budowany z katalogu bieżącego (to katalog,w którym znajduje się `docker-compose.yml`) za pomocą pliku `DOckerfile` -- to odpowiednik komendy `docker build` , ale wykonuje ją w kontekście tej usłudi
+
+`ports: ` mapuje porty między kontenerem a hostem *HOST:CONTAINTER*
+
+`volumes` montuje katalog z 
 
 
 
