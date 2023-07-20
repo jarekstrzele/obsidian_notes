@@ -133,6 +133,11 @@ def say_hello(request):
 	return render(request, 'hello.html', {"name":"jaro"})
 ```
 
+------
+# Debugging
+in VSCode  (debug button) -> create `launch.json` (now VS code knows how to run or debug this application)
+
+
 
 
 

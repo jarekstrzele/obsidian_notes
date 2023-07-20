@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ WEB/Django/Mosh/Django z dockerem.md",
+                "file": "_ WEB/Django/Mosh/1/_ Django 1 start Mosh.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ WEB/Django/Mosh/Django z dockerem.md",
+                "file": "_ WEB/Django/Mosh/1/_ Django 1 start Mosh.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ WEB/Django/Mosh/Django z dockerem.md",
+                "file": "_ WEB/Django/Mosh/1/_ Django 1 start Mosh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ WEB/Django/Mosh/Django z dockerem.md"
+                "file": "_ WEB/Django/Mosh/1/_ Django 1 start Mosh.md"
               }
             }
           },
@@ -228,8 +228,8 @@
   },
   "active": "2d800acb682c528a",
   "lastOpenFiles": [
-    "linux/UBUNTU.md",
     "_ WEB/Django/Mosh/Django z dockerem.md",
+    "linux/UBUNTU.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/14 Closure.md",
     "_ WEB/Django/Mosh/1/_ Django 1 start Mosh.md",
     "_ WEB/Django/Mosh/1/Debugging Django App in VSCode.md",
