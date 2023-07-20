@@ -1,6 +1,0 @@
-#docker #django  #docker-compose 
-
-
-
-
-

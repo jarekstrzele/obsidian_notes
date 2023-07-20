@@ -1,0 +1,77 @@
+#docker #django  #docker-compose 
+
+struktura projektu
+folder_główny:
+	- folder z projektem Django
+	- plik `docker-compose.yml`
+	- `Dockerfile`
+	- `requirements.txt`
+
+Dockerfile
+```Dockerfile
+FROM python:3.9
+
+# katalog pracy wewnątrz kontenera
+WORKDIR /app
+
+COPY requirements.txt /app/
+
+RUN pip install --no-cache-dir -r requirements.txt
+
+# kopiowanie aplikacji do kontenera
+COPY . /app/
+
+ENV DJANGO_ENV=development
+
+CMD ["python3", "manage.py", "runserver", "0.0.0.0:8000"]
+
+```
+
+docer-compose.yml
+```yml
+version: "3"
+
+services:
+  web:
+    build: .
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./my_proj_mosh/:/app
+    environment:
+      - DJANGO_ENV=development
+```
+
+requirements.txt
+```txt
+Django>=3.2,<4
+
+```
+
+
+## Dockerfile
+
+`FROM python:3.9` określenie obrazu bazowego, na którym będziemy budować nasz obraz Dockera
+
+`WORKDIR /app` ustawienie pracy wewnątrz kontenera, wszystkie późniejsze instrukcje będą działać w kontekście tego katalogu
+
+`COPY requirements.txt /app/` kopiuje `requirements.txt` z katalogu, w którym znajduje się plik `Dockerfile` do katalogu `/app/` wewnątrz kontenera
+
+`RUN pip install --no-cache-dir -r requirements.txt` instalowanie 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
