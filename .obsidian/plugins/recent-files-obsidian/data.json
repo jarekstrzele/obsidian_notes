@@ -1,16 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "_ Django 1 start Mosh",
-      "path": "_ WEB/Django/Mosh/1/_ Django 1 start Mosh.md"
-    },
-    {
-      "basename": "2 Django",
-      "path": "Studia/Python BackEnd/Django/2 Django.md"
+      "basename": "UBUNTU",
+      "path": "linux/UBUNTU.md"
     },
     {
       "basename": "14 Closure",
       "path": "R U S T/ULTIMATE Rust Lang Tutorial/14 Closure.md"
+    },
+    {
+      "basename": "_ Django 1 start Mosh",
+      "path": "_ WEB/Django/Mosh/1/_ Django 1 start Mosh.md"
+    },
+    {
+      "basename": "Debugging Django App in VSCode",
+      "path": "_ WEB/Django/Mosh/1/Debugging Django App in VSCode.md"
+    },
+    {
+      "basename": "5 the Admin Site",
+      "path": "_ WEB/Django/Mosh/1/5 the Admin Site.md"
+    },
+    {
+      "basename": "4 Django ORM",
+      "path": "_ WEB/Django/Mosh/1/4 Django ORM.md"
+    },
+    {
+      "basename": "3 Setting Up the Database",
+      "path": "_ WEB/Django/Mosh/1/3 Setting Up the Database.md"
+    },
+    {
+      "basename": "2 Building a Data Model",
+      "path": "_ WEB/Django/Mosh/1/2 Building a Data Model.md"
+    },
+    {
+      "basename": "2 Django",
+      "path": "Studia/Python BackEnd/Django/2 Django.md"
     },
     {
       "basename": "1 Framework Django",
@@ -121,10 +145,6 @@
       "path": "Docker/Developing Python 3 Apps with Docker/_0 start developing Python apps with Docker.md"
     },
     {
-      "basename": "UBUNTU",
-      "path": "linux/UBUNTU.md"
-    },
-    {
       "basename": "The coding interview",
       "path": "INTERVIEWS/ZTM/The coding interview.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "_ C Sharp od Podstaw do WPF i XAML",
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md"
-    },
-    {
-      "basename": "3 React Basics",
-      "path": "_ WEB/REACT/React - the Complete Guide/3 React Basics.md"
-    },
-    {
-      "basename": "12 String",
-      "path": "R U S T/Rust Programming Tutorial/12 String.md"
-    },
-    {
-      "basename": "3.1. Odczytywanie info o plikach",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md"
-    },
-    {
-      "basename": "3.2. Odczytywanie plików",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3.2. Odczytywanie plików.md"
-    },
-    {
-      "basename": "4.1. Prosty serwer i klient TCP",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/4.1. Prosty serwer i klient TCP.md"
     }
   ],
   "omittedPaths": [],
