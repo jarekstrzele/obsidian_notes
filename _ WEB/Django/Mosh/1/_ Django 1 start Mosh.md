@@ -15,11 +15,11 @@
 **URL** Uniform Resource Locator - this is a way to locate a resource on our internet (resource: page, img, video, ... )
 
 by HTTP (HyperText Transfer Protocol):
->cliert  --- request     ---> server 
+>client  --- request     ---> server 
 server --- response ----> client
 
 
->BEST PRICTICE
+>**BEST PRACTICE**
 >Push the responsibility of generating web pages to the client
 
 #endpoint 
