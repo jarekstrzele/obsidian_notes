@@ -30,21 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d2e0e6b21b9a88c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Docker/pyqt z dockerem.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -143,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Docker/pyqt z dockerem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Docker/pyqt z dockerem.md"
               }
             }
           },
@@ -214,10 +202,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d2e0e6b21b9a88c4",
+  "active": "a7483d57affdb773",
   "lastOpenFiles": [
-    "Docker/pyqt z dockerem.md",
     "conflict-files-obsidian-git.md",
+    "Docker/pyqt z dockerem.md",
     "Docker/Docker od podstaw/_ Wprowadzenie docker.md",
     "Docker/Docker od podstaw/6 Registry - przechowywanie obrazów.md",
     "Docker/Docker od podstaw/5 Docker compose.md",
