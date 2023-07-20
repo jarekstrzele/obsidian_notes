@@ -75,7 +75,9 @@ określa jak zbudować nasz obraz Docker dla aplikacji
 
 `ports: ` mapuje porty między kontenerem a hostem *HOST:CONTAINTER*
 
-`volumes` montuje katalog z 
+`volumes` montuje katalog z lokalnego systemy do katalogu wewnątrz kontenera (montujemy katalog `my_proj_mosh` z lokalnego systemu do katalogu `/app` wewnatrz kontenera ) ( łatwe odzwierciedlanie zmian wewnątrz kontenera)
+
+`envirement`  definiuje zmienne środowiskowe wewnątrz kontenera
 
 
 
