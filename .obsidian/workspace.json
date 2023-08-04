@@ -54,9 +54,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "152a961492709f6a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.7"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -227,7 +237,7 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "71e065b19cb47489",
+  "active": "152a961492709f6a",
   "lastOpenFiles": [
     "Docker/pyqt z dockerem.md",
     "_ WEB/Django/Mosh/1/_ Django 1 start Mosh.md",
