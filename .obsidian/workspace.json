@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/ULTIMATE Rust Lang Tutorial/1 Guessing Game in Rust.md",
+                "file": "R U S T/ULTIMATE Rust Lang Tutorial/3 Ownership.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/ULTIMATE Rust Lang Tutorial/1 Guessing Game in Rust.md",
+                "file": "R U S T/ULTIMATE Rust Lang Tutorial/3 Ownership.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/ULTIMATE Rust Lang Tutorial/1 Guessing Game in Rust.md",
+                "file": "R U S T/ULTIMATE Rust Lang Tutorial/3 Ownership.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/ULTIMATE Rust Lang Tutorial/1 Guessing Game in Rust.md"
+                "file": "R U S T/ULTIMATE Rust Lang Tutorial/3 Ownership.md"
               }
             }
           },
@@ -228,6 +228,8 @@
   },
   "active": "045c64a950639aaa",
   "lastOpenFiles": [
+    "R U S T/ULTIMATE Rust Lang Tutorial/2. Common Programming Concepts in Rust.md",
+    "R U S T/ULTIMATE Rust Lang Tutorial/1 Guessing Game in Rust.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/_ LetsGetRusty Ultimate Rust Lang Tutorial.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/Casting.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/10 Traits Rust.md",
@@ -252,8 +254,6 @@
     "_ WEB/Django/Django rest framework/3 Demonstracja SQLite.md",
     "_ WEB/Django/Django rest framework/_ wstęp Django Rest.md",
     "Docker/Docker od podstaw/1 Uruchamianie kontenerów.md",
-    "Docker/Docker od podstaw/_ Wprowadzenie docker.md",
-    "Excalidraw/docker_architecture.excalidraw.md",
     "Git/git od podstaw dla każdego",
     "Docker/Docker od podstaw",
     "_ WEB/Django/Django For Everybody",
