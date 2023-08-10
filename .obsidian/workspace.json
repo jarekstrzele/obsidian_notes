@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/ULTIMATE Rust Lang Tutorial/3 Ownership.md",
+                "file": "R U S T/ULTIMATE Rust Lang Tutorial/4. Structs in Rust.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/ULTIMATE Rust Lang Tutorial/3 Ownership.md",
+                "file": "R U S T/ULTIMATE Rust Lang Tutorial/4. Structs in Rust.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/ULTIMATE Rust Lang Tutorial/3 Ownership.md",
+                "file": "R U S T/ULTIMATE Rust Lang Tutorial/4. Structs in Rust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/ULTIMATE Rust Lang Tutorial/3 Ownership.md"
+                "file": "R U S T/ULTIMATE Rust Lang Tutorial/4. Structs in Rust.md"
               }
             }
           },
@@ -226,8 +226,9 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "f621f21825dbd82d",
+  "active": "045c64a950639aaa",
   "lastOpenFiles": [
+    "R U S T/ULTIMATE Rust Lang Tutorial/3 Ownership.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/2. Common Programming Concepts in Rust.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/1 Guessing Game in Rust.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/_ LetsGetRusty Ultimate Rust Lang Tutorial.md",
@@ -253,7 +254,6 @@
     "_ WEB/Django/Django For Everybody/_ Django For Everybody.md",
     "_ WEB/Django/Django rest framework/3 Demonstracja SQLite.md",
     "_ WEB/Django/Django rest framework/_ wstęp Django Rest.md",
-    "Docker/Docker od podstaw/1 Uruchamianie kontenerów.md",
     "Git/git od podstaw dla każdego",
     "Docker/Docker od podstaw",
     "_ WEB/Django/Django For Everybody",
