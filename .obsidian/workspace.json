@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/ULTIMATE Rust Lang Tutorial/4. Structs in Rust.md",
+                "file": "R U S T/ULTIMATE Rust Lang Tutorial/8 Error.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/ULTIMATE Rust Lang Tutorial/4. Structs in Rust.md",
+                "file": "R U S T/ULTIMATE Rust Lang Tutorial/8 Error.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/ULTIMATE Rust Lang Tutorial/4. Structs in Rust.md",
+                "file": "R U S T/ULTIMATE Rust Lang Tutorial/8 Error.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/ULTIMATE Rust Lang Tutorial/4. Structs in Rust.md"
+                "file": "R U S T/ULTIMATE Rust Lang Tutorial/8 Error.md"
               }
             }
           },
@@ -228,6 +228,9 @@
   },
   "active": "045c64a950639aaa",
   "lastOpenFiles": [
+    "R U S T/ULTIMATE Rust Lang Tutorial/6 System Module.md",
+    "R U S T/ULTIMATE Rust Lang Tutorial/5 Enum.md",
+    "R U S T/ULTIMATE Rust Lang Tutorial/4. Structs in Rust.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/3 Ownership.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/2. Common Programming Concepts in Rust.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/1 Guessing Game in Rust.md",
@@ -251,9 +254,6 @@
     "_ WEB/Django/Mosh/1/2 Building a Data Model.md",
     "Studia/Python BackEnd/Django/1 Framework Django.md",
     "R U S T/Learn Rust by Building Real App/4.4 Organising a Code into Modules.md",
-    "_ WEB/Django/Django For Everybody/_ Django For Everybody.md",
-    "_ WEB/Django/Django rest framework/3 Demonstracja SQLite.md",
-    "_ WEB/Django/Django rest framework/_ wstęp Django Rest.md",
     "Git/git od podstaw dla każdego",
     "Docker/Docker od podstaw",
     "_ WEB/Django/Django For Everybody",
