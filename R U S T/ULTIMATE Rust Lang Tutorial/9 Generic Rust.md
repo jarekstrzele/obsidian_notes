@@ -83,7 +83,7 @@ fn main(){
 
 # generic `enum`
 ```rust
-enum Option<t>{
+enum Option<T>{
 	Some(T),
 	None
 }

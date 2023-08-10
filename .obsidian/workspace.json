@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/ULTIMATE Rust Lang Tutorial/9 Generic Rust.md",
+                "file": "R U S T/ULTIMATE Rust Lang Tutorial/10 Traits Rust.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/ULTIMATE Rust Lang Tutorial/9 Generic Rust.md",
+                "file": "R U S T/ULTIMATE Rust Lang Tutorial/10 Traits Rust.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/ULTIMATE Rust Lang Tutorial/9 Generic Rust.md",
+                "file": "R U S T/ULTIMATE Rust Lang Tutorial/10 Traits Rust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/ULTIMATE Rust Lang Tutorial/9 Generic Rust.md"
+                "file": "R U S T/ULTIMATE Rust Lang Tutorial/10 Traits Rust.md"
               }
             }
           },
@@ -228,6 +228,7 @@
   },
   "active": "045c64a950639aaa",
   "lastOpenFiles": [
+    "R U S T/ULTIMATE Rust Lang Tutorial/9 Generic Rust.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/8 Error.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/7 Common Collections in Rust.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/6 System Module.md",
@@ -253,7 +254,6 @@
     "_ WEB/Django/Mosh/1/5 the Admin Site.md",
     "_ WEB/Django/Mosh/1/4 Django ORM.md",
     "_ WEB/Django/Mosh/1/3 Setting Up the Database.md",
-    "_ WEB/Django/Mosh/1/2 Building a Data Model.md",
     "Git/git od podstaw dla każdego",
     "Docker/Docker od podstaw",
     "_ WEB/Django/Django For Everybody",
