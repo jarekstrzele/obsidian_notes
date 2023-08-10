@@ -106,9 +106,9 @@ fn main(){
 	}
 }
 
-#### ==references don't take ownership of the underlying value!!!==
+// references don't take ownership of the underlying value!!!==
 
-### `s` points to pointer of `s1`
+//### `s` points to pointer of `s1`
 ### `s1` points to the address on the heap of "hello"
 when function  `calculate_length` end its working only `s` will be dropped
 
