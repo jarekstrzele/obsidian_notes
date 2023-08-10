@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "8 Error",
+      "path": "R U S T/ULTIMATE Rust Lang Tutorial/8 Error.md"
+    },
+    {
       "basename": "7 Common Collections in Rust",
       "path": "R U S T/ULTIMATE Rust Lang Tutorial/7 Common Collections in Rust.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "5 Enum",
       "path": "R U S T/ULTIMATE Rust Lang Tutorial/5 Enum.md"
-    },
-    {
-      "basename": "8 Error",
-      "path": "R U S T/ULTIMATE Rust Lang Tutorial/8 Error.md"
     },
     {
       "basename": "4. Structs in Rust",
