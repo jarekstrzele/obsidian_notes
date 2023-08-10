@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "9 Generic Rust",
+      "path": "R U S T/ULTIMATE Rust Lang Tutorial/9 Generic Rust.md"
+    },
+    {
       "basename": "8 Error",
       "path": "R U S T/ULTIMATE Rust Lang Tutorial/8 Error.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "14. Vectors",
       "path": "R U S T/Rust Programming Tutorial/14. Vectors.md"
-    },
-    {
-      "basename": "_ Rust Programming Tutorial",
-      "path": "R U S T/Rust Programming Tutorial/_ Rust Programming Tutorial.md"
     }
   ],
   "omittedPaths": [],
