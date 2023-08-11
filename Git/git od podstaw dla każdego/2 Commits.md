@@ -19,6 +19,18 @@ rewizja_1 <---- rewizja_2
 1. skasować plik
 2. `git add <filename>`
 
+`git commit -m "..."`
+
+
+---
+# rewizje gita
+
+`git log` lista rewizji
+
+`git log --graph` graf rewizji
+`git log --graph --oneline`
+`git log --graph --oneline --all` --- można zrobić alias do tego polecenia
+#git/alias
 
 
 
