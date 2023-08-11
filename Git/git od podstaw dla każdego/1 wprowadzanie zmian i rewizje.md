@@ -10,7 +10,8 @@
 *nothing to commit* - w *staging area* brak zmian, które mogłyby zostać dodane do kolejnej rewizji
 
 
-
+-----
+# Pliki nieśledzone `untracked files `
 
 
 
