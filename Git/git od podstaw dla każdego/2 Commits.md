@@ -16,7 +16,8 @@ rewizja_1 <---- rewizja_2
 
 # Usuwanie plików
 
-
+1. skasować plik
+2. `git add <filename>`
 
 
 
