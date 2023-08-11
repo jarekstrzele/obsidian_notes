@@ -51,10 +51,18 @@ jarek@jarek-legion:~/Desktop/git_test$ git gr
 # porównywanie plików `git diff`
 #git/diff
 
+scenariusz:
+- dodajemy nowy plik txt z zawartością
+- `add`, `commit`
+- modyfikujemy ten plik i `add` (czyli  w repo i w indeksie są dwa te pliki o różnej zawartości )
+- jeszcze raz go modyfikujemy, ale bez `add`
 
 
+`git diff` porównywania plików między przestrzeniami:
+- `working tree` a `staging area`
 
-
+`git diff --staged` porównywanie plików miedzy przestrzeniami:
+- `staging area` a `local repository`
 
 
 
