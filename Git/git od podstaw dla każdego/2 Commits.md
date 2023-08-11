@@ -59,10 +59,20 @@ scenariusz:
 
 
 `git diff` porównywania plików między przestrzeniami:
-- `working tree` a `staging area`
+- `working tree` a 
+- `staging area`
 
 `git diff --staged` porównywanie plików miedzy przestrzeniami:
-- `staging area` a `local repository`
+- `staging area` a 
+- `local repository`
+
+
+`git diff <commit_id>` porównywanie plików miedzy przestrzeniami:
+- `woring tree` a 
+- `local repository`
+
+`git diff <nazwa pliku>` porównywanie tylko tego pliku
+
 
 
 
