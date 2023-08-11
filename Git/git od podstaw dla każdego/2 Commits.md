@@ -30,8 +30,26 @@ rewizja_1 <---- rewizja_2
 `git log --graph` graf rewizji
 `git log --graph --oneline`
 `git log --graph --oneline --all` --- można zrobić alias do tego polecenia
+
+## alias
 #git/alias
 
+```bash
+$ git config --global alias.gr "log --graph --oneline --all"
+```
+
+```
+jarek@jarek-legion:~/Desktop/git_test$ git gr
+* 386d257 (HEAD -> main) add and delete sec.txt
+* 18ec335 drugi commit
+* 5c71221 first commit
+
+```
+
+
+---------
+# porównywanie plików `git diff`
+#git/diff
 
 
 
