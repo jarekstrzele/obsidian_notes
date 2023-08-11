@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/git od podstaw dla każdego/1 wprowadzanie zmian i rewizje.md",
+                "file": "Git/git od podstaw dla każdego/2 Commits.md",
                 "mode": "source",
                 "source": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/git od podstaw dla każdego/1 wprowadzanie zmian i rewizje.md",
+                "file": "Git/git od podstaw dla każdego/2 Commits.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/git od podstaw dla każdego/1 wprowadzanie zmian i rewizje.md",
+                "file": "Git/git od podstaw dla każdego/2 Commits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/git od podstaw dla każdego/1 wprowadzanie zmian i rewizje.md"
+                "file": "Git/git od podstaw dla każdego/2 Commits.md"
               }
             }
           },
@@ -240,9 +240,9 @@
   },
   "active": "a7f8cec5a216a21b",
   "lastOpenFiles": [
-    "Git/git od podstaw dla każdego/2 wprowadzanie zmian.md",
     "Git/git od podstaw dla każdego/1 wprowadzanie zmian i rewizje.md",
     "Git/git od podstaw dla każdego/_ git od podstaw.md",
+    "Git/git od podstaw dla każdego/2 Commits.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/10 Traits Rust.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/9 Generic Rust.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/8 Error.md",
