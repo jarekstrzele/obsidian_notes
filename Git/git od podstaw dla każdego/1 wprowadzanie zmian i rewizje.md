@@ -22,6 +22,27 @@ Jeżeli wprowadzę zmiany w pliku, to nie są one automatycznie zapisywane w *st
 # Commit - rewizja
 `git commit -m "some message"`
 
+`git show` pokazuje, jaki informacje niesie ze sobą rewizja
+
+`git show <idcommit>`
+
+
+# Funkcja skrótu
+Git jej używa w wielu miejscach `SHA1` - tej funkcji używa GIT
+
+>[!info] funkcja skrótu
+> na ==wejściu== przyjmuje pewne dane (np. łańcuch znaków)
+> na ==wyjściu== zwraca jakąś liczbę , która charakteryzuje te dane
+>
+
+dobra funkcja skrótu powinna:
+- dla danego tekstu zawsze  mieć tę samą liczbę na wyjściu
+- być nieodwracalną, czyli z danej liczby nie można uzyskać zakodowanego tekstu
+- liczba na wyjściu nie może się powtarzać
+
+`index` GITa  to słownik `klucz:plik`, gdzie kluczem jest skrót tego pliku
+
+funkcji skrótu używa GIT jako identyfikatorów rewizji
 
 
 
