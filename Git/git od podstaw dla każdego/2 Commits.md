@@ -98,9 +98,9 @@ a w to miejsce wprowadzono linijkę `+Year of birth:1947`
 
 
 `git diff <commit_id>` porównywanie plików miedzy przestrzeniami:
-- `woring tree` a 
+- `wokring tree` a 
 - `local repository`
-`git diff HEAD` podaj różnice między plikami w working tree, a local repo dla aktualnej rewizji
+`git diff HEAD` podaj różnice między plikami w `working tree`, a` `local repo` dla aktualnej rewizji
 
 
 
@@ -109,6 +109,9 @@ a w to miejsce wprowadzono linijkę `+Year of birth:1947`
 
 ==najmniejszą jednostką zmiany dla GITa jest LINIJKA==
 
+-----
+# Wycofać zmiany z poczekalni
+taka odwrotność dla `add`
 
 
 
