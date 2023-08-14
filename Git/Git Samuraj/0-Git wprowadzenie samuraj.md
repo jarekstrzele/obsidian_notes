@@ -82,14 +82,14 @@ Visual Studio Code --> View --> Command Pallet--> select default shell
 
 konfiguracja gita (pilk konfiguracyjy znajduje się w **.git jako .gitconfig**  
 
-`git config`  global user.name "userName"  
+`git config  global user.name "userName"  `
 
-`git config`  global user.email "emaul@cos.pl"  
+`git config  global user.email "emaul@cos.pl"  `
 
-`git config`  global core.editor   
+`git config global core.editor `  
 
 `git config user.name = "username"`
-to będa dane lokalne, tylko dla danego projektu  
+to będą dane lokalne, tylko dla danego projektu  
 
 `git config --global --unset user.email`
 kasuje wartość user.email   
@@ -100,32 +100,28 @@ kasuje wartość user.email
 `git init -h`            // o parametrach  
 
 `ls -a`        a       w      windowsie                  _dir -h_  
-
    
-mamy trzy obszary:
--   katalog robczy  
--   katalog .git ( czyli katalog z repo)  
--   index, przechowalnia, stage             pomiędzy coś oczekujące na dodanie  
-    
+### mamy trzy obszary:
+-   ==katalog roboczy==  
+-   katalog ==.git== ( czyli katalog z repo)  
+-   ==index==, przechowalnia, stage  
+
 `git add fileName  
 `git commit -m "initial commit"  
 `git log  
 `git log --oneline  
-
-> 4 stany plików w repo GIT  
-> 
+> ==Cztery stany== plików w repo GIT  
 > 1.  plik nieśledzony  
-> 2.  plik śledzony  
-	> 1.  niezmodyfikowany  
-	>  2.  zmodyfikowany  
->    > 3.  w indeksie  
->     
+> 2.  plik śledzony:
+> - niezmodyfikowany
+> - zmodyfikowany 
+> - w indeksie  
 
-  
-Mamy plik śledzony.  
-Zmodyfikowaliśmy ten plik.  
-Plik ma status zmodyfikowany.  
-Aby powrócić do stanu przed modyfikacją:  
+Powrót do stanu przed modyfikacją 
+- Mamy plik śledzony.  
+- Zmodyfikowaliśmy ten plik.  
+- Plik ma status zmodyfikowany.  
+- Aby powrócić do stanu przed modyfikacją:  
 #git/checkout
 `git checkout nazwaPliku`
 
