@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/git od podstaw dla każdego/1 wprowadzanie zmian i rewizje.md",
+                "file": "Docker/Docker od podstaw/_ Wprowadzenie docker.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,8 +79,7 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -162,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Learn Git GitHub and master/Deeper   - the Stash.md",
+                "file": "Docker/Docker od podstaw/_ Wprowadzenie docker.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -179,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Learn Git GitHub and master/Deeper   - the Stash.md",
+                "file": "Docker/Docker od podstaw/_ Wprowadzenie docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Learn Git GitHub and master/Deeper   - the Stash.md"
+                "file": "Docker/Docker od podstaw/_ Wprowadzenie docker.md"
               }
             }
           },
@@ -250,8 +249,14 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "c8db0622c44a35c6",
+  "active": "e09fd8603ad2539e",
   "lastOpenFiles": [
+    "Docker/Docker od podstaw/1 Uruchamianie kontenerów.md",
+    "Docker/Docker od podstaw/2 Budowanie obrazów.md",
+    "Docker/Docker od podstaw/_ Wprowadzenie docker.md",
+    "Git/git od podstaw dla każdego/1 wprowadzanie zmian i rewizje.md",
+    "_ WEB/Django/Mosh/1/2 Building a Data Model.md",
+    "Git/Learn Git GitHub and master/Deeper   - the Stash.md",
     "Git/Learn Git GitHub and master/Cloud Hosting & Collaboration Provider.md",
     "Git/git od podstaw dla każdego/_ git od podstaw.md",
     "Git/git and github/_ Git and Github.md",
@@ -267,17 +272,11 @@
     "R U S T/ULTIMATE Rust Lang Tutorial/12 Testing Rust.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/11 Rust Lifetimes.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/10 Traits Rust.md",
-    "Git/git od podstaw dla każdego/1 wprowadzanie zmian i rewizje.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/9 Generic Rust.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/8 Error.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/7 Common Collections in Rust.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/6 System Module.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/5 Enum.md",
-    "R U S T/ULTIMATE Rust Lang Tutorial/4. Structs in Rust.md",
-    "R U S T/ULTIMATE Rust Lang Tutorial/3 Ownership.md",
-    "R U S T/ULTIMATE Rust Lang Tutorial/2. Common Programming Concepts in Rust.md",
-    "R U S T/ULTIMATE Rust Lang Tutorial/1 Guessing Game in Rust.md",
-    "R U S T/ULTIMATE Rust Lang Tutorial/_ LetsGetRusty Ultimate Rust Lang Tutorial.md",
     "Git/git od podstaw dla każdego",
     "Docker/Docker od podstaw",
     "_ WEB/Django/Django For Everybody",
