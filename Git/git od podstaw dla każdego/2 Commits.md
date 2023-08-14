@@ -62,6 +62,36 @@ scenariusz:
 - `working tree` a 
 - `staging area`
 
+`diff --git a/MyDir/MyFile3.txt b/MyDir/MyFile3.txt`
+różnica:
+- wariant `a` (starszy, z przestrzeni `index`) oraz (oznakowany `---`)
+- wariant `b` (nowszy, z przestrzeni `working tree`, oznakowany `+++`)
+```
+--- a/MyDir/MyFile3.txt
++++ b/MyDir/MyFile3.txt
+
+```
+
+`hanck` - to znaleziona różnica
+`@@ -16,7 +16,7 @@ Movies:` (
+- liczby to współrzędne `hancka`, `-16,7` to z wariantu `a`, zaś `+16,7` to z wariantu `b`)
+- treść `hancka` -- `hanck` zaczyna się w `16` linijce i ciągnie się przez siedem linijek
+- `Movies` to nagłówek, dobrze jest ustalany w języka skryptowych
+```
+ First name: Bruce
+ Last name: Willis
+-Year of birth:
++Year of birth:1947
+ Movies:
+        - Die Hard
+        - Pulp Fiction
+
+```
+usunięto linijkę `-Year of birth:`
+a w to miejsce wprowadzono linijkę `+Year of birth:1947`
+
+
+
 `git diff --staged` porównywanie plików miedzy przestrzeniami:
 - `staging area` a 
 - `local repository`
@@ -70,8 +100,14 @@ scenariusz:
 `git diff <commit_id>` porównywanie plików miedzy przestrzeniami:
 - `woring tree` a 
 - `local repository`
+`git diff HEAD` podaj różnice między plikami w working tree, a local repo dla aktualnej rewizji
+
+
+
 
 `git diff <nazwa pliku>` porównywanie tylko tego pliku
+
+==najmniejszą jednostką zmiany dla GITa jest LINIJKA==
 
 
 
