@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/Docker od podstaw/_ Wprowadzenie docker.md",
+                "file": "Docker/Docker od podstaw/1 Uruchamianie kontenerów.md",
                 "mode": "source",
                 "source": false
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/Docker od podstaw/_ Wprowadzenie docker.md",
+                "file": "Docker/Docker od podstaw/1 Uruchamianie kontenerów.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/Docker od podstaw/_ Wprowadzenie docker.md",
+                "file": "Docker/Docker od podstaw/1 Uruchamianie kontenerów.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/Docker od podstaw/_ Wprowadzenie docker.md"
+                "file": "Docker/Docker od podstaw/1 Uruchamianie kontenerów.md"
               }
             }
           },
@@ -251,9 +251,9 @@
   },
   "active": "e09fd8603ad2539e",
   "lastOpenFiles": [
+    "Docker/Docker od podstaw/_ Wprowadzenie docker.md",
     "Docker/Docker od podstaw/1 Uruchamianie kontenerów.md",
     "Docker/Docker od podstaw/2 Budowanie obrazów.md",
-    "Docker/Docker od podstaw/_ Wprowadzenie docker.md",
     "Git/git od podstaw dla każdego/1 wprowadzanie zmian i rewizje.md",
     "_ WEB/Django/Mosh/1/2 Building a Data Model.md",
     "Git/Learn Git GitHub and master/Deeper   - the Stash.md",

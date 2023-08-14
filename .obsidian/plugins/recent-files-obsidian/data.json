@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "_ Wprowadzenie docker",
-      "path": "Docker/Docker od podstaw/_ Wprowadzenie docker.md"
-    },
-    {
       "basename": "1 Uruchamianie kontenerów",
       "path": "Docker/Docker od podstaw/1 Uruchamianie kontenerów.md"
+    },
+    {
+      "basename": "_ Wprowadzenie docker",
+      "path": "Docker/Docker od podstaw/_ Wprowadzenie docker.md"
     },
     {
       "basename": "2 Budowanie obrazów",
