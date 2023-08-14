@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Git Samuraj/Repozytorium.md",
+                "file": "Git/Learn Git GitHub and master/Deeper   - the Stash.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Git Samuraj/Repozytorium.md",
+                "file": "Git/Learn Git GitHub and master/Deeper   - the Stash.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Git Samuraj/Repozytorium.md",
+                "file": "Git/Learn Git GitHub and master/Deeper   - the Stash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Git Samuraj/Repozytorium.md"
+                "file": "Git/Learn Git GitHub and master/Deeper   - the Stash.md"
               }
             }
           },
@@ -252,6 +252,14 @@
   },
   "active": "c8db0622c44a35c6",
   "lastOpenFiles": [
+    "Git/Learn Git GitHub and master/Cloud Hosting & Collaboration Provider.md",
+    "Git/git od podstaw dla każdego/_ git od podstaw.md",
+    "Git/git and github/_ Git and Github.md",
+    "Git/git ogólnie.md",
+    "Git/plurasight git/Working with Git Branches.md",
+    "Git/plurasight git/Git the big picture.md",
+    "Git/plurasight git/Getting Started with Git 2.md",
+    "Git/Git Samuraj/Repozytorium.md",
     "Git/Git Samuraj/Komendy.md",
     "Git/Git Samuraj/0-Git wprowadzenie samuraj.md",
     "Git/git od podstaw dla każdego/2 Commits.md",
@@ -260,7 +268,6 @@
     "R U S T/ULTIMATE Rust Lang Tutorial/11 Rust Lifetimes.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/10 Traits Rust.md",
     "Git/git od podstaw dla każdego/1 wprowadzanie zmian i rewizje.md",
-    "Git/git od podstaw dla każdego/_ git od podstaw.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/9 Generic Rust.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/8 Error.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/7 Common Collections in Rust.md",
@@ -271,13 +278,6 @@
     "R U S T/ULTIMATE Rust Lang Tutorial/2. Common Programming Concepts in Rust.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/1 Guessing Game in Rust.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/_ LetsGetRusty Ultimate Rust Lang Tutorial.md",
-    "R U S T/ULTIMATE Rust Lang Tutorial/Casting.md",
-    "R U S T/ULTIMATE Rust Lang Tutorial/13 CLI App MiniGrap.md",
-    "R U S T/Programmowanie_w Rust/_ Programowanie w języku Rust.md",
-    "R U S T/Learn Rust by Building Real App/_ Learn Rust by Building Apps.md",
-    "Studia/Python BackEnd/Django/2 Django.md",
-    "linux/UBUNTU.md",
-    "_ WEB/Django/Mosh/1/_ Django 1 start Mosh.md",
     "Git/git od podstaw dla każdego",
     "Docker/Docker od podstaw",
     "_ WEB/Django/Django For Everybody",
