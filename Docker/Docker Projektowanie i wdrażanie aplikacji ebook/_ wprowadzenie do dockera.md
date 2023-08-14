@@ -22,12 +22,12 @@ Kontener ma własnyy system plików i zmienne środowiskowe
 ## NARZĘDZIA
 ### DOCKER Engine
 ==Docker to aplikacja *klient-serwer*==
-Docker udostępnia interfejs *API REST*, który okręsla interfejsy prowadzące interakcję z demonem.
+Docker udostępnia interfejs *API REST*, który określa interfejsy prowadzące interakcję z demonem.
 
-==Klient DOckera== to program wiersza poleceń służący do zarządzania hostami Docker a uruchomionymi kontenerami sys Linux. Komendy lienta są zamieniana na odpowiednie zapytanie interfesu *REST API*, a następnie wysyłane do serwera Dockera
+==Klient Docker== to program wiersza poleceń służący do zarządzania hostami Docker a uruchomionymi kontenerami sys Linux. Komendy klienta są zamieniana na odpowiednie zapytanie interfesu *REST API*, a następnie wysyłane do serwera Dockera
 
 ### Compose Docker
-==Compose== to narzędzie wykonywane z posiomu wiersza poleceń jako polecenie `docker-compose`.
+==Compose== to narzędzie wykonywane z poziomu wiersza poleceń jako polecenie `docker-compose`.
 Służy do definiowania i uruchamiania aplikacji docker z wieloma kontenerami
 
 
