@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Repozytorium",
+      "path": "Git/Git Samuraj/Repozytorium.md"
+    },
+    {
+      "basename": "Komendy",
+      "path": "Git/Git Samuraj/Komendy.md"
+    },
+    {
       "basename": "0-Git wprowadzenie samuraj",
       "path": "Git/Git Samuraj/0-Git wprowadzenie samuraj.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "1 Poznawanie potencjału języka JS",
       "path": "A I/JS uczenie maszynowe/1 Poznawanie potencjału języka JS.md"
-    },
-    {
-      "basename": "2 Badanie danych",
-      "path": "A I/JS uczenie maszynowe/2 Badanie danych.md"
-    },
-    {
-      "basename": "2 Types and Functions",
-      "path": "HASKELL/Real World Haskell/2 Types and Functions.md"
     }
   ],
   "omittedPaths": [],

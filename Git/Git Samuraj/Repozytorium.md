@@ -4,16 +4,15 @@
 **REPOZYTORIUM      baza danych projektu**  
 
 **repo** (czyt. ripo) historia stanów projektu objemująca:  
--   wszystkie commits  
--   stworzone w wyniku commits snapshots  
--   relacje między snapshotami (kolejność)   
-    
+- wszystkie commits  
+- stworzone w wyniku commits snapshots  
+- relacje między snapshotami (kolejność)   
+
 
 **commit**  
 #git/commit
--   zapisanie (zgłoszenie, wysłanie) w repo informacji zawartych w commit (pliki + metadane),  
--    utworzenie snapshota (kompletny zapis stanu projektu)  
-    
+- zapisanie (zgłoszenie, wysłanie) w repo informacji zawartych w commit (pliki + metadane),  
+- utworzenie snapshota (kompletny zapis stanu projektu)  
 
 Każdy commit jest obiektem w bazie danych repo Git .  
 

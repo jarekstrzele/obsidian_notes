@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Git Samuraj/0-Git wprowadzenie samuraj.md",
+                "file": "Git/Git Samuraj/Repozytorium.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Git Samuraj/0-Git wprowadzenie samuraj.md",
+                "file": "Git/Git Samuraj/Repozytorium.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Git Samuraj/0-Git wprowadzenie samuraj.md",
+                "file": "Git/Git Samuraj/Repozytorium.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Git Samuraj/0-Git wprowadzenie samuraj.md"
+                "file": "Git/Git Samuraj/Repozytorium.md"
               }
             }
           },
@@ -252,6 +252,8 @@
   },
   "active": "c8db0622c44a35c6",
   "lastOpenFiles": [
+    "Git/Git Samuraj/Komendy.md",
+    "Git/Git Samuraj/0-Git wprowadzenie samuraj.md",
     "Git/git od podstaw dla każdego/2 Commits.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/14 Closure.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/12 Testing Rust.md",
@@ -276,8 +278,6 @@
     "Studia/Python BackEnd/Django/2 Django.md",
     "linux/UBUNTU.md",
     "_ WEB/Django/Mosh/1/_ Django 1 start Mosh.md",
-    "Docker/pyqt z dockerem.md",
-    "_ WEB/Django/Mosh/Django z dockerem.md",
     "Git/git od podstaw dla każdego",
     "Docker/Docker od podstaw",
     "_ WEB/Django/Django For Everybody",

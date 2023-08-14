@@ -185,7 +185,7 @@ Changes to be committed:
 teraz chcemy przywrócić ten plik do folderu i staging are  
 
 choć w/w `git restore -stage ....`,
-to w kursie proponują git reset, czyli przywróć stan staging area przed wykonaniem komendy git rm nazwa_pliku  
+to w kursie proponują `git reset`, czyli przywróć stan staging area przed wykonaniem komendy git rm nazwa_pliku  
 
 
 pokazuje mi, że (na czerwono) że ten plik jest skasowany)  
