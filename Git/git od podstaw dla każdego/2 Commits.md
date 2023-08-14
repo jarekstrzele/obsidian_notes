@@ -154,7 +154,7 @@ sytuacja, w której w poczekalni są wersje plików, które powinny być w róż
 
 ### `git add --patch `  or `git add -p`
 rozbijemy zmiany na dwie łaty (`patch`)
-na przykład pisząc funkcjonalność naprawiłem buga
+na przykład pisząc funkcjonalność naprawiłem buga, więc bug do jednej rewizji a funkcjonalność do innej
 
 
 
