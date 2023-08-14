@@ -149,6 +149,13 @@ nothing to commit, working tree clean
 ```
 
 
+# Dodawanie fragmentów plików
+sytuacja, w której w poczekalni są wersje plików, które powinny być w różnych rewizjach
+
+### `git add --patch `  
+rozbijemy zmiany na dwie łaty (`patch`)
+na przykład pisząc funkcjonalność n
+
 
 
 
