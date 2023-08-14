@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "0-Git wprowadzenie samuraj",
+      "path": "Git/Git Samuraj/0-Git wprowadzenie samuraj.md"
+    },
+    {
       "basename": "2 Commits",
       "path": "Git/git od podstaw dla każdego/2 Commits.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2 Types and Functions",
       "path": "HASKELL/Real World Haskell/2 Types and Functions.md"
-    },
-    {
-      "basename": "7 Folding",
-      "path": "HASKELL/Haskell for Imperative Programmers/7 Folding.md"
     }
   ],
   "omittedPaths": [],
