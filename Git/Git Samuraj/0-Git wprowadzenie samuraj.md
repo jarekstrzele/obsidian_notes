@@ -127,7 +127,7 @@ Powrót do stanu przed modyfikacją
 
 ale git podpowiada, że   
 `git restore nazwaPliku
-ta komenda przywóci plik do ostatniego commit
+ta komenda przywróci plik do ostatniego commit
 
 `git add --all`      `git add -A`        `git add .`  
 
