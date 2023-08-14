@@ -66,9 +66,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c8db0622c44a35c6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -150,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/git od podstaw dla każdego/2 Commits.md",
+                "file": "R U S T/ULTIMATE Rust Lang Tutorial/10 Traits Rust.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -167,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/git od podstaw dla każdego/2 Commits.md",
+                "file": "R U S T/ULTIMATE Rust Lang Tutorial/10 Traits Rust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/git od podstaw dla każdego/2 Commits.md"
+                "file": "R U S T/ULTIMATE Rust Lang Tutorial/10 Traits Rust.md"
               }
             }
           },
@@ -238,11 +246,11 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "a7f8cec5a216a21b",
+  "active": "045c64a950639aaa",
   "lastOpenFiles": [
+    "Git/git od podstaw dla każdego/2 Commits.md",
     "Git/git od podstaw dla każdego/1 wprowadzanie zmian i rewizje.md",
     "Git/git od podstaw dla każdego/_ git od podstaw.md",
-    "Git/git od podstaw dla każdego/2 Commits.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/10 Traits Rust.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/9 Generic Rust.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/8 Error.md",
