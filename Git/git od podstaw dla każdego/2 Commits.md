@@ -116,11 +116,27 @@ taka odwrotność dla `add`
 ==w Gitcie nie ma cofania, jest tylko zastępowanie poprzednią wersją==
 
 ### `git reset <file>`
+### REPO -- nadpisze wersję w --> STAGE AREA
 - bierze wersję pliku z repo i wkleja go do poczekalni zastępując plik o tej samej nazwie, który był w poczekalni
 - czyli resetuje plik w poczekalni do wersji, która jest w aktualnej rewizji
+- w graficznych nakładkach często nazywany jest `unstaged`
 
 
 
+```bash
+$ git reset MyDir/MyFile3.txt
+Unstaged changes after reset:
+M	MyDir/MyFile3.txt
+
+```
+teraz jeżeli wydam polecenie, `git diff --staged` nic się nie wyświetli, bo
+wersja z poczekalni jest identyczna z wersją w rewizji
+
+
+# Wycofać zmiany z katalogu roboczego
+
+### `git checkout <commit> <file>`
+REPO --z ... do --> INDEX --z... do  --> WORKING TREE
 
 
 
