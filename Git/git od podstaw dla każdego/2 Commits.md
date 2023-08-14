@@ -113,6 +113,18 @@ a w to miejsce wprowadzono linijkę `+Year of birth:1947`
 # Wycofać zmiany z poczekalni
 taka odwrotność dla `add`
 
+==w Gitcie nie ma cofania, jest tylko zastępowanie poprzednią wersją==
+
+### `git reset <file>`
+- bierze wersję pliku z repo i wkleja go do poczekalni zastępując plik o tej samej nazwie, który był w poczekalni
+- czyli resetuje plik w poczekalni do wersji, która jest w aktualnej rewizji
+
+
+
+
+
+
+
 
 
 
