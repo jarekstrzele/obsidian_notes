@@ -137,7 +137,16 @@ wersja z poczekalni jest identyczna z wersją w rewizji
 
 ### `git checkout <commit> <file>`
 REPO --z ... do --> INDEX --z... do  --> WORKING TREE
+`HEAD` to powrót do aktualnej rewizji
 
+```bash
+$ git checkout HEAD MyDir/MyFile3.txt
+Updated 1 path from 69e362e
+
+jarek@jarek-legion:~/Desktop/git_test$ git status
+On branch main
+nothing to commit, working tree clean
+```
 
 
 
