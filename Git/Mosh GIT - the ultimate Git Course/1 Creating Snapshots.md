@@ -30,6 +30,10 @@ to remove repo `rm -rf .git`
 	- one commit for bug fix, other for a new type
 - use PRESENT `Fix the bug`
 
+# skipping the staging area
+
+`git commit -a -m "some msg"` or `git commit -am`
+`-a` means all files
 
 
 
