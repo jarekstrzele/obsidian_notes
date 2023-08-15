@@ -9,9 +9,19 @@ to remove repo `rm -rf .git`
 # WORKFLOW
 1.  create a project and `.git`
 2. you make some changes 
-3. you make a
+3. you add those changes to `staging area` (to review the project before the snapshots)
+4. you make a commit those changes, it doesn't make the staging area empty; this commit contais:
+	1. ID
+	2. Message
+	3. Date/time
+	4. Author
+	5. Complete snapshot
 
-
+# example
+- `git init`
+- two new files will not be tracked (`echo some_text > filename.txt )
+- `git add .` (the files are in the staging area)
+- 
 
 
 

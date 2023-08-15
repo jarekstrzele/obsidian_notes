@@ -5,6 +5,10 @@
       "path": "Git/Mosh GIT - the ultimate Git Course/1 Creating Snapshots.md"
     },
     {
+      "basename": "_ Preface Git - Practical Guide",
+      "path": "Git/Learn Git GitHub and master/_ Preface Git - Practical Guide.md"
+    },
+    {
       "basename": "_ The Ultimate Git Course",
       "path": "Git/Mosh GIT - the ultimate Git Course/_ The Ultimate Git Course.md"
     },
@@ -39,10 +43,6 @@
     {
       "basename": "- Basics Version Management",
       "path": "Git/Learn Git GitHub and master/- Basics Version Management.md"
-    },
-    {
-      "basename": "_ Preface Git - Practical Guide",
-      "path": "Git/Learn Git GitHub and master/_ Preface Git - Practical Guide.md"
     },
     {
       "basename": "5 Git Remote",
