@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "1 Creating Snapshots",
+      "path": "Git/Mosh GIT - the ultimate Git Course/1 Creating Snapshots.md"
+    },
+    {
       "basename": "_ The Ultimate Git Course",
       "path": "Git/Mosh GIT - the ultimate Git Course/_ The Ultimate Git Course.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2 Django",
       "path": "Studia/Python BackEnd/Django/2 Django.md"
-    },
-    {
-      "basename": "UBUNTU",
-      "path": "linux/UBUNTU.md"
     }
   ],
   "omittedPaths": [],

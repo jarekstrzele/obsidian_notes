@@ -19,7 +19,9 @@
 - editor
 - GUI GIT (e.g. `GitKraken`)
 
-**settings**
+----
+# settings
+#git/setting
 - `name`
  `git confing --global user.name "Jarek"`
 
@@ -29,11 +31,16 @@
 `git config --global core.editor "code --wait"`
 
 - `line ending`
+*Windows* `\r\n`
+*MacOS, Liunux* `\n`
+set `core.autocrlf`
+`git config --global core.autocrlf true` for windows
+`git config --global core.autocrlf input` for Linux and MacOS
+
+`git config --global -e` to see a file with all configuration
 
 
-`git config --global -e`
-
-
+---
 
 
 

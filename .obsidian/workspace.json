@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Mosh GIT - the ultimate Git Course/_ The Ultimate Git Course.md",
+                "file": "Git/Mosh GIT - the ultimate Git Course/1 Creating Snapshots.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Mosh GIT - the ultimate Git Course/_ The Ultimate Git Course.md",
+                "file": "Git/Mosh GIT - the ultimate Git Course/1 Creating Snapshots.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Mosh GIT - the ultimate Git Course/_ The Ultimate Git Course.md",
+                "file": "Git/Mosh GIT - the ultimate Git Course/1 Creating Snapshots.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Mosh GIT - the ultimate Git Course/_ The Ultimate Git Course.md"
+                "file": "Git/Mosh GIT - the ultimate Git Course/1 Creating Snapshots.md"
               }
             }
           },
@@ -252,8 +252,9 @@
   },
   "active": "c8db0622c44a35c6",
   "lastOpenFiles": [
-    "Git/git ogólnie.md",
     "Git/Mosh GIT - the ultimate Git Course/_ The Ultimate Git Course.md",
+    "Git/Mosh GIT - the ultimate Git Course/1 Creating Snapshots.md",
+    "Git/git ogólnie.md",
     "Git/Mosh GIT - the ultimate Git Course",
     "Git/plurasight git/Getting Started with Git 2.md",
     "Git/Learn Git GitHub and master/Mac Term & WIndows Command Prompt.md",
@@ -278,7 +279,6 @@
     "Docker/Docker Projektowanie i wdrażanie aplikacji ebook/_ wprowadzenie do dockera.md",
     "Docker/Docker od podstaw/2 Budowanie obrazów.md",
     "Docker/Docker od podstaw/1 Uruchamianie kontenerów.md",
-    "Docker/Docker od podstaw/_ Wprowadzenie docker.md",
     "Git/git od podstaw dla każdego",
     "Docker/Docker od podstaw",
     "_ WEB/Django/Django For Everybody",
