@@ -21,7 +21,16 @@ to remove repo `rm -rf .git`
 - `git init`
 - two new files will not be tracked (`echo some_text > filename.txt )
 - `git add .` (the files are in the staging area)
-- 
+- `git commit -m "some msg about the project changes"`
+
+
+# commits
+- messages not short not long
+- commit often - *as you reach a state you want to record THEN make a commit*
+	- one commit for bug fix, other for a new type
+- use PRESENT `Fix the bug`
+
+
 
 
 
