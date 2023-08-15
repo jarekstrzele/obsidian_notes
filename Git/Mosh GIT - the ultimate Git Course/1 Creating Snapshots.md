@@ -44,13 +44,16 @@ to remove repo `rm -rf .git`
 - `git add file2.txt` - it removes the `file2.txt` from `staging area`
 - 
 ### `git rm file2.txt` 
-it removes `file2.txt` from the working area and from the staging area
+it removes `file2.txt` from ==the working area and from the staging area==
+
+#### `git rm --cached file` rm file only from ==staging area==
 
 There is a similar way to rename a file. Instead to make two step (rename + add), you can use:
 #### `git mv old_name new_name`
 `git commit -m "some msg"`
 
-
+----
+`.gitignore`
 
 
 
