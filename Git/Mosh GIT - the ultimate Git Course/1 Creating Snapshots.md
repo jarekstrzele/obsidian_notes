@@ -17,8 +17,11 @@ to remove repo `rm -rf .git`
 #### `git diff-tree --no-commit-id --name-only -r HEAD` to see files in the last commit 
 
 #### `git status -s`
-` M` modified
-`??`
+` M` modified (only in working directory)
+`??` untracked
+`A` added
+
+
 
 the first/left column represents the staging area
 the second/right represents the working directory
