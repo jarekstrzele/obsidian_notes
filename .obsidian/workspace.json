@@ -73,13 +73,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Learn Git GitHub and master/Deeper   - the Stash.md",
+                "file": "Git/Mosh GIT - the ultimate Git Course/_ The Ultimate Git Course.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -108,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "księgarnie",
+                "query": "mosh",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -161,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/For Absolute Beginner/_ Intro Docker Mumshad.md",
+                "file": "Git/Mosh GIT - the ultimate Git Course/_ The Ultimate Git Course.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -178,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/For Absolute Beginner/_ Intro Docker Mumshad.md",
+                "file": "Git/Mosh GIT - the ultimate Git Course/_ The Ultimate Git Course.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/For Absolute Beginner/_ Intro Docker Mumshad.md"
+                "file": "Git/Mosh GIT - the ultimate Git Course/_ The Ultimate Git Course.md"
               }
             }
           },
@@ -249,34 +250,35 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "e09fd8603ad2539e",
+  "active": "c8db0622c44a35c6",
   "lastOpenFiles": [
+    "Git/git ogólnie.md",
+    "Git/Mosh GIT - the ultimate Git Course/_ The Ultimate Git Course.md",
+    "Git/Mosh GIT - the ultimate Git Course",
+    "Git/plurasight git/Getting Started with Git 2.md",
+    "Git/Learn Git GitHub and master/Mac Term & WIndows Command Prompt.md",
+    "Git/Learn Git GitHub and master/Deeper   - the Stash.md",
+    "Git/Learn Git GitHub and master/Cloud Hosting & Collaboration Provider.md",
+    "Git/Learn Git GitHub and master/Basics - Delete.md",
+    "Git/Learn Git GitHub and master/Basics - Branches & Commits.md",
+    "Git/Learn Git GitHub and master/- Basics Version Management.md",
+    "Git/Learn Git GitHub and master/_ Preface Git - Practical Guide.md",
+    "Git/Helion Git/5 Git Remote.md",
+    "Git/Helion Git/4 Commit.md",
+    "Git/Helion Git/3 Gałęzie.md",
+    "Git/Helion Git/_ 0 Git Helion VideoPoint.md",
+    "Git/Git Samuraj/0-Git wprowadzenie samuraj.md",
+    "Git/git od podstaw dla każdego/_ git od podstaw.md",
+    "Git/git and github/_ Git and Github.md",
+    "Git/git od podstaw dla każdego/2 Commits.md",
+    "R U S T/ULTIMATE Rust Lang Tutorial/14 Closure.md",
+    "_ WEB/Django/Mosh/1/2 Building a Data Model.md",
+    "Docker/For Absolute Beginner/_ Intro Docker Mumshad.md",
     "Docker/Docker Projektowanie i wdrażanie aplikacji ebook/_start Docker Projektowanie i wdrażanie aplikacji.md",
     "Docker/Docker Projektowanie i wdrażanie aplikacji ebook/_ wprowadzenie do dockera.md",
     "Docker/Docker od podstaw/2 Budowanie obrazów.md",
     "Docker/Docker od podstaw/1 Uruchamianie kontenerów.md",
     "Docker/Docker od podstaw/_ Wprowadzenie docker.md",
-    "Git/git od podstaw dla każdego/1 wprowadzanie zmian i rewizje.md",
-    "_ WEB/Django/Mosh/1/2 Building a Data Model.md",
-    "Git/Learn Git GitHub and master/Deeper   - the Stash.md",
-    "Git/Learn Git GitHub and master/Cloud Hosting & Collaboration Provider.md",
-    "Git/git od podstaw dla każdego/_ git od podstaw.md",
-    "Git/git and github/_ Git and Github.md",
-    "Git/git ogólnie.md",
-    "Git/plurasight git/Working with Git Branches.md",
-    "Git/plurasight git/Git the big picture.md",
-    "Git/plurasight git/Getting Started with Git 2.md",
-    "Git/Git Samuraj/Repozytorium.md",
-    "Git/Git Samuraj/Komendy.md",
-    "Git/Git Samuraj/0-Git wprowadzenie samuraj.md",
-    "Git/git od podstaw dla każdego/2 Commits.md",
-    "R U S T/ULTIMATE Rust Lang Tutorial/14 Closure.md",
-    "R U S T/ULTIMATE Rust Lang Tutorial/12 Testing Rust.md",
-    "R U S T/ULTIMATE Rust Lang Tutorial/11 Rust Lifetimes.md",
-    "R U S T/ULTIMATE Rust Lang Tutorial/10 Traits Rust.md",
-    "R U S T/ULTIMATE Rust Lang Tutorial/9 Generic Rust.md",
-    "R U S T/ULTIMATE Rust Lang Tutorial/8 Error.md",
-    "R U S T/ULTIMATE Rust Lang Tutorial/7 Common Collections in Rust.md",
     "Git/git od podstaw dla każdego",
     "Docker/Docker od podstaw",
     "_ WEB/Django/Django For Everybody",
@@ -289,7 +291,6 @@
     "TYPESCRIPT",
     "INTERVIEWS/ZTM",
     "INTERVIEWS",
-    "_ FullStack/RSTY",
     "canvas_moduls_rust.canvas",
     "test canvas.canvas",
     "pexels-alex-fu-1302436.jpg",
