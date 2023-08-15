@@ -37,5 +37,11 @@ to remove repo `rm -rf .git`
 
 
 # How to remove a file
-
-
+- you have a file2.txt
+- `rm file2.txt`
+- `ls` - there won't be `file2.txt`
+- but `git ls-files` -show all files in the staging area,
+- `git add file2.txt` - it removes the `file2.txt` from `staging area`
+- 
+### `git rm file2.txt` 
+it removes `file2.txt` from the working area and from the staging area
