@@ -5,7 +5,20 @@
 
 to remove repo `rm -rf .git`
 
+--------
+
+
+
 ---
+# to see files
+#### `git ls-files`  - to see files in the staging area
+
+#### `git diff-tree --no-commit-id --name-only -r HEAD` to see files in the last commit 
+
+
+
+
+
 # WORKFLOW
 1.  create a project and `.git`
 2. you make some changes 
@@ -54,6 +67,7 @@ There is a similar way to rename a file. Instead to make two step (rename + add)
 
 ----
 `.gitignore`
+in git there are templates for different languages
 
 
 
