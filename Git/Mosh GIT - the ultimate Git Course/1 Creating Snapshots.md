@@ -11,12 +11,17 @@ to remove repo `rm -rf .git`
 
 ---
 # to see files
+
 #### `git ls-files`  - to see files in the staging area
 
 #### `git diff-tree --no-commit-id --name-only -r HEAD` to see files in the last commit 
 
+#### `git status -s`
+` M` modified
+`??`
 
-
+the first/left column represents the staging area
+the second/right represents the working directory
 
 
 # WORKFLOW
