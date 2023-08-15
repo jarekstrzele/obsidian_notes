@@ -36,6 +36,6 @@ to remove repo `rm -rf .git`
 `-a` means all files
 
 
-
+# How to remove a file
 
 
