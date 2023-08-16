@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "1 Framework Django",
+      "path": "Studia/Python BackEnd/Django/1 Framework Django.md"
+    },
+    {
+      "basename": "2 Django",
+      "path": "Studia/Python BackEnd/Django/2 Django.md"
+    },
+    {
       "basename": "1 Creating Snapshots",
       "path": "Git/Mosh GIT - the ultimate Git Course/1 Creating Snapshots.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "_ Programowanie w języku Rust",
       "path": "R U S T/Programmowanie_w Rust/_ Programowanie w języku Rust.md"
-    },
-    {
-      "basename": "_ Learn Rust by Building Apps",
-      "path": "R U S T/Learn Rust by Building Real App/_ Learn Rust by Building Apps.md"
-    },
-    {
-      "basename": "2 Django",
-      "path": "Studia/Python BackEnd/Django/2 Django.md"
     }
   ],
   "omittedPaths": [],

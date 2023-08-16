@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studia/Python BackEnd/Django/2 Django.md",
+                "file": "Studia/Python BackEnd/Django/1 Framework Django.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Mosh GIT - the ultimate Git Course/1 Creating Snapshots.md",
+                "file": "Studia/Python BackEnd/Django/1 Framework Django.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Mosh GIT - the ultimate Git Course/1 Creating Snapshots.md",
+                "file": "Studia/Python BackEnd/Django/1 Framework Django.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Mosh GIT - the ultimate Git Course/1 Creating Snapshots.md"
+                "file": "Studia/Python BackEnd/Django/1 Framework Django.md"
               }
             }
           },
@@ -250,10 +250,12 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "c8db0622c44a35c6",
+  "active": "3daba290f3f583f2",
   "lastOpenFiles": [
-    "Git/Learn Git GitHub and master/_ Preface Git - Practical Guide.md",
+    "Studia/Python BackEnd/Django/2 Django.md",
+    "Studia/Python BackEnd/Django/1 Framework Django.md",
     "Git/Mosh GIT - the ultimate Git Course/1 Creating Snapshots.md",
+    "Git/Learn Git GitHub and master/_ Preface Git - Practical Guide.md",
     "Git/Mosh GIT - the ultimate Git Course/_ The Ultimate Git Course.md",
     "Git/git ogólnie.md",
     "Git/Mosh GIT - the ultimate Git Course",
@@ -277,8 +279,6 @@
     "Docker/For Absolute Beginner/_ Intro Docker Mumshad.md",
     "Docker/Docker Projektowanie i wdrażanie aplikacji ebook/_start Docker Projektowanie i wdrażanie aplikacji.md",
     "Docker/Docker Projektowanie i wdrażanie aplikacji ebook/_ wprowadzenie do dockera.md",
-    "Docker/Docker od podstaw/2 Budowanie obrazów.md",
-    "Docker/Docker od podstaw/1 Uruchamianie kontenerów.md",
     "Git/git od podstaw dla każdego",
     "Docker/Docker od podstaw",
     "_ WEB/Django/Django For Everybody",
