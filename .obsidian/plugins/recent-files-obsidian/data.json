@@ -5,6 +5,14 @@
       "path": "R U S T/Programmowanie_w Rust/2. Pierwsze spotkanie z Rustem.md"
     },
     {
+      "basename": "_ git od podstaw",
+      "path": "Git/git od podstaw dla każdego/_ git od podstaw.md"
+    },
+    {
+      "basename": "2 Commits",
+      "path": "Git/git od podstaw dla każdego/2 Commits.md"
+    },
+    {
       "basename": "_ Programowanie w języku Rust",
       "path": "R U S T/Programmowanie_w Rust/_ Programowanie w języku Rust.md"
     },
@@ -101,16 +109,8 @@
       "path": "Git/Git Samuraj/0-Git wprowadzenie samuraj.md"
     },
     {
-      "basename": "_ git od podstaw",
-      "path": "Git/git od podstaw dla każdego/_ git od podstaw.md"
-    },
-    {
       "basename": "_ Git and Github",
       "path": "Git/git and github/_ Git and Github.md"
-    },
-    {
-      "basename": "2 Commits",
-      "path": "Git/git od podstaw dla każdego/2 Commits.md"
     },
     {
       "basename": "_start Docker Projektowanie i wdrażanie aplikacji",
