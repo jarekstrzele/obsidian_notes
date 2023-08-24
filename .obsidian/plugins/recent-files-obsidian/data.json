@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "2. Pierwsze spotkanie z Rustem",
+      "path": "R U S T/Programmowanie_w Rust/2. Pierwsze spotkanie z Rustem.md"
+    },
+    {
+      "basename": "_ Programowanie w języku Rust",
+      "path": "R U S T/Programmowanie_w Rust/_ Programowanie w języku Rust.md"
+    },
+    {
+      "basename": "13 CLI App MiniGrap",
+      "path": "R U S T/ULTIMATE Rust Lang Tutorial/13 CLI App MiniGrap.md"
+    },
+    {
+      "basename": "_ LetsGetRusty Ultimate Rust Lang Tutorial",
+      "path": "R U S T/ULTIMATE Rust Lang Tutorial/_ LetsGetRusty Ultimate Rust Lang Tutorial.md"
+    },
+    {
+      "basename": "14 Closure",
+      "path": "R U S T/ULTIMATE Rust Lang Tutorial/14 Closure.md"
+    },
+    {
+      "basename": "_ Intro Docker Mumshad",
+      "path": "Docker/For Absolute Beginner/_ Intro Docker Mumshad.md"
+    },
+    {
+      "basename": "2 Building a Data Model",
+      "path": "_ WEB/Django/Mosh/1/2 Building a Data Model.md"
+    },
+    {
       "basename": "1 Framework Django",
       "path": "Studia/Python BackEnd/Django/1 Framework Django.md"
     },
@@ -83,18 +111,6 @@
     {
       "basename": "2 Commits",
       "path": "Git/git od podstaw dla każdego/2 Commits.md"
-    },
-    {
-      "basename": "14 Closure",
-      "path": "R U S T/ULTIMATE Rust Lang Tutorial/14 Closure.md"
-    },
-    {
-      "basename": "2 Building a Data Model",
-      "path": "_ WEB/Django/Mosh/1/2 Building a Data Model.md"
-    },
-    {
-      "basename": "_ Intro Docker Mumshad",
-      "path": "Docker/For Absolute Beginner/_ Intro Docker Mumshad.md"
     },
     {
       "basename": "_start Docker Projektowanie i wdrażanie aplikacji",
@@ -183,22 +199,6 @@
     {
       "basename": "1 Guessing Game in Rust",
       "path": "R U S T/ULTIMATE Rust Lang Tutorial/1 Guessing Game in Rust.md"
-    },
-    {
-      "basename": "_ LetsGetRusty Ultimate Rust Lang Tutorial",
-      "path": "R U S T/ULTIMATE Rust Lang Tutorial/_ LetsGetRusty Ultimate Rust Lang Tutorial.md"
-    },
-    {
-      "basename": "Casting",
-      "path": "R U S T/ULTIMATE Rust Lang Tutorial/Casting.md"
-    },
-    {
-      "basename": "13 CLI App MiniGrap",
-      "path": "R U S T/ULTIMATE Rust Lang Tutorial/13 CLI App MiniGrap.md"
-    },
-    {
-      "basename": "_ Programowanie w języku Rust",
-      "path": "R U S T/Programmowanie_w Rust/_ Programowanie w języku Rust.md"
     }
   ],
   "omittedPaths": [],
