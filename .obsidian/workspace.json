@@ -49,14 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Mosh GIT - the ultimate Git Course/1 Creating Snapshots.md",
+                "file": "linux/UBUNTU.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Programmowanie_w Rust/2. Pierwsze spotkanie z Rustem.md",
+                "file": "linux/UBUNTU.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Programmowanie_w Rust/2. Pierwsze spotkanie z Rustem.md",
+                "file": "linux/UBUNTU.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Programmowanie_w Rust/2. Pierwsze spotkanie z Rustem.md"
+                "file": "linux/UBUNTU.md"
               }
             }
           },
@@ -226,11 +226,12 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "045c64a950639aaa",
+  "active": "c8db0622c44a35c6",
   "lastOpenFiles": [
+    "Git/Mosh GIT - the ultimate Git Course/1 Creating Snapshots.md",
+    "R U S T/Programmowanie_w Rust/2. Pierwsze spotkanie z Rustem.md",
     "Git/git od podstaw dla każdego/_ git od podstaw.md",
     "Git/git od podstaw dla każdego/2 Commits.md",
-    "R U S T/Programmowanie_w Rust/2. Pierwsze spotkanie z Rustem.md",
     "R U S T/Programmowanie_w Rust/_ Programowanie w języku Rust.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/13 CLI App MiniGrap.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/_ LetsGetRusty Ultimate Rust Lang Tutorial.md",
@@ -239,7 +240,6 @@
     "_ WEB/Django/Mosh/1/2 Building a Data Model.md",
     "Studia/Python BackEnd/Django/1 Framework Django.md",
     "Studia/Python BackEnd/Django/2 Django.md",
-    "Git/Mosh GIT - the ultimate Git Course/1 Creating Snapshots.md",
     "Git/Learn Git GitHub and master/_ Preface Git - Practical Guide.md",
     "Git/Mosh GIT - the ultimate Git Course/_ The Ultimate Git Course.md",
     "Git/git ogólnie.md",
