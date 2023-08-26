@@ -51,6 +51,8 @@ jarek@jarek-legion:~/Desktop/git_test$ git gr
 # porównywanie plików `git diff`
 #git/diff
 
+![[git_diff.excalidraw | 700]]
+
 scenariusz:
 - dodajemy nowy plik txt z zawartością
 - `add`, `commit`
