@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "I 1 Fundamentals",
+      "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 1 Fundamentals.md"
+    },
+    {
+      "basename": "_ Ultimate Rust Crash Course 1",
+      "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/_ Ultimate Rust Crash Course 1.md"
+    },
+    {
+      "basename": "idiomatic code",
+      "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 2/idiomatic code.md"
+    },
+    {
+      "basename": "_ Ultimate Rust Crash Course 2",
+      "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 2/_ Ultimate Rust Crash Course 2.md"
+    },
+    {
+      "basename": "_ LetsGetRusty Ultimate Rust Lang Tutorial",
+      "path": "R U S T/ULTIMATE Rust Lang Tutorial/_ LetsGetRusty Ultimate Rust Lang Tutorial.md"
+    },
+    {
       "basename": "2 Commits",
       "path": "Git/git od podstaw dla każdego/2 Commits.md"
     },
@@ -35,10 +55,6 @@
     {
       "basename": "13 CLI App MiniGrap",
       "path": "R U S T/ULTIMATE Rust Lang Tutorial/13 CLI App MiniGrap.md"
-    },
-    {
-      "basename": "_ LetsGetRusty Ultimate Rust Lang Tutorial",
-      "path": "R U S T/ULTIMATE Rust Lang Tutorial/_ LetsGetRusty Ultimate Rust Lang Tutorial.md"
     },
     {
       "basename": "14 Closure",
@@ -183,22 +199,6 @@
     {
       "basename": "7 Common Collections in Rust",
       "path": "R U S T/ULTIMATE Rust Lang Tutorial/7 Common Collections in Rust.md"
-    },
-    {
-      "basename": "6 System Module",
-      "path": "R U S T/ULTIMATE Rust Lang Tutorial/6 System Module.md"
-    },
-    {
-      "basename": "5 Enum",
-      "path": "R U S T/ULTIMATE Rust Lang Tutorial/5 Enum.md"
-    },
-    {
-      "basename": "4. Structs in Rust",
-      "path": "R U S T/ULTIMATE Rust Lang Tutorial/4. Structs in Rust.md"
-    },
-    {
-      "basename": "3 Ownership",
-      "path": "R U S T/ULTIMATE Rust Lang Tutorial/3 Ownership.md"
     }
   ],
   "omittedPaths": [],

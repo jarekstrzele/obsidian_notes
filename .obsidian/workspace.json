@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/git od podstaw dla każdego/2 Commits.md",
+                "file": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 1 Fundamentals.md",
                 "mode": "source",
                 "source": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/git od podstaw dla każdego/2 Commits.md",
+                "file": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 1 Fundamentals.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/git od podstaw dla każdego/2 Commits.md",
+                "file": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 1 Fundamentals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/git od podstaw dla każdego/2 Commits.md"
+                "file": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 1 Fundamentals.md"
               }
             }
           },
@@ -238,8 +238,12 @@
   },
   "active": "c8db0622c44a35c6",
   "lastOpenFiles": [
-    "Excalidraw/git_diff.excalidraw.md",
+    "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/_ Ultimate Rust Crash Course 1.md",
+    "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 2/idiomatic code.md",
+    "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 2/_ Ultimate Rust Crash Course 2.md",
+    "R U S T/ULTIMATE Rust Lang Tutorial/_ LetsGetRusty Ultimate Rust Lang Tutorial.md",
     "Git/git od podstaw dla każdego/2 Commits.md",
+    "Excalidraw/git_diff.excalidraw.md",
     "Git/git od podstaw dla każdego/1 wprowadzanie zmian i rewizje.md",
     "Git/git od podstaw dla każdego/_ git od podstaw.md",
     "linux/UBUNTU.md",
@@ -247,7 +251,6 @@
     "R U S T/Programmowanie_w Rust/2. Pierwsze spotkanie z Rustem.md",
     "R U S T/Programmowanie_w Rust/_ Programowanie w języku Rust.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/13 CLI App MiniGrap.md",
-    "R U S T/ULTIMATE Rust Lang Tutorial/_ LetsGetRusty Ultimate Rust Lang Tutorial.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/14 Closure.md",
     "Docker/For Absolute Beginner/_ Intro Docker Mumshad.md",
     "_ WEB/Django/Mosh/1/2 Building a Data Model.md",
@@ -262,9 +265,6 @@
     "Git/Learn Git GitHub and master/Deeper   - the Stash.md",
     "Git/Learn Git GitHub and master/Cloud Hosting & Collaboration Provider.md",
     "Git/Learn Git GitHub and master/Basics - Delete.md",
-    "Git/Learn Git GitHub and master/Basics - Branches & Commits.md",
-    "Git/Learn Git GitHub and master/- Basics Version Management.md",
-    "Git/Helion Git/5 Git Remote.md",
     "Git/git od podstaw dla każdego",
     "Docker/Docker od podstaw",
     "_ WEB/Django/Django For Everybody",
