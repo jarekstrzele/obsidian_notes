@@ -213,7 +213,7 @@ v.push(2);
 v.push(4);
 v.push(6);
 
-//remove the item at the end of the vectora and returns it
+//remove the item at the end of the vector and returns it
 let x = v.pop(); // x is 6
 
 println!("{}", v[1]) ; // prints "4"
