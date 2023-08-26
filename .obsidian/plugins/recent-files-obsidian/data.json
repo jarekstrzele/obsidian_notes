@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Drawing 2023-08-26 21.14.11.excalidraw",
+      "path": "Excalidraw/Drawing 2023-08-26 21.14.11.excalidraw.md"
+    },
+    {
       "basename": "2 Commits",
       "path": "Git/git od podstaw dla każdego/2 Commits.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "3 Ownership",
       "path": "R U S T/ULTIMATE Rust Lang Tutorial/3 Ownership.md"
-    },
-    {
-      "basename": "2. Common Programming Concepts in Rust",
-      "path": "R U S T/ULTIMATE Rust Lang Tutorial/2. Common Programming Concepts in Rust.md"
     }
   ],
   "omittedPaths": [],
