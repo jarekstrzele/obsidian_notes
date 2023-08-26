@@ -90,19 +90,14 @@ różnica:
 usunięto linijkę `-Year of birth:`
 a w to miejsce wprowadzono linijkę `+Year of birth:1947`
 
-
-
 `git diff --staged` porównywanie plików miedzy przestrzeniami:
 - `staging area` a 
 - `local repository`
-
 
 `git diff <commit_id>` porównywanie plików miedzy przestrzeniami:
 - `wokring tree` a 
 - `local repository`
 `git diff HEAD` podaj różnice między plikami w `working tree`, a` `local repo` dla aktualnej rewizji
-
-
 
 
 `git diff <nazwa pliku>` porównywanie tylko tego pliku
@@ -120,7 +115,6 @@ taka odwrotność dla `add`
 - bierze wersję pliku z repo i wkleja go do poczekalni zastępując plik o tej samej nazwie, który był w poczekalni
 - czyli resetuje plik w poczekalni do wersji, która jest w aktualnej rewizji
 - w graficznych nakładkach często nazywany jest `unstaged`
-
 
 
 ```bash

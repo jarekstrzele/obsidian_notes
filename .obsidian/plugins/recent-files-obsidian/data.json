@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "2 Commits",
+      "path": "Git/git od podstaw dla każdego/2 Commits.md"
+    },
+    {
+      "basename": "1 wprowadzanie zmian i rewizje",
+      "path": "Git/git od podstaw dla każdego/1 wprowadzanie zmian i rewizje.md"
+    },
+    {
+      "basename": "_ git od podstaw",
+      "path": "Git/git od podstaw dla każdego/_ git od podstaw.md"
+    },
+    {
       "basename": "UBUNTU",
       "path": "linux/UBUNTU.md"
     },
@@ -11,14 +23,6 @@
     {
       "basename": "2. Pierwsze spotkanie z Rustem",
       "path": "R U S T/Programmowanie_w Rust/2. Pierwsze spotkanie z Rustem.md"
-    },
-    {
-      "basename": "_ git od podstaw",
-      "path": "Git/git od podstaw dla każdego/_ git od podstaw.md"
-    },
-    {
-      "basename": "2 Commits",
-      "path": "Git/git od podstaw dla każdego/2 Commits.md"
     },
     {
       "basename": "_ Programowanie w języku Rust",
@@ -135,10 +139,6 @@
     {
       "basename": "_ Wprowadzenie docker",
       "path": "Docker/Docker od podstaw/_ Wprowadzenie docker.md"
-    },
-    {
-      "basename": "1 wprowadzanie zmian i rewizje",
-      "path": "Git/git od podstaw dla każdego/1 wprowadzanie zmian i rewizje.md"
     },
     {
       "basename": "Working with Git Branches",
