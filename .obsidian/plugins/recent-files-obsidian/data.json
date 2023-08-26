@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "I 3 The Heart of Rust",
+      "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 3 The Heart of Rust.md"
+    },
+    {
       "basename": "I 2 Primitive Types & Control Flow",
       "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 2 Primitive Types & Control Flow.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "9 Generic Rust",
       "path": "R U S T/ULTIMATE Rust Lang Tutorial/9 Generic Rust.md"
-    },
-    {
-      "basename": "8 Error",
-      "path": "R U S T/ULTIMATE Rust Lang Tutorial/8 Error.md"
     }
   ],
   "omittedPaths": [],
