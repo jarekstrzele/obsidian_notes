@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "I 2 Primitive Types & Control Flow",
+      "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 2 Primitive Types & Control Flow.md"
+    },
+    {
       "basename": "I 1 Fundamentals",
       "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 1 Fundamentals.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "8 Error",
       "path": "R U S T/ULTIMATE Rust Lang Tutorial/8 Error.md"
-    },
-    {
-      "basename": "7 Common Collections in Rust",
-      "path": "R U S T/ULTIMATE Rust Lang Tutorial/7 Common Collections in Rust.md"
     }
   ],
   "omittedPaths": [],
