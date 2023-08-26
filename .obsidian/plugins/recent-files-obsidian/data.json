@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "I 4 The Meat of Rust",
+      "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 4 The Meat of Rust.md"
+    },
+    {
       "basename": "I 3 The Heart of Rust",
       "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 3 The Heart of Rust.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "10 Traits Rust",
       "path": "R U S T/ULTIMATE Rust Lang Tutorial/10 Traits Rust.md"
-    },
-    {
-      "basename": "9 Generic Rust",
-      "path": "R U S T/ULTIMATE Rust Lang Tutorial/9 Generic Rust.md"
     }
   ],
   "omittedPaths": [],
