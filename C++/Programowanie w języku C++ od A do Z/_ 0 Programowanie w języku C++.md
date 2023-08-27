@@ -32,9 +32,26 @@ NARZĘDZIA
 ## `$ g++ -o first first.cpp`
 `first.cpp` to plik z kodem źródłowym
 
+program.cpp
+```c++
+#include <iostream>
+
+int main(){
+	std::cout << "hello World\n" ;
+	return 0 ;
+}
+```
+
+`g++ -o program program.cpp`
+`-o program` tak będzie nazywała się utworzona aplikacja
+
+`program.exe` w konsoli wykonanie programu
 
 
-
+---
+# strumień wejścia / wyjścia
+- `cout` wypisuje tekst zapisany w cudzysłowiu
+`std::cout << ""
 
 
 
