@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a7483d57affdb773",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker/pyqt z dockerem.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/pyqt z dockerem.md",
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -131,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/pyqt z dockerem.md",
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/pyqt z dockerem.md"
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md"
               }
             }
           },
@@ -202,10 +189,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a7483d57affdb773",
+  "active": "8247b081ac64a0c1",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Docker/pyqt z dockerem.md",
+    "conflict-files-obsidian-git.md",
     "Docker/Docker od podstaw/_ Wprowadzenie docker.md",
     "Docker/Docker od podstaw/6 Registry - przechowywanie obrazów.md",
     "Docker/Docker od podstaw/5 Docker compose.md",
