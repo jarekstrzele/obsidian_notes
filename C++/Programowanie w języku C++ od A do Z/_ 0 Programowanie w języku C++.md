@@ -72,5 +72,15 @@ int main()
 ```
 
 
+```c++
+int main()
+{
+    int liczba;
+    std::cout << "Podaj liczbe: ";
+    std::cin >> liczba;
+    std::cout << "Podana liczba to: " << liczba;
 
+    return 0;
+}
+```
 
