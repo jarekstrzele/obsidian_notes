@@ -148,7 +148,7 @@ aplikacje moga być przechowywane i uruchamian gdziekolwiek na ścieżce pythona
 generuje podstawową strukturę katalogów aplikacji
 
 #django/project
-**PROJEKT** zbiór konfiguracji i palikacji dla konkretnej wutryby. Projekt może zawierać wiele aplikacji. Aplikacja może być w wielu projektach
+**PROJEKT** zbiór konfiguracji i aplikacji dla konkretnej witryby. Projekt może zawierać wiele aplikacji. Aplikacja może być w wielu projektach
 ###  `django-admin startproject mysite` 
 
 ---

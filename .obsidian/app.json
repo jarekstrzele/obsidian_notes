@@ -9,9 +9,5 @@
     "downscalePercent": 100
   },
   "spellcheck": true,
-  "spellcheckLanguages": [
-    "en-US",
-    "en-GB",
-    "pl"
-  ]
+  "spellcheckLanguages": null
 }

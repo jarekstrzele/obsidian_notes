@@ -153,8 +153,6 @@ std::process::exit(-1);
 
 });
 
-  
-
 // 1. Write a function `inspect` that takes a reference to a String, returns nothing, but
 
 // prints whether the contents of the String is plural or singular. Then uncomment and run this

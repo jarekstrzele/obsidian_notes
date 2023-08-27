@@ -32,14 +32,14 @@
 
 # ADD  
 
-git add // dodawanie aktualnej wersji plików 
+`git add` // dodawanie aktualnej wersji plików 
             // do kat robo do staging area
 
 Dodawanie wszystkich plików (modified and untracked)
-git add -A  
+`git add -A  `
 
-git add --all
-git add . //katalog bieżący z podkatalogami  
+`git add --all`
+`git add .` //katalog bieżący z podkatalogami  
 
 ---
 
@@ -54,10 +54,9 @@ commit robi:
   
 
 opis  `-m`
--  40-60 znaków,  
--  present simple   
-- po pierwszej linii pusta linia i dopiero wtedy nowa treść  
-   
+- 40-60 znaków,  
+- present simple   
+- po pierwszej linii pusta linia i dopiero wtedy nowa treść     
 przeniesienie do indeksu wszystkich śledzonych (tracked) plików z katalogu roboczego  
 `git commit -a ( git commit --all)`
 
@@ -82,7 +81,7 @@ gdy coś poszło nie tak:
 `git log --since="5.4.2019"`
 
 wyszukiwanie konkretnych commitów
-`git log --grep "plik.txt` wielkość liter ma znaczenie
+`git log --grep "plik.txt"` wielkość liter ma znaczenie
 			                       jeżeli w opisie występuje "plik.txt'
 
 `git log --stat`  które pliki zmienilł commit w jaki spowób
@@ -148,7 +147,6 @@ git mv plik newNamedfile
 `git checkout id_num_of_commit`
 
   
-
 RESET  
 `git reset` lub `reset HEAD`
 - usuwa pliki ze staging area

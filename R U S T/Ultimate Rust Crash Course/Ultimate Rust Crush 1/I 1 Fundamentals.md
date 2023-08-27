@@ -131,7 +131,7 @@ fn main(){
 		enigma = 7 ;
 	}
 	
-	println!("{}", enigma) ; // it works, because the compiler can tell that enigma is GUARANTEED to be initilized bedore it is used
+	println!("{}", enigma) ; // it works, because the compiler can tell that enigma is GUARANTEED to be initilized beore it is used
 }
 
 ```

@@ -1,8 +1,8 @@
 #git #udemy 
 
 ---------
-
-
+[[1 wprowadzanie zmian i rewizje]]
+[[2 Commits]]
 
 
 
