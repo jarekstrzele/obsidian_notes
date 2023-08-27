@@ -84,3 +84,8 @@ int main()
 }
 ```
 
+---
+# Błędy kompilator
+
+
+
