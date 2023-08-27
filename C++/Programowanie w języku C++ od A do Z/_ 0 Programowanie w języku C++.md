@@ -117,16 +117,47 @@ int main(){
 
 **zmienne globalne** dostęp można uzyskaź w dowolnej części programy
 ```c++
-int liczbaa;
+int liczba;
 
-int main
+int main(){
+	return 0;
+}
+```
 
+**zmienne lokalne** zdefiniowane są w funkcji lib bloku kody
+```c++
+int main(){
+	int liczba;
+	
+	return 0;
+}
+```
 
+```c++
+#include <iostream>
+
+using namespace std;
+
+int liczba = 10;
+
+int main()
+{
+    int liczba = 200;
+    cout << liczba << endl; // ->200
+    cout << ::liczba << endl; // -> 10
+    
+
+    return 0;
+}
 ```
 
 
+## stałe
+są niezmienne
 
-**zmienne lokalne** zdefiniowane są w funkcji lib bloku kody
+dwa sposoby deklarowania:
+
+
 
 
 
