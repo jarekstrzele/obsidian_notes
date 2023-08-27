@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "31d76ac180d8c8f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "C++/Programowanie w języku C++ od A do Z/_ 0 Programowanie w języku C++.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "C++/Programowanie w języku C++ od A do Z/_ 0 Programowanie w języku C++.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -131,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "C++/Programowanie w języku C++ od A do Z/_ 0 Programowanie w języku C++.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "C++/Programowanie w języku C++ od A do Z/_ 0 Programowanie w języku C++.md"
               }
             }
           },
@@ -202,8 +189,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "31d76ac180d8c8f3",
+  "active": "8247b081ac64a0c1",
   "lastOpenFiles": [
+    "C++/C++ Programming Course/_ C++ Programming Course.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md",
     "conflict-files-obsidian-git.md",
     "Git/Mosh GIT - the ultimate Git Course/_ The Ultimate Git Course.md",
@@ -234,7 +222,6 @@
     "_ FullStack/Web Development 2023/1 HTML.md",
     "R U S T/ULTIMATE Rust Lang Tutorial/14 Closure.md",
     "Git/git od podstaw dla każdego/_ git od podstaw.md",
-    "Git/git od podstaw dla każdego/1 wprowadzanie zmian i rewizje.md",
     "Git/git od podstaw dla każdego",
     "C Sharp/C Sharp od Podstaw do WPF i XAML",
     "Untitled",
