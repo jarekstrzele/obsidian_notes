@@ -51,9 +51,25 @@ int main(){
 ---
 # strumień wejścia / wyjścia
 - `cout` wypisuje tekst zapisany w cudzysłowiu
-`std::cout << ""
+`std::cout << "Hello" ;
 
+- `cin` odczytuje dane z klawiatury i przypusyhe je do zmiennej
+`std::cin >> liczba ;`
 
+```c++
+int main()
+{
+    float liczba = 3.212;
+    std::cout << liczba << std::endl;
+    std::cout.precision(3);
+    std::cout << liczba << std::endl;
+
+    std::cout << "enter to end";
+    std::cin.get();
+
+    return 0;
+}
+```
 
 
 
