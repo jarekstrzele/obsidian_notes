@@ -156,8 +156,66 @@ int main()
 są niezmienne
 
 dwa sposoby deklarowania:
+```c++
+#include <iostream>
+// pierwszy sposób deklaracji
+#define PI 3.14
+
+using namespace std;
+
+int main(){
+	// drugi sposób deklarowania 
+	const float CAL = 2.54 ;
+	
+	cout << PI << endl;
+
+	return 0;
+}
+
+```
 
 
+## MODYFIKATORY
+służą do zmiany właściwości zmiennej
+
+
+**4 rodzaje modyfikatorów**
+- `signed`
+- `unsigned`
+- `short`
+- `long`
+
+typy danych, które można modyfikować `int  double char`
+
+```c++
+
+#include <iostream>
+using namespace std;
+
+int main() {
+    
+    signed int liczba = -14;
+    cout << "Wartość liczba: " << liczba;
+    cout << "  Rozmiar: " << sizeof(liczba) << endl; // 4
+
+    unsigned int liczba2 = 14;
+    cout << "Wartość liczba: " << liczba2;
+    cout << "  Rozmiar: " << sizeof(liczba2) << endl; // 4
+
+    short int liczba3 = -14;
+    cout << "Wartość liczba: " << liczba3;
+    cout << "  Rozmiar: " << sizeof(liczba3) << endl; // 2
+
+
+    long long int liczba4 = -14;
+    cout << "Wartość liczba: " << liczba4;
+    cout << "  Rozmiar: " << sizeof(liczba4) << endl; // 8
+
+    return 0;
+
+}
+
+```
 
 
 
