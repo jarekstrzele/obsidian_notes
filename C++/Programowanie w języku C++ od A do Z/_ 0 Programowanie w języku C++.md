@@ -85,7 +85,27 @@ int main()
 ```
 
 ---
-# Błędy kompilator
+# przestrzenie nazw
+
+- służą do wybrania, które znaczenie nazwy chcemy użyć:
+- zapewniamy brak konfliktów między nazwami
+
+`A::X` oraz `B::X`
+
+w pliku :
+```c++
+// dyrektywa preprocesora - włączanie treści zplików nagłówkowych do kodu źródłowego
+#include <iostream>
+
+// definiowanie zakresów lub do ułatwienia dostępu do określonych elementów przestrzeni nazw w programie
+using namepsace std;
+
+int main(){
+	cout << "JEzy na wiezty " << endl;
+
+}
+```
+
 
 
 
