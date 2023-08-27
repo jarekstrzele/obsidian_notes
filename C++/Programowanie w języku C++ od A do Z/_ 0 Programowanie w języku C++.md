@@ -106,6 +106,28 @@ int main(){
 }
 ```
 
+----
+# Zmienne i stałe
+
+
+## zmienne
+- to kontenery do przechowywania wartości
+- `int  float double  char string bool`
+
+
+**zmienne globalne** dostęp można uzyskaź w dowolnej części programy
+```c++
+int liczbaa;
+
+int main
+
+
+```
+
+
+
+**zmienne lokalne** zdefiniowane są w funkcji lib bloku kody
+
 
 
 
