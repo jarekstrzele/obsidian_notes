@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Programowanie w języku C++ od A do Z/1 Złożone typy danych.md",
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Programowanie w języku C++ od A do Z/1 Złożone typy danych.md",
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Programowanie w języku C++ od A do Z/1 Złożone typy danych.md",
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/Programowanie w języku C++ od A do Z/1 Złożone typy danych.md"
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md"
               }
             }
           },
@@ -203,8 +203,8 @@
   },
   "active": "8247b081ac64a0c1",
   "lastOpenFiles": [
-    "C++/Programowanie w języku C++ od A do Z/_ 0 Programowanie w języku C++.md",
     "C++/Programowanie w języku C++ od A do Z/1 Złożone typy danych.md",
+    "C++/Programowanie w języku C++ od A do Z/_ 0 Programowanie w języku C++.md",
     "C++/Beginning C++/_ Intro C++.md",
     "C++/Beginning C++",
     "C++/C++ Programming Course/_ C++ Programming Course.md",
