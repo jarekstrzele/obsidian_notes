@@ -138,9 +138,63 @@ do
 # Tablice
 #csharp/table
 
+```c#
+
+class Program
+{
+     static void Main(string[] args)
+    {
+        //int[] tab;
+        //tab = new int[10];
+        int[] tab = new int[10];
+
+        tab[0] = 3;
+        tab[1] = 13;
+        tab[2] = 113;
+        tab[3] = 2223;
+        
+        for(int i = 0; i < tab.Length; i++)
+        {
+            Console.WriteLine(tab[i]);
+        }
+
+        Console.ReadLine(); //czeka na enter
+
+        int[] ciag = new int[] { 99, 22, 10, 20 };
+        for(int i = 0;i < ciag.Length;i++)
+        {
+            Console.WriteLine(ciag[i]);       
+        }
+
+        int[] ciag2 = { 12, 23, 456, 66 };
+
+        
+    }
+
+}
+```
 
 
+--
+# `foreach`
+#csharp/foreach
 
+```c#
+class Program
+{
+     static void Main(string[] args)
+    {
+        int[] tab = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, };
+
+        foreach (int i in tab)
+        {
+            Console.WriteLine(i);
+        }
+        
+    }
+
+}
+```
 
 
 
