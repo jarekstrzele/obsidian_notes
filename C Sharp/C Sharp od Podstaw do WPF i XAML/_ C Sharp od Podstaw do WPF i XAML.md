@@ -174,8 +174,21 @@ class Program
 }
 ```
 
+------
+# tablice wielowymiarowe
+`int[,] nazwa = new int[4,3]`   tablica o 4 rzędach i trzech kolumnach
 
---
+`string[,] tab2D = new string[4,3]` tablica dwuwymiarowa 4x3
+
+for
+
+
+
+
+
+
+
+---
 # `foreach`
 #csharp/foreach
 
