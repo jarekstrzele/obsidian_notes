@@ -78,12 +78,56 @@ int main() {
 
 
 ```c++
+#include <vector>
+
 
 vector <int> liczby;
 
 vector <int> liczby {4,2,4,3} ;
 ```
 
+
+```c++
+#include <iostream>
+#include <vector>
+
+using namespace std;
+
+int main() {
+    
+    // vector <int> liczby;
+
+    vector <int> liczby {2, 3, 411, 5};
+    vector <char> znaki {'a', 'e', 'i', 'o', 'u'};
+
+    cout << liczby[2] << endl; // 411
+    cout << znaki[0] << endl; // a
+
+    znaki[0] = 'q';
+    cout << znaki[0] << endl; // q
+
+    cout << "Przed push_back: " << liczby.size() << endl; // 4
+    liczby.push_back(1122);
+    cout << liczby[3] << endl; // 5
+    cout << liczby[4] << endl; // 1122
+    cout << "Po dodaniu wartości: " <<  liczby.size() << endl; //5
+
+
+
+
+    return 0;
+
+}
+```
+
+
+-----
+# ciągi znaków
+zbiór znaków można zapisać w postaci tablic (taka tablica kończy się znakiem `null`)
+
+```c++
+char ciag[] = "Hello" ; // H e l l o \0
+```
 
 
 
