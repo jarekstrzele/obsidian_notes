@@ -1,4 +1,12 @@
-#udemy 
+#udemy  #csharp 
+
+----
+[[1 OOP C Sharp]]
+[[2 Aplikacje WPF]]
+
+
+
+
 
 #clr
 >[!info] CLR
@@ -180,12 +188,58 @@ class Program
 
 `string[,] tab2D = new string[4,3]` tablica dwuwymiarowa 4x3
 
-for
+```c#
+class Program
+{
+     static void Main(string[] args)
+    {
+        string[,] tab2D = new string[4, 3];
 
+        for(int i = 0; i < tab2D.GetLength(0); i++)
+            for(int j = 0; j < tab2D.GetLength(1); j++)
+            {
+                tab2D[i, j] ="tab [" + i + "," + j + "]  ";
+            }
 
+        for (int i = 0; i < tab2D.GetLength(0); i++)
+        {
+            for (int j = 0; j < tab2D.GetLength(1); j++)
+            {
+                Console.Write(tab2D[i, j]);
+            }
+            Console.WriteLine();
+        }
+    }
 
+}
+```
 
+==tablica wyszczerbiona==
 
+```c#
+class Program
+{
+     static void Main(string[] args)
+    {
+        int[][] jaggedArray = new int[3][];
+
+        jaggedArray[0] = new int[] { 1, 2, 3, 4 };
+        jaggedArray[1] = new int[] { 10, 1, 10, 2, 10, 3 };
+        jaggedArray[2] = new int[] { 1, 2 };
+
+        for(int i = 0; i < jaggedArray.GetLength(0); i++)
+        {
+            for (int j = 0; j < jaggedArray[i].Length; j++)
+            {
+                Console.Write(jaggedArray[i][j] + " ");
+            }
+            Console.WriteLine();
+        }
+
+    }
+
+}
+```
 
 
 ---
