@@ -125,8 +125,18 @@ int main() {
 # ciągi znaków
 zbiór znaków można zapisać w postaci tablic (taka tablica kończy się znakiem `null`)
 
+indeksy tak jak w "normalnych" tablicach
 ```c++
+
+//automatycznie określa długość i dodaj e \0
 char ciag[] = "Hello" ; // H e l l o \0
+
+char ciag[9] = "Hello" ; // Hello \0 \0 \0 \0
+
+char imie[] = { 'A', 'd', 'a', 'm', '\0'} ;
+
+sizeof(imie) ;
+
 ```
 
 
