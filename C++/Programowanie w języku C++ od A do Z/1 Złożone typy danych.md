@@ -37,6 +37,52 @@ int main() {
 ```
 
 
+# tablica wielowymiarowa
+
+```c++
+int tab[3][4] = {4,5,3,4,
+				 5,2,1,2,
+				 5,2,3,1} ;
+```
+
+```c++
+#include <iostream>
+using namespace std;
+
+int main() {
+    int tab[3][4] = { 4,5,3,4,
+                      5,2,1,2,
+                      5,2,30,1 };
+
+    cout << tab[2][2]; // 30
+
+    return 0;
+}
+```
+
+```c++
+ int tab[6][2] = { 4,5,
+                      3,4,
+                      5,2,
+                      1,2,
+                      5,2,
+                      30,1 };
+```
+
+
+---
+
+# Wektory
+- to kontenery przechowujące wiele wartości tego samego typu
+- jak tablice, ale rozmiar wektorów może się zmieniać dynamicznie
+
+
+```c++
+
+vector <int> liczby;
+
+vector <int> liczby {4,2,4,3} ;
+```
 
 
 
