@@ -1,7 +1,16 @@
 #cplusplus  #udemy #takeiteasy_academy
 
 ### `.cpp`
+TEMATY:
+[[1 Złożone typy danych]]
 
+
+
+
+
+
+
+--------------
 
 1970 język C Dennis Ritchi
 1983 C++

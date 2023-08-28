@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Programowanie w języku C++ od A do Z/_ 0 Programowanie w języku C++.md",
+                "file": "C++/Programowanie w języku C++ od A do Z/1 Złożone typy danych.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Beginning C++/_ Intro C++.md",
+                "file": "C++/Programowanie w języku C++ od A do Z/1 Złożone typy danych.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -131,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Beginning C++/_ Intro C++.md",
+                "file": "C++/Programowanie w języku C++ od A do Z/1 Złożone typy danych.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/Beginning C++/_ Intro C++.md"
+                "file": "C++/Programowanie w języku C++ od A do Z/1 Złożone typy danych.md"
               }
             }
           },
@@ -202,8 +201,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d65b450f67f88609",
+  "active": "8247b081ac64a0c1",
   "lastOpenFiles": [
+    "C++/Programowanie w języku C++ od A do Z/_ 0 Programowanie w języku C++.md",
+    "C++/Programowanie w języku C++ od A do Z/1 Złożone typy danych.md",
     "C++/Beginning C++/_ Intro C++.md",
     "C++/Beginning C++",
     "C++/C++ Programming Course/_ C++ Programming Course.md",
@@ -234,8 +235,6 @@
     "_ FullStack/Web Development 2023/4 Grid.md",
     "_ FullStack/Web Development 2023/3 Flexbox.md",
     "_ FullStack/Web Development 2023/2 CSS.md",
-    "_ FullStack/Web Development 2023/1 HTML.md",
-    "R U S T/ULTIMATE Rust Lang Tutorial/14 Closure.md",
     "Git/git od podstaw dla każdego",
     "C Sharp/C Sharp od Podstaw do WPF i XAML",
     "Untitled",
