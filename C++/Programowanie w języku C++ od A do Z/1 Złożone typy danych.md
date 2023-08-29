@@ -199,7 +199,42 @@ string nazwa_zmiennej;
 string nazwa = "jakiś string" ;
 ```
 
+```c++
 
+#include <iostream>
+#include <string> 
+
+using namespace std;
+
+int main() {
+   
+    string ala = "ala ma";
+    string kot = "kota";
+    cout << ala + " " + kot << endl;
+
+    // kompilator sam rozpoznaje kiedy dodawać 1+1=2, a kiedy konkatenować "1" + "1" = "11"
+   
+    cout << ala.size() <<endl;
+    cout << ala[2] << endl;
+
+    string s(10, '*');
+    cout << s << endl; // 10 gwiazdek
+
+    cout << ("ala" > "zebra") << endl; // 0
+    cout << ("ala" < "zebra") << endl; // 1
+
+    // nazwa_zmiennej.substr(indeks od,  index do) 
+
+    string ciag;
+    getline(cin, ciag, '$'); // znak $ przerywa wpisywanie
+    cout << ciag << endl;
+
+
+
+    return 0;
+
+}
+```
 
 
 
