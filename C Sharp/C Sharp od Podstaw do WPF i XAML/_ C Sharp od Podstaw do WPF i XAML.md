@@ -1,7 +1,7 @@
 #udemy  #csharp 
 
 ----
-[[1 OOP C Sharp]]
+[[1 OOP w CSharp]]
 [[2 Aplikacje WPF]]
 
 
