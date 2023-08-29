@@ -61,7 +61,9 @@ documentation: https://docs.oracle.com/en/java/javase/20/index.html
 ## install Android Studio
 - download and install Android Studio
 - start Android Studio 
-- a new project 
+- a new project and Empty Activity Phone and Tablet Template 
+	- `pacage name` is as the idea of your application
+- finish (to complete the project it takes some time)
 
 
 
