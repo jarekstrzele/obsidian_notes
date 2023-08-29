@@ -140,6 +140,69 @@ sizeof(imie) ;
 ```
 
 
+```c++
+#include <iostream>
+#include <vector>
+
+using namespace std;
+
+int main() {
+   
+    //inicjalizacja
+    char owoc_1[20], owoc_2[20];
+
+    cout << "Podaj piewszy owoc: ";
+    cin >> owoc_1;
+    cout << "Podaj drugi owoc: ";
+    cin >> owoc_2;
+
+    cout << owoc_1 << endl << owoc_2 << endl;
+    strcpy_s(owoc_1, owoc_2); // owoc_1 będzie miał wartość owoc_2
+    cout << owoc_1 << endl << owoc_2 << endl;
+
+    char imie[20];
+    // imie = "Tomasz" ; generuje błąd
+    strcpy_s(imie, "Tomasz");
+
+    char user_data[199];
+    strcpy_s(user_data, "Jan");
+    strcat_s(user_data, "Kowalski"); //konkatenacja
+
+   
+    return 0;
+
+}
+```
+
+
+```c++
+char ciag[] = "Programowanie strukturalne";
+    cout << ciag;
+```
+
+
+
+---
+# String
+#cplusplus/string
+
+- to obiekt klasy string 
+- należy dodać `#include <string>`
+- ns stringach można dokonywać wielu różnych działań
+
+
+```c++
+//deklaracja
+string nazwa_zmiennej;
+
+//deklaracja i inicjalizacja
+string nazwa = "jakiś string" ;
+```
+
+
+
+
+
 
 
 
