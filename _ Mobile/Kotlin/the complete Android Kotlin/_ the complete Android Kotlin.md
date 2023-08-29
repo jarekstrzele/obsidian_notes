@@ -38,12 +38,25 @@
 
 # Environment Setup in Android Studio Kotlin
 
-- install Java Development Kit `JDK`
-	- `JDK` is used to
+1. **install** Java Development Kit `JDK`
+		- `JDK` is used to develop Java apps, it contains:
+			- `JRE`
+				- Java Runtime Environment, 
+				- it contains:
+					- `JVM`  Java Virtual Machine
+					- othe components to run apps
+			- `Development Tools`
+				- Compiler
+				- Java Debugger
+				- ...
 
+download: https://www.oracle.com/pl/java/technologies/downloads/
+documentation: https://docs.oracle.com/en/java/javase/20/index.html
 
-
-
+2. set a system path:
+	1. jdk is installed `C:\Program Files\Java\jdk-20\bin`
+	2.  copy path
+	3. `This PC`, menu> Properties > Advanced system settings > Environment Variables > choose `System variables ` and find
 
 
 
