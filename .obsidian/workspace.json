@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/_ the complete Android Kotlin.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/_ the complete Android Kotlin.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/_ the complete Android Kotlin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md"
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/_ the complete Android Kotlin.md"
               }
             }
           },
@@ -215,8 +215,11 @@
   },
   "active": "8247b081ac64a0c1",
   "lastOpenFiles": [
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/2 Aplikacje WPF.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
+    "_ Mobile/Kotlin/the complete Android Kotlin/_ the complete Android Kotlin.md",
+    "_ Mobile/Kotlin/the complete Android Kotlin",
+    "_ Mobile/Kotlin",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/2 Aplikacje WPF.md",
     "C++/Programowanie w języku C++ od A do Z/_ 0 Programowanie w języku C++.md",
     "C++/Programowanie w języku C++ od A do Z/2 Operatory.md",
     "C++/Programowanie w języku C++ od A do Z/1 Złożone typy danych.md",
@@ -246,11 +249,8 @@
     "_ WEB/Angular/Praktyczny kurs Angulara/0 Podstawy Angular.md",
     "_ WEB/Angular/Praktyczny kurs Angulara",
     "_ WEB/Angular",
-    "_ FullStack/Web Development 2023/5 Bootstrap.md",
     "Git/git od podstaw dla każdego",
     "C Sharp/C Sharp od Podstaw do WPF i XAML",
-    "Untitled",
-    "C Sharp",
     "canvas_moduls_rust.canvas",
     "test canvas.canvas",
     "pexels-alex-fu-1302436.jpg",
