@@ -29,6 +29,17 @@
 - android is operating system designed for use on mobile devices (2008)
 
 
+==package==
+- an organized module of related interfaces and classes
+- organize classes that belong to the same category or provide related functionality
+
+==class==, ==object==,  ==OOP==, ==Function or method==, ==argument or parameter==
+
+
+# Environment Setup in Android Studio Kotlin
+
+- install Java Development Kit `JDK`
+	- `JDK` is used to
 
 
 
