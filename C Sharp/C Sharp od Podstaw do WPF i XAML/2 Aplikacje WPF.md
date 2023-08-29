@@ -21,7 +21,8 @@ powiązanie xaml z bibliotekam
 
 `xmlns:x`  - `x` z przestrzeni nazw `xmlns`
 
-`<Window x:Class="WpfApp1.MainWindow"` okno Window będzie miało w ko
+`<Window x:Class="WpfApp1.MainWindow"` okno Window będzie miało w kodzie klasę o nazwie `WpfApp1.MainWindow`
 
-
-
+Jeżeli do okna dodasz buttona, to podwójne kliknięcie na niego, automatycznie wygeneruje metodę obsługującą kliknięcie.
+do atrybutu buttona zostanie dodany ` Click="btn1_Click"` czyli `btn1_Click` jest nazwą funkcji wygenerowanej automatycznie
+ 
