@@ -3,7 +3,7 @@
 ### `.cpp`
 TEMATY:
 [[1 Złożone typy danych]]
-
+[[2 Operatory]]
 
 
 
