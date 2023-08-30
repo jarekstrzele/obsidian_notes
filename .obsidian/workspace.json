@@ -42,8 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cc1088f13eea41fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_ Mobile/REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -125,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/_ the complete Android Kotlin.md",
+                "file": "_ Mobile/REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -142,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/_ the complete Android Kotlin.md",
+                "file": "_ Mobile/REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/_ the complete Android Kotlin.md"
+                "file": "_ Mobile/REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md"
               }
             }
           },
@@ -213,10 +226,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8247b081ac64a0c1",
+  "active": "cc1088f13eea41fb",
   "lastOpenFiles": [
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
+    "_ Mobile/REACT NATIVE/Master React Native Funds/_ 0 start React Native.md",
+    "_ Mobile/REACT NATIVE/_ Proste aplikacje/biblioteka Moment Javascript.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/_ the complete Android Kotlin.md",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
     "_ Mobile/Kotlin/the complete Android Kotlin",
     "_ Mobile/Kotlin",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/2 Aplikacje WPF.md",
@@ -245,8 +260,6 @@
     "_ WEB/Django/Django For Everybody",
     "_ WEB/Angular/Praktyczny kurs Angulara/todo_list_project.md",
     "_ WEB/Angular/Praktyczny kurs Angulara/Section 4 Architektura Angulara.md",
-    "_ WEB/Angular/Praktyczny kurs Angulara/INERPOLACJA.md",
-    "_ WEB/Angular/Praktyczny kurs Angulara/0 Podstawy Angular.md",
     "_ WEB/Angular/Praktyczny kurs Angulara",
     "_ WEB/Angular",
     "Git/git od podstaw dla każdego",

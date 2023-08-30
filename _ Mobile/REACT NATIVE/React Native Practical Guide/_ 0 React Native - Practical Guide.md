@@ -62,7 +62,7 @@ Web Browser (react-dom) | Native Component (Android) | Native Component (iOS) | 
 
 
 >[!important] React Native
->It mapds and compiles re-usable components to respective platform equivalents
+>It maps and compiles re-usable components to respective platform equivalents
 
 ## Logic?
 Views are compiled to native views but logic not.
