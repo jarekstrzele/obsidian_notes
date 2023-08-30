@@ -200,17 +200,63 @@ remove
 `age.remove(10)
 
 
+```kotlin
+fun main() {  
+  
+    var age = ArrayList<Int>()  
+  
+    age.add(10)  
+    age.add(1, 22)  
+    age.add(333)  
+  
+    println("First element of ArrayList = " + age[0])  
+    println("Second element of ArrayList = " + age.get(1))  
+    println("Third element of ArrayList = ${age[2]} ")  
+  
+    age.remove(22)  
+    println(age.size)  
+  
+    var cars = arrayListOf< String>("ala", "ma", "kota")  
+    cars.add("nowy")  
+  
+    var mixArrayList = ArrayList<Any>()  
+    mixArrayList.add("Ford")  
+    mixArrayList.add(5)  
+    mixArrayList.add(true)  
+  
+    println(mixArrayList) // [Ford, 5, true]  
+}
+```
+
+
+## Set
+#kotlin/set 
+
+`var age = setOf<Int>(1,2,3,2)`
+`println(age.siz)` --> 3
+
+
+```kotlin
+fun main() {  
+  
+    var mySet = setOf<Int>(1,2,3,2)  
+    println(mySet.size)  
+  
+    var mixSet = setOf<Any>(true, 2, 2.3, true)  
+    println(mixSet.size) // 3  
+    println(mixSet.last()) // 2.3  
+}
+```
 
 
 
+---
+## Map
+`key:value`
 
+`var age = mapOf<String, Int> ("david" to 20, "ronaldo" to 25)`
 
-
-
-
-
-
-
+`println(age["david"])` -> `20`
 
 
 
