@@ -153,8 +153,22 @@ fun main() {
     println(k.uppercase())  
   
     println("   Rufui  ".trim())  
-}
+} 
 ```
+
+
+## Arrays
+#kotlin/array
+
+a lot of value with the same type
+
+`var age = arrayOf(24,14,8,12,16,19,36)`
+
+
+
+
+
+
 
 
 
