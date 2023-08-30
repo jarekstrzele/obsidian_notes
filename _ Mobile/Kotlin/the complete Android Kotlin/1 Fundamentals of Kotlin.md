@@ -59,7 +59,7 @@ fun main(args:Array<String>){
 
 ---
 ## data types
-- Boolean
+- Boolean  false
 - Character
 	- `Char`
 - Numbers
@@ -67,14 +67,41 @@ fun main(args:Array<String>){
 		- `Byte` (-128,127)
 		- `Short` (-32 768, 32767)
 		- `Int`
-		- `l=Long`
+		- `Long` 0L
 	- Floating point
-		- `float`
-		- `double`
+		- `float` 0.0f
+		- `double` 0.0d
 - String
 - Array
 
+declaration and initialization
+`var age : Int = 20`
 
+
+```kotlin
+package com.firstkotlinprogram  
+  
+fun main() {  
+  
+    var a:Boolean = true  
+    var b:Char = 'R'  
+    var c:Byte = 12  
+    var d:Short = -356  
+    var e:Long = -234556L  
+    var q:Float = 222.3333F  
+    var w:Double = 83.23434234  
+    println(a)  
+    println(b)  
+    println(c)  
+    println(e)  
+    println(q)  
+  
+}
+```
+
+
+---
+## type conversions
 
 
 
