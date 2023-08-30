@@ -103,7 +103,7 @@ fun main() {
 ---
 ## type conversions
 
-
+`toByte()`
 
 
 
