@@ -160,12 +160,39 @@ fun main() {
 ## Arrays
 #kotlin/array
 
-a lot of value with the same type
-
 `var age = arrayOf(24,14,8,12,16,19,36)`
 
+```kotlin
+fun main() {  
+  
+    var age = arrayOf(1,2,3)  
+  
+    println("First element of Array = " + age[0])  
+    println("Second element of Array = " + age.get(1))  
+  
+    var cars = arrayOf("Mercedes", "BMW", "Opel")  
+    cars.set(2, "Fiat")  
+    println(cars[2])  
+    println("Size: " + cars.size)  
+  
+    var carsAndAge = arrayOf("Fiat", 10, "Maluch", 123)  
+  
+    carsAndAge.set(4, "New element") //error ArrayIndexOutOfBoundsException  
+}
+
+```
 
 
+## ArrayList
+#kotlin/arraylist
+
+`var age = arrayList<Int>(2,1,4)`
+
+only init:
+`var age = ArrayList<Int>()`
+
+add
+age.add(index:3, element: 20)
 
 
 
