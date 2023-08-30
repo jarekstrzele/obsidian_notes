@@ -186,13 +186,21 @@ fun main() {
 ## ArrayList
 #kotlin/arraylist
 
-`var age = arrayList<Int>(2,1,4)`
+`var age = arrayList<Int>(2,10,4)`
 
 only init:
 `var age = ArrayList<Int>()`
 
 add
-age.add(index:3, element: 20)
+`age.add(index:3, element: 20  )`
+`age.add(20)`
+
+remove
+`age.removeAt(index: 1)`
+`age.remove(10)
+
+
+
 
 
 
