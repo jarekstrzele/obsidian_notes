@@ -66,7 +66,13 @@ documentation: https://docs.oracle.com/en/java/javase/20/index.html
 - finish (to complete the project it takes some time)
 
 
-
+## Android SDK
+Android SDK Build-Tolls
+Android Emulator
+Android Hypervisor
+Android SDK Platform-Tools
+to test an app in your own mobile device:
+	Google Play services and Google USB Driver
 
 
 
