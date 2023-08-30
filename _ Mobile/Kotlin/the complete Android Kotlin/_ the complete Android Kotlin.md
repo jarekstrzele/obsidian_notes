@@ -1,10 +1,23 @@
 #kotlin #udemy #android  #oak_academy
 
+-------
+[[1 Fundamentals of Kotlin]]
 
 
 
 
+----------
 
+[[#Kotlin]]
+[[#Android Ecosystem]]
+[[#Environment Setup in Android Studio Kotlin]]
+[[#**install** Java Development Kit `JDK`]]
+[[#install Android Studio]]
+[[#Android SDK]]
+
+
+
+----
 
 # Kotlin
 >[!info] ==Kotlin== 
