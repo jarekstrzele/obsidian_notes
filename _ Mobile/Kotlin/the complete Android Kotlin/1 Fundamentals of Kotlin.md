@@ -137,3 +137,37 @@ methods:
 `trim()`
 `equals(Object other)`
 
+
+```kotlin
+fun main() {  
+  
+    var a:String = "Hello"  
+    var b:String = "World"  
+    println(a + " " + b ) // Hello World  
+  
+    var k:String = "Kotlin"  
+    println(k + " " + k.length)  
+    println(k.equals("domek na prerii"))  
+    println(k.isEmpty())  
+    println( k.plus(" language"))  
+    println(k.uppercase())  
+  
+    println("   Rufui  ".trim())  
+}
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
