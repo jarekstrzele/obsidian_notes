@@ -103,11 +103,37 @@ fun main() {
 ---
 ## type conversions
 
-`toByte()`
+`toByte()`, `toShort()`, `toLong()`, `toFloat()`, `toDouble()`
+
+```Kotlin
+  
+fun main() {  
+  
+    var x:Byte = 127  
+    var y:Int = x.toInt()  
+    var z:Double = y.toDouble()  
+  
+    println(x)  
+    println(y)  
+    print(z)  
+      
+    var a:Double = 123.32  
+    var b:Int = a.toInt()  
+  
+}
+```
 
 
+---
+## String
+#kotlin/string
 
-
-
-
+methods:
+`length()`
+`isEmpty()`
+`plus(" ... )"` concatenated string `...` and other
+`lowercase()`
+`uppercase()`
+`trim()`
+`equals(Object other)`
 
