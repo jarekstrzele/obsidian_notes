@@ -2,6 +2,15 @@
 
 -------
 [[1 Fundamentals of Kotlin]]
+[[2 Operators in Kotlin]]
+[[3 Control Flow Statements in Kotlin]]
+[[4 Loops in Kotlin]]
+[[5 Functions in Android Kotlin]]
+[[6 Kotlin OOP]]
+[[7 Intro to Android App Development]]
+
+
+
 
 
 

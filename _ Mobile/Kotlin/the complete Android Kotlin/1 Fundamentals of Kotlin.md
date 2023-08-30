@@ -259,7 +259,22 @@ fun main() {
 `println(age["david"])` -> `20`
 
 
-
+```kotlin
+fun main() {  
+  
+    // IMMUTABLE  
+    println(" ---- immutable map of -------")  
+    var age = mapOf<String, Int>("david" to 20, "ronaldo" to 25)  
+    println( "Ronaldo : ${age["ronaldo"]}") // 25  
+  
+    // MUTABLE    println(" ---- mutable map of -------")  
+    var mutableAge = mutableMapOf<String, Int>("david" to 20, "ronaldo" to 25)  
+    mutableAge.put("Jaśko", 68)  
+    println( "Jaśko : ${mutableAge["Jaśko"]}") // 25  
+    println("david: ${mutableAge.get("david")}")  
+  
+}
+```
 
 
 
