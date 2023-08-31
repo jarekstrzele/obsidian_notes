@@ -1,5 +1,17 @@
 [[_ the complete Android Kotlin]]
 
+---
+[[#Constructor]]
+[[#Inheritance]]
+[[#Function overriding]]
+[[#Abstract class]]
+[[#Interfejs]]
+
+
+
+
+
+-----
 ==class== is a group of similar entities (doesn't consume memory)
 
 ==object== is a instance of class (consumes memory):
@@ -170,7 +182,7 @@ class MySecondaryConstructor {
 
 
 ----
-# inheritance
+# Inheritance
 - **Klasy** i **methody** domyślnie są `final`, więc nie moga być dziedziczone
 - aby umożliwić dziedziczenie 
 ```kotlin
@@ -197,7 +209,7 @@ klasa `SpaceShip` dziedziczy po klasie `Vehicle` bez wywoływania konstrukto
 
 
 --------
-# function overriding
+# Function overriding
 functions must have
 	- same name
 	- same parameter
@@ -291,6 +303,8 @@ fun main() {
 
 ----
 # Abstract class
+#kotlin/abstract
+
 **abstract class** you wouldn't be able to create any objects using it
 **abstract method** contains no body
 
@@ -310,15 +324,57 @@ class Car: Vehicle()
 
 
 create a new package
+`Vehicle.kt`
+```kotlin
+package com.example.oopkotlin.abstract  
+  
+abstract class Vehicle {  
+  
+	abstract fun vehicleName(name: String) :String  
+  
+    fun vehicleType(type:String) : String  
+    {  
+        return type  
+    }  
+  
+    abstract var model: Int  
+    var speed: Int? = null  
+}
+```
+
+`Car.kt`
+```kotlin
+package com.example.oopkotlin.abstract  
+  
+class Car(override var model: Int) : Vehicle() {  
+    override fun vehicleName(name: String): String {  
+        return name  
+    }  
+  
+}
+```
+
+`AbstractTest.tk`
+```kotlin
+package com.example.oopkotlin.abstract  
+  
+fun main() {  
+  
+    var car = Car(2022)  
+    car.speed = 300  
+    println("Name: ${car.vehicleName("ferrari")}\n"+  
+            "Type : ${car.vehicleType("Car")}\n" +  
+            "Model : ${car.model}\n" +  
+            "Spped : ${car.speed}"  
+    )  
+  
+}
+```
 
 
-
-
-
-
-
-
-
+--------
+# Interfejs
+#kotlin/interface
 
 
 
