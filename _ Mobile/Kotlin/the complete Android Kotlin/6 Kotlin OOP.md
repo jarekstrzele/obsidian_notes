@@ -179,4 +179,46 @@ open class ClassName {
 }
 ```
 
+```kotlin
+open class Vehicle {
+    // Implementacja klasy Vehicle
+}
+
+class SpaceShip : Vehicle {
+    // Implementacja klasy SpaceShip
+}
+
+class SpaceShipWithConstructor : Vehicle() {
+    // Implementacja klasy SpaceShipWithConstructor
+}
+```
+
+klasa `SpaceShip` dziedziczy po klasie `Vehicle` bez wywoływania konstruktora klasy bazowej. Oznacza to, że klasa `SpaceShip` nie inicjalizuje żadnych właściwości lub stanu klasy `Vehicle` w swoim konstruktorze.
+
+
+--------
+# function overriding
+functions must have
+	- same name
+	- same parameter
+	- same return type
+
+```kotlin
+open class Vehicle {
+	open fun stop() {
+		print("Vehicle has stopped")
+	}
+}
+
+class Car : Vehicle() {
+
+	override fun stop() {
+		print("Car has stoppted")
+	}
+}
+```
+
+
+
+
 
