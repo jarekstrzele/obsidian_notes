@@ -149,7 +149,7 @@ fun main() {
     println(k + " " + k.length)  
     println(k.equals("domek na prerii"))  
     println(k.isEmpty())  
-    println( k.plus(" language"))  
+    println(k.plus(" language"))  
     println(k.uppercase())  
   
     println("   Rufui  ".trim())  
