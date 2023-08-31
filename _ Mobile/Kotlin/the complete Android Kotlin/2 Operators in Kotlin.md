@@ -38,10 +38,51 @@ fun main() {
 `var number:Int = 1 `
 `+number` --> 1
 `++number` increment by 1  -> 2
-
+`number++`
 
 
 ---
+## equality and relational operators
+
+` ==  !=  >  <  >=  <= `
+
+
+## conditional operators
+
+`&&` and
+`||` or
+
+```kotlin
+fun main() {
+  println( (10 > 3) && (4 <= 100))
+
+}
+```
+
+
+## operator precedence
+
+unary -- HIGHEST
+multi
+add
+relational
+equality
+AND
+OR
+assignment LOWEST )` =  +=  -=  *=   /=  % `
+
+
+## `rangeTo`  `in`
+
+`some.toRange(other)`
+`... in  ...`  included
+
+
+
+
+
+
+
 
 
 
