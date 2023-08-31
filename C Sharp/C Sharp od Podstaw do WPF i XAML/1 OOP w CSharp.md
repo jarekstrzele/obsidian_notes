@@ -4,7 +4,7 @@
 ----
 [[#Wstęp]]
 [[#Konstruktory]]
-[[#Metody]]
+[[#Metody]] 
 
 
 
