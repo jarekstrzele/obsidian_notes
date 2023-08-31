@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/4 Loops in Kotlin.md",
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/5 Functions in Android Kotlin.md",
                 "mode": "source",
                 "source": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/4 Loops in Kotlin.md",
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/5 Functions in Android Kotlin.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/4 Loops in Kotlin.md",
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/5 Functions in Android Kotlin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/4 Loops in Kotlin.md"
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/5 Functions in Android Kotlin.md"
               }
             }
           },
@@ -239,6 +239,7 @@
   },
   "active": "8247b081ac64a0c1",
   "lastOpenFiles": [
+    "_ Mobile/Kotlin/the complete Android Kotlin/4 Loops in Kotlin.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/3 Control Flow Statements in Kotlin.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/2 Operators in Kotlin.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/1 Fundamentals of Kotlin.md",
@@ -250,7 +251,6 @@
     "_ Mobile/Kotlin/the complete Android Kotlin/7 Intro to Android App Development.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/5 Functions in Android Kotlin.md",
-    "_ Mobile/Kotlin/the complete Android Kotlin/4 Loops in Kotlin.md",
     "_ Mobile/REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
     "_ Mobile/REACT NATIVE/Master React Native Funds/_ 0 start React Native.md",
     "_ Mobile/REACT NATIVE/_ Proste aplikacje/biblioteka Moment Javascript.md",

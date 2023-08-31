@@ -56,6 +56,28 @@ while(i<=10){
 ```
 
 
+```kotlin
+var i = 0
+do{
+	i++
+} while(i<10)
+```
+
+
+------
+## random
+#kotlin/random
+```kotlin
+import kotlin.random.Random 
+
+  
+fun main() {
+
+  val num = Random.nextInt(0,100)
+  println(num)
+  
+}
+```
 
 
 
