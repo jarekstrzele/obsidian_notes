@@ -130,11 +130,47 @@ fun main(){
 
 
 SECOND CONSTRUCTOR
+```kotlin
+class MySecondaryConstructor {  
+  
+    var name: String? = null  
+    var model: Int? = null  
+  
+    constructor()  
+    constructor(name: String?, model: Int?) {  
+        this.name = name  
+        this.model = model  
+    }  
+  
+  
+}
+```
+
+```kotlin
+fun main(){  
+  
+    var mySecCar = MySecondaryConstructor("Trubo Ferarr", 2000)  
+    mySecCar.model = 2100  
+    println("My car ${mySecCar.name} and its model is ${mySecCar.model}")  
+  
+}
+```
+
+-----
+## encapsulation
+
+```kotlin
+class MySecondaryConstructor {  
+  
+    var name: String? = null 
+	var model: Int? = null  
+	    private set    
+	    get
+```
 
 
-
-
-
+----
+# inheritance
 
 
 
