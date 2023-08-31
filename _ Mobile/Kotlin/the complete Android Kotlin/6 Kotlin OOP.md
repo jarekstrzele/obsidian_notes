@@ -171,7 +171,12 @@ class MySecondaryConstructor {
 
 ----
 # inheritance
+- Klasy domyślnie są `final`, więc nie moga być dziedziczone
+- aby umożliwić dziedziczenie 
+```kotlin
+open class ClassName {
 
-
+}
+```
 
 
