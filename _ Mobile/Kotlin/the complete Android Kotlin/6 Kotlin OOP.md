@@ -376,10 +376,18 @@ fun main() {
 # Interfejs
 #kotlin/interface
 
+**interfaces** 
+- are custom types provided by common
+- define a form of behaviour
+- contain definitions of properties and methods that the concrete types must have
 
-
-
-
+In Kotlin class can in inherit only one class
+```kotlin
+interface InterfaceName
+{
+	//......
+}
+```
 
 
 
