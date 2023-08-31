@@ -75,7 +75,23 @@ class Cars()
 ```
 
 EXAMPLE
-C
+the files are in the same package `package com.example.oopkotlin `
+
+
+`Cars.kt` (class file)
+```kotlin
+package com.example.oopkotlin  
+  
+class Cars {  
+  
+    // this syntax with `?` prevent the program for throwing up  
+    // any errors, even if we forget to transfer value to the variables later    var name:String? = null  
+    var model:Int? = null  
+  
+}
+```
+
+
 `file1.kt`
 ```kotlin
 package com.example.oopkotlin  
