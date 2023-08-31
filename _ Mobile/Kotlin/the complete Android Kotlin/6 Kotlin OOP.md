@@ -108,11 +108,28 @@ fun main(){
 
 
 
+or PRIMARY CONSTRUCTOR
+```kotlin
+class MyCars constructor (var name:String, var model:Int){  
+    init {  
+        println("My car $name model $model")  
+    }  
+  
+}
+```
+
+```kotlin
+  
+fun main(){  
+  
+    var myNewCar = MyCars("Fiat", 1977)  
+    println("My car ${myNewCar.name} and its model is ${myNewCar.model}")  
+  
+}
+```
 
 
-
-
-
+SECOND CONSTRUCTOR
 
 
 
