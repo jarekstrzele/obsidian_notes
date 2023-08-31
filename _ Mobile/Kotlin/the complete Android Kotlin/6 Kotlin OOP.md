@@ -19,10 +19,11 @@ class ClassName{
 }
 ```
 
-access modifiers:
+access modifiers (by default `public`):
 - `private` means visible inside this class only (including all its members)
 - `protected` is the same as `private` but is also visible in subclasses
-- `internal` 
+- `internal` means that any client inside this module who sees the declaring class sees its internal members
+- `public` means that any client who sees the declaring class sees its public members
 
 
 CREATE an OBJECT
@@ -32,6 +33,29 @@ CREATE an OBJECT
 
 
 
+## Naming convention
+- Class Name: a noun, uppercase `String, Car, ...`
+- function Name: a verb, lowercase `start(), actionPerformed(), ...`
+- variable Name: lowercase `firstName, year, color, etc.`
+
+KOTLIN:
+- ==camelCasing== : `firstName`, `actionPerformed`
+- ==casesensitive==
+
+----
+# Constructor
+- primary Constructor
+```kotlin
+class Cars constructor(name: String, model: Int)
+{
+	init
+	{
+		println("My car is $name and its model is $model")
+	}
+	
+}
+```
+- secondary Constructor
 
 
 
