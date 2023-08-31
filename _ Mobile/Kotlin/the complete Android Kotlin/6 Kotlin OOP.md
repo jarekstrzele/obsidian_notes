@@ -44,7 +44,8 @@ KOTLIN:
 
 ----
 # Constructor
-- primary Constructor
+
+## primary Constructor
 ```kotlin
 class Cars constructor(name: String, model: Int)
 {
@@ -55,7 +56,52 @@ class Cars constructor(name: String, model: Int)
 	
 }
 ```
-- secondary Constructor
+
+## secondary Constructor
+```kotlin
+class Cars()
+{
+	var name:String? = null
+	var model:Int? = null
+
+	constructor() //empty constructor
+
+	constructor(name:String, model:Int)
+	{
+		this.name = name
+		this.model = model
+	}
+}
+```
+
+EXAMPLE
+C
+`file1.kt`
+```kotlin
+package com.example.oopkotlin  
+  
+fun main(){  
+    var myCar = Cars()  
+    myCar.name = "Ferrari"  
+    myCar.model = 2021  
+  
+    println("My car ${myCar.name} and its model is ${myCar.model}")  
+  
+}
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
