@@ -219,6 +219,115 @@ class Car : Vehicle() {
 ```
 
 
+### example
+create NEW PACKAGE
+
+`Vehicle.kt`
+```kotlin
+package com.example.oopkotlin.overriding  
+  
+open class Vehicle {  
+  
+    open fun start(){  
+        println("Vehicle has startted")  
+    }  
+  
+    open fun accelerate(speed:Int){  
+        println("Vehicle accelerates at $speed")  
+    }  
+  
+    open fun stop() {  
+        println("Vehicle has stopped")  
+    }  
+}
+```
+
+`Car.kt`
+```kotlin
+package com.example.oopkotlin.overriding  
+  
+class Car : Vehicle() {  
+  
+    fun superStop() {  
+        // super -> access to Vehicle class  
+        super.stop()  
+    }  
+  
+    override fun start(){  
+        println("Car has startted")  
+    }  
+  
+    override fun accelerate(speed:Int){  
+        println("Car accelerates at $speed")  
+    }  
+  
+    override fun stop() {  
+        println("Car has stopped")  
+    }  
+}
+```
+
+`OverridTest.kt`
+```kotlin
+package com.example.oopkotlin.overriding  
+  
+fun main() {  
+  
+    var v = Vehicle()  
+    v.start()  
+    v.accelerate(100)  
+    v.stop()  
+  
+    println("------------------")  
+    var c = Car()  
+    c.start()  
+    c.accelerate(100)  
+    c.stop()  
+    c.superStop()  
+}
+```
+
+
+
+----
+# Abstract class
+**abstract class** you wouldn't be able to create any objects using it
+**abstract method** contains no body
+
+```kotlin
+abstract class Vehicle
+{
+	abstract fun getMaxSpeed()
+}
+
+class Car: Vehicle()
+{
+	override fun getMaxSpeed(){
+		// function body
+	}
+}
+```
+
+
+create a new package
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
