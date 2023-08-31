@@ -77,12 +77,43 @@ assignment LOWEST )` =  +=  -=  *=   /=  % `
 `some.toRange(other)`
 `... in  ...`  included
 
+```kotlin
+  
+fun main() {
+  var myCharRange =  'a'.rangeTo('q')
+  // myCharRange = 'a'..'q'
+  println(myCharRange) // a..q
+  println("b in myCharRange? " + ('b' in myCharRange) ) // true
+
+}
+
+```
 
 
+---
+## Console input
 
+`readLine()` to enter data into the console
 
+`var name:String? = readLine()`  - `?` because the user may not actually enter any data --> returns String
 
+the same one
+`var name:String = readLine()!!` --> returns String
 
+`var age:Int? = readLine().toInt()`
+
+```kotlin
+fun main() {
+  print("What is your name: ")
+  var name:String? = readLine()
+
+  print("How old are you? ")
+  var age:Int = readLine()!!.toInt()
+
+  println("Your name is $name and your age is $age")
+
+}
+```
 
 
 
