@@ -390,7 +390,22 @@ interface InterfaceName
 ```
 
 
-
+`Cango.kt`
+```kotlin
+interface CanGo {  
+    // fun go()  
+    // or  
+    fun go()  
+    {  
+        println("vehicle can go")  
+    }  
+  
+    //property can't be initialize  
+    val name:String  
+  
+  
+}
+```
 
 
 
