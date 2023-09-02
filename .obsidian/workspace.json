@@ -20,16 +20,6 @@
             }
           },
           {
-            "id": "9e95751ac113d5c0",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.5"
-              }
-            }
-          },
-          {
             "id": "d65b450f67f88609",
             "type": "leaf",
             "state": {
@@ -77,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -248,7 +237,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9e95751ac113d5c0",
+  "active": "8247b081ac64a0c1",
   "lastOpenFiles": [
     "_ Mobile/Kotlin/the complete Android Kotlin/5 Functions in Android Kotlin.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/4 Loops in Kotlin.md",
