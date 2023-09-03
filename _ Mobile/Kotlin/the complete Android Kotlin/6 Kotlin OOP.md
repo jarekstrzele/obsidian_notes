@@ -407,6 +407,37 @@ interface CanGo {
 }
 ```
 
+`Canstop.kt`
+```kotlin
+interface CanStop {  
+    fun stop()  
+}
+```
+
+`Vehicle.kt`
+```kotlin
+class Vehicle: CanGo, CanStop  {  
+    override val name: String  
+        get() = "Ferrari"  
+  
+    override fun stop() {  
+        println("Vehicle stop")  
+    }  
+}
+```
+
+`TestFile.kt`
+```kotlin
+fun main(){  
+  
+    var vehicle = Vehicle()  
+  
+    println("Name: ${vehicle.name}")  
+    vehicle.go()  
+    vehicle.stop()  
+}
+```
+
 
 
 
