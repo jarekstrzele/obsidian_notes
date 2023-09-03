@@ -80,6 +80,20 @@ Jeśli masz jakieś konkretne pytania dotyczące Genymotion Emulator, chętnie n
 
 
 
+----------
+
+# Gradle Build System
+
+
+
+
+
+
+
+
+
+
+
 
 
 
