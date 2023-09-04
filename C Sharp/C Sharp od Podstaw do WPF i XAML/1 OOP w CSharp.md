@@ -215,9 +215,31 @@ cały kod jak powyżej, zmienia się końcówka
  }
 ```
 
+### `out`
+#csharp/out
+> słowo kluczowe `out` używane jest w deklaracji parametrów metody i służy do przekazywania argumentów przez referencję z dodatkowym wymogiem, że metoda musi przypisać wartość do przekazanego parametru.
+
+```c#
+class Program
+{
+    static void Main(string[] args)
+    {
+        int aa;
+        Math.zeruj(out aa);
+        Console.WriteLine(aa);
 
 
+    }
+}
 
+class Math
+{
+
+    public static void zeruj(out int x)
+    {
+        x = 0;
+    }
+```
 
 
 
