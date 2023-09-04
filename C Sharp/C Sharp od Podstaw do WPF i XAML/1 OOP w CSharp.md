@@ -276,7 +276,30 @@ class Math
 
 ### parametry domyślne
 
+```c#
+class Program
+{
+    static void Main(string[] args)
+    {
+        Console.WriteLine(Math.Poteguj(2, 3));
+        Console.WriteLine(Math.Poteguj(2));
+    }
+}
 
+class Math
+{
+    public static int Poteguj(int podstawa, int wykladnik = 2)
+    {
+        int tmp = 1;
+
+        for (int i = 0;i < wykladnik; i++)
+        {
+            tmp *= podstawa;
+        }
+
+        return tmp;
+    }
+```
 
 
 
