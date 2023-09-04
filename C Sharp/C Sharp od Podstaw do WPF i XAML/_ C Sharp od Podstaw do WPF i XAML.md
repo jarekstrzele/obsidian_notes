@@ -4,7 +4,20 @@
 [[1 OOP w CSharp]]
 [[2 Aplikacje WPF]]
 
+------
+[[#Działanie]]
+[[#if]]
+[[#Pętle]]
+[[#Tablice]]
+[[#tablice wielowymiarowe]]
+[[#`foreach`]]
 
+
+
+
+
+
+-------
 
 
 

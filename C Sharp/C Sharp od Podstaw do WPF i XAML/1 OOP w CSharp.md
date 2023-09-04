@@ -241,6 +241,44 @@ class Math
     }
 ```
 
+### wiele argumentów `params`
+```c#
+class Program
+{
+    static void Main(string[] args)
+    {
+        Console.WriteLine(Math.Dodaj(1, 1, 1));
+        Console.WriteLine(Math.Dodaj(1, 1, 1, 1, 1, 1, 1));
+
+
+    }
+}
+
+class Math
+{
+    public static int Dodaj(params int[] args)
+    {
+        int suma = 0;
+        for (int i = 0; i < args.Length; i++)
+        {
+            suma = suma + args[i];
+        }
+
+		// foreach (int i in args)
+		// {
+		   // suma += i;
+		//}
+
+        return suma;
+    }
+}
+```
+
+### parametry domyślne
+
+
+
+
 
 
 
