@@ -148,10 +148,72 @@ class Matematyka
 --------
 # Metody
 
+## Przekazywanie przez wartość lub przez referencję
 
+```c#
+class Program
+{
+    static void Main(string[] args)
+    {
+        int a = 10;
 
+        Math.IncreaseBy5(a);
+        Console.WriteLine(a); // --> 10, bo przekazujemy przez wartość (kopię)
 
+        Math.IncreaseBy5ByReference(ref a); // przekazuję adres pamięci
+        Console.WriteLine(a);
+       
+        Console.ReadLine();
 
+    }
+}
+
+class Math
+{
+    public static int Abs(int x)
+    {
+        if (x < 0)
+            return x * (-1);
+
+        return x;
+
+    }
+
+    public static int IncreaseBy5(int nr)
+    {
+        nr += 5;
+
+        return nr;
+    }
+
+    public static int IncreaseBy5ByReference(ref int nr)
+    {
+        nr += 5;
+
+        return nr;
+    }
+}
+```
+
+### z `overloading`
+funkcje mają taką samą nazwę, ale różnią się parametrami
+
+cały kod jak powyżej, zmienia się końcówka
+```c#
+ public static int IncreaseBy5(int nr)
+ {
+     nr += 5;
+
+     return nr;
+ }
+
+ static int IncreaseBy5(ref int nr)
+ {
+     nr += 5;
+
+     return nr;
+ }
+```
 
 
 
