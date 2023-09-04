@@ -302,6 +302,7 @@ class Math
 ```
 
 
+### zaimplementowane Właściwości
 
 
 
