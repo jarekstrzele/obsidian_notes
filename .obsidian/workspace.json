@@ -4,71 +4,69 @@
     "type": "split",
     "children": [
       {
-        "id": "027c7b2371163738",
+        "id": "877e58ea58fc4f10",
         "type": "tabs",
         "children": [
           {
-            "id": "8247b081ac64a0c1",
+            "id": "e09fd8603ad2539e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/_ the complete Android Kotlin.md",
+                "file": "Docker/For Absolute Beginner/_ Intro Docker Mumshad.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d65b450f67f88609",
+            "id": "045c64a950639aaa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Beginning C++/_ Intro C++.md",
+                "file": "R U S T/Programmowanie_w Rust/2. Pierwsze spotkanie z Rustem.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "37d32002ce3297f0",
+            "id": "a7f8cec5a216a21b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Programowanie w języku C++ od A do Z/_ 0 Programowanie w języku C++.md",
+                "file": "Git/git od podstaw dla każdego/_ git od podstaw.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "cc1088f13eea41fb",
+            "id": "c8db0622c44a35c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
+                "file": "linux/UBUNTU.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6ac7d541ee2a3b28",
+            "id": "7260212eafc0e062",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/git_diff.excalidraw.md"
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -97,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#udemy",
+                "query": "mosh",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,19 +121,18 @@
             }
           },
           {
-            "id": "f5795f834df34cb4",
+            "id": "8fb97ec29b64ab2e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 257.5110321044922
+    "width": 405.5
   },
   "right": {
     "id": "ec7d1a70da2de581",
@@ -151,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
+                "file": "linux/UBUNTU.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -168,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
+                "file": "linux/UBUNTU.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md"
+                "file": "linux/UBUNTU.md"
               }
             }
           },
@@ -235,14 +232,13 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "juggl:Juggl global graph": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "juggl:Juggl global graph": false
     }
   },
-  "active": "aad6e2f11a660f1c",
+  "active": "c8db0622c44a35c6",
   "lastOpenFiles": [
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
+    "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 6 Invaders Project.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/_ the complete Android Kotlin.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/7 Intro to Android App Development.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md",
@@ -251,37 +247,40 @@
     "_ Mobile/Kotlin/the complete Android Kotlin/3 Control Flow Statements in Kotlin.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/2 Operators in Kotlin.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/1 Fundamentals of Kotlin.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/2 Aplikacje WPF.md",
-    "C++/Programowanie w języku C++ od A do Z/_ 0 Programowanie w języku C++.md",
-    "C++/Beginning C++/_ Intro C++.md",
-    "_ Mobile/REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
-    "_ Mobile/REACT NATIVE/Master React Native Funds/_ 0 start React Native.md",
-    "_ Mobile/REACT NATIVE/_ Proste aplikacje/biblioteka Moment Javascript.md",
     "_ Mobile/Kotlin/the complete Android Kotlin",
     "_ Mobile/Kotlin",
     "C++/Programowanie w języku C++ od A do Z/2 Operatory.md",
     "C++/Programowanie w języku C++ od A do Z/1 Złożone typy danych.md",
+    "C++/Beginning C++/_ Intro C++.md",
     "C++/Beginning C++",
-    "C++/C++ Programming Course/_ C++ Programming Course.md",
-    "conflict-files-obsidian-git.md",
-    "Git/Mosh GIT - the ultimate Git Course/_ The Ultimate Git Course.md",
-    "Git/Mosh GIT - the ultimate Git Course/1 Creating Snapshots.md",
-    "Git/Mosh GIT - the ultimate Git Course",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/2 Aplikacje WPF.md",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
+    "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 5 Final Lectures.md",
+    "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 4 The Meat of Rust.md",
+    "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 3 The Heart of Rust.md",
+    "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 2 Primitive Types & Control Flow.md",
+    "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 1 Fundamentals.md",
+    "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/_ Ultimate Rust Crash Course 1.md",
+    "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 2/idiomatic code.md",
+    "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 2/_ Ultimate Rust Crash Course 2.md",
+    "R U S T/ULTIMATE Rust Lang Tutorial/_ LetsGetRusty Ultimate Rust Lang Tutorial.md",
+    "Git/git od podstaw dla każdego/2 Commits.md",
     "Excalidraw/git_diff.excalidraw.md",
-    "Docker/pyqt z dockerem.md",
-    "Docker/Docker od podstaw/_ Wprowadzenie docker.md",
-    "Docker/Docker od podstaw/6 Registry - przechowywanie obrazów.md",
+    "Git/git od podstaw dla każdego/1 wprowadzanie zmian i rewizje.md",
+    "Git/Mosh GIT - the ultimate Git Course",
+    "Git/git od podstaw dla każdego",
     "Docker/Docker od podstaw",
     "_ WEB/Django/Django For Everybody",
-    "_ WEB/Angular/Praktyczny kurs Angulara",
-    "_ WEB/Angular",
-    "Git/git od podstaw dla każdego",
     "C Sharp/C Sharp od Podstaw do WPF i XAML",
+    "C Sharp",
+    "TYPESCRIPT/Learn TypeScript - Full Tutorial",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
     "canvas_moduls_rust.canvas",
     "test canvas.canvas",
     "pexels-alex-fu-1302436.jpg",
-    "Untitled 1.canvas",
-    "R U S T/Untitled.canvas",
-    "Untitled.canvas"
+    "methodology/images/seaborn_relplot_tip_total_bill_4.png",
+    "R U S T/Untitled.canvas"
   ]
 }
