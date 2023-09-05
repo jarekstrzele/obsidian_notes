@@ -67,14 +67,31 @@ DODAWANIE ELEMENTÓW do OKIENKA:
 - przez Przybornik (Toolbox)
 - bezpośrednio w kodzie `.cs`:
 	- nazwij znacznik w xaml np. `<Grid x:Name = "siatka" ....`
-	- w pliku `MainWindow.xaml.cs`
+ > Atrybut `x:Name` służy do nadawania nazw elementom w interfejsie użytkownika, aby można było do nich odwoływać się programowo w kodzie C#.
+
+	 - w pliku `MainWindow.xaml.cs`
+	 - 
 ```c#
 	InitializeComponent();
 
-// add
+// add (raczej tak  nie rób)
 	Button b1 = new Button() ;
 	b1.Content = "Nowy baton" ;
 	siatka.Children.Add(b1) ;
 
 ```
+
+## mała apka podsumowując
+- nowy projekt
+- `<Button>` może mieć tylko jedno dziecko, więc jeżeli chcesz mieć wewątrz dwa elementy musisz je opakować w np. `<Grid>`
+
+
+
+
+
+
+
+
+
+
 
