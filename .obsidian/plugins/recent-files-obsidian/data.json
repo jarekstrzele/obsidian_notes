@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "1 Node Module System",
+      "path": "_ WEB/N_O_D_E/Mosh Node/1 Node Module System.md"
+    },
+    {
+      "basename": "_ 0 Node (Mosh)",
+      "path": "_ WEB/N_O_D_E/Mosh Node/_ 0 Node (Mosh).md"
+    },
+    {
       "basename": "_ C Sharp od Podstaw do WPF i XAML",
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "8 Datatypes",
       "path": "HASKELL/Haskell for Imperative Programmers/8 Datatypes.md"
-    },
-    {
-      "basename": "7.1 Record syntax",
-      "path": "HASKELL/for_great_good/7.1 Record syntax.md"
-    },
-    {
-      "basename": "Simple Haskell File - Structure",
-      "path": "HASKELL/Simple Haskell File - Structure.md"
     }
   ],
   "omittedPaths": [],

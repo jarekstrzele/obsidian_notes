@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md",
+                "file": "_ WEB/N_O_D_E/Mosh Node/1 Node Module System.md",
                 "mode": "source",
                 "source": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md",
+                "file": "_ WEB/N_O_D_E/Mosh Node/1 Node Module System.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md",
+                "file": "_ WEB/N_O_D_E/Mosh Node/1 Node Module System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md"
+                "file": "_ WEB/N_O_D_E/Mosh Node/1 Node Module System.md"
               }
             }
           },
@@ -240,10 +240,11 @@
   },
   "active": "6ac7d541ee2a3b28",
   "lastOpenFiles": [
+    "_ WEB/N_O_D_E/Mosh Node/_ 0 Node (Mosh).md",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md",
     "C Sharp/Fast WFP  C Sharp/_ Fast WFP C Sharp.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/2 Aplikacje WPF.md",
     "C Sharp/Fast WFP  C Sharp",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md",
     "conflict-files-obsidian-git.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/_ the complete Android Kotlin.md",
@@ -270,7 +271,6 @@
     "Git/Mosh GIT - the ultimate Git Course",
     "Excalidraw/git_diff.excalidraw.md",
     "Docker/pyqt z dockerem.md",
-    "Docker/Docker od podstaw/_ Wprowadzenie docker.md",
     "Docker/Docker od podstaw",
     "_ WEB/Django/Django For Everybody",
     "_ WEB/Angular/Praktyczny kurs Angulara",
