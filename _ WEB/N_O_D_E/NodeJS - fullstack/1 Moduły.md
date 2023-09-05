@@ -1,4 +1,4 @@
-cript1.js
+script1.js
 ```js
 var msg = "moduł script1 ";
 console.log(msg) ;
