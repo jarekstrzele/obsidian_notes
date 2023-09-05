@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/2 Aplikacje WPF.md",
+                "file": "C Sharp/Fast WFP  C Sharp/_ Fast WFP C Sharp.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,8 +130,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -151,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/2 Aplikacje WPF.md",
+                "file": "C Sharp/Fast WFP  C Sharp/_ Fast WFP C Sharp.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -168,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/2 Aplikacje WPF.md",
+                "file": "C Sharp/Fast WFP  C Sharp/_ Fast WFP C Sharp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/2 Aplikacje WPF.md"
+                "file": "C Sharp/Fast WFP  C Sharp/_ Fast WFP C Sharp.md"
               }
             }
           },
@@ -241,8 +240,10 @@
   },
   "active": "6ac7d541ee2a3b28",
   "lastOpenFiles": [
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/2 Aplikacje WPF.md",
+    "C Sharp/Fast WFP  C Sharp/_ Fast WFP C Sharp.md",
+    "C Sharp/Fast WFP  C Sharp",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md",
     "conflict-files-obsidian-git.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/_ the complete Android Kotlin.md",
@@ -270,13 +271,11 @@
     "Excalidraw/git_diff.excalidraw.md",
     "Docker/pyqt z dockerem.md",
     "Docker/Docker od podstaw/_ Wprowadzenie docker.md",
-    "Docker/Docker od podstaw/6 Registry - przechowywanie obrazów.md",
     "Docker/Docker od podstaw",
     "_ WEB/Django/Django For Everybody",
     "_ WEB/Angular/Praktyczny kurs Angulara",
     "_ WEB/Angular",
     "Git/git od podstaw dla każdego",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML",
     "canvas_moduls_rust.canvas",
     "test canvas.canvas",
     "pexels-alex-fu-1302436.jpg",
