@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
       "basename": "2 Aplikacje WPF",
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/2 Aplikacje WPF.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Simple Haskell File - Structure",
       "path": "HASKELL/Simple Haskell File - Structure.md"
-    },
-    {
-      "basename": "14. Vectors",
-      "path": "R U S T/Rust Programming Tutorial/14. Vectors.md"
     }
   ],
   "omittedPaths": [],

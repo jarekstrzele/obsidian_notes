@@ -46,4 +46,3 @@ zmiana nazw przez `refactor` z menu podręcznego
 
 
 
-
