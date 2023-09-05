@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ WEB/N_O_D_E/Mosh Node/1 Node Module System.md",
+                "file": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
                 "mode": "source",
                 "source": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ WEB/N_O_D_E/Mosh Node/1 Node Module System.md",
+                "file": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ WEB/N_O_D_E/Mosh Node/1 Node Module System.md",
+                "file": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ WEB/N_O_D_E/Mosh Node/1 Node Module System.md"
+                "file": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md"
               }
             }
           },
@@ -240,6 +240,9 @@
   },
   "active": "6ac7d541ee2a3b28",
   "lastOpenFiles": [
+    "_ WEB/N_O_D_E/Mosh Node/3 RESTful API's using Express.md",
+    "_ WEB/N_O_D_E/Mosh Node/2 Node Package Manager.md",
+    "_ WEB/N_O_D_E/Mosh Node/1 Node Module System.md",
     "_ WEB/N_O_D_E/Mosh Node/_ 0 Node (Mosh).md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md",
     "C Sharp/Fast WFP  C Sharp/_ Fast WFP C Sharp.md",
@@ -267,10 +270,7 @@
     "C++/Beginning C++",
     "C++/C++ Programming Course/_ C++ Programming Course.md",
     "Git/Mosh GIT - the ultimate Git Course/_ The Ultimate Git Course.md",
-    "Git/Mosh GIT - the ultimate Git Course/1 Creating Snapshots.md",
     "Git/Mosh GIT - the ultimate Git Course",
-    "Excalidraw/git_diff.excalidraw.md",
-    "Docker/pyqt z dockerem.md",
     "Docker/Docker od podstaw",
     "_ WEB/Django/Django For Everybody",
     "_ WEB/Angular/Praktyczny kurs Angulara",
