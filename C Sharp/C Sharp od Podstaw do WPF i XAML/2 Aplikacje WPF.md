@@ -85,8 +85,60 @@ DODAWANIE ELEMENTÓW do OKIENKA:
 - nowy projekt
 - `<Button>` może mieć tylko jedno dziecko, więc jeżeli chcesz mieć wewątrz dwa elementy musisz je opakować w np. `<Grid>`
 
+`MainWindow.xaml`
+```c#
+<Window x:Class="WpfApp2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button Click="MainButtonHandler" HorizontalAlignment="Left" Margin="140,56,0,0" VerticalAlignment="Top" Height="216" Width="504">
+            <Grid  >
 
+                <Image Height="58" Width="148" Source="/images/happy_kolor.jpg" Margin="5,-60,-5,60" />
+                <Button Content="JEDEN" Height="58" Width="148" Margin="-126,46,126,-46"/>
+                <Button Content="d w a ;" Height="58" Width="148" Margin="153,46,-153,-46"/>
 
+            </Grid>
+
+        </Button>
+        <TextBlock x:Name="tekstBlok" HorizontalAlignment="Left" Margin="192,353,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Height="46" Width="116"/>
+
+    </Grid>
+</Window>
+
+```
+
+oraz metoda obsługująca `MainWindows.xaml.cs`
+- [ ] (podwójne kliknięcie na główny klawisz)
+```c#
+private void MainButtonHandler(object sender, RoutedEventArgs e)
+{
+    tekstBlok.Text = "To kliknąłeś główny klawisz";
+}
+```
+
+kliknięcie dowolnego button powoduje wywołanie metody MainButtonHandler (bo C# poszukuje obsługiwania do rodzica, do rodzica rodzica ....)
+
+dodanie nowej metody, która będzie przypisana do wewnętrznego buttona wcale nie zatrzymije wywołani metody głównego buttona
+
+dodajemy do `Main ... .cs`
+```c#
+ private void Button_Click_Dwa(object sender, RoutedEventArgs e)
+ {
+     MessageBox.Show("Kliknąłeś drugi baton");
+ }
+```
+
+oraz zmieniamy w `Main ... .xaml`
+```xaml
+<Button Content="d w a " Height="58" Width="148" Margin="153,46,-153,-46" Click="Button_Click_Dwa"/>
+
+```
 
 
 
