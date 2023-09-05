@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/2 Aplikacje WPF.md",
                 "mode": "source",
                 "source": false
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/_ the complete Android Kotlin.md",
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/2 Aplikacje WPF.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/_ the complete Android Kotlin.md",
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/2 Aplikacje WPF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/_ the complete Android Kotlin.md"
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/2 Aplikacje WPF.md"
               }
             }
           },
@@ -239,7 +239,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "aad6e2f11a660f1c",
+  "active": "6ac7d541ee2a3b28",
   "lastOpenFiles": [
     "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
