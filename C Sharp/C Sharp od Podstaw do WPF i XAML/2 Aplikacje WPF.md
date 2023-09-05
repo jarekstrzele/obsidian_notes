@@ -45,4 +45,14 @@ w `App.xaml`:
 zmiana nazw przez `refactor` z menu podręcznego
 
 
+---
+# Najważniejsze pojęcia
+
+w `xaml` `<...>` to znacznik, gałąź, więzeł, bo cały dokument xamla jest jak HTML - jedno zwiera się w drugim
+relacja `rodzic <--> dziecko`
+
+skrót `ctr+alt+x` otwiera Toolbox/Przybornik
+
+
+
 
