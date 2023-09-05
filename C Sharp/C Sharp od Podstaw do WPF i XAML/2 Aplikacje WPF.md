@@ -62,5 +62,19 @@ Rodzicem na szczycie jest `<Application> ... </Aplication>`
 	Ten rodzic ma trybut `StartupUri="MainWindow.xaml`, który uruchamia nasze okno
 
 
+DODAWANIE ELEMENTÓW do OKIENKA:
+- w kodzie `xaml`
+- przez Przybornik (Toolbox)
+- bezpośrednio w kodzie `.cs`:
+	- nazwij znacznik w xaml np. `<Grid x:Name = "siatka" ....`
+	- w pliku `MainWindow.xaml.cs`
+```c#
+	InitializeComponent();
 
+// add
+	Button b1 = new Button() ;
+	b1.Content = "Nowy baton" ;
+	siatka.Children.Add(b1) ;
+
+```
 
