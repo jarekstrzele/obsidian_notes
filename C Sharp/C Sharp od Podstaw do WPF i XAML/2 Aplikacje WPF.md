@@ -57,5 +57,10 @@ skrót `ctr+alt+x` otwiera Toolbox/Przybornik
 Instalaca programu do podglądania struktury i logiki aplikacji WPF: *Snoop* https://github.com/snoopwpf/snoopwpf
 #snoop 
 	- ale wcześniej potrzebujemy menadżera do instalowania pakietów na Windows https://chocolatey.org/install#individual
-	- 
+	- `choco install snoop` (jako administrator)
+Rodzicem na szczycie jest `<Application> ... </Aplication>`
+	Ten rodzic ma trybut `StartupUri="MainWindow.xaml`, który uruchamia nasze okno
+
+
+
 
