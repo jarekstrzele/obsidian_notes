@@ -20,7 +20,7 @@ class MainActivity : AppCompatActivity() {
 }
 ```
 
-the code `setContentView(R.layout.activity_main)` the app screen should use the `activity_main` file as a interface
+the code `setContentView(R.layout.activity_main)` the app screen should use the `activity_main` file as a interface (`R.layout.activity_main` `res/layout/activity_main`)
 
 every screen is `activity` ( screen=activity)
 
@@ -29,6 +29,9 @@ every screen is `activity` ( screen=activity)
 AVD is `Android Virtual Device` emulates Android on your PC
 
 
+## Example Counter App
+- add a button in the screen centre, but in the smartphone the button will be on the top, not in the centre
+- you can magically link the button and the label below (the magic icon)
 
 
 
