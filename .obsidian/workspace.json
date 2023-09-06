@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md",
                 "mode": "source",
                 "source": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md"
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md"
               }
             }
           },
@@ -238,8 +238,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6ac7d541ee2a3b28",
+  "active": "f621f21825dbd82d",
   "lastOpenFiles": [
+    "_ WEB/N_O_D_E/NodeJS - fullstack/4.1.1. tworzenie własnego klienta.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/4.1. Prosty serwer i klient TCP.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/4. Tworzenie serwerów.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/3 Node praca z Sys. Plików.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/2.4. Process.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/2.3. Stream.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/2.2. Buffer.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/2. Podstawowe koncepcje.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/1 Moduły.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md",
@@ -258,15 +267,6 @@
     "_ Mobile/Kotlin/the complete Android Kotlin/7 Intro to Android App Development.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/5 Functions in Android Kotlin.md",
-    "_ Mobile/Kotlin/the complete Android Kotlin/4 Loops in Kotlin.md",
-    "_ Mobile/Kotlin/the complete Android Kotlin/3 Control Flow Statements in Kotlin.md",
-    "_ Mobile/Kotlin/the complete Android Kotlin/2 Operators in Kotlin.md",
-    "_ Mobile/Kotlin/the complete Android Kotlin/1 Fundamentals of Kotlin.md",
-    "C++/Programowanie w języku C++ od A do Z/_ 0 Programowanie w języku C++.md",
-    "C++/Beginning C++/_ Intro C++.md",
-    "_ Mobile/REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
-    "_ Mobile/REACT NATIVE/Master React Native Funds/_ 0 start React Native.md",
-    "_ Mobile/REACT NATIVE/_ Proste aplikacje/biblioteka Moment Javascript.md",
     "_ Mobile/Kotlin/the complete Android Kotlin",
     "_ Mobile/Kotlin",
     "C++/Beginning C++",
