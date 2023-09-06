@@ -61,8 +61,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ES refresh.md",
-                "mode": "preview",
+                "file": "JAVASCRIPT/Podstawy_Włodarczyk/11.1 this.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -73,14 +73,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ES refresh.md",
+                "file": "JAVASCRIPT/ES refresh.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -142,8 +142,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -163,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ES refresh.md",
+                "file": "JAVASCRIPT/Podstawy_Włodarczyk/11.1 this.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -180,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ES refresh.md",
+                "file": "JAVASCRIPT/Podstawy_Włodarczyk/11.1 this.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ES refresh.md"
+                "file": "JAVASCRIPT/Podstawy_Włodarczyk/11.1 this.md"
               }
             }
           },
@@ -251,10 +250,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f1956761ee32882a",
+  "active": "6ac7d541ee2a3b28",
   "lastOpenFiles": [
     "_ WEB/REACT/React Mosh/2 ES6 Refresh.md",
     "_ WEB/REACT/React Mosh/_ 0 React Mosh.md",
+    "JAVASCRIPT/ES refresh.md",
     "JAVASCRIPT/Lear Node.js and Javascript/- 2 JavaScript.md",
     "JAVASCRIPT/Modern JavaScrip From the Beginning/0-Modern JS from the Beginner.md",
     "JAVASCRIPT/Modern JavaScrip From the Beginning/3.7.  Event Listeners & the Event Object.md",
@@ -278,7 +278,6 @@
     "methodology/clean code/Clean Code Names.md",
     "methodology/clean code/_ Clean Code.md",
     "Object Pascal/Beginner Crash Course/_  0 Full Beginner Crash Course.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md",
     "C Sharp/Fast WFP  C Sharp",
     "_ Mobile/Kotlin/the complete Android Kotlin",
     "_ Mobile/Kotlin",
