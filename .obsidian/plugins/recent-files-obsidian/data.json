@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "_ JavaScript funkcyjnie",
+      "path": "JAVASCRIPT/funkcyjnie_JS/_ JavaScript funkcyjnie.md"
+    },
+    {
+      "basename": "Nowe elementy JS",
+      "path": "JAVASCRIPT/funkcyjnie_JS/Nowe elementy JS.md"
+    },
+    {
       "basename": "ES refresh",
       "path": "JAVASCRIPT/ES refresh.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "2 Aplikacje WPF",
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/2 Aplikacje WPF.md"
-    },
-    {
-      "basename": "1 OOP w CSharp",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md"
-    },
-    {
-      "basename": "_ the complete Android Kotlin",
-      "path": "_ Mobile/Kotlin/the complete Android Kotlin/_ the complete Android Kotlin.md"
     }
   ],
   "omittedPaths": [],

@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVASCRIPT/ES refresh.md",
+                "file": "JAVASCRIPT/funkcyjnie_JS/_ JavaScript funkcyjnie.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "refresh",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVASCRIPT/ES refresh.md",
+                "file": "JAVASCRIPT/funkcyjnie_JS/_ JavaScript funkcyjnie.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVASCRIPT/ES refresh.md",
+                "file": "JAVASCRIPT/funkcyjnie_JS/_ JavaScript funkcyjnie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVASCRIPT/ES refresh.md"
+                "file": "JAVASCRIPT/funkcyjnie_JS/_ JavaScript funkcyjnie.md"
               }
             }
           },
@@ -252,9 +252,11 @@
   },
   "active": "f1956761ee32882a",
   "lastOpenFiles": [
+    "JAVASCRIPT/funkcyjnie_JS/Nowe elementy JS.md",
+    "JAVASCRIPT/funkcyjnie_JS/_ JavaScript funkcyjnie.md",
+    "JAVASCRIPT/ES refresh.md",
     "_ Mobile/REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
     "JAVASCRIPT/Podstawy_Włodarczyk/11.1 this.md",
-    "JAVASCRIPT/ES refresh.md",
     "_ WEB/REACT/React Mosh/2 ES6 Refresh.md",
     "_ WEB/REACT/React Mosh/_ 0 React Mosh.md",
     "JAVASCRIPT/Lear Node.js and Javascript/- 2 JavaScript.md",
@@ -276,8 +278,6 @@
     "methodology/clean code/Clean Code.md",
     "methodology/clean code/Functions and Methods.md",
     "methodology/clean code/Conditionals and Error Handling.md",
-    "methodology/clean code/Clean Code Names.md",
-    "methodology/clean code/_ Clean Code.md",
     "C Sharp/Fast WFP  C Sharp",
     "_ Mobile/Kotlin/the complete Android Kotlin",
     "_ Mobile/Kotlin",
