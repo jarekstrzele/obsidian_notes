@@ -49,26 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ac7d541ee2a3b28",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JAVASCRIPT/Podstawy_Włodarczyk/11.1 this.md",
+                "file": "JAVASCRIPT/Programowanie w JS od Zera do Mastera/_ Programowanie w JS od Zera do Mastera.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,7 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5110321044922
+    "width": 389.5110321044922
   },
   "right": {
     "id": "ec7d1a70da2de581",
@@ -150,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVASCRIPT/Podstawy_Włodarczyk/11.1 this.md",
+                "file": "JAVASCRIPT/Programowanie w JS od Zera do Mastera/_ Programowanie w JS od Zera do Mastera.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -167,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVASCRIPT/Podstawy_Włodarczyk/11.1 this.md",
+                "file": "JAVASCRIPT/Programowanie w JS od Zera do Mastera/_ Programowanie w JS od Zera do Mastera.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVASCRIPT/Podstawy_Włodarczyk/11.1 this.md"
+                "file": "JAVASCRIPT/Programowanie w JS od Zera do Mastera/_ Programowanie w JS od Zera do Mastera.md"
               }
             }
           },
@@ -238,19 +226,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6ac7d541ee2a3b28",
+  "active": "cc1088f13eea41fb",
   "lastOpenFiles": [
+    "_ Mobile/REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
+    "JAVASCRIPT/Programowanie w JS od Zera do Mastera/_ Programowanie w JS od Zera do Mastera.md",
+    "JAVASCRIPT/Programowanie w JS od Zera do Mastera",
+    "JAVASCRIPT/Angular/Praktyczny kurs Angulara/INERPOLACJA.md",
+    "JAVASCRIPT/Angular/Praktyczny kurs Angulara/0 Podstawy Angular.md",
+    "JAVASCRIPT/Lear Node.js and Javascript/- 3 Node.md",
+    "JAVASCRIPT/Lear Node.js and Javascript/- 2 JavaScript.md",
+    "JAVASCRIPT/Lear Node.js and Javascript/_ Node and JavaScript.md",
+    "JAVASCRIPT/JS współczesny/_ 0 intro JS dzisiaj.md",
+    "JAVASCRIPT/Podstawy_Włodarczyk/11.1 this.md",
     "JAVASCRIPT/Good Parts of JavaScript and the Web/3 Function the Ultimate.md",
     "JAVASCRIPT/Good Parts of JavaScript and the Web/2 - And then there was JavaScript.md",
     "JAVASCRIPT/Good Parts of JavaScript and the Web/_0 Good Parts of JS.md",
     "JAVASCRIPT/funkcyjnie_JS/_ JavaScript funkcyjnie.md",
     "JAVASCRIPT/funkcyjnie_JS/Nowe elementy JS.md",
     "JAVASCRIPT/ES refresh.md",
-    "_ Mobile/REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
-    "JAVASCRIPT/Podstawy_Włodarczyk/11.1 this.md",
     "_ WEB/REACT/React Mosh/2 ES6 Refresh.md",
     "_ WEB/REACT/React Mosh/_ 0 React Mosh.md",
-    "JAVASCRIPT/Lear Node.js and Javascript/- 2 JavaScript.md",
     "JAVASCRIPT/Modern JavaScrip From the Beginning/0-Modern JS from the Beginner.md",
     "JAVASCRIPT/Modern JavaScrip From the Beginning/3.7.  Event Listeners & the Event Object.md",
     "JAVASCRIPT/Modern JavaScrip From the Beginning/3.8. Local & Session Storage.md",
@@ -260,12 +255,6 @@
     "JAVASCRIPT/Podstawy_Włodarczyk/_Intro JS Włodarczyk.md",
     "JAVASCRIPT/Modern JavaScrip From the Beginning/3.6. Creating elements & Replace & Remove.md",
     "JAVASCRIPT/Modern JavaScrip From the Beginning/3 _DOM Manipulation & Events.md",
-    "JAVASCRIPT/Lear Node.js and Javascript/_ Node and JavaScript.md",
-    "JAVASCRIPT/JS. Programowanie obiektowe/4 Konstruktory i prototypy.md",
-    "JAVASCRIPT/JS. Programowanie obiektowe/3 Obiekty.md",
-    "JAVASCRIPT/JS współczesny/_ 0 intro JS dzisiaj.md",
-    "JAVASCRIPT/jQuery/Practise jQuery Tic Tac Toe.md",
-    "methodology/clean code/Classes and Data Structures.md",
     "C Sharp/Fast WFP  C Sharp",
     "_ Mobile/Kotlin/the complete Android Kotlin",
     "_ Mobile/Kotlin",
@@ -275,7 +264,6 @@
     "_ WEB/Django/Django For Everybody",
     "_ WEB/Angular/Praktyczny kurs Angulara",
     "_ WEB/Angular",
-    "Git/git od podstaw dla każdego",
     "canvas_moduls_rust.canvas",
     "test canvas.canvas",
     "pexels-alex-fu-1302436.jpg",
