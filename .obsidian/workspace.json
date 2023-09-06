@@ -61,14 +61,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVASCRIPT/Podstawy_Włodarczyk/_Intro JS Włodarczyk.md",
+                "file": "ES refresh.md",
                 "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f1956761ee32882a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ES refresh.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -97,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "clean",
+                "query": "refresh",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,7 +142,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -150,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVASCRIPT/Podstawy_Włodarczyk/_Intro JS Włodarczyk.md",
+                "file": "ES refresh.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -167,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVASCRIPT/Podstawy_Włodarczyk/_Intro JS Włodarczyk.md",
+                "file": "ES refresh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVASCRIPT/Podstawy_Włodarczyk/_Intro JS Włodarczyk.md"
+                "file": "ES refresh.md"
               }
             }
           },
@@ -238,13 +251,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6ac7d541ee2a3b28",
+  "active": "f1956761ee32882a",
   "lastOpenFiles": [
+    "_ WEB/REACT/React Mosh/2 ES6 Refresh.md",
+    "_ WEB/REACT/React Mosh/_ 0 React Mosh.md",
+    "JAVASCRIPT/Lear Node.js and Javascript/- 2 JavaScript.md",
+    "JAVASCRIPT/Modern JavaScrip From the Beginning/0-Modern JS from the Beginner.md",
+    "JAVASCRIPT/Modern JavaScrip From the Beginning/3.7.  Event Listeners & the Event Object.md",
+    "JAVASCRIPT/Modern JavaScrip From the Beginning/3.8. Local & Session Storage.md",
+    "JAVASCRIPT/Modern JavaScrip From the Beginning/2 - JavaScript Language Fundamentals.md",
+    "JAVASCRIPT/Podstawy_Włodarczyk/11.2 onload.md",
+    "JAVASCRIPT/Podstawy_Włodarczyk/11.1 this.md",
+    "JAVASCRIPT/DAY JS.md",
+    "JAVASCRIPT/Podstawy_Włodarczyk/_Intro JS Włodarczyk.md",
     "JAVASCRIPT/Modern JavaScrip From the Beginning/3.6. Creating elements & Replace & Remove.md",
     "JAVASCRIPT/Modern JavaScrip From the Beginning/3 _DOM Manipulation & Events.md",
-    "JAVASCRIPT/Modern JavaScrip From the Beginning/2 - JavaScript Language Fundamentals.md",
-    "JAVASCRIPT/Modern JavaScrip From the Beginning/0-Modern JS from the Beginner.md",
-    "JAVASCRIPT/Lear Node.js and Javascript/- 2 JavaScript.md",
     "JAVASCRIPT/Lear Node.js and Javascript/_ Node and JavaScript.md",
     "JAVASCRIPT/JS. Programowanie obiektowe/4 Konstruktory i prototypy.md",
     "JAVASCRIPT/JS. Programowanie obiektowe/3 Obiekty.md",
@@ -258,14 +279,6 @@
     "methodology/clean code/_ Clean Code.md",
     "Object Pascal/Beginner Crash Course/_  0 Full Beginner Crash Course.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/4.1.1. tworzenie własnego klienta.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/4.1. Prosty serwer i klient TCP.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/4. Tworzenie serwerów.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/3 Node praca z Sys. Plików.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/2.4. Process.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/2.3. Stream.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/2.2. Buffer.md",
     "C Sharp/Fast WFP  C Sharp",
     "_ Mobile/Kotlin/the complete Android Kotlin",
     "_ Mobile/Kotlin",

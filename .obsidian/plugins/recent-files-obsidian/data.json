@@ -1,6 +1,50 @@
 {
   "recentFiles": [
     {
+      "basename": "ES refresh",
+      "path": "ES refresh.md"
+    },
+    {
+      "basename": "2 ES6 Refresh",
+      "path": "_ WEB/REACT/React Mosh/2 ES6 Refresh.md"
+    },
+    {
+      "basename": "_ 0 React Mosh",
+      "path": "_ WEB/REACT/React Mosh/_ 0 React Mosh.md"
+    },
+    {
+      "basename": "- 2 JavaScript",
+      "path": "JAVASCRIPT/Lear Node.js and Javascript/- 2 JavaScript.md"
+    },
+    {
+      "basename": "0-Modern JS from the Beginner",
+      "path": "JAVASCRIPT/Modern JavaScrip From the Beginning/0-Modern JS from the Beginner.md"
+    },
+    {
+      "basename": "3.7.  Event Listeners & the Event Object",
+      "path": "JAVASCRIPT/Modern JavaScrip From the Beginning/3.7.  Event Listeners & the Event Object.md"
+    },
+    {
+      "basename": "3.8. Local & Session Storage",
+      "path": "JAVASCRIPT/Modern JavaScrip From the Beginning/3.8. Local & Session Storage.md"
+    },
+    {
+      "basename": "2 - JavaScript Language Fundamentals",
+      "path": "JAVASCRIPT/Modern JavaScrip From the Beginning/2 - JavaScript Language Fundamentals.md"
+    },
+    {
+      "basename": "11.2 onload",
+      "path": "JAVASCRIPT/Podstawy_Włodarczyk/11.2 onload.md"
+    },
+    {
+      "basename": "11.1 this",
+      "path": "JAVASCRIPT/Podstawy_Włodarczyk/11.1 this.md"
+    },
+    {
+      "basename": "DAY JS",
+      "path": "JAVASCRIPT/DAY JS.md"
+    },
+    {
       "basename": "_Intro JS Włodarczyk",
       "path": "JAVASCRIPT/Podstawy_Włodarczyk/_Intro JS Włodarczyk.md"
     },
@@ -11,18 +55,6 @@
     {
       "basename": "3 _DOM Manipulation & Events",
       "path": "JAVASCRIPT/Modern JavaScrip From the Beginning/3 _DOM Manipulation & Events.md"
-    },
-    {
-      "basename": "2 - JavaScript Language Fundamentals",
-      "path": "JAVASCRIPT/Modern JavaScrip From the Beginning/2 - JavaScript Language Fundamentals.md"
-    },
-    {
-      "basename": "0-Modern JS from the Beginner",
-      "path": "JAVASCRIPT/Modern JavaScrip From the Beginning/0-Modern JS from the Beginner.md"
-    },
-    {
-      "basename": "- 2 JavaScript",
-      "path": "JAVASCRIPT/Lear Node.js and Javascript/- 2 JavaScript.md"
     },
     {
       "basename": "_ Node and JavaScript",
@@ -167,38 +199,6 @@
     {
       "basename": "7 Intro to Android App Development",
       "path": "_ Mobile/Kotlin/the complete Android Kotlin/7 Intro to Android App Development.md"
-    },
-    {
-      "basename": "6 Kotlin OOP",
-      "path": "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md"
-    },
-    {
-      "basename": "5 Functions in Android Kotlin",
-      "path": "_ Mobile/Kotlin/the complete Android Kotlin/5 Functions in Android Kotlin.md"
-    },
-    {
-      "basename": "4 Loops in Kotlin",
-      "path": "_ Mobile/Kotlin/the complete Android Kotlin/4 Loops in Kotlin.md"
-    },
-    {
-      "basename": "3 Control Flow Statements in Kotlin",
-      "path": "_ Mobile/Kotlin/the complete Android Kotlin/3 Control Flow Statements in Kotlin.md"
-    },
-    {
-      "basename": "2 Operators in Kotlin",
-      "path": "_ Mobile/Kotlin/the complete Android Kotlin/2 Operators in Kotlin.md"
-    },
-    {
-      "basename": "1 Fundamentals of Kotlin",
-      "path": "_ Mobile/Kotlin/the complete Android Kotlin/1 Fundamentals of Kotlin.md"
-    },
-    {
-      "basename": "_ 0 Programowanie w języku C++",
-      "path": "C++/Programowanie w języku C++ od A do Z/_ 0 Programowanie w języku C++.md"
-    },
-    {
-      "basename": "_ Intro C++",
-      "path": "C++/Beginning C++/_ Intro C++.md"
     }
   ],
   "omittedPaths": [],
