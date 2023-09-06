@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "11.1 this",
+      "path": "JAVASCRIPT/Podstawy_Włodarczyk/11.1 this.md"
+    },
+    {
       "basename": "_ JavaScript funkcyjnie",
       "path": "JAVASCRIPT/funkcyjnie_JS/_ JavaScript funkcyjnie.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "_ 0 React Native - Practical Guide",
       "path": "_ Mobile/REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md"
-    },
-    {
-      "basename": "11.1 this",
-      "path": "JAVASCRIPT/Podstawy_Włodarczyk/11.1 this.md"
     },
     {
       "basename": "2 ES6 Refresh",
@@ -187,18 +187,6 @@
     {
       "basename": "_ 0 Node (Mosh)",
       "path": "_ WEB/N_O_D_E/Mosh Node/_ 0 Node (Mosh).md"
-    },
-    {
-      "basename": "_ C Sharp od Podstaw do WPF i XAML",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md"
-    },
-    {
-      "basename": "_ Fast WFP C Sharp",
-      "path": "C Sharp/Fast WFP  C Sharp/_ Fast WFP C Sharp.md"
-    },
-    {
-      "basename": "2 Aplikacje WPF",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/2 Aplikacje WPF.md"
     }
   ],
   "omittedPaths": [],
