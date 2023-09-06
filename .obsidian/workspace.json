@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/1 Moduły.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md",
                 "mode": "source",
                 "source": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/1 Moduły.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/1 Moduły.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/1 Moduły.md"
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md"
               }
             }
           },
@@ -238,8 +238,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f621f21825dbd82d",
+  "active": "6ac7d541ee2a3b28",
   "lastOpenFiles": [
+    "_ WEB/N_O_D_E/NodeJS - fullstack/2. Podstawowe koncepcje.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/1 Moduły.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md",
     "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
     "_ WEB/N_O_D_E/Mosh Node/3 RESTful API's using Express.md",
@@ -267,8 +269,6 @@
     "_ Mobile/REACT NATIVE/_ Proste aplikacje/biblioteka Moment Javascript.md",
     "_ Mobile/Kotlin/the complete Android Kotlin",
     "_ Mobile/Kotlin",
-    "C++/Programowanie w języku C++ od A do Z/2 Operatory.md",
-    "C++/Programowanie w języku C++ od A do Z/1 Złożone typy danych.md",
     "C++/Beginning C++",
     "Git/Mosh GIT - the ultimate Git Course",
     "Docker/Docker od podstaw",
