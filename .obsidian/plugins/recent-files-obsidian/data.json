@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2 Getting ready with Android Studio",
+      "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/2 Getting ready with Android Studio.md"
+    },
+    {
+      "basename": "_ the complete Android 12",
+      "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/_ the complete Android 12.md"
+    },
+    {
       "basename": "_ the complete Android Kotlin",
       "path": "_ Mobile/Kotlin/the complete Android Kotlin/_ the complete Android Kotlin.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "3 RESTful API's using Express",
       "path": "_ WEB/N_O_D_E/Mosh Node/3 RESTful API's using Express.md"
-    },
-    {
-      "basename": "2 Node Package Manager",
-      "path": "_ WEB/N_O_D_E/Mosh Node/2 Node Package Manager.md"
-    },
-    {
-      "basename": "1 Node Module System",
-      "path": "_ WEB/N_O_D_E/Mosh Node/1 Node Module System.md"
     }
   ],
   "omittedPaths": [],
