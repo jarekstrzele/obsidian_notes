@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Clean Code Names",
+      "path": "methodology/clean code/Clean Code Names.md"
+    },
+    {
       "basename": "Classes and Data Structures",
       "path": "methodology/clean code/Classes and Data Structures.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "4 HTTP Server",
       "path": "R U S T/Learn Rust by Building Real App/4 HTTP Server.md"
-    },
-    {
-      "basename": "4.3. Enum",
-      "path": "R U S T/Learn Rust by Building Real App/4.3. Enum.md"
     }
   ],
   "omittedPaths": [],

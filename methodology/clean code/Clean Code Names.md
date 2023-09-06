@@ -42,7 +42,7 @@
 ### camelCase
 - `isValid`, `sendResponse`
 - Java, JavaScript
-- variables, functions, methonds
+- variables, functions, methods
 
 ### PascalCase
 - `AdminRole`

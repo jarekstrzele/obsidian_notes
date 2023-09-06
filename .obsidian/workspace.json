@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "methodology/clean code/Classes and Data Structures.md",
+                "file": "methodology/clean code/Clean Code Names.md",
                 "mode": "source",
                 "source": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "methodology/clean code/Classes and Data Structures.md",
+                "file": "methodology/clean code/Clean Code Names.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "methodology/clean code/Classes and Data Structures.md",
+                "file": "methodology/clean code/Clean Code Names.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "methodology/clean code/Classes and Data Structures.md"
+                "file": "methodology/clean code/Clean Code Names.md"
               }
             }
           },
@@ -240,6 +240,7 @@
   },
   "active": "6ac7d541ee2a3b28",
   "lastOpenFiles": [
+    "methodology/clean code/Classes and Data Structures.md",
     "methodology/clean code/_ Clean Code.md",
     "Object Pascal/Beginner Crash Course/_  0 Full Beginner Crash Course.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md",
@@ -266,7 +267,6 @@
     "C Sharp/Fast WFP  C Sharp",
     "conflict-files-obsidian-git.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
-    "_ Mobile/Kotlin/the complete Android Kotlin/_ the complete Android Kotlin.md",
     "_ Mobile/Kotlin/the complete Android Kotlin",
     "_ Mobile/Kotlin",
     "C++/Beginning C++",
