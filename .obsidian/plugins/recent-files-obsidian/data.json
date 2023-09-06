@@ -1,6 +1,50 @@
 {
   "recentFiles": [
     {
+      "basename": "_Intro JS Włodarczyk",
+      "path": "JAVASCRIPT/Podstawy_Włodarczyk/_Intro JS Włodarczyk.md"
+    },
+    {
+      "basename": "3.6. Creating elements & Replace & Remove",
+      "path": "JAVASCRIPT/Modern JavaScrip From the Beginning/3.6. Creating elements & Replace & Remove.md"
+    },
+    {
+      "basename": "3 _DOM Manipulation & Events",
+      "path": "JAVASCRIPT/Modern JavaScrip From the Beginning/3 _DOM Manipulation & Events.md"
+    },
+    {
+      "basename": "2 - JavaScript Language Fundamentals",
+      "path": "JAVASCRIPT/Modern JavaScrip From the Beginning/2 - JavaScript Language Fundamentals.md"
+    },
+    {
+      "basename": "0-Modern JS from the Beginner",
+      "path": "JAVASCRIPT/Modern JavaScrip From the Beginning/0-Modern JS from the Beginner.md"
+    },
+    {
+      "basename": "- 2 JavaScript",
+      "path": "JAVASCRIPT/Lear Node.js and Javascript/- 2 JavaScript.md"
+    },
+    {
+      "basename": "_ Node and JavaScript",
+      "path": "JAVASCRIPT/Lear Node.js and Javascript/_ Node and JavaScript.md"
+    },
+    {
+      "basename": "4 Konstruktory i prototypy",
+      "path": "JAVASCRIPT/JS. Programowanie obiektowe/4 Konstruktory i prototypy.md"
+    },
+    {
+      "basename": "3 Obiekty",
+      "path": "JAVASCRIPT/JS. Programowanie obiektowe/3 Obiekty.md"
+    },
+    {
+      "basename": "_ 0 intro JS dzisiaj",
+      "path": "JAVASCRIPT/JS współczesny/_ 0 intro JS dzisiaj.md"
+    },
+    {
+      "basename": "Practise jQuery Tic Tac Toe",
+      "path": "JAVASCRIPT/jQuery/Practise jQuery Tic Tac Toe.md"
+    },
+    {
       "basename": "Classes and Data Structures",
       "path": "methodology/clean code/Classes and Data Structures.md"
     },
@@ -155,50 +199,6 @@
     {
       "basename": "_ Intro C++",
       "path": "C++/Beginning C++/_ Intro C++.md"
-    },
-    {
-      "basename": "_ 0 React Native - Practical Guide",
-      "path": "_ Mobile/REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md"
-    },
-    {
-      "basename": "_ 0 start React Native",
-      "path": "_ Mobile/REACT NATIVE/Master React Native Funds/_ 0 start React Native.md"
-    },
-    {
-      "basename": "biblioteka Moment Javascript",
-      "path": "_ Mobile/REACT NATIVE/_ Proste aplikacje/biblioteka Moment Javascript.md"
-    },
-    {
-      "basename": "2 Operatory",
-      "path": "C++/Programowanie w języku C++ od A do Z/2 Operatory.md"
-    },
-    {
-      "basename": "1 Złożone typy danych",
-      "path": "C++/Programowanie w języku C++ od A do Z/1 Złożone typy danych.md"
-    },
-    {
-      "basename": "_ C++ Programming Course",
-      "path": "C++/C++ Programming Course/_ C++ Programming Course.md"
-    },
-    {
-      "basename": "pyqt z dockerem",
-      "path": "Docker/pyqt z dockerem.md"
-    },
-    {
-      "basename": "13 CLI App MiniGrap",
-      "path": "R U S T/ULTIMATE Rust Lang Tutorial/13 CLI App MiniGrap.md"
-    },
-    {
-      "basename": "3 React Basics",
-      "path": "_ WEB/REACT/React - the Complete Guide/3 React Basics.md"
-    },
-    {
-      "basename": "12 String",
-      "path": "R U S T/Rust Programming Tutorial/12 String.md"
-    },
-    {
-      "basename": "3.2. Odczytywanie plików",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3.2. Odczytywanie plików.md"
     }
   ],
   "omittedPaths": [],

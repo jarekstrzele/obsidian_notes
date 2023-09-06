@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "methodology/clean code/Classes and Data Structures.md",
+                "file": "JAVASCRIPT/Podstawy_Włodarczyk/_Intro JS Włodarczyk.md",
                 "mode": "preview",
                 "source": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "methodology/clean code/Classes and Data Structures.md",
+                "file": "JAVASCRIPT/Podstawy_Włodarczyk/_Intro JS Włodarczyk.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "methodology/clean code/Classes and Data Structures.md",
+                "file": "JAVASCRIPT/Podstawy_Włodarczyk/_Intro JS Włodarczyk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "methodology/clean code/Classes and Data Structures.md"
+                "file": "JAVASCRIPT/Podstawy_Włodarczyk/_Intro JS Włodarczyk.md"
               }
             }
           },
@@ -240,11 +240,21 @@
   },
   "active": "6ac7d541ee2a3b28",
   "lastOpenFiles": [
+    "JAVASCRIPT/Modern JavaScrip From the Beginning/3.6. Creating elements & Replace & Remove.md",
+    "JAVASCRIPT/Modern JavaScrip From the Beginning/3 _DOM Manipulation & Events.md",
+    "JAVASCRIPT/Modern JavaScrip From the Beginning/2 - JavaScript Language Fundamentals.md",
+    "JAVASCRIPT/Modern JavaScrip From the Beginning/0-Modern JS from the Beginner.md",
+    "JAVASCRIPT/Lear Node.js and Javascript/- 2 JavaScript.md",
+    "JAVASCRIPT/Lear Node.js and Javascript/_ Node and JavaScript.md",
+    "JAVASCRIPT/JS. Programowanie obiektowe/4 Konstruktory i prototypy.md",
+    "JAVASCRIPT/JS. Programowanie obiektowe/3 Obiekty.md",
+    "JAVASCRIPT/JS współczesny/_ 0 intro JS dzisiaj.md",
+    "JAVASCRIPT/jQuery/Practise jQuery Tic Tac Toe.md",
+    "methodology/clean code/Classes and Data Structures.md",
     "methodology/clean code/Clean Code.md",
     "methodology/clean code/Functions and Methods.md",
     "methodology/clean code/Conditionals and Error Handling.md",
     "methodology/clean code/Clean Code Names.md",
-    "methodology/clean code/Classes and Data Structures.md",
     "methodology/clean code/_ Clean Code.md",
     "Object Pascal/Beginner Crash Course/_  0 Full Beginner Crash Course.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md",
@@ -256,16 +266,6 @@
     "_ WEB/N_O_D_E/NodeJS - fullstack/2.4. Process.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/2.3. Stream.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/2.2. Buffer.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/2. Podstawowe koncepcje.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/1 Moduły.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md",
-    "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
-    "_ WEB/N_O_D_E/Mosh Node/3 RESTful API's using Express.md",
-    "_ WEB/N_O_D_E/Mosh Node/2 Node Package Manager.md",
-    "_ WEB/N_O_D_E/Mosh Node/1 Node Module System.md",
-    "_ WEB/N_O_D_E/Mosh Node/_ 0 Node (Mosh).md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md",
     "C Sharp/Fast WFP  C Sharp",
     "_ Mobile/Kotlin/the complete Android Kotlin",
     "_ Mobile/Kotlin",
