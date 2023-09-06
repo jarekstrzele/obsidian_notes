@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVASCRIPT/Programowanie w JS od Zera do Mastera/_ Programowanie w JS od Zera do Mastera.md",
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/_ the complete Android Kotlin.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVASCRIPT/Programowanie w JS od Zera do Mastera/_ Programowanie w JS od Zera do Mastera.md",
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/_ the complete Android Kotlin.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVASCRIPT/Programowanie w JS od Zera do Mastera/_ Programowanie w JS od Zera do Mastera.md",
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/_ the complete Android Kotlin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVASCRIPT/Programowanie w JS od Zera do Mastera/_ Programowanie w JS od Zera do Mastera.md"
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/_ the complete Android Kotlin.md"
               }
             }
           },
@@ -228,8 +228,10 @@
   },
   "active": "cc1088f13eea41fb",
   "lastOpenFiles": [
-    "_ Mobile/REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
+    "_ Mobile/Kotlin/the complete Android Kotlin/1 Fundamentals of Kotlin.md",
     "JAVASCRIPT/Programowanie w JS od Zera do Mastera/_ Programowanie w JS od Zera do Mastera.md",
+    "_ Mobile/Kotlin/the complete Android 12 and Kotlin",
+    "_ Mobile/REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
     "JAVASCRIPT/Programowanie w JS od Zera do Mastera",
     "JAVASCRIPT/Angular/Praktyczny kurs Angulara/INERPOLACJA.md",
     "JAVASCRIPT/Angular/Praktyczny kurs Angulara/0 Podstawy Angular.md",
@@ -254,7 +256,6 @@
     "JAVASCRIPT/DAY JS.md",
     "JAVASCRIPT/Podstawy_Włodarczyk/_Intro JS Włodarczyk.md",
     "JAVASCRIPT/Modern JavaScrip From the Beginning/3.6. Creating elements & Replace & Remove.md",
-    "JAVASCRIPT/Modern JavaScrip From the Beginning/3 _DOM Manipulation & Events.md",
     "C Sharp/Fast WFP  C Sharp",
     "_ Mobile/Kotlin/the complete Android Kotlin",
     "_ Mobile/Kotlin",
@@ -263,7 +264,6 @@
     "Docker/Docker od podstaw",
     "_ WEB/Django/Django For Everybody",
     "_ WEB/Angular/Praktyczny kurs Angulara",
-    "_ WEB/Angular",
     "canvas_moduls_rust.canvas",
     "test canvas.canvas",
     "pexels-alex-fu-1302436.jpg",
