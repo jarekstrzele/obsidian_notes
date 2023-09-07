@@ -120,7 +120,7 @@ switch (nazwaKraju)
 {
 	case "PL":
 		Console.WriteLine("Jesteś  z Polski") ;
-		break l
+		break ;
 	case "EN":
 	case "UK":
 		Console.WriteLine("Jesteś z  Angli") ;

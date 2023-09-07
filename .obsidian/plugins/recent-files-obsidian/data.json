@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "_ C Sharp od Podstaw do WPF i XAML",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md"
+    },
+    {
       "basename": "3 Kotlin fundamentals",
       "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/3 Kotlin fundamentals.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2.2. Buffer",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.2. Buffer.md"
-    },
-    {
-      "basename": "_ 0 NodeJS - zostań fullstack",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md"
     }
   ],
   "omittedPaths": [],
