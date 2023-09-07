@@ -75,6 +75,29 @@ print("Your name is $name, Bienvenu")
 print("2 + 2 = ${2+2}")
 ```
 
+# arithmetic operators
+`+ - * / % `
+with ` = ` --> `...*=...`, `...+=...` , ...
+
+`.toInt()`
+
+
+# comparison operators
+` ==, !=, <, >, <=, >=`
+
+```kotlin
+print("Is -5 greater the 3? ${-5>3}")
+```
+
+# assignment, in(de)crement operator
+
+`c = 10`
+
+`x++`, `++x `
+`--y`, `y--`
+
+# `if` statments
+
 
 
 
