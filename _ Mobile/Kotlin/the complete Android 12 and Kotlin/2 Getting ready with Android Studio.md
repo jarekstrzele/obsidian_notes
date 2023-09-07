@@ -35,6 +35,34 @@ AVD is `Android Virtual Device` emulates Android on your PC
 - to modify a distance between objects (the label and the button) `Attributs`>`Layout` and change the constrains (check `20` (it's up), `-20` it's down)
 - `Declared Attributes` change the property `text` ('Click Me') and the property `Id` ('mybtn')
 - go to `MainActivity.kt` and register the `mybtn`
+```kotlin
+  
+class MainActivity : AppCompatActivity() {  
+    override fun onCreate(savedInstanceState: Bundle?) {  
+        super.onCreate(savedInstanceState)  
+        setContentView(R.layout.activity_main)  
+  
+        val myBtnClickMe = findViewById<Button>(R.id.mybtn)  
+        // myBtnClickMe.text = "Hahha" //this code override the value of text attribute  
+        val myTextView = findViewById<TextView>(R.id.textView2)  
+        var timesCounter = 0  
+        myBtnClickMe.setOnClickListener{  
+           //myBtnClickMe.text = "Hahha"  
+           // myTextView.text = "Łałłłłł"            timesCounter += 1  
+            myTextView.text = timesCounter.toString()  
+  
+            //Ładny tekst  
+            //makeText(kontekst, zawaertość, czas)            Toast.makeText(this, "Fajny toast jestemn", Toast.LENGTH_LONG).show()  
+        }  
+    }  
+}
+```
+
+
+## Connect your app to your phone
+
+You have to switch on `USB debugging` <-- in your settings find `Build Number` --> touch it multiple time untile you have to write your access code 
+now find `Developer options` and find and activate `USB debugging`
 
 
 
