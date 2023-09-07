@@ -1,6 +1,8 @@
 [[_ the complete Android 12]]
 
-> some 
+> **some problem with layout**
+>=="Empty Views Activity"== instead of "Empty Activity" and that creates the same project but includes the layout that the tutorial references.
+
 
 
 when you create a new project `pakage name`  must be unique

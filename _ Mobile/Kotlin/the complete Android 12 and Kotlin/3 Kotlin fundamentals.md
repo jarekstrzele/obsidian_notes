@@ -43,10 +43,38 @@ There is a tab at the bottom of the window of Android Studio `TODO`, so you can 
 
 val x1: Byte = 1              // 8 bit
 val x2: Short = 112           // 16
-val x3: Int = 1323414        // 32
-val x4: Long = 110_20_30_40 //64
+val x3: Int = 1323414         // 32
+val x4: Long = 110_20_30_40   //64
+
+val x5: Float = 13.33F
+val x6: Double = 323.32423
 
 ```
+by default it is `Int`  --> `val x = 21 `
+by default it is `Double`  --> `val x = 21.12 `
+
+# booleans
+```kotlin
+var isSunny: Boolean = true
+var isActive = false
+```
+
+# char , string
+```kotlin
+var a = 'a'
+var name:String = "This is a string"
+// name[0] -> 'T'
+// name.length
+
+
+```
+
+## string template/interpolation
+```kotlin
+print("Your name is $name, Bienvenu")
+print("2 + 2 = ${2+2}")
+```
+
 
 
 
