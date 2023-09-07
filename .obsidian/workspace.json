@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/2 Aplikacje WPF.md",
+                "file": "C Sharp/Fast WFP  C Sharp/_ Fast WFP C Sharp.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
+                "file": "C Sharp/Fast WFP  C Sharp/_ Fast WFP C Sharp.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -155,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
+                "file": "C Sharp/Fast WFP  C Sharp/_ Fast WFP C Sharp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md"
+                "file": "C Sharp/Fast WFP  C Sharp/_ Fast WFP C Sharp.md"
               }
             }
           },
@@ -226,7 +225,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b7c80cf89ec775c1",
+  "active": "8247b081ac64a0c1",
   "lastOpenFiles": [
     "C Sharp/C Sharp od Podstaw do WPF i XAML/2 Aplikacje WPF.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
