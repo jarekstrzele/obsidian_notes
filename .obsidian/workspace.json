@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "P Y T H O N/Master_Python_100/_ 0 100 Days of Code 2023.md",
+                "file": "P Y T H O N/Master_Python_100/18 Turtle and the GUI.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,8 +117,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -138,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "P Y T H O N/Master_Python_100/_ 0 100 Days of Code 2023.md",
+                "file": "P Y T H O N/Master_Python_100/18 Turtle and the GUI.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -155,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "P Y T H O N/Master_Python_100/_ 0 100 Days of Code 2023.md",
+                "file": "P Y T H O N/Master_Python_100/18 Turtle and the GUI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "P Y T H O N/Master_Python_100/_ 0 100 Days of Code 2023.md"
+                "file": "P Y T H O N/Master_Python_100/18 Turtle and the GUI.md"
               }
             }
           },
@@ -226,8 +225,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "71e065b19cb47489",
+  "active": "8247b081ac64a0c1",
   "lastOpenFiles": [
+    "P Y T H O N/Master_Python_100/_ 0 100 Days of Code 2023.md",
+    "P Y T H O N/Master_Python_100/18 Turtle and the GUI.md",
     "P Y T H O N/150 ćw OOP w Python.md",
     "_ Desktop/Python/Turtle/_ start Turtle _python doc.md",
     "_ Desktop/Python/Turtle/Python grafika żółwia.md",
@@ -254,8 +255,6 @@
     "JAVASCRIPT/Angular/Praktyczny kurs Angulara/0 Podstawy Angular.md",
     "JAVASCRIPT/Lear Node.js and Javascript/- 3 Node.md",
     "JAVASCRIPT/Lear Node.js and Javascript/- 2 JavaScript.md",
-    "JAVASCRIPT/Lear Node.js and Javascript/_ Node and JavaScript.md",
-    "JAVASCRIPT/JS współczesny/_ 0 intro JS dzisiaj.md",
     "C Sharp/Fast WFP  C Sharp",
     "_ Mobile/Kotlin/the complete Android Kotlin",
     "_ Mobile/Kotlin",
