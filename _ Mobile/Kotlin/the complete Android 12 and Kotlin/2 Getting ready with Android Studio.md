@@ -31,7 +31,7 @@ AVD is `Android Virtual Device` emulates Android on your PC
 
 ## Example Counter App
 - add a button in the screen centre, but in the smartphone the button will be on the top, not in the centre
-- you can magically link the button and the label below (the magic icon) but better way is to do it yourself
+- you can magically link the button and the label below (the magic icon) but better way is to do it yourself ( four circle on the button icon with arrows)
 - 
 
 
