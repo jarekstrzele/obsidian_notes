@@ -30,9 +30,11 @@ AVD is `Android Virtual Device` emulates Android on your PC
 
 
 ## Example Counter App
-- add a button in the screen centre, but in the smartphone the button will be on the top, not in the centre
+- add a button in the screen centre, but in the smartphone the button will be on the top, not in the centre (you will have one label and one button)
 - you can magically link the button and the label below (the magic icon) but better way is to do it yourself ( four circle on the button icon with arrows)
-- 
+- to modify a distance between objects (the label and the button) `Attributs`>`Layout` and change the constrains (check `20` (it's up), `-20` it's down)
+- `Declared Attributes` change the property `text` ('Click Me') and the property `Id` ('mybtn')
+- go to `MainActivity.kt` and register the `mybtn`
 
 
 
