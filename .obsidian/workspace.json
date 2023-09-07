@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C Sharp/Fast WFP  C Sharp/_ Fast WFP C Sharp.md",
+                "file": "P Y T H O N/Master_Python_100/_ 0 100 Days of Code 2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "yu_angela",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,7 +117,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -137,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C Sharp/Fast WFP  C Sharp/_ Fast WFP C Sharp.md",
+                "file": "P Y T H O N/Master_Python_100/_ 0 100 Days of Code 2023.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -154,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C Sharp/Fast WFP  C Sharp/_ Fast WFP C Sharp.md",
+                "file": "P Y T H O N/Master_Python_100/_ 0 100 Days of Code 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C Sharp/Fast WFP  C Sharp/_ Fast WFP C Sharp.md"
+                "file": "P Y T H O N/Master_Python_100/_ 0 100 Days of Code 2023.md"
               }
             }
           },
@@ -225,8 +226,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8247b081ac64a0c1",
+  "active": "71e065b19cb47489",
   "lastOpenFiles": [
+    "P Y T H O N/150 ćw OOP w Python.md",
+    "_ Desktop/Python/Turtle/_ start Turtle _python doc.md",
+    "_ Desktop/Python/Turtle/Python grafika żółwia.md",
+    "C Sharp/Fast WFP  C Sharp/_ Fast WFP C Sharp.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/2 Aplikacje WPF.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md",
@@ -251,10 +256,6 @@
     "JAVASCRIPT/Lear Node.js and Javascript/- 2 JavaScript.md",
     "JAVASCRIPT/Lear Node.js and Javascript/_ Node and JavaScript.md",
     "JAVASCRIPT/JS współczesny/_ 0 intro JS dzisiaj.md",
-    "JAVASCRIPT/Podstawy_Włodarczyk/11.1 this.md",
-    "JAVASCRIPT/Good Parts of JavaScript and the Web/3 Function the Ultimate.md",
-    "JAVASCRIPT/Good Parts of JavaScript and the Web/2 - And then there was JavaScript.md",
-    "JAVASCRIPT/Good Parts of JavaScript and the Web/_0 Good Parts of JS.md",
     "C Sharp/Fast WFP  C Sharp",
     "_ Mobile/Kotlin/the complete Android Kotlin",
     "_ Mobile/Kotlin",

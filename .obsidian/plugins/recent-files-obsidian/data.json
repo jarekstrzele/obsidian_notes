@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "_ 0 100 Days of Code 2023",
+      "path": "P Y T H O N/Master_Python_100/_ 0 100 Days of Code 2023.md"
+    },
+    {
+      "basename": "150 ćw OOP w Python",
+      "path": "P Y T H O N/150 ćw OOP w Python.md"
+    },
+    {
+      "basename": "_ start Turtle _python doc",
+      "path": "_ Desktop/Python/Turtle/_ start Turtle _python doc.md"
+    },
+    {
+      "basename": "Python grafika żółwia",
+      "path": "_ Desktop/Python/Turtle/Python grafika żółwia.md"
+    },
+    {
       "basename": "_ Fast WFP C Sharp",
       "path": "C Sharp/Fast WFP  C Sharp/_ Fast WFP C Sharp.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "_  0 Full Beginner Crash Course",
       "path": "Object Pascal/Beginner Crash Course/_  0 Full Beginner Crash Course.md"
-    },
-    {
-      "basename": "4.1.1. tworzenie własnego klienta",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/4.1.1. tworzenie własnego klienta.md"
-    },
-    {
-      "basename": "4.1. Prosty serwer i klient TCP",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/4.1. Prosty serwer i klient TCP.md"
-    },
-    {
-      "basename": "4. Tworzenie serwerów",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/4. Tworzenie serwerów.md"
-    },
-    {
-      "basename": "3 Node praca z Sys. Plików",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3 Node praca z Sys. Plików.md"
     }
   ],
   "omittedPaths": [],

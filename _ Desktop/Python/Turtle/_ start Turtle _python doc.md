@@ -15,7 +15,7 @@ The turtle module provides turtle graphics primitives, in both object-oriented a
 It uses `tkinter`.
 
 The object-oriented interface uses essentially two+two classes:
-1. The `TurtleScren` class defines graphics windows as a playground for the frawing turles. It constructor needs a `tkinter`
+1. The `TurtleScreen` class defines graphics windows as a playground for the frawing turles. It constructor needs a `tkinter`
 
 
 
