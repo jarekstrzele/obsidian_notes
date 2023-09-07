@@ -1,6 +1,7 @@
-
-
 [[_ the complete Android 12]]
+
+> some 
+
 
 when you create a new project `pakage name`  must be unique
 
