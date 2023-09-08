@@ -162,8 +162,6 @@ do
 >Tablice w C# są kolekcjami o stałej długości. Po zadeklarowaniu tablicy, nie można zmienić jej rozmiaru. W przypadku `int[] lista = {1, 2, 3, 4};`, tablica ma długość 4.
 
 
-
-
 ```c#
 
 class Program
