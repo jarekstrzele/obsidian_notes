@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Python grafika żółwia",
+      "path": "_ Desktop/Python/Turtle/Python grafika żółwia.md"
+    },
+    {
+      "basename": "_ start Turtle _python doc",
+      "path": "_ Desktop/Python/Turtle/_ start Turtle _python doc.md"
+    },
+    {
+      "basename": "16 _ OOP",
+      "path": "P Y T H O N/Master_Python_100/16 _ OOP.md"
+    },
+    {
+      "basename": "18 Turtle and the GUI",
+      "path": "P Y T H O N/Master_Python_100/18 Turtle and the GUI.md"
+    },
+    {
+      "basename": "_ 0 100 Days of Code 2023",
+      "path": "P Y T H O N/Master_Python_100/_ 0 100 Days of Code 2023.md"
+    },
+    {
       "basename": "3 Kotlin fundamentals",
       "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/3 Kotlin fundamentals.md"
     },
@@ -25,24 +45,8 @@
       "path": "C Sharp/Fast WFP  C Sharp/_ Fast WFP C Sharp.md"
     },
     {
-      "basename": "18 Turtle and the GUI",
-      "path": "P Y T H O N/Master_Python_100/18 Turtle and the GUI.md"
-    },
-    {
-      "basename": "_ 0 100 Days of Code 2023",
-      "path": "P Y T H O N/Master_Python_100/_ 0 100 Days of Code 2023.md"
-    },
-    {
       "basename": "150 ćw OOP w Python",
       "path": "P Y T H O N/150 ćw OOP w Python.md"
-    },
-    {
-      "basename": "_ start Turtle _python doc",
-      "path": "_ Desktop/Python/Turtle/_ start Turtle _python doc.md"
-    },
-    {
-      "basename": "Python grafika żółwia",
-      "path": "_ Desktop/Python/Turtle/Python grafika żółwia.md"
     },
     {
       "basename": "_ the complete Android 12",
@@ -195,10 +199,6 @@
     {
       "basename": "Clean Code Names",
       "path": "methodology/clean code/Clean Code Names.md"
-    },
-    {
-      "basename": "_ Clean Code",
-      "path": "methodology/clean code/_ Clean Code.md"
     }
   ],
   "omittedPaths": [],
