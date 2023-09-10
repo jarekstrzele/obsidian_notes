@@ -112,13 +112,38 @@ In the project `Gradle Scripts`:
 
 ----
 # Android Manifest file 
-It is an XML page
-(to plik konfiguracyjny w systemie Android, który jest nieodłączną częścią każdej aplikacji Android )
+It is an XML page in `app/manifests/`
+(to plik konfiguracyjny w systemie Android, który jest nieodłączną częścią każdej aplikacji Android   Plik [Android Manifest](https://www.google.com/search?q=Android%20Manifest) definiuje podstawowe informacje o aplikacji i jej komponentach, takich jak aktywności (activities), usługi (services), odbiorniki nadawcze (broadcast receivers) i dostawcy treści (content providers). Jest to ważny plik, który informuje system [Android](https://www.google.com/search?q=Android), jak zarządzać aplikacją i jakie funkcje są dostępne dla innych aplikacji i użytkowników.)
 
+- it is one of the most important part for android application projects
+- the basic info of our application can be accessed from this file
+- we also get the basic permissions for the application in this file
 
+`app/manifests/AndroidManifest.xml`
+```xml
+...
+<application
+			 ...
+			 android:label="@string/app_name"
+			 ...
+```
+the info about the app name is in`res/values/strings.xml` file:
+```xml
+<resources>
+	<string name="app_name">My Android Project</string>
+</resources>
+```
 
+**user permission** (e.g. to use the phone call) (add a new content):
+```xml
+..
+<uses-permission android:name="android.permission.CALL_P"
 
-
+<application
+			 ...
+			 android:label="@string/app_name"
+			 ...
+```
 
 
 
