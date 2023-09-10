@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -150,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Desktop/Python/Turtle/Python grafika żółwia.md",
+                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/3 Kotlin fundamentals.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -167,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Desktop/Python/Turtle/Python grafika żółwia.md",
+                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/3 Kotlin fundamentals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Desktop/Python/Turtle/Python grafika żółwia.md"
+                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/3 Kotlin fundamentals.md"
               }
             }
           },
@@ -238,10 +237,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bfaad88e45030830",
+  "active": "8247b081ac64a0c1",
   "lastOpenFiles": [
-    "_ Desktop/Python/Turtle/_ start Turtle _python doc.md",
     "_ Desktop/Python/Turtle/Python grafika żółwia.md",
+    "_ Desktop/Python/Turtle/_ start Turtle _python doc.md",
     "P Y T H O N/Master_Python_100/16 _ OOP.md",
     "P Y T H O N/Master_Python_100/18 Turtle and the GUI.md",
     "P Y T H O N/Master_Python_100/_ 0 100 Days of Code 2023.md",

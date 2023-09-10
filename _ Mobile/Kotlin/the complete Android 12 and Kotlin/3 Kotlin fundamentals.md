@@ -98,6 +98,28 @@ print("Is -5 greater the 3? ${-5>3}")
 
 # `if` statments
 
+```kotlin
+if(<condition>) {
+ // /....
+} else if (<condition>){
+ // ...
+} else {
+
+}
+```
+
+# `when`
+#kotlin/when 
+
+
+
+
+
+
+
+
+
+
 
 
 
