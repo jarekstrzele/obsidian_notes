@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/7 Intro to Android App Development.md",
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.1 Layouts in Android App.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/7 Intro to Android App Development.md",
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.1 Layouts in Android App.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/7 Intro to Android App Development.md",
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.1 Layouts in Android App.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/7 Intro to Android App Development.md"
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.1 Layouts in Android App.md"
               }
             }
           },
@@ -252,6 +252,9 @@
   },
   "active": "93eef42cfba6e0c8",
   "lastOpenFiles": [
+    "_ Mobile/Kotlin/the complete Android Kotlin/8 Android Components.md",
+    "_ Mobile/Kotlin/the complete Android Kotlin/8.1 Layouts in Android App.md",
+    "_ Mobile/Kotlin/the complete Android Kotlin/7 Intro to Android App Development.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin/3 Kotlin fundamentals.md",
     "_ Desktop/Python/Turtle/Python grafika żółwia.md",
@@ -277,9 +280,6 @@
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin",
     "_ Mobile/REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
     "JAVASCRIPT/Programowanie w JS od Zera do Mastera",
-    "JAVASCRIPT/Angular/Praktyczny kurs Angulara/INERPOLACJA.md",
-    "JAVASCRIPT/Angular/Praktyczny kurs Angulara/0 Podstawy Angular.md",
-    "JAVASCRIPT/Lear Node.js and Javascript/- 3 Node.md",
     "C Sharp/Fast WFP  C Sharp",
     "_ Mobile/Kotlin/the complete Android Kotlin",
     "_ Mobile/Kotlin",

@@ -167,6 +167,6 @@ you can give a name to every string word or sentence
 
 `thems.xml`
 automatically light or night mode
-
+in the Design (`activity_main.xml`) you have a moon icon where you can switch between the two mode
 
 

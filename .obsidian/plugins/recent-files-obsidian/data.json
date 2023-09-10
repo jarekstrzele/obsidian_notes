@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "8.1 Layouts in Android App",
+      "path": "_ Mobile/Kotlin/the complete Android Kotlin/8.1 Layouts in Android App.md"
+    },
+    {
+      "basename": "8 Android Components",
+      "path": "_ Mobile/Kotlin/the complete Android Kotlin/8 Android Components.md"
+    },
+    {
       "basename": "7 Intro to Android App Development",
       "path": "_ Mobile/Kotlin/the complete Android Kotlin/7 Intro to Android App Development.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Clean Code",
       "path": "methodology/clean code/Clean Code.md"
-    },
-    {
-      "basename": "Functions and Methods",
-      "path": "methodology/clean code/Functions and Methods.md"
-    },
-    {
-      "basename": "Conditionals and Error Handling",
-      "path": "methodology/clean code/Conditionals and Error Handling.md"
     }
   ],
   "omittedPaths": [],
