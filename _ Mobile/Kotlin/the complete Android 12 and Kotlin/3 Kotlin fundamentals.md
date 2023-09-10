@@ -108,6 +108,20 @@ if(<condition>) {
 }
 ```
 
+>In Kotlin you can use if statement as an expression, for example, you can assign the result of if-else to a variable. Let's look at an example
+>
+```kotlin
+ //Assign the if statement to a variable
+ val currentAge = if (age >=drinkingAge){
+ println("Now you may drink in the US")
+ //return the value for this block
+ drinkingAge
+ }else {
+	println("Error!")
+}
+```
+
+
 # `when`
 #kotlin/when 
 almost like `switch`
@@ -146,10 +160,35 @@ when(age){
 }
 ```
 
+```kotlin
+fun main(args: Array<String>) {
+  var x: Any = "32.34f"
+
+  when(x) {
+    is Int -> println("$x is an INT")
+    !is Double -> println("$x not is an Double")
+    is String -> println("$x is an String") // 
+    else -> println("$x is ??")
+  }
+  
+}
+```
 
 
-
-
+> Just like if-else, when can also be used as an expression by assigning it to a variable. Here is an example:
+```kotlin
+1. val x : Any = 13.37
+2. //assign when to a variable
+3. val result = when(x) {
+4. //let condition for each block be only a string
+5. is Int -> "is an Int"
+6. !is Double -> "is not Double"
+7. is String -> "is a String"
+8. else -> "is none of the above"
+9. }
+10. //then print x with the result
+11. print("$x $result")
+```
 
 
 
