@@ -303,7 +303,25 @@ class Math
 
 
 ### zaimplementowane Właściwości
+ręczne pisanie Właściwości
+```c#
+class Obywatel 
+{
+	private string imie;
+	public string Imie
+	{
+		get 
+		{
+			return imie;
+		}
+		set 
+		{
+			imie = value;
+		}
+	}
+}
+```
 
 
-
+automatycznie
 
