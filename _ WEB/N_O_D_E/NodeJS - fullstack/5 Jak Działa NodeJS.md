@@ -53,10 +53,22 @@ zrzucie ze stosu zakończoną funkcję `console.log`
 2. Przejdzie do `setTimeout` (tej funkcj w JS nie ma,w  przeglądarkach jest wykonywana przez specjalne API,a w NodeJS przez APIs NodeJS(C++) )
 	1. silnik V8 
 		1. "wie", że nie potrafi wykonać tej funkcji,
-		2. i że musi ją oddelegować do APIs(C++), a po wykonaniu przez C++ tego kodu, silnik V8 będzie mógł wykonać funkcję `cb()`
+		2. i że musi ją oddelegować do APIs(C++), a po wykonaniu przez C++ tego kodu, silnik V8 będzie mógł wykonać funkcję `cb()` (callback)
 		3. i że może przejść do dalszej interpretacji kodu JS
-	2. silnik V8 wrzuca `setTimeout` na stos, ze zostu do NodeJS API, no i `setTimeout` ściąga ze stosu
-
+	2. silnik V8 wrzuca `setTimeout` na stos, ze zostu do NodeJS API, no i `setTimeout` ściąga ze stosu (więc główny wątek JavaScriptowy nie jest zainteresowany tym, co dzieje się w NodeJS APIs)
+	3. silnik V8 wrzuca na stos `console.log("world!")` wykonuje je
+```bash
+>> Hello
+>> world!!
+```
+3. Po trzech sekundach NodeJS API kończy wykonywanie funkcji `setTimeout`, ale wyniku nie może wrzucić na stos, bo na stosie mogłby się dziać różne inne rzeczy 
+4. więc NodeJS APIs wrzuca naszą funkcję `cb` do KOLEJKI obsługiwanej przez PĘTLę ZDARZEŃ (`event loop`) 
+	1. jeżeli na stosie nie ma żadnego kodu aktualnie wykonywanego, to PĘTLA ZDARZEŃ sprawdzi kolejkę (a jest tam `cb`, i tę funkcję wrzuci na stos, aby silnik mógł ją wykonać
+```bash
+>> Hello
+>> world!!
+>> 3 sekundy później
+```
 
 
 
