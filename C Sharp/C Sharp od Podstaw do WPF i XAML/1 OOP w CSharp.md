@@ -324,4 +324,48 @@ class Obywatel
 
 
 automatycznie
+```c#
+using System;
+using System.Collections.Generic;
+
+class Program {
+  public static void Main (string[] args) {
+
+    //przekazywanie argumentów nazwanych imie: 
+    Obywatel ob1 = new Obywatel(nazwisko: "Nowak", imie: "Jan") ;
+    // ob1.Imie = "Tomek" ; //error
+    Console.WriteLine(ob1.Imie) ;
+    
+  }
+}
+
+  class Obywatel
+  {
+    public string Imie {get; private set;} // musi być get; set; z private imie jest niezmienialne
+    public string Nazwisko {get; set;} 
+
+    public Obywatel(string imie, string nazwisko){
+      this.Imie = imie ;
+      this.Nazwisko=nazwisko ;
+      
+    }
+  }
+```
+
+
+---
+
+# Konstruktor statyczny
+Wywoływany jest przed stworzeniem obiektu
+
+
+
+
+
+
+
+
+
+
+
 
