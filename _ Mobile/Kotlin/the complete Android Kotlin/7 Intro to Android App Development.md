@@ -110,6 +110,11 @@ In the project `Gradle Scripts`:
 - `build.gradle(Project: ...)`
 - `build.gradle(Module: ...`
 
+----
+# Android Manifest file 
+It is an XML page
+(to plik konfiguracyjny w systemie Android, który jest nieodłączną częścią każdej aplikacji Android )
+
 
 
 
