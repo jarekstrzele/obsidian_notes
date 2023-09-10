@@ -149,7 +149,23 @@ the info about the app name is in`res/values/strings.xml` file:
 # Resources
 `res/`
 
-e.g. Add a picture to 
+lower letter, snake_type
+
+**`drawable`**
+e.g. Add a picture to `/res/drawable`
+
+**`mipmap`**
+it holds pictures and icons like the `drawable`
+there six `mipmap` folders  ..`dpi`
+you can use copies of the same image in different resolutions
+
+**`values`**
+`colors.xml`
+
+`stringx.xml`
+
+`thems.xml`
+
 
 
 
