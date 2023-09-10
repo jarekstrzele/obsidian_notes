@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "4.2. Serwer HTTP",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md"
+    },
+    {
+      "basename": "4.4. HTTPS Node",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/4.4. HTTPS Node.md"
+    },
+    {
       "basename": "2.3. Stream",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.3. Stream.md"
     },
     {
-      "basename": "4.2. Serwer HTTP",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md"
+      "basename": "2.2. Buffer",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.2. Buffer.md"
     },
     {
       "basename": "4.1.1. tworzenie własnego klienta",
@@ -191,14 +199,6 @@
     {
       "basename": "_Intro JS Włodarczyk",
       "path": "JAVASCRIPT/Podstawy_Włodarczyk/_Intro JS Włodarczyk.md"
-    },
-    {
-      "basename": "3.6. Creating elements & Replace & Remove",
-      "path": "JAVASCRIPT/Modern JavaScrip From the Beginning/3.6. Creating elements & Replace & Remove.md"
-    },
-    {
-      "basename": "3 _DOM Manipulation & Events",
-      "path": "JAVASCRIPT/Modern JavaScrip From the Beginning/3 _DOM Manipulation & Events.md"
     }
   ],
   "omittedPaths": [],

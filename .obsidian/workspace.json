@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/2.3. Stream.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md",
                 "mode": "source",
                 "source": false
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/2.3. Stream.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/2.3. Stream.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/2.3. Stream.md"
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md"
               }
             }
           },
@@ -264,6 +264,9 @@
   },
   "active": "a1a60e6915ed63aa",
   "lastOpenFiles": [
+    "_ WEB/N_O_D_E/NodeJS - fullstack/4.4. HTTPS Node.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/2.3. Stream.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/2.2. Buffer.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/4.1.1. tworzenie własnego klienta.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/4.1. Prosty serwer i klient TCP.md",
@@ -287,9 +290,6 @@
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin/_ the complete Android 12.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/_ the complete Android Kotlin.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/3.2. Odczytywanie plików.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/1 Moduły.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin",
     "JAVASCRIPT/Programowanie w JS od Zera do Mastera",
     "C Sharp/Fast WFP  C Sharp",
