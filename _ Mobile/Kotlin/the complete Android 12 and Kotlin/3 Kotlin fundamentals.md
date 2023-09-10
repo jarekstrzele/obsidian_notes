@@ -110,12 +110,41 @@ if(<condition>) {
 
 # `when`
 #kotlin/when 
+almost like `switch`
+```kotlin
+var season = 3
+when(season){
+	1 -> println("Spring")
+	2 -> println("Summer")
+	3 -> {
+		println("Dall")
+		println("Autumn")
+	}
+	4 -> println("Winter")
+	else -> println("Invalid Season")
+}
+```
 
+```kotlin
+var = month = 3
+whaen(month) {
+	in 3..5 -> println("Spring")
+	in 6..8 -> println("Summer")
+	in 8..11 -> println("Fall")
+	12, 1, 2 -> println("Winter")
+	else -> println("Invalid Season")
+}
+```
 
-
-
-
-
+```kotlin
+var age = 20
+when(age){
+	!in 0..20 -> println("now you may drink in the US")
+	in 18..20 -> println("you can vote now")
+	16,16 -> println("you may drive now")
+	else -> println("you are too young")
+}
+```
 
 
 
