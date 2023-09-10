@@ -137,7 +137,7 @@ the info about the app name is in`res/values/strings.xml` file:
 **user permission** (e.g. to use the phone call) (add a new content):
 ```xml
 ..
-<uses-permission android:name="android.permission.CALL_P"
+<uses-permission android:name="android.permission.CALL_PHONE" />
 
 <application
 			 ...
@@ -146,8 +146,10 @@ the info about the app name is in`res/values/strings.xml` file:
 ```
 
 
+# Resources
+`res/`
 
-
+e.g. Add a picture to 
 
 
 
