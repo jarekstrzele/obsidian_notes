@@ -32,6 +32,36 @@ np. `cmd` > `tasklist`
 >>  - C++ (dodatkowe biblioteki C++) (NodeJS APIs)
 
 
+PRZYKŁAD
+Mamy kod:
+```js
+1.   console.log("Hello") ;
+2.   setTimeout(function cb() {
+3. 	   console.log("3 sekundy później") ;
+4.   }, 3000) ;
+5.
+6.   console.log("world!");
+```
+
+silnik V8 podejmuje się interpretacji tego kodu.
+1. czyta pierwszy wiersz (`console.log` wrzuca na stos `stack`) i wykona ją
+```bash
+>> Hello
+```
+zrzucie ze stosu zakończoną funkcję `console.log`
+
+2. Przejdzie do `setTimeout` (tej funkcj w JS nie ma,w  przeglądarkach jest wykonywana przez specjalne API,a w NodeJS przez APIs NodeJS(C++) )
+	1. silnik V8 
+		1. "wie", że nie potrafi wykonać tej funkcji,
+		2. i że musi ją oddelegować do APIs(C++), a po wykonaniu przez C++ tego kodu, silnik V8 będzie mógł wykonać funkcję `cb()`
+		3. i że może przejść do dalszej interpretacji kodu JS
+	2. silnik V8 wrzuca `setTimeout` na stos, ze zostu do NodeJS API, no i `setTimeout` ściąga ze stosu
+
+
+
+
+https://www.youtube.com/watch?v=8aGhZQkoFbQ&t=808s
+
 
 
 
