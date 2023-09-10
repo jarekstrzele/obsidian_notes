@@ -1,5 +1,18 @@
 [[_ the complete Android Kotlin]]
 
+----
+[[#A new project]]
+[[#Virtualisation]]
+[[#Installing the Genymotion Emulator]]
+[[#Gradle Build System]]
+
+
+
+----
+
+# A new project
+
+
 A NEW PROJECT -- ==wait until your project will be finished==
 - verify: the emulator technology is active?
 	- Task manager > Performance tab (Virtualisation: Enabled)
@@ -31,15 +44,10 @@ Ta linia kodu ustawia widok aktywności na plik [activity_main.xml](https://www
 
 Po dodaniu linii kodu [setContentView(R.layout.activity_main)](https://www.google.com/search?q=setContentView(R.layout.activity_main)), plik [activity_main.xml](https://www.google.com/search?q=activity_main.xml) będzie używany jako układ dla [MainActivity.kt](https://www.google.com/search?q=MainActivity.kt). Będzie to oznaczać, że widok zdefiniowany w pliku [activity_main.xml](https://www.google.com/search?q=activity_main.xml) będzie wyświetlany, gdy uruchomisz aplikację i otworzysz [MainActivity](https://www.google.com/search?q=MainActivity).
 
-Mam nadzieję, że to
-
-
-
-
-
-
 
 ----
+# Virtualisation
+
 >Enabling Virtualization (VT-x or AMD-V, SVM) in BIOS
 
 > NOTE: If virtualization technology is enabled on your computer or you have successfully installed the emulator, ignore the explanations here.
@@ -84,7 +92,23 @@ Jeśli masz jakieś konkretne pytania dotyczące Genymotion Emulator, chętnie n
 
 # Gradle Build System
 
+>[!info] Gradle
+>It is a building system that automates the build of Android application development
+>Gradle makes:
+>	- testking
+>	- building
+>	- debugging
+>	- releasing
+>it makes easier to add new libraries to a project 
 
+>[!info] Gradle
+>  
+Gradle to narzędzie do budowania projektów, które jest używane w [Android Studio](https://www.google.com/search?q=Android%20Studio). Jest to system automatycznego budowania, testowania i pakowania aplikacji [Android](https://www.google.com/search?q=Android). Gradle jest oparty na języku [Groovy](https://www.google.com/search?q=Groovy) i oferuje elastyczne i konfigurowalne możliwości kompilacji, budowania i zarządzania zależnościami w projekcie [Android](https://www.google.com/search?q=Android).
+
+
+In the project `Gradle Scripts`:
+- `build.gradle(Project: ...)`
+- `build.gradle(Module: ...`
 
 
 

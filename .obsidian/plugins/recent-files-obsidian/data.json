@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "7 Intro to Android App Development",
+      "path": "_ Mobile/Kotlin/the complete Android Kotlin/7 Intro to Android App Development.md"
+    },
+    {
+      "basename": "1 OOP w CSharp",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md"
+    },
+    {
       "basename": "3 Kotlin fundamentals",
       "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/3 Kotlin fundamentals.md"
     },
@@ -27,10 +35,6 @@
     {
       "basename": "2 Getting ready with Android Studio",
       "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/2 Getting ready with Android Studio.md"
-    },
-    {
-      "basename": "1 OOP w CSharp",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md"
     },
     {
       "basename": "_ C Sharp od Podstaw do WPF i XAML",
@@ -195,10 +199,6 @@
     {
       "basename": "Conditionals and Error Handling",
       "path": "methodology/clean code/Conditionals and Error Handling.md"
-    },
-    {
-      "basename": "Clean Code Names",
-      "path": "methodology/clean code/Clean Code Names.md"
     }
   ],
   "omittedPaths": [],
