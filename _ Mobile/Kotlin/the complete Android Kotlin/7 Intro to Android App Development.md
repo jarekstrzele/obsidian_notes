@@ -162,10 +162,11 @@ you can use copies of the same image in different resolutions
 **`values`**
 `colors.xml`
 
-`stringx.xml`
+`strings.xml`
+you can give a name to every string word or sentence 
 
 `thems.xml`
-
+automatically light or night mode
 
 
 
