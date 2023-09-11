@@ -70,8 +70,6 @@ zrzuca ze stosu zakończoną funkcję `console.log`
 >> 3 sekundy później
 ```
 
-
-
 https://www.youtube.com/watch?v=8aGhZQkoFbQ&t=808s
 
 
