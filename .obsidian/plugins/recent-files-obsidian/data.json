@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "ES refresh",
+      "path": "JAVASCRIPT/ES refresh.md"
+    },
+    {
       "basename": "2 ES6 Refresh",
       "path": "_ WEB/REACT/React Mosh/2 ES6 Refresh.md"
+    },
+    {
+      "basename": "_ 0 Programowanie w języku C++",
+      "path": "C++/Programowanie w języku C++ od A do Z/_ 0 Programowanie w języku C++.md"
     },
     {
       "basename": "_ 0 React Mosh",
@@ -177,10 +185,6 @@
       "path": "JAVASCRIPT/funkcyjnie_JS/Nowe elementy JS.md"
     },
     {
-      "basename": "ES refresh",
-      "path": "JAVASCRIPT/ES refresh.md"
-    },
-    {
       "basename": "0-Modern JS from the Beginner",
       "path": "JAVASCRIPT/Modern JavaScrip From the Beginning/0-Modern JS from the Beginner.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2 - JavaScript Language Fundamentals",
       "path": "JAVASCRIPT/Modern JavaScrip From the Beginning/2 - JavaScript Language Fundamentals.md"
-    },
-    {
-      "basename": "11.2 onload",
-      "path": "JAVASCRIPT/Podstawy_Włodarczyk/11.2 onload.md"
     }
   ],
   "omittedPaths": [],
