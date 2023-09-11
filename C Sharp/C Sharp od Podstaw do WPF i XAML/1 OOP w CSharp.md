@@ -5,7 +5,9 @@
 [[#Wstęp]]
 [[#Konstruktory]]
 [[#Metody]] 
-
+[[#Konstruktor statyczny]]
+[[#Konstruktory kopiujące]]
+[[#klasy zagnieżdżone]]
 
 
 -----
@@ -157,11 +159,11 @@ class Program
     {
         int a = 10;
 
-        Math.IncreaseBy5(a);
-        Console.WriteLine(a); // --> 10, bo przekazujemy przez wartość (kopię)
+         Math.IncreaseBy5(a);
+ Console.WriteLine("po wykonaniu IncreaseBy5 (kopia): = " + a); // --> 10, bo przekazujemy przez wartość (kopię)
 
-        Math.IncreaseBy5ByReference(ref a); // przekazuję adres pamięci
-        Console.WriteLine(a);
+ Math.IncreaseBy5ByReference( ref a); // przekazuję adres pamięci
+ Console.WriteLine("po przekazaniu referencji a= " + a);
        
         Console.ReadLine();
 
@@ -502,7 +504,8 @@ class Program
 
 ```
 
-
+--------
+# klasy zagnieżdżone
 
 
 
