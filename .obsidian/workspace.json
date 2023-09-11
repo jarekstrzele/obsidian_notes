@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVASCRIPT/ES refresh.md",
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -192,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVASCRIPT/ES refresh.md",
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVASCRIPT/ES refresh.md"
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md"
               }
             }
           },
@@ -263,8 +263,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bfaad88e45030830",
+  "active": "b7c80cf89ec775c1",
   "lastOpenFiles": [
+    "JAVASCRIPT/ES refresh.md",
     "_ WEB/REACT/React Mosh/2 ES6 Refresh.md",
     "C++/Programowanie w języku C++ od A do Z/_ 0 Programowanie w języku C++.md",
     "_ WEB/REACT/React Mosh/_ 0 React Mosh.md",
@@ -290,7 +291,6 @@
     "P Y T H O N/Master_Python_100/_ 0 100 Days of Code 2023.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin/2 Getting ready with Android Studio.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/2 Aplikacje WPF.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin",
     "JAVASCRIPT/Programowanie w JS od Zera do Mastera",
     "C Sharp/Fast WFP  C Sharp",
