@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "1 OOP w CSharp",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md"
+      "basename": "_ 0 Node (Mosh)",
+      "path": "_ WEB/N_O_D_E/Mosh Node/_ 0 Node (Mosh).md"
+    },
+    {
+      "basename": "_ 0 Programowanie w języku C++",
+      "path": "C++/Programowanie w języku C++ od A do Z/_ 0 Programowanie w języku C++.md"
     },
     {
       "basename": "ES refresh",
       "path": "JAVASCRIPT/ES refresh.md"
     },
     {
-      "basename": "2 ES6 Refresh",
-      "path": "_ WEB/REACT/React Mosh/2 ES6 Refresh.md"
+      "basename": "1 OOP w CSharp",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md"
     },
     {
-      "basename": "_ 0 Programowanie w języku C++",
-      "path": "C++/Programowanie w języku C++ od A do Z/_ 0 Programowanie w języku C++.md"
+      "basename": "2 ES6 Refresh",
+      "path": "_ WEB/REACT/React Mosh/2 ES6 Refresh.md"
     },
     {
       "basename": "_ 0 React Mosh",
@@ -195,10 +199,6 @@
     {
       "basename": "3.8. Local & Session Storage",
       "path": "JAVASCRIPT/Modern JavaScrip From the Beginning/3.8. Local & Session Storage.md"
-    },
-    {
-      "basename": "2 - JavaScript Language Fundamentals",
-      "path": "JAVASCRIPT/Modern JavaScrip From the Beginning/2 - JavaScript Language Fundamentals.md"
     }
   ],
   "omittedPaths": [],
