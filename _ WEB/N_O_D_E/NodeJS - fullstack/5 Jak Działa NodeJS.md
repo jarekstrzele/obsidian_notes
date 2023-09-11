@@ -72,7 +72,38 @@ zrzuca ze stosu zakończoną funkcję `console.log`
 
 https://www.youtube.com/watch?v=8aGhZQkoFbQ&t=808s
 
+```js
+function sleep(ms){
 
+    let now = Date.now();
+
+    while(Date.now() - now < ms){}
+
+}
+
+  
+  
+
+console.log("Hello") ;
+
+  
+
+console.time("setTimoutaa")
+
+setTimeout( () => {
+
+    console.log("3 sekundy później")
+
+    console.timeEnd("setTimoutaa") ;    
+
+}, 3000) ;
+
+  
+
+sleep(6000) ;
+
+console.log("world!");
+```
 
 
 
