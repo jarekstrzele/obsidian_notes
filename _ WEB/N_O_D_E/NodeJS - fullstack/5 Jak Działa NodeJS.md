@@ -92,6 +92,15 @@ console.log("world!");
 ```
 
 
+### z serwerem 
+> QueryString (ciąg zapytań) to część adresu URL (Uniform Resource Locator), która zawiera dane przekazywane do serwera. Zazwyczaj występuje po znaku zapytania (`?`) i składa się z pary klucz-wartość, gdzie klucz i wartość są oddzielone znakiem równości (` = `), a poszczególne pary są oddzielone znakiem ampersand (`&`).
+
+
+
+
+
+
+
 
 # Bloki budulcowe Node.js
 
