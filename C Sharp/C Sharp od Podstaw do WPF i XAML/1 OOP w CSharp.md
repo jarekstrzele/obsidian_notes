@@ -361,8 +361,55 @@ class Program {
 - Konstruktor statyczny w C# jest wywoływany automatycznie przed użyciem klasy lub przed utworzeniem instancji klasy. Służy do inicjalizacji statycznych pól klasy lub do wykonania innych operacji, które mają być wykonane tylko raz.
 - nie przyjmuje żadnych argumentów i nie zwraca żadnych wartości
 
+```C#
+using System;
+
+class Program
+{
+    public static void Main()
+    {
+        Console.WriteLine(Welcomer.Msg);
+        Console.WriteLine(Welcomer.Msg);
+        Console.WriteLine(Welcomer.Msg);
+        Console.WriteLine(Welcomer.Msg);
+
+    }
+}
+
+class Welcomer
+{
+    public static string Msg
+    {
+        get;
+        private set;
+
+    }
+
+    static Welcomer()
+    {
+        Console.WriteLine("Uruchomiłem Welcomera");
+        DateTime now = DateTime.Now;
+
+        if (now.Hour < 17)
+        {
+            Msg = "Dzień dobry";
+        }
+        else
+        {
+            Msg = "Dobry wieczór";
+        }
+
+    }
+
+    
+
+}
 
 
+```
+
+
+# Konstrutor wywołujący inne konstruktory
 
 
 
