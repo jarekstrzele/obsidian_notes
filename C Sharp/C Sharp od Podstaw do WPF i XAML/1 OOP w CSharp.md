@@ -356,7 +356,10 @@ class Program {
 ---
 
 # Konstruktor statyczny
-Wywoływany jest przed stworzeniem obiektu
+- Wywoływany jest przed stworzeniem obiektu
+- nie jest dziedziczony
+- Konstruktor statyczny w C# jest wywoływany automatycznie przed użyciem klasy lub przed utworzeniem instancji klasy. Służy do inicjalizacji statycznych pól klasy lub do wykonania innych operacji, które mają być wykonane tylko raz.
+- nie przyjmuje żadnych argumentów i nie zwraca żadnych wartości
 
 
 
