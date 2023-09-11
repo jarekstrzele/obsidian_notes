@@ -5,7 +5,7 @@
 
 ## Proces
 >[!info] Proces
->To isntancja uruchomionego programu, której system operacyjny przydzielił zasoby takie jak czas procesora, pamięć operacyją, dostęp do urządzeń I/O, pliki
+>To instancja uruchomionego programu, której system operacyjny przydzielił zasoby takie jak czas procesora, pamięć operacyją, dostęp do urządzeń I/O, pliki
 
 **Każdy nowo uruchomiony proces posiada własną niezależną przestrzeń adresową**
 
@@ -48,14 +48,14 @@ silnik V8 podejmuje się interpretacji tego kodu.
 ```bash
 >> Hello
 ```
-zrzucie ze stosu zakończoną funkcję `console.log`
+zrzuca ze stosu zakończoną funkcję `console.log`
 
 2. Przejdzie do `setTimeout` (tej funkcj w JS nie ma,w  przeglądarkach jest wykonywana przez specjalne API,a w NodeJS przez APIs NodeJS(C++) )
 	1. silnik V8 
 		1. "wie", że nie potrafi wykonać tej funkcji,
 		2. i że musi ją oddelegować do APIs(C++), a po wykonaniu przez C++ tego kodu, silnik V8 będzie mógł wykonać funkcję `cb()` (callback)
 		3. i że może przejść do dalszej interpretacji kodu JS
-	2. silnik V8 wrzuca `setTimeout` na stos, ze zostu do NodeJS API, no i `setTimeout` ściąga ze stosu (więc główny wątek JavaScriptowy nie jest zainteresowany tym, co dzieje się w NodeJS APIs)
+	2. silnik V8 wrzuca `setTimeout` na stos, ze stosu do NodeJS API, no i `setTimeout` ściąga ze stosu (więc główny wątek JavaScriptowy nie jest zainteresowany tym, co dzieje się w NodeJS APIs)
 	3. silnik V8 wrzuca na stos `console.log("world!")` wykonuje je
 ```bash
 >> Hello

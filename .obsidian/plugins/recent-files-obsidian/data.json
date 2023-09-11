@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "5 Jak Działa NodeJS",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/5 Jak Działa NodeJS.md"
+    },
+    {
+      "basename": "4.4. HTTPS Node",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/4.4. HTTPS Node.md"
+    },
+    {
+      "basename": "ES refresh",
+      "path": "JAVASCRIPT/ES refresh.md"
+    },
+    {
+      "basename": "_ 0 Node (Mosh)",
+      "path": "_ WEB/N_O_D_E/Mosh Node/_ 0 Node (Mosh).md"
+    },
+    {
+      "basename": "_ Intro C++",
+      "path": "C++/Beginning C++/_ Intro C++.md"
+    },
+    {
+      "basename": "1 OOP w CSharp",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md"
+    },
+    {
+      "basename": "8.1 Layouts in Android App",
+      "path": "_ Mobile/Kotlin/the complete Android Kotlin/8.1 Layouts in Android App.md"
+    },
+    {
       "basename": "1 Fundamentals of Kotlin",
       "path": "_ Mobile/Kotlin/the complete Android Kotlin/1 Fundamentals of Kotlin.md"
     },
@@ -21,20 +49,8 @@
       "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/3 Kotlin fundamentals.md"
     },
     {
-      "basename": "1 OOP w CSharp",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md"
-    },
-    {
-      "basename": "_ 0 Node (Mosh)",
-      "path": "_ WEB/N_O_D_E/Mosh Node/_ 0 Node (Mosh).md"
-    },
-    {
       "basename": "_ 0 Programowanie w języku C++",
       "path": "C++/Programowanie w języku C++ od A do Z/_ 0 Programowanie w języku C++.md"
-    },
-    {
-      "basename": "ES refresh",
-      "path": "JAVASCRIPT/ES refresh.md"
     },
     {
       "basename": "2 ES6 Refresh",
@@ -49,10 +65,6 @@
       "path": "_ Desktop/Python/Turtle/Python grafika żółwia.md"
     },
     {
-      "basename": "5 Jak Działa NodeJS",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/5 Jak Działa NodeJS.md"
-    },
-    {
       "basename": "_ 0 NodeJS - zostań fullstack",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md"
     },
@@ -63,10 +75,6 @@
     {
       "basename": "4.2. Serwer HTTP",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md"
-    },
-    {
-      "basename": "4.4. HTTPS Node",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/4.4. HTTPS Node.md"
     },
     {
       "basename": "2.3. Stream",
@@ -87,10 +95,6 @@
     {
       "basename": "4. Tworzenie serwerów",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/4. Tworzenie serwerów.md"
-    },
-    {
-      "basename": "8.1 Layouts in Android App",
-      "path": "_ Mobile/Kotlin/the complete Android Kotlin/8.1 Layouts in Android App.md"
     },
     {
       "basename": "8 Android Components",
@@ -195,10 +199,6 @@
     {
       "basename": "3.7.  Event Listeners & the Event Object",
       "path": "JAVASCRIPT/Modern JavaScrip From the Beginning/3.7.  Event Listeners & the Event Object.md"
-    },
-    {
-      "basename": "3.8. Local & Session Storage",
-      "path": "JAVASCRIPT/Modern JavaScrip From the Beginning/3.8. Local & Session Storage.md"
     }
   ],
   "omittedPaths": [],
