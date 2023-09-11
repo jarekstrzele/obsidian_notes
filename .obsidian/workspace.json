@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Desktop/Python/Turtle/Python grafika żółwia.md",
+                "file": "_ WEB/REACT/React Mosh/2 ES6 Refresh.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "turtle",
+                "query": "refresh",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -154,7 +154,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -174,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Desktop/Python/Turtle/Python grafika żółwia.md",
+                "file": "_ WEB/REACT/React Mosh/2 ES6 Refresh.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -191,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Desktop/Python/Turtle/Python grafika żółwia.md",
+                "file": "_ WEB/REACT/React Mosh/2 ES6 Refresh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Desktop/Python/Turtle/Python grafika żółwia.md"
+                "file": "_ WEB/REACT/React Mosh/2 ES6 Refresh.md"
               }
             }
           },
@@ -264,6 +265,8 @@
   },
   "active": "bfaad88e45030830",
   "lastOpenFiles": [
+    "_ WEB/REACT/React Mosh/_ 0 React Mosh.md",
+    "_ Desktop/Python/Turtle/Python grafika żółwia.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/5 Jak Działa NodeJS.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md",
@@ -279,7 +282,6 @@
     "_ Mobile/Kotlin/the complete Android Kotlin/8 Android Components.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/7 Intro to Android App Development.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin/3 Kotlin fundamentals.md",
-    "_ Desktop/Python/Turtle/Python grafika żółwia.md",
     "_ Desktop/Python/Turtle/_ start Turtle _python doc.md",
     "P Y T H O N/Master_Python_100/16 _ OOP.md",
     "P Y T H O N/Master_Python_100/18 Turtle and the GUI.md",
@@ -289,7 +291,6 @@
     "C Sharp/C Sharp od Podstaw do WPF i XAML/2 Aplikacje WPF.md",
     "C Sharp/Fast WFP  C Sharp/_ Fast WFP C Sharp.md",
     "P Y T H O N/150 ćw OOP w Python.md",
-    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/_ the complete Android 12.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin",
     "JAVASCRIPT/Programowanie w JS od Zera do Mastera",
     "C Sharp/Fast WFP  C Sharp",
