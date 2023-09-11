@@ -411,8 +411,96 @@ class Welcomer
 
 # Konstrutor wywołujący inne konstruktory
 
+```c#
+using System;
+using System.ComponentModel;
 
+class Program
+{
+    public static void Main()
+    {
 
+        Car maluch = new Car("super wóz");
+        Console.WriteLine(maluch.numOfWheels);
+    }
+}
+
+class Car
+{
+    public string description;
+    public byte numOfWheels;
+
+    public Car(string desc, byte numOfWheels) {
+        this.description = desc;
+        this.numOfWheels = numOfWheels;
+    }
+
+    // konstruktor wywołujący inny konstruktor
+    public Car(string desc) : this(desc, 4)
+    {
+        Console.WriteLine("Make a car with 4 wheels");
+    }
+
+}
+
+```
+
+# Konstruktory kopiujące
+klasa `Car` z poprzedniego kodu
+```c#
+class Program
+{
+    public static void Main()
+    {
+
+        // kopiowanie wartości
+        int a = 10;
+        int b = a;
+        b = 999;
+        Console.WriteLine("a = " + a);
+        Console.WriteLine("b = " + b);
+        Console.WriteLine("a = " + a);
+
+        // przypisanie referencji
+        Car maluch = new Car("super wóz");
+        Car polonez = maluch;
+        Console.WriteLine("maluch: " + maluch.description);
+        polonez.description = "Samochów biodegradowalny";
+        Console.WriteLine("polonez: " + polonez.description);
+        Console.WriteLine("maluch (po zmianie poloneza): " + maluch.description);
+
+    }
+}
+```
+aby `Car polonez = maluch;` było kopiowanie obiektu, a nie przypisaniem referencji należy zdefiniować konstruktor kopiujący
+czyli do klasy `Car` dopisujemy nowy konstrukotr
+```c#
+    public Car(Car samochod)
+    {
+        this.description = samochod.description;
+        this.numOfWheels = samochod.numOfWheels;
+    }
+```
+
+```c#
+class Program
+{
+    public static void Main()
+    {
+
+        Car maluch = new Car("super wóz");
+
+		//kopiujemy obiekt
+        Car polonez = new Car(maluch);
+        Console.WriteLine("maluch: " + maluch.description);
+        polonez.description = "Samochów biodegradowalny";
+        Console.WriteLine("polonez: " + polonez.description);
+        Console.WriteLine("maluch (po zmianie poloneza): " + maluch.description);
+
+    }
+}
+
+```
 
 
 
