@@ -205,7 +205,22 @@ jak `UniformGrid` jednokolumnowy lub jednowierszowy
     </StackPanel>
 ```
 
+## pionowy
+```xml
+  <StackPanel Orientation="Horizontal">
+      <Button>1</Button>
+      <Button Width="300" Background="Beige">2</Button>
+      <Button VerticalAlignment="Top" Width="200">3qdwqdqdq</Button>
+      <Button>4</Button>
+  </StackPanel>
+```
 
+
+## `<WrapPanel>`
+Jak `StackPanel`, ale zawija elementy (np. wyświetlanie zdjęć)
+
+`<WrapPanel Orientation="Vertical">`
+`<WrapPanel Orientation="Horizontal">`
 
 
 
