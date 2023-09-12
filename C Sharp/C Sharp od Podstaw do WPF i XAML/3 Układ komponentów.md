@@ -159,9 +159,33 @@ zmieniamy cały `Grid`
 ` <RowDefinition Height="1*" MinHeight="80" MaxHeight="120"/>` ustawianie maksymalnej i minimalne wysokości dla danego wiersza!!!
 
 
-# `uni`
+# `<UniformGrid>`
+Domyślnie wszystkie elementy będą miały tyle samo miejsca
+(wpisuj `Button` po kolei, aby zobaczyć, jak zmienia się układ)
+```xml
+ <UniformGrid>
+     <Button> 1 </Button>
+     <Button> 2</Button>
+     <Button> 3</Button>
+     <Button> 4</Button>
+     <Button> 5</Button>
+ </UniformGrid>
+```
 
+## zmiana domyślnych zachowań `UniformGrid`
 
-
-
+```xml
+<UniformGrid Columns="3">
+    <Button Margin="10,10,10,10" FontSize="48" FontWeight="Bold" FontFamily="Bookman Old Style"> 1 </Button>
+    <Button Margin="10,10,10,10" FontSize="48" FontWeight="Bold" FontFamily="Bookman Old Style"> 2</Button>
+    <Button Margin="10,10,10,10" FontSize="48" FontWeight="Bold" FontFamily="Bookman Old Style"> 3</Button>
+    <Button Margin="10,10,10,10" FontSize="48" FontWeight="Bold" FontFamily="Bookman Old Style"> 4</Button>
+    <Button Margin="10,10,10,10" FontSize="48" FontWeight="Bold" FontFamily="Bookman Old Style"> 5</Button>
+    <Button Margin="10,10,10,10" FontSize="48" FontWeight="Bold" FontFamily="Bookman Old Style"> 6</Button>
+    <Button Margin="10,10,10,10" FontSize="48" FontWeight="Bold" FontFamily="Bookman Old Style"> 7</Button>
+    <Button Margin="10,10,10,10" FontSize="48" FontWeight="Bold" FontFamily="Bookman Old Style"> 8</Button>
+    <Button Margin="10,10,10,10" FontSize="48" FontWeight="Bold" FontFamily="Bookman Old Style"> 9</Button>
+</UniformGrid>
+    
+```
 
