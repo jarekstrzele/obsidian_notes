@@ -27,6 +27,28 @@ prostokąt będzie w lewym górnym rogu
 domyślnie siatka dzielona jest proporcjonalnie
 
 
+```xml
+  ...
+   <RowDefinition Height="250"/>
+   <RowDefinition Height="Auto"/>
+   ....
+  
+  <Rectangle Grid.Row="2"  Grid.Column="3" Fill="Blue" />
+  <Rectangle Fill="DarkMagenta" />
+  <TextBlock Grid.Row="1" Grid.Column="1" FontSize="72" HorizontalAlignment="Center" VerticalAlignment="Center" FontWeight="Bold"  >X</TextBlock>
+    
+```
+`Grid.Row` oraz `Grid.Column` to są *Attached Properties* dołączone właściwości, bo tak naprawdę zostały dodane do `Rectangle` i `TextBlock` przez `Grid`, wewnątrz którego one są
+
+`<RowDefinition Height="250"/>` ustawia na "twardo" wysokość wiersza a resza jest dopasowywana automatycznie
+
+==`<RowDefinition Height="Auto"/>` wysokość wiersza dopasowuje do elementów, które w nim występują
+jeżeli element występujący w środku nie ma zdefiniowanej wysokości, to zostanie "skasowany"==
+
+
+
+
+
 
 
 
