@@ -138,7 +138,7 @@ switch (nazwaKraju)
 ```
 
 
-`(warunek) ? gdy warunek true : gdy warunek false`
+`zmienn = (warunek) ? wartość zmiennej gdy warunek true : wartość zmiennej, gdy warunek false`
 
 # Pętle
 
