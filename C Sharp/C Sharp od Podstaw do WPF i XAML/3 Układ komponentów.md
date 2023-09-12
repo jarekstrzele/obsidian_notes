@@ -189,3 +189,23 @@ Domyślnie wszystkie elementy będą miały tyle samo miejsca
     
 ```
 
+`<UniformGrid Columns="3">` ustalamy, że maksymalnie mogą być trzy kolumy (inne ustawienia też są możliwe)
+
+
+# `<StackPanel>`
+jak `UniformGrid` jednokolumnowy lub jednowierszowy
+
+## poziomy
+```xml
+    <StackPanel>
+        <Button Width="50" Height="100">1</Button>
+        <Button Width="150" Height="50" HorizontalAlignment="Left">2</Button>
+        <Button>3</Button>
+        <Button>4</Button>
+    </StackPanel>
+```
+
+
+
+
+
