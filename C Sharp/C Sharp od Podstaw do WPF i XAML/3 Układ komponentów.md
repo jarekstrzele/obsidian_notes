@@ -105,9 +105,31 @@ Rozpinanie na więcej niż jedną kolumnę `Grid.ColumnSpan="<number>"`
 # Grid Splitter (rozdzielacz)
 
 
+## rozkład proporcjonalny
+```xml
+ <Grid>
+     <Grid.ColumnDefinitions>
+         <ColumnDefinition Width="1*"/>
+         <ColumnDefinition Width="3*"/>
+     </Grid.ColumnDefinitions>
 
+     <TextBlock Margin="10,10,10,10" FontSize="38" >Menu</TextBlock>
+     <TextBlock Grid.Column="1" 
+                Margin="10,10,10,10" 
+                FontSize="28" 
+                TextWrapping="Wrap">Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</TextBlock>
+  
+ </Grid>
+```
 
+```
+<ColumnDefinition Width="1*"/>
+<ColumnDefinition Width="3*"/>
+```
+podział proporcjonalny, czyli druga kolumna ma być trzy razy większa niż pierwsza
 
+## splitter
+Dodać do `xaml` >`<Gird>` > ` <GridSplitter Width="3" Background="DarkCyan" />` (`Width` jest konieczny)
 
 
 
