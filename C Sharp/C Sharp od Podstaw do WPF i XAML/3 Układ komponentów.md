@@ -128,16 +128,38 @@ Rozpinanie na więcej niż jedną kolumnę `Grid.ColumnSpan="<number>"`
 ```
 podział proporcjonalny, czyli druga kolumna ma być trzy razy większa niż pierwsza
 
-## splitter
-Dodać do `xaml` >`<Gird>` > ` <GridSplitter Width="3" Background="DarkCyan" />` (`Width` jest konieczny)
+## splitter pionowy
+Dodać do `xaml` >`<Gird>` > ` <GridSplitter Width="3" Background="DarkCyan" />` (`Width` jest konieczny, z automoatu w row=0, clomun=0)
+
+```xml
+<GridSplitter Grid.Column="1" Width="3" Background="DarkCyan" HorizontalAlignment="Left" />
+       
+```
 
 
+## splitter poziomy
+zmieniamy cały `Grid`
+```xml
+<Grid>
+    <Grid.RowDefinitions>
+         <RowDefinition Height="1*" MinHeight="80" MaxHeight="120"/>
+        <RowDefinition Height="3*"/>
+    </Grid.RowDefinitions>
+
+    <TextBlock Margin="10,10,10,10" FontSize="38" >Menu</TextBlock>
+    <TextBlock Grid.Row="1" 
+               Margin="10,10,10,10" 
+               FontSize="28" 
+               TextWrapping="Wrap">Lorem ipsumLorem ipsumLorem ipsumLorem ipsum</TextBlock>
+    <GridSplitter Height="3" Background="Crimson" VerticalAlignment="Bottom" HorizontalAlignment="Stretch" />
+
+</Grid>
+```
+
+` <RowDefinition Height="1*" MinHeight="80" MaxHeight="120"/>` ustawianie maksymalnej i minimalne wysokości dla danego wiersza!!!
 
 
-
-
-
-
+# `uni`
 
 
 
