@@ -2,7 +2,9 @@
 
 [[_ C Sharp od Podstaw do WPF i XAML]]
 
-**Layo
+**Layouts** są responsywne
+
+
 # `<Grid>` siatka
 na początku jest jeden wiersz jedna kolumna
 lewy górny róg to `row=0, column=0`
@@ -38,6 +40,7 @@ domyślnie siatka dzielona jest proporcjonalnie
   <TextBlock Grid.Row="1" Grid.Column="1" FontSize="72" HorizontalAlignment="Center" VerticalAlignment="Center" FontWeight="Bold"  >X</TextBlock>
     
 ```
+## Attached Properties
 `Grid.Row` oraz `Grid.Column` to są *Attached Properties* dołączone właściwości, bo tak naprawdę zostały dodane do `Rectangle` i `TextBlock` przez `Grid`, wewnątrz którego one są
 
 `<RowDefinition Height="250"/>` ustawia na "twardo" wysokość wiersza a resza jest dopasowywana automatycznie
@@ -45,13 +48,63 @@ domyślnie siatka dzielona jest proporcjonalnie
 ==`<RowDefinition Height="Auto"/>` wysokość wiersza dopasowuje do elementów, które w nim występują
 jeżeli element występujący w środku nie ma zdefiniowanej wysokości, to zostanie "skasowany"==
 
+
+## Margin, Padding, Span
 elementy wewnątrz `Grid` mają `Margin`, `Padding`
 
 Rozpinanie na więcej niż jedną kolumnę `Grid.ColumnSpan="<number>"`
 ```xml
-        <Button Grid.Row="3" Grid.ColumnSpan="2"/>
+<Button Grid.Row="3" Grid.ColumnSpan="2"/>
 
+<Rectangle Grid.Row="2"  Grid.Column="3" Fill="Blue"   Margin="20,5,10,5" />
+
+<Button Grid.Row="3" Grid.ColumnSpan="2" Padding="5"  Margin="10,10,10,10" FontSize="36" >Kilknij</Button>
 ```
+
+## Można mieć jeden `Grid` w drugim.
+```xml
+<Grid>
+    <Grid.RowDefinitions >
+        <RowDefinition />
+        <RowDefinition />
+        <RowDefinition/>
+        <RowDefinition/>
+    </Grid.RowDefinitions >
+    <Grid.ColumnDefinitions>
+        <ColumnDefinition/>
+        <ColumnDefinition/>
+        <ColumnDefinition/>
+        
+    </Grid.ColumnDefinitions>
+    
+    <Grid Grid.Column="1">
+        <Grid.RowDefinitions >
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions >
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+
+        </Grid.ColumnDefinitions>
+        <Rectangle Fill="PaleGoldenrod" />
+        <Rectangle Grid.Column="2" Grid.Row="1" Fill="YellowGreen" />
+    </Grid>
+    <Rectangle Grid.Row="2"  Grid.Column="3" Fill="Blue"   Margin="20,5,10,5" />
+    <Rectangle Fill="DarkMagenta" />
+    <TextBlock Grid.Row="1" Grid.Column="1" FontSize="72" HorizontalAlignment="Center" VerticalAlignment="Center" FontWeight="Bold"  >X</TextBlock>
+    <Button Grid.Row="3" Grid.ColumnSpan="2" Padding="5"  Margin="10,10,10,10" FontSize="36" >Kilknij</Button>
+
+</Grid>
+```
+
+-------
+# Grid Splitter (rozdzielacz)
+
+
 
 
 
