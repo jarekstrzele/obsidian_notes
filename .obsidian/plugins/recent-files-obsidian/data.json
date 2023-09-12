@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "3 Układ komponentów",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/3 Układ komponentów.md"
+    },
+    {
+      "basename": "_ C Sharp od Podstaw do WPF i XAML",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md"
+    },
+    {
+      "basename": "2 Aplikacje WPF",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/2 Aplikacje WPF.md"
+    },
+    {
       "basename": "5 Jak Działa NodeJS",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/5 Jak Działa NodeJS.md"
     },
@@ -121,14 +133,6 @@
       "path": "P Y T H O N/Master_Python_100/_ 0 100 Days of Code 2023.md"
     },
     {
-      "basename": "_ C Sharp od Podstaw do WPF i XAML",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md"
-    },
-    {
-      "basename": "2 Aplikacje WPF",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/2 Aplikacje WPF.md"
-    },
-    {
       "basename": "_ Fast WFP C Sharp",
       "path": "C Sharp/Fast WFP  C Sharp/_ Fast WFP C Sharp.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "0-Modern JS from the Beginner",
       "path": "JAVASCRIPT/Modern JavaScrip From the Beginning/0-Modern JS from the Beginner.md"
-    },
-    {
-      "basename": "3.7.  Event Listeners & the Event Object",
-      "path": "JAVASCRIPT/Modern JavaScrip From the Beginning/3.7.  Event Listeners & the Event Object.md"
     }
   ],
   "omittedPaths": [],

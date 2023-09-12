@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/5 Jak Działa NodeJS.md",
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/3 Układ komponentów.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/5 Jak Działa NodeJS.md",
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/3 Układ komponentów.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/5 Jak Działa NodeJS.md",
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/3 Układ komponentów.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/5 Jak Działa NodeJS.md"
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/3 Układ komponentów.md"
               }
             }
           },
@@ -191,8 +191,11 @@
   },
   "active": "8891a4505df5b1af",
   "lastOpenFiles": [
-    "_ WEB/N_O_D_E/NodeJS - fullstack/4.4. HTTPS Node.md",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/3 Układ komponentów.md",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/2 Aplikacje WPF.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/5 Jak Działa NodeJS.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/4.4. HTTPS Node.md",
     "JAVASCRIPT/ES refresh.md",
     "_ WEB/N_O_D_E/Mosh Node/_ 0 Node (Mosh).md",
     "C++/Beginning C++/_ Intro C++.md",
@@ -214,9 +217,6 @@
     "_ WEB/N_O_D_E/NodeJS - fullstack/2.2. Buffer.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/4.1.1. tworzenie własnego klienta.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/4.1. Prosty serwer i klient TCP.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/4. Tworzenie serwerów.md",
-    "_ Mobile/Kotlin/the complete Android Kotlin/8 Android Components.md",
-    "_ Mobile/Kotlin/the complete Android Kotlin/7 Intro to Android App Development.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin",
     "JAVASCRIPT/Programowanie w JS od Zera do Mastera",
     "C Sharp/Fast WFP  C Sharp",

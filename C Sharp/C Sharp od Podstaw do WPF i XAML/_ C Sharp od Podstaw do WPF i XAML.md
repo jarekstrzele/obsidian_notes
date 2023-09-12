@@ -3,6 +3,12 @@
 ----
 [[1 OOP w CSharp]]
 [[2 Aplikacje WPF]]
+[[3 Układ komponentów]]
+
+
+
+
+
 
 ------
 [[#Działanie]]

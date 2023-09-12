@@ -28,7 +28,6 @@ do atrybutu buttona zostanie dodany ` Click="btn1_Click"` czyli `btn1_Click` jes
  
 nazwa projektu >bin>Debug>net6.0 > tu jest plik exe dla naszej aplikacji
 
-
 w `App.xaml`:
 ```xaml
 <Application x:Class="WpfApp1.App"
@@ -114,7 +113,7 @@ DODAWANIE ELEMENTÓW do OKIENKA:
 ```
 
 oraz metoda obsługująca `MainWindows.xaml.cs`
-- [ ] (podwójne kliknięcie na główny klawisz)
+- (podwójne kliknięcie na główny klawisz)
 ```c#
 private void MainButtonHandler(object sender, RoutedEventArgs e)
 {
