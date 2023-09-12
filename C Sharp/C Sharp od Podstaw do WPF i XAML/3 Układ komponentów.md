@@ -2,7 +2,7 @@
 
 [[_ C Sharp od Podstaw do WPF i XAML]]
 
-
+**Layo
 # `<Grid>` siatka
 na początku jest jeden wiersz jedna kolumna
 lewy górny róg to `row=0, column=0`
@@ -45,7 +45,13 @@ domyślnie siatka dzielona jest proporcjonalnie
 ==`<RowDefinition Height="Auto"/>` wysokość wiersza dopasowuje do elementów, które w nim występują
 jeżeli element występujący w środku nie ma zdefiniowanej wysokości, to zostanie "skasowany"==
 
+elementy wewnątrz `Grid` mają `Margin`, `Padding`
 
+Rozpinanie na więcej niż jedną kolumnę `Grid.ColumnSpan="<number>"`
+```xml
+        <Button Grid.Row="3" Grid.ColumnSpan="2"/>
+
+```
 
 
 
