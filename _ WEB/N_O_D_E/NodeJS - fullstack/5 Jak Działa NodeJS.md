@@ -121,9 +121,12 @@ Node składa się z TRZECH głównych BLOKÓW:
 		1. napisana C++
 		2. pozwala wykonywać asynchroniczne operacje input/output (np. odczytywanie plików)
 	6. `src` API
+		1. `node/src/node_file.cc` to plik C++
+		2. tam jest wiele funkcji np.     `FS_TYPE_TO_NAME(MKDIR, "mkdir")` , czyli gdy w JS napiszesz `mkdir` to wykonaj `MKDIR` cplusowy
 	7. `lib` API Node Standard Library - np. moduły
 		1. `fs` np
 			1. jest tam `const binding = process.binding('fs')` to jest połączenie JS z C++
+			2. w czystym JS nie ma możliwości odczytywania plików, ale w C++ już tak
 		2. `events`
 		3. `http`
 		4. ....
