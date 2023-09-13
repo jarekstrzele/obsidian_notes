@@ -112,7 +112,21 @@ więc trzeba dbać, aby pracę wykonywać asynchronicznie.
 projekt Node na GitHUbie
 https://github.com/nodejs/node
 Node składa się z TRZECH głównych BLOKÓW:
-1. ZALEŻNOŚCI (folder ``)
+1. ZALEŻNOŚCI (folder `deps`), - np:
+	1.  `V8` - interpreter JavaScript
+	2. `openssl` szyfrowanie
+	3. `npm` 
+	4. `http_parser`
+	5. w folderze `uv` jest `libuv` (JEDNA Z NAJWAŻNIEJSZYCH):
+		1. napisana C++
+		2. pozwala wykonywać asynchroniczne operacje input/output (np. odczytywanie plików)
+	6. `src` API
+	7. `lib` API Node Standard Library - np. moduły
+		1. `fs` np
+			1. jest tam `const binding = process.binding('fs')` to jest połączenie JS z C++
+		2. `events`
+		3. `http`
+		4. ....
 
 
 
