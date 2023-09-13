@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "methodology/clean code/Conditionals and Error Handling.md",
+                "file": "methodology/clean code/Functions and Methods.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "methodology/clean code/Conditionals and Error Handling.md",
+                "file": "methodology/clean code/Functions and Methods.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "methodology/clean code/Conditionals and Error Handling.md",
+                "file": "methodology/clean code/Functions and Methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "methodology/clean code/Conditionals and Error Handling.md"
+                "file": "methodology/clean code/Functions and Methods.md"
               }
             }
           },
@@ -242,6 +242,12 @@
   },
   "active": "ab1a36a56b4382e2",
   "lastOpenFiles": [
+    "methodology/clean code/Conditionals and Error Handling.md",
+    "methodology/images/daily_change_pandas.png",
+    "methodology/images/bar_matplotlib.png",
+    "methodology/images/barh_matplotlib.png",
+    "methodology/Wzorce projektowe Rusz Głową/1 Wprowadzenie Wzorce projektowe.md",
+    "methodology/clean code/Functions and Methods.md",
     "methodology/clean code/Clean Code Names.md",
     "methodology/clean code/Classes and Data Structures.md",
     "methodology/clean code/_ Clean Code.md",
@@ -264,10 +270,6 @@
     "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/4 Loops in Kotlin.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/3 Control Flow Statements in Kotlin.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/3 Układ komponentów.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/2 Aplikacje WPF.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/4.4. HTTPS Node.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin",
     "JAVASCRIPT/Programowanie w JS od Zera do Mastera",
     "C Sharp/Fast WFP  C Sharp",

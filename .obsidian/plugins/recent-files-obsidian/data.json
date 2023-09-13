@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Functions and Methods",
+      "path": "methodology/clean code/Functions and Methods.md"
+    },
+    {
       "basename": "Conditionals and Error Handling",
       "path": "methodology/clean code/Conditionals and Error Handling.md"
+    },
+    {
+      "basename": "daily_change_pandas",
+      "path": "methodology/images/daily_change_pandas.png"
+    },
+    {
+      "basename": "bar_matplotlib",
+      "path": "methodology/images/bar_matplotlib.png"
+    },
+    {
+      "basename": "barh_matplotlib",
+      "path": "methodology/images/barh_matplotlib.png"
+    },
+    {
+      "basename": "1 Wprowadzenie Wzorce projektowe",
+      "path": "methodology/Wzorce projektowe Rusz Głową/1 Wprowadzenie Wzorce projektowe.md"
     },
     {
       "basename": "Clean Code Names",
@@ -179,26 +199,6 @@
     {
       "basename": "7 Intro to Android App Development",
       "path": "_ Mobile/Kotlin/the complete Android Kotlin/7 Intro to Android App Development.md"
-    },
-    {
-      "basename": "_ start Turtle _python doc",
-      "path": "_ Desktop/Python/Turtle/_ start Turtle _python doc.md"
-    },
-    {
-      "basename": "16 _ OOP",
-      "path": "P Y T H O N/Master_Python_100/16 _ OOP.md"
-    },
-    {
-      "basename": "18 Turtle and the GUI",
-      "path": "P Y T H O N/Master_Python_100/18 Turtle and the GUI.md"
-    },
-    {
-      "basename": "_ 0 100 Days of Code 2023",
-      "path": "P Y T H O N/Master_Python_100/_ 0 100 Days of Code 2023.md"
-    },
-    {
-      "basename": "_ Fast WFP C Sharp",
-      "path": "C Sharp/Fast WFP  C Sharp/_ Fast WFP C Sharp.md"
     }
   ],
   "omittedPaths": [],
