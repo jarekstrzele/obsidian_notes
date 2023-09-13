@@ -191,5 +191,17 @@ fun main(args: Array<String>) {
 ```
 
 
+# Loop
 
+```kotlin
+while(true){
+	print("never ending \n story")
+}
+
+
+do {
+
+} while()
+
+```
 
