@@ -2,6 +2,7 @@
 [[_ the complete Android 12]]
 
 
+Kotlin programmer dictionary: https://blog.kotlin-academy.com
 
 
 ----
@@ -192,8 +193,10 @@ fun main(args: Array<String>) {
 
 
 # Loop
+#kotlin/loop
 [[4 Loops in Kotlin]]
 
+you can use `break` or `continue`
 ```kotlin
 while(true){
 	print("never ending \n story")
@@ -239,4 +242,40 @@ for(num in 10.downTo(0).step(2)){
 
 
 ```
+
+
+----
+# Function
+#kotlin/function 
+[[5 Functions in Android Kotlin]]
+
+```kotlin
+fun main(){  
+    myFun()  
+      
+    println(addUp(10, 20))
+}  
+  
+fun myFun(){  
+    print("From myFun")  
+}
+
+fun addUp(a:Int, b:Int) : Int{  
+    return a + b  
+}
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
