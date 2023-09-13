@@ -186,7 +186,7 @@ fun main() {
 ## ArrayList
 #kotlin/arraylist
 
-`var age = arrayList<Int>(2,10,4)`
+`arrayListOf<Int>(2,10,4) ;`
 
 only init:
 `var age = ArrayList<Int>()`
@@ -216,7 +216,7 @@ fun main() {
     age.remove(22)  
     println(age.size)  
   
-    var cars = arrayListOf< String>("ala", "ma", "kota")  
+    var cars = arrayListOf<String>("ala", "ma", "kota")  
     cars.add("nowy")  
   
     var mixArrayList = ArrayList<Any>()  
