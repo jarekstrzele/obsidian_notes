@@ -5,6 +5,10 @@
       "path": "methodology/clean code/Functions and Methods.md"
     },
     {
+      "basename": "Structure and Comments",
+      "path": "methodology/clean code/Structure and Comments.md"
+    },
+    {
       "basename": "Conditionals and Error Handling",
       "path": "methodology/clean code/Conditionals and Error Handling.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "8 Android Components",
       "path": "_ Mobile/Kotlin/the complete Android Kotlin/8 Android Components.md"
-    },
-    {
-      "basename": "7 Intro to Android App Development",
-      "path": "_ Mobile/Kotlin/the complete Android Kotlin/7 Intro to Android App Development.md"
     }
   ],
   "omittedPaths": [],

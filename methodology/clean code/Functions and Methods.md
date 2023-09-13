@@ -237,10 +237,6 @@ We don't control how the email is validated <br> - we just want it to be validat
 This is easy to read - <br> there is no room for interpretation | This might be technically clear but <br> the interpretation must be added by the reader
 
 
-<<<<<<< HEAD
-HIGH LEVEL  < ====  ======> LOW LEVEL
-
-
 
 
 ### Why "Levels of Abstraction" Matter?

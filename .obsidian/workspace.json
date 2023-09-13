@@ -43,24 +43,6 @@
           }
         ],
         "currentTab": 2
-      },
-      {
-        "id": "fe60b88812af31c5",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a176687fc3ff738e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "methodology/clean code/_ Clean Code.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -242,12 +224,13 @@
   },
   "active": "ab1a36a56b4382e2",
   "lastOpenFiles": [
+    "methodology/clean code/Structure and Comments.md",
+    "methodology/clean code/Functions and Methods.md",
     "methodology/clean code/Conditionals and Error Handling.md",
     "methodology/images/daily_change_pandas.png",
     "methodology/images/bar_matplotlib.png",
     "methodology/images/barh_matplotlib.png",
     "methodology/Wzorce projektowe Rusz Głową/1 Wprowadzenie Wzorce projektowe.md",
-    "methodology/clean code/Functions and Methods.md",
     "methodology/clean code/Clean Code Names.md",
     "methodology/clean code/Classes and Data Structures.md",
     "methodology/clean code/_ Clean Code.md",
