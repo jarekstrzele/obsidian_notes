@@ -2,6 +2,11 @@
 
 [[_ the complete Android Kotlin]]
 
+---
+Kotlin programmer dictionary: https://blog.kotlin-academy.com
+
+---
+
 
 1. create a new project in AnSt (Android Studio)
 2. add a new file (`FileName`) 

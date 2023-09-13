@@ -1,8 +1,25 @@
 #kotlin 
 [[_ the complete Android 12]]
 
-
+----
 Kotlin programmer dictionary: https://blog.kotlin-academy.com
+
+---
+The Content of the note
+
+[[#`var`, `val`]]
+[[#numbers]]
+[[#booleans]]
+[[#char , string]]
+[[#arithmetic operators]]
+[[#comparison operators]]
+[[#assignment, in(de)crement operator]]
+[[#`if` statments]]
+[[#`when`]]
+[[#Loop]]
+[[#Function]]
+
+
 
 
 ----
@@ -254,6 +271,8 @@ fun main(){
     myFun()  
       
     println(addUp(10, 20))
+
+	println(avg(30.0, 21.0))
 }  
   
 fun myFun(){  
@@ -263,8 +282,16 @@ fun myFun(){
 fun addUp(a:Int, b:Int) : Int{  
     return a + b  
 }
+
+  
+fun avg(x:Double, y:Double) : Double {  
+    return (x+y)/2  
+}
 ```
 
+
+---
+# Nullables
 
 
 
