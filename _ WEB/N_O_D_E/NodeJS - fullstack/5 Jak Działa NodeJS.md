@@ -112,7 +112,7 @@ więc trzeba dbać, aby pracę wykonywać asynchronicznie.
 projekt Node na GitHUbie
 https://github.com/nodejs/node
 Node składa się z TRZECH głównych BLOKÓW:
-
+1. ZALEŻNOŚCI (folder ``)
 
 
 

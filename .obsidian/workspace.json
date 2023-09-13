@@ -40,9 +40,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b4351854ae2ee129",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/5 Jak Działa NodeJS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -124,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "methodology/clean code/Structure and Comments.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/5 Jak Działa NodeJS.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -141,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "methodology/clean code/Structure and Comments.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/5 Jak Działa NodeJS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "methodology/clean code/Structure and Comments.md"
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/5 Jak Działa NodeJS.md"
               }
             }
           },
@@ -222,10 +234,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ab1a36a56b4382e2",
+  "active": "b4351854ae2ee129",
   "lastOpenFiles": [
-    "methodology/clean code/Functions and Methods.md",
     "methodology/clean code/Structure and Comments.md",
+    "methodology/clean code/Functions and Methods.md",
     "methodology/clean code/Conditionals and Error Handling.md",
     "methodology/images/daily_change_pandas.png",
     "methodology/images/bar_matplotlib.png",
