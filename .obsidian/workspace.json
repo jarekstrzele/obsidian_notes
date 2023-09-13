@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ WEB/N_O_D_E/Mosh Node/2 Node Package Manager.md",
+                "file": "_ WEB/N_O_D_E/Mosh Node/3 RESTful API's using Express.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ WEB/N_O_D_E/Mosh Node/2 Node Package Manager.md",
+                "file": "_ WEB/N_O_D_E/Mosh Node/3 RESTful API's using Express.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ WEB/N_O_D_E/Mosh Node/2 Node Package Manager.md",
+                "file": "_ WEB/N_O_D_E/Mosh Node/3 RESTful API's using Express.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ WEB/N_O_D_E/Mosh Node/2 Node Package Manager.md"
+                "file": "_ WEB/N_O_D_E/Mosh Node/3 RESTful API's using Express.md"
               }
             }
           },
@@ -224,9 +224,9 @@
   },
   "active": "ab1a36a56b4382e2",
   "lastOpenFiles": [
+    "_ WEB/N_O_D_E/Mosh Node/2 Node Package Manager.md",
     "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
     "_ WEB/N_O_D_E/Mosh Node/3 RESTful API's using Express.md",
-    "_ WEB/N_O_D_E/Mosh Node/2 Node Package Manager.md",
     "_ WEB/N_O_D_E/Mosh Node/1 Node Module System.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md",
     "_ WEB/N_O_D_E/Mosh Node/_ 0 Node (Mosh).md",
