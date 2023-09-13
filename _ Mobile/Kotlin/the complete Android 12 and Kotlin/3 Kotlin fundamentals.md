@@ -192,6 +192,7 @@ fun main(args: Array<String>) {
 
 
 # Loop
+[[4 Loops in Kotlin]]
 
 ```kotlin
 while(true){
@@ -200,8 +201,42 @@ while(true){
 
 
 do {
+	println("Only one ")
+} while(false)
 
-} while()
+// python for i in range(10)
+for(num in 1..10){
+	print("$num ")
+}
+
+// the same result
+for(num in 0 until 10){
+	print("$num ")
+}
+// with step
+for(num in 0 until 10 step 2){  
+    print("$num ")  
+}
+// the same
+for(num in 0.until(10).step(2)){  
+    print("$num ")  
+}
+
+
+for(num in 10 downTo 10){  
+    print("$num ")  
+}
+// with step
+for(num in 10 downTo 0 step 2){  
+    print("$num ")  
+}
+// the same
+for(num in 10.downTo(0).step(2)){  
+    print("$num ")  
+}
+
+
+
 
 ```
 
