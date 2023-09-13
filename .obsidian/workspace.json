@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "methodology/clean code/Functions and Methods.md",
+                "file": "methodology/clean code/Structure and Comments.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "methodology/clean code/Functions and Methods.md",
+                "file": "methodology/clean code/Structure and Comments.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "methodology/clean code/Functions and Methods.md",
+                "file": "methodology/clean code/Structure and Comments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "methodology/clean code/Functions and Methods.md"
+                "file": "methodology/clean code/Structure and Comments.md"
               }
             }
           },
@@ -224,8 +224,8 @@
   },
   "active": "ab1a36a56b4382e2",
   "lastOpenFiles": [
-    "methodology/clean code/Structure and Comments.md",
     "methodology/clean code/Functions and Methods.md",
+    "methodology/clean code/Structure and Comments.md",
     "methodology/clean code/Conditionals and Error Handling.md",
     "methodology/images/daily_change_pandas.png",
     "methodology/images/bar_matplotlib.png",

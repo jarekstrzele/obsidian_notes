@@ -485,23 +485,6 @@ AVOID UNEXPECTED SIDE EFFECTS
 1. Can you easily test a function?
 	1. YES -> Great, probably you have a clean code
 	2. NON -> Consider splitting your function, and return to firtst point
-=======
-### Why "Levels of Abstraction" Matter?
-
-
-
-
-
->>>>>>> remotes/origin/master
-
-
-
-
-
-
-
-
-
 
 
 
