@@ -281,7 +281,7 @@ fun main() {
 ```
 
 
-
-
+`put` vs `replace`
+> `put(key, value)` używamy, gdy chcemy dodać nową parę klucz-wartość lub zastąpić wartość dla istniejącego klucza, podczas gdy `replace(key, value)` używamy tylko do zastępowania wartości dla istniejącego klucza.
 
 

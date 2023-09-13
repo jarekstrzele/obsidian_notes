@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "6 Kotlin OOP",
+      "path": "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md"
+    },
+    {
+      "basename": "5 Functions in Android Kotlin",
+      "path": "_ Mobile/Kotlin/the complete Android Kotlin/5 Functions in Android Kotlin.md"
+    },
+    {
+      "basename": "4 Loops in Kotlin",
+      "path": "_ Mobile/Kotlin/the complete Android Kotlin/4 Loops in Kotlin.md"
+    },
+    {
+      "basename": "3 Control Flow Statements in Kotlin",
+      "path": "_ Mobile/Kotlin/the complete Android Kotlin/3 Control Flow Statements in Kotlin.md"
+    },
+    {
+      "basename": "3 Kotlin fundamentals",
+      "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/3 Kotlin fundamentals.md"
+    },
+    {
+      "basename": "2 Operators in Kotlin",
+      "path": "_ Mobile/Kotlin/the complete Android Kotlin/2 Operators in Kotlin.md"
+    },
+    {
       "basename": "1 Fundamentals of Kotlin",
       "path": "_ Mobile/Kotlin/the complete Android Kotlin/1 Fundamentals of Kotlin.md"
     },
@@ -55,10 +79,6 @@
     {
       "basename": "_ the complete Android Kotlin",
       "path": "_ Mobile/Kotlin/the complete Android Kotlin/_ the complete Android Kotlin.md"
-    },
-    {
-      "basename": "3 Kotlin fundamentals",
-      "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/3 Kotlin fundamentals.md"
     },
     {
       "basename": "_ 0 Programowanie w języku C++",
@@ -179,26 +199,6 @@
     {
       "basename": "_ Node and JavaScript",
       "path": "JAVASCRIPT/Lear Node.js and Javascript/_ Node and JavaScript.md"
-    },
-    {
-      "basename": "_ 0 intro JS dzisiaj",
-      "path": "JAVASCRIPT/JS współczesny/_ 0 intro JS dzisiaj.md"
-    },
-    {
-      "basename": "11.1 this",
-      "path": "JAVASCRIPT/Podstawy_Włodarczyk/11.1 this.md"
-    },
-    {
-      "basename": "_ JavaScript funkcyjnie",
-      "path": "JAVASCRIPT/funkcyjnie_JS/_ JavaScript funkcyjnie.md"
-    },
-    {
-      "basename": "Nowe elementy JS",
-      "path": "JAVASCRIPT/funkcyjnie_JS/Nowe elementy JS.md"
-    },
-    {
-      "basename": "0-Modern JS from the Beginner",
-      "path": "JAVASCRIPT/Modern JavaScrip From the Beginning/0-Modern JS from the Beginner.md"
     }
   ],
   "omittedPaths": [],
