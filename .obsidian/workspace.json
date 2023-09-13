@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/1 Fundamentals of Kotlin.md",
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/2 Operators in Kotlin.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/1 Fundamentals of Kotlin.md",
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/2 Operators in Kotlin.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/1 Fundamentals of Kotlin.md",
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/2 Operators in Kotlin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/1 Fundamentals of Kotlin.md"
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/2 Operators in Kotlin.md"
               }
             }
           },
@@ -224,6 +224,7 @@
   },
   "active": "ab1a36a56b4382e2",
   "lastOpenFiles": [
+    "_ Mobile/Kotlin/the complete Android Kotlin/1 Fundamentals of Kotlin.md",
     "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
     "_ WEB/N_O_D_E/Mosh Node/3 RESTful API's using Express.md",
     "_ WEB/N_O_D_E/Mosh Node/2 Node Package Manager.md",
@@ -231,7 +232,6 @@
     "_ WEB/N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md",
     "_ WEB/N_O_D_E/Mosh Node/_ 0 Node (Mosh).md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/5 Jak Działa NodeJS.md",
-    "_ Mobile/Kotlin/the complete Android Kotlin/1 Fundamentals of Kotlin.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/_ the complete Android Kotlin.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin/3 Kotlin fundamentals.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/5 Functions in Android Kotlin.md",
