@@ -11,13 +11,15 @@
 
 np. uruchamiasz Photoshopa, to taki uruchomiony proces jest procesem Photoshopa
 np. `cmd` > `tasklist`
-
+lub program *Monitor zasobów* / *Resource Monitor*
 
 # Wątek
 #node/thread
 
 >[!info] Wątek (*thread*)
->część programu wykonywana współbieżnie, uruchomiona przez procesor. Proces może uruchamiać wiele wątków. Wątek tym różni się od procesu, że współdzieli z innymi wątkami zasoby przydzielone dla procesu
+>część programu wykonywana współbieżnie, uruchomiona przez procesor. 
+>Proces może uruchamiać wiele wątków. 
+>Wątek tym różni się od procesu, że współdzieli z innymi wątkami zasoby przydzielone dla procesu
 
 - Wątki wymagają mniej zasobów do działania, a także są szybciej tworzone. 
 - Mogą przekazywać pomiędzy sobą dowolną ilość danych bez ich kopiowania, jedynie przekazując sobie wskaźniki w pamięci operacyjnej.

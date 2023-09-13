@@ -28,7 +28,7 @@ BUT:
 var msg = '';
 console.log(globale.msg) ; // -> undefined
 ```
-because `msg` is visible only in tha file not globaly
+because `msg` is visible only in that  file not globally
 
 ## in browser `window`
 in a browser global objects are hidden inside the `window` object: `window.console.log`, `window.setItnerval`, ....
