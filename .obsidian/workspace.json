@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ WEB/N_O_D_E/Mosh Node/1 Node Module System.md",
+                "file": "_ WEB/N_O_D_E/Mosh Node/2 Node Package Manager.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ WEB/N_O_D_E/Mosh Node/1 Node Module System.md",
+                "file": "_ WEB/N_O_D_E/Mosh Node/2 Node Package Manager.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ WEB/N_O_D_E/Mosh Node/1 Node Module System.md",
+                "file": "_ WEB/N_O_D_E/Mosh Node/2 Node Package Manager.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ WEB/N_O_D_E/Mosh Node/1 Node Module System.md"
+                "file": "_ WEB/N_O_D_E/Mosh Node/2 Node Package Manager.md"
               }
             }
           },
@@ -224,6 +224,11 @@
   },
   "active": "ab1a36a56b4382e2",
   "lastOpenFiles": [
+    "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
+    "_ WEB/N_O_D_E/Mosh Node/3 RESTful API's using Express.md",
+    "_ WEB/N_O_D_E/Mosh Node/2 Node Package Manager.md",
+    "_ WEB/N_O_D_E/Mosh Node/1 Node Module System.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md",
     "_ WEB/N_O_D_E/Mosh Node/_ 0 Node (Mosh).md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/5 Jak Działa NodeJS.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/1 Fundamentals of Kotlin.md",
@@ -245,11 +250,6 @@
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin/2 Getting ready with Android Studio.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin/_ the complete Android 12.md",
     "C++/Programowanie w języku C++ od A do Z/_ 0 Programowanie w języku C++.md",
-    "_ WEB/REACT/React Mosh/2 ES6 Refresh.md",
-    "_ WEB/REACT/React Mosh/_ 0 React Mosh.md",
-    "_ Desktop/Python/Turtle/Python grafika żółwia.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/4.3. pliki statyczne.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin",
     "JAVASCRIPT/Programowanie w JS od Zera do Mastera",
     "C Sharp/Fast WFP  C Sharp",

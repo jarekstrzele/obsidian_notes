@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "2 Node Package Manager",
+      "path": "_ WEB/N_O_D_E/Mosh Node/2 Node Package Manager.md"
+    },
+    {
+      "basename": "3.1 Express - introducing",
+      "path": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md"
+    },
+    {
+      "basename": "3 RESTful API's using Express",
+      "path": "_ WEB/N_O_D_E/Mosh Node/3 RESTful API's using Express.md"
+    },
+    {
       "basename": "1 Node Module System",
       "path": "_ WEB/N_O_D_E/Mosh Node/1 Node Module System.md"
+    },
+    {
+      "basename": "4.2. Serwer HTTP",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md"
     },
     {
       "basename": "_ 0 Node (Mosh)",
@@ -109,10 +125,6 @@
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/4.3. pliki statyczne.md"
     },
     {
-      "basename": "4.2. Serwer HTTP",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md"
-    },
-    {
       "basename": "2.3. Stream",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.3. Stream.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "_ Programowanie w JS od Zera do Mastera",
       "path": "JAVASCRIPT/Programowanie w JS od Zera do Mastera/_ Programowanie w JS od Zera do Mastera.md"
-    },
-    {
-      "basename": "_ 0 React Native - Practical Guide",
-      "path": "_ Mobile/REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md"
-    },
-    {
-      "basename": "- 3 Node",
-      "path": "JAVASCRIPT/Lear Node.js and Javascript/- 3 Node.md"
-    },
-    {
-      "basename": "- 2 JavaScript",
-      "path": "JAVASCRIPT/Lear Node.js and Javascript/- 2 JavaScript.md"
     }
   ],
   "omittedPaths": [],
