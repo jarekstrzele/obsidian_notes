@@ -183,13 +183,17 @@ fun main() {
 ```
 
 
-## ArrayList
+##  `arrayListOf` 
 #kotlin/arraylist
+==`arrayListOf` to zalecany sposób na tworzenie listy== 
 
-`arrayListOf<Int>(2,10,4) ;`
+`var xxx = arrayListOf<Int>(2,10,4) ;`
+`var xxx = arrayListOf(2,10,4) ;` // sam się domyśli jaki to typ
+`var xxx = arrayListOf(2,"to jest tekst", 10,4)`
+
 
 only init:
-`var age = ArrayList<Int>()`
+`var age = ArrayList<Int>()` // pochodzi z języka Java, nie zalecana
 
 add
 `age.add(index:3, element: 20  )`
@@ -233,7 +237,7 @@ fun main() {
 #kotlin/set 
 
 `var age = setOf<Int>(1,2,3,2)`
-`println(age.siz)` --> 3
+`println(age.size)` --> 3
 
 
 ```kotlin
