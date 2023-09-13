@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "Conditionals and Error Handling",
+      "path": "methodology/clean code/Conditionals and Error Handling.md"
+    },
+    {
+      "basename": "Clean Code Names",
+      "path": "methodology/clean code/Clean Code Names.md"
+    },
+    {
+      "basename": "Classes and Data Structures",
+      "path": "methodology/clean code/Classes and Data Structures.md"
+    },
+    {
+      "basename": "_ Clean Code",
+      "path": "methodology/clean code/_ Clean Code.md"
+    },
+    {
+      "basename": "static type",
+      "path": "static type.md"
+    },
+    {
+      "basename": "Scieżki uczenia się",
+      "path": "Scieżki uczenia się.md"
+    },
+    {
+      "basename": "JSON",
+      "path": "JSON.md"
+    },
+    {
       "basename": "5 Jak Działa NodeJS",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/5 Jak Działa NodeJS.md"
     },
@@ -171,34 +199,6 @@
     {
       "basename": "_ Fast WFP C Sharp",
       "path": "C Sharp/Fast WFP  C Sharp/_ Fast WFP C Sharp.md"
-    },
-    {
-      "basename": "150 ćw OOP w Python",
-      "path": "P Y T H O N/150 ćw OOP w Python.md"
-    },
-    {
-      "basename": "3.2. Odczytywanie plików",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3.2. Odczytywanie plików.md"
-    },
-    {
-      "basename": "3.1. Odczytywanie info o plikach",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md"
-    },
-    {
-      "basename": "2.1. Zdarzenia",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md"
-    },
-    {
-      "basename": "1 Moduły",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/1 Moduły.md"
-    },
-    {
-      "basename": "2. Podstawowe koncepcje",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2. Podstawowe koncepcje.md"
-    },
-    {
-      "basename": "_ Programowanie w JS od Zera do Mastera",
-      "path": "JAVASCRIPT/Programowanie w JS od Zera do Mastera/_ Programowanie w JS od Zera do Mastera.md"
     }
   ],
   "omittedPaths": [],

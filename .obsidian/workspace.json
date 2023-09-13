@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/5 Jak Działa NodeJS.md",
+                "file": "methodology/clean code/Conditionals and Error Handling.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,6 +43,24 @@
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "fe60b88812af31c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a176687fc3ff738e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "methodology/clean code/_ Clean Code.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -71,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "refresh",
+                "query": "clean_code",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -124,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/5 Jak Działa NodeJS.md",
+                "file": "methodology/clean code/Conditionals and Error Handling.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -141,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/5 Jak Działa NodeJS.md",
+                "file": "methodology/clean code/Conditionals and Error Handling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/5 Jak Działa NodeJS.md"
+                "file": "methodology/clean code/Conditionals and Error Handling.md"
               }
             }
           },
@@ -224,6 +242,14 @@
   },
   "active": "ab1a36a56b4382e2",
   "lastOpenFiles": [
+    "methodology/clean code/Clean Code Names.md",
+    "methodology/clean code/Classes and Data Structures.md",
+    "methodology/clean code/_ Clean Code.md",
+    "methodology/clean code/Clean Code.md",
+    "static type.md",
+    "Scieżki uczenia się.md",
+    "JSON.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/5 Jak Działa NodeJS.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/2 Operators in Kotlin.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/1 Fundamentals of Kotlin.md",
     "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
@@ -232,7 +258,6 @@
     "_ WEB/N_O_D_E/Mosh Node/1 Node Module System.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md",
     "_ WEB/N_O_D_E/Mosh Node/_ 0 Node (Mosh).md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/5 Jak Działa NodeJS.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/_ the complete Android Kotlin.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin/3 Kotlin fundamentals.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/5 Functions in Android Kotlin.md",
@@ -243,13 +268,6 @@
     "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/2 Aplikacje WPF.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/4.4. HTTPS Node.md",
-    "JAVASCRIPT/ES refresh.md",
-    "C++/Beginning C++/_ Intro C++.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
-    "_ Mobile/Kotlin/the complete Android Kotlin/8.1 Layouts in Android App.md",
-    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/2 Getting ready with Android Studio.md",
-    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/_ the complete Android 12.md",
-    "C++/Programowanie w języku C++ od A do Z/_ 0 Programowanie w języku C++.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin",
     "JAVASCRIPT/Programowanie w JS od Zera do Mastera",
     "C Sharp/Fast WFP  C Sharp",

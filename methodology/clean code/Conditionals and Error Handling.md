@@ -22,7 +22,7 @@ else
 ## General concepts
 1. avoid deep nesting
 2. use factory fuctions and polymorphism
-3. prefer Positive chacks (`if isEmpty` vs `if isNotEmpty`)
+3. prefer Positive checks (`if isEmpty` vs `if isNotEmpty`)
 4. utilize errors
 
 
