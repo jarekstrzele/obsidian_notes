@@ -33,6 +33,8 @@ lub program *Monitor zasobów* / *Resource Monitor*
 >> 	 - jest jednowątkowy
 >>  - C++ (dodatkowe biblioteki C++) (NodeJS APIs)
 
+PROGRAM DO ŚLEDZENIA WYKONANIA PROGRAMU http://latentflip.com/loupe
+
 
 PRZYKŁAD
 Mamy kod:
