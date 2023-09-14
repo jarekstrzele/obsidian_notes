@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md",
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/7 Intro to Android App Development.md",
                 "mode": "source",
                 "source": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md",
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/7 Intro to Android App Development.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md",
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/7 Intro to Android App Development.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md"
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/7 Intro to Android App Development.md"
               }
             }
           },
@@ -248,6 +248,7 @@
   },
   "active": "b4351854ae2ee129",
   "lastOpenFiles": [
+    "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/7 Intro to Android App Development.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/8.1 Layouts in Android App.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/8 Android Components.md",
@@ -276,7 +277,6 @@
     "methodology/clean code/Clean Code Names.md",
     "methodology/clean code/Classes and Data Structures.md",
     "methodology/clean code/_ Clean Code.md",
-    "methodology/clean code/Clean Code.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin",
     "JAVASCRIPT/Programowanie w JS od Zera do Mastera",
     "C Sharp/Fast WFP  C Sharp",
