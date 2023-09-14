@@ -52,9 +52,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ad835814cb745a86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/1 Fundamentals of Kotlin.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -136,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "P Y T H O N/Master_Python_100/19 Intances, States, HOF.md",
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/1 Fundamentals of Kotlin.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -153,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "P Y T H O N/Master_Python_100/19 Intances, States, HOF.md",
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/1 Fundamentals of Kotlin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "P Y T H O N/Master_Python_100/19 Intances, States, HOF.md"
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/1 Fundamentals of Kotlin.md"
               }
             }
           },
@@ -234,10 +246,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b4351854ae2ee129",
+  "active": "ad835814cb745a86",
   "lastOpenFiles": [
-    "P Y T H O N/Master_Python_100/_ 0 100 Days of Code 2023.md",
     "P Y T H O N/Master_Python_100/19 Intances, States, HOF.md",
+    "P Y T H O N/Master_Python_100/_ 0 100 Days of Code 2023.md",
     "JAVASCRIPT/ES refresh.md",
     "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
     "middleware.md",
