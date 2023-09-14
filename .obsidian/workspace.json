@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/5 Functions in Android Kotlin.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/5 Jak Działa NodeJS.md",
                 "mode": "source",
                 "source": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/5 Functions in Android Kotlin.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/5 Jak Działa NodeJS.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/5 Functions in Android Kotlin.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/5 Jak Działa NodeJS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/5 Functions in Android Kotlin.md"
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/5 Jak Działa NodeJS.md"
               }
             }
           },
@@ -248,6 +248,7 @@
   },
   "active": "ad835814cb745a86",
   "lastOpenFiles": [
+    "_ Mobile/Kotlin/the complete Android Kotlin/5 Functions in Android Kotlin.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/4 Loops in Kotlin.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin/3 Kotlin fundamentals.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/3 Control Flow Statements in Kotlin.md",
@@ -276,7 +277,6 @@
     "static type.md",
     "Scieżki uczenia się.md",
     "JSON.md",
-    "_ WEB/N_O_D_E/Mosh Node/1 Node Module System.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin",
     "JAVASCRIPT/Programowanie w JS od Zera do Mastera",
     "C Sharp/Fast WFP  C Sharp",
