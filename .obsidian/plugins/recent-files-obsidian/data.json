@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "6 Kotlin OOP",
+      "path": "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md"
+    },
+    {
+      "basename": "7 Intro to Android App Development",
+      "path": "_ Mobile/Kotlin/the complete Android Kotlin/7 Intro to Android App Development.md"
+    },
+    {
+      "basename": "8.1 Layouts in Android App",
+      "path": "_ Mobile/Kotlin/the complete Android Kotlin/8.1 Layouts in Android App.md"
+    },
+    {
+      "basename": "8 Android Components",
+      "path": "_ Mobile/Kotlin/the complete Android Kotlin/8 Android Components.md"
+    },
+    {
+      "basename": "5 Functions in Android Kotlin",
+      "path": "_ Mobile/Kotlin/the complete Android Kotlin/5 Functions in Android Kotlin.md"
+    },
+    {
+      "basename": "4 Loops in Kotlin",
+      "path": "_ Mobile/Kotlin/the complete Android Kotlin/4 Loops in Kotlin.md"
+    },
+    {
+      "basename": "3 Kotlin fundamentals",
+      "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/3 Kotlin fundamentals.md"
+    },
+    {
       "basename": "19 Intances, States, HOF",
       "path": "P Y T H O N/Master_Python_100/19 Intances, States, HOF.md"
     },
@@ -19,18 +47,6 @@
     {
       "basename": "3.1 Express - introducing",
       "path": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md"
-    },
-    {
-      "basename": "5 Functions in Android Kotlin",
-      "path": "_ Mobile/Kotlin/the complete Android Kotlin/5 Functions in Android Kotlin.md"
-    },
-    {
-      "basename": "4 Loops in Kotlin",
-      "path": "_ Mobile/Kotlin/the complete Android Kotlin/4 Loops in Kotlin.md"
-    },
-    {
-      "basename": "3 Kotlin fundamentals",
-      "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/3 Kotlin fundamentals.md"
     },
     {
       "basename": "3 Control Flow Statements in Kotlin",
@@ -129,10 +145,6 @@
       "path": "_ Mobile/Kotlin/the complete Android Kotlin/_ the complete Android Kotlin.md"
     },
     {
-      "basename": "6 Kotlin OOP",
-      "path": "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md"
-    },
-    {
       "basename": "_ C Sharp od Podstaw do WPF i XAML",
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md"
     },
@@ -155,10 +167,6 @@
     {
       "basename": "1 OOP w CSharp",
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md"
-    },
-    {
-      "basename": "8.1 Layouts in Android App",
-      "path": "_ Mobile/Kotlin/the complete Android Kotlin/8.1 Layouts in Android App.md"
     },
     {
       "basename": "2 Getting ready with Android Studio",
@@ -191,14 +199,6 @@
     {
       "basename": "4.3. pliki statyczne",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/4.3. pliki statyczne.md"
-    },
-    {
-      "basename": "2.3. Stream",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.3. Stream.md"
-    },
-    {
-      "basename": "2.2. Buffer",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.2. Buffer.md"
     }
   ],
   "omittedPaths": [],

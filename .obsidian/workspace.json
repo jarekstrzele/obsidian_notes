@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "P Y T H O N/Master_Python_100/19 Intances, States, HOF.md",
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md",
                 "mode": "source",
                 "source": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "P Y T H O N/Master_Python_100/19 Intances, States, HOF.md",
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "P Y T H O N/Master_Python_100/19 Intances, States, HOF.md",
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "P Y T H O N/Master_Python_100/19 Intances, States, HOF.md"
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md"
               }
             }
           },
@@ -248,17 +248,20 @@
   },
   "active": "b4351854ae2ee129",
   "lastOpenFiles": [
+    "_ Mobile/Kotlin/the complete Android Kotlin/7 Intro to Android App Development.md",
+    "_ Mobile/Kotlin/the complete Android Kotlin/8.1 Layouts in Android App.md",
+    "_ Mobile/Kotlin/the complete Android Kotlin/8 Android Components.md",
+    "_ Mobile/Kotlin/the complete Android Kotlin/5 Functions in Android Kotlin.md",
+    "_ Mobile/Kotlin/the complete Android Kotlin/4 Loops in Kotlin.md",
+    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/3 Kotlin fundamentals.md",
+    "P Y T H O N/Master_Python_100/19 Intances, States, HOF.md",
     "methodology/clean code/Structure and Comments.md",
     "_ WEB/N_O_D_E/Mosh Node/3 RESTful API's using Express.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/5 Jak Działa NodeJS.md",
     "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
-    "_ Mobile/Kotlin/the complete Android Kotlin/5 Functions in Android Kotlin.md",
-    "_ Mobile/Kotlin/the complete Android Kotlin/4 Loops in Kotlin.md",
-    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/3 Kotlin fundamentals.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/3 Control Flow Statements in Kotlin.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/2 Operators in Kotlin.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/1 Fundamentals of Kotlin.md",
-    "P Y T H O N/Master_Python_100/19 Intances, States, HOF.md",
     "P Y T H O N/Master_Python_100/_ 0 100 Days of Code 2023.md",
     "JAVASCRIPT/ES refresh.md",
     "middleware.md",
@@ -274,9 +277,6 @@
     "methodology/clean code/Classes and Data Structures.md",
     "methodology/clean code/_ Clean Code.md",
     "methodology/clean code/Clean Code.md",
-    "static type.md",
-    "Scieżki uczenia się.md",
-    "JSON.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin",
     "JAVASCRIPT/Programowanie w JS od Zera do Mastera",
     "C Sharp/Fast WFP  C Sharp",

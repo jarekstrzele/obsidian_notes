@@ -117,7 +117,66 @@ while is_race_on:
 screen.exitonclick()
 ```
 
+OBIEKTOWO
+```python
+from turtle import Turtle, Screen
+import random
 
+class MyTurtle(Turtle):
+    def __init__(self, color, y_pos, turtle_shape="turtle") -> None:
+        super().__init__()
+        self.shape(turtle_shape)
+        self.color(color)
+        self.penup()
+        self.goto(x=-230, y= y_pos)
+
+class Game:
+    def __init__(self, xsize=500, ysize=400):
+        self.screen = Screen()
+        self.screen.setup(xsize, ysize)
+        self.colors = ["red", "green", "yellow", "purple", "blue", "orange"]
+        self.y_positions = [-80,-40,-0, 40, 80, 120]
+        self.all_turtles = []
+        self.is_race_on = False
+
+    def prepare_game(self):
+        for turtle_index in range(0,6):
+            self.all_turtles.append(MyTurtle(color=self.colors[turtle_index],
+                                            y_pos=self.y_positions[turtle_index]))
+
+    def start_race(self):
+        user_bet = self.screen.textinput("Choose color", "Write a color of a turtle that win the race: ")
+        self.verify_user_input_color(user_bet)
+        while self.is_race_on:
+            for turtle in self.all_turtles:
+                self.check_xcor_turtle(turtle, user_bet)
+                random_distance = random.randint(0,10)
+                turtle.forward(random_distance)
+  
+
+    def check_xcor_turtle(self, turtle, user_bet):
+        if turtle.xcor() > 230:
+                    self.is_race_on =False
+                    winning_color = turtle.pencolor() # pencolor - it returns the color of the turtle body
+                    if winning_color == user_bet:
+                        print(f"You've won!! THe {winning_color} turtle is the winner!")
+                    else:
+                        print(f"You've lost! The {winning_color} turtle is the winner!")
+
+    def verify_user_input_color(self, user_bet):
+        if user_bet:
+            self.is_race_on = True
+
+  
+  
+
+if __name__=="__main__":
+    my_race_game = Game()
+    my_race_game.prepare_game()
+    my_race_game.start_race()
+
+    my_race_game.screen.exitonclick()
+```
 
 
 
