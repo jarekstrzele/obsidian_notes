@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Structure and Comments",
+      "path": "methodology/clean code/Structure and Comments.md"
+    },
+    {
+      "basename": "3 RESTful API's using Express",
+      "path": "_ WEB/N_O_D_E/Mosh Node/3 RESTful API's using Express.md"
+    },
+    {
       "basename": "5 Jak Działa NodeJS",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/5 Jak Działa NodeJS.md"
     },
@@ -55,14 +63,6 @@
     {
       "basename": "3.1.1. Recap Building RestFul APIS with Express",
       "path": "_ WEB/N_O_D_E/Mosh Node/3.1.1. Recap Building RestFul APIS with Express.md"
-    },
-    {
-      "basename": "3 RESTful API's using Express",
-      "path": "_ WEB/N_O_D_E/Mosh Node/3 RESTful API's using Express.md"
-    },
-    {
-      "basename": "Structure and Comments",
-      "path": "methodology/clean code/Structure and Comments.md"
     },
     {
       "basename": "Functions and Methods",

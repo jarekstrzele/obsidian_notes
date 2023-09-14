@@ -23,7 +23,7 @@ lub program *Monitor zasobów* / *Resource Monitor*
 
 - Wątki wymagają mniej zasobów do działania, a także są szybciej tworzone. 
 - Mogą przekazywać pomiędzy sobą dowolną ilość danych bez ich kopiowania, jedynie przekazując sobie wskaźniki w pamięci operacyjnej.
-- aby otrzymać wrażenie współbieżności, procesor przełącza się pomiędzy wątkamiw którkich odstępach czasu
+- aby otrzymać wrażenie współbieżności, procesor przełącza się pomiędzy wątkami w krótkich odstępach czasu
 
 
 ## Wielowątkowy Node.js i jednowątkowa pętla zdarzeń
