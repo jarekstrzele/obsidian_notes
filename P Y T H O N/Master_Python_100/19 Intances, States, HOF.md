@@ -73,9 +73,48 @@ screen.exitonclick()
 
 TURTLE RACE:
 
-```
+```python
+from turtle import Turtle, Screen
+import random
 
+is_race_on = False
+screen = Screen()
+screen.setup(500,400) # set a size of the window
+user_bet = screen.textinput("Choose color", "Write a color of a turtle that win the race: ")
+print(user_bet)
+colors = ["red", "green", "yellow", "purple", "blue", "orange"]
+y_positions = [-80,-40,-0, 40, 80, 120]
+all_turtles = []
 
+for turtle_index in range(0,6):
+    # tim = Turtle(shape="turtle")
+    # tim.color(colors[turtle_index])
+    # tim.penup()
+    # tim.goto(x=-230,y=-y_positions[turtle_index])
+    new_turtle = Turtle(shape="turtle")
+    new_turtle.color(colors[turtle_index])
+    new_turtle.penup()
+    new_turtle.goto(x=-230,y=-y_positions[turtle_index])
+    all_turtles.append(new_turtle)
+
+  
+if user_bet:
+    is_race_on = True
+
+while is_race_on:
+    for turtle in all_turtles:
+        if turtle.xcor() > 230:
+            is_race_on =False
+            winning_color = turtle.pencolor() # pencolor - the color of the turtle body
+            if winning_color == user_bet:
+                print(f"You've won!! THe {winning_color} turtle is the winner!")
+            else:
+                print(f"You've lost! The {winning_color} turtle is the winner!")
+
+        random_distance = random.randint(0,10)
+        turtle.forward(random_distance)
+
+screen.exitonclick()
 ```
 
 
