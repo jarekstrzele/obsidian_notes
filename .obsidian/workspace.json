@@ -66,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "methodology/clean code/Structure and Comments.md",
+                "file": "P Y T H O N/Master_Python_100/19 Intances, States, HOF.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "methodology/clean code/Structure and Comments.md",
+                "file": "P Y T H O N/Master_Python_100/19 Intances, States, HOF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "methodology/clean code/Structure and Comments.md"
+                "file": "P Y T H O N/Master_Python_100/19 Intances, States, HOF.md"
               }
             }
           },
@@ -246,8 +246,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ad835814cb745a86",
+  "active": "b4351854ae2ee129",
   "lastOpenFiles": [
+    "methodology/clean code/Structure and Comments.md",
     "_ WEB/N_O_D_E/Mosh Node/3 RESTful API's using Express.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/5 Jak Działa NodeJS.md",
     "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
@@ -263,7 +264,6 @@
     "middleware.md",
     "_ WEB/N_O_D_E/Mosh Node/2 Node Package Manager.md",
     "_ WEB/N_O_D_E/Mosh Node/3.1.1. Recap Building RestFul APIS with Express.md",
-    "methodology/clean code/Structure and Comments.md",
     "methodology/clean code/Functions and Methods.md",
     "methodology/clean code/Conditionals and Error Handling.md",
     "methodology/images/daily_change_pandas.png",
