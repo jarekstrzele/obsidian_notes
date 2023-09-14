@@ -33,7 +33,43 @@ def fun2(fun1):
 ```
 (make: `add(a,b,)`, `multiply(a,b)` functions and `calculate(a,b, fun)` that takes two parameters and a name of other function and returns the result of calling that function on these params) - `calculate` is a *higher order function*
 
+```python
+from turtle import Turtle, Screen
 
+tim = Turtle()
+screen = Screen()
+
+def move_foreward():
+    tim.forward(10)
+def move_backwards():
+    tim.backward(10)
+
+def turn_left():
+    print(tim.heading())
+    new_heading = tim.heading() + 10
+    tim.setheading(new_heading)
+  
+def turn_right():
+    print(tim.heading())
+    new_heading = tim.heading() - 10
+    tim.setheading(new_heading)
+
+def clear():
+    tim.clear()
+    tim.penup()
+    tim.home()
+    tim.pendown()
+  
+
+screen.listen()
+screen.onkey(key="w", fun=move_foreward)
+screen.onkey(key="s", fun=move_backwards)
+screen.onkey(key="a", fun=turn_right)
+screen.onkey(key="d", fun=turn_left)
+screen.onkey(key="c", fun=clear)
+
+screen.exitonclick()
+```
 
 
 
