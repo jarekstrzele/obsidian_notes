@@ -1,6 +1,9 @@
 [[_ 0 NodeJS - zostań fullstack]]
 #express 
 
+info o wszystkich metodach https://expressjs.com/en/4x/api.html
+
+
 INSTALACJA
 - zrób folder
 - wewnątrz `npm init` (package json)
