@@ -384,7 +384,6 @@ class Welcomer
     {
         get;
         private set;
-
     }
 
     static Welcomer()
@@ -400,16 +399,46 @@ class Welcomer
         {
             Msg = "Dobry wieczór";
         }
-
     }
-
-    
-
 }
-
-
 ```
 
+inny przykład
+```c#
+using System;
+
+public class MojaKlasa
+{
+    // Statyczne pole
+    public static int Licznik { get; set; }
+
+    // Konstruktor statyczny
+    static MojaKlasa()
+    {
+        Licznik = 0;
+        Console.WriteLine("Konstruktor statyczny został wywołany.");
+    }
+
+    // Metoda statyczna, która zwiększa wartość Licznik
+    public static void InkrementujLicznik()
+    {
+        Licznik++;
+    }
+}
+
+class Program
+{
+    static void Main()
+    {
+        // Możemy używać klasy i jej składowych statycznych bez tworzenia instancji
+        MojaKlasa.InkrementujLicznik();
+        MojaKlasa.InkrementujLicznik();
+
+        Console.WriteLine($"Wartość Licznik: {MojaKlasa.Licznik}");
+    }
+}
+
+```
 
 # Konstrutor wywołujący inne konstruktory
 
