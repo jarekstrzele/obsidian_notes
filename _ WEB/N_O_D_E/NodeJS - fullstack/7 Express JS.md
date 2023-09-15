@@ -4,7 +4,7 @@
 info o wszystkich metodach https://expressjs.com/en/4x/api.html
 
 
-INSTALACJA
+# INSTALACJA
 - zrób folder
 - wewnątrz `npm init` (package json)
 >1. `npm install express --save`: Ta komenda instaluje pakiet [Express](https://www.google.com/search?q=Express) i zapisuje go jako zależność w pliku `package.json` w sekcji `dependencies`. Dzięki temu, gdy inni programiści będą chcieli uruchomić twoją aplikację, będą mogli zainstalować wszystkie zależności zdefiniowane w pliku `package.json`, w tym [Express](https://www.google.com/search?q=Express).
@@ -23,9 +23,23 @@ const app = express() // tworzy obiekt
 ```
 
 
+# pierwszy przykład
+```js
+const express = require("express")
+const app = express()
 
 
+app.disable("X-Powered-By") //wyłączy nagłówek
 
+app.get('/', (req,res)=>{
+    res.send("Witaj świecie")
+})
+
+app.listen(9090, ()=>console.log("localhost:9090"))
+```
+sprawdź na adresie `/` (*sieć*) oraz na fałszywym adresie (`/noctam`)
+
+# Serwowanie statycznych plików
 
 
 
