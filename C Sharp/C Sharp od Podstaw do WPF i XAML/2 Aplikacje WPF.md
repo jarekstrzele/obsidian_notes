@@ -40,7 +40,7 @@ w `App.xaml`:
 
  `StartupUri="MainWindow.xaml">`  od czego ma zacząć się aplikacja
 
-zmiana nazw przez `refactor` z menu podręcznego
+ zmiana nazw przez `refactor` z menu podręcznego
 
 
 ---
