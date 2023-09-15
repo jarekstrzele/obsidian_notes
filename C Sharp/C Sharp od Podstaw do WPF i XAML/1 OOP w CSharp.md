@@ -176,22 +176,18 @@ class Math
     {
         if (x < 0)
             return x * (-1);
-
         return x;
-
     }
 
     public static int IncreaseBy5(int nr)
     {
         nr += 5;
-
         return nr;
     }
 
     public static int IncreaseBy5ByReference(ref int nr)
     {
         nr += 5;
-
         return nr;
     }
 }
