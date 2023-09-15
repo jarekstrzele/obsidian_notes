@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md",
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/5 Functions in Android Kotlin.md",
                 "mode": "source",
                 "source": false
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md",
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/5 Functions in Android Kotlin.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md",
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/5 Functions in Android Kotlin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md"
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/5 Functions in Android Kotlin.md"
               }
             }
           },
@@ -260,6 +260,10 @@
   },
   "active": "f447466c422545bd",
   "lastOpenFiles": [
+    "_ Mobile/Kotlin/the complete Android Kotlin/8.1 Layouts in Android App.md",
+    "_ Mobile/Kotlin/the complete Android Kotlin/8 Android Components.md",
+    "_ Mobile/Kotlin/the complete Android Kotlin/7 Intro to Android App Development.md",
+    "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/5 Functions in Android Kotlin.md",
     "methodology/clean code/Structure and Comments.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
@@ -267,10 +271,6 @@
     "C Sharp/C Sharp od Podstaw do WPF i XAML/2 Aplikacje WPF.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/3 Układ komponentów.md",
     "C Sharp/Fast WFP  C Sharp/_ Fast WFP C Sharp.md",
-    "_ Mobile/Kotlin/the complete Android Kotlin/7 Intro to Android App Development.md",
-    "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md",
-    "_ Mobile/Kotlin/the complete Android Kotlin/8.1 Layouts in Android App.md",
-    "_ Mobile/Kotlin/the complete Android Kotlin/8 Android Components.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/4 Loops in Kotlin.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin/3 Kotlin fundamentals.md",
     "P Y T H O N/Master_Python_100/19 Intances, States, HOF.md",
