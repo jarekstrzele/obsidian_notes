@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "19 Intances, States, HOF",
+      "path": "P Y T H O N/Master_Python_100/19 Intances, States, HOF.md"
+    },
+    {
+      "basename": "18 Turtle and the GUI",
+      "path": "P Y T H O N/Master_Python_100/18 Turtle and the GUI.md"
+    },
+    {
+      "basename": "_ 0 100 Days of Code 2023",
+      "path": "P Y T H O N/Master_Python_100/_ 0 100 Days of Code 2023.md"
+    },
+    {
       "basename": "3.1 Express - introducing",
       "path": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md"
     },
@@ -73,10 +85,6 @@
       "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/3 Kotlin fundamentals.md"
     },
     {
-      "basename": "19 Intances, States, HOF",
-      "path": "P Y T H O N/Master_Python_100/19 Intances, States, HOF.md"
-    },
-    {
       "basename": "5 Jak Działa NodeJS",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/5 Jak Działa NodeJS.md"
     },
@@ -91,10 +99,6 @@
     {
       "basename": "1 Fundamentals of Kotlin",
       "path": "_ Mobile/Kotlin/the complete Android Kotlin/1 Fundamentals of Kotlin.md"
-    },
-    {
-      "basename": "_ 0 100 Days of Code 2023",
-      "path": "P Y T H O N/Master_Python_100/_ 0 100 Days of Code 2023.md"
     },
     {
       "basename": "ES refresh",
@@ -195,10 +199,6 @@
     {
       "basename": "_ 0 Programowanie w języku C++",
       "path": "C++/Programowanie w języku C++ od A do Z/_ 0 Programowanie w języku C++.md"
-    },
-    {
-      "basename": "2 ES6 Refresh",
-      "path": "_ WEB/REACT/React Mosh/2 ES6 Refresh.md"
     }
   ],
   "omittedPaths": [],
