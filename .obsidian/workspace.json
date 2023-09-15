@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/3 Układ komponentów.md",
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md",
                 "mode": "source",
                 "source": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/3 Układ komponentów.md",
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/3 Układ komponentów.md",
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/3 Układ komponentów.md"
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md"
               }
             }
           },
@@ -250,6 +250,7 @@
   "lastOpenFiles": [
     "C Sharp/C Sharp od Podstaw do WPF i XAML/2 Aplikacje WPF.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/3 Układ komponentów.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md",
     "C Sharp/Fast WFP  C Sharp/_ Fast WFP C Sharp.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/7 Intro to Android App Development.md",
@@ -273,7 +274,6 @@
     "_ WEB/N_O_D_E/Mosh Node/2 Node Package Manager.md",
     "_ WEB/N_O_D_E/Mosh Node/3.1.1. Recap Building RestFul APIS with Express.md",
     "methodology/clean code/Functions and Methods.md",
-    "methodology/clean code/Conditionals and Error Handling.md",
     "methodology/images/daily_change_pandas.png",
     "methodology/images/bar_matplotlib.png",
     "methodology/images/barh_matplotlib.png",
