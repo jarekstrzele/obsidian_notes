@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/7 Intro to Android App Development.md",
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/3 Układ komponentów.md",
                 "mode": "source",
                 "source": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/7 Intro to Android App Development.md",
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/3 Układ komponentów.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/7 Intro to Android App Development.md",
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/3 Układ komponentów.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/7 Intro to Android App Development.md"
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/3 Układ komponentów.md"
               }
             }
           },
@@ -248,8 +248,12 @@
   },
   "active": "b4351854ae2ee129",
   "lastOpenFiles": [
-    "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/2 Aplikacje WPF.md",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md",
+    "C Sharp/Fast WFP  C Sharp/_ Fast WFP C Sharp.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/7 Intro to Android App Development.md",
+    "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/8.1 Layouts in Android App.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/8 Android Components.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/5 Functions in Android Kotlin.md",
@@ -273,10 +277,6 @@
     "methodology/images/daily_change_pandas.png",
     "methodology/images/bar_matplotlib.png",
     "methodology/images/barh_matplotlib.png",
-    "methodology/Wzorce projektowe Rusz Głową/1 Wprowadzenie Wzorce projektowe.md",
-    "methodology/clean code/Clean Code Names.md",
-    "methodology/clean code/Classes and Data Structures.md",
-    "methodology/clean code/_ Clean Code.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin",
     "JAVASCRIPT/Programowanie w JS od Zera do Mastera",
     "C Sharp/Fast WFP  C Sharp",

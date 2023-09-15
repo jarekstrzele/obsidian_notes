@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "3 Układ komponentów",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/3 Układ komponentów.md"
+    },
+    {
+      "basename": "2 Aplikacje WPF",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/2 Aplikacje WPF.md"
+    },
+    {
+      "basename": "1 OOP w CSharp",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md"
+    },
+    {
+      "basename": "_ C Sharp od Podstaw do WPF i XAML",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md"
+    },
+    {
+      "basename": "_ Fast WFP C Sharp",
+      "path": "C Sharp/Fast WFP  C Sharp/_ Fast WFP C Sharp.md"
+    },
+    {
       "basename": "7 Intro to Android App Development",
       "path": "_ Mobile/Kotlin/the complete Android Kotlin/7 Intro to Android App Development.md"
     },
@@ -145,28 +165,12 @@
       "path": "_ Mobile/Kotlin/the complete Android Kotlin/_ the complete Android Kotlin.md"
     },
     {
-      "basename": "_ C Sharp od Podstaw do WPF i XAML",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md"
-    },
-    {
-      "basename": "3 Układ komponentów",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/3 Układ komponentów.md"
-    },
-    {
-      "basename": "2 Aplikacje WPF",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/2 Aplikacje WPF.md"
-    },
-    {
       "basename": "4.4. HTTPS Node",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/4.4. HTTPS Node.md"
     },
     {
       "basename": "_ Intro C++",
       "path": "C++/Beginning C++/_ Intro C++.md"
-    },
-    {
-      "basename": "1 OOP w CSharp",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md"
     },
     {
       "basename": "2 Getting ready with Android Studio",
@@ -195,10 +199,6 @@
     {
       "basename": "_ 0 NodeJS - zostań fullstack",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md"
-    },
-    {
-      "basename": "4.3. pliki statyczne",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/4.3. pliki statyczne.md"
     }
   ],
   "omittedPaths": [],
