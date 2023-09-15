@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
                 "mode": "source",
                 "source": false
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md"
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md"
               }
             }
           },
@@ -260,11 +260,14 @@
   },
   "active": "f447466c422545bd",
   "lastOpenFiles": [
+    "_ WEB/N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/6 Zewnętrzne moduły.md",
+    "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/5 Functions in Android Kotlin.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/8.1 Layouts in Android App.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/8 Android Components.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/7 Intro to Android App Development.md",
-    "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md",
     "methodology/clean code/Structure and Comments.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md",
@@ -283,9 +286,6 @@
     "P Y T H O N/Master_Python_100/_ 0 100 Days of Code 2023.md",
     "JAVASCRIPT/ES refresh.md",
     "middleware.md",
-    "_ WEB/N_O_D_E/Mosh Node/2 Node Package Manager.md",
-    "_ WEB/N_O_D_E/Mosh Node/3.1.1. Recap Building RestFul APIS with Express.md",
-    "methodology/clean code/Functions and Methods.md",
     "methodology/images/daily_change_pandas.png",
     "methodology/images/bar_matplotlib.png",
     "methodology/images/barh_matplotlib.png",

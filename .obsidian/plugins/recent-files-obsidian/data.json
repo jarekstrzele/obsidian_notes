@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "7 Express JS",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md"
+    },
+    {
+      "basename": "_ 0 NodeJS - zostań fullstack",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md"
+    },
+    {
+      "basename": "6 Zewnętrzne moduły",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/6 Zewnętrzne moduły.md"
+    },
+    {
       "basename": "6 Kotlin OOP",
       "path": "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "2 ES6 Refresh",
       "path": "_ WEB/REACT/React Mosh/2 ES6 Refresh.md"
-    },
-    {
-      "basename": "_ 0 React Mosh",
-      "path": "_ WEB/REACT/React Mosh/_ 0 React Mosh.md"
-    },
-    {
-      "basename": "Python grafika żółwia",
-      "path": "_ Desktop/Python/Turtle/Python grafika żółwia.md"
-    },
-    {
-      "basename": "_ 0 NodeJS - zostań fullstack",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md"
     }
   ],
   "omittedPaths": [],
