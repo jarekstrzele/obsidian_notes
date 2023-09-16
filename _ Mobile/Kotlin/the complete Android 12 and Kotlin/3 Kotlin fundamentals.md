@@ -292,7 +292,14 @@ fun avg(x:Double, y:Double) : Double {
 
 ---
 # Nullables
+1965 Tony Blair : nullables are part of  Algol language `null references`
 
+nullables <--> not type
+
+> Kotlin support is null ability as part of its type system:
+> - you can declare whether a variable can hold a null value or not  
+> - so compiler can detect possible null pointer exception errors at compile time and reduce the possibility of having them thrown at runtime
+> - 
 
 
 
