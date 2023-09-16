@@ -337,7 +337,26 @@ fun main(){
 }
 ```
 
-# Elvis Operator - not null assertion
+# Elvis Operator `?:` and not null assertion `!!`
+
+## elvis operator `?:`
+```kotlin
+fun main(){  
+    var nullableName : String? = "Denis"  
+    nullableName = null  
+  
+    //  
+    val name = nullableName ?: "Guest" // if nullable is null, the assign "Gust" to nullableName  
+    println("name is $name")  
+  
+}
+```
+
+
+
+## Not Null Assertion `!!`
+It converts a knowable type to a non null type and throws a null pointer exception if knowable type holds a null value.
+
 
 
 
