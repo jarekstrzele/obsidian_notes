@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/3 Kotlin fundamentals.md",
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.1 Layouts in Android App.md",
                 "mode": "source",
                 "source": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/3 Kotlin fundamentals.md",
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.1 Layouts in Android App.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/3 Kotlin fundamentals.md",
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.1 Layouts in Android App.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/3 Kotlin fundamentals.md"
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.1 Layouts in Android App.md"
               }
             }
           },
@@ -248,6 +248,7 @@
   },
   "active": "ad835814cb745a86",
   "lastOpenFiles": [
+    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/3 Kotlin fundamentals.md",
     "P Y T H O N/Master_Python_100/19 Intances, States, HOF.md",
     "P Y T H O N/Master_Python_100/18 Turtle and the GUI.md",
     "P Y T H O N/Master_Python_100/_ 0 100 Days of Code 2023.md",
@@ -268,7 +269,6 @@
     "C Sharp/C Sharp od Podstaw do WPF i XAML/3 Układ komponentów.md",
     "C Sharp/Fast WFP  C Sharp/_ Fast WFP C Sharp.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/4 Loops in Kotlin.md",
-    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/3 Kotlin fundamentals.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/5 Jak Działa NodeJS.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/3 Control Flow Statements in Kotlin.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/2 Operators in Kotlin.md",

@@ -294,6 +294,9 @@ fun avg(x:Double, y:Double) : Double {
 # Nullables
 1965 Tony Blair : nullables are part of  Algol language `null references`
 
+> Kiedy używasz operatora `?.`, jest to tzw. operator bezpiecznego wywołania. Oznacza to, że jeśli wartość zmiennej `nullableName` jest `null`, to całe wyrażenie zostanie pominięte, a nie wystąpi błąd NullPointerException.
+
+
 nullables <--> not type
 
 > Kotlin support is null ability as part of its type system:
@@ -302,7 +305,37 @@ nullables <--> not type
 > - 
 
 
-
+```kotlin
+package com.example.myapplication_withlaout  
+  
+fun main(){  
+    var name:String = "Denis"  
+    name = "Adam"  
+    // name = null // --> Compilation ERROR  
+  
+    var nullableName : String? = "Denis"  
+    nullableName  = null  
+  
+    // to return a length of the string  
+    var len = name.length // ok  
+  
+    // var len2 = nullableName.length // --> ERROR    // modern solution    var len2 = nullableName?.length  
+// old fashion to resolve that problem  
+//    if(nullableName != null){  
+//        var len2 = nullableName.length  
+//    } else {  
+//     null  
+//    }  
+//    println(nullableName?.lowercase())  
+//      nullableName?.let{ println(it.length)} ?:  
+//     println("Zmienna nullableName ma wertość null")  
+//  
+  
+    nullableName?.let { println(it.length) } ?: println("nullableName is null") // generuje błąd  
+  
+  
+}
+```
 
 
 
