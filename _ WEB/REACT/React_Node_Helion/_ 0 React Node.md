@@ -25,7 +25,11 @@ add to package.json
   }
 ```
 
-## `npm i react  react-dom -S`
+- `"webpack-cli": "5.0.1"` ręcznie dopisałem do `package.json`a, a potem `npm i`, aby do instalował `cli`
+potem: 
+#### `npm i react  react-dom -S`
+czyli doinstalujemy `react` i `react-dom` w trybie deweloperskim oraz trybie produkcyjnym
+
 
 ### Checking `webpack`
 add /src/index.js (`console.log("Hey") ;`)
