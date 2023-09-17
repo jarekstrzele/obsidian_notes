@@ -531,6 +531,59 @@ class Program
 
 --------
 # klasy zagnieżdżone
+```c#
+class Program
+{
+     static void Main(string[] args)
+    {
+        Car car = new Car();
+
+    }
+}
+
+
+class Car
+{
+    private class Engine
+    {
+        public uint Power;
+        public Engine(uint power = 500)
+        { 
+            this.Power = power;
+            Console.WriteLine("I am from the engin constructor");
+        }
+    }
+
+    public Car()
+    {
+        this.engine = new Engine();
+        
+        Console.WriteLine("I am from the car constructor");
+    }
+
+    public uint getPower()
+    {
+        return this.engine.Power;
+    }
+
+    private Engine engine; 
+}
+```
+
+
+
+
+
+
+
+
+# Dziedziczenie
+
+
+
+
+
+
 
 
 
