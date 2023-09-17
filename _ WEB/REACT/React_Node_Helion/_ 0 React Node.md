@@ -1,5 +1,14 @@
 #helion
 
+strona Reacta > stwórz aplikację w REact ->
+Trzy elementy, aby stworzyć aplikację webową:
+- **menadżer pakietów** `npm`, `yarn`
+- **bundler** (np. `webpack`, `parcel`) umożliwia pisanie kodu modułowego i pakowanie go w małe pakiety, aby zoptymalizować czas ładowania
+- **kompilator** (np. `Babel`) pozwala na stosowanie nowych wersji JS przy zachowaniu kompatybilności  ze starszymi przeglądarkami
+
+Zainstaluj dla Windowsa terminal `Conemu`
+
+
 - `npm init -y ` -> package.json (nazwa od folderu)
 - `npm install webpack --save-dev` (tryb deweloperski) (`--save` tylko na produkcji) (`-D` tylko deweloperski tryb, `-S` w każdym trybie)
 

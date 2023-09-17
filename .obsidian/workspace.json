@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ WEB/REACT/React_Node_Helion/2 Pierwsz komponent.md",
+                "file": "_ WEB/REACT/React_Node_Helion/_ 0 React Node.md",
                 "mode": "source",
                 "source": false
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ WEB/REACT/React_Node_Helion/2 Pierwsz komponent.md",
+                "file": "_ WEB/REACT/React_Node_Helion/_ 0 React Node.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ WEB/REACT/React_Node_Helion/2 Pierwsz komponent.md",
+                "file": "_ WEB/REACT/React_Node_Helion/_ 0 React Node.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ WEB/REACT/React_Node_Helion/2 Pierwsz komponent.md"
+                "file": "_ WEB/REACT/React_Node_Helion/_ 0 React Node.md"
               }
             }
           },
@@ -260,6 +260,7 @@
   },
   "active": "31034a9f465e43ac",
   "lastOpenFiles": [
+    "_ WEB/REACT/React_Node_Helion/2 Pierwsz komponent.md",
     "_ WEB/REACT/React_Node_Helion/_ 0 React Node.md",
     "_ WEB/N_O_D_E/Lear Node.js and Javascript/docker mysql node phpmyadmin.md",
     "_ WEB/N_O_D_E/Lear Node.js and Javascript/- 5 Stock Market App with Node and JavaScript.md",
@@ -285,7 +286,6 @@
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/2 Aplikacje WPF.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/3 Układ komponentów.md",
     "methodology/images/daily_change_pandas.png",
     "methodology/images/bar_matplotlib.png",
     "methodology/images/barh_matplotlib.png",
