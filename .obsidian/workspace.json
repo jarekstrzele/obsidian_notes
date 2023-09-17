@@ -45,9 +45,11 @@
             "id": "31034a9f465e43ac",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.13"
+                "file": "_ WEB/REACT/React_Node_Helion/2 Pierwsz komponent.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -158,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/3 Kotlin fundamentals.md",
+                "file": "_ WEB/REACT/React_Node_Helion/2 Pierwsz komponent.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -175,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/3 Kotlin fundamentals.md",
+                "file": "_ WEB/REACT/React_Node_Helion/2 Pierwsz komponent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/3 Kotlin fundamentals.md"
+                "file": "_ WEB/REACT/React_Node_Helion/2 Pierwsz komponent.md"
               }
             }
           },
@@ -258,6 +260,13 @@
   },
   "active": "31034a9f465e43ac",
   "lastOpenFiles": [
+    "_ WEB/REACT/React_Node_Helion/_ 0 React Node.md",
+    "_ WEB/N_O_D_E/Lear Node.js and Javascript/docker mysql node phpmyadmin.md",
+    "_ WEB/N_O_D_E/Lear Node.js and Javascript/- 5 Stock Market App with Node and JavaScript.md",
+    "_ WEB/N_O_D_E/Lear Node.js and Javascript/- 4 MySQL with Node.js.md",
+    "_ WEB/N_O_D_E/Lear Node.js and Javascript/- 3 Node.md",
+    "_ WEB/N_O_D_E/Lear Node.js and Javascript/- 2 JavaScript.md",
+    "_ WEB/N_O_D_E/Lear Node.js and Javascript/_ Node and JavaScript.md",
     "methodology/clean code/Structure and Comments.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/8.1 Layouts in Android App.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin/3 Kotlin fundamentals.md",
@@ -277,13 +286,6 @@
     "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/2 Aplikacje WPF.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/3 Układ komponentów.md",
-    "C Sharp/Fast WFP  C Sharp/_ Fast WFP C Sharp.md",
-    "_ Mobile/Kotlin/the complete Android Kotlin/4 Loops in Kotlin.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/5 Jak Działa NodeJS.md",
-    "_ Mobile/Kotlin/the complete Android Kotlin/3 Control Flow Statements in Kotlin.md",
-    "_ Mobile/Kotlin/the complete Android Kotlin/2 Operators in Kotlin.md",
-    "_ Mobile/Kotlin/the complete Android Kotlin/1 Fundamentals of Kotlin.md",
-    "JAVASCRIPT/ES refresh.md",
     "methodology/images/daily_change_pandas.png",
     "methodology/images/bar_matplotlib.png",
     "methodology/images/barh_matplotlib.png",
