@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "3 Kotlin fundamentals",
+      "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/3 Kotlin fundamentals.md"
+    },
+    {
+      "basename": "2 Getting ready with Android Studio",
+      "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/2 Getting ready with Android Studio.md"
+    },
+    {
       "basename": "3 Control Flow Statements in Kotlin",
       "path": "_ Mobile/Kotlin/the complete Android Kotlin/3 Control Flow Statements in Kotlin.md"
     },
     {
       "basename": "2 Operators in Kotlin",
       "path": "_ Mobile/Kotlin/the complete Android Kotlin/2 Operators in Kotlin.md"
-    },
-    {
-      "basename": "3 Kotlin fundamentals",
-      "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/3 Kotlin fundamentals.md"
     },
     {
       "basename": "_ 0 React Node",
@@ -195,10 +199,6 @@
     {
       "basename": "JSON",
       "path": "JSON.md"
-    },
-    {
-      "basename": "1 Node Module System",
-      "path": "_ WEB/N_O_D_E/Mosh Node/1 Node Module System.md"
     }
   ],
   "omittedPaths": [],
