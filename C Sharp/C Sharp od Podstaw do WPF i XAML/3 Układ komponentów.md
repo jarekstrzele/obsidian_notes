@@ -226,12 +226,41 @@ Jak `StackPanel`, ale zawija elementy (np. wyświetlanie zdjęć)
 # DockPanel
 #sharp/wfp/dock_panel
 ważna jest kolejność ustawiania elementów
+` <DockPanel LastChildFill="True">` wartość "True" jest domyślna
+
+```xml
+ <DockPanel LastChildFill="True">
+     <Button DockPanel.Dock="Top">Menu górne </Button>
+     <Button DockPanel.Dock="Bottom">Footer</Button>
+
+     <Button DockPanel.Dock="Left" Width="100">Left </Button>
+     <Button DockPanel.Dock="Right">Right </Button>
+     <Button>Center</Button>
+     <!-- a to jest komentarz 
+             wielo linniowy
+     -->
+ </DockPanel>
+```
 
 
+# Canvas
+używamy, gdy wiemy, o stałym położeniu elementu `x,y`
+`<Canvas>` ustawia elementy relatywnie, samo jest relatywne do swojego rodzica, czyli `<Window>` (lub innego tagu)
+
+napisz ten kod raz z `Grid` a raz bez
+```xml
+<Grid Width="250">
+ <Canvas>
+  <Button Content="Button" Canvas.Left="400" Canvas.Top="114" HorizontalAlignment="Center" Height="30" VerticalAlignment="Top" Width="80"/>
+  <Button Content="Button" Canvas.Left="400" Canvas.Top="144" Height="30" Width="80" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+  <Button Content="Button" Canvas.Left="400" Canvas.Top="174" Height="30" Width="80"/>
+
+ </Canvas>   
+</Grid>
+```
 
 
-
-
+# ScrollViewer
 
 
 
