@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/3 Kotlin fundamentals.md",
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/3 Kotlin fundamentals.md",
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/3 Kotlin fundamentals.md",
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/3 Kotlin fundamentals.md"
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md"
               }
             }
           },
@@ -268,8 +268,9 @@
   },
   "active": "31034a9f465e43ac",
   "lastOpenFiles": [
-    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/2 Getting ready with Android Studio.md",
+    "_ Mobile/Kotlin/the complete Android Kotlin/5 Functions in Android Kotlin.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin/3 Kotlin fundamentals.md",
+    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/2 Getting ready with Android Studio.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/3 Control Flow Statements in Kotlin.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/2 Operators in Kotlin.md",
     "_ WEB/REACT/React_Node_Helion/_ 0 React Node.md",
@@ -293,7 +294,6 @@
     "_ WEB/N_O_D_E/Mosh Node/3 RESTful API's using Express.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/6 Zewnętrzne moduły.md",
     "methodology/images/daily_change_pandas.png",
     "methodology/images/bar_matplotlib.png",
     "methodology/images/barh_matplotlib.png",
