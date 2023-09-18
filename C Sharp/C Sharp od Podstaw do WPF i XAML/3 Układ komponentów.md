@@ -261,10 +261,23 @@ napisz ten kod raz z `Grid` a raz bez
 
 
 # ScrollViewer
+np. gdy chcemy zawijać tekst, który wychodzi poza okienko
+```xml
+  <Grid >
+      <TextBlock TextWrapping="Wrap">fwoeij fwioefw[eofiw[eoif feow[if [woeimewofm[weofm wemf[woefim fmfwoeifj  efmweoifweoifwmeofimweoifm
+      </TextBlock>
+  </Grid>
+```
 
-
-
-
+lub używamy scroll
+```xml
+  <Grid >
+      <ScrollViewer VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto">
+          <TextBlock >fwoeij fwioefw[eofiw[eoif feow[if [woeimewofm[weofm wemf[woefim fmfwoeifj  efmweoifweoifwmeofimweoifm
+          </TextBlock>
+      </ScrollViewer>
+  </Grid>
+```
 
 
 
