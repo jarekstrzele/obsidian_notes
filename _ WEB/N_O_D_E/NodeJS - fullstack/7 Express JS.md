@@ -62,11 +62,44 @@ app.listen(9090, ()=>console.log("localhost:9090"))
 ```
 
 # Routing zapytań
+>W kodzie programu w języku Node.js, wyrażenie `${JSON.stringify(req.query, null, 4)}` jest używane do przekształcenia obiektu `req.query` w postać tekstową w formacie JSON.
+```js
+const express = require("express")
+const app = express()
 
+app.get('/', (req,res)=>{
+    res.send("Witaj świecie")
+})
 
+app.get('/o-nas', (req,res)=>{
+    res.send("o nas")
+})
 
-takie adres nie zadziała, bo brakuje `:id` : `http://localhost:9090/2023-09-11`
+//dynamiczne parametry
+app.get('/blog/:date/:id', (req,res)=>{
+   res.send(`
+      wpis o id ${req.params.id} utworzony ${req.params.date}
+      //JSON.stringifu()
+       <pre>${JSON.stringify(req.query, null, 4)}</pre>
+         
+     `)
+})
 
+app.listen(9090, ()=>console.log("localhost:9090"))
+```
+takie adres nie zadziała, bo brakuje `:id` : `http://localhost:9090/blog/2023-09-11`
+
+ten adres zadziała:
+`http://localhost:9090/blog/2023-09-11/2` -- wyświetli -> `wpis o id 2 utworzony 2023-09-11`
+
+a na request `http://localhost:9090/blog/2023-09-11/22?mojKlucz=mojaWratosc` -- zwraca-->
+```
+wpis o id 22 utworzony 2023-09-11
+
+{
+    "mojKlucz": "mojaWratosc"
+}
+```
 
 
 
