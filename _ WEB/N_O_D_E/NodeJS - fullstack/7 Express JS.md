@@ -76,12 +76,13 @@ app.get('/o-nas', (req,res)=>{
 })
 
 //dynamiczne parametry
+// JSON.stringify() przekształca obiekt JS w tekst w formacie JSON
+// req.query - obiekt zawierający parametry zapytania przekazane w adresie URL
 app.get('/blog/:date/:id', (req,res)=>{
    res.send(`
-      wpis o id ${req.params.id} utworzony ${req.params.date}
-      //JSON.stringifu()
-       <pre>${JSON.stringify(req.query, null, 4)}</pre>
-         
+    wpis o id ${req.params.id} utworzony ${req.params.date}
+    <pre>${JSON.stringify(req.query, null, 4)}</pre>
+    <p>${JSON.stringify(req.query.mojKlucz, null, 4)}</p>     
      `)
 })
 
@@ -99,10 +100,13 @@ wpis o id 22 utworzony 2023-09-11
 {
     "mojKlucz": "mojaWratosc"
 }
+"mojaWratosc"
 ```
 
 
+# Korzystanie z szablonów
 
+### `templating engines`
 
 
 
