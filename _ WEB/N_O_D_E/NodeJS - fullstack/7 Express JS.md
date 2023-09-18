@@ -40,6 +40,41 @@ app.listen(9090, ()=>console.log("localhost:9090"))
 sprawdź na adresie `/` (*sieć*) oraz na fałszywym adresie (`/noctam`)
 
 # Serwowanie statycznych plików
+```js
+const express = require("express")
+const app = express()
+
+//app.use( someFun) - someFun będzie wykonywana dla każdego zapytania przed
+// - w naszym przypadku - wykonaniem res.send("Witaj świecie")
+
+// w projekcie mam folder /public/ w którym
+// jest index.html
+// oraz podfolder CSS z css
+app.use( express.static("public")) //some ExpressJS będzie dbał o poprawne type MIM
+
+app.disable("X-Powered-By")
+
+app.get('/', (req,res)=>{
+    res.send("Witaj świecie") // to nie będzie brane pod uwagę
+})  
+
+app.listen(9090, ()=>console.log("localhost:9090"))
+```
+
+# Routing zapytań
+
+
+
+takie adres nie zadziała, bo brakuje `:id` : `http://localhost:9090/2023-09-11`
+
+
+
+
+
+
+
+
+
 
 
 
