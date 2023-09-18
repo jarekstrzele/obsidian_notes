@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/3 Kotlin fundamentals.md",
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/2 Operators in Kotlin.md",
                 "mode": "source",
                 "source": false
               }
@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ WEB/REACT/React_Node_Helion/_ 0 React Node.md",
+                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/3 Kotlin fundamentals.md",
                 "mode": "source",
                 "source": false
               }
@@ -76,8 +76,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "97d3a6947aef8be1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -159,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/2 Operators in Kotlin.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -176,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/2 Operators in Kotlin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md"
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/2 Operators in Kotlin.md"
               }
             }
           },
@@ -257,14 +266,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8891a4505df5b1af",
+  "active": "da954aa19a1a4216",
   "lastOpenFiles": [
+    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/3 Kotlin fundamentals.md",
+    "_ WEB/REACT/React_Node_Helion/_ 0 React Node.md",
+    "_ Mobile/Kotlin/the complete Android Kotlin/2 Operators in Kotlin.md",
+    "_ Mobile/Kotlin/the complete Android Kotlin/1 Fundamentals of Kotlin.md",
+    "_ Mobile/Kotlin/the complete Android Kotlin/3 Control Flow Statements in Kotlin.md",
+    "_ Mobile/Kotlin/the complete Android Kotlin/4 Loops in Kotlin.md",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/8.1 Layouts in Android App.md",
     "P Y T H O N/Master_Python_100/19 Intances, States, HOF.md",
     "P Y T H O N/Master_Python_100/18 Turtle and the GUI.md",
     "JAVASCRIPT/ES refresh.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
-    "_ WEB/REACT/React_Node_Helion/_ 0 React Node.md",
     "_ WEB/REACT/React_Node_Helion/2 Pierwsz komponent.md",
     "_ WEB/N_O_D_E/Lear Node.js and Javascript/docker mysql node phpmyadmin.md",
     "_ WEB/N_O_D_E/Lear Node.js and Javascript/- 5 Stock Market App with Node and JavaScript.md",
@@ -273,7 +287,6 @@
     "_ WEB/N_O_D_E/Lear Node.js and Javascript/- 2 JavaScript.md",
     "_ WEB/N_O_D_E/Lear Node.js and Javascript/_ Node and JavaScript.md",
     "methodology/clean code/Structure and Comments.md",
-    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/3 Kotlin fundamentals.md",
     "P Y T H O N/Master_Python_100/_ 0 100 Days of Code 2023.md",
     "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
     "_ WEB/N_O_D_E/Mosh Node/3 RESTful API's using Express.md",
@@ -281,10 +294,6 @@
     "_ WEB/N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/6 Zewnętrzne moduły.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md",
-    "_ Mobile/Kotlin/the complete Android Kotlin/5 Functions in Android Kotlin.md",
-    "_ Mobile/Kotlin/the complete Android Kotlin/8 Android Components.md",
-    "_ Mobile/Kotlin/the complete Android Kotlin/7 Intro to Android App Development.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md",
     "methodology/images/daily_change_pandas.png",
     "methodology/images/bar_matplotlib.png",
     "methodology/images/barh_matplotlib.png",
