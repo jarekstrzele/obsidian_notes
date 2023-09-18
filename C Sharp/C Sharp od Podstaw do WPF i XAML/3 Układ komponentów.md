@@ -223,4 +223,23 @@ Jak `StackPanel`, ale zawija elementy (np. wyświetlanie zdjęć)
 `<WrapPanel Orientation="Horizontal">`
 
 
+# DockPanel
+#sharp/wfp/dock_panel
+ważna jest kolejność ustawiania elementów
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
