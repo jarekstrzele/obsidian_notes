@@ -276,9 +276,23 @@ lub używamy scroll
   </Grid>
 ```
 
+# Expander
+#csharp/wpf/expander
+```c#
+<Grid >
+    <Expander Header="Dlaczego Qt jest lepszy od WPF?" Margin="5,5,5,5" IsExpanded="True">
+        <StackPanel>
+            <TextBlock>Bo jest fajny</TextBlock>
+            <TextBlock>Bo jest lepszy</TextBlock>
+            <TextBlock>Bo jest ładniejszy</TextBlock>
+        </StackPanel>
+        
+    </Expander>
+</Grid>
+```
 
 
-
+# RadioButton, GroupBox, Label
 
 
 
