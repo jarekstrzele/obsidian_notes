@@ -295,7 +295,7 @@ lub używamy scroll
 # RadioButton, GroupBox, Label
 
 ```c#
-<Grid >
+<StackPanel >
     <StackPanel>
         <Label FontWeight="Bold">Czy uważasz, że Python jest lepszy od C#?</Label>
         <RadioButton>tak</RadioButton>
@@ -308,12 +308,12 @@ lub używamy scroll
         <RadioButton>słodki napój</RadioButton>
     </StackPanel>
 
-</Grid>
+</StackPanel>
 ```
 BŁĄD: `Radiobuttony` są ze sobą połączone -- rozwiązanie --> użyj `GroupName
 
-```c#
-<Grid >
+```xml
+<StackPanel >
     <StackPanel>
         <Label FontWeight="Bold">Czy uważasz, że Python jest lepszy od C#?</Label>
         <RadioButton GroupName="PythonVSC#">tak</RadioButton>
@@ -326,11 +326,36 @@ BŁĄD: `Radiobuttony` są ze sobą połączone -- rozwiązanie --> użyj `Group
         <RadioButton GroupName="napojNaOstrosc#">słodki napój</RadioButton>
     </StackPanel>
 
-</Grid>
+</StackPanel>
 ```
 
 lub grupy zamknij w oddzielnych `GroupBox`
+```xml
+<StackPanel >
+    <GroupBox Margin="10">
+        <GroupBox.Header>
+            <Bold>Czy Python jest lepszy od C#?</Bold>            
+        </GroupBox.Header>
+        <StackPanel>
+            <RadioButton>tak</RadioButton>
+            <RadioButton >nie</RadioButton>
+            <RadioButton >nie wiem</RadioButton>
+        </StackPanel>
+    </GroupBox>
 
+    <GroupBox Margin="10">
+        <GroupBox.Header>
+            <Bold>Który napój łagodzi ból po ostrym posiłku?</Bold>
+        </GroupBox.Header>
+        <StackPanel>
+            <RadioButton>mleko</RadioButton>
+            <RadioButton>woda</RadioButton>
+            <RadioButton>słodki napój</RadioButton>
+        </StackPanel>
+    </GroupBox>
+
+</StackPanel>
+```
 
 
 
