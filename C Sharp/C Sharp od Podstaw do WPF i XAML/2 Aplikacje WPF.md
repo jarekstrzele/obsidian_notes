@@ -39,9 +39,7 @@ w `App.xaml`:
 ```
 
  `StartupUri="MainWindow.xaml">`  od czego ma zacząć się aplikacja
-
  zmiana nazw przez `refactor` z menu podręcznego
-
 
 ---
 # Najważniejsze pojęcia
@@ -50,7 +48,6 @@ w `xaml` `<...>` to znacznik, gałąź, więzeł, bo cały dokument xamla jest j
 relacja `rodzic <--> dziecko`
 
 skrót `ctr+alt+x` otwiera Toolbox/Przybornik
-
 
 Instalaca programu do podglądania struktury i logiki aplikacji WPF: *Snoop* https://github.com/snoopwpf/snoopwpf
 #snoop 
@@ -68,7 +65,7 @@ DODAWANIE ELEMENTÓW do OKIENKA:
  > Atrybut `x:Name` służy do nadawania nazw elementom w interfejsie użytkownika, aby można było do nich odwoływać się programowo w kodzie C#.
 
 	 - w pliku `MainWindow.xaml.cs`
-	 - 
+	  
 ```c#
 	InitializeComponent();
 
