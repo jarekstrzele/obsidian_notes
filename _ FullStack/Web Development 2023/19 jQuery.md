@@ -49,7 +49,7 @@ you can minify your `js` or `css` code:  https://www.minifier.org/
 ## select
 `$("h1")` means select all `h1` in your web page
 
-## manipulate
+## manipulate the css style
 `$("button").css("color")` this is the **getter** (give me a value of the attribute `color`)
 `$("button").css("color", "blue")` this is the **setter** (set the attribute `color` to "blue")
 
@@ -57,13 +57,39 @@ to **separate** styles from the js code you can do:
 - add `style.css` to your project
 ```css
 .big-title{
-	font-size:32,
-	fo
+    font-size: 32;
+    color: cadetblue;
+    font-family: 'Franklin Gothic Medium';
+}
+```
+- add to `index.html` ` <link rel="stylesheet" href="style.css">`
+- add to `index.js` 
+`$("h1").addClass("bit-title")`
+
+```css
+.big-title{
+    font-size: 5rem;
+    color: cadetblue;
+    font-family: 'Franklin Gothic Medium';
+}
+.margin-50{
+    margin:50px;
 }
 ```
 
+add two classes 
+```js
+$("h1").addClass("big-title margin-50")
+```
 
 
+in the console you can check other methods:
+`$("h1").removeClass("margin-50")` remove the klas
+`$("h1").hasClass("margin-50")`
+
+
+
+## Manipulate text
 
 
 
