@@ -49,7 +49,7 @@ you can minify your `js` or `css` code:  https://www.minifier.org/
 ## select
 `$("h1")` means select all `h1` in your web page
 
-## manipulate the css style
+## Manipulatint the css style
 `$("button").css("color")` this is the **getter** (give me a value of the attribute `color`)
 `$("button").css("color", "blue")` this is the **setter** (set the attribute `color` to "blue")
 
@@ -89,7 +89,17 @@ in the console you can check other methods:
 
 
 
-## Manipulate text
+## Manipulating text
+`.text()` zmiana tekstu, nie rozpoznaje znaczników html
+`.html()` zmiana tekstu, rozpoznaje znaczniki htlm
+
+```js
+$("h1").text("Nowy tytuł")
+$("button").html("<em> Cliiiiick him </em>")
+```
+
+
+# Manipulating attributes
 
 
 
