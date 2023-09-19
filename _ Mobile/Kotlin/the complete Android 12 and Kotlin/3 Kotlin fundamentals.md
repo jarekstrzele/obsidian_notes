@@ -346,6 +346,10 @@ println(len)
 # Elvis Operator `?:` and not null assertion `!!`
 
 ## elvis operator `?:`
+>   
+Operator [Elvis](https://www.google.com/search?q=Elvis) `?:` w języku [Kotlin](https://www.google.com/search?q=Kotlin) nazywany jest również operatorem "null coalescing". Jest to skrócony zapis warunkowego wyrażenia, które zwraca wartość po lewej stronie, jeśli nie jest ona null, lub wartość po prawej stronie, jeśli wartość po lewej stronie jest null.
+
+
 ```kotlin
 fun main(){  
     var nullableName : String? = "Denis"  
@@ -363,7 +367,7 @@ fun main(){
 ## Not Null Assertion `!!`
 It converts a knowable type to a non null type and throws a null pointer exception if knowable type holds a null value.
 
-
+>Kiedy używasz operatora Not Null Assertion `!!`, mówisz kompilatorowi, że jesteś pewien, że zmienna nie jest null, i że chcesz ją użyć bez sprawdzania nullability. Jeśli jednak zmienna jest faktycznie null, zostanie zgłoszony wyjątek typu `NullPointerException`.
 
 
 
