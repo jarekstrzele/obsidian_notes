@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "4. OOP Kotlin",
+      "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/4. OOP Kotlin.md"
+    },
+    {
+      "basename": "_ the complete Android 12",
+      "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/_ the complete Android 12.md"
+    },
+    {
       "basename": "3 Kotlin fundamentals",
       "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/3 Kotlin fundamentals.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Clean Code Names",
       "path": "methodology/clean code/Clean Code Names.md"
-    },
-    {
-      "basename": "Classes and Data Structures",
-      "path": "methodology/clean code/Classes and Data Structures.md"
-    },
-    {
-      "basename": "_ Clean Code",
-      "path": "methodology/clean code/_ Clean Code.md"
     }
   ],
   "omittedPaths": [],
