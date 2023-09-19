@@ -44,7 +44,23 @@ you can use `mini-jquery`
 you can minify your `js` or `css` code:  https://www.minifier.org/
 
 
-# Selecting elements with jQuery
+# Select and Manipulate elements with jQuery
+
+## select
+`$("h1")` means select all `h1` in your web page
+
+## manipulate
+`$("button").css("color")` this is the **getter** (give me a value of the attribute `color`)
+`$("button").css("color", "blue")` this is the **setter** (set the attribute `color` to "blue")
+
+to **separate** styles from the js code you can do:
+- add `style.css` to your project
+```css
+.big-title{
+	font-size:32,
+	fo
+}
+```
 
 
 
