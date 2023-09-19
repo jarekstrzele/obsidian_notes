@@ -337,6 +337,12 @@ fun main(){
 }
 ```
 
+```kotlin
+var name: String? = null  
+var len = name?.length  
+  
+println(len)
+```
 # Elvis Operator `?:` and not null assertion `!!`
 
 ## elvis operator `?:`
