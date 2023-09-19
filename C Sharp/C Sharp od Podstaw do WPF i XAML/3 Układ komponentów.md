@@ -294,5 +294,45 @@ lub używamy scroll
 
 # RadioButton, GroupBox, Label
 
+```c#
+<Grid >
+    <StackPanel>
+        <Label FontWeight="Bold">Czy uważasz, że Python jest lepszy od C#?</Label>
+        <RadioButton>tak</RadioButton>
+        <RadioButton>nie</RadioButton>
+        <RadioButton>nie wiem</RadioButton>
+    
+        <Label FontWeight="Bold">Który produkt minimalizuje pieczenie po ostrych przyprawach?</Label>
+        <RadioButton>mleko</RadioButton>
+        <RadioButton>woda</RadioButton>
+        <RadioButton>słodki napój</RadioButton>
+    </StackPanel>
+
+</Grid>
+```
+BŁĄD: `Radiobuttony` są ze sobą połączone -- rozwiązanie --> użyj `GroupName
+
+```c#
+<Grid >
+    <StackPanel>
+        <Label FontWeight="Bold">Czy uważasz, że Python jest lepszy od C#?</Label>
+        <RadioButton GroupName="PythonVSC#">tak</RadioButton>
+        <RadioButton GroupName="PythonVSC#">nie</RadioButton>
+        <RadioButton GroupName="PythonVSC#">nie wiem</RadioButton>
+    
+        <Label FontWeight="Bold">Który produkt minimalizuje pieczenie po ostrych przyprawach?</Label>
+        <RadioButton GroupName="napojNaOstrosc" >mleko</RadioButton>
+        <RadioButton GroupName="napojNaOstrosc#">woda</RadioButton>
+        <RadioButton GroupName="napojNaOstrosc#">słodki napój</RadioButton>
+    </StackPanel>
+
+</Grid>
+```
+
+lub grupy zamknij w oddzielnych `GroupBox`
+
+
+
+
 
 
