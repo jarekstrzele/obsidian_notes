@@ -13,6 +13,42 @@ John Resig  invented a library jQuery
 > make `index.html` and and just before `</body>` this code `<script src="index.js " charset="utf-8"> </script>`
 > in `index.js` write `alert("Work!")` to verify that our `html` and `js` are connected
 
+now my `index.js` only contains `$("h1").css("color", "red")` 
+and in my `index.html`:
+```html
+<!-- ....
+
+-->
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+
+        <script src="index.js " charset="utf-8"> </script>
+
+    </body>
+
+</html>
+
+```
+
+if you place jQuery in the `<head>`, you have to add to your `.js`
+```js
+$(document).ready(
+
+    $("h1").css("color", "blue")
+
+)
+```
+if `document` have been read, you can start `jQuery` library
+
+you can use `mini-jquery`
+you can minify your `js` or `css` code:  https://www.minifier.org/
+
+
+# Selecting elements with jQuery
+
+
+
+
 
 
 
