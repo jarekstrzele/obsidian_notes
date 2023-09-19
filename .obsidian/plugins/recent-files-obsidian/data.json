@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "19 jQuery",
+      "path": "_ FullStack/Web Development 2023/19 jQuery.md"
+    },
+    {
+      "basename": "_ 0 start",
+      "path": "_ FullStack/Web Development 2023/_ 0 start.md"
+    },
+    {
+      "basename": "5 Bootstrap",
+      "path": "_ FullStack/Web Development 2023/5 Bootstrap.md"
+    },
+    {
+      "basename": "_ 0 100 Days of Code 2023",
+      "path": "P Y T H O N/Master_Python_100/_ 0 100 Days of Code 2023.md"
+    },
+    {
       "basename": "3 Układ komponentów",
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/3 Układ komponentów.md"
     },
@@ -125,10 +141,6 @@
       "path": "methodology/clean code/Structure and Comments.md"
     },
     {
-      "basename": "_ 0 100 Days of Code 2023",
-      "path": "P Y T H O N/Master_Python_100/_ 0 100 Days of Code 2023.md"
-    },
-    {
       "basename": "_ 0 NodeJS - zostań fullstack",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "_ Clean Code",
       "path": "methodology/clean code/_ Clean Code.md"
-    },
-    {
-      "basename": "static type",
-      "path": "static type.md"
-    },
-    {
-      "basename": "Scieżki uczenia się",
-      "path": "Scieżki uczenia się.md"
-    },
-    {
-      "basename": "JSON",
-      "path": "JSON.md"
     }
   ],
   "omittedPaths": [],
