@@ -28,7 +28,6 @@ lewy górny róg to `row=0, column=0`
 prostokąt będzie w lewym górnym rogu
 domyślnie siatka dzielona jest proporcjonalnie
 
-
 ```xml
   ...
    <RowDefinition Height="250"/>
@@ -47,7 +46,6 @@ domyślnie siatka dzielona jest proporcjonalnie
 
 ==`<RowDefinition Height="Auto"/>` wysokość wiersza dopasowuje do elementów, które w nim występują
 jeżeli element występujący w środku nie ma zdefiniowanej wysokości, to zostanie "skasowany"==
-
 
 ## Margin, Padding, Span
 elementy wewnątrz `Grid` mają `Margin`, `Padding`
@@ -104,7 +102,6 @@ Rozpinanie na więcej niż jedną kolumnę `Grid.ColumnSpan="<number>"`
 -------
 # Grid Splitter (rozdzielacz)
 
-
 ## rozkład proporcjonalny
 ```xml
  <Grid>
@@ -129,7 +126,7 @@ Rozpinanie na więcej niż jedną kolumnę `Grid.ColumnSpan="<number>"`
 podział proporcjonalny, czyli druga kolumna ma być trzy razy większa niż pierwsza
 
 ## splitter pionowy
-Dodać do `xaml` >`<Gird>` > ` <GridSplitter Width="3" Background="DarkCyan" />` (`Width` jest konieczny, z automoatu w row=0, clomun=0)
+Dodać do `xaml` >`<Gird>` > ` <GridSplitter Width="3" Background="DarkCyan" />` (`Width` jest konieczny, z automatu w row=0, columun=0)
 
 ```xml
 <GridSplitter Grid.Column="1" Width="3" Background="DarkCyan" HorizontalAlignment="Left" />
