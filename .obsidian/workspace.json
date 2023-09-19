@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8891a4505df5b1af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9398a4fe4cb25f42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0108e8e546f3f94d",
             "type": "leaf",
             "state": {
@@ -76,33 +52,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ad835814cb745a86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "57a085f2b8fe0a8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
