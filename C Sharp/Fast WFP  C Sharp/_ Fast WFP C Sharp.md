@@ -12,6 +12,13 @@ The `xaml` file is for saving the design of my form
 
 `MainWindow.xaml.cs` all of the logics and codes or user generated codes are inside this file
 
+--------
+## Window
+WINDOW -- you can change: size, colour, border, icon, cursor, title, isEnable, Visibility
+
+`WindowStartUpLocation` :`CenterScreen`
+
+
 
 
 
