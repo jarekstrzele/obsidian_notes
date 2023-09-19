@@ -10,5 +10,10 @@ John Resig  invented a library jQuery
 `https://jquery.com/download/` CDN from Google 
 `https://developers.google.com/speed/libraries?hl=pl#jquery`
 
+> make `index.html` and and just before `</body>` this code `<script src="index.js " charset="utf-8"> </script>`
+> in `index.js` write `alert("Work!")` to verify that our `html` and `js` are connected
+
+
+
 
 
