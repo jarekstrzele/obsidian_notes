@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "ES refresh",
+      "path": "JAVASCRIPT/ES refresh.md"
+    },
+    {
       "basename": "19 jQuery",
       "path": "_ FullStack/Web Development 2023/19 jQuery.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "- 3 Node",
       "path": "_ WEB/N_O_D_E/Lear Node.js and Javascript/- 3 Node.md"
-    },
-    {
-      "basename": "- 2 JavaScript",
-      "path": "_ WEB/N_O_D_E/Lear Node.js and Javascript/- 2 JavaScript.md"
     }
   ],
   "omittedPaths": [],

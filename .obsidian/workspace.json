@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ FullStack/Web Development 2023/19 jQuery.md",
+                "file": "JAVASCRIPT/ES refresh.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,8 +104,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -125,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ FullStack/Web Development 2023/19 jQuery.md",
+                "file": "JAVASCRIPT/ES refresh.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -142,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ FullStack/Web Development 2023/19 jQuery.md",
+                "file": "JAVASCRIPT/ES refresh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ FullStack/Web Development 2023/19 jQuery.md"
+                "file": "JAVASCRIPT/ES refresh.md"
               }
             }
           },
@@ -225,6 +224,7 @@
   },
   "active": "31034a9f465e43ac",
   "lastOpenFiles": [
+    "_ FullStack/Web Development 2023/19 jQuery.md",
     "_ FullStack/Web Development 2023/_ 0 start.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin/4. OOP Kotlin.md",
@@ -250,7 +250,6 @@
     "P Y T H O N/Data Science BootCamp od A do Z 2022/NumPy/NumPy tablice.md",
     "P Y T H O N/Data Science BootCamp od A do Z 2022/NumPy/NumPy indeksowanie wycinanie.md",
     "P Y T H O N/Data Science BootCamp od A do Z 2022/NumPy/Numpy liczby pseudolosowe.md",
-    "P Y T H O N/Data Science BootCamp od A do Z 2022/NumPy/Numpy macierze.md",
     "methodology/images/daily_change_pandas.png",
     "methodology/images/bar_matplotlib.png",
     "methodology/images/barh_matplotlib.png",
