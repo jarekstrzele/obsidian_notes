@@ -59,7 +59,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/moddleware.excalidraw.md"
+                "file": "Excalidraw/middleware_Draw.excalidraw.md"
               }
             }
           },
@@ -81,14 +81,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "P Y T H O N/Data Science BootCamp od A do Z 2022/Wizualizacja danych/Plotly express tworzenie animacji.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "P Y T H O N/Data Science BootCamp od A do Z 2022/Wizualizacja danych/Plotly express tworzenie animacji.md",
+                "file": "_ WEB/N_O_D_E/NODE - the complete guide/5 Working with Express.js.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "P Y T H O N/Data Science BootCamp od A do Z 2022/Wizualizacja danych/Plotly express tworzenie animacji.md",
+                "file": "_ WEB/N_O_D_E/NODE - the complete guide/5 Working with Express.js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "P Y T H O N/Data Science BootCamp od A do Z 2022/Wizualizacja danych/Plotly express tworzenie animacji.md"
+                "file": "_ WEB/N_O_D_E/NODE - the complete guide/5 Working with Express.js.md"
               }
             }
           },
@@ -268,8 +268,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0c063ca9a2f667a1",
+  "active": "b4351854ae2ee129",
   "lastOpenFiles": [
+    "Excalidraw/middleware_Draw.excalidraw.md",
+    "_ WEB/N_O_D_E/NODE - the complete guide/5 Working with Express.js.md",
+    "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
+    "Untitled.md",
+    "P Y T H O N/Data Science BootCamp od A do Z 2022/Wizualizacja danych/Plotly express tworzenie animacji.md",
     "P Y T H O N/Data Science BootCamp od A do Z 2022/Wizualizacja danych/Plotly express mapy.md",
     "P Y T H O N/Data Science BootCamp od A do Z 2022/uczenie maszynowe/Klasyfikacja binarna - Macierz konfuzji.md",
     "P Y T H O N/Data Science BootCamp od A do Z 2022/uczenie maszynowe/Klasyfikacja binarna - ROC.md",
@@ -290,12 +295,7 @@
     "P Y T H O N/Data Science BootCamp od A do Z 2022/NumPy/konfiguracja środowska.md",
     "P Y T H O N/Data Science BootCamp od A do Z 2022/NumPy/0-NumPy wprowadzenie.md",
     "P Y T H O N/Advanced Python_Youtube/_ 0 Advenced Python.md",
-    "_ WEB/N_O_D_E/NODE - the complete guide/5 Working with Express.js.md",
     "middleware.md",
-    "Excalidraw/moddleware.excalidraw.md",
-    "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
-    "_ WEB/N_O_D_E/NODE - the complete guide/_0 Node Complete Guide.md",
-    "_ WEB/N_O_D_E/NODE - the complete guide/3 Node Basics.md",
     "methodology/images/daily_change_pandas.png",
     "methodology/images/bar_matplotlib.png",
     "methodology/images/barh_matplotlib.png",

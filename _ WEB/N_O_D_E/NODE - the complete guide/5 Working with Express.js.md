@@ -28,8 +28,13 @@ app.listen(8080, ()=>console.log("Server is running on 8080"))
 >[!info] moddleware
 >it means that an incoming request is automatically funneled through a bunch of functions
 
+![[middleware_Draw.excalidraw| 700 ]]
 
 
+`app.use( (req, res, next)=> {} )` will be executed for every incoming request and this function will receive three arguments:
+- `req`
+- `res`
+- `next` - it is a function that will be passed to this function by expressjs, it allows the request to continue to the next middleware in line
 
 
 

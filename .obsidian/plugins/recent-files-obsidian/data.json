@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "5 Working with Express.js",
+      "path": "_ WEB/N_O_D_E/NODE - the complete guide/5 Working with Express.js.md"
+    },
+    {
+      "basename": "middleware_Draw.excalidraw",
+      "path": "Excalidraw/middleware_Draw.excalidraw.md"
+    },
+    {
+      "basename": "3.1 Express - introducing",
+      "path": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
       "basename": "Plotly express tworzenie animacji",
       "path": "P Y T H O N/Data Science BootCamp od A do Z 2022/Wizualizacja danych/Plotly express tworzenie animacji.md"
     },
@@ -85,20 +101,8 @@
       "path": "P Y T H O N/Advanced Python_Youtube/_ 0 Advenced Python.md"
     },
     {
-      "basename": "5 Working with Express.js",
-      "path": "_ WEB/N_O_D_E/NODE - the complete guide/5 Working with Express.js.md"
-    },
-    {
       "basename": "middleware",
       "path": "middleware.md"
-    },
-    {
-      "basename": "moddleware.excalidraw",
-      "path": "Excalidraw/moddleware.excalidraw.md"
-    },
-    {
-      "basename": "3.1 Express - introducing",
-      "path": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md"
     },
     {
       "basename": "_0 Node Complete Guide",
@@ -195,10 +199,6 @@
     {
       "basename": "_ Node and JavaScript",
       "path": "_ WEB/N_O_D_E/Lear Node.js and Javascript/_ Node and JavaScript.md"
-    },
-    {
-      "basename": "6 Kotlin OOP",
-      "path": "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md"
     }
   ],
   "omittedPaths": [],
