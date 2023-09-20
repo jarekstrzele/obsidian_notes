@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "8.1 Layouts in Android App",
+      "path": "_ Mobile/Kotlin/the complete Android Kotlin/8.1 Layouts in Android App.md"
+    },
+    {
+      "basename": "8 Android Components",
+      "path": "_ Mobile/Kotlin/the complete Android Kotlin/8 Android Components.md"
+    },
+    {
+      "basename": "7 Intro to Android App Development",
+      "path": "_ Mobile/Kotlin/the complete Android Kotlin/7 Intro to Android App Development.md"
+    },
+    {
+      "basename": "6 Kotlin OOP",
+      "path": "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md"
+    },
+    {
+      "basename": "3 Control Flow Statements in Kotlin",
+      "path": "_ Mobile/Kotlin/the complete Android Kotlin/3 Control Flow Statements in Kotlin.md"
+    },
+    {
+      "basename": "ES refresh",
+      "path": "JAVASCRIPT/ES refresh.md"
+    },
+    {
       "basename": "4. OOP Kotlin",
       "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/4. OOP Kotlin.md"
     },
@@ -9,20 +33,12 @@
       "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/3 Kotlin fundamentals.md"
     },
     {
-      "basename": "ES refresh",
-      "path": "JAVASCRIPT/ES refresh.md"
-    },
-    {
       "basename": "19 jQuery",
       "path": "_ FullStack/Web Development 2023/19 jQuery.md"
     },
     {
       "basename": "_ 0 start",
       "path": "_ FullStack/Web Development 2023/_ 0 start.md"
-    },
-    {
-      "basename": "6 Kotlin OOP",
-      "path": "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md"
     },
     {
       "basename": "3.1 Express - introducing",
@@ -149,10 +165,6 @@
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/2 Aplikacje WPF.md"
     },
     {
-      "basename": "3 Control Flow Statements in Kotlin",
-      "path": "_ Mobile/Kotlin/the complete Android Kotlin/3 Control Flow Statements in Kotlin.md"
-    },
-    {
       "basename": "_ Fast WFP C Sharp",
       "path": "C Sharp/Fast WFP  C Sharp/_ Fast WFP C Sharp.md"
     },
@@ -187,14 +199,6 @@
     {
       "basename": "3.1.1. Recap Building RestFul APIS with Express",
       "path": "_ WEB/N_O_D_E/Mosh Node/3.1.1. Recap Building RestFul APIS with Express.md"
-    },
-    {
-      "basename": "8.1 Layouts in Android App",
-      "path": "_ Mobile/Kotlin/the complete Android Kotlin/8.1 Layouts in Android App.md"
-    },
-    {
-      "basename": "6 Zewnętrzne moduły",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/6 Zewnętrzne moduły.md"
     }
   ],
   "omittedPaths": [],

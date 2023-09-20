@@ -95,7 +95,7 @@ Jeśli masz jakieś konkretne pytania dotyczące Genymotion Emulator, chętnie n
 >[!info] Gradle
 >It is a building system that automates the build of Android application development
 >Gradle makes:
->	- testking
+>	- testing
 >	- building
 >	- debugging
 >	- releasing
