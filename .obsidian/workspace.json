@@ -47,29 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ WEB/N_O_D_E/NODE - the complete guide/5 Working with Express.js.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3fefdf8d749433d8",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/middleware_Draw.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "15e32dc40b65d018",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
                 "mode": "source",
                 "source": false
               }
@@ -88,7 +66,25 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
+      },
+      {
+        "id": "9eca2d95077f9f4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15e32dc40b65d018",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,7 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 410.50418853759766
+    "width": 277.50418853759766
   },
   "right": {
     "id": "ec7d1a70da2de581",
@@ -170,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/4. OOP Kotlin.md",
+                "file": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -187,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/4. OOP Kotlin.md",
+                "file": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/4. OOP Kotlin.md"
+                "file": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md"
               }
             }
           },
@@ -268,14 +264,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0c063ca9a2f667a1",
+  "active": "15e32dc40b65d018",
   "lastOpenFiles": [
+    "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
+    "_ WEB/N_O_D_E/NODE - the complete guide/5 Working with Express.js.md",
+    "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
+    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/4. OOP Kotlin.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin/3 Kotlin fundamentals.md",
     "Untitled.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md",
-    "_ WEB/N_O_D_E/NODE - the complete guide/5 Working with Express.js.md",
     "Excalidraw/middleware_Draw.excalidraw.md",
-    "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
     "P Y T H O N/Data Science BootCamp od A do Z 2022/Wizualizacja danych/Plotly express tworzenie animacji.md",
     "P Y T H O N/Data Science BootCamp od A do Z 2022/Wizualizacja danych/Plotly express mapy.md",
     "P Y T H O N/Data Science BootCamp od A do Z 2022/uczenie maszynowe/Klasyfikacja binarna - Macierz konfuzji.md",
@@ -294,8 +292,6 @@
     "P Y T H O N/Data Science BootCamp od A do Z 2022/NumPy/Numpy liczby pseudolosowe.md",
     "P Y T H O N/Data Science BootCamp od A do Z 2022/NumPy/Numpy macierze.md",
     "P Y T H O N/Data Science BootCamp od A do Z 2022/NumPy/NumPy funkcje.md",
-    "P Y T H O N/Data Science BootCamp od A do Z 2022/NumPy/konfiguracja środowska.md",
-    "P Y T H O N/Data Science BootCamp od A do Z 2022/NumPy/0-NumPy wprowadzenie.md",
     "methodology/images/daily_change_pandas.png",
     "methodology/images/bar_matplotlib.png",
     "methodology/images/barh_matplotlib.png",
