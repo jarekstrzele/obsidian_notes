@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.1 Layouts in Android App.md",
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.3 Button.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.1 Layouts in Android App.md",
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.3 Button.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.1 Layouts in Android App.md",
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.3 Button.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.1 Layouts in Android App.md"
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.3 Button.md"
               }
             }
           },
@@ -225,6 +225,9 @@
   },
   "active": "0108e8e546f3f94d",
   "lastOpenFiles": [
+    "_ Mobile/Kotlin/the complete Android Kotlin/8.1 Layouts in Android App.md",
+    "_ Mobile/Kotlin/the complete Android Kotlin/8.3 Button.md",
+    "_ Mobile/Kotlin/the complete Android Kotlin/8.2 TextView.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/8 Android Components.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/7 Intro to Android App Development.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md",
@@ -248,9 +251,6 @@
     "P Y T H O N/Data Science BootCamp od A do Z 2022/Prawdopodobieństwo i statystyka/przestrzeń probabilistyczna.md",
     "P Y T H O N/Data Science BootCamp od A do Z 2022/Prawdopodobieństwo i statystyka/Odchylenie standardowe.md",
     "P Y T H O N/Data Science BootCamp od A do Z 2022/Prawdopodobieństwo i statystyka/Mediana.md",
-    "P Y T H O N/Data Science BootCamp od A do Z 2022/Pandas/Łączenie danych.md",
-    "P Y T H O N/Data Science BootCamp od A do Z 2022/Pandas/Filtrowanie danych.md",
-    "P Y T H O N/Data Science BootCamp od A do Z 2022/Pandas/2-Case Study Google App Store.md",
     "methodology/images/daily_change_pandas.png",
     "methodology/images/bar_matplotlib.png",
     "methodology/images/barh_matplotlib.png",

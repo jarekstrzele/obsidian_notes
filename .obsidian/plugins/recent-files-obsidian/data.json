@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Untitled",
-      "path": "_ Mobile/Kotlin/the complete Android Kotlin/Untitled.md"
+      "basename": "8.3 Button",
+      "path": "_ Mobile/Kotlin/the complete Android Kotlin/8.3 Button.md"
     },
     {
       "basename": "8.1 Layouts in Android App",
       "path": "_ Mobile/Kotlin/the complete Android Kotlin/8.1 Layouts in Android App.md"
+    },
+    {
+      "basename": "8.2 TextView",
+      "path": "_ Mobile/Kotlin/the complete Android Kotlin/8.2 TextView.md"
     },
     {
       "basename": "8 Android Components",
@@ -195,10 +199,6 @@
     {
       "basename": "3 RESTful API's using Express",
       "path": "_ WEB/N_O_D_E/Mosh Node/3 RESTful API's using Express.md"
-    },
-    {
-      "basename": "5 Jak Działa NodeJS",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/5 Jak Działa NodeJS.md"
     }
   ],
   "omittedPaths": [],
