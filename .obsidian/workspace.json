@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVASCRIPT/ES refresh.md",
+                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/4. OOP Kotlin.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVASCRIPT/ES refresh.md",
+                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/4. OOP Kotlin.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVASCRIPT/ES refresh.md",
+                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/4. OOP Kotlin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVASCRIPT/ES refresh.md"
+                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/4. OOP Kotlin.md"
               }
             }
           },
@@ -224,14 +224,16 @@
   },
   "active": "31034a9f465e43ac",
   "lastOpenFiles": [
+    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/3 Kotlin fundamentals.md",
+    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/4. OOP Kotlin.md",
+    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/Untitled.md",
+    "JAVASCRIPT/ES refresh.md",
     "_ FullStack/Web Development 2023/19 jQuery.md",
     "_ FullStack/Web Development 2023/_ 0 start.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md",
-    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/4. OOP Kotlin.md",
     "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
     "_ WEB/N_O_D_E/NODE - the complete guide/5 Working with Express.js.md",
-    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/3 Kotlin fundamentals.md",
     "Untitled.md",
     "Excalidraw/middleware_Draw.excalidraw.md",
     "P Y T H O N/Data Science BootCamp od A do Z 2022/Wizualizacja danych/Plotly express tworzenie animacji.md",
@@ -248,8 +250,6 @@
     "P Y T H O N/Data Science BootCamp od A do Z 2022/NumPy/NumPy wektory.md",
     "P Y T H O N/Data Science BootCamp od A do Z 2022/NumPy/NumPy typy danych.md",
     "P Y T H O N/Data Science BootCamp od A do Z 2022/NumPy/NumPy tablice.md",
-    "P Y T H O N/Data Science BootCamp od A do Z 2022/NumPy/NumPy indeksowanie wycinanie.md",
-    "P Y T H O N/Data Science BootCamp od A do Z 2022/NumPy/Numpy liczby pseudolosowe.md",
     "methodology/images/daily_change_pandas.png",
     "methodology/images/bar_matplotlib.png",
     "methodology/images/barh_matplotlib.png",

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "4. OOP Kotlin",
+      "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/4. OOP Kotlin.md"
+    },
+    {
+      "basename": "3 Kotlin fundamentals",
+      "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/3 Kotlin fundamentals.md"
+    },
+    {
       "basename": "ES refresh",
       "path": "JAVASCRIPT/ES refresh.md"
     },
@@ -17,10 +25,6 @@
       "path": "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md"
     },
     {
-      "basename": "4. OOP Kotlin",
-      "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/4. OOP Kotlin.md"
-    },
-    {
       "basename": "3.1 Express - introducing",
       "path": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md"
     },
@@ -31,10 +35,6 @@
     {
       "basename": "5 Working with Express.js",
       "path": "_ WEB/N_O_D_E/NODE - the complete guide/5 Working with Express.js.md"
-    },
-    {
-      "basename": "3 Kotlin fundamentals",
-      "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/3 Kotlin fundamentals.md"
     },
     {
       "basename": "Untitled",
@@ -195,10 +195,6 @@
     {
       "basename": "6 Zewnętrzne moduły",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/6 Zewnętrzne moduły.md"
-    },
-    {
-      "basename": "- 3 Node",
-      "path": "_ WEB/N_O_D_E/Lear Node.js and Javascript/- 3 Node.md"
     }
   ],
   "omittedPaths": [],
