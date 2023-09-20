@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "6 Kotlin OOP",
+      "path": "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md"
+    },
+    {
       "basename": "5 Working with Express.js",
       "path": "_ WEB/N_O_D_E/NODE - the complete guide/5 Working with Express.js.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "- 2 JavaScript",
       "path": "_ WEB/N_O_D_E/Lear Node.js and Javascript/- 2 JavaScript.md"
-    },
-    {
-      "basename": "_ Node and JavaScript",
-      "path": "_ WEB/N_O_D_E/Lear Node.js and Javascript/_ Node and JavaScript.md"
     }
   ],
   "omittedPaths": [],

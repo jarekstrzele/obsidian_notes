@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ WEB/N_O_D_E/NODE - the complete guide/5 Working with Express.js.md",
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ WEB/N_O_D_E/NODE - the complete guide/5 Working with Express.js.md",
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ WEB/N_O_D_E/NODE - the complete guide/5 Working with Express.js.md"
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md"
               }
             }
           },
@@ -268,10 +268,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b4351854ae2ee129",
+  "active": "31034a9f465e43ac",
   "lastOpenFiles": [
-    "Excalidraw/middleware_Draw.excalidraw.md",
     "_ WEB/N_O_D_E/NODE - the complete guide/5 Working with Express.js.md",
+    "Excalidraw/middleware_Draw.excalidraw.md",
     "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
     "Untitled.md",
     "P Y T H O N/Data Science BootCamp od A do Z 2022/Wizualizacja danych/Plotly express tworzenie animacji.md",
