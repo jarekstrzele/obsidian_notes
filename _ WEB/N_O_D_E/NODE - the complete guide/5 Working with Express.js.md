@@ -21,6 +21,14 @@ app.listen(8080, ()=>console.log("Server is running on 8080"))
 
 # Middleware
 
+![[middleware]]
+
+==Express is all about middleware ==
+
+>[!info] moddleware
+>it means that an incoming request is automatically funneled through a bunch of functions
+
+
 
 
 

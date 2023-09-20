@@ -54,6 +54,16 @@
             }
           },
           {
+            "id": "3fefdf8d749433d8",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/moddleware.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "15e32dc40b65d018",
             "type": "leaf",
             "state": {
@@ -64,9 +74,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0c063ca9a2f667a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "P Y T H O N/Data Science BootCamp od A do Z 2022/Wizualizacja danych/Plotly express tworzenie animacji.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -148,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ WEB/N_O_D_E/NODE - the complete guide/5 Working with Express.js.md",
+                "file": "P Y T H O N/Data Science BootCamp od A do Z 2022/Wizualizacja danych/Plotly express tworzenie animacji.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -165,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ WEB/N_O_D_E/NODE - the complete guide/5 Working with Express.js.md",
+                "file": "P Y T H O N/Data Science BootCamp od A do Z 2022/Wizualizacja danych/Plotly express tworzenie animacji.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ WEB/N_O_D_E/NODE - the complete guide/5 Working with Express.js.md"
+                "file": "P Y T H O N/Data Science BootCamp od A do Z 2022/Wizualizacja danych/Plotly express tworzenie animacji.md"
               }
             }
           },
@@ -246,34 +268,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b4351854ae2ee129",
+  "active": "0c063ca9a2f667a1",
   "lastOpenFiles": [
-    "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
+    "P Y T H O N/Data Science BootCamp od A do Z 2022/Wizualizacja danych/Plotly express mapy.md",
+    "P Y T H O N/Data Science BootCamp od A do Z 2022/uczenie maszynowe/Klasyfikacja binarna - Macierz konfuzji.md",
+    "P Y T H O N/Data Science BootCamp od A do Z 2022/uczenie maszynowe/Klasyfikacja binarna - ROC.md",
+    "P Y T H O N/Data Science BootCamp od A do Z 2022/uczenie maszynowe/Pierwszy model.md",
+    "P Y T H O N/Data Science BootCamp od A do Z 2022/Prawdopodobieństwo i statystyka/przestrzeń probabilistyczna.md",
+    "P Y T H O N/Data Science BootCamp od A do Z 2022/Prawdopodobieństwo i statystyka/Odchylenie standardowe.md",
+    "P Y T H O N/Data Science BootCamp od A do Z 2022/Prawdopodobieństwo i statystyka/Mediana.md",
+    "P Y T H O N/Data Science BootCamp od A do Z 2022/Pandas/Łączenie danych.md",
+    "P Y T H O N/Data Science BootCamp od A do Z 2022/Pandas/Filtrowanie danych.md",
+    "P Y T H O N/Data Science BootCamp od A do Z 2022/Pandas/2-Case Study Google App Store.md",
+    "P Y T H O N/Data Science BootCamp od A do Z 2022/NumPy/NumPy wektory.md",
+    "P Y T H O N/Data Science BootCamp od A do Z 2022/NumPy/NumPy typy danych.md",
+    "P Y T H O N/Data Science BootCamp od A do Z 2022/NumPy/NumPy tablice.md",
+    "P Y T H O N/Data Science BootCamp od A do Z 2022/NumPy/NumPy indeksowanie wycinanie.md",
+    "P Y T H O N/Data Science BootCamp od A do Z 2022/NumPy/Numpy liczby pseudolosowe.md",
+    "P Y T H O N/Data Science BootCamp od A do Z 2022/NumPy/Numpy macierze.md",
+    "P Y T H O N/Data Science BootCamp od A do Z 2022/NumPy/NumPy funkcje.md",
+    "P Y T H O N/Data Science BootCamp od A do Z 2022/NumPy/konfiguracja środowska.md",
+    "P Y T H O N/Data Science BootCamp od A do Z 2022/NumPy/0-NumPy wprowadzenie.md",
+    "P Y T H O N/Advanced Python_Youtube/_ 0 Advenced Python.md",
     "_ WEB/N_O_D_E/NODE - the complete guide/5 Working with Express.js.md",
+    "middleware.md",
+    "Excalidraw/moddleware.excalidraw.md",
+    "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
     "_ WEB/N_O_D_E/NODE - the complete guide/_0 Node Complete Guide.md",
     "_ WEB/N_O_D_E/NODE - the complete guide/3 Node Basics.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
-    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/4. OOP Kotlin.md",
-    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/_ the complete Android 12.md",
-    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/3 Kotlin fundamentals.md",
-    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/Untitled.md",
-    "_ FullStack/Web Development 2023/19 jQuery.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/2 Aplikacje WPF.md",
-    "_ Mobile/Kotlin/the complete Android Kotlin/3 Control Flow Statements in Kotlin.md",
-    "C Sharp/Fast WFP  C Sharp/_ Fast WFP C Sharp.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md",
-    "_ FullStack/Web Development 2023/_ 0 start.md",
-    "_ FullStack/Web Development 2023/5 Bootstrap.md",
-    "P Y T H O N/Master_Python_100/_ 0 100 Days of Code 2023.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/3 Układ komponentów.md",
-    "_ WEB/N_O_D_E/Mosh Node/3 RESTful API's using Express.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/5 Jak Działa NodeJS.md",
-    "_ WEB/N_O_D_E/Mosh Node/3.1.1. Recap Building RestFul APIS with Express.md",
-    "_ Mobile/Kotlin/the complete Android Kotlin/8.1 Layouts in Android App.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/6 Zewnętrzne moduły.md",
-    "_ WEB/N_O_D_E/Lear Node.js and Javascript/- 3 Node.md",
-    "_ WEB/N_O_D_E/Lear Node.js and Javascript/- 2 JavaScript.md",
     "methodology/images/daily_change_pandas.png",
     "methodology/images/bar_matplotlib.png",
     "methodology/images/barh_matplotlib.png",
