@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "7 Express JS",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md"
+      "basename": "5 Working with Express.js",
+      "path": "_ WEB/N_O_D_E/NODE - the complete guide/5 Working with Express.js.md"
+    },
+    {
+      "basename": "_0 Node Complete Guide",
+      "path": "_ WEB/N_O_D_E/NODE - the complete guide/_0 Node Complete Guide.md"
     },
     {
       "basename": "3.1 Express - introducing",
       "path": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md"
+    },
+    {
+      "basename": "3 Node Basics",
+      "path": "_ WEB/N_O_D_E/NODE - the complete guide/3 Node Basics.md"
+    },
+    {
+      "basename": "7 Express JS",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md"
     },
     {
       "basename": "4. OOP Kotlin",
@@ -187,18 +199,6 @@
     {
       "basename": "bar_matplotlib",
       "path": "methodology/images/bar_matplotlib.png"
-    },
-    {
-      "basename": "barh_matplotlib",
-      "path": "methodology/images/barh_matplotlib.png"
-    },
-    {
-      "basename": "1 Wprowadzenie Wzorce projektowe",
-      "path": "methodology/Wzorce projektowe Rusz Głową/1 Wprowadzenie Wzorce projektowe.md"
-    },
-    {
-      "basename": "Clean Code Names",
-      "path": "methodology/clean code/Clean Code Names.md"
     }
   ],
   "omittedPaths": [],
