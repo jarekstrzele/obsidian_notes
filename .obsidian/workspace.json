@@ -6,7 +6,6 @@
       {
         "id": "147816b229fbe44e",
         "type": "tabs",
-        "dimension": 47.741487143849895,
         "children": [
           {
             "id": "0108e8e546f3f94d",
@@ -36,57 +35,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b4351854ae2ee129",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0c063ca9a2f667a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/4. OOP Kotlin.md",
+                "file": "_ FullStack/Web Development 2023/19 jQuery.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
-      },
-      {
-        "id": "9eca2d95077f9f4c",
-        "type": "tabs",
-        "dimension": 52.258512856150105,
-        "children": [
-          {
-            "id": "15e32dc40b65d018",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -115,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "yu_ange",
+                "query": "jquery",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -148,11 +104,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 400.50418853759766
   },
   "right": {
     "id": "ec7d1a70da2de581",
@@ -168,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
+                "file": "_ FullStack/Web Development 2023/19 jQuery.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -185,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
+                "file": "_ FullStack/Web Development 2023/19 jQuery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md"
+                "file": "_ FullStack/Web Development 2023/19 jQuery.md"
               }
             }
           },
@@ -266,15 +223,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "15e32dc40b65d018",
+  "active": "31034a9f465e43ac",
   "lastOpenFiles": [
+    "_ FullStack/Web Development 2023/_ 0 start.md",
+    "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md",
+    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/4. OOP Kotlin.md",
+    "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
     "_ WEB/N_O_D_E/NODE - the complete guide/5 Working with Express.js.md",
-    "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
-    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/4. OOP Kotlin.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin/3 Kotlin fundamentals.md",
     "Untitled.md",
-    "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md",
     "Excalidraw/middleware_Draw.excalidraw.md",
     "P Y T H O N/Data Science BootCamp od A do Z 2022/Wizualizacja danych/Plotly express tworzenie animacji.md",
     "P Y T H O N/Data Science BootCamp od A do Z 2022/Wizualizacja danych/Plotly express mapy.md",
@@ -293,7 +251,6 @@
     "P Y T H O N/Data Science BootCamp od A do Z 2022/NumPy/NumPy indeksowanie wycinanie.md",
     "P Y T H O N/Data Science BootCamp od A do Z 2022/NumPy/Numpy liczby pseudolosowe.md",
     "P Y T H O N/Data Science BootCamp od A do Z 2022/NumPy/Numpy macierze.md",
-    "P Y T H O N/Data Science BootCamp od A do Z 2022/NumPy/NumPy funkcje.md",
     "methodology/images/daily_change_pandas.png",
     "methodology/images/bar_matplotlib.png",
     "methodology/images/barh_matplotlib.png",
