@@ -50,7 +50,7 @@ const app = express()
 // w projekcie mam folder /public/ w którym
 // jest index.html
 // oraz podfolder CSS z css
-app.use( express.static("public")) //some ExpressJS będzie dbał o poprawne type MIM
+app.use( express.static("public")) // sam ExpressJS będzie dbał o poprawne typy MIM
 
 app.disable("X-Powered-By")
 
@@ -88,7 +88,7 @@ app.get('/blog/:date/:id', (req,res)=>{
 
 app.listen(9090, ()=>console.log("localhost:9090"))
 ```
-takie adres nie zadziała, bo brakuje `:id` : `http://localhost:9090/blog/2023-09-11`
+taki adres nie zadziała, bo brakuje `:id` : `http://localhost:9090/blog/2023-09-11`
 
 ten adres zadziała:
 `http://localhost:9090/blog/2023-09-11/2` -- wyświetli -> `wpis o id 2 utworzony 2023-09-11`
