@@ -36,9 +36,27 @@ app.listen(8080, ()=>console.log("Server is running on 8080"))
 - `res`
 - `next` - it is a function that will be passed to this function by expressjs, it allows the request to continue to the next middleware in line
 
+```js
+const express = require("express")
+const app = express()
 
+app.use((req, res, next)=>{
+    console.log("In the middleware!");
+    next(); // it allows the request to continue to the next middleware in line
+})
 
+app.use((req, res, next)=>{
+    console.log("In the NEXT  middleware!");
+})
 
+app.get('/', (req,res)=>{
+    res.send("Witaj świecie");
+})
+
+app.listen(9090, ()=>console.log("localhost:9090"))
+```
+
+### How middlewares works
 
 
 
