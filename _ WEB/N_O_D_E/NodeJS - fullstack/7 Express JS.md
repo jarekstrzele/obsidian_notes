@@ -2,6 +2,8 @@
 #express 
 
 info o wszystkich metodach https://expressjs.com/en/4x/api.html
+inne notatki na ten temat [[5 Working with Express.js]]o
+
 
 --------
 [[#INSTALACJA]]
@@ -136,7 +138,44 @@ to install `npm install express-handlebars`
 
 # Użycie middleware
 
+```js
+const express = require("express")
+const app = express()
+const USER = "admin"
+const PASSWORD = "abc"
 
+//middleware - działa dla wszystkich ścieżek
+// dla każdego połączenia będzie usuwany nagłówego X-Powered-By
+app.use((req, res, next)=>{
+    res.removeHeader("X-Powered-By");
+    res.locals.data1 = "String zapisany w atrybucie data"
+
+    // musimy wywołać next(), bo serwer nie przejdzie dalej
+    next()
+})
+
+//middleware tylko dla '/admin
+app.use('/admin', (req,res,next)=>{
+    if(req.query.user===USER && req.query.password===PASSWORD){
+        return next();
+    }
+    res.redirect('/') ;
+})
+
+app.get('/admin', (req,res)=>{
+    res.send("Widam Cię mój wspaniały <b>administratorze</b>")
+})
+
+app.get('/', (req,res) => {
+
+    //res.removeHeader("X-Powered-By")
+    res.send(`Strona główna
+        a to są dane z res.locals.data ${res.locals.data1}
+    `);
+})
+
+app.listen(9090, ()=>console.log("localhost:9090"))
+```
 
 
 
