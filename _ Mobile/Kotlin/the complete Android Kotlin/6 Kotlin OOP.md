@@ -151,8 +151,6 @@ class MySecondaryConstructor {
         this.name = name  
         this.model = model  
     }  
-  
-  
 }
 ```
 
