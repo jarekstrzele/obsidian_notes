@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md"
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md"
               }
             }
           },
@@ -236,15 +236,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "31034a9f465e43ac",
+  "active": "da954aa19a1a4216",
   "lastOpenFiles": [
-    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/4. OOP Kotlin.md",
+    "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
+    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/4. OOP Kotlin.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md",
     "JAVASCRIPT/ES refresh.md",
     "_ WEB/N_O_D_E/NODE - the complete guide/5 Working with Express.js.md",
     "_ WEB/N_O_D_E/NODE - the complete guide/_0 Node Complete Guide.md",
-    "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/3 Control Flow Statements in Kotlin.md",
     "_ WEB/N_O_D_E/Lear Node.js and Javascript/git.md",
     "_ WEB/N_O_D_E/Lear Node.js and Javascript/docker mysql node phpmyadmin.md",
