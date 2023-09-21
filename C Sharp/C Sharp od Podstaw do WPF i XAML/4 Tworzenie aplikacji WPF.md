@@ -50,7 +50,12 @@ private void Button_Click(object sender, RoutedEventArgs e)
 
 Tworzymy w naszej aplikacji nowy pliki
 `Simulation.cs` z klasą Simulation
-oraz `Program.cs` z metodą `Main`
+
+
+
+
+
+
 
 
 
