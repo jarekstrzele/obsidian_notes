@@ -15,7 +15,7 @@ inne notatki na ten temat [[5 Working with Express.js]]o
 
 
 ----
- 
+  
 # INSTALACJA
 - zrób folder
 - wewnątrz `npm init` (package json)
