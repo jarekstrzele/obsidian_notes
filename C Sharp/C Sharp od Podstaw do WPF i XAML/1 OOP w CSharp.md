@@ -611,11 +611,11 @@ Plik `Puntt3d.cs`
 ```c#
 public class Punkt3D : Punkt
 {
-  public int Z 
-  {
-    /*get; private set;*/
-    get; protected set; // te, które dziedziczą mogą ustawiać nową wartość
-  }
+	public int Z {
+        /*get; private set;*/
+        get; protected set; // te, które dziedziczą mogą ustawiać nową wartość
+
+    }
 
     public Punkt3D()
 	{
@@ -623,12 +623,14 @@ public class Punkt3D : Punkt
 
 	public Punkt3D(int x, int y, int z) : base(x, y)
 	{
-		this.X = x;
-		this.Y = y;
 		this.Z = z;
 	}
-}
 
+    public string wyswietlKoordynaty()
+    {
+        return $"{base.wyswietlKoordynaty()} Z={ this.Z}" ;
+    }
+}
 ```
 
 
