@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ WEB/N_O_D_E/Lear Node.js and Javascript/- 4 MySQL with Node.js.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/3 Control Flow Statements in Kotlin.md",
+                "file": "_ WEB/N_O_D_E/NODE - the complete guide/5 Working with Express.js.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ WEB/N_O_D_E/Lear Node.js and Javascript/- 4 MySQL with Node.js.md",
+                "file": "_ WEB/N_O_D_E/NODE - the complete guide/5 Working with Express.js.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -142,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ WEB/N_O_D_E/Lear Node.js and Javascript/- 4 MySQL with Node.js.md",
+                "file": "_ WEB/N_O_D_E/NODE - the complete guide/5 Working with Express.js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ WEB/N_O_D_E/Lear Node.js and Javascript/- 4 MySQL with Node.js.md"
+                "file": "_ WEB/N_O_D_E/NODE - the complete guide/5 Working with Express.js.md"
               }
             }
           },
@@ -223,11 +224,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0108e8e546f3f94d",
+  "active": "da954aa19a1a4216",
   "lastOpenFiles": [
+    "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
+    "_ Mobile/Kotlin/the complete Android Kotlin/3 Control Flow Statements in Kotlin.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
+    "_ WEB/N_O_D_E/NODE - the complete guide/5 Working with Express.js.md",
+    "_ WEB/N_O_D_E/Lear Node.js and Javascript/git.md",
+    "_ WEB/N_O_D_E/Lear Node.js and Javascript/docker mysql node phpmyadmin.md",
+    "_ WEB/N_O_D_E/Lear Node.js and Javascript/- 5 Stock Market App with Node and JavaScript.md",
+    "_ WEB/N_O_D_E/Lear Node.js and Javascript/- 4 MySQL with Node.js.md",
+    "_ WEB/N_O_D_E/Lear Node.js and Javascript/_ Node and JavaScript.md",
     "_ WEB/N_O_D_E/Lear Node.js and Javascript/- 3 Node.md",
     "_ WEB/N_O_D_E/Lear Node.js and Javascript/- 2 JavaScript.md",
-    "_ WEB/N_O_D_E/Lear Node.js and Javascript/_ Node and JavaScript.md",
     "JAVASCRIPT/ES refresh.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/8.3 Button.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/8.1 Layouts in Android App.md",
@@ -235,22 +244,14 @@
     "_ Mobile/Kotlin/the complete Android Kotlin/8 Android Components.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/7 Intro to Android App Development.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md",
-    "_ Mobile/Kotlin/the complete Android Kotlin/3 Control Flow Statements in Kotlin.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin/4. OOP Kotlin.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin/3 Kotlin fundamentals.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin/Untitled.md",
     "_ FullStack/Web Development 2023/19 jQuery.md",
     "_ FullStack/Web Development 2023/_ 0 start.md",
-    "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
-    "_ WEB/N_O_D_E/NODE - the complete guide/5 Working with Express.js.md",
     "Untitled.md",
     "Excalidraw/middleware_Draw.excalidraw.md",
     "P Y T H O N/Data Science BootCamp od A do Z 2022/Wizualizacja danych/Plotly express tworzenie animacji.md",
-    "P Y T H O N/Data Science BootCamp od A do Z 2022/Wizualizacja danych/Plotly express mapy.md",
-    "P Y T H O N/Data Science BootCamp od A do Z 2022/uczenie maszynowe/Klasyfikacja binarna - Macierz konfuzji.md",
-    "P Y T H O N/Data Science BootCamp od A do Z 2022/uczenie maszynowe/Klasyfikacja binarna - ROC.md",
-    "P Y T H O N/Data Science BootCamp od A do Z 2022/uczenie maszynowe/Pierwszy model.md",
     "methodology/images/daily_change_pandas.png",
     "methodology/images/bar_matplotlib.png",
     "methodology/images/barh_matplotlib.png",

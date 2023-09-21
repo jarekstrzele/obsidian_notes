@@ -1,8 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "5 Working with Express.js",
+      "path": "_ WEB/N_O_D_E/NODE - the complete guide/5 Working with Express.js.md"
+    },
+    {
+      "basename": "3.1 Express - introducing",
+      "path": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md"
+    },
+    {
+      "basename": "3 Control Flow Statements in Kotlin",
+      "path": "_ Mobile/Kotlin/the complete Android Kotlin/3 Control Flow Statements in Kotlin.md"
+    },
+    {
+      "basename": "7 Express JS",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md"
+    },
+    {
+      "basename": "git",
+      "path": "_ WEB/N_O_D_E/Lear Node.js and Javascript/git.md"
+    },
+    {
+      "basename": "docker mysql node phpmyadmin",
+      "path": "_ WEB/N_O_D_E/Lear Node.js and Javascript/docker mysql node phpmyadmin.md"
+    },
+    {
+      "basename": "- 5 Stock Market App with Node and JavaScript",
+      "path": "_ WEB/N_O_D_E/Lear Node.js and Javascript/- 5 Stock Market App with Node and JavaScript.md"
+    },
+    {
       "basename": "- 4 MySQL with Node.js",
       "path": "_ WEB/N_O_D_E/Lear Node.js and Javascript/- 4 MySQL with Node.js.md"
+    },
+    {
+      "basename": "_ Node and JavaScript",
+      "path": "_ WEB/N_O_D_E/Lear Node.js and Javascript/_ Node and JavaScript.md"
     },
     {
       "basename": "- 3 Node",
@@ -11,10 +43,6 @@
     {
       "basename": "- 2 JavaScript",
       "path": "_ WEB/N_O_D_E/Lear Node.js and Javascript/- 2 JavaScript.md"
-    },
-    {
-      "basename": "_ Node and JavaScript",
-      "path": "_ WEB/N_O_D_E/Lear Node.js and Javascript/_ Node and JavaScript.md"
     },
     {
       "basename": "ES refresh",
@@ -45,10 +73,6 @@
       "path": "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md"
     },
     {
-      "basename": "3 Control Flow Statements in Kotlin",
-      "path": "_ Mobile/Kotlin/the complete Android Kotlin/3 Control Flow Statements in Kotlin.md"
-    },
-    {
       "basename": "4. OOP Kotlin",
       "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/4. OOP Kotlin.md"
     },
@@ -63,18 +87,6 @@
     {
       "basename": "_ 0 start",
       "path": "_ FullStack/Web Development 2023/_ 0 start.md"
-    },
-    {
-      "basename": "3.1 Express - introducing",
-      "path": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md"
-    },
-    {
-      "basename": "7 Express JS",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md"
-    },
-    {
-      "basename": "5 Working with Express.js",
-      "path": "_ WEB/N_O_D_E/NODE - the complete guide/5 Working with Express.js.md"
     },
     {
       "basename": "Untitled",
@@ -187,18 +199,6 @@
     {
       "basename": "2 Aplikacje WPF",
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/2 Aplikacje WPF.md"
-    },
-    {
-      "basename": "_ Fast WFP C Sharp",
-      "path": "C Sharp/Fast WFP  C Sharp/_ Fast WFP C Sharp.md"
-    },
-    {
-      "basename": "1 OOP w CSharp",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md"
-    },
-    {
-      "basename": "_ C Sharp od Podstaw do WPF i XAML",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md"
     }
   ],
   "omittedPaths": [],

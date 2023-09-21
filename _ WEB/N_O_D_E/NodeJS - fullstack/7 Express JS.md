@@ -3,6 +3,18 @@
 
 info o wszystkich metodach https://expressjs.com/en/4x/api.html
 
+--------
+[[#INSTALACJA]]
+[[#pierwszy przykład]]
+[[#Serwowanie statycznych plików]]
+[[#Routing zapytań]]
+[[#Korzystanie z szablonów]]
+
+
+
+
+
+----
 
 # INSTALACJA
 - zrób folder
