@@ -16,9 +16,24 @@ to co wpisane w `TextBox` zostaje automatycznie przekopiowane do `TextBlock`
 najpierw bez `Path=Text`
 
 `,Mode=OneWay` - określa kierunek przekazywania tekstu domyślnie jest `OneWay`
+```xml
+    <StackPanel>
+        <TextBox x:Name="textDoKopiowanie" Text="Jutro funtro" />
+        <TextBlock x:Name="mojTB" Text="{Binding ElementName=textDoKopiowanie
+            ,Path=Text
+            ,Mode=TwoWay}" />
+        <Button Content="Button" Click="Button_Click"/>
+    </StackPanel>
+</Window>
 
+```
 
-
+```C#
+private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            mojTB.Text = "To jest ziania, na może lepsze!!!!!!";
+        }
+```
 
 
 
