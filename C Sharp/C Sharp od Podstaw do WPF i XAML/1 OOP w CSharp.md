@@ -573,14 +573,63 @@ class Car
 
 
 
-
-
-
-
 # Dziedziczenie
+plik `Punk.cs`
+```c#
+ public class Punkt
+ {
+    public int X
+    {
+       /*get; private set;*/
+       get; protected set; // te, które dziedziczą mogą ustawiać nową wartość
+   }
+    public int Y
+    {
+       /*get; private set;*/
+       get; protected set; // te, które dziedziczą mogą ustawiać nową wartość
 
+   }
 
+   public Punkt()
+   {
+      Console.WriteLine("Jestem BEZargumentowym konstruktorem" +
+               "                    klasy PUNKT");
+           X = 0;
+           Y = 0;
+    }
+   public Punkt(int x, int y)
+   {
+      Console.WriteLine("Jestem DWUargumentowym konstruktorem " +
+               "               klasy PUNKT");
+           X = x;
+           Y = y;
+    }
+}
+```
 
+Plik `Puntt3d.cs`
+```c#
+public class Punkt3D : Punkt
+{
+  public int Z 
+  {
+    /*get; private set;*/
+    get; protected set; // te, które dziedziczą mogą ustawiać nową wartość
+  }
+
+    public Punkt3D()
+	{
+	}
+
+	public Punkt3D(int x, int y, int z) : base(x, y)
+	{
+		this.X = x;
+		this.Y = y;
+		this.Z = z;
+	}
+}
+
+```
 
 
 
