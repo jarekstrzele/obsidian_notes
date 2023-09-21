@@ -9,6 +9,7 @@ info o wszystkich metodach https://expressjs.com/en/4x/api.html
 [[#Serwowanie statycznych plików]]
 [[#Routing zapytań]]
 [[#Korzystanie z szablonów]]
+[[#Użycie middleware]]
 
 
 
