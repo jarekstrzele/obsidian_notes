@@ -1,8 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "1 OOP w CSharp",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md"
+    },
+    {
       "basename": "4 Tworzenie aplikacji WPF",
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/4 Tworzenie aplikacji WPF.md"
+    },
+    {
+      "basename": "8 Android Components",
+      "path": "_ Mobile/Kotlin/the complete Android Kotlin/8 Android Components.md"
+    },
+    {
+      "basename": "8.1 Layouts in Android App",
+      "path": "_ Mobile/Kotlin/the complete Android Kotlin/8.1 Layouts in Android App.md"
+    },
+    {
+      "basename": "8.2 TextView",
+      "path": "_ Mobile/Kotlin/the complete Android Kotlin/8.2 TextView.md"
+    },
+    {
+      "basename": "8.3 Button",
+      "path": "_ Mobile/Kotlin/the complete Android Kotlin/8.3 Button.md"
+    },
+    {
+      "basename": "3 Kotlin fundamentals",
+      "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/3 Kotlin fundamentals.md"
+    },
+    {
+      "basename": "4. OOP Kotlin",
+      "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/4. OOP Kotlin.md"
     },
     {
       "basename": "_ C Sharp od Podstaw do WPF i XAML",
@@ -35,10 +63,6 @@
     {
       "basename": "3 Node Basics",
       "path": "_ WEB/N_O_D_E/NODE - the complete guide/3 Node Basics.md"
-    },
-    {
-      "basename": "4. OOP Kotlin",
-      "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/4. OOP Kotlin.md"
     },
     {
       "basename": "6 Kotlin OOP",
@@ -85,28 +109,8 @@
       "path": "_ WEB/N_O_D_E/Lear Node.js and Javascript/- 2 JavaScript.md"
     },
     {
-      "basename": "8.3 Button",
-      "path": "_ Mobile/Kotlin/the complete Android Kotlin/8.3 Button.md"
-    },
-    {
-      "basename": "8.1 Layouts in Android App",
-      "path": "_ Mobile/Kotlin/the complete Android Kotlin/8.1 Layouts in Android App.md"
-    },
-    {
-      "basename": "8.2 TextView",
-      "path": "_ Mobile/Kotlin/the complete Android Kotlin/8.2 TextView.md"
-    },
-    {
-      "basename": "8 Android Components",
-      "path": "_ Mobile/Kotlin/the complete Android Kotlin/8 Android Components.md"
-    },
-    {
       "basename": "7 Intro to Android App Development",
       "path": "_ Mobile/Kotlin/the complete Android Kotlin/7 Intro to Android App Development.md"
-    },
-    {
-      "basename": "3 Kotlin fundamentals",
-      "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/3 Kotlin fundamentals.md"
     },
     {
       "basename": "19 jQuery",
@@ -195,10 +199,6 @@
     {
       "basename": "NumPy funkcje",
       "path": "P Y T H O N/Data Science BootCamp od A do Z 2022/NumPy/NumPy funkcje.md"
-    },
-    {
-      "basename": "konfiguracja środowska",
-      "path": "P Y T H O N/Data Science BootCamp od A do Z 2022/NumPy/konfiguracja środowska.md"
     }
   ],
   "omittedPaths": [],
