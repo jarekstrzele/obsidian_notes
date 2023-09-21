@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Untitled",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/Untitled.md"
+      "basename": "4 Tworzenie aplikacji WPF",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/4 Tworzenie aplikacji WPF.md"
+    },
+    {
+      "basename": "_ C Sharp od Podstaw do WPF i XAML",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md"
     },
     {
       "basename": "_ Fast WFP C Sharp",
@@ -195,10 +199,6 @@
     {
       "basename": "konfiguracja środowska",
       "path": "P Y T H O N/Data Science BootCamp od A do Z 2022/NumPy/konfiguracja środowska.md"
-    },
-    {
-      "basename": "0-NumPy wprowadzenie",
-      "path": "P Y T H O N/Data Science BootCamp od A do Z 2022/NumPy/0-NumPy wprowadzenie.md"
     }
   ],
   "omittedPaths": [],
