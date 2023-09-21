@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "- 4 MySQL with Node.js",
+      "path": "_ WEB/N_O_D_E/Lear Node.js and Javascript/- 4 MySQL with Node.js.md"
+    },
+    {
+      "basename": "- 3 Node",
+      "path": "_ WEB/N_O_D_E/Lear Node.js and Javascript/- 3 Node.md"
+    },
+    {
+      "basename": "- 2 JavaScript",
+      "path": "_ WEB/N_O_D_E/Lear Node.js and Javascript/- 2 JavaScript.md"
+    },
+    {
+      "basename": "_ Node and JavaScript",
+      "path": "_ WEB/N_O_D_E/Lear Node.js and Javascript/_ Node and JavaScript.md"
+    },
+    {
       "basename": "ES refresh",
       "path": "JAVASCRIPT/ES refresh.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "_ C Sharp od Podstaw do WPF i XAML",
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md"
-    },
-    {
-      "basename": "5 Bootstrap",
-      "path": "_ FullStack/Web Development 2023/5 Bootstrap.md"
-    },
-    {
-      "basename": "_ 0 100 Days of Code 2023",
-      "path": "P Y T H O N/Master_Python_100/_ 0 100 Days of Code 2023.md"
-    },
-    {
-      "basename": "3 Układ komponentów",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/3 Układ komponentów.md"
-    },
-    {
-      "basename": "3 RESTful API's using Express",
-      "path": "_ WEB/N_O_D_E/Mosh Node/3 RESTful API's using Express.md"
     }
   ],
   "omittedPaths": [],

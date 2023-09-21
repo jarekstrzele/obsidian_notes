@@ -42,7 +42,7 @@ in the folder with a js file:
   var con = mysql.createConnection({
   host:"localhost",
   user:"root",
-  password:"Filozofia2!@"
+  password:""
   });
    
   con.connect(function(err){

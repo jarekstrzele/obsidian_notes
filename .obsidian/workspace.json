@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVASCRIPT/ES refresh.md",
+                "file": "_ WEB/N_O_D_E/Lear Node.js and Javascript/- 4 MySQL with Node.js.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVASCRIPT/ES refresh.md",
+                "file": "_ WEB/N_O_D_E/Lear Node.js and Javascript/- 4 MySQL with Node.js.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVASCRIPT/ES refresh.md",
+                "file": "_ WEB/N_O_D_E/Lear Node.js and Javascript/- 4 MySQL with Node.js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVASCRIPT/ES refresh.md"
+                "file": "_ WEB/N_O_D_E/Lear Node.js and Javascript/- 4 MySQL with Node.js.md"
               }
             }
           },
@@ -225,6 +225,10 @@
   },
   "active": "0108e8e546f3f94d",
   "lastOpenFiles": [
+    "_ WEB/N_O_D_E/Lear Node.js and Javascript/- 3 Node.md",
+    "_ WEB/N_O_D_E/Lear Node.js and Javascript/- 2 JavaScript.md",
+    "_ WEB/N_O_D_E/Lear Node.js and Javascript/_ Node and JavaScript.md",
+    "JAVASCRIPT/ES refresh.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/8.3 Button.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/8.1 Layouts in Android App.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/8.2 TextView.md",
@@ -232,7 +236,6 @@
     "_ Mobile/Kotlin/the complete Android Kotlin/7 Intro to Android App Development.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/3 Control Flow Statements in Kotlin.md",
-    "JAVASCRIPT/ES refresh.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin/4. OOP Kotlin.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin/3 Kotlin fundamentals.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin/Untitled.md",
@@ -248,9 +251,6 @@
     "P Y T H O N/Data Science BootCamp od A do Z 2022/uczenie maszynowe/Klasyfikacja binarna - Macierz konfuzji.md",
     "P Y T H O N/Data Science BootCamp od A do Z 2022/uczenie maszynowe/Klasyfikacja binarna - ROC.md",
     "P Y T H O N/Data Science BootCamp od A do Z 2022/uczenie maszynowe/Pierwszy model.md",
-    "P Y T H O N/Data Science BootCamp od A do Z 2022/Prawdopodobieństwo i statystyka/przestrzeń probabilistyczna.md",
-    "P Y T H O N/Data Science BootCamp od A do Z 2022/Prawdopodobieństwo i statystyka/Odchylenie standardowe.md",
-    "P Y T H O N/Data Science BootCamp od A do Z 2022/Prawdopodobieństwo i statystyka/Mediana.md",
     "methodology/images/daily_change_pandas.png",
     "methodology/images/bar_matplotlib.png",
     "methodology/images/barh_matplotlib.png",
