@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/Untitled.md"
+    },
+    {
+      "basename": "_ Fast WFP C Sharp",
+      "path": "C Sharp/Fast WFP  C Sharp/_ Fast WFP C Sharp.md"
+    },
+    {
+      "basename": "3 Układ komponentów",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/3 Układ komponentów.md"
+    },
+    {
+      "basename": "2 Aplikacje WPF",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/2 Aplikacje WPF.md"
+    },
+    {
+      "basename": "7 Express JS",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md"
+    },
+    {
       "basename": "3.1 Express - introducing",
       "path": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md"
     },
     {
       "basename": "5 Working with Express.js",
       "path": "_ WEB/N_O_D_E/NODE - the complete guide/5 Working with Express.js.md"
-    },
-    {
-      "basename": "7 Express JS",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md"
     },
     {
       "basename": "3 Node Basics",
@@ -183,22 +199,6 @@
     {
       "basename": "0-NumPy wprowadzenie",
       "path": "P Y T H O N/Data Science BootCamp od A do Z 2022/NumPy/0-NumPy wprowadzenie.md"
-    },
-    {
-      "basename": "_ 0 Advenced Python",
-      "path": "P Y T H O N/Advanced Python_Youtube/_ 0 Advenced Python.md"
-    },
-    {
-      "basename": "middleware",
-      "path": "middleware.md"
-    },
-    {
-      "basename": "_ the complete Android 12",
-      "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/_ the complete Android 12.md"
-    },
-    {
-      "basename": "2 Aplikacje WPF",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/2 Aplikacje WPF.md"
     }
   ],
   "omittedPaths": [],

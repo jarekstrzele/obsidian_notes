@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "147816b229fbe44e",
+        "id": "9b496bed318be758",
         "type": "tabs",
         "children": [
           {
-            "id": "0108e8e546f3f94d",
+            "id": "8570cc04daa471af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "da954aa19a1a4216",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "31034a9f465e43ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5c0ede0701df063a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md",
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/Untitled.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -155,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md"
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/Untitled.md"
               }
             }
           },
@@ -236,11 +199,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "da954aa19a1a4216",
+  "active": "8570cc04daa471af",
   "lastOpenFiles": [
-    "_ WEB/N_O_D_E/NODE - the complete guide/5 Working with Express.js.md",
+    "C Sharp/Fast WFP  C Sharp/_ Fast WFP C Sharp.md",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/Untitled.md",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/3 Układ komponentów.md",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/2 Aplikacje WPF.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
     "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
+    "_ WEB/N_O_D_E/NODE - the complete guide/5 Working with Express.js.md",
     "_ WEB/N_O_D_E/NODE - the complete guide/3 Node Basics.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin/4. OOP Kotlin.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md",
@@ -260,10 +227,6 @@
     "_ Mobile/Kotlin/the complete Android Kotlin/8 Android Components.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/7 Intro to Android App Development.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin/3 Kotlin fundamentals.md",
-    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/Untitled.md",
-    "_ FullStack/Web Development 2023/19 jQuery.md",
-    "_ FullStack/Web Development 2023/_ 0 start.md",
-    "Untitled.md",
     "methodology/images/daily_change_pandas.png",
     "methodology/images/bar_matplotlib.png",
     "methodology/images/barh_matplotlib.png",
