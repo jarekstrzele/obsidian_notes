@@ -35,6 +35,33 @@ private void Button_Click(object sender, RoutedEventArgs e)
         }
 ```
 
+```xml
+ <Slider Value="{Binding ElementName=SliderValue, Path=Text, Mode=OneWayToSource}"
+         Maximum="30" Minimum="0"
+         IsSnapToTickEnabled="True"
+         TickFrequency="5"></Slider>
+ <TextBox x:Name="SliderValue"></TextBox>
+```
+`Mode=OneWayToSource` zmiany w sliderze mają wpływ na TextBox, ale TextBox nie wypłwa na slidera
+
+---------------
+
+# Eventy i Delegaty 
+
+Tworzymy w naszej aplikacji nowy pliki
+`Simulation.cs` z klasą Simulation
+oraz `Program.cs` z metodą `Main`
+
+
+
+
+
+
+
+
+
+
+
 
 
 
