@@ -5,7 +5,9 @@
 [[#Wstęp]]
 [[#Konstruktory]]
 [[#Metody]] 
-
+[[#Konstruktor statyczny]]
+[[#Konstruktory kopiujące]]
+[[#klasy zagnieżdżone]]
 
 
 -----
@@ -157,11 +159,11 @@ class Program
     {
         int a = 10;
 
-        Math.IncreaseBy5(a);
-        Console.WriteLine(a); // --> 10, bo przekazujemy przez wartość (kopię)
+         Math.IncreaseBy5(a);
+ Console.WriteLine("po wykonaniu IncreaseBy5 (kopia): = " + a); // --> 10, bo przekazujemy przez wartość (kopię)
 
-        Math.IncreaseBy5ByReference(ref a); // przekazuję adres pamięci
-        Console.WriteLine(a);
+ Math.IncreaseBy5ByReference( ref a); // przekazuję adres pamięci
+ Console.WriteLine("po przekazaniu referencji a= " + a);
        
         Console.ReadLine();
 
@@ -174,22 +176,18 @@ class Math
     {
         if (x < 0)
             return x * (-1);
-
         return x;
-
     }
 
     public static int IncreaseBy5(int nr)
     {
         nr += 5;
-
         return nr;
     }
 
     public static int IncreaseBy5ByReference(ref int nr)
     {
         nr += 5;
-
         return nr;
     }
 }
@@ -303,6 +301,340 @@ class Math
 
 
 ### zaimplementowane Właściwości
+ręczne pisanie Właściwości
+```c#
+class Obywatel 
+{
+	private string imie;
+	public string Imie
+	{
+		get 
+		{
+			return imie;
+		}
+		set 
+		{
+			imie = value;
+		}
+	}
+}
+```
+
+
+automatycznie
+```c#
+using System;
+using System.Collections.Generic;
+
+class Program {
+  public static void Main (string[] args) {
+
+    //przekazywanie argumentów nazwanych imie: 
+    Obywatel ob1 = new Obywatel(nazwisko: "Nowak", imie: "Jan") ;
+    // ob1.Imie = "Tomek" ; //error
+    Console.WriteLine(ob1.Imie) ;
+    
+  }
+}
+
+  class Obywatel
+  {
+    public string Imie {get; private set;} // musi być get; set; z private imie jest niezmienialne
+    public string Nazwisko {get; set;} 
+
+    public Obywatel(string imie, string nazwisko){
+      this.Imie = imie ;
+      this.Nazwisko=nazwisko ;
+      
+    }
+  }
+```
+
+
+---
+
+# Konstruktor statyczny
+- Wywoływany jest przed stworzeniem obiektu
+- nie jest dziedziczony
+- Konstruktor statyczny w C# jest wywoływany automatycznie przed użyciem klasy lub przed utworzeniem instancji klasy. Służy do inicjalizacji statycznych pól klasy lub do wykonania innych operacji, które mają być wykonane tylko raz.
+- nie przyjmuje żadnych argumentów i nie zwraca żadnych wartości
+
+```C#
+using System;
+
+class Program
+{
+    public static void Main()
+    {
+        Console.WriteLine(Welcomer.Msg);
+        Console.WriteLine(Welcomer.Msg);
+        Console.WriteLine(Welcomer.Msg);
+        Console.WriteLine(Welcomer.Msg);
+
+    }
+}
+
+class Welcomer
+{
+    public static string Msg
+    {
+        get;
+        private set;
+    }
+
+    static Welcomer()
+    {
+        Console.WriteLine("Uruchomiłem Welcomera");
+        DateTime now = DateTime.Now;
+
+        if (now.Hour < 17)
+        {
+            Msg = "Dzień dobry";
+        }
+        else
+        {
+            Msg = "Dobry wieczór";
+        }
+    }
+}
+```
+
+inny przykład
+```c#
+using System;
+
+public class MojaKlasa
+{
+    // Statyczne pole
+    public static int Licznik { get; set; }
+
+    // Konstruktor statyczny
+    static MojaKlasa()
+    {
+        Licznik = 0;
+        Console.WriteLine("Konstruktor statyczny został wywołany.");
+    }
+
+    // Metoda statyczna, która zwiększa wartość Licznik
+    public static void InkrementujLicznik()
+    {
+        Licznik++;
+    }
+}
+
+class Program
+{
+    static void Main()
+    {
+        // Możemy używać klasy i jej składowych statycznych bez tworzenia instancji
+        MojaKlasa.InkrementujLicznik();
+        MojaKlasa.InkrementujLicznik();
+
+        Console.WriteLine($"Wartość Licznik: {MojaKlasa.Licznik}");
+    }
+}
+
+```
+
+# Konstrutor wywołujący inne konstruktory
+
+```c#
+using System;
+using System.ComponentModel;
+
+class Program
+{
+    public static void Main()
+    {
+
+        Car maluch = new Car("super wóz");
+        Console.WriteLine(maluch.numOfWheels);
+    }
+}
+
+class Car
+{
+    public string description;
+    public byte numOfWheels;
+
+    public Car(string desc, byte numOfWheels) {
+        this.description = desc;
+        this.numOfWheels = numOfWheels;
+    }
+
+    // konstruktor wywołujący inny konstruktor
+    public Car(string desc) : this(desc, 4)
+    {
+        Console.WriteLine("Make a car with 4 wheels");
+    }
+
+}
+
+```
+
+# Konstruktory kopiujące
+klasa `Car` z poprzedniego kodu
+```c#
+class Program
+{
+    public static void Main()
+    {
+
+        // kopiowanie wartości
+        int a = 10;
+        int b = a;
+        b = 999;
+        Console.WriteLine("a = " + a);
+        Console.WriteLine("b = " + b);
+        Console.WriteLine("a = " + a);
+
+        // przypisanie referencji
+        Car maluch = new Car("super wóz");
+        Car polonez = maluch;
+        Console.WriteLine("maluch: " + maluch.description);
+        polonez.description = "Samochów biodegradowalny";
+        Console.WriteLine("polonez: " + polonez.description);
+        Console.WriteLine("maluch (po zmianie poloneza): " + maluch.description);
+
+    }
+}
+```
+aby `Car polonez = maluch;` było kopiowanie obiektu, a nie przypisaniem referencji należy zdefiniować konstruktor kopiujący
+czyli do klasy `Car` dopisujemy nowy konstrukotr
+```c#
+    public Car(Car samochod)
+    {
+        this.description = samochod.description;
+        this.numOfWheels = samochod.numOfWheels;
+    }
+```
+
+```c#
+class Program
+{
+    public static void Main()
+    {
+
+        Car maluch = new Car("super wóz");
+
+		//kopiujemy obiekt
+        Car polonez = new Car(maluch);
+        Console.WriteLine("maluch: " + maluch.description);
+        polonez.description = "Samochów biodegradowalny";
+        Console.WriteLine("polonez: " + polonez.description);
+        Console.WriteLine("maluch (po zmianie poloneza): " + maluch.description);
+
+    }
+}
+
+```
+
+--------
+# klasy zagnieżdżone
+```c#
+class Program
+{
+     static void Main(string[] args)
+    {
+        Car car = new Car();
+
+    }
+}
+
+
+class Car
+{
+    private class Engine
+    {
+        public uint Power;
+        public Engine(uint power = 500)
+        { 
+            this.Power = power;
+            Console.WriteLine("I am from the engin constructor");
+        }
+    }
+
+    public Car()
+    {
+        this.engine = new Engine();
+        
+        Console.WriteLine("I am from the car constructor");
+    }
+
+    public uint getPower()
+    {
+        return this.engine.Power;
+    }
+
+    private Engine engine; 
+}
+```
+
+
+
+
+# Dziedziczenie
+plik `Punk.cs`
+```c#
+ public class Punkt
+ {
+    public int X
+    {
+       /*get; private set;*/
+       get; protected set; // te, które dziedziczą mogą ustawiać nową wartość
+   }
+    public int Y
+    {
+       /*get; private set;*/
+       get; protected set; // te, które dziedziczą mogą ustawiać nową wartość
+
+   }
+
+   public Punkt()
+   {
+      Console.WriteLine("Jestem BEZargumentowym konstruktorem" +
+               "                    klasy PUNKT");
+           X = 0;
+           Y = 0;
+    }
+   public Punkt(int x, int y)
+   {
+      Console.WriteLine("Jestem DWUargumentowym konstruktorem " +
+               "               klasy PUNKT");
+           X = x;
+           Y = y;
+    }
+}
+```
+
+Plik `Puntt3d.cs`
+```c#
+public class Punkt3D : Punkt
+{
+	public int Z {
+        /*get; private set;*/
+        get; protected set; // te, które dziedziczą mogą ustawiać nową wartość
+
+    }
+
+    public Punkt3D()
+	{
+	}
+
+	public Punkt3D(int x, int y, int z) : base(x, y)
+	{
+		this.Z = z;
+	}
+
+    public string wyswietlKoordynaty()
+    {
+        return $"{base.wyswietlKoordynaty()} Z={ this.Z}" ;
+    }
+}
+```
+
+
+
 
 
 

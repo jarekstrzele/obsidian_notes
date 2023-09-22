@@ -1,7 +1,19 @@
 #helion
 
+strona Reacta > stwórz aplikację w REact ->
+Trzy elementy, aby stworzyć aplikację webową:
+- **menadżer pakietów** `npm`, `yarn`
+- **bundler** (np. `webpack`, `parcel`) umożliwia pisanie kodu modułowego i pakowanie go w małe pakiety, aby zoptymalizować czas ładowania
+- **kompilator** (np. `Babel`) pozwala na stosowanie nowych wersji JS przy zachowaniu kompatybilności  ze starszymi przeglądarkami
+
+Zainstaluj dla Windowsa terminal `Conemu`
+
+
 - `npm init -y ` -> package.json (nazwa od folderu)
-- `npm install webpack --save-dev` (tryb deweloperski) (`--save` tylko na produkcji) (`-D` tylko deweloperski tryb, `-S` w każdym trybie)
+- `npm install webpack --save-dev` (tryb deweloperski) (`--save` tylko na produkcji) -> aliasy
+	- `-D` tylko deweloperski tryb,
+	- `-S` w każdym trybie)
+
 
 `npm i`  sprawdza *package.json* i kompiluje wszystkie paczki, jakie odnajdzie (==pliki json nie moga mieć przecinków na końcu bloków!!==)
 add to package.json
@@ -13,7 +25,11 @@ add to package.json
   }
 ```
 
-## `npm i react  react-dom -S`
+- `"webpack-cli": "5.0.1"` ręcznie dopisałem do `package.json`a, a potem `npm i`, aby do instalował `cli`
+potem: 
+#### `npm i react  react-dom -S`
+czyli doinstalujemy `react` i `react-dom` w trybie deweloperskim oraz trybie produkcyjnym
+
 
 ### Checking `webpack`
 add /src/index.js (`console.log("Hey") ;`)

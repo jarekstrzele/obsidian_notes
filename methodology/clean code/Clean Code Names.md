@@ -1,9 +1,4 @@
-
-<<<<<<< HEAD
 [[_ Clean Code]]
-=======
-[[Clean Code]]
->>>>>>> remotes/origin/master
 
 >[!imortant] Clean Code
 >- it is not about whether code works
@@ -42,7 +37,7 @@
 ### camelCase
 - `isValid`, `sendResponse`
 - Java, JavaScript
-- variables, functions, methonds
+- variables, functions, methods
 
 ### PascalCase
 - `AdminRole`

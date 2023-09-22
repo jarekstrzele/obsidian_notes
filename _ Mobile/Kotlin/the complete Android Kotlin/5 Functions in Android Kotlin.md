@@ -1,6 +1,9 @@
 [[_ the complete Android Kotlin]]
 
-#kotlin/function
+#kotlin/function #kotlin/null_safety
+
+OPERATOR `!!` *Null Safe*ty
+> Należy jednak pamiętać, że zbyt częste używanie operatora `!!` może prowadzić do trudności w zarządzaniu wartościami null i utrudniać zrozumienie i utrzymanie kodu. Dlatego zaleca się stosowanie operatora `!!` tylko wtedy, gdy masz pewność, że wartość nie będzie null, lub w przypadkach specjalnych, takich jak testowanie lub debugowanie. W większości sytuacji lepiej jest używać operatora safe call `?.` i odpowiednio obsługiwać wartości null w swoim kodzie.
 
 ```kotlin
 fun addNumber(x:Int, y:Int):Int {

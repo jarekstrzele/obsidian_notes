@@ -122,13 +122,6 @@ and in the `home` file write `<p> {{{ stuff }}} </p>`
 the value of `stuff` can be anything
 
 ----
-# git
-<<<<<<< HEAD
-[[_ WEB/N_O_D_E/Lear Node.js and Javascript/git]]
-=======
-[[_ WEB/N_O_D_E/Lear Node.js and Javascript/git]]
->>>>>>> remotes/origin/master
-
 
 ---
 ## Adding a new page

@@ -2,6 +2,11 @@
 
 [[_ the complete Android Kotlin]]
 
+---
+Kotlin programmer dictionary: https://blog.kotlin-academy.com
+
+---
+
 
 1. create a new project in AnSt (Android Studio)
 2. add a new file (`FileName`) 
@@ -183,13 +188,17 @@ fun main() {
 ```
 
 
-## ArrayList
+##  `arrayListOf` 
 #kotlin/arraylist
+==`arrayListOf` to zalecany sposób na tworzenie listy== 
 
-`var age = arrayList<Int>(2,10,4)`
+`var xxx = arrayListOf<Int>(2,10,4) ;`
+`var xxx = arrayListOf(2,10,4) ;` // sam się domyśli jaki to typ
+`var xxx = arrayListOf(2,"to jest tekst", 10,4)`
+
 
 only init:
-`var age = ArrayList<Int>()`
+`var age = ArrayList<Int>()` // pochodzi z języka Java, nie zalecana
 
 add
 `age.add(index:3, element: 20  )`
@@ -216,7 +225,7 @@ fun main() {
     age.remove(22)  
     println(age.size)  
   
-    var cars = arrayListOf< String>("ala", "ma", "kota")  
+    var cars = arrayListOf<String>("ala", "ma", "kota")  
     cars.add("nowy")  
   
     var mixArrayList = ArrayList<Any>()  
@@ -233,7 +242,7 @@ fun main() {
 #kotlin/set 
 
 `var age = setOf<Int>(1,2,3,2)`
-`println(age.siz)` --> 3
+`println(age.size)` --> 3
 
 
 ```kotlin
@@ -277,7 +286,7 @@ fun main() {
 ```
 
 
-
-
+`put` vs `replace`
+> `put(key, value)` używamy, gdy chcemy dodać nową parę klucz-wartość lub zastąpić wartość dla istniejącego klucza, podczas gdy `replace(key, value)` używamy tylko do zastępowania wartości dla istniejącego klucza.
 
 

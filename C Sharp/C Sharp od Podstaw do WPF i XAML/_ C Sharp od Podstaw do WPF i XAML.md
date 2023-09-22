@@ -3,6 +3,12 @@
 ----
 [[1 OOP w CSharp]]
 [[2 Aplikacje WPF]]
+[[3 Układ komponentów]]
+[[4 Tworzenie aplikacji WPF]]
+
+
+
+
 
 ------
 [[#Działanie]]
@@ -120,7 +126,7 @@ switch (nazwaKraju)
 {
 	case "PL":
 		Console.WriteLine("Jesteś  z Polski") ;
-		break l
+		break ;
 	case "EN":
 	case "UK":
 		Console.WriteLine("Jesteś z  Angli") ;
@@ -132,7 +138,7 @@ switch (nazwaKraju)
 ```
 
 
-`(warunek) ? gdy warunek true : gdy warunek false`
+`zmienn = (warunek) ? wartość zmiennej gdy warunek true : wartość zmiennej, gdy warunek false`
 
 # Pętle
 
@@ -158,6 +164,9 @@ do
 --------
 # Tablice
 #csharp/table
+
+>Tablice w C# są kolekcjami o stałej długości. Po zadeklarowaniu tablicy, nie można zmienić jej rozmiaru. W przypadku `int[] lista = {1, 2, 3, 4};`, tablica ma długość 4.
+
 
 ```c#
 
@@ -275,6 +284,45 @@ class Program
 
 }
 ```
+
+# Lista
+#csharp/list
+> Listy w C# są dynamicznymi kolekcjami, które mogą zmieniać swój rozmiar w trakcie działania programu. Możesz dodawać, usuwać i modyfikować elementy w liście w dowolnym momencie.
+
+
+## modify
+```c#
+List<int> lista = new List<int> {1, 2, 3};
+lista[1] = 4; // Zmienia wartość elementu na indeksie 1 na 4
+
+List<int> lista = new List<int> {1, 2, 3};
+lista.Insert(1, 4); // Wstawia liczbę 4 na indeksie 1, lista staje się {1, 4, 2, 3}
+
+
+```
+
+## remove
+```c#
+List<int> lista = new List<int> {1, 2, 3, 4, 5};
+lista.Remove(3); // Usuwa pierwsze wystąpienie liczby 3 z listy
+
+List<int> lista = new List<int> {1, 2, 3, 4, 5};
+lista.RemoveAt(2); // Usuwa element na indeksie 2 (czyli liczbę 3)
+
+List<int> lista = new List<int> {1, 2, 3, 4, 5};
+lista.RemoveAll(x => x > 3); // Usuwa wszystkie elementy większe niż 3
+
+List<int> lista = new List<int> {1, 2, 3, 4, 5};
+lista.RemoveRange(1, 3); // Usuwa elementy od indeksu 1 do 3 (włącznie)
+
+List<int> lista = new List<int> {1, 2, 3, 4, 5};
+lista.Clear(); // Usuwa wszystkie elementy z listy, lista staje się pusta
+
+
+```
+
+
+
 
 
 

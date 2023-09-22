@@ -66,6 +66,29 @@
             }
           },
           {
+            "id": "b7d8e6f6ad7f36d1",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "staged": false,
+                "file": "conflict-files-obsidian-git.md"
+              }
+            }
+          },
+          {
+            "id": "633038b26ad5da08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "7260212eafc0e062",
             "type": "leaf",
             "state": {
@@ -76,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -158,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/UBUNTU.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -175,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/UBUNTU.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/UBUNTU.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -246,44 +269,44 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "3f9eb640ebf6f471",
+  "active": "633038b26ad5da08",
   "lastOpenFiles": [
-    "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 6 Invaders Project.md",
-    "_ Mobile/Kotlin/the complete Android Kotlin/_ the complete Android Kotlin.md",
-    "_ Mobile/Kotlin/the complete Android Kotlin/7 Intro to Android App Development.md",
-    "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md",
-    "_ Mobile/Kotlin/the complete Android Kotlin/5 Functions in Android Kotlin.md",
-    "_ Mobile/Kotlin/the complete Android Kotlin/4 Loops in Kotlin.md",
-    "_ Mobile/Kotlin/the complete Android Kotlin/3 Control Flow Statements in Kotlin.md",
-    "_ Mobile/Kotlin/the complete Android Kotlin/2 Operators in Kotlin.md",
-    "_ Mobile/Kotlin/the complete Android Kotlin/1 Fundamentals of Kotlin.md",
+    "conflict-files-obsidian-git.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/6 Zewnętrzne moduły.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/5 Jak Działa NodeJS.md",
+    "_ WEB/N_O_D_E/NODE - the complete guide/5 Working with Express.js.md",
+    "_ WEB/N_O_D_E/Mosh Node/3.1.1. Recap Building RestFul APIS with Express.md",
+    "_ Mobile/Kotlin/the complete Android Kotlin/8.3 Button.md",
+    "_ Mobile/Kotlin/the complete Android Kotlin/8.2 TextView.md",
+    "_ Mobile/Kotlin/the complete Android Kotlin/8.1 Layouts in Android App.md",
+    "_ Mobile/Kotlin/the complete Android Kotlin/8 Android Components.md",
+    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/_ the complete Android 12.md",
+    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/4. OOP Kotlin.md",
+    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/3 Kotlin fundamentals.md",
+    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/2 Getting ready with Android Studio.md",
+    "_ Mobile/Kotlin/the complete Android 12 and Kotlin",
+    "_ FullStack/Web Development 2023/19 jQuery.md",
+    "P Y T H O N/Master_Python_100/19 Intances, States, HOF.md",
+    "P Y T H O N/Master_Python_100/18 Turtle and the GUI.md",
+    "JAVASCRIPT/Programowanie w JS od Zera do Mastera/_ Programowanie w JS od Zera do Mastera.md",
+    "JAVASCRIPT/Programowanie w JS od Zera do Mastera",
+    "JAVASCRIPT/ES refresh.md",
+    "Excalidraw/middleware_Draw.excalidraw.md",
+    "C Sharp/Fast WFP  C Sharp/_ Fast WFP C Sharp.md",
+    "C Sharp/Fast WFP  C Sharp",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/4 Tworzenie aplikacji WPF.md",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/3 Układ komponentów.md",
+    "A I/algorithmic/Grafy w Pythonie/_ 0 Grafy w Pythonie.md",
+    "A I/algorithmic/Grafy w Pythonie/4 drzewo binarnych wyszukiwań.md",
+    "A I/algorithmic/Grafy w Pythonie/3 - Algorytmy grafowe.md",
+    "A I/algorithmic/Grafy w Pythonie",
+    "A I/algorithmic",
     "_ Mobile/Kotlin/the complete Android Kotlin",
     "_ Mobile/Kotlin",
-    "C++/Programowanie w języku C++ od A do Z/2 Operatory.md",
-    "C++/Programowanie w języku C++ od A do Z/1 Złożone typy danych.md",
-    "C++/Beginning C++/_ Intro C++.md",
     "C++/Beginning C++",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/2 Aplikacje WPF.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
-    "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 5 Final Lectures.md",
-    "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 4 The Meat of Rust.md",
-    "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 3 The Heart of Rust.md",
-    "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 2 Primitive Types & Control Flow.md",
-    "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 1 Fundamentals.md",
-    "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/_ Ultimate Rust Crash Course 1.md",
-    "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 2/idiomatic code.md",
-    "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 2/_ Ultimate Rust Crash Course 2.md",
-    "R U S T/ULTIMATE Rust Lang Tutorial/_ LetsGetRusty Ultimate Rust Lang Tutorial.md",
-    "Git/git od podstaw dla każdego/2 Commits.md",
-    "Excalidraw/git_diff.excalidraw.md",
-    "Git/git od podstaw dla każdego/1 wprowadzanie zmian i rewizje.md",
     "Git/Mosh GIT - the ultimate Git Course",
     "Git/git od podstaw dla każdego",
-    "Docker/Docker od podstaw",
-    "_ WEB/Django/Django For Everybody",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML",
-    "C Sharp",
-    "TYPESCRIPT/Learn TypeScript - Full Tutorial",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",

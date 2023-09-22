@@ -1,4 +1,5 @@
 
+
 ----
 # ES6 
 
@@ -324,7 +325,7 @@ mojaLista.forEach( (arg) => console.log(String(arg)+"200"))
 ```js
 var mojaLista = [1,2, true, false, "Tom"]
 
-for (let item in mojaLista){
+for (let item of  mojaLista){
   console.log(item);
   }
 ```

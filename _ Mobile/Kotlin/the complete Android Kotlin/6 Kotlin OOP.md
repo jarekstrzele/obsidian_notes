@@ -14,7 +14,7 @@
 -----
 ==class== is a group of similar entities (doesn't consume memory)
 
-==object== is a instance of class (consumes memory):
+==object== is an  instance of class (consumes memory):
 - state (data of the object) `property`
 - behaviour (action of the object) `method`
 - identity (used internally by Java) 
@@ -42,8 +42,6 @@ CREATE an OBJECT
 `var objectName = ClassName()`
 
 *objectName* is the reference which holds the memory address of the ClassName object
-
-
 
 ## Naming convention
 - Class Name: a noun, uppercase `String, Car, ...`
@@ -153,8 +151,6 @@ class MySecondaryConstructor {
         this.name = name  
         this.model = model  
     }  
-  
-  
 }
 ```
 
