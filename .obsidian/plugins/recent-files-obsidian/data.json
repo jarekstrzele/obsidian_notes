@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "7 Express JS",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md"
+    },
+    {
+      "basename": "5 Working with Express.js",
+      "path": "_ WEB/N_O_D_E/NODE - the complete guide/5 Working with Express.js.md"
+    },
+    {
+      "basename": "3 Node Basics",
+      "path": "_ WEB/N_O_D_E/NODE - the complete guide/3 Node Basics.md"
+    },
+    {
+      "basename": "3.1 Express - introducing",
+      "path": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md"
+    },
+    {
+      "basename": "3.1.1. Recap Building RestFul APIS with Express",
+      "path": "_ WEB/N_O_D_E/Mosh Node/3.1.1. Recap Building RestFul APIS with Express.md"
+    },
+    {
+      "basename": "- 3 Node",
+      "path": "_ WEB/N_O_D_E/Lear Node.js and Javascript/- 3 Node.md"
+    },
+    {
       "basename": "8 Android Components",
       "path": "_ Mobile/Kotlin/the complete Android Kotlin/8 Android Components.md"
     },
@@ -57,22 +81,6 @@
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md"
     },
     {
-      "basename": "7 Express JS",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md"
-    },
-    {
-      "basename": "3.1 Express - introducing",
-      "path": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md"
-    },
-    {
-      "basename": "5 Working with Express.js",
-      "path": "_ WEB/N_O_D_E/NODE - the complete guide/5 Working with Express.js.md"
-    },
-    {
-      "basename": "3 Node Basics",
-      "path": "_ WEB/N_O_D_E/NODE - the complete guide/3 Node Basics.md"
-    },
-    {
       "basename": "ES refresh",
       "path": "JAVASCRIPT/ES refresh.md"
     },
@@ -103,10 +111,6 @@
     {
       "basename": "_ Node and JavaScript",
       "path": "_ WEB/N_O_D_E/Lear Node.js and Javascript/_ Node and JavaScript.md"
-    },
-    {
-      "basename": "- 3 Node",
-      "path": "_ WEB/N_O_D_E/Lear Node.js and Javascript/- 3 Node.md"
     },
     {
       "basename": "- 2 JavaScript",
@@ -195,10 +199,6 @@
     {
       "basename": "Numpy macierze",
       "path": "P Y T H O N/Data Science BootCamp od A do Z 2022/NumPy/Numpy macierze.md"
-    },
-    {
-      "basename": "NumPy funkcje",
-      "path": "P Y T H O N/Data Science BootCamp od A do Z 2022/NumPy/NumPy funkcje.md"
     }
   ],
   "omittedPaths": [],

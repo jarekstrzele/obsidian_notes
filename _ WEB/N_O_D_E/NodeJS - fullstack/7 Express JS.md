@@ -177,6 +177,8 @@ app.listen(9090, ()=>console.log("localhost:9090"))
 ```
 
 
+PRZYKŁAD z `serve-index`
+https://www.npmjs.com/package/serve-index
 
 
 
