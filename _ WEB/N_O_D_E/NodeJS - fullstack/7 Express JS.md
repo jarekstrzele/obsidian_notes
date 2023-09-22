@@ -60,7 +60,7 @@ const app = express()
 
 //app.use( someFun) - someFun będzie wykonywana dla każdego zapytania przed
 // - w naszym przypadku - wykonaniem res.send("Witaj świecie")
-app.use(express.static("public"))
+app.use(express.static("public "))
 // w projekcie mam folder /public/ w którym
 // jest index.html
 // oraz podfolder CSS z css
