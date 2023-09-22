@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "1 OOP w CSharp",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md"
+    },
+    {
+      "basename": "_ Fast WFP C Sharp",
+      "path": "C Sharp/Fast WFP  C Sharp/_ Fast WFP C Sharp.md"
+    },
+    {
       "basename": "3 Układ komponentów",
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/3 Układ komponentów.md"
     },
     {
       "basename": "2 Aplikacje WPF",
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/2 Aplikacje WPF.md"
-    },
-    {
-      "basename": "1 OOP w CSharp",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md"
     },
     {
       "basename": "4 Tworzenie aplikacji WPF",
@@ -43,10 +47,6 @@
     {
       "basename": "_ C Sharp od Podstaw do WPF i XAML",
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md"
-    },
-    {
-      "basename": "_ Fast WFP C Sharp",
-      "path": "C Sharp/Fast WFP  C Sharp/_ Fast WFP C Sharp.md"
     },
     {
       "basename": "7 Express JS",
