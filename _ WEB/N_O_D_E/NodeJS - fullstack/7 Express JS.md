@@ -60,7 +60,7 @@ const app = express()
 
 //app.use( someFun) - someFun będzie wykonywana dla każdego zapytania przed
 // - w naszym przypadku - wykonaniem res.send("Witaj świecie")
-
+app.use(express.static("public"))
 // w projekcie mam folder /public/ w którym
 // jest index.html
 // oraz podfolder CSS z css
@@ -180,7 +180,7 @@ PRZYKŁAD z `serve-index`
 https://www.npmjs.com/package/serve-index
 
 instalacja:`npm install serve-index`
-
+ 
 ```js
 const express = require("express")
 const app = express()
