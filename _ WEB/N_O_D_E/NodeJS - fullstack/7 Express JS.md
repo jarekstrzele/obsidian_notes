@@ -64,7 +64,6 @@ const app = express()
 // w projekcie mam folder /public/ w którym
 // jest index.html
 // oraz podfolder CSS z css
-app.use( express.static("public")) // sam ExpressJS będzie dbał o poprawne typy MIM
 
 app.disable("X-Powered-By")
 
@@ -180,7 +179,20 @@ app.listen(9090, ()=>console.log("localhost:9090"))
 PRZYKŁAD z `serve-index`
 https://www.npmjs.com/package/serve-index
 
+instalacja:`npm install serve-index`
 
+```js
+const express = require("express")
+const app = express()
+const serveIndex = require("serve-index")
+  
+
+app.use("/images", express.static("public/images"))
+app.use("/images", serveIndex("public/images"))
+
+//....
+```
+w folderze `public` mam podfolder `images`
 
 
 
