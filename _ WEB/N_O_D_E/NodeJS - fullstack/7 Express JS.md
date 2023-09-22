@@ -189,10 +189,27 @@ const serveIndex = require("serve-index")
 
 app.use("/images", express.static("public/images"))
 app.use("/images", serveIndex("public/images"))
-
+// też działa
+// app.use("/abc", express.static("public/images"))
+//app.use("/abc", serveIndex("public/images"))
 //....
 ```
 w folderze `public` mam podfolder `images`
+więc pod adresem `/images` będę mógł ogląć zawartość katalogu
+
+---
+# REST API
+#restapi 
+
+
+
+	 
+
+
+
+
+
+
 
 
 
