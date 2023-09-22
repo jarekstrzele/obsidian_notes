@@ -56,6 +56,16 @@
             }
           },
           {
+            "id": "3f9eb640ebf6f471",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
+              }
+            }
+          },
+          {
             "id": "7260212eafc0e062",
             "type": "leaf",
             "state": {
@@ -66,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -236,7 +246,7 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "c8db0622c44a35c6",
+  "active": "3f9eb640ebf6f471",
   "lastOpenFiles": [
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 6 Invaders Project.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/_ the complete Android Kotlin.md",
