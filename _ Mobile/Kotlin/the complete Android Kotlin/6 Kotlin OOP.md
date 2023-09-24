@@ -8,9 +8,6 @@
 [[#Interfejs]]
 
 
-
-
-
 -----
 ==class== is a group of similar entities (doesn't consume memory)
 

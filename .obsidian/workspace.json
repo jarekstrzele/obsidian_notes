@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/2 Getting ready with Android Studio.md",
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/7 Intro to Android App Development.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/2 Getting ready with Android Studio.md",
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/7 Intro to Android App Development.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/2 Getting ready with Android Studio.md",
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/7 Intro to Android App Development.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/2 Getting ready with Android Studio.md"
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/7 Intro to Android App Development.md"
               }
             }
           },
@@ -221,6 +221,16 @@
   },
   "active": "a7f8cec5a216a21b",
   "lastOpenFiles": [
+    "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md",
+    "_ Mobile/Kotlin/the complete Android Kotlin/7 Intro to Android App Development.md",
+    "_ Mobile/Kotlin/the complete Android Kotlin/5 Functions in Android Kotlin.md",
+    "_ Mobile/Kotlin/the complete Android Kotlin/4 Loops in Kotlin.md",
+    "_ Mobile/Kotlin/the complete Android Kotlin/3 Control Flow Statements in Kotlin.md",
+    "_ Mobile/Kotlin/the complete Android Kotlin/2 Operators in Kotlin.md",
+    "_ Mobile/Kotlin/the complete Android Kotlin/1 Fundamentals of Kotlin.md",
+    "_ Mobile/Kotlin/the complete Android Kotlin/_ the complete Android Kotlin.md",
+    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/3 Kotlin fundamentals.md",
+    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/2 Getting ready with Android Studio.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin/_ the complete Android 12.md",
     "_ Mobile/REACT NATIVE/android studio 1.md",
     "_ Mobile/REACT NATIVE/android studio.md",
@@ -237,16 +247,6 @@
     "_ Mobile/REACT NATIVE/plurasight/Building Mobile Apps with React Native/3 - React Native - Stack navigation.md",
     "_ Mobile/REACT NATIVE/plurasight/Building Mobile Apps with React Native/_ 0 React Native Mobile Apps.md",
     "_ Mobile/REACT NATIVE/Master React Native Funds/_ 0 start React Native.md",
-    "Git/git od podstaw dla każdego/_ git od podstaw.md",
-    "linux/UBUNTU.md",
-    "Excalidraw/git_diff.excalidraw.md",
-    "conflict-files-obsidian-git.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/6 Zewnętrzne moduły.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/5 Jak Działa NodeJS.md",
-    "_ WEB/N_O_D_E/NODE - the complete guide/5 Working with Express.js.md",
-    "_ WEB/N_O_D_E/Mosh Node/3.1.1. Recap Building RestFul APIS with Express.md",
-    "_ Mobile/Kotlin/the complete Android Kotlin/8.3 Button.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin",
     "JAVASCRIPT/Programowanie w JS od Zera do Mastera",
     "C Sharp/Fast WFP  C Sharp",

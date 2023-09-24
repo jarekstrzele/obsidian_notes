@@ -86,10 +86,7 @@ Genymotion Emulator to emulator [Androida](https://www.google.com/search?q=Andr
 
 Jeśli masz jakieś konkretne pytania dotyczące Genymotion Emulator, chętnie na nie odpowiem!
 
-
-
 ----------
-
 # Gradle Build System
 
 >[!info] Gradle
