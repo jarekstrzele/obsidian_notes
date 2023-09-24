@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e09fd8603ad2539e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker/For Absolute Beginner/_ Intro Docker Mumshad.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "045c64a950639aaa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "R U S T/Programmowanie_w Rust/2. Pierwsze spotkanie z Rustem.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a7f8cec5a216a21b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/git od podstaw dla każdego/_ git od podstaw.md",
+                "file": "_ Mobile/REACT NATIVE/React Native Practical Guide/1 React Native Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -63,8 +39,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/git od podstaw dla każdego/_ git od podstaw.md",
+                "file": "_ Mobile/REACT NATIVE/React Native Practical Guide/1 React Native Basics.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -163,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/git od podstaw dla każdego/_ git od podstaw.md",
+                "file": "_ Mobile/REACT NATIVE/React Native Practical Guide/1 React Native Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/git od podstaw dla każdego/_ git od podstaw.md"
+                "file": "_ Mobile/REACT NATIVE/React Native Practical Guide/1 React Native Basics.md"
               }
             }
           },
@@ -246,6 +221,11 @@
   },
   "active": "a7f8cec5a216a21b",
   "lastOpenFiles": [
+    "_ Mobile/REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
+    "_ Mobile/REACT NATIVE/plurasight/Building Mobile Apps with React Native/3 - React Native - Stack navigation.md",
+    "_ Mobile/REACT NATIVE/plurasight/Building Mobile Apps with React Native/_ 0 React Native Mobile Apps.md",
+    "_ Mobile/REACT NATIVE/Master React Native Funds/_ 0 start React Native.md",
+    "Git/git od podstaw dla każdego/_ git od podstaw.md",
     "linux/UBUNTU.md",
     "Excalidraw/git_diff.excalidraw.md",
     "conflict-files-obsidian-git.md",
@@ -269,12 +249,7 @@
     "JAVASCRIPT/Programowanie w JS od Zera do Mastera/_ Programowanie w JS od Zera do Mastera.md",
     "JAVASCRIPT/Programowanie w JS od Zera do Mastera",
     "JAVASCRIPT/ES refresh.md",
-    "Excalidraw/middleware_Draw.excalidraw.md",
-    "C Sharp/Fast WFP  C Sharp/_ Fast WFP C Sharp.md",
     "C Sharp/Fast WFP  C Sharp",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/4 Tworzenie aplikacji WPF.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/3 Układ komponentów.md",
-    "A I/algorithmic/Grafy w Pythonie/_ 0 Grafy w Pythonie.md",
     "A I/algorithmic/Grafy w Pythonie",
     "A I/algorithmic",
     "_ Mobile/Kotlin/the complete Android Kotlin",
