@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "8.3 Button",
+      "path": "_ Mobile/Kotlin/the complete Android Kotlin/8.3 Button.md"
+    },
+    {
+      "basename": "4. OOP Kotlin",
+      "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/4. OOP Kotlin.md"
+    },
+    {
       "basename": "8.2 TextView",
       "path": "_ Mobile/Kotlin/the complete Android Kotlin/8.2 TextView.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "13 CLI App MiniGrap",
       "path": "R U S T/ULTIMATE Rust Lang Tutorial/13 CLI App MiniGrap.md"
-    },
-    {
-      "basename": "14 Closure",
-      "path": "R U S T/ULTIMATE Rust Lang Tutorial/14 Closure.md"
-    },
-    {
-      "basename": "_ Intro Docker Mumshad",
-      "path": "Docker/For Absolute Beginner/_ Intro Docker Mumshad.md"
     }
   ],
   "omittedPaths": [],
