@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/REACT NATIVE/React Native Practical Guide/1 React Native Basics.md",
+                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/2 Getting ready with Android Studio.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/REACT NATIVE/React Native Practical Guide/1 React Native Basics.md",
+                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/2 Getting ready with Android Studio.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/REACT NATIVE/React Native Practical Guide/1 React Native Basics.md",
+                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/2 Getting ready with Android Studio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/REACT NATIVE/React Native Practical Guide/1 React Native Basics.md"
+                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/2 Getting ready with Android Studio.md"
               }
             }
           },
@@ -221,6 +221,18 @@
   },
   "active": "a7f8cec5a216a21b",
   "lastOpenFiles": [
+    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/_ the complete Android 12.md",
+    "_ Mobile/REACT NATIVE/android studio 1.md",
+    "_ Mobile/REACT NATIVE/android studio.md",
+    "_ Mobile/REACT NATIVE/Android.md",
+    "_ Mobile/REACT NATIVE/youtube_RN_Crush_course/_ 0 React Native Crush Course.md",
+    "_ Mobile/REACT NATIVE/The Complete React NativePlusHooks/_ 0 Complete React Native.md",
+    "_ Mobile/REACT NATIVE/React Native Practical Guide/3 mini game.md",
+    "_ Mobile/REACT NATIVE/React Native Practical Guide/2 Debugging React Native Apps.md",
+    "_ Mobile/REACT NATIVE/React Native Practical Guide/1.7 Modal Screen.md",
+    "_ Mobile/REACT NATIVE/React Native Practical Guide/1.6 Press to Delete and Style it.md",
+    "_ Mobile/REACT NATIVE/React Native Practical Guide/1.2. Handling Events.md",
+    "_ Mobile/REACT NATIVE/React Native Practical Guide/1 React Native Basics.md",
     "_ Mobile/REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
     "_ Mobile/REACT NATIVE/plurasight/Building Mobile Apps with React Native/3 - React Native - Stack navigation.md",
     "_ Mobile/REACT NATIVE/plurasight/Building Mobile Apps with React Native/_ 0 React Native Mobile Apps.md",
@@ -235,20 +247,8 @@
     "_ WEB/N_O_D_E/NODE - the complete guide/5 Working with Express.js.md",
     "_ WEB/N_O_D_E/Mosh Node/3.1.1. Recap Building RestFul APIS with Express.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/8.3 Button.md",
-    "_ Mobile/Kotlin/the complete Android Kotlin/8.2 TextView.md",
-    "_ Mobile/Kotlin/the complete Android Kotlin/8.1 Layouts in Android App.md",
-    "_ Mobile/Kotlin/the complete Android Kotlin/8 Android Components.md",
-    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/_ the complete Android 12.md",
-    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/4. OOP Kotlin.md",
-    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/3 Kotlin fundamentals.md",
-    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/2 Getting ready with Android Studio.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin",
-    "_ FullStack/Web Development 2023/19 jQuery.md",
-    "P Y T H O N/Master_Python_100/19 Intances, States, HOF.md",
-    "P Y T H O N/Master_Python_100/18 Turtle and the GUI.md",
-    "JAVASCRIPT/Programowanie w JS od Zera do Mastera/_ Programowanie w JS od Zera do Mastera.md",
     "JAVASCRIPT/Programowanie w JS od Zera do Mastera",
-    "JAVASCRIPT/ES refresh.md",
     "C Sharp/Fast WFP  C Sharp",
     "A I/algorithmic/Grafy w Pythonie",
     "A I/algorithmic",

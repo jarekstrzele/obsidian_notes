@@ -1,6 +1,54 @@
 {
   "recentFiles": [
     {
+      "basename": "2 Getting ready with Android Studio",
+      "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/2 Getting ready with Android Studio.md"
+    },
+    {
+      "basename": "_ the complete Android 12",
+      "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/_ the complete Android 12.md"
+    },
+    {
+      "basename": "android studio 1",
+      "path": "_ Mobile/REACT NATIVE/android studio 1.md"
+    },
+    {
+      "basename": "android studio",
+      "path": "_ Mobile/REACT NATIVE/android studio.md"
+    },
+    {
+      "basename": "Android",
+      "path": "_ Mobile/REACT NATIVE/Android.md"
+    },
+    {
+      "basename": "_ 0 React Native Crush Course",
+      "path": "_ Mobile/REACT NATIVE/youtube_RN_Crush_course/_ 0 React Native Crush Course.md"
+    },
+    {
+      "basename": "_ 0 Complete React Native",
+      "path": "_ Mobile/REACT NATIVE/The Complete React NativePlusHooks/_ 0 Complete React Native.md"
+    },
+    {
+      "basename": "3 mini game",
+      "path": "_ Mobile/REACT NATIVE/React Native Practical Guide/3 mini game.md"
+    },
+    {
+      "basename": "2 Debugging React Native Apps",
+      "path": "_ Mobile/REACT NATIVE/React Native Practical Guide/2 Debugging React Native Apps.md"
+    },
+    {
+      "basename": "1.7 Modal Screen",
+      "path": "_ Mobile/REACT NATIVE/React Native Practical Guide/1.7 Modal Screen.md"
+    },
+    {
+      "basename": "1.6 Press to Delete and Style it",
+      "path": "_ Mobile/REACT NATIVE/React Native Practical Guide/1.6 Press to Delete and Style it.md"
+    },
+    {
+      "basename": "1.2. Handling Events",
+      "path": "_ Mobile/REACT NATIVE/React Native Practical Guide/1.2. Handling Events.md"
+    },
+    {
       "basename": "1 React Native Basics",
       "path": "_ Mobile/REACT NATIVE/React Native Practical Guide/1 React Native Basics.md"
     },
@@ -151,54 +199,6 @@
     {
       "basename": "Basics - Branches & Commits",
       "path": "Git/Learn Git GitHub and master/Basics - Branches & Commits.md"
-    },
-    {
-      "basename": "- Basics Version Management",
-      "path": "Git/Learn Git GitHub and master/- Basics Version Management.md"
-    },
-    {
-      "basename": "5 Git Remote",
-      "path": "Git/Helion Git/5 Git Remote.md"
-    },
-    {
-      "basename": "4 Commit",
-      "path": "Git/Helion Git/4 Commit.md"
-    },
-    {
-      "basename": "3 Gałęzie",
-      "path": "Git/Helion Git/3 Gałęzie.md"
-    },
-    {
-      "basename": "_ 0 Git Helion VideoPoint",
-      "path": "Git/Helion Git/_ 0 Git Helion VideoPoint.md"
-    },
-    {
-      "basename": "0-Git wprowadzenie samuraj",
-      "path": "Git/Git Samuraj/0-Git wprowadzenie samuraj.md"
-    },
-    {
-      "basename": "_ Git and Github",
-      "path": "Git/git and github/_ Git and Github.md"
-    },
-    {
-      "basename": "_start Docker Projektowanie i wdrażanie aplikacji",
-      "path": "Docker/Docker Projektowanie i wdrażanie aplikacji ebook/_start Docker Projektowanie i wdrażanie aplikacji.md"
-    },
-    {
-      "basename": "_ wprowadzenie do dockera",
-      "path": "Docker/Docker Projektowanie i wdrażanie aplikacji ebook/_ wprowadzenie do dockera.md"
-    },
-    {
-      "basename": "2 Budowanie obrazów",
-      "path": "Docker/Docker od podstaw/2 Budowanie obrazów.md"
-    },
-    {
-      "basename": "1 Uruchamianie kontenerów",
-      "path": "Docker/Docker od podstaw/1 Uruchamianie kontenerów.md"
-    },
-    {
-      "basename": "_ Wprowadzenie docker",
-      "path": "Docker/Docker od podstaw/_ Wprowadzenie docker.md"
     }
   ],
   "omittedPaths": [],

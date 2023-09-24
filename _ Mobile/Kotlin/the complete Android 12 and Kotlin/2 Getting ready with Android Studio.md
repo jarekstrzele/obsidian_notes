@@ -4,7 +4,6 @@
 >=="Empty Views Activity"== instead of "Empty Activity" and that creates the same project but includes the layout that the tutorial references.
 
 
-
 when you create a new project `pakage name`  must be unique
 
 `SDK` Software Development Kit (collection of software development tools in one installable package)
@@ -26,7 +25,6 @@ class MainActivity : AppCompatActivity() {
 the code `setContentView(R.layout.activity_main)` the app screen should use the `activity_main` file as a interface (`R.layout.activity_main` `res/layout/activity_main`)
 
 every screen is `activity` ( screen=activity)
-
 
 ## set up the AVD
 AVD is `Android Virtual Device` emulates Android on your PC
