@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "8.5 ImageView",
+      "path": "_ Mobile/Kotlin/the complete Android Kotlin/8.5 ImageView.md"
+    },
+    {
       "basename": "8.4 EditTexts",
       "path": "_ Mobile/Kotlin/the complete Android Kotlin/8.4 EditTexts.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2. Pierwsze spotkanie z Rustem",
       "path": "R U S T/Programmowanie_w Rust/2. Pierwsze spotkanie z Rustem.md"
-    },
-    {
-      "basename": "_ Programowanie w języku Rust",
-      "path": "R U S T/Programmowanie_w Rust/_ Programowanie w języku Rust.md"
     }
   ],
   "omittedPaths": [],

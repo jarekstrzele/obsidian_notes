@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.4 EditTexts.md",
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.5 ImageView.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.4 EditTexts.md",
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.5 ImageView.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.4 EditTexts.md",
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.5 ImageView.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.4 EditTexts.md"
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.5 ImageView.md"
               }
             }
           },
@@ -221,8 +221,9 @@
   },
   "active": "a7f8cec5a216a21b",
   "lastOpenFiles": [
-    "_ Mobile/Kotlin/the complete Android Kotlin/8 Android Components.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/8.4 EditTexts.md",
+    "_ Mobile/Kotlin/the complete Android Kotlin/8.5 ImageView.md",
+    "_ Mobile/Kotlin/the complete Android Kotlin/8 Android Components.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/8.3 Button.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin/4. OOP Kotlin.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/8.2 TextView.md",
@@ -246,7 +247,6 @@
     "_ Mobile/REACT NATIVE/React Native Practical Guide/3 mini game.md",
     "_ Mobile/REACT NATIVE/React Native Practical Guide/2 Debugging React Native Apps.md",
     "_ Mobile/REACT NATIVE/React Native Practical Guide/1.7 Modal Screen.md",
-    "_ Mobile/REACT NATIVE/React Native Practical Guide/1.6 Press to Delete and Style it.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin",
     "JAVASCRIPT/Programowanie w JS od Zera do Mastera",
     "C Sharp/Fast WFP  C Sharp",
