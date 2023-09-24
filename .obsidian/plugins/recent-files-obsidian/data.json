@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "8.1 Layouts in Android App",
+      "path": "_ Mobile/Kotlin/the complete Android Kotlin/8.1 Layouts in Android App.md"
+    },
+    {
+      "basename": "8 Android Components",
+      "path": "_ Mobile/Kotlin/the complete Android Kotlin/8 Android Components.md"
+    },
+    {
       "basename": "7 Intro to Android App Development",
       "path": "_ Mobile/Kotlin/the complete Android Kotlin/7 Intro to Android App Development.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "2 Building a Data Model",
       "path": "_ WEB/Django/Mosh/1/2 Building a Data Model.md"
-    },
-    {
-      "basename": "1 Framework Django",
-      "path": "Studia/Python BackEnd/Django/1 Framework Django.md"
-    },
-    {
-      "basename": "2 Django",
-      "path": "Studia/Python BackEnd/Django/2 Django.md"
     }
   ],
   "omittedPaths": [],
