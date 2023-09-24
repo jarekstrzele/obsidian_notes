@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "8.2 TextView",
+      "path": "_ Mobile/Kotlin/the complete Android Kotlin/8.2 TextView.md"
+    },
+    {
       "basename": "8.1 Layouts in Android App",
       "path": "_ Mobile/Kotlin/the complete Android Kotlin/8.1 Layouts in Android App.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_ Intro Docker Mumshad",
       "path": "Docker/For Absolute Beginner/_ Intro Docker Mumshad.md"
-    },
-    {
-      "basename": "2 Building a Data Model",
-      "path": "_ WEB/Django/Mosh/1/2 Building a Data Model.md"
     }
   ],
   "omittedPaths": [],
