@@ -213,6 +213,16 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "a273bcff908d0785",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ],
         "currentTab": 6
