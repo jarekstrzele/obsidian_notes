@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "_ 0 Android Kurs Tworzenia Aplikacji",
+      "path": "_ Mobile/Android Kurs Tworzenia APlikacji/_ 0 Android Kurs Tworzenia Aplikacji.md"
+    },
+    {
       "basename": "8.5 ImageView",
       "path": "_ Mobile/Kotlin/the complete Android Kotlin/8.5 ImageView.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "1 Creating Snapshots",
       "path": "Git/Mosh GIT - the ultimate Git Course/1 Creating Snapshots.md"
-    },
-    {
-      "basename": "2. Pierwsze spotkanie z Rustem",
-      "path": "R U S T/Programmowanie_w Rust/2. Pierwsze spotkanie z Rustem.md"
     }
   ],
   "omittedPaths": [],
