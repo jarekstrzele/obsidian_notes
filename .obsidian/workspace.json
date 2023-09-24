@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.3 Button.md",
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.4 EditTexts.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.3 Button.md",
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.4 EditTexts.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.3 Button.md",
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.4 EditTexts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.3 Button.md"
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.4 EditTexts.md"
               }
             }
           },
@@ -221,11 +221,12 @@
   },
   "active": "a7f8cec5a216a21b",
   "lastOpenFiles": [
-    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/4. OOP Kotlin.md",
+    "_ Mobile/Kotlin/the complete Android Kotlin/8 Android Components.md",
+    "_ Mobile/Kotlin/the complete Android Kotlin/8.4 EditTexts.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/8.3 Button.md",
+    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/4. OOP Kotlin.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/8.2 TextView.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/8.1 Layouts in Android App.md",
-    "_ Mobile/Kotlin/the complete Android Kotlin/8 Android Components.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/7 Intro to Android App Development.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/5 Functions in Android Kotlin.md",
@@ -246,7 +247,6 @@
     "_ Mobile/REACT NATIVE/React Native Practical Guide/2 Debugging React Native Apps.md",
     "_ Mobile/REACT NATIVE/React Native Practical Guide/1.7 Modal Screen.md",
     "_ Mobile/REACT NATIVE/React Native Practical Guide/1.6 Press to Delete and Style it.md",
-    "_ Mobile/REACT NATIVE/React Native Practical Guide/1.2. Handling Events.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin",
     "JAVASCRIPT/Programowanie w JS od Zera do Mastera",
     "C Sharp/Fast WFP  C Sharp",

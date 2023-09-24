@@ -5,6 +5,6 @@
 [[8.1 Layouts in Android App]]
 [[8.2 TextView]]
 [[8.3 Button]]
-
+[[8.4 EditTexts]]
 
 
