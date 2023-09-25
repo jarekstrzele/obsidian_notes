@@ -37,6 +37,7 @@ private void Button_Click(object sender, RoutedEventArgs e)
         }
 ```
 
+
 ```xml
  <Slider Value="{Binding ElementName=SliderValue, Path=Text, Mode=OneWayToSource}"
          Maximum="30" Minimum="0"
@@ -49,6 +50,9 @@ private void Button_Click(object sender, RoutedEventArgs e)
 ---------------
 
 # Eventy i Delegaty 
+
+`event` zdarzenie
+`delegat` reprezentant jakiejś zbiorowości (sygnatura funkcji)
 
 Tworzymy w naszej aplikacji nowy pliki
 `Simulation.cs` z klasą Simulation
