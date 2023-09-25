@@ -50,6 +50,8 @@ private void Button_Click(object sender, RoutedEventArgs e)
 ---------------
 
 # Eventy i Delegaty 
+Potrzebujemy typu, który będzie przechowywać FUNKCJE - DELEGAT
+
 
 `event` zdarzenie
 `delegat` reprezentant jakiejś zbiorowości (sygnatura funkcji)
