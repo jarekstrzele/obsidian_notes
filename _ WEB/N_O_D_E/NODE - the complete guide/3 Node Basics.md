@@ -1,6 +1,5 @@
 [[_0 Node Complete Guide]]
 
-
 ## How the Web works
 
 client/user/browser (enters some http address) 
