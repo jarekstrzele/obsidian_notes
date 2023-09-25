@@ -1,8 +1,15 @@
 #udemy #node #Maximilian_Schwarzmuller 
 
 ----
+# The content of the course
+
 [[3 Node Basics]]
 [[5 Working with Express.js]]
+[[6 Working with Dynamic Content and Adding Templating Engines]]
+
+
+
+
 
 
 ----

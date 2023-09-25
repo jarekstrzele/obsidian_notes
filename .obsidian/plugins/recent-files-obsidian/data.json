@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "7 Express JS",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md"
+      "basename": "6 Working with Dynamic Content and Adding Templating Engines",
+      "path": "_ WEB/N_O_D_E/NODE - the complete guide/6 Working with Dynamic Content and Adding Templating Engines.md"
+    },
+    {
+      "basename": "_0 Node Complete Guide",
+      "path": "_ WEB/N_O_D_E/NODE - the complete guide/_0 Node Complete Guide.md"
     },
     {
       "basename": "5 Working with Express.js",
       "path": "_ WEB/N_O_D_E/NODE - the complete guide/5 Working with Express.js.md"
+    },
+    {
+      "basename": "_ NodeJS 101 Crash Course",
+      "path": "_ WEB/N_O_D_E/Node JS 101 Crash/_ NodeJS 101 Crash Course.md"
+    },
+    {
+      "basename": "git_diff.excalidraw",
+      "path": "Excalidraw/git_diff.excalidraw.md"
+    },
+    {
+      "basename": "7 Express JS",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md"
     },
     {
       "basename": "3.1 Express - introducing",
@@ -15,10 +31,6 @@
     {
       "basename": "3 Node Basics",
       "path": "_ WEB/N_O_D_E/NODE - the complete guide/3 Node Basics.md"
-    },
-    {
-      "basename": "_0 Node Complete Guide",
-      "path": "_ WEB/N_O_D_E/NODE - the complete guide/_0 Node Complete Guide.md"
     },
     {
       "basename": "ES refresh",
@@ -169,10 +181,6 @@
       "path": "linux/UBUNTU.md"
     },
     {
-      "basename": "git_diff.excalidraw",
-      "path": "Excalidraw/git_diff.excalidraw.md"
-    },
-    {
       "basename": "I 6 Invaders Project",
       "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 6 Invaders Project.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "I 2 Primitive Types & Control Flow",
       "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 2 Primitive Types & Control Flow.md"
-    },
-    {
-      "basename": "I 1 Fundamentals",
-      "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 1 Fundamentals.md"
-    },
-    {
-      "basename": "_ Ultimate Rust Crash Course 1",
-      "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/_ Ultimate Rust Crash Course 1.md"
     }
   ],
   "omittedPaths": [],
