@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/3 Układ komponentów.md",
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/4 Tworzenie aplikacji WPF.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/3 Układ komponentów.md",
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/4 Tworzenie aplikacji WPF.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/3 Układ komponentów.md",
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/4 Tworzenie aplikacji WPF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/3 Układ komponentów.md"
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/4 Tworzenie aplikacji WPF.md"
               }
             }
           },
@@ -201,9 +201,9 @@
   },
   "active": "a43f7e3906307468",
   "lastOpenFiles": [
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/3 Układ komponentów.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/4 Tworzenie aplikacji WPF.md",
     "C Sharp/Fast WFP  C Sharp/_ Fast WFP C Sharp.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/3 Układ komponentów.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/2 Aplikacje WPF.md",
     "_ FullStack/Web Development 2023/19 jQuery.md",
     "P Y T H O N/Master_Python_100/41 Web HTML.md",
