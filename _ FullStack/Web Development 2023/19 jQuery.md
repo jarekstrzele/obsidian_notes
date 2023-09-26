@@ -109,5 +109,50 @@ $("button").html("<em> Cliiiiick him </em>")
 
 `class` is also an attribute
 
+```js
+$("h1").addClass("big-title margin-50")
+$("h1").text("Nowy tytuł")
+
+$("button").html("<em> Cliiiiick him </em>")
+
+$("a").attr("href", "https://www.interia.pl")
+```
+
+```html
+<!-- ... -->
+  <link rel="stylesheet" href="style.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+</head>
+<body>
+  <h1> My first jQuery app</h1>
+  <button>Click me</button>
+  <button>Click me</button>
+  <button>Click me</button>
+  <button>Click me</button>
+  <a href="https://www.google.com">To nie jest strona google.pl</a>
+  <script src="index.js " charset="utf-8"> </script>
+</body>
+
+```
+
+# Add Event Listener
+```js
+$("h1").click(()=>{
+    $("h1").css("color", "red")
+})
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
