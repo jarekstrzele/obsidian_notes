@@ -170,6 +170,13 @@ $("input").keypress((event)=>{
 
 ## `on(<eventName>, <callback>)`
 
+https://developer.mozilla.org/en-US/docs/Web/Events
+
+```js
+ $("h1").on("mouseover", ()=>{
+    $("h1").css("color", "green")
+ })
+```
 
 
 
