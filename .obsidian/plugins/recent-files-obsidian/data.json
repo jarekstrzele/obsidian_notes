@@ -1,24 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "4 Tworzenie aplikacji WPF",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/4 Tworzenie aplikacji WPF.md"
-    },
-    {
       "basename": "7 Express JS",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md"
+    },
+    {
+      "basename": "6 Zewnętrzne moduły",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/6 Zewnętrzne moduły.md"
+    },
+    {
+      "basename": "5 Working with Express.js",
+      "path": "_ WEB/N_O_D_E/NODE - the complete guide/5 Working with Express.js.md"
+    },
+    {
+      "basename": "3.1 Express - introducing",
+      "path": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md"
     },
     {
       "basename": "6 Working with Dynamic Content and Adding Templating Engines",
       "path": "_ WEB/N_O_D_E/NODE - the complete guide/6 Working with Dynamic Content and Adding Templating Engines.md"
     },
     {
-      "basename": "_0 Node Complete Guide",
-      "path": "_ WEB/N_O_D_E/NODE - the complete guide/_0 Node Complete Guide.md"
+      "basename": "4 Tworzenie aplikacji WPF",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/4 Tworzenie aplikacji WPF.md"
     },
     {
-      "basename": "5 Working with Express.js",
-      "path": "_ WEB/N_O_D_E/NODE - the complete guide/5 Working with Express.js.md"
+      "basename": "_0 Node Complete Guide",
+      "path": "_ WEB/N_O_D_E/NODE - the complete guide/_0 Node Complete Guide.md"
     },
     {
       "basename": "_ NodeJS 101 Crash Course",
@@ -27,10 +35,6 @@
     {
       "basename": "git_diff.excalidraw",
       "path": "Excalidraw/git_diff.excalidraw.md"
-    },
-    {
-      "basename": "3.1 Express - introducing",
-      "path": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md"
     },
     {
       "basename": "3 Node Basics",
@@ -195,10 +199,6 @@
     {
       "basename": "I 4 The Meat of Rust",
       "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 4 The Meat of Rust.md"
-    },
-    {
-      "basename": "I 3 The Heart of Rust",
-      "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 3 The Heart of Rust.md"
     }
   ],
   "omittedPaths": [],
