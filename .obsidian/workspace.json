@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "P Y T H O N/Master_Python_100/41 Web HTML.md",
+                "file": "_ FullStack/Web Development 2023/19 jQuery.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "P Y T H O N/Master_Python_100/41 Web HTML.md",
+                "file": "_ FullStack/Web Development 2023/19 jQuery.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "P Y T H O N/Master_Python_100/41 Web HTML.md",
+                "file": "_ FullStack/Web Development 2023/19 jQuery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "P Y T H O N/Master_Python_100/41 Web HTML.md"
+                "file": "_ FullStack/Web Development 2023/19 jQuery.md"
               }
             }
           },
@@ -201,6 +201,7 @@
   },
   "active": "a43f7e3906307468",
   "lastOpenFiles": [
+    "P Y T H O N/Master_Python_100/41 Web HTML.md",
     "P Y T H O N/Master_Python_100/_ 0 100 Days of Code 2023.md",
     "P Y T H O N/Advanced Python_Youtube/_ 0 Advenced Python.md",
     "_ WEB/N_O_D_E/NODE - the complete guide/5 Working with Express.js.md",
@@ -227,7 +228,6 @@
     "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/5 Functions in Android Kotlin.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/4 Loops in Kotlin.md",
-    "_ Mobile/Kotlin/the complete Android Kotlin/3 Control Flow Statements in Kotlin.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin",
     "JAVASCRIPT/Programowanie w JS od Zera do Mastera",
     "C Sharp/Fast WFP  C Sharp",

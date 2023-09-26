@@ -100,8 +100,14 @@ $("button").html("<em> Cliiiiick him </em>")
 
 
 # Manipulating attributes
+> select all `img` and return the value of `src`
+> `$(img).attr('src')`
+
+>select all `a` and set `href` to `interia.pl` 
+>`$(a).attr('href', 'interia.pl')`
 
 
+`class` is also an attribute
 
 
 
