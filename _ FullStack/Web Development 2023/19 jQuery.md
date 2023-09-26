@@ -243,7 +243,15 @@ $("button").on("click", ()=> {
 })
 ```
 
+```js
+$("button").on("click", ()=> {
+    $("h1").animate({
+        opacity: 0.5,
+        margin: "20%"})
+})
 
+// animate only numeric values
+```
 
 
 
