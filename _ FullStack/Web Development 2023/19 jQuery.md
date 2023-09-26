@@ -49,6 +49,15 @@ you can minify your `js` or `css` code:  https://www.minifier.org/
 ## select
 `$("h1")` means select all `h1` in your web page
 
+> Aby wybrać konkretny element w [jQuery](https://www.google.com/search?q=jQuery), możesz skorzystać z różnych selektorów. Oto kilka sposobów, jak to zrobić:
+> 1. Wybór elementu po identyfikatorze: Możesz wybrać konkretny element na podstawie jego identyfikatora. Jeśli chcesz wybrać [button](https://www.google.com/search?q=button) o konkretnym identyfikatorze, możesz użyć selektora `#` przed identyfikatorem. Na przykład, jeśli twój [button](https://www.google.com/search?q=button) ma identyfikator "myButton", możesz użyć selektora `$("#myButton")`.
+> 2. Wybór elementu po klasie: Jeśli chcesz wybrać [button](https://www.google.com/search?q=button) o konkretnej klasie, możesz użyć selektora `.` przed nazwą klasy. Na przykład, jeśli twój [button](https://www.google.com/search?q=button) ma klasę "myButtonClass", możesz użyć selektora `$(".myButtonClass")`.
+> 3. Wybór elementu po atrybucie: Możesz również wybrać [button](https://www.google.com/search?q=button) na podstawie jego atrybutu. Na przykład, jeśli chcesz wybrać [button](https://www.google.com/search?q=button) z atrybutem "data-type" o wartości "submit", możesz użyć selektora `$("button[data-type='submit']")`.
+> 4. Wybór elementu na podstawie hierarchii: Jeśli [button](https://www.google.com/search?q=button), który chcesz wybrać, znajduje się wewnątrz innego elementu, możesz użyć selektora hierarchicznego. Na przykład, jeśli [button](https://www.google.com/search?q=button) jest dzieckiem elementu o klasie "parentClass", możesz użyć selektora `$(".parentClass button")`.
+
+
+
+
 ## Manipulatint the css style
 `$("button").css("color")` this is the **getter** (give me a value of the attribute `color`)
 `$("button").css("color", "blue")` this is the **setter** (set the attribute `color` to "blue")
@@ -181,7 +190,23 @@ https://developer.mozilla.org/en-US/docs/Web/Events
 
 # Adding and removing elements with jQuery
 
+```js
+ $("h1").before("<button> New before </button>")
+// <button> COntent </button> <h1> Content </h1>
 
+$("h1").after("<button> New after </button>")
+// <button>Content</button> <h1> Content </h1>
 
+$("h1").prepend("<button> New prepend </button>")
+// <h1> <button>Content </button>     Content</h1>
+
+$("h1").append("<button> New append </button>")
+// <h1> Content    <button>Content </button>   </h1>
+```
+
+to remove
+```js
+$("button").remove()
+```
 
 
