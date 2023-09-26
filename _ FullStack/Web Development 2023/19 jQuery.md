@@ -154,6 +154,7 @@ $("h1").click(()=>{
 <input type=text value="" />
 ```
 
+## an example with `input`
 ```js
 // show in the console the key that have been pressed
 $("input").keypress((event)=>console.log(event.key))
@@ -167,7 +168,7 @@ $("input").keypress((event)=>{
  })
 ```
 
-
+## `on(<eventName>, <callback>)`
 
 
 
