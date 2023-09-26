@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ FullStack/Web Development 2023/19 jQuery.md",
+                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/4. OOP Kotlin.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ FullStack/Web Development 2023/19 jQuery.md",
+                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/4. OOP Kotlin.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ FullStack/Web Development 2023/19 jQuery.md",
+                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/4. OOP Kotlin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ FullStack/Web Development 2023/19 jQuery.md"
+                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/4. OOP Kotlin.md"
               }
             }
           },
@@ -201,11 +201,12 @@
   },
   "active": "a43f7e3906307468",
   "lastOpenFiles": [
+    "_ Mobile/Android Kurs Tworzenia APlikacji/_ 0 Android Kurs Tworzenia Aplikacji.md",
+    "_ FullStack/Web Development 2023/19 jQuery.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/4 Tworzenie aplikacji WPF.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/3 Układ komponentów.md",
     "C Sharp/Fast WFP  C Sharp/_ Fast WFP C Sharp.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/2 Aplikacje WPF.md",
-    "_ FullStack/Web Development 2023/19 jQuery.md",
     "P Y T H O N/Master_Python_100/41 Web HTML.md",
     "P Y T H O N/Master_Python_100/_ 0 100 Days of Code 2023.md",
     "P Y T H O N/Advanced Python_Youtube/_ 0 Advenced Python.md",
@@ -219,7 +220,6 @@
     "Excalidraw/git_diff.excalidraw.md",
     "_ WEB/N_O_D_E/NODE - the complete guide/3 Node Basics.md",
     "JAVASCRIPT/ES refresh.md",
-    "_ Mobile/Android Kurs Tworzenia APlikacji/_ 0 Android Kurs Tworzenia Aplikacji.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/8.5 ImageView.md",
     "_ Mobile/Android Kurs Tworzenia APlikacji",
     "_ Mobile/Kotlin/the complete Android Kotlin/8.4 EditTexts.md",
