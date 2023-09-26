@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "3 Układ komponentów",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/3 Układ komponentów.md"
+    },
+    {
+      "basename": "4 Tworzenie aplikacji WPF",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/4 Tworzenie aplikacji WPF.md"
+    },
+    {
+      "basename": "2 Aplikacje WPF",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/2 Aplikacje WPF.md"
+    },
+    {
       "basename": "19 jQuery",
       "path": "_ FullStack/Web Development 2023/19 jQuery.md"
     },
@@ -19,10 +31,6 @@
     {
       "basename": "5 Working with Express.js",
       "path": "_ WEB/N_O_D_E/NODE - the complete guide/5 Working with Express.js.md"
-    },
-    {
-      "basename": "4 Tworzenie aplikacji WPF",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/4 Tworzenie aplikacji WPF.md"
     },
     {
       "basename": "3.1 Express - introducing",
@@ -191,14 +199,6 @@
     {
       "basename": "_ 0 React Native Mobile Apps",
       "path": "_ Mobile/REACT NATIVE/plurasight/Building Mobile Apps with React Native/_ 0 React Native Mobile Apps.md"
-    },
-    {
-      "basename": "_ 0 start React Native",
-      "path": "_ Mobile/REACT NATIVE/Master React Native Funds/_ 0 start React Native.md"
-    },
-    {
-      "basename": "_ git od podstaw",
-      "path": "Git/git od podstaw dla każdego/_ git od podstaw.md"
     }
   ],
   "omittedPaths": [],
