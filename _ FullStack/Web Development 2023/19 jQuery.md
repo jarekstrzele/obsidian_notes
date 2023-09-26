@@ -209,4 +209,35 @@ to remove
 $("button").remove()
 ```
 
+# Animation with jQuery
+```js
+$("button").on("click", ()=> {
+    $("h1").hide()
+})
+// to show: $("h1").show()
+```
+
+```js
+$("button").on("click", ()=> {
+    $("h1").toggle()
+})
+// click on buttons -> hide
+// click on buttons -> show
+```
+
+`fadeIn()`
+`fadeOut()`
+`fadeToggle()`
+
+`slideUp()`
+`slideDown()`
+`slideToggle()`
+
+
+
+
+
+
+
+
 
