@@ -142,11 +142,30 @@ $("h1").click(()=>{
 })
 ```
 
+```js
+ $("button").click(()=>{
+    $("h1").css("color", "purple")
+ })
+```
 
 
 
+```html
+<input type=text value="" />
+```
 
+```js
+// show in the console the key that have been pressed
+$("input").keypress((event)=>console.log(event.key))
+```
 
+```js
+$("input").keypress((event)=>{
+
+    $("h1").text(event.key)
+
+ })
+```
 
 
 
