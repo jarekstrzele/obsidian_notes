@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/4. OOP Kotlin.md",
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.3 Button.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/4. OOP Kotlin.md",
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.3 Button.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/4. OOP Kotlin.md",
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.3 Button.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/4. OOP Kotlin.md"
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.3 Button.md"
               }
             }
           },
@@ -201,6 +201,9 @@
   },
   "active": "a43f7e3906307468",
   "lastOpenFiles": [
+    "_ Mobile/Kotlin/the complete Android Kotlin/8.2 TextView.md",
+    "_ Mobile/Kotlin/the complete Android Kotlin/8.1 Layouts in Android App.md",
+    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/4. OOP Kotlin.md",
     "_ Mobile/Android Kurs Tworzenia APlikacji/_ 0 Android Kurs Tworzenia Aplikacji.md",
     "_ FullStack/Web Development 2023/19 jQuery.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/4 Tworzenie aplikacji WPF.md",
@@ -225,9 +228,6 @@
     "_ Mobile/Kotlin/the complete Android Kotlin/8.4 EditTexts.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/8 Android Components.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/8.3 Button.md",
-    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/4. OOP Kotlin.md",
-    "_ Mobile/Kotlin/the complete Android Kotlin/8.2 TextView.md",
-    "_ Mobile/Kotlin/the complete Android Kotlin/8.1 Layouts in Android App.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin",
     "JAVASCRIPT/Programowanie w JS od Zera do Mastera",
     "C Sharp/Fast WFP  C Sharp",
