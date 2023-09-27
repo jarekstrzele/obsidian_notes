@@ -219,6 +219,27 @@ oraz `views/partials/footer`
 
 tworzenie dodatkowego view
 `views/blog.handlebars`
+```html
+<div>
+    <h2>{{ title }} </h2>
+    <p> to jest wpis z dnia {{ date }} </p>
+    {{#if id }}
+    <p> identyfikator wpisu: {{ id }}</p>
+    {{/if }}
+</div>
+```
+
+i do app.js dodajemy
+```js
+app.get("/blog/:date/:id?", (req,res)=>{
+   // :id? - więc id jest opcjonalne
+    res.render("blog", {
+        title: "Blog",
+        date: req.params.date,
+        id:req.params.id
+    })
+})
+```
 
 
 
