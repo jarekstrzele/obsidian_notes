@@ -242,6 +242,25 @@ app.get("/blog/:date/:id?", (req,res)=>{
 })
 ```
 
+tworzenie strony 404
+`views/404.handlebars`
+```html
+   <h2>{{ title }} </h2>
+   <p> nie znaleziono strony </p>
+```
+
+a do pliku `app.js` (koniecznie pod koniec!!!)
+```js
+//... pod koniec pliku po wszystkich middlewares i routings
+
+app.use((req,res,next)=>{
+    res.status(404).render('404', {title: "PAGE NOT FOUND"})
+ })
+ 
+app.listen(9090, ()=>console.log("Server is listening on the 8080 port"))
+```
+
+
 
 
 # Użycie middleware
