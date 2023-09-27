@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "8.4 EditTexts",
-      "path": "_ Mobile/Kotlin/the complete Android Kotlin/8.4 EditTexts.md"
+      "basename": "8.6 CheckBox",
+      "path": "_ Mobile/Kotlin/the complete Android Kotlin/8.6 CheckBox.md"
+    },
+    {
+      "basename": "8 Android Components",
+      "path": "_ Mobile/Kotlin/the complete Android Kotlin/8 Android Components.md"
     },
     {
       "basename": "8.5 ImageView",
       "path": "_ Mobile/Kotlin/the complete Android Kotlin/8.5 ImageView.md"
+    },
+    {
+      "basename": "8.4 EditTexts",
+      "path": "_ Mobile/Kotlin/the complete Android Kotlin/8.4 EditTexts.md"
     },
     {
       "basename": "19 jQuery",
@@ -117,10 +125,6 @@
       "path": "JAVASCRIPT/ES refresh.md"
     },
     {
-      "basename": "8 Android Components",
-      "path": "_ Mobile/Kotlin/the complete Android Kotlin/8 Android Components.md"
-    },
-    {
       "basename": "7 Intro to Android App Development",
       "path": "_ Mobile/Kotlin/the complete Android Kotlin/7 Intro to Android App Development.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "1 React Native Basics",
       "path": "_ Mobile/REACT NATIVE/React Native Practical Guide/1 React Native Basics.md"
-    },
-    {
-      "basename": "_ 0 React Native - Practical Guide",
-      "path": "_ Mobile/REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md"
     }
   ],
   "omittedPaths": [],
