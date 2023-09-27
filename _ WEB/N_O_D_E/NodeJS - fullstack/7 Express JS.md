@@ -127,6 +127,10 @@ https://expressjs.com/en/resources/template-engines.html
 ## express-handlebars
 #express-handlebars
 
+
+https://waelyasmina.medium.com/a-guide-into-using-handlebars-with-your-express-js-application-22b944443b65
+
+
 ten `engine` pod adresem https://github.com/express-handlebars/express-handlebars
 
 to install `npm install express-handlebars`
