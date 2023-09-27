@@ -131,7 +131,65 @@ ten `engine` pod adresem https://github.com/express-handlebars/express-handlebar
 
 to install `npm install express-handlebars`
 
+```js
+const express = require("express")
+const exHbrs = require("express-handlebars");
 
+const app = express()
+
+app.engine('handlebars', exHbrs.engine({defaultLayout: "main"})) // register a new template engine
+app.set('view engine', 'handlebars')
+
+app.get("/", (req, res) => {
+// home is a view
+// by default all views have to be in the folder `views`
+    res.render("home", {
+        title:"Strona główna",
+        content: "to jest treść strony głównej"
+    })
+})
+
+  
+
+app.listen(9090, ()=>console.log("Server is listening on the 8080 port"))
+```
+
+`views/home.handlebars`
+```html
+<div>
+     <h2> {{ title }}</h2>
+     <p> {{ content }}</p>
+    <p> i małe co nieco </p>
+</div>
+<!--
+    cała ta treść będzie podstawiona
+    do `body`
+    w `main.handlebars`
+-->
+```
+
+`views/layout/main.handlebars`
+```html
+<div>
+
+     <h2> {{ title }}</h2>
+
+     <p> {{ content }}</p>
+
+    <p> i małe co nieco </p>
+
+</div>
+
+<!--
+
+    cała ta treść będzie podstawiona
+
+    do `body`
+
+    w `main.handlebars`
+
+-->
+```
 
 
 
