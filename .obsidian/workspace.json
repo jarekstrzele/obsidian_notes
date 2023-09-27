@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/7.1 Express and FireBase.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/7.1 Express and FireBase.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/7.1 Express and FireBase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md"
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/7.1 Express and FireBase.md"
               }
             }
           },
@@ -226,12 +226,15 @@
   },
   "active": "21b6cef0e5581250",
   "lastOpenFiles": [
+    "_ WEB/N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/2.2. Buffer.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/7.1 Express and FireBase.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/8.6 CheckBox.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/8 Android Components.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/8.5 ImageView.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/8.4 EditTexts.md",
     "_ FullStack/Web Development 2023/19 jQuery.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
     "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/5 Functions in Android Kotlin.md",
@@ -249,9 +252,6 @@
     "P Y T H O N/Master_Python_100/41 Web HTML.md",
     "P Y T H O N/Master_Python_100/_ 0 100 Days of Code 2023.md",
     "P Y T H O N/Advanced Python_Youtube/_ 0 Advenced Python.md",
-    "_ WEB/N_O_D_E/NODE - the complete guide/5 Working with Express.js.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/6 Zewnętrzne moduły.md",
-    "_ WEB/N_O_D_E/NODE - the complete guide/6 Working with Dynamic Content and Adding Templating Engines.md",
     "_ Mobile/Android Kurs Tworzenia APlikacji",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin",
     "JAVASCRIPT/Programowanie w JS od Zera do Mastera",
