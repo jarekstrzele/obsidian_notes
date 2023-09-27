@@ -318,12 +318,16 @@ styles.css
     transform: translate(-50%, -50%);
     background-color: burlywood;
     color:darkmagenta;
+    padding: 10px;
 }
+
+  
 
 .mojaLista{
     color:crimson;
     font-size: 19px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
 }
 ```
 
