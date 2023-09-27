@@ -141,6 +141,9 @@ const exHbrs = require("express-handlebars");
 
 const app = express()
 
+// aby móc używać styles.css, który jest w public/css
+app.use("/public/css",express.static("public/css"))
+
 // `app.engine('handlebars' ...` datego potem pliki mają rozszerzenie handlebars
 app.engine('handlebars', exHbrs.engine({defaultLayout: "main"})) // register a new template engine
 app.set('view engine', 'handlebars')
@@ -264,6 +267,74 @@ app.use((req,res,next)=>{
 app.listen(9090, ()=>console.log("Server is listening on the 8080 port"))
 ```
 
+**fakeowe api** kolejny przykład
+w głównym pliku dodać:
+```js
+app.get("/api/fake", (req, res)=>{
+
+    res.render('fakeapi', {layout: "main", people: fakeApi(), listExists: true});
+
+})
+//...
+
+fakeApi = () =>{
+    return [
+        {
+            name:"Adrian",
+            residence: "Olsztyn"
+        },
+        {
+            name:"Dawid",
+            residence: "Barczewo"
+        },
+        {
+            name:"Zdzisław",
+            residence: "Kroszynianka"
+        }
+    ]
+}
+```
+
+`fakeapi.handlebars`
+```html
+<h3>Lista ciekawostek</h3>
+{{#if listExists}}
+  <ul>
+    {{#each people}}
+     <li class="mojaLista"> {{ this.name }}, {{ this.residence }}</li>
+    {{/each}}
+ </ul>
+{{/if}}
+```
+
+styles.css
+```css
+.mojDiv{
+    width: 400px;
+    height: 200px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: burlywood;
+    color:darkmagenta;
+}
+
+.mojaLista{
+    color:crimson;
+    font-size: 19px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+```
+
+`main.handlebars`
+```html
+{{> header }}
+    <div class="mojDiv">
+        {{{ body }}}
+    </div>
+{{> footer }}
+```
 
 
 
