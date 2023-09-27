@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "8.5 ImageView",
-      "path": "_ Mobile/Kotlin/the complete Android Kotlin/8.5 ImageView.md"
+      "basename": "6 Kotlin OOP",
+      "path": "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md"
+    },
+    {
+      "basename": "5 Functions in Android Kotlin",
+      "path": "_ Mobile/Kotlin/the complete Android Kotlin/5 Functions in Android Kotlin.md"
     },
     {
       "basename": "_ 0 Android Kurs Tworzenia Aplikacji",
       "path": "_ Mobile/Android Kurs Tworzenia APlikacji/_ 0 Android Kurs Tworzenia Aplikacji.md"
+    },
+    {
+      "basename": "8.5 ImageView",
+      "path": "_ Mobile/Kotlin/the complete Android Kotlin/8.5 ImageView.md"
     },
     {
       "basename": "8.4 EditTexts",
@@ -115,14 +123,6 @@
     {
       "basename": "7 Intro to Android App Development",
       "path": "_ Mobile/Kotlin/the complete Android Kotlin/7 Intro to Android App Development.md"
-    },
-    {
-      "basename": "6 Kotlin OOP",
-      "path": "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md"
-    },
-    {
-      "basename": "5 Functions in Android Kotlin",
-      "path": "_ Mobile/Kotlin/the complete Android Kotlin/5 Functions in Android Kotlin.md"
     },
     {
       "basename": "4 Loops in Kotlin",
