@@ -137,6 +137,7 @@ const exHbrs = require("express-handlebars");
 
 const app = express()
 
+// `app.engine('handlebars' ...` datego potem pliki mają rozszerzenie handlebars
 app.engine('handlebars', exHbrs.engine({defaultLayout: "main"})) // register a new template engine
 app.set('view engine', 'handlebars')
 
