@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.5 ImageView.md",
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.4 EditTexts.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.5 ImageView.md",
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.4 EditTexts.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.5 ImageView.md",
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.4 EditTexts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.5 ImageView.md"
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.4 EditTexts.md"
               }
             }
           },
@@ -226,13 +226,13 @@
   },
   "active": "21b6cef0e5581250",
   "lastOpenFiles": [
+    "_ Mobile/Kotlin/the complete Android Kotlin/8.5 ImageView.md",
     "_ FullStack/Web Development 2023/19 jQuery.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
     "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/5 Functions in Android Kotlin.md",
     "_ Mobile/Android Kurs Tworzenia APlikacji/_ 0 Android Kurs Tworzenia Aplikacji.md",
-    "_ Mobile/Kotlin/the complete Android Kotlin/8.5 ImageView.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/8.4 EditTexts.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/8.3 Button.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin/6 Age in Minute Calculator.md",
