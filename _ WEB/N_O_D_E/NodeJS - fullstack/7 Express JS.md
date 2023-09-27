@@ -170,27 +170,55 @@ app.listen(9090, ()=>console.log("Server is listening on the 8080 port"))
 
 `views/layout/main.handlebars`
 ```html
-<div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> {{ title }} </title>
+</head>
+<body>
+    <div>
+        {{{ body }}}
+    </div>
+</body>
+</html>
 
-     <h2> {{ title }}</h2>
-
-     <p> {{ content }}</p>
-
-    <p> i małe co nieco </p>
-
-</div>
-
-<!--
-
-    cała ta treść będzie podstawiona
-
-    do `body`
-
-    w `main.handlebars`
-
--->
 ```
 
+mogę wprowadzić pewne zmiany
+- tworzę nowe pliki `views/partials/header`
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> {{ title }} </title>
+</head>
+<body>
+```
+
+oraz `views/partials/footer`
+```html
+</body>
+
+</html>
+```
+- modyfikuję `main.handlebars`
+```html
+{{> header }}
+
+    <div>
+        {{{ body }}}
+    </div>
+
+{{> footer }}
+```
+
+
+tworzenie dodatkowego view
+`views/blog.handlebars`
 
 
 
