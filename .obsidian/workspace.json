@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ FullStack/Web Development 2023/19 jQuery.md",
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.5 ImageView.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ FullStack/Web Development 2023/19 jQuery.md",
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.5 ImageView.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ FullStack/Web Development 2023/19 jQuery.md"
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.5 ImageView.md"
               }
             }
           },
@@ -224,8 +224,9 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "c8d359852bae2798",
+  "active": "21b6cef0e5581250",
   "lastOpenFiles": [
+    "_ FullStack/Web Development 2023/19 jQuery.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
     "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md",
@@ -239,7 +240,6 @@
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin/4. OOP Kotlin.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/8.2 TextView.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/8.1 Layouts in Android App.md",
-    "_ FullStack/Web Development 2023/19 jQuery.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/4 Tworzenie aplikacji WPF.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/3 Układ komponentów.md",
     "C Sharp/Fast WFP  C Sharp/_ Fast WFP C Sharp.md",
