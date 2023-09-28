@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVASCRIPT/ES refresh.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/7.1 Express and FireBase.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVASCRIPT/ES refresh.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/7.1 Express and FireBase.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVASCRIPT/ES refresh.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/7.1 Express and FireBase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVASCRIPT/ES refresh.md"
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/7.1 Express and FireBase.md"
               }
             }
           },
@@ -226,6 +226,7 @@
   },
   "active": "c8d359852bae2798",
   "lastOpenFiles": [
+    "JAVASCRIPT/ES refresh.md",
     "_ FullStack/Web Development 2023/19 jQuery.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/7.1 Express and FireBase.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md",
@@ -251,7 +252,6 @@
     "C Sharp/C Sharp od Podstaw do WPF i XAML/2 Aplikacje WPF.md",
     "P Y T H O N/Master_Python_100/41 Web HTML.md",
     "P Y T H O N/Master_Python_100/_ 0 100 Days of Code 2023.md",
-    "P Y T H O N/Advanced Python_Youtube/_ 0 Advenced Python.md",
     "_ Mobile/Android Kurs Tworzenia APlikacji",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin",
     "JAVASCRIPT/Programowanie w JS od Zera do Mastera",
