@@ -5,6 +5,14 @@
       "path": "_ Mobile/Kotlin/the complete Android Kotlin/8.2 TextView.md"
     },
     {
+      "basename": "7.1 Express and FireBase",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/7.1 Express and FireBase.md"
+    },
+    {
+      "basename": "_ 0 Android Kurs Tworzenia Aplikacji",
+      "path": "_ Mobile/Android Kurs Tworzenia APlikacji/_ 0 Android Kurs Tworzenia Aplikacji.md"
+    },
+    {
       "basename": "8.1 Layouts in Android App",
       "path": "_ Mobile/Kotlin/the complete Android Kotlin/8.1 Layouts in Android App.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "6 Kotlin OOP",
       "path": "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md"
-    },
-    {
-      "basename": "7.1 Express and FireBase",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/7.1 Express and FireBase.md"
     },
     {
       "basename": "ES refresh",
@@ -63,10 +67,6 @@
     {
       "basename": "5 Functions in Android Kotlin",
       "path": "_ Mobile/Kotlin/the complete Android Kotlin/5 Functions in Android Kotlin.md"
-    },
-    {
-      "basename": "_ 0 Android Kurs Tworzenia Aplikacji",
-      "path": "_ Mobile/Android Kurs Tworzenia APlikacji/_ 0 Android Kurs Tworzenia Aplikacji.md"
     },
     {
       "basename": "8.3 Button",
