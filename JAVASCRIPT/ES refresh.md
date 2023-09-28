@@ -471,7 +471,13 @@ console.log(janek);
 
 ---
 ## Modules
-plik: myperson.js
+
+>[!important] moduły w node
+>aby używać modułów w node pliki musi być z rozszerzeniem `.mjs`
+
+
+
+plik: `myperson.mjs`
 ```javascript
 export class MyPerson{
 	constructor(name){
@@ -482,7 +488,7 @@ export class MyPerson{
 	}
 }
 ```
-plik: uczen.js
+plik: `uczen.mjs`
 ```javascript
 import { MyPerson } from './myperson.js'
 
@@ -502,7 +508,7 @@ aby fragment modułu "wystawić" na zewnątrz, trzeba go exportować, dlatego kl
 ### named export, default export
 
 #### named export
-one.js
+`one.mjs`
 ```javascript
 export function foo(){
 	return 'foo';
@@ -513,13 +519,13 @@ export function kuu(){
 }
 ```
 
-two.js
+`two.mjs`
 ```javascript
 import {foo, kuu} from "./one";
 ```
 
 #### default export
-one.js
+`one.mjs`
 ```javascript
 export default function foo(){
 	return 'foo';
@@ -529,7 +535,7 @@ function kuu(){
 	return 'kuu';
 }
 ```
-two.js
+`two.mjs`
 ```javascript
 import foo from "./one";
 ```
@@ -544,7 +550,7 @@ export function kuu(){
 	return 'kuu';
 }
 ```
-two.js
+`two.mjs`
 ```javascript
 import foo, {kuu} from "./one";
 ```
