@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "7 Intro to Android App Development",
+      "path": "_ Mobile/Kotlin/the complete Android Kotlin/7 Intro to Android App Development.md"
+    },
+    {
+      "basename": "8 Android Components",
+      "path": "_ Mobile/Kotlin/the complete Android Kotlin/8 Android Components.md"
+    },
+    {
+      "basename": "8.1 Layouts in Android App",
+      "path": "_ Mobile/Kotlin/the complete Android Kotlin/8.1 Layouts in Android App.md"
+    },
+    {
+      "basename": "6 Kotlin OOP",
+      "path": "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md"
+    },
+    {
       "basename": "7.1 Express and FireBase",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/7.1 Express and FireBase.md"
     },
@@ -29,10 +45,6 @@
       "path": "_ Mobile/Kotlin/the complete Android Kotlin/8.6 CheckBox.md"
     },
     {
-      "basename": "8 Android Components",
-      "path": "_ Mobile/Kotlin/the complete Android Kotlin/8 Android Components.md"
-    },
-    {
       "basename": "8.5 ImageView",
       "path": "_ Mobile/Kotlin/the complete Android Kotlin/8.5 ImageView.md"
     },
@@ -43,10 +55,6 @@
     {
       "basename": "3.1 Express - introducing",
       "path": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md"
-    },
-    {
-      "basename": "6 Kotlin OOP",
-      "path": "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md"
     },
     {
       "basename": "5 Functions in Android Kotlin",
@@ -75,10 +83,6 @@
     {
       "basename": "8.2 TextView",
       "path": "_ Mobile/Kotlin/the complete Android Kotlin/8.2 TextView.md"
-    },
-    {
-      "basename": "8.1 Layouts in Android App",
-      "path": "_ Mobile/Kotlin/the complete Android Kotlin/8.1 Layouts in Android App.md"
     },
     {
       "basename": "4 Tworzenie aplikacji WPF",
@@ -135,10 +139,6 @@
     {
       "basename": "3 Node Basics",
       "path": "_ WEB/N_O_D_E/NODE - the complete guide/3 Node Basics.md"
-    },
-    {
-      "basename": "7 Intro to Android App Development",
-      "path": "_ Mobile/Kotlin/the complete Android Kotlin/7 Intro to Android App Development.md"
     },
     {
       "basename": "4 Loops in Kotlin",
