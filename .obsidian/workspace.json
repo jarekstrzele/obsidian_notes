@@ -37,14 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ FullStack/Web Development 2023/19 jQuery.md",
+                "file": "JAVASCRIPT/ES refresh.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/7.1 Express and FireBase.md",
+                "file": "JAVASCRIPT/ES refresh.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/7.1 Express and FireBase.md",
+                "file": "JAVASCRIPT/ES refresh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/7.1 Express and FireBase.md"
+                "file": "JAVASCRIPT/ES refresh.md"
               }
             }
           },
@@ -224,17 +224,17 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "21b6cef0e5581250",
+  "active": "c8d359852bae2798",
   "lastOpenFiles": [
+    "_ FullStack/Web Development 2023/19 jQuery.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/7.1 Express and FireBase.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/2.2. Buffer.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/7.1 Express and FireBase.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/8.6 CheckBox.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/8 Android Components.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/8.5 ImageView.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/8.4 EditTexts.md",
-    "_ FullStack/Web Development 2023/19 jQuery.md",
     "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/5 Functions in Android Kotlin.md",

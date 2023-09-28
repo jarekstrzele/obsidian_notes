@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "ES refresh",
+      "path": "JAVASCRIPT/ES refresh.md"
+    },
+    {
+      "basename": "19 jQuery",
+      "path": "_ FullStack/Web Development 2023/19 jQuery.md"
+    },
+    {
       "basename": "7.1 Express and FireBase",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/7.1 Express and FireBase.md"
     },
@@ -31,10 +39,6 @@
     {
       "basename": "8.4 EditTexts",
       "path": "_ Mobile/Kotlin/the complete Android Kotlin/8.4 EditTexts.md"
-    },
-    {
-      "basename": "19 jQuery",
-      "path": "_ FullStack/Web Development 2023/19 jQuery.md"
     },
     {
       "basename": "3.1 Express - introducing",
@@ -131,10 +135,6 @@
     {
       "basename": "3 Node Basics",
       "path": "_ WEB/N_O_D_E/NODE - the complete guide/3 Node Basics.md"
-    },
-    {
-      "basename": "ES refresh",
-      "path": "JAVASCRIPT/ES refresh.md"
     },
     {
       "basename": "7 Intro to Android App Development",
