@@ -1,20 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "TicTacToe",
-      "path": "_ Desktop/WPF/TicTacToe.md"
-    },
-    {
-      "basename": "_ Fast WFP C Sharp",
-      "path": "C Sharp/Fast WFP  C Sharp/_ Fast WFP C Sharp.md"
-    },
-    {
       "basename": "4 Tworzenie aplikacji WPF",
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/4 Tworzenie aplikacji WPF.md"
     },
     {
       "basename": "3 Układ komponentów",
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/3 Układ komponentów.md"
+    },
+    {
+      "basename": "2 Aplikacje WPF",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/2 Aplikacje WPF.md"
+    },
+    {
+      "basename": "1 OOP w CSharp",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md"
+    },
+    {
+      "basename": "_ C Sharp od Podstaw do WPF i XAML",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md"
+    },
+    {
+      "basename": "_ 0 Android Kurs Tworzenia Aplikacji",
+      "path": "_ Mobile/Android Kurs Tworzenia APlikacji/_ 0 Android Kurs Tworzenia Aplikacji.md"
+    },
+    {
+      "basename": "TicTacToe",
+      "path": "_ Desktop/WPF/TicTacToe.md"
+    },
+    {
+      "basename": "_ Fast WFP C Sharp",
+      "path": "C Sharp/Fast WFP  C Sharp/_ Fast WFP C Sharp.md"
     },
     {
       "basename": "7 Express JS",
@@ -27,10 +43,6 @@
     {
       "basename": "7.1 Express and FireBase",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/7.1 Express and FireBase.md"
-    },
-    {
-      "basename": "_ 0 Android Kurs Tworzenia Aplikacji",
-      "path": "_ Mobile/Android Kurs Tworzenia APlikacji/_ 0 Android Kurs Tworzenia Aplikacji.md"
     },
     {
       "basename": "6 Age in Minute Calculator",
@@ -103,10 +115,6 @@
     {
       "basename": "_ the complete Android 12",
       "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/_ the complete Android 12.md"
-    },
-    {
-      "basename": "2 Aplikacje WPF",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/2 Aplikacje WPF.md"
     },
     {
       "basename": "41 Web HTML",
@@ -191,14 +199,6 @@
     {
       "basename": "_ 0 React Native Crush Course",
       "path": "_ Mobile/REACT NATIVE/youtube_RN_Crush_course/_ 0 React Native Crush Course.md"
-    },
-    {
-      "basename": "_ 0 Complete React Native",
-      "path": "_ Mobile/REACT NATIVE/The Complete React NativePlusHooks/_ 0 Complete React Native.md"
-    },
-    {
-      "basename": "3 mini game",
-      "path": "_ Mobile/REACT NATIVE/React Native Practical Guide/3 mini game.md"
     }
   ],
   "omittedPaths": [],
