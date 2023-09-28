@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "TicTacToe",
+      "path": "_ Desktop/WPF/TicTacToe.md"
+    },
+    {
+      "basename": "_ Fast WFP C Sharp",
+      "path": "C Sharp/Fast WFP  C Sharp/_ Fast WFP C Sharp.md"
+    },
+    {
+      "basename": "4 Tworzenie aplikacji WPF",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/4 Tworzenie aplikacji WPF.md"
+    },
+    {
+      "basename": "3 Układ komponentów",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/3 Układ komponentów.md"
+    },
+    {
       "basename": "7 Express JS",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md"
     },
@@ -87,18 +103,6 @@
     {
       "basename": "_ the complete Android 12",
       "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/_ the complete Android 12.md"
-    },
-    {
-      "basename": "4 Tworzenie aplikacji WPF",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/4 Tworzenie aplikacji WPF.md"
-    },
-    {
-      "basename": "3 Układ komponentów",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/3 Układ komponentów.md"
-    },
-    {
-      "basename": "_ Fast WFP C Sharp",
-      "path": "C Sharp/Fast WFP  C Sharp/_ Fast WFP C Sharp.md"
     },
     {
       "basename": "2 Aplikacje WPF",
@@ -195,10 +199,6 @@
     {
       "basename": "3 mini game",
       "path": "_ Mobile/REACT NATIVE/React Native Practical Guide/3 mini game.md"
-    },
-    {
-      "basename": "2 Debugging React Native Apps",
-      "path": "_ Mobile/REACT NATIVE/React Native Practical Guide/2 Debugging React Native Apps.md"
     }
   ],
   "omittedPaths": [],
