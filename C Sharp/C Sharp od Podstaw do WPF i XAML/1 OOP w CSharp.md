@@ -592,15 +592,13 @@ plik `Punk.cs`
 
    public Punkt()
    {
-      Console.WriteLine("Jestem BEZargumentowym konstruktorem" +
-               "                    klasy PUNKT");
+   Console.WriteLine("Jestem BEZargumentowym konstruktorem" + " klasy PUNKT");
            X = 0;
            Y = 0;
     }
    public Punkt(int x, int y)
    {
-      Console.WriteLine("Jestem DWUargumentowym konstruktorem " +
-               "               klasy PUNKT");
+      Console.WriteLine("Jestem DWUargumentowym konstruktorem " + " klasy PUNKT");
            X = x;
            Y = y;
     }
