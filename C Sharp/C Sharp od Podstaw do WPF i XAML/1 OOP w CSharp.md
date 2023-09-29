@@ -594,7 +594,7 @@ plik `Punk.cs`
    {
    Console.WriteLine("Jestem BEZargumentowym konstruktorem" + " klasy PUNKT");
            X = 0;
-           Y = 0;
+           Y = 0; 
     }
    public Punkt(int x, int y)
    {
