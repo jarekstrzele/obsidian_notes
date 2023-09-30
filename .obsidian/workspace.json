@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C Sharp/Fast WFP  C Sharp/1 Grid.md",
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/4 Tworzenie aplikacji WPF.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C Sharp/Fast WFP  C Sharp/1 Grid.md",
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/4 Tworzenie aplikacji WPF.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C Sharp/Fast WFP  C Sharp/1 Grid.md",
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/4 Tworzenie aplikacji WPF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C Sharp/Fast WFP  C Sharp/1 Grid.md"
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/4 Tworzenie aplikacji WPF.md"
               }
             }
           },
@@ -262,8 +262,8 @@
   },
   "active": "57e0bd4799cd0bc3",
   "lastOpenFiles": [
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/3 Układ komponentów.md",
     "C Sharp/Fast WFP  C Sharp/1 Grid.md",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/3 Układ komponentów.md",
     "C Sharp/Fast WFP  C Sharp/_ Fast WFP C Sharp.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/2 Aplikacje WPF.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
