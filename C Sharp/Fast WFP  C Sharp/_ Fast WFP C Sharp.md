@@ -47,11 +47,14 @@ for controlling the maximize and minimize a state of  the window
 - `miximize`
 
 ### `Topmost`
+the window always will be on the top
 
 
+### `Taskbar`
+`SHowInTaskbar`
 
-
-
+### RTL & LTR
+`Flow Direction`: LeftToRight or  RightToLeft languages
 
 
 
