@@ -57,7 +57,8 @@ the window always will be on the top
 `Flow Direction`: LeftToRight or  RightToLeft languages
 
 
-
+### Width and Height
+min, max
 
 
 

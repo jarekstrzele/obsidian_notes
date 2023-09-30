@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "1 Grid",
+      "path": "C Sharp/Fast WFP  C Sharp/1 Grid.md"
+    },
+    {
+      "basename": "3 Układ komponentów",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/3 Układ komponentów.md"
+    },
+    {
       "basename": "_ Fast WFP C Sharp",
       "path": "C Sharp/Fast WFP  C Sharp/_ Fast WFP C Sharp.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "TicTacToe",
       "path": "_ Desktop/WPF/TicTacToe.md"
-    },
-    {
-      "basename": "3 Układ komponentów",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/3 Układ komponentów.md"
     },
     {
       "basename": "4 Tworzenie aplikacji WPF",
@@ -195,10 +199,6 @@
     {
       "basename": "Android",
       "path": "_ Mobile/REACT NATIVE/Android.md"
-    },
-    {
-      "basename": "_ 0 React Native Crush Course",
-      "path": "_ Mobile/REACT NATIVE/youtube_RN_Crush_course/_ 0 React Native Crush Course.md"
     }
   ],
   "omittedPaths": [],
