@@ -30,7 +30,38 @@ WINDOW -- you can change: size, colour, border, icon, cursor, title, isEnable, V
 
 `WindowStyle` {None,  SingleBorderWindow, ... }
 
-### resize mode
+### resize mode `ResizeMode=`
+`noResize`
+`CanMinimize`
+`CanResize`
+`CanResizewithGrid`
+
+### font
+If you change font options in `Window`, it effects all elements inside that `Window`
+
+
+### `WindowState`
+for controlling the maximize and minimize a state of  the window
+- `normal`
+- `minimize`
+- `miximize`
+
+### `Topmost`
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
