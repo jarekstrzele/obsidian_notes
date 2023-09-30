@@ -18,8 +18,19 @@ WINDOW -- you can change: size, colour, border, icon, cursor, title, isEnable, V
 
 `WindowStartUpLocation` :`CenterScreen`
 
+## Properties in XAML
+```xml
+<Window 
+	BorderBrush=""
+> 
+<!--- ....
+-->
 
+```
 
+`WindowStyle` {None,  SingleBorderWindow, ... }
+
+### resize mode
 
 
 
