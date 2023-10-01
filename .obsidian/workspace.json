@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.6 CheckBox.md",
+                "file": "_ Mobile/Kotlin/Funkcje lambda.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.6 CheckBox.md",
+                "file": "_ Mobile/Kotlin/Funkcje lambda.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.6 CheckBox.md",
+                "file": "_ Mobile/Kotlin/Funkcje lambda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.6 CheckBox.md"
+                "file": "_ Mobile/Kotlin/Funkcje lambda.md"
               }
             }
           },
@@ -263,6 +263,7 @@
   "active": "21b6cef0e5581250",
   "lastOpenFiles": [
     "_ Mobile/Kotlin/the complete Android Kotlin/8.6 RadioButton.md",
+    "_ Mobile/Kotlin/Funkcje lambda.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/8.6 CheckBox.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/8.5 ImageView.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/3 Układ komponentów.md",
@@ -288,7 +289,6 @@
     "JAVASCRIPT/ES refresh.md",
     "_ FullStack/Web Development 2023/19 jQuery.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/2.2. Buffer.md",
     "_ Mobile/Android Kurs Tworzenia APlikacji",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin",
     "JAVASCRIPT/Programowanie w JS od Zera do Mastera",
