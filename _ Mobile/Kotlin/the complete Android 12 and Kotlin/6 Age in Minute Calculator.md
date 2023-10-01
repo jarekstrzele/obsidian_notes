@@ -18,8 +18,7 @@ to test
 val btnDatePicker : Button =findViewById(R.id.btnDatePicker)  
   
 btnDatePicker.setOnClickListener {  
-    // `this` means "display Toast on this activity"  
-    Toast.makeText(this, "btn pressed", Toast.LENGTH_LONG).show()  
+    // `this` means "display Toast on this activity"      Toast.makeText(this, "btn pressed", Toast.LENGTH_LONG).show()  
 }
 ```
 
