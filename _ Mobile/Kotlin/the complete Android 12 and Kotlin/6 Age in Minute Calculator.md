@@ -10,4 +10,22 @@ and now you can use this color (`@color/textBlue`)
 - freeze `android:orientation="vertical"`
 - add new colors to `res/values/colors.xml`
 
+## a date picker dialog
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
