@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.6 CheckBox.md",
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.6 RadioButton.md",
                 "mode": "source",
                 "source": false
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.6 CheckBox.md",
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.6 RadioButton.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.6 CheckBox.md",
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.6 RadioButton.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.6 CheckBox.md"
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.6 RadioButton.md"
               }
             }
           },
@@ -261,9 +261,9 @@
   },
   "active": "a43f7e3906307468",
   "lastOpenFiles": [
+    "_ Mobile/Kotlin/the complete Android Kotlin/8.6 CheckBox.md",
     "_ Mobile/Kotlin/Funkcje lambda.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/8.6 RadioButton.md",
-    "_ Mobile/Kotlin/the complete Android Kotlin/8.6 CheckBox.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/3 Układ komponentów.md",
     "_ Mobile/Android Kurs Tworzenia APlikacji/_ 0 Android Kurs Tworzenia Aplikacji.md",
