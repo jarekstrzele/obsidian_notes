@@ -12,7 +12,7 @@ and now you can use this color (`@color/textBlue`)
 
 ## a date picker dialog
 
-to test 
+## to test 
 ```kotlin
   
 val btnDatePicker : Button =findViewById(R.id.btnDatePicker)  
@@ -22,7 +22,40 @@ btnDatePicker.setOnClickListener {
 }
 ```
 
+## make date picker 
+```kotlin
+override fun onCreate(savedInstanceState: Bundle?) {  
+    super.onCreate(savedInstanceState)  
+    setContentView(R.layout.activity_main)  
+  
+    val btnDatePicker : Button =findViewById(R.id.btnDatePicker)  
+  
+    btnDatePicker.setOnClickListener { _ ->  
+        clickDatePicker()  
+    }  
+}  
+  
+fun clickDatePicker(){  
+  
+    val myCalendar = Calendar.getInstance()  
+    val year = myCalendar.get(Calendar.YEAR)  
+    val month = myCalendar.get(Calendar.MONTH)  
+    val day = myCalendar.get(Calendar.DAY_OF_MONTH)  
+    DatePickerDialog(this,  
+        DatePickerDialog.OnDateSetListener{view, year, month, dayOfMonth ->  
+            Toast.makeText(this, "Date picker works", Toast.LENGTH_LONG).show()  
+        },  
+        year,  
+        month,  
+        day,  
+        ).show()  
+    // `this` means "display Toast on this activity"  
+  
+}
+```
 
+
+## take date from the date picker
 
 
 
