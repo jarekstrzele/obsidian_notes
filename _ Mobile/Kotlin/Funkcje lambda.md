@@ -1,4 +1,6 @@
-#kotlin/lambda_func
+#kotlin/lambda_function
+
+### `{ parametry -> ciało_funkcji }`
 
 
 
