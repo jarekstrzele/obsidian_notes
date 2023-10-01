@@ -7,7 +7,7 @@ and now you can use this color (`@color/textBlue`)
 
 - change constraint layout to `<LinearLayout>`
 - `android:gravity`
-- frose `android:orientation="vertical"`
+- freeze `android:orientation="vertical"`
 - add new colors to `res/values/colors.xml`
 
 
