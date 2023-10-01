@@ -12,7 +12,16 @@ and now you can use this color (`@color/textBlue`)
 
 ## a date picker dialog
 
-
+to test 
+```kotlin
+  
+val btnDatePicker : Button =findViewById(R.id.btnDatePicker)  
+  
+btnDatePicker.setOnClickListener {  
+    // `this` means "display Toast on this activity"  
+    Toast.makeText(this, "btn pressed", Toast.LENGTH_LONG).show()  
+}
+```
 
 
 
