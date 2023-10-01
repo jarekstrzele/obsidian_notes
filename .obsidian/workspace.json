@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.6 RadioButton.md",
+                "file": "_ Mobile/Kotlin/Funkcje lambda.md",
                 "mode": "source",
                 "source": false
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.6 RadioButton.md",
+                "file": "_ Mobile/Kotlin/Funkcje lambda.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.6 RadioButton.md",
+                "file": "_ Mobile/Kotlin/Funkcje lambda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.6 RadioButton.md"
+                "file": "_ Mobile/Kotlin/Funkcje lambda.md"
               }
             }
           },
@@ -261,17 +261,17 @@
   },
   "active": "a43f7e3906307468",
   "lastOpenFiles": [
-    "_ Mobile/Android Kurs Tworzenia APlikacji/_ 0 Android Kurs Tworzenia Aplikacji.md",
-    "_ Mobile/Kotlin/Funkcje lambda.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/8.6 RadioButton.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/8.6 CheckBox.md",
-    "_ Mobile/Kotlin/the complete Android Kotlin/8.5 ImageView.md",
+    "_ Mobile/Kotlin/Funkcje lambda.md",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/3 Układ komponentów.md",
+    "_ Mobile/Android Kurs Tworzenia APlikacji/_ 0 Android Kurs Tworzenia Aplikacji.md",
+    "_ Mobile/Kotlin/the complete Android Kotlin/8.5 ImageView.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/4 Tworzenie aplikacji WPF.md",
     "C Sharp/Fast WFP  C Sharp/1 Grid.md",
     "C Sharp/Fast WFP  C Sharp/_ Fast WFP C Sharp.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/2 Aplikacje WPF.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
     "_ Desktop/WPF/TicTacToe.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md",
