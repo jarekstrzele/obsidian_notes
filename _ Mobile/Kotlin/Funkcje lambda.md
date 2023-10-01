@@ -2,6 +2,31 @@
 
 ### `{ parametry -> ciało_funkcji }`
 
+# FL jak argument innej funkcji ({}) vs {}
+W Kotlinie możesz wywoływać funkcje, które przyjmują funkcje lambda jako ostatni argument poza nawiasami, co pozwala na bardziej zwięzły i czytelny kod. To jest znane jako "słodka notacja" (ang. "lambda syntax sugar") i jest jednym z udogodnień języka.
+
+Przykładowo, jeśli funkcja `setOnClickListener` jest metodą, która przyjmuje funkcję lambda jako ostatni argument, możesz ją wywołać w ten sposób:
+
+```kotlin
+button.setOnClickListener { view ->
+    // Kod reagujący na kliknięcie przycisku
+}
+```
+
+Zamiast używać nawiasów, możesz użyć nawiasów klamrowych `{}` bezpośrednio po funkcji `setOnClickListener`. Wynika to z faktu, że Kotlin pozwala na przeniesienie ostatniego argumentu funkcji poza nawiasy, co jest bardziej zgodne z konwencją programowania funkcyjnego i bardziej zwięzłe.
+
+Jeśli funkcja przyjmuje tylko jedną funkcję lambda jako argument, to taka notacja jest często preferowana, ponieważ poprawia czytelność kodu i jest bardziej przyjemna w użyciu. Jednak jeśli funkcja przyjmuje wiele argumentów lub jest bardziej złożona, można użyć nawiasów klamrowych `{}` wewnątrz nawiasów, aby bardziej wyraźnie oddzielić argumenty od ciała funkcji lambda, tak jak w przykładzie:
+
+```kotlin
+button.setOnClickListener({ view ->
+    // Kod reagujący na kliknięcie przycisku
+})
+```
+
+Obie formy są poprawne w Kotlinie, ale słodka notacja jest często preferowana ze względu na jej czytelność i elegancję, zwłaszcza w przypadku jednoargumentowych funkcji lambda.
+
+---
+
 ```kotlin
 val numbers = listOf(1, 2, 3, 4, 5)
 numbers.forEach { number ->
@@ -53,5 +78,12 @@ println(evenNumbers) // Wyświetli: [2, 4, 6, 8, 10]
 
 ```
 
+### tworzenie wątków
+```kotlin
+Thread {
+    // Kod wykonywany w innym wątku
+    println("Hello from another thread!")
+}.start()
 
+```
 
