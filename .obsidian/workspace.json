@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/3 Układ komponentów.md",
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.6 CheckBox.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/4 Tworzenie aplikacji WPF.md",
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.6 CheckBox.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/4 Tworzenie aplikacji WPF.md",
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.6 CheckBox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/4 Tworzenie aplikacji WPF.md"
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.6 CheckBox.md"
               }
             }
           },
@@ -260,18 +260,20 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "57e0bd4799cd0bc3",
+  "active": "21b6cef0e5581250",
   "lastOpenFiles": [
-    "C Sharp/Fast WFP  C Sharp/1 Grid.md",
+    "_ Mobile/Kotlin/the complete Android Kotlin/8.5 ImageView.md",
+    "_ Mobile/Kotlin/the complete Android Kotlin/8.6 CheckBox.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/3 Układ komponentów.md",
+    "_ Mobile/Android Kurs Tworzenia APlikacji/_ 0 Android Kurs Tworzenia Aplikacji.md",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/4 Tworzenie aplikacji WPF.md",
+    "C Sharp/Fast WFP  C Sharp/1 Grid.md",
     "C Sharp/Fast WFP  C Sharp/_ Fast WFP C Sharp.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/2 Aplikacje WPF.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
     "_ Desktop/WPF/TicTacToe.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/4 Tworzenie aplikacji WPF.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md",
-    "_ Mobile/Android Kurs Tworzenia APlikacji/_ 0 Android Kurs Tworzenia Aplikacji.md",
     "_ Desktop/WPF",
     "_ WEB/N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/7.1 Express and FireBase.md",
@@ -286,8 +288,6 @@
     "_ FullStack/Web Development 2023/19 jQuery.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/2.2. Buffer.md",
-    "_ Mobile/Kotlin/the complete Android Kotlin/8.6 CheckBox.md",
-    "_ Mobile/Kotlin/the complete Android Kotlin/8.5 ImageView.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/8.4 EditTexts.md",
     "_ Mobile/Android Kurs Tworzenia APlikacji",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin",
