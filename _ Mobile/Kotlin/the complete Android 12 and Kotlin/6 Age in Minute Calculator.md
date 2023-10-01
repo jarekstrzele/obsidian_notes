@@ -18,8 +18,12 @@ and now you can use this color (`@color/textBlue`)
 val btnDatePicker : Button =findViewById(R.id.btnDatePicker)  
   
 btnDatePicker.setOnClickListener {  
-    // `this` means "display Toast on this activity"      Toast.makeText(this, "btn pressed", Toast.LENGTH_LONG).show()  
+    // `this` means "display Toast on this activity"   
+    Toast.makeText(this, "btn pressed", Toast.LENGTH_LONG).show()  
 }
+// czas trwania tosta:
+// Toast.LENGTH_LONG
+// Toast.LENGTH_SHORT
 ```
 
 ## make date picker 
