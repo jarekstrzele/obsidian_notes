@@ -633,7 +633,17 @@ public class Punkt3D : Punkt
 
 
 
+# Polimorfizm
 
+klasa rodzic: `Punkt`
+klasa dziecko: `Punkt3D : Punkt`
+```c#
+Punkt a;
+Punkt b;
+
+a = new Punkt(1,2)
+b = new Punkt3D(10,20,30) // będzie działać, bo klasa Punkt3D dziedziczy po Punkt, więc w pewnym sensie jest Punkt
+```
 
 
 
