@@ -679,7 +679,14 @@ class Program{
 Console.WrtieLine(p.wyswietlKoordynaty())
 		}
 	}
+///--------------- inny sposób
 
+	Punkt3D p3d = p as Punkt3D; //jeżeli ta operacja się nie uda, to p=null
+	if(p3d==null){
+		Console.WrtieLine(p.wyswietlKoordynaty())
+	} else{
+	Console.WrtieLine(p3d.wyswietlKoordynaty())
+	}
 
 	static void Main(string[] args){
 
@@ -688,9 +695,19 @@ Console.WrtieLine(p.wyswietlKoordynaty())
 ```
 
 
+KAŻDA KLASA DZIEDZICZY Z KLASY `Object`
 
+```c#
+class Program {
+//..
 
+static void getClassName(Object x){
+	return x.toString();
+}
 
+//...
+}
+```
 
 
 
