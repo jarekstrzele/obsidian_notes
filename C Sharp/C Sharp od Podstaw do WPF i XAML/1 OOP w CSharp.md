@@ -645,10 +645,53 @@ klasa dziecko: `Punkt3D : Punkt`
 ```c#
 Punkt a;
 Punkt b;
+Punkt3D c;
 
-a = new Punkt(1,2)
-b = new Punkt3D(10,20,30) // będzie działać, bo klasa Punkt3D dziedziczy po Punkt, więc w pewnym sensie jest Punkt
+a = new Punkt(1,2);
+b = new Punkt3D(10,20,30); // będzie działać, bo klasa Punkt3D dziedziczy po Punkt, więc w pewnym sensie jest Punkt
+c = new Punkt(30,40); //wywoła błąd bo chcemy rzutować w dół
+
+
 ```
+ale `b` będzie miało dostęp tylko do tego, co zdefiniowano w klasie `Punkt` (to tak zwane **rzutowanie w górę**)
+
+```c#
+
+Console.WriteLine(b.wyswietlKoordynaty()) //-> wywoła tę metodę z klasy `Punkt`, a nie Punkt3D
+
+//jeżeli chcemy, aby wywołana została metoda z klasy `Punkt3D` to musimy rzutować w dół
+
+Console.WriteLine( ((Punkt3D)b).wyswietlKoordynaty())
+
+```
+
+Dzięki rzutowaniu mogę mieć jedną metodę, która będzie obsługiwała obiekty rodzica i dzieci:
+np.
+```c#
+class Program{
+
+
+	static Display(Punkt a){
+		if (p is Punkt3D){
+			Console.WrtieLine(((Punkt3D)p).wyswietlKoordynaty())
+		}
+		else {
+Console.WrtieLine(p.wyswietlKoordynaty())
+		}
+	}
+
+
+	static void Main(string[] args){
+
+	}
+}
+```
+
+
+
+
+
+
 
 
 
