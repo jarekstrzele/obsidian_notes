@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.3 Button.md",
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.2 TextView.md",
                 "mode": "source",
                 "source": false
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.3 Button.md",
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.2 TextView.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.3 Button.md",
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.2 TextView.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.3 Button.md"
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.2 TextView.md"
               }
             }
           },
@@ -286,6 +286,12 @@
   },
   "active": "e6f9e821c7364f45",
   "lastOpenFiles": [
+    "_ Mobile/Kotlin/the complete Android Kotlin/8.3 Button.md",
+    "_ Mobile/Kotlin/the complete Android Kotlin/8.5 ImageView.md",
+    "_ Mobile/Kotlin/the complete Android Kotlin/8.6 CheckBox.md",
+    "_ Mobile/Kotlin/the complete Android Kotlin/8.6 RadioButton.md",
+    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/6 Age in Minute Calculator.md",
+    "_ Mobile/Kotlin/the complete Android Kotlin/8.4 EditTexts.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/8.2 TextView.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/8.1 Layouts in Android App.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/8 Android Components.md",
@@ -301,17 +307,11 @@
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.1 Konstruktory.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md",
     "JAVASCRIPT/ES refresh.md",
-    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/6 Age in Minute Calculator.md",
     "_ Mobile/Kotlin/Funkcje lambda.md",
-    "_ Mobile/Kotlin/the complete Android Kotlin/8.6 RadioButton.md",
-    "_ Mobile/Kotlin/the complete Android Kotlin/8.6 CheckBox.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/3 Układ komponentów.md",
-    "_ Mobile/Kotlin/the complete Android Kotlin/8.5 ImageView.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/4 Tworzenie aplikacji WPF.md",
     "C Sharp/Fast WFP  C Sharp/1 Grid.md",
     "C Sharp/Fast WFP  C Sharp/_ Fast WFP C Sharp.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/2 Aplikacje WPF.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
     "_ Desktop/WPF",
     "_ Mobile/Android Kurs Tworzenia APlikacji",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin",
