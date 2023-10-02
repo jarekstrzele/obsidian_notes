@@ -142,7 +142,7 @@ const exHbrs = require("express-handlebars");
 const app = express()
 
 // aby móc używać styles.css, który jest w public/css
-app.use("/public/css",express.static("public/css"))
+app.use(express.static("public/css"))
 
 // `app.engine('handlebars' ...` datego potem pliki mają rozszerzenie handlebars
 app.engine('handlebars', exHbrs.engine({defaultLayout: "main"})) // register a new template engine
