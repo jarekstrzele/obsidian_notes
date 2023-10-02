@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/6 Age in Minute Calculator.md",
+                "file": "JAVASCRIPT/ES refresh.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/6 Age in Minute Calculator.md",
+                "file": "JAVASCRIPT/ES refresh.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/6 Age in Minute Calculator.md",
+                "file": "JAVASCRIPT/ES refresh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/6 Age in Minute Calculator.md"
+                "file": "JAVASCRIPT/ES refresh.md"
               }
             }
           },
@@ -262,6 +262,7 @@
   },
   "active": "21b6cef0e5581250",
   "lastOpenFiles": [
+    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/6 Age in Minute Calculator.md",
     "_ Mobile/Kotlin/Funkcje lambda.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/8.6 RadioButton.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/8.6 CheckBox.md",
@@ -279,7 +280,6 @@
     "_ Desktop/WPF",
     "_ WEB/N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/7.1 Express and FireBase.md",
-    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/6 Age in Minute Calculator.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin/4. OOP Kotlin.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/8.2 TextView.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/8.1 Layouts in Android App.md",
