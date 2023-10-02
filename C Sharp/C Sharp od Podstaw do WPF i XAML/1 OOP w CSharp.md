@@ -702,6 +702,14 @@ class Program {
 //..
 
 static void getClassName(Object x){
+	// x.<dostęp do klasy Object>
+	/* ok
+	if(x is Punkt) {
+		//to rzutu
+		(Punkt)x.<tu jest dostęp do klasy Punkt>
+	}
+	*/
+
 	return x.toString();
 }
 
