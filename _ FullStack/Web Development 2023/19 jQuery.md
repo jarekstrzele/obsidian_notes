@@ -255,3 +255,13 @@ $("button").on("click", ()=> {
 
 
 
+-------------
+# Game `Simon`
+You have to remember the sequence of pressed buttons.
+1. make `index.html` with `<script src="yourjAqurty.js"> ...`
+2. make `game.js` with `alert("eww")` inside and verify if the `.js` is linked with `index`
+3. 
+
+
+
+
