@@ -135,6 +135,21 @@ ten `engine` pod adresem https://github.com/express-handlebars/express-handlebar
 
 to install `npm install express-handlebars`
 
+
+---
+umieść `styles.css` w folderze `public`
+umieść `main.js` (z kodem jQuery) imieść folderze `public`
+
+```html
+  <link rel="stylesheet" href="/styles.css"/>
+
+  <script src="/main.js" ></script>
+  
+```
+
+----
+
+
 ```js
 const express = require("express")
 const exHbrs = require("express-handlebars");
