@@ -1,12 +1,60 @@
 {
   "recentFiles": [
     {
-      "basename": "_ 0 Android Kurs Tworzenia Aplikacji",
-      "path": "_ Mobile/Android Kurs Tworzenia APlikacji/_ 0 Android Kurs Tworzenia Aplikacji.md"
+      "basename": "- 3 Node",
+      "path": "_ WEB/N_O_D_E/Lear Node.js and Javascript/- 3 Node.md"
+    },
+    {
+      "basename": "3.1 Express - introducing",
+      "path": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md"
+    },
+    {
+      "basename": "3.1.1. Recap Building RestFul APIS with Express",
+      "path": "_ WEB/N_O_D_E/Mosh Node/3.1.1. Recap Building RestFul APIS with Express.md"
+    },
+    {
+      "basename": "5 Working with Express.js",
+      "path": "_ WEB/N_O_D_E/NODE - the complete guide/5 Working with Express.js.md"
+    },
+    {
+      "basename": "6 Working with Dynamic Content and Adding Templating Engines",
+      "path": "_ WEB/N_O_D_E/NODE - the complete guide/6 Working with Dynamic Content and Adding Templating Engines.md"
+    },
+    {
+      "basename": "7 Express JS",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md"
+    },
+    {
+      "basename": "6 Zewnętrzne moduły",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/6 Zewnętrzne moduły.md"
+    },
+    {
+      "basename": "7.1 Express and FireBase",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/7.1 Express and FireBase.md"
+    },
+    {
+      "basename": "8.6 RadioButton",
+      "path": "_ Mobile/Kotlin/the complete Android Kotlin/8.6 RadioButton.md"
+    },
+    {
+      "basename": "1 OOP w CSharp",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md"
+    },
+    {
+      "basename": "4 Tworzenie aplikacji WPF",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/4 Tworzenie aplikacji WPF.md"
+    },
+    {
+      "basename": "3 Układ komponentów",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/3 Układ komponentów.md"
     },
     {
       "basename": "8.2 TextView",
       "path": "_ Mobile/Kotlin/the complete Android Kotlin/8.2 TextView.md"
+    },
+    {
+      "basename": "_ 0 Android Kurs Tworzenia Aplikacji",
+      "path": "_ Mobile/Android Kurs Tworzenia APlikacji/_ 0 Android Kurs Tworzenia Aplikacji.md"
     },
     {
       "basename": "8.3 Button",
@@ -19,10 +67,6 @@
     {
       "basename": "8.6 CheckBox",
       "path": "_ Mobile/Kotlin/the complete Android Kotlin/8.6 CheckBox.md"
-    },
-    {
-      "basename": "8.6 RadioButton",
-      "path": "_ Mobile/Kotlin/the complete Android Kotlin/8.6 RadioButton.md"
     },
     {
       "basename": "6 Age in Minute Calculator",
@@ -51,10 +95,6 @@
     {
       "basename": "4. OOP Kotlin",
       "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/4. OOP Kotlin.md"
-    },
-    {
-      "basename": "1 OOP w CSharp",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md"
     },
     {
       "basename": "1.5 Polimorfizm i rzutowanie",
@@ -89,14 +129,6 @@
       "path": "_ Mobile/Kotlin/Funkcje lambda.md"
     },
     {
-      "basename": "3 Układ komponentów",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/3 Układ komponentów.md"
-    },
-    {
-      "basename": "4 Tworzenie aplikacji WPF",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/4 Tworzenie aplikacji WPF.md"
-    },
-    {
       "basename": "1 Grid",
       "path": "C Sharp/Fast WFP  C Sharp/1 Grid.md"
     },
@@ -109,20 +141,12 @@
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/2 Aplikacje WPF.md"
     },
     {
-      "basename": "7 Express JS",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md"
-    },
-    {
       "basename": "TicTacToe",
       "path": "_ Desktop/WPF/TicTacToe.md"
     },
     {
       "basename": "2.1. Zdarzenia",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md"
-    },
-    {
-      "basename": "7.1 Express and FireBase",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/7.1 Express and FireBase.md"
     },
     {
       "basename": "19 jQuery",
@@ -135,10 +159,6 @@
     {
       "basename": "2.2. Buffer",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.2. Buffer.md"
-    },
-    {
-      "basename": "3.1 Express - introducing",
-      "path": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md"
     },
     {
       "basename": "5 Functions in Android Kotlin",
@@ -161,18 +181,6 @@
       "path": "P Y T H O N/Advanced Python_Youtube/_ 0 Advenced Python.md"
     },
     {
-      "basename": "5 Working with Express.js",
-      "path": "_ WEB/N_O_D_E/NODE - the complete guide/5 Working with Express.js.md"
-    },
-    {
-      "basename": "6 Zewnętrzne moduły",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/6 Zewnętrzne moduły.md"
-    },
-    {
-      "basename": "6 Working with Dynamic Content and Adding Templating Engines",
-      "path": "_ WEB/N_O_D_E/NODE - the complete guide/6 Working with Dynamic Content and Adding Templating Engines.md"
-    },
-    {
       "basename": "_0 Node Complete Guide",
       "path": "_ WEB/N_O_D_E/NODE - the complete guide/_0 Node Complete Guide.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "4 Loops in Kotlin",
       "path": "_ Mobile/Kotlin/the complete Android Kotlin/4 Loops in Kotlin.md"
-    },
-    {
-      "basename": "3 Control Flow Statements in Kotlin",
-      "path": "_ Mobile/Kotlin/the complete Android Kotlin/3 Control Flow Statements in Kotlin.md"
-    },
-    {
-      "basename": "2 Operators in Kotlin",
-      "path": "_ Mobile/Kotlin/the complete Android Kotlin/2 Operators in Kotlin.md"
     }
   ],
   "omittedPaths": [],

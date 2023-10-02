@@ -4,47 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "50dc07739b66599b",
+        "id": "e26d93a4cc221b8e",
         "type": "tabs",
         "children": [
           {
-            "id": "a43f7e3906307468",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.6 RadioButton.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "21b6cef0e5581250",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f9fb77ded24f7542",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c8d359852bae2798",
+            "id": "ce6fa69f08ec2bf2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -56,55 +20,31 @@
             }
           },
           {
-            "id": "57e0bd4799cd0bc3",
+            "id": "db3fe56b1a701914",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/4 Tworzenie aplikacji WPF.md",
+                "file": "_ WEB/N_O_D_E/NODE - the complete guide/6 Working with Dynamic Content and Adding Templating Engines.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "65654ede641d4426",
+            "id": "f80b06c52a3bf301",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/3 Układ komponentów.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e6f9e821c7364f45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.2 TextView.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ed82354860a4eb60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_ Mobile/Android Kurs Tworzenia APlikacji/_ 0 Android Kurs Tworzenia Aplikacji.md",
+                "file": "_ WEB/N_O_D_E/Lear Node.js and Javascript/- 3 Node.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -186,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Android Kurs Tworzenia APlikacji/_ 0 Android Kurs Tworzenia Aplikacji.md",
+                "file": "_ WEB/N_O_D_E/Lear Node.js and Javascript/- 3 Node.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -203,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Android Kurs Tworzenia APlikacji/_ 0 Android Kurs Tworzenia Aplikacji.md",
+                "file": "_ WEB/N_O_D_E/Lear Node.js and Javascript/- 3 Node.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Android Kurs Tworzenia APlikacji/_ 0 Android Kurs Tworzenia Aplikacji.md"
+                "file": "_ WEB/N_O_D_E/Lear Node.js and Javascript/- 3 Node.md"
               }
             }
           },
@@ -284,34 +224,34 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "ed82354860a4eb60",
+  "active": "f80b06c52a3bf301",
   "lastOpenFiles": [
+    "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
+    "_ WEB/N_O_D_E/Mosh Node/3.1.1. Recap Building RestFul APIS with Express.md",
+    "_ WEB/N_O_D_E/NODE - the complete guide/5 Working with Express.js.md",
+    "_ WEB/N_O_D_E/NODE - the complete guide/6 Working with Dynamic Content and Adding Templating Engines.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/6 Zewnętrzne moduły.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/7.1 Express and FireBase.md",
+    "_ Mobile/Kotlin/the complete Android Kotlin/8.6 RadioButton.md",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/4 Tworzenie aplikacji WPF.md",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/3 Układ komponentów.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/8.2 TextView.md",
+    "_ Mobile/Android Kurs Tworzenia APlikacji/_ 0 Android Kurs Tworzenia Aplikacji.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/8.3 Button.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/8.5 ImageView.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/8.6 CheckBox.md",
-    "_ Mobile/Kotlin/the complete Android Kotlin/8.6 RadioButton.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin/6 Age in Minute Calculator.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/8.4 EditTexts.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/8.1 Layouts in Android App.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/8 Android Components.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/7 Intro to Android App Development.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md",
-    "_ Mobile/Android Kurs Tworzenia APlikacji/_ 0 Android Kurs Tworzenia Aplikacji.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin/4. OOP Kotlin.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.5 Polimorfizm i rzutowanie.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.4 Dziedziczenie.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.3 Klasy zagnieżdżone.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.2 Metody i Właściwości.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.1 Konstruktory.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md",
-    "JAVASCRIPT/ES refresh.md",
-    "_ Mobile/Kotlin/Funkcje lambda.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/3 Układ komponentów.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/4 Tworzenie aplikacji WPF.md",
-    "C Sharp/Fast WFP  C Sharp/1 Grid.md",
-    "C Sharp/Fast WFP  C Sharp/_ Fast WFP C Sharp.md",
     "_ Desktop/WPF",
     "_ Mobile/Android Kurs Tworzenia APlikacji",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin",
