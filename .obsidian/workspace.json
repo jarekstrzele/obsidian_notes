@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.2 TextView.md",
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.3 Button.md",
                 "mode": "source",
                 "source": false
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.2 TextView.md",
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.3 Button.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.2 TextView.md",
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.3 Button.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.2 TextView.md"
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.3 Button.md"
               }
             }
           },
@@ -286,6 +286,7 @@
   },
   "active": "e6f9e821c7364f45",
   "lastOpenFiles": [
+    "_ Mobile/Kotlin/the complete Android Kotlin/8.2 TextView.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/8.1 Layouts in Android App.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/8 Android Components.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/7 Intro to Android App Development.md",
@@ -311,7 +312,6 @@
     "C Sharp/Fast WFP  C Sharp/_ Fast WFP C Sharp.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/2 Aplikacje WPF.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
-    "_ Desktop/WPF/TicTacToe.md",
     "_ Desktop/WPF",
     "_ Mobile/Android Kurs Tworzenia APlikacji",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin",
