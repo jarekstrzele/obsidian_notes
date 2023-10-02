@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "8 Android Components",
+      "path": "_ Mobile/Kotlin/the complete Android Kotlin/8 Android Components.md"
+    },
+    {
+      "basename": "7 Intro to Android App Development",
+      "path": "_ Mobile/Kotlin/the complete Android Kotlin/7 Intro to Android App Development.md"
+    },
+    {
+      "basename": "6 Kotlin OOP",
+      "path": "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md"
+    },
+    {
+      "basename": "_ 0 Android Kurs Tworzenia Aplikacji",
+      "path": "_ Mobile/Android Kurs Tworzenia APlikacji/_ 0 Android Kurs Tworzenia Aplikacji.md"
+    },
+    {
+      "basename": "4. OOP Kotlin",
+      "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/4. OOP Kotlin.md"
+    },
+    {
       "basename": "1 OOP w CSharp",
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md"
     },
@@ -53,10 +73,6 @@
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/3 Układ komponentów.md"
     },
     {
-      "basename": "_ 0 Android Kurs Tworzenia Aplikacji",
-      "path": "_ Mobile/Android Kurs Tworzenia APlikacji/_ 0 Android Kurs Tworzenia Aplikacji.md"
-    },
-    {
       "basename": "8.5 ImageView",
       "path": "_ Mobile/Kotlin/the complete Android Kotlin/8.5 ImageView.md"
     },
@@ -93,28 +109,12 @@
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/7.1 Express and FireBase.md"
     },
     {
-      "basename": "4. OOP Kotlin",
-      "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/4. OOP Kotlin.md"
-    },
-    {
       "basename": "8.2 TextView",
       "path": "_ Mobile/Kotlin/the complete Android Kotlin/8.2 TextView.md"
     },
     {
       "basename": "8.1 Layouts in Android App",
       "path": "_ Mobile/Kotlin/the complete Android Kotlin/8.1 Layouts in Android App.md"
-    },
-    {
-      "basename": "8 Android Components",
-      "path": "_ Mobile/Kotlin/the complete Android Kotlin/8 Android Components.md"
-    },
-    {
-      "basename": "7 Intro to Android App Development",
-      "path": "_ Mobile/Kotlin/the complete Android Kotlin/7 Intro to Android App Development.md"
-    },
-    {
-      "basename": "6 Kotlin OOP",
-      "path": "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md"
     },
     {
       "basename": "19 jQuery",
