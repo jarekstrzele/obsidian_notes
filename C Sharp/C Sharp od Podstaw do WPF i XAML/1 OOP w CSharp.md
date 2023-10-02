@@ -717,6 +717,25 @@ static void getClassName(Object x){
 }
 ```
 
+## Virtual , override
+
+w klasie bazowej ustawiasza metodę jako `virtual`
+a w klasie dziedziczącej `override`
+
+poprzednio użyłem `new`, czyli że chciałem, aby metoda z klasy `Punkt3D` 
+```c#
+new public string wyswietlKoordynaty()
+    {
+        return $"{base.wyswietlKoordynaty()} Z={ this.Z}" ;
+    }
+```
+była zupełnie nowym egzemplarzem metody, której taka sama nazwa występuje w klasie rodzica `Punkt`
+```c#
+public string wyswietlKoordynaty(){
+		return this.X + ", " + this.Y;
+	}
+
+```
 
 
-
+teraz z `override` i `vitrual`
