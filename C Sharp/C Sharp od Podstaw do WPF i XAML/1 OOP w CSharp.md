@@ -602,6 +602,10 @@ plik `Punk.cs`
            X = x;
            Y = y;
     }
+
+	public string wyswietlKoordynaty(){
+		return this.X + ", " + this.Y;
+	}
 }
 ```
 
@@ -624,7 +628,8 @@ public class Punkt3D : Punkt
 		this.Z = z;
 	}
 
-    public string wyswietlKoordynaty()
+	//new - jestem pewny, że chcę nadpisać tę metodę z rodzica
+	new public string wyswietlKoordynaty()
     {
         return $"{base.wyswietlKoordynaty()} Z={ this.Z}" ;
     }
