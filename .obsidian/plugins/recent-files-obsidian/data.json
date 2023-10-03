@@ -5,6 +5,10 @@
       "path": "R U S T/1 - Full Rust Beginner s Course/1 Variables.md"
     },
     {
+      "basename": "2 Numbers",
+      "path": "R U S T/1 - Full Rust Beginner s Course/2 Numbers.md"
+    },
+    {
       "basename": "_ Full Rust Beginners Cours",
       "path": "R U S T/1 - Full Rust Beginner s Course/_ Full Rust Beginners Cours.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_ 0 Advenced Python",
       "path": "P Y T H O N/Advanced Python_Youtube/_ 0 Advenced Python.md"
-    },
-    {
-      "basename": "_0 Node Complete Guide",
-      "path": "_ WEB/N_O_D_E/NODE - the complete guide/_0 Node Complete Guide.md"
     }
   ],
   "omittedPaths": [],
