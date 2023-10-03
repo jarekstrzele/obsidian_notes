@@ -52,6 +52,19 @@ private void Button_Click(object sender, RoutedEventArgs e)
 # Eventy i Delegaty 
 Potrzebujemy typu, który będzie przechowywać FUNKCJE - DELEGAT
 
+>[!info] delegaty
+> - Delegat jest to typ danych, który reprezentuje wskaźnik do metody o określonym sygnaturze.
+> - Delegaty pozwalają na przechowywanie referencji do metod i wywoływanie tych metod w późniejszym czasie.
+> - Są używane do implementacji mechanizmu wywoływania zwrotnego (callback) oraz obsługi zdarzeń.
+> - Delegaty są deklarowane za pomocą słowa kluczowego "delegate".
+
+```c#
+public delegate void MojaMetodaDelegata(string wiadomosc);
+
+```
+
+
+
 
 `event` zdarzenie
 `delegat` reprezentant jakiejś zbiorowości (sygnatura funkcji)
