@@ -22,7 +22,7 @@
 https://www.rust-lang.org/tools
 
 vs code extension:
-- THe Rust Programmin Language
+- The Rust Programmin Language
 - crates
 
 --------------
