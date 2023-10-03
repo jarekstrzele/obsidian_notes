@@ -60,24 +60,114 @@ Potrzebujemy typu, który będzie przechowywać FUNKCJE - DELEGAT
 
 ```c#
 public delegate void MojaMetodaDelegata(string wiadomosc);
-
+public event MojaMetodaDelegata jaksasZmienna;
 ```
-
-
-
 
 `event` zdarzenie
 `delegat` reprezentant jakiejś zbiorowości (sygnatura funkcji)
 
-Tworzymy w naszej aplikacji nowy pliki
-`Simulation.cs` z klasą Simulation
+PRZYKŁAD
 
-Simulation.cs
+`Budzik.cs`
+```c#
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace delegaty
+{
+class Budzik
+{
+   //określenie sygnatury funkcji
+   public delegate void WakeUpTime(string msg);
+
+   // `event` powoduje, że listOfFunctions może być wywołane wyłącznie
+  // wewnątrz tej klasy
+   public event WakeUpTime listOfFunctions;
+   public int CurrTime;
+   public void runningClock()
+   {
+        while(true)
+        {
+            //zerowanie zegara
+            if (CurrTime > 24)
+            CurrTime = 0;
+                
+            /// ustawienie budzika na 6 rano
+            if (CurrTime == 6)
+            {
+               Console.WriteLine($"POBUDKA {CurrTime}");
+//powiadamianie subskrybentów
+//listOfFunctions($"Czas wstawać!! Jest już {CurrTime} godzina");
+                raiseEventNoBodyToWakeUp($"Czas wstawać!! Jest już {CurrTime} godzina");
+       }
+
+	Console.WriteLine(CurrTime.ToString());
+    //usypianie wątku
+     System.Threading.Thread.Sleep(200);
+     CurrTime++;
+     }
+    }
+
+    public void raiseEventNoBodyToWakeUp(string msg)
+    {
+        if(listOfFunctions != null)
+        {
+            //powiadamianie subskrybentów
+            listOfFunctions(msg);
+        }
+    }
+
+    public Budzik()
+    {
+         CurrTime = 0;
+     }
+    }
+}
+```
+
+`Brat.cs`
+```c#
+    class Brat
+    {
+        public Brat() { }
+        public Brat(Budzik budzik) {
+
+            budzik.listOfFunctions += Print; //rejestracja subskrypcji
+        }
+        public void Print(string msg)
+        {
+            Console.WriteLine($"HEj brat {msg} ");
+        }
+    }
+}
+
+```
+
+`Siostra.cs`
 ```c#
 
 ```
 
+`Program.cs`
+```c#
+class Program
+{
+    public static void Main(String[] args)
+    {
+        Budzik budzik = new Budzik();
+        Brat brat = new Brat(budzik);
+        Siostra siostra = new Siostra(budzik);
 
+        budzik.runningClock();
+
+
+    }
+}
+
+```
 
 
 
