@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/4 Tworzenie aplikacji WPF.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/4 Tworzenie aplikacji WPF.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/4 Tworzenie aplikacji WPF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md"
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/4 Tworzenie aplikacji WPF.md"
               }
             }
           },
@@ -225,19 +225,21 @@
   },
   "active": "ce6fa69f08ec2bf2",
   "lastOpenFiles": [
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/3 Układ komponentów.md",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/4 Tworzenie aplikacji WPF.md",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/2 Aplikacje WPF.md",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.5 Polimorfizm i rzutowanie.md",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
     "_ WEB/N_O_D_E/NODE - the complete guide/6 Working with Dynamic Content and Adding Templating Engines.md",
     "_ FullStack/Web Development 2023/19 jQuery.md",
     "_ WEB/N_O_D_E/Lear Node.js and Javascript/- 3 Node.md",
     "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
     "_ WEB/N_O_D_E/Mosh Node/3.1.1. Recap Building RestFul APIS with Express.md",
     "_ WEB/N_O_D_E/NODE - the complete guide/5 Working with Express.js.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/6 Zewnętrzne moduły.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/7.1 Express and FireBase.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/8.6 RadioButton.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/4 Tworzenie aplikacji WPF.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/3 Układ komponentów.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/8.2 TextView.md",
     "_ Mobile/Android Kurs Tworzenia APlikacji/_ 0 Android Kurs Tworzenia Aplikacji.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/8.3 Button.md",
@@ -249,8 +251,6 @@
     "_ Mobile/Kotlin/the complete Android Kotlin/8 Android Components.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/7 Intro to Android App Development.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md",
-    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/4. OOP Kotlin.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.5 Polimorfizm i rzutowanie.md",
     "_ Desktop/WPF",
     "_ Mobile/Android Kurs Tworzenia APlikacji",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin",
