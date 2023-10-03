@@ -15,7 +15,6 @@
 `cargo --version`  
 `rustup --version` tool chain installer (to update compiler or cargo)
 
-
 -------------
 # Tools
 
