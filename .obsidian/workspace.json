@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Learn Rust by Building Real App/_ Learn Rust by Building Apps.md",
+                "file": "R U S T/Programmowanie_w Rust/2. Pierwsze spotkanie z Rustem.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Learn Rust by Building Real App/_ Learn Rust by Building Apps.md",
+                "file": "R U S T/Programmowanie_w Rust/2. Pierwsze spotkanie z Rustem.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Learn Rust by Building Real App/_ Learn Rust by Building Apps.md",
+                "file": "R U S T/Programmowanie_w Rust/2. Pierwsze spotkanie z Rustem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Learn Rust by Building Real App/_ Learn Rust by Building Apps.md"
+                "file": "R U S T/Programmowanie_w Rust/2. Pierwsze spotkanie z Rustem.md"
               }
             }
           },
@@ -226,11 +226,17 @@
   },
   "active": "f80b06c52a3bf301",
   "lastOpenFiles": [
+    "R U S T/Programmowanie_w Rust/_ Programowanie w języku Rust.md",
+    "R U S T/Learn Rust by Building Real App/4.5 TCP.md",
+    "R U S T/Learn Rust by Building Real App/4.4 Organising a Code into Modules.md",
+    "R U S T/Learn Rust by Building Real App/4.2 Strings.md",
+    "R U S T/Learn Rust by Building Real App/4.1 Struct.md",
+    "R U S T/Learn Rust by Building Real App/2 Memory Management.md",
+    "R U S T/Learn Rust by Building Real App/_ Learn Rust by Building Apps.md",
     "R U S T/1 - Full Rust Beginner s Course/2 Numbers.md",
     "R U S T/1 - Full Rust Beginner s Course/1 Variables.md",
     "R U S T/1 - Full Rust Beginner s Course/_ Full Rust Beginners Cours.md",
     "R U S T/Programmowanie_w Rust/2. Pierwsze spotkanie z Rustem.md",
-    "R U S T/Programmowanie_w Rust/_ Programowanie w języku Rust.md",
     "_ FullStack/Web Development 2023/19 jQuery.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/2 Aplikacje WPF.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/4 Tworzenie aplikacji WPF.md",
@@ -246,12 +252,6 @@
     "_ WEB/N_O_D_E/NodeJS - fullstack/6 Zewnętrzne moduły.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/7.1 Express and FireBase.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/8.6 RadioButton.md",
-    "_ Mobile/Kotlin/the complete Android Kotlin/8.2 TextView.md",
-    "_ Mobile/Android Kurs Tworzenia APlikacji/_ 0 Android Kurs Tworzenia Aplikacji.md",
-    "_ Mobile/Kotlin/the complete Android Kotlin/8.3 Button.md",
-    "_ Mobile/Kotlin/the complete Android Kotlin/8.5 ImageView.md",
-    "_ Mobile/Kotlin/the complete Android Kotlin/8.6 CheckBox.md",
-    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/6 Age in Minute Calculator.md",
     "_ Desktop/WPF",
     "_ Mobile/Android Kurs Tworzenia APlikacji",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin",
