@@ -68,6 +68,25 @@ public event MojaMetodaDelegata jaksasZmienna;
 
 PRZYKŁAD
 
+`Program.cs`
+```c#
+class Program
+{
+    public static void Main(String[] args)
+    {
+        Budzik budzik = new Budzik();
+        Brat brat = new Brat(budzik);
+        Siostra siostra = new Siostra(budzik);
+
+        budzik.runningClock();
+
+
+    }
+}
+```
+
+
+Reszta plików zrobiona przez `doda>klase`
 `Budzik.cs`
 ```c#
 using System;
@@ -128,6 +147,7 @@ class Budzik
 }
 ```
 
+
 `Brat.cs`
 ```c#
     class Brat
@@ -148,7 +168,19 @@ class Budzik
 
 `Siostra.cs`
 ```c#
-
+    class Siostra
+    {
+        public Siostra() { }
+        public Siostra(Budzik budzik) {
+            budzik.listOfFunctions += Print;//rejestracja subskrypcji
+            //wypisanie subskrypcji budzik.listOfFunctions -= Print;
+        }
+        public void Print(string msg)
+        {
+            Console.WriteLine($"Siostra czas {msg}");
+        }
+    }
+}
 ```
 
 `Program.cs`
