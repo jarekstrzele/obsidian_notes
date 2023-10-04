@@ -13,79 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/REACT NATIVE/React Native Practical Guide/1.2. Handling Events.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "907f8db27ef7d97c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_ FullStack/Python Django FullStack/jQuery.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "db3fe56b1a701914",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_ WEB/N_O_D_E/NODE - the complete guide/6 Working with Dynamic Content and Adding Templating Engines.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f80b06c52a3bf301",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "R U S T/Programmowanie_w Rust/2. Pierwsze spotkanie z Rustem.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "304080657c5ea8ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_ WEB/REACT/React 18 Tutorial and Projects Course 2023/1. React Fundamentals.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f3c2ca7e8391103a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_ WEB/REACT/React 18 Tutorial and Projects Course 2023/_ The React 18 Tutorial (2023).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2057b4f0784e82d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.1 Book List.md",
+                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/6 Age in Minute Calculator.md",
                 "mode": "source",
                 "source": false
               }
@@ -173,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/REACT NATIVE/React Native Practical Guide/1.2. Handling Events.md",
+                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/6 Age in Minute Calculator.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -190,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/REACT NATIVE/React Native Practical Guide/1.2. Handling Events.md",
+                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/6 Age in Minute Calculator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/REACT NATIVE/React Native Practical Guide/1.2. Handling Events.md"
+                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/6 Age in Minute Calculator.md"
               }
             }
           },
@@ -273,6 +201,8 @@
   },
   "active": "ce6fa69f08ec2bf2",
   "lastOpenFiles": [
+    "_ Mobile/Kotlin/the complete Android Kotlin/8.4 EditTexts.md",
+    "_ Mobile/REACT NATIVE/React Native Practical Guide/1.2. Handling Events.md",
     "_ Mobile/REACT NATIVE/React Native Practical Guide/1 React Native Basics.md",
     "_ Mobile/REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
     "JAVASCRIPT/jQuery/jQuery.md",
@@ -297,8 +227,6 @@
     "Git/git od podstaw dla każdego/_ git od podstaw.md",
     "_ Mobile/REACT NATIVE/Master React Native Funds/_ 0 start React Native.md",
     "JAVASCRIPT/JS Bible/_ 0 JS Bible.md",
-    "_ WEB/REACT/plurasight/React 17 Getting Started/_ 0 Getting Started.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/2 Aplikacje WPF.md",
     "_ WEB/REACT/React 18 Tutorial and Projects Course 2023",
     "_ Desktop/WPF",
     "_ Mobile/Android Kurs Tworzenia APlikacji",
