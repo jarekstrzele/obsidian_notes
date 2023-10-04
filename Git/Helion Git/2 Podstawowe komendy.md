@@ -5,6 +5,10 @@
 
 `git clone https://githubcom/jquery/jguery.git` klonowanie z githuba
 
+`git add .`
 
-eweoifweifewoi  
+`git diff` - różnica między katalogiem roboczym a tym stanem, który git pamięta
+
+
+
 
