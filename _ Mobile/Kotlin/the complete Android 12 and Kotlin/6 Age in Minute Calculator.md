@@ -61,8 +61,7 @@ fun clickDatePicker(){
 
 ## take date from the date picker
 
-
-
+> `Locale` przyjmuje dwa argumenty: pierwszy to kod języka, a drugi to kod kraju. W przypadku Polski, używamy "pl" jako kodu języka i "PL" jako kodu kraju, aby ustawić lokalizację na polską.
 
 
 
