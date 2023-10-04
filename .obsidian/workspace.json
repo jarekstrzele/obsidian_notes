@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ FullStack/Web Development 2023/19 jQuery.md",
+                "file": "JAVASCRIPT/jQuery/jQquery.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "907f8db27ef7d97c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_ FullStack/Python Django FullStack/jQuery.md",
                 "mode": "source",
                 "source": false
               }
@@ -161,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ FullStack/Web Development 2023/19 jQuery.md",
+                "file": "JAVASCRIPT/jQuery/jQquery.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -178,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ FullStack/Web Development 2023/19 jQuery.md",
+                "file": "JAVASCRIPT/jQuery/jQquery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ FullStack/Web Development 2023/19 jQuery.md"
+                "file": "JAVASCRIPT/jQuery/jQquery.md"
               }
             }
           },
@@ -261,6 +273,12 @@
   },
   "active": "ce6fa69f08ec2bf2",
   "lastOpenFiles": [
+    "_ FullStack/Python Django FullStack/jQuery Project.md",
+    "_ FullStack/Python Django FullStack/Python basic.md",
+    "JAVASCRIPT/jQuery/jQquery.md",
+    "_ FullStack/Python Django FullStack/jQuery Events.md",
+    "_ FullStack/Python Django FullStack/jQuery.md",
+    "_ FullStack/Web Development 2023/19 jQuery.md",
     "Git/Git Samuraj/Komendy.md",
     "Git/Helion Git/2 Podstawowe komendy.md",
     "Git/Helion Git/_ 0 Git Helion VideoPoint.md",
@@ -281,13 +299,7 @@
     "C Sharp/C Sharp od Podstaw do WPF i XAML/2 Aplikacje WPF.md",
     "1.1 Book List.md",
     "_ WEB/REACT/React 18 Tutorial and Projects Course 2023/_ The React 18 Tutorial (2023).md",
-    "_ WEB/REACT/React 18 Tutorial and Projects Course 2023/1. React Fundamentals.md",
-    "_ WEB/REACT/React_Node_Helion/_ 0 React Node.md",
-    "_ WEB/REACT/React_Node_Helion/2 Pierwsz komponent.md",
     "_ WEB/REACT/React 18 Tutorial and Projects Course 2023",
-    "_ WEB/REACT/React Bob Ziroll/_React Bob Ziroll.md",
-    "_ WEB/REACT/React - the Complete Guide/_ 0 React Full.md",
-    "_ WEB/REACT/Docs React tutorial/_ 0 React Docs Samouczek.md",
     "_ Desktop/WPF",
     "_ Mobile/Android Kurs Tworzenia APlikacji",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin",
