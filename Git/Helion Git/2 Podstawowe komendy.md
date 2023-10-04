@@ -8,7 +8,7 @@
 `git add .`
 
 `git diff` - różnica między katalogiem roboczym a tym stanem, który git pamięta
-
+`git diff --staged` - porównujemy stan poczekalni ze stanem zatwierdzonym w repo
 
 
 

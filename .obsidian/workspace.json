@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Helion Git/2 Podstawowe komendy.md",
+                "file": "Git/Git Samuraj/Komendy.md",
                 "mode": "source",
                 "source": false
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Helion Git/2 Podstawowe komendy.md",
+                "file": "Git/Git Samuraj/Komendy.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Helion Git/2 Podstawowe komendy.md",
+                "file": "Git/Git Samuraj/Komendy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Helion Git/2 Podstawowe komendy.md"
+                "file": "Git/Git Samuraj/Komendy.md"
               }
             }
           },
@@ -261,8 +261,8 @@
   },
   "active": "ce6fa69f08ec2bf2",
   "lastOpenFiles": [
-    "Git/Helion Git/_ 0 Git Helion VideoPoint.md",
     "Git/Helion Git/2 Podstawowe komendy.md",
+    "Git/Helion Git/_ 0 Git Helion VideoPoint.md",
     "Git/git ogólnie.md",
     "Git/Learn Git GitHub and master/- Basics Version Management.md",
     "Git/Learn Git GitHub and master/_ Preface Git - Practical Guide.md",
