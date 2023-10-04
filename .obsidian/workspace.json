@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/2 Aplikacje WPF.md",
+                "file": "Git/Git Samuraj/Komendy.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,8 +79,7 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "react",
+                "query": "git",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -162,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.1 Book List.md",
+                "file": "Git/Git Samuraj/Komendy.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -179,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.1 Book List.md",
+                "file": "Git/Git Samuraj/Komendy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.1 Book List.md"
+                "file": "Git/Git Samuraj/Komendy.md"
               }
             }
           },
@@ -260,10 +259,16 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "2057b4f0784e82d8",
+  "active": "ce6fa69f08ec2bf2",
   "lastOpenFiles": [
-    "_ WEB/REACT/React 18 Tutorial and Projects Course 2023/_ The React 18 Tutorial (2023).md",
+    "Git/Git Samuraj/0-Git wprowadzenie samuraj.md",
+    "Git/git od podstaw dla każdego/_ git od podstaw.md",
+    "_ Mobile/REACT NATIVE/Master React Native Funds/_ 0 start React Native.md",
+    "JAVASCRIPT/JS Bible/_ 0 JS Bible.md",
+    "_ WEB/REACT/plurasight/React 17 Getting Started/_ 0 Getting Started.md",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/2 Aplikacje WPF.md",
     "1.1 Book List.md",
+    "_ WEB/REACT/React 18 Tutorial and Projects Course 2023/_ The React 18 Tutorial (2023).md",
     "_ WEB/REACT/React 18 Tutorial and Projects Course 2023/1. React Fundamentals.md",
     "_ WEB/REACT/React_Node_Helion/_ 0 React Node.md",
     "_ WEB/REACT/React_Node_Helion/2 Pierwsz komponent.md",
@@ -283,12 +288,6 @@
     "R U S T/1 - Full Rust Beginner s Course/2 Numbers.md",
     "R U S T/1 - Full Rust Beginner s Course/1 Variables.md",
     "R U S T/1 - Full Rust Beginner s Course/_ Full Rust Beginners Cours.md",
-    "_ FullStack/Web Development 2023/19 jQuery.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/2 Aplikacje WPF.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/4 Tworzenie aplikacji WPF.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/3 Układ komponentów.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.5 Polimorfizm i rzutowanie.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
     "_ Desktop/WPF",
     "_ Mobile/Android Kurs Tworzenia APlikacji",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin",

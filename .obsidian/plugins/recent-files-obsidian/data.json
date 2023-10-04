@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "Komendy",
+      "path": "Git/Git Samuraj/Komendy.md"
+    },
+    {
+      "basename": "0-Git wprowadzenie samuraj",
+      "path": "Git/Git Samuraj/0-Git wprowadzenie samuraj.md"
+    },
+    {
+      "basename": "_ git od podstaw",
+      "path": "Git/git od podstaw dla każdego/_ git od podstaw.md"
+    },
+    {
+      "basename": "_ 0 start React Native",
+      "path": "_ Mobile/REACT NATIVE/Master React Native Funds/_ 0 start React Native.md"
+    },
+    {
+      "basename": "_ 0 JS Bible",
+      "path": "JAVASCRIPT/JS Bible/_ 0 JS Bible.md"
+    },
+    {
+      "basename": "_ 0 Getting Started",
+      "path": "_ WEB/REACT/plurasight/React 17 Getting Started/_ 0 Getting Started.md"
+    },
+    {
+      "basename": "2 Aplikacje WPF",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/2 Aplikacje WPF.md"
+    },
+    {
       "basename": "1.1 Book List",
       "path": "1.1 Book List.md"
     },
@@ -83,10 +111,6 @@
     {
       "basename": "19 jQuery",
       "path": "_ FullStack/Web Development 2023/19 jQuery.md"
-    },
-    {
-      "basename": "2 Aplikacje WPF",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/2 Aplikacje WPF.md"
     },
     {
       "basename": "4 Tworzenie aplikacji WPF",
@@ -175,30 +199,6 @@
     {
       "basename": "8 Android Components",
       "path": "_ Mobile/Kotlin/the complete Android Kotlin/8 Android Components.md"
-    },
-    {
-      "basename": "7 Intro to Android App Development",
-      "path": "_ Mobile/Kotlin/the complete Android Kotlin/7 Intro to Android App Development.md"
-    },
-    {
-      "basename": "6 Kotlin OOP",
-      "path": "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md"
-    },
-    {
-      "basename": "4. OOP Kotlin",
-      "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/4. OOP Kotlin.md"
-    },
-    {
-      "basename": "1.4 Dziedziczenie",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.4 Dziedziczenie.md"
-    },
-    {
-      "basename": "1.3 Klasy zagnieżdżone",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.3 Klasy zagnieżdżone.md"
-    },
-    {
-      "basename": "1.2 Metody i Właściwości",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.2 Metody i Właściwości.md"
     }
   ],
   "omittedPaths": [],

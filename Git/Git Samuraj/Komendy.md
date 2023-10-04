@@ -10,8 +10,7 @@
 `git config --global user.email` 
 // bez --globalnie będą ustawienia lokalne  
 
-`git config --unset --logbal user.email`  usunięcie  
-
+`git config --unset --global user.email`  usunięcie  
 `git config --global core.editor ` jaki edytor
 
 `git config --global --list `
@@ -92,11 +91,11 @@ wyszukiwanie konkretnych commitów
 `git show id_commitu`
 
 ---
-`git diff` (porównanie) pokazuje domyślnie różnicę między plikami **kat.rob. a indeksem**
+`git diff` (porównanie) pokazuje domyślnie różnicę między plikami **katalogu roboczego a indeksem**
 
 `git diff nazwa-pliku` konkretny plik
 
-`git diff --cached`  pliki w indeksie vs pliki w repo (otatni commit)
+`git diff --cached`  pliki w indeksie vs pliki w repo (ostatni commit)
 to samo =>
 `git diff --stage`
 
@@ -119,15 +118,22 @@ git diff id_cimmit id_commit
 // usuwanie pliku z indeksu, ale nie z kat.robo.  
 // plik będzie untracked  
 `git rm --cached plik`
- 
 
-rm file                    // usuwa z kat.robo.
-git rm --cached file       // usuwa z indeksu  
-git rm file                // usuwa z kat.robo i z indeksu  
 
-  
 
-git mv plik newNamedfile  
+// usuwa z ==kat.robo.==
+###### `rm fileNAME 
+
+// usuwa z ==indeksu==  
+###### `git rm --cached fileName`      
+
+// usuwa z ==kat.robo i z indeksu==
+###### `git rm fileName`                  
+
+
+`git mv plik newNamedfile`  
+
+
 
 ## `CHECKOUT`
 // wersja z katalogu roboczego jest usuwana  
