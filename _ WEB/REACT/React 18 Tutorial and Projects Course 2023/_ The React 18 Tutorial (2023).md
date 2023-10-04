@@ -1,5 +1,11 @@
 #react #udemy #smilga_john
 
+VS Code `ES7 React/Redux`
+`racfe` arrow function with export
+`rfce` regular function with export
+
+
+
 ----
 [[1. React Fundamentals]]
 
