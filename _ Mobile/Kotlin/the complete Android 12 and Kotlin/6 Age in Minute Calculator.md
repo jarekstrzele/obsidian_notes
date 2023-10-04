@@ -67,11 +67,97 @@ fun clickDatePicker(){
 
 > `Locale` przyjmuje dwa argumenty: pierwszy to kod języka, a drugi to kod kraju. W przypadku Polski, używamy "pl" jako kodu języka i "PL" jako kodu kraju, aby ustawić lokalizację na polską.
 
+> W jednej godzinie jest 3 600 000 milisekund.
+> 
 
 
 
-
-
+```kotlin
+package com.example.calcageapp  
+  
+import android.app.DatePickerDialog  
+import android.icu.util.Calendar  
+import androidx.appcompat.app.AppCompatActivity  
+import android.os.Bundle  
+import android.util.Log  
+import android.widget.Button  
+import android.widget.DatePicker  
+import android.widget.TextView  
+import android.widget.Toast  
+import org.w3c.dom.Text  
+import java.text.SimpleDateFormat  
+import java.util.Locale  
+  
+class MainActivity : AppCompatActivity() {  
+  
+    var tvSelectedDate : TextView? = null  
+    var tvAgeInMinutes: TextView? = null  
+  
+  
+  
+    override fun onCreate(savedInstanceState: Bundle?) {  
+        super.onCreate(savedInstanceState)  
+        setContentView(R.layout.activity_main)  
+  
+        //tvSelectedDate?.text = "$day.${month+1}.$year"  
+  
+        tvSelectedDate = findViewById(R.id.tvSelectedDate)  
+  
+  
+        tvAgeInMinutes = findViewById(R.id.tvAgeInMinutes)  
+  
+        val btnDatePicker : Button = findViewById(R.id.btnDatePicker)  
+        btnDatePicker.setOnClickListener { _ ->  
+            clickDatePicker()  
+        }  
+    }  
+  
+    private fun clickDatePicker(){  
+        val myCalendar = Calendar.getInstance()  
+        val year = myCalendar.get(Calendar.YEAR)  
+        val month = myCalendar.get(Calendar.MONTH)  
+        val day = myCalendar.get(Calendar.DAY_OF_MONTH)  
+  
+        // 'this' wskazuje na aktywność, która jest używana, czyli tutaj to `MainActivity`  
+        // `view` to referencja do widoku DatePicker        val dpd =  DatePickerDialog(this,  
+            DatePickerDialog.OnDateSetListener{view, selectedYear, selectedMonth, selectedDayOfMonth ->  
+//                Toast.makeText(this, "year=$selectedYear,\nmonth=${selectedMonth+1},\nday=${selectedDayOfMonth}",  
+//                    Toast.LENGTH_LONG).show()  
+                val selectedDate = "$selectedDayOfMonth/${selectedMonth+1}/$selectedYear"  
+                tvSelectedDate?.text = selectedDate  
+  
+                //val sdf = SimpleDateFormat("dd/MM/yyy", Locale.ENGLISH)  
+                val sdf = SimpleDateFormat("dd/MM/yyy", Locale("pl", "PL"))  
+  
+               // if theDate is not empty do  
+                val theDate = sdf.parse(selectedDate)  
+                theDate?.let {  
+                    Toast.makeText(this,theDate.toString(), Toast.LENGTH_LONG ).show()  
+                    val selectedDateInMinutes = theDate.time/60_000 // 1 minuta to 60_000 milisekund  
+                    val currentDate = sdf.parse(sdf.format(System.currentTimeMillis()))  
+                    //Log.i("currDate", currentDate.time.toString())  
+                    currentDate?.let{  
+                        val currentDateInMinutes = currentDate.time / 60_000  
+                        //Log.i("currDate", currentDateInMinutes.toString())  
+                        val differenceInMinutes = currentDateInMinutes - selectedDateInMinutes  
+                        Log.i("currDate", differenceInMinutes.toString())  
+                        tvAgeInMinutes?.text = differenceInMinutes.toString()  
+                    }  
+  
+                }  
+            },  
+            year,  
+            month,  
+            day,  
+        )  
+  
+        dpd.datePicker.maxDate = System.currentTimeMillis() - 86_400_000  
+        dpd.show()  
+  
+  
+    }  
+}
+```
 
 
 
