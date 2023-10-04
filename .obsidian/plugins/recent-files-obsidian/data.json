@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "1. React Fundamentals",
-      "path": "_ WEB/REACT/React 18 Tutorial and Projects Course 2023/1. React Fundamentals.md"
+      "basename": "1.1 Book List",
+      "path": "1.1 Book List.md"
     },
     {
       "basename": "_ The React 18 Tutorial (2023)",
       "path": "_ WEB/REACT/React 18 Tutorial and Projects Course 2023/_ The React 18 Tutorial (2023).md"
+    },
+    {
+      "basename": "1. React Fundamentals",
+      "path": "_ WEB/REACT/React 18 Tutorial and Projects Course 2023/1. React Fundamentals.md"
     },
     {
       "basename": "_ 0 React Node",
@@ -195,10 +199,6 @@
     {
       "basename": "1.2 Metody i Właściwości",
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.2 Metody i Właściwości.md"
-    },
-    {
-      "basename": "1.1 Konstruktory",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.1 Konstruktory.md"
     }
   ],
   "omittedPaths": [],

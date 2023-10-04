@@ -54,9 +54,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f3c2ca7e8391103a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_ WEB/REACT/React 18 Tutorial and Projects Course 2023/_ The React 18 Tutorial (2023).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2057b4f0784e82d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.1 Book List.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -138,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ WEB/REACT/React 18 Tutorial and Projects Course 2023/1. React Fundamentals.md",
+                "file": "1.1 Book List.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -155,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ WEB/REACT/React 18 Tutorial and Projects Course 2023/1. React Fundamentals.md",
+                "file": "1.1 Book List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ WEB/REACT/React 18 Tutorial and Projects Course 2023/1. React Fundamentals.md"
+                "file": "1.1 Book List.md"
               }
             }
           },
@@ -236,11 +260,12 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "304080657c5ea8ad",
+  "active": "2057b4f0784e82d8",
   "lastOpenFiles": [
     "_ WEB/REACT/React 18 Tutorial and Projects Course 2023/_ The React 18 Tutorial (2023).md",
-    "_ WEB/REACT/React_Node_Helion/_ 0 React Node.md",
+    "1.1 Book List.md",
     "_ WEB/REACT/React 18 Tutorial and Projects Course 2023/1. React Fundamentals.md",
+    "_ WEB/REACT/React_Node_Helion/_ 0 React Node.md",
     "_ WEB/REACT/React_Node_Helion/2 Pierwsz komponent.md",
     "_ WEB/REACT/React 18 Tutorial and Projects Course 2023",
     "_ WEB/REACT/React Bob Ziroll/_React Bob Ziroll.md",
@@ -264,7 +289,6 @@
     "C Sharp/C Sharp od Podstaw do WPF i XAML/3 Układ komponentów.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.5 Polimorfizm i rzutowanie.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
     "_ Desktop/WPF",
     "_ Mobile/Android Kurs Tworzenia APlikacji",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin",
