@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "1. React Fundamentals",
+      "path": "_ WEB/REACT/React 18 Tutorial and Projects Course 2023/1. React Fundamentals.md"
+    },
+    {
       "basename": "_ The React 18 Tutorial (2023)",
       "path": "_ WEB/REACT/React 18 Tutorial and Projects Course 2023/_ The React 18 Tutorial (2023).md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "1.1 Konstruktory",
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.1 Konstruktory.md"
-    },
-    {
-      "basename": "_ C Sharp od Podstaw do WPF i XAML",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md"
     }
   ],
   "omittedPaths": [],
