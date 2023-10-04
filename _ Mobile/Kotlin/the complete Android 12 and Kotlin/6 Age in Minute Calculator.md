@@ -10,6 +10,10 @@ and now you can use this color (`@color/textBlue`)
 - freeze `android:orientation="vertical"`
 - add new colors to `res/values/colors.xml`
 
+---
+> różnica między nimi polega na tym, że `DatePicker` to stały element interfejsu, który jest zawsze widoczny, podczas gdy `DatePickerDialog` to okno dialogowe, które jest wywoływane w odpowiedzi na konkretne działanie użytkownika i pozwala na wybór daty w określonym kontekście.
+
+---
 ## a date picker dialog
 
 ## to test 
