@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "jQquery",
-      "path": "JAVASCRIPT/jQuery/jQquery.md"
+      "basename": "1.2. Handling Events",
+      "path": "_ Mobile/REACT NATIVE/React Native Practical Guide/1.2. Handling Events.md"
+    },
+    {
+      "basename": "1 React Native Basics",
+      "path": "_ Mobile/REACT NATIVE/React Native Practical Guide/1 React Native Basics.md"
+    },
+    {
+      "basename": "_ 0 React Native - Practical Guide",
+      "path": "_ Mobile/REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md"
+    },
+    {
+      "basename": "jQuery",
+      "path": "JAVASCRIPT/jQuery/jQuery.md"
     },
     {
       "basename": "jQuery Project",
@@ -187,18 +199,6 @@
     {
       "basename": "1.5 Polimorfizm i rzutowanie",
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.5 Polimorfizm i rzutowanie.md"
-    },
-    {
-      "basename": "1 OOP w CSharp",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md"
-    },
-    {
-      "basename": "7 Express JS",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md"
-    },
-    {
-      "basename": "6 Working with Dynamic Content and Adding Templating Engines",
-      "path": "_ WEB/N_O_D_E/NODE - the complete guide/6 Working with Dynamic Content and Adding Templating Engines.md"
     }
   ],
   "omittedPaths": [],
