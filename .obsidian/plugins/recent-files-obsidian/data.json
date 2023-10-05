@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "ES refresh",
-      "path": "JAVASCRIPT/ES refresh.md"
+      "basename": "8.2 TextView",
+      "path": "_ Mobile/Kotlin/the complete Android Kotlin/8.2 TextView.md"
     },
     {
       "basename": "8.4 EditTexts",
@@ -11,6 +11,10 @@
     {
       "basename": "6 Age in Minute Calculator",
       "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/6 Age in Minute Calculator.md"
+    },
+    {
+      "basename": "ES refresh",
+      "path": "JAVASCRIPT/ES refresh.md"
     },
     {
       "basename": "1.2. Handling Events",
@@ -195,10 +199,6 @@
     {
       "basename": "1 Variables",
       "path": "R U S T/1 - Full Rust Beginner s Course/1 Variables.md"
-    },
-    {
-      "basename": "_ Full Rust Beginners Cours",
-      "path": "R U S T/1 - Full Rust Beginner s Course/_ Full Rust Beginners Cours.md"
     }
   ],
   "omittedPaths": [],
