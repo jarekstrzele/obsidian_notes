@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.2 TextView.md",
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.4 EditTexts.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.2 TextView.md",
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.4 EditTexts.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.2 TextView.md",
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.4 EditTexts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.2 TextView.md"
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.4 EditTexts.md"
               }
             }
           },
@@ -201,9 +201,10 @@
   },
   "active": "ce6fa69f08ec2bf2",
   "lastOpenFiles": [
+    "_ Mobile/Kotlin/the complete Android Kotlin/8.3 Button.md",
+    "_ Mobile/Kotlin/the complete Android Kotlin/8.2 TextView.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/8.4 EditTexts.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin/6 Age in Minute Calculator.md",
-    "_ Mobile/Kotlin/the complete Android Kotlin/8.2 TextView.md",
     "JAVASCRIPT/ES refresh.md",
     "_ Mobile/REACT NATIVE/React Native Practical Guide/1.2. Handling Events.md",
     "_ Mobile/REACT NATIVE/React Native Practical Guide/1 React Native Basics.md",
@@ -226,7 +227,6 @@
     "Git/Helion Git/4 Commit.md",
     "Git/Helion Git/3 Gałęzie.md",
     "Git/Git Samuraj/Repozytorium.md",
-    "Git/Git Samuraj/0-Git wprowadzenie samuraj.md",
     "_ WEB/REACT/React 18 Tutorial and Projects Course 2023",
     "_ Desktop/WPF",
     "_ Mobile/Android Kurs Tworzenia APlikacji",

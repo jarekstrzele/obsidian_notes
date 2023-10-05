@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "8.2 TextView",
-      "path": "_ Mobile/Kotlin/the complete Android Kotlin/8.2 TextView.md"
-    },
-    {
       "basename": "8.4 EditTexts",
       "path": "_ Mobile/Kotlin/the complete Android Kotlin/8.4 EditTexts.md"
+    },
+    {
+      "basename": "8.3 Button",
+      "path": "_ Mobile/Kotlin/the complete Android Kotlin/8.3 Button.md"
+    },
+    {
+      "basename": "8.2 TextView",
+      "path": "_ Mobile/Kotlin/the complete Android Kotlin/8.2 TextView.md"
     },
     {
       "basename": "6 Age in Minute Calculator",
@@ -195,10 +199,6 @@
     {
       "basename": "2 Numbers",
       "path": "R U S T/1 - Full Rust Beginner s Course/2 Numbers.md"
-    },
-    {
-      "basename": "1 Variables",
-      "path": "R U S T/1 - Full Rust Beginner s Course/1 Variables.md"
     }
   ],
   "omittedPaths": [],
