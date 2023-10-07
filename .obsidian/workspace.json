@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.4 EditTexts.md",
+                "file": "R U S T/Programmowanie_w Rust/3.  Type proste.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 405.5
+    "width": 200
   },
   "right": {
     "id": "ec7d1a70da2de581",
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.4 EditTexts.md",
+                "file": "R U S T/Programmowanie_w Rust/3.  Type proste.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.4 EditTexts.md",
+                "file": "R U S T/Programmowanie_w Rust/3.  Type proste.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.4 EditTexts.md"
+                "file": "R U S T/Programmowanie_w Rust/3.  Type proste.md"
               }
             }
           },
@@ -201,8 +201,12 @@
   },
   "active": "ce6fa69f08ec2bf2",
   "lastOpenFiles": [
-    "_ Mobile/Kotlin/the complete Android Kotlin/8.2 TextView.md",
+    "R U S T/Programmowanie_w Rust/2. Pierwsze spotkanie z Rustem.md",
+    "R U S T/Programmowanie_w Rust/3.  Type proste.md",
+    "R U S T/Programmowanie_w Rust/_ Programowanie w języku Rust.md",
+    "R U S T/1 - Full Rust Beginner s Course/_ Full Rust Beginners Cours.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/8.4 EditTexts.md",
+    "_ Mobile/Kotlin/the complete Android Kotlin/8.2 TextView.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/8.3 Button.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin/6 Age in Minute Calculator.md",
     "JAVASCRIPT/ES refresh.md",
@@ -223,10 +227,6 @@
     "Git/Learn Git GitHub and master/_ Preface Git - Practical Guide.md",
     "Git/Helion Git/7 Git TAG.md",
     "Git/Helion Git/6 Strategie pracy.md",
-    "Git/Helion Git/5 Git Remote.md",
-    "Git/Helion Git/4 Commit.md",
-    "Git/Helion Git/3 Gałęzie.md",
-    "Git/Git Samuraj/Repozytorium.md",
     "_ WEB/REACT/React 18 Tutorial and Projects Course 2023",
     "_ Desktop/WPF",
     "_ Mobile/Android Kurs Tworzenia APlikacji",
