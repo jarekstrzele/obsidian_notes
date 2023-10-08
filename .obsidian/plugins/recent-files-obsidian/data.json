@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "1 Working with Content",
+      "path": "_ Mobile/REACT NATIVE/The Complete React NativePlusHooks/1 Working with Content.md"
+    },
+    {
       "basename": "_ 0 Complete React Native",
       "path": "_ Mobile/REACT NATIVE/The Complete React NativePlusHooks/_ 0 Complete React Native.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_ 0 JS Bible",
       "path": "JAVASCRIPT/JS Bible/_ 0 JS Bible.md"
-    },
-    {
-      "basename": "_ 0 Getting Started",
-      "path": "_ WEB/REACT/plurasight/React 17 Getting Started/_ 0 Getting Started.md"
     }
   ],
   "omittedPaths": [],

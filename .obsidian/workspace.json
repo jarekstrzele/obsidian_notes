@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/REACT NATIVE/The Complete React NativePlusHooks/_ 0 Complete React Native.md",
+                "file": "_ Mobile/REACT NATIVE/The Complete React NativePlusHooks/1 Working with Content.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/REACT NATIVE/The Complete React NativePlusHooks/_ 0 Complete React Native.md",
+                "file": "_ Mobile/REACT NATIVE/The Complete React NativePlusHooks/1 Working with Content.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/REACT NATIVE/The Complete React NativePlusHooks/_ 0 Complete React Native.md",
+                "file": "_ Mobile/REACT NATIVE/The Complete React NativePlusHooks/1 Working with Content.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/REACT NATIVE/The Complete React NativePlusHooks/_ 0 Complete React Native.md"
+                "file": "_ Mobile/REACT NATIVE/The Complete React NativePlusHooks/1 Working with Content.md"
               }
             }
           },
@@ -214,6 +214,8 @@
   },
   "active": "c701d2b41beae649",
   "lastOpenFiles": [
+    "_ Mobile/REACT NATIVE/The Complete React NativePlusHooks/_ 0 Complete React Native.md",
+    "_ Mobile/REACT NATIVE/The Complete React NativePlusHooks/1 Working with Content.md",
     "JAVASCRIPT/funkcyjnie_JS/Nowe elementy JS.md",
     "JAVASCRIPT/funkcyjnie_JS/_ JavaScript funkcyjnie.md",
     "_ Mobile/REACT NATIVE/_ Proste aplikacje/Dynamic Digital Clock.md",
@@ -223,7 +225,6 @@
     "_ Mobile/REACT NATIVE/Master React Native Funds/_ 0 start React Native.md",
     "_ Mobile/REACT NATIVE/plurasight/React Native Getting Started.md",
     "_ Mobile/REACT NATIVE/plurasight/React Native - The Big Picture 1.md",
-    "_ Mobile/REACT NATIVE/The Complete React NativePlusHooks/_ 0 Complete React Native.md",
     "_ Mobile/REACT NATIVE/React Native Practical Guide/useLayoutEffect.md",
     "_ Mobile/REACT NATIVE/React Native Practical Guide/useEffect.md",
     "_ Mobile/REACT NATIVE/React Native Practical Guide/React.js Refresher.md",
@@ -239,7 +240,6 @@
     "R U S T/1 - Full Rust Beginner s Course/_ Full Rust Beginners Cours.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/8.4 EditTexts.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/8.2 TextView.md",
-    "_ Mobile/Kotlin/the complete Android Kotlin/8.3 Button.md",
     "_ WEB/REACT/React 18 Tutorial and Projects Course 2023",
     "_ Desktop/WPF",
     "_ Mobile/Android Kurs Tworzenia APlikacji",
