@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "4.3 DataContext oraz interfejs INotifyPropertyChanged",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/4.3 DataContext oraz interfejs INotifyPropertyChanged.md"
+    },
+    {
+      "basename": "4.1 Binding",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/4.1 Binding.md"
+    },
+    {
       "basename": "4 Tworzenie aplikacji WPF",
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/4 Tworzenie aplikacji WPF.md"
+    },
+    {
+      "basename": "1.5 Polimorfizm i rzutowanie",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.5 Polimorfizm i rzutowanie.md"
+    },
+    {
+      "basename": "4.2 Eventy i Delegaty",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/4.2 Eventy i Delegaty.md"
     },
     {
       "basename": "3 Układ komponentów",
@@ -75,10 +91,6 @@
     {
       "basename": "_ Wprowadzenie SI z JS",
       "path": "A I/SI na Froncie/_ Wprowadzenie SI z JS.md"
-    },
-    {
-      "basename": "1.5 Polimorfizm i rzutowanie",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.5 Polimorfizm i rzutowanie.md"
     },
     {
       "basename": "8.4 EditTexts",
@@ -187,18 +199,6 @@
     {
       "basename": "2. Pierwsze spotkanie z Rustem",
       "path": "R U S T/Programmowanie_w Rust/2. Pierwsze spotkanie z Rustem.md"
-    },
-    {
-      "basename": "_ Programowanie w języku Rust",
-      "path": "R U S T/Programmowanie_w Rust/_ Programowanie w języku Rust.md"
-    },
-    {
-      "basename": "_ Full Rust Beginners Cours",
-      "path": "R U S T/1 - Full Rust Beginner s Course/_ Full Rust Beginners Cours.md"
-    },
-    {
-      "basename": "8.3 Button",
-      "path": "_ Mobile/Kotlin/the complete Android Kotlin/8.3 Button.md"
     }
   ],
   "omittedPaths": [],
