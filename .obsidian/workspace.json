@@ -30,9 +30,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bad2cbc6673efad7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -114,7 +122,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/REACT NATIVE/The Complete React NativePlusHooks/1 Working with Content.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -131,7 +138,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/REACT NATIVE/The Complete React NativePlusHooks/1 Working with Content.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,9 +159,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_ Mobile/REACT NATIVE/The Complete React NativePlusHooks/1 Working with Content.md"
-              }
+              "state": {}
             }
           },
           {
@@ -212,10 +216,10 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "c701d2b41beae649",
+  "active": "bad2cbc6673efad7",
   "lastOpenFiles": [
-    "_ Mobile/REACT NATIVE/The Complete React NativePlusHooks/_ 0 Complete React Native.md",
     "_ Mobile/REACT NATIVE/The Complete React NativePlusHooks/1 Working with Content.md",
+    "_ Mobile/REACT NATIVE/The Complete React NativePlusHooks/_ 0 Complete React Native.md",
     "JAVASCRIPT/funkcyjnie_JS/Nowe elementy JS.md",
     "JAVASCRIPT/funkcyjnie_JS/_ JavaScript funkcyjnie.md",
     "_ Mobile/REACT NATIVE/_ Proste aplikacje/Dynamic Digital Clock.md",
