@@ -148,6 +148,37 @@ umieść `main.js` (z kodem jQuery) umieść w folderze `public`
 ```
 
 ----
+`public/css/styles.css`
+`header.handlebars`
+```html
+ <link rel="stylesheet" href="/css/styles.css"/>
+```
+
+`app.js`
+```js
+//...
+app.use(express.static("public"))
+
+app.engine('handlebars', exHbrs.engine({defaultLayout: "main"})) // register a new template engine
+app.set('view engine', 'handlebars')
+//....
+```
+
+teraz można różne style css używać w różnych plikach
+
+np. `fakapi.handlebars`
+```js
+     <h3>Lista ciekawostek</h3>
+    {{#if listExists}}
+         <ul>
+            {{#each people}}
+                <li class="mojaLista"> {{ this.name }}, {{ this.residence }}</li>
+            {{/each}}
+         </ul>
+    {{/if}}
+```
+
+----
 
 
 ```js
