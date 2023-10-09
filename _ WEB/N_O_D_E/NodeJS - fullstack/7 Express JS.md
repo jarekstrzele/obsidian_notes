@@ -138,7 +138,7 @@ to install `npm install express-handlebars`
 
 ---
 umieść `styles.css` w folderze `public`
-umieść `main.js` (z kodem jQuery) imieść folderze `public`
+umieść `main.js` (z kodem jQuery) umieść w folderze `public`
 
 ```html
   <link rel="stylesheet" href="/styles.css"/>

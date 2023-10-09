@@ -5,6 +5,66 @@
       "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/6 Age in Minute Calculator.md"
     },
     {
+      "basename": "7 Express JS",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md"
+    },
+    {
+      "basename": "3.1 Express - introducing",
+      "path": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md"
+    },
+    {
+      "basename": "5 Working with Express.js",
+      "path": "_ WEB/N_O_D_E/NODE - the complete guide/5 Working with Express.js.md"
+    },
+    {
+      "basename": "6 Working with Dynamic Content and Adding Templating Engines",
+      "path": "_ WEB/N_O_D_E/NODE - the complete guide/6 Working with Dynamic Content and Adding Templating Engines.md"
+    },
+    {
+      "basename": "Google Cloud Platform fundamentals",
+      "path": "CLOUD/Google Cloud/Google Cloud Platform fundamentals.md"
+    },
+    {
+      "basename": "0-AWS w3school INTRO",
+      "path": "CLOUD/AWS_w3school/0-AWS w3school INTRO.md"
+    },
+    {
+      "basename": "2 Badanie danych",
+      "path": "A I/JS uczenie maszynowe/2 Badanie danych.md"
+    },
+    {
+      "basename": "1 Poznawanie potencjału języka JS",
+      "path": "A I/JS uczenie maszynowe/1 Poznawanie potencjału języka JS.md"
+    },
+    {
+      "basename": "_ 0 Uczenie maszynowe z JS",
+      "path": "A I/JS uczenie maszynowe/_ 0 Uczenie maszynowe z JS.md"
+    },
+    {
+      "basename": "_ Uczenie Maszynowe  Helion Piotr Szajowski",
+      "path": "A I/uczenie maszynowe/_ Uczenie Maszynowe  Helion Piotr Szajowski.md"
+    },
+    {
+      "basename": "4 tensorflow.js",
+      "path": "A I/SI na Froncie/4 tensorflow.js.md"
+    },
+    {
+      "basename": "3 AI na froncie",
+      "path": "A I/SI na Froncie/3 AI na froncie.md"
+    },
+    {
+      "basename": "2. SI i Uczenie maszynowe",
+      "path": "A I/SI na Froncie/2. SI i Uczenie maszynowe.md"
+    },
+    {
+      "basename": "_ Wprowadzenie SI z JS",
+      "path": "A I/SI na Froncie/_ Wprowadzenie SI z JS.md"
+    },
+    {
+      "basename": "1.5 Polimorfizm i rzutowanie",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.5 Polimorfizm i rzutowanie.md"
+    },
+    {
       "basename": "8.4 EditTexts",
       "path": "_ Mobile/Kotlin/the complete Android Kotlin/8.4 EditTexts.md"
     },
@@ -23,10 +83,6 @@
     {
       "basename": "3.  Type proste",
       "path": "R U S T/Programmowanie_w Rust/3.  Type proste.md"
-    },
-    {
-      "basename": "1.5 Polimorfizm i rzutowanie",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.5 Polimorfizm i rzutowanie.md"
     },
     {
       "basename": "1.4 Dziedziczenie",
@@ -143,62 +199,6 @@
     {
       "basename": "Python basic",
       "path": "_ FullStack/Python Django FullStack/Python basic.md"
-    },
-    {
-      "basename": "jQuery Events",
-      "path": "_ FullStack/Python Django FullStack/jQuery Events.md"
-    },
-    {
-      "basename": "jQuery",
-      "path": "_ FullStack/Python Django FullStack/jQuery.md"
-    },
-    {
-      "basename": "19 jQuery",
-      "path": "_ FullStack/Web Development 2023/19 jQuery.md"
-    },
-    {
-      "basename": "Komendy",
-      "path": "Git/Git Samuraj/Komendy.md"
-    },
-    {
-      "basename": "2 Podstawowe komendy",
-      "path": "Git/Helion Git/2 Podstawowe komendy.md"
-    },
-    {
-      "basename": "_ 0 Git Helion VideoPoint",
-      "path": "Git/Helion Git/_ 0 Git Helion VideoPoint.md"
-    },
-    {
-      "basename": "git ogólnie",
-      "path": "Git/git ogólnie.md"
-    },
-    {
-      "basename": "- Basics Version Management",
-      "path": "Git/Learn Git GitHub and master/- Basics Version Management.md"
-    },
-    {
-      "basename": "_ Preface Git - Practical Guide",
-      "path": "Git/Learn Git GitHub and master/_ Preface Git - Practical Guide.md"
-    },
-    {
-      "basename": "7 Git TAG",
-      "path": "Git/Helion Git/7 Git TAG.md"
-    },
-    {
-      "basename": "6 Strategie pracy",
-      "path": "Git/Helion Git/6 Strategie pracy.md"
-    },
-    {
-      "basename": "5 Git Remote",
-      "path": "Git/Helion Git/5 Git Remote.md"
-    },
-    {
-      "basename": "4 Commit",
-      "path": "Git/Helion Git/4 Commit.md"
-    },
-    {
-      "basename": "3 Gałęzie",
-      "path": "Git/Helion Git/3 Gałęzie.md"
     }
   ],
   "omittedPaths": [],
