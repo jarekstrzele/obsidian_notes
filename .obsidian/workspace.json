@@ -54,17 +54,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "bad2cbc6673efad7",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.5 Polimorfizm i rzutowanie.md",
+                "file": "R U S T/Programmowanie_w Rust/3.  Type proste.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -163,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.5 Polimorfizm i rzutowanie.md",
+                "file": "R U S T/Programmowanie_w Rust/3.  Type proste.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.5 Polimorfizm i rzutowanie.md"
+                "file": "R U S T/Programmowanie_w Rust/3.  Type proste.md"
               }
             }
           },
@@ -244,14 +235,14 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "9dc87509b3333f4a",
+  "active": "ce6fa69f08ec2bf2",
   "lastOpenFiles": [
+    "_ Mobile/REACT NATIVE/The Complete React NativePlusHooks/1 Working with Content.md",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.5 Polimorfizm i rzutowanie.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.4 Dziedziczenie.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.3 Klasy zagnieżdżone.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.2 Metody i Właściwości.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.5 Polimorfizm i rzutowanie.md",
     "R U S T/Programmowanie_w Rust/3.  Type proste.md",
-    "_ Mobile/REACT NATIVE/The Complete React NativePlusHooks/1 Working with Content.md",
     "_ Mobile/REACT NATIVE/The Complete React NativePlusHooks/_ 0 Complete React Native.md",
     "JAVASCRIPT/funkcyjnie_JS/Nowe elementy JS.md",
     "JAVASCRIPT/funkcyjnie_JS/_ JavaScript funkcyjnie.md",
