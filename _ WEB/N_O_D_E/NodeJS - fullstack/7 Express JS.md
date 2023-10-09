@@ -387,6 +387,27 @@ styles.css
 ```
 
 
+### zdjęcia
+```js
+app.get("/myimages", (req, res) => {
+  res.render("myimages", {
+    imgs: "/images/cute.jpg",
+    width: 100,
+    height: 200,
+  });
+});
+```
+
+`myimages.handlebars`
+```js
+<div style=" width: 400px; height: 500px; background-color:lightblue; ">
+	  <img src={{imgs}} alt="nic" width={{width}} height={{height}} />
+</div>
+```
+
+
+
+-----------
 
 # Użycie middleware
 
