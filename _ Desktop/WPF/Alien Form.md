@@ -1,6 +1,6 @@
-`TextBlock`, `Button`
 
-zapisywanie do pliku
+
+# zapisywanie do pliku + TextBlock
 ```c#
 using System;
 using System.Collections.Generic;
@@ -64,10 +64,30 @@ namespace Kwestiorariusz_ufoludka
 ```
 
 -------------
-
+# ComboBox
 
 >[!important] WAŻNE
 >(ComboBoxItem)comboBox.SelectedItem`: Elementy ComboBox są domyślnie typu `object`,
+
+```c#
+
+// dopisujemy do głównego pliku .cs do metody obługujacej kliknięcie
+ string textToWrite = $"tekst: {tBx.Text} \nComboBox: {((ComboBoxItem)cBx.SelectedItem).Content.ToString()} " ;
+
+```
+
+do pliku `xaml` dodałem
+```xml
+<StackPanel Orientation="Horizontal">
+    <ComboBox x:Name="cBx" SelectedIndex="0" Margin="10">
+        <ComboBoxItem Content="Opcja 1" />
+        <ComboBoxItem Content="Opcja 2" />
+        <ComboBoxItem Content="Opcja 3" />
+
+    </ComboBox>
+</StackPanel>
+
+```
 
 
 
