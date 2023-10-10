@@ -63,9 +63,15 @@ namespace Kwestiorariusz_ufoludka
 
 ```
 
+-------------
+
+
+>[!important] WAŻNE
+>(ComboBoxItem)comboBox.SelectedItem`: Elementy ComboBox są domyślnie typu `object`,
 
 
 
+------
 
 
 
