@@ -92,6 +92,51 @@ do pliku `xaml` dodałem
 
 
 ------
+# RadioButton
+ten kod dodaj do głównego `.cs` w obsłudze kliknięcia
+```c#
+// ....
+
+//ComboBox:
+string cBxText = ((ComboBoxItem)cBx.SelectedItem).Content.ToString();
+
+//RadioButton
+bool idRBtn1 = rBtn1.IsChecked.Value; //true, false
+string idRbtnContent = rBtn1.Content.ToString();
 
 
+string textToWrite = $"tekst: {tBx.Text} \nComboBox: {cBxText}\nrBtn1: {idRBtn1}, {idRbtnContent} " ;
+
+```
+
+
+GroupBox może mieć tylko jedno dziecko, więc `RadioButtons` zamknąłem w `<StackPanel>`
+```xml
+<StackPanel Orientation="Horizontal">
+
+    <GroupBox Margin="20">
+    <GroupBox.Header>
+        Jak chcesz zostać porwany?
+    </GroupBox.Header>
+    <StackPanel>
+        <RadioButton Name="rBtn1" >Gdy śpisz w domu</RadioButton>
+        <RadioButton Name="rBtn2">Gdy jedziesz samochodem</RadioButton>
+        <RadioButton Name="rBtn3" >Gdy jesteś w ubukacji</RadioButton>
+    </StackPanel>
+</GroupBox>
+
+    <GroupBox Margin="20">
+
+        <GroupBox.Header>
+            Czy chcesz podróżować na inne planety?
+        </GroupBox.Header>
+        <StackPanel>
+            <RadioButton Name="rBtnTak" >Tak</RadioButton>
+            <RadioButton Name="rBtnNie">Nie</RadioButton>
+            <RadioButton Name="rBtnNieWiem" >Nie wiem</RadioButton>
+        </StackPanel>
+    </GroupBox>
+
+</StackPanel>
+```
 
