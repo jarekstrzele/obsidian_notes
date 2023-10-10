@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "3.1 RadioButton, GroupBox, Label",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/3.1 RadioButton, GroupBox, Label.md"
+    },
+    {
+      "basename": "3 Układ komponentów",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/3 Układ komponentów.md"
+    },
+    {
+      "basename": "2 Aplikacje WPF",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/2 Aplikacje WPF.md"
+    },
+    {
+      "basename": "4 Tworzenie aplikacji WPF",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/4 Tworzenie aplikacji WPF.md"
+    },
+    {
+      "basename": "Alien Form",
+      "path": "_ Desktop/WPF/Alien Form.md"
+    },
+    {
       "basename": "7 Express JS",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md"
     },
@@ -21,16 +41,8 @@
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/4.1 Binding.md"
     },
     {
-      "basename": "4 Tworzenie aplikacji WPF",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/4 Tworzenie aplikacji WPF.md"
-    },
-    {
       "basename": "4.2 Eventy i Delegaty",
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/4.2 Eventy i Delegaty.md"
-    },
-    {
-      "basename": "3 Układ komponentów",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/3 Układ komponentów.md"
     },
     {
       "basename": "1 Grid",
@@ -187,18 +199,6 @@
     {
       "basename": "1 React Native Basics",
       "path": "_ Mobile/REACT NATIVE/React Native Practical Guide/1 React Native Basics.md"
-    },
-    {
-      "basename": "_ 0 React Native - Practical Guide",
-      "path": "_ Mobile/REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md"
-    },
-    {
-      "basename": "_ 0 React Native Crush Course",
-      "path": "_ Mobile/REACT NATIVE/youtube_RN_Crush_course/_ 0 React Native Crush Course.md"
-    },
-    {
-      "basename": "2. Pierwsze spotkanie z Rustem",
-      "path": "R U S T/Programmowanie_w Rust/2. Pierwsze spotkanie z Rustem.md"
     }
   ],
   "omittedPaths": [],
