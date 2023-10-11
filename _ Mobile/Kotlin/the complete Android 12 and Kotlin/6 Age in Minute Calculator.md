@@ -117,35 +117,32 @@ class MainActivity : AppCompatActivity() {
   
     var tvSelectedDate : TextView? = null  
     var tvAgeInMinutes: TextView? = null  
-  
-  
-  
+ 
     override fun onCreate(savedInstanceState: Bundle?) {  
-        super.onCreate(savedInstanceState)  
-        setContentView(R.layout.activity_main)  
+      super.onCreate(savedInstanceState)  
+      setContentView(R.layout.activity_main)  
   
         //tvSelectedDate?.text = "$day.${month+1}.$year"  
   
-        tvSelectedDate = findViewById(R.id.tvSelectedDate)  
+      tvSelectedDate = findViewById(R.id.tvSelectedDate)  
   
+      tvAgeInMinutes = findViewById(R.id.tvAgeInMinutes)  
   
-        tvAgeInMinutes = findViewById(R.id.tvAgeInMinutes)  
-  
-        val btnDatePicker : Button = findViewById(R.id.btnDatePicker)  
+      val btnDatePicker : Button = findViewById(R.id.btnDatePicker)  
         btnDatePicker.setOnClickListener { _ ->  
             clickDatePicker()  
         }  
     }  
   
     private fun clickDatePicker(){  
-        val myCalendar = Calendar.getInstance()  
-        val year = myCalendar.get(Calendar.YEAR)  
-        val month = myCalendar.get(Calendar.MONTH)  
-        val day = myCalendar.get(Calendar.DAY_OF_MONTH)  
+      val myCalendar = Calendar.getInstance()  
+      val year = myCalendar.get(Calendar.YEAR)  
+      val month = myCalendar.get(Calendar.MONTH)  
+      val day = myCalendar.get(Calendar.DAY_OF_MONTH)  
   
         // 'this' wskazuje na aktywność, która jest używana, czyli tutaj to `MainActivity`  
         // `view` to referencja do widoku DatePicker        val dpd =  DatePickerDialog(this,  
-            DatePickerDialog.OnDateSetListener{view, selectedYear, selectedMonth, selectedDayOfMonth ->  
+        DatePickerDialog.OnDateSetListener{view, selectedYear, selectedMonth, selectedDayOfMonth ->  
 //                Toast.makeText(this, "year=$selectedYear,\nmonth=${selectedMonth+1},\nday=${selectedDayOfMonth}",  
 //                    Toast.LENGTH_LONG).show()  
                 val selectedDate = "$selectedDayOfMonth/${selectedMonth+1}/$selectedYear"  
