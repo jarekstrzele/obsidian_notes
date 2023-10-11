@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Kotlin/Spinner.md",
+                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/6 Age in Minute Calculator.md",
                 "mode": "source",
                 "source": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Kotlin/Spinner.md",
+                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/6 Age in Minute Calculator.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Kotlin/Spinner.md",
+                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/6 Age in Minute Calculator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Kotlin/Spinner.md"
+                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/6 Age in Minute Calculator.md"
               }
             }
           },
@@ -250,9 +250,10 @@
   },
   "active": "9dc87509b3333f4a",
   "lastOpenFiles": [
+    "_ Mobile/Kotlin/Funkcje lambda.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin/6 Age in Minute Calculator.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/4.3 DataContext oraz interfejs INotifyPropertyChanged.md",
     "_ Mobile/Kotlin/Spinner.md",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/4.3 DataContext oraz interfejs INotifyPropertyChanged.md",
     "_ Mobile/Kotlin/DatePicker Dialog.md",
     "_ Desktop/WPF/Alien Form.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/3.1 RadioButton, GroupBox, Label.md",
@@ -275,7 +276,6 @@
     "A I/JS uczenie maszynowe/1 Poznawanie potencjału języka JS.md",
     "A I/JS uczenie maszynowe/_ 0 Uczenie maszynowe z JS.md",
     "A I/uczenie maszynowe/_ Uczenie Maszynowe  Helion Piotr Szajowski.md",
-    "A I/SI na Froncie/4 tensorflow.js.md",
     "_ WEB/REACT/React 18 Tutorial and Projects Course 2023",
     "_ Desktop/WPF",
     "_ Mobile/Android Kurs Tworzenia APlikacji",
