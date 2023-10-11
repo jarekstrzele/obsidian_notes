@@ -145,10 +145,10 @@ class MainActivity : AppCompatActivity() {
         DatePickerDialog.OnDateSetListener{view, selectedYear, selectedMonth, selectedDayOfMonth ->  
 //                Toast.makeText(this, "year=$selectedYear,\nmonth=${selectedMonth+1},\nday=${selectedDayOfMonth}",  
 //                    Toast.LENGTH_LONG).show()  
-                val selectedDate = "$selectedDayOfMonth/${selectedMonth+1}/$selectedYear"  
-                tvSelectedDate?.text = selectedDate  
+     val selectedDate = "$selectedDayOfMonth/${selectedMonth+1}/$selectedYear"  
+     tvSelectedDate?.text = selectedDate  
   
-                //val sdf = SimpleDateFormat("dd/MM/yyy", Locale.ENGLISH)  
+     //val sdf = SimpleDateFormat("dd/MM/yyy", Locale.ENGLISH)  
                 val sdf = SimpleDateFormat("dd/MM/yyy", Locale("pl", "PL"))  
   
                // if theDate is not empty do  
