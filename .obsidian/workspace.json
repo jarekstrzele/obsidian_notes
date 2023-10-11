@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/4.3 DataContext oraz interfejs INotifyPropertyChanged.md",
+                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/6 Age in Minute Calculator.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 357.50418853759766
+    "width": 294.50418853759766
   },
   "right": {
     "id": "ec7d1a70da2de581",
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Kotlin/Spinner.md",
+                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/6 Age in Minute Calculator.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Kotlin/Spinner.md",
+                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/6 Age in Minute Calculator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Kotlin/Spinner.md"
+                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/6 Age in Minute Calculator.md"
               }
             }
           },
@@ -248,12 +248,12 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "f74bfa99b81f305d",
+  "active": "9dc87509b3333f4a",
   "lastOpenFiles": [
-    "_ Mobile/Kotlin/DatePicker Dialog.md",
-    "_ Mobile/Kotlin/Spinner.md",
-    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/6 Age in Minute Calculator.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/4.3 DataContext oraz interfejs INotifyPropertyChanged.md",
+    "_ Mobile/Kotlin/Spinner.md",
+    "_ Mobile/Kotlin/DatePicker Dialog.md",
+    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/6 Age in Minute Calculator.md",
     "_ Desktop/WPF/Alien Form.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/3.1 RadioButton, GroupBox, Label.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.5 Polimorfizm i rzutowanie.md",
