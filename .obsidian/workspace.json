@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/6 Age in Minute Calculator.md",
+                "file": "_ Mobile/Kotlin/Spinner.md",
                 "mode": "source",
                 "source": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/6 Age in Minute Calculator.md",
+                "file": "_ Mobile/Kotlin/Spinner.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/6 Age in Minute Calculator.md",
+                "file": "_ Mobile/Kotlin/Spinner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/6 Age in Minute Calculator.md"
+                "file": "_ Mobile/Kotlin/Spinner.md"
               }
             }
           },
@@ -250,6 +250,9 @@
   },
   "active": "f74bfa99b81f305d",
   "lastOpenFiles": [
+    "_ Mobile/Kotlin/DatePicker Dialog.md",
+    "_ Mobile/Kotlin/Spinner.md",
+    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/6 Age in Minute Calculator.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/4.3 DataContext oraz interfejs INotifyPropertyChanged.md",
     "_ Desktop/WPF/Alien Form.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/3.1 RadioButton, GroupBox, Label.md",
@@ -263,7 +266,6 @@
     "C Sharp/C Sharp od Podstaw do WPF i XAML/4.2 Eventy i Delegaty.md",
     "C Sharp/Fast WFP  C Sharp/1 Grid.md",
     "C Sharp/Fast WFP  C Sharp/_ Fast WFP C Sharp.md",
-    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/6 Age in Minute Calculator.md",
     "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
     "_ WEB/N_O_D_E/NODE - the complete guide/5 Working with Express.js.md",
     "_ WEB/N_O_D_E/NODE - the complete guide/6 Working with Dynamic Content and Adding Templating Engines.md",
@@ -274,8 +276,6 @@
     "A I/JS uczenie maszynowe/_ 0 Uczenie maszynowe z JS.md",
     "A I/uczenie maszynowe/_ Uczenie Maszynowe  Helion Piotr Szajowski.md",
     "A I/SI na Froncie/4 tensorflow.js.md",
-    "A I/SI na Froncie/3 AI na froncie.md",
-    "A I/SI na Froncie/2. SI i Uczenie maszynowe.md",
     "_ WEB/REACT/React 18 Tutorial and Projects Course 2023",
     "_ Desktop/WPF",
     "_ Mobile/Android Kurs Tworzenia APlikacji",
