@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f74bfa99b81f305d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/6 Age in Minute Calculator.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -138,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Desktop/WPF/Alien Form.md",
+                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/6 Age in Minute Calculator.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -155,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Desktop/WPF/Alien Form.md",
+                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/6 Age in Minute Calculator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Desktop/WPF/Alien Form.md"
+                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/6 Age in Minute Calculator.md"
               }
             }
           },
@@ -236,17 +248,17 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "afdf83caa803ca83",
+  "active": "f74bfa99b81f305d",
   "lastOpenFiles": [
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/3.1 RadioButton, GroupBox, Label.md",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/4.3 DataContext oraz interfejs INotifyPropertyChanged.md",
     "_ Desktop/WPF/Alien Form.md",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/3.1 RadioButton, GroupBox, Label.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.5 Polimorfizm i rzutowanie.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/3 Układ komponentów.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/2 Aplikacje WPF.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/4 Tworzenie aplikacji WPF.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.3 Klasy zagnieżdżone.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/4.3 DataContext oraz interfejs INotifyPropertyChanged.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/4.1 Binding.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/4.2 Eventy i Delegaty.md",
     "C Sharp/Fast WFP  C Sharp/1 Grid.md",
