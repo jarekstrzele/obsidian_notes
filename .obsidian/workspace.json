@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "f74bfa99b81f305d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_ Mobile/REACT NATIVE/The Complete React NativePlusHooks/1 Working with Content.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "7818f23a3738adc1",
             "type": "leaf",
             "state": {
@@ -54,21 +66,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f74bfa99b81f305d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_ Mobile/Kotlin/Spinner.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/6 Age in Minute Calculator.md",
+                "file": "_ Mobile/REACT NATIVE/The Complete React NativePlusHooks/1 Working with Content.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/6 Age in Minute Calculator.md",
+                "file": "_ Mobile/REACT NATIVE/The Complete React NativePlusHooks/1 Working with Content.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/6 Age in Minute Calculator.md"
+                "file": "_ Mobile/REACT NATIVE/The Complete React NativePlusHooks/1 Working with Content.md"
               }
             }
           },
@@ -248,10 +248,14 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "9dc87509b3333f4a",
+  "active": "f74bfa99b81f305d",
   "lastOpenFiles": [
-    "_ Mobile/Kotlin/Funkcje lambda.md",
+    "_ Mobile/REACT NATIVE/The Complete React NativePlusHooks/_ 0 Complete React Native.md",
+    "_ Mobile/REACT NATIVE/android studio 1.md",
+    "_ Mobile/REACT NATIVE/android studio.md",
+    "_ Mobile/REACT NATIVE/Android.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin/6 Age in Minute Calculator.md",
+    "_ Mobile/Kotlin/Funkcje lambda.md",
     "_ Mobile/Kotlin/Spinner.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/4.3 DataContext oraz interfejs INotifyPropertyChanged.md",
     "_ Mobile/Kotlin/DatePicker Dialog.md",
@@ -272,10 +276,6 @@
     "_ WEB/N_O_D_E/NODE - the complete guide/6 Working with Dynamic Content and Adding Templating Engines.md",
     "CLOUD/Google Cloud/Google Cloud Platform fundamentals.md",
     "CLOUD/AWS_w3school/0-AWS w3school INTRO.md",
-    "A I/JS uczenie maszynowe/2 Badanie danych.md",
-    "A I/JS uczenie maszynowe/1 Poznawanie potencjału języka JS.md",
-    "A I/JS uczenie maszynowe/_ 0 Uczenie maszynowe z JS.md",
-    "A I/uczenie maszynowe/_ Uczenie Maszynowe  Helion Piotr Szajowski.md",
     "_ WEB/REACT/React 18 Tutorial and Projects Course 2023",
     "_ Desktop/WPF",
     "_ Mobile/Android Kurs Tworzenia APlikacji",

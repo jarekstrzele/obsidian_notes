@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "1 Working with Content",
+      "path": "_ Mobile/REACT NATIVE/The Complete React NativePlusHooks/1 Working with Content.md"
+    },
+    {
+      "basename": "_ 0 Complete React Native",
+      "path": "_ Mobile/REACT NATIVE/The Complete React NativePlusHooks/_ 0 Complete React Native.md"
+    },
+    {
+      "basename": "android studio 1",
+      "path": "_ Mobile/REACT NATIVE/android studio 1.md"
+    },
+    {
+      "basename": "android studio",
+      "path": "_ Mobile/REACT NATIVE/android studio.md"
+    },
+    {
+      "basename": "Android",
+      "path": "_ Mobile/REACT NATIVE/Android.md"
+    },
+    {
       "basename": "6 Age in Minute Calculator",
       "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/6 Age in Minute Calculator.md"
     },
@@ -129,10 +149,6 @@
       "path": "_ Mobile/Kotlin/the complete Android Kotlin/8.2 TextView.md"
     },
     {
-      "basename": "1 Working with Content",
-      "path": "_ Mobile/REACT NATIVE/The Complete React NativePlusHooks/1 Working with Content.md"
-    },
-    {
       "basename": "3.  Type proste",
       "path": "R U S T/Programmowanie_w Rust/3.  Type proste.md"
     },
@@ -143,10 +159,6 @@
     {
       "basename": "1.2 Metody i Właściwości",
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.2 Metody i Właściwości.md"
-    },
-    {
-      "basename": "_ 0 Complete React Native",
-      "path": "_ Mobile/REACT NATIVE/The Complete React NativePlusHooks/_ 0 Complete React Native.md"
     },
     {
       "basename": "Nowe elementy JS",
@@ -187,18 +199,6 @@
     {
       "basename": "useLayoutEffect",
       "path": "_ Mobile/REACT NATIVE/React Native Practical Guide/useLayoutEffect.md"
-    },
-    {
-      "basename": "useEffect",
-      "path": "_ Mobile/REACT NATIVE/React Native Practical Guide/useEffect.md"
-    },
-    {
-      "basename": "React.js Refresher",
-      "path": "_ Mobile/REACT NATIVE/React Native Practical Guide/React.js Refresher.md"
-    },
-    {
-      "basename": "1.4. FlatList",
-      "path": "_ Mobile/REACT NATIVE/React Native Practical Guide/1.4. FlatList.md"
     }
   ],
   "omittedPaths": [],
