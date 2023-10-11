@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/3.1 RadioButton, GroupBox, Label.md",
+                "file": "JAVASCRIPT/ES refresh.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -150,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/REACT NATIVE/The Complete React NativePlusHooks/1 Working with Content.md",
+                "file": "JAVASCRIPT/ES refresh.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -167,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/REACT NATIVE/The Complete React NativePlusHooks/1 Working with Content.md",
+                "file": "JAVASCRIPT/ES refresh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/REACT NATIVE/The Complete React NativePlusHooks/1 Working with Content.md"
+                "file": "JAVASCRIPT/ES refresh.md"
               }
             }
           },
@@ -248,8 +247,11 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "f74bfa99b81f305d",
+  "active": "ce6fa69f08ec2bf2",
   "lastOpenFiles": [
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/3.1 RadioButton, GroupBox, Label.md",
+    "_ Desktop/WPF/Alien Form.md",
+    "_ Mobile/REACT NATIVE/The Complete React NativePlusHooks/1 Working with Content.md",
     "_ Mobile/REACT NATIVE/The Complete React NativePlusHooks/_ 0 Complete React Native.md",
     "_ Mobile/REACT NATIVE/android studio 1.md",
     "_ Mobile/REACT NATIVE/android studio.md",
@@ -259,8 +261,6 @@
     "_ Mobile/Kotlin/Spinner.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/4.3 DataContext oraz interfejs INotifyPropertyChanged.md",
     "_ Mobile/Kotlin/DatePicker Dialog.md",
-    "_ Desktop/WPF/Alien Form.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/3.1 RadioButton, GroupBox, Label.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.5 Polimorfizm i rzutowanie.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/3 Układ komponentów.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/2 Aplikacje WPF.md",
@@ -275,7 +275,6 @@
     "_ WEB/N_O_D_E/NODE - the complete guide/5 Working with Express.js.md",
     "_ WEB/N_O_D_E/NODE - the complete guide/6 Working with Dynamic Content and Adding Templating Engines.md",
     "CLOUD/Google Cloud/Google Cloud Platform fundamentals.md",
-    "CLOUD/AWS_w3school/0-AWS w3school INTRO.md",
     "_ WEB/REACT/React 18 Tutorial and Projects Course 2023",
     "_ Desktop/WPF",
     "_ Mobile/Android Kurs Tworzenia APlikacji",
