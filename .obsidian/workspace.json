@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVASCRIPT/ES refresh.md",
+                "file": "_ Mobile/REACT NATIVE/React Native Practical Guide/1 React Native Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVASCRIPT/ES refresh.md",
+                "file": "_ Mobile/REACT NATIVE/React Native Practical Guide/1 React Native Basics.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVASCRIPT/ES refresh.md",
+                "file": "_ Mobile/REACT NATIVE/React Native Practical Guide/1 React Native Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVASCRIPT/ES refresh.md"
+                "file": "_ Mobile/REACT NATIVE/React Native Practical Guide/1 React Native Basics.md"
               }
             }
           },
@@ -249,10 +249,12 @@
   },
   "active": "ce6fa69f08ec2bf2",
   "lastOpenFiles": [
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/3.1 RadioButton, GroupBox, Label.md",
-    "_ Desktop/WPF/Alien Form.md",
+    "_ Mobile/REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
     "_ Mobile/REACT NATIVE/The Complete React NativePlusHooks/1 Working with Content.md",
     "_ Mobile/REACT NATIVE/The Complete React NativePlusHooks/_ 0 Complete React Native.md",
+    "JAVASCRIPT/ES refresh.md",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/3.1 RadioButton, GroupBox, Label.md",
+    "_ Desktop/WPF/Alien Form.md",
     "_ Mobile/REACT NATIVE/android studio 1.md",
     "_ Mobile/REACT NATIVE/android studio.md",
     "_ Mobile/REACT NATIVE/Android.md",
@@ -273,8 +275,6 @@
     "C Sharp/Fast WFP  C Sharp/_ Fast WFP C Sharp.md",
     "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
     "_ WEB/N_O_D_E/NODE - the complete guide/5 Working with Express.js.md",
-    "_ WEB/N_O_D_E/NODE - the complete guide/6 Working with Dynamic Content and Adding Templating Engines.md",
-    "CLOUD/Google Cloud/Google Cloud Platform fundamentals.md",
     "_ WEB/REACT/React 18 Tutorial and Projects Course 2023",
     "_ Desktop/WPF",
     "_ Mobile/Android Kurs Tworzenia APlikacji",

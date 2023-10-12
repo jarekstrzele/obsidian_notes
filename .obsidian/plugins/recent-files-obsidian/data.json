@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "1 React Native Basics",
+      "path": "_ Mobile/REACT NATIVE/React Native Practical Guide/1 React Native Basics.md"
+    },
+    {
+      "basename": "_ 0 React Native - Practical Guide",
+      "path": "_ Mobile/REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md"
+    },
+    {
+      "basename": "1 Working with Content",
+      "path": "_ Mobile/REACT NATIVE/The Complete React NativePlusHooks/1 Working with Content.md"
+    },
+    {
+      "basename": "_ 0 Complete React Native",
+      "path": "_ Mobile/REACT NATIVE/The Complete React NativePlusHooks/_ 0 Complete React Native.md"
+    },
+    {
       "basename": "ES refresh",
       "path": "JAVASCRIPT/ES refresh.md"
     },
@@ -11,14 +27,6 @@
     {
       "basename": "Alien Form",
       "path": "_ Desktop/WPF/Alien Form.md"
-    },
-    {
-      "basename": "1 Working with Content",
-      "path": "_ Mobile/REACT NATIVE/The Complete React NativePlusHooks/1 Working with Content.md"
-    },
-    {
-      "basename": "_ 0 Complete React Native",
-      "path": "_ Mobile/REACT NATIVE/The Complete React NativePlusHooks/_ 0 Complete React Native.md"
     },
     {
       "basename": "android studio 1",
@@ -191,14 +199,6 @@
     {
       "basename": "_ 0 start React Native",
       "path": "_ Mobile/REACT NATIVE/Master React Native Funds/_ 0 start React Native.md"
-    },
-    {
-      "basename": "React Native Getting Started",
-      "path": "_ Mobile/REACT NATIVE/plurasight/React Native Getting Started.md"
-    },
-    {
-      "basename": "React Native - The Big Picture 1",
-      "path": "_ Mobile/REACT NATIVE/plurasight/React Native - The Big Picture 1.md"
     }
   ],
   "omittedPaths": [],
