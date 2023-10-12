@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "4.3 DataContext oraz interfejs INotifyPropertyChanged",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/4.3 DataContext oraz interfejs INotifyPropertyChanged.md"
+    },
+    {
+      "basename": "4.1 Binding",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/4.1 Binding.md"
+    },
+    {
+      "basename": "2 Aplikacje WPF",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/2 Aplikacje WPF.md"
+    },
+    {
+      "basename": "1.5 Polimorfizm i rzutowanie",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.5 Polimorfizm i rzutowanie.md"
+    },
+    {
+      "basename": "Funkcje lambda",
+      "path": "_ Mobile/Kotlin/Funkcje lambda.md"
+    },
+    {
       "basename": "Spinner",
       "path": "_ Mobile/Kotlin/Spinner.md"
     },
@@ -37,10 +57,6 @@
       "path": "_ Mobile/REACT NATIVE/The Complete React NativePlusHooks/_ 0 Complete React Native.md"
     },
     {
-      "basename": "4.1 Binding",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/4.1 Binding.md"
-    },
-    {
       "basename": "ES refresh",
       "path": "JAVASCRIPT/ES refresh.md"
     },
@@ -61,24 +77,8 @@
       "path": "_ Mobile/REACT NATIVE/Android.md"
     },
     {
-      "basename": "Funkcje lambda",
-      "path": "_ Mobile/Kotlin/Funkcje lambda.md"
-    },
-    {
-      "basename": "4.3 DataContext oraz interfejs INotifyPropertyChanged",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/4.3 DataContext oraz interfejs INotifyPropertyChanged.md"
-    },
-    {
-      "basename": "1.5 Polimorfizm i rzutowanie",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.5 Polimorfizm i rzutowanie.md"
-    },
-    {
       "basename": "3 Układ komponentów",
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/3 Układ komponentów.md"
-    },
-    {
-      "basename": "2 Aplikacje WPF",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/2 Aplikacje WPF.md"
     },
     {
       "basename": "4 Tworzenie aplikacji WPF",
