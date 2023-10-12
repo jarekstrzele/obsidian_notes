@@ -1,24 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "_ 0 Complete React Native",
-      "path": "_ Mobile/REACT NATIVE/The Complete React NativePlusHooks/_ 0 Complete React Native.md"
-    },
-    {
-      "basename": "1 Working with Content",
-      "path": "_ Mobile/REACT NATIVE/The Complete React NativePlusHooks/1 Working with Content.md"
-    },
-    {
-      "basename": "4.1 Binding",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/4.1 Binding.md"
+      "basename": "_ 0 React Native - Practical Guide",
+      "path": "_ Mobile/REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md"
     },
     {
       "basename": "1 React Native Basics",
       "path": "_ Mobile/REACT NATIVE/React Native Practical Guide/1 React Native Basics.md"
     },
     {
-      "basename": "_ 0 React Native - Practical Guide",
-      "path": "_ Mobile/REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md"
+      "basename": "1.2. Handling Events",
+      "path": "_ Mobile/REACT NATIVE/React Native Practical Guide/1.2. Handling Events.md"
+    },
+    {
+      "basename": "1 Working with Content",
+      "path": "_ Mobile/REACT NATIVE/The Complete React NativePlusHooks/1 Working with Content.md"
+    },
+    {
+      "basename": "6 Age in Minute Calculator",
+      "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/6 Age in Minute Calculator.md"
+    },
+    {
+      "basename": "_ 0 Complete React Native",
+      "path": "_ Mobile/REACT NATIVE/The Complete React NativePlusHooks/_ 0 Complete React Native.md"
+    },
+    {
+      "basename": "4.1 Binding",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/4.1 Binding.md"
     },
     {
       "basename": "ES refresh",
@@ -43,10 +51,6 @@
     {
       "basename": "Android",
       "path": "_ Mobile/REACT NATIVE/Android.md"
-    },
-    {
-      "basename": "6 Age in Minute Calculator",
-      "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/6 Age in Minute Calculator.md"
     },
     {
       "basename": "Funkcje lambda",
@@ -195,10 +199,6 @@
     {
       "basename": "biblioteka Moment Javascript",
       "path": "_ Mobile/REACT NATIVE/_ Proste aplikacje/biblioteka Moment Javascript.md"
-    },
-    {
-      "basename": "_ 0 start React Native",
-      "path": "_ Mobile/REACT NATIVE/Master React Native Funds/_ 0 start React Native.md"
     }
   ],
   "omittedPaths": [],
