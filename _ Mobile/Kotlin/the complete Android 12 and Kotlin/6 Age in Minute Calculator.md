@@ -152,11 +152,11 @@ class MainActivity : AppCompatActivity() {
                 val sdf = SimpleDateFormat("dd/MM/yyy", Locale("pl", "PL"))  
   
                // if theDate is not empty do  
-                val theDate = sdf.parse(selectedDate)  
-                theDate?.let {  
+        val theDate = sdf.parse(selectedDate)  
+        theDate?.let {  
                     Toast.makeText(this,theDate.toString(), Toast.LENGTH_LONG ).show()  
-                    val selectedDateInMinutes = theDate.time/60_000 // 1 minuta to 60_000 milisekund  
-                    val currentDate = sdf.parse(sdf.format(System.currentTimeMillis()))  
+        val selectedDateInMinutes = theDate.time/60_000 // 1 minuta to 60_000 milisekund  
+        val currentDate = sdf.parse(sdf.format(System.currentTimeMillis()))  
                     //Log.i("currDate", currentDate.time.toString())  
                     currentDate?.let{  
                         val currentDateInMinutes = currentDate.time / 60_000  
