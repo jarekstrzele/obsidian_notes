@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "e90c537356e24754",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
+          },
+          {
             "id": "afdf83caa803ca83",
             "type": "leaf",
             "state": {
@@ -67,7 +77,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -247,7 +258,7 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "ce6fa69f08ec2bf2",
+  "active": "e90c537356e24754",
   "lastOpenFiles": [
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin/6 Age in Minute Calculator.md",
     "_ Mobile/Kotlin/DatePicker Dialog.md",
