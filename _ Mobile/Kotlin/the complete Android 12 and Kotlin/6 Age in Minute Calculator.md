@@ -149,7 +149,7 @@ class MainActivity : AppCompatActivity() {
      tvSelectedDate?.text = selectedDate  
   
      //val sdf = SimpleDateFormat("dd/MM/yyy", Locale.ENGLISH)  
-                val sdf = SimpleDateFormat("dd/MM/yyy", Locale("pl", "PL"))  
+                val sdf = SimpleDateFormat("dd/MM/yyyy", Locale("pl", "PL"))  
   
                // if theDate is not empty do  
         val theDate = sdf.parse(selectedDate)  
