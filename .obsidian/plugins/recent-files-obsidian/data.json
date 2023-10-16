@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "7 Express JS",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md"
+    },
+    {
+      "basename": "6 Zewnętrzne moduły",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/6 Zewnętrzne moduły.md"
+    },
+    {
       "basename": "Spinner",
       "path": "_ Mobile/Kotlin/Spinner.md"
     },
@@ -125,10 +133,6 @@
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/4 Tworzenie aplikacji WPF.md"
     },
     {
-      "basename": "7 Express JS",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md"
-    },
-    {
       "basename": "4.2 Eventy i Delegaty",
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/4.2 Eventy i Delegaty.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "8.4 EditTexts",
       "path": "_ Mobile/Kotlin/the complete Android Kotlin/8.4 EditTexts.md"
-    },
-    {
-      "basename": "8.2 TextView",
-      "path": "_ Mobile/Kotlin/the complete Android Kotlin/8.2 TextView.md"
     }
   ],
   "omittedPaths": [],
