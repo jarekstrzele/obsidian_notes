@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Desktop/Python/GUI/Tkinter/from 100 Days of Code/_ Tkinter.md",
+                "file": "_ Mobile/REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Desktop/Python/GUI/Tkinter/from 100 Days of Code/_ Tkinter.md",
+                "file": "_ Mobile/REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Desktop/Python/GUI/Tkinter/from 100 Days of Code/_ Tkinter.md"
+                "file": "_ Mobile/REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md"
               }
             }
           },
@@ -258,10 +258,10 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "afdf83caa803ca83",
+  "active": "f74bfa99b81f305d",
   "lastOpenFiles": [
-    "_ Desktop/Python/GUI/Tkinter/Widżety proste TkInter.md",
     "_ Desktop/Python/GUI/Tkinter/from 100 Days of Code/_ Tkinter.md",
+    "_ Desktop/Python/GUI/Tkinter/Widżety proste TkInter.md",
     "_ Desktop/Python/GUI/Tkinter/from 100 Days of Code",
     "_ Desktop/Python/GUI/Tkinter/Tkinter.md",
     "_ Desktop/Python/GUI/Tkinter/Tkinter 0.md",
