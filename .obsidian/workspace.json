@@ -54,6 +54,18 @@
             }
           },
           {
+            "id": "3fe8ddf3c8fac9e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_ Desktop/Python/GUI/Tkinter/Tkinter 0.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "7818f23a3738adc1",
             "type": "leaf",
             "state": {
@@ -78,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -160,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Desktop/Python/GUI/Tkinter/Tkinter.md",
+                "file": "_ Desktop/Python/GUI/Tkinter/Tkinter 0.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -177,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Desktop/Python/GUI/Tkinter/Tkinter.md",
+                "file": "_ Desktop/Python/GUI/Tkinter/Tkinter 0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Desktop/Python/GUI/Tkinter/Tkinter.md"
+                "file": "_ Desktop/Python/GUI/Tkinter/Tkinter 0.md"
               }
             }
           },
@@ -258,8 +270,10 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "f74bfa99b81f305d",
+  "active": "3fe8ddf3c8fac9e5",
   "lastOpenFiles": [
+    "_ Desktop/Python/GUI/Tkinter/Tkinter.md",
+    "_ Desktop/Python/GUI/Tkinter/Tkinter 0.md",
     "_ Desktop/Python/GUI/Tkinter/Icons, Images, Exit Button.md",
     "_ Desktop/Python/GUI/Tkinter/Calculator simple.md",
     "_ Desktop/Python/GUI/Tkinter/from 100 Days of Code/_ Tkinter.md",
@@ -270,8 +284,6 @@
     "_ Mobile/REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
     "_ Desktop/Python/GUI/Tkinter/Widżety proste TkInter.md",
     "_ Desktop/Python/GUI/Tkinter/from 100 Days of Code",
-    "_ Desktop/Python/GUI/Tkinter/Tkinter.md",
-    "_ Desktop/Python/GUI/Tkinter/Tkinter 0.md",
     "_ Desktop/Python/GUI/Tkinter/Tkinter konwerter.md",
     "_ Desktop/Python/GUI/Tkinter/Tkinter Pomidoro.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin/6 Age in Minute Calculator.md",

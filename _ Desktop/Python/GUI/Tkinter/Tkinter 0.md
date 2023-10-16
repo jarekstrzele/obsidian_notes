@@ -81,24 +81,15 @@ btn2.grid(column=3,row=0)
 
 
 # Entry
-<<<<<<< HEAD
+
 input = Entry(window, width=10)
-=======
-input = Entry(width=10)
->>>>>>> remotes/origin/master
 input.grid(column=4,row=3)
-  
 
 window.mainloop()
 ```
 
-<<<<<<< HEAD
 
 ```python
-# Przywitacz
-=======
-```python
->>>>>>> remotes/origin/master
 from tkinter import *
 
 root = Tk()
@@ -111,19 +102,13 @@ def myClick():
 	myLabel = Label(root, text=hello)
 	myLabel.pack()
 
-<<<<<<< HEAD
 myButton = Button(root, text="Enter your name", command=myClick)
-=======
 myButton = Button(root, text="ENter your name", command=myClick)
->>>>>>> remotes/origin/master
 myButton.pack()
 
 root.mainloop()
 ```
 
-
-
-<<<<<<< HEAD
 ## TROCHĘ RÓŻNYCH WIDŻETÓW
 
 ```python
