@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
+                "file": "_ WEB/REACT/React Mosh/_ 0 React Mosh.md",
                 "mode": "source",
                 "source": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
+                "file": "_ WEB/REACT/React Mosh/_ 0 React Mosh.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -200,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
+                "file": "_ WEB/REACT/React Mosh/_ 0 React Mosh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md"
+                "file": "_ WEB/REACT/React Mosh/_ 0 React Mosh.md"
               }
             }
           },
@@ -283,6 +283,12 @@
   },
   "active": "ce6fa69f08ec2bf2",
   "lastOpenFiles": [
+    "_ WEB/REACT/w3school/_ 0 w3school React.md",
+    "_ WEB/REACT/w3school/_ 0 React Hooks.md",
+    "_ WEB/REACT/React_Node_Helion/_ 0 React Node.md",
+    "_ WEB/REACT/React_Node_Helion/2 Pierwsz komponent.md",
+    "_ WEB/REACT/React 18 Tutorial and Projects Course 2023/_ The React 18 Tutorial (2023).md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/6 Zewnętrzne moduły.md",
     "_ Mobile/Kotlin/Spinner.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin/6 Age in Minute Calculator.md",
@@ -304,12 +310,6 @@
     "_ Mobile/REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
     "_ Desktop/Python/GUI/Tkinter/from 100 Days of Code",
     "_ Desktop/Python/GUI/Tkinter/Tkinter Pomidoro.md",
-    "_ Mobile/Kotlin/DatePicker Dialog.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/4.3 DataContext oraz interfejs INotifyPropertyChanged.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/4.1 Binding.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/2 Aplikacje WPF.md",
-    "_ Mobile/Kotlin/Funkcje lambda.md",
-    "_ Desktop/WPF/Alien Form.md",
     "_ WEB/REACT/React 18 Tutorial and Projects Course 2023",
     "_ Desktop/WPF",
     "_ Mobile/Android Kurs Tworzenia APlikacji",
