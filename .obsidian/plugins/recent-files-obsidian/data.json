@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "7 Calculator",
+      "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/7 Calculator.md"
+    },
+    {
+      "basename": "6 Age in Minute Calculator",
+      "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/6 Age in Minute Calculator.md"
+    },
+    {
+      "basename": "_ Tkinter",
+      "path": "_ Desktop/Python/GUI/Tkinter/from 100 Days of Code/_ Tkinter.md"
+    },
+    {
       "basename": "7 Express JS",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md"
     },
@@ -37,10 +49,6 @@
       "path": "_ Mobile/Kotlin/Spinner.md"
     },
     {
-      "basename": "6 Age in Minute Calculator",
-      "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/6 Age in Minute Calculator.md"
-    },
-    {
       "basename": "1.5 Polimorfizm i rzutowanie",
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.5 Polimorfizm i rzutowanie.md"
     },
@@ -55,10 +63,6 @@
     {
       "basename": "1 OOP w CSharp",
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md"
-    },
-    {
-      "basename": "_ Tkinter",
-      "path": "_ Desktop/Python/GUI/Tkinter/from 100 Days of Code/_ Tkinter.md"
     },
     {
       "basename": "Tkinter 0",
@@ -195,10 +199,6 @@
     {
       "basename": "1 Poznawanie potencjału języka JS",
       "path": "A I/JS uczenie maszynowe/1 Poznawanie potencjału języka JS.md"
-    },
-    {
-      "basename": "_ 0 Uczenie maszynowe z JS",
-      "path": "A I/JS uczenie maszynowe/_ 0 Uczenie maszynowe z JS.md"
     }
   ],
   "omittedPaths": [],
