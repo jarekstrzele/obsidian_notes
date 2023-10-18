@@ -55,7 +55,7 @@ btn8 = Button(root, text="8", padx=40, pady=20, command=lambda: click(8))
 btn9 = Button(root, text="9", padx=40, pady=20, command=lambda: click(9))
 btn0 = Button(root, text="0", padx=40, pady=20, command=lambda: click(0))
 btn_to_add = Button(root, text="+", padx=39, pady=20, command=add)
-btn_to_subtract = Button(root, text="-", padx=39,
+btn_to_subtract = Button(root, text="-", padx=40,
 pady=20, command=substraction)
 btn_equal = Button(root, text="=", padx=91, pady=20, command=equal)
 btn_clear = Button(root, text="clear", padx=79, pady=20,
