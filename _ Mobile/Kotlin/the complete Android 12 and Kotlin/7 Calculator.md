@@ -48,6 +48,9 @@ fun onDigit(view: View){
 `onClick` is deprecated, you should use 
 ```kotlin
 btnOne=findViewById(R.id.btnOne)
+btnOne?.setOnClickListener{
+	tvInput?.append("1")
+}
 
 ```
 
