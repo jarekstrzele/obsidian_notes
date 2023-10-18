@@ -19,8 +19,8 @@ import {StyleSheet, Text, View } from 'react-native';
 function App(){
   return (
     <View style={styles.container}>
-     <Text> Hello World!! </Text>
-     <Text> Witaj świecie </Text>
+	     <Text> Hello World!! </Text>
+	     <Text> Witaj świecie </Text>
      </View>
   );
 
