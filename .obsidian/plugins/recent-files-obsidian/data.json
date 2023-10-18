@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "_ Functional Programming for JS Developers",
+      "path": "JAVASCRIPT/Functional Programming for JS Developers/_ Functional Programming for JS Developers.md"
+    },
+    {
+      "basename": "_ JavaScript funkcyjnie",
+      "path": "JAVASCRIPT/funkcyjnie_JS/_ JavaScript funkcyjnie.md"
+    },
+    {
+      "basename": "7 Counter App vs2",
+      "path": "JAVASCRIPT/Functional/7 Counter App vs2.md"
+    },
+    {
+      "basename": "7 Counter App vs1",
+      "path": "JAVASCRIPT/Functional/7 Counter App vs1.md"
+    },
+    {
+      "basename": "0- Intro functional programming (beginner udemy)",
+      "path": "JAVASCRIPT/Functional/0- Intro functional programming (beginner udemy).md"
+    },
+    {
+      "basename": "Nowe elementy JS",
+      "path": "JAVASCRIPT/funkcyjnie_JS/Nowe elementy JS.md"
+    },
+    {
       "basename": "Calculator simple",
       "path": "_ Desktop/Python/GUI/Tkinter/Calculator simple.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "_ Fast WFP C Sharp",
       "path": "C Sharp/Fast WFP  C Sharp/_ Fast WFP C Sharp.md"
-    },
-    {
-      "basename": "3.1 Express - introducing",
-      "path": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md"
-    },
-    {
-      "basename": "5 Working with Express.js",
-      "path": "_ WEB/N_O_D_E/NODE - the complete guide/5 Working with Express.js.md"
-    },
-    {
-      "basename": "6 Working with Dynamic Content and Adding Templating Engines",
-      "path": "_ WEB/N_O_D_E/NODE - the complete guide/6 Working with Dynamic Content and Adding Templating Engines.md"
-    },
-    {
-      "basename": "Google Cloud Platform fundamentals",
-      "path": "CLOUD/Google Cloud/Google Cloud Platform fundamentals.md"
-    },
-    {
-      "basename": "0-AWS w3school INTRO",
-      "path": "CLOUD/AWS_w3school/0-AWS w3school INTRO.md"
-    },
-    {
-      "basename": "2 Badanie danych",
-      "path": "A I/JS uczenie maszynowe/2 Badanie danych.md"
     }
   ],
   "omittedPaths": [],

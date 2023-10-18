@@ -1,7 +1,10 @@
 #udemy #artech_learning
 
 -------
-
+IMPERATIVE STYLE
+- read top-to-bottom
+- tell computer step by step instructions
+- each step depends on knowing where 
 
 
 
