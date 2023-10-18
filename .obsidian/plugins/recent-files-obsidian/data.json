@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Dziwny kalkulator",
+      "path": "Dziwny kalkulator.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
       "basename": "_ Functional Programming for JS Developers",
       "path": "JAVASCRIPT/Functional Programming for JS Developers/_ Functional Programming for JS Developers.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "4.2 Eventy i Delegaty",
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/4.2 Eventy i Delegaty.md"
-    },
-    {
-      "basename": "1 Grid",
-      "path": "C Sharp/Fast WFP  C Sharp/1 Grid.md"
-    },
-    {
-      "basename": "_ Fast WFP C Sharp",
-      "path": "C Sharp/Fast WFP  C Sharp/_ Fast WFP C Sharp.md"
     }
   ],
   "omittedPaths": [],
