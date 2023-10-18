@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ WEB/REACT/React Mosh/_ 0 React Mosh.md",
+                "file": "_ Mobile/REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ WEB/REACT/React Mosh/_ 0 React Mosh.md",
+                "file": "_ Mobile/REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -212,7 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ WEB/REACT/React Mosh/_ 0 React Mosh.md",
+                "file": "_ Mobile/REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,7 +235,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ WEB/REACT/React Mosh/_ 0 React Mosh.md"
+                "file": "_ Mobile/REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md"
               }
             }
           },
@@ -295,6 +295,7 @@
   },
   "active": "ce6fa69f08ec2bf2",
   "lastOpenFiles": [
+    "_ WEB/REACT/React Mosh/_ 0 React Mosh.md",
     "_ WEB/REACT/React Mosh/3 Components.md",
     "_ WEB/N_O_D_E/NODE - the complete guide/5 Working with Express.js.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
@@ -311,7 +312,6 @@
     "_ Desktop/Python/GUI/Tkinter.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin/7 Calculator.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin/6 Age in Minute Calculator.md",
-    "_ WEB/REACT/React Mosh/_ 0 React Mosh.md",
     "_ WEB/REACT/w3school/_ 0 w3school React.md",
     "_ WEB/REACT/w3school/_ 0 React Hooks.md",
     "_ WEB/REACT/React_Node_Helion/_ 0 React Node.md",
