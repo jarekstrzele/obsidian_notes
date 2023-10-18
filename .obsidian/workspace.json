@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ WEB/N_O_D_E/NODE - the complete guide/5 Working with Express.js.md",
+                "file": "_ WEB/REACT/React Mosh/_ 0 React Mosh.md",
                 "mode": "source",
                 "source": false
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ WEB/N_O_D_E/NODE - the complete guide/5 Working with Express.js.md",
+                "file": "_ WEB/REACT/React Mosh/_ 0 React Mosh.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -212,7 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ WEB/N_O_D_E/NODE - the complete guide/5 Working with Express.js.md",
+                "file": "_ WEB/REACT/React Mosh/_ 0 React Mosh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,7 +235,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ WEB/N_O_D_E/NODE - the complete guide/5 Working with Express.js.md"
+                "file": "_ WEB/REACT/React Mosh/_ 0 React Mosh.md"
               }
             }
           },
@@ -293,8 +293,10 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "f621f21825dbd82d",
+  "active": "ce6fa69f08ec2bf2",
   "lastOpenFiles": [
+    "_ WEB/REACT/React Mosh/3 Components.md",
+    "_ WEB/N_O_D_E/NODE - the complete guide/5 Working with Express.js.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
     "Dziwny kalkulator.md",
     "Untitled.md",
@@ -319,8 +321,6 @@
     "_ Mobile/Kotlin/Spinner.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.5 Polimorfizm i rzutowanie.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.4 Dziedziczenie.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.3 Klasy zagnieżdżone.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
     "_ Desktop/Python/GUI/Tkinter/from 100 Days of Code",
     "_ WEB/REACT/React 18 Tutorial and Projects Course 2023",
     "_ Desktop/WPF",

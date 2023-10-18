@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "_ 0 React Mosh",
+      "path": "_ WEB/REACT/React Mosh/_ 0 React Mosh.md"
+    },
+    {
+      "basename": "3 Components",
+      "path": "_ WEB/REACT/React Mosh/3 Components.md"
+    },
+    {
       "basename": "5 Working with Express.js",
       "path": "_ WEB/N_O_D_E/NODE - the complete guide/5 Working with Express.js.md"
     },
@@ -59,10 +67,6 @@
     {
       "basename": "6 Age in Minute Calculator",
       "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/6 Age in Minute Calculator.md"
-    },
-    {
-      "basename": "_ 0 React Mosh",
-      "path": "_ WEB/REACT/React Mosh/_ 0 React Mosh.md"
     },
     {
       "basename": "_ 0 w3school React",
@@ -195,10 +199,6 @@
     {
       "basename": "3 Układ komponentów",
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/3 Układ komponentów.md"
-    },
-    {
-      "basename": "4 Tworzenie aplikacji WPF",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/4 Tworzenie aplikacji WPF.md"
     }
   ],
   "omittedPaths": [],
