@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Tkinter",
+      "path": "_ Desktop/Python/GUI/Tkinter.md"
+    },
+    {
+      "basename": "_ Tkinter",
+      "path": "_ Desktop/Python/GUI/Tkinter/from 100 Days of Code/_ Tkinter.md"
+    },
+    {
       "basename": "7 Calculator",
       "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/7 Calculator.md"
     },
     {
       "basename": "6 Age in Minute Calculator",
       "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/6 Age in Minute Calculator.md"
-    },
-    {
-      "basename": "_ Tkinter",
-      "path": "_ Desktop/Python/GUI/Tkinter/from 100 Days of Code/_ Tkinter.md"
     },
     {
       "basename": "7 Express JS",
@@ -195,10 +199,6 @@
     {
       "basename": "2 Badanie danych",
       "path": "A I/JS uczenie maszynowe/2 Badanie danych.md"
-    },
-    {
-      "basename": "1 Poznawanie potencjału języka JS",
-      "path": "A I/JS uczenie maszynowe/1 Poznawanie potencjału języka JS.md"
     }
   ],
   "omittedPaths": [],
