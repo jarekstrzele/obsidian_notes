@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "5 Working with Express.js",
+      "path": "_ WEB/N_O_D_E/NODE - the complete guide/5 Working with Express.js.md"
+    },
+    {
+      "basename": "7 Express JS",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md"
+    },
+    {
       "basename": "Dziwny kalkulator",
       "path": "Dziwny kalkulator.md"
     },
@@ -51,10 +59,6 @@
     {
       "basename": "6 Age in Minute Calculator",
       "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/6 Age in Minute Calculator.md"
-    },
-    {
-      "basename": "7 Express JS",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md"
     },
     {
       "basename": "_ 0 React Mosh",
@@ -195,10 +199,6 @@
     {
       "basename": "4 Tworzenie aplikacji WPF",
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/4 Tworzenie aplikacji WPF.md"
-    },
-    {
-      "basename": "4.2 Eventy i Delegaty",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/4.2 Eventy i Delegaty.md"
     }
   ],
   "omittedPaths": [],

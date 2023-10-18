@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
+                "file": "_ WEB/N_O_D_E/NODE - the complete guide/5 Working with Express.js.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,8 +113,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dziwny kalkulator.md",
+                "file": "_ WEB/N_O_D_E/NODE - the complete guide/5 Working with Express.js.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -213,7 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dziwny kalkulator.md",
+                "file": "_ WEB/N_O_D_E/NODE - the complete guide/5 Working with Express.js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,7 +235,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dziwny kalkulator.md"
+                "file": "_ WEB/N_O_D_E/NODE - the complete guide/5 Working with Express.js.md"
               }
             }
           },
@@ -294,10 +293,11 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "a1f49571554aaca6",
+  "active": "f621f21825dbd82d",
   "lastOpenFiles": [
-    "Untitled.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
     "Dziwny kalkulator.md",
+    "Untitled.md",
     "JAVASCRIPT/Functional Programming for JS Developers/_ Functional Programming for JS Developers.md",
     "JAVASCRIPT/funkcyjnie_JS/_ JavaScript funkcyjnie.md",
     "JAVASCRIPT/Functional/7 Counter App vs2.md",
@@ -309,7 +309,6 @@
     "_ Desktop/Python/GUI/Tkinter.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin/7 Calculator.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin/6 Age in Minute Calculator.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
     "_ WEB/REACT/React Mosh/_ 0 React Mosh.md",
     "_ WEB/REACT/w3school/_ 0 w3school React.md",
     "_ WEB/REACT/w3school/_ 0 React Hooks.md",
