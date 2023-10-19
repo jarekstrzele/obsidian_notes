@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Kotlin/Spinner.md",
+                "file": "_ Desktop/Python/GUI/Tkinter/Tkinter.md",
                 "mode": "source",
                 "source": false
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Kotlin/Spinner.md",
+                "file": "_ Desktop/Python/GUI/Tkinter/Tkinter.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -213,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Kotlin/Spinner.md",
+                "file": "_ Desktop/Python/GUI/Tkinter/Tkinter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,7 +236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Kotlin/Spinner.md"
+                "file": "_ Desktop/Python/GUI/Tkinter/Tkinter.md"
               }
             }
           },
@@ -296,6 +296,10 @@
   },
   "active": "afdf83caa803ca83",
   "lastOpenFiles": [
+    "_ Desktop/Python/GUI/Tkinter/Icons, Images, Exit Button.md",
+    "_ Desktop/Python/GUI/Tkinter/modern GUIs/_ 0 Modern GUIs Python.md",
+    "_ Desktop/Python/GUI/Tkinter/from 100 Days of Code/_ Tkinter.md",
+    "_ Mobile/Kotlin/Spinner.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin/6 Age in Minute Calculator.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin/7 Calculator.md",
     "_ Mobile/REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
@@ -315,13 +319,9 @@
     "JAVASCRIPT/Functional/0- Intro functional programming (beginner udemy).md",
     "JAVASCRIPT/funkcyjnie_JS/Nowe elementy JS.md",
     "_ Desktop/Python/GUI/Tkinter/Calculator simple.md",
-    "_ Desktop/Python/GUI/Tkinter/from 100 Days of Code/_ Tkinter.md",
     "_ Desktop/Python/GUI/Tkinter.md",
     "_ WEB/REACT/w3school/_ 0 w3school React.md",
     "_ WEB/REACT/w3school/_ 0 React Hooks.md",
-    "_ WEB/REACT/React_Node_Helion/_ 0 React Node.md",
-    "_ WEB/REACT/React_Node_Helion/2 Pierwsz komponent.md",
-    "_ WEB/REACT/React 18 Tutorial and Projects Course 2023/_ The React 18 Tutorial (2023).md",
     "_ Desktop/Python/GUI/Tkinter/from 100 Days of Code",
     "_ WEB/REACT/React 18 Tutorial and Projects Course 2023",
     "_ Desktop/WPF",
