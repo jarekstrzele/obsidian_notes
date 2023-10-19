@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Desktop/Python/GUI/Tkinter/Tkinter.md",
+                "file": "_ Desktop/Python/GUI/Tkinter/Widżety proste TkInter.md",
                 "mode": "source",
                 "source": false
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Desktop/Python/GUI/Tkinter/Tkinter.md",
+                "file": "_ Desktop/Python/GUI/Tkinter/Widżety proste TkInter.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -213,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Desktop/Python/GUI/Tkinter/Tkinter.md",
+                "file": "_ Desktop/Python/GUI/Tkinter/Widżety proste TkInter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,7 +236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Desktop/Python/GUI/Tkinter/Tkinter.md"
+                "file": "_ Desktop/Python/GUI/Tkinter/Widżety proste TkInter.md"
               }
             }
           },
@@ -296,6 +296,9 @@
   },
   "active": "afdf83caa803ca83",
   "lastOpenFiles": [
+    "_ Desktop/Python/GUI/Tkinter/Tkinter Pomidoro.md",
+    "_ Desktop/Python/GUI/Tkinter/Tkinter 0.md",
+    "_ Desktop/Python/GUI/Tkinter/Tkinter.md",
     "_ Desktop/Python/GUI/Tkinter/Icons, Images, Exit Button.md",
     "_ Desktop/Python/GUI/Tkinter/modern GUIs/_ 0 Modern GUIs Python.md",
     "_ Desktop/Python/GUI/Tkinter/from 100 Days of Code/_ Tkinter.md",
@@ -319,9 +322,6 @@
     "JAVASCRIPT/Functional/0- Intro functional programming (beginner udemy).md",
     "JAVASCRIPT/funkcyjnie_JS/Nowe elementy JS.md",
     "_ Desktop/Python/GUI/Tkinter/Calculator simple.md",
-    "_ Desktop/Python/GUI/Tkinter.md",
-    "_ WEB/REACT/w3school/_ 0 w3school React.md",
-    "_ WEB/REACT/w3school/_ 0 React Hooks.md",
     "_ Desktop/Python/GUI/Tkinter/from 100 Days of Code",
     "_ WEB/REACT/React 18 Tutorial and Projects Course 2023",
     "_ Desktop/WPF",

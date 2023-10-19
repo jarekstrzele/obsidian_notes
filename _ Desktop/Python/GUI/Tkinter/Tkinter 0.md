@@ -200,14 +200,6 @@ window.mainloop()
 
 
 ```
-=======
-
-
->>>>>>> remotes/origin/master
-
-
-
-
 
 
 
