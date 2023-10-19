@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Desktop/Python/GUI/Tkinter/Widżety proste TkInter.md",
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/4.3 DataContext oraz interfejs INotifyPropertyChanged.md",
                 "mode": "source",
                 "source": false
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Desktop/Python/GUI/Tkinter/Widżety proste TkInter.md",
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/4.3 DataContext oraz interfejs INotifyPropertyChanged.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -213,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Desktop/Python/GUI/Tkinter/Widżety proste TkInter.md",
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/4.3 DataContext oraz interfejs INotifyPropertyChanged.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,7 +236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Desktop/Python/GUI/Tkinter/Widżety proste TkInter.md"
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/4.3 DataContext oraz interfejs INotifyPropertyChanged.md"
               }
             }
           },
@@ -296,6 +296,12 @@
   },
   "active": "afdf83caa803ca83",
   "lastOpenFiles": [
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/4.2 Eventy i Delegaty.md",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/4 Tworzenie aplikacji WPF.md",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/3.1 RadioButton, GroupBox, Label.md",
+    "C Sharp/Fast WFP  C Sharp/1 Grid.md",
+    "C Sharp/Fast WFP  C Sharp/_ Fast WFP C Sharp.md",
+    "_ Desktop/Python/GUI/Tkinter/Widżety proste TkInter.md",
     "_ Desktop/Python/GUI/Tkinter/Tkinter Pomidoro.md",
     "_ Desktop/Python/GUI/Tkinter/Tkinter 0.md",
     "_ Desktop/Python/GUI/Tkinter/Tkinter.md",
@@ -316,12 +322,6 @@
     "Dziwny kalkulator.md",
     "Untitled.md",
     "JAVASCRIPT/Functional Programming for JS Developers/_ Functional Programming for JS Developers.md",
-    "JAVASCRIPT/funkcyjnie_JS/_ JavaScript funkcyjnie.md",
-    "JAVASCRIPT/Functional/7 Counter App vs2.md",
-    "JAVASCRIPT/Functional/7 Counter App vs1.md",
-    "JAVASCRIPT/Functional/0- Intro functional programming (beginner udemy).md",
-    "JAVASCRIPT/funkcyjnie_JS/Nowe elementy JS.md",
-    "_ Desktop/Python/GUI/Tkinter/Calculator simple.md",
     "_ Desktop/Python/GUI/Tkinter/from 100 Days of Code",
     "_ WEB/REACT/React 18 Tutorial and Projects Course 2023",
     "_ Desktop/WPF",
