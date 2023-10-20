@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "4.3 DataContext oraz interfejs INotifyPropertyChanged",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/4.3 DataContext oraz interfejs INotifyPropertyChanged.md"
+      "basename": "1.5 Polimorfizm i rzutowanie",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.5 Polimorfizm i rzutowanie.md"
     },
     {
-      "basename": "4.2 Eventy i Delegaty",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/4.2 Eventy i Delegaty.md"
+      "basename": "1.4 Dziedziczenie",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.4 Dziedziczenie.md"
+    },
+    {
+      "basename": "4.1 Binding",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/4.1 Binding.md"
     },
     {
       "basename": "4 Tworzenie aplikacji WPF",
@@ -15,6 +19,30 @@
     {
       "basename": "3.1 RadioButton, GroupBox, Label",
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/3.1 RadioButton, GroupBox, Label.md"
+    },
+    {
+      "basename": "2 Aplikacje WPF",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/2 Aplikacje WPF.md"
+    },
+    {
+      "basename": "1.1 Konstruktory",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.1 Konstruktory.md"
+    },
+    {
+      "basename": "1 OOP w CSharp",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md"
+    },
+    {
+      "basename": "1.3 Klasy zagnieżdżone",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.3 Klasy zagnieżdżone.md"
+    },
+    {
+      "basename": "4.3 DataContext oraz interfejs INotifyPropertyChanged",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/4.3 DataContext oraz interfejs INotifyPropertyChanged.md"
+    },
+    {
+      "basename": "4.2 Eventy i Delegaty",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/4.2 Eventy i Delegaty.md"
     },
     {
       "basename": "1 Grid",
@@ -161,22 +189,6 @@
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/6 Zewnętrzne moduły.md"
     },
     {
-      "basename": "1.5 Polimorfizm i rzutowanie",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.5 Polimorfizm i rzutowanie.md"
-    },
-    {
-      "basename": "1.4 Dziedziczenie",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.4 Dziedziczenie.md"
-    },
-    {
-      "basename": "1.3 Klasy zagnieżdżone",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.3 Klasy zagnieżdżone.md"
-    },
-    {
-      "basename": "1 OOP w CSharp",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md"
-    },
-    {
       "basename": "1 Working with Content",
       "path": "_ Mobile/REACT NATIVE/The Complete React NativePlusHooks/1 Working with Content.md"
     },
@@ -185,20 +197,8 @@
       "path": "_ Mobile/Kotlin/DatePicker Dialog.md"
     },
     {
-      "basename": "4.1 Binding",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/4.1 Binding.md"
-    },
-    {
-      "basename": "2 Aplikacje WPF",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/2 Aplikacje WPF.md"
-    },
-    {
       "basename": "Funkcje lambda",
       "path": "_ Mobile/Kotlin/Funkcje lambda.md"
-    },
-    {
-      "basename": "Alien Form",
-      "path": "_ Desktop/WPF/Alien Form.md"
     }
   ],
   "omittedPaths": [],
