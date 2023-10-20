@@ -9,6 +9,22 @@
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.4 Dziedziczenie.md"
     },
     {
+      "basename": "1.3 Klasy zagnieżdżone",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.3 Klasy zagnieżdżone.md"
+    },
+    {
+      "basename": "1.2 Metody i Właściwości",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.2 Metody i Właściwości.md"
+    },
+    {
+      "basename": "1.1 Konstruktory",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.1 Konstruktory.md"
+    },
+    {
+      "basename": "1 OOP w CSharp",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md"
+    },
+    {
       "basename": "4.1 Binding",
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/4.1 Binding.md"
     },
@@ -23,18 +39,6 @@
     {
       "basename": "2 Aplikacje WPF",
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/2 Aplikacje WPF.md"
-    },
-    {
-      "basename": "1.1 Konstruktory",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.1 Konstruktory.md"
-    },
-    {
-      "basename": "1 OOP w CSharp",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md"
-    },
-    {
-      "basename": "1.3 Klasy zagnieżdżone",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.3 Klasy zagnieżdżone.md"
     },
     {
       "basename": "4.3 DataContext oraz interfejs INotifyPropertyChanged",
@@ -195,10 +199,6 @@
     {
       "basename": "DatePicker Dialog",
       "path": "_ Mobile/Kotlin/DatePicker Dialog.md"
-    },
-    {
-      "basename": "Funkcje lambda",
-      "path": "_ Mobile/Kotlin/Funkcje lambda.md"
     }
   ],
   "omittedPaths": [],
