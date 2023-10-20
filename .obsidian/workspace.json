@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dziwny kalkulator.md",
+                "file": "_ Desktop/Python/GUI/Tkinter/Tkinter 0.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -198,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
+                "file": "_ Desktop/Python/GUI/Tkinter/Tkinter 0.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -215,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
+                "file": "_ Desktop/Python/GUI/Tkinter/Tkinter 0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md"
+                "file": "_ Desktop/Python/GUI/Tkinter/Tkinter 0.md"
               }
             }
           },
@@ -296,8 +296,11 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "e90c537356e24754",
+  "active": "a1f49571554aaca6",
   "lastOpenFiles": [
+    "_ Desktop/Python/GUI/Tkinter/Tkinter.md",
+    "Dziwny kalkulator.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.5 Polimorfizm i rzutowanie.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.4 Dziedziczenie.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.3 Klasy zagnieżdżone.md",
@@ -315,15 +318,12 @@
     "_ Desktop/Python/GUI/Tkinter/Widżety proste TkInter.md",
     "_ Desktop/Python/GUI/Tkinter/Tkinter Pomidoro.md",
     "_ Desktop/Python/GUI/Tkinter/Tkinter 0.md",
-    "_ Desktop/Python/GUI/Tkinter/Tkinter.md",
     "_ Desktop/Python/GUI/Tkinter/Icons, Images, Exit Button.md",
     "_ Desktop/Python/GUI/Tkinter/modern GUIs/_ 0 Modern GUIs Python.md",
     "_ Desktop/Python/GUI/Tkinter/from 100 Days of Code/_ Tkinter.md",
     "_ Mobile/Kotlin/Spinner.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin/6 Age in Minute Calculator.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin/7 Calculator.md",
-    "_ Mobile/REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md",
-    "_ Mobile/REACT NATIVE/Master React Native Funds/_ 0 start React Native.md",
     "_ Desktop/Python/GUI/Tkinter/from 100 Days of Code",
     "_ WEB/REACT/React 18 Tutorial and Projects Course 2023",
     "_ Desktop/WPF",
