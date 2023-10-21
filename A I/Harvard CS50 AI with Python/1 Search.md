@@ -74,14 +74,16 @@
 
 **stack**
 last-in first-out data type
-
 >[!info] Depth-First Search
 >if the frontier is a stack
 >search algorithm that always expands the deepest node in the frontier
 
 
->[!info] Breadth
-
+**queue**
+first-in first-out data type
+>[!info] Breadth-FIrst Search
+> if the frontier is a queue
+> search algorithm that always expands the shallowest node in the frontier
 
 
 
