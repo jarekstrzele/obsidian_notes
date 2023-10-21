@@ -23,7 +23,23 @@
 
 >[!info] transition model
 >a description of what state results from performing any applicable action in any state
->`result`
+>`result(s,a)` returns the state resulting from perfoming action `a` in state `s`
+
+
+>[!info] state space
+>the set of all states reachable from the initial state by any sequence of actions
+
+
+>[!info] goal test
+>way to determine whether a given state is a goal state
+
+>[!info] path cost
+>numerical cost associated with a given path
+
+>[!info] SOLUTION
+>a sequence of actions that leads from the initial state to a goal state
+
+>[!inf]
 
 
 
