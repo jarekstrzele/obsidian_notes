@@ -52,7 +52,13 @@
 
 
 
-
+# Approach
+- start with a frontier that contains the initial state
+- repeat:
+	- if the frontier is empty, then no solution
+	- remove a node from the frontier 
+	- if node contains goal state, return the solution
+	- otherwise expand node, add resulting nodes to the frontier
 
 
 
