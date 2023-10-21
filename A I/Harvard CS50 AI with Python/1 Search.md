@@ -62,6 +62,25 @@
 
 
 
+# Revised Approach
+- start with a frontier that contains the initial state
+- **start with an empty explored set**
+- repeat:
+	- if the frontier is empty, then no solution
+	- remove a node from the frontier 
+	- if node contains goal state, return the solution
+	- **add the node to the explored set**
+	- expand node, add resulting nodes to the frontier if they aren't already in the frontier or the explored set
+
+**stack**
+last-in first-out data type
+
+>[!info] Depth-First Search
+>if the frontier is a stack
+>search algorithm that always expands the deepest node in the frontier
+
+
+>[!info] Breadth
 
 
 
