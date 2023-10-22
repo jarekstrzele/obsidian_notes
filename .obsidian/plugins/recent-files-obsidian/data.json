@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "1.6 Klasy abstrakcyjne",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.6 Klasy abstrakcyjne.md"
+    },
+    {
       "basename": "1.4. FlatList",
       "path": "_ Mobile/REACT NATIVE/React Native Practical Guide/1.4. FlatList.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_ Functional Programming for JS Developers",
       "path": "JAVASCRIPT/Functional Programming for JS Developers/_ Functional Programming for JS Developers.md"
-    },
-    {
-      "basename": "_ JavaScript funkcyjnie",
-      "path": "JAVASCRIPT/funkcyjnie_JS/_ JavaScript funkcyjnie.md"
     }
   ],
   "omittedPaths": [],
