@@ -72,6 +72,12 @@
 	- **add the node to the explored set**
 	- expand node, add resulting nodes to the frontier if they aren't already in the frontier or the explored set
 
+
+----
+# Uninformed search: `DFS`, `BFS`
+>[!info] uninformed search
+>search strategy that uses no problem specific knowledge
+
 **stack**
 last-in first-out data type
 >[!info] Depth-First Search
@@ -84,6 +90,16 @@ first-in first-out data type
 >[!info] Breadth-FIrst Search
 > if the frontier is a queue
 > search algorithm that always expands the shallowest node in the frontier
+
+------
+
+# Informed search
+> it is a search strategy that uses problem-specific knowledge to find solutions more effeciently
+
+
+## greedy best-first search
+> search algorithm that expands the node that is closest to the goal, as estimated by a heuristic function `h(n)`
+
 
 
 
