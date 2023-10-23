@@ -8,7 +8,7 @@
 [[1.4 Dziedziczenie]]
 [[1.5 Polimorfizm i rzutowanie]]
 [[1.6 Klasy abstrakcyjne]]
-[[1.6 Interfejsy]]
+[[1.7 Interfejsy]]
 
 
 
