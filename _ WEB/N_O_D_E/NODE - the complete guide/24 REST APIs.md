@@ -52,7 +52,18 @@ Requests would be sent from the client through, when working in the browser thro
 			1. request + 
 			2. response data structure
 2. Stateless Interactions
-	1. server and client don't store any connection history, every reques
+	1. server and client don't store any connection history, every request is handled separately
+-----------------
+3. Cacheable
+	1. servers may set caching headers to allow the client to cache responses
+4. Client-Server
+	1. server and client are separated, client is not concerned with persistent data storage
+5. Layered System
+	1. server may forward requests to other APIs
+6. Code on Demand
+	1. Executable code may be transferred from server to client
+
+
 
 
 
