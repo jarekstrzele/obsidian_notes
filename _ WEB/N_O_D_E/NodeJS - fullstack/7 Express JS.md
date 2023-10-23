@@ -481,8 +481,74 @@ więc pod adresem `/images` będę mógł ogląć zawartość katalogu
 - używając `get` dany wysyłamy w *query string*, ale używając innych metod (`put`, `post`) w body przesyłamy odpowiednie dane
 
 
+## `someList.every()`
+```js
+let a = [10,20,30,40]
+undefined
+a.every((number)=> number > 9)
+true
+a.every((number)=> number > 19)
+false
+a.every((number)=> {
+    if (number > 20) { 
+        num = number
+        return false ;
+    }
+    return true;
+    
+})
+false
+num 
+30
+```
 
-	 
+
+## `Object.assign(oldObject, newDataToOldObject)`
+```js
+user = {
+  id: 1,
+  name: "John",
+  age: 30
+};
+
+userData = {
+  name: "Alice",
+  age: 25
+};
+{name: 'Alice', age: 25}
+Object.assign(user, userData)
+{id: 1, name: 'Alice', age: 25}
+user 
+{id: 1, name: 'Alice', age: 25}
+user = {
+  id: 1,
+  name: "John",
+  age: 30
+};
+
+userData = {
+  name: "Alice",
+  age: 25
+};
+{name: 'Alice', age: 25}
+user
+{id: 1, name: 'John', age: 30}
+Object.assign(userData, user)
+{name: 'John', age: 30, id: 1}
+user 
+{id: 1, name: 'John', age: 30}
+userData
+{name: 'John', age: 30, id: 1}
+```
+
+
+
+
+
+
+
+
+
 
 
 
