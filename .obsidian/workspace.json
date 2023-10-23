@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8c60a88e65c853e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_ WEB/N_O_D_E/NODE - the complete guide/24 REST APIs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3f83dc02f0251aec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "24.1 Create Rest API.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -101,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ WEB/N_O_D_E/Mosh Node/3.1.1. Recap Building RestFul APIS with Express.md",
+                "file": "24.1 Create Rest API.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -118,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ WEB/N_O_D_E/Mosh Node/3.1.1. Recap Building RestFul APIS with Express.md",
+                "file": "24.1 Create Rest API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ WEB/N_O_D_E/Mosh Node/3.1.1. Recap Building RestFul APIS with Express.md"
+                "file": "24.1 Create Rest API.md"
               }
             }
           },
@@ -199,15 +224,16 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "ef44a23fc6c88849",
+  "active": "3f83dc02f0251aec",
   "lastOpenFiles": [
+    "_ WEB/N_O_D_E/NODE - the complete guide/24 REST APIs.md",
+    "24.1 Create Rest API.md",
+    "_ WEB/N_O_D_E/Mosh Node/3.1.1. Recap Building RestFul APIS with Express.md",
     "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
     "_ WEB/N_O_D_E/Mosh Node/3 RESTful API's using Express.md",
-    "_ WEB/N_O_D_E/Mosh Node/3.1.1. Recap Building RestFul APIS with Express.md",
     "_ WEB/N_O_D_E/Node JS 101 Crash/3 Observer design pattern.md",
     "_ WEB/N_O_D_E/Node JS 101 Crash/7 Project.md",
     "_ WEB/N_O_D_E/Node JS 101 Crash/6.the Node Package Manager.md",
-    "_ WEB/N_O_D_E/NODE - the complete guide/24 REST APIs.md",
     "_ WEB/N_O_D_E/NODE - the complete guide/3 Node Basics.md",
     "_ WEB/N_O_D_E/NODE - the complete guide/_0 Node Complete Guide.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
@@ -226,7 +252,6 @@
     "_ Mobile/REACT NATIVE/React Native Practical Guide/1 React Native Basics.md",
     "_ Mobile/REACT NATIVE/The Complete React NativePlusHooks/_ 0 Complete React Native.md",
     "_ Mobile/REACT NATIVE/React Native Practical Guide/1.6 Press to Delete and Style it.md",
-    "_ Mobile/REACT NATIVE/React Native Practical Guide/1.5. Splitting Components into Smaller Components.md",
     "A I/Harvard CS50 AI with Python",
     "_ Desktop/Python/GUI/Tkinter/from 100 Days of Code",
     "_ WEB/REACT/React 18 Tutorial and Projects Course 2023",

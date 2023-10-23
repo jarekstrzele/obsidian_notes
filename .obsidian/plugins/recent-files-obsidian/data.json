@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "24.1 Create Rest API",
+      "path": "24.1 Create Rest API.md"
+    },
+    {
+      "basename": "24 REST APIs",
+      "path": "_ WEB/N_O_D_E/NODE - the complete guide/24 REST APIs.md"
+    },
+    {
       "basename": "3.1.1. Recap Building RestFul APIS with Express",
       "path": "_ WEB/N_O_D_E/Mosh Node/3.1.1. Recap Building RestFul APIS with Express.md"
     },
@@ -23,10 +31,6 @@
     {
       "basename": "6.the Node Package Manager",
       "path": "_ WEB/N_O_D_E/Node JS 101 Crash/6.the Node Package Manager.md"
-    },
-    {
-      "basename": "24 REST APIs",
-      "path": "_ WEB/N_O_D_E/NODE - the complete guide/24 REST APIs.md"
     },
     {
       "basename": "3 Node Basics",
@@ -195,10 +199,6 @@
     {
       "basename": "_ Fast WFP C Sharp",
       "path": "C Sharp/Fast WFP  C Sharp/_ Fast WFP C Sharp.md"
-    },
-    {
-      "basename": "Widżety proste TkInter",
-      "path": "_ Desktop/Python/GUI/Tkinter/Widżety proste TkInter.md"
     }
   ],
   "omittedPaths": [],
