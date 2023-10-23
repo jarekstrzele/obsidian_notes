@@ -4,124 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e26d93a4cc221b8e",
+        "id": "7fa1616e7109edbf",
         "type": "tabs",
         "children": [
           {
-            "id": "ce6fa69f08ec2bf2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.6 CheckBox.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "afdf83caa803ca83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.5 Polimorfizm i rzutowanie.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e90c537356e24754",
+            "id": "ef44a23fc6c88849",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a1f49571554aaca6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A I/Harvard CS50 AI with Python/3 Uncertainty.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eb5e9e18a6212cf3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A I/Harvard CS50 AI with Python/1 Search.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f74bfa99b81f305d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_ Desktop/Python/GUI/Tkinter/Tkinter.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3fe8ddf3c8fac9e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_ Desktop/Python/GUI/Tkinter/Tkinter 0.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7818f23a3738adc1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_ Mobile/REACT NATIVE/The Complete React NativePlusHooks/1 Working with Content.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9dc87509b3333f4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.5 Polimorfizm i rzutowanie.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7690eed7f5f68866",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.4 Dziedziczenie.md",
                 "mode": "source",
                 "source": false
               }
@@ -209,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.6 CheckBox.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -226,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.6 CheckBox.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.6 CheckBox.md"
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md"
               }
             }
           },
@@ -307,8 +199,11 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "ce6fa69f08ec2bf2",
+  "active": "ef44a23fc6c88849",
   "lastOpenFiles": [
+    "_ Mobile/Kotlin/the complete Android Kotlin/8.6 CheckBox.md",
+    "_ Mobile/REACT NATIVE/The Complete React NativePlusHooks/1 Working with Content.md",
+    "_ Desktop/Python/GUI/Tkinter/Tkinter 0.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/8.6 RadioButton.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin/6 Age in Minute Calculator.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin/7 Calculator.md",
@@ -319,7 +214,6 @@
     "_ Mobile/REACT NATIVE/React Native Practical Guide/1.3. Scrolling.md",
     "_ Mobile/REACT NATIVE/React Native Practical Guide/1.2. Handling Events.md",
     "_ Mobile/REACT NATIVE/React Native Practical Guide/1 React Native Basics.md",
-    "_ Mobile/REACT NATIVE/The Complete React NativePlusHooks/1 Working with Content.md",
     "_ Mobile/REACT NATIVE/The Complete React NativePlusHooks/_ 0 Complete React Native.md",
     "_ Mobile/REACT NATIVE/React Native Practical Guide/1.6 Press to Delete and Style it.md",
     "_ Mobile/REACT NATIVE/React Native Practical Guide/1.5. Splitting Components into Smaller Components.md",
@@ -331,11 +225,9 @@
     "A I/Harvard CS50 AI with Python/5 Learning.md",
     "A I/Harvard CS50 AI with Python/6 Neural Networks.md",
     "A I/Harvard CS50 AI with Python/7 Language.md",
-    "_ Desktop/Python/GUI/Tkinter/Tkinter 0.md",
     "A I/Harvard CS50 AI with Python",
     "_ Desktop/Python/GUI/Tkinter/Tkinter.md",
     "Dziwny kalkulator.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
     "_ Desktop/Python/GUI/Tkinter/from 100 Days of Code",
     "_ WEB/REACT/React 18 Tutorial and Projects Course 2023",
     "_ Desktop/WPF",
