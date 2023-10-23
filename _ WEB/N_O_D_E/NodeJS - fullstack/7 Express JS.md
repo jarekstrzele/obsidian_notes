@@ -542,6 +542,19 @@ userData
 ```
 
 
+### `splice(index, howManyElements)`
+```js
+let zabawki = ["samochodzik", "klocki lego", "iPhone", "piłka"]
+undefined
+let index = zabawki.indexOf("iPhone")
+undefined
+index 
+2
+zabawki.splice(index, 1)
+['iPhone']
+zabawki
+ ['samochodzik', 'klocki lego', 'piłka']
+```
 
 
 
