@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "24 REST APIs",
+      "path": "_ WEB/N_O_D_E/NODE - the complete guide/24 REST APIs.md"
+    },
+    {
+      "basename": "3 Node Basics",
+      "path": "_ WEB/N_O_D_E/NODE - the complete guide/3 Node Basics.md"
+    },
+    {
+      "basename": "_0 Node Complete Guide",
+      "path": "_ WEB/N_O_D_E/NODE - the complete guide/_0 Node Complete Guide.md"
+    },
+    {
       "basename": "7 Express JS",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "_ 0 React Native - Practical Guide",
       "path": "_ Mobile/REACT NATIVE/React Native Practical Guide/_ 0 React Native - Practical Guide.md"
-    },
-    {
-      "basename": "_ 0 start React Native",
-      "path": "_ Mobile/REACT NATIVE/Master React Native Funds/_ 0 start React Native.md"
-    },
-    {
-      "basename": "_ 0 React Mosh",
-      "path": "_ WEB/REACT/React Mosh/_ 0 React Mosh.md"
-    },
-    {
-      "basename": "3 Components",
-      "path": "_ WEB/REACT/React Mosh/3 Components.md"
     }
   ],
   "omittedPaths": [],
