@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "1 OOP w CSharp",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md"
+    },
+    {
+      "basename": "1.6 Interfejsy",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.6 Interfejsy.md"
+    },
+    {
       "basename": "1.6 Klasy abstrakcyjne",
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.6 Klasy abstrakcyjne.md"
     },
@@ -109,10 +117,6 @@
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.1 Konstruktory.md"
     },
     {
-      "basename": "1 OOP w CSharp",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md"
-    },
-    {
       "basename": "4.1 Binding",
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/4.1 Binding.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Untitled",
       "path": "Untitled.md"
-    },
-    {
-      "basename": "_ Functional Programming for JS Developers",
-      "path": "JAVASCRIPT/Functional Programming for JS Developers/_ Functional Programming for JS Developers.md"
     }
   ],
   "omittedPaths": [],

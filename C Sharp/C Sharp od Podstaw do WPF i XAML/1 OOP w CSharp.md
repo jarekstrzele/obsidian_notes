@@ -3,14 +3,17 @@
 
 -----
 [[1.1 Konstruktory]]
-
-
-
-
+[[1.2 Metody i Właściwości]]
+[[1.3 Klasy zagnieżdżone]]
+[[1.4 Dziedziczenie]]
+[[1.5 Polimorfizm i rzutowanie]]
+[[1.6 Klasy abstrakcyjne]]
+[[1.6 Interfejsy]]
 
 
 
 ---------------
+
 
 # Wstęp
 
@@ -42,22 +45,4 @@ class Czlowiek
     }
 }
 ```
-
-
----
-
---------
-
-
-
-# Klasy i metody abstrakcyjne
-
-
-
-
-
-
-
-
-
 
