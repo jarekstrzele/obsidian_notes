@@ -476,6 +476,10 @@ więc pod adresem `/images` będę mógł ogląć zawartość katalogu
 # REST API
 #restapi 
 
+### ` npm i body-parser --save`  (to jest middleware)
+- musimy doinstalować, aby wysyłać w body zapytania dodatkowe informacje
+- używając `get` dany wysyłamy w *query string*, ale używając innych metod (`put`, `post`) w body przesyłamy odpowiednie dane
+
 
 
 	 
