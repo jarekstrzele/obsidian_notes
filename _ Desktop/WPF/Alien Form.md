@@ -153,7 +153,30 @@ DateTime? selectedDate = dateAttack.SelectedDate;
 string dateAttactString = selectedDate.HasValue ? selectedDate.ToString() : "brak daty"; //.
 ```
 
+----------
+# Expander
+```xml
+ <Expander Header="Kliknij, aby rozwijać/zawijać">
+     <Border BorderBrush="Black" BorderThickness="1">
+         <StackPanel>
+             <TextBlock Margin="50">
+         To jest zawartość rozkładanego panelu.
+             </TextBlock>
+             <TextBlock Margin="50">
+         Nowa treść
+             </TextBlock>
+         </StackPanel>
+     </Border>
+ </Expander>
+```
 
+
+
+
+
+
+
+-----
 
 
 # cały kod z bezpośrednim zapisywaniem do pliku
