@@ -156,62 +156,122 @@ string dateAttactString = selectedDate.HasValue ? selectedDate.ToString() : "bra
 
 
 
-# cały kod
+# cały kod z bezpośrednim zapisywaniem do pliku
 ```c#
-private void ZapiszDoPlikuButton_Click(object sender, RoutedEventArgs e)
+using System;
+using System.Collections.Generic;
+using System.IO;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows;
+using System.Windows.Controls;
+using System.Windows.Data;
+using System.Windows.Documents;
+using System.Windows.Input;
+using System.Windows.Media;
+using System.Windows.Media.Imaging;
+using System.Windows.Navigation;
+using System.Windows.Shapes;
+using static System.Net.Mime.MediaTypeNames;
+using System.Xml.Linq;
+using Microsoft.Win32; // Dodaj odpowiednie using dla OpenFileDialog i SaveFileDialog
+
+
+namespace Kwestiorariusz_ufoludka
 {
-    try
-	    {
-        string documentsPath = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
-        string fileName = "_MOJ_plik.txt";
-
-        //string aDocumentsSubFolderPath = System.IO.Path.Combine(documentsPath, "aSubFodler");
-        string downloadsPath = Environment.GetFolderPath(Environment.SpecialFolder.UserProfile) + "\\Downloads";
-        string fullFilePath = System.IO.Path.Combine(downloadsPath, fileName);
-
-        //ComboBox:
-        string cBxText = ((ComboBoxItem)cBx.SelectedItem).Content.ToString();
-
-        //RadioButton
-        bool idRBtn1 = rBtn1.IsChecked.Value; //true, false
-        string idRbtnContent = rBtn1.Content.ToString();
-
-        //CheckBox and Lable
-        string checkBox = lblData.Content.ToString() + " " + chBx.IsChecked;
-
-
-        //Slider
-        string sliderValue = slider.Value.ToString();
-
-        // DatePicker
-        DateTime? selectedDate = dateAttack.SelectedDate;
-        //string dateAttactString = selectedDate.Value.ToString();
-        string dateAttactString = selectedDate.HasValue ? selectedDate.ToString() : "brak daty"; //.ToString("yyyy-MM-dd");
-        
-        //Password
-        string psw = passwordBox.Password.ToString();
-
-
-        string textToWrite = $"tekst: {tBx.Text} \nComboBox: {cBxText}" +
-            $"                 \nrBtn1: {idRBtn1}, {idRbtnContent} " +
-            $"                 \ncheckBox: {checkBox}" +
-            $"                 \nSLider: {sliderValue}" +
-            $"                 \nData Ataku na Ziemię: {dateAttactString}" +
-            $"                 \ntajne hasło: {psw}";
-
-        File.WriteAllText(fullFilePath, textToWrite);
-
-        MessageBox.Show($"Dane zostały zapisane w {fullFilePath}");
-    }
-    catch (Exception ex)
+    /// <summary>
+    /// Interaction logic for MainWindow.xaml
+    /// </summary>
+    public partial class MainWindow : Window
     {
-        MessageBox.Show($"Wystąpił błąd: {ex.Message}");
+        public MainWindow()
+        {
+            InitializeComponent();
+        }
+
+
+
+        private void ZapiszDoPlikuButton_Click(object sender, RoutedEventArgs e)
+        {
+            try
+            {
+
+                
+                string documentsPath = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
+                string fileName = "_MOJ_plik.txt";
+
+                //string aDocumentsSubFolderPath = System.IO.Path.Combine(documentsPath, "aSubFodler");
+                string downloadsPath = Environment.GetFolderPath(Environment.SpecialFolder.UserProfile) + "\\Downloads";
+                string fullFilePath = System.IO.Path.Combine(downloadsPath, fileName);
+
+                //ComboBox:
+                string cBxText = ((ComboBoxItem)cBx.SelectedItem).Content.ToString();
+
+                //RadioButton Porwanie
+                string idRbtnContent = pobierzDaneZRadioButtonOPorwaniu();
+               
+
+
+                //CheckBox and Lable
+                string checkBox = lblData.Content.ToString() + " " + chBx.IsChecked;
+
+
+                //Slider
+                string sliderValue = slider.Value.ToString();
+
+                // DatePicker
+                DateTime? selectedDate = dateAttack.SelectedDate;
+                //string dateAttactString = selectedDate.Value.ToString();
+                string dateAttactString = selectedDate.HasValue ? selectedDate.ToString() : "brak daty"; //.ToString("yyyy-MM-dd");
+                
+                //Password
+                string psw = passwordBox.Password.ToString();
+
+
+                string textToWrite = $"tekst: {tBx.Text} \nComboBox: {cBxText}" +
+                    $"                 \nrRodzaj porwania: {idRbtnContent} " +
+                    $"                 \ncheckBox: {checkBox}" +
+                    $"                 \nSLider: {sliderValue}" +
+                    $"                 \nData Ataku na Ziemię: {dateAttactString}" +
+                    $"                 \ntajne hasło: {psw}";
+
+                File.WriteAllText(fullFilePath, textToWrite);
+
+                MessageBox.Show($"Dane zostały zapisane w {fullFilePath}");
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show($"Wystąpił błąd: {ex.Message}");
+            }
+           
+        }
+
+        private string pobierzDaneZRadioButtonOPorwaniu()
+        {
+            string wybranyElement = "Nie wybrano";
+            if (rBtn1.IsChecked == true)
+            {
+                wybranyElement = rBtn1.Content.ToString();
+            }
+            else if (rBtn2.IsChecked == true)
+            {
+                wybranyElement = rBtn2.Content.ToString();
+            }
+            else if(rBtn3.IsChecked == true)
+            {
+                wybranyElement = rBtn3.Content.ToString();
+            }
+            return wybranyElement;
+        }
     }
-   
 }
+
+
 ```
 
 
+# cały kod z wyborem pliku
 
 
 
