@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Wyświeltanie info",
+      "path": "_ Desktop/WPF/Wyświeltanie info.md"
+    },
+    {
       "basename": "Alien Form",
       "path": "_ Desktop/WPF/Alien Form.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "3.1 RadioButton, GroupBox, Label",
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/3.1 RadioButton, GroupBox, Label.md"
-    },
-    {
-      "basename": "2 Aplikacje WPF",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/2 Aplikacje WPF.md"
     }
   ],
   "omittedPaths": [],

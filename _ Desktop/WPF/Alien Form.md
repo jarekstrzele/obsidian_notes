@@ -305,9 +305,163 @@ namespace Kwestiorariusz_ufoludka
 
 # cały kod z wyborem pliku
 
+zapisywanie do pliku przez okno dialogowe
+```c#
+using Microsoft.Win32; // Dodaj odpowiednie using dla OpenFileDialog i SaveFileDialog
+
+private void SaveButton_Click(object sender, RoutedEventArgs e)
+{
+    // Utwórz okno dialogowe do wyboru miejsca i nazwy pliku
+    SaveFileDialog saveFileDialog = new SaveFileDialog();
+    saveFileDialog.Filter = "Pliki tekstowe (*.txt)|*.txt";
+    saveFileDialog.DefaultExt = "txt";
+    saveFileDialog.Title = "Zapisz plik";
+
+    // Wyświetl okno dialogowe
+    bool? result = saveFileDialog.ShowDialog();
+
+    // Jeśli użytkownik wybrał miejsce i nazwę pliku i kliknął "Zapisz"
+    if (result == true)
+    {
+        // Pobierz ścieżkę do wybranego pliku
+        string filePath = saveFileDialog.FileName;
+
+        // Tutaj można pobrać dane, które chcesz zapisać do pliku
+        // Na przykład:
+        string dataToSave = "To jest przykładowy tekst do zapisania.";
+
+        // Zapisz dane do wybranego pliku
+        System.IO.File.WriteAllText(filePath, dataToSave);
+    }
+}
 
 
+```
 
+teraz cały wformularz z tym oknem dialogowym
+```c#
+using System;
+using System.Collections.Generic;
+using System.IO;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows;
+using System.Windows.Controls;
+using System.Windows.Data;
+using System.Windows.Documents;
+using System.Windows.Input;
+using System.Windows.Media;
+using System.Windows.Media.Imaging;
+using System.Windows.Navigation;
+using System.Windows.Shapes;
+using static System.Net.Mime.MediaTypeNames;
+using System.Xml.Linq;
+using Microsoft.Win32; // Dodaj odpowiednie using dla OpenFileDialog i SaveFileDialog
+
+
+namespace Kwestiorariusz_ufoludka
+{
+    /// <summary>
+    /// Interaction logic for MainWindow.xaml
+    /// </summary>
+    public partial class MainWindow : Window
+    {
+        public MainWindow()
+        {
+            InitializeComponent();
+        }
+
+
+        private void ZapiszDoPlikuButton_Click(object sender, RoutedEventArgs e)
+        {
+            // Utwórz okno dialogowe do wyboru miejsca i nazwy pliku
+            SaveFileDialog saveFileDialog = new SaveFileDialog();
+            saveFileDialog.Filter = "Pliki tekstowe (*.txt)|*.txt";
+            saveFileDialog.DefaultExt = "txt";
+            saveFileDialog.Title = "Zapisz plik";
+
+            // Wyświetl okno dialogowe
+            bool? result = saveFileDialog.ShowDialog();
+
+            // Jeśli użytkownik wybrał miejsce i nazwę pliku i kliknął "Zapisz"
+            if (result == true)
+            {
+                // Pobierz ścieżkę do wybranego pliku
+                string filePath = saveFileDialog.FileName;
+
+                // Tutaj można pobrać dane, które chcesz zapisać do pliku
+                // Na przykład:
+                string dataToSave = daneDoZapisu();
+;
+
+                // Zapisz dane do wybranego pliku
+                System.IO.File.WriteAllText(filePath, dataToSave);
+            }
+        }
+
+        private string daneDoZapisu()
+        {
+                string documentsPath = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
+                string fileName = "_MOJ_plik.txt";
+
+                //string aDocumentsSubFolderPath = System.IO.Path.Combine(documentsPath, "aSubFodler");
+                string downloadsPath = Environment.GetFolderPath(Environment.SpecialFolder.UserProfile) + "\\Downloads";
+                string fullFilePath = System.IO.Path.Combine(downloadsPath, fileName);
+
+                //ComboBox:
+                string cBxText = ((ComboBoxItem)cBx.SelectedItem).Content.ToString();
+
+                //RadioButton Porwanie
+                string idRbtnContent = pobierzDaneZRadioButtonOPorwaniu();
+            
+                //CheckBox and Lable
+                string checkBox = lblData.Content.ToString() + " " + chBx.IsChecked;
+
+                //Slider
+                string sliderValue = slider.Value.ToString();
+
+                // DatePicker
+                DateTime? selectedDate = dateAttack.SelectedDate;
+                //string dateAttactString = selectedDate.Value.ToString();
+                string dateAttactString = selectedDate.HasValue ? selectedDate.ToString() : "nie wybrano daty"; //.ToString("yyyy-MM-dd");
+                
+                //Password
+                string psw = passwordBox.Password.ToString();
+
+                string textToWrite = $"tekst: {tBx.Text} \nComboBox: {cBxText}" +
+                    $"                 \nrRodzaj porwania: {idRbtnContent} " +
+                    $"                 \ncheckBox: {checkBox}" +
+                    $"                 \nSLider: {sliderValue}" +
+                    $"                 \nData Ataku na Ziemię: {dateAttactString}" +
+                    $"                 \ntajne hasło: {psw}";
+
+            return textToWrite;
+
+        }
+
+        private string pobierzDaneZRadioButtonOPorwaniu()
+        {
+            string wybranyElement = "Nie wybrano";
+            if (rBtn1.IsChecked == true)
+            {
+                wybranyElement = rBtn1.Content.ToString();
+            }
+            else if (rBtn2.IsChecked == true)
+            {
+                wybranyElement = rBtn2.Content.ToString();
+            }
+            else if(rBtn3.IsChecked == true)
+            {
+                wybranyElement = rBtn3.Content.ToString();
+            }
+            return wybranyElement;
+        }
+    }
+}
+
+
+```
 
 
 
