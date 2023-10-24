@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "_ WPF",
+      "path": "_ Desktop/WPF/CSharp WPF xaml youtube/_ WPF.md"
+    },
+    {
       "basename": "1 Grid",
       "path": "C Sharp/Fast WFP  C Sharp/1 Grid.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2 Aplikacje WPF",
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/2 Aplikacje WPF.md"
-    },
-    {
-      "basename": "4.3 DataContext oraz interfejs INotifyPropertyChanged",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/4.3 DataContext oraz interfejs INotifyPropertyChanged.md"
     }
   ],
   "omittedPaths": [],
