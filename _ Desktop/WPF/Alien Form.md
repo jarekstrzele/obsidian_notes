@@ -157,12 +157,21 @@ string dateAttactString = selectedDate.HasValue ? selectedDate.ToString() : "bra
 # Expander
 ```xml
  <Expander Header="Kliknij, aby rozwijać/zawijać">
+     <TextBlock Margin="5">
+         Nowa treść
+     </TextBlock>
+ </Expander>
+
+```
+
+```xml
+ <Expander Header="Kliknij, aby rozwijać/zawijać">
      <Border BorderBrush="Black" BorderThickness="1">
          <StackPanel>
-             <TextBlock Margin="50">
+             <TextBlock Margin="5">
          To jest zawartość rozkładanego panelu.
              </TextBlock>
-             <TextBlock Margin="50">
+             <TextBlock Margin="5">
          Nowa treść
              </TextBlock>
          </StackPanel>
