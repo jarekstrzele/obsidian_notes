@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "1 Grid",
+      "path": "C Sharp/Fast WFP  C Sharp/1 Grid.md"
+    },
+    {
+      "basename": "TicTacToe",
+      "path": "_ Desktop/WPF/TicTacToe.md"
+    },
+    {
+      "basename": "Alien Form",
+      "path": "_ Desktop/WPF/Alien Form.md"
+    },
+    {
       "basename": "3.1 Express - introducing",
       "path": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "4.3 DataContext oraz interfejs INotifyPropertyChanged",
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/4.3 DataContext oraz interfejs INotifyPropertyChanged.md"
-    },
-    {
-      "basename": "4.2 Eventy i Delegaty",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/4.2 Eventy i Delegaty.md"
-    },
-    {
-      "basename": "1 Grid",
-      "path": "C Sharp/Fast WFP  C Sharp/1 Grid.md"
-    },
-    {
-      "basename": "_ Fast WFP C Sharp",
-      "path": "C Sharp/Fast WFP  C Sharp/_ Fast WFP C Sharp.md"
     }
   ],
   "omittedPaths": [],
