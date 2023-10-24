@@ -140,15 +140,23 @@ GroupBox może mieć tylko jedno dziecko, więc `RadioButtons` zamknąłem w `<S
 </StackPanel>
 ```
 
---
+---
 # DatePicker
+```xml
+  <DatePicker Name="dateAttack" Width="200" SelectedDate="2023-10-10" />
+```
+
+```c#
+// DatePicker
+DateTime? selectedDate = dateAttack.SelectedDate;
+//string dateAttactString = selectedDate.Value.ToString();
+string dateAttactString = selectedDate.HasValue ? selectedDate.ToString() : "brak daty"; //.
+```
 
 
 
 
-
-
-
+# cały kod
 ```c#
 private void ZapiszDoPlikuButton_Click(object sender, RoutedEventArgs e)
 {
