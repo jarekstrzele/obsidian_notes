@@ -20,3 +20,8 @@ Debug.WriteLine("To jest informacja do wyświetlenia w oknie wyjścia podczas de
 myTextBox.Text = "To jest informacja do wyświetlenia w TextBox.";
 
 ```
+
+
+
+
+
