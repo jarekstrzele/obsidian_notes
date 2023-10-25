@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
+                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/7 Calculator.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
+                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/7 Calculator.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
+                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/7 Calculator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md"
+                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/7 Calculator.md"
               }
             }
           },
@@ -214,6 +214,7 @@
   },
   "active": "48fc8e3efd6dabff",
   "lastOpenFiles": [
+    "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
     "_ WEB/N_O_D_E/Mosh Node/3 RESTful API's using Express.md",
     "_ Desktop/WPF/Wyświeltanie info.md",
     "_ WEB/N_O_D_E/NODE - the complete guide/24 REST APIs.md",
@@ -222,7 +223,6 @@
     "C Sharp/Fast WFP  C Sharp/1 Grid.md",
     "_ Desktop/WPF/CSharp WPF xaml youtube",
     "_ Desktop/WPF/TicTacToe.md",
-    "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
     "_ WEB/N_O_D_E/Mosh Node/3.1.1. Recap Building RestFul APIS with Express.md",
     "24.1 Create Rest API.md",
     "_ WEB/N_O_D_E/Node JS 101 Crash/3 Observer design pattern.md",
