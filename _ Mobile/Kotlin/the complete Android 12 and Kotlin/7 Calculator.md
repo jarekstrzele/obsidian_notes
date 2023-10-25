@@ -54,12 +54,55 @@ btnOne?.setOnClickListener{
 
 ```
 
+add clear function
+```kotlin
+fun onClear(view: View){  
+    tvInput?.text=""  
+}
+```
 
+```xml
+<Button  
+    android:onClick="onClear"  
+    android:id="@+id/btnClear"  
+    android:layout_margin="2dp"  
+    android:layout_width="0dp"  
+    android:layout_height="match_parent"  
+    android:layout_weight="1"  
+    android:text="@string/clear"  
+    />
+```
 
+add dot function
+```kotlin
+  
+class MainActivity : AppCompatActivity() {  
+  
+    private var tvInput : TextView? = null  
+    var lastNumeric : Boolean = false  
+    var lastDot : Boolean = false
+// ...
+  
+fun onDigit(view: View){  
+    // view will be a button that we click  
+    tvInput?.append( (view as Button).text)  
+    lastNumeric = true  
+    lastDot = false  
+  
+  
+}
 
+fun onDecimalPoint(view: View){  
+    if(lastNumeric && !lastDot){  
+        tvInput?.append(".")  
+        lastNumeric = false  
+        lastDot = true  
+  
+    }
 
+```
 
-
+----------------
 
 
 
