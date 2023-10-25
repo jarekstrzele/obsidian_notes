@@ -24,7 +24,7 @@ A row of BUTTONS is closed inside the `LinearLayout`
     android:text="@string/equality"  
     />
 ```
-`android:text ...` add some string and use a mouse select `extract string resource`
+`android:text ...` add some string and use a mouse select  (show context actions) `extract string resource`
 
 >Atrybut `android:layout_weight` jest używany w połączeniu z `android:layout_width="0dp"` w układach typu `LinearLayout` w celu rozdzielania dostępnej przestrzeni poziomej między elementami o równym wagom.
 
