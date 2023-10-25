@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "96eaca675be2dba1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -114,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/7 Calculator.md",
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -131,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/7 Calculator.md",
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/7 Calculator.md"
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md"
               }
             }
           },
@@ -212,8 +224,9 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "48fc8e3efd6dabff",
+  "active": "96eaca675be2dba1",
   "lastOpenFiles": [
+    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/7 Calculator.md",
     "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
     "_ WEB/N_O_D_E/Mosh Node/3 RESTful API's using Express.md",
     "_ Desktop/WPF/Wyświeltanie info.md",
@@ -236,7 +249,6 @@
     "_ Desktop/Python/GUI/Tkinter/Tkinter 0.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/8.6 RadioButton.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin/6 Age in Minute Calculator.md",
-    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/7 Calculator.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.6 Klasy abstrakcyjne.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.7 Interfejsy.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
