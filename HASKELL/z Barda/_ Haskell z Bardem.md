@@ -36,7 +36,22 @@ main = do
 `main::IO()` specjalna funkcja  w Haskellu, od której rozpoczyna się wykonywanie programu. Jest ona typu `IO()`, co oznacza, że wykonuje operacje wejścia/wyjścia
 `do` blok kodu wewnątrz funkcji `main` 
 
+```haskell
+module Main where
 
+factorial :: Int->Int
+factorial 0 = 1
+factorial n = n * factorial(n-1)
+
+factorial' :: Int->Int
+factorial' n = if n == 0 then 1 else n * (n-1)
+
+main :: IO ()
+main = do
+    putStrLn "Hello, WOrld!"
+    print (factorial' 10)
+    putStrLn ("10! = " ++ show(factorial 10))
+```
 
 
 
