@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "_ Haskell z Bardem",
+      "path": "HASKELL/z Barda/_ Haskell z Bardem.md"
+    },
+    {
       "basename": "3.1 Express - introducing",
       "path": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "4 Tworzenie aplikacji WPF",
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/4 Tworzenie aplikacji WPF.md"
-    },
-    {
-      "basename": "3.1 RadioButton, GroupBox, Label",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/3.1 RadioButton, GroupBox, Label.md"
     }
   ],
   "omittedPaths": [],

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
+                "file": "HASKELL/z Barda/_ Haskell z Bardem.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
+                "file": "HASKELL/z Barda/_ Haskell z Bardem.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
+                "file": "HASKELL/z Barda/_ Haskell z Bardem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md"
+                "file": "HASKELL/z Barda/_ Haskell z Bardem.md"
               }
             }
           },
@@ -225,6 +225,9 @@
   },
   "active": "8c60a88e65c853e4",
   "lastOpenFiles": [
+    "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
+    "HASKELL/z Barda/_ Haskell z Bardem.md",
+    "HASKELL/z Barda",
     "_ WEB/N_O_D_E/Mosh Node/3.1.1. Recap Building RestFul APIS with Express.md",
     "_ WEB/N_O_D_E/NODE - the complete guide/24 REST APIs.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.2 Metody i Właściwości.md",
@@ -233,7 +236,6 @@
     "_ Desktop/WPF/Alien Form.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin/7 Calculator.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.5 Polimorfizm i rzutowanie.md",
-    "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
     "_ WEB/N_O_D_E/Mosh Node/3 RESTful API's using Express.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.3 Klasy zagnieżdżone.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.4 Dziedziczenie.md",
@@ -251,7 +253,6 @@
     "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/8.6 CheckBox.md",
     "_ Mobile/REACT NATIVE/The Complete React NativePlusHooks/1 Working with Content.md",
-    "_ Desktop/Python/GUI/Tkinter/Tkinter 0.md",
     "A I/Harvard CS50 AI with Python",
     "_ Desktop/Python/GUI/Tkinter/from 100 Days of Code",
     "_ WEB/REACT/React 18 Tutorial and Projects Course 2023",
@@ -260,7 +261,6 @@
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin",
     "JAVASCRIPT/Programowanie w JS od Zera do Mastera",
     "C Sharp/Fast WFP  C Sharp",
-    "A I/algorithmic/Grafy w Pythonie",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
