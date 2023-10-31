@@ -153,6 +153,6 @@ main = do
 przykład z typem danych Kwadrat
  > składnia GADT (Generalized Algebraic Data Types), która pozwala na bardziej precyzyjne opisanie typów danych.
 
-
+ 
 
 
