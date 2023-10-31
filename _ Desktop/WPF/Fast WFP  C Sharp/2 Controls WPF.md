@@ -12,8 +12,8 @@ ForeGround - color of text
 
 # Label
 Background, BorderBrush, BorderTHinkness
-
-
+HorisontalAligntmen HorisontalnContentAligntment)
+VertialAlidntment
 
 
 
