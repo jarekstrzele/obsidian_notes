@@ -78,11 +78,33 @@ main = do
 ## Definiowanie typów danych
 Typy danych można definiować za pomocą słowa kluczowego `data`.
 
-`data NazwaTypuDanych = Konstruktor 1 Typ1 | Konstruktor2 Typ2`
+`data NazwaTypuDanych = Konstr1 Typ1 | Konstr2 Typ2`
 
+`data Punkt = Punkt Int Int` lub
+`data Punkt = Punkt {x:: Int, y:: Int}`
+```haskell
+data Punkt = Punkt {x:: Int, y:: Int}
 
+let punkt = Punkt {x = 3, y = 4}
+let xWspolrzedna = x punkt
 
+```
 
+> ==w Haskellu, aby uzyskać dostęp do pól rekordu, używasz ich nazw zamiast operatora kropki.==
+
+```haskell
+module Main where
+
+data Punkt = Punkt {x :: Int, y :: Int} deriving (Show, Eq)
+p1::Punkt
+p1 = Punkt {x=2, y=3}
+
+main :: IO()
+main = do
+    putStrLn "Typy danych"
+    print(x p1)
+    print(y p1)
+```
 
 
 
