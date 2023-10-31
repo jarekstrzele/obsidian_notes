@@ -21,16 +21,35 @@ fn main(){
 }
 ```
 
+aby uruchomić
 ```bash
-> rustc 
+> rustc first.rs
+> ./first
+
+
+```
+
+## funkcja
+```rust
+fn add_two_numers(a : i32, b : i32) -> i32 {
+    a+b
+}
+
+fn main(){
+    println!("Hello world") ;
+    println!("{:}", add_two_numers(11,22))
+}
 ```
 
 
+# zmienne
+deklaracja zmiennej
+```rust
+let x : i32 = 20
+```
 
-
-
-
-
+>[!def] **Wyrażenia**
+   Wyrażenie to fragment kodu, który oblicza wartość. Wyrażenia mogą zawierać zmienne, operatory i funkcje.
 
 
 
