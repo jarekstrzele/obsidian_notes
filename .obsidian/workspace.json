@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Desktop/WPF/Fast WFP  C Sharp/1 Grid.md",
+                "file": "_ Desktop/WPF/Fast WFP  C Sharp/2 Controls WPF.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Desktop/WPF/Fast WFP  C Sharp/1 Grid.md",
+                "file": "_ Desktop/WPF/Fast WFP  C Sharp/2 Controls WPF.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Desktop/WPF/Fast WFP  C Sharp/1 Grid.md",
+                "file": "_ Desktop/WPF/Fast WFP  C Sharp/2 Controls WPF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Desktop/WPF/Fast WFP  C Sharp/1 Grid.md"
+                "file": "_ Desktop/WPF/Fast WFP  C Sharp/2 Controls WPF.md"
               }
             }
           },
@@ -226,6 +226,8 @@
   },
   "active": "15984ed5912cad9b",
   "lastOpenFiles": [
+    "_ Desktop/WPF/Fast WFP  C Sharp/1 Grid.md",
+    "_ Desktop/WPF/Fast WFP  C Sharp/2 Controls WPF.md",
     "_ Desktop/WPF/Fast WFP  C Sharp/_ Fast WFP C Sharp.md",
     "_ Desktop/WPF/CSharp WPF xaml youtube/_ WPF.md",
     "_ Desktop/WPF/Alien Form.md",
@@ -249,12 +251,10 @@
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.3 Klasy zagnieżdżone.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.4 Dziedziczenie.md",
     "_ Desktop/WPF/Wyświeltanie info.md",
-    "_ Desktop/WPF/Fast WFP  C Sharp/1 Grid.md",
     "_ Desktop/WPF/CSharp WPF xaml youtube",
     "_ Desktop/WPF/TicTacToe.md",
     "24.1 Create Rest API.md",
     "_ WEB/N_O_D_E/Node JS 101 Crash/3 Observer design pattern.md",
-    "_ WEB/N_O_D_E/Node JS 101 Crash/7 Project.md",
     "A I/Harvard CS50 AI with Python",
     "_ Desktop/Python/GUI/Tkinter/from 100 Days of Code",
     "_ WEB/REACT/React 18 Tutorial and Projects Course 2023",
