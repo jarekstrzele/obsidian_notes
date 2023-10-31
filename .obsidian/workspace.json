@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.2 Metody i Właściwości.md",
+                "file": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/z Barda/_ Haskell z Bardem.md",
+                "file": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -142,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/z Barda/_ Haskell z Bardem.md",
+                "file": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/z Barda/_ Haskell z Bardem.md"
+                "file": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md"
               }
             }
           },
@@ -223,14 +224,14 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "8c60a88e65c853e4",
+  "active": "48fc8e3efd6dabff",
   "lastOpenFiles": [
-    "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.2 Metody i Właściwości.md",
     "HASKELL/z Barda/_ Haskell z Bardem.md",
+    "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
     "HASKELL/z Barda",
     "_ WEB/N_O_D_E/Mosh Node/3.1.1. Recap Building RestFul APIS with Express.md",
     "_ WEB/N_O_D_E/NODE - the complete guide/24 REST APIs.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.2 Metody i Właściwości.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.1 Konstruktory.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
     "_ Desktop/WPF/Alien Form.md",
