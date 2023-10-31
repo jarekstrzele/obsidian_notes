@@ -8,8 +8,19 @@ https://www.youtube.com/watch?v=LfaMVlDaQ24
 
 **computer science** is all  about information and with it solving problems
 
-**solving problem**
-`input` ---> [  ] ---> ``
+**solving :
+`input ---> [  ] ---> output`
+so:
+	- how to represent `input` and `output`
+	- how wrtie the solution `[ ]`
+
+**binary digit** -> *bit* : `0` or `1`
+
+Computers have millions transitiors/switches/light_bulb
+
+
+
+
 
 
 
