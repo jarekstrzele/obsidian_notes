@@ -18,11 +18,11 @@ so:
 
 Computers have millions transitiors/switches/light_bulb
 
+ABSTRACTION - simplification of something that you don't want to focus on the lower level implementation details 
 
 
-
-
-
+`input ---> [ A L G O R I T H M  ] ---> output`
+algorithm - step by step instruction to solve a problem  
 
 
 
