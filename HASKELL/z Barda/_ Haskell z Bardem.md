@@ -1,3 +1,20 @@
+#haskell 
+
+----------
+```bash
+> ghc nazwaPliku.hs
+> ./nazwaPliku
+```
+
+----
+Zawartość Notatki:
+[[#HelloWorld]]
+[[#Funkcja]]
+[[#Typy danych]]
+
+
+----
+# HelloWorld
 *hello.hs*
 ```haskell
 module Main where
@@ -52,6 +69,23 @@ main = do
     print (factorial' 10)
     putStrLn ("10! = " ++ show(factorial 10))
 ```
+
+------------
+# Typy danych
+- proste - reprezentują pojedynczą wartość Int, Char, Bool, ..
+- złożone - reprezentują zbiory wartości:  List, Tuple, Maybe, Either 
+
+## Definiowanie typów danych
+Typy danych można definiować za pomocą słowa kluczowego `data`.
+
+`data NazwaTypuDanych = Konstruktor 1 Typ1 | Konstruktor2 Typ2`
+
+
+
+
+
+
+
 
 
 

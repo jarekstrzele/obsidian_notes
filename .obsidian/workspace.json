@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "879343ce94ebd4a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HASKELL/z Barda/_ Haskell z Bardem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -126,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Desktop/WPF/Fast WFP  C Sharp/2 Controls WPF.md",
+                "file": "HASKELL/z Barda/_ Haskell z Bardem.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -143,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Desktop/WPF/Fast WFP  C Sharp/2 Controls WPF.md",
+                "file": "HASKELL/z Barda/_ Haskell z Bardem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Desktop/WPF/Fast WFP  C Sharp/2 Controls WPF.md"
+                "file": "HASKELL/z Barda/_ Haskell z Bardem.md"
               }
             }
           },
@@ -224,10 +236,10 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "15984ed5912cad9b",
+  "active": "879343ce94ebd4a7",
   "lastOpenFiles": [
-    "_ Desktop/WPF/Fast WFP  C Sharp/1 Grid.md",
     "_ Desktop/WPF/Fast WFP  C Sharp/2 Controls WPF.md",
+    "_ Desktop/WPF/Fast WFP  C Sharp/1 Grid.md",
     "_ Desktop/WPF/Fast WFP  C Sharp/_ Fast WFP C Sharp.md",
     "_ Desktop/WPF/CSharp WPF xaml youtube/_ WPF.md",
     "_ Desktop/WPF/Alien Form.md",
