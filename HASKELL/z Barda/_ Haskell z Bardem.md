@@ -150,12 +150,8 @@ main = do
     putStrLn $ "Odległość od początku układu współrzędnych: " ++ show distance
 ```
 
-## Sprawdzanie typu danych
-```haskell
-
-
-
-```
+przykład z typem danych Kwadrat
+ > składnia GADT (Generalized Algebraic Data Types), która pozwala na bardziej precyzyjne opisanie typów danych.
 
 
 
