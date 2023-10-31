@@ -156,6 +156,45 @@ main = do
 przykład z typem danych Kwadrat
  > składnia GADT (Generalized Algebraic Data Types), która pozwala na bardziej precyzyjne opisanie typów danych.
 
- 
+```haskell
+module Main where
+
+-- Zdefiniuj typ danych Kwadrat, który ma jeden
+-- konstruktor Kwadrat przyjmujący jeden argument typu Int.
+-- Zdefiniuj funkcję pole przyjmującą jako argument kwadrat
+--  i zwracającą jego pole powierzchni.
+
+data Kwadrat where
+  Kwadrat :: {a :: Int} -> Kwadrat deriving(Show, Eq)
+
+
+obliczPole :: Kwadrat -> Double
+obliczPole (Kwadrat a) = fromIntegral (a*a)
+
+main::IO()
+main = do
+    print "Haskell z Bradem i ChatGPT"
+    let kw = Kwadrat 10
+    let pole = obliczPole kw
+    print (show kw ++ ", pole: " ++ show pole) 
+```
+> - The code you've provided is a definition of a data type in Haskell called `Kwadrat` using ==record syntax==.
+> 1. `data Kwadrat`: This line declares a new data type called `Kwadrat`. 
+> 2. `Kwadrat :: { a :: Int }`: This part defines a data constructor for the `Kwadrat` type. A data constructor is a way to create values of the data type. In this case, the data constructor is also defined using record syntax, which means that it includes a named field. The field is named `a`, and its type is `Int`. This means that when you create a `Kwadrat` value, you need to provide an integer value for the `a` field. For example, `Kwadrat { a = 5 }`.
+> 3. `deriving (Show, Eq)`: This part tells Haskell to automatically generate instances of the `Show` and `Eq` type classes for the `Kwadrat` data type. This allows you to print `Kwadrat` values using `show` and compare them for equality using ` == `.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
