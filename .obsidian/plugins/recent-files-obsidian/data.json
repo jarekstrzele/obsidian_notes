@@ -1,8 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "Harvard CS50 Full Computer Science University Course",
+      "path": "Harvard CS50 Full Computer Science University Course.md"
+    },
+    {
+      "basename": "alpine",
+      "path": "alpine.md"
+    },
+    {
+      "basename": "canvas_moduls_rust",
+      "path": "canvas_moduls_rust.canvas"
+    },
+    {
+      "basename": "_ harvard AI with Python",
+      "path": "A I/Harvard CS50 AI with Python/_ harvard AI with Python.md"
+    },
+    {
+      "basename": "7 Language",
+      "path": "A I/Harvard CS50 AI with Python/7 Language.md"
+    },
+    {
+      "basename": "4 Optimization",
+      "path": "A I/Harvard CS50 AI with Python/4 Optimization.md"
+    },
+    {
       "basename": "3.1 Express - introducing",
       "path": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md"
+    },
+    {
+      "basename": "1.5 Polimorfizm i rzutowanie",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.5 Polimorfizm i rzutowanie.md"
     },
     {
       "basename": "1.2 Metody i Właściwości",
@@ -35,10 +63,6 @@
     {
       "basename": "7 Calculator",
       "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/7 Calculator.md"
-    },
-    {
-      "basename": "1.5 Polimorfizm i rzutowanie",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.5 Polimorfizm i rzutowanie.md"
     },
     {
       "basename": "3 RESTful API's using Express",
@@ -157,20 +181,12 @@
       "path": "A I/Harvard CS50 AI with Python/1 Search.md"
     },
     {
-      "basename": "_ harvard AI with Python",
-      "path": "A I/Harvard CS50 AI with Python/_ harvard AI with Python.md"
-    },
-    {
       "basename": "2 Knowledge",
       "path": "A I/Harvard CS50 AI with Python/2 Knowledge.md"
     },
     {
       "basename": "3 Uncertainty",
       "path": "A I/Harvard CS50 AI with Python/3 Uncertainty.md"
-    },
-    {
-      "basename": "4 Optimization",
-      "path": "A I/Harvard CS50 AI with Python/4 Optimization.md"
     },
     {
       "basename": "5 Learning",
@@ -181,24 +197,8 @@
       "path": "A I/Harvard CS50 AI with Python/6 Neural Networks.md"
     },
     {
-      "basename": "7 Language",
-      "path": "A I/Harvard CS50 AI with Python/7 Language.md"
-    },
-    {
       "basename": "Tkinter",
       "path": "_ Desktop/Python/GUI/Tkinter/Tkinter.md"
-    },
-    {
-      "basename": "Dziwny kalkulator",
-      "path": "Dziwny kalkulator.md"
-    },
-    {
-      "basename": "4.1 Binding",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/4.1 Binding.md"
-    },
-    {
-      "basename": "4 Tworzenie aplikacji WPF",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/4 Tworzenie aplikacji WPF.md"
     }
   ],
   "omittedPaths": [],

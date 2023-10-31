@@ -25,19 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "96eaca675be2dba1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.5 Polimorfizm i rzutowanie.md",
+                "file": "Harvard CS50 Full Computer Science University Course.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "git",
+                "query": "harvard",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
+                "file": "Harvard CS50 Full Computer Science University Course.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -143,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
+                "file": "Harvard CS50 Full Computer Science University Course.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md"
+                "file": "Harvard CS50 Full Computer Science University Course.md"
               }
             }
           },
@@ -224,11 +212,18 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "48fc8e3efd6dabff",
+  "active": "f621f21825dbd82d",
   "lastOpenFiles": [
+    "alpine.md",
+    "Harvard CS50 Full Computer Science University Course.md",
+    "canvas_moduls_rust.canvas",
+    "A I/Harvard CS50 AI with Python/_ harvard AI with Python.md",
+    "A I/Harvard CS50 AI with Python/7 Language.md",
+    "A I/Harvard CS50 AI with Python/4 Optimization.md",
+    "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.5 Polimorfizm i rzutowanie.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.2 Metody i Właściwości.md",
     "HASKELL/z Barda/_ Haskell z Bardem.md",
-    "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
     "HASKELL/z Barda",
     "_ WEB/N_O_D_E/Mosh Node/3.1.1. Recap Building RestFul APIS with Express.md",
     "_ WEB/N_O_D_E/NODE - the complete guide/24 REST APIs.md",
@@ -236,7 +231,6 @@
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
     "_ Desktop/WPF/Alien Form.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin/7 Calculator.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.5 Polimorfizm i rzutowanie.md",
     "_ WEB/N_O_D_E/Mosh Node/3 RESTful API's using Express.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.3 Klasy zagnieżdżone.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.4 Dziedziczenie.md",
@@ -249,11 +243,6 @@
     "_ WEB/N_O_D_E/Node JS 101 Crash/3 Observer design pattern.md",
     "_ WEB/N_O_D_E/Node JS 101 Crash/7 Project.md",
     "_ WEB/N_O_D_E/Node JS 101 Crash/6.the Node Package Manager.md",
-    "_ WEB/N_O_D_E/NODE - the complete guide/3 Node Basics.md",
-    "_ WEB/N_O_D_E/NODE - the complete guide/_0 Node Complete Guide.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
-    "_ Mobile/Kotlin/the complete Android Kotlin/8.6 CheckBox.md",
-    "_ Mobile/REACT NATIVE/The Complete React NativePlusHooks/1 Working with Content.md",
     "A I/Harvard CS50 AI with Python",
     "_ Desktop/Python/GUI/Tkinter/from 100 Days of Code",
     "_ WEB/REACT/React 18 Tutorial and Projects Course 2023",
@@ -265,7 +254,6 @@
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "canvas_moduls_rust.canvas",
     "test canvas.canvas",
     "pexels-alex-fu-1302436.jpg",
     "methodology/images/seaborn_relplot_tip_total_bill_4.png",
