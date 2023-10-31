@@ -80,8 +80,34 @@ Typy danych można definiować za pomocą słowa kluczowego `data`.
 
 `data NazwaTypuDanych = Konstr1 Typ1 | Konstr2 Typ2`
 
-`data Punkt = Punkt Int Int` lub
-`data Punkt = Punkt {x:: Int, y:: Int}`
+### `data Punkt = Punkt Int Int` lub
+```haskell
+data Punkt = Punkt Int Int deriving (Show, Eq)
+p1::Punkt
+p1 = Punkt 11 23
+
+main :: IO()
+main = do
+    putStrLn "Typy danych"
+    print p1
+```
+wyświetlenie pojedynczych współrzędnych
+```haskell
+main :: IO()
+main = do
+    putStrLn "Typy danych"
+    case p1 of
+        Punkt x y -> do
+            putStrLn ("Współrzędna x: " ++ show x)
+            putStrLn ("Współrzędna y: " ++ show y)
+```
+
+1. `case p1 of`: Rozpoczynamy instrukcję `case`, która służy do dopasowania wzorca do wartości `p1`.
+2. `Punkt x y -> do`: W tej części definiujemy wzorzec dopasowania. Wzorzec ten mówi, że jeśli `p1` ma konstruktor `Punkt` z dwiema argumentami, to przypisz te argumenty do zmiennych `x` i `y`.
+	`->` oznacza, że po prawej stronie ma nastąpić odpowiednia akcja, jeśli wzorzec pasuje.
+    
+
+### `data Punkt = Punkt {x:: Int, y:: Int}`
 ```haskell
 data Punkt = Punkt {x:: Int, y:: Int}
 
@@ -107,6 +133,7 @@ main = do
 ```
 
 
+## użycie typu danych w funkcji
 
 
 
