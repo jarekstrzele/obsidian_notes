@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "15984ed5912cad9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_ Desktop/WPF/Fast WFP  C Sharp/1 Grid.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -114,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Harvard CS50 Full Computer Science University Course.md",
+                "file": "_ Desktop/WPF/Fast WFP  C Sharp/1 Grid.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -131,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Harvard CS50 Full Computer Science University Course.md",
+                "file": "_ Desktop/WPF/Fast WFP  C Sharp/1 Grid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Harvard CS50 Full Computer Science University Course.md"
+                "file": "_ Desktop/WPF/Fast WFP  C Sharp/1 Grid.md"
               }
             }
           },
@@ -212,10 +224,13 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "f621f21825dbd82d",
+  "active": "15984ed5912cad9b",
   "lastOpenFiles": [
-    "alpine.md",
+    "_ Desktop/WPF/Fast WFP  C Sharp/_ Fast WFP C Sharp.md",
+    "_ Desktop/WPF/CSharp WPF xaml youtube/_ WPF.md",
+    "_ Desktop/WPF/Alien Form.md",
     "Harvard CS50 Full Computer Science University Course.md",
+    "alpine.md",
     "canvas_moduls_rust.canvas",
     "A I/Harvard CS50 AI with Python/_ harvard AI with Python.md",
     "A I/Harvard CS50 AI with Python/7 Language.md",
@@ -229,20 +244,17 @@
     "_ WEB/N_O_D_E/NODE - the complete guide/24 REST APIs.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.1 Konstruktory.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
-    "_ Desktop/WPF/Alien Form.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin/7 Calculator.md",
     "_ WEB/N_O_D_E/Mosh Node/3 RESTful API's using Express.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.3 Klasy zagnieżdżone.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.4 Dziedziczenie.md",
     "_ Desktop/WPF/Wyświeltanie info.md",
-    "_ Desktop/WPF/CSharp WPF xaml youtube/_ WPF.md",
-    "C Sharp/Fast WFP  C Sharp/1 Grid.md",
+    "_ Desktop/WPF/Fast WFP  C Sharp/1 Grid.md",
     "_ Desktop/WPF/CSharp WPF xaml youtube",
     "_ Desktop/WPF/TicTacToe.md",
     "24.1 Create Rest API.md",
     "_ WEB/N_O_D_E/Node JS 101 Crash/3 Observer design pattern.md",
     "_ WEB/N_O_D_E/Node JS 101 Crash/7 Project.md",
-    "_ WEB/N_O_D_E/Node JS 101 Crash/6.the Node Package Manager.md",
     "A I/Harvard CS50 AI with Python",
     "_ Desktop/Python/GUI/Tkinter/from 100 Days of Code",
     "_ WEB/REACT/React 18 Tutorial and Projects Course 2023",
@@ -250,7 +262,7 @@
     "_ Mobile/Android Kurs Tworzenia APlikacji",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin",
     "JAVASCRIPT/Programowanie w JS od Zera do Mastera",
-    "C Sharp/Fast WFP  C Sharp",
+    "_ Desktop/WPF/Fast WFP  C Sharp",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",

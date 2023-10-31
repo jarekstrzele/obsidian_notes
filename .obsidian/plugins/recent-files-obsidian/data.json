@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "1 Grid",
+      "path": "_ Desktop/WPF/Fast WFP  C Sharp/1 Grid.md"
+    },
+    {
+      "basename": "_ Fast WFP C Sharp",
+      "path": "_ Desktop/WPF/Fast WFP  C Sharp/_ Fast WFP C Sharp.md"
+    },
+    {
+      "basename": "_ WPF",
+      "path": "_ Desktop/WPF/CSharp WPF xaml youtube/_ WPF.md"
+    },
+    {
+      "basename": "Alien Form",
+      "path": "_ Desktop/WPF/Alien Form.md"
+    },
+    {
       "basename": "Harvard CS50 Full Computer Science University Course",
       "path": "Harvard CS50 Full Computer Science University Course.md"
     },
@@ -57,10 +73,6 @@
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md"
     },
     {
-      "basename": "Alien Form",
-      "path": "_ Desktop/WPF/Alien Form.md"
-    },
-    {
       "basename": "7 Calculator",
       "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/7 Calculator.md"
     },
@@ -79,14 +91,6 @@
     {
       "basename": "Wyświeltanie info",
       "path": "_ Desktop/WPF/Wyświeltanie info.md"
-    },
-    {
-      "basename": "_ WPF",
-      "path": "_ Desktop/WPF/CSharp WPF xaml youtube/_ WPF.md"
-    },
-    {
-      "basename": "1 Grid",
-      "path": "C Sharp/Fast WFP  C Sharp/1 Grid.md"
     },
     {
       "basename": "TicTacToe",
@@ -195,10 +199,6 @@
     {
       "basename": "6 Neural Networks",
       "path": "A I/Harvard CS50 AI with Python/6 Neural Networks.md"
-    },
-    {
-      "basename": "Tkinter",
-      "path": "_ Desktop/Python/GUI/Tkinter/Tkinter.md"
     }
   ],
   "omittedPaths": [],
