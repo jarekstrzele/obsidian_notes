@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HASKELL/z Barda/_ Haskell z Bardem.md",
+                "file": "R U S T/Bard - Rust/_ rUST WITH bARD.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "harvard",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/z Barda/_ Haskell z Bardem.md",
+                "file": "R U S T/Bard - Rust/_ rUST WITH bARD.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/z Barda/_ Haskell z Bardem.md",
+                "file": "R U S T/Bard - Rust/_ rUST WITH bARD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/z Barda/_ Haskell z Bardem.md"
+                "file": "R U S T/Bard - Rust/_ rUST WITH bARD.md"
               }
             }
           },
@@ -238,6 +238,17 @@
   },
   "active": "879343ce94ebd4a7",
   "lastOpenFiles": [
+    "R U S T/Rust Tutorial Full Course.md",
+    "R U S T/Bard - Rust/_ rUST WITH bARD.md",
+    "R U S T/Bard - Rust",
+    "R U S T/Box.md",
+    "Dziwny kalkulator.md",
+    "JSON.md",
+    "R U S T/Rust by example/_ Rust by Example.md",
+    "R U S T/Rust - FreeCode Beginner/_ 0 Rust.md",
+    "R U S T/Learn Rust by Building Real App/_ Learn Rust by Building Apps.md",
+    "R U S T/Programmowanie_w Rust/_ Programowanie w języku Rust.md",
+    "HASKELL/z Barda/_ Haskell z Bardem.md",
     "_ Desktop/WPF/Fast WFP  C Sharp/2 Controls WPF.md",
     "_ Desktop/WPF/Fast WFP  C Sharp/1 Grid.md",
     "_ Desktop/WPF/Fast WFP  C Sharp/_ Fast WFP C Sharp.md",
@@ -252,21 +263,11 @@
     "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.5 Polimorfizm i rzutowanie.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.2 Metody i Właściwości.md",
-    "HASKELL/z Barda/_ Haskell z Bardem.md",
     "HASKELL/z Barda",
     "_ WEB/N_O_D_E/Mosh Node/3.1.1. Recap Building RestFul APIS with Express.md",
     "_ WEB/N_O_D_E/NODE - the complete guide/24 REST APIs.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.1 Konstruktory.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
-    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/7 Calculator.md",
-    "_ WEB/N_O_D_E/Mosh Node/3 RESTful API's using Express.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.3 Klasy zagnieżdżone.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.4 Dziedziczenie.md",
-    "_ Desktop/WPF/Wyświeltanie info.md",
     "_ Desktop/WPF/CSharp WPF xaml youtube",
-    "_ Desktop/WPF/TicTacToe.md",
-    "24.1 Create Rest API.md",
-    "_ WEB/N_O_D_E/Node JS 101 Crash/3 Observer design pattern.md",
     "A I/Harvard CS50 AI with Python",
     "_ Desktop/Python/GUI/Tkinter/from 100 Days of Code",
     "_ WEB/REACT/React 18 Tutorial and Projects Course 2023",
@@ -274,7 +275,6 @@
     "_ Mobile/Android Kurs Tworzenia APlikacji",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin",
     "JAVASCRIPT/Programowanie w JS od Zera do Mastera",
-    "_ Desktop/WPF/Fast WFP  C Sharp",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
