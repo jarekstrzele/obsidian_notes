@@ -134,9 +134,28 @@ main = do
 
 
 ## użycie typu danych w funkcji
+```haskell
+module Main where
+
+data Punkt = Punkt Int Int deriving (Show, Eq)
+
+odlegloscOdPoczatku :: Punkt -> Double
+odlegloscOdPoczatku (Punkt x y) = sqrt $ fromIntegral (x^2 + y^2)
+
+main :: IO()
+main = do
+    putStrLn "Typy danych"
+    let p1 = Punkt 11 23
+    let distance = odlegloscOdPoczatku p1
+    putStrLn $ "Odległość od początku układu współrzędnych: " ++ show distance
+```
+
+## Sprawdzanie typu danych
+```haskell
 
 
 
+```
 
 
 
