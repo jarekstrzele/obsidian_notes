@@ -134,6 +134,9 @@ main = do
 
 
 ## użycie typu danych w funkcji
+
+>   In Haskell, `fromIntegral` is a commonly used function that is used to **convert** a value of one numeric type into another. It is particularly useful when you need to convert between different numeric types, such as from an integral type (like `Int` or `Integer`) to a floating-point type (like `Float` or `Double`), or vice versa.
+
 ```haskell
 module Main where
 
