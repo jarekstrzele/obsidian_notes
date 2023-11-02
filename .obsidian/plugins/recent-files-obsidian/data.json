@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "_ Rust Build with GPT-4",
+      "path": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/_ Rust Build with GPT-4.md"
+    },
+    {
       "basename": "Tech Stack in Rust",
       "path": "R U S T/Tech Stack in Rust.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "1.7 Interfejsy",
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.7 Interfejsy.md"
-    },
-    {
-      "basename": "1.4. FlatList",
-      "path": "_ Mobile/REACT NATIVE/React Native Practical Guide/1.4. FlatList.md"
     }
   ],
   "omittedPaths": [],
