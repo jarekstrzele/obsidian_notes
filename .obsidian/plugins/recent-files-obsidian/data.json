@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "_ Rust Build with GPT-4",
-      "path": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/_ Rust Build with GPT-4.md"
+      "basename": "_ Rust Programming for Beginners",
+      "path": "R U S T/Rust Programming For Beginners/_ Rust Programming for Beginners.md"
     },
     {
       "basename": "_ rUST WITH bARD",
       "path": "R U S T/Bard - Rust/_ rUST WITH bARD.md"
+    },
+    {
+      "basename": "_ Rust Build with GPT-4",
+      "path": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/_ Rust Build with GPT-4.md"
     },
     {
       "basename": "Tech Stack in Rust",
@@ -195,10 +199,6 @@
     {
       "basename": "1.6 Klasy abstrakcyjne",
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.6 Klasy abstrakcyjne.md"
-    },
-    {
-      "basename": "1.7 Interfejsy",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.7 Interfejsy.md"
     }
   ],
   "omittedPaths": [],
