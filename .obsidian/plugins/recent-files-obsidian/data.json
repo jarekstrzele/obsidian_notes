@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2 Making Decisions",
+      "path": "R U S T/Rust Programming For Beginners/2 Making Decisions.md"
+    },
+    {
       "basename": "_ Rust Programming for Beginners",
       "path": "R U S T/Rust Programming For Beginners/_ Rust Programming for Beginners.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "6 Age in Minute Calculator",
       "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/6 Age in Minute Calculator.md"
-    },
-    {
-      "basename": "1.6 Klasy abstrakcyjne",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.6 Klasy abstrakcyjne.md"
     }
   ],
   "omittedPaths": [],
