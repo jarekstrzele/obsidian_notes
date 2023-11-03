@@ -127,7 +127,18 @@ Kolekcja, która przechowuje pary klucz-wartość.
 **Klucze** są unikalne i nie mogą być zmienione.
 **Wartości** mogą być dowolnego typu.
 
+```rust
+use std::collections::HashMap;
 
+fn main(){
+    let mut scores = HashMap::new();
+    scores.insert("John Doe", 100) ;
+    scores.insert("janek kowalski", 90) ;
+    println!("JD's score is: {}, JK's score is: {}", scores["John Doe"], scores["janek kowalski"]) ;
+}
+```
 
-
+`use` it is used to bring external items into the current scope, so you canuse them without needing to fully qualify their names
+`std` standard module
+`collections` submodule
 
