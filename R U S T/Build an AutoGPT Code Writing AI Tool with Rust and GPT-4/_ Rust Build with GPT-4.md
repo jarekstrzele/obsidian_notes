@@ -1,5 +1,14 @@
 #udemy  #mcdonogh_shaun
 
+---
+#### ==everything by default in Rust is immutable==
+```rust
+let x : i32 = 10; //is immutable
+let mut y : u32 = 20 ; // is mutable
+```
+
+
+---
 `rustup` it is how we can manage our rust installation and tooling 
 
 >[!info] CARGO
