@@ -40,10 +40,25 @@ domyślnie jest tryb `debug`, teraz aplikacja będzie skompilowana pod kątem wy
 
 
 # Function
+```rust
+fn add_five(num: u32) -> u32{
+
+    num+5
+
+}
+
+  
+
+fn main() {
+
+    println!("add_five to 10 = {:}", add_five(10));
+
+}
+```
 
 
-
-
+# Unit test
+It is useful for testing functions that ate write on their own pages and therefore then bringing them into 
 
 
 
