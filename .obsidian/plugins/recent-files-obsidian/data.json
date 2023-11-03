@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "2 Making Decisions",
-      "path": "R U S T/Rust Programming For Beginners/2 Making Decisions.md"
-    },
-    {
-      "basename": "_ Rust Programming for Beginners",
-      "path": "R U S T/Rust Programming For Beginners/_ Rust Programming for Beginners.md"
+      "basename": "_ Rust Build with GPT-4",
+      "path": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/_ Rust Build with GPT-4.md"
     },
     {
       "basename": "_ rUST WITH bARD",
       "path": "R U S T/Bard - Rust/_ rUST WITH bARD.md"
     },
     {
-      "basename": "_ Rust Build with GPT-4",
-      "path": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/_ Rust Build with GPT-4.md"
+      "basename": "4 Data",
+      "path": "R U S T/Rust Programming For Beginners/4 Data.md"
+    },
+    {
+      "basename": "3 Repetition",
+      "path": "R U S T/Rust Programming For Beginners/3 Repetition.md"
+    },
+    {
+      "basename": "2 Making Decisions",
+      "path": "R U S T/Rust Programming For Beginners/2 Making Decisions.md"
+    },
+    {
+      "basename": "_ Rust Programming for Beginners",
+      "path": "R U S T/Rust Programming For Beginners/_ Rust Programming for Beginners.md"
     },
     {
       "basename": "Tech Stack in Rust",
@@ -191,14 +199,6 @@
     {
       "basename": "Tkinter 0",
       "path": "_ Desktop/Python/GUI/Tkinter/Tkinter 0.md"
-    },
-    {
-      "basename": "8.6 RadioButton",
-      "path": "_ Mobile/Kotlin/the complete Android Kotlin/8.6 RadioButton.md"
-    },
-    {
-      "basename": "6 Age in Minute Calculator",
-      "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/6 Age in Minute Calculator.md"
     }
   ],
   "omittedPaths": [],

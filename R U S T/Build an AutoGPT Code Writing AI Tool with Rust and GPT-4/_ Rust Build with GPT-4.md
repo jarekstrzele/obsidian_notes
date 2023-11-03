@@ -30,6 +30,9 @@ domyślnie jest tryb `debug`, teraz aplikacja będzie skompilowana pod kątem wy
 
 
 
+# Function
+
+
 
 
 
