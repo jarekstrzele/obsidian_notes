@@ -18,7 +18,18 @@ or full version
 `cargo add tokio --features full`
 
 ## run the project
-`cargo build` ,
+`cargo build` , and next `cargo run`
+but now you can write only `cargo run` (and `run` will execute `build` command)
+
+or 
+`cargo build --release`
+domyślnie jest tryb `debug`, teraz aplikacja będzie skompilowana pod kątem wydajnościowym zalezanym w wersji końcowej projektu
+
+
+## `cargo fmt` fomarts the code
+
+
+
 
 
 
