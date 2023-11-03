@@ -52,7 +52,12 @@ let x : i32 = 20
    Wyrażenie to fragment kodu, który oblicza wartość. Wyrażenia mogą zawierać zmienne, operatory i funkcje.
 
 
+# pętla
+`while`, `for`
 
+```rust
+
+```
 
 
 
