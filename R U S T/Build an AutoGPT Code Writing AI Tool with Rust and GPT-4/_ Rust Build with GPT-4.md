@@ -91,9 +91,42 @@ fn main() {
 ## with subfolder
 ```
 /other_funcs
-
+	minus_func.rs
+	mod.rs
+main.rs
 ```
 
+minus.func.rs
+```rust
+pub fn subtruct_10(num: u32) -> u32 {
+    num - 10
+}
+```
+
+mod.rs // it is obligatory
+```rust
+pub mod minus_funs;
+```
+
+main.rs
+```rust
+mod other_funcs;
+
+use crate::other_funcs::minus_funs::subtruct_10;
+
+fn main() {
+	let z: u32 = subtruct_10(23) ;
+    println!("subtruct: {}", z) ;
+}
+```
+
+
+
+
+
+
+
+--------
 
 # Unit test
 It is useful for testing functions that ate write on their own pages and therefore then bringing them into (execute on my main page or on some that page that I create )
