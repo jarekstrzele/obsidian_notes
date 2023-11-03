@@ -57,6 +57,44 @@ fn main() {
 ```
 
 
+
+# Module
+
+## the same level path
+```
+main.rs`
+my_funcs.rs
+```
+
+in `my_funcs.rs`:
+```rust
+pub fn add_five(num: u32) -> u32{
+    num+5
+}
+```
+
+in `main.rs`
+```rust
+mod my_funcs;
+
+use crate::my_funcs::add_five ;
+
+fn main() {
+
+    println!("add_five to 10 = {:}", add_five(10));
+}
+```
+
+```
+```
+
+## with subfolder
+```
+/other_funcs
+
+```
+
+
 # Unit test
 It is useful for testing functions that ate write on their own pages and therefore then bringing them into (execute on my main page or on some that page that I create )
 
