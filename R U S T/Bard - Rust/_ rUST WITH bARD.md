@@ -105,12 +105,29 @@ fn main(){
 }
 ```
 
+```rust
+fn main(){
 
+    let mut name = String::new(); //type String
+    name = "Jarosław Strzelecki".to_string() ; // convert a string litteral to String type
+    println!("My name is {}", name) ;
+
+}
+```
+when you declare a variable with the `let`, the type of the variable is determined by the initial value you assign to it, so better way:
+```rust
+fn main(){
+    let name = "Jarosław Strzelecki".to_string() ;
+    println!("My name is {}", name) ;
+}
+```
 
 ## `HashMap`
 Kolekcja, która przechowuje pary klucz-wartość.
 **Klucze** są unikalne i nie mogą być zmienione.
-**Wartości** 
+**Wartości** mogą być dowolnego typu.
+
+
 
 
 
