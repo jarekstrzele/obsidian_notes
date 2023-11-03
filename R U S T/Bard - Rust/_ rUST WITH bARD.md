@@ -56,14 +56,61 @@ let x : i32 = 20
 `while`, `for`
 
 ```rust
-
+fn main(){
+    for i in 0..10 {
+        println!("i={}", i) ;
+    }
+}
 ```
 
 
 
 
+# Kolekcje
+>[!info] Kolekcje
+> to typy danych, które pozwalają przechować wiele elemenótw
+
+## `Vec` tablice dynamiczne
+To kolekcja, która przechowuje elementy w tablicy dynamicznej. Elementy są indeksowane od 0
+
+  
+> Funkcja "new()" wywołana na typie "Vec" tworzy nowy, pusty wektor.
+> 
+```rust
+fn main(){
+    let mut nums = Vec::new() ;
+    nums.push(10) ;
+    nums.push(20) ;
+    nums.push(30) ;
+
+    println!("The first number is: {}", nums[0]) ;
+	println!("{:?}", nums) ;
+  
+}
+```
 
 
+
+## `String`
+Kolekcja przechowująca ciąg znaków (indeksowane od 0)
+```rust
+fn main(){
+    let mut name = String::new();
+    name.push('A') ;
+    name.push('n') ;
+    name.push('t') ;
+
+    println!("My name is {}", name) ;
+
+}
+```
+
+
+
+## `HashMap`
+Kolekcja, która przechowuje pary klucz-wartość.
+**Klucze** są unikalne i nie mogą być zmienione.
+**Wartości** 
 
 
 
