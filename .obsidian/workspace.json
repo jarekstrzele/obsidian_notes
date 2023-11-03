@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/4 Data.md",
+                "file": "R U S T/Rust Programming For Beginners/5 Intermediate Concepts.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/4 Data.md",
+                "file": "R U S T/Rust Programming For Beginners/5 Intermediate Concepts.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/4 Data.md",
+                "file": "R U S T/Rust Programming For Beginners/5 Intermediate Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Rust Programming For Beginners/4 Data.md"
+                "file": "R U S T/Rust Programming For Beginners/5 Intermediate Concepts.md"
               }
             }
           },
@@ -262,9 +262,9 @@
   },
   "active": "13e0f92de93fa8f7",
   "lastOpenFiles": [
+    "R U S T/Rust Programming For Beginners/4 Data.md",
     "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/_ Rust Build with GPT-4.md",
     "R U S T/Bard - Rust/_ rUST WITH bARD.md",
-    "R U S T/Rust Programming For Beginners/4 Data.md",
     "R U S T/Rust Programming For Beginners/3 Repetition.md",
     "R U S T/Rust Programming For Beginners/2 Making Decisions.md",
     "R U S T/Rust Programming For Beginners/_ Rust Programming for Beginners.md",

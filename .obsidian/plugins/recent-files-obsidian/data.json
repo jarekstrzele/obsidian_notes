@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "5 Intermediate Concepts",
+      "path": "R U S T/Rust Programming For Beginners/5 Intermediate Concepts.md"
+    },
+    {
       "basename": "4 Data",
       "path": "R U S T/Rust Programming For Beginners/4 Data.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "1 Working with Content",
       "path": "_ Mobile/REACT NATIVE/The Complete React NativePlusHooks/1 Working with Content.md"
-    },
-    {
-      "basename": "Tkinter 0",
-      "path": "_ Desktop/Python/GUI/Tkinter/Tkinter 0.md"
     }
   ],
   "omittedPaths": [],
