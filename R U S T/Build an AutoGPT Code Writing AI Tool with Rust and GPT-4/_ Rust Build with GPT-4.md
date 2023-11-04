@@ -132,9 +132,33 @@ fn main() {
 It is useful for testing functions that ate write on their own pages and therefore then bringing them into (execute on my main page or on some that page that I create )
 
 
+### `cargo test`
+### `cargo test subtract_10_test`
+
+```rust
+pub fn subtruct_10(num: u32) -> u32 {
+    num - 10
+}
+
+#[cfg(test)]
+mod test {
+    use super::*;
+
+	#[test]
+    fn subtract_10_test() {
+        let x: u32 = 100;
+        let y: u32 = subtruct_10(x);
+        println!("x and y are from test: {} {} ", x, y);
+        assert_eq!(y, 90);
+    }
+}
+```
 
 
+--------
+# Docs with Cargo
 
+inline comments `//`
 
 
 
