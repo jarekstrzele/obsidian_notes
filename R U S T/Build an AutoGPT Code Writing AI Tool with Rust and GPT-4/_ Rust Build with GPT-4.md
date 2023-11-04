@@ -167,7 +167,28 @@ multiline comments `///`  `/* */`
 ### `cargo doc --open`
 
 
+```rust
+	///
+    /// # Arguments (num: u32)
+    ///
+    ///  # Returns u32
+    ///
+    ///  # Example
+    /// ```
+    ///let x = 5;
+    ///let y = add_five(x);
+    ///```
+    ///
+    ///
 
+pub fn add_five(num: u32) -> u32 {
+    /*
+        First Item
+        Returns result
+     */
+    num + 5
+}
+```
 
 
 
