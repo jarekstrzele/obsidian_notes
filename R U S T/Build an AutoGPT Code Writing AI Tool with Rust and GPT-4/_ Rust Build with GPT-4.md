@@ -159,6 +159,32 @@ mod test {
 # Docs with Cargo
 
 inline comments `//`
+multiline comments `///`  `/* */`
+
+### `cargo doc`
+`target > doc `
+
+### `cargo doc --open`
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
