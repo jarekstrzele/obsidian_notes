@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/Untitled.md",
+                "file": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/3 Rust Types and Memory Management.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/Untitled.md",
+                "file": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/3 Rust Types and Memory Management.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/Untitled.md",
+                "file": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/3 Rust Types and Memory Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/Untitled.md"
+                "file": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/3 Rust Types and Memory Management.md"
               }
             }
           },
@@ -263,7 +263,7 @@
   "active": "879343ce94ebd4a7",
   "lastOpenFiles": [
     "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/_ Rust Build with GPT-4.md",
-    "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/Untitled.md",
+    "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/3 Rust Types and Memory Management.md",
     "R U S T/Rust Programming For Beginners/5 Intermediate Concepts.md",
     "R U S T/Rust Programming For Beginners/4 Data.md",
     "R U S T/Bard - Rust/_ rUST WITH bARD.md",
