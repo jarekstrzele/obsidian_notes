@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/Untitled.md"
+    },
+    {
       "basename": "_ Rust Build with GPT-4",
       "path": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/_ Rust Build with GPT-4.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "8.6 CheckBox",
       "path": "_ Mobile/Kotlin/the complete Android Kotlin/8.6 CheckBox.md"
-    },
-    {
-      "basename": "1 Working with Content",
-      "path": "_ Mobile/REACT NATIVE/The Complete React NativePlusHooks/1 Working with Content.md"
     }
   ],
   "omittedPaths": [],

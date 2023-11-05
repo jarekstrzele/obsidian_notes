@@ -1,5 +1,24 @@
 #udemy  #mcdonogh_shaun
 
+Rust online: https://play.rust-lang.org/?version=stable&mode=debug&edition=2021
+
+---
+Other lessons:
+
+
+
+
+----
+The content of this note:
+[[#First project]]
+[[#Function]]
+[[#Module]]
+[[#Unit test]]
+[[#Docs with Cargo]]
+[[#Create a First library]]
+[[#Dead Code and Unused variables]]
+
+
 ---
 #### ==everything by default in Rust is immutable==
 ```rust
