@@ -190,10 +190,31 @@ pub fn add_five(num: u32) -> u32 {
 }
 ```
 
+---------
+# Create a First library
+
+### `cargo new --lib my_library`
+
+- there will be no `main.rs`
+- there will be `lib.rs`
+- there will be created test functions 
 
 
+---
+# Dead Code and Unused variables
 
+### use the prefix `_` 
+```rust
+fn _foo(){
+	let _x = 19 ; 
+	printl!("something") ;
+}
+```
+this is info: I might need that function but later (there will be no yellow warrings) or I will use `x` later
 
+### use a procedural macro `#[allow(dead_code, unused_variables)]`
+
+not overuse this macro
 
 
 
