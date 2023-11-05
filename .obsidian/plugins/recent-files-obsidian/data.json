@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "7 Calculator",
+      "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/7 Calculator.md"
+    },
+    {
       "basename": "3 Rust Types and Memory Management",
       "path": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/3 Rust Types and Memory Management.md"
     },
@@ -143,10 +147,6 @@
     {
       "basename": "1 OOP w CSharp",
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md"
-    },
-    {
-      "basename": "7 Calculator",
-      "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/7 Calculator.md"
     },
     {
       "basename": "3 RESTful API's using Express",
