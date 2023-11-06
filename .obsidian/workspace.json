@@ -79,8 +79,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -162,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/7 Calculator.md",
+                "file": "HASKELL/z Barda/_ Haskell z Bardem.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -179,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/7 Calculator.md",
+                "file": "HASKELL/z Barda/_ Haskell z Bardem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/7 Calculator.md"
+                "file": "HASKELL/z Barda/_ Haskell z Bardem.md"
               }
             }
           },
@@ -260,8 +259,10 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "879343ce94ebd4a7",
+  "active": "8c60a88e65c853e4",
   "lastOpenFiles": [
+    "Harvard CS50 Full Computer Science University Course.md",
+    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/7 Calculator.md",
     "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/3 Rust Types and Memory Management.md",
     "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/_ Rust Build with GPT-4.md",
     "R U S T/Rust Programming For Beginners/5 Intermediate Concepts.md",
@@ -287,10 +288,8 @@
     "_ Desktop/WPF/Fast WFP  C Sharp/_ Fast WFP C Sharp.md",
     "_ Desktop/WPF/CSharp WPF xaml youtube/_ WPF.md",
     "_ Desktop/WPF/Alien Form.md",
-    "Harvard CS50 Full Computer Science University Course.md",
     "alpine.md",
     "canvas_moduls_rust.canvas",
-    "A I/Harvard CS50 AI with Python/_ harvard AI with Python.md",
     "HASKELL/z Barda",
     "_ Desktop/WPF/CSharp WPF xaml youtube",
     "A I/Harvard CS50 AI with Python",
