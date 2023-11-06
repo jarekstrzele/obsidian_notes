@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "_ Haskell z Bardem",
-      "path": "HASKELL/z Barda/_ Haskell z Bardem.md"
+      "basename": "1.7 Interfejsy",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.7 Interfejsy.md"
+    },
+    {
+      "basename": "1 OOP w CSharp",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md"
     },
     {
       "basename": "Harvard CS50 Full Computer Science University Course",
       "path": "Harvard CS50 Full Computer Science University Course.md"
+    },
+    {
+      "basename": "_ Haskell z Bardem",
+      "path": "HASKELL/z Barda/_ Haskell z Bardem.md"
     },
     {
       "basename": "7 Calculator",
@@ -145,10 +153,6 @@
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.1 Konstruktory.md"
     },
     {
-      "basename": "1 OOP w CSharp",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md"
-    },
-    {
       "basename": "3 RESTful API's using Express",
       "path": "_ WEB/N_O_D_E/Mosh Node/3 RESTful API's using Express.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "7 Express JS",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md"
-    },
-    {
-      "basename": "8.6 CheckBox",
-      "path": "_ Mobile/Kotlin/the complete Android Kotlin/8.6 CheckBox.md"
     }
   ],
   "omittedPaths": [],
