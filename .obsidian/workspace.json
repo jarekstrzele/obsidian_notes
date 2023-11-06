@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/7.1. Tworzenie rest api.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/7.1. Tworzenie rest api.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/7.1. Tworzenie rest api.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md"
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/7.1. Tworzenie rest api.md"
               }
             }
           },
@@ -262,13 +262,15 @@
   },
   "active": "48fc8e3efd6dabff",
   "lastOpenFiles": [
+    "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/7.1. Tworzenie rest api.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/7.10 Express and FireBase.md",
+    "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
     "_ WEB/N_O_D_E/Mosh Node/3 RESTful API's using Express.md",
     "_ WEB/N_O_D_E/Mosh Node/3.1.1. Recap Building RestFul APIS with Express.md",
     "_ WEB/N_O_D_E/NODE - the complete guide/5 Working with Express.js.md",
     "_ WEB/N_O_D_E/NODE - the complete guide/6 Working with Dynamic Content and Adding Templating Engines.md",
     "_ WEB/N_O_D_E/NODE - the complete guide/24 REST APIs.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
-    "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin/7 Calculator.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.7 Interfejsy.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
@@ -288,8 +290,6 @@
     "R U S T/Bard - Rust",
     "R U S T/Box.md",
     "Dziwny kalkulator.md",
-    "JSON.md",
-    "R U S T/Rust by example/_ Rust by Example.md",
     "canvas_moduls_rust.canvas",
     "HASKELL/z Barda",
     "_ Desktop/WPF/CSharp WPF xaml youtube",
