@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/7 Calculator.md",
+                "file": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/7 Calculator.md",
+                "file": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/7 Calculator.md",
+                "file": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/7 Calculator.md"
+                "file": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md"
               }
             }
           },
@@ -262,11 +262,18 @@
   },
   "active": "48fc8e3efd6dabff",
   "lastOpenFiles": [
+    "_ WEB/N_O_D_E/Mosh Node/3 RESTful API's using Express.md",
+    "_ WEB/N_O_D_E/Mosh Node/3.1.1. Recap Building RestFul APIS with Express.md",
+    "_ WEB/N_O_D_E/NODE - the complete guide/5 Working with Express.js.md",
+    "_ WEB/N_O_D_E/NODE - the complete guide/6 Working with Dynamic Content and Adding Templating Engines.md",
+    "_ WEB/N_O_D_E/NODE - the complete guide/24 REST APIs.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
+    "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
+    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/7 Calculator.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.7 Interfejsy.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
     "Harvard CS50 Full Computer Science University Course.md",
     "HASKELL/z Barda/_ Haskell z Bardem.md",
-    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/7 Calculator.md",
     "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/3 Rust Types and Memory Management.md",
     "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/_ Rust Build with GPT-4.md",
     "R U S T/Rust Programming For Beginners/5 Intermediate Concepts.md",
@@ -283,13 +290,6 @@
     "Dziwny kalkulator.md",
     "JSON.md",
     "R U S T/Rust by example/_ Rust by Example.md",
-    "R U S T/Rust - FreeCode Beginner/_ 0 Rust.md",
-    "R U S T/Learn Rust by Building Real App/_ Learn Rust by Building Apps.md",
-    "R U S T/Programmowanie_w Rust/_ Programowanie w języku Rust.md",
-    "_ Desktop/WPF/Fast WFP  C Sharp/2 Controls WPF.md",
-    "_ Desktop/WPF/Fast WFP  C Sharp/1 Grid.md",
-    "_ Desktop/WPF/Fast WFP  C Sharp/_ Fast WFP C Sharp.md",
-    "_ Desktop/WPF/CSharp WPF xaml youtube/_ WPF.md",
     "canvas_moduls_rust.canvas",
     "HASKELL/z Barda",
     "_ Desktop/WPF/CSharp WPF xaml youtube",

@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "3.1 Express - introducing",
+      "path": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md"
+    },
+    {
+      "basename": "3 RESTful API's using Express",
+      "path": "_ WEB/N_O_D_E/Mosh Node/3 RESTful API's using Express.md"
+    },
+    {
+      "basename": "3.1.1. Recap Building RestFul APIS with Express",
+      "path": "_ WEB/N_O_D_E/Mosh Node/3.1.1. Recap Building RestFul APIS with Express.md"
+    },
+    {
+      "basename": "5 Working with Express.js",
+      "path": "_ WEB/N_O_D_E/NODE - the complete guide/5 Working with Express.js.md"
+    },
+    {
+      "basename": "6 Working with Dynamic Content and Adding Templating Engines",
+      "path": "_ WEB/N_O_D_E/NODE - the complete guide/6 Working with Dynamic Content and Adding Templating Engines.md"
+    },
+    {
+      "basename": "24 REST APIs",
+      "path": "_ WEB/N_O_D_E/NODE - the complete guide/24 REST APIs.md"
+    },
+    {
+      "basename": "7 Express JS",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md"
+    },
+    {
       "basename": "7 Calculator",
       "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/7 Calculator.md"
     },
@@ -129,10 +157,6 @@
       "path": "A I/Harvard CS50 AI with Python/4 Optimization.md"
     },
     {
-      "basename": "3.1 Express - introducing",
-      "path": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md"
-    },
-    {
       "basename": "1.5 Polimorfizm i rzutowanie",
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.5 Polimorfizm i rzutowanie.md"
     },
@@ -141,20 +165,8 @@
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.2 Metody i Właściwości.md"
     },
     {
-      "basename": "3.1.1. Recap Building RestFul APIS with Express",
-      "path": "_ WEB/N_O_D_E/Mosh Node/3.1.1. Recap Building RestFul APIS with Express.md"
-    },
-    {
-      "basename": "24 REST APIs",
-      "path": "_ WEB/N_O_D_E/NODE - the complete guide/24 REST APIs.md"
-    },
-    {
       "basename": "1.1 Konstruktory",
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.1 Konstruktory.md"
-    },
-    {
-      "basename": "3 RESTful API's using Express",
-      "path": "_ WEB/N_O_D_E/Mosh Node/3 RESTful API's using Express.md"
     },
     {
       "basename": "1.3 Klasy zagnieżdżone",
@@ -187,18 +199,6 @@
     {
       "basename": "6.the Node Package Manager",
       "path": "_ WEB/N_O_D_E/Node JS 101 Crash/6.the Node Package Manager.md"
-    },
-    {
-      "basename": "3 Node Basics",
-      "path": "_ WEB/N_O_D_E/NODE - the complete guide/3 Node Basics.md"
-    },
-    {
-      "basename": "_0 Node Complete Guide",
-      "path": "_ WEB/N_O_D_E/NODE - the complete guide/_0 Node Complete Guide.md"
-    },
-    {
-      "basename": "7 Express JS",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md"
     }
   ],
   "omittedPaths": [],
