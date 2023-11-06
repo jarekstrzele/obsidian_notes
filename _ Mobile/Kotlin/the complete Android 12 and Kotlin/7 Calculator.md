@@ -104,5 +104,58 @@ fun onDecimalPoint(view: View){
 
 ----------------
 
+## SUbtraction
+
+```xml
+<LinearLayout  
+    android:layout_width="match_parent"  
+    android:layout_height="wrap_content"  
+    android:orientation="horizontal"  
+    android:layout_weight="2"  
+    >  
+    <Button        
+	    android:onClick="onEqual"  
+        android:layout_width="0dp"  
+        android:layout_height="match_parent"  
+        android:layout_weight="1"  
+        android:text="@string/equality"  
+        />  
+  
+  
+</LinearLayout>
+```
+
+```kotlin
+fun onEqual(view: View){  
+    if(lastNumeric){  
+        var prefix = ""  
+        var tvValue = tvInput?.text.toString()  
+  
+        try{  
+            if(tvValue.startsWith("-")){  
+                prefix="-"  
+                tvValue=tvValue.substring(1)  
+            }  
+            if(tvValue.contains("-")){  
+                var (one, two) = tvValue.split("-")  
+  
+                if(prefix.isNotEmpty()){  
+                    one = prefix + one  
+                }  
+                tvInput?.text = (one.toDouble() - two.toDouble()).toString()  
+  
+            }  
+  
+  
+        }catch(e: ArithmeticException){  
+            e.printStackTrace()  
+        }  
+    }  
+}
+```
+
+
+
+
 
 
