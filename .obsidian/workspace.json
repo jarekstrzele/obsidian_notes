@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.7 Interfejsy.md",
+                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/7 Calculator.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.7 Interfejsy.md",
+                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/7 Calculator.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.7 Interfejsy.md",
+                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/7 Calculator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.7 Interfejsy.md"
+                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/7 Calculator.md"
               }
             }
           },
@@ -262,6 +262,7 @@
   },
   "active": "48fc8e3efd6dabff",
   "lastOpenFiles": [
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.7 Interfejsy.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
     "Harvard CS50 Full Computer Science University Course.md",
     "HASKELL/z Barda/_ Haskell z Bardem.md",
@@ -289,7 +290,6 @@
     "_ Desktop/WPF/Fast WFP  C Sharp/1 Grid.md",
     "_ Desktop/WPF/Fast WFP  C Sharp/_ Fast WFP C Sharp.md",
     "_ Desktop/WPF/CSharp WPF xaml youtube/_ WPF.md",
-    "_ Desktop/WPF/Alien Form.md",
     "canvas_moduls_rust.canvas",
     "HASKELL/z Barda",
     "_ Desktop/WPF/CSharp WPF xaml youtube",
