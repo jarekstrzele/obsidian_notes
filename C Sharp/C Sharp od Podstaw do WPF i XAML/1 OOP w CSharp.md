@@ -12,6 +12,15 @@
 [[1.8. Klasy i metody zapieczętowane (sealed)]]
 [[1.9. Enum]]
 [[1.10. Przestrzeń nazw]]
+[[1.11 Struktury]]
+
+
+
+
+
+
+
+
 
 ---------------
 

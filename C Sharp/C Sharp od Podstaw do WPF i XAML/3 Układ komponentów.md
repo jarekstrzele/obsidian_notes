@@ -2,6 +2,7 @@
 
 [[_ C Sharp od Podstaw do WPF i XAML]]
 
+
 **Layouts** są responsywne
 
 
