@@ -81,6 +81,19 @@ $
 ```
 source code`hello.c` --> [make] ---> machine code `hello`
 
+Documentation: https://manual.cs50.io/
+
+> Header File
+```
+#include <stdio.h>
+```
+> Prototype
+```
+int printf(string format, ...);
+```
+Note that `...` represents zero or more additional arguments.
+
+
 
 
 
