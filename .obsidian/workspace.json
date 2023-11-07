@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Desktop/WPF/Fast WFP  C Sharp/2 Controls WPF.md",
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.8. Klasy i metody zapieczętowane (sealed).md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/3 Rust Types and Memory Management.md",
+                "file": "C Sharp/Complete CSharp MasterClass/8. Debugging.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/3 Rust Types and Memory Management.md",
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.8. Klasy i metody zapieczętowane (sealed).md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/3 Rust Types and Memory Management.md",
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.8. Klasy i metody zapieczętowane (sealed).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/3 Rust Types and Memory Management.md"
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.8. Klasy i metody zapieczętowane (sealed).md"
               }
             }
           },
@@ -280,10 +280,25 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "879343ce94ebd4a7",
+  "active": "15984ed5912cad9b",
   "lastOpenFiles": [
-    "Excalidraw/heap_rust_stack.excalidraw.md",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.7 Interfejsy.md",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.8. Klasy i metody zapieczętowane (sealed).md",
+    "_ Desktop/WPF/Fast WFP  C Sharp/2 Controls WPF.md",
+    "C Sharp/Complete CSharp MasterClass/8. Debugging.md",
+    "C Sharp/Complete CSharp MasterClass/7. Collections.md",
+    "C Sharp/Complete CSharp MasterClass/6. OOP.md",
+    "C Sharp/Complete CSharp MasterClass/5. Loops.md",
+    "C Sharp/Complete CSharp MasterClass/4. Making Decisions.md",
+    "C Sharp/Complete CSharp MasterClass/3 Functions-Methods and how to save time.md",
+    "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md",
+    "C Sharp/Complete CSharp MasterClass/_ CSHarp Complete Masterclass.md",
     "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/3 Rust Types and Memory Management.md",
+    "C Sharp/Complete CSharp MasterClass",
+    "Excalidraw/Drawing 2023-11-07 18.46.15.excalidraw.md",
+    "Excalidraw/heap_rust_stack.excalidraw.md",
     "Excalidraw/stack_rust.excalidraw.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin/7 Calculator.md",
     "R U S T/Bard - Rust/_ rUST WITH bARD.md",
@@ -294,21 +309,7 @@
     "_ WEB/N_O_D_E/NodeJS - fullstack/7.10 Express and FireBase.md",
     "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
     "_ WEB/N_O_D_E/Mosh Node/3 RESTful API's using Express.md",
-    "_ WEB/N_O_D_E/Mosh Node/3.1.1. Recap Building RestFul APIS with Express.md",
-    "_ WEB/N_O_D_E/NODE - the complete guide/5 Working with Express.js.md",
-    "_ WEB/N_O_D_E/NODE - the complete guide/6 Working with Dynamic Content and Adding Templating Engines.md",
-    "_ WEB/N_O_D_E/NODE - the complete guide/24 REST APIs.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.7 Interfejsy.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
-    "HASKELL/z Barda/_ Haskell z Bardem.md",
-    "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/_ Rust Build with GPT-4.md",
-    "R U S T/Rust Programming For Beginners/4 Data.md",
-    "R U S T/Rust Programming For Beginners/3 Repetition.md",
-    "R U S T/Rust Programming For Beginners/2 Making Decisions.md",
-    "R U S T/Rust Programming For Beginners/_ Rust Programming for Beginners.md",
-    "R U S T/Tech Stack in Rust.md",
     "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4",
-    "R U S T/Rust Tutorial Full Course.md",
     "R U S T/Bard - Rust",
     "canvas_moduls_rust.canvas",
     "HASKELL/z Barda",
@@ -318,7 +319,6 @@
     "_ WEB/REACT/React 18 Tutorial and Projects Course 2023",
     "_ Desktop/WPF",
     "_ Mobile/Android Kurs Tworzenia APlikacji",
-    "_ Mobile/Kotlin/the complete Android 12 and Kotlin",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",

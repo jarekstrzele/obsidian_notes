@@ -1,8 +1,64 @@
 {
   "recentFiles": [
     {
+      "basename": "1.8. Klasy i metody zapieczętowane (sealed)",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.8. Klasy i metody zapieczętowane (sealed).md"
+    },
+    {
+      "basename": "1.7 Interfejsy",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.7 Interfejsy.md"
+    },
+    {
+      "basename": "_ C Sharp od Podstaw do WPF i XAML",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md"
+    },
+    {
+      "basename": "1 OOP w CSharp",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md"
+    },
+    {
+      "basename": "2 Controls WPF",
+      "path": "_ Desktop/WPF/Fast WFP  C Sharp/2 Controls WPF.md"
+    },
+    {
+      "basename": "8. Debugging",
+      "path": "C Sharp/Complete CSharp MasterClass/8. Debugging.md"
+    },
+    {
+      "basename": "7. Collections",
+      "path": "C Sharp/Complete CSharp MasterClass/7. Collections.md"
+    },
+    {
+      "basename": "6. OOP",
+      "path": "C Sharp/Complete CSharp MasterClass/6. OOP.md"
+    },
+    {
+      "basename": "5. Loops",
+      "path": "C Sharp/Complete CSharp MasterClass/5. Loops.md"
+    },
+    {
+      "basename": "4. Making Decisions",
+      "path": "C Sharp/Complete CSharp MasterClass/4. Making Decisions.md"
+    },
+    {
+      "basename": "3 Functions-Methods and how to save time",
+      "path": "C Sharp/Complete CSharp MasterClass/3 Functions-Methods and how to save time.md"
+    },
+    {
+      "basename": "2. DataTypes and Variables",
+      "path": "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md"
+    },
+    {
+      "basename": "_ CSHarp Complete Masterclass",
+      "path": "C Sharp/Complete CSharp MasterClass/_ CSHarp Complete Masterclass.md"
+    },
+    {
       "basename": "3 Rust Types and Memory Management",
       "path": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/3 Rust Types and Memory Management.md"
+    },
+    {
+      "basename": "Drawing 2023-11-07 18.46.15.excalidraw",
+      "path": "Excalidraw/Drawing 2023-11-07 18.46.15.excalidraw.md"
     },
     {
       "basename": "heap_rust_stack.excalidraw",
@@ -65,14 +121,6 @@
       "path": "_ WEB/N_O_D_E/NODE - the complete guide/24 REST APIs.md"
     },
     {
-      "basename": "1.7 Interfejsy",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.7 Interfejsy.md"
-    },
-    {
-      "basename": "1 OOP w CSharp",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md"
-    },
-    {
       "basename": "_ Haskell z Bardem",
       "path": "HASKELL/z Barda/_ Haskell z Bardem.md"
     },
@@ -133,10 +181,6 @@
       "path": "R U S T/Programmowanie_w Rust/_ Programowanie w języku Rust.md"
     },
     {
-      "basename": "2 Controls WPF",
-      "path": "_ Desktop/WPF/Fast WFP  C Sharp/2 Controls WPF.md"
-    },
-    {
       "basename": "1 Grid",
       "path": "_ Desktop/WPF/Fast WFP  C Sharp/1 Grid.md"
     },
@@ -155,50 +199,6 @@
     {
       "basename": "alpine",
       "path": "alpine.md"
-    },
-    {
-      "basename": "canvas_moduls_rust",
-      "path": "canvas_moduls_rust.canvas"
-    },
-    {
-      "basename": "_ harvard AI with Python",
-      "path": "A I/Harvard CS50 AI with Python/_ harvard AI with Python.md"
-    },
-    {
-      "basename": "7 Language",
-      "path": "A I/Harvard CS50 AI with Python/7 Language.md"
-    },
-    {
-      "basename": "4 Optimization",
-      "path": "A I/Harvard CS50 AI with Python/4 Optimization.md"
-    },
-    {
-      "basename": "1.5 Polimorfizm i rzutowanie",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.5 Polimorfizm i rzutowanie.md"
-    },
-    {
-      "basename": "1.2 Metody i Właściwości",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.2 Metody i Właściwości.md"
-    },
-    {
-      "basename": "1.1 Konstruktory",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.1 Konstruktory.md"
-    },
-    {
-      "basename": "1.3 Klasy zagnieżdżone",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.3 Klasy zagnieżdżone.md"
-    },
-    {
-      "basename": "1.4 Dziedziczenie",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.4 Dziedziczenie.md"
-    },
-    {
-      "basename": "Wyświeltanie info",
-      "path": "_ Desktop/WPF/Wyświeltanie info.md"
-    },
-    {
-      "basename": "TicTacToe",
-      "path": "_ Desktop/WPF/TicTacToe.md"
     }
   ],
   "omittedPaths": [],
