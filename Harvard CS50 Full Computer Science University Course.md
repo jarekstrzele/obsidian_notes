@@ -31,9 +31,19 @@ algorithm - step by step instruction to solve a problem
 1. Pick up phone book
 2. Open to middle of the book
 3. Look at page
+4. If person is on page:
+	1. call the person
+5. else if person is earlier  in book:
+	1. open to middle  of left  half of book
+	2. go back to 3
+6. else if person is later in book:
+	1. open to middle of right of book
+	2. go back to 3
+7. else
+	1. QUIT
 
-
-
+SCRATCH
+https://scratch.mit.edu/
 
 
 
