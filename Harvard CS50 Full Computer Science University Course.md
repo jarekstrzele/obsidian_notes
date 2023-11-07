@@ -60,6 +60,23 @@ Goals -> code:
 - style
 
 use `Visual Studio Code`
+online: https://cs50.dev/
 
+## `hello world` program
+`hello.c`
+```c
+#include<stdio.h>
 
+int main(void){
+    printf("hello, world\n");
+}
+```
 
+in terminal
+```bash
+$ make hello
+$ ./hello
+hello, world
+$ 
+```
+source code`hello.c` --> [make] ---> machine code `hello`
