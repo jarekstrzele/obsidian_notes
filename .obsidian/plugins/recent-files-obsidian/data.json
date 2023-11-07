@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "1.10. Przestrzeń nazw",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.10. Przestrzeń nazw.md"
+    },
+    {
       "basename": "1.9. Enum",
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.9. Enum.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_ WPF",
       "path": "_ Desktop/WPF/CSharp WPF xaml youtube/_ WPF.md"
-    },
-    {
-      "basename": "Alien Form",
-      "path": "_ Desktop/WPF/Alien Form.md"
     }
   ],
   "omittedPaths": [],
