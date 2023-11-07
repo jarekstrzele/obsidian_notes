@@ -46,13 +46,20 @@ SCRATCH
 https://scratch.mit.edu/
 
 
+# *C*
+https://www.youtube.com/watch?v=LfaMVlDaQ24&t=7547s
 
+source code - code writing by human
+machine code - code understood by computer
 
+source code -->  `[ COMPILER  ]` ---> machine code
 
+Goals -> code:
+- correctness (do what have to do)
+- design ()
+- style
 
-
-
-
+use `Visual Studio Code`
 
 
 
