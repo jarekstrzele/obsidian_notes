@@ -24,6 +24,9 @@ int, float, char, bool, fixed-size arrays, tuples -> on stack
 ![[heap_rust_stack.excalidraw | 700]]
 
 
+## String Literals and Static (Read-Only) Memory
+
+
 
 
 
