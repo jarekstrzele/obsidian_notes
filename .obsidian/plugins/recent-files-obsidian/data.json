@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "1 OOP w CSharp",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md"
+    },
+    {
       "basename": "1.10. Przestrzeń nazw",
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.10. Przestrzeń nazw.md"
+    },
+    {
+      "basename": "1.11 Struktury",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.11 Struktury.md"
     },
     {
       "basename": "1.9. Enum",
@@ -19,10 +27,6 @@
     {
       "basename": "_ C Sharp od Podstaw do WPF i XAML",
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md"
-    },
-    {
-      "basename": "1 OOP w CSharp",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md"
     },
     {
       "basename": "2 Controls WPF",
@@ -195,10 +199,6 @@
     {
       "basename": "_ Fast WFP C Sharp",
       "path": "_ Desktop/WPF/Fast WFP  C Sharp/_ Fast WFP C Sharp.md"
-    },
-    {
-      "basename": "_ WPF",
-      "path": "_ Desktop/WPF/CSharp WPF xaml youtube/_ WPF.md"
     }
   ],
   "omittedPaths": [],

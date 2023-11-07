@@ -10,7 +10,8 @@
 [[1.6 Klasy abstrakcyjne]]
 [[1.7 Interfejsy]]
 [[1.8. Klasy i metody zapieczętowane (sealed)]]
-
+[[1.9. Enum]]
+[[1.10. Przestrzeń nazw]]
 
 ---------------
 
