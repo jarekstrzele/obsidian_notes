@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Harvard CS50 Full Computer Science University Course",
+      "path": "Harvard CS50 Full Computer Science University Course.md"
+    },
+    {
+      "basename": "5 Intermediate Concepts",
+      "path": "R U S T/Rust Programming For Beginners/5 Intermediate Concepts.md"
+    },
+    {
       "basename": "7.1. Tworzenie rest api",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/7.1. Tworzenie rest api.md"
     },
@@ -49,10 +57,6 @@
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md"
     },
     {
-      "basename": "Harvard CS50 Full Computer Science University Course",
-      "path": "Harvard CS50 Full Computer Science University Course.md"
-    },
-    {
       "basename": "_ Haskell z Bardem",
       "path": "HASKELL/z Barda/_ Haskell z Bardem.md"
     },
@@ -63,10 +67,6 @@
     {
       "basename": "_ Rust Build with GPT-4",
       "path": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/_ Rust Build with GPT-4.md"
-    },
-    {
-      "basename": "5 Intermediate Concepts",
-      "path": "R U S T/Rust Programming For Beginners/5 Intermediate Concepts.md"
     },
     {
       "basename": "4 Data",

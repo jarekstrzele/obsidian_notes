@@ -25,6 +25,14 @@ ABSTRACTION - simplification of something that you don't want to focus on the lo
 algorithm - step by step instruction to solve a problem  
 
 
+## The phone book search problem
+
+### Pseudocode
+1. Pick up phone book
+2. Open to middle of the book
+3. Look at page
+
+
 
 
 
