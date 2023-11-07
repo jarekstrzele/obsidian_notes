@@ -5,6 +5,10 @@
       "path": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/3 Rust Types and Memory Management.md"
     },
     {
+      "basename": "stack_rust.excalidraw",
+      "path": "Excalidraw/stack_rust.excalidraw.md"
+    },
+    {
       "basename": "7 Calculator",
       "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/7 Calculator.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "24.1 Create Rest API",
       "path": "24.1 Create Rest API.md"
-    },
-    {
-      "basename": "3 Observer design pattern",
-      "path": "_ WEB/N_O_D_E/Node JS 101 Crash/3 Observer design pattern.md"
     }
   ],
   "omittedPaths": [],

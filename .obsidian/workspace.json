@@ -56,6 +56,16 @@
             }
           },
           {
+            "id": "7a27006d05cbc59d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/stack_rust.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "c59f5b1f6b840533",
             "type": "leaf",
             "state": {
@@ -262,6 +272,8 @@
   },
   "active": "879343ce94ebd4a7",
   "lastOpenFiles": [
+    "Excalidraw/stack_rust.excalidraw.md",
+    "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/3 Rust Types and Memory Management.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin/7 Calculator.md",
     "R U S T/Bard - Rust/_ rUST WITH bARD.md",
     "Harvard CS50 Full Computer Science University Course.md",
@@ -278,7 +290,6 @@
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.7 Interfejsy.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
     "HASKELL/z Barda/_ Haskell z Bardem.md",
-    "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/3 Rust Types and Memory Management.md",
     "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/_ Rust Build with GPT-4.md",
     "R U S T/Rust Programming For Beginners/4 Data.md",
     "R U S T/Rust Programming For Beginners/3 Repetition.md",
@@ -289,7 +300,6 @@
     "R U S T/Rust Tutorial Full Course.md",
     "R U S T/Bard - Rust",
     "R U S T/Box.md",
-    "Dziwny kalkulator.md",
     "canvas_moduls_rust.canvas",
     "HASKELL/z Barda",
     "_ Desktop/WPF/CSharp WPF xaml youtube",

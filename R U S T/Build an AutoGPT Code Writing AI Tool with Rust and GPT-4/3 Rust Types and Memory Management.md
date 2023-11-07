@@ -11,8 +11,13 @@ int, float, char, bool, fixed-size arrays, tuples -> on stack
 
 # Stack vs Heap - memory management
 
-
+## stack
 >[!definition] STACK
+> It stores stack frames
+
+ You start a program and it will get a fixed size memory for stack (e.g. to allocate memory for variables)
+
+![[stack_rust.excalidraw]]
 
 
 
