@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "1.9. Enum",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.9. Enum.md"
+    },
+    {
       "basename": "1.8. Klasy i metody zapieczętowane (sealed)",
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.8. Klasy i metody zapieczętowane (sealed).md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Alien Form",
       "path": "_ Desktop/WPF/Alien Form.md"
-    },
-    {
-      "basename": "alpine",
-      "path": "alpine.md"
     }
   ],
   "omittedPaths": [],

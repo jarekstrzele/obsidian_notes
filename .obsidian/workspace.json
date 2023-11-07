@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.8. Klasy i metody zapieczętowane (sealed).md",
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.9. Enum.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.8. Klasy i metody zapieczętowane (sealed).md",
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.9. Enum.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.8. Klasy i metody zapieczętowane (sealed).md",
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.9. Enum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.8. Klasy i metody zapieczętowane (sealed).md"
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.9. Enum.md"
               }
             }
           },
@@ -282,10 +282,11 @@
   },
   "active": "15984ed5912cad9b",
   "lastOpenFiles": [
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.8. Klasy i metody zapieczętowane (sealed).md",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.9. Enum.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.7 Interfejsy.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.8. Klasy i metody zapieczętowane (sealed).md",
     "_ Desktop/WPF/Fast WFP  C Sharp/2 Controls WPF.md",
     "C Sharp/Complete CSharp MasterClass/8. Debugging.md",
     "C Sharp/Complete CSharp MasterClass/7. Collections.md",
@@ -308,7 +309,6 @@
     "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/7.10 Express and FireBase.md",
     "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md",
-    "_ WEB/N_O_D_E/Mosh Node/3 RESTful API's using Express.md",
     "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4",
     "R U S T/Bard - Rust",
     "canvas_moduls_rust.canvas",
