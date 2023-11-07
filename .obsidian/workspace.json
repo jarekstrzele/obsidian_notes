@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/7 Calculator.md",
+                "file": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/3 Rust Types and Memory Management.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Harvard CS50 Full Computer Science University Course.md",
+                "file": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/3 Rust Types and Memory Management.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Harvard CS50 Full Computer Science University Course.md",
+                "file": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/3 Rust Types and Memory Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Harvard CS50 Full Computer Science University Course.md"
+                "file": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/3 Rust Types and Memory Management.md"
               }
             }
           },
@@ -260,8 +260,11 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "13e0f92de93fa8f7",
+  "active": "879343ce94ebd4a7",
   "lastOpenFiles": [
+    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/7 Calculator.md",
+    "R U S T/Bard - Rust/_ rUST WITH bARD.md",
+    "Harvard CS50 Full Computer Science University Course.md",
     "R U S T/Rust Programming For Beginners/5 Intermediate Concepts.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/7.1. Tworzenie rest api.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
@@ -272,15 +275,12 @@
     "_ WEB/N_O_D_E/NODE - the complete guide/5 Working with Express.js.md",
     "_ WEB/N_O_D_E/NODE - the complete guide/6 Working with Dynamic Content and Adding Templating Engines.md",
     "_ WEB/N_O_D_E/NODE - the complete guide/24 REST APIs.md",
-    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/7 Calculator.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.7 Interfejsy.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
-    "Harvard CS50 Full Computer Science University Course.md",
     "HASKELL/z Barda/_ Haskell z Bardem.md",
     "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/3 Rust Types and Memory Management.md",
     "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/_ Rust Build with GPT-4.md",
     "R U S T/Rust Programming For Beginners/4 Data.md",
-    "R U S T/Bard - Rust/_ rUST WITH bARD.md",
     "R U S T/Rust Programming For Beginners/3 Repetition.md",
     "R U S T/Rust Programming For Beginners/2 Making Decisions.md",
     "R U S T/Rust Programming For Beginners/_ Rust Programming for Beginners.md",
