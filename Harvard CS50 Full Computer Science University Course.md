@@ -80,3 +80,21 @@ hello, world
 $ 
 ```
 source code`hello.c` --> [make] ---> machine code `hello`
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
