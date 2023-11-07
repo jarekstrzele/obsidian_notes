@@ -56,6 +56,16 @@
             }
           },
           {
+            "id": "ee838245bd64145e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/heap_rust_stack.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "7a27006d05cbc59d",
             "type": "leaf",
             "state": {
@@ -272,8 +282,9 @@
   },
   "active": "879343ce94ebd4a7",
   "lastOpenFiles": [
-    "Excalidraw/stack_rust.excalidraw.md",
+    "Excalidraw/heap_rust_stack.excalidraw.md",
     "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/3 Rust Types and Memory Management.md",
+    "Excalidraw/stack_rust.excalidraw.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin/7 Calculator.md",
     "R U S T/Bard - Rust/_ rUST WITH bARD.md",
     "Harvard CS50 Full Computer Science University Course.md",
@@ -299,7 +310,6 @@
     "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4",
     "R U S T/Rust Tutorial Full Course.md",
     "R U S T/Bard - Rust",
-    "R U S T/Box.md",
     "canvas_moduls_rust.canvas",
     "HASKELL/z Barda",
     "_ Desktop/WPF/CSharp WPF xaml youtube",

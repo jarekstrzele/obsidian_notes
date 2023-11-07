@@ -5,6 +5,10 @@
       "path": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/3 Rust Types and Memory Management.md"
     },
     {
+      "basename": "heap_rust_stack.excalidraw",
+      "path": "Excalidraw/heap_rust_stack.excalidraw.md"
+    },
+    {
       "basename": "stack_rust.excalidraw",
       "path": "Excalidraw/stack_rust.excalidraw.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "TicTacToe",
       "path": "_ Desktop/WPF/TicTacToe.md"
-    },
-    {
-      "basename": "24.1 Create Rest API",
-      "path": "24.1 Create Rest API.md"
     }
   ],
   "omittedPaths": [],

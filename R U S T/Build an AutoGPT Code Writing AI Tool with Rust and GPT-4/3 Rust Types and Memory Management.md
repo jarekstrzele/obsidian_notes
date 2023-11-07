@@ -20,6 +20,11 @@ int, float, char, bool, fixed-size arrays, tuples -> on stack
 ![[stack_rust.excalidraw]]
 
 
+## Heap
+![[heap_rust_stack.excalidraw | 700]]
+
+
+
 
 
 
