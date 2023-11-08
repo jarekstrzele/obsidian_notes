@@ -152,16 +152,20 @@ fn main(){
 
 ## `struct`
 ```rust
-struct Person{
-	name:String,
-	age: i32,
+struct Person {
+  name: String,
+  age: i32,
 }
 
-fn main(){
-	let john = Person{
-		name: "John Doe".to_string(),
-		age: 30,
-	}
+
+fn main() {
+ let john = Person{
+   name:"Tom".to_string(),
+   age: 34,
+ };
+
+  println!("{}",john.name);
+  println!("{}",john.age);
 }
 ```
 
@@ -175,7 +179,27 @@ enum Color{
 }
 ```
 
-
+```rust
+enum Color{
+    Red,
+    Green,
+    Blue,
+}
+fn main() {
+ 
+    let color = Color::Green;
+    
+    match color {
+        Color::Red => println!("Kolor czerwony"),
+        Color::Green => println!("Kolor zielony"),
+        Color::Blue => println!("Kolor niebieski"),
+        _ => println!("Nothing"),
+    }
+    
+    
+    
+}
+```
 
 
 
