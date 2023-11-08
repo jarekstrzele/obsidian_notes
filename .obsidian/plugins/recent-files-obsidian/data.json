@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "UBUNTU",
+      "path": "linux/UBUNTU.md"
+    },
+    {
+      "basename": "Permission",
+      "path": "linux/Lear Linux Shell Programming/Permission.md"
+    },
+    {
+      "basename": "6 Intro to Sed",
+      "path": "linux/Lear Linux Shell Programming/6 Intro to Sed.md"
+    },
+    {
+      "basename": "2 - Directories",
+      "path": "linux/Lear Linux Shell Programming/2 - Directories.md"
+    },
+    {
+      "basename": "_ Intro Linux Shell",
+      "path": "linux/Lear Linux Shell Programming/_ Intro Linux Shell.md"
+    },
+    {
+      "basename": "JSON",
+      "path": "JSON.md"
+    },
+    {
+      "basename": "iloczyn kartezjański",
+      "path": "iloczyn kartezjański.md"
+    },
+    {
+      "basename": "Harvard CS50 Full Computer Science University Course",
+      "path": "Harvard CS50 Full Computer Science University Course.md"
+    },
+    {
+      "basename": "From Local to Remote - GitHub",
+      "path": "From Local to Remote - GitHub.md"
+    },
+    {
       "basename": "7.1. Tworzenie rest api",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/7.1. Tworzenie rest api.md"
     },
@@ -125,10 +161,6 @@
       "path": "R U S T/Bard - Rust/_ rUST WITH bARD.md"
     },
     {
-      "basename": "Harvard CS50 Full Computer Science University Course",
-      "path": "Harvard CS50 Full Computer Science University Course.md"
-    },
-    {
       "basename": "5 Intermediate Concepts",
       "path": "R U S T/Rust Programming For Beginners/5 Intermediate Concepts.md"
     },
@@ -167,38 +199,6 @@
     {
       "basename": "4 Data",
       "path": "R U S T/Rust Programming For Beginners/4 Data.md"
-    },
-    {
-      "basename": "3 Repetition",
-      "path": "R U S T/Rust Programming For Beginners/3 Repetition.md"
-    },
-    {
-      "basename": "2 Making Decisions",
-      "path": "R U S T/Rust Programming For Beginners/2 Making Decisions.md"
-    },
-    {
-      "basename": "_ Rust Programming for Beginners",
-      "path": "R U S T/Rust Programming For Beginners/_ Rust Programming for Beginners.md"
-    },
-    {
-      "basename": "Tech Stack in Rust",
-      "path": "R U S T/Tech Stack in Rust.md"
-    },
-    {
-      "basename": "Rust Tutorial Full Course",
-      "path": "R U S T/Rust Tutorial Full Course.md"
-    },
-    {
-      "basename": "Box",
-      "path": "R U S T/Box.md"
-    },
-    {
-      "basename": "Dziwny kalkulator",
-      "path": "Dziwny kalkulator.md"
-    },
-    {
-      "basename": "JSON",
-      "path": "JSON.md"
     }
   ],
   "omittedPaths": [],

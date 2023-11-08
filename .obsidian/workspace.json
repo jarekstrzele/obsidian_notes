@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/7.1. Tworzenie rest api.md",
+                "file": "linux/UBUNTU.md",
                 "mode": "source",
                 "source": false
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/7.1. Tworzenie rest api.md",
+                "file": "linux/UBUNTU.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -198,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/7.1. Tworzenie rest api.md",
+                "file": "linux/UBUNTU.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/7.1. Tworzenie rest api.md"
+                "file": "linux/UBUNTU.md"
               }
             }
           },
@@ -281,11 +281,20 @@
   },
   "active": "8c60a88e65c853e4",
   "lastOpenFiles": [
+    "linux/Lear Linux Shell Programming/Permission.md",
+    "linux/Lear Linux Shell Programming/6 Intro to Sed.md",
+    "linux/Lear Linux Shell Programming/2 - Directories.md",
+    "linux/Lear Linux Shell Programming/_ Intro Linux Shell.md",
+    "JSON.md",
+    "iloczyn kartezjański.md",
+    "Harvard CS50 Full Computer Science University Course.md",
+    "From Local to Remote - GitHub.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/7.1. Tworzenie rest api.md",
+    "GitHub Deep Dive.md",
     "_ WEB/N_O_D_E/NODE - the complete guide/24 REST APIs.md",
     "HASKELL/z Barda/_ Haskell z Bardem.md",
     "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md",
     "C Sharp/Complete CSharp MasterClass/_ CSHarp Complete Masterclass.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/7.1. Tworzenie rest api.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.11 Struktury.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.10. Przestrzeń nazw.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.9. Enum.md",
@@ -298,15 +307,6 @@
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/3 Układ komponentów.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.8. Klasy i metody zapieczętowane (sealed).md",
-    "_ Desktop/WPF/Fast WFP  C Sharp/2 Controls WPF.md",
-    "C Sharp/Complete CSharp MasterClass/8. Debugging.md",
-    "C Sharp/Complete CSharp MasterClass/7. Collections.md",
-    "C Sharp/Complete CSharp MasterClass/6. OOP.md",
-    "C Sharp/Complete CSharp MasterClass/5. Loops.md",
-    "C Sharp/Complete CSharp MasterClass/4. Making Decisions.md",
-    "C Sharp/Complete CSharp MasterClass/3 Functions-Methods and how to save time.md",
-    "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/3 Rust Types and Memory Management.md",
     "C Sharp/Complete CSharp MasterClass",
     "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4",
     "R U S T/Bard - Rust",
