@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C Sharp/Complete CSharp MasterClass/_ CSHarp Complete Masterclass.md",
+                "file": "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C Sharp/Complete CSharp MasterClass/_ CSHarp Complete Masterclass.md",
+                "file": "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C Sharp/Complete CSharp MasterClass/_ CSHarp Complete Masterclass.md",
+                "file": "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C Sharp/Complete CSharp MasterClass/_ CSHarp Complete Masterclass.md"
+                "file": "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md"
               }
             }
           },
@@ -282,8 +282,8 @@
   },
   "active": "48fc8e3efd6dabff",
   "lastOpenFiles": [
-    "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md",
     "C Sharp/Complete CSharp MasterClass/_ CSHarp Complete Masterclass.md",
+    "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/7.1. Tworzenie rest api.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.11 Struktury.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.10. Przestrzeń nazw.md",
