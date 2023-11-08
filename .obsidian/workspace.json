@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HASKELL/z Barda/_ Haskell z Bardem.md",
+                "file": "_ WEB/N_O_D_E/NODE - the complete guide/24 REST APIs.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,8 +99,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md",
+                "file": "_ WEB/N_O_D_E/NODE - the complete guide/24 REST APIs.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -199,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md",
+                "file": "_ WEB/N_O_D_E/NODE - the complete guide/24 REST APIs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md"
+                "file": "_ WEB/N_O_D_E/NODE - the complete guide/24 REST APIs.md"
               }
             }
           },
@@ -280,10 +279,11 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "48fc8e3efd6dabff",
+  "active": "8c60a88e65c853e4",
   "lastOpenFiles": [
-    "C Sharp/Complete CSharp MasterClass/_ CSHarp Complete Masterclass.md",
+    "HASKELL/z Barda/_ Haskell z Bardem.md",
     "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md",
+    "C Sharp/Complete CSharp MasterClass/_ CSHarp Complete Masterclass.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/7.1. Tworzenie rest api.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.11 Struktury.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.10. Przestrzeń nazw.md",
@@ -308,7 +308,6 @@
     "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/3 Rust Types and Memory Management.md",
     "C Sharp/Complete CSharp MasterClass",
     "Excalidraw/Drawing 2023-11-07 18.46.15.excalidraw.md",
-    "Excalidraw/heap_rust_stack.excalidraw.md",
     "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4",
     "R U S T/Bard - Rust",
     "canvas_moduls_rust.canvas",
