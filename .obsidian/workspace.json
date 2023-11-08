@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ WEB/N_O_D_E/NODE - the complete guide/24 REST APIs.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/7.1. Tworzenie rest api.md",
                 "mode": "source",
                 "source": false
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ WEB/N_O_D_E/NODE - the complete guide/24 REST APIs.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/7.1. Tworzenie rest api.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -198,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ WEB/N_O_D_E/NODE - the complete guide/24 REST APIs.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/7.1. Tworzenie rest api.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ WEB/N_O_D_E/NODE - the complete guide/24 REST APIs.md"
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/7.1. Tworzenie rest api.md"
               }
             }
           },
@@ -281,6 +281,7 @@
   },
   "active": "8c60a88e65c853e4",
   "lastOpenFiles": [
+    "_ WEB/N_O_D_E/NODE - the complete guide/24 REST APIs.md",
     "HASKELL/z Barda/_ Haskell z Bardem.md",
     "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md",
     "C Sharp/Complete CSharp MasterClass/_ CSHarp Complete Masterclass.md",
@@ -307,7 +308,6 @@
     "C Sharp/Complete CSharp MasterClass/3 Functions-Methods and how to save time.md",
     "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/3 Rust Types and Memory Management.md",
     "C Sharp/Complete CSharp MasterClass",
-    "Excalidraw/Drawing 2023-11-07 18.46.15.excalidraw.md",
     "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4",
     "R U S T/Bard - Rust",
     "canvas_moduls_rust.canvas",
