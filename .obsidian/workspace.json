@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/7.1. Tworzenie rest api.md",
+                "file": "C Sharp/Complete CSharp MasterClass/_ CSHarp Complete Masterclass.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.11 Struktury.md",
+                "file": "C Sharp/Complete CSharp MasterClass/_ CSHarp Complete Masterclass.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.11 Struktury.md",
+                "file": "C Sharp/Complete CSharp MasterClass/_ CSHarp Complete Masterclass.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.11 Struktury.md"
+                "file": "C Sharp/Complete CSharp MasterClass/_ CSHarp Complete Masterclass.md"
               }
             }
           },
@@ -280,8 +280,12 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "15984ed5912cad9b",
+  "active": "48fc8e3efd6dabff",
   "lastOpenFiles": [
+    "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md",
+    "C Sharp/Complete CSharp MasterClass/_ CSHarp Complete Masterclass.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/7.1. Tworzenie rest api.md",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.11 Struktury.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.10. Przestrzeń nazw.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.9. Enum.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.7 Interfejsy.md",
@@ -293,7 +297,6 @@
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/3 Układ komponentów.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.11 Struktury.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.8. Klasy i metody zapieczętowane (sealed).md",
     "_ Desktop/WPF/Fast WFP  C Sharp/2 Controls WPF.md",
     "C Sharp/Complete CSharp MasterClass/8. Debugging.md",
@@ -302,13 +305,10 @@
     "C Sharp/Complete CSharp MasterClass/5. Loops.md",
     "C Sharp/Complete CSharp MasterClass/4. Making Decisions.md",
     "C Sharp/Complete CSharp MasterClass/3 Functions-Methods and how to save time.md",
-    "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md",
-    "C Sharp/Complete CSharp MasterClass/_ CSHarp Complete Masterclass.md",
     "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/3 Rust Types and Memory Management.md",
     "C Sharp/Complete CSharp MasterClass",
     "Excalidraw/Drawing 2023-11-07 18.46.15.excalidraw.md",
     "Excalidraw/heap_rust_stack.excalidraw.md",
-    "Excalidraw/stack_rust.excalidraw.md",
     "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4",
     "R U S T/Bard - Rust",
     "canvas_moduls_rust.canvas",
