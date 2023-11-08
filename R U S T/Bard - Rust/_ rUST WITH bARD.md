@@ -142,3 +142,48 @@ fn main(){
 `std` standard module
 `collections` submodule
 
+----------
+# Struktury
+
+>[!definition] struktury danych
+>to typy danych złożone, które moga przechowywać wiele elementów
+>umożliwiają organizowanie danych w sposób  logiczny
+
+
+## `struct`
+```rust
+struct Person{
+	name:String,
+	age: i32,
+}
+
+fn main(){
+	let john = Person{
+		name: "John Doe".to_string(),
+		age: 30,
+	}
+}
+```
+
+
+## `enum`
+```rust
+enum Color{
+	Red,
+	Green,
+	Blue,
+}
+```
+
+
+
+
+
+
+
+
+
+
+
+
+

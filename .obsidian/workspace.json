@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.11 Struktury.md",
+                "file": "R U S T/Bard - Rust/_ rUST WITH bARD.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md",
+                "file": "R U S T/Bard - Rust/_ rUST WITH bARD.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -186,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md",
+                "file": "R U S T/Bard - Rust/_ rUST WITH bARD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md"
+                "file": "R U S T/Bard - Rust/_ rUST WITH bARD.md"
               }
             }
           },
@@ -267,8 +268,10 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "48fc8e3efd6dabff",
+  "active": "15984ed5912cad9b",
   "lastOpenFiles": [
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.11 Struktury.md",
+    "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md",
     "Formatowanie dysku w wierszu poleceń Windows.md",
     "middleware.md",
     "pexels-alex-fu-1302436.jpg",
@@ -287,9 +290,7 @@
     "GitHub Deep Dive.md",
     "_ WEB/N_O_D_E/NODE - the complete guide/24 REST APIs.md",
     "HASKELL/z Barda/_ Haskell z Bardem.md",
-    "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md",
     "C Sharp/Complete CSharp MasterClass/_ CSHarp Complete Masterclass.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.11 Struktury.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.10. Przestrzeń nazw.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.9. Enum.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.7 Interfejsy.md",
