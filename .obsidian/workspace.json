@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md",
+                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/7 Calculator.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,8 +87,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Bard - Rust/_ rUST WITH bARD.md",
+                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/7 Calculator.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -187,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Bard - Rust/_ rUST WITH bARD.md",
+                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/7 Calculator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Bard - Rust/_ rUST WITH bARD.md"
+                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/7 Calculator.md"
               }
             }
           },
@@ -268,10 +267,11 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "15984ed5912cad9b",
+  "active": "48fc8e3efd6dabff",
   "lastOpenFiles": [
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.11 Struktury.md",
     "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md",
+    "R U S T/Bard - Rust/_ rUST WITH bARD.md",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.11 Struktury.md",
     "Formatowanie dysku w wierszu poleceń Windows.md",
     "middleware.md",
     "pexels-alex-fu-1302436.jpg",
@@ -296,7 +296,6 @@
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.7 Interfejsy.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.5 Polimorfizm i rzutowanie.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.4 Dziedziczenie.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.3 Klasy zagnieżdżone.md",
     "C Sharp/Complete CSharp MasterClass",
     "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4",
     "R U S T/Bard - Rust",
