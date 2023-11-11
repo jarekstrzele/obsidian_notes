@@ -61,17 +61,11 @@ domyślnie jest tryb `debug`, teraz aplikacja będzie skompilowana pod kątem wy
 # Function
 ```rust
 fn add_five(num: u32) -> u32{
-
     num+5
-
 }
 
-  
-
 fn main() {
-
     println!("add_five to 10 = {:}", add_five(10));
-
 }
 ```
 
@@ -95,7 +89,6 @@ pub fn add_five(num: u32) -> u32{
 in `main.rs`
 ```rust
 mod my_funcs;
-
 use crate::my_funcs::add_five ;
 
 fn main() {
@@ -138,12 +131,6 @@ fn main() {
     println!("subtruct: {}", z) ;
 }
 ```
-
-
-
-
-
-
 
 --------
 

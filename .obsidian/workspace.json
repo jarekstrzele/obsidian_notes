@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/7 Calculator.md",
+                "file": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/3 Rust Types and Memory Management.md",
                 "mode": "source",
                 "source": false
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/7 Calculator.md",
+                "file": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/3 Rust Types and Memory Management.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -186,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/7 Calculator.md",
+                "file": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/3 Rust Types and Memory Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/7 Calculator.md"
+                "file": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/3 Rust Types and Memory Management.md"
               }
             }
           },
@@ -269,6 +269,9 @@
   },
   "active": "48fc8e3efd6dabff",
   "lastOpenFiles": [
+    "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/_ Rust Build with GPT-4.md",
+    "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/3 Rust Types and Memory Management.md",
+    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/7 Calculator.md",
     "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md",
     "R U S T/Bard - Rust/_ rUST WITH bARD.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.11 Struktury.md",
@@ -293,9 +296,6 @@
     "C Sharp/Complete CSharp MasterClass/_ CSHarp Complete Masterclass.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.10. Przestrzeń nazw.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.9. Enum.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.7 Interfejsy.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.5 Polimorfizm i rzutowanie.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.4 Dziedziczenie.md",
     "C Sharp/Complete CSharp MasterClass",
     "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4",
     "R U S T/Bard - Rust",

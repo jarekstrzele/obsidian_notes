@@ -26,6 +26,12 @@ int, float, char, bool, fixed-size arrays, tuples -> on stack
 
 ## String Literals and Static (Read-Only) Memory
 
+`let x: u8 =40 ;` on the stack
+
+`let arr: Vec<u8> = vec![1,2,3,4] ;` on the heap
+`arr.push(10)`
+
+`let s:String = String::from("Shai"`
 
 
 

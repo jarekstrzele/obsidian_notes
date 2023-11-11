@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "3 Rust Types and Memory Management",
+      "path": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/3 Rust Types and Memory Management.md"
+    },
+    {
+      "basename": "_ Rust Build with GPT-4",
+      "path": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/_ Rust Build with GPT-4.md"
+    },
+    {
       "basename": "7 Calculator",
       "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/7 Calculator.md"
     },
@@ -161,10 +169,6 @@
       "path": "C Sharp/Complete CSharp MasterClass/3 Functions-Methods and how to save time.md"
     },
     {
-      "basename": "3 Rust Types and Memory Management",
-      "path": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/3 Rust Types and Memory Management.md"
-    },
-    {
       "basename": "Drawing 2023-11-07 18.46.15.excalidraw",
       "path": "Excalidraw/Drawing 2023-11-07 18.46.15.excalidraw.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "3 RESTful API's using Express",
       "path": "_ WEB/N_O_D_E/Mosh Node/3 RESTful API's using Express.md"
-    },
-    {
-      "basename": "3.1.1. Recap Building RestFul APIS with Express",
-      "path": "_ WEB/N_O_D_E/Mosh Node/3.1.1. Recap Building RestFul APIS with Express.md"
     }
   ],
   "omittedPaths": [],
