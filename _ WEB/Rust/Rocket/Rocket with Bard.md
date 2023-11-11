@@ -42,6 +42,18 @@ async fn main() {
 }
 ```
 
+``#[rocket::main]`
+ta funkcja jest punktem wejścia aplikacji serwerowej opartej na Rocket. Dzięki temu atrybutowi, Rust wie, że ma wywołać tę funkcję jako główny punkt startowy aplikacji.
+
+
+`rocket::build()`: Rozpoczyna konfigurację nowej instancji aplikacji Rocket. Tworzy konstruktor dla aplikacji, która będzie obsługiwać serwer HTTP.
+
+`.launch()`: Rozpoczyna działanie serwera. Uruchamia serwer HTTP z zadanymi ustawieniami i trasami.
+
+`.await`: Jest używane, ponieważ funkcja `launch()` jest asynchroniczna, aby poczekać na jej zakończenie. W przypadku asynchronicznych operacji, `await` oczekuje na zakończenie tych operacji, zanim przejdzie dalej.
+
+`.unwrap()`: Rozpakowuje opcjonalny wynik. W przypadku wystąpienia błędu podczas uruchamiania serwera, `unwrap()` spowoduje przerwanie programu i wypisze ewentualny komunikat o błędzie.
+
 ----
 # Watch - restart serwera
 ### `cargo install cargo-watch`
@@ -76,6 +88,16 @@ async fn main() {
         .unwrap();
 }
 ```
+
+
+----------
+# ZADANIE - app *lista produktów*
+**Aplikacja wyświetlająca listę produktów**
+Aplikacja wyświetlająca listę produktów powinna mieć następujące funkcjonalności:
+- Wyświetlanie listy produktów w postaci tabeli.
+- Możliwość filtrowania produktów po nazwie, kategorii lub cenie.
+- Możliwość sortowania produktów po nazwie, kategorii lub cenie.
+
 
 
 
