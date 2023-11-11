@@ -46,6 +46,52 @@ int, float, char, bool, fixed-size arrays, tuples -> on stack
 -----------
 ## String Literals and Static (Read-Only) Memory
 
+> [!definition] static memory
+> it is read only memory where this is actually known at compile time
+
+```rust
+
+fn main() {
+ 
+  let s: String = String::from("hello string") ;
+  let s_2: &str = &s[0..5] ;
+  println!("{}", s_2) ;
+  
+  let msg: &str = "hello_msg" ; //msg is pointing to a location in memory (static memory
+  println!("{}", msg) ;
+let msg_string: String = "hello3".to_string();
+println!("{}", msg_string)
+  
+    
+}
+```
+
+
+--------
+# Ownership and Borrowing - immutable references
+
+#rust/ownership #rust/borrowing 
+
+
+>[!definition] ownership
+>- each value in Rust has single owner(i.e. variable) at a time
+>- the value is dropped when its owner goes out of scope
+
+
+>[!definition] borrowing
+>- you can have any number of immutable (read-only) references
+>- references must be valid
+
+
+
+
+
+
+
+
+
+
+
 
 
 
