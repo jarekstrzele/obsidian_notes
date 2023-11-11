@@ -24,14 +24,27 @@ int, float, char, bool, fixed-size arrays, tuples -> on stack
 ![[heap_rust_stack.excalidraw | 700]]
 
 
-## String Literals and Static (Read-Only) Memory
+
+
 
 `let x: u8 =40 ;` on the stack
 
-`let arr: Vec<u8> = vec![1,2,3,4] ;` on the heap
+`let arr: Vec<u8> = vec![1,2,3,4,5] ;` on the heap
 `arr.push(10)`
 
-`let s:String = String::from("Shai"`
+`arr_2` is the reference of `arr`
+`let arr_3 = &arr[0..3] ;` (1,2,3) , the reference on the Stack pointing to a value on the Heap
+
+
+`let mut s:String = String::from("Shai hountng") ;`  on the heap
+`s.push(' ') ;`
+
+`let s_2 = &s[1..3] ;` the reference on the stack pointing to a value on the Heap
+
+`const MY_INT = 10 ;`  == `static MY_INT = 10 ;` it can't be mutable `const mut` generates an error
+
+-----------
+## String Literals and Static (Read-Only) Memory
 
 
 
