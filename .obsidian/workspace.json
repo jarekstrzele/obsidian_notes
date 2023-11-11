@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/3 Rust Types and Memory Management.md",
+                "file": "_ WEB/Rust/Rocket/Rocket with Bard.md",
                 "mode": "source",
                 "source": false
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/3 Rust Types and Memory Management.md",
+                "file": "_ WEB/Rust/Rocket/Rocket with Bard.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -186,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/3 Rust Types and Memory Management.md",
+                "file": "_ WEB/Rust/Rocket/Rocket with Bard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/3 Rust Types and Memory Management.md"
+                "file": "_ WEB/Rust/Rocket/Rocket with Bard.md"
               }
             }
           },
@@ -269,8 +269,11 @@
   },
   "active": "48fc8e3efd6dabff",
   "lastOpenFiles": [
-    "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/_ Rust Build with GPT-4.md",
+    "_ WEB/Rust/Rocket/_ Rocket Rust.md",
+    "_ WEB/Rust/Rocket/Rocket with Bard.md",
+    "_ WEB/Rust/Rust Web Book/_ 0 Rust Web Book.md",
     "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/3 Rust Types and Memory Management.md",
+    "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/_ Rust Build with GPT-4.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin/7 Calculator.md",
     "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md",
     "R U S T/Bard - Rust/_ rUST WITH bARD.md",
@@ -293,9 +296,6 @@
     "GitHub Deep Dive.md",
     "_ WEB/N_O_D_E/NODE - the complete guide/24 REST APIs.md",
     "HASKELL/z Barda/_ Haskell z Bardem.md",
-    "C Sharp/Complete CSharp MasterClass/_ CSHarp Complete Masterclass.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.10. Przestrzeń nazw.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.9. Enum.md",
     "C Sharp/Complete CSharp MasterClass",
     "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4",
     "R U S T/Bard - Rust",

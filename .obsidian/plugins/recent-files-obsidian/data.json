@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Rocket with Bard",
+      "path": "_ WEB/Rust/Rocket/Rocket with Bard.md"
+    },
+    {
+      "basename": "_ Rocket Rust",
+      "path": "_ WEB/Rust/Rocket/_ Rocket Rust.md"
+    },
+    {
+      "basename": "_ 0 Rust Web Book",
+      "path": "_ WEB/Rust/Rust Web Book/_ 0 Rust Web Book.md"
+    },
+    {
       "basename": "3 Rust Types and Memory Management",
       "path": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/3 Rust Types and Memory Management.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "7 Express JS",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md"
-    },
-    {
-      "basename": "7.10 Express and FireBase",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/7.10 Express and FireBase.md"
-    },
-    {
-      "basename": "3.1 Express - introducing",
-      "path": "_ WEB/N_O_D_E/Mosh Node/3.1 Express - introducing.md"
-    },
-    {
-      "basename": "3 RESTful API's using Express",
-      "path": "_ WEB/N_O_D_E/Mosh Node/3 RESTful API's using Express.md"
     }
   ],
   "omittedPaths": [],

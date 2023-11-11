@@ -118,10 +118,42 @@ fn main() {
 ```
 
 
+```rust
+
+fn make_string_dangle() -> &String{
+    // `s` is an owner and when the fn is executed `s` will be dropped
+    let s: String = String::from("dangle") ;
+    let r: &String = &s ;
+    r
+}
 
 
+fn main() {
+ 
+    // not work
+   let r: &String =  make_string_dangle() ;
+   println!("{}", r) ;
+}
+```
 
 
+It works
+```rust
+
+fn make_string_dangle() -> String{
+    let s: String = String::from("dangle") ;
+    
+    s
+}
+
+
+fn main() {
+ 
+    // not work
+   let r: String =  make_string_dangle() ;
+   println!("{}", r) ;
+}
+```
 
 
 
