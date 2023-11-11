@@ -83,7 +83,39 @@ println!("{}", msg_string)
 >- references must be valid
 
 
+```rust
 
+fn main() {
+ 
+ // works
+ let x: i32 = 50 ;
+ let y: i32 = x ;
+ println!("{}", x) ;
+ println!("{}", y) ;
+ 
+ 
+//  let s: String = String::from("hello") ;
+//  let t: String = s ;
+//  // println!("{}", s) ; // will not work, because `t` is a new owner
+//  println!("{}", t) ;
+    
+  let s: String = String::from("hello") ;
+  let t: String = s.clone() ; //deep copy, it is not recommended
+  println!("{}", s) ; // it works
+  println!("{}", t) ;
+  
+  
+  // borrowing it, we point to it, we create this reference  
+  // reference == borrowing
+  let s: String = String::from("hello2") ;
+  let t: &String = &s ; // `t` borrows the value of `s`
+  let t2: &String = &s ; // `t` borrows the value of `s`
+  let t3: &String = &s ; // `t` borrows the value of `s`
+  println!("{}", s) ; 
+  println!("{}", t) ;
+    
+}
+```
 
 
 
