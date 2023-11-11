@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "_ Rocket Rust",
+      "path": "_ WEB/Rust/Rocket/_ Rocket Rust.md"
+    },
+    {
       "basename": "Rocket with Bard",
       "path": "_ WEB/Rust/Rocket/Rocket with Bard.md"
     },
     {
-      "basename": "_ Rocket Rust",
-      "path": "_ WEB/Rust/Rocket/_ Rocket Rust.md"
+      "basename": "_ Actix Rust",
+      "path": "_ WEB/Rust/Actix/_ Actix Rust.md"
+    },
+    {
+      "basename": "Responder Actix",
+      "path": "_ WEB/Rust/Actix/Responder Actix.md"
+    },
+    {
+      "basename": "Web Actix",
+      "path": "_ WEB/Rust/Actix/Web Actix.md"
+    },
+    {
+      "basename": "Application Actix",
+      "path": "_ WEB/Rust/Actix/Application Actix.md"
+    },
+    {
+      "basename": "App Actix",
+      "path": "_ WEB/Rust/Actix/App Actix.md"
     },
     {
       "basename": "_ 0 Rust Web Book",
@@ -179,26 +199,6 @@
     {
       "basename": "3 Functions-Methods and how to save time",
       "path": "C Sharp/Complete CSharp MasterClass/3 Functions-Methods and how to save time.md"
-    },
-    {
-      "basename": "Drawing 2023-11-07 18.46.15.excalidraw",
-      "path": "Excalidraw/Drawing 2023-11-07 18.46.15.excalidraw.md"
-    },
-    {
-      "basename": "heap_rust_stack.excalidraw",
-      "path": "Excalidraw/heap_rust_stack.excalidraw.md"
-    },
-    {
-      "basename": "stack_rust.excalidraw",
-      "path": "Excalidraw/stack_rust.excalidraw.md"
-    },
-    {
-      "basename": "5 Intermediate Concepts",
-      "path": "R U S T/Rust Programming For Beginners/5 Intermediate Concepts.md"
-    },
-    {
-      "basename": "7 Express JS",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md"
     }
   ],
   "omittedPaths": [],

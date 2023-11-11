@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ WEB/Rust/Rocket/Rocket with Bard.md",
+                "file": "_ WEB/Rust/Rocket/_ Rocket Rust.md",
                 "mode": "source",
                 "source": false
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ WEB/Rust/Rocket/Rocket with Bard.md",
+                "file": "_ WEB/Rust/Rocket/_ Rocket Rust.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -186,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ WEB/Rust/Rocket/Rocket with Bard.md",
+                "file": "_ WEB/Rust/Rocket/_ Rocket Rust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ WEB/Rust/Rocket/Rocket with Bard.md"
+                "file": "_ WEB/Rust/Rocket/_ Rocket Rust.md"
               }
             }
           },
@@ -269,8 +269,13 @@
   },
   "active": "48fc8e3efd6dabff",
   "lastOpenFiles": [
-    "_ WEB/Rust/Rocket/_ Rocket Rust.md",
     "_ WEB/Rust/Rocket/Rocket with Bard.md",
+    "_ WEB/Rust/Actix/_ Actix Rust.md",
+    "_ WEB/Rust/Actix/Responder Actix.md",
+    "_ WEB/Rust/Actix/Web Actix.md",
+    "_ WEB/Rust/Actix/Application Actix.md",
+    "_ WEB/Rust/Actix/App Actix.md",
+    "_ WEB/Rust/Rocket/_ Rocket Rust.md",
     "_ WEB/Rust/Rust Web Book/_ 0 Rust Web Book.md",
     "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/3 Rust Types and Memory Management.md",
     "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/_ Rust Build with GPT-4.md",
@@ -291,11 +296,6 @@
     "JSON.md",
     "iloczyn kartezjański.md",
     "Harvard CS50 Full Computer Science University Course.md",
-    "From Local to Remote - GitHub.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/7.1. Tworzenie rest api.md",
-    "GitHub Deep Dive.md",
-    "_ WEB/N_O_D_E/NODE - the complete guide/24 REST APIs.md",
-    "HASKELL/z Barda/_ Haskell z Bardem.md",
     "C Sharp/Complete CSharp MasterClass",
     "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4",
     "R U S T/Bard - Rust",
