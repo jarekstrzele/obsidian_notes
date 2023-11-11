@@ -35,20 +35,47 @@ fn index() -> &'static str {
 #[rocket::main]
 async fn main() {
     rocket::build()
-
         .mount("/", routes![index])
-
         .launch()
-
         .await
-
         .unwrap();
-
 }
 ```
 
+----
+# Watch - restart serwera
+### `cargo install cargo-watch`
+
+### `cargo watch -x 'run'`
+- uruchomi serwer
+- śledzi zmiany w plikach źródłowych
+- jeżeli zmiaany wystąpią:
+	- zatrzyma serwer
+	- zbuduje projekt
+	- uruchomi serwer
 
 
+------------
+# ROUTING
+Rocket obsługuje routing za pomocą metody `mount(ścieżka, funkcja)`
+
+do poprzedniego projektu do `main.rs` dodajemy nowy routing:
+```rust
+#[get("/about")]
+
+fn about() -> &'static str {
+  "About"
+}
+ 
+#[rocket::main]
+async fn main() {
+    rocket::build()
+        .mount("/", routes![index, about])
+        .launch()
+        .await
+        .unwrap();
+}
+```
 
 
 
