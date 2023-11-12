@@ -204,13 +204,13 @@ fn main() {
 --------
 # Funkcje anonimowe
 
->[!info] funkcje anonimowe
+>[!info] funkcje anonimowe/domknięcia/*closures*
 >- funkcje bez nazwy
 >- wykonują krótkie zadania
 >- mogą być przekazytwane jako argumenty do innej funkcji
 >- mogą przechwytywać swoje środowisko (zamknięcie/*closure*)
 
-**closure** 
+**closure** przechwycenie zmiennej oznacza, że zamknęcie będzie miało dostęp do jej wartości nawet po opuszczeniu swojego pierwotnego zakresu
 
 ```rust
 fn main() {
@@ -222,10 +222,18 @@ fn main() {
 ### ` | parametry| { kod }`
 
 
+## funkcja anonimowa jako krótkie zadanie
+```rust
+fn main() {
+ 
+    let mut nums = vec![1,2,3,2,4,5];
+    nums.sort_by(|a, b| b.cmp(a)) ;
+    println!("{:?}", nums)
+}
+```
 
 
-
-
+## funkcja anonimowa jako argument
 
 
 
