@@ -1,20 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "3 Rust Types and Memory Management",
-      "path": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/3 Rust Types and Memory Management.md"
+      "basename": "1.9. Enum",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.9. Enum.md"
     },
     {
-      "basename": "8. Debugging",
-      "path": "C Sharp/Complete CSharp MasterClass/8. Debugging.md"
+      "basename": "1.8. Klasy i metody zapieczętowane (sealed)",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.8. Klasy i metody zapieczętowane (sealed).md"
+    },
+    {
+      "basename": "Harvard CS50 Full Computer Science University Course",
+      "path": "Harvard CS50 Full Computer Science University Course.md"
+    },
+    {
+      "basename": "_ rUST WITH bARD",
+      "path": "R U S T/Bard - Rust/_ rUST WITH bARD.md"
+    },
+    {
+      "basename": "stack_rust.excalidraw",
+      "path": "Excalidraw/stack_rust.excalidraw.md"
+    },
+    {
+      "basename": "heap_rust_stack.excalidraw",
+      "path": "Excalidraw/heap_rust_stack.excalidraw.md"
     },
     {
       "basename": "_ Rocket Rust",
       "path": "_ WEB/Rust/Rocket/_ Rocket Rust.md"
     },
     {
-      "basename": "_ rUST WITH bARD",
-      "path": "R U S T/Bard - Rust/_ rUST WITH bARD.md"
+      "basename": "3 Rust Types and Memory Management",
+      "path": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/3 Rust Types and Memory Management.md"
+    },
+    {
+      "basename": "8. Debugging",
+      "path": "C Sharp/Complete CSharp MasterClass/8. Debugging.md"
     },
     {
       "basename": "Rocket with Bard",
@@ -105,10 +125,6 @@
       "path": "iloczyn kartezjański.md"
     },
     {
-      "basename": "Harvard CS50 Full Computer Science University Course",
-      "path": "Harvard CS50 Full Computer Science University Course.md"
-    },
-    {
       "basename": "From Local to Remote - GitHub",
       "path": "From Local to Remote - GitHub.md"
     },
@@ -131,10 +147,6 @@
     {
       "basename": "1.10. Przestrzeń nazw",
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.10. Przestrzeń nazw.md"
-    },
-    {
-      "basename": "1.9. Enum",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.9. Enum.md"
     },
     {
       "basename": "1.7 Interfejsy",
@@ -173,10 +185,6 @@
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/3 Układ komponentów.md"
     },
     {
-      "basename": "1.8. Klasy i metody zapieczętowane (sealed)",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.8. Klasy i metody zapieczętowane (sealed).md"
-    },
-    {
       "basename": "2 Controls WPF",
       "path": "_ Desktop/WPF/Fast WFP  C Sharp/2 Controls WPF.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "5. Loops",
       "path": "C Sharp/Complete CSharp MasterClass/5. Loops.md"
-    },
-    {
-      "basename": "4. Making Decisions",
-      "path": "C Sharp/Complete CSharp MasterClass/4. Making Decisions.md"
-    },
-    {
-      "basename": "3 Functions-Methods and how to save time",
-      "path": "C Sharp/Complete CSharp MasterClass/3 Functions-Methods and how to save time.md"
     }
   ],
   "omittedPaths": [],

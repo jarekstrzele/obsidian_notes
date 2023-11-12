@@ -171,9 +171,35 @@ fn main() {
 ```
 
 
+```rust
 
 
+fn main() {
+ 
+ let mut s: String = String::from("it works!"); // mutable `s`
+ let t: &mut String = &mut s; //immutable borrow
+ s.push('?');
+ println!("{}", s);
+    
+}
+```
 
+```rust
+
+fn change_string(text: &mut String){
+    text.push('?');
+}
+
+fn main() {
+ 
+ let mut s: String = String::from("it works!"); // mutable `s`
+ let t: &mut String = &mut s; //immutable borrow
+ change_string(t) ;
+ println!("{}", s);
+    
+}
+
+```
 
 
 
