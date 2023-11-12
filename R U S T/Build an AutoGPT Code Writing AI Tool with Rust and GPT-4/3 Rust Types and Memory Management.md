@@ -158,7 +158,17 @@ fn main() {
 
 
 ## Mutable references
+```rust
 
+fn main() {
+ 
+ let mut s: String = String::from("does not work"); // mutable `s`
+ let t: &String = &s; //immutable borrow
+ s.push('?');
+ println!("{}", t);
+    
+}
+```
 
 
 
