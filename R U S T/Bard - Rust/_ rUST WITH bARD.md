@@ -235,5 +235,44 @@ fn main() {
 
 ## funkcja anonimowa jako argument
 
+```rust
+fn my_map<T,F>(numbers: Vec<T>, f: F) -> Vec<T>
+where
+    F: Fn(T) -> T,
+{
+    let mut result = vec![];
+    
+    for number in numbers {
+        result.push(f(number))
+    }
+    
+    result
+}
+
+
+fn main() {
+ 
+    let mut nums = vec![1,2,3,2,4,5];
+    let doubled = my_map(nums, |x| x*2) ;
+    println!("{:?}", doubled) ;
+    
+}
+```
+
+
+> `where F: Fn(T) -> T`
+>
+> - Używa klauzuli `where`, aby nałożyć ograniczenie na typ `F`.
+> - `F` musi być funkcją, która przyjmuje argument typu `T` i zwraca wartość tego samego typu.
+
+
+
+> W języku Rust, `<T, F>` oznacza parametryzowany typ generyczny. Są to tzw. "generyczne typy" lub "typy parametryzowane", które pozwalają na tworzenie funkcji czy struktur danych, które mogą działać na różnych typach danych.
+
+
+
+
+
+
 
 

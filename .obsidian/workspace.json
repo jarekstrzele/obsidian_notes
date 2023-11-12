@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C Sharp/Complete CSharp MasterClass/8. Debugging.md",
+                "file": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/3 Rust Types and Memory Management.md",
                 "mode": "source",
                 "source": false
               }
@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Bard - Rust/_ rUST WITH bARD.md",
+                "file": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/3 Rust Types and Memory Management.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Bard - Rust/_ rUST WITH bARD.md",
+                "file": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/3 Rust Types and Memory Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Bard - Rust/_ rUST WITH bARD.md"
+                "file": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/3 Rust Types and Memory Management.md"
               }
             }
           },
@@ -268,9 +268,11 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "15984ed5912cad9b",
+  "active": "879343ce94ebd4a7",
   "lastOpenFiles": [
+    "C Sharp/Complete CSharp MasterClass/8. Debugging.md",
     "_ WEB/Rust/Rocket/_ Rocket Rust.md",
+    "R U S T/Bard - Rust/_ rUST WITH bARD.md",
     "_ WEB/Rust/Rocket/Rocket with Bard.md",
     "_ WEB/Rust/Actix/_ Actix Rust.md",
     "_ WEB/Rust/Actix/Responder Actix.md",
@@ -282,7 +284,6 @@
     "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/_ Rust Build with GPT-4.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin/7 Calculator.md",
     "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md",
-    "R U S T/Bard - Rust/_ rUST WITH bARD.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.11 Struktury.md",
     "Formatowanie dysku w wierszu poleceń Windows.md",
     "middleware.md",
@@ -296,7 +297,6 @@
     "linux/Lear Linux Shell Programming/_ Intro Linux Shell.md",
     "JSON.md",
     "iloczyn kartezjański.md",
-    "Harvard CS50 Full Computer Science University Course.md",
     "C Sharp/Complete CSharp MasterClass",
     "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4",
     "R U S T/Bard - Rust",
