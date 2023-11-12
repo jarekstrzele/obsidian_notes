@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.9. Enum.md",
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.10. Przestrzeń nazw.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.9. Enum.md",
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.10. Przestrzeń nazw.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.9. Enum.md",
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.10. Przestrzeń nazw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.9. Enum.md"
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.10. Przestrzeń nazw.md"
               }
             }
           },
@@ -214,8 +214,8 @@
   },
   "active": "e01c6a9f64c0a344",
   "lastOpenFiles": [
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.8. Klasy i metody zapieczętowane (sealed).md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.9. Enum.md",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.8. Klasy i metody zapieczętowane (sealed).md",
     "Harvard CS50 Full Computer Science University Course.md",
     "R U S T/Bard - Rust/_ rUST WITH bARD.md",
     "Excalidraw/stack_rust.excalidraw.md",
