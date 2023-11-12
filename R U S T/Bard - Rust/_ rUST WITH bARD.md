@@ -201,7 +201,25 @@ fn main() {
 }
 ```
 
+--------
+# Funkcje anonimowe
 
+>[!info] funkcje anonimowe
+>- funkcje bez nazwy
+>- wykonują krótkie zadania
+>- mogą być przekazytwane jako argumenty do innej funkcji
+>- mogą przechwytywać swoje środowisko (zamknięcie/*closure*)
+
+**closure** 
+
+```rust
+fn main() {
+    let plus_one = |x:i32| x + 1;
+    println!("3 plus 1 = {}",  plus_one(3)) ;
+}
+```
+
+### ` | parametry| { kod }`
 
 
 

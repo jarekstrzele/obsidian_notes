@@ -87,7 +87,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ WEB/Rust/Rocket/_ Rocket Rust.md",
+                "file": "R U S T/Bard - Rust/_ rUST WITH bARD.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -186,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ WEB/Rust/Rocket/_ Rocket Rust.md",
+                "file": "R U S T/Bard - Rust/_ rUST WITH bARD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ WEB/Rust/Rocket/_ Rocket Rust.md"
+                "file": "R U S T/Bard - Rust/_ rUST WITH bARD.md"
               }
             }
           },
@@ -267,15 +268,15 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "48fc8e3efd6dabff",
+  "active": "15984ed5912cad9b",
   "lastOpenFiles": [
+    "_ WEB/Rust/Rocket/_ Rocket Rust.md",
     "_ WEB/Rust/Rocket/Rocket with Bard.md",
     "_ WEB/Rust/Actix/_ Actix Rust.md",
     "_ WEB/Rust/Actix/Responder Actix.md",
     "_ WEB/Rust/Actix/Web Actix.md",
     "_ WEB/Rust/Actix/Application Actix.md",
     "_ WEB/Rust/Actix/App Actix.md",
-    "_ WEB/Rust/Rocket/_ Rocket Rust.md",
     "_ WEB/Rust/Rust Web Book/_ 0 Rust Web Book.md",
     "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/3 Rust Types and Memory Management.md",
     "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/_ Rust Build with GPT-4.md",
