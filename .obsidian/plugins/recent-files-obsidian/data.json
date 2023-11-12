@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "8 Quiz App",
+      "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md"
+    },
+    {
       "basename": "1.11 Struktury",
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.11 Struktury.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "6. OOP",
       "path": "C Sharp/Complete CSharp MasterClass/6. OOP.md"
-    },
-    {
-      "basename": "5. Loops",
-      "path": "C Sharp/Complete CSharp MasterClass/5. Loops.md"
     }
   ],
   "omittedPaths": [],
