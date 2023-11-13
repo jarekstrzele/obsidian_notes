@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Learn Rust by Building Real App/4.5 TCP.md",
-                "mode": "source",
+                "file": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/3 Rust Types and Memory Management.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Learn Rust by Building Real App/4.5 TCP.md",
+                "file": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/3 Rust Types and Memory Management.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Learn Rust by Building Real App/4.5 TCP.md",
+                "file": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/3 Rust Types and Memory Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Learn Rust by Building Real App/4.5 TCP.md"
+                "file": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/3 Rust Types and Memory Management.md"
               }
             }
           },
@@ -225,6 +225,7 @@
   },
   "active": "13e0f92de93fa8f7",
   "lastOpenFiles": [
+    "R U S T/Learn Rust by Building Real App/4.5 TCP.md",
     "R U S T/Learn Rust by Building Real App/4.4 Organising a Code into Modules.md",
     "R U S T/Learn Rust by Building Real App/4.3. Enum.md",
     "R U S T/Learn Rust by Building Real App/4.2 Strings.md",
@@ -250,7 +251,6 @@
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.8. Klasy i metody zapieczętowane (sealed).md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.3 Klasy zagnieżdżone.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.11 Struktury.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.10. Przestrzeń nazw.md",
     "pexels-alex-fu-1302436.jpg",
     "C Sharp/Complete CSharp MasterClass",
     "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4",

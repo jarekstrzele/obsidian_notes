@@ -202,7 +202,21 @@ fn main() {
 ```
 
 
+# Dereferencing
+```rust
 
+fn main() {
+ 
+ let mut s: String = String::from("it works!"); // mutable `s`
+ let t: & String = &s; //immutable borrow
+
+ println!("{:p}", t);
+ 
+ //this is automatically dereferenced println!
+  println!("{}", *t); // == println!("{}", t)
+}
+
+```
 
 
 
