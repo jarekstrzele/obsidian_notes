@@ -1,8 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "4.5 TCP",
+      "path": "R U S T/Learn Rust by Building Real App/4.5 TCP.md"
+    },
+    {
+      "basename": "4.4 Organising a Code into Modules",
+      "path": "R U S T/Learn Rust by Building Real App/4.4 Organising a Code into Modules.md"
+    },
+    {
+      "basename": "4.3. Enum",
+      "path": "R U S T/Learn Rust by Building Real App/4.3. Enum.md"
+    },
+    {
+      "basename": "4.2 Strings",
+      "path": "R U S T/Learn Rust by Building Real App/4.2 Strings.md"
+    },
+    {
+      "basename": "4.1 Struct",
+      "path": "R U S T/Learn Rust by Building Real App/4.1 Struct.md"
+    },
+    {
+      "basename": "_ Learn Rust by Building Apps",
+      "path": "R U S T/Learn Rust by Building Real App/_ Learn Rust by Building Apps.md"
+    },
+    {
+      "basename": "3 Rust Types and Memory Management",
+      "path": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/3 Rust Types and Memory Management.md"
+    },
+    {
+      "basename": "Harvard CS50 Full Computer Science University Course",
+      "path": "Harvard CS50 Full Computer Science University Course.md"
+    },
+    {
       "basename": "useCallback",
       "path": "_ WEB/REACT/React - the Complete Guide/useCallback.md"
+    },
+    {
+      "basename": "8 Quiz App",
+      "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md"
     },
     {
       "basename": "14 Connecting to a Database",
@@ -65,10 +101,6 @@
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.3 Klasy zagnieżdżone.md"
     },
     {
-      "basename": "8 Quiz App",
-      "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md"
-    },
-    {
       "basename": "1.11 Struktury",
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.11 Struktury.md"
     },
@@ -79,10 +111,6 @@
     {
       "basename": "1.9. Enum",
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.9. Enum.md"
-    },
-    {
-      "basename": "Harvard CS50 Full Computer Science University Course",
-      "path": "Harvard CS50 Full Computer Science University Course.md"
     },
     {
       "basename": "_ rUST WITH bARD",
@@ -99,10 +127,6 @@
     {
       "basename": "_ Rocket Rust",
       "path": "_ WEB/Rust/Rocket/_ Rocket Rust.md"
-    },
-    {
-      "basename": "3 Rust Types and Memory Management",
-      "path": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/3 Rust Types and Memory Management.md"
     },
     {
       "basename": "8. Debugging",
@@ -175,30 +199,6 @@
     {
       "basename": "6 Intro to Sed",
       "path": "linux/Lear Linux Shell Programming/6 Intro to Sed.md"
-    },
-    {
-      "basename": "2 - Directories",
-      "path": "linux/Lear Linux Shell Programming/2 - Directories.md"
-    },
-    {
-      "basename": "_ Intro Linux Shell",
-      "path": "linux/Lear Linux Shell Programming/_ Intro Linux Shell.md"
-    },
-    {
-      "basename": "JSON",
-      "path": "JSON.md"
-    },
-    {
-      "basename": "iloczyn kartezjański",
-      "path": "iloczyn kartezjański.md"
-    },
-    {
-      "basename": "From Local to Remote - GitHub",
-      "path": "From Local to Remote - GitHub.md"
-    },
-    {
-      "basename": "7.1. Tworzenie rest api",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/7.1. Tworzenie rest api.md"
     }
   ],
   "omittedPaths": [],
