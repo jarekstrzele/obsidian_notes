@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.8. Klasy i metody zapieczętowane (sealed).md",
+                "file": "_ WEB/REACT/React - the Complete Guide/useCallback.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.8. Klasy i metody zapieczętowane (sealed).md",
+                "file": "_ WEB/REACT/React - the Complete Guide/useCallback.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.8. Klasy i metody zapieczętowane (sealed).md",
+                "file": "_ WEB/REACT/React - the Complete Guide/useCallback.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.8. Klasy i metody zapieczętowane (sealed).md"
+                "file": "_ WEB/REACT/React - the Complete Guide/useCallback.md"
               }
             }
           },
@@ -226,12 +226,25 @@
   },
   "active": "60899e75c49fe16d",
   "lastOpenFiles": [
+    "_ WEB/REACT/React - the Complete Guide/14 Connecting to a Database.md",
+    "_ WEB/REACT/React - the Complete Guide/9. Fragments, Portal, refs.md",
+    "_ WEB/REACT/React - the Complete Guide/8 Login Project.md",
+    "_ WEB/REACT/React - the Complete Guide/6.1. Styling extra.md",
+    "_ WEB/REACT/React - the Complete Guide/6 Styling React Component (Simple React App).md",
+    "_ WEB/REACT/React - the Complete Guide/5.2 Chart.md",
+    "_ WEB/REACT/React - the Complete Guide/5 Rendering Lists and Conditional content.md",
+    "_ WEB/REACT/React - the Complete Guide/4 React State and Working with Events.md",
+    "_ WEB/REACT/React - the Complete Guide/3 React Basics.md",
+    "_ WEB/REACT/React Bob Ziroll/_React Bob Ziroll.md",
+    "_ WEB/REACT/React 18 Tutorial and Projects Course 2023/1. React Fundamentals.md",
+    "INTERVIEWS/ZTM/The coding interview.md",
+    "INTERVIEWS/ZTM/arrays.md",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.8. Klasy i metody zapieczętowane (sealed).md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.3 Klasy zagnieżdżone.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.11 Struktury.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.10. Przestrzeń nazw.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.9. Enum.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.8. Klasy i metody zapieczętowane (sealed).md",
     "Harvard CS50 Full Computer Science University Course.md",
     "R U S T/Bard - Rust/_ rUST WITH bARD.md",
     "Excalidraw/stack_rust.excalidraw.md",
@@ -239,20 +252,7 @@
     "_ WEB/Rust/Rocket/_ Rocket Rust.md",
     "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/3 Rust Types and Memory Management.md",
     "C Sharp/Complete CSharp MasterClass/8. Debugging.md",
-    "_ WEB/Rust/Rocket/Rocket with Bard.md",
-    "_ WEB/Rust/Actix/_ Actix Rust.md",
-    "_ WEB/Rust/Actix/Responder Actix.md",
-    "_ WEB/Rust/Actix/Web Actix.md",
-    "_ WEB/Rust/Actix/Application Actix.md",
-    "_ WEB/Rust/Actix/App Actix.md",
-    "_ WEB/Rust/Rust Web Book/_ 0 Rust Web Book.md",
-    "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/_ Rust Build with GPT-4.md",
-    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/7 Calculator.md",
-    "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md",
-    "Formatowanie dysku w wierszu poleceń Windows.md",
-    "middleware.md",
     "pexels-alex-fu-1302436.jpg",
-    "predicate.md",
     "C Sharp/Complete CSharp MasterClass",
     "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4",
     "R U S T/Bard - Rust",

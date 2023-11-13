@@ -1,6 +1,62 @@
 {
   "recentFiles": [
     {
+      "basename": "useCallback",
+      "path": "_ WEB/REACT/React - the Complete Guide/useCallback.md"
+    },
+    {
+      "basename": "14 Connecting to a Database",
+      "path": "_ WEB/REACT/React - the Complete Guide/14 Connecting to a Database.md"
+    },
+    {
+      "basename": "9. Fragments, Portal, refs",
+      "path": "_ WEB/REACT/React - the Complete Guide/9. Fragments, Portal, refs.md"
+    },
+    {
+      "basename": "8 Login Project",
+      "path": "_ WEB/REACT/React - the Complete Guide/8 Login Project.md"
+    },
+    {
+      "basename": "6.1. Styling extra",
+      "path": "_ WEB/REACT/React - the Complete Guide/6.1. Styling extra.md"
+    },
+    {
+      "basename": "6 Styling React Component (Simple React App)",
+      "path": "_ WEB/REACT/React - the Complete Guide/6 Styling React Component (Simple React App).md"
+    },
+    {
+      "basename": "5.2 Chart",
+      "path": "_ WEB/REACT/React - the Complete Guide/5.2 Chart.md"
+    },
+    {
+      "basename": "5 Rendering Lists and Conditional content",
+      "path": "_ WEB/REACT/React - the Complete Guide/5 Rendering Lists and Conditional content.md"
+    },
+    {
+      "basename": "4 React State and Working with Events",
+      "path": "_ WEB/REACT/React - the Complete Guide/4 React State and Working with Events.md"
+    },
+    {
+      "basename": "3 React Basics",
+      "path": "_ WEB/REACT/React - the Complete Guide/3 React Basics.md"
+    },
+    {
+      "basename": "_React Bob Ziroll",
+      "path": "_ WEB/REACT/React Bob Ziroll/_React Bob Ziroll.md"
+    },
+    {
+      "basename": "1. React Fundamentals",
+      "path": "_ WEB/REACT/React 18 Tutorial and Projects Course 2023/1. React Fundamentals.md"
+    },
+    {
+      "basename": "The coding interview",
+      "path": "INTERVIEWS/ZTM/The coding interview.md"
+    },
+    {
+      "basename": "arrays",
+      "path": "INTERVIEWS/ZTM/arrays.md"
+    },
+    {
       "basename": "1.8. Klasy i metody zapieczętowane (sealed)",
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.8. Klasy i metody zapieczętowane (sealed).md"
     },
@@ -143,62 +199,6 @@
     {
       "basename": "7.1. Tworzenie rest api",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/7.1. Tworzenie rest api.md"
-    },
-    {
-      "basename": "24 REST APIs",
-      "path": "_ WEB/N_O_D_E/NODE - the complete guide/24 REST APIs.md"
-    },
-    {
-      "basename": "_ Haskell z Bardem",
-      "path": "HASKELL/z Barda/_ Haskell z Bardem.md"
-    },
-    {
-      "basename": "_ CSHarp Complete Masterclass",
-      "path": "C Sharp/Complete CSharp MasterClass/_ CSHarp Complete Masterclass.md"
-    },
-    {
-      "basename": "1.7 Interfejsy",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.7 Interfejsy.md"
-    },
-    {
-      "basename": "1.5 Polimorfizm i rzutowanie",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.5 Polimorfizm i rzutowanie.md"
-    },
-    {
-      "basename": "1.4 Dziedziczenie",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.4 Dziedziczenie.md"
-    },
-    {
-      "basename": "1.2 Metody i Właściwości",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.2 Metody i Właściwości.md"
-    },
-    {
-      "basename": "1.1 Konstruktory",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.1 Konstruktory.md"
-    },
-    {
-      "basename": "1 OOP w CSharp",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md"
-    },
-    {
-      "basename": "_ C Sharp od Podstaw do WPF i XAML",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md"
-    },
-    {
-      "basename": "3 Układ komponentów",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/3 Układ komponentów.md"
-    },
-    {
-      "basename": "2 Controls WPF",
-      "path": "_ Desktop/WPF/Fast WFP  C Sharp/2 Controls WPF.md"
-    },
-    {
-      "basename": "7. Collections",
-      "path": "C Sharp/Complete CSharp MasterClass/7. Collections.md"
-    },
-    {
-      "basename": "6. OOP",
-      "path": "C Sharp/Complete CSharp MasterClass/6. OOP.md"
     }
   ],
   "omittedPaths": [],
