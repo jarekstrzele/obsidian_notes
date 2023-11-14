@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Andoid.31.05.excalidraw",
+      "path": "Excalidraw/Andoid.31.05.excalidraw.md"
+    },
+    {
+      "basename": "_ Kotlin bez tajemnic",
+      "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/_ Kotlin bez tajemnic.md"
+    },
+    {
       "basename": "4 Basics",
       "path": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/4 Basics.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "predicate",
       "path": "predicate.md"
-    },
-    {
-      "basename": "static type",
-      "path": "static type.md"
-    },
-    {
-      "basename": "UBUNTU",
-      "path": "linux/UBUNTU.md"
     }
   ],
   "omittedPaths": [],
