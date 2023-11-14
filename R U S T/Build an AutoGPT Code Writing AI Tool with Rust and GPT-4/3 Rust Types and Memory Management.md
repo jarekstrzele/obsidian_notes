@@ -251,6 +251,13 @@ fn foo(){
 for i in 0.100{
 	// i is created and destroyed in any iteration
 }
+
+.. d remains in scope for function duration
+let d: i32 = 30;
+if d > 10 {
+	//e is only in scope within this bloc
+	let e: i32 =40;
+}
 ```
 
 

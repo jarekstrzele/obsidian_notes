@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "4 Basics",
+      "path": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/4 Basics.md"
+    },
+    {
       "basename": "3 Rust Types and Memory Management",
       "path": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/3 Rust Types and Memory Management.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "UBUNTU",
       "path": "linux/UBUNTU.md"
-    },
-    {
-      "basename": "Permission",
-      "path": "linux/Lear Linux Shell Programming/Permission.md"
     }
   ],
   "omittedPaths": [],
