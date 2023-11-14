@@ -261,7 +261,6 @@ fn main() {
 
 
 > `where F: Fn(T) -> T`
->
 > - Używa klauzuli `where`, aby nałożyć ograniczenie na typ `F`.
 > - `F` musi być funkcją, która przyjmuje argument typu `T` i zwraca wartość tego samego typu.
 
@@ -270,9 +269,38 @@ fn main() {
 > W języku Rust, `<T, F>` oznacza parametryzowany typ generyczny. Są to tzw. "generyczne typy" lub "typy parametryzowane", które pozwalają na tworzenie funkcji czy struktur danych, które mogą działać na różnych typach danych.
 
 
+---------
+# Kontrola przepływu
+```rust
+if condition {
 
+} else {
 
+}
+```
 
+## `if let`
+`if let` pozwala na przypisanie wartości zmiennej, jeśli warunek jest spełniony.
 
+```rust
+fn main() {
+    let number = Some(10);
 
+    if let Some(number) = number {
+        println!("Liczba to: {}", number);
+    }
+}
 
+```
+
+```rust
+fn main() {
+    let number = 10;
+
+    match number {
+        1 => println!("Liczba to 1"),
+        2 => println!("Liczba to 2"),
+        _ => println!("Liczba jest inna"),
+    }
+}
+```
