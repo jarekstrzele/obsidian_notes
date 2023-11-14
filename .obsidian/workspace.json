@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "943f50017d444939",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "R U S T/Bard - Rust/_ rUST WITH bARD.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e01c6a9f64c0a344",
             "type": "leaf",
             "state": {
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ WEB/REACT/React - the Complete Guide/3 React Basics.md",
+                "file": "R U S T/Bard - Rust/_ rUST WITH bARD.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -143,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ WEB/REACT/React - the Complete Guide/3 React Basics.md",
+                "file": "R U S T/Bard - Rust/_ rUST WITH bARD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ WEB/REACT/React - the Complete Guide/3 React Basics.md"
+                "file": "R U S T/Bard - Rust/_ rUST WITH bARD.md"
               }
             }
           },
@@ -224,12 +236,13 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "60899e75c49fe16d",
+  "active": "943f50017d444939",
   "lastOpenFiles": [
+    "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/3 Rust Types and Memory Management.md",
+    "_ WEB/REACT/React - the Complete Guide/3 React Basics.md",
     "_ WEB/REACT/React - the Complete Guide/4 React State and Working with Events.md",
     "_ WEB/REACT/React - the Complete Guide/5 Rendering Lists and Conditional content.md",
     "_ WEB/REACT/React - the Complete Guide/useCallback.md",
-    "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/3 Rust Types and Memory Management.md",
     "R U S T/Learn Rust by Building Real App/4.5 TCP.md",
     "R U S T/Learn Rust by Building Real App/4.4 Organising a Code into Modules.md",
     "R U S T/Learn Rust by Building Real App/4.3. Enum.md",
@@ -244,7 +257,6 @@
     "_ WEB/REACT/React - the Complete Guide/6.1. Styling extra.md",
     "_ WEB/REACT/React - the Complete Guide/6 Styling React Component (Simple React App).md",
     "_ WEB/REACT/React - the Complete Guide/5.2 Chart.md",
-    "_ WEB/REACT/React - the Complete Guide/3 React Basics.md",
     "_ WEB/REACT/React Bob Ziroll/_React Bob Ziroll.md",
     "_ WEB/REACT/React 18 Tutorial and Projects Course 2023/1. React Fundamentals.md",
     "INTERVIEWS/ZTM/The coding interview.md",
