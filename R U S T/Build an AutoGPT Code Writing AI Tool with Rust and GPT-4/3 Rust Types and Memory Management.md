@@ -9,6 +9,20 @@ int, float, char, bool, fixed-size arrays, tuples -> on stack
 &str immutable string references on (depends)
 `Enum`, `Struct` on (depends)
 
+------------
+[[#Stack vs Heap - memory management]]
+[[#Ownership and Borrowing - immutable references]]
+[[#Dereferencing]]
+
+
+
+
+
+
+
+
+----------
+
 # Stack vs Heap - memory management
 
 ## stack
@@ -218,8 +232,26 @@ fn main() {
 
 ```
 
+-------
+# Scope
+new scope + new stack frame (when called)
 
+```rust
+//function scope
+fn foo(){
+ let c: i32 = 10;
+}
 
+//block scope
+{
+ let c: i32 = 10;
+}
+
+// for
+for i in 0.100{
+	// i is created and destroyed in any iteration
+}
+```
 
 
 

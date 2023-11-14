@@ -1,6 +1,13 @@
 #bard  #rust 
 
+------------------
+[[1 Rust Moduły]]
 
+
+
+
+
+---------
 # Pojęcia podstawowe
 
 - **Kompilator:** Program, który przekształca kod źródłowy w kod maszynowy.

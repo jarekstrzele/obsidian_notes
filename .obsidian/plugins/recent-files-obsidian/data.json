@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "3 Rust Types and Memory Management",
+      "path": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/3 Rust Types and Memory Management.md"
+    },
+    {
       "basename": "_ rUST WITH bARD",
       "path": "R U S T/Bard - Rust/_ rUST WITH bARD.md"
     },
     {
-      "basename": "3 Rust Types and Memory Management",
-      "path": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/3 Rust Types and Memory Management.md"
+      "basename": "1 Rust Moduły",
+      "path": "R U S T/Bard - Rust/1 Rust Moduły.md"
     },
     {
       "basename": "3 React Basics",
@@ -195,10 +199,6 @@
     {
       "basename": "Permission",
       "path": "linux/Lear Linux Shell Programming/Permission.md"
-    },
-    {
-      "basename": "6 Intro to Sed",
-      "path": "linux/Lear Linux Shell Programming/6 Intro to Sed.md"
     }
   ],
   "omittedPaths": [],
