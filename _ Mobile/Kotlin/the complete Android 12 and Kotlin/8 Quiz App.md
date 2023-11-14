@@ -69,7 +69,7 @@ użycie w pliku xml
 </com.google.android.material.card.MaterialCardView>
 ```
 
-jest możliwe o ile w `build.gradle.kts` dodano zależności ` implementation("com.google.android.material:material:1.10.0")  `
+jest możliwe o ile w `build.gradle.kts`  dodano zależności ` implementation("com.google.android.material:material:1.10.0")  `
 ```kotlin
 dependencies {  
   
