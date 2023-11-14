@@ -54,8 +54,22 @@ add:
 >to zestaw wytycznych dotyczących designu stworzonych przez Google. Jest to kompleksowy system projektowy, który obejmuje wygląd, zachowanie i interakcje w interfejsie użytkownika. Material Design został stworzony w celu zapewnienia spójnego i intuicyjnego doświadczenia użytkownika na różnych platformach i urządzeniach, począwszy od aplikacji mobilnych po strony internetowe.
 
 użycie w pliku xml
-`<com.google.android.material.card.MaterialCardView`
+```xml
+<com.google.android.material.card.MaterialCardView  
+    android:layout_width="match_parent"  
+    android:layout_height="wrap_content"  
+    android:layout_marginStart="20dp"  
+    android:layout_marginEnd="20dp"  
+    android:background="@color/white"  
+    app:cardCornerRadius="28dp"  
+    app:cardElevation="4dp"  
+    >
 
+
+</com.google.android.material.card.MaterialCardView>
+```
+
+jest możliwe o ile w `build.gradle.kts` dodano zależności ` implementation("com.google.android.material:material:1.10.0")  `
 ```kotlin
 dependencies {  
   
