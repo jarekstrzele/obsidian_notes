@@ -73,12 +73,12 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Andoid.31.05.excalidraw.md"
+                "file": "Excalidraw/Andoid.excalidraw.md"
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Andoid.31.05.excalidraw.md",
+                "file": "_ Mobile/Kotlin/Kotlin bez tajemnic/_ Kotlin bez tajemnic.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Andoid.31.05.excalidraw.md",
+                "file": "_ Mobile/Kotlin/Kotlin bez tajemnic/_ Kotlin bez tajemnic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Andoid.31.05.excalidraw.md"
+                "file": "_ Mobile/Kotlin/Kotlin bez tajemnic/_ Kotlin bez tajemnic.md"
               }
             }
           },
@@ -258,10 +258,10 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "0b014eb642a5f393",
+  "active": "afee16c553e63f2f",
   "lastOpenFiles": [
+    "Excalidraw/Andoid.excalidraw.md",
     "_ Mobile/Kotlin/Kotlin bez tajemnic/_ Kotlin bez tajemnic.md",
-    "Excalidraw/Andoid.31.05.excalidraw.md",
     "_ Mobile/Kotlin/Kotlin bez tajemnic",
     "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/4 Basics.md",
     "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/3 Rust Types and Memory Management.md",
