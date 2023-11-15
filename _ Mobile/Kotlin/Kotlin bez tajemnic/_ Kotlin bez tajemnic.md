@@ -136,12 +136,64 @@ class GetPicture{
 ```
 
 ## open-closed principle
-błędne, bo dodanie nowego argumentu do funkcji ()
+błędne, bo dodanie nowego argumentu do funkcji (np. walutę), więc musimy ingerować w już istniejący kod
 ```kotlin
 fun showAmount(amount:Int){
 	println(amount)
 }
 ```
+rozwiązanie
+```kotlin
+fun showAmount(amount:Int, currency: String? = null){
+ pintln(amount)
+ currency?.let{ println(currency)}
+}
+```
+albo rozbić tę funkcję na dwie różne
+
+## Liskov substitution principle
+poprawny kod
+```kotlin
+interface Coffee {
+	fun makeCoffee()
+}
+
+class Espresso : Coffee{
+	overrife fun makeCoffee(){
+		prinln("making espresso")
+	}
+	
+}
+
+class FlatWhite:Coffee{
+	override fun makeCoffee(){
+		println("make Flatwhite")
+	}
+}
+```
+
+## Interface segregation principle
+błędny kod
+```kotlin
+interface Animal {
+	fun walk()
+	fun swim()
+	fun fly()
+}
+
+class Fish:Animal{
+	override walk(){}
+	override walk(){}
+	override walk(){}
+	
+}
+```
+
+
+
+
+
+
 
 
 
