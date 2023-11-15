@@ -239,6 +239,67 @@ class Movie :Product{
 # Wzorce programowania
 
 W Andoidzie
-- Model-View-ViewModel
-- 
+- Model-View-ViewModel *MVVM*
+- Model-View-Controller *MVC*
+- Model-View-Presenter *MVP*
+
+## MVC
+>[!info] **CONTROLER**
+> - application logic
+> - receives user actions
+> -  update model
+
+
+>[!info] MODEL
+> - contains data
+> - database communication
+> - sever communication
+
+>[!info] VIEW
+>- user interface
+
+
+VIEW -- user action --> CONTROLLER
+CONTROLLER --update view--> VIEW
+
+MODEL --model changed --> CONTROLLER
+CONTROLLER --update model --> MODEL
+
+MODEL --model changed-->VIEW
+
+
+
+## MVP bardzo podobny do MVC
+
+
+## MVVM
+PRZEDE WSZYSTKIM TEN SPOSÓB
+
+>[!info] MODEL
+>- data repository
+>- database communication
+>- server communication
+
+>[!info] VIEW
+>- user interface
+>- business logic
+>- observes VIEWMODEL events
+
+>[!info] VIEWMODEL
+>- presentation logic
+>- receives user actions
+>- observes model events
+
+MODEL -- model change callbacks --> VIEWMODEL
+
+
+
+
+
+
+
+
+
+
+
 
