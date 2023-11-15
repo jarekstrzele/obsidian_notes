@@ -22,6 +22,10 @@ fun multiplyByTen(x: Int) = x * 10
 ```
 
 
+## data class
+Wydziela podstawowe dane
+
+
 
 
 
