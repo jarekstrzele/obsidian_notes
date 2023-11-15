@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Kotlin/Kotlin bez tajemnic/_ Kotlin bez tajemnic.md",
+                "file": "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md",
                 "mode": "source",
                 "source": false
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Kotlin/Kotlin bez tajemnic/_ Kotlin bez tajemnic.md",
+                "file": "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Kotlin/Kotlin bez tajemnic/_ Kotlin bez tajemnic.md",
+                "file": "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Kotlin/Kotlin bez tajemnic/_ Kotlin bez tajemnic.md"
+                "file": "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md"
               }
             }
           },
@@ -258,10 +258,11 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "afee16c553e63f2f",
+  "active": "f621f21825dbd82d",
   "lastOpenFiles": [
-    "_ WEB/REACT/React - the Complete Guide/3 React Basics.md",
     "_ Mobile/Kotlin/Kotlin bez tajemnic/_ Kotlin bez tajemnic.md",
+    "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md",
+    "_ WEB/REACT/React - the Complete Guide/3 React Basics.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md",
     "Excalidraw/Andoid.excalidraw.md",
     "_ Mobile/Kotlin/Kotlin bez tajemnic",
@@ -286,7 +287,6 @@
     "_ WEB/REACT/React - the Complete Guide/6 Styling React Component (Simple React App).md",
     "_ WEB/REACT/React - the Complete Guide/5.2 Chart.md",
     "_ WEB/REACT/React Bob Ziroll/_React Bob Ziroll.md",
-    "_ WEB/REACT/React 18 Tutorial and Projects Course 2023/1. React Fundamentals.md",
     "pexels-alex-fu-1302436.jpg",
     "C Sharp/Complete CSharp MasterClass",
     "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4",

@@ -1,6 +1,11 @@
 #kotlin  #android 
 
+----
+[[3 Podstawy tworzenia aplikacji]]
 
+
+
+-----
 ![[Andoid.excalidraw | 600]]
 
 
@@ -291,7 +296,10 @@ PRZEDE WSZYSTKIM TEN SPOSÓB
 >- observes model events
 
 MODEL -- model change callbacks --> VIEWMODEL
+VIEW -- UI EVENT --> VIEWMODEL
 
+VIEWMODEL -- send data--> MODEL
+VIEWMODEL --data streams--> VIEW
 
 
 
