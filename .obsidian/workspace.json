@@ -144,7 +144,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 356.50418853759766
+    "width": 222.5110321044922
   },
   "right": {
     "id": "ec7d1a70da2de581",
@@ -258,7 +258,7 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "afee16c553e63f2f",
+  "active": "f621f21825dbd82d",
   "lastOpenFiles": [
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md",
     "_ Mobile/Kotlin/Kotlin bez tajemnic/_ Kotlin bez tajemnic.md",

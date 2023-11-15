@@ -74,6 +74,74 @@ fun main() {
     
     val numbers: List<Int>? = null
     numbers?.let{ println(numbers.size) } ?: println("Pusta lista ma rozmiar 0!")
-}    
+    
+    var x: Int? = null
+    (  x?.let{ println("x=${x+5}") } ) ?: ( println("x=$x") )
+} 
 ```
+
+
+
+--------
+## działania na listach
+```kotlin
+fun main() {
+    
+    val numbers = listOf(12,3,92,8,43)
+    if(numbers.contains(13)) println("yes")
+    else if (numbers.contains(12)) println("yes 12")
+    else println("no")
+    
+    writeNumber(14)
+}
+
+fun writeNumber(number:Int){
+    when(number){
+        12->println("twelve")
+        15->println("fifteen")
+        8->println("eight")
+        else -> println("nothing to print")
+    }
+}
+```
+
+---------
+# SOLID
+#solid 
+
+## single responsibility principle
+błędny kod, bo klasa odpowiada za wyświetlanie i pobieranie
+```kotlin
+class ShowPicture{
+	fun action(){
+	}
+
+	fun getPicture(){
+	}
+}
+```
+
+rozwiązanie:
+```kotlin
+class ShowPicture{
+	fun action(){
+	}
+
+}
+
+class GetPicture{
+	fun getPicture(){
+	}
+}
+```
+
+## open-closed principle
+błędne, bo dodanie nowego argumentu do funkcji ()
+```kotlin
+fun showAmount(amount:Int){
+	println(amount)
+}
+```
+
+
 
