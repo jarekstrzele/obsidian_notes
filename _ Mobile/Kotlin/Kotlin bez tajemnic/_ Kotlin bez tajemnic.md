@@ -62,8 +62,18 @@ fun main() {
 ```
 
 
+### operator `elvisa` *ternary operator*
+```kotlin
+a ?: b
 
+```
+gdzie `a` i `b` są wyrażeniami. Operator elvisa sprawdza, czy `a` jest różne od `null`. Jeśli tak, zwraca `a`; w przeciwnym razie zwraca `b`.
 
-
-
+```kotlin
+fun main() {
+    
+    val numbers: List<Int>? = null
+    numbers?.let{ println(numbers.size) } ?: println("Pusta lista ma rozmiar 0!")
+}
+```
 
