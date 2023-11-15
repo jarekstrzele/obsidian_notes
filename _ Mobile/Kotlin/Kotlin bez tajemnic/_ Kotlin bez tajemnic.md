@@ -183,17 +183,62 @@ interface Animal {
 
 class Fish:Animal{
 	override walk(){}
-	override walk(){}
-	override walk(){}
+	override swin(){}
+	override fly(){}
 	
+}
+
+class Dog: Animal{
+	
+	override walk(){}
+	override swin(){}
+	override fly(){}
+}
+```
+
+lepiej zrobić oddzielne interfejsy, bo przecież `Dog` nie będzie latał, a `Fish` chodził
+```kotlin
+interface Bird{
+	fun fly()
+}
+```
+
+## Dependency Inversion principle
+Moduły wysokopoziomowe powinny być odporne na zmiany modułów niskopoziomowych
+
+błędny kod
+```kotlin
+class Shelf{
+	fun addBook(book:Book){}
+	fun addMovie(book:Book){}
+	
+}
+```
+
+lepiej
+```kotlin
+class Shelf{
+	fun addProduct(product: Product){}
+}
+
+interface Product{
+	 val name: String
+}
+class Book :Product{
+	override val name = "Book"
+}
+
+class Movie :Product{
+	override val name = "Movie"
 }
 ```
 
 
 
+---
+# Wzorce programowania
 
-
-
-
-
+W Andoidzie
+- Model-View-ViewModel
+- 
 

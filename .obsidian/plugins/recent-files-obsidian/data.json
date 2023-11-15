@@ -5,6 +5,10 @@
       "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/_ Kotlin bez tajemnic.md"
     },
     {
+      "basename": "3 React Basics",
+      "path": "_ WEB/REACT/React - the Complete Guide/3 React Basics.md"
+    },
+    {
       "basename": "8 Quiz App",
       "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "1 Rust Moduły",
       "path": "R U S T/Bard - Rust/1 Rust Moduły.md"
-    },
-    {
-      "basename": "3 React Basics",
-      "path": "_ WEB/REACT/React - the Complete Guide/3 React Basics.md"
     },
     {
       "basename": "4 React State and Working with Events",
