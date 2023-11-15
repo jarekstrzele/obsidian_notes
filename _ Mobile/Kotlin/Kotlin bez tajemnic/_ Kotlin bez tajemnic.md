@@ -74,6 +74,6 @@ fun main() {
     
     val numbers: List<Int>? = null
     numbers?.let{ println(numbers.size) } ?: println("Pusta lista ma rozmiar 0!")
-}
+}    
 ```
 
