@@ -2,8 +2,8 @@
 
 ## `cargo new playaround`
 
-
-```rust
+# Fixed size variables
+```Rust
 const OUR_COURSE: &str = "Rust with AutoGPT" ;
 
 fn main() {
@@ -38,6 +38,10 @@ fn main() {
     println!("my ints is {new_arr:?}") ;
 }
 ```
+
+
+# Dynamic Sized Variables
+
 
 
 
