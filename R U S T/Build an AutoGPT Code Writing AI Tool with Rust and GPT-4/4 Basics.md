@@ -42,6 +42,45 @@ fn main() {
 
 # Dynamic Sized Variables
 
+```rust
+
+
+fn main() {
+   
+    let name: &str = "Shoaun is a lamb" ;
+    println!("name is {:?}", name );
+
+    let dynamic_name: String = String::from("Shoan is a lamb") ;
+    println!("Dynamic name: {dynamic_name}") ;
+    println!("dynamic name in memody {:p}", &dynamic_name) ;
+    
+    let dynamic_name1: String = name.to_string();
+    let dynamic_name2: String = "Shoan".to_string();
+    
+    let str_slice: &str = &dynamic_name[0..5] ;
+    //let println!("str_slice is {:?}", str_slice) ;
+    println!("str_slice is {:?}", str_slice);
+    
+    let mut chars: Vec<char> = Vec::new();
+    chars.insert(0, 'h') ;
+    chars.insert(1, 'e') ;
+    chars.insert(2, 'l') ;
+    chars.push('l') ;
+    chars.push('o') ;
+    println!("chars: {:?}", chars) ;
+    //dbg!(chars) ; // dbg borrows chars
+    dbg!(&chars) ;
+    let removed_char: char = chars.pop().unwrap();
+    println!("pop()-> {}", removed_char);
+
+    
+}
+
+```
+
+# Basic collection
+
+
 
 
 
