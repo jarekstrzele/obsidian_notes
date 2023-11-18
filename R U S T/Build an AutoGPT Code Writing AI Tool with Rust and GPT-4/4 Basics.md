@@ -146,6 +146,42 @@ fn main() {
 
 # Number Literals and Raw Strings
 
+```rust
+fn main() {
+
+    //Number Literals
+    println!("Big Number is {}", 98_222_000) ; //     Big Number is 98222000
+    println!("Hex is {}", 0x77) ;// Hex is 119
+    println!("Octal is {}", 0o77) ;// Octal is 63
+    println!("Binary is {}", 0b111_000) ; // Binary is 56
+    println!("Bytes 'A' is {}", b'A') ; // Bytes 'A' is 65
+
+    //raw string literal
+    let text: &str = r#""message": "Rust is Awesome "#;
+    dbg!(text); //[src/main.rs:14] text = "\\\"message\": \"Rust is Awesome "
+        
+    
+}
+
+```
+
+
+# Working Low Level with Binary
+
+
+
+
+
+
+
+
+
+
+
+
+# Rust std Library
+#rust/std
+
 
 
 
