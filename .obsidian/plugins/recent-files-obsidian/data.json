@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "_ Intro to MongoDB",
+      "path": "Data Bases/MongoDB/Introduction to the MongoDB/_ Intro to MongoDB.md"
+    },
+    {
       "basename": "5 Rust Intermadiate",
       "path": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/5 Rust Intermadiate.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2. DataTypes and Variables",
       "path": "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md"
-    },
-    {
-      "basename": "Formatowanie dysku w wierszu poleceń Windows",
-      "path": "Formatowanie dysku w wierszu poleceń Windows.md"
     }
   ],
   "omittedPaths": [],

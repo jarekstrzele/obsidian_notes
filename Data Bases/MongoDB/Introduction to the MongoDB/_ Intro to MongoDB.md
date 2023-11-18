@@ -57,11 +57,11 @@ join request | no join request
 	- is used for management of  the mongo server
 	- to insert/update/delete  docs into the mongo server, 
 	- CRUD
-"Warning: the "**mongo**" shell has been superseded by "**mongosh**","
+### "Warning: the "**mongo**" shell has been superseded by "**mongosh**","
 
-``docker exec -it mymongo bash
+#### ``docker exec -it mymongo bash
 
-`docker exec -it mymongo mongosh`
+#### `docker exec -it mymongo mongosh`
 #docker/exec #mongosh 
 
 in mongosh:
