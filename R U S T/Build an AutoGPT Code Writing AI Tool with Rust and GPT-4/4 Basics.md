@@ -80,9 +80,29 @@ fn main() {
 
 # Basic collection
 
+```rust
+    let mut chars: Vec<char> = Vec::new();
+    chars.insert(0, 'h') ;
+    chars.insert(1, 'e') ;
+    chars.insert(2, 'l') ;
+    chars.push('l') ;
+    chars.push('o') ;
+    println!("chars: {:?}", chars) ; //chars: ['h', 'e', 'l', 'l', 'o']
+    chars.iter().for_each(|c: &char| print!("{}", c)) ; //hello
+```
 
-
-
+```rust
+    let chars_again: Vec<char> = vec!('h','e','l','l','o') ;
+    dbg!(&chars_again) ;
+//     [src/main.rs:6] &chars_again = [
+//     'h',
+//     'e',
+//     'l',
+//     'l',
+//     'o',
+// ]
+    
+```
 
 
 
