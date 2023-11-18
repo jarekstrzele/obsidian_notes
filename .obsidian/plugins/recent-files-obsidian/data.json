@@ -1,24 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "_ MongoDB Complete",
+      "path": "DB/MongoDB - The Complete 2023/_ MongoDB Complete.md"
+    },
+    {
       "basename": "Learn MongDB in 1 Hout",
       "path": "Learn MongDB in 1 Hout.md"
     },
     {
       "basename": "_ 0 Start",
-      "path": "Data Bases/MongoDB/Master MongoDB/_ 0 Start.md"
+      "path": "DB/MongoDB/Master MongoDB/_ 0 Start.md"
     },
     {
       "basename": "5 - Collection Creation and Documents Insertion",
-      "path": "Data Bases/MongoDB/Introduction to the MongoDB/5 - Collection Creation and Documents Insertion.md"
+      "path": "DB/MongoDB/Introduction to the MongoDB/5 - Collection Creation and Documents Insertion.md"
     },
     {
       "basename": "4 - Data Formats in MongoDb",
-      "path": "Data Bases/MongoDB/Introduction to the MongoDB/4 - Data Formats in MongoDb.md"
+      "path": "DB/MongoDB/Introduction to the MongoDB/4 - Data Formats in MongoDb.md"
     },
     {
       "basename": "_ Intro to MongoDB",
-      "path": "Data Bases/MongoDB/Introduction to the MongoDB/_ Intro to MongoDB.md"
+      "path": "DB/MongoDB/Introduction to the MongoDB/_ Intro to MongoDB.md"
     },
     {
       "basename": "5 Rust Intermadiate",
@@ -195,10 +199,6 @@
     {
       "basename": "Application Actix",
       "path": "_ WEB/Rust/Actix/Application Actix.md"
-    },
-    {
-      "basename": "App Actix",
-      "path": "_ WEB/Rust/Actix/App Actix.md"
     }
   ],
   "omittedPaths": [],

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Bases/MongoDB/Master MongoDB/_ 0 Start.md",
+                "file": "DB/MongoDB/Master MongoDB/_ 0 Start.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learn MongDB in 1 Hout.md",
+                "file": "DB/MongoDB - The Complete 2023/_ MongoDB Complete.md",
                 "mode": "source",
                 "source": false
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learn MongDB in 1 Hout.md",
+                "file": "DB/MongoDB - The Complete 2023/_ MongoDB Complete.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -189,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learn MongDB in 1 Hout.md",
+                "file": "DB/MongoDB - The Complete 2023/_ MongoDB Complete.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learn MongDB in 1 Hout.md"
+                "file": "DB/MongoDB - The Complete 2023/_ MongoDB Complete.md"
               }
             }
           },
@@ -272,11 +272,13 @@
   },
   "active": "d66c46a7556ec2c5",
   "lastOpenFiles": [
-    "Data Bases/MongoDB/Master MongoDB/_ 0 Start.md",
     "Learn MongDB in 1 Hout.md",
-    "Data Bases/MongoDB/Introduction to the MongoDB/5 - Collection Creation and Documents Insertion.md",
-    "Data Bases/MongoDB/Introduction to the MongoDB/4 - Data Formats in MongoDb.md",
-    "Data Bases/MongoDB/Introduction to the MongoDB/_ Intro to MongoDB.md",
+    "DB/MongoDB - The Complete 2023/_ MongoDB Complete.md",
+    "DB/MongoDB - The Complete 2023",
+    "DB/MongoDB/Master MongoDB/_ 0 Start.md",
+    "DB/MongoDB/Introduction to the MongoDB/5 - Collection Creation and Documents Insertion.md",
+    "DB/MongoDB/Introduction to the MongoDB/4 - Data Formats in MongoDb.md",
+    "DB/MongoDB/Introduction to the MongoDB/_ Intro to MongoDB.md",
     "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/5 Rust Intermadiate.md",
     "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/4 Basics.md",
     "_ Mobile/Kotlin/Kotlin bez tajemnic/_ Kotlin bez tajemnic.md",
@@ -298,7 +300,6 @@
     "R U S T/Learn Rust by Building Real App/4.1 Struct.md",
     "R U S T/Learn Rust by Building Real App/_ Learn Rust by Building Apps.md",
     "Harvard CS50 Full Computer Science University Course.md",
-    "_ WEB/REACT/React - the Complete Guide/14 Connecting to a Database.md",
     "pexels-alex-fu-1302436.jpg",
     "C Sharp/Complete CSharp MasterClass",
     "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4",
@@ -309,7 +310,6 @@
     "A I/Harvard CS50 AI with Python",
     "_ Desktop/Python/GUI/Tkinter/from 100 Days of Code",
     "_ WEB/REACT/React 18 Tutorial and Projects Course 2023",
-    "_ Desktop/WPF",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
