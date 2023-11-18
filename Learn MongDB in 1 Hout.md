@@ -22,6 +22,23 @@ https://www.youtube.com/watch?v=c2M-rlkkT5o
 	- run `mongosh.exe` and write `mongosh` it stablish a connection to the MongoDB 
 	- OR VS Code, extension to *MongoDB  fo VS Code*
 
+# Basics
+```bash
+> show dbs
+admin    40.00 KiB
+config  108.00 KiB
+local    72.00 KiB```
+
+to use the database admin  `use admin`
+to create a database  `use newDB`
+to create a collection `db.createCollection("nameOFCollections")` 
+to exit from the data base `db.dropDatabase()`
+
+
+
+
+
+
 
 
 
