@@ -18,8 +18,10 @@ https://www.youtube.com/watch?v=c2M-rlkkT5o
 - Compas (GUI for managing our database) https://www.mongodb.com/try/download/compass
 - mongoDB shell `mongosh` https://www.mongodb.com/try/download/shell
 	- extract files
-	- `>bin>mongosh.exec` add the path to envirement path
-- 
+	- `>bin>mongosh.exe` add the path to envirement path
+	- run `mongosh.exe` and write `mongosh` it stablish a connection to the MongoDB 
+	- OR VS Code, extension to *MongoDB  fo VS Code*
+
 
 
 
