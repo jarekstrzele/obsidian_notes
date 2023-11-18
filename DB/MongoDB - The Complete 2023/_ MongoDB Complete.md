@@ -27,7 +27,24 @@
 
 # BSON data structure
 - no schema
-- 
+- no/few relations 
+
+# MongoDB Ecosytem
+- MongoDB Database
+	- self-managed/enterprise
+	- Altas (cloud)
+	- Mobile
+	- 
+	- COmpasee
+	- BI Connectors
+	- MongoDB Charts
+
+- Stitch
+	- serverless Query API
+	- Serverless Functions
+	- database Triggers
+	- Real-Time Sync
+
 
 
 
