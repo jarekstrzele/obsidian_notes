@@ -35,7 +35,66 @@ to create a collection `db.createCollection("nameOFCollections")`
 to exit from the data base `db.dropDatabase()`
 
 
+#### `db.students.insertOne({})`
+#### `db.students.find()`
+#### `db.students.insertMany( [ { },{ },{ } ] )`
+#### `db.students.find()`
 
+```bash
+myFirst> use school
+switched to db school
+school> db.students.insertOne({"name":"Songebob", age:30, gpa:3.2})
+{
+  acknowledged: true,
+  insertedId: ObjectId("655935b54b271d73a5b93186")
+}
+school> db.students.find()
+[
+  {
+    _id: ObjectId("655935b54b271d73a5b93186"),
+    name: 'Songebob',
+    age: 30,
+    gpa: 3.2
+  }
+]
+school> db.students.insertMany([{name:"Patric", age: 38, gpa:1.5},{name:"Sandy", age:27, gps:4.0},{name:"Gary",age:18, gpa:2.5}])
+{
+  acknowledged: true,
+  insertedIds: {
+    '0': ObjectId("655936294b271d73a5b93187"),
+    '1': ObjectId("655936294b271d73a5b93188"),
+    '2': ObjectId("655936294b271d73a5b93189")
+  }
+}
+school> db.students.find()
+[
+  {
+    _id: ObjectId("655935b54b271d73a5b93186"),
+    name: 'Songebob',
+    age: 30,
+    gpa: 3.2
+  },
+  {
+    _id: ObjectId("655936294b271d73a5b93187"),
+    name: 'Patric',
+    age: 38,
+    gpa: 1.5
+  },
+  {
+    _id: ObjectId("655936294b271d73a5b93188"),
+    name: 'Sandy',
+    age: 27,
+    gps: 4
+  },
+  {
+    _id: ObjectId("655936294b271d73a5b93189"),
+    name: 'Gary',
+    age: 18,
+    gpa: 2.5
+  }
+]
+school>
+```
 
 
 
