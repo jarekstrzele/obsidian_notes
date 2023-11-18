@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "5 Rust Intermadiate",
+      "path": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/5 Rust Intermadiate.md"
+    },
+    {
       "basename": "4 Basics",
       "path": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/4 Basics.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Formatowanie dysku w wierszu poleceń Windows",
       "path": "Formatowanie dysku w wierszu poleceń Windows.md"
-    },
-    {
-      "basename": "middleware",
-      "path": "middleware.md"
     }
   ],
   "omittedPaths": [],

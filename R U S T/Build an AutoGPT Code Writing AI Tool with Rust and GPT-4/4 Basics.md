@@ -167,21 +167,36 @@ fn main() {
 
 
 # Working Low Level with Binary
+```rust
+fn main() {
+    let a: u8 = 0b_1010_1010;
+    let b: u8 = 0b_1001_1010;
+    println!("'a' value is {}" , a); // 'a' value is 170
+    println!("'b' value is {}" , b); //'b' value is 154
+  
+    println!("a in binary {:08b}", a); // a in binary 10101010
+    println!("b in binary {:08b}", b); // b in binary 10011010
 
-
-
-
-
-
-
-
+    
+    // logic gates
+    println!("AND: {:08b}", a & b) ; // AND: 10001010
+    println!("OR: {:08b}", a | b) ;// OR: 10111010
+    println!("xOR: {:08b}", a ^ b) ;// xOR: 00110000
+    println!("NOT: {:08b}", !a) ;// NOT: 01010101
+    
+    // bitwise operators
+    println!("a = {:08b}", a) ;  //   a =    10101010
+    println!("a << 1 {:08b}", a<<1);//a << 1 01010100
+    println!("a << 1 {:08b}", a>>1);//a << 1 01010101 
+}
+```
 
 
 
 
 # Rust std Library
 #rust/std
-
+### `use std::collections::{HashMap, BTreeMap} ;`
 
 
 
