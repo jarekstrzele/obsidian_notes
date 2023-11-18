@@ -105,10 +105,46 @@ fn main() {
 ```
 
 
+```rust
+  let chars_again: Vec<char> = vec!('h','e','l','l','o') ;
+  
+    let collected: String = chars_again.iter().collect();
+    // dbg!(collected) ; /[src/main.rs:8] collected = "hello"
+    
+```
 
 
+```rust
+fn main() {
+
+    let chars_again: Vec<char> = vec!('h','e','l','l','o') ;
+  
+    for c in chars_again{
+        print!("{}", c) ;
+        if c=='o' {
+            print!(" world!") ;
+        }
+        
+    }
+}
+```
 
 
+# Closure
+#rust/clone 
+
+```rust
+fn main() {
+
+    let num : i32 = 5;
+    let add_num = |x: i32| x + num ;
+    let new_num: i32 = add_num(7) ;
+    dbg!(new_num) ;
+}
+```
+
+
+# Number Literals and Raw Strings
 
 
 
