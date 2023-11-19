@@ -83,14 +83,16 @@
             "id": "0b014eb642a5f393",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Andoid.excalidraw.md"
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -172,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DB/MongoDB - The Complete 2023/_ MongoDB Complete.md",
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -189,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DB/MongoDB - The Complete 2023/_ MongoDB Complete.md",
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DB/MongoDB - The Complete 2023/_ MongoDB Complete.md"
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md"
               }
             }
           },
@@ -270,12 +272,19 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "d66c46a7556ec2c5",
+  "active": "0b014eb642a5f393",
   "lastOpenFiles": [
-    "Learn MongDB in 1 Hout.md",
-    "DB/MongoDB - The Complete 2023/_ MongoDB Complete.md",
-    "DB/MongoDB - The Complete 2023",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.12 Indeksery.md",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.11 Struktury.md",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
+    "Excalidraw/Andoid.excalidraw.md",
+    "_ WEB/REACT/React - the Complete Guide/3 React Basics.md",
+    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md",
+    "R U S T/Bard - Rust/_ rUST WITH bARD.md",
     "DB/MongoDB/Master MongoDB/_ 0 Start.md",
+    "DB/MongoDB - The Complete 2023/_ MongoDB Complete.md",
+    "Learn MongDB in 1 Hout.md",
+    "DB/MongoDB - The Complete 2023",
     "DB/MongoDB/Introduction to the MongoDB/5 - Collection Creation and Documents Insertion.md",
     "DB/MongoDB/Introduction to the MongoDB/4 - Data Formats in MongoDb.md",
     "DB/MongoDB/Introduction to the MongoDB/_ Intro to MongoDB.md",
@@ -283,12 +292,8 @@
     "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/4 Basics.md",
     "_ Mobile/Kotlin/Kotlin bez tajemnic/_ Kotlin bez tajemnic.md",
     "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md",
-    "_ WEB/REACT/React - the Complete Guide/3 React Basics.md",
-    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md",
-    "Excalidraw/Andoid.excalidraw.md",
     "_ Mobile/Kotlin/Kotlin bez tajemnic",
     "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/3 Rust Types and Memory Management.md",
-    "R U S T/Bard - Rust/_ rUST WITH bARD.md",
     "R U S T/Bard - Rust/1 Rust Moduły.md",
     "_ WEB/REACT/React - the Complete Guide/4 React State and Working with Events.md",
     "_ WEB/REACT/React - the Complete Guide/5 Rendering Lists and Conditional content.md",
@@ -297,9 +302,6 @@
     "R U S T/Learn Rust by Building Real App/4.4 Organising a Code into Modules.md",
     "R U S T/Learn Rust by Building Real App/4.3. Enum.md",
     "R U S T/Learn Rust by Building Real App/4.2 Strings.md",
-    "R U S T/Learn Rust by Building Real App/4.1 Struct.md",
-    "R U S T/Learn Rust by Building Real App/_ Learn Rust by Building Apps.md",
-    "Harvard CS50 Full Computer Science University Course.md",
     "pexels-alex-fu-1302436.jpg",
     "C Sharp/Complete CSharp MasterClass",
     "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4",

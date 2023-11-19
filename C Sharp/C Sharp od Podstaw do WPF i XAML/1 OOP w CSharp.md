@@ -13,7 +13,7 @@
 [[1.9. Enum]]
 [[1.10. Przestrzeń nazw]]
 [[1.11 Struktury]]
-
+[[1.12 Indeksery]]
 
 
 

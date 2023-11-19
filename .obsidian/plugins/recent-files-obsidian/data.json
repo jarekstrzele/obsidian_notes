@@ -1,16 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "1 OOP w CSharp",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md"
+    },
+    {
+      "basename": "1.12 Indeksery",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.12 Indeksery.md"
+    },
+    {
+      "basename": "1.11 Struktury",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.11 Struktury.md"
+    },
+    {
+      "basename": "Andoid.excalidraw",
+      "path": "Excalidraw/Andoid.excalidraw.md"
+    },
+    {
+      "basename": "3 React Basics",
+      "path": "_ WEB/REACT/React - the Complete Guide/3 React Basics.md"
+    },
+    {
+      "basename": "8 Quiz App",
+      "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md"
+    },
+    {
+      "basename": "_ rUST WITH bARD",
+      "path": "R U S T/Bard - Rust/_ rUST WITH bARD.md"
+    },
+    {
+      "basename": "_ 0 Start",
+      "path": "DB/MongoDB/Master MongoDB/_ 0 Start.md"
+    },
+    {
       "basename": "_ MongoDB Complete",
       "path": "DB/MongoDB - The Complete 2023/_ MongoDB Complete.md"
     },
     {
       "basename": "Learn MongDB in 1 Hout",
       "path": "Learn MongDB in 1 Hout.md"
-    },
-    {
-      "basename": "_ 0 Start",
-      "path": "DB/MongoDB/Master MongoDB/_ 0 Start.md"
     },
     {
       "basename": "5 - Collection Creation and Documents Insertion",
@@ -41,24 +69,8 @@
       "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md"
     },
     {
-      "basename": "3 React Basics",
-      "path": "_ WEB/REACT/React - the Complete Guide/3 React Basics.md"
-    },
-    {
-      "basename": "8 Quiz App",
-      "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md"
-    },
-    {
-      "basename": "Andoid.excalidraw",
-      "path": "Excalidraw/Andoid.excalidraw.md"
-    },
-    {
       "basename": "3 Rust Types and Memory Management",
       "path": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/3 Rust Types and Memory Management.md"
-    },
-    {
-      "basename": "_ rUST WITH bARD",
-      "path": "R U S T/Bard - Rust/_ rUST WITH bARD.md"
     },
     {
       "basename": "1 Rust Moduły",
@@ -153,10 +165,6 @@
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.3 Klasy zagnieżdżone.md"
     },
     {
-      "basename": "1.11 Struktury",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.11 Struktury.md"
-    },
-    {
       "basename": "1.10. Przestrzeń nazw",
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.10. Przestrzeń nazw.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Responder Actix",
       "path": "_ WEB/Rust/Actix/Responder Actix.md"
-    },
-    {
-      "basename": "Web Actix",
-      "path": "_ WEB/Rust/Actix/Web Actix.md"
-    },
-    {
-      "basename": "Application Actix",
-      "path": "_ WEB/Rust/Actix/Application Actix.md"
     }
   ],
   "omittedPaths": [],
