@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Tkinter",
+      "path": "_ Desktop/Python/GUI/Tkinter.md"
+    },
+    {
+      "basename": "Icons, Images, Exit Button",
+      "path": "_ Desktop/Python/GUI/Tkinter/Icons, Images, Exit Button.md"
+    },
+    {
+      "basename": "Calculator simple",
+      "path": "_ Desktop/Python/GUI/Tkinter/Calculator simple.md"
+    },
+    {
+      "basename": "_ 0 Modern GUIs Python",
+      "path": "_ Desktop/Python/GUI/Tkinter/modern GUIs/_ 0 Modern GUIs Python.md"
+    },
+    {
+      "basename": "_ Tkinter",
+      "path": "_ Desktop/Python/GUI/Tkinter/from 100 Days of Code/_ Tkinter.md"
+    },
+    {
       "basename": "1.12 Indeksery",
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.12 Indeksery.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "heap_rust_stack.excalidraw",
       "path": "Excalidraw/heap_rust_stack.excalidraw.md"
-    },
-    {
-      "basename": "_ Rocket Rust",
-      "path": "_ WEB/Rust/Rocket/_ Rocket Rust.md"
-    },
-    {
-      "basename": "8. Debugging",
-      "path": "C Sharp/Complete CSharp MasterClass/8. Debugging.md"
-    },
-    {
-      "basename": "Rocket with Bard",
-      "path": "_ WEB/Rust/Rocket/Rocket with Bard.md"
-    },
-    {
-      "basename": "_ Actix Rust",
-      "path": "_ WEB/Rust/Actix/_ Actix Rust.md"
-    },
-    {
-      "basename": "Responder Actix",
-      "path": "_ WEB/Rust/Actix/Responder Actix.md"
     }
   ],
   "omittedPaths": [],
