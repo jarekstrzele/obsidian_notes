@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Desktop/Python/GUI/Tkinter.md",
+                "file": "_ Desktop/Python/GUI/Tkinter/Tkinter 0.md",
                 "mode": "source",
                 "source": false
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Desktop/Python/GUI/Tkinter.md",
+                "file": "_ Desktop/Python/GUI/Tkinter/Tkinter 0.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Desktop/Python/GUI/Tkinter.md",
+                "file": "_ Desktop/Python/GUI/Tkinter/Tkinter 0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Desktop/Python/GUI/Tkinter.md"
+                "file": "_ Desktop/Python/GUI/Tkinter/Tkinter 0.md"
               }
             }
           },
@@ -274,6 +274,9 @@
   },
   "active": "0b014eb642a5f393",
   "lastOpenFiles": [
+    "_ Desktop/Python/GUI/Tkinter/Tkinter Pomidoro.md",
+    "_ Desktop/Python/GUI/Tkinter/Widżety proste TkInter.md",
+    "_ Desktop/Python/GUI/Tkinter.md",
     "_ Desktop/Python/GUI/Tkinter/Icons, Images, Exit Button.md",
     "_ Desktop/Python/GUI/Tkinter/Calculator simple.md",
     "_ Desktop/Python/GUI/Tkinter/modern GUIs/_ 0 Modern GUIs Python.md",
@@ -299,9 +302,6 @@
     "_ Mobile/Kotlin/Kotlin bez tajemnic",
     "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/3 Rust Types and Memory Management.md",
     "R U S T/Bard - Rust/1 Rust Moduły.md",
-    "_ WEB/REACT/React - the Complete Guide/4 React State and Working with Events.md",
-    "_ WEB/REACT/React - the Complete Guide/5 Rendering Lists and Conditional content.md",
-    "_ WEB/REACT/React - the Complete Guide/useCallback.md",
     "pexels-alex-fu-1302436.jpg",
     "C Sharp/Complete CSharp MasterClass",
     "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4",
