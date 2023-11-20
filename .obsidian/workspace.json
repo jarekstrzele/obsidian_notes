@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Desktop/Python/GUI/Tkinter/Tkinter 0.md",
+                "file": "_ Desktop/Python/GUI/Tkinter/Icons, Images, Exit Button.md",
                 "mode": "source",
                 "source": false
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Desktop/Python/GUI/Tkinter/Tkinter 0.md",
+                "file": "_ Desktop/Python/GUI/Tkinter/Icons, Images, Exit Button.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Desktop/Python/GUI/Tkinter/Tkinter 0.md",
+                "file": "_ Desktop/Python/GUI/Tkinter/Icons, Images, Exit Button.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Desktop/Python/GUI/Tkinter/Tkinter 0.md"
+                "file": "_ Desktop/Python/GUI/Tkinter/Icons, Images, Exit Button.md"
               }
             }
           },
@@ -274,6 +274,7 @@
   },
   "active": "0b014eb642a5f393",
   "lastOpenFiles": [
+    "_ Desktop/Python/GUI/Tkinter/Tkinter 0.md",
     "_ Desktop/Python/GUI/Tkinter/Tkinter Pomidoro.md",
     "_ Desktop/Python/GUI/Tkinter/Widżety proste TkInter.md",
     "_ Desktop/Python/GUI/Tkinter.md",
@@ -301,7 +302,6 @@
     "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md",
     "_ Mobile/Kotlin/Kotlin bez tajemnic",
     "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/3 Rust Types and Memory Management.md",
-    "R U S T/Bard - Rust/1 Rust Moduły.md",
     "pexels-alex-fu-1302436.jpg",
     "C Sharp/Complete CSharp MasterClass",
     "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4",
