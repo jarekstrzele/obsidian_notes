@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Widżety proste TkInter",
-      "path": "_ Desktop/Python/GUI/Tkinter/Widżety proste TkInter.md"
+      "basename": "Icons, Images, Exit Button",
+      "path": "_ Desktop/Python/GUI/Tkinter/Icons, Images, Exit Button.md"
+    },
+    {
+      "basename": "Calculator simple",
+      "path": "_ Desktop/Python/GUI/Tkinter/Calculator simple.md"
+    },
+    {
+      "basename": "Tkinter",
+      "path": "_ Desktop/Python/GUI/Tkinter/Tkinter.md"
     },
     {
       "basename": "Tkinter 0",
@@ -13,16 +21,12 @@
       "path": "_ Desktop/Python/GUI/Tkinter/Tkinter Pomidoro.md"
     },
     {
-      "basename": "Icons, Images, Exit Button",
-      "path": "_ Desktop/Python/GUI/Tkinter/Icons, Images, Exit Button.md"
+      "basename": "Widżety proste TkInter",
+      "path": "_ Desktop/Python/GUI/Tkinter/Widżety proste TkInter.md"
     },
     {
       "basename": "Tkinter",
       "path": "_ Desktop/Python/GUI/Tkinter.md"
-    },
-    {
-      "basename": "Calculator simple",
-      "path": "_ Desktop/Python/GUI/Tkinter/Calculator simple.md"
     },
     {
       "basename": "_ 0 Modern GUIs Python",
@@ -195,10 +199,6 @@
     {
       "basename": "1.3 Klasy zagnieżdżone",
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.3 Klasy zagnieżdżone.md"
-    },
-    {
-      "basename": "1.10. Przestrzeń nazw",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.10. Przestrzeń nazw.md"
     }
   ],
   "omittedPaths": [],
