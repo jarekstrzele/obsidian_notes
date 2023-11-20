@@ -113,9 +113,6 @@ def listbox_used(event):
 # Gets current selection from listbox
 	print(listbox.get(listbox.curselection()))
 
-  
-  
-
 listbox = Listbox(height=4)
 fruits = ["Apple", "Pear", "Orange", "Banana"]
 for item in fruits:
