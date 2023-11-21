@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/3 Rust Types and Memory Management.md",
+                "file": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/4 Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/3 Rust Types and Memory Management.md",
+                "file": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/4 Basics.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/3 Rust Types and Memory Management.md",
+                "file": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/4 Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/3 Rust Types and Memory Management.md"
+                "file": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/4 Basics.md"
               }
             }
           },
@@ -201,8 +201,8 @@
   },
   "active": "7260212eafc0e062",
   "lastOpenFiles": [
-    "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/_ Rust Build with GPT-4.md",
     "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/3 Rust Types and Memory Management.md",
+    "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/_ Rust Build with GPT-4.md",
     "_ WEB/N_O_D_E/Mosh Node/_ 0 Node (Mosh).md",
     "_ WEB/N_O_D_E/Mosh Node/1 Node Module System.md",
     "R U S T/1 - Full Rust Beginner s Course/_ Full Rust Beginners Cours.md",

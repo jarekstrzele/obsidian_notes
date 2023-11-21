@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "4 Basics",
+      "path": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/4 Basics.md"
+    },
+    {
       "basename": "3 Rust Types and Memory Management",
       "path": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/3 Rust Types and Memory Management.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "1 Uruchamianie kontenerów",
       "path": "Docker/Docker od podstaw/1 Uruchamianie kontenerów.md"
-    },
-    {
-      "basename": "_ Wprowadzenie docker",
-      "path": "Docker/Docker od podstaw/_ Wprowadzenie docker.md"
     }
   ],
   "omittedPaths": [],
