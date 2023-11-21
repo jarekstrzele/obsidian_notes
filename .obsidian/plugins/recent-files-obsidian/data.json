@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "3 Rust Types and Memory Management",
+      "path": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/3 Rust Types and Memory Management.md"
+    },
+    {
+      "basename": "_ Rust Build with GPT-4",
+      "path": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/_ Rust Build with GPT-4.md"
+    },
+    {
+      "basename": "_ 0 Node (Mosh)",
+      "path": "_ WEB/N_O_D_E/Mosh Node/_ 0 Node (Mosh).md"
+    },
+    {
+      "basename": "1 Node Module System",
+      "path": "_ WEB/N_O_D_E/Mosh Node/1 Node Module System.md"
+    },
+    {
+      "basename": "_ Full Rust Beginners Cours",
+      "path": "R U S T/1 - Full Rust Beginner s Course/_ Full Rust Beginners Cours.md"
+    },
+    {
       "basename": "git_diff.excalidraw",
       "path": "Excalidraw/git_diff.excalidraw.md"
     },
@@ -179,22 +199,6 @@
     {
       "basename": "_ Wprowadzenie docker",
       "path": "Docker/Docker od podstaw/_ Wprowadzenie docker.md"
-    },
-    {
-      "basename": "Working with Git Branches",
-      "path": "Git/plurasight git/Working with Git Branches.md"
-    },
-    {
-      "basename": "Git the big picture",
-      "path": "Git/plurasight git/Git the big picture.md"
-    },
-    {
-      "basename": "Repozytorium",
-      "path": "Git/Git Samuraj/Repozytorium.md"
-    },
-    {
-      "basename": "Komendy",
-      "path": "Git/Git Samuraj/Komendy.md"
     }
   ],
   "omittedPaths": [],

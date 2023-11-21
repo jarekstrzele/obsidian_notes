@@ -108,7 +108,7 @@ fn main() {
 main.rs
 ```
 
-minus.func.rs
+minus_func.rs
 ```rust
 pub fn subtruct_10(num: u32) -> u32 {
     num - 10
