@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ WEB/REACT/React - the Complete Guide/3 React Basics.md",
+                "file": "_ WEB/REACT/React - the Complete Guide/6.1. Styling extra.md",
                 "mode": "source",
                 "source": false
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ WEB/REACT/React - the Complete Guide/3 React Basics.md",
+                "file": "_ WEB/REACT/React - the Complete Guide/6.1. Styling extra.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ WEB/REACT/React - the Complete Guide/3 React Basics.md",
+                "file": "_ WEB/REACT/React - the Complete Guide/6.1. Styling extra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ WEB/REACT/React - the Complete Guide/3 React Basics.md"
+                "file": "_ WEB/REACT/React - the Complete Guide/6.1. Styling extra.md"
               }
             }
           },
@@ -274,8 +274,11 @@
   },
   "active": "0b014eb642a5f393",
   "lastOpenFiles": [
-    "_ WEB/REACT/React - the Complete Guide/4 React State and Working with Events.md",
+    "_ WEB/REACT/React - the Complete Guide/8 Login Project.md",
+    "_ WEB/REACT/React - the Complete Guide/6 Styling React Component (Simple React App).md",
+    "_ WEB/REACT/React - the Complete Guide/6.1. Styling extra.md",
     "_ WEB/REACT/React - the Complete Guide/3 React Basics.md",
+    "_ WEB/REACT/React - the Complete Guide/4 React State and Working with Events.md",
     "_ WEB/REACT/React - the Complete Guide/5 Rendering Lists and Conditional content.md",
     "_ WEB/REACT/React Mosh/4 Composing Components.md",
     "_ WEB/REACT/React Mosh/8 Calling Backend Services.md",
@@ -297,9 +300,6 @@
     "_ Desktop/Python/GUI/Tkinter/from 100 Days of Code/_ Tkinter.md",
     "_ Desktop/Python/GUI/Tkinter/modern GUIs/_ 0 Modern GUIs Python.md",
     "_ Desktop/Python/GUI/Tkinter/Icons, Images, Exit Button.md",
-    "_ Desktop/Python/GUI/Tkinter/Calculator simple.md",
-    "_ Desktop/Python/GUI/Tkinter/Tkinter.md",
-    "_ Desktop/Python/GUI/Tkinter/Tkinter 0.md",
     "DB/MongoDB - The Complete 2023",
     "_ Mobile/Kotlin/Kotlin bez tajemnic",
     "pexels-alex-fu-1302436.jpg",
