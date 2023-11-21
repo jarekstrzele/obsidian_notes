@@ -44,6 +44,16 @@
             }
           },
           {
+            "id": "b507bd7f414b4cbf",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
+          },
+          {
             "id": "3f9eb640ebf6f471",
             "type": "leaf",
             "state": {
@@ -64,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -213,6 +223,16 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "2c9aa787922c03e3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ],
         "currentTab": 6
@@ -234,7 +254,7 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "a7f8cec5a216a21b",
+  "active": "b507bd7f414b4cbf",
   "lastOpenFiles": [
     "linux/UBUNTU.md",
     "Excalidraw/git_diff.excalidraw.md",
