@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/1 Fundamentals of Kotlin.md",
+                "file": "_ WEB/REACT/React - the Complete Guide/3 React Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5110321044922
+    "width": 304.5110321044922
   },
   "right": {
     "id": "ec7d1a70da2de581",
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/1 Fundamentals of Kotlin.md",
+                "file": "_ WEB/REACT/React - the Complete Guide/3 React Basics.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/1 Fundamentals of Kotlin.md",
+                "file": "_ WEB/REACT/React - the Complete Guide/3 React Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/1 Fundamentals of Kotlin.md"
+                "file": "_ WEB/REACT/React - the Complete Guide/3 React Basics.md"
               }
             }
           },
@@ -274,6 +274,17 @@
   },
   "active": "0b014eb642a5f393",
   "lastOpenFiles": [
+    "_ WEB/REACT/React - the Complete Guide/4 React State and Working with Events.md",
+    "_ WEB/REACT/React - the Complete Guide/3 React Basics.md",
+    "_ WEB/REACT/React - the Complete Guide/5 Rendering Lists and Conditional content.md",
+    "_ WEB/REACT/React Mosh/4 Composing Components.md",
+    "_ WEB/REACT/React Mosh/8 Calling Backend Services.md",
+    "_ WEB/REACT/React Mosh/3.1 Component vidly project.md",
+    "_ WEB/REACT/React Mosh/3 Components.md",
+    "_ WEB/REACT/React - the Complete Guide/5.2 Chart.md",
+    "_ Mobile/REACT NATIVE/React Native Practical Guide/1.5. Splitting Components into Smaller Components.md",
+    "_ Mobile/REACT NATIVE/React Native Practical Guide/1.4. FlatList.md",
+    "_ Mobile/Kotlin/the complete Android Kotlin/1 Fundamentals of Kotlin.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/7 Intro to Android App Development.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/5 Functions in Android Kotlin.md",
@@ -289,17 +300,6 @@
     "_ Desktop/Python/GUI/Tkinter/Calculator simple.md",
     "_ Desktop/Python/GUI/Tkinter/Tkinter.md",
     "_ Desktop/Python/GUI/Tkinter/Tkinter 0.md",
-    "_ Desktop/Python/GUI/Tkinter/Tkinter Pomidoro.md",
-    "_ Desktop/Python/GUI/Tkinter/Widżety proste TkInter.md",
-    "_ Desktop/Python/GUI/Tkinter.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.12 Indeksery.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.11 Struktury.md",
-    "Excalidraw/Andoid.excalidraw.md",
-    "_ WEB/REACT/React - the Complete Guide/3 React Basics.md",
-    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md",
-    "R U S T/Bard - Rust/_ rUST WITH bARD.md",
-    "DB/MongoDB/Master MongoDB/_ 0 Start.md",
     "DB/MongoDB - The Complete 2023",
     "_ Mobile/Kotlin/Kotlin bez tajemnic",
     "pexels-alex-fu-1302436.jpg",
