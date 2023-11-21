@@ -15,7 +15,6 @@
 `cargo --version`  
 `rustup --version` tool chain installer (to update compiler or cargo)
 
-
 -------------
 # Tools
 
@@ -23,7 +22,7 @@
 https://www.rust-lang.org/tools
 
 vs code extension:
-- THe Rust Programmin Language
+- The Rust Programmin Language
 - crates
 
 --------------

@@ -1,9 +1,26 @@
 #udemy #artech_learning
 
 -------
+# IMPERATIVE STYLE
+- read top-to-bottom
+- tell computer step by step instructions
+- each step depends on knowing where you are in the process
+- statements change the state of the application
 
+problems:
+- variables defined in the global scope, outside functions
+- interdependent functions
+- native JS and DOM methods mixed together
+- unclear what is happening outside the script
+- function namee being repeated in other scripts
 
-
+# OBJECT ORIENTED JS
+- data treated as objects to be passed around
+- use defined methods to manipulate objects
+- passing message 
+- hiding and sharing properties
+- composition
+- inheritence
 
 
 ----

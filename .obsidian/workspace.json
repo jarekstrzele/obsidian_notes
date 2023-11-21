@@ -8,62 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e09fd8603ad2539e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker/For Absolute Beginner/_ Intro Docker Mumshad.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "045c64a950639aaa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "R U S T/Programmowanie_w Rust/2. Pierwsze spotkanie z Rustem.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a7f8cec5a216a21b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git/git od podstaw dla każdego/_ git od podstaw.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b507bd7f414b4cbf",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.13"
-              }
-            }
-          },
-          {
-            "id": "3f9eb640ebf6f471",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.5"
-              }
-            }
-          },
-          {
             "id": "7260212eafc0e062",
             "type": "leaf",
             "state": {
@@ -72,9 +16,21 @@
                 "file": "Excalidraw/git_diff.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "95580a74aea09730",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/git od podstaw dla każdego/_ git od podstaw.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -173,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/git od podstaw dla każdego/_ git od podstaw.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/git od podstaw dla każdego/_ git od podstaw.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -254,44 +210,44 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "b507bd7f414b4cbf",
+  "active": "95580a74aea09730",
   "lastOpenFiles": [
-    "linux/UBUNTU.md",
     "Excalidraw/git_diff.excalidraw.md",
     "conflict-files-obsidian-git.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/6 Zewnętrzne moduły.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/5 Jak Działa NodeJS.md",
-    "_ WEB/N_O_D_E/NODE - the complete guide/5 Working with Express.js.md",
-    "_ WEB/N_O_D_E/Mosh Node/3.1.1. Recap Building RestFul APIS with Express.md",
-    "_ Mobile/Kotlin/the complete Android Kotlin/8.3 Button.md",
-    "_ Mobile/Kotlin/the complete Android Kotlin/8.2 TextView.md",
-    "_ Mobile/Kotlin/the complete Android Kotlin/8.1 Layouts in Android App.md",
-    "_ Mobile/Kotlin/the complete Android Kotlin/8 Android Components.md",
-    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/_ the complete Android 12.md",
-    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/4. OOP Kotlin.md",
-    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/3 Kotlin fundamentals.md",
-    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/2 Getting ready with Android Studio.md",
-    "_ Mobile/Kotlin/the complete Android 12 and Kotlin",
-    "_ FullStack/Web Development 2023/19 jQuery.md",
-    "P Y T H O N/Master_Python_100/19 Intances, States, HOF.md",
-    "P Y T H O N/Master_Python_100/18 Turtle and the GUI.md",
-    "JAVASCRIPT/Programowanie w JS od Zera do Mastera/_ Programowanie w JS od Zera do Mastera.md",
-    "JAVASCRIPT/Programowanie w JS od Zera do Mastera",
-    "JAVASCRIPT/ES refresh.md",
-    "Excalidraw/middleware_Draw.excalidraw.md",
-    "C Sharp/Fast WFP  C Sharp/_ Fast WFP C Sharp.md",
-    "C Sharp/Fast WFP  C Sharp",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/4 Tworzenie aplikacji WPF.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/3 Układ komponentów.md",
-    "A I/algorithmic/Grafy w Pythonie/_ 0 Grafy w Pythonie.md",
-    "A I/algorithmic/Grafy w Pythonie",
-    "A I/algorithmic",
-    "_ Mobile/Kotlin/the complete Android Kotlin",
-    "_ Mobile/Kotlin",
-    "C++/Beginning C++",
-    "Git/Mosh GIT - the ultimate Git Course",
-    "Git/git od podstaw dla każdego",
+    "Git/git od podstaw dla każdego/_ git od podstaw.md",
+    "R U S T/Programmowanie_w Rust/2. Pierwsze spotkanie z Rustem.md",
+    "Docker/For Absolute Beginner/_ Intro Docker Mumshad.md",
+    "_ WEB/Rust/Rocket/Rocket with Bard.md",
+    "_ WEB/REACT/React 18 Tutorial and Projects Course 2023/_ The React 18 Tutorial (2023).md",
+    "_ WEB/REACT/React 18 Tutorial and Projects Course 2023/1. React Fundamentals.md",
+    "_ WEB/REACT/React 18 Tutorial and Projects Course 2023",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/7.10 Express and FireBase.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/7.1. Tworzenie rest api.md",
+    "_ WEB/N_O_D_E/NODE - the complete guide/6 Working with Dynamic Content and Adding Templating Engines.md",
+    "_ WEB/N_O_D_E/NODE - the complete guide/24 REST APIs.md",
+    "_ Mobile/REACT NATIVE/The Complete React NativePlusHooks/1 Working with Content.md",
+    "_ Mobile/Kotlin/the complete Android Kotlin/8.6 RadioButton.md",
+    "_ Mobile/Kotlin/the complete Android Kotlin/8.6 CheckBox.md",
+    "_ Mobile/Kotlin/the complete Android Kotlin/8.5 ImageView.md",
+    "_ Mobile/Kotlin/the complete Android Kotlin/8.4 EditTexts.md",
+    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md",
+    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/7 Calculator.md",
+    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/6 Age in Minute Calculator.md",
+    "_ Mobile/Kotlin/Spinner.md",
+    "_ Mobile/Kotlin/Kotlin bez tajemnic/_ Kotlin bez tajemnic.md",
+    "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md",
+    "_ Mobile/Kotlin/Kotlin bez tajemnic",
+    "_ Mobile/Kotlin/Funkcje lambda.md",
+    "_ Mobile/Kotlin/DatePicker Dialog.md",
+    "_ Mobile/Android Kurs Tworzenia APlikacji/_ 0 Android Kurs Tworzenia Aplikacji.md",
+    "_ Mobile/Android Kurs Tworzenia APlikacji",
+    "_ Desktop/WPF/Fast WFP  C Sharp",
+    "_ Desktop/WPF/CSharp WPF xaml youtube",
+    "_ Desktop/WPF",
+    "_ Desktop/Python/GUI/Tkinter/from 100 Days of Code",
+    "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4",
+    "R U S T/Bard - Rust",
+    "HASKELL/z Barda",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",

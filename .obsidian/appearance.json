@@ -1,6 +1,8 @@
 {
   "accentColor": "",
-  "cssTheme": "AnuPpuccin",
-  "baseFontSize": 25,
-  "theme": "obsidian"
+  "cssTheme": "Kanagawa",
+  "baseFontSize": 19,
+  "theme": "obsidian",
+  "nativeMenus": true,
+  "translucency": false
 }

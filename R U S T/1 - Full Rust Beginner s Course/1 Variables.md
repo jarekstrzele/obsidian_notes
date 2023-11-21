@@ -57,7 +57,7 @@ fn main(){
 // no warings
 
 // O R
-#[alow(unsued_variables)]
+#[allow(unsued_variables)]
 fn main(){
 	let x = 1;
 }

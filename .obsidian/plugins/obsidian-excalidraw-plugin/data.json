@@ -12967,7 +12967,7 @@
             "containerId": null,
             "originalText": "Auth &\n IAM",
             "lineHeight": 1.2574328565604995,
-            "baseline": 43
+            "baseline": 42
           }
         ],
         "id": "I2zhGH6DZVWPWdb01iUk_",
@@ -13341,7 +13341,7 @@
             "containerId": null,
             "originalText": "DNS",
             "lineHeight": 1.1940035041557016,
-            "baseline": 25
+            "baseline": 24
           },
           {
             "type": "text",
@@ -14481,7 +14481,7 @@
             "containerId": null,
             "originalText": "Pipeline",
             "lineHeight": 1.2439024390243902,
-            "baseline": 21
+            "baseline": 20
           }
         ],
         "id": "9-QkYoLVQlEoM7Gi9vgqk",
@@ -15187,7 +15187,7 @@
             "containerId": null,
             "originalText": "CDN",
             "lineHeight": 1.1860833233745642,
-            "baseline": 28
+            "baseline": 27
           },
           {
             "type": "line",

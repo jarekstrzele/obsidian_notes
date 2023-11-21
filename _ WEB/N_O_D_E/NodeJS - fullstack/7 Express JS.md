@@ -125,14 +125,289 @@ https://github.com/expressjs/express/wiki
 https://expressjs.com/en/resources/template-engines.html
 
 ## express-handlebars
+#express-handlebars
+
+
+https://waelyasmina.medium.com/a-guide-into-using-handlebars-with-your-express-js-application-22b944443b65
+
+
 ten `engine` pod adresem https://github.com/express-handlebars/express-handlebars
 
 to install `npm install express-handlebars`
 
 
+---
+umieść `styles.css` w folderze `public`
+umieść `main.js` (z kodem jQuery) umieść w folderze `public`
+
+```html
+  <link rel="stylesheet" href="/styles.css"/>
+
+  <script src="/main.js" ></script>
+  
+```
+
+----
+`public/css/styles.css`
+`header.handlebars`
+```html
+ <link rel="stylesheet" href="/css/styles.css"/>
+```
+
+`app.js`
+```js
+//...
+app.use(express.static("public"))
+
+app.engine('handlebars', exHbrs.engine({defaultLayout: "main"})) // register a new template engine
+app.set('view engine', 'handlebars')
+//....
+```
+
+teraz można różne style css używać w różnych plikach
+
+np. `fakapi.handlebars`
+```js
+     <h3>Lista ciekawostek</h3>
+    {{#if listExists}}
+         <ul>
+            {{#each people}}
+                <li class="mojaLista"> {{ this.name }}, {{ this.residence }}</li>
+            {{/each}}
+         </ul>
+    {{/if}}
+```
+
+----
+
+
+```js
+const express = require("express")
+const exHbrs = require("express-handlebars");
+
+const app = express()
+
+// aby móc używać styles.css, który jest w public/css
+app.use(express.static("public/css"))
+
+// `app.engine('handlebars' ...` datego potem pliki mają rozszerzenie handlebars
+app.engine('handlebars', exHbrs.engine({defaultLayout: "main"})) // register a new template engine
+app.set('view engine', 'handlebars')
+
+app.get("/", (req, res) => {
+// home is a view
+// by default all views have to be in the folder `views`
+    res.render("home", {
+        title:"Strona główna",
+        content: "to jest treść strony głównej"
+    })
+})
+
+  
+
+app.listen(9090, ()=>console.log("Server is listening on the 8080 port"))
+```
+
+`views/home.handlebars`
+```html
+<div>
+     <h2> {{ title }}</h2>
+     <p> {{ content }}</p>
+    <p> i małe co nieco </p>
+</div>
+<!--
+    cała ta treść będzie podstawiona
+    do `body`
+    w `main.handlebars`
+-->
+```
+
+`views/layout/main.handlebars`
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> {{ title }} </title>
+</head>
+<body>
+    <div>
+        {{{ body }}}
+    </div>
+</body>
+</html>
+
+```
+
+mogę wprowadzić pewne zmiany
+- tworzę nowe pliki `views/partials/header`
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> {{ title }} </title>
+</head>
+<body>
+```
+
+oraz `views/partials/footer`
+```html
+</body>
+
+</html>
+```
+- modyfikuję `main.handlebars`
+```html
+{{> header }}
+
+    <div>
+        {{{ body }}}
+    </div>
+
+{{> footer }}
+```
+
+
+tworzenie dodatkowego view
+`views/blog.handlebars`
+```html
+<div>
+    <h2>{{ title }} </h2>
+    <p> to jest wpis z dnia {{ date }} </p>
+    {{#if id }}
+    <p> identyfikator wpisu: {{ id }}</p>
+    {{/if }}
+</div>
+```
+
+i do app.js dodajemy
+```js
+app.get("/blog/:date/:id?", (req,res)=>{
+   // :id? - więc id jest opcjonalne
+    res.render("blog", {
+        title: "Blog",
+        date: req.params.date,
+        id:req.params.id
+    })
+})
+```
+
+tworzenie strony 404
+`views/404.handlebars`
+```html
+   <h2>{{ title }} </h2>
+   <p> nie znaleziono strony </p>
+```
+
+a do pliku `app.js` (koniecznie pod koniec!!!)
+```js
+//... pod koniec pliku po wszystkich middlewares i routings
+
+app.use((req,res,next)=>{
+    res.status(404).render('404', {title: "PAGE NOT FOUND"})
+ })
+ 
+app.listen(9090, ()=>console.log("Server is listening on the 8080 port"))
+```
+
+**fakeowe api** kolejny przykład
+w głównym pliku dodać:
+```js
+app.get("/api/fake", (req, res)=>{
+
+    res.render('fakeapi', {layout: "main", people: fakeApi(), listExists: true});
+
+})
+//...
+
+fakeApi = () =>{
+    return [
+        {
+            name:"Adrian",
+            residence: "Olsztyn"
+        },
+        {
+            name:"Dawid",
+            residence: "Barczewo"
+        },
+        {
+            name:"Zdzisław",
+            residence: "Kroszynianka"
+        }
+    ]
+}
+```
+
+`fakeapi.handlebars`
+```html
+<h3>Lista ciekawostek</h3>
+{{#if listExists}}
+  <ul>
+    {{#each people}}
+     <li class="mojaLista"> {{ this.name }}, {{ this.residence }}</li>
+    {{/each}}
+ </ul>
+{{/if}}
+```
+
+styles.css
+```css
+.mojDiv{
+    width: 400px;
+    height: 200px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: burlywood;
+    color:darkmagenta;
+    padding: 10px;
+}
+
+  
+
+.mojaLista{
+    color:crimson;
+    font-size: 19px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+```
+
+`main.handlebars`
+```html
+{{> header }}
+    <div class="mojDiv">
+        {{{ body }}}
+    </div>
+{{> footer }}
+```
+
+
+### zdjęcia
+```js
+app.get("/myimages", (req, res) => {
+  res.render("myimages", {
+    imgs: "/images/cute.jpg",
+    width: 100,
+    height: 200,
+  });
+});
+```
+
+`myimages.handlebars`
+```js
+<div style=" width: 400px; height: 500px; background-color:lightblue; ">
+	  <img src={{imgs}} alt="nic" width={{width}} height={{height}} />
+</div>
+```
 
 
 
+-----------
 
 # Użycie middleware
 
@@ -201,9 +476,92 @@ więc pod adresem `/images` będę mógł ogląć zawartość katalogu
 # REST API
 #restapi 
 
+### ` npm i body-parser --save`  (to jest middleware)
+- musimy doinstalować, aby wysyłać w body zapytania dodatkowe informacje
+- używając `get` dany wysyłamy w *query string*, ale używając innych metod (`put`, `post`) w body przesyłamy odpowiednie dane
 
 
-	 
+## `someList.every()`
+```js
+let a = [10,20,30,40]
+undefined
+a.every((number)=> number > 9)
+true
+a.every((number)=> number > 19)
+false
+a.every((number)=> {
+    if (number > 20) { 
+        num = number
+        return false ;
+    }
+    return true;
+    
+})
+false
+num 
+30
+```
+
+
+## `Object.assign(oldObject, newDataToOldObject)`
+```js
+user = {
+  id: 1,
+  name: "John",
+  age: 30
+};
+
+userData = {
+  name: "Alice",
+  age: 25
+};
+{name: 'Alice', age: 25}
+Object.assign(user, userData)
+{id: 1, name: 'Alice', age: 25}
+user 
+{id: 1, name: 'Alice', age: 25}
+user = {
+  id: 1,
+  name: "John",
+  age: 30
+};
+
+userData = {
+  name: "Alice",
+  age: 25
+};
+{name: 'Alice', age: 25}
+user
+{id: 1, name: 'John', age: 30}
+Object.assign(userData, user)
+{name: 'John', age: 30, id: 1}
+user 
+{id: 1, name: 'John', age: 30}
+userData
+{name: 'John', age: 30, id: 1}
+```
+
+
+### `splice(index, howManyElements)`
+```js
+let zabawki = ["samochodzik", "klocki lego", "iPhone", "piłka"]
+undefined
+let index = zabawki.indexOf("iPhone")
+undefined
+index 
+2
+zabawki.splice(index, 1)
+['iPhone']
+zabawki
+ ['samochodzik', 'klocki lego', 'piłka']
+```
+
+
+
+
+
+
+
 
 
 

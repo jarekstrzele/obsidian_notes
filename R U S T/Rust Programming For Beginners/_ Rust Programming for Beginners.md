@@ -6,7 +6,7 @@ in the terminal:
 - `bin` the binary is an executable program
 
 ### `cargo run -q --bin projectName`
-`-q` without some messages in the terminaln, only the result
+`-q` without some messages in the terminal, only the result
 
 
 
@@ -29,7 +29,7 @@ tools:
 
 # Data Types
 >[!info] data types
->- memory onlyu stores binary data (anything can be represented in binary)
+>- memory only stores binary data (anything can be represented in binary)
 >- program determines what the binary represents
 >- basic types that are universally  usefull are provided by the language
 >	- boolean: true, false

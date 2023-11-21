@@ -18,6 +18,13 @@ const app = express()
 app.listen(8080, ()=>console.log("Server is running on 8080"))
 ```
 
+# Szablony
+
+
+
+
+
+
 
 # Middleware
 
@@ -59,6 +66,14 @@ app.listen(9090, ()=>console.log("localhost:9090"))
 ### How middlewares works
 
   
+
+-----
+
+
+
+
+
+
 
 
 
