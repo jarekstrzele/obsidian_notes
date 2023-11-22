@@ -222,6 +222,28 @@ data class Question(
 ### a new object file
 `>new>Kotlin>Object`
 
+add `res>drawable>` files `png` with flags
+```kotlin
+package com.example.newquizapp  
+  
+object Constants {  
+    fun getQuestions():ArrayList<Question>{  
+        val questionsList = ArrayList<Question>()  
+  
+        val que1 = Question(  
+            1, "What country does this flag belong to?",  
+            R.drawable.ic_flag_of_argentina,  
+            optionOne = "Argentina",  
+            optionTwo = "Australia",  
+            optionThree = "Armenia",  
+            optionFour = "Austria",  
+            1  
+        )  
+        questionsList.add(que1)
+        
+	return questionsList
+	}
+```
 
 
 
