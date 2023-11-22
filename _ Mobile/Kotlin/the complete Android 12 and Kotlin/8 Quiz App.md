@@ -141,12 +141,35 @@ in `theme.xml` add:
         />  
   
   
-    <com.google.android.material.textfield.TextInputLayout        android:layout_width="match_parent"  
-        android:layout_height="wrap_content">  
+    <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="match_parent"  
+	        android:layout_height="wrap_content"  
+	        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"  
+	        android:layout_margin="20dp"  
+        >  
   
-    </com.google.android.material.textfield.TextInputLayout>
-    
-    
+        <androidx.appcompat.widget.AppCompatEditText 
+	        android:id="@+id/edit_text_name"
+	        android:layout_width="match_parent"  
+            android:layout_height="wrap_content"  
+            android:hint="e.g. Jan Nowak"  
+            android:inputType="textCapWords"  
+            android:textColor="#363a43"  
+            android:textColorHint="#7a8089"  
+            />  
+  
+    </com.google.android.material.textfield.TextInputLayout>  
+    <Button        
+	    android:id="@+id/btn_start"  
+        android:layout_width="match_parent"  
+        android:layout_height="wrap_content"  
+        android:layout_marginTop="16dp"  
+        android:background="@color/btnColor"  
+        android:backgroundTint="#293BA0"  
+        android:text="START"  
+        android:textColor="@color/white"  
+        android:textSize="18sp" />  
+  
 </LinearLayout>
 ```
 
@@ -154,7 +177,7 @@ in `theme.xml` add:
 ## Creating the question Model And Preparing the the question 
 
 ### a new activity
-- in the package where you have `MainActivity` -> `new>Activity>EmptyActivity`
+- in the package where you have `MainActivity` -> `new>Activity>ViewEmptyActivity`
 
 
 
