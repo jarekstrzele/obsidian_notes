@@ -102,7 +102,8 @@ dependencies {
 ### dodanie komponentów wewnątrz MaterialCard
 - `<TextView>`
 - `<TextView>`
-- `<TextInputLayout>`
+- `<TextInputLayout>` - specjalny kontener do pól tekstowych
+- `<AppCompatEditText>` - rozbudowane pole tekstowe (świetnie współpracuje z MaterialDesign,  wstecza komatybilność, ...)
 ```xml
 <LinearLayout  
     android:layout_width="match_parent"  
