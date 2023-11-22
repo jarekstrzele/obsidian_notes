@@ -151,10 +151,10 @@ in `theme.xml` add:
 ```
 
 
-## Creating the question Model And Preparing the the question
+## Creating the question Model And Preparing the the question 
 
-
-
+### a new activity
+- in the package where you have `MainActivity` -> `new>Activity>EmptyActivity`
 
 
 
