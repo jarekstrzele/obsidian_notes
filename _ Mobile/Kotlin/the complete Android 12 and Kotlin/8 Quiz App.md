@@ -202,12 +202,25 @@ class MainActivity : AppCompatActivity() {
     }
 ```
 
+### a new file dataclass
+`>new>Kotlin>DataClass`
+```kotlin
+package com.example.newquizapp  
+  
+data class Question(  
+    val id: Int,  
+    val questions: String,  
+    val image: Int,  
+    val optionOne: String,  
+    val optionTwo:String,  
+    val optionThree:String,  
+    val optionFour:String,  
+    val correctAnswer: Int  
+)
+```
 
-
-
-
-
-
+### a new object file
+`>new>Kotlin>Object`
 
 
 
