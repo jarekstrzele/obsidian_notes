@@ -178,7 +178,29 @@ in `theme.xml` add:
 
 ### a new activity
 - in the package where you have `MainActivity` -> `new>Activity>ViewEmptyActivity`
-
+- add function handler to button
+```kotlin
+  
+class MainActivity : AppCompatActivity() {  
+    override fun onCreate(savedInstanceState: Bundle?) {  
+        super.onCreate(savedInstanceState)  
+        setContentView(R.layout.activity_main)  
+  
+        val editTextName : EditText = findViewById(R.id.edit_text_name)  
+        val btnStart : Button = findViewById(R.id.btn_start)  
+        btnStart.setOnClickListener {  
+            if(editTextName.text.isEmpty()){  
+                Toast.makeText(applicationContext, "Please enter your name", Toast.LENGTH_LONG).show()  
+                Log.d("mylog", "Please enter your name")  
+            } else {  
+                val intent = Intent(this, QuizQuestionsActivity::class.java)  
+                Log.d("mylog", "ok, ${editTextName.text}")  
+                startActivity(intent)  
+                finish() // to finish MainActivity  
+            }  
+        }  
+    }
+```
 
 
 
