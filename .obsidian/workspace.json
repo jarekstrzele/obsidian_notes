@@ -4,22 +4,95 @@
     "type": "split",
     "children": [
       {
-        "id": "877e58ea58fc4f10",
+        "id": "7fa1616e7109edbf",
         "type": "tabs",
         "children": [
           {
-            "id": "7260212eafc0e062",
+            "id": "13e0f92de93fa8f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/4 Basics.md",
+                "file": "DB/MongoDB/Master MongoDB/_ 0 Start.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d66c46a7556ec2c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DB/MongoDB - The Complete 2023/_ MongoDB Complete.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "943f50017d444939",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "R U S T/Bard - Rust/_ rUST WITH bARD.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e01c6a9f64c0a344",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "60899e75c49fe16d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_ WEB/REACT/React - the Complete Guide/3 React Basics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "afee16c553e63f2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_ Mobile/Kotlin/Kotlin bez tajemnic/_ Kotlin bez tajemnic.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0b014eb642a5f393",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_ WEB/REACT/React - the Complete Guide/6.1. Styling extra.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -48,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mosh",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +158,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 405.5
+    "width": 304.5110321044922
   },
   "right": {
     "id": "ec7d1a70da2de581",
@@ -101,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/4 Basics.md",
+                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -118,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/4 Basics.md",
+                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/4 Basics.md"
+                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md"
               }
             }
           },
@@ -170,7 +243,7 @@
             }
           },
           {
-            "id": "2c9aa787922c03e3",
+            "id": "a273bcff908d0785",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -199,50 +272,50 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "7260212eafc0e062",
+  "active": "e01c6a9f64c0a344",
   "lastOpenFiles": [
-    "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/3 Rust Types and Memory Management.md",
-    "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/_ Rust Build with GPT-4.md",
-    "_ WEB/N_O_D_E/Mosh Node/_ 0 Node (Mosh).md",
-    "_ WEB/N_O_D_E/Mosh Node/1 Node Module System.md",
-    "R U S T/1 - Full Rust Beginner s Course/_ Full Rust Beginners Cours.md",
-    "Excalidraw/git_diff.excalidraw.md",
-    "conflict-files-obsidian-git.md",
-    "Git/git od podstaw dla każdego/_ git od podstaw.md",
-    "R U S T/Programmowanie_w Rust/2. Pierwsze spotkanie z Rustem.md",
-    "Docker/For Absolute Beginner/_ Intro Docker Mumshad.md",
-    "_ WEB/Rust/Rocket/Rocket with Bard.md",
-    "_ WEB/REACT/React 18 Tutorial and Projects Course 2023/_ The React 18 Tutorial (2023).md",
-    "_ WEB/REACT/React 18 Tutorial and Projects Course 2023/1. React Fundamentals.md",
-    "_ WEB/REACT/React 18 Tutorial and Projects Course 2023",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/7.10 Express and FireBase.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/7.1. Tworzenie rest api.md",
-    "_ WEB/N_O_D_E/NODE - the complete guide/6 Working with Dynamic Content and Adding Templating Engines.md",
-    "_ WEB/N_O_D_E/NODE - the complete guide/24 REST APIs.md",
-    "_ Mobile/REACT NATIVE/The Complete React NativePlusHooks/1 Working with Content.md",
-    "_ Mobile/Kotlin/the complete Android Kotlin/8.6 RadioButton.md",
-    "_ Mobile/Kotlin/the complete Android Kotlin/8.6 CheckBox.md",
-    "_ Mobile/Kotlin/the complete Android Kotlin/8.5 ImageView.md",
-    "_ Mobile/Kotlin/the complete Android Kotlin/8.4 EditTexts.md",
-    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md",
-    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/7 Calculator.md",
-    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/6 Age in Minute Calculator.md",
-    "_ Mobile/Kotlin/Spinner.md",
+    "DB/MongoDB/Master MongoDB/_ 0 Start.md",
+    "_ WEB/REACT/React - the Complete Guide/6.1. Styling extra.md",
+    "_ WEB/REACT/React - the Complete Guide/8 Login Project.md",
+    "_ WEB/REACT/React - the Complete Guide/6 Styling React Component (Simple React App).md",
+    "_ WEB/REACT/React - the Complete Guide/3 React Basics.md",
+    "_ WEB/REACT/React - the Complete Guide/4 React State and Working with Events.md",
+    "_ WEB/REACT/React - the Complete Guide/5 Rendering Lists and Conditional content.md",
+    "_ WEB/REACT/React Mosh/4 Composing Components.md",
+    "_ WEB/REACT/React Mosh/8 Calling Backend Services.md",
+    "_ WEB/REACT/React Mosh/3.1 Component vidly project.md",
+    "_ WEB/REACT/React Mosh/3 Components.md",
+    "_ WEB/REACT/React - the Complete Guide/5.2 Chart.md",
+    "_ Mobile/REACT NATIVE/React Native Practical Guide/1.5. Splitting Components into Smaller Components.md",
+    "_ Mobile/REACT NATIVE/React Native Practical Guide/1.4. FlatList.md",
+    "_ Mobile/Kotlin/the complete Android Kotlin/1 Fundamentals of Kotlin.md",
+    "_ Mobile/Kotlin/the complete Android Kotlin/7 Intro to Android App Development.md",
+    "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md",
+    "_ Mobile/Kotlin/the complete Android Kotlin/5 Functions in Android Kotlin.md",
+    "_ Mobile/Kotlin/the complete Android Kotlin/4 Loops in Kotlin.md",
+    "_ Mobile/Kotlin/the complete Android Kotlin/3 Control Flow Statements in Kotlin.md",
+    "_ Mobile/Kotlin/the complete Android Kotlin/2 Operators in Kotlin.md",
+    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/3 Kotlin fundamentals.md",
+    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/2 Getting ready with Android Studio.md",
+    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/_ the complete Android 12.md",
+    "_ Desktop/Python/GUI/Tkinter/from 100 Days of Code/_ Tkinter.md",
+    "_ Desktop/Python/GUI/Tkinter/modern GUIs/_ 0 Modern GUIs Python.md",
+    "DB/MongoDB - The Complete 2023",
     "_ Mobile/Kotlin/Kotlin bez tajemnic",
-    "_ Mobile/Android Kurs Tworzenia APlikacji",
-    "_ Desktop/WPF/Fast WFP  C Sharp",
-    "_ Desktop/WPF/CSharp WPF xaml youtube",
-    "_ Desktop/WPF",
-    "_ Desktop/Python/GUI/Tkinter/from 100 Days of Code",
+    "pexels-alex-fu-1302436.jpg",
+    "C Sharp/Complete CSharp MasterClass",
     "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4",
     "R U S T/Bard - Rust",
+    "canvas_moduls_rust.canvas",
     "HASKELL/z Barda",
+    "_ Desktop/WPF/CSharp WPF xaml youtube",
+    "A I/Harvard CS50 AI with Python",
+    "_ Desktop/Python/GUI/Tkinter/from 100 Days of Code",
+    "_ WEB/REACT/React 18 Tutorial and Projects Course 2023",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "canvas_moduls_rust.canvas",
     "test canvas.canvas",
-    "pexels-alex-fu-1302436.jpg",
     "methodology/images/seaborn_relplot_tip_total_bill_4.png",
     "R U S T/Untitled.canvas"
   ]
