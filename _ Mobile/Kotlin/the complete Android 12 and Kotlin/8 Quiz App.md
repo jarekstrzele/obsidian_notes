@@ -65,7 +65,24 @@ add:
 >[!info] Material Design 
 >to zestaw wytycznych dotyczących designu stworzonych przez Google. Jest to kompleksowy system projektowy, który obejmuje wygląd, zachowanie i interakcje w interfejsie użytkownika. Material Design został stworzony w celu zapewnienia spójnego i intuicyjnego doświadczenia użytkownika na różnych platformach i urządzeniach, począwszy od aplikacji mobilnych po strony internetowe.
 
-użycie w pliku xml
+### aby używać material design 
+jest możliwe o ile w `build.gradle.kts`  dodano zależności ` implementation("com.google.android.material:material:1.10.0")  `
+```kotlin
+dependencies {  
+  
+    implementation("androidx.core:core-ktx:1.9.0")  
+    implementation("androidx.appcompat:appcompat:1.6.1")  
+    implementation("com.google.android.material:material:1.10.0")  
+    implementation("androidx.constraintlayout:constraintlayout:2.1.4")  
+    testImplementation("junit:junit:4.13.2")  
+    androidTestImplementation("androidx.test.ext:junit:1.1.5")  
+    androidTestImplementation("androidx.test.espresso:espresso-core:3.5.1")  
+}
+
+```
+
+
+### użycie w pliku xml
 ```xml
 <com.google.android.material.card.MaterialCardView  
     android:layout_width="match_parent"  
@@ -81,19 +98,67 @@ użycie w pliku xml
 </com.google.android.material.card.MaterialCardView>
 ```
 
-jest możliwe o ile w `build.gradle.kts`  dodano zależności ` implementation("com.google.android.material:material:1.10.0")  `
-```kotlin
-dependencies {  
-  
-    implementation("androidx.core:core-ktx:1.9.0")  
-    implementation("androidx.appcompat:appcompat:1.6.1")  
-    implementation("com.google.android.material:material:1.10.0")  
-    implementation("androidx.constraintlayout:constraintlayout:2.1.4")  
-    testImplementation("junit:junit:4.13.2")  
-    androidTestImplementation("androidx.test.ext:junit:1.1.5")  
-    androidTestImplementation("androidx.test.espresso:espresso-core:3.5.1")  
-}
 
+### dodanie komponentów wewnątrz MaterialCard
+- `<TextView>`
+- `<TextView>`
+- `<TextInputLayout>`
+```xml
+<LinearLayout  
+    android:layout_width="match_parent"  
+    android:layout_height="wrap_content"  
+    android:layout_margin="16dp"  
+    android:orientation="vertical">  
+    <TextView        
+	    android:layout_width="match_parent"  
+        android:layout_height="wrap_content"  
+        android:text="Welcome"  
+        android:textSize="30sp"  
+        android:textStyle="bold"  
+        android:gravity="center"  
+        android:textColor="#363a43"  
+  
+        />  
+    <TextView        
+	    android:layout_width="match_parent"  
+        android:layout_height="wrap_content"  
+        android:text="Please enter you name."  
+        android:textSize="16sp"  
+        android:textStyle="bold"  
+        android:gravity="center"  
+        android:textColor="#7a8089"  
+        android:layout_marginTop="16dp"  
+        />  
+  
+  
+    <com.google.android.material.textfield.TextInputLayout        android:layout_width="match_parent"  
+        android:layout_height="wrap_content">  
+  
+    </com.google.android.material.textfield.TextInputLayout>
+    
+    
+</LinearLayout>
 ```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
