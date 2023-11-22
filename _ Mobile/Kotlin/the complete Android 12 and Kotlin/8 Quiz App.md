@@ -1,5 +1,16 @@
 #kotlin 
 
+# Preparation
+## no action bar
+`res>values>themes>themes.xml` add:
+```xml
+<!-- Base application theme. -->  
+<style name="Base.Theme.QuizApp" parent="Theme.Material3.DayNight.NoActionBar">  
+    <!-- Customize your light theme here. -->
+```
+
+
+## no orientation
 `AndroidManifest.xml`
 no rotation, only portrait
 add `screenOrientation`
@@ -11,9 +22,10 @@ add `screenOrientation`
 		  >
 ```
 
+
+## add background
 - `res>drawable` add `.png` background
 - use LinearLayout
-
 
 `activity_main.xml`
 add:
@@ -46,7 +58,7 @@ add:
 ```
 
 
-### Add `MaterialCardView`
+## Add `MaterialCardView`
 >[!definition] MaterialCardView
 > to część Material Design Support Library, która zapewnia elastyczny i łatwy w użyciu widok karty (card view) w aplikacjach Android. Karta jest elementem interfejsu użytkownika, który prezentuje treść w sposób logiczny i jednocześnie jest estetyczny.
 
