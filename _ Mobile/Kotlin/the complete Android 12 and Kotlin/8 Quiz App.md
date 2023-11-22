@@ -100,10 +100,19 @@ dependencies {
 
 
 ### dodanie komponentów wewnątrz MaterialCard
+
+in `theme.xml` add:
+```xml
+<!-- <item name="colorPrimary">@color/my_light_primary</item> -->  
+    <item name="android:windowFullscreen">true</item>  
+</
+```
+
 - `<TextView>`
 - `<TextView>`
 - `<TextInputLayout>` - specjalny kontener do pól tekstowych
 - `<AppCompatEditText>` - rozbudowane pole tekstowe (świetnie współpracuje z MaterialDesign,  wstecza komatybilność, ...)
+- `<Button>`
 ```xml
 <LinearLayout  
     android:layout_width="match_parent"  
@@ -142,7 +151,7 @@ dependencies {
 ```
 
 
-
+## Creating the question Model And Preparing the the question
 
 
 
