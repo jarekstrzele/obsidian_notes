@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "3 Podstawy tworzenia aplikacji",
+      "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md"
+    },
+    {
+      "basename": "3 React Basics",
+      "path": "_ WEB/REACT/React - the Complete Guide/3 React Basics.md"
+    },
+    {
       "basename": "8 Quiz App",
       "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "6 Styling React Component (Simple React App)",
       "path": "_ WEB/REACT/React - the Complete Guide/6 Styling React Component (Simple React App).md"
-    },
-    {
-      "basename": "3 React Basics",
-      "path": "_ WEB/REACT/React - the Complete Guide/3 React Basics.md"
     },
     {
       "basename": "4 React State and Working with Events",
@@ -187,10 +191,6 @@
     {
       "basename": "_ Kotlin bez tajemnic",
       "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/_ Kotlin bez tajemnic.md"
-    },
-    {
-      "basename": "3 Podstawy tworzenia aplikacji",
-      "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md"
     },
     {
       "basename": "3 Rust Types and Memory Management",
