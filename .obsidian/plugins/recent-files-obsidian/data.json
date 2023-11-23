@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "2. DataTypes and Variables",
+      "path": "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md"
+    },
+    {
+      "basename": "_ CSHarp Complete Masterclass",
+      "path": "C Sharp/Complete CSharp MasterClass/_ CSHarp Complete Masterclass.md"
+    },
+    {
+      "basename": "3 Functions-Methods and how to save time",
+      "path": "C Sharp/Complete CSharp MasterClass/3 Functions-Methods and how to save time.md"
+    },
+    {
+      "basename": "1.12 Indeksery",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.12 Indeksery.md"
+    },
+    {
+      "basename": "1 OOP w CSharp",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md"
+    },
+    {
+      "basename": "6 Kotlin OOP",
+      "path": "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md"
+    },
+    {
       "basename": "8 Quiz App",
       "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md"
     },
@@ -77,10 +101,6 @@
       "path": "_ Mobile/Kotlin/the complete Android Kotlin/7 Intro to Android App Development.md"
     },
     {
-      "basename": "6 Kotlin OOP",
-      "path": "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md"
-    },
-    {
       "basename": "5 Functions in Android Kotlin",
       "path": "_ Mobile/Kotlin/the complete Android Kotlin/5 Functions in Android Kotlin.md"
     },
@@ -145,14 +165,6 @@
       "path": "_ Desktop/Python/GUI/Tkinter.md"
     },
     {
-      "basename": "1.12 Indeksery",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.12 Indeksery.md"
-    },
-    {
-      "basename": "1 OOP w CSharp",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md"
-    },
-    {
       "basename": "1.11 Struktury",
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.11 Struktury.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "5 Rust Intermadiate",
       "path": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/5 Rust Intermadiate.md"
-    },
-    {
-      "basename": "4 Basics",
-      "path": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/4 Basics.md"
-    },
-    {
-      "basename": "3 Rust Types and Memory Management",
-      "path": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/3 Rust Types and Memory Management.md"
-    },
-    {
-      "basename": "1 Rust Moduły",
-      "path": "R U S T/Bard - Rust/1 Rust Moduły.md"
     }
   ],
   "omittedPaths": [],
