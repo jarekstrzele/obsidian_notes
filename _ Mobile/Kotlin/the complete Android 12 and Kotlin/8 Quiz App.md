@@ -267,5 +267,66 @@ change main layout for `ScrollView` and add inside `LinearLayout`
 						
 ```
 
-
+```xml
+<?xml version="1.0" encoding="utf-8"?>  
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"  
+    xmlns:app="http://schemas.android.com/apk/res-auto"  
+    xmlns:tools="http://schemas.android.com/tools"  
+    android:layout_width="match_parent"  
+    android:layout_height="match_parent"  
+    tools:context=".QuizQuestionsActivity">  
+  
+    <LinearLayout        android:layout_width="match_parent"  
+        android:layout_height="wrap_content"  
+        android:layout_gravity="center"  
+        android:gravity="center"  
+        android:orientation="vertical"  
+        android:padding="16dp">  
+  
+        <TextView            android:id="@+id/text_view_question"  
+            android:layout_width="match_parent"  
+            android:layout_height="wrap_content"  
+            android:layout_gravity="center"  
+            android:layout_margin="10dp"  
+            android:textColor="#363a43"  
+            android:textSize="22sp"  
+            tools:text="What country does this flag belong to?"  
+  
+            />  
+  
+        <ImageView            android:id="@+id/image_view_image"  
+            android:layout_width="wrap_content"  
+            android:layout_height="wrap_content"  
+            android:layout_marginTop="16dp"  
+            android:contentDescription="Quiz image"  
+            tools:src="@drawable/ic_flag_of_germany" />  
+        <LinearLayout            android:layout_width="match_parent"  
+            android:layout_height="wrap_content"  
+            android:gravity="center"  
+            android:layout_marginTop="16dp"  
+            android:orientation="horizontal"  
+            >  
+            <ProgressBar                android:id="@+id/progress_bar"  
+                style="?android:attr/progressBarStyleHorizontal"  
+                android:layout_width="0dp"  
+                android:layout_height="wrap_content"  
+                android:layout_weight="1"  
+                android:max="9"  
+                android:minHeight="50dp"  
+                android:progress="0"  
+                android:indeterminate="false"  
+                />  
+            <TextView  
+                android:id="@+id/text_view_progress"  
+                android:layout_width="wrap_content"  
+                android:layout_height="wrap_content"  
+                android:gravity="center"  
+                android:padding="15dp"  
+                android:textSize="14dp"  
+                android:text="0/9" />  
+  
+        </LinearLayout>  
+    </LinearLayout>  
+</ScrollView>
+```
 
