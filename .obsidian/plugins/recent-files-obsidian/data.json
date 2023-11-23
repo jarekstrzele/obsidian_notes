@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "1.13. TYPY Generyczne",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.13. TYPY Generyczne.md"
+    },
+    {
+      "basename": "1.12 Indeksery",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.12 Indeksery.md"
+    },
+    {
       "basename": "2. DataTypes and Variables",
       "path": "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "3 Functions-Methods and how to save time",
       "path": "C Sharp/Complete CSharp MasterClass/3 Functions-Methods and how to save time.md"
-    },
-    {
-      "basename": "1.12 Indeksery",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.12 Indeksery.md"
     },
     {
       "basename": "1 OOP w CSharp",
@@ -195,10 +199,6 @@
     {
       "basename": "_ Intro to MongoDB",
       "path": "DB/MongoDB/Introduction to the MongoDB/_ Intro to MongoDB.md"
-    },
-    {
-      "basename": "5 Rust Intermadiate",
-      "path": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/5 Rust Intermadiate.md"
     }
   ],
   "omittedPaths": [],
