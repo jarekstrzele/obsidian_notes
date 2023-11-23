@@ -260,7 +260,11 @@ class QuizQuestionsActivity : AppCompatActivity() {
 ```
 
 
-
+# GUI for `quize__activity`
+change main layout for `ScrollView`
+```xml
+<ScrollView xmlns:android="http:
+```
 
 
 
