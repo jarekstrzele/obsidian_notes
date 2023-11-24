@@ -24,7 +24,8 @@
 </activity>
 ```
 
-
+- aktywności należy dzielić na fragmenty, a nie tworzyć nowe aktywności
+- 
 
 
 
