@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "4.1 Binding",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/4.1 Binding.md"
+    },
+    {
       "basename": "1.13. TYPY Generyczne",
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.13. TYPY Generyczne.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "4 - Data Formats in MongoDb",
       "path": "DB/MongoDB/Introduction to the MongoDB/4 - Data Formats in MongoDb.md"
-    },
-    {
-      "basename": "_ Intro to MongoDB",
-      "path": "DB/MongoDB/Introduction to the MongoDB/_ Intro to MongoDB.md"
     }
   ],
   "omittedPaths": [],

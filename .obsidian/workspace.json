@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.13. TYPY Generyczne.md",
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/4.1 Binding.md",
                 "mode": "source",
                 "source": false
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.13. TYPY Generyczne.md",
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/4.1 Binding.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.13. TYPY Generyczne.md",
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/4.1 Binding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.13. TYPY Generyczne.md"
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/4.1 Binding.md"
               }
             }
           },
@@ -272,10 +272,10 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "e01c6a9f64c0a344",
+  "active": "f621f21825dbd82d",
   "lastOpenFiles": [
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.12 Indeksery.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.13. TYPY Generyczne.md",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.12 Indeksery.md",
     "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md",
     "C Sharp/Complete CSharp MasterClass/_ CSHarp Complete Masterclass.md",
     "C Sharp/Complete CSharp MasterClass/3 Functions-Methods and how to save time.md",
