@@ -9,7 +9,7 @@
 # Activity and lifecycle
 
 - `: AppCompatActivity()` dziedziczenie po tej klasie sprawia, że dana klasa jest `activity`
-- definicja startowej aktywności  oraz wszystkie pozostałe aktywnośći w `AndroidManifest`
+- definicja startowej aktywności  oraz wszystkie pozostałe aktywności w `AndroidManifest`
 
 ```xml
 <activity  
