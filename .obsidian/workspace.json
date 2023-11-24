@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/4.1 Binding.md",
+                "file": "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/4.1 Binding.md",
+                "file": "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/4.1 Binding.md"
+                "file": "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md"
               }
             }
           },
@@ -272,8 +272,12 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "f621f21825dbd82d",
+  "active": "60899e75c49fe16d",
   "lastOpenFiles": [
+    "R U S T/Bard - Rust/_ rUST WITH bARD.md",
+    "DB/MongoDB - The Complete 2023/_ MongoDB Complete.md",
+    "DB/MongoDB/Master MongoDB/_ 0 Start.md",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/4.1 Binding.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.13. TYPY Generyczne.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.12 Indeksery.md",
     "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md",
@@ -285,7 +289,6 @@
     "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md",
     "_ Mobile/Kotlin/Kotlin bez tajemnic/_ Kotlin bez tajemnic.md",
     "_ WEB/REACT/React - the Complete Guide/3 React Basics.md",
-    "DB/MongoDB/Master MongoDB/_ 0 Start.md",
     "_ WEB/REACT/React - the Complete Guide/6.1. Styling extra.md",
     "_ WEB/REACT/React - the Complete Guide/8 Login Project.md",
     "_ WEB/REACT/React - the Complete Guide/6 Styling React Component (Simple React App).md",
@@ -297,9 +300,6 @@
     "_ WEB/REACT/React Mosh/3 Components.md",
     "_ WEB/REACT/React - the Complete Guide/5.2 Chart.md",
     "_ Mobile/REACT NATIVE/React Native Practical Guide/1.5. Splitting Components into Smaller Components.md",
-    "_ Mobile/REACT NATIVE/React Native Practical Guide/1.4. FlatList.md",
-    "_ Mobile/Kotlin/the complete Android Kotlin/1 Fundamentals of Kotlin.md",
-    "_ Mobile/Kotlin/the complete Android Kotlin/7 Intro to Android App Development.md",
     "DB/MongoDB - The Complete 2023",
     "_ Mobile/Kotlin/Kotlin bez tajemnic",
     "pexels-alex-fu-1302436.jpg",
