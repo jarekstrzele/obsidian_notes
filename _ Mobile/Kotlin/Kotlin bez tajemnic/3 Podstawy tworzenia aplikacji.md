@@ -1,6 +1,9 @@
 [[_ Kotlin bez tajemnic]]
 
-Android Studio
+# Android Studio 
+- `File>Settings>Plugin`:
+	- rainbow brackets
+	- nyan progress bar
 
 
 
