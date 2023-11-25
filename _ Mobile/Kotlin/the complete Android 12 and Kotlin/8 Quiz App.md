@@ -101,6 +101,7 @@ dependencies {
 
 ### dodanie komponentów wewnątrz MaterialCard
 
+#### włączenie fullscreen
 in `theme.xml` add:
 ```xml
 <!-- <item name="colorPrimary">@color/my_light_primary</item> -->  

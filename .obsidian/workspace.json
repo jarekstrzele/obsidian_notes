@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Kotlin/Kotlin bez tajemnic/_ Kotlin bez tajemnic.md",
+                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md",
+                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md",
+                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md"
+                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md"
               }
             }
           },
@@ -272,8 +272,10 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "60899e75c49fe16d",
+  "active": "afee16c553e63f2f",
   "lastOpenFiles": [
+    "_ Mobile/Kotlin/Kotlin bez tajemnic/_ Kotlin bez tajemnic.md",
+    "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md",
     "R U S T/Bard - Rust/_ rUST WITH bARD.md",
     "DB/MongoDB - The Complete 2023/_ MongoDB Complete.md",
     "DB/MongoDB/Master MongoDB/_ 0 Start.md",
@@ -286,8 +288,6 @@
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md",
-    "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md",
-    "_ Mobile/Kotlin/Kotlin bez tajemnic/_ Kotlin bez tajemnic.md",
     "_ WEB/REACT/React - the Complete Guide/3 React Basics.md",
     "_ WEB/REACT/React - the Complete Guide/6.1. Styling extra.md",
     "_ WEB/REACT/React - the Complete Guide/8 Login Project.md",
