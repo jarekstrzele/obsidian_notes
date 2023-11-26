@@ -1,4 +1,4 @@
-[[DB/PostgreSQL/SQL PostgreSQL Tutorial/_ intro sql postgresql]]
+[[_DataBase/SQL/SQL PostgreSQL Tutorial/_ intro sql postgresql]]
 
 
 ----

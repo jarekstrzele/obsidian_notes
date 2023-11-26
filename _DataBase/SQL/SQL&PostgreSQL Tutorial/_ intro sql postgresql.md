@@ -2,9 +2,9 @@
 #avis_jon
 
 # intro PostgreSQL
-[[DB/SQL/SQL PostgreSQL Tutorial/3 - DDL Postgres]]
-[[DB/SQL/SQL PostgreSQL Tutorial/4 - DML Postgres]]
-[[DB/SQL/SQL PostgreSQL Tutorial/5 - SELECT (retrieving data from a table)]]
+[[_DataBase/SQL/SQL&PostgreSQL Tutorial/3 - DDL Postgres]]
+[[_DataBase/SQL/SQL&PostgreSQL Tutorial/4 - DML Postgres]]
+[[_DataBase/SQL/SQL&PostgreSQL Tutorial/5 - SELECT (retrieving data from a table)]]
 
 
 >[!Definition of database]

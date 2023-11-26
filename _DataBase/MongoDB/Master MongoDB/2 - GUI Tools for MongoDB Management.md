@@ -1,4 +1,4 @@
-[[DB/MongoDB/Master MongoDB/_ 0 Start]]
+[[_DataBase/MongoDB/Master MongoDB/_ 0 Start]]
 
 
 ---

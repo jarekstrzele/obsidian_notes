@@ -2,9 +2,9 @@
 #avis_jon
 
 # intro PostgreSQL
-[[DB/SQL/SQL&PostgreSQL Tutorial/3 - DDL Postgres]]
-[[DB/SQL/SQL&PostgreSQL Tutorial/4 - DML Postgres]]
-[[DB/SQL/SQL&PostgreSQL Tutorial/5 - SELECT (retrieving data from a table)]]
+[[_DataBase/PostgreSQL/SQL PostgreSQL Tutorial/3 - DDL Postgres]]
+[[_DataBase/PostgreSQL/SQL PostgreSQL Tutorial/4 - DML Postgres]]
+[[_DataBase/PostgreSQL/SQL PostgreSQL Tutorial/5 - SELECT (retrieving data from a table)]]
 
 
 >[!Definition of database]
@@ -81,6 +81,12 @@ postgres=#
 
 ---
 ## PGADMIN
+
+PGAdmin4
+16.08.2022
+js100code@gmail.com
+Filozofia2!@
+
 #postgres/pgadmin
 https://www.youtube.com/watch?v=3v5VLS-oWKs
 

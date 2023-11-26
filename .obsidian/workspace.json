@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DB/MongoDB/Master MongoDB/_ 0 Start.md",
+                "file": "_DataBase/MongoDB/Learn MongoDB in 1 hour/_ Learn MongoDB in 1 hour.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DB/MongoDB - The Complete 2023/_ MongoDB Complete.md",
+                "file": "_DataBase/MongoDB/MongoDB - The Complete 2023/_ MongoDB Complete.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,21 +78,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0b014eb642a5f393",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_ WEB/REACT/React - the Complete Guide/6.1. Styling extra.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -174,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md",
+                "file": "_DataBase/MongoDB/Learn MongoDB in 1 hour/_ Learn MongoDB in 1 hour.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -191,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md",
+                "file": "_DataBase/MongoDB/Learn MongoDB in 1 hour/_ Learn MongoDB in 1 hour.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md"
+                "file": "_DataBase/MongoDB/Learn MongoDB in 1 hour/_ Learn MongoDB in 1 hour.md"
               }
             }
           },
@@ -272,35 +259,36 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "afee16c553e63f2f",
+  "active": "13e0f92de93fa8f7",
   "lastOpenFiles": [
-    "_ Mobile/Kotlin/selector.md",
+    "_DataBase/MongoDB/MongoDB - The Complete 2023/_ MongoDB Complete.md",
+    "_DataBase/MongoDB/Learn MongoDB in 1 hour/_ Learn MongoDB in 1 hour.md",
+    "_DataBase/MongoDB/Learn MongoDB in 1 hour",
+    "_DataBase/MongoDB/Master MongoDB/_ 0 Start.md",
+    "_DataBase/MongoDB/Introduction to the MongoDB/MongoDB Installation.md",
+    "_DataBase/MongoDB/Introduction to the MongoDB/8 - Advanced MongoDb Features.md",
+    "_DataBase/MongoDB/Introduction to the MongoDB/7 - Updating Documents.md",
+    "_DataBase/MongoDB/Introduction to the MongoDB/6 - Finding Documents.md",
+    "_DataBase/MongoDB/Introduction to the MongoDB/5 - Collection Creation and Documents Insertion.md",
+    "_DataBase/MongoDB/Introduction to the MongoDB/4 - Data Formats in MongoDb.md",
+    "_DataBase/MongoDB/Introduction to the MongoDB/_ Intro to MongoDB.md",
+    "_DataBase/PostgreSQL/Querying Data from PostgreSQL.md",
+    "_DataBase/databases with docker.md",
+    "_DataBase/My SQL.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md",
+    "_ WEB/REACT/React - the Complete Guide/6.1. Styling extra.md",
     "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md",
-    "_ Mobile/Kotlin/Kotlin bez tajemnic/_ Kotlin bez tajemnic.md",
-    "R U S T/Bard - Rust/_ rUST WITH bARD.md",
-    "DB/MongoDB - The Complete 2023/_ MongoDB Complete.md",
-    "DB/MongoDB/Master MongoDB/_ 0 Start.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/4.1 Binding.md",
+    "R U S T/Bard - Rust/_ rUST WITH bARD.md",
+    "_ Mobile/Kotlin/selector.md",
+    "_ Mobile/Kotlin/Kotlin bez tajemnic/_ Kotlin bez tajemnic.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.13. TYPY Generyczne.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.12 Indeksery.md",
     "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md",
     "C Sharp/Complete CSharp MasterClass/_ CSHarp Complete Masterclass.md",
     "C Sharp/Complete CSharp MasterClass/3 Functions-Methods and how to save time.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
-    "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md",
-    "_ WEB/REACT/React - the Complete Guide/3 React Basics.md",
-    "_ WEB/REACT/React - the Complete Guide/6.1. Styling extra.md",
-    "_ WEB/REACT/React - the Complete Guide/8 Login Project.md",
-    "_ WEB/REACT/React - the Complete Guide/6 Styling React Component (Simple React App).md",
-    "_ WEB/REACT/React - the Complete Guide/4 React State and Working with Events.md",
-    "_ WEB/REACT/React - the Complete Guide/5 Rendering Lists and Conditional content.md",
-    "_ WEB/REACT/React Mosh/4 Composing Components.md",
-    "_ WEB/REACT/React Mosh/8 Calling Backend Services.md",
-    "_ WEB/REACT/React Mosh/3.1 Component vidly project.md",
-    "_ WEB/REACT/React Mosh/3 Components.md",
-    "_ WEB/REACT/React - the Complete Guide/5.2 Chart.md",
-    "DB/MongoDB - The Complete 2023",
+    "_DataBase/MongoDB/MongoDB - The Complete 2023",
     "_ Mobile/Kotlin/Kotlin bez tajemnic",
     "pexels-alex-fu-1302436.jpg",
     "C Sharp/Complete CSharp MasterClass",
@@ -311,7 +299,6 @@
     "_ Desktop/WPF/CSharp WPF xaml youtube",
     "A I/Harvard CS50 AI with Python",
     "_ Desktop/Python/GUI/Tkinter/from 100 Days of Code",
-    "_ WEB/REACT/React 18 Tutorial and Projects Course 2023",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",

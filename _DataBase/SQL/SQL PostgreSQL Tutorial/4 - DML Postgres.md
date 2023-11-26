@@ -1,10 +1,10 @@
-[[DB/PostgreSQL/SQL PostgreSQL Tutorial/_ intro sql postgresql]]
+[[_DataBase/SQL/SQL PostgreSQL Tutorial/_ intro sql postgresql]]
 
 
 ---
 # DML
 - insert data into a table
-- u[[DB/PostgreSQL/SQL PostgreSQL Tutorial/4 - DML Postgres]]pdate data in a table
+- u[[_DataBase/SQL/SQL PostgreSQL Tutorial/4 - DML Postgres]]pdate data in a table
 - delete table from a table
 
 ## INSERT
