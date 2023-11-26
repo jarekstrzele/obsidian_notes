@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "selector",
+      "path": "_ Mobile/Kotlin/selector.md"
+    },
+    {
       "basename": "8 Quiz App",
       "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "5 - Collection Creation and Documents Insertion",
       "path": "DB/MongoDB/Introduction to the MongoDB/5 - Collection Creation and Documents Insertion.md"
-    },
-    {
-      "basename": "4 - Data Formats in MongoDb",
-      "path": "DB/MongoDB/Introduction to the MongoDB/4 - Data Formats in MongoDb.md"
     }
   ],
   "omittedPaths": [],

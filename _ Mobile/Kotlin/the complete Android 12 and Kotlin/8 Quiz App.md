@@ -268,6 +268,7 @@ change main layout for `ScrollView` and add inside `LinearLayout`
 						
 ```
 
+## first components
 ```xml
 <?xml version="1.0" encoding="utf-8"?>  
 <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"  
@@ -330,4 +331,62 @@ change main layout for `ScrollView` and add inside `LinearLayout`
     </LinearLayout>  
 </ScrollView>
 ```
+
+
+## widgets for 4 possible answers
+
+add four `TextView`
+```xml
+ <TextView  
+            android:id="@+id/textview_option_four"  
+            android:layout_width="match_parent"  
+            android:layout_height="wrap_content"  
+            android:layout_margin="10dp"  
+            android:layout_gravity="center"  
+            android:padding="15dp"  
+            android:textColor="#7a8089"  
+            android:textSize="10sp"  
+            android:background="@drawable/default_option_border_bg"  
+            tools:text="Apple"  
+            />  
+    </LinearLayout>  
+  
+</ScrollView>
+```
+
+set the coursor on `@drawable/default ...` om background and allow IDE to make a `defult_option ... `.`xml`  with z selector
+```xml
+<selector> .... </selector>
+```
+
+
+
+in drawable and and change that file:
+```xml
+<?xml version="1.0" encoding="utf-8"?>  
+<shape xmlns:android="http://schemas.android.com/apk/res/android"  
+   android:shape="rectangle"  
+    >  
+  
+    <stroke  
+        android:width="1dp"  
+        android:color="#e8e8e8" />  
+    <solid android:color="@color/white" />  
+    <corners android:radius="15dp" />  
+  
+  
+</shape>
+```
+
+
+
+
+
+
+
+
+
+
+
+
 

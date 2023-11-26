@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md",
+                "file": "_ Mobile/Kotlin/selector.md",
                 "mode": "source",
                 "source": false
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md",
+                "file": "_ Mobile/Kotlin/selector.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md",
+                "file": "_ Mobile/Kotlin/selector.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md"
+                "file": "_ Mobile/Kotlin/selector.md"
               }
             }
           },
@@ -274,6 +274,8 @@
   },
   "active": "afee16c553e63f2f",
   "lastOpenFiles": [
+    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md",
+    "_ Mobile/Kotlin/selector.md",
     "_ Mobile/Kotlin/Kotlin bez tajemnic/_ Kotlin bez tajemnic.md",
     "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md",
     "R U S T/Bard - Rust/_ rUST WITH bARD.md",
@@ -287,7 +289,6 @@
     "C Sharp/Complete CSharp MasterClass/3 Functions-Methods and how to save time.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md",
-    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md",
     "_ WEB/REACT/React - the Complete Guide/3 React Basics.md",
     "_ WEB/REACT/React - the Complete Guide/6.1. Styling extra.md",
     "_ WEB/REACT/React - the Complete Guide/8 Login Project.md",
@@ -299,7 +300,6 @@
     "_ WEB/REACT/React Mosh/3.1 Component vidly project.md",
     "_ WEB/REACT/React Mosh/3 Components.md",
     "_ WEB/REACT/React - the Complete Guide/5.2 Chart.md",
-    "_ Mobile/REACT NATIVE/React Native Practical Guide/1.5. Splitting Components into Smaller Components.md",
     "DB/MongoDB - The Complete 2023",
     "_ Mobile/Kotlin/Kotlin bez tajemnic",
     "pexels-alex-fu-1302436.jpg",
