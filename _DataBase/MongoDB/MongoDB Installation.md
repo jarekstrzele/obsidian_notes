@@ -37,7 +37,7 @@ https://www.mongodb.com/docs/manual/installation/
 
 ### Mongo-express
 - Obraz `mongo-express` to narzędzie do zarządzania bazą danych MongoDB za pomocą interfejsu graficznego. Pozwala na przeglądanie, dodawanie, usuwanie i edytowanie danych w bazie MongoDB za pomocą przeglądarki internetowej.
-`docker run -d -p 8081:8081 --link moja-baza-danych:mongo mongo-express`
+##### `docker run -d -p 8081:8081 --link moja-baza-danych:mongo mongo-express`
 > wyjaśnienie: `moja-baza-danych:mongo`
 > wewnątrz kontenera `mongo-express`  kontener `moja-baza-danych` będzie dostępny za pomocą aliasu `mongo` (kontener `mongo-express`  potrzebuje tego aliasu, aby łatwo się komunikować z bazą)
 
@@ -49,10 +49,20 @@ https://www.mongodb.com/docs/manual/installation/
 > - 
 > Oba obrazy mogą współpracować, co pozwala na skorzystanie z interfejsu graficznego do zarządzania bazą danych MongoDB uruchomioną w kontenerze `mongo`.
 
--------------
+
+> ` docker logs <idkontenera>`
+```
+No custom config.js found, loading config.default.js
+Welcome to mongo-express
+------------------------
 
 
+Mongo Express server listening at http://0.0.0.0:8081
+Server is open to allow connections from anyone (0.0.0.0)
+basicAuth credentials are "admin:pass", it is recommended you change this in your config.js!
+```
 
+###### `admin:pass`
 
 ---
 ## MongoDB Atlas
