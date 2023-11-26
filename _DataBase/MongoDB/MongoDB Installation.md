@@ -29,12 +29,17 @@ https://www.mongodb.com/docs/manual/installation/
 
 ##### `docker ps` pokaże aktualnie działające kontenery
 
+#### uruchomienie konsolowego interfejsu do komunikacji z `mongodb`
+##### `docker exec -it moja-baza-danych mongosh`
+
+
+
 
 ### Mongo-express
 - Obraz `mongo-express` to narzędzie do zarządzania bazą danych MongoDB za pomocą interfejsu graficznego. Pozwala na przeglądanie, dodawanie, usuwanie i edytowanie danych w bazie MongoDB za pomocą przeglądarki internetowej.
 `docker run -d -p 8081:8081 --link moja-baza-danych:mongo mongo-express`
 > wyjaśnienie: `moja-baza-danych:mongo`
-> wewnątrz kontenera `mongo-express`  kontener `moja-baza-danych` będzie dostępny za pomocą aliasu `mongo`
+> wewnątrz kontenera `mongo-express`  kontener `moja-baza-danych` będzie dostępny za pomocą aliasu `mongo` (kontener `mongo-express`  potrzebuje tego aliasu, aby łatwo się komunikować z bazą)
 
 
 

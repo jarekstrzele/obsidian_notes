@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_DataBase/MongoDB/MongoDB Installation.md",
+                "file": "_DataBase/MongoDB/Learn MongoDB in 1 hour/_ Learn MongoDB in 1 hour.md",
                 "mode": "source",
                 "source": false
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_DataBase/MongoDB/MongoDB Installation.md",
+                "file": "_DataBase/MongoDB/Learn MongoDB in 1 hour/_ Learn MongoDB in 1 hour.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_DataBase/MongoDB/MongoDB Installation.md",
+                "file": "_DataBase/MongoDB/Learn MongoDB in 1 hour/_ Learn MongoDB in 1 hour.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_DataBase/MongoDB/MongoDB Installation.md"
+                "file": "_DataBase/MongoDB/Learn MongoDB in 1 hour/_ Learn MongoDB in 1 hour.md"
               }
             }
           },
@@ -261,8 +261,8 @@
   },
   "active": "13e0f92de93fa8f7",
   "lastOpenFiles": [
-    "_DataBase/MongoDB/Learn MongoDB in 1 hour/_ Learn MongoDB in 1 hour.md",
     "_DataBase/MongoDB/MongoDB Installation.md",
+    "_DataBase/MongoDB/Learn MongoDB in 1 hour/_ Learn MongoDB in 1 hour.md",
     "_DataBase/MongoDB/MongoDB - The Complete 2023/_ MongoDB Complete.md",
     "_DataBase/MongoDB/Learn MongoDB in 1 hour",
     "_DataBase/MongoDB/Master MongoDB/_ 0 Start.md",

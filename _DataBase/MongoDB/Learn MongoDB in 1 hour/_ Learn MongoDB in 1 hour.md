@@ -25,7 +25,11 @@ e.g. *students*, *teachers*, *courses*
 ## database
 It is a group of one or more documents
 
-# Installation
+# Basic commands
+
+`show dbs` - to show databases
+
+
 
 
 
