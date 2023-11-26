@@ -27,9 +27,14 @@ It is a group of one or more documents
 
 # Basic commands
 
+## database
 `show dbs` - to show databases
 
+`use admin` - to use an existing database `admin`
+`use newDB` - to create and use a new db, but if it is empty, it is invisible
 
+## collection
+`db.createCollection("")`
 
 
 
