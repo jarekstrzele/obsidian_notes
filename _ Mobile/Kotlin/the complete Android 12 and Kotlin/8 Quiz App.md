@@ -382,7 +382,21 @@ in drawable and and **change that file**:
 > 
 
 
-
+and at the end add `Button`:
+```xml
+ <Button  
+            android:layout_width="match_parent"  
+            android:layout_height="wrap_content"  
+            android:layout_margin="10dp"  
+            android:background="@color/design_default_color_primary"  
+            android:text="SUBMIT"  
+            android:textColor="@android:color/white"  
+            android:textSize="10sp"  
+            android:textStyle="bold" />  
+        </LinearLayout>  
+  
+</ScrollView>
+```
 
 
 
