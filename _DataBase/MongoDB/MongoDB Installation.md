@@ -1,4 +1,4 @@
-[[_ Intro to MongoDB]]
+
 
 ----
 # MongoDB installation

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "MongoDB Installation",
+      "path": "_DataBase/MongoDB/MongoDB Installation.md"
+    },
+    {
       "basename": "_ Learn MongoDB in 1 hour",
       "path": "_DataBase/MongoDB/Learn MongoDB in 1 hour/_ Learn MongoDB in 1 hour.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "_ 0 Start",
       "path": "_DataBase/MongoDB/Master MongoDB/_ 0 Start.md"
-    },
-    {
-      "basename": "MongoDB Installation",
-      "path": "_DataBase/MongoDB/Introduction to the MongoDB/MongoDB Installation.md"
     },
     {
       "basename": "8 - Advanced MongoDb Features",
