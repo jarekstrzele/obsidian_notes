@@ -56,9 +56,14 @@ school> db.dropDatabase()
 
 
 ## document
-`db.students.insertOne({})` - of the collection `students` does not exit, it will be created
+#### add one document
+`db.students.insertOne({name:"alo", age:22})` - of the collection `students` does not exit, it will be created
 
+return all documents:
+`db.students.find()`
 
+#### add many documents
+`school> db.students.insertMany([{name:"piotr", age:38, gpa:22.1}, {name:"sandy", age:22}]`
 
 
 
