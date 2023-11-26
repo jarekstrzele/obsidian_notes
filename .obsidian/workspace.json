@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_DataBase/MongoDB/MongoDB - The Complete 2023/_ MongoDB Complete.md",
+                "file": "_DataBase/MongoDB/MongoDB Installation.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -161,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_DataBase/MongoDB/Learn MongoDB in 1 hour/_ Learn MongoDB in 1 hour.md",
+                "file": "_DataBase/MongoDB/MongoDB Installation.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -178,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_DataBase/MongoDB/Learn MongoDB in 1 hour/_ Learn MongoDB in 1 hour.md",
+                "file": "_DataBase/MongoDB/MongoDB Installation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_DataBase/MongoDB/Learn MongoDB in 1 hour/_ Learn MongoDB in 1 hour.md"
+                "file": "_DataBase/MongoDB/MongoDB Installation.md"
               }
             }
           },
@@ -259,11 +260,11 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "13e0f92de93fa8f7",
+  "active": "d66c46a7556ec2c5",
   "lastOpenFiles": [
-    "_DataBase/MongoDB/MongoDB Installation.md",
-    "_DataBase/MongoDB/Learn MongoDB in 1 hour/_ Learn MongoDB in 1 hour.md",
     "_DataBase/MongoDB/MongoDB - The Complete 2023/_ MongoDB Complete.md",
+    "_DataBase/MongoDB/Learn MongoDB in 1 hour/_ Learn MongoDB in 1 hour.md",
+    "_DataBase/MongoDB/MongoDB Installation.md",
     "_DataBase/MongoDB/Learn MongoDB in 1 hour",
     "_DataBase/MongoDB/Master MongoDB/_ 0 Start.md",
     "_DataBase/MongoDB/Introduction to the MongoDB/8 - Advanced MongoDb Features.md",
