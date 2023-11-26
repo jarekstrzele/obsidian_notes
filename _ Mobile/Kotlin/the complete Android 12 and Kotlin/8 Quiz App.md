@@ -220,6 +220,16 @@ data class Question(
 )
 ```
 
+>[!important] Identyfikator zasobów (`image: Int`)
+> W Androidzie identyfikatory zasobów są liczbami całkowitymi (integer), reprezentującymi unikalne identyfikatory zasobów.
+> 
+> Chociaż w `image:Int` będziemy:
+> 	-  przekazywać ścieżkę dostępu do obrazka (np. `R.drawable.ic_flag_of_belgium`, który wydaje się być ciągiem znaków), 
+> 	- w rzeczywistości jest to liczba całkowita, która jest identyfikatorem zasobu. 
+> 
+> W związku z tym przypisanie go do pola `image` w klasie `Question` jest zgodne z oczekiwaniami, ponieważ oczekuje ono wartości typu `Int`.
+
+
 ### a new object file
 `>new>Kotlin>Object`
 
