@@ -62,12 +62,28 @@ school> db.dropDatabase()
 return all documents:
 `db.students.find()`
 
+
+
+
 #### add many documents
 `school> db.students.insertMany([{name:"piotr", age:38, gpa:22.1}, {name:"sandy", age:22}]`
 
+```
+school> db.students.insertOne(
+{ 
+	name:"Franio", 
+	age:21, 
+	gpa:2.3, 
+	isGenious: false, 
+	date: new Date(), 
+	courses: ["Biologia", "Cjhemistry"], 
+	address: {street:"123 ", city:"Bikini", zip:123} 
+}
+)
+```
 
 
-
+## sort and limit data
 
 
 
