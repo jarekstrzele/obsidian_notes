@@ -354,14 +354,14 @@ add four `TextView`
 </ScrollView>
 ```
 
-set the coursor on `@drawable/default ...` om background and allow IDE to make a `defult_option ... `.`xml`  with z selector
+set the coursor on `@drawable/default ...` om background and allow IDE to make a `defult_option ... `.`xml`  with 
+#### [[selector]]  
 ```xml
 <selector> .... </selector>
 ```
 
+in drawable and and **change that file**:
 
-
-in drawable and and change that file:
 ```xml
 <?xml version="1.0" encoding="utf-8"?>  
 <shape xmlns:android="http://schemas.android.com/apk/res/android"  
@@ -378,7 +378,8 @@ in drawable and and change that file:
 </shape>
 ```
 
-
+> W skrócie, `<shape>` to predefiniowany element w Androidzie, który pozwala na definiowanie różnych kształtów graficznych i ich stylizacji za pomocą innych elementów XML, takich jak `stroke`, `solid`, `corners`, itp.
+> 
 
 
 
