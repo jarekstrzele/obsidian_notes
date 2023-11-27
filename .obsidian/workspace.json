@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.13. TYPY Generyczne.md",
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.12 Indeksery.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.13. TYPY Generyczne.md",
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.12 Indeksery.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.13. TYPY Generyczne.md",
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.12 Indeksery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.13. TYPY Generyczne.md"
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.12 Indeksery.md"
               }
             }
           },
@@ -262,6 +262,8 @@
   },
   "active": "60899e75c49fe16d",
   "lastOpenFiles": [
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.12 Indeksery.md",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.13. TYPY Generyczne.md",
     "_ Desktop/Python/GUI/Tkinter/Tkinter.md",
     "_ Desktop/Python/GUI/Tkinter/Icons, Images, Exit Button.md",
     "_ Desktop/Python/GUI/Tkinter/modern GUIs/_ 0 Modern GUIs Python.md",
@@ -287,8 +289,6 @@
     "_DataBase/My SQL.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md",
     "_ WEB/REACT/React - the Complete Guide/6.1. Styling extra.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/4.1 Binding.md",
-    "R U S T/Bard - Rust/_ rUST WITH bARD.md",
     "_DataBase/MongoDB/MongoDB - The Complete 2023",
     "_ Mobile/Kotlin/Kotlin bez tajemnic",
     "pexels-alex-fu-1302436.jpg",
