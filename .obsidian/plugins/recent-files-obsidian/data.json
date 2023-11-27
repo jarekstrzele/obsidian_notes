@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "MongoDB Installation on Sys, on Docker",
+      "path": "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md"
+    },
+    {
+      "basename": "_ Learn MongoDB in 1 hour",
+      "path": "_DataBase/MongoDB/Learn MongoDB in 1 hour/_ Learn MongoDB in 1 hour.md"
+    },
+    {
+      "basename": "_ 0 Android Kurs Tworzenia Aplikacji",
+      "path": "_ Mobile/Android Kurs Tworzenia APlikacji/_ 0 Android Kurs Tworzenia Aplikacji.md"
+    },
+    {
       "basename": "8 Quiz App",
       "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md"
     },
@@ -47,14 +59,6 @@
     {
       "basename": "3 Podstawy tworzenia aplikacji",
       "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md"
-    },
-    {
-      "basename": "_ Learn MongoDB in 1 hour",
-      "path": "_DataBase/MongoDB/Learn MongoDB in 1 hour/_ Learn MongoDB in 1 hour.md"
-    },
-    {
-      "basename": "MongoDB Installation",
-      "path": "_DataBase/MongoDB/MongoDB Installation.md"
     },
     {
       "basename": "_ MongoDB Complete",
@@ -195,10 +199,6 @@
     {
       "basename": "7 Intro to Android App Development",
       "path": "_ Mobile/Kotlin/the complete Android Kotlin/7 Intro to Android App Development.md"
-    },
-    {
-      "basename": "5 Functions in Android Kotlin",
-      "path": "_ Mobile/Kotlin/the complete Android Kotlin/5 Functions in Android Kotlin.md"
     }
   ],
   "omittedPaths": [],

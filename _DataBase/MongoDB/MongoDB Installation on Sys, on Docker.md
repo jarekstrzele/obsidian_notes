@@ -32,6 +32,7 @@ https://www.mongodb.com/docs/manual/installation/
 #### uruchomienie konsolowego interfejsu do komunikacji z `mongodb`
 ##### `docker exec -it moja-baza-danych mongosh`
 
+Ponowne uruchomienie kontenera już istniejącego:
 
 
 

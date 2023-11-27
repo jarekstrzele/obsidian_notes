@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_DataBase/MongoDB/MongoDB Installation.md",
+                "file": "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md",
+                "file": "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md",
+                "file": "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md",
+                "file": "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md"
+                "file": "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md"
               }
             }
           },
@@ -261,6 +261,10 @@
   },
   "active": "60899e75c49fe16d",
   "lastOpenFiles": [
+    "_DataBase/MongoDB/Learn MongoDB in 1 hour/_ Learn MongoDB in 1 hour.md",
+    "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md",
+    "_ Mobile/Android Kurs Tworzenia APlikacji/_ 0 Android Kurs Tworzenia Aplikacji.md",
+    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.12 Indeksery.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.13. TYPY Generyczne.md",
     "_ Desktop/Python/GUI/Tkinter/Tkinter.md",
@@ -272,8 +276,6 @@
     "_ Desktop/Python/GUI/Tkinter/Tkinter Pomidoro.md",
     "_ Desktop/Python/GUI/Tkinter/Widżety proste TkInter.md",
     "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md",
-    "_DataBase/MongoDB/Learn MongoDB in 1 hour/_ Learn MongoDB in 1 hour.md",
-    "_DataBase/MongoDB/MongoDB Installation.md",
     "_DataBase/MongoDB/MongoDB - The Complete 2023/_ MongoDB Complete.md",
     "_DataBase/MongoDB/Learn MongoDB in 1 hour",
     "_DataBase/MongoDB/Master MongoDB/_ 0 Start.md",
@@ -286,8 +288,6 @@
     "_DataBase/PostgreSQL/Querying Data from PostgreSQL.md",
     "_DataBase/databases with docker.md",
     "_DataBase/My SQL.md",
-    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md",
-    "_ Mobile/_ WEB/REACT/React - the Complete Guide/6.1. Styling extra.md",
     "_DataBase/MongoDB/MongoDB - The Complete 2023",
     "_ Mobile/Kotlin/Kotlin bez tajemnic",
     "pexels-alex-fu-1302436.jpg",
