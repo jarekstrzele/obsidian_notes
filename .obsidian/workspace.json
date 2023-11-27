@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md",
+                "file": "_ Desktop/Python/GUI/Tkinter/Icons, Images, Exit Button.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -161,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_DataBase/MongoDB/Learn MongoDB in 1 hour/_ Learn MongoDB in 1 hour.md",
+                "file": "_ Desktop/Python/GUI/Tkinter/Icons, Images, Exit Button.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -178,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_DataBase/MongoDB/Learn MongoDB in 1 hour/_ Learn MongoDB in 1 hour.md",
+                "file": "_ Desktop/Python/GUI/Tkinter/Icons, Images, Exit Button.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_DataBase/MongoDB/Learn MongoDB in 1 hour/_ Learn MongoDB in 1 hour.md"
+                "file": "_ Desktop/Python/GUI/Tkinter/Icons, Images, Exit Button.md"
               }
             }
           },
@@ -259,11 +260,20 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "13e0f92de93fa8f7",
+  "active": "60899e75c49fe16d",
   "lastOpenFiles": [
+    "_ Desktop/Python/GUI/Tkinter/modern GUIs/_ 0 Modern GUIs Python.md",
+    "_ Desktop/Python/GUI/the art of doing create 10 Python GUI/7 Notepad.md",
+    "_ Desktop/Python/GUI/Tkinter/from 100 Days of Code/_ Tkinter.md",
+    "_ Desktop/Python/GUI/Tkinter/Icons, Images, Exit Button.md",
+    "_ Desktop/Python/GUI/Tkinter/Tkinter.md",
+    "_ Desktop/Python/GUI/Tkinter/Tkinter 0.md",
+    "_ Desktop/Python/GUI/Tkinter/Tkinter Pomidoro.md",
+    "_ Desktop/Python/GUI/Tkinter/Widżety proste TkInter.md",
+    "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md",
+    "_DataBase/MongoDB/Learn MongoDB in 1 hour/_ Learn MongoDB in 1 hour.md",
     "_DataBase/MongoDB/MongoDB Installation.md",
     "_DataBase/MongoDB/MongoDB - The Complete 2023/_ MongoDB Complete.md",
-    "_DataBase/MongoDB/Learn MongoDB in 1 hour/_ Learn MongoDB in 1 hour.md",
     "_DataBase/MongoDB/Learn MongoDB in 1 hour",
     "_DataBase/MongoDB/Master MongoDB/_ 0 Start.md",
     "_DataBase/MongoDB/Introduction to the MongoDB/8 - Advanced MongoDb Features.md",
@@ -277,17 +287,8 @@
     "_DataBase/My SQL.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md",
     "_ WEB/REACT/React - the Complete Guide/6.1. Styling extra.md",
-    "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/4.1 Binding.md",
     "R U S T/Bard - Rust/_ rUST WITH bARD.md",
-    "_ Mobile/Kotlin/selector.md",
-    "_ Mobile/Kotlin/Kotlin bez tajemnic/_ Kotlin bez tajemnic.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.13. TYPY Generyczne.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.12 Indeksery.md",
-    "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md",
-    "C Sharp/Complete CSharp MasterClass/_ CSHarp Complete Masterclass.md",
-    "C Sharp/Complete CSharp MasterClass/3 Functions-Methods and how to save time.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
     "_DataBase/MongoDB/MongoDB - The Complete 2023",
     "_ Mobile/Kotlin/Kotlin bez tajemnic",
     "pexels-alex-fu-1302436.jpg",
