@@ -43,7 +43,7 @@ It is a group of one or more documents
 ## collection
 `db.createCollection("students")` - to create a collection
 
-
+`show collections` - to view all collections in db
 
 ```mongosh
 admin> use school
@@ -59,11 +59,10 @@ school> db.dropDatabase()
 #### add one document
 `db.students.insertOne({name:"alo", age:22})` - of the collection `students` does not exit, it will be created
 
+#### show all documents
 return all documents:
 `db.students.find()`
-
-
-
+`test> db.students.find().pretty()`
 
 #### add many documents
 `school> db.students.insertMany([{name:"piotr", age:38, gpa:22.1}, {name:"sandy", age:22}]`
@@ -81,7 +80,6 @@ school> db.students.insertOne(
 }
 )
 ```
-
 
 ## sort and limit data
  
