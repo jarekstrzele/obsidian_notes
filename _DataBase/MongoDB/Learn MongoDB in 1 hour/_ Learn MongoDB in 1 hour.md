@@ -81,9 +81,21 @@ school> db.students.insertOne(
 )
 ```
 
-## sort and limit data
- 
+## `sort` and `limit` data
+`test> db.students.find().sort({name:1})` alfabetycznie od a do z
+`test> db.students.find().sort({name:-1})` od z do a
+`test> db.students.find().sort({agee:1})` od  1 do ...
+`test> db.students.find().sort({agee:-1})` od ... do 1
+
+dwóch najstarszych 
+`test> db.students.find().sort({age:-1}).limit(2)`
+
+trzech najmłodszych
+`test> db.students.find().sort({age:1}).limit(3)`
 
 
+## `find({query}, {projection})`
 
+`db.students.find()` returns all documents in the collection `student`
 
+`db`
