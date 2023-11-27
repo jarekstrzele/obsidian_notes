@@ -109,7 +109,7 @@ in `theme.xml` add:
 </
 ```
 
-Wewnątrz MaterialCardView dodaj:
+Wewnątrz MaterialCardView dodaj: 
 - `<TextView>`
 - `<TextView>`
 - `<TextInputLayout>` - specjalny kontener do pól tekstowych
