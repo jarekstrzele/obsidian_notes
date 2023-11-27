@@ -96,6 +96,71 @@ trzech najmłodszych
 
 ## `find({query}, {projection})`
 
-`db.students.find()` returns all documents in the collection `student`
+#### `db.students.find()` returns all documents in the collection `student`
 
-`db`
+#### `db.students.find({name:"ola"})` any documents with name ola
+```bash
+test> db.students.find({name:"bolo"})
+[
+  {
+    _id: ObjectId("6564fe2f6a756d36383dc6b4"),
+    name: 'bolo',
+    age: 33,
+    city: 'olsztyn'
+  },
+  { _id: ObjectId("6565019f6a756d36383dc6b8"), name: 'bolo' }
+]
+```
+
+```bash
+
+test> db.students.find({name:"bolo", age:33})
+[
+  {
+    _id: ObjectId("6564fe2f6a756d36383dc6b4"),
+    name: 'bolo',
+    age: 33,
+    city: 'olsztyn'
+  }
+]
+```
+
+### `projection`
+use it when you don't want all information
+`db.students.find({}, {name:true})` return all documents, but display only the `name`
+```bash
+test> db.students.find({}, {name:true})
+[
+  { _id: ObjectId("6564fdf06a756d36383dc6b2"), name: 'aki' },
+  { _id: ObjectId("6564fe2f6a756d36383dc6b3"), name: 'aki' },
+  { _id: ObjectId("6564fe2f6a756d36383dc6b4"), name: 'bolo' },
+  { _id: ObjectId("6564fe2f6a756d36383dc6b5"), name: 'acharit' },
+  { _id: ObjectId("6565000d6a756d36383dc6b6"), name: 'Karu' },
+  { _id: ObjectId("6565000d6a756d36383dc6b7"), name: 'robert' },
+  { _id: ObjectId("6565019f6a756d36383dc6b8"), name: 'bolo' }
+]
+```
+
+```bash
+test> db.students.find({}, {_id: false, name:true})
+[
+  { name: 'aki' },
+  { name: 'aki' },
+  { name: 'bolo' },
+  { name: 'acharit' },
+  { name: 'Karu' },
+  { name: 'robert' },
+  { name: 'bolo' }
+]
+```
+
+
+
+
+
+
+
+
+
+
+
