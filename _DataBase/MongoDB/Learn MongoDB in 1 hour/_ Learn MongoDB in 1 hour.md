@@ -155,6 +155,12 @@ test> db.students.find({}, {_id: false, name:true})
 ```
 
 
+## update 
+### `updateOne(filter, update)`
+`db.students.updateOne({name:"bolo"`
+
+
+
 
 
 
