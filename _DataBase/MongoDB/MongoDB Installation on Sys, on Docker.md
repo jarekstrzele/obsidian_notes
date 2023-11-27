@@ -32,10 +32,13 @@ https://www.mongodb.com/docs/manual/installation/
 #### uruchomienie konsolowego interfejsu do komunikacji z `mongodb`
 ##### `docker exec -it moja-baza-danych mongosh`
 
-Ponowne uruchomienie kontenera już istniejącego:
+> Ponowne uruchomienie kontenera już istniejącego:
+>   1. `docker start <container_id>`
+>   2. `docker exec -it <container_id> mongosh`
 
 
 
+--------------
 ### Mongo-express
 - Obraz `mongo-express` to narzędzie do zarządzania bazą danych MongoDB za pomocą interfejsu graficznego. Pozwala na przeglądanie, dodawanie, usuwanie i edytowanie danych w bazie MongoDB za pomocą przeglądarki internetowej.
 ##### `docker run -d -p 8081:8081 --link moja-baza-danych:mongo mongo-express`
