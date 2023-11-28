@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_DataBase/MongoDB/Learn MongoDB in 1 hour/_ Learn MongoDB in 1 hour.md",
+                "file": "_ Desktop/WPF/Fast WFP  C Sharp/2 Controls WPF.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_DataBase/MongoDB/Learn MongoDB in 1 hour/_ Learn MongoDB in 1 hour.md",
+                "file": "_ Desktop/WPF/Fast WFP  C Sharp/2 Controls WPF.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_DataBase/MongoDB/Learn MongoDB in 1 hour/_ Learn MongoDB in 1 hour.md",
+                "file": "_ Desktop/WPF/Fast WFP  C Sharp/2 Controls WPF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_DataBase/MongoDB/Learn MongoDB in 1 hour/_ Learn MongoDB in 1 hour.md"
+                "file": "_ Desktop/WPF/Fast WFP  C Sharp/2 Controls WPF.md"
               }
             }
           },
@@ -261,8 +261,11 @@
   },
   "active": "60899e75c49fe16d",
   "lastOpenFiles": [
-    "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md",
+    "_ Desktop/WPF/Alien Form.md",
+    "_ Desktop/WPF/TicTacToe.md",
+    "_ Desktop/WPF/Wyświeltanie info.md",
     "_DataBase/MongoDB/Learn MongoDB in 1 hour/_ Learn MongoDB in 1 hour.md",
+    "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md",
     "_ Mobile/Android Kurs Tworzenia APlikacji/_ 0 Android Kurs Tworzenia Aplikacji.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.12 Indeksery.md",
@@ -285,9 +288,6 @@
     "_DataBase/MongoDB/Introduction to the MongoDB/5 - Collection Creation and Documents Insertion.md",
     "_DataBase/MongoDB/Introduction to the MongoDB/4 - Data Formats in MongoDb.md",
     "_DataBase/MongoDB/Introduction to the MongoDB/_ Intro to MongoDB.md",
-    "_DataBase/PostgreSQL/Querying Data from PostgreSQL.md",
-    "_DataBase/databases with docker.md",
-    "_DataBase/My SQL.md",
     "_DataBase/MongoDB/MongoDB - The Complete 2023",
     "_ Mobile/Kotlin/Kotlin bez tajemnic",
     "pexels-alex-fu-1302436.jpg",
