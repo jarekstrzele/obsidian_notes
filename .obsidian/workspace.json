@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Desktop/WPF/Fast WFP  C Sharp/2 Controls WPF.md",
+                "file": "_ Desktop/WPF/Wyświeltanie info.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Desktop/WPF/Fast WFP  C Sharp/2 Controls WPF.md",
+                "file": "_ Desktop/WPF/Wyświeltanie info.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Desktop/WPF/Fast WFP  C Sharp/2 Controls WPF.md",
+                "file": "_ Desktop/WPF/Wyświeltanie info.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Desktop/WPF/Fast WFP  C Sharp/2 Controls WPF.md"
+                "file": "_ Desktop/WPF/Wyświeltanie info.md"
               }
             }
           },
@@ -261,6 +261,7 @@
   },
   "active": "60899e75c49fe16d",
   "lastOpenFiles": [
+    "_ Desktop/WPF/Fast WFP  C Sharp/2 Controls WPF.md",
     "_ Desktop/WPF/Alien Form.md",
     "_ Desktop/WPF/TicTacToe.md",
     "_ Desktop/WPF/Wyświeltanie info.md",
@@ -287,7 +288,6 @@
     "_DataBase/MongoDB/Introduction to the MongoDB/6 - Finding Documents.md",
     "_DataBase/MongoDB/Introduction to the MongoDB/5 - Collection Creation and Documents Insertion.md",
     "_DataBase/MongoDB/Introduction to the MongoDB/4 - Data Formats in MongoDb.md",
-    "_DataBase/MongoDB/Introduction to the MongoDB/_ Intro to MongoDB.md",
     "_DataBase/MongoDB/MongoDB - The Complete 2023",
     "_ Mobile/Kotlin/Kotlin bez tajemnic",
     "pexels-alex-fu-1302436.jpg",
