@@ -365,7 +365,7 @@ add four `TextView`
 </ScrollView>
 ```
 
-set the coursor on `@drawable/default ...` om background and allow IDE to make a `defult_option ... `.`xml`  with 
+set the coursor on `@drawable/default ...` on background and allow IDE to make a `defult_option ... `.`xml`  with 
 #### [[selector]]  
 ```xml
 <selector> .... </selector>

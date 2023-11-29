@@ -5,6 +5,10 @@
       "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md"
     },
     {
+      "basename": "selector",
+      "path": "_ Mobile/Kotlin/selector.md"
+    },
+    {
       "basename": "4 React State and Working with Events",
       "path": "_ Mobile/_ WEB/REACT/React - the Complete Guide/4 React State and Working with Events.md"
     },
@@ -147,10 +151,6 @@
     {
       "basename": "_ rUST WITH bARD",
       "path": "R U S T/Bard - Rust/_ rUST WITH bARD.md"
-    },
-    {
-      "basename": "selector",
-      "path": "_ Mobile/Kotlin/selector.md"
     },
     {
       "basename": "_ Kotlin bez tajemnic",
