@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "_ 0 React Node",
+      "path": "_ Mobile/_ WEB/REACT/React_Node_Helion/_ 0 React Node.md"
+    },
+    {
+      "basename": "5 React Props",
+      "path": "_ Mobile/_ WEB/REACT/w3school/5 React Props.md"
+    },
+    {
+      "basename": "4 React State and Working with Events",
+      "path": "_ Mobile/_ WEB/REACT/React - the Complete Guide/4 React State and Working with Events.md"
+    },
+    {
       "basename": "8 Quiz App",
       "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md"
     },
     {
       "basename": "selector",
       "path": "_ Mobile/Kotlin/selector.md"
-    },
-    {
-      "basename": "4 React State and Working with Events",
-      "path": "_ Mobile/_ WEB/REACT/React - the Complete Guide/4 React State and Working with Events.md"
     },
     {
       "basename": "Wyświeltanie info",
@@ -191,14 +199,6 @@
     {
       "basename": "5 Rendering Lists and Conditional content",
       "path": "_ Mobile/_ WEB/REACT/React - the Complete Guide/5 Rendering Lists and Conditional content.md"
-    },
-    {
-      "basename": "4 Composing Components",
-      "path": "_ Mobile/_ WEB/REACT/React Mosh/4 Composing Components.md"
-    },
-    {
-      "basename": "8 Calling Backend Services",
-      "path": "_ Mobile/_ WEB/REACT/React Mosh/8 Calling Backend Services.md"
     }
   ],
   "omittedPaths": [],
