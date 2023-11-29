@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/_ WEB/REACT/React - the Complete Guide/4 React State and Working with Events.md",
+                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/_ WEB/REACT/React - the Complete Guide/4 React State and Working with Events.md",
+                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/_ WEB/REACT/React - the Complete Guide/4 React State and Working with Events.md"
+                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md"
               }
             }
           },
@@ -271,10 +271,10 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "d3211a6c6513c96c",
+  "active": "afee16c553e63f2f",
   "lastOpenFiles": [
-    "_ Desktop/WPF/Wyświeltanie info.md",
     "_ Mobile/_ WEB/REACT/React - the Complete Guide/4 React State and Working with Events.md",
+    "_ Desktop/WPF/Wyświeltanie info.md",
     "_ Mobile/_ WEB/REACT/React - the Complete Guide/_ 0 React Full.md",
     "_ Mobile/_ WEB/REACT/modern React/_ 0 Modern React 2022.md",
     "_ Mobile/REACT NATIVE/The Complete React NativePlusHooks/_ 0 Complete React Native.md",
