@@ -411,6 +411,14 @@ and at the end add `Button`:
 </ScrollView>
 ```
 
+-------
+## Adding the button functionality to the questions activity
+
+in `drawable` folder > new > Drawable resource file > *selected_option_border_bg*
+
+copy content from `default_option_border_bg.xml` and paste it into the new file `selected_option_border_bg.xml`
+
+
 
 
 
