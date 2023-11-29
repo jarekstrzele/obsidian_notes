@@ -83,8 +83,12 @@
             "id": "d3211a6c6513c96c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_ Mobile/_ WEB/REACT/React - the Complete Guide/4 React State and Working with Events.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -117,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "react",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -170,6 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_ Mobile/_ WEB/REACT/React - the Complete Guide/4 React State and Working with Events.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -186,6 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_ Mobile/_ WEB/REACT/React - the Complete Guide/4 React State and Working with Events.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +213,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_ Mobile/_ WEB/REACT/React - the Complete Guide/4 React State and Working with Events.md"
+              }
             }
           },
           {
@@ -265,8 +273,12 @@
   },
   "active": "d3211a6c6513c96c",
   "lastOpenFiles": [
-    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md",
     "_ Desktop/WPF/Wyświeltanie info.md",
+    "_ Mobile/_ WEB/REACT/React - the Complete Guide/4 React State and Working with Events.md",
+    "_ Mobile/_ WEB/REACT/React - the Complete Guide/_ 0 React Full.md",
+    "_ Mobile/_ WEB/REACT/modern React/_ 0 Modern React 2022.md",
+    "_ Mobile/REACT NATIVE/The Complete React NativePlusHooks/_ 0 Complete React Native.md",
+    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md",
     "_DataBase/MongoDB/Learn MongoDB in 1 hour/_ Learn MongoDB in 1 hour.md",
     "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md",
     "_ Desktop/WPF/Fast WFP  C Sharp/2 Controls WPF.md",
@@ -288,10 +300,6 @@
     "_DataBase/MongoDB/Learn MongoDB in 1 hour",
     "_DataBase/MongoDB/Master MongoDB/_ 0 Start.md",
     "_DataBase/MongoDB/Introduction to the MongoDB/8 - Advanced MongoDb Features.md",
-    "_DataBase/MongoDB/Introduction to the MongoDB/7 - Updating Documents.md",
-    "_DataBase/MongoDB/Introduction to the MongoDB/6 - Finding Documents.md",
-    "_DataBase/MongoDB/Introduction to the MongoDB/5 - Collection Creation and Documents Insertion.md",
-    "_DataBase/MongoDB/Introduction to the MongoDB/4 - Data Formats in MongoDb.md",
     "_DataBase/MongoDB/MongoDB - The Complete 2023",
     "_ Mobile/Kotlin/Kotlin bez tajemnic",
     "pexels-alex-fu-1302436.jpg",
