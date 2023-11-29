@@ -96,7 +96,7 @@ trzech najmłodszych
 
 ## `find({query}, {projection})`
 
-#### `db.students.find()` returns all documents in the collection `student`
+#### `db.students.find()` returns all documents in the collection `students`
 
 #### `db.students.find({name:"ola"})` any documents with name ola
 ```bash
