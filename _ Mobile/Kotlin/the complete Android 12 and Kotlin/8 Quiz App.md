@@ -364,8 +364,10 @@ add four `TextView`
   
 </ScrollView>
 ```
+you are in `<TextView>`  > add `android::background`
+>`android:background="@drawable/default_option_border_bg` (the name *default_op...* is arbitrary)
+set the coursor on `@drawable/default ...` on background and allow IDE to make a `defult_option ... `.`xml`  with *create resource .... *
 
-set the coursor on `@drawable/default ...` on background and allow IDE to make a `defult_option ... `.`xml`  with 
 #### [[selector]]  
 ```xml
 <selector> .... </selector>
