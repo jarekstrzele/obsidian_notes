@@ -160,7 +160,9 @@ test> db.students.find({}, {_id: false, name:true})
 `db.students.updateOne({name:"bolo"`
 
 
-
+e.g.
+- `db.students.updateOne({name:"piotr"}, {$set:{newField:12.34}})`  find document with attribute/field `name:"piotr"` and add a new field
+- `school> db.students.updateOne({_id: ObjectId("6563ab7106064b272945f975")}, {$set:{age:44}})` find a document by id and change the field `age` to `44`
 
 
 
