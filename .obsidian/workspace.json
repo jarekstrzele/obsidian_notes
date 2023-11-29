@@ -73,26 +73,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d3211a6c6513c96c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_ Mobile/_ WEB/REACT/React_Node_Helion/_ 0 React Node.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/7.1. Tworzenie rest api.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -174,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/_ WEB/REACT/React_Node_Helion/_ 0 React Node.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/7.1. Tworzenie rest api.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -191,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/_ WEB/REACT/React_Node_Helion/_ 0 React Node.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/7.1. Tworzenie rest api.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/_ WEB/REACT/React_Node_Helion/_ 0 React Node.md"
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/7.1. Tworzenie rest api.md"
               }
             }
           },
@@ -271,34 +259,34 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "d3211a6c6513c96c",
+  "active": "afee16c553e63f2f",
   "lastOpenFiles": [
-    "_ Mobile/_ WEB/REACT/w3school/5 React Props.md",
-    "_ Mobile/_ WEB/REACT/React - the Complete Guide/4 React State and Working with Events.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/7.10 Express and FireBase.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/7.1. Tworzenie rest api.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/6 Zewnętrzne moduły.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/5 Jak Działa NodeJS.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md",
+    "_ WEB/REACT/React Full JS.md",
+    "_ WEB/Angular/Praktyczny kurs Angulara/0 Podstawy Angular.md",
+    "Angular/Praktyczny kurs Angulara/0 Podstawy Angular.md",
+    "_ WEB/Untitled mindmap.md",
+    "_ WEB/REACT/react and SQLite.md",
+    "_ WEB/REACT/React_Node_Helion/_ 0 React Node.md",
+    "_ WEB/REACT/React_Node_Helion/2 Pierwsz komponent.md",
+    "_ WEB/REACT/React - the Complete Guide/useCallback.md",
+    "_ WEB/REACT/React - the Complete Guide/_ 0 React Full.md",
+    "_ WEB/REACT/React - the Complete Guide/8 Login Project.md",
+    "_ WEB/REACT/React - the Complete Guide/9. Fragments, Portal, refs.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md",
-    "_ Mobile/Kotlin/selector.md",
-    "_ Desktop/WPF/Wyświeltanie info.md",
-    "_ Mobile/_ WEB/REACT/React - the Complete Guide/_ 0 React Full.md",
-    "_ Mobile/_ WEB/REACT/modern React/_ 0 Modern React 2022.md",
-    "_ Mobile/REACT NATIVE/The Complete React NativePlusHooks/_ 0 Complete React Native.md",
-    "_DataBase/MongoDB/Learn MongoDB in 1 hour/_ Learn MongoDB in 1 hour.md",
-    "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md",
-    "_ Desktop/WPF/Fast WFP  C Sharp/2 Controls WPF.md",
-    "_ Desktop/WPF/Alien Form.md",
-    "_ Desktop/WPF/TicTacToe.md",
     "_ Mobile/Android Kurs Tworzenia APlikacji/_ 0 Android Kurs Tworzenia Aplikacji.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.12 Indeksery.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.13. TYPY Generyczne.md",
-    "_ Desktop/Python/GUI/Tkinter/Tkinter.md",
-    "_ Desktop/Python/GUI/Tkinter/Icons, Images, Exit Button.md",
-    "_ Desktop/Python/GUI/Tkinter/modern GUIs/_ 0 Modern GUIs Python.md",
-    "_ Desktop/Python/GUI/the art of doing create 10 Python GUI/7 Notepad.md",
-    "_ Desktop/Python/GUI/Tkinter/from 100 Days of Code/_ Tkinter.md",
-    "_ Desktop/Python/GUI/Tkinter/Tkinter 0.md",
-    "_ Desktop/Python/GUI/Tkinter/Tkinter Pomidoro.md",
-    "_ Desktop/Python/GUI/Tkinter/Widżety proste TkInter.md",
-    "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md",
-    "_DataBase/MongoDB/MongoDB - The Complete 2023/_ MongoDB Complete.md",
+    "_ WEB/REACT/modern React/2 - React Basics & JSX.md",
+    "_ WEB/REACT/modern React/_ 0 Modern React 2022.md",
+    "_ WEB/REACT/Docs React tutorial/React render.md",
+    "_ WEB/REACT/Docs React tutorial/_ 0 React Docs Samouczek.md",
+    "_ WEB/REACT/w3school/5 React Props.md",
+    "_ WEB/REACT/React - the Complete Guide/4 React State and Working with Events.md",
+    "_ Mobile/Kotlin/selector.md",
     "_DataBase/MongoDB/Learn MongoDB in 1 hour",
     "_DataBase/MongoDB/MongoDB - The Complete 2023",
     "_ Mobile/Kotlin/Kotlin bez tajemnic",

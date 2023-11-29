@@ -8,8 +8,8 @@
 		{"type":"file","file":"pexels-alex-fu-1302436.jpg","id":"c4aea9b661584bea","x":-440,"y":-68,"width":208,"height":260},
 		{"id":"3ef53ff5390ab49a","x":-320,"y":-1580,"width":732,"height":400,"color":"#9a0909","type":"link","url":"https://book.realworldhaskell.org/read/"},
 		{"id":"08203631bd594ed6","x":1088,"y":-2174,"width":250,"height":60,"type":"text","text":""},
-		{"id":"eda99ecb379953bd","x":1140,"y":-1960,"width":540,"height":290,"type":"file","file":"_ Mobile/_ WEB/N_O_D_E/Mosh Node/_ 0 Node (Mosh).md"},
-		{"id":"52693c150aac99ba","x":985,"y":-2455,"width":400,"height":400,"type":"file","file":"_ Mobile/_ WEB/Server/What is the Server.md"},
+		{"id":"eda99ecb379953bd","x":1140,"y":-1960,"width":540,"height":290,"type":"file","file":"_ WEB/N_O_D_E/Mosh Node/_ 0 Node (Mosh).md"},
+		{"id":"52693c150aac99ba","x":985,"y":-2455,"width":400,"height":400,"type":"file","file":"_ WEB/Server/What is the Server.md"},
 		{"id":"61e564183b51a0dd","x":468,"y":-2680,"width":745,"height":276,"type":"file","file":"API/Learn FastAPI by building_udemy/2 Schemas (pydantic models).md"},
 		{"id":"a9773381e36e443b","x":162,"y":-2020,"width":250,"height":60,"color":"6","type":"text","text":"something new\n"}
 	],

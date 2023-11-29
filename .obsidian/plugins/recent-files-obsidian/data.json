@@ -1,20 +1,92 @@
 {
   "recentFiles": [
     {
+      "basename": "7.1. Tworzenie rest api",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/7.1. Tworzenie rest api.md"
+    },
+    {
+      "basename": "7.10 Express and FireBase",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/7.10 Express and FireBase.md"
+    },
+    {
+      "basename": "7 Express JS",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md"
+    },
+    {
+      "basename": "6 Zewnętrzne moduły",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/6 Zewnętrzne moduły.md"
+    },
+    {
+      "basename": "5 Jak Działa NodeJS",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/5 Jak Działa NodeJS.md"
+    },
+    {
+      "basename": "_ 0 NodeJS - zostań fullstack",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md"
+    },
+    {
+      "basename": "React Full JS",
+      "path": "_ WEB/REACT/React Full JS.md"
+    },
+    {
+      "basename": "react and SQLite",
+      "path": "_ WEB/REACT/react and SQLite.md"
+    },
+    {
       "basename": "_ 0 React Node",
-      "path": "_ Mobile/_ WEB/REACT/React_Node_Helion/_ 0 React Node.md"
+      "path": "_ WEB/REACT/React_Node_Helion/_ 0 React Node.md"
     },
     {
-      "basename": "5 React Props",
-      "path": "_ Mobile/_ WEB/REACT/w3school/5 React Props.md"
+      "basename": "2 Pierwsz komponent",
+      "path": "_ WEB/REACT/React_Node_Helion/2 Pierwsz komponent.md"
     },
     {
-      "basename": "4 React State and Working with Events",
-      "path": "_ Mobile/_ WEB/REACT/React - the Complete Guide/4 React State and Working with Events.md"
+      "basename": "useCallback",
+      "path": "_ WEB/REACT/React - the Complete Guide/useCallback.md"
+    },
+    {
+      "basename": "_ 0 React Full",
+      "path": "_ WEB/REACT/React - the Complete Guide/_ 0 React Full.md"
+    },
+    {
+      "basename": "8 Login Project",
+      "path": "_ WEB/REACT/React - the Complete Guide/8 Login Project.md"
+    },
+    {
+      "basename": "9. Fragments, Portal, refs",
+      "path": "_ WEB/REACT/React - the Complete Guide/9. Fragments, Portal, refs.md"
     },
     {
       "basename": "8 Quiz App",
       "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md"
+    },
+    {
+      "basename": "_ 0 Android Kurs Tworzenia Aplikacji",
+      "path": "_ Mobile/Android Kurs Tworzenia APlikacji/_ 0 Android Kurs Tworzenia Aplikacji.md"
+    },
+    {
+      "basename": "2 - React Basics & JSX",
+      "path": "_ WEB/REACT/modern React/2 - React Basics & JSX.md"
+    },
+    {
+      "basename": "_ 0 Modern React 2022",
+      "path": "_ WEB/REACT/modern React/_ 0 Modern React 2022.md"
+    },
+    {
+      "basename": "React render",
+      "path": "_ WEB/REACT/Docs React tutorial/React render.md"
+    },
+    {
+      "basename": "_ 0 React Docs Samouczek",
+      "path": "_ WEB/REACT/Docs React tutorial/_ 0 React Docs Samouczek.md"
+    },
+    {
+      "basename": "5 React Props",
+      "path": "_ WEB/REACT/w3school/5 React Props.md"
+    },
+    {
+      "basename": "4 React State and Working with Events",
+      "path": "_ WEB/REACT/React - the Complete Guide/4 React State and Working with Events.md"
     },
     {
       "basename": "selector",
@@ -23,14 +95,6 @@
     {
       "basename": "Wyświeltanie info",
       "path": "_ Desktop/WPF/Wyświeltanie info.md"
-    },
-    {
-      "basename": "_ 0 React Full",
-      "path": "_ Mobile/_ WEB/REACT/React - the Complete Guide/_ 0 React Full.md"
-    },
-    {
-      "basename": "_ 0 Modern React 2022",
-      "path": "_ Mobile/_ WEB/REACT/modern React/_ 0 Modern React 2022.md"
     },
     {
       "basename": "_ 0 Complete React Native",
@@ -55,10 +119,6 @@
     {
       "basename": "TicTacToe",
       "path": "_ Desktop/WPF/TicTacToe.md"
-    },
-    {
-      "basename": "_ 0 Android Kurs Tworzenia Aplikacji",
-      "path": "_ Mobile/Android Kurs Tworzenia APlikacji/_ 0 Android Kurs Tworzenia Aplikacji.md"
     },
     {
       "basename": "1.12 Indeksery",
@@ -139,66 +199,6 @@
     {
       "basename": "Querying Data from PostgreSQL",
       "path": "_DataBase/PostgreSQL/Querying Data from PostgreSQL.md"
-    },
-    {
-      "basename": "databases with docker",
-      "path": "_DataBase/databases with docker.md"
-    },
-    {
-      "basename": "My SQL",
-      "path": "_DataBase/My SQL.md"
-    },
-    {
-      "basename": "6.1. Styling extra",
-      "path": "_ Mobile/_ WEB/REACT/React - the Complete Guide/6.1. Styling extra.md"
-    },
-    {
-      "basename": "4.1 Binding",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/4.1 Binding.md"
-    },
-    {
-      "basename": "_ rUST WITH bARD",
-      "path": "R U S T/Bard - Rust/_ rUST WITH bARD.md"
-    },
-    {
-      "basename": "_ Kotlin bez tajemnic",
-      "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/_ Kotlin bez tajemnic.md"
-    },
-    {
-      "basename": "2. DataTypes and Variables",
-      "path": "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md"
-    },
-    {
-      "basename": "_ CSHarp Complete Masterclass",
-      "path": "C Sharp/Complete CSharp MasterClass/_ CSHarp Complete Masterclass.md"
-    },
-    {
-      "basename": "3 Functions-Methods and how to save time",
-      "path": "C Sharp/Complete CSharp MasterClass/3 Functions-Methods and how to save time.md"
-    },
-    {
-      "basename": "1 OOP w CSharp",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md"
-    },
-    {
-      "basename": "6 Kotlin OOP",
-      "path": "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md"
-    },
-    {
-      "basename": "3 React Basics",
-      "path": "_ Mobile/_ WEB/REACT/React - the Complete Guide/3 React Basics.md"
-    },
-    {
-      "basename": "8 Login Project",
-      "path": "_ Mobile/_ WEB/REACT/React - the Complete Guide/8 Login Project.md"
-    },
-    {
-      "basename": "6 Styling React Component (Simple React App)",
-      "path": "_ Mobile/_ WEB/REACT/React - the Complete Guide/6 Styling React Component (Simple React App).md"
-    },
-    {
-      "basename": "5 Rendering Lists and Conditional content",
-      "path": "_ Mobile/_ WEB/REACT/React - the Complete Guide/5 Rendering Lists and Conditional content.md"
     }
   ],
   "omittedPaths": [],

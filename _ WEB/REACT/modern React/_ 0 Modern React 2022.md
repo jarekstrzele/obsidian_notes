@@ -1,12 +1,6 @@
 #react #udemy   #traversy_brad
 
-<<<<<<< HEAD
 [[2 - React Basics & JSX]]
-=======
-[[2 - React Basics & JSX]]
->>>>>>> remotes/origin/master
-
-
 
 ---
 # Intro Modern React 2022

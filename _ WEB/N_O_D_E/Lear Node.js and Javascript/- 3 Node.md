@@ -1,4 +1,4 @@
-[[_ Mobile/_ WEB/N_O_D_E/Lear Node.js and Javascript/_ Node and JavaScript]]
+[[_ WEB/N_O_D_E/Lear Node.js and Javascript/_ Node and JavaScript]]
 
 ----
 # Node

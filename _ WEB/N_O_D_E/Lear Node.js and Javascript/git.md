@@ -1,4 +1,4 @@
-[[_ Mobile/_ WEB/N_O_D_E/Lear Node.js and Javascript/- 5 Stock Market App with Node and JavaScript]]
+[[_ WEB/N_O_D_E/Lear Node.js and Javascript/- 5 Stock Market App with Node and JavaScript]]
 # GIT
 #git #github
 
