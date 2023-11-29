@@ -180,3 +180,16 @@ remove the `newField`
 `school> db.students.updateOne({name:"bob"}, {$unset:{newField:""}})`
 `school> db.students.updateOne({name:"Franio"}, {$unset:{newField:""}})`
 
+
+The MongoDB update command `db.students.updateMany({newField:{$exists:false}}, {$set:{newField:true}})` can be translated to natural language as follows:
+
+"Update many documents in the 'students' collection where the field 'newField' does not exist. Set the value of 'newField' to true for each of these documents."
+
+
+
+
+
+
+
+
+
