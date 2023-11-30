@@ -258,11 +258,47 @@ school> db.students.find({gps:{$gte:44.32}})
 
 ## `$in` operator
 ### `$in`
+```bash
+school> db.students.find({gpa: {$in:[44.32, 22.1]}})
+[
+  {
+    _id: ObjectId("6563ab7106064b272945f975"),
+    name: 'piotr',
+    gpa: 22.1,
+    newField: false,
+    age: 10
+  },
+  {
+    _id: ObjectId("656869b854b2f3edd574faaf"),
+    name: 'piotr',
+    newField: true,
+    age: 13,
+    gpa: 44.32
+  }
+]
+```
 
 
-
-###`$notin`
-
+### `$ntin`
+```bash
+school> db.students.find({gpa: {$nin:[44.32, 22.1]}})
+[
+  {
+    _id: ObjectId("6563aabb06064b272945f974"),
+    name: 'ali',
+    age: 20,
+    gpa: 3.2,
+    newField: false
+  },
+  {
+    _id: ObjectId("656869c654b2f3edd574fab0"),
+    name: 'piotr',
+    gps: 4.32,
+    newField: false,
+    age: 33
+  }
+]
+```
 
 
 
