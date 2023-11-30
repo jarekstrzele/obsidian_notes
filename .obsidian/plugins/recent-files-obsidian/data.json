@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "_ the complete Android Kotlin",
+      "path": "_ Mobile/Kotlin/the complete Android Kotlin/_ the complete Android Kotlin.md"
+    },
+    {
+      "basename": "2 Getting ready with Android Studio",
+      "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/2 Getting ready with Android Studio.md"
+    },
+    {
+      "basename": "_ the complete Android 12",
+      "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/_ the complete Android 12.md"
+    },
+    {
+      "basename": "_ Kotlin bez tajemnic",
+      "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/_ Kotlin bez tajemnic.md"
+    },
+    {
       "basename": "_ Learn MongoDB in 1 hour",
       "path": "_DataBase/MongoDB/Learn MongoDB in 1 hour/_ Learn MongoDB in 1 hour.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "7 - Updating Documents",
       "path": "_DataBase/MongoDB/Introduction to the MongoDB/7 - Updating Documents.md"
-    },
-    {
-      "basename": "6 - Finding Documents",
-      "path": "_DataBase/MongoDB/Introduction to the MongoDB/6 - Finding Documents.md"
-    },
-    {
-      "basename": "5 - Collection Creation and Documents Insertion",
-      "path": "_DataBase/MongoDB/Introduction to the MongoDB/5 - Collection Creation and Documents Insertion.md"
-    },
-    {
-      "basename": "4 - Data Formats in MongoDb",
-      "path": "_DataBase/MongoDB/Introduction to the MongoDB/4 - Data Formats in MongoDb.md"
-    },
-    {
-      "basename": "_ Intro to MongoDB",
-      "path": "_DataBase/MongoDB/Introduction to the MongoDB/_ Intro to MongoDB.md"
     }
   ],
   "omittedPaths": [],
