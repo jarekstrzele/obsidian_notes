@@ -56,18 +56,6 @@
             }
           },
           {
-            "id": "60899e75c49fe16d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_ Desktop/WPF/Wyświeltanie info.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "afee16c553e63f2f",
             "type": "leaf",
             "state": {
@@ -78,8 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "96a60043e6b9e6cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/4.1 Binding.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -161,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md",
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/4.1 Binding.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -178,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md",
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/4.1 Binding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md"
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/4.1 Binding.md"
               }
             }
           },
@@ -258,15 +259,22 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "13e0f92de93fa8f7",
+  "active": "96a60043e6b9e6cd",
   "lastOpenFiles": [
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/2 Aplikacje WPF.md",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.13. TYPY Generyczne.md",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.12 Indeksery.md",
+    "_ WEB/N_O_D_E/Mosh Node/2 Node Package Manager.md",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/4.1 Binding.md",
+    "_ Desktop/WPF/Wyświeltanie info.md",
+    "R U S T/Bard - Rust/_ rUST WITH bARD.md",
+    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/_ the complete Android Kotlin.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin/2 Getting ready with Android Studio.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin/_ the complete Android 12.md",
     "_ Mobile/Kotlin/Kotlin bez tajemnic/_ Kotlin bez tajemnic.md",
     "_DataBase/MongoDB/Learn MongoDB in 1 hour/_ Learn MongoDB in 1 hour.md",
     "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md",
-    "_ WEB/N_O_D_E/Mosh Node/2 Node Package Manager.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/7.1. Tworzenie rest api.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/7.10 Express and FireBase.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
@@ -279,13 +287,6 @@
     "_ WEB/Untitled mindmap.md",
     "_ WEB/REACT/react and SQLite.md",
     "_ WEB/REACT/React_Node_Helion/_ 0 React Node.md",
-    "_ WEB/REACT/React_Node_Helion/2 Pierwsz komponent.md",
-    "_ WEB/REACT/React - the Complete Guide/useCallback.md",
-    "_ WEB/REACT/React - the Complete Guide/_ 0 React Full.md",
-    "_ WEB/REACT/React - the Complete Guide/8 Login Project.md",
-    "_ WEB/REACT/React - the Complete Guide/9. Fragments, Portal, refs.md",
-    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md",
-    "_ Mobile/Android Kurs Tworzenia APlikacji/_ 0 Android Kurs Tworzenia Aplikacji.md",
     "_DataBase/MongoDB/Learn MongoDB in 1 hour",
     "_DataBase/MongoDB/MongoDB - The Complete 2023",
     "_ Mobile/Kotlin/Kotlin bez tajemnic",

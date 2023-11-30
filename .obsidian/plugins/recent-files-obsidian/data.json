@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "4.1 Binding",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/4.1 Binding.md"
+    },
+    {
+      "basename": "2 Aplikacje WPF",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/2 Aplikacje WPF.md"
+    },
+    {
+      "basename": "1.13. TYPY Generyczne",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.13. TYPY Generyczne.md"
+    },
+    {
+      "basename": "1.12 Indeksery",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.12 Indeksery.md"
+    },
+    {
+      "basename": "2 Node Package Manager",
+      "path": "_ WEB/N_O_D_E/Mosh Node/2 Node Package Manager.md"
+    },
+    {
+      "basename": "Wyświeltanie info",
+      "path": "_ Desktop/WPF/Wyświeltanie info.md"
+    },
+    {
+      "basename": "_ rUST WITH bARD",
+      "path": "R U S T/Bard - Rust/_ rUST WITH bARD.md"
+    },
+    {
       "basename": "8 Quiz App",
       "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md"
     },
@@ -27,10 +55,6 @@
     {
       "basename": "MongoDB Installation on Sys, on Docker",
       "path": "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md"
-    },
-    {
-      "basename": "2 Node Package Manager",
-      "path": "_ WEB/N_O_D_E/Mosh Node/2 Node Package Manager.md"
     },
     {
       "basename": "7.1. Tworzenie rest api",
@@ -121,10 +145,6 @@
       "path": "_ Mobile/Kotlin/selector.md"
     },
     {
-      "basename": "Wyświeltanie info",
-      "path": "_ Desktop/WPF/Wyświeltanie info.md"
-    },
-    {
       "basename": "_ 0 Complete React Native",
       "path": "_ Mobile/REACT NATIVE/The Complete React NativePlusHooks/_ 0 Complete React Native.md"
     },
@@ -139,14 +159,6 @@
     {
       "basename": "TicTacToe",
       "path": "_ Desktop/WPF/TicTacToe.md"
-    },
-    {
-      "basename": "1.12 Indeksery",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.12 Indeksery.md"
-    },
-    {
-      "basename": "1.13. TYPY Generyczne",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.13. TYPY Generyczne.md"
     },
     {
       "basename": "Tkinter",
@@ -187,18 +199,6 @@
     {
       "basename": "_ MongoDB Complete",
       "path": "_DataBase/MongoDB/MongoDB - The Complete 2023/_ MongoDB Complete.md"
-    },
-    {
-      "basename": "_ 0 Start",
-      "path": "_DataBase/MongoDB/Master MongoDB/_ 0 Start.md"
-    },
-    {
-      "basename": "8 - Advanced MongoDb Features",
-      "path": "_DataBase/MongoDB/Introduction to the MongoDB/8 - Advanced MongoDb Features.md"
-    },
-    {
-      "basename": "7 - Updating Documents",
-      "path": "_DataBase/MongoDB/Introduction to the MongoDB/7 - Updating Documents.md"
     }
   ],
   "omittedPaths": [],
