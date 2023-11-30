@@ -46,8 +46,6 @@ https://www.mongodb.com/docs/manual/installation/
 > wewnątrz kontenera `mongo-express`  kontener `moja-baza-danych` będzie dostępny za pomocą aliasu `mongo` (kontener `mongo-express`  potrzebuje tego aliasu, aby łatwo się komunikować z bazą)
 
 
-
-
 > - obraz `mongo` dostarcza silnik bazy danych MongoDB, natomiast 
 > - obraz `mongo-express` dostarcza interfejs użytkownika do zarządzania bazą danych MongoDB, wykorzystując dostęp do serwera MongoDB. 
 > - 

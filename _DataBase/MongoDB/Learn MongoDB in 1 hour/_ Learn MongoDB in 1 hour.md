@@ -2,7 +2,24 @@
 
 https://www.youtube.com/watch?v=c2M-rlkkT5o
 
+----
+[[MongoDB Installation on Sys, on Docker]]
+
 --------
+The content of this note
+[[#Intro]]
+[[#Basic commands]]
+[[#document]]
+[[#collection]]
+[[#database]]
+[[#`sort` and `limit` data]]
+[[#`find({query}, {projection})`]]
+[[#update]]
+
+
+
+
+----
 # Intro
 
 - a document is like a single row  in SQL
@@ -21,7 +38,6 @@ It is a group of field `key-value` pairs to represent an object
 ## collection
 It is a group of one or more document
 e.g. *students*, *teachers*, *courses*
-
 ## database
 It is a group of one or more documents
 
@@ -184,6 +200,12 @@ remove the `newField`
 The MongoDB update command `db.students.updateMany({newField:{$exists:false}}, {$set:{newField:true}})` can be translated to natural language as follows:
 
 "Update many documents in the 'students' collection where the field 'newField' does not exist. Set the value of 'newField' to true for each of these documents."
+
+
+--------
+## delete
+
+
 
 
 

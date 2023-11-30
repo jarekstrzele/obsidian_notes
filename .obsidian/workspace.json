@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_DataBase/MongoDB/Learn MongoDB in 1 hour/_ Learn MongoDB in 1 hour.md",
+                "file": "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,8 +79,7 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -162,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ WEB/N_O_D_E/Mosh Node/2 Node Package Manager.md",
+                "file": "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -179,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ WEB/N_O_D_E/Mosh Node/2 Node Package Manager.md",
+                "file": "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ WEB/N_O_D_E/Mosh Node/2 Node Package Manager.md"
+                "file": "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md"
               }
             }
           },
@@ -259,8 +258,11 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "afee16c553e63f2f",
+  "active": "13e0f92de93fa8f7",
   "lastOpenFiles": [
+    "_DataBase/MongoDB/Learn MongoDB in 1 hour/_ Learn MongoDB in 1 hour.md",
+    "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md",
+    "_ WEB/N_O_D_E/Mosh Node/2 Node Package Manager.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/7.1. Tworzenie rest api.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/7.10 Express and FireBase.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
@@ -284,9 +286,6 @@
     "_ WEB/REACT/modern React/_ 0 Modern React 2022.md",
     "_ WEB/REACT/Docs React tutorial/React render.md",
     "_ WEB/REACT/Docs React tutorial/_ 0 React Docs Samouczek.md",
-    "_ WEB/REACT/w3school/5 React Props.md",
-    "_ WEB/REACT/React - the Complete Guide/4 React State and Working with Events.md",
-    "_ Mobile/Kotlin/selector.md",
     "_DataBase/MongoDB/Learn MongoDB in 1 hour",
     "_DataBase/MongoDB/MongoDB - The Complete 2023",
     "_ Mobile/Kotlin/Kotlin bez tajemnic",
