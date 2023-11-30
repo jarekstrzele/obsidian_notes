@@ -210,6 +210,21 @@ The MongoDB update command `db.students.updateMany({newField:{$exists:false}}, {
 
 `school> db.students.deleteMany({newField:true})`
 
+`school> db.students.deleteMany({gpa:{$exists:false}})`
+> "Delete all documents from the students collection where the field gpa does not exist.
+> In this way, the deleteMany command removes all documents from the students collection that do not have the gpa field."
+
+
+
+
+---------
+# Comparison Query Operators `$`
+
+## `$ne` not equal
+
+
+
+
 
 
 
