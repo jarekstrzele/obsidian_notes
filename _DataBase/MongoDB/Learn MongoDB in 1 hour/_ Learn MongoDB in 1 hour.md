@@ -222,9 +222,13 @@ The MongoDB update command `db.students.updateMany({newField:{$exists:false}}, {
 
 ## `$ne` not equal
 
+`school> db.students.find({name:{$ne:"piotr"}})` 
+> "Find all documents in the students collection where the name is not 'piotr'."
 
 
-
+## `$lt` less then
+`school> db.students.find({gps: {$lt: 20}})`
+>  "Find all documents in the students collection where the gps field is less than 20."
 
 
 
