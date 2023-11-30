@@ -199,8 +199,7 @@ remove the `newField`
 
 
 The MongoDB update command `db.students.updateMany({newField:{$exists:false}}, {$set:{newField:true}})` can be translated to natural language as follows:
-
-"Update many documents in the 'students' collection where the field 'newField' does not exist. Set the value of 'newField' to true for each of these documents."
+>"Update many documents in the 'students' collection where the field 'newField' does not exist. Set the value of 'newField' to true for each of these documents."
 
 
 --------
@@ -251,6 +250,22 @@ school> db.students.find({gps:{$gte:44.32}})
   }
 ]
 ```
+
+## mix
+`school> db.students.find({age:{$gte:5, $lte:20}})`
+> The query `db.students.find({age:{$gte:5, $lte:20}})` in MongoDB is searching for documents in the "students" collection where the "age" field is greater than or equal to 5 and less than or equal to 20.
+
+
+## `$in` operator
+### `$in`
+
+
+
+###`$notin`
+
+
+
+
 
 
 
