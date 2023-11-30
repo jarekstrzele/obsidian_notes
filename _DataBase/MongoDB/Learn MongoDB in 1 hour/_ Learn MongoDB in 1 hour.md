@@ -15,6 +15,7 @@ The content of this note
 [[#`sort` and `limit` data]]
 [[#`find({query}, {projection})`]]
 [[#update]]
+[[#delete]]
 
 
 
@@ -205,9 +206,9 @@ The MongoDB update command `db.students.updateMany({newField:{$exists:false}}, {
 --------
 ## delete
 
+`school> db.students.deleteOne({name:'bob'})`
 
-
-
+`school> db.students.deleteMany({newField:true})`
 
 
 
