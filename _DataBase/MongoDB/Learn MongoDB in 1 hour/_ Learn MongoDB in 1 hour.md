@@ -239,6 +239,19 @@ The MongoDB update command `db.students.updateMany({newField:{$exists:false}}, {
 ## `$gte` less then
 `school> db.students.find({gps: {$lt: 20}})`
 >  "Find all documents in the students collection where the gps field is less than 20."
+```bash
+school> db.students.find({gps:{$gte:44.32}})
+
+[
+  {
+    _id: ObjectId("656869b854b2f3edd574faaf"),
+    name: 'piotr',
+    gps: 44.32,
+    newField: true
+  }
+]
+```
+
 
 
 
