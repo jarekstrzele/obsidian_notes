@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2 Node Package Manager",
+      "path": "_ WEB/N_O_D_E/Mosh Node/2 Node Package Manager.md"
+    },
+    {
       "basename": "7.1. Tworzenie rest api",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/7.1. Tworzenie rest api.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_ Intro to MongoDB",
       "path": "_DataBase/MongoDB/Introduction to the MongoDB/_ Intro to MongoDB.md"
-    },
-    {
-      "basename": "Querying Data from PostgreSQL",
-      "path": "_DataBase/PostgreSQL/Querying Data from PostgreSQL.md"
     }
   ],
   "omittedPaths": [],
