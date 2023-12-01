@@ -386,7 +386,10 @@ school> db.students.find({$nor:[{newField:true}, {age:{$lt: 20} } ]})
 ```
 
 -------
-# 
+# Indexes
+
+
+
 
 
 
