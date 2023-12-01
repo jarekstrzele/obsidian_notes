@@ -319,6 +319,7 @@ school> db.students.find({$and:[{newField:true}, {age:{$lt: 20} } ]})
 ]
 ```
 #### `$or`
+```bash
 school> db.students.find({$or:[{newField:true}, {age:{$lt: 20} } ]})
 [
   {
@@ -337,13 +338,55 @@ school> db.students.find({$or:[{newField:true}, {age:{$lt: 20} } ]})
   }
 ]
 
-
+```
 #### `$not`
+==it will you give `null` values too==
+```bash
+school> db.students.find({age:{$not:{$gte:20}}})
+[
+  {
+    _id: ObjectId("6563ab7106064b272945f975"),
+    name: 'piotr',
+    gpa: 22.1,
+    newField: false,
+    age: 10
+  },
+  {
+    _id: ObjectId("656869b854b2f3edd574faaf"),
+    name: 'piotr',
+    newField: true,
+    age: 13,
+    gpa: 44.32
+  }
+]
+```
+
+
+
 #### `$nor` returns docs that fail to match both clauses
 all conditions must be false
+```bash
+school> db.students.find({$nor:[{newField:true}, {age:{$lt: 20} } ]})
+[
+  {
+    _id: ObjectId("6563aabb06064b272945f974"),
+    name: 'ali',
+    age: 20,
+    gpa: 3.2,
+    newField: false
+  },
+  {
+    _id: ObjectId("656869c654b2f3edd574fab0"),
+    name: 'piotr',
+    gps: 4.32,
+    newField: false,
+    age: 33
+  }
+]
+```
 
-
-
+-------
+# 
 
 
 
