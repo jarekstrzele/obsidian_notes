@@ -300,6 +300,27 @@ school> db.students.find({gpa: {$nin:[44.32, 22.1]}})
 ]
 ```
 
+--------
+# Logical Query Expression
+
+They return data based on expressions that evaluate to true or false.
+
+#### `$and`   
+#### `$or`
+#### `$not`
+#### `$nor` returns docs that fail to match both clauses
+
+
+
+
+
+
+
+
+
+
+
+
 
  
 
