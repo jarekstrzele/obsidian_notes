@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/4.1 Binding.md",
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.12 Indeksery.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/4.1 Binding.md",
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.12 Indeksery.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/4.1 Binding.md",
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.12 Indeksery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/4.1 Binding.md"
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.12 Indeksery.md"
               }
             }
           },
@@ -261,11 +261,11 @@
   },
   "active": "96a60043e6b9e6cd",
   "lastOpenFiles": [
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/2 Aplikacje WPF.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.13. TYPY Generyczne.md",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/4.1 Binding.md",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/2 Aplikacje WPF.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.12 Indeksery.md",
     "_ WEB/N_O_D_E/Mosh Node/2 Node Package Manager.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/4.1 Binding.md",
     "_ Desktop/WPF/Wyświeltanie info.md",
     "R U S T/Bard - Rust/_ rUST WITH bARD.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md",
