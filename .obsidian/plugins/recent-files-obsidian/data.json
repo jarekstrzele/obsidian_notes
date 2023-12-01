@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "_ Learn MongoDB in 1 hour",
+      "path": "_DataBase/MongoDB/Learn MongoDB in 1 hour/_ Learn MongoDB in 1 hour.md"
+    },
+    {
+      "basename": "MongoDB Installation on Sys, on Docker",
+      "path": "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md"
+    },
+    {
+      "basename": "_ rUST WITH bARD",
+      "path": "R U S T/Bard - Rust/_ rUST WITH bARD.md"
+    },
+    {
+      "basename": "7 - Updating Documents",
+      "path": "_DataBase/MongoDB/Introduction to the MongoDB/7 - Updating Documents.md"
+    },
+    {
+      "basename": "6 - Finding Documents",
+      "path": "_DataBase/MongoDB/Introduction to the MongoDB/6 - Finding Documents.md"
+    },
+    {
+      "basename": "5 - Collection Creation and Documents Insertion",
+      "path": "_DataBase/MongoDB/Introduction to the MongoDB/5 - Collection Creation and Documents Insertion.md"
+    },
+    {
+      "basename": "4 - Data Formats in MongoDb",
+      "path": "_DataBase/MongoDB/Introduction to the MongoDB/4 - Data Formats in MongoDb.md"
+    },
+    {
+      "basename": "8 - Advanced MongoDb Features",
+      "path": "_DataBase/MongoDB/Introduction to the MongoDB/8 - Advanced MongoDb Features.md"
+    },
+    {
       "basename": "1.12 Indeksery",
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.12 Indeksery.md"
     },
@@ -25,10 +57,6 @@
       "path": "_ Desktop/WPF/Wyświeltanie info.md"
     },
     {
-      "basename": "_ rUST WITH bARD",
-      "path": "R U S T/Bard - Rust/_ rUST WITH bARD.md"
-    },
-    {
       "basename": "8 Quiz App",
       "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md"
     },
@@ -47,14 +75,6 @@
     {
       "basename": "_ Kotlin bez tajemnic",
       "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/_ Kotlin bez tajemnic.md"
-    },
-    {
-      "basename": "_ Learn MongoDB in 1 hour",
-      "path": "_DataBase/MongoDB/Learn MongoDB in 1 hour/_ Learn MongoDB in 1 hour.md"
-    },
-    {
-      "basename": "MongoDB Installation on Sys, on Docker",
-      "path": "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md"
     },
     {
       "basename": "7.1. Tworzenie rest api",
@@ -179,26 +199,6 @@
     {
       "basename": "_ Tkinter",
       "path": "_ Desktop/Python/GUI/Tkinter/from 100 Days of Code/_ Tkinter.md"
-    },
-    {
-      "basename": "Tkinter 0",
-      "path": "_ Desktop/Python/GUI/Tkinter/Tkinter 0.md"
-    },
-    {
-      "basename": "Tkinter Pomidoro",
-      "path": "_ Desktop/Python/GUI/Tkinter/Tkinter Pomidoro.md"
-    },
-    {
-      "basename": "Widżety proste TkInter",
-      "path": "_ Desktop/Python/GUI/Tkinter/Widżety proste TkInter.md"
-    },
-    {
-      "basename": "3 Podstawy tworzenia aplikacji",
-      "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md"
-    },
-    {
-      "basename": "_ MongoDB Complete",
-      "path": "_DataBase/MongoDB/MongoDB - The Complete 2023/_ MongoDB Complete.md"
     }
   ],
   "omittedPaths": [],
