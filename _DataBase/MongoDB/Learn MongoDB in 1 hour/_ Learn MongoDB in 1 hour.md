@@ -306,9 +306,44 @@ school> db.students.find({gpa: {$nin:[44.32, 22.1]}})
 They return data based on expressions that evaluate to true or false.
 
 #### `$and`   
+```bash
+school> db.students.find({$and:[{newField:true}, {age:{$lt: 20} } ]})
+[
+  {
+    _id: ObjectId("656869b854b2f3edd574faaf"),
+    name: 'piotr',
+    newField: true,
+    age: 13,
+    gpa: 44.32
+  }
+]
+```
 #### `$or`
+school> db.students.find({$or:[{newField:true}, {age:{$lt: 20} } ]})
+[
+  {
+    _id: ObjectId("6563ab7106064b272945f975"),
+    name: 'piotr',
+    gpa: 22.1,
+    newField: false,
+    age: 10
+  },
+  {
+    _id: ObjectId("656869b854b2f3edd574faaf"),
+    name: 'piotr',
+    newField: true,
+    age: 13,
+    gpa: 44.32
+  }
+]
+
+
 #### `$not`
 #### `$nor` returns docs that fail to match both clauses
+all conditions must be false
+
+
+
 
 
 
