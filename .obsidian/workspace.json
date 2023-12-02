@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_DataBase/MongoDB/Learn MongoDB in 1 hour/_ Learn MongoDB in 1 hour.md",
+                "file": "_DataBase/MongoDB/Introduction to the MongoDB/4 - Data Formats in MongoDb.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md",
+                "file": "_DataBase/MongoDB/Introduction to the MongoDB/4 - Data Formats in MongoDb.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md",
+                "file": "_DataBase/MongoDB/Introduction to the MongoDB/4 - Data Formats in MongoDb.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md"
+                "file": "_DataBase/MongoDB/Introduction to the MongoDB/4 - Data Formats in MongoDb.md"
               }
             }
           },
@@ -259,10 +259,16 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "943f50017d444939",
+  "active": "d66c46a7556ec2c5",
   "lastOpenFiles": [
+    "_DataBase/MongoDB/Introduction to the MongoDB/_ Intro to MongoDB.md",
+    "_DataBase/MongoDB/Master MongoDB/_ 0 Start.md",
     "_DataBase/MongoDB/Learn MongoDB in 1 hour/_ Learn MongoDB in 1 hour.md",
     "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md",
+    "_DataBase/MongoDB/MongoDB - The Complete 2023/_ MongoDB Complete.md",
+    "_DataBase/MongoDB/Master MongoDB/3 MondoDb SHELL.md",
+    "_DataBase/MongoDB/Master MongoDB/2 - GUI Tools for MongoDB Management.md",
+    "_DataBase/MongoDB/Master MongoDB/1 - Into MongoDB Cloud.md",
     "R U S T/Bard - Rust/_ rUST WITH bARD.md",
     "_DataBase/MongoDB/Introduction to the MongoDB/7 - Updating Documents.md",
     "_DataBase/MongoDB/Introduction to the MongoDB/6 - Finding Documents.md",
@@ -281,12 +287,6 @@
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin/_ the complete Android 12.md",
     "_ Mobile/Kotlin/Kotlin bez tajemnic/_ Kotlin bez tajemnic.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/7.1. Tworzenie rest api.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/7.10 Express and FireBase.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/6 Zewnętrzne moduły.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/5 Jak Działa NodeJS.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md",
-    "_ WEB/REACT/React Full JS.md",
     "_DataBase/MongoDB/Learn MongoDB in 1 hour",
     "_DataBase/MongoDB/MongoDB - The Complete 2023",
     "_ Mobile/Kotlin/Kotlin bez tajemnic",

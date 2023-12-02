@@ -1,12 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "MongoDB Installation on Sys, on Docker",
-      "path": "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md"
+      "basename": "4 - Data Formats in MongoDb",
+      "path": "_DataBase/MongoDB/Introduction to the MongoDB/4 - Data Formats in MongoDb.md"
+    },
+    {
+      "basename": "_ Intro to MongoDB",
+      "path": "_DataBase/MongoDB/Introduction to the MongoDB/_ Intro to MongoDB.md"
+    },
+    {
+      "basename": "_ 0 Start",
+      "path": "_DataBase/MongoDB/Master MongoDB/_ 0 Start.md"
     },
     {
       "basename": "_ Learn MongoDB in 1 hour",
       "path": "_DataBase/MongoDB/Learn MongoDB in 1 hour/_ Learn MongoDB in 1 hour.md"
+    },
+    {
+      "basename": "MongoDB Installation on Sys, on Docker",
+      "path": "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md"
+    },
+    {
+      "basename": "_ MongoDB Complete",
+      "path": "_DataBase/MongoDB/MongoDB - The Complete 2023/_ MongoDB Complete.md"
+    },
+    {
+      "basename": "3 MondoDb SHELL",
+      "path": "_DataBase/MongoDB/Master MongoDB/3 MondoDb SHELL.md"
+    },
+    {
+      "basename": "2 - GUI Tools for MongoDB Management",
+      "path": "_DataBase/MongoDB/Master MongoDB/2 - GUI Tools for MongoDB Management.md"
+    },
+    {
+      "basename": "1 - Into MongoDB Cloud",
+      "path": "_DataBase/MongoDB/Master MongoDB/1 - Into MongoDB Cloud.md"
     },
     {
       "basename": "_ rUST WITH bARD",
@@ -23,10 +51,6 @@
     {
       "basename": "5 - Collection Creation and Documents Insertion",
       "path": "_DataBase/MongoDB/Introduction to the MongoDB/5 - Collection Creation and Documents Insertion.md"
-    },
-    {
-      "basename": "4 - Data Formats in MongoDb",
-      "path": "_DataBase/MongoDB/Introduction to the MongoDB/4 - Data Formats in MongoDb.md"
     },
     {
       "basename": "8 - Advanced MongoDb Features",
@@ -175,30 +199,6 @@
     {
       "basename": "Alien Form",
       "path": "_ Desktop/WPF/Alien Form.md"
-    },
-    {
-      "basename": "TicTacToe",
-      "path": "_ Desktop/WPF/TicTacToe.md"
-    },
-    {
-      "basename": "Tkinter",
-      "path": "_ Desktop/Python/GUI/Tkinter/Tkinter.md"
-    },
-    {
-      "basename": "Icons, Images, Exit Button",
-      "path": "_ Desktop/Python/GUI/Tkinter/Icons, Images, Exit Button.md"
-    },
-    {
-      "basename": "_ 0 Modern GUIs Python",
-      "path": "_ Desktop/Python/GUI/Tkinter/modern GUIs/_ 0 Modern GUIs Python.md"
-    },
-    {
-      "basename": "7 Notepad",
-      "path": "_ Desktop/Python/GUI/the art of doing create 10 Python GUI/7 Notepad.md"
-    },
-    {
-      "basename": "_ Tkinter",
-      "path": "_ Desktop/Python/GUI/Tkinter/from 100 Days of Code/_ Tkinter.md"
     }
   ],
   "omittedPaths": [],
