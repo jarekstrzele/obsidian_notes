@@ -391,10 +391,10 @@ school> db.students.find({$nor:[{newField:true}, {age:{$lt: 20} } ]})
 -------
 # Indexes
 
-If you don't make many upadate, use indexes
+If you don't make many update, use indexes, because indexes consume a lot of memory during  update or delete (B-Tree search)
 
 
-## create
+## create index - `createIndex`
 ```bash
 school> db.students.createIndex({name: 1})
 name_1
@@ -405,11 +405,30 @@ school> db.students.getIndexes()
 ]
 ```
 
+## delete index - `dropIndex`
+```bash
+school> db.students.dropIndex("name_1")
+{ nIndexesWas: 2, ok: 1 }
+school> db.students.getIndexes()
+[ { v: 2, key: { _id: 1 }, name: '_id_' } ]
+school>
+```
 
 
+------------
+# Collections
+
+## show collection - `show collections`
+
+## create collection
+```bash
+school> db.createCollection("teacher", {capped: true, size: 10000000, max:100}, {autoIndexId:false})
+{ ok: 1 }
+school> show collections
+```
 
 
-
+## 
 
 
 
