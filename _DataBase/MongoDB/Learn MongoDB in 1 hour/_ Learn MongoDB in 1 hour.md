@@ -418,9 +418,9 @@ school>
 ------------
 # Collections
 
-## show collection - `show collections`
+## show collections - `show collections`
 
-## create collection
+## create collections
 ```bash
 school> db.createCollection("teacher", {capped: true, size: 10000000, max:100}, {autoIndexId:false})
 { ok: 1 }
@@ -428,8 +428,14 @@ school> show collections
 ```
 
 
-## 
-
+## delete collections
+```bash
+school> db.teacher.drop()
+true
+school> show collections
+delete_me
+students
+```
 
 
 
