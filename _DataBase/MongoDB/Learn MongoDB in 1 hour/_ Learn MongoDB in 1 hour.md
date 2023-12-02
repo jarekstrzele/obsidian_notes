@@ -16,6 +16,9 @@ The content of this note
 [[#`find({query}, {projection})`]]
 [[#update]]
 [[#delete]]
+[[#Comparison Query Operators `$`]]
+[[#Logical Query Expression]]
+[[#Indexes]]
 
 
 
@@ -388,9 +391,19 @@ school> db.students.find({$nor:[{newField:true}, {age:{$lt: 20} } ]})
 -------
 # Indexes
 
+If you don't make many upadate, use indexes
 
 
-
+## create
+```bash
+school> db.students.createIndex({name: 1})
+name_1
+school> db.students.getIndexes()
+[
+  { v: 2, key: { _id: 1 }, name: '_id_' },
+  { v: 2, key: { name: 1 }, name: 'name_1' }
+]
+```
 
 
 

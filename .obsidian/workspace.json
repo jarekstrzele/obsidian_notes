@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_DataBase/MongoDB/Introduction to the MongoDB/8 - Advanced MongoDb Features.md",
+                "file": "_DataBase/MongoDB/Learn MongoDB in 1 hour/_ Learn MongoDB in 1 hour.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_DataBase/MongoDB/Introduction to the MongoDB/8 - Advanced MongoDb Features.md",
+                "file": "_DataBase/MongoDB/Learn MongoDB in 1 hour/_ Learn MongoDB in 1 hour.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_DataBase/MongoDB/Introduction to the MongoDB/8 - Advanced MongoDb Features.md",
+                "file": "_DataBase/MongoDB/Learn MongoDB in 1 hour/_ Learn MongoDB in 1 hour.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_DataBase/MongoDB/Introduction to the MongoDB/8 - Advanced MongoDb Features.md"
+                "file": "_DataBase/MongoDB/Learn MongoDB in 1 hour/_ Learn MongoDB in 1 hour.md"
               }
             }
           },
@@ -261,6 +261,8 @@
   },
   "active": "d66c46a7556ec2c5",
   "lastOpenFiles": [
+    "_DataBase/MongoDB/Introduction to the MongoDB/8 - Advanced MongoDb Features.md",
+    "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md",
     "_DataBase/MongoDB/Introduction to the MongoDB/7 - Updating Documents.md",
     "_DataBase/MongoDB/Introduction to the MongoDB/6 - Finding Documents.md",
     "_DataBase/MongoDB/Introduction to the MongoDB/5 - Collection Creation and Documents Insertion.md",
@@ -268,13 +270,11 @@
     "_DataBase/MongoDB/Introduction to the MongoDB/_ Intro to MongoDB.md",
     "_DataBase/MongoDB/Master MongoDB/_ 0 Start.md",
     "_DataBase/MongoDB/Learn MongoDB in 1 hour/_ Learn MongoDB in 1 hour.md",
-    "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md",
     "_DataBase/MongoDB/MongoDB - The Complete 2023/_ MongoDB Complete.md",
     "_DataBase/MongoDB/Master MongoDB/3 MondoDb SHELL.md",
     "_DataBase/MongoDB/Master MongoDB/2 - GUI Tools for MongoDB Management.md",
     "_DataBase/MongoDB/Master MongoDB/1 - Into MongoDB Cloud.md",
     "R U S T/Bard - Rust/_ rUST WITH bARD.md",
-    "_DataBase/MongoDB/Introduction to the MongoDB/8 - Advanced MongoDb Features.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.12 Indeksery.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.13. TYPY Generyczne.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/4.1 Binding.md",
