@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "8 - Advanced MongoDb Features",
+      "path": "_DataBase/MongoDB/Introduction to the MongoDB/8 - Advanced MongoDb Features.md"
+    },
+    {
+      "basename": "7 - Updating Documents",
+      "path": "_DataBase/MongoDB/Introduction to the MongoDB/7 - Updating Documents.md"
+    },
+    {
+      "basename": "6 - Finding Documents",
+      "path": "_DataBase/MongoDB/Introduction to the MongoDB/6 - Finding Documents.md"
+    },
+    {
+      "basename": "5 - Collection Creation and Documents Insertion",
+      "path": "_DataBase/MongoDB/Introduction to the MongoDB/5 - Collection Creation and Documents Insertion.md"
+    },
+    {
       "basename": "4 - Data Formats in MongoDb",
       "path": "_DataBase/MongoDB/Introduction to the MongoDB/4 - Data Formats in MongoDb.md"
     },
@@ -39,22 +55,6 @@
     {
       "basename": "_ rUST WITH bARD",
       "path": "R U S T/Bard - Rust/_ rUST WITH bARD.md"
-    },
-    {
-      "basename": "7 - Updating Documents",
-      "path": "_DataBase/MongoDB/Introduction to the MongoDB/7 - Updating Documents.md"
-    },
-    {
-      "basename": "6 - Finding Documents",
-      "path": "_DataBase/MongoDB/Introduction to the MongoDB/6 - Finding Documents.md"
-    },
-    {
-      "basename": "5 - Collection Creation and Documents Insertion",
-      "path": "_DataBase/MongoDB/Introduction to the MongoDB/5 - Collection Creation and Documents Insertion.md"
-    },
-    {
-      "basename": "8 - Advanced MongoDb Features",
-      "path": "_DataBase/MongoDB/Introduction to the MongoDB/8 - Advanced MongoDb Features.md"
     },
     {
       "basename": "1.12 Indeksery",
