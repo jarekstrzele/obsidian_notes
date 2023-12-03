@@ -516,9 +516,24 @@ private fun setQuestion() {
 }
 ```
 
+### add a new function
+when a option will be clicked other become gray
 
-- 
--
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
