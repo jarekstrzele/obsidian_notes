@@ -42,6 +42,30 @@
 >	2. **Łatwa integracja**: Fragmenty mogą być łatwo zintegrowane wewnątrz aktywności, co pozwala na elastyczne zarządzanie interfejsami użytkownika w zależności od wielkości ekranu, orientacji urządzenia itp.
 >	3. **Cykl życia**: Fragmenty posiadają swój własny cykl życia, co oznacza, że posiadają metody takie jak `onCreate()`, `onStart()`, `onPause()`, `onStop()`, `onDestroy()`, które odpowiadają za zarządzanie ich stanem.
 >	4. **Komunikacja między fragmentami**: Fragmenty mogą komunikować się ze sobą poprzez aktywność, co pozwala na wymianę danych i interakcję pomiędzy nimi.
-    
-5. **Obsługa wielu ekranów**: Fragmenty są używane do tworzenia aplikacji, które mogą dostosowywać swój interfejs użytkownika do różnych rozmiarów ekranów urządzeń.
+>	5. **Obsługa wielu ekranów**: Fragmenty są używane do tworzenia aplikacji, które mogą dostosowywać swój interfejs użytkownika do różnych rozmiarów ekranów urządzeń.
+
+## tworzenie fragmentu
+
+### automatyczne
+new>Fragment>..
+
+
+### ręczne
+- utwórz nową klasę kotlina
+
+`HomeFragment.kt`
+```kotlin
+package com.example.cookbook  
+  
+import androidx.fragment.app.Fragment  
+  
+class HomeFragment : Fragment() {  
+}
+```
+
+dodaj widok Fragmentu res>layout> new layout resource `fragment_home`
+
+
+
+
 
