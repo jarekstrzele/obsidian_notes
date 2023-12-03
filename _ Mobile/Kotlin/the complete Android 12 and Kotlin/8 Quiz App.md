@@ -505,6 +505,14 @@ private fun setQuestion() {
     textViewOptionTwo?.text = question.optionTwo  
     textViewOptionThree?.text = question.optionThree  
     textViewOptionFour?.text = question.optionFour  
+
+	// if it is the last question button will have text FINISH
+	if(mCurrentPosition == mQuestionsList!!.size){  
+    btnSubmit?.text = "FINISH"  
+} else {  
+    btnSubmit?.text = "SUBMIT"  
+}
+
 }
 ```
 
