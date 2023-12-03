@@ -116,63 +116,78 @@ Wewnątrz MaterialCardView dodaj:
 - `<AppCompatEditText>` - rozbudowane pole tekstowe (świetnie współpracuje z MaterialDesign,  wstecza komatybilność, ...)
 - `<Button>`
 ```xml
-<LinearLayout  
+<com.google.android.material.card.MaterialCardView  
     android:layout_width="match_parent"  
     android:layout_height="wrap_content"  
-    android:layout_margin="16dp"  
-    android:orientation="vertical">  
-    <TextView        
-	    android:layout_width="match_parent"  
-        android:layout_height="wrap_content"  
-        android:text="Welcome"  
-        android:textSize="30sp"  
-        android:textStyle="bold"  
-        android:gravity="center"  
-        android:textColor="#363a43"  
-  
-        />  
-    <TextView        
-	    android:layout_width="match_parent"  
-        android:layout_height="wrap_content"  
-        android:text="Please enter you name."  
-        android:textSize="16sp"  
-        android:textStyle="bold"  
-        android:gravity="center"  
-        android:textColor="#7a8089"  
-        android:layout_marginTop="16dp"  
-        />  
-  
-  
-    <com.google.android.material.textfield.TextInputLayout
-            android:layout_width="match_parent"  
-	        android:layout_height="wrap_content"  
-	        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"  
-	        android:layout_margin="20dp"  
-        >  
-  
-        <androidx.appcompat.widget.AppCompatEditText 
-	        android:id="@+id/edit_text_name"
-	        android:layout_width="match_parent"  
-            android:layout_height="wrap_content"  
-            android:hint="e.g. Jan Nowak"  
-            android:inputType="textCapWords"  
-            android:textColor="#363a43"  
-            android:textColorHint="#7a8089"  
-            />  
-  
-    </com.google.android.material.textfield.TextInputLayout>  
-    <Button        
-	    android:id="@+id/btn_start"  
+    android:layout_marginStart="20dp"  
+    android:layout_marginEnd="20dp"  
+    android:background="@color/white"  
+    app:cardCornerRadius="28dp"  
+    app:cardElevation="4dp"  
+    >  
+    <LinearLayout  
         android:layout_width="match_parent"  
         android:layout_height="wrap_content"  
-        android:layout_marginTop="16dp"  
-        android:background="@color/btnColor"  
-        android:backgroundTint="#293BA0"  
-        android:text="START"  
-        android:textColor="@color/white"  
-        android:textSize="18sp" />  
+        android:layout_margin="16dp"  
+        android:orientation="vertical">  
+        <TextView  
+            android:layout_width="match_parent"  
+            android:layout_height="wrap_content"  
+            android:text="Welcome"  
+            android:textSize="30sp"  
+            android:textStyle="bold"  
+            android:gravity="center"  
+            android:textColor="#363a43"  
   
-</LinearLayout>
+            />  
+        <TextView  
+            android:layout_width="match_parent"  
+            android:layout_height="wrap_content"  
+            android:text="Please enter you name."  
+            android:textSize="16sp"  
+            android:textStyle="bold"  
+            android:gravity="center"  
+            android:textColor="#7a8089"  
+            android:layout_marginTop="16dp"  
+            />  
+  
+  
+        <com.google.android.material.textfield.TextInputLayout  
+            android:layout_width="match_parent"  
+            android:layout_height="wrap_content"  
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"  
+            android:layout_margin="20dp"  
+            >  
+  
+            <androidx.appcompat.widget.AppCompatEditText  
+                android:id="@+id/edit_text_name"  
+                android:layout_width="match_parent"  
+                android:layout_height="wrap_content"  
+                android:hint="e.g. Jan Nowak"  
+                android:inputType="textCapWords"  
+                android:textColor="#363a43"  
+                android:textColorHint="#7a8089"  
+                />  
+  
+        </com.google.android.material.textfield.TextInputLayout>  
+  
+        <Button  
+            android:id="@+id/btn_start"  
+            android:layout_width="match_parent"  
+            android:layout_height="wrap_content"  
+            android:layout_marginTop="16dp"  
+            android:background="#C4D6D9"  
+            android:backgroundTint="#293BA0"  
+            android:text="START"  
+            android:textColor="@color/white"  
+            android:textSize="18sp"  
+            style="@style/Theme.NewQuizApp"  
+            />  
+  
+    </LinearLayout>  
+  
+  
+</com.google.android.material.card.MaterialCardView>
 ```
 
 
@@ -180,7 +195,7 @@ Wewnątrz MaterialCardView dodaj:
 
 ### a new activity
 - in the package where you have `MainActivity` -> `new>Activity>ViewEmptyActivity`
-- add function handler to button
+- add function handler to button in `MainActivity`
 ```kotlin
   
 class MainActivity : AppCompatActivity() {  
@@ -230,11 +245,13 @@ data class Question(
 > 
 > W związku z tym przypisanie go do pola `image` w klasie `Question` jest zgodne z oczekiwaniami, ponieważ oczekuje ono wartości typu `Int`.
 
+----
+### add `res>drawable>` files `png` with flags
 
+
+----
 ### a new object file
-`>new>Kotlin>Object`
-
-add `res>drawable>` files `png` with flags
+`>new>Kotlin>Object` -> create a `Constant` file name
 ```kotlin
 package com.example.newquizapp  
   
