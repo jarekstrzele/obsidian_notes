@@ -84,7 +84,6 @@ dodaj widok Fragmentu res>layout> new layout resource `fragment_home`
 ```
 
 połącz xml z kotlinem
-
 `fragment_home.kt`
 ```kotlin
 class HomeFragment : Fragment() {  
@@ -100,4 +99,5 @@ class HomeFragment : Fragment() {
 
 ```
 
-
+> `inflater.inflate(R.layout.fragment_home, container, false)`: Ta linia kodu odpowiada za "nadmuchanie" (*inflation*) interfejsu użytkownika fragmentu z zasobów XML. 
+> >	`R.layout.fragment_home określa widok fragmentu do nadmuchania, container to rodzic widoku, do którego ten widok fragmentu zostanie dołączony, a false oznacza, że widok nie będzie dołączony do rodzica automatycznie (to jest zadanie aktywności lub fragmentu nadrzędnego).
