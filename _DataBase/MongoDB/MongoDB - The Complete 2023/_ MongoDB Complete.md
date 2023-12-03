@@ -77,7 +77,7 @@ It is a `mongosh`
 # Working with MongoDB
 
 
-
+![[mongoDB_general_view.excalidraw | 700]]
 
 
 

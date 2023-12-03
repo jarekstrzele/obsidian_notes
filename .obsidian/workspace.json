@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/mongoDB_general_view.excalidraw.md",
+                "file": "_DataBase/MongoDB/MongoDB - The Complete 2023/_ MongoDB Complete.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -189,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/mongoDB_general_view.excalidraw.md",
+                "file": "_DataBase/MongoDB/MongoDB - The Complete 2023/_ MongoDB Complete.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/mongoDB_general_view.excalidraw.md"
+                "file": "_DataBase/MongoDB/MongoDB - The Complete 2023/_ MongoDB Complete.md"
               }
             }
           },
@@ -269,10 +269,10 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "bc1d039262b7fa18",
+  "active": "d66c46a7556ec2c5",
   "lastOpenFiles": [
-    "_DataBase/MongoDB/MongoDB - The Complete 2023/_ MongoDB Complete.md",
     "Excalidraw/mongoDB_general_view.excalidraw.md",
+    "_DataBase/MongoDB/MongoDB - The Complete 2023/_ MongoDB Complete.md",
     "_DataBase/MongoDB/Master MongoDB/_ 0 Start.md",
     "_DataBase/MongoDB/Master MongoDB/1 - Into MongoDB Cloud.md",
     "_DataBase/MongoDB/Learn MongoDB in 1 hour/_ Learn MongoDB in 1 hour.md",
