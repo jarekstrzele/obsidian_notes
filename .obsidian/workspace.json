@@ -32,6 +32,16 @@
             }
           },
           {
+            "id": "bc1d039262b7fa18",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/mongoDB_general_view.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "943f50017d444939",
             "type": "leaf",
             "state": {
@@ -80,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -162,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_DataBase/MongoDB/MongoDB - The Complete 2023/_ MongoDB Complete.md",
+                "file": "Excalidraw/mongoDB_general_view.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -179,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_DataBase/MongoDB/MongoDB - The Complete 2023/_ MongoDB Complete.md",
+                "file": "Excalidraw/mongoDB_general_view.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_DataBase/MongoDB/MongoDB - The Complete 2023/_ MongoDB Complete.md"
+                "file": "Excalidraw/mongoDB_general_view.excalidraw.md"
               }
             }
           },
@@ -259,8 +269,10 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "d66c46a7556ec2c5",
+  "active": "bc1d039262b7fa18",
   "lastOpenFiles": [
+    "_DataBase/MongoDB/MongoDB - The Complete 2023/_ MongoDB Complete.md",
+    "Excalidraw/mongoDB_general_view.excalidraw.md",
     "_DataBase/MongoDB/Master MongoDB/_ 0 Start.md",
     "_DataBase/MongoDB/Master MongoDB/1 - Into MongoDB Cloud.md",
     "_DataBase/MongoDB/Learn MongoDB in 1 hour/_ Learn MongoDB in 1 hour.md",
@@ -271,7 +283,6 @@
     "_DataBase/MongoDB/Introduction to the MongoDB/5 - Collection Creation and Documents Insertion.md",
     "_DataBase/MongoDB/Introduction to the MongoDB/4 - Data Formats in MongoDb.md",
     "_DataBase/MongoDB/Introduction to the MongoDB/_ Intro to MongoDB.md",
-    "_DataBase/MongoDB/MongoDB - The Complete 2023/_ MongoDB Complete.md",
     "_DataBase/MongoDB/Master MongoDB/3 MondoDb SHELL.md",
     "_DataBase/MongoDB/Master MongoDB/2 - GUI Tools for MongoDB Management.md",
     "R U S T/Bard - Rust/_ rUST WITH bARD.md",
@@ -286,7 +297,6 @@
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin/2 Getting ready with Android Studio.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin/_ the complete Android 12.md",
     "_ Mobile/Kotlin/Kotlin bez tajemnic/_ Kotlin bez tajemnic.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/7.1. Tworzenie rest api.md",
     "_DataBase/MongoDB/Learn MongoDB in 1 hour",
     "_DataBase/MongoDB/MongoDB - The Complete 2023",
     "_ Mobile/Kotlin/Kotlin bez tajemnic",

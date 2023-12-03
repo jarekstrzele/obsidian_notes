@@ -69,6 +69,15 @@ Custom installation
 It is a `mongosh`
 
 
+# Drivers
+- they are package you installed for the different programming languages your app might be written in
+- they are bridges between your programming languages and the mongodb server
+
+
+# Working with MongoDB
+
+
+
 
 
 
