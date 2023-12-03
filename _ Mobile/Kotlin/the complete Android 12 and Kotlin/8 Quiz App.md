@@ -273,8 +273,10 @@ object Constants {
 	return questionsList
 	}
 ```
+make other questions in the same way
 
-a new code in `QuizQuestionsActivity`:
+
+a new code in `QuizQuestionsActivity` (in the some folder that `MainActivity.kt`):
 ```kotlin
 class QuizQuestionsActivity : AppCompatActivity() {  
     override fun onCreate(savedInstanceState: Bundle?) {  
@@ -290,7 +292,7 @@ class QuizQuestionsActivity : AppCompatActivity() {
 
 
 # GUI for `quize__activity`
-change main layout for `ScrollView` and add inside `LinearLayout`
+change main layout for `ScrollView` and add inside it  `LinearLayout`
 ```xml
 <ScrollView xmlns:android="http: ... >
 						
@@ -410,7 +412,6 @@ in drawable and and **change that file**:
 
 > W skrócie, `<shape>` to predefiniowany element w Androidzie, który pozwala na definiowanie różnych kształtów graficznych i ich stylizacji za pomocą innych elementów XML, takich jak `stroke`, `solid`, `corners`, itp.
 > 
-
 
 and at the end add `Button`:
 ```xml

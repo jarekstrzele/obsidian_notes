@@ -5,6 +5,10 @@
       "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md"
     },
     {
+      "basename": "selector",
+      "path": "_ Mobile/Kotlin/selector.md"
+    },
+    {
       "basename": "1.13. TYPY Generyczne",
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.13. TYPY Generyczne.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_ 0 Modern React 2022",
       "path": "_ WEB/REACT/modern React/_ 0 Modern React 2022.md"
-    },
-    {
-      "basename": "React render",
-      "path": "_ WEB/REACT/Docs React tutorial/React render.md"
     }
   ],
   "omittedPaths": [],
