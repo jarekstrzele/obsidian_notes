@@ -28,8 +28,20 @@
 - 
 
 
+# Fragment
+- reprezentują zachowanie lub część interfejsu aktywności 
+- nie może istnieć fragment bez aktywności, ale aktywność może istnieć bez fragmentu
+- posiadają własny widok, ale ich cykl życia zależny jest od aktywności
+- są modularne
+- można je wielokrotnie wykorzystywać
 
-
-
-
+>[!definition] Fragmenty w Androidzie
+> są częściami interfejsu użytkownika lub zachowania aplikacji, które można zintegrować w aktywność, pozwalając na bardziej modułową i wielokrotnego użytku konstrukcję interfejsu.
+> Oto kilka kluczowych informacji o fragmentach w Androidzie:
+>	1. **Modułowość**: Fragmenty pozwalają deweloperom podzielić interfejs użytkownika na niezależne, wielokrotnego użytku komponenty, co ułatwia zarządzanie i ponowne wykorzystanie kodu.
+>	2. **Łatwa integracja**: Fragmenty mogą być łatwo zintegrowane wewnątrz aktywności, co pozwala na elastyczne zarządzanie interfejsami użytkownika w zależności od wielkości ekranu, orientacji urządzenia itp.
+>	3. **Cykl życia**: Fragmenty posiadają swój własny cykl życia, co oznacza, że posiadają metody takie jak `onCreate()`, `onStart()`, `onPause()`, `onStop()`, `onDestroy()`, które odpowiadają za zarządzanie ich stanem.
+>	4. **Komunikacja między fragmentami**: Fragmenty mogą komunikować się ze sobą poprzez aktywność, co pozwala na wymianę danych i interakcję pomiędzy nimi.
+    
+5. **Obsługa wielu ekranów**: Fragmenty są używane do tworzenia aplikacji, które mogą dostosowywać swój interfejs użytkownika do różnych rozmiarów ekranów urządzeń.
 
