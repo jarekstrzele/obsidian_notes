@@ -450,12 +450,16 @@ class QuizQuestionsActivity : AppCompatActivity(), View.OnClickListener {
 override fun onCreate(){....}
 
 override fun onClick(p0: View?){
- TODO("Not yet impl")
+ TODO("Not yet implemented")
 }
 ```
 
 
+#### some refactoring
+- add "global" variable :
+```kotlin
 
+```
 
 
 
