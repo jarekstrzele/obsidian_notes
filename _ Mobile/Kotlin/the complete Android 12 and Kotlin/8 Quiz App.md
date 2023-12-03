@@ -440,6 +440,27 @@ and change `color` in `stroke` into <stroke
     android:width="5dp"  
     android:color="@color/design_default_color_primary" />`<stroke android:width="5dp"     android:color="@color/design_default_color_primary" />`
     
+### add button submit handler 
+
+- in `active_quiz_questions` add id to the button
+```xml
+<Button  
+    android:id="@+id/btn_submit"
+```
+
+in `QuizQuestionActivity.kt`:
+```kotlin
+...
+private var btnSubmit: Button? = null  
+  
+override fun onCreate(savedInstanceState: Bundle?) {
+
+...
+
+	btnSubmit = findViewById(R.id.btn_submit)
+```
+
+
 
 ### add `View.OnClickListener` to `QuizQuetionsActivity`
 
@@ -468,20 +489,17 @@ class QuizQuestionsActivity : AppCompatActivity(), View.OnClickListener {
 ...
 ```
 
-- in the same file extract a function by refactoring and call this new function inside the `onCreate()`:
+- inside the `onCreate` change `val questionsList = Constants.getQuestions()` into global variable  
+
+- in the same file extract a function by refactoring and call this new function inside the `onCreate()` and change `currentPositon` into `mCurrentPosition`:
 ```kotlin
 private fun setQuestion() {  
-    Log.i("sizelist", "${questionsList.size}")  
   
-    for (i in questionsList) {  
-        Log.e("questions", i.question)  
-    }  
-  
-    var currentPosition = 1  
-    val question: Question = questionsList[currentPosition - 1]  
+    mCurrentPosition = 1  
+    val question: Question = mQuestionsList!![mCurrentPosition - 1]  
     imageView?.setImageResource(question.image)  
-    progressBar?.progress = currentPosition  
-    textViewProgress?.text = "$currentPosition/${progressBar?.max}"  
+    progressBar?.progress = mCurrentPosition  
+    textViewProgress?.text = "$mCurrentPosition/${progressBar?.max}"  
     textViewQuestion?.text = question.question  
     textViewOptionOne?.text = question.optionOne  
     textViewOptionTwo?.text = question.optionTwo  
@@ -490,7 +508,9 @@ private fun setQuestion() {
 }
 ```
 
-- inside the `onCreate` change `val questionsList = Constants.getQuestions()` into global variable 
+
+- 
+-
 
 
 
