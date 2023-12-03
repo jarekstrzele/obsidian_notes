@@ -84,7 +84,7 @@ class HomeFragment : Fragment() {
 
 #### połącz ten xml z kotlinem 
 (inflate - nadmuchaj)
-`fragment_home.kt`
+`HomeFragment.kt`
 ```kotlin
 class HomeFragment : Fragment() {  
   
@@ -119,4 +119,22 @@ w jego miejsce dodaj:
 
 ```
 
-####  wstrzyknij fragment do tego widoku
+####  wstrzyknij fragment do tego widoku, czyli zmień `MainActivity.kt`
+```kotlin
+class MainActivity : AppCompatActivity() {  
+    override fun onCreate(savedInstanceState: Bundle?) {  
+        super.onCreate(savedInstanceState)  
+        setContentView(R.layout.activity_main)  
+        addFragment()  
+    }  
+  
+    private fun addFragment() {  
+       supportFragmentManager.beginTransaction().add(R.id.fragment_container, HomeFragment()).commit()  
+  
+    }  
+  
+}
+```
+
+
+
