@@ -65,6 +65,9 @@ Custom installation
 - find `mongo.exe` or `mongosh.exe` -  it is the client (you will be connected to your server mongDB)
 - 
 
+# To install MongoDB Shell
+It is a `mongosh`
+
 
 
 
