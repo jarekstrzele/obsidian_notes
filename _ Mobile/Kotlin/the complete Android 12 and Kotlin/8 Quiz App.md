@@ -458,10 +458,39 @@ override fun onClick(p0: View?){
 #### some refactoring
 - add "global" variable :
 ```kotlin
+  
+class QuizQuestionsActivity : AppCompatActivity(), View.OnClickListener {  
+  
+    private var mCurrentPosition: Int=1  
+    private var mQuestionsList: ArrayList<Question>?= null  
+    private var mSelectedOptionPosition: Int = 0
 
+...
 ```
 
+- in the same file extract a function by refactoring and call this new function inside the `onCreate()`:
+```kotlin
+private fun setQuestion() {  
+    Log.i("sizelist", "${questionsList.size}")  
+  
+    for (i in questionsList) {  
+        Log.e("questions", i.question)  
+    }  
+  
+    var currentPosition = 1  
+    val question: Question = questionsList[currentPosition - 1]  
+    imageView?.setImageResource(question.image)  
+    progressBar?.progress = currentPosition  
+    textViewProgress?.text = "$currentPosition/${progressBar?.max}"  
+    textViewQuestion?.text = question.question  
+    textViewOptionOne?.text = question.optionOne  
+    textViewOptionTwo?.text = question.optionTwo  
+    textViewOptionThree?.text = question.optionThree  
+    textViewOptionFour?.text = question.optionFour  
+}
+```
 
+- inside the `onCreate` change `val questionsList = Constants.getQuestions()` into global variable 
 
 
 
