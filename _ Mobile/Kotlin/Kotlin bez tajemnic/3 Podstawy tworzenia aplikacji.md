@@ -51,8 +51,7 @@ new>Fragment>..
 
 
 ### ręczne
-- utwórz nową klasę kotlina
-
+#### utwórz nową klasę kotlina
 `HomeFragment.kt`
 ```kotlin
 package com.example.cookbook  
@@ -63,7 +62,7 @@ class HomeFragment : Fragment() {
 }
 ```
 
-dodaj widok Fragmentu res>layout> new layout resource `fragment_home`
+#### dodaj widok Fragmentu res>layout> new layout resource `fragment_home`
 ```xml
 <?xml version="1.0" encoding="utf-8"?>  
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"  
@@ -83,7 +82,8 @@ dodaj widok Fragmentu res>layout> new layout resource `fragment_home`
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
 
-połącz xml z kotlinem
+#### połącz ten xml z kotlinem 
+(inflate - nadmuchaj)
 `fragment_home.kt`
 ```kotlin
 class HomeFragment : Fragment() {  
@@ -100,4 +100,23 @@ class HomeFragment : Fragment() {
 ```
 
 > `inflater.inflate(R.layout.fragment_home, container, false)`: Ta linia kodu odpowiada za "nadmuchanie" (*inflation*) interfejsu użytkownika fragmentu z zasobów XML. 
-> >	`R.layout.fragment_home określa widok fragmentu do nadmuchania, container to rodzic widoku, do którego ten widok fragmentu zostanie dołączony, a false oznacza, że widok nie będzie dołączony do rodzica automatycznie (to jest zadanie aktywności lub fragmentu nadrzędnego).
+> >	`R.layout.fragment_home` określa widok fragmentu do nadmuchania, 
+> >	`container` to rodzic widoku, do którego ten widok fragmentu zostanie dołączony, a 
+> >	`false` oznacza, że widok nie będzie dołączony do rodzica automatycznie (to jest zadanie aktywności lub fragmentu nadrzędnego).
+
+
+#### dołącz fragment do `activity_main.xmk`
+usuń `TextView`
+w jego miejsce dodaj:
+- nadaj id temu `FragmentContainerView`
+- połącz go z kotlinowym HomeFragment `android:name="com.example.cookbook.HomeFragment"`
+```xml
+<androidx.fragment.app.FragmentContainerView  
+    android:layout_width="match_parent"  
+    android:layout_height="match_parent"  
+    android:id="@+id/fragment_container"  
+    android:name="com.example.cookbook.HomeFragment"/>	 
+
+```
+
+####  wstrzyknij fragment do tego widoku
