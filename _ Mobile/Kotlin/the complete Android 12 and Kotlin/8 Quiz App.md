@@ -432,6 +432,7 @@ and at the end add `Button`:
 -------
 ## Adding the button functionality to the questions activity
 
+### add `selected_option_border_bg.xml`
 in `drawable` folder > new > Drawable resource file > *selected_option_border_bg*
 
 copy content from `default_option_border_bg.xml` and paste it into the new file `selected_option_border_bg.xml`
@@ -439,6 +440,29 @@ and change `color` in `stroke` into <stroke
     android:width="5dp"  
     android:color="@color/design_default_color_primary" />`<stroke android:width="5dp"     android:color="@color/design_default_color_primary" />`
     
+
+### add `View.OnClickListener` to `QuizQuetionsActivity`
+
+`View.OnClickListener` it is a interface.
+```kotlin
+class QuizQuestionsActivity : AppCompatActivity(), View.OnClickListener {
+...
+override fun onCreate(){....}
+
+override fun onClick(p0: View?){
+ TODO("Not yet impl")
+}
+```
+
+
+
+
+
+
+
+
+
+
 
 
 
