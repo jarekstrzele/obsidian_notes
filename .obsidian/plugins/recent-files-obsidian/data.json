@@ -1,16 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "3 Podstawy tworzenia aplikacji",
+      "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md"
+    },
+    {
+      "basename": "8 Quiz App",
+      "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md"
+    },
+    {
       "basename": "2 Basic and CRUD",
       "path": "_DataBase/MongoDB/MongoDB - The Complete 2023/2 Basic and CRUD.md"
     },
     {
-      "basename": "_ MongoDB Complete",
-      "path": "_DataBase/MongoDB/MongoDB - The Complete 2023/_ MongoDB Complete.md"
+      "basename": "4.1 Binding",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/4.1 Binding.md"
+    },
+    {
+      "basename": "2 Node Package Manager",
+      "path": "_ WEB/N_O_D_E/Mosh Node/2 Node Package Manager.md"
+    },
+    {
+      "basename": "1.12 Indeksery",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.12 Indeksery.md"
+    },
+    {
+      "basename": "MongoDB Installation on Sys, on Docker",
+      "path": "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md"
     },
     {
       "basename": "mongoDB_general_view.excalidraw",
       "path": "Excalidraw/mongoDB_general_view.excalidraw.md"
+    },
+    {
+      "basename": "_ MongoDB Complete",
+      "path": "_DataBase/MongoDB/MongoDB - The Complete 2023/_ MongoDB Complete.md"
     },
     {
       "basename": "_ 0 Start",
@@ -27,10 +51,6 @@
     {
       "basename": "8 - Advanced MongoDb Features",
       "path": "_DataBase/MongoDB/Introduction to the MongoDB/8 - Advanced MongoDb Features.md"
-    },
-    {
-      "basename": "MongoDB Installation on Sys, on Docker",
-      "path": "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md"
     },
     {
       "basename": "7 - Updating Documents",
@@ -65,32 +85,16 @@
       "path": "R U S T/Bard - Rust/_ rUST WITH bARD.md"
     },
     {
-      "basename": "1.12 Indeksery",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.12 Indeksery.md"
-    },
-    {
       "basename": "1.13. TYPY Generyczne",
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.13. TYPY Generyczne.md"
-    },
-    {
-      "basename": "4.1 Binding",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/4.1 Binding.md"
     },
     {
       "basename": "2 Aplikacje WPF",
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/2 Aplikacje WPF.md"
     },
     {
-      "basename": "2 Node Package Manager",
-      "path": "_ WEB/N_O_D_E/Mosh Node/2 Node Package Manager.md"
-    },
-    {
       "basename": "Wyświeltanie info",
       "path": "_ Desktop/WPF/Wyświeltanie info.md"
-    },
-    {
-      "basename": "8 Quiz App",
-      "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md"
     },
     {
       "basename": "_ the complete Android Kotlin",
@@ -195,10 +199,6 @@
     {
       "basename": "selector",
       "path": "_ Mobile/Kotlin/selector.md"
-    },
-    {
-      "basename": "_ 0 Complete React Native",
-      "path": "_ Mobile/REACT NATIVE/The Complete React NativePlusHooks/_ 0 Complete React Native.md"
     }
   ],
   "omittedPaths": [],

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md",
+                "file": "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,28 +32,6 @@
             }
           },
           {
-            "id": "bc1d039262b7fa18",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/mongoDB_general_view.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "943f50017d444939",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e01c6a9f64c0a344",
             "type": "leaf",
             "state": {
@@ -64,33 +42,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "afee16c553e63f2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_ WEB/N_O_D_E/Mosh Node/2 Node Package Manager.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "96a60043e6b9e6cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.12 Indeksery.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -172,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_DataBase/MongoDB/MongoDB - The Complete 2023/2 Basic and CRUD.md",
+                "file": "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -189,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_DataBase/MongoDB/MongoDB - The Complete 2023/2 Basic and CRUD.md",
+                "file": "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_DataBase/MongoDB/MongoDB - The Complete 2023/2 Basic and CRUD.md"
+                "file": "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md"
               }
             }
           },
@@ -269,16 +222,20 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "d66c46a7556ec2c5",
+  "active": "13e0f92de93fa8f7",
   "lastOpenFiles": [
-    "_DataBase/MongoDB/MongoDB - The Complete 2023/_ MongoDB Complete.md",
+    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md",
     "_DataBase/MongoDB/MongoDB - The Complete 2023/2 Basic and CRUD.md",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/4.1 Binding.md",
+    "_ WEB/N_O_D_E/Mosh Node/2 Node Package Manager.md",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.12 Indeksery.md",
+    "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md",
     "Excalidraw/mongoDB_general_view.excalidraw.md",
+    "_DataBase/MongoDB/MongoDB - The Complete 2023/_ MongoDB Complete.md",
     "_DataBase/MongoDB/Master MongoDB/_ 0 Start.md",
     "_DataBase/MongoDB/Master MongoDB/1 - Into MongoDB Cloud.md",
     "_DataBase/MongoDB/Learn MongoDB in 1 hour/_ Learn MongoDB in 1 hour.md",
     "_DataBase/MongoDB/Introduction to the MongoDB/8 - Advanced MongoDb Features.md",
-    "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md",
     "_DataBase/MongoDB/Introduction to the MongoDB/7 - Updating Documents.md",
     "_DataBase/MongoDB/Introduction to the MongoDB/6 - Finding Documents.md",
     "_DataBase/MongoDB/Introduction to the MongoDB/5 - Collection Creation and Documents Insertion.md",
@@ -287,13 +244,9 @@
     "_DataBase/MongoDB/Master MongoDB/3 MondoDb SHELL.md",
     "_DataBase/MongoDB/Master MongoDB/2 - GUI Tools for MongoDB Management.md",
     "R U S T/Bard - Rust/_ rUST WITH bARD.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.12 Indeksery.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.13. TYPY Generyczne.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/4.1 Binding.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/2 Aplikacje WPF.md",
-    "_ WEB/N_O_D_E/Mosh Node/2 Node Package Manager.md",
     "_ Desktop/WPF/Wyświeltanie info.md",
-    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/_ the complete Android Kotlin.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin/2 Getting ready with Android Studio.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin/_ the complete Android 12.md",
