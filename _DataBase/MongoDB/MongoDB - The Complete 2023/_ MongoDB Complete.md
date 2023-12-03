@@ -46,6 +46,24 @@
 	- Real-Time Sync
 
 
+---------
+# Install on Window
+*Community Server*
+https://www.mongodb.com/try/download/community
+
+Custom installation 
+- install as a service
+- install Compass (GUI )
+
+## TO STOP or START MongoDB:
+- `Services`
+- *cmd*: `net stop MongoDB`, `net start MongoDB`
+
+
+## to start a terminal client
+- path where your MongoDB is installed
+- find `mongo.exe` or `mongosh.exe` -  it is the client (you will be connected to your server mongDB)
+- 
 
 
 
