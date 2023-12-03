@@ -1,6 +1,26 @@
 #udemy #Maximilian_Schwarzmuller 
 
 
+[[2 Basic and CRUD]]
+
+
+
+
+-----------
+THe content of that note
+[[#What is MongoDB?]]
+[[#BSON data structure]]
+[[#MongoDB Ecosytem]]
+[[#Install on Window]]
+[[#To install MongoDB Shell]]
+[[#Drivers]]
+[[#Working with MongoDB]]
+
+
+
+
+
+----
 # What is MongoDB?
 - it is a database HUMONGOUS
 - example:
@@ -66,7 +86,9 @@ Custom installation
 - 
 
 # To install MongoDB Shell
+#mongosh
 It is a `mongosh`
+
 
 
 # Drivers
