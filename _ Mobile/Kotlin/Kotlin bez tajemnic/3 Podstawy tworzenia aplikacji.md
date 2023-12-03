@@ -136,5 +136,9 @@ class MainActivity : AppCompatActivity() {
 }
 ```
 
-
+`addFragment`:
+odpowiedzialna za dodanie fragmentu do interfejsu użytkownika aplikacji:
+	1. `supportFragmentManager.beginTransaction()`: Rozpoczyna nową transakcję, która umożliwia modyfikację fragmentów powiązanych z tą aktywnością.
+	2. `add(R.id.fragment_container, HomeFragment())`: Dodaje nowy fragment do kontenera określonego przez identyfikator `R.id.fragment_container`. `HomeFragment()` tworzy nową instancję fragmentu `HomeFragment`, która będzie dodana do kontenera.
+	3. `commit()`: Potwierdza transakcję, co oznacza, że wszystkie operacje dodawania fragmentu zostaną zatwierdzone i zastosowane.
 
