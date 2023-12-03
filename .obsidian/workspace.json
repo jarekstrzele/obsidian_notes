@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md",
+                "file": "_ Desktop/Python/Tkinter/ttkbootstrap Python Tkinter/_  Introduction Python Tkinter GUI Design Using ttkbootstrap.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,13 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/4.1 Binding.md",
+                "file": "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -125,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md",
+                "file": "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -142,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md",
+                "file": "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md"
+                "file": "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md"
               }
             }
           },
@@ -222,11 +223,17 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "13e0f92de93fa8f7",
+  "active": "e01c6a9f64c0a344",
   "lastOpenFiles": [
+    "C Sharp/Complete CSharp MasterClass/3 Functions-Methods and how to save time.md",
+    "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md",
+    "C Sharp/Complete CSharp MasterClass/_ CSHarp Complete Masterclass.md",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/4.1 Binding.md",
+    "_ Desktop/Python/Tkinter/ttkbootstrap Python Tkinter/_  Introduction Python Tkinter GUI Design Using ttkbootstrap.md",
+    "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md",
+    "_ Desktop/Python/Tkinter/ttkbootstrap Python Tkinter",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md",
     "_DataBase/MongoDB/MongoDB - The Complete 2023/2 Basic and CRUD.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/4.1 Binding.md",
     "_ WEB/N_O_D_E/Mosh Node/2 Node Package Manager.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.12 Indeksery.md",
     "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md",
@@ -245,11 +252,6 @@
     "_DataBase/MongoDB/Master MongoDB/2 - GUI Tools for MongoDB Management.md",
     "R U S T/Bard - Rust/_ rUST WITH bARD.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.13. TYPY Generyczne.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/2 Aplikacje WPF.md",
-    "_ Desktop/WPF/Wyświeltanie info.md",
-    "_ Mobile/Kotlin/the complete Android Kotlin/_ the complete Android Kotlin.md",
-    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/2 Getting ready with Android Studio.md",
-    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/_ the complete Android 12.md",
     "_DataBase/MongoDB/Learn MongoDB in 1 hour",
     "_DataBase/MongoDB/MongoDB - The Complete 2023",
     "_ Mobile/Kotlin/Kotlin bez tajemnic",
@@ -261,7 +263,6 @@
     "HASKELL/z Barda",
     "_ Desktop/WPF/CSharp WPF xaml youtube",
     "A I/Harvard CS50 AI with Python",
-    "_ Desktop/Python/GUI/Tkinter/from 100 Days of Code",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",

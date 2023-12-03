@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "2. DataTypes and Variables",
+      "path": "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md"
+    },
+    {
+      "basename": "3 Functions-Methods and how to save time",
+      "path": "C Sharp/Complete CSharp MasterClass/3 Functions-Methods and how to save time.md"
+    },
+    {
+      "basename": "_ CSHarp Complete Masterclass",
+      "path": "C Sharp/Complete CSharp MasterClass/_ CSHarp Complete Masterclass.md"
+    },
+    {
+      "basename": "4.1 Binding",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/4.1 Binding.md"
+    },
+    {
+      "basename": "_  Introduction Python Tkinter GUI Design Using ttkbootstrap",
+      "path": "_ Desktop/Python/Tkinter/ttkbootstrap Python Tkinter/_  Introduction Python Tkinter GUI Design Using ttkbootstrap.md"
+    },
+    {
       "basename": "3 Podstawy tworzenia aplikacji",
       "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md"
     },
@@ -11,10 +31,6 @@
     {
       "basename": "2 Basic and CRUD",
       "path": "_DataBase/MongoDB/MongoDB - The Complete 2023/2 Basic and CRUD.md"
-    },
-    {
-      "basename": "4.1 Binding",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/4.1 Binding.md"
     },
     {
       "basename": "2 Node Package Manager",
@@ -183,22 +199,6 @@
     {
       "basename": "React render",
       "path": "_ WEB/REACT/Docs React tutorial/React render.md"
-    },
-    {
-      "basename": "_ 0 React Docs Samouczek",
-      "path": "_ WEB/REACT/Docs React tutorial/_ 0 React Docs Samouczek.md"
-    },
-    {
-      "basename": "5 React Props",
-      "path": "_ WEB/REACT/w3school/5 React Props.md"
-    },
-    {
-      "basename": "4 React State and Working with Events",
-      "path": "_ WEB/REACT/React - the Complete Guide/4 React State and Working with Events.md"
-    },
-    {
-      "basename": "selector",
-      "path": "_ Mobile/Kotlin/selector.md"
     }
   ],
   "omittedPaths": [],
