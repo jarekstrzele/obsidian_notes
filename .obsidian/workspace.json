@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Desktop/WPF/od Podstaw do app w WPF/10.3 DataContext oraz interfejs INotifyPropertyChanged.md",
+                "file": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 1 Fundamentals.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Desktop/WPF/od Podstaw do app w WPF/10.3 DataContext oraz interfejs INotifyPropertyChanged.md",
+                "file": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 1 Fundamentals.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Desktop/WPF/od Podstaw do app w WPF/10.3 DataContext oraz interfejs INotifyPropertyChanged.md",
+                "file": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 1 Fundamentals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Desktop/WPF/od Podstaw do app w WPF/10.3 DataContext oraz interfejs INotifyPropertyChanged.md"
+                "file": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 1 Fundamentals.md"
               }
             }
           },
@@ -211,13 +211,14 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "888d215c6ce0a1e6",
+  "active": "f621f21825dbd82d",
   "lastOpenFiles": [
+    "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/_ Ultimate Rust Crash Course 1.md",
+    "_ Desktop/WPF/od Podstaw do app w WPF/10.3 DataContext oraz interfejs INotifyPropertyChanged.md",
     "_ Desktop/WPF/od Podstaw do app w WPF/10.1 Binding.md",
     "_ Desktop/WPF/od Podstaw do app w WPF/10 WPF - zaawansowane.md",
     "_ Desktop/WPF/od Podstaw do app w WPF/10.24 DataGrid.md",
     "_ Desktop/WPF/od Podstaw do app w WPF/_ część dalsza od podstaw do app WPF.md",
-    "_ Desktop/WPF/od Podstaw do app w WPF/10.3 DataContext oraz interfejs INotifyPropertyChanged.md",
     "_ Desktop/WPF/od Podstaw do app w WPF/10.2 Eventy i Delegaty.md",
     "_ Desktop/WPF/od Podstaw do app w WPF/9.1. RadioButton, GroupBox, Label.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/3.1 RadioButton, GroupBox, Label.md",
@@ -239,7 +240,6 @@
     "_ Desktop/Python/Tkinter/Tkinter 0.md",
     "_ Desktop/Python/Tkinter/Tkinter.md",
     "_ Desktop/Python/Tkinter/Widżety proste TkInter.md",
-    "_ Desktop/Python/Tkinter/Tkinter Pomidoro.md",
     "_ Desktop/Python/Tkinter/ttkbootstrap Python Tkinter",
     "_DataBase/MongoDB/Learn MongoDB in 1 hour",
     "_DataBase/MongoDB/MongoDB - The Complete 2023",

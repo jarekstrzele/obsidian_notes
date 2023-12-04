@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "I 1 Fundamentals",
+      "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 1 Fundamentals.md"
+    },
+    {
+      "basename": "_ Ultimate Rust Crash Course 1",
+      "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/_ Ultimate Rust Crash Course 1.md"
+    },
+    {
       "basename": "10.3 DataContext oraz interfejs INotifyPropertyChanged",
       "path": "_ Desktop/WPF/od Podstaw do app w WPF/10.3 DataContext oraz interfejs INotifyPropertyChanged.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "2 Getting ready with Android Studio",
       "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/2 Getting ready with Android Studio.md"
-    },
-    {
-      "basename": "_ the complete Android 12",
-      "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/_ the complete Android 12.md"
-    },
-    {
-      "basename": "_ Kotlin bez tajemnic",
-      "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/_ Kotlin bez tajemnic.md"
     }
   ],
   "omittedPaths": [],
