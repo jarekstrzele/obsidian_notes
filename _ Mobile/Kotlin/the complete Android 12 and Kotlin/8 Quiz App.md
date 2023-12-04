@@ -298,7 +298,7 @@ change main layout for `ScrollView` and add inside it  `LinearLayout`
 						
 ```
 
-## first components
+## first components 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>  
 <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"  
