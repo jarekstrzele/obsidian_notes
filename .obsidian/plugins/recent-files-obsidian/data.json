@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "I 3 The Heart of Rust",
+      "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 3 The Heart of Rust.md"
+    },
+    {
+      "basename": "I 2 Primitive Types & Control Flow",
+      "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 2 Primitive Types & Control Flow.md"
+    },
+    {
+      "basename": "I 6 Invaders Project",
+      "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 6 Invaders Project.md"
+    },
+    {
+      "basename": "I 5 Final Lectures",
+      "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 5 Final Lectures.md"
+    },
+    {
       "basename": "I 1 Fundamentals",
       "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 1 Fundamentals.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "3 MondoDb SHELL",
       "path": "_DataBase/MongoDB/Master MongoDB/3 MondoDb SHELL.md"
-    },
-    {
-      "basename": "2 - GUI Tools for MongoDB Management",
-      "path": "_DataBase/MongoDB/Master MongoDB/2 - GUI Tools for MongoDB Management.md"
-    },
-    {
-      "basename": "_ rUST WITH bARD",
-      "path": "R U S T/Bard - Rust/_ rUST WITH bARD.md"
-    },
-    {
-      "basename": "_ the complete Android Kotlin",
-      "path": "_ Mobile/Kotlin/the complete Android Kotlin/_ the complete Android Kotlin.md"
-    },
-    {
-      "basename": "2 Getting ready with Android Studio",
-      "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/2 Getting ready with Android Studio.md"
     }
   ],
   "omittedPaths": [],
