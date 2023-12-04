@@ -54,33 +54,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "2d748aef974ef0e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_ Desktop/Python/Tkinter/Tkinter 0.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f9179747c8f69d1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_ Desktop/Python/Tkinter/Tkinter.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -146,7 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5110321044922
+    "width": 200
   },
   "right": {
     "id": "ec7d1a70da2de581",
@@ -162,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Desktop/Python/Tkinter/Tkinter.md",
+                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -179,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Desktop/Python/Tkinter/Tkinter.md",
+                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Desktop/Python/Tkinter/Tkinter.md"
+                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md"
               }
             }
           },
@@ -259,7 +235,7 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "f9179747c8f69d1b",
+  "active": "956612a81684765e",
   "lastOpenFiles": [
     "_ Desktop/Python/Tkinter/Tkinter 0.md",
     "_ Desktop/Python/Tkinter/Tkinter.md",
