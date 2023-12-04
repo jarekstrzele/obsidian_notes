@@ -542,12 +542,45 @@ TODO("Not yet implemented")
 ```
 
 ### add a new function `defaultOptionsView`
+### In the file `QuizQuestionsActivity`
 when a option will be clicked other become gray
 
+#### `defaultOptionsView()`
+you can test it calling this function after `setQuestion()`
+```kotlin
+private fun defaultOptionsView(){  
+val options = ArrayList<TextView?>();  
+textViewOptionOne.let{  
+options.add(0, it)  
+}  
+textViewOptionTwo.let{  
+options.add(1, it)  
+}  
+textViewOptionThree.let{  
+options.add(2, it)  
+}  
+textViewOptionFour.let{  
+options.add(3, it)  
+}  
+  
+for(option in options){  
+option?.setTextColor(Color.parseColor("#7a8089"))  
+//option?.setTextColor(Color.parseColor("#ff0000")) // for testing purpose  
+option?.typeface = Typeface.DEFAULT // jaka będzie domyślna czcionka, inne wartości  
+// Typeface.DEFAULT_BOLD (domyślna czcionka pogrubiona) lub Typeface.ITALIC (kursywa).  
+option?.background = ContextCompat.getDrawable(  
+this,  
+R.drawable.default_option_border_bg  
+// R.drawable.selected_option_border_bg  
+)  
+  
+}  
+}
+```
 
 
-
-
+#### `selectedOptionView()`
+ 
 
 
 
