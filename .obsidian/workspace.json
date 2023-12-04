@@ -8,55 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "13e0f92de93fa8f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_ Desktop/Python/Tkinter/ttkbootstrap Python Tkinter/_  Introduction Python Tkinter GUI Design Using ttkbootstrap.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d66c46a7556ec2c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_DataBase/MongoDB/MongoDB - The Complete 2023/2 Basic and CRUD.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e01c6a9f64c0a344",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.13. TYPY Generyczne.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "956612a81684765e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md",
+                "file": "_ Desktop/WPF/Wyświeltanie info.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 390.51103591918945
   },
   "right": {
     "id": "ec7d1a70da2de581",
@@ -138,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md",
+                "file": "_ Desktop/WPF/Wyświeltanie info.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -155,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md",
+                "file": "_ Desktop/WPF/Wyświeltanie info.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md"
+                "file": "_ Desktop/WPF/Wyświeltanie info.md"
               }
             }
           },
@@ -235,24 +198,28 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "956612a81684765e",
+  "active": "d66c46a7556ec2c5",
   "lastOpenFiles": [
+    "_ Desktop/WPF/Alien Form.md",
+    "_ Desktop/WPF/TicTacToe.md",
+    "_ Desktop/WPF/Fast WFP  C Sharp/1 Grid.md",
+    "_ Desktop/WPF/Fast WFP  C Sharp/2 Controls WPF.md",
+    "_DataBase/MongoDB/MongoDB - The Complete 2023/2 Basic and CRUD.md",
+    "_ Desktop/Python/Tkinter/ttkbootstrap Python Tkinter/_  Introduction Python Tkinter GUI Design Using ttkbootstrap.md",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.13. TYPY Generyczne.md",
+    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md",
     "_ Desktop/Python/Tkinter/Tkinter 0.md",
     "_ Desktop/Python/Tkinter/Tkinter.md",
     "_ Desktop/Python/Tkinter/Widżety proste TkInter.md",
     "_ Desktop/Python/Tkinter/Tkinter Pomidoro.md",
     "_ Desktop/Python/Tkinter/Icons, Images, Exit Button.md",
-    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md",
     "_ Mobile/Kotlin/selector.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.13. TYPY Generyczne.md",
     "C Sharp/Complete CSharp MasterClass/3 Functions-Methods and how to save time.md",
     "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md",
     "C Sharp/Complete CSharp MasterClass/_ CSHarp Complete Masterclass.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/4.1 Binding.md",
-    "_ Desktop/Python/Tkinter/ttkbootstrap Python Tkinter/_  Introduction Python Tkinter GUI Design Using ttkbootstrap.md",
     "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md",
     "_ Desktop/Python/Tkinter/ttkbootstrap Python Tkinter",
-    "_DataBase/MongoDB/MongoDB - The Complete 2023/2 Basic and CRUD.md",
     "_ WEB/N_O_D_E/Mosh Node/2 Node Package Manager.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.12 Indeksery.md",
     "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md",
@@ -260,10 +227,6 @@
     "_DataBase/MongoDB/MongoDB - The Complete 2023/_ MongoDB Complete.md",
     "_DataBase/MongoDB/Master MongoDB/_ 0 Start.md",
     "_DataBase/MongoDB/Master MongoDB/1 - Into MongoDB Cloud.md",
-    "_DataBase/MongoDB/Learn MongoDB in 1 hour/_ Learn MongoDB in 1 hour.md",
-    "_DataBase/MongoDB/Introduction to the MongoDB/8 - Advanced MongoDb Features.md",
-    "_DataBase/MongoDB/Introduction to the MongoDB/7 - Updating Documents.md",
-    "_DataBase/MongoDB/Introduction to the MongoDB/6 - Finding Documents.md",
     "_DataBase/MongoDB/Learn MongoDB in 1 hour",
     "_DataBase/MongoDB/MongoDB - The Complete 2023",
     "_ Mobile/Kotlin/Kotlin bez tajemnic",

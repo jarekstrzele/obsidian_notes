@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "Wyświeltanie info",
+      "path": "_ Desktop/WPF/Wyświeltanie info.md"
+    },
+    {
+      "basename": "Alien Form",
+      "path": "_ Desktop/WPF/Alien Form.md"
+    },
+    {
+      "basename": "TicTacToe",
+      "path": "_ Desktop/WPF/TicTacToe.md"
+    },
+    {
+      "basename": "1 Grid",
+      "path": "_ Desktop/WPF/Fast WFP  C Sharp/1 Grid.md"
+    },
+    {
+      "basename": "2 Controls WPF",
+      "path": "_ Desktop/WPF/Fast WFP  C Sharp/2 Controls WPF.md"
+    },
+    {
+      "basename": "2 Basic and CRUD",
+      "path": "_DataBase/MongoDB/MongoDB - The Complete 2023/2 Basic and CRUD.md"
+    },
+    {
+      "basename": "_  Introduction Python Tkinter GUI Design Using ttkbootstrap",
+      "path": "_ Desktop/Python/Tkinter/ttkbootstrap Python Tkinter/_  Introduction Python Tkinter GUI Design Using ttkbootstrap.md"
+    },
+    {
+      "basename": "1.13. TYPY Generyczne",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.13. TYPY Generyczne.md"
+    },
+    {
       "basename": "8 Quiz App",
       "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md"
     },
@@ -29,10 +61,6 @@
       "path": "_ Mobile/Kotlin/selector.md"
     },
     {
-      "basename": "1.13. TYPY Generyczne",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.13. TYPY Generyczne.md"
-    },
-    {
       "basename": "3 Functions-Methods and how to save time",
       "path": "C Sharp/Complete CSharp MasterClass/3 Functions-Methods and how to save time.md"
     },
@@ -49,16 +77,8 @@
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/4.1 Binding.md"
     },
     {
-      "basename": "_  Introduction Python Tkinter GUI Design Using ttkbootstrap",
-      "path": "_ Desktop/Python/Tkinter/ttkbootstrap Python Tkinter/_  Introduction Python Tkinter GUI Design Using ttkbootstrap.md"
-    },
-    {
       "basename": "3 Podstawy tworzenia aplikacji",
       "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md"
-    },
-    {
-      "basename": "2 Basic and CRUD",
-      "path": "_DataBase/MongoDB/MongoDB - The Complete 2023/2 Basic and CRUD.md"
     },
     {
       "basename": "2 Node Package Manager",
@@ -133,10 +153,6 @@
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/2 Aplikacje WPF.md"
     },
     {
-      "basename": "Wyświeltanie info",
-      "path": "_ Desktop/WPF/Wyświeltanie info.md"
-    },
-    {
       "basename": "_ the complete Android Kotlin",
       "path": "_ Mobile/Kotlin/the complete Android Kotlin/_ the complete Android Kotlin.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "react and SQLite",
       "path": "_ WEB/REACT/react and SQLite.md"
-    },
-    {
-      "basename": "_ 0 React Node",
-      "path": "_ WEB/REACT/React_Node_Helion/_ 0 React Node.md"
-    },
-    {
-      "basename": "2 Pierwsz komponent",
-      "path": "_ WEB/REACT/React_Node_Helion/2 Pierwsz komponent.md"
-    },
-    {
-      "basename": "useCallback",
-      "path": "_ WEB/REACT/React - the Complete Guide/useCallback.md"
-    },
-    {
-      "basename": "_ 0 React Full",
-      "path": "_ WEB/REACT/React - the Complete Guide/_ 0 React Full.md"
     }
   ],
   "omittedPaths": [],
