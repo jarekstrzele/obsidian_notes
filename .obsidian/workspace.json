@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Desktop/WPF/Wyświeltanie info.md",
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/4 Tworzenie aplikacji WPF.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Desktop/WPF/Wyświeltanie info.md",
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/4 Tworzenie aplikacji WPF.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Desktop/WPF/Wyświeltanie info.md",
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/4 Tworzenie aplikacji WPF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Desktop/WPF/Wyświeltanie info.md"
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/4 Tworzenie aplikacji WPF.md"
               }
             }
           },
@@ -200,10 +200,12 @@
   },
   "active": "d66c46a7556ec2c5",
   "lastOpenFiles": [
-    "_ Desktop/WPF/Alien Form.md",
-    "_ Desktop/WPF/TicTacToe.md",
+    "_ Desktop/WPF/Fast WFP  C Sharp/_ Fast WFP C Sharp.md",
     "_ Desktop/WPF/Fast WFP  C Sharp/1 Grid.md",
     "_ Desktop/WPF/Fast WFP  C Sharp/2 Controls WPF.md",
+    "_ Desktop/WPF/Wyświeltanie info.md",
+    "_ Desktop/WPF/Alien Form.md",
+    "_ Desktop/WPF/TicTacToe.md",
     "_DataBase/MongoDB/MongoDB - The Complete 2023/2 Basic and CRUD.md",
     "_ Desktop/Python/Tkinter/ttkbootstrap Python Tkinter/_  Introduction Python Tkinter GUI Design Using ttkbootstrap.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.13. TYPY Generyczne.md",
@@ -225,8 +227,6 @@
     "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md",
     "Excalidraw/mongoDB_general_view.excalidraw.md",
     "_DataBase/MongoDB/MongoDB - The Complete 2023/_ MongoDB Complete.md",
-    "_DataBase/MongoDB/Master MongoDB/_ 0 Start.md",
-    "_DataBase/MongoDB/Master MongoDB/1 - Into MongoDB Cloud.md",
     "_DataBase/MongoDB/Learn MongoDB in 1 hour",
     "_DataBase/MongoDB/MongoDB - The Complete 2023",
     "_ Mobile/Kotlin/Kotlin bez tajemnic",

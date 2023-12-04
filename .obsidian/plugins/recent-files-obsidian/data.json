@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "4 Tworzenie aplikacji WPF",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/4 Tworzenie aplikacji WPF.md"
+    },
+    {
+      "basename": "_ Fast WFP C Sharp",
+      "path": "_ Desktop/WPF/Fast WFP  C Sharp/_ Fast WFP C Sharp.md"
+    },
+    {
+      "basename": "1 Grid",
+      "path": "_ Desktop/WPF/Fast WFP  C Sharp/1 Grid.md"
+    },
+    {
+      "basename": "2 Controls WPF",
+      "path": "_ Desktop/WPF/Fast WFP  C Sharp/2 Controls WPF.md"
+    },
+    {
       "basename": "Wyświeltanie info",
       "path": "_ Desktop/WPF/Wyświeltanie info.md"
     },
@@ -11,14 +27,6 @@
     {
       "basename": "TicTacToe",
       "path": "_ Desktop/WPF/TicTacToe.md"
-    },
-    {
-      "basename": "1 Grid",
-      "path": "_ Desktop/WPF/Fast WFP  C Sharp/1 Grid.md"
-    },
-    {
-      "basename": "2 Controls WPF",
-      "path": "_ Desktop/WPF/Fast WFP  C Sharp/2 Controls WPF.md"
     },
     {
       "basename": "2 Basic and CRUD",
@@ -191,14 +199,6 @@
     {
       "basename": "_ 0 NodeJS - zostań fullstack",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md"
-    },
-    {
-      "basename": "React Full JS",
-      "path": "_ WEB/REACT/React Full JS.md"
-    },
-    {
-      "basename": "react and SQLite",
-      "path": "_ WEB/REACT/react and SQLite.md"
     }
   ],
   "omittedPaths": [],
