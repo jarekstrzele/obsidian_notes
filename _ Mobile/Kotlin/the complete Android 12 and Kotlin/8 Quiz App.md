@@ -605,14 +605,27 @@ R.id.textview_option_four -> {
 textViewOptionFour?.let{  
 selectedOptionView(it, 4)  
 }  
+R.id.btn_submit -> {  
+// TODO "implement submit buttom"  
+}
 }  
 }  
 }
 ```
 
 add onClick to these TextViews
+inside `onCreate` method 
 ```kotlin
-
+mQuestionsList = Constants.getQuestions()  
+  
+textViewOptionOne?.setOnClickListener(this)  
+textViewOptionTwo?.setOnClickListener(this)  
+textViewOptionThree?.setOnClickListener(this)  
+textViewOptionFour?.setOnClickListener(this)  
+btnSubmit?.setOnClickListener(this)  
+  
+setQuestion()  
+//defaultOptionsView() //for testing purpose
 ```
 
 

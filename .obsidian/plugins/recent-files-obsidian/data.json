@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Icons, Images, Exit Button",
+      "path": "_ Desktop/Python/Tkinter/Icons, Images, Exit Button.md"
+    },
+    {
       "basename": "8 Quiz App",
       "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2 - React Basics & JSX",
       "path": "_ WEB/REACT/modern React/2 - React Basics & JSX.md"
-    },
-    {
-      "basename": "_ 0 Modern React 2022",
-      "path": "_ WEB/REACT/modern React/_ 0 Modern React 2022.md"
     }
   ],
   "omittedPaths": [],
