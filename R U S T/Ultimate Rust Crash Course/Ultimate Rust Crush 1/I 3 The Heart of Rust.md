@@ -215,10 +215,10 @@ fn bedazzle(arg: &mut String){
 
 //
 
-let mut material = "mud".to_string();
-println!("This material is just `{}`.", material);
-bedazzle(&mut material);
-println!("Wow! Now the material is `{}`!", material);
+	let mut material = "mud".to_string();
+	println!("This material is just `{}`.", material);
+	bedazzle(&mut material);
+	println!("Wow! Now the material is `{}`!", material);
 
 }
 ```
