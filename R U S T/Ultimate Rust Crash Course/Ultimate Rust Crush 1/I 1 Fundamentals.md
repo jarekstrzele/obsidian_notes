@@ -60,14 +60,14 @@ let mut bunnis = 4 ;
 bunnis = 5 ;
 ```
 
-#### `const`
-- use `const` keyword
-- use screaming-snake-case for constants `const WRAP_FACTOR = ask_scotty();`
-- type annotation is require `const WRAP_FACTOR: f64 = ask_scotty() ;`
-- value must be **constant expression**
-
-1. `const` can be in a global scope
-2.  `const` are inlined at compile time - so they are really fast
+>[!definition] `const`
+> - use `const` keyword
+> - use screaming-snake-case for constants `const WRAP_FACTOR = ask_scotty();`
+> - type annotation is **require** `const WRAP_FACTOR: f64 = ask_scotty() ;`
+> - value must be **constant expression**
+>
+> 1. `const` can be in a global scope
+> 2.  `const` are inlined at compile time - so they are really fast
 
 --------
 # Scope
@@ -131,7 +131,7 @@ fn main(){
 		enigma = 7 ;
 	}
 	
-	println!("{}", enigma) ; // it works, because the compiler can tell that enigma is GUARANTEED to be initilized beore it is used
+	println!("{}", enigma) ; // it works, because the compiler can tell that enigma is GUARANTEED to be initilized before it is used
 }
 
 ```
