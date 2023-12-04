@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Tkinter 0",
+      "path": "_ Desktop/Python/Tkinter/Tkinter 0.md"
+    },
+    {
+      "basename": "Widżety proste TkInter",
+      "path": "_ Desktop/Python/Tkinter/Widżety proste TkInter.md"
+    },
+    {
+      "basename": "Tkinter Pomidoro",
+      "path": "_ Desktop/Python/Tkinter/Tkinter Pomidoro.md"
+    },
+    {
+      "basename": "Tkinter",
+      "path": "_ Desktop/Python/Tkinter/Tkinter.md"
+    },
+    {
       "basename": "Icons, Images, Exit Button",
       "path": "_ Desktop/Python/Tkinter/Icons, Images, Exit Button.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "_ 0 React Full",
       "path": "_ WEB/REACT/React - the Complete Guide/_ 0 React Full.md"
-    },
-    {
-      "basename": "8 Login Project",
-      "path": "_ WEB/REACT/React - the Complete Guide/8 Login Project.md"
-    },
-    {
-      "basename": "9. Fragments, Portal, refs",
-      "path": "_ WEB/REACT/React - the Complete Guide/9. Fragments, Portal, refs.md"
-    },
-    {
-      "basename": "_ 0 Android Kurs Tworzenia Aplikacji",
-      "path": "_ Mobile/Android Kurs Tworzenia APlikacji/_ 0 Android Kurs Tworzenia Aplikacji.md"
-    },
-    {
-      "basename": "2 - React Basics & JSX",
-      "path": "_ WEB/REACT/modern React/2 - React Basics & JSX.md"
     }
   ],
   "omittedPaths": [],

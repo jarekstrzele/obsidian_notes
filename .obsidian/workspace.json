@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Desktop/Python/Tkinter/Icons, Images, Exit Button.md",
+                "file": "_ Desktop/Python/Tkinter/Tkinter 0.md",
                 "mode": "source",
                 "source": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Desktop/Python/Tkinter/Icons, Images, Exit Button.md",
+                "file": "_ Desktop/Python/Tkinter/Tkinter 0.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Desktop/Python/Tkinter/Icons, Images, Exit Button.md",
+                "file": "_ Desktop/Python/Tkinter/Tkinter 0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Desktop/Python/Tkinter/Icons, Images, Exit Button.md"
+                "file": "_ Desktop/Python/Tkinter/Tkinter 0.md"
               }
             }
           },
@@ -249,6 +249,11 @@
   },
   "active": "2d748aef974ef0e3",
   "lastOpenFiles": [
+    "_ Desktop/Python/Tkinter/Widżety proste TkInter.md",
+    "_ Desktop/Python/Tkinter/Tkinter Pomidoro.md",
+    "_ Desktop/Python/Tkinter/Tkinter 0.md",
+    "_ Desktop/Python/Tkinter/Tkinter.md",
+    "_ Desktop/Python/Tkinter/Icons, Images, Exit Button.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md",
     "_ Mobile/Kotlin/selector.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.13. TYPY Generyczne.md",
@@ -271,11 +276,6 @@
     "_DataBase/MongoDB/Introduction to the MongoDB/8 - Advanced MongoDb Features.md",
     "_DataBase/MongoDB/Introduction to the MongoDB/7 - Updating Documents.md",
     "_DataBase/MongoDB/Introduction to the MongoDB/6 - Finding Documents.md",
-    "_DataBase/MongoDB/Introduction to the MongoDB/5 - Collection Creation and Documents Insertion.md",
-    "_DataBase/MongoDB/Introduction to the MongoDB/4 - Data Formats in MongoDb.md",
-    "_DataBase/MongoDB/Introduction to the MongoDB/_ Intro to MongoDB.md",
-    "_DataBase/MongoDB/Master MongoDB/3 MondoDb SHELL.md",
-    "_DataBase/MongoDB/Master MongoDB/2 - GUI Tools for MongoDB Management.md",
     "_DataBase/MongoDB/Learn MongoDB in 1 hour",
     "_DataBase/MongoDB/MongoDB - The Complete 2023",
     "_ Mobile/Kotlin/Kotlin bez tajemnic",
