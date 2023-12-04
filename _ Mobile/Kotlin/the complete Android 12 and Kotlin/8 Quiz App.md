@@ -463,6 +463,7 @@ override fun onCreate(savedInstanceState: Bundle?) {
 
 
 ### add `View.OnClickListener` to `QuizQuetionsActivity`
+>Implementując interfejs `View.OnClickListener`, klasa QuizQuestionsActivity zyskuje zdolność do nasłuchiwania zdarzeń kliknięć na widokach. Po zaimplementowaniu tego interfejsu, klasa musi dostarczyć implementację metody `onClick`, co umożliwia reakcję na kliknięcia użytkownika.
 
 `View.OnClickListener` it is a interface.
 ```kotlin
