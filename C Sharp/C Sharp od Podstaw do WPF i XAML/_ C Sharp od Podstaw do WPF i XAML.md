@@ -2,7 +2,7 @@
 
 ----
 [[1 OOP w CSharp]]
-[[2 Aplikacje WPF]]
+[[8 Aplikacje WPF]]
 [[3 Układ komponentów]]
 [[4 Tworzenie aplikacji WPF]]
 

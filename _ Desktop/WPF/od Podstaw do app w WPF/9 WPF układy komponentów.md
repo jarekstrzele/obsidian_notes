@@ -1,3 +1,5 @@
+[[_ część dalsza od podstaw do app WPF]]
+
 #wpf/layout
 
 [[_ C Sharp od Podstaw do WPF i XAML]]
@@ -357,6 +359,14 @@ lub grupy zamknij w oddzielnych `GroupBox`
 
 </StackPanel>
 ```
+
+
+
+
+
+
+
+
 
 
 

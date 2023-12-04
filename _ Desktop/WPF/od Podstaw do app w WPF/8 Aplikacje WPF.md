@@ -1,4 +1,7 @@
 #wpf
+[[_ część dalsza od podstaw do app WPF]]
+
+
 
 >[!info] WPF *Windows Presentation Foundation*
 framework Microsoftu do tworzenia aplikacji desktopowych
