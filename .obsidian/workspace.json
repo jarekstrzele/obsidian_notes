@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Desktop/Python/Tkinter/Tkinter 0.md",
+                "file": "_ Desktop/Python/Tkinter/Tkinter.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Desktop/Python/Tkinter/Tkinter 0.md",
+                "file": "_ Desktop/Python/Tkinter/Tkinter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Desktop/Python/Tkinter/Tkinter 0.md"
+                "file": "_ Desktop/Python/Tkinter/Tkinter.md"
               }
             }
           },
@@ -259,10 +259,10 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "2d748aef974ef0e3",
+  "active": "f9179747c8f69d1b",
   "lastOpenFiles": [
-    "_ Desktop/Python/Tkinter/Tkinter.md",
     "_ Desktop/Python/Tkinter/Tkinter 0.md",
+    "_ Desktop/Python/Tkinter/Tkinter.md",
     "_ Desktop/Python/Tkinter/Widżety proste TkInter.md",
     "_ Desktop/Python/Tkinter/Tkinter Pomidoro.md",
     "_ Desktop/Python/Tkinter/Icons, Images, Exit Button.md",
