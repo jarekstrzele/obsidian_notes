@@ -580,9 +580,40 @@ R.drawable.default_option_border_bg
 
 
 #### `selectedOptionView()`
- 
+ ```kotlin
+ override fun onClick(view: View?) {  
+when(view?.id){  
+R.id.textview_option_one -> {  
+textViewOptionOne?.let{  
+selectedOptionView(it, 1)  
+}  
+}  
+  
+R.id.textview_option_two -> {  
+textViewOptionTwo?.let{  
+selectedOptionView(it, 2)  
+}  
+}  
+  
+R.id.textview_option_three -> {  
+textViewOptionThree?.let{  
+selectedOptionView(it, 3)  
+}  
+}  
+  
+R.id.textview_option_four -> {  
+textViewOptionFour?.let{  
+selectedOptionView(it, 4)  
+}  
+}  
+}  
+}
+```
 
+add onClick to these TextViews
+```kotlin
 
+```
 
 
 
