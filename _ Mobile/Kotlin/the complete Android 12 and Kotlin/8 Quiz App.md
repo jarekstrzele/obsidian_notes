@@ -477,43 +477,67 @@ override fun onClick(p0: View?){
 ```
 
 
-#### some refactoring
-- add "global" variable :
+#### Add some code to the `QuizQuestionsActivity`
 ```kotlin
   
 class QuizQuestionsActivity : AppCompatActivity(), View.OnClickListener {  
   
-    private var mCurrentPosition: Int=1  
-    private var mQuestionsList: ArrayList<Question>?= null  
-    private var mSelectedOptionPosition: Int = 0
-
-...
-```
-
-- inside the `onCreate` change `val questionsList = Constants.getQuestions()` into global variable  
-
-- in the same file extract a function by refactoring and call this new function inside the `onCreate()` and change `currentPositon` into `mCurrentPosition`:
-```kotlin
+private var mCurrentPosition: Int = 1  
+private var mQuestionsList: ArrayList<Question>?= null  
+private var mSelectedOptionPosition: Int = 0  
+  
+private var progressBar: ProgressBar? = null  
+private var textViewProgress: TextView? = null  
+private var textViewQuestion: TextView? = null  
+private var imageView: ImageView? = null  
+  
+private var textViewOptionOne: TextView? =null  
+private var textViewOptionTwo: TextView? =null  
+private var textViewOptionThree: TextView? =null  
+private var textViewOptionFour: TextView? =null  
+  
+private var btnSubmit: Button? = null  
+  
+override fun onCreate(savedInstanceState: Bundle?) {  
+super.onCreate(savedInstanceState)  
+setContentView(R.layout.activity_quiz_questions)  
+  
+progressBar = findViewById(R.id.progress_bar)  
+textViewProgress = findViewById(R.id.text_view_progress)  
+textViewQuestion = findViewById(R.id.text_view_question)  
+imageView = findViewById(R.id.image_view_image)  
+textViewOptionOne = findViewById(R.id.textview_option_one)  
+textViewOptionTwo = findViewById(R.id.textview_option_two)  
+textViewOptionThree = findViewById(R.id.textview_option_three)  
+textViewOptionFour = findViewById(R.id.textview_option_four)  
+btnSubmit = findViewById(R.id.btn_submit)  
+  
+mQuestionsList = Constants.getQuestions()  
+  
+setQuestion()  
+}  
+  
 private fun setQuestion() {  
   
-    mCurrentPosition = 1  
-    val question: Question = mQuestionsList!![mCurrentPosition - 1]  
-    imageView?.setImageResource(question.image)  
-    progressBar?.progress = mCurrentPosition  
-    textViewProgress?.text = "$mCurrentPosition/${progressBar?.max}"  
-    textViewQuestion?.text = question.question  
-    textViewOptionOne?.text = question.optionOne  
-    textViewOptionTwo?.text = question.optionTwo  
-    textViewOptionThree?.text = question.optionThree  
-    textViewOptionFour?.text = question.optionFour  
+  
+val question: Question = mQuestionsList!![mCurrentPosition - 1]  
+  
+imageView?.setImageResource(question.image)  
+progressBar?.progress = mCurrentPosition  
+textViewProgress?.text = "$mCurrentPosition/${progressBar?.max}"  
+  
+textViewQuestion?.text = question.question  
+textViewOptionOne?.text = question.optionOne  
+textViewOptionTwo?.text = question.optionTwo  
+textViewOptionThree?.text = question.optionThree  
+textViewOptionFour?.text = question.optionFour  
 
-	// if it is the last question button will have text FINISH
-	if(mCurrentPosition == mQuestionsList!!.size){  
-    btnSubmit?.text = "FINISH"  
-} else {  
-    btnSubmit?.text = "SUBMIT"  
-}
-
+if(mCurrent)
+}  
+  
+override fun onClick(p0: View?) {  
+TODO("Not yet implemented")  
+}  
 }
 ```
 
