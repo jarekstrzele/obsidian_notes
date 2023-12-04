@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "_ część dalsza od podstaw do app WPF",
+      "path": "_ Desktop/WPF/od Podstaw do app w WPF/_ część dalsza od podstaw do app WPF.md"
+    },
+    {
+      "basename": "2 Aplikacje WPF",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/2 Aplikacje WPF.md"
+    },
+    {
+      "basename": "3 Układ komponentów",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/3 Układ komponentów.md"
+    },
+    {
+      "basename": "4.3 DataContext oraz interfejs INotifyPropertyChanged",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/4.3 DataContext oraz interfejs INotifyPropertyChanged.md"
+    },
+    {
       "basename": "4 Tworzenie aplikacji WPF",
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/4 Tworzenie aplikacji WPF.md"
     },
@@ -157,10 +173,6 @@
       "path": "R U S T/Bard - Rust/_ rUST WITH bARD.md"
     },
     {
-      "basename": "2 Aplikacje WPF",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/2 Aplikacje WPF.md"
-    },
-    {
       "basename": "_ the complete Android Kotlin",
       "path": "_ Mobile/Kotlin/the complete Android Kotlin/_ the complete Android Kotlin.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "7 Express JS",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md"
-    },
-    {
-      "basename": "6 Zewnętrzne moduły",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/6 Zewnętrzne moduły.md"
-    },
-    {
-      "basename": "5 Jak Działa NodeJS",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/5 Jak Działa NodeJS.md"
-    },
-    {
-      "basename": "_ 0 NodeJS - zostań fullstack",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md"
     }
   ],
   "omittedPaths": [],
