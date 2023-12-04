@@ -541,7 +541,7 @@ TODO("Not yet implemented")
 }
 ```
 
-### add a new function
+### add a new function `defaultOptionsView`
 when a option will be clicked other become gray
 
 
