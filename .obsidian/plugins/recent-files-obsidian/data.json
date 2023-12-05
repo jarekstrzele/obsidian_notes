@@ -1,6 +1,86 @@
 {
   "recentFiles": [
     {
+      "basename": "3 Functions-Methods and how to save time",
+      "path": "C Sharp/Complete CSharp MasterClass/3 Functions-Methods and how to save time.md"
+    },
+    {
+      "basename": "4. Making Decisions",
+      "path": "C Sharp/Complete CSharp MasterClass/4. Making Decisions.md"
+    },
+    {
+      "basename": "6. OOP",
+      "path": "C Sharp/Complete CSharp MasterClass/6. OOP.md"
+    },
+    {
+      "basename": "7. Collections",
+      "path": "C Sharp/Complete CSharp MasterClass/7. Collections.md"
+    },
+    {
+      "basename": "1.3 First app",
+      "path": "Flutter/Flutter - 2022 a complete guide/1.3 First app.md"
+    },
+    {
+      "basename": "1.2. Flutter Achitecture",
+      "path": "Flutter/Flutter - 2022 a complete guide/1.2. Flutter Achitecture.md"
+    },
+    {
+      "basename": "1.1 Flutter - what is it",
+      "path": "Flutter/Flutter - 2022 a complete guide/1.1 Flutter - what is it.md"
+    },
+    {
+      "basename": "_ 0 Start",
+      "path": "Flutter/Flutter - 2022 a complete guide/_ 0 Start.md"
+    },
+    {
+      "basename": "3.4 Socket programming",
+      "path": "Flutter/Dart/3.4 Socket programming.md"
+    },
+    {
+      "basename": "3.5 Database programming",
+      "path": "Flutter/Dart/3.5 Database programming.md"
+    },
+    {
+      "basename": "Dart&Vim",
+      "path": "Flutter/Dart/Dart&Vim.md"
+    },
+    {
+      "basename": "Dart Vim",
+      "path": "Flutter/Dart/Dart Vim.md"
+    },
+    {
+      "basename": "3.1 Dart Async Programming",
+      "path": "Flutter/Dart/3.1 Dart Async Programming.md"
+    },
+    {
+      "basename": "2.6 File system",
+      "path": "Flutter/Dart/2.6 File system.md"
+    },
+    {
+      "basename": "2.4. Abstraction",
+      "path": "Flutter/Dart/2.4. Abstraction.md"
+    },
+    {
+      "basename": "2.3. Polymorphism",
+      "path": "Flutter/Dart/2.3. Polymorphism.md"
+    },
+    {
+      "basename": "2.1 - Classes",
+      "path": "Flutter/Dart/2.1 - Classes.md"
+    },
+    {
+      "basename": "1.4 - Dart Flow Control",
+      "path": "Flutter/Dart/1.4 - Dart Flow Control.md"
+    },
+    {
+      "basename": "1.3 - Dart Collections",
+      "path": "Flutter/Dart/1.3 - Dart Collections.md"
+    },
+    {
+      "basename": "_ 3 Dart Advance",
+      "path": "Flutter/Dart/_ 3 Dart Advance.md"
+    },
+    {
       "basename": "I 4 The Meat of Rust",
       "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 4 The Meat of Rust.md"
     },
@@ -119,86 +199,6 @@
     {
       "basename": "Tkinter Pomidoro",
       "path": "_ Desktop/Python/Tkinter/Tkinter Pomidoro.md"
-    },
-    {
-      "basename": "Icons, Images, Exit Button",
-      "path": "_ Desktop/Python/Tkinter/Icons, Images, Exit Button.md"
-    },
-    {
-      "basename": "selector",
-      "path": "_ Mobile/Kotlin/selector.md"
-    },
-    {
-      "basename": "3 Functions-Methods and how to save time",
-      "path": "C Sharp/Complete CSharp MasterClass/3 Functions-Methods and how to save time.md"
-    },
-    {
-      "basename": "2. DataTypes and Variables",
-      "path": "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md"
-    },
-    {
-      "basename": "_ CSHarp Complete Masterclass",
-      "path": "C Sharp/Complete CSharp MasterClass/_ CSHarp Complete Masterclass.md"
-    },
-    {
-      "basename": "3 Podstawy tworzenia aplikacji",
-      "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md"
-    },
-    {
-      "basename": "2 Node Package Manager",
-      "path": "_ WEB/N_O_D_E/Mosh Node/2 Node Package Manager.md"
-    },
-    {
-      "basename": "1.12 Indeksery",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.12 Indeksery.md"
-    },
-    {
-      "basename": "MongoDB Installation on Sys, on Docker",
-      "path": "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md"
-    },
-    {
-      "basename": "mongoDB_general_view.excalidraw",
-      "path": "Excalidraw/mongoDB_general_view.excalidraw.md"
-    },
-    {
-      "basename": "_ MongoDB Complete",
-      "path": "_DataBase/MongoDB/MongoDB - The Complete 2023/_ MongoDB Complete.md"
-    },
-    {
-      "basename": "_ 0 Start",
-      "path": "_DataBase/MongoDB/Master MongoDB/_ 0 Start.md"
-    },
-    {
-      "basename": "1 - Into MongoDB Cloud",
-      "path": "_DataBase/MongoDB/Master MongoDB/1 - Into MongoDB Cloud.md"
-    },
-    {
-      "basename": "_ Learn MongoDB in 1 hour",
-      "path": "_DataBase/MongoDB/Learn MongoDB in 1 hour/_ Learn MongoDB in 1 hour.md"
-    },
-    {
-      "basename": "8 - Advanced MongoDb Features",
-      "path": "_DataBase/MongoDB/Introduction to the MongoDB/8 - Advanced MongoDb Features.md"
-    },
-    {
-      "basename": "7 - Updating Documents",
-      "path": "_DataBase/MongoDB/Introduction to the MongoDB/7 - Updating Documents.md"
-    },
-    {
-      "basename": "6 - Finding Documents",
-      "path": "_DataBase/MongoDB/Introduction to the MongoDB/6 - Finding Documents.md"
-    },
-    {
-      "basename": "5 - Collection Creation and Documents Insertion",
-      "path": "_DataBase/MongoDB/Introduction to the MongoDB/5 - Collection Creation and Documents Insertion.md"
-    },
-    {
-      "basename": "4 - Data Formats in MongoDb",
-      "path": "_DataBase/MongoDB/Introduction to the MongoDB/4 - Data Formats in MongoDb.md"
-    },
-    {
-      "basename": "_ Intro to MongoDB",
-      "path": "_DataBase/MongoDB/Introduction to the MongoDB/_ Intro to MongoDB.md"
     }
   ],
   "omittedPaths": [],
