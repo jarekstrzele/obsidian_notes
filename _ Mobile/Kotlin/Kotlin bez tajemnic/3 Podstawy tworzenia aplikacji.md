@@ -160,18 +160,7 @@ odpowiedzialna za dodanie fragmentu do interfejsu użytkownika aplikacji:
 
 
 ## MVVM w Androidzie
-
-1. TWORZENIE VIEWMODELS - stworzymy `viewmodele` dla `HomeFragment` i `MainActivity`:
-	- `new>kotlin class> <nazwa jak klasa, której służą z sufiksem ViewModel>` - np. `HomeFragmentViewModel` albo `MainActivityViewModel`
-	- ta nowa klasa musi dziedziczyć z `ViewModels()`
-2. PORZĄDKI - aby uporządkować pliki:
-	- utwórz folder `home` z zawartością:
-		- `HomeFragment`
-		- `HomeFragmentViewModel`
-	- utwórz folder `main` z zawartością:
-		- `MainActivity`
-		- `MainActivityViewModel`
-3. DODAWANIE - dodaj do `build.gradle` biblioteki :
+0. DODAWANIE - dodaj do `build.gradle` biblioteki :
 	- `fragment` - `implementation 'androidx.fragment-ktx:.4.0' `
 	- `lifecycle` - 
 		- `implementation 'androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.0'`
@@ -179,8 +168,20 @@ odpowiedzialna za dodanie fragmentu do interfejsu użytkownika aplikacji:
 		- `implementation 'androidx.lifecycle:lifecycle-runtime-ktx:2.4.0'`
 	zsynchronizuj projekt
 
+1. TWORZENIE VIEWMODELS - stworzymy `viewmodele` dla `HomeFragment` i `MainActivity`:
+	- `new>kotlin class> <nazwa jak klasa, której służą z sufiksem ViewModel>` - np. `HomeFragmentViewModel` albo `MainActivityViewModel`
+	- ta nowa klasa musi dziedziczyć z `ViewModel()`
+2. PORZĄDKI - aby uporządkować pliki:
+	- utwórz folder `home` z zawartością `new>package> <packagename>.home`:
+		- `HomeFragment`
+		- `HomeFragmentViewModel`
+	- utwórz folder `main` z zawartością:
+		- `MainActivity`
+		- `MainActivityViewModel`
+
+
 4. PODPIĘCIE  `viewmodels` do ich `view`:
-	- w `MainActivity` dodaj "globalną"/atrybut obiektu zmienną `private val viewModel: MainActivityViewModel by viewModels` (*by viewModel* stworzy instancję klasy `MainAcitivityViewModel`, oczywiście `viewModels` trzeba doimportować)
+	- w `MainActivity` dodaj "globalną"/atrybut obiektu zmienną `private val viewModel: MainActivityViewModel by viewModels` (*by viewModels* stworzy instancję klasy `MainAcitivityViewModel`, oczywiście `viewModels` trzeba doimportować)
 	- w `HomeFragment` dodaj "globalną"/atrybut obiektu zmienną `private val viewModel: HomeFragmentViewModel by viewModels` (*by viewModel* stworzy instancję klasy `HomeFragmentViewModel`, oczywiście `viewModels` trzeba doimportować)
 
 5.  PODZIAŁ odpowiedzialności
