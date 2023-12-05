@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Desktop/WPF/od Podstaw do app w WPF/8 Aplikacje WPF.md",
+                "file": "_ Mobile/Android Kurs Tworzenia APlikacji/_ 0 Android Kurs Tworzenia Aplikacji.md",
                 "mode": "source",
                 "source": false
               }
@@ -72,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "react",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +105,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -125,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Desktop/WPF/od Podstaw do app w WPF/8 Aplikacje WPF.md",
+                "file": "_ Mobile/Android Kurs Tworzenia APlikacji/_ 0 Android Kurs Tworzenia Aplikacji.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -142,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Desktop/WPF/od Podstaw do app w WPF/8 Aplikacje WPF.md",
+                "file": "_ Mobile/Android Kurs Tworzenia APlikacji/_ 0 Android Kurs Tworzenia Aplikacji.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Desktop/WPF/od Podstaw do app w WPF/8 Aplikacje WPF.md"
+                "file": "_ Mobile/Android Kurs Tworzenia APlikacji/_ 0 Android Kurs Tworzenia Aplikacji.md"
               }
             }
           },
@@ -222,8 +223,9 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "d66c46a7556ec2c5",
+  "active": "71e065b19cb47489",
   "lastOpenFiles": [
+    "_ Desktop/WPF/od Podstaw do app w WPF/8 Aplikacje WPF.md",
     "C Sharp/Complete CSharp MasterClass/3 Functions-Methods and how to save time.md",
     "C Sharp/Complete CSharp MasterClass/4. Making Decisions.md",
     "C Sharp/Complete CSharp MasterClass/6. OOP.md",
@@ -249,7 +251,6 @@
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 6 Invaders Project.md",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 3 The Heart of Rust.md",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 2 Primitive Types & Control Flow.md",
-    "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 1 Fundamentals.md",
     "_ Desktop/WPF/od Podstaw do app w WPF",
     "_ Desktop/Python/Tkinter/ttkbootstrap Python Tkinter",
     "_DataBase/MongoDB/Learn MongoDB in 1 hour",
