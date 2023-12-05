@@ -183,8 +183,21 @@ odpowiedzialna za dodanie fragmentu do interfejsu użytkownika aplikacji:
 	- w `MainActivity` dodaj "globalną"/atrybut obiektu zmienną `private val viewModel: MainActivityViewModel by viewModels` (*by viewModel* stworzy instancję klasy `MainAcitivityViewModel`, oczywiście `viewModels` trzeba doimportować)
 	- w `HomeFragment` dodaj "globalną"/atrybut obiektu zmienną `private val viewModel: HomeFragmentViewModel by viewModels` (*by viewModel* stworzy instancję klasy `HomeFragmentViewModel`, oczywiście `viewModels` trzeba doimportować)
 
-5. 
+5.  PODZIAŁ odpowiedzialności
+	- widok wyświetla dane, *viewModel* zajmuje się logiką biznesową
+	- `viewModel` będzie zarządzał zawartością pola tekstowego 
+	- `fragment` będzie wyświetlał przekazaną informację
+dodatkowy kod:
+- w layoucie `fragment_home.xml` `TextView` nadajemy idy `my_textview`
+- w `HomeFragment.kt` zmieniamy
+```kotlin
+...
 
+onCreateView(....){
+	val inflater.inflate(R.layout.fragment_home, containte, false)
+
+}
+```
 
 
 
