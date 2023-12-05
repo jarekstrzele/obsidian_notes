@@ -142,3 +142,37 @@ odpowiedzialna za dodanie fragmentu do interfejsu użytkownika aplikacji:
 	2. `add(R.id.fragment_container, HomeFragment())`: Dodaje nowy fragment do kontenera określonego przez identyfikator `R.id.fragment_container`. `HomeFragment()` tworzy nową instancję fragmentu `HomeFragment`, która będzie dodana do kontenera.
 	3. `commit()`: Potwierdza transakcję, co oznacza, że wszystkie operacje dodawania fragmentu zostaną zatwierdzone i zastosowane.
 
+
+
+------
+# View models
+
+## **MVVM**
+- widok/*view* to w naszym przypadku fragment i aktywność:
+	- odpowiadają za wyświetlanie treści
+	- odpowiadają za odbieranie akcji użytkownika
+	- jest połączony z *view model*
+- *view model* :
+	- tu zachodzi cała logika biznesowa:
+		- np. pobieranie informacji z modelu
+		- np. zapisywanie zmodyfikowanych danych do repozytorium
+
+
+
+## MVVM w Androidzie
+- stworzymy `viewmodele` dla `HomeFragment` i `MainActivity`
+- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
