@@ -160,8 +160,24 @@ odpowiedzialna za dodanie fragmentu do interfejsu użytkownika aplikacji:
 
 
 ## MVVM w Androidzie
-- stworzymy `viewmodele` dla `HomeFragment` i `MainActivity`
-- 
+
+- stworzymy `viewmodele` dla `HomeFragment` i `MainActivity`:
+	- `new>kotlin class> <nazwa jak klasa, której służą z sufiksem ViewModel>` - np. `HomeFragmentViewModel` albo `MainActivityViewModel`
+	- ta nowa klasa musi dziedziczyć z `ViewModel()`
+- aby uporządkować pliki:
+	- utwórz folder `home` z zawartością:
+		- `HomeFragment`
+		- `HomeFragmentViewModel`
+	- utwórz folder `main` z zawartością:
+		- `MainActivity`
+		- `MainActivityViewModel`
+- dodaj do `build.gradle` biblioteki :
+	- `fragment` - `implementation 'androidx.fragment-ktx:.4.0' `
+	- `lifecycle` - 
+		- `implementation 'androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.0'`
+		- `implementation 'androidx.lifecycle:lifecycle-livedata-ktx:2.4.0'`
+		- `implementation 'androidx.lifecycle:lifecycle-runtime-ktx:2.4.0'`
+	zsynchronizuj projekt
 
 
 
