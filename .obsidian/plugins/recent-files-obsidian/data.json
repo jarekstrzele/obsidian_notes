@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "I 4 The Meat of Rust",
+      "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 4 The Meat of Rust.md"
+    },
+    {
       "basename": "I 3 The Heart of Rust",
       "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 3 The Heart of Rust.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_ Intro to MongoDB",
       "path": "_DataBase/MongoDB/Introduction to the MongoDB/_ Intro to MongoDB.md"
-    },
-    {
-      "basename": "3 MondoDb SHELL",
-      "path": "_DataBase/MongoDB/Master MongoDB/3 MondoDb SHELL.md"
     }
   ],
   "omittedPaths": [],
