@@ -181,8 +181,8 @@ odpowiedzialna za dodanie fragmentu do interfejsu użytkownika aplikacji:
 
 
 4. PODPIĘCIE  `viewmodels` do ich `view`:
-	- w `MainActivity` dodaj "globalną"/atrybut obiektu zmienną `private val viewModel: MainActivityViewModel by viewModels` (*by viewModels* stworzy instancję klasy `MainAcitivityViewModel`, oczywiście `viewModels` trzeba doimportować)
-	- w `HomeFragment` dodaj "globalną"/atrybut obiektu zmienną `private val viewModel: HomeFragmentViewModel by viewModels` (*by viewModel* stworzy instancję klasy `HomeFragmentViewModel`, oczywiście `viewModels` trzeba doimportować)
+	- w `MainActivity` dodaj "globalną"/atrybut obiektu zmienną `private val viewModel: MainActivityViewModel by viewModels` (*by viewModels* stworzy instancję klasy `MainAcitivityViewModel`, oczywiście `viewModels` trzeba do importować)
+	- w `HomeFragment` dodaj "globalną"/atrybut obiektu zmienną `private val viewModel: HomeFragmentViewModel by viewModels` (*by viewModel* stworzy instancję klasy `HomeFragmentViewModel`, oczywiście `viewModels` trzeba do importować)
 
 5.  PODZIAŁ odpowiedzialności
 	- widok wyświetla dane, *viewModel* zajmuje się logiką biznesową
@@ -195,6 +195,7 @@ dodatkowy kod:
 ...
 
 onCreateView(....){
+
 	val view = inflater.inflate(R.layout.fragment_home, containte, false)
 
 	val myTextView = view.findViewById<TExtView>(R.id.my_textview)
