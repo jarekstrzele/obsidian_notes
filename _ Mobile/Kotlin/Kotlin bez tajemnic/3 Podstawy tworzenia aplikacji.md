@@ -188,19 +188,36 @@ odpowiedzialna za dodanie fragmentu do interfejsu użytkownika aplikacji:
 	- `viewModel` będzie zarządzał zawartością pola tekstowego 
 	- `fragment` będzie wyświetlał przekazaną informację
 dodatkowy kod:
-- w layoucie `fragment_home.xml` `TextView` nadajemy idy `my_textview`
+- w layoucie `fragment_home.xml` `TextView` nadajemy id  `my_textview`
 - w `HomeFragment.kt` zmieniamy
 ```kotlin
 ...
 
 onCreateView(....){
-	val inflater.inflate(R.layout.fragment_home, containte, false)
+	val view = inflater.inflate(R.layout.fragment_home, containte, false)
+
+	val myTextView = view.findViewById<TExtView>(R.id.my_textview)
+	//myTextView.text = "a new text from fragment" // jest niezgodny ze wzorcem MVVM, bo to viewmodel ma zarządzać zawartością pola text
+	myTextView.text = viewModel.getText()
+	
+	
+	return view
 
 }
 ```
 
+```kotlin
+class HomeFragmentViewModel: ViewModel(){
+	//fun getText(): String {
+	//	return "a new text from viewmodel"
+	//} // równoważna jej funkcja:
+	fun getText()= "a new text from viewmodel"
 
+}
+```
 
+--------
+# View binding
 
 
 
