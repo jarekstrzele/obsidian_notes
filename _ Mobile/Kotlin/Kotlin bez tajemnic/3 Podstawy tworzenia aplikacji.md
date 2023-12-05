@@ -105,7 +105,7 @@ class HomeFragment : Fragment() {
 > >	`false` oznacza, że widok nie będzie dołączony do rodzica automatycznie (to jest zadanie aktywności lub fragmentu nadrzędnego).
 
 
-#### dołącz fragment do `activity_main.xmk`
+#### dołącz fragment do `activity_main.xml`
 usuń `TextView`
 w jego miejsce dodaj:
 - nadaj id temu `FragmentContainerView`
