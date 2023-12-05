@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Rusz Głową. Android. Programowania aplikacji",
+      "path": "_ Mobile/Rusz Głową. Android. Programowania aplikacji.md"
+    },
+    {
       "basename": "_ 0 Android Kurs Tworzenia Aplikacji",
       "path": "_ Mobile/Android Kurs Tworzenia APlikacji/_ 0 Android Kurs Tworzenia Aplikacji.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Tkinter",
       "path": "_ Desktop/Python/Tkinter/Tkinter.md"
-    },
-    {
-      "basename": "Widżety proste TkInter",
-      "path": "_ Desktop/Python/Tkinter/Widżety proste TkInter.md"
     }
   ],
   "omittedPaths": [],
