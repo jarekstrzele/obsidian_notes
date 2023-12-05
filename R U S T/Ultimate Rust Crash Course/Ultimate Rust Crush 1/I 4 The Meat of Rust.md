@@ -330,7 +330,7 @@ for i in x {println!("{}", i) ;} //print 5
 definition
 ```rust
 #[must_use] //it makes a compiler warning to sulently drop a result
-enum Result<T,E<{
+enum Result<T,E>{
 	Ok(T),
 	Err(E),
 }
