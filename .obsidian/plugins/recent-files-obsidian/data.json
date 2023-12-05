@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Rusz Głową. Android. Programowania aplikacji",
-      "path": "_ Mobile/Rusz Głową. Android. Programowania aplikacji.md"
+      "basename": "2. Tworzenie interaktywnych aplikacji",
+      "path": "_ Mobile/Rusz Głową Android. Programowanie aplikacji/2. Tworzenie interaktywnych aplikacji.md"
+    },
+    {
+      "basename": "_ Rusz Głową Android. Programowanie aplikacji",
+      "path": "_ Mobile/Rusz Głową Android. Programowanie aplikacji/_ Rusz Głową Android. Programowanie aplikacji.md"
+    },
+    {
+      "basename": "1. Skok na głęboką wodę",
+      "path": "_ Mobile/Rusz Głową Android. Programowanie aplikacji/1. Skok na głęboką wodę.md"
     },
     {
       "basename": "_ 0 Android Kurs Tworzenia Aplikacji",
@@ -191,14 +199,6 @@
     {
       "basename": "8 Quiz App",
       "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md"
-    },
-    {
-      "basename": "Tkinter 0",
-      "path": "_ Desktop/Python/Tkinter/Tkinter 0.md"
-    },
-    {
-      "basename": "Tkinter",
-      "path": "_ Desktop/Python/Tkinter/Tkinter.md"
     }
   ],
   "omittedPaths": [],

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Rusz Głową. Android. Programowania aplikacji.md",
+                "file": "_ Mobile/Rusz Głową Android. Programowanie aplikacji/2. Tworzenie interaktywnych aplikacji.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Rusz Głową. Android. Programowania aplikacji.md",
+                "file": "_ Mobile/Rusz Głową Android. Programowanie aplikacji/2. Tworzenie interaktywnych aplikacji.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Rusz Głową. Android. Programowania aplikacji.md",
+                "file": "_ Mobile/Rusz Głową Android. Programowanie aplikacji/2. Tworzenie interaktywnych aplikacji.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Rusz Głową. Android. Programowania aplikacji.md"
+                "file": "_ Mobile/Rusz Głową Android. Programowanie aplikacji/2. Tworzenie interaktywnych aplikacji.md"
               }
             }
           },
@@ -224,8 +224,11 @@
   },
   "active": "d66c46a7556ec2c5",
   "lastOpenFiles": [
+    "_ Mobile/Rusz Głową Android. Programowanie aplikacji/_ Rusz Głową Android. Programowanie aplikacji.md",
+    "_ Mobile/Rusz Głową Android. Programowanie aplikacji/2. Tworzenie interaktywnych aplikacji.md",
+    "_ Mobile/Rusz Głową Android. Programowanie aplikacji/1. Skok na głęboką wodę.md",
+    "_ Mobile/Rusz Głową Android. Programowanie aplikacji",
     "_ Mobile/Android Kurs Tworzenia APlikacji/_ 0 Android Kurs Tworzenia Aplikacji.md",
-    "_ Mobile/Rusz Głową. Android. Programowania aplikacji.md",
     "_ Desktop/WPF/od Podstaw do app w WPF/8 Aplikacje WPF.md",
     "C Sharp/Complete CSharp MasterClass/3 Functions-Methods and how to save time.md",
     "C Sharp/Complete CSharp MasterClass/4. Making Decisions.md",
@@ -248,8 +251,6 @@
     "Flutter/Dart/1.3 - Dart Collections.md",
     "Flutter/Dart/_ 3 Dart Advance.md",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 4 The Meat of Rust.md",
-    "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 5 Final Lectures.md",
-    "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 6 Invaders Project.md",
     "_ Desktop/WPF/od Podstaw do app w WPF",
     "_ Desktop/Python/Tkinter/ttkbootstrap Python Tkinter",
     "_DataBase/MongoDB/Learn MongoDB in 1 hour",
@@ -261,7 +262,6 @@
     "R U S T/Bard - Rust",
     "canvas_moduls_rust.canvas",
     "HASKELL/z Barda",
-    "_ Desktop/WPF/CSharp WPF xaml youtube",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
