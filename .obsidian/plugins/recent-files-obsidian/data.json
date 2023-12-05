@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "3 Podstawy tworzenia aplikacji",
+      "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md"
+    },
+    {
+      "basename": "_ Kotlin bez tajemnic",
+      "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/_ Kotlin bez tajemnic.md"
+    },
+    {
+      "basename": "_ 0 Android Kurs Tworzenia Aplikacji",
+      "path": "_ Mobile/Android Kurs Tworzenia APlikacji/_ 0 Android Kurs Tworzenia Aplikacji.md"
+    },
+    {
       "basename": "2. Tworzenie interaktywnych aplikacji",
       "path": "_ Mobile/Rusz Głową Android. Programowanie aplikacji/2. Tworzenie interaktywnych aplikacji.md"
     },
@@ -11,10 +23,6 @@
     {
       "basename": "1. Skok na głęboką wodę",
       "path": "_ Mobile/Rusz Głową Android. Programowanie aplikacji/1. Skok na głęboką wodę.md"
-    },
-    {
-      "basename": "_ 0 Android Kurs Tworzenia Aplikacji",
-      "path": "_ Mobile/Android Kurs Tworzenia APlikacji/_ 0 Android Kurs Tworzenia Aplikacji.md"
     },
     {
       "basename": "8 Aplikacje WPF",
@@ -191,14 +199,6 @@
     {
       "basename": "_  Introduction Python Tkinter GUI Design Using ttkbootstrap",
       "path": "_ Desktop/Python/Tkinter/ttkbootstrap Python Tkinter/_  Introduction Python Tkinter GUI Design Using ttkbootstrap.md"
-    },
-    {
-      "basename": "1.13. TYPY Generyczne",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.13. TYPY Generyczne.md"
-    },
-    {
-      "basename": "8 Quiz App",
-      "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md"
     }
   ],
   "omittedPaths": [],
