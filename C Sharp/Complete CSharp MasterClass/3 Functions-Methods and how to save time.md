@@ -2,11 +2,19 @@
 
 syntax
 ```
-<access specifier> <return type> <method name> (paramas)
+<access specifier> (static) <return type> <method name> (paramas)
 {
 	body 
 }
 ```
+
+#### one method one thing to do
+
+
+# `try catch finnally`
+
+
+
 
 
 

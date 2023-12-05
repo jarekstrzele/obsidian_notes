@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C Sharp/Complete CSharp MasterClass/3 Functions-Methods and how to save time.md",
+                "file": "_ Desktop/WPF/od Podstaw do app w WPF/8 Aplikacje WPF.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -143,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C Sharp/Complete CSharp MasterClass/3 Functions-Methods and how to save time.md",
+                "file": "_ Desktop/WPF/od Podstaw do app w WPF/8 Aplikacje WPF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C Sharp/Complete CSharp MasterClass/3 Functions-Methods and how to save time.md"
+                "file": "_ Desktop/WPF/od Podstaw do app w WPF/8 Aplikacje WPF.md"
               }
             }
           },
@@ -223,8 +222,9 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "19f6d663b032bbda",
+  "active": "d66c46a7556ec2c5",
   "lastOpenFiles": [
+    "C Sharp/Complete CSharp MasterClass/3 Functions-Methods and how to save time.md",
     "C Sharp/Complete CSharp MasterClass/4. Making Decisions.md",
     "C Sharp/Complete CSharp MasterClass/6. OOP.md",
     "C Sharp/Complete CSharp MasterClass/7. Collections.md",
@@ -250,7 +250,6 @@
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 3 The Heart of Rust.md",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 2 Primitive Types & Control Flow.md",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 1 Fundamentals.md",
-    "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/_ Ultimate Rust Crash Course 1.md",
     "_ Desktop/WPF/od Podstaw do app w WPF",
     "_ Desktop/Python/Tkinter/ttkbootstrap Python Tkinter",
     "_DataBase/MongoDB/Learn MongoDB in 1 hour",
