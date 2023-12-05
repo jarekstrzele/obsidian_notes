@@ -163,7 +163,7 @@ odpowiedzialna za dodanie fragmentu do interfejsu użytkownika aplikacji:
 
 1. TWORZENIE VIEWMODELS - stworzymy `viewmodele` dla `HomeFragment` i `MainActivity`:
 	- `new>kotlin class> <nazwa jak klasa, której służą z sufiksem ViewModel>` - np. `HomeFragmentViewModel` albo `MainActivityViewModel`
-	- ta nowa klasa musi dziedziczyć z `ViewModel()`
+	- ta nowa klasa musi dziedziczyć z `ViewModels()`
 2. PORZĄDKI - aby uporządkować pliki:
 	- utwórz folder `home` z zawartością:
 		- `HomeFragment`
