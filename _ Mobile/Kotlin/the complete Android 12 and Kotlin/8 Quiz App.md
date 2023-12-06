@@ -361,7 +361,11 @@ change main layout for `ScrollView` and add inside it  `LinearLayout`
     </LinearLayout>  
 </ScrollView>
 ```
+**tryb nieokreślony** - `indeterminate=true`
+> Gdy `android:indeterminate` jest ustawione na `true`, pasek postępu nie reprezentuje konkretnej ilości postępu, a jedynie wskazuje, że coś się dzieje (np. proces ładowania), ale nie jest znane, ile jeszcze trwa.
 
+**tryb określony** `indeterminate=false`
+>Gdy `android:indeterminate` jest ustawione na `false`, pasek postępu reprezentuje konkretną ilość postępu, gdzie `android:progress` określa aktualny postęp, a `android:max` określa maksymalną wartość postępu.
 
 ## widgets for 4 possible answers
 
@@ -555,7 +559,7 @@ you can test it calling this function after `setQuestion()`
 private fun defaultOptionsView(){  
 val options = ArrayList<TextView?>();  
 textViewOptionOne.let{  
-options.add(0, it)  
+options.add(0, it)  // add(index, element)
 }  
 textViewOptionTwo.let{  
 options.add(1, it)  
@@ -584,6 +588,23 @@ R.drawable.default_option_border_bg
 
 
 #### `selectedOptionView()`
+```kotlin
+private fun selectedOptionView(textview: TextView, selectedOptionNum : Int){  
+defaultOptionsView() // set buttons/textView to their normal state  
+mSelectedOptionPosition = selectedOptionNum  
+textview.setTextColor(Color.parseColor("#363a43"))  
+textview.setTypeface(textview.typeface, Typeface.BOLD)  
+textview.background = ContextCompat.getDrawable(  
+this,  
+R.drawable.selected_option_border_bg  
+// R.drawable.selected_option_border_bg  
+)  
+  
+}
+```
+
+
+####  `onClick()`
  ```kotlin
  override fun onClick(view: View?) {  
 when(view?.id){  
@@ -618,7 +639,7 @@ R.id.btn_submit -> {
 ```
 
 add onClick to these TextViews
-inside `onCreate` method 
+inside `onCreate` method in `Qu`
 ```kotlin
 mQuestionsList = Constants.getQuestions()  
   
