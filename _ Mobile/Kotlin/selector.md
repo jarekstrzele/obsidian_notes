@@ -16,7 +16,8 @@ Przykładowy plik `border_gb.xml` z `<selector>` może wyglądać mniej więcej 
 	<shape android:shape="rectangle">             
 		<solid android:color="#FF4081" />            
 		<corners android:radius="8dp" />         
-	</shape>     </item>     
+	</shape>
+</item>     
 
 <item android:state_enabled="true">         
 <!-- Ustawienia dla stanu normalnego -->         

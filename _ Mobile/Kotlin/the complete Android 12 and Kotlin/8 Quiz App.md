@@ -387,7 +387,7 @@ you are in `<TextView>`  > add `android::background`
 >`android:background="@drawable/default_option_border_bg` (the name *default_op...* is arbitrary)
 set the coursor on `@drawable/default ...` on background and allow IDE to make a `defult_option ... `.`xml`  with *create resource .... *
 
-#### [[selector]]  
+#### see also -> [[selector]]  
 ```xml
 <selector> .... </selector>
 ```
@@ -515,6 +515,7 @@ btnSubmit = findViewById(R.id.btn_submit)
 mQuestionsList = Constants.getQuestions()  
   
 setQuestion()  
+
 }  
   
 private fun setQuestion() {  
@@ -532,11 +533,14 @@ textViewOptionTwo?.text = question.optionTwo
 textViewOptionThree?.text = question.optionThree  
 textViewOptionFour?.text = question.optionFour  
 
-if(mCurrent)
-}  
+if (mCurrentPosition == mQuestionsList!!.size){  
+btnSubmit?.text="FINISH"  
+} else {  
+btnSubmit?.text="SUBMIT"  
+}
   
 override fun onClick(p0: View?) {  
-TODO("Not yet implemented")  
+	TODO("Not yet implemented")  
 }  
 }
 ```
