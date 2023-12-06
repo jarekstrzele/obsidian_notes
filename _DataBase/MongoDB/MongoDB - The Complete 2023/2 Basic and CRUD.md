@@ -48,7 +48,9 @@ MongoDB use BSON to store data
 but
 `db.flightData.insertOne({<json>})`
 
-MongoDB drivers convert JSON to BSON (binary data) - O
+MongoDB drivers convert JSON to BSON (binary data) -`ObjectId("efewfwef")`  it is not valid JSON value 
+
+in `insertOne` you can omit the  `""` for attribute
 ## see documents
 `db.flightData.find()` show all documents in the collection `flightData`
 
