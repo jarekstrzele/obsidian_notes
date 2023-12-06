@@ -515,7 +515,7 @@ btnSubmit = findViewById(R.id.btn_submit)
 mQuestionsList = Constants.getQuestions()  
   
 setQuestion()  
-
+//defaultOptionsView() //for testing purpose
 }  
   
 private fun setQuestion() {  
