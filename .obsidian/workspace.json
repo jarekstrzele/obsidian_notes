@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md",
+                "file": "_DataBase/MongoDB/MongoDB - The Complete 2023/2 Basic and CRUD.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md",
+                "file": "_DataBase/MongoDB/MongoDB - The Complete 2023/2 Basic and CRUD.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -155,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md",
+                "file": "_DataBase/MongoDB/MongoDB - The Complete 2023/2 Basic and CRUD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md"
+                "file": "_DataBase/MongoDB/MongoDB - The Complete 2023/2 Basic and CRUD.md"
               }
             }
           },
@@ -235,12 +234,14 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "5016d94b247af49d",
+  "active": "d66c46a7556ec2c5",
   "lastOpenFiles": [
-    "_ Mobile/Kotlin/selector.md",
-    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md",
-    "C Sharp/Complete CSharp MasterClass/3 Functions-Methods and how to save time.md",
+    "_DataBase/MongoDB/MongoDB - The Complete 2023/_ MongoDB Complete.md",
+    "_DataBase/MongoDB/MongoDB - The Complete 2023/2 Basic and CRUD.md",
     "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md",
+    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md",
+    "_ Mobile/Kotlin/selector.md",
+    "C Sharp/Complete CSharp MasterClass/3 Functions-Methods and how to save time.md",
     "_ Mobile/Kotlin/Kotlin bez tajemnic/_ Kotlin bez tajemnic.md",
     "_ Mobile/Android Kurs Tworzenia APlikacji/_ 0 Android Kurs Tworzenia Aplikacji.md",
     "_ Mobile/Rusz Głową Android. Programowanie aplikacji/2. Tworzenie interaktywnych aplikacji.md",
@@ -262,8 +263,6 @@
     "Flutter/Dart/3.1 Dart Async Programming.md",
     "Flutter/Dart/2.6 File system.md",
     "Flutter/Dart/2.4. Abstraction.md",
-    "Flutter/Dart/2.3. Polymorphism.md",
-    "Flutter/Dart/2.1 - Classes.md",
     "_ Desktop/WPF/od Podstaw do app w WPF",
     "_ Desktop/Python/Tkinter/ttkbootstrap Python Tkinter",
     "_DataBase/MongoDB/Learn MongoDB in 1 hour",
