@@ -639,7 +639,7 @@ R.id.btn_submit -> {
 ```
 
 add onClick to these TextViews
-inside `onCreate` method in `Qu`
+inside `onCreate` method in `QuizQuestionActivity`
 ```kotlin
 mQuestionsList = Constants.getQuestions()  
   
@@ -652,6 +652,33 @@ btnSubmit?.setOnClickListener(this)
 setQuestion()  
 //defaultOptionsView() //for testing purpose
 ```
+
+
+## Selecting the Right and Wrong Answer and Displaying the next question
+
+1. wrong answer -> red and the app selects the correct answer(green)
+2. correct answer -> green
+3. and next button (submit button) to the next question
+
+
+### drawable > default_option_border_bg.xml
+copy that file and paste changing its name to `correct_option_border_bg.xml`
+```xml
+<shape xmlns:android ...
+	   android:shap="rectanle"
+	   >  
+	   <solid android:color="@android:color/holo_green_light" />
+	   <corners android:radius="5dp" />
+</shape>
+	   
+```
+
+
+
+
+
+
+
 
 
 
