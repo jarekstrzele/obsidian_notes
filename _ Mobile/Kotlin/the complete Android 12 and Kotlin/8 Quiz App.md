@@ -662,7 +662,8 @@ setQuestion()
 
 
 ### drawable > default_option_border_bg.xml
-copy that file and paste changing its name to `correct_option_border_bg.xml`
+copy that file and paste changing its name to
+##### `correct_option_border_bg.xml`
 ```xml
 <shape xmlns:android ...
 	   android:shap="rectanle"
@@ -673,7 +674,8 @@ copy that file and paste changing its name to `correct_option_border_bg.xml`
 	   
 ```
 
-copy and paste the  `correct_option ...` changing its name to `wrong_option_border_bg.xml` and 
+copy and paste the  `correct_option ...` changing its name to 
+##### `wrong_option_border_bg.xml` and 
 change inside it *green* to *red*
 ```xml
 <shape xmlns:android ...
