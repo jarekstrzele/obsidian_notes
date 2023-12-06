@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "MongoDB Installation on Sys, on Docker",
+      "path": "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md"
+    },
+    {
       "basename": "8 Quiz App",
       "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2 Controls WPF",
       "path": "_ Desktop/WPF/Fast WFP  C Sharp/2 Controls WPF.md"
-    },
-    {
-      "basename": "Wyświeltanie info",
-      "path": "_ Desktop/WPF/Wyświeltanie info.md"
     }
   ],
   "omittedPaths": [],
