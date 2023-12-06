@@ -673,8 +673,17 @@ copy that file and paste changing its name to `correct_option_border_bg.xml`
 	   
 ```
 
-
-
+copy and paste the  `correct_option ...` changing its name to `wrong_option_border_bg.xml` and 
+change inside it *green* to *red*
+```xml
+<shape xmlns:android ...
+	   android:shap="rectanle"
+	   >  
+	   <solid android:color="@android:color/holo_red_light" />
+	   <corners android:radius="5dp" />
+</shape>
+	   
+```
 
 
 
