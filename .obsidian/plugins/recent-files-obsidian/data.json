@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "_ Learn MongoDB in 1 hour",
+      "path": "_DataBase/MongoDB/Learn MongoDB in 1 hour/_ Learn MongoDB in 1 hour.md"
+    },
+    {
+      "basename": "_ MongoDB Complete",
+      "path": "_DataBase/MongoDB/MongoDB - The Complete 2023/_ MongoDB Complete.md"
+    },
+    {
+      "basename": "1 - Into MongoDB Cloud",
+      "path": "_DataBase/MongoDB/Master MongoDB/1 - Into MongoDB Cloud.md"
+    },
+    {
+      "basename": "_ 0 Start",
+      "path": "_DataBase/MongoDB/Master MongoDB/_ 0 Start.md"
+    },
+    {
+      "basename": "5 - Collection Creation and Documents Insertion",
+      "path": "_DataBase/MongoDB/Introduction to the MongoDB/5 - Collection Creation and Documents Insertion.md"
+    },
+    {
+      "basename": "4 - Data Formats in MongoDb",
+      "path": "_DataBase/MongoDB/Introduction to the MongoDB/4 - Data Formats in MongoDb.md"
+    },
+    {
+      "basename": "_ Intro to MongoDB",
+      "path": "_DataBase/MongoDB/Introduction to the MongoDB/_ Intro to MongoDB.md"
+    },
+    {
       "basename": "2. Tworzenie interaktywnych aplikacji",
       "path": "_ Mobile/Rusz Głową Android. Programowanie aplikacji/2. Tworzenie interaktywnych aplikacji.md"
     },
@@ -29,16 +57,8 @@
       "path": "C Sharp/Complete CSharp MasterClass/3 Functions-Methods and how to save time.md"
     },
     {
-      "basename": "_ Learn MongoDB in 1 hour",
-      "path": "_DataBase/MongoDB/Learn MongoDB in 1 hour/_ Learn MongoDB in 1 hour.md"
-    },
-    {
       "basename": "MongoDB Installation on Sys, on Docker",
       "path": "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md"
-    },
-    {
-      "basename": "_ MongoDB Complete",
-      "path": "_DataBase/MongoDB/MongoDB - The Complete 2023/_ MongoDB Complete.md"
     },
     {
       "basename": "3 Podstawy tworzenia aplikacji",
@@ -179,26 +199,6 @@
     {
       "basename": "_ część dalsza od podstaw do app WPF",
       "path": "_ Desktop/WPF/od Podstaw do app w WPF/_ część dalsza od podstaw do app WPF.md"
-    },
-    {
-      "basename": "10.2 Eventy i Delegaty",
-      "path": "_ Desktop/WPF/od Podstaw do app w WPF/10.2 Eventy i Delegaty.md"
-    },
-    {
-      "basename": "9.1. RadioButton, GroupBox, Label",
-      "path": "_ Desktop/WPF/od Podstaw do app w WPF/9.1. RadioButton, GroupBox, Label.md"
-    },
-    {
-      "basename": "9 WPF układy komponentów",
-      "path": "_ Desktop/WPF/od Podstaw do app w WPF/9 WPF układy komponentów.md"
-    },
-    {
-      "basename": "_ Fast WFP C Sharp",
-      "path": "_ Desktop/WPF/Fast WFP  C Sharp/_ Fast WFP C Sharp.md"
-    },
-    {
-      "basename": "1 Grid",
-      "path": "_ Desktop/WPF/Fast WFP  C Sharp/1 Grid.md"
     }
   ],
   "omittedPaths": [],
