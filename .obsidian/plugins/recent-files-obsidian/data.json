@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "UBUNTU",
+      "path": "linux/UBUNTU.md"
+    },
+    {
       "basename": "_ Learn MongoDB in 1 hour",
       "path": "_DataBase/MongoDB/Learn MongoDB in 1 hour/_ Learn MongoDB in 1 hour.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "10.24 DataGrid",
       "path": "_ Desktop/WPF/od Podstaw do app w WPF/10.24 DataGrid.md"
-    },
-    {
-      "basename": "_ część dalsza od podstaw do app WPF",
-      "path": "_ Desktop/WPF/od Podstaw do app w WPF/_ część dalsza od podstaw do app WPF.md"
     }
   ],
   "omittedPaths": [],
