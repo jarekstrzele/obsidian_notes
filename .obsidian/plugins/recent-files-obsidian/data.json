@@ -1,6 +1,7 @@
 {
   "recentFiles": [
     {
+<<<<<<< HEAD
       "basename": "8 Quiz App",
       "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md"
     },
@@ -11,14 +12,87 @@
     {
       "basename": "_ Python Tkinter GUI Design Using ttkbootstrap",
       "path": "_ Desktop/Python/Tkinter/ttkbootstrap - Python Tkinter GUI Design/_ Python Tkinter GUI Design Using ttkbootstrap.md"
+=======
+      "basename": "I 6 Invaders Project",
+      "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 6 Invaders Project.md"
+    },
+    {
+      "basename": "I 5 Final Lectures",
+      "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 5 Final Lectures.md"
+    },
+    {
+      "basename": "I 1 Fundamentals",
+      "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 1 Fundamentals.md"
+    },
+    {
+      "basename": "_ Ultimate Rust Crash Course 1",
+      "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/_ Ultimate Rust Crash Course 1.md"
+    },
+    {
+      "basename": "I 4 The Meat of Rust",
+      "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 4 The Meat of Rust.md"
+    },
+    {
+      "basename": "_ 0 Android Kurs Tworzenia Aplikacji",
+      "path": "_ Mobile/Android Kurs Tworzenia APlikacji/_ 0 Android Kurs Tworzenia Aplikacji.md"
+    },
+    {
+      "basename": "DatePicker Dialog",
+      "path": "_ Mobile/Kotlin/DatePicker Dialog.md"
+    },
+    {
+      "basename": "Spinner",
+      "path": "_ Mobile/Kotlin/Spinner.md"
+    },
+    {
+      "basename": "selector",
+      "path": "_ Mobile/Kotlin/selector.md"
+    },
+    {
+      "basename": "Funkcje lambda",
+      "path": "_ Mobile/Kotlin/Funkcje lambda.md"
+    },
+    {
+      "basename": "_ the complete Android Kotlin",
+      "path": "_ Mobile/Kotlin/the complete Android Kotlin/_ the complete Android Kotlin.md"
+    },
+    {
+      "basename": "8.4 EditTexts",
+      "path": "_ Mobile/Kotlin/the complete Android Kotlin/8.4 EditTexts.md"
+    },
+    {
+      "basename": "2. Tworzenie interaktywnych aplikacji",
+      "path": "_ Mobile/Rusz Głową Android. Programowanie aplikacji/2. Tworzenie interaktywnych aplikacji.md"
+    },
+    {
+      "basename": "1. Skok na głęboką wodę",
+      "path": "_ Mobile/Rusz Głową Android. Programowanie aplikacji/1. Skok na głęboką wodę.md"
+    },
+    {
+      "basename": "_ Rusz Głową Android. Programowanie aplikacji",
+      "path": "_ Mobile/Rusz Głową Android. Programowanie aplikacji/_ Rusz Głową Android. Programowanie aplikacji.md"
+>>>>>>> 8372e3d29802fc4d0e461afbe8de3d8fb337c7f8
     },
     {
       "basename": "MongoDB Installation on Sys, on Docker",
       "path": "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md"
     },
     {
+<<<<<<< HEAD
       "basename": "10.24 DataGrid",
       "path": "_ Desktop/WPF/od Podstaw do app w WPF/10.24 DataGrid.md"
+=======
+      "basename": "UBUNTU",
+      "path": "linux/UBUNTU.md"
+    },
+    {
+      "basename": "_ Learn MongoDB in 1 hour",
+      "path": "_DataBase/MongoDB/Learn MongoDB in 1 hour/_ Learn MongoDB in 1 hour.md"
+    },
+    {
+      "basename": "8 Quiz App",
+      "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md"
+>>>>>>> 8372e3d29802fc4d0e461afbe8de3d8fb337c7f8
     },
     {
       "basename": "3.3. View Binding",
@@ -81,6 +155,7 @@
       "path": "_DataBase/MongoDB/MongoDB - The Complete 2023/2 Basic and CRUD.md"
     },
     {
+<<<<<<< HEAD
       "basename": "_ MongoDB Complete",
       "path": "_DataBase/MongoDB/MongoDB - The Complete 2023/_ MongoDB Complete.md"
     },
@@ -105,20 +180,23 @@
       "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 4 The Meat of Rust.md"
     },
     {
+=======
+>>>>>>> 8372e3d29802fc4d0e461afbe8de3d8fb337c7f8
       "basename": "3 Functions-Methods and how to save time",
       "path": "C Sharp/Complete CSharp MasterClass/3 Functions-Methods and how to save time.md"
     },
     {
+<<<<<<< HEAD
       "basename": "selector",
       "path": "_ Mobile/Kotlin/selector.md"
+=======
+      "basename": "3 Podstawy tworzenia aplikacji",
+      "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md"
+>>>>>>> 8372e3d29802fc4d0e461afbe8de3d8fb337c7f8
     },
     {
       "basename": "_ Kotlin bez tajemnic",
       "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/_ Kotlin bez tajemnic.md"
-    },
-    {
-      "basename": "_ Rusz Głową Android. Programowanie aplikacji",
-      "path": "_ Mobile/Rusz Głową Android. Programowanie aplikacji/_ Rusz Głową Android. Programowanie aplikacji.md"
     },
     {
       "basename": "8 Aplikacje WPF",
@@ -199,6 +277,13 @@
     {
       "basename": "_ 3 Dart Advance",
       "path": "Flutter/Dart/_ 3 Dart Advance.md"
+<<<<<<< HEAD
+=======
+    },
+    {
+      "basename": "I 3 The Heart of Rust",
+      "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 3 The Heart of Rust.md"
+>>>>>>> 8372e3d29802fc4d0e461afbe8de3d8fb337c7f8
     }
   ],
   "omittedPaths": [],

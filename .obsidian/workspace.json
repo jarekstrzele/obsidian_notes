@@ -25,18 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 4 The Meat of Rust.md",
+                "file": "_ Mobile/Android Kurs Tworzenia APlikacji/_ 0 Android Kurs Tworzenia Aplikacji.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8cd75294eba57d28",
+            "id": "944cd69e2a216228",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md",
                 "mode": "source",
                 "source": false
@@ -62,6 +63,9 @@
               "type": "markdown",
               "state": {
                 "file": "_ Mobile/Kotlin/Kotlin bez tajemnic/3.3. View Binding.md",
+=======
+                "file": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 6 Invaders Project.md",
+>>>>>>> 8372e3d29802fc4d0e461afbe8de3d8fb337c7f8
                 "mode": "source",
                 "source": false
               }
@@ -150,7 +154,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md",
+=======
+                "file": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 6 Invaders Project.md",
+>>>>>>> 8372e3d29802fc4d0e461afbe8de3d8fb337c7f8
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -167,7 +175,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md",
+=======
+                "file": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 6 Invaders Project.md",
+>>>>>>> 8372e3d29802fc4d0e461afbe8de3d8fb337c7f8
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +202,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md"
+=======
+                "file": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 6 Invaders Project.md"
+>>>>>>> 8372e3d29802fc4d0e461afbe8de3d8fb337c7f8
               }
             }
           },
@@ -247,11 +263,33 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
+<<<<<<< HEAD
   "active": "8cd75294eba57d28",
   "lastOpenFiles": [
     "_ Mobile/Kotlin/Kurs Android od podstaw/_ Kurs Android od podstaw.md",
     "_ Desktop/Python/Tkinter/ttkbootstrap - Python Tkinter GUI Design/_ Python Tkinter GUI Design Using ttkbootstrap.md",
     "_ Mobile/Kotlin/Kurs Android od podstaw",
+=======
+  "active": "944cd69e2a216228",
+  "lastOpenFiles": [
+    "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 5 Final Lectures.md",
+    "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 1 Fundamentals.md",
+    "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/_ Ultimate Rust Crash Course 1.md",
+    "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 4 The Meat of Rust.md",
+    "_ Mobile/Android Kurs Tworzenia APlikacji/_ 0 Android Kurs Tworzenia Aplikacji.md",
+    "_ Mobile/Kotlin/DatePicker Dialog.md",
+    "_ Mobile/Kotlin/Spinner.md",
+    "_ Mobile/Kotlin/selector.md",
+    "_ Mobile/Kotlin/Funkcje lambda.md",
+    "_ Mobile/Kotlin/the complete Android Kotlin/_ the complete Android Kotlin.md",
+    "_ Mobile/Kotlin/the complete Android Kotlin/8.4 EditTexts.md",
+    "_ Mobile/Rusz Głową Android. Programowanie aplikacji/2. Tworzenie interaktywnych aplikacji.md",
+    "_ Mobile/Rusz Głową Android. Programowanie aplikacji/1. Skok na głęboką wodę.md",
+    "_ Mobile/Rusz Głową Android. Programowanie aplikacji/_ Rusz Głową Android. Programowanie aplikacji.md",
+    "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md",
+    "linux/UBUNTU.md",
+    "_DataBase/MongoDB/Learn MongoDB in 1 hour/_ Learn MongoDB in 1 hour.md",
+>>>>>>> 8372e3d29802fc4d0e461afbe8de3d8fb337c7f8
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md",
     "_ Desktop/Python/Tkinter/ttkbootstrap - Python Tkinter GUI Design",
     "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md",
@@ -271,12 +309,16 @@
     "_DataBase/MongoDB/Introduction to the MongoDB/4 - Data Formats in MongoDb.md",
     "_DataBase/MongoDB/Introduction to the MongoDB/_ Intro to MongoDB.md",
     "_DataBase/MongoDB/MongoDB - The Complete 2023/2 Basic and CRUD.md",
+<<<<<<< HEAD
     "_DataBase/MongoDB/MongoDB - The Complete 2023/_ MongoDB Complete.md",
     "_DataBase/MongoDB/Master MongoDB/_ 0 Start.md",
     "_ Mobile/Rusz Głową Android. Programowanie aplikacji/2. Tworzenie interaktywnych aplikacji.md",
     "_ Mobile/Rusz Głową Android. Programowanie aplikacji/1. Skok na głęboką wodę.md",
     "_ Mobile/Android Kurs Tworzenia APlikacji/_ 0 Android Kurs Tworzenia Aplikacji.md",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 4 The Meat of Rust.md",
+=======
+    "C Sharp/Complete CSharp MasterClass/3 Functions-Methods and how to save time.md",
+>>>>>>> 8372e3d29802fc4d0e461afbe8de3d8fb337c7f8
     "_ Mobile/Rusz Głową Android. Programowanie aplikacji",
     "_ Desktop/WPF/od Podstaw do app w WPF",
     "_ Desktop/Python/Tkinter/ttkbootstrap Python Tkinter",

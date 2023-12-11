@@ -16,7 +16,7 @@ aby sprawdzić, jaki program nasłuchuje na danym porcie
 #opera
 https://gist.github.com/Thomas-Ln/c4ae803e90f9984b6612c8983c8fde1f
 chodzi o plik `libffmpeg.so`
-`cp libffmpeg.so /usr/lib/x86_64-linux-gnu/opera`
+`cp libffmpeg.so /usr/lib/x86_64-linux-gnu/opera` 
 
 
 ---
