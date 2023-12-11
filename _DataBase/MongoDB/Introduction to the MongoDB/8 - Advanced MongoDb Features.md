@@ -50,8 +50,6 @@ forum> db.posts.getIndexes()
 
 ```
 
-
-
 ## Utilities
 
 ### mongoexport

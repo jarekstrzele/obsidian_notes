@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md",
+                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_DataBase/MongoDB/Learn MongoDB in 1 hour/_ Learn MongoDB in 1 hour.md",
+                "file": "_ Desktop/WPF/od Podstaw do app w WPF/10.24 DataGrid.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5a17f74ad2098f9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_ Mobile/Kotlin/Kotlin bez tajemnic/3.3. View Binding.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 390.51103591918945
+    "width": 380.5
   },
   "right": {
     "id": "ec7d1a70da2de581",
@@ -138,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_DataBase/MongoDB/Learn MongoDB in 1 hour/_ Learn MongoDB in 1 hour.md",
+                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -155,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_DataBase/MongoDB/Learn MongoDB in 1 hour/_ Learn MongoDB in 1 hour.md",
+                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,24 +190,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_DataBase/MongoDB/Learn MongoDB in 1 hour/_ Learn MongoDB in 1 hour.md"
+                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md"
               }
-            }
-          },
-          {
-            "id": "399be6bee60cca0a",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_nodes",
-              "state": {}
-            }
-          },
-          {
-            "id": "6b1ecb330bd5d966",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_style",
-              "state": {}
             }
           },
           {
@@ -215,9 +211,25 @@
                 "sortOrder": "frequency"
               }
             }
+          },
+          {
+            "id": "32983b55265b9445",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "98ebf1198e9e3317",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -231,39 +243,41 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "juggl:Juggl global graph": false
+      "juggl:Juggl global graph": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b7c833bff6b1a7b3",
+  "active": "8cd75294eba57d28",
   "lastOpenFiles": [
-    "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md",
-    "_DataBase/MongoDB/Learn MongoDB in 1 hour/_ Learn MongoDB in 1 hour.md",
+    "_ Mobile/Kotlin/Kurs Android od podstaw/_ Kurs Android od podstaw.md",
+    "_ Desktop/Python/Tkinter/ttkbootstrap - Python Tkinter GUI Design/_ Python Tkinter GUI Design Using ttkbootstrap.md",
+    "_ Mobile/Kotlin/Kurs Android od podstaw",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md",
-    "_DataBase/MongoDB/MongoDB - The Complete 2023/_ MongoDB Complete.md",
+    "_ Desktop/Python/Tkinter/ttkbootstrap - Python Tkinter GUI Design",
+    "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md",
+    "_ Desktop/WPF/od Podstaw do app w WPF/10.24 DataGrid.md",
+    "_ Mobile/Kotlin/Kotlin bez tajemnic/3.3. View Binding.md",
+    "_ Mobile/Kotlin/Kotlin bez tajemnic/3.2. View Models.md",
+    "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md",
+    "_ Mobile/Kotlin/Kotlin bez tajemnic/3.1. Fragments.md",
+    "_DataBase/MongoDB/Learn MongoDB in 1 hour/_ Learn MongoDB in 1 hour.md",
+    "_DataBase/MongoDB/Master MongoDB/3 MondoDb SHELL.md",
+    "_DataBase/MongoDB/Master MongoDB/2 - GUI Tools for MongoDB Management.md",
     "_DataBase/MongoDB/Master MongoDB/1 - Into MongoDB Cloud.md",
-    "_DataBase/MongoDB/Master MongoDB/_ 0 Start.md",
+    "_DataBase/MongoDB/Introduction to the MongoDB/8 - Advanced MongoDb Features.md",
+    "_DataBase/MongoDB/Introduction to the MongoDB/7 - Updating Documents.md",
+    "_DataBase/MongoDB/Introduction to the MongoDB/6 - Finding Documents.md",
     "_DataBase/MongoDB/Introduction to the MongoDB/5 - Collection Creation and Documents Insertion.md",
     "_DataBase/MongoDB/Introduction to the MongoDB/4 - Data Formats in MongoDb.md",
     "_DataBase/MongoDB/Introduction to the MongoDB/_ Intro to MongoDB.md",
+    "_DataBase/MongoDB/MongoDB - The Complete 2023/2 Basic and CRUD.md",
+    "_DataBase/MongoDB/MongoDB - The Complete 2023/_ MongoDB Complete.md",
+    "_DataBase/MongoDB/Master MongoDB/_ 0 Start.md",
     "_ Mobile/Rusz Głową Android. Programowanie aplikacji/2. Tworzenie interaktywnych aplikacji.md",
     "_ Mobile/Rusz Głową Android. Programowanie aplikacji/1. Skok na głęboką wodę.md",
     "_ Mobile/Android Kurs Tworzenia APlikacji/_ 0 Android Kurs Tworzenia Aplikacji.md",
-    "_DataBase/MongoDB/MongoDB - The Complete 2023/2 Basic and CRUD.md",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 4 The Meat of Rust.md",
-    "C Sharp/Complete CSharp MasterClass/3 Functions-Methods and how to save time.md",
-    "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md",
-    "_ Mobile/Kotlin/selector.md",
-    "_ Mobile/Kotlin/Kotlin bez tajemnic/_ Kotlin bez tajemnic.md",
-    "_ Mobile/Rusz Głową Android. Programowanie aplikacji/_ Rusz Głową Android. Programowanie aplikacji.md",
     "_ Mobile/Rusz Głową Android. Programowanie aplikacji",
-    "_ Desktop/WPF/od Podstaw do app w WPF/8 Aplikacje WPF.md",
-    "C Sharp/Complete CSharp MasterClass/4. Making Decisions.md",
-    "C Sharp/Complete CSharp MasterClass/6. OOP.md",
-    "C Sharp/Complete CSharp MasterClass/7. Collections.md",
-    "Flutter/Flutter - 2022 a complete guide/1.3 First app.md",
-    "Flutter/Flutter - 2022 a complete guide/1.2. Flutter Achitecture.md",
-    "Flutter/Flutter - 2022 a complete guide/1.1 Flutter - what is it.md",
     "_ Desktop/WPF/od Podstaw do app w WPF",
     "_ Desktop/Python/Tkinter/ttkbootstrap Python Tkinter",
     "_DataBase/MongoDB/Learn MongoDB in 1 hour",
@@ -272,9 +286,7 @@
     "pexels-alex-fu-1302436.jpg",
     "C Sharp/Complete CSharp MasterClass",
     "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4",
-    "R U S T/Bard - Rust",
     "canvas_moduls_rust.canvas",
-    "HASKELL/z Barda",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",

@@ -1,28 +1,68 @@
 {
   "recentFiles": [
     {
-      "basename": "_ Learn MongoDB in 1 hour",
-      "path": "_DataBase/MongoDB/Learn MongoDB in 1 hour/_ Learn MongoDB in 1 hour.md"
+      "basename": "8 Quiz App",
+      "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md"
+    },
+    {
+      "basename": "_ Kurs Android od podstaw",
+      "path": "_ Mobile/Kotlin/Kurs Android od podstaw/_ Kurs Android od podstaw.md"
+    },
+    {
+      "basename": "_ Python Tkinter GUI Design Using ttkbootstrap",
+      "path": "_ Desktop/Python/Tkinter/ttkbootstrap - Python Tkinter GUI Design/_ Python Tkinter GUI Design Using ttkbootstrap.md"
     },
     {
       "basename": "MongoDB Installation on Sys, on Docker",
       "path": "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md"
     },
     {
-      "basename": "8 Quiz App",
-      "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md"
+      "basename": "10.24 DataGrid",
+      "path": "_ Desktop/WPF/od Podstaw do app w WPF/10.24 DataGrid.md"
     },
     {
-      "basename": "_ MongoDB Complete",
-      "path": "_DataBase/MongoDB/MongoDB - The Complete 2023/_ MongoDB Complete.md"
+      "basename": "3.3. View Binding",
+      "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3.3. View Binding.md"
+    },
+    {
+      "basename": "3.2. View Models",
+      "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3.2. View Models.md"
+    },
+    {
+      "basename": "3 Podstawy tworzenia aplikacji",
+      "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md"
+    },
+    {
+      "basename": "3.1. Fragments",
+      "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3.1. Fragments.md"
+    },
+    {
+      "basename": "_ Learn MongoDB in 1 hour",
+      "path": "_DataBase/MongoDB/Learn MongoDB in 1 hour/_ Learn MongoDB in 1 hour.md"
+    },
+    {
+      "basename": "3 MondoDb SHELL",
+      "path": "_DataBase/MongoDB/Master MongoDB/3 MondoDb SHELL.md"
+    },
+    {
+      "basename": "2 - GUI Tools for MongoDB Management",
+      "path": "_DataBase/MongoDB/Master MongoDB/2 - GUI Tools for MongoDB Management.md"
     },
     {
       "basename": "1 - Into MongoDB Cloud",
       "path": "_DataBase/MongoDB/Master MongoDB/1 - Into MongoDB Cloud.md"
     },
     {
-      "basename": "_ 0 Start",
-      "path": "_DataBase/MongoDB/Master MongoDB/_ 0 Start.md"
+      "basename": "8 - Advanced MongoDb Features",
+      "path": "_DataBase/MongoDB/Introduction to the MongoDB/8 - Advanced MongoDb Features.md"
+    },
+    {
+      "basename": "7 - Updating Documents",
+      "path": "_DataBase/MongoDB/Introduction to the MongoDB/7 - Updating Documents.md"
+    },
+    {
+      "basename": "6 - Finding Documents",
+      "path": "_DataBase/MongoDB/Introduction to the MongoDB/6 - Finding Documents.md"
     },
     {
       "basename": "5 - Collection Creation and Documents Insertion",
@@ -37,6 +77,18 @@
       "path": "_DataBase/MongoDB/Introduction to the MongoDB/_ Intro to MongoDB.md"
     },
     {
+      "basename": "2 Basic and CRUD",
+      "path": "_DataBase/MongoDB/MongoDB - The Complete 2023/2 Basic and CRUD.md"
+    },
+    {
+      "basename": "_ MongoDB Complete",
+      "path": "_DataBase/MongoDB/MongoDB - The Complete 2023/_ MongoDB Complete.md"
+    },
+    {
+      "basename": "_ 0 Start",
+      "path": "_DataBase/MongoDB/Master MongoDB/_ 0 Start.md"
+    },
+    {
       "basename": "2. Tworzenie interaktywnych aplikacji",
       "path": "_ Mobile/Rusz Głową Android. Programowanie aplikacji/2. Tworzenie interaktywnych aplikacji.md"
     },
@@ -49,20 +101,12 @@
       "path": "_ Mobile/Android Kurs Tworzenia APlikacji/_ 0 Android Kurs Tworzenia Aplikacji.md"
     },
     {
-      "basename": "2 Basic and CRUD",
-      "path": "_DataBase/MongoDB/MongoDB - The Complete 2023/2 Basic and CRUD.md"
-    },
-    {
       "basename": "I 4 The Meat of Rust",
       "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 4 The Meat of Rust.md"
     },
     {
       "basename": "3 Functions-Methods and how to save time",
       "path": "C Sharp/Complete CSharp MasterClass/3 Functions-Methods and how to save time.md"
-    },
-    {
-      "basename": "3 Podstawy tworzenia aplikacji",
-      "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md"
     },
     {
       "basename": "selector",
@@ -155,50 +199,6 @@
     {
       "basename": "_ 3 Dart Advance",
       "path": "Flutter/Dart/_ 3 Dart Advance.md"
-    },
-    {
-      "basename": "I 5 Final Lectures",
-      "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 5 Final Lectures.md"
-    },
-    {
-      "basename": "I 6 Invaders Project",
-      "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 6 Invaders Project.md"
-    },
-    {
-      "basename": "I 3 The Heart of Rust",
-      "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 3 The Heart of Rust.md"
-    },
-    {
-      "basename": "I 2 Primitive Types & Control Flow",
-      "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 2 Primitive Types & Control Flow.md"
-    },
-    {
-      "basename": "I 1 Fundamentals",
-      "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 1 Fundamentals.md"
-    },
-    {
-      "basename": "_ Ultimate Rust Crash Course 1",
-      "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/_ Ultimate Rust Crash Course 1.md"
-    },
-    {
-      "basename": "10.3 DataContext oraz interfejs INotifyPropertyChanged",
-      "path": "_ Desktop/WPF/od Podstaw do app w WPF/10.3 DataContext oraz interfejs INotifyPropertyChanged.md"
-    },
-    {
-      "basename": "10.1 Binding",
-      "path": "_ Desktop/WPF/od Podstaw do app w WPF/10.1 Binding.md"
-    },
-    {
-      "basename": "10 WPF - zaawansowane",
-      "path": "_ Desktop/WPF/od Podstaw do app w WPF/10 WPF - zaawansowane.md"
-    },
-    {
-      "basename": "10.24 DataGrid",
-      "path": "_ Desktop/WPF/od Podstaw do app w WPF/10.24 DataGrid.md"
-    },
-    {
-      "basename": "_ część dalsza od podstaw do app WPF",
-      "path": "_ Desktop/WPF/od Podstaw do app w WPF/_ część dalsza od podstaw do app WPF.md"
     }
   ],
   "omittedPaths": [],

@@ -9,5 +9,8 @@
     "downscalePercent": 100
   },
   "spellcheck": true,
-  "spellcheckLanguages": null
+  "spellcheckLanguages": null,
+  "spellcheckDictionary": [
+    "ułatwia"
+  ]
 }
