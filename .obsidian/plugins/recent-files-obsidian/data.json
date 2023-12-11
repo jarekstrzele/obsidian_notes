@@ -1,12 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "_ 0 Android Kurs Tworzenia Aplikacji",
-      "path": "_ Mobile/Android Kurs Tworzenia APlikacji/_ 0 Android Kurs Tworzenia Aplikacji.md"
+      "basename": "I 1 Fundamentals",
+      "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 1 Fundamentals.md"
+    },
+    {
+      "basename": "_ Ultimate Rust Crash Course 1",
+      "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/_ Ultimate Rust Crash Course 1.md"
     },
     {
       "basename": "I 4 The Meat of Rust",
       "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 4 The Meat of Rust.md"
+    },
+    {
+      "basename": "_ 0 Android Kurs Tworzenia Aplikacji",
+      "path": "_ Mobile/Android Kurs Tworzenia APlikacji/_ 0 Android Kurs Tworzenia Aplikacji.md"
+    },
+    {
+      "basename": "DatePicker Dialog",
+      "path": "_ Mobile/Kotlin/DatePicker Dialog.md"
+    },
+    {
+      "basename": "Spinner",
+      "path": "_ Mobile/Kotlin/Spinner.md"
+    },
+    {
+      "basename": "selector",
+      "path": "_ Mobile/Kotlin/selector.md"
+    },
+    {
+      "basename": "Funkcje lambda",
+      "path": "_ Mobile/Kotlin/Funkcje lambda.md"
+    },
+    {
+      "basename": "_ the complete Android Kotlin",
+      "path": "_ Mobile/Kotlin/the complete Android Kotlin/_ the complete Android Kotlin.md"
+    },
+    {
+      "basename": "8.4 EditTexts",
+      "path": "_ Mobile/Kotlin/the complete Android Kotlin/8.4 EditTexts.md"
+    },
+    {
+      "basename": "2. Tworzenie interaktywnych aplikacji",
+      "path": "_ Mobile/Rusz Głową Android. Programowanie aplikacji/2. Tworzenie interaktywnych aplikacji.md"
+    },
+    {
+      "basename": "1. Skok na głęboką wodę",
+      "path": "_ Mobile/Rusz Głową Android. Programowanie aplikacji/1. Skok na głęboką wodę.md"
+    },
+    {
+      "basename": "_ Rusz Głową Android. Programowanie aplikacji",
+      "path": "_ Mobile/Rusz Głową Android. Programowanie aplikacji/_ Rusz Głową Android. Programowanie aplikacji.md"
     },
     {
       "basename": "MongoDB Installation on Sys, on Docker",
@@ -49,14 +93,6 @@
       "path": "_DataBase/MongoDB/Introduction to the MongoDB/_ Intro to MongoDB.md"
     },
     {
-      "basename": "2. Tworzenie interaktywnych aplikacji",
-      "path": "_ Mobile/Rusz Głową Android. Programowanie aplikacji/2. Tworzenie interaktywnych aplikacji.md"
-    },
-    {
-      "basename": "1. Skok na głęboką wodę",
-      "path": "_ Mobile/Rusz Głową Android. Programowanie aplikacji/1. Skok na głęboką wodę.md"
-    },
-    {
       "basename": "2 Basic and CRUD",
       "path": "_DataBase/MongoDB/MongoDB - The Complete 2023/2 Basic and CRUD.md"
     },
@@ -69,16 +105,8 @@
       "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md"
     },
     {
-      "basename": "selector",
-      "path": "_ Mobile/Kotlin/selector.md"
-    },
-    {
       "basename": "_ Kotlin bez tajemnic",
       "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/_ Kotlin bez tajemnic.md"
-    },
-    {
-      "basename": "_ Rusz Głową Android. Programowanie aplikacji",
-      "path": "_ Mobile/Rusz Głową Android. Programowanie aplikacji/_ Rusz Głową Android. Programowanie aplikacji.md"
     },
     {
       "basename": "8 Aplikacje WPF",
@@ -171,34 +199,6 @@
     {
       "basename": "I 3 The Heart of Rust",
       "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 3 The Heart of Rust.md"
-    },
-    {
-      "basename": "I 2 Primitive Types & Control Flow",
-      "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 2 Primitive Types & Control Flow.md"
-    },
-    {
-      "basename": "I 1 Fundamentals",
-      "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 1 Fundamentals.md"
-    },
-    {
-      "basename": "_ Ultimate Rust Crash Course 1",
-      "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/_ Ultimate Rust Crash Course 1.md"
-    },
-    {
-      "basename": "10.3 DataContext oraz interfejs INotifyPropertyChanged",
-      "path": "_ Desktop/WPF/od Podstaw do app w WPF/10.3 DataContext oraz interfejs INotifyPropertyChanged.md"
-    },
-    {
-      "basename": "10.1 Binding",
-      "path": "_ Desktop/WPF/od Podstaw do app w WPF/10.1 Binding.md"
-    },
-    {
-      "basename": "10 WPF - zaawansowane",
-      "path": "_ Desktop/WPF/od Podstaw do app w WPF/10 WPF - zaawansowane.md"
-    },
-    {
-      "basename": "10.24 DataGrid",
-      "path": "_ Desktop/WPF/od Podstaw do app w WPF/10.24 DataGrid.md"
     }
   ],
   "omittedPaths": [],
