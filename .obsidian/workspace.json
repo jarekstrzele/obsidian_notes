@@ -11,11 +11,28 @@
             "id": "ad21e06f6ed0de8b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_ WEB/N_O_D_E/NODE - the complete guide/_0 Node Complete Guide.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d76215dd5ceb9255",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_DataBase/MongoDB/MongoDB - The Complete 2023/_ MongoDB Complete.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "clean code",
+                "query": "#maxi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208.5
+    "width": 420.5
   },
   "right": {
     "id": "7036b4a7a06b882e",
@@ -97,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_DataBase/MongoDB/MongoDB - The Complete 2023/_ MongoDB Complete.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_DataBase/MongoDB/MongoDB - The Complete 2023/_ MongoDB Complete.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +153,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_DataBase/MongoDB/MongoDB - The Complete 2023/_ MongoDB Complete.md"
+              }
             }
           },
           {
@@ -182,8 +203,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ad21e06f6ed0de8b",
+  "active": "d76215dd5ceb9255",
   "lastOpenFiles": [
+    "_ WEB/N_O_D_E/NODE - the complete guide/_0 Node Complete Guide.md",
     "PYTHON/GUI/PySimpleGUI.md",
     "PYTHON/GUI/Tkinter/Tkinter 0.md",
     "PYTHON/GUI/Tkinter/Tkinter Pomidoro.md",
