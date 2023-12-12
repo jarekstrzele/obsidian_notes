@@ -35,6 +35,11 @@ class MainActivity : ComponentActivity() {
 }
 ```
 
+
+
+# Layout
+https://developer.android.com/reference/kotlin/androidx/compose/foundation/layout/package-summary.html
+
 ## column
 ```kotlin
 class MainActivity : ComponentActivity() {  
@@ -67,7 +72,19 @@ fun MyColumn(){
 
 ## row
 ```kotlin
-
+@Composable  
+fun MyRow(){  
+Row(  
+modifier = Modifier.fillMaxSize(),  
+verticalAlignment = Alignment.CenterVertically, //Top,CenterVertically, Bottom  
+horizontalArrangement = Arrangement.SpaceAround  
+){  
+  
+Text(text="Jestem z MyElement")  
+Text(text="JDrugi element")  
+Text(text="Trzeci tekst")  
+}  
+}
 ```
 
 
