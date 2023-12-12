@@ -53,6 +53,45 @@ MongoDB drivers convert JSON to BSON (binary data) -`ObjectId("efewfwef")`  it i
 in `insertOne` you can omit the  `""` for attribute
 ## see documents
 `db.flightData.find()` show all documents in the collection `flightData`
+see also: [[_ Learn MongoDB in 1 hour]]
+
+------------
+# CRUD
+#mongodb/crud
+
+## create
+##### `insertOne(data, option)`
+##### `insertMany(data, options)`
+
+## read
+##### `find(filter, options)`
+##### `findOne(filter, options)` 
+first matching
+
+## update
+##### `updateOne(filter, data, options)`
+##### `updateMany(filter, data, options)`
+##### `relaceOne(filter, data, options)`
+
+`mytest> db.flightData.updateOne({distance:12000}, {$set: {marker: "delete"}})`
+
+
+
+
+
+## delete
+##### `deleteOne(filter, options)`
+##### `deleteMany(filter, options)`
+
+`mytest> db.flightData.deleteOne({departure: "TXL"})`
+
+
+
+
+
+
+
+
 
 
 
