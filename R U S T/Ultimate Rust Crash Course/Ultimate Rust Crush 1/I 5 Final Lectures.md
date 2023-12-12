@@ -4,7 +4,7 @@
 # Closure
 #rust/closure 
 >[!info] Closure
->it is an anonumous function that can borrow or capture somedata from the scope it is nested
+>it is an anonymous function that can borrow or capture some data from the scope it is nested
 >**a closure will borrow a reference to values in the enclosing scope**
 
 
@@ -71,7 +71,8 @@ fn main(){
 `async` / `await` is a much more efficient approach with `I/O`: network or disk
 
 ----------
-`crossbeam::channel` biblioteka zapewniająca różne typy kanałów do komunikacji międzywątkowej
+`crossbeam::channel` 
+biblioteka zapewniająca różne typy kanałów do komunikacji międzywątkowej
 	- kanały to struktury danych umożliwiające przesyłanie wartości między wątkami
 
 `std::time::Duration` - reprezentuje okres czasu, można go używać do opóźnień lub określania interwałów czasowych w programie
