@@ -1,204 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "2 Tworzenie widoków",
-      "path": "_ Mobile/Kotlin/Kurs Android od podstaw/2 Tworzenie widoków.md"
+      "basename": "10.24 DataGrid",
+      "path": "_ Desktop/WPF/od Podstaw do app w WPF/10.24 DataGrid.md"
     },
     {
-      "basename": "_ Kurs Android od podstaw",
-      "path": "_ Mobile/Kotlin/Kurs Android od podstaw/_ Kurs Android od podstaw.md"
+      "basename": "10.3 DataContext oraz interfejs INotifyPropertyChanged",
+      "path": "_ Desktop/WPF/od Podstaw do app w WPF/10.3 DataContext oraz interfejs INotifyPropertyChanged.md"
     },
     {
-      "basename": "_ 0 Android Kurs Tworzenia Aplikacji",
-      "path": "_ Mobile/Android Kurs Tworzenia APlikacji/_ 0 Android Kurs Tworzenia Aplikacji.md"
-    },
-    {
-      "basename": "Funkcje lambda",
-      "path": "_ Mobile/Kotlin/Funkcje lambda.md"
-    },
-    {
-      "basename": "I 6 Invaders Project",
-      "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 6 Invaders Project.md"
-    },
-    {
-      "basename": "I 5 Final Lectures",
-      "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 5 Final Lectures.md"
-    },
-    {
-      "basename": "I 1 Fundamentals",
-      "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 1 Fundamentals.md"
-    },
-    {
-      "basename": "_ Ultimate Rust Crash Course 1",
-      "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/_ Ultimate Rust Crash Course 1.md"
-    },
-    {
-      "basename": "I 4 The Meat of Rust",
-      "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 4 The Meat of Rust.md"
-    },
-    {
-      "basename": "DatePicker Dialog",
-      "path": "_ Mobile/Kotlin/DatePicker Dialog.md"
-    },
-    {
-      "basename": "Spinner",
-      "path": "_ Mobile/Kotlin/Spinner.md"
-    },
-    {
-      "basename": "selector",
-      "path": "_ Mobile/Kotlin/selector.md"
-    },
-    {
-      "basename": "_ the complete Android Kotlin",
-      "path": "_ Mobile/Kotlin/the complete Android Kotlin/_ the complete Android Kotlin.md"
-    },
-    {
-      "basename": "8.4 EditTexts",
-      "path": "_ Mobile/Kotlin/the complete Android Kotlin/8.4 EditTexts.md"
-    },
-    {
-      "basename": "2. Tworzenie interaktywnych aplikacji",
-      "path": "_ Mobile/Rusz Głową Android. Programowanie aplikacji/2. Tworzenie interaktywnych aplikacji.md"
-    },
-    {
-      "basename": "1. Skok na głęboką wodę",
-      "path": "_ Mobile/Rusz Głową Android. Programowanie aplikacji/1. Skok na głęboką wodę.md"
-    },
-    {
-      "basename": "_ Rusz Głową Android. Programowanie aplikacji",
-      "path": "_ Mobile/Rusz Głową Android. Programowanie aplikacji/_ Rusz Głową Android. Programowanie aplikacji.md"
-    },
-    {
-      "basename": "MongoDB Installation on Sys, on Docker",
-      "path": "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md"
-    },
-    {
-      "basename": "UBUNTU",
-      "path": "linux/UBUNTU.md"
+      "basename": "10.2 Eventy i Delegaty",
+      "path": "_ Desktop/WPF/od Podstaw do app w WPF/10.2 Eventy i Delegaty.md"
     },
     {
       "basename": "_ Learn MongoDB in 1 hour",
       "path": "_DataBase/MongoDB/Learn MongoDB in 1 hour/_ Learn MongoDB in 1 hour.md"
     },
     {
-      "basename": "8 Quiz App",
-      "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md"
-    },
-    {
-      "basename": "_ MongoDB Complete",
-      "path": "_DataBase/MongoDB/MongoDB - The Complete 2023/_ MongoDB Complete.md"
-    },
-    {
-      "basename": "1 - Into MongoDB Cloud",
-      "path": "_DataBase/MongoDB/Master MongoDB/1 - Into MongoDB Cloud.md"
-    },
-    {
-      "basename": "_ 0 Start",
-      "path": "_DataBase/MongoDB/Master MongoDB/_ 0 Start.md"
-    },
-    {
-      "basename": "5 - Collection Creation and Documents Insertion",
-      "path": "_DataBase/MongoDB/Introduction to the MongoDB/5 - Collection Creation and Documents Insertion.md"
-    },
-    {
-      "basename": "4 - Data Formats in MongoDb",
-      "path": "_DataBase/MongoDB/Introduction to the MongoDB/4 - Data Formats in MongoDb.md"
-    },
-    {
-      "basename": "_ Intro to MongoDB",
-      "path": "_DataBase/MongoDB/Introduction to the MongoDB/_ Intro to MongoDB.md"
+      "basename": "MongoDB Installation on Sys, on Docker",
+      "path": "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md"
     },
     {
       "basename": "2 Basic and CRUD",
       "path": "_DataBase/MongoDB/MongoDB - The Complete 2023/2 Basic and CRUD.md"
     },
     {
-      "basename": "3 Functions-Methods and how to save time",
-      "path": "C Sharp/Complete CSharp MasterClass/3 Functions-Methods and how to save time.md"
-    },
-    {
-      "basename": "3 Podstawy tworzenia aplikacji",
-      "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md"
-    },
-    {
-      "basename": "_ Kotlin bez tajemnic",
-      "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/_ Kotlin bez tajemnic.md"
-    },
-    {
-      "basename": "8 Aplikacje WPF",
-      "path": "_ Desktop/WPF/od Podstaw do app w WPF/8 Aplikacje WPF.md"
-    },
-    {
-      "basename": "4. Making Decisions",
-      "path": "C Sharp/Complete CSharp MasterClass/4. Making Decisions.md"
-    },
-    {
-      "basename": "6. OOP",
-      "path": "C Sharp/Complete CSharp MasterClass/6. OOP.md"
-    },
-    {
-      "basename": "7. Collections",
-      "path": "C Sharp/Complete CSharp MasterClass/7. Collections.md"
-    },
-    {
-      "basename": "1.3 First app",
-      "path": "Flutter/Flutter - 2022 a complete guide/1.3 First app.md"
-    },
-    {
-      "basename": "1.2. Flutter Achitecture",
-      "path": "Flutter/Flutter - 2022 a complete guide/1.2. Flutter Achitecture.md"
-    },
-    {
-      "basename": "1.1 Flutter - what is it",
-      "path": "Flutter/Flutter - 2022 a complete guide/1.1 Flutter - what is it.md"
+      "basename": "_ MongoDB Complete",
+      "path": "_DataBase/MongoDB/MongoDB - The Complete 2023/_ MongoDB Complete.md"
     },
     {
       "basename": "_ 0 Start",
-      "path": "Flutter/Flutter - 2022 a complete guide/_ 0 Start.md"
+      "path": "_DataBase/MongoDB/Master MongoDB/_ 0 Start.md"
     },
     {
-      "basename": "3.4 Socket programming",
-      "path": "Flutter/Dart/3.4 Socket programming.md"
-    },
-    {
-      "basename": "3.5 Database programming",
-      "path": "Flutter/Dart/3.5 Database programming.md"
-    },
-    {
-      "basename": "Dart&Vim",
-      "path": "Flutter/Dart/Dart&Vim.md"
-    },
-    {
-      "basename": "Dart Vim",
-      "path": "Flutter/Dart/Dart Vim.md"
-    },
-    {
-      "basename": "3.1 Dart Async Programming",
-      "path": "Flutter/Dart/3.1 Dart Async Programming.md"
-    },
-    {
-      "basename": "2.6 File system",
-      "path": "Flutter/Dart/2.6 File system.md"
-    },
-    {
-      "basename": "2.4. Abstraction",
-      "path": "Flutter/Dart/2.4. Abstraction.md"
-    },
-    {
-      "basename": "2.3. Polymorphism",
-      "path": "Flutter/Dart/2.3. Polymorphism.md"
-    },
-    {
-      "basename": "2.1 - Classes",
-      "path": "Flutter/Dart/2.1 - Classes.md"
-    },
-    {
-      "basename": "1.4 - Dart Flow Control",
-      "path": "Flutter/Dart/1.4 - Dart Flow Control.md"
-    },
-    {
-      "basename": "1.3 - Dart Collections",
-      "path": "Flutter/Dart/1.3 - Dart Collections.md"
+      "basename": "_0 Node Complete Guide",
+      "path": "_ WEB/N_O_D_E/NODE - the complete guide/_0 Node Complete Guide.md"
     }
   ],
   "omittedPaths": [],
