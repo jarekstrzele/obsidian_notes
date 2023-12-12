@@ -17,7 +17,12 @@ rusty_time = "0.11.0"
 ```
 
 `crago build && cargo build --release`
->So, when you run `cargo build && cargo build --release`, you are first building the project in a non-optimized mode, and then building it again in an optimized release mode. This is a common practice in Rust development, where the non-optimized build is used for development and debugging, while the optimized release build is used for deploying the final version of the project.
+>- So, when you run `cargo build && cargo build --release`, you are first building the project in a non-optimized mode, and then building it again in an optimized release mode.
+> - This is a common practice in Rust development, where the non-optimized build is used for development and debugging, while the optimized release build is used for deploying the final version of the project.
+
+miałem błędy na POP OS, bo brakowało paczki w systemie:
+`$ sudo apt-get install libasound2-dev`
+
 
 
 `use crossterm::{terminal, ExecutableCommand} ;`
