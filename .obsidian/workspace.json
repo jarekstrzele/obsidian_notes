@@ -1,76 +1,76 @@
 {
   "main": {
-    "id": "6f1d620cfb04cfa2",
+    "id": "77cc38ba167d4059",
     "type": "split",
     "children": [
       {
-        "id": "39438f717487b639",
+        "id": "7fa1616e7109edbf",
         "type": "tabs",
         "children": [
           {
-            "id": "ad21e06f6ed0de8b",
+            "id": "d66c46a7556ec2c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ WEB/N_O_D_E/NODE - the complete guide/_0 Node Complete Guide.md",
+                "file": "_DataBase/MongoDB/MongoDB - The Complete 2023/2 Basic and CRUD.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d76215dd5ceb9255",
+            "id": "888d215c6ce0a1e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_DataBase/MongoDB/MongoDB - The Complete 2023/_ MongoDB Complete.md",
+                "file": "_ Mobile/Android Kurs Tworzenia APlikacji/_ 0 Android Kurs Tworzenia Aplikacji.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b03d975eaf3d3552",
+            "id": "33920d71165d1a2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Desktop/WPF/od Podstaw do app w WPF/10.24 DataGrid.md",
+                "file": "_ Mobile/Kotlin/Kurs Android od podstaw/2 Tworzenie widoków.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4ed993e104217901",
+            "id": "42371a2634ef1058",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md",
+                "file": "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "39b43aa2b990b3f1",
+    "id": "c13f1e854c0092fe",
     "type": "split",
     "children": [
       {
-        "id": "7309f204701288b9",
+        "id": "fde02f5b0c9ec0a2",
         "type": "tabs",
         "children": [
           {
-            "id": "04bc47a26b7598a7",
+            "id": "f621f21825dbd82d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -80,12 +80,12 @@
             }
           },
           {
-            "id": "ca32eba7f53d50b9",
+            "id": "71e065b19cb47489",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Maximilian_Schwarzmuller",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +95,7 @@
             }
           },
           {
-            "id": "d8620bb078e166f1",
+            "id": "593be4c7c3978b4e",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -103,7 +103,7 @@
             }
           },
           {
-            "id": "faa7e67ef6d9a902",
+            "id": "aad6e2f11a660f1c",
             "type": "leaf",
             "state": {
               "type": "recent-files",
@@ -111,7 +111,7 @@
             }
           },
           {
-            "id": "1f385a7ec414adab",
+            "id": "8fb97ec29b64ab2e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -122,25 +122,25 @@
       }
     ],
     "direction": "horizontal",
-    "width": 420.5
+    "width": 390.51103591918945
   },
   "right": {
-    "id": "7036b4a7a06b882e",
+    "id": "ec7d1a70da2de581",
     "type": "split",
     "children": [
       {
-        "id": "27b664605e4010bd",
+        "id": "65fd8f7e45eb118a",
         "type": "tabs",
         "children": [
           {
-            "id": "5c14aaca8170032a",
+            "id": "86ea26330e3ce595",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Desktop/WPF/od Podstaw do app w WPF/10.24 DataGrid.md",
-                "collapseAll": false,
-                "extraContext": false,
+                "file": "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md",
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -150,19 +150,19 @@
             }
           },
           {
-            "id": "bb5471eb01b876eb",
+            "id": "8925ff2f7b974536",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Desktop/WPF/od Podstaw do app w WPF/10.24 DataGrid.md",
+                "file": "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "2c10840f95fd2771",
+            "id": "ed3da785e6864182",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -173,27 +173,17 @@
             }
           },
           {
-            "id": "a777dbdfb940b863",
+            "id": "9efcb7993d551929",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Desktop/WPF/od Podstaw do app w WPF/10.24 DataGrid.md"
+                "file": "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md"
               }
             }
           },
           {
-            "id": "564071aa7a4e5345",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency"
-              }
-            }
-          },
-          {
-            "id": "221fd19049d7d28b",
+            "id": "399be6bee60cca0a",
             "type": "leaf",
             "state": {
               "type": "juggl_nodes",
@@ -201,53 +191,95 @@
             }
           },
           {
-            "id": "5d95330ed5cc80fb",
+            "id": "6b1ecb330bd5d966",
             "type": "leaf",
             "state": {
               "type": "juggl_style",
               "state": {}
             }
+          },
+          {
+            "id": "a37f9b7caeae370a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "a273bcff908d0785",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "juggl:Juggl global graph": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "juggl:Juggl global graph": false
     }
   },
-  "active": "b03d975eaf3d3552",
+  "active": "42371a2634ef1058",
   "lastOpenFiles": [
-    "_ Desktop/WPF/od Podstaw do app w WPF/10.3 DataContext oraz interfejs INotifyPropertyChanged.md",
-    "_ Desktop/WPF/od Podstaw do app w WPF/10.2 Eventy i Delegaty.md",
-    "_ Desktop/WPF/od Podstaw do app w WPF/10.24 DataGrid.md",
-    "_DataBase/MongoDB/Learn MongoDB in 1 hour/_ Learn MongoDB in 1 hour.md",
     "_ Mobile/Kotlin/Kurs Android od podstaw/2 Tworzenie widoków.md",
+    "_ Mobile/Kotlin/Kurs Android od podstaw/_ Kurs Android od podstaw.md",
+    "_ Mobile/Android Kurs Tworzenia APlikacji/_ 0 Android Kurs Tworzenia Aplikacji.md",
+    "_ Mobile/Kotlin/Funkcje lambda.md",
+    "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 6 Invaders Project.md",
+    "_ Mobile/Kotlin/Kurs Android od podstaw",
+    "_ Mobile/Kotlin/Kotlin bez tajemnic/3.3. View Binding.md",
+    "_ Mobile/Kotlin/Kotlin bez tajemnic/3.2. View Models.md",
+    "_ Mobile/Kotlin/Kotlin bez tajemnic/3.1. Fragments.md",
+    "_ Desktop/Python/Tkinter/ttkbootstrap - Python Tkinter GUI Design/_ Python Tkinter GUI Design Using ttkbootstrap.md",
+    "_ Desktop/Python/Tkinter/ttkbootstrap - Python Tkinter GUI Design",
+    "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 5 Final Lectures.md",
+    "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 1 Fundamentals.md",
+    "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/_ Ultimate Rust Crash Course 1.md",
+    "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 4 The Meat of Rust.md",
+    "_ Mobile/Kotlin/DatePicker Dialog.md",
+    "_ Mobile/Kotlin/Spinner.md",
+    "_ Mobile/Kotlin/selector.md",
+    "_ Mobile/Kotlin/the complete Android Kotlin/_ the complete Android Kotlin.md",
+    "_ Mobile/Kotlin/the complete Android Kotlin/8.4 EditTexts.md",
+    "_ Mobile/Rusz Głową Android. Programowanie aplikacji/2. Tworzenie interaktywnych aplikacji.md",
+    "_ Mobile/Rusz Głową Android. Programowanie aplikacji/1. Skok na głęboką wodę.md",
+    "_ Mobile/Rusz Głową Android. Programowanie aplikacji/_ Rusz Głową Android. Programowanie aplikacji.md",
     "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md",
-    "_DataBase/MongoDB/MongoDB - The Complete 2023/2 Basic and CRUD.md",
+    "linux/UBUNTU.md",
+    "_DataBase/MongoDB/Learn MongoDB in 1 hour/_ Learn MongoDB in 1 hour.md",
+    "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md",
     "_DataBase/MongoDB/MongoDB - The Complete 2023/_ MongoDB Complete.md",
-    "_DataBase/MongoDB/Master MongoDB/_ 0 Start.md",
-    "_ WEB/N_O_D_E/NODE - the complete guide/_0 Node Complete Guide.md",
-    "PYTHON/GUI/PySimpleGUI.md",
-    "PYTHON/GUI/Tkinter/Tkinter 0.md",
-    "PYTHON/GUI/Tkinter/Tkinter Pomidoro.md",
-    "PYTHON/GUI/Tkinter/Tkinter konwerter.md",
-    "HASKELL/The Complete Haskell Course/3 Functions.md",
-    "HASKELL/The Complete Haskell Course/_ 0 Complete Haskell Course.md",
-    "HASKELL/The Complete Haskell Course/2 Basic Types.md",
-    "HASKELL/The Complete Haskell Course/1 Basics.md",
-    "HASKELL/Haskell plac ćwiczeń/1 Haskell i Myślenie Funkcyjne.md",
-    "HASKELL/Haskell plac ćwiczeń/_ Haskell plac ćwiczeń dla uczonych.md"
+    "_ Mobile/Rusz Głową Android. Programowanie aplikacji",
+    "_ Desktop/WPF/od Podstaw do app w WPF",
+    "_ Desktop/Python/Tkinter/ttkbootstrap Python Tkinter",
+    "_DataBase/MongoDB/Learn MongoDB in 1 hour",
+    "_DataBase/MongoDB/MongoDB - The Complete 2023",
+    "_ Mobile/Kotlin/Kotlin bez tajemnic",
+    "pexels-alex-fu-1302436.jpg",
+    "C Sharp/Complete CSharp MasterClass",
+    "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4",
+    "canvas_moduls_rust.canvas",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "test canvas.canvas",
+    "methodology/images/seaborn_relplot_tip_total_bill_4.png",
+    "R U S T/Untitled.canvas"
   ]
 }
