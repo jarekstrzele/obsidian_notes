@@ -35,6 +35,43 @@ class MainActivity : ComponentActivity() {
 }
 ```
 
+## column
+```kotlin
+class MainActivity : ComponentActivity() {  
+override fun onCreate(savedInstanceState: Bundle?) {  
+	super.onCreate(savedInstanceState)  
+		setContent {  
+		MyColumn()  
+	}  
+}  
+  
+@Composable  
+fun MyColumn(){  
+//Alignment: Start, End, Centerhirizontally  
+//bez fillMaxSize() ustawienia dotyczą tylko samego tekstu  
+// a nie całego ekrany  
+//verticalArrangement - jest jak rozbudowany flex  
+	Column(  
+		modifier = Modifier.background(Color.Cyan).fillMaxSize(),  
+		horizontalAlignment = Alignment.CenterHorizontally,  
+		verticalArrangement = Arrangement.Center  
+	  
+	) {  
+		Text(text="Jestem tekstem z MyElement")  
+		Text(text="JDrugi element")  
+		Text(text="Trzeci tekst")  
+		}  
+}
+```
+
+
+## row
+```kotlin
+
+```
+
+
+
 
 
 
