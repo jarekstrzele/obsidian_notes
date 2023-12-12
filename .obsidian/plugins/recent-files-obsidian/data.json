@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Box",
+      "path": "R U S T/Box.md"
+    },
+    {
       "basename": "I 6 Invaders Project",
       "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 6 Invaders Project.md"
+    },
+    {
+      "basename": "Result",
+      "path": "R U S T/Result.md"
+    },
+    {
+      "basename": "atrybut",
+      "path": "R U S T/atrybut.md"
+    },
+    {
+      "basename": "Tech Stack in Rust",
+      "path": "R U S T/Tech Stack in Rust.md"
+    },
+    {
+      "basename": "Rust Tutorial Full Course",
+      "path": "R U S T/Rust Tutorial Full Course.md"
     },
     {
       "basename": "I 5 Final Lectures",
@@ -179,26 +199,6 @@
     {
       "basename": "2.6 File system",
       "path": "Flutter/Dart/2.6 File system.md"
-    },
-    {
-      "basename": "2.4. Abstraction",
-      "path": "Flutter/Dart/2.4. Abstraction.md"
-    },
-    {
-      "basename": "2.3. Polymorphism",
-      "path": "Flutter/Dart/2.3. Polymorphism.md"
-    },
-    {
-      "basename": "2.1 - Classes",
-      "path": "Flutter/Dart/2.1 - Classes.md"
-    },
-    {
-      "basename": "1.4 - Dart Flow Control",
-      "path": "Flutter/Dart/1.4 - Dart Flow Control.md"
-    },
-    {
-      "basename": "1.3 - Dart Collections",
-      "path": "Flutter/Dart/1.3 - Dart Collections.md"
     }
   ],
   "omittedPaths": [],

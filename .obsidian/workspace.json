@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 6 Invaders Project.md",
+                "file": "R U S T/Box.md",
                 "mode": "source",
                 "source": false
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 6 Invaders Project.md",
+                "file": "R U S T/Box.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 6 Invaders Project.md",
+                "file": "R U S T/Box.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 6 Invaders Project.md"
+                "file": "R U S T/Box.md"
               }
             }
           },
@@ -236,6 +236,12 @@
   },
   "active": "d66c46a7556ec2c5",
   "lastOpenFiles": [
+    "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 6 Invaders Project.md",
+    "R U S T/Result.md",
+    "R U S T/atrybut.md",
+    "R U S T/Tech Stack in Rust.md",
+    "R U S T/Rust Tutorial Full Course.md",
+    "R U S T/Box.md",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 5 Final Lectures.md",
     "_DataBase/MongoDB/MongoDB - The Complete 2023/2 Basic and CRUD.md",
     "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md",
@@ -243,7 +249,6 @@
     "_ Mobile/Kotlin/Kurs Android od podstaw/_ Kurs Android od podstaw.md",
     "_ Mobile/Android Kurs Tworzenia APlikacji/_ 0 Android Kurs Tworzenia Aplikacji.md",
     "_ Mobile/Kotlin/Funkcje lambda.md",
-    "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 6 Invaders Project.md",
     "_ Mobile/Kotlin/Kurs Android od podstaw",
     "_ Mobile/Kotlin/Kotlin bez tajemnic/3.3. View Binding.md",
     "_ Mobile/Kotlin/Kotlin bez tajemnic/3.2. View Models.md",
@@ -259,11 +264,6 @@
     "_ Mobile/Kotlin/the complete Android Kotlin/_ the complete Android Kotlin.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/8.4 EditTexts.md",
     "_ Mobile/Rusz Głową Android. Programowanie aplikacji/2. Tworzenie interaktywnych aplikacji.md",
-    "_ Mobile/Rusz Głową Android. Programowanie aplikacji/1. Skok na głęboką wodę.md",
-    "_ Mobile/Rusz Głową Android. Programowanie aplikacji/_ Rusz Głową Android. Programowanie aplikacji.md",
-    "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md",
-    "linux/UBUNTU.md",
-    "_DataBase/MongoDB/Learn MongoDB in 1 hour/_ Learn MongoDB in 1 hour.md",
     "_ Mobile/Rusz Głową Android. Programowanie aplikacji",
     "_ Desktop/WPF/od Podstaw do app w WPF",
     "_ Desktop/Python/Tkinter/ttkbootstrap Python Tkinter",

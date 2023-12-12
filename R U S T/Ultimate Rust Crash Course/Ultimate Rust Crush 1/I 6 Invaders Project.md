@@ -46,6 +46,10 @@ fn main() -> Result<(), Box<dyn Error>>{
 }
 ```
 
+see:
+- [[Box]]
+- [[Result]]
+
 > `Box<dyn Error>` oznacza, że błąd może być dowolnego typu implementującego trait `Error` z biblioteki standardowej.
 
 > `audio.wait()` zapewnia, że program nie zakończy się przed upewnieniem się, że wszystkie dźwięki zostały odtworzone w całości.
