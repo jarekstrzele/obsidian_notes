@@ -25,10 +25,6 @@ miałem błędy na POP OS, bo brakowało paczki w systemie:
 
 
 
-`use crossterm::{terminal, ExecutableCommand} ;`
-- moduł `terminal` zwiera funkcje i typy związane z zarządzaniem terminalem, takie jak przejście do alternatywnego ekranu ...
-- moduł `ExecutableCommand` - to trait, który rozszerza  możliwości strumienia `std::io::stdout()`
-
 Invaders 1.0
 ```rust
 use std::error::Error;
@@ -52,7 +48,16 @@ fn main() -> Result<(), Box<dyn Error>>{
 
 > `Box<dyn Error>` oznacza, że błąd może być dowolnego typu implementującego trait `Error` z biblioteki standardowej.
 
->o wywołanie `audio.wait()` zapewnia, że program nie zakończy się przed upewnieniem się, że wszystkie dźwięki zostały odtworzone w całości.
+> `audio.wait()` zapewnia, że program nie zakończy się przed upewnieniem się, że wszystkie dźwięki zostały odtworzone w całości.
+
+> `Ok(())` This line returns an `Ok` value indicating successful execution of the program. The empty parameter `()` represents the absence of any error or additional data.
+
+
+----
+
+`use crossterm::{terminal, ExecutableCommand} ;`
+- moduł `terminal` zwiera funkcje i typy związane z zarządzaniem terminalem, takie jak przejście do alternatywnego ekranu ...
+- moduł `ExecutableCommand` - to trait, który rozszerza  możliwości strumienia `std::io::stdout()`
 
 version 1.0
 ```rust
