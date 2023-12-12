@@ -88,6 +88,10 @@ Text(text="Trzeci tekst")
 ```
 
 
+## `modifier`
+służy do modyfikacji elementów graficznych.
+
+
 
 
 
