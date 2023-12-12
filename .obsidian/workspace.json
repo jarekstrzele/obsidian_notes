@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "42371a2634ef1058",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_ Mobile/Kotlin/Kurs Android od podstaw/_ Kurs Android od podstaw.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -126,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Kotlin/Kurs Android od podstaw/2 Tworzenie widoków.md",
+                "file": "_ Mobile/Kotlin/Kurs Android od podstaw/_ Kurs Android od podstaw.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -143,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Kotlin/Kurs Android od podstaw/2 Tworzenie widoków.md",
+                "file": "_ Mobile/Kotlin/Kurs Android od podstaw/_ Kurs Android od podstaw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Kotlin/Kurs Android od podstaw/2 Tworzenie widoków.md"
+                "file": "_ Mobile/Kotlin/Kurs Android od podstaw/_ Kurs Android od podstaw.md"
               }
             }
           },
@@ -223,10 +235,10 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "33920d71165d1a2a",
+  "active": "42371a2634ef1058",
   "lastOpenFiles": [
-    "_ Mobile/Kotlin/Kurs Android od podstaw/_ Kurs Android od podstaw.md",
     "_ Mobile/Kotlin/Kurs Android od podstaw/2 Tworzenie widoków.md",
+    "_ Mobile/Kotlin/Kurs Android od podstaw/_ Kurs Android od podstaw.md",
     "_ Mobile/Android Kurs Tworzenia APlikacji/_ 0 Android Kurs Tworzenia Aplikacji.md",
     "_ Mobile/Kotlin/Funkcje lambda.md",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 6 Invaders Project.md",

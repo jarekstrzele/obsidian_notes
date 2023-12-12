@@ -8,7 +8,7 @@ MainActivity
 ```kotlin
 class MainActivity: ComponentActibvity(){
 	override fun onCreate ...
-	setContent( Text(text="Witaj androidzie"))
+	setContent{Text(text="Witaj androidzie")}
 }
 ```
 

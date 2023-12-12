@@ -6,8 +6,28 @@
 > - w momencie tworzenia widoku jest wywoływana metoda `onCreate` w jej wnętrzu umieszczamy elementy statyczne, które mają pojawić się 
 
 
+
 `setContent { Text(text="Witam w Androidzie")}` ten kod jest równoważny:
-`setContent( { Text(text="Witam w Androidzie")} )`
+`setContent( content = { Text(text="Witam w Androidzie")})`
+parameter `content` jest ostatnim parametrem, więc, można go napisać jak wyżej 
+
+
+## tworzenie funkcji do wyświetlania elementów graficznych
+
+takie specjalne funkcje zaczynają się z DUŻEJ litery z adnotacją `@Componsable` (trzeba do importować ją)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
