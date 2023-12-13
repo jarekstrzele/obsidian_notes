@@ -745,7 +745,8 @@ R.id.btn_submit ->{
 				setQuestion()
 			}
 			else -> {
-			Toast.makeText(this,"You made it to")	
+			//after the last question
+			Toast.makeText(this,"You made it to the end")	
 			}
 		}
 	
