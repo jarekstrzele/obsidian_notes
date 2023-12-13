@@ -802,8 +802,17 @@ private fun setQuestion(){
 - create a new `EmptyViewActivity` -> name it `ResutlActivity`
 - add to drawable an image with trophy
 - go to `activity_result.xml`
-	- main layout will be `Lin`
-
+	- main layout will be `LinearLayout`
+		- background: `@drawable/ic_bg`
+		- orientation `vertical`
+		- gravity `center_horizontaly`
+		- add `TextView` with `text="Resutl"`
+		- add `ImageView` with `src="@drawable/ic_trophy"`
+		- add `TextView` with `text="Contratulation"`
+		- add `TextView` to display a name of the user (`tools:text="UserName")
+		- add `TextView` with scores 
+		- add `Button` wit `text="FINISH"`
+		- 
 
 
 
