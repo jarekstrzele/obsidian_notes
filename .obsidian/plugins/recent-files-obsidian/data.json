@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "10.24 DataGrid",
-      "path": "_ Desktop/WPF/od Podstaw do app w WPF/10.24 DataGrid.md"
-    },
-    {
       "basename": "10.3 DataContext oraz interfejs INotifyPropertyChanged",
       "path": "_ Desktop/WPF/od Podstaw do app w WPF/10.3 DataContext oraz interfejs INotifyPropertyChanged.md"
+    },
+    {
+      "basename": "10.1 Binding",
+      "path": "_ Desktop/WPF/od Podstaw do app w WPF/10.1 Binding.md"
+    },
+    {
+      "basename": "10.24 DataGrid",
+      "path": "_ Desktop/WPF/od Podstaw do app w WPF/10.24 DataGrid.md"
     },
     {
       "basename": "10.2 Eventy i Delegaty",

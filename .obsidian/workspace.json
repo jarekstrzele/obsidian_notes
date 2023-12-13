@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Desktop/WPF/od Podstaw do app w WPF/10.24 DataGrid.md",
+                "file": "_ Desktop/WPF/od Podstaw do app w WPF/10.3 DataContext oraz interfejs INotifyPropertyChanged.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Desktop/WPF/od Podstaw do app w WPF/10.24 DataGrid.md",
+                "file": "_ Desktop/WPF/od Podstaw do app w WPF/10.3 DataContext oraz interfejs INotifyPropertyChanged.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Desktop/WPF/od Podstaw do app w WPF/10.24 DataGrid.md",
+                "file": "_ Desktop/WPF/od Podstaw do app w WPF/10.3 DataContext oraz interfejs INotifyPropertyChanged.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Desktop/WPF/od Podstaw do app w WPF/10.24 DataGrid.md"
+                "file": "_ Desktop/WPF/od Podstaw do app w WPF/10.3 DataContext oraz interfejs INotifyPropertyChanged.md"
               }
             }
           },
@@ -229,9 +229,10 @@
   },
   "active": "b03d975eaf3d3552",
   "lastOpenFiles": [
+    "_ Desktop/WPF/od Podstaw do app w WPF/10.1 Binding.md",
+    "_ Desktop/WPF/od Podstaw do app w WPF/10.24 DataGrid.md",
     "_ Desktop/WPF/od Podstaw do app w WPF/10.3 DataContext oraz interfejs INotifyPropertyChanged.md",
     "_ Desktop/WPF/od Podstaw do app w WPF/10.2 Eventy i Delegaty.md",
-    "_ Desktop/WPF/od Podstaw do app w WPF/10.24 DataGrid.md",
     "_DataBase/MongoDB/Learn MongoDB in 1 hour/_ Learn MongoDB in 1 hour.md",
     "_ Mobile/Kotlin/Kurs Android od podstaw/2 Tworzenie widoków.md",
     "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md",
