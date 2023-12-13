@@ -751,13 +751,31 @@ R.id.btn_submit ->{
 		if(question!!.correctAnswer != mSelectedOptionPosition) {
 			answerView(mSelectedOptionPositio, R.drawable.wrong_option_border_bg)
 		}
-		answerView(question.correctAnswer, R.drawable)
-		
+		answerView(question.correctAnswer, R.drawable.correct_option_border_bg)
+
+		if(mCurrentPosition == mQuestionsList!!.size){
+			btnSubmit?.text = "FINISH"
+		} else {
+			btnSubmit?.text = "GO TO NEXT QUESTION"
+		}
+
+		mSelectedOptionPosition = 0
+
+	
 	}
+ }
 }
 ```
 
+to reset background options when we are in the next question call `defaultOptinsView()` at the beginninging of the `setQuestion` method
+```kotlin
+private fun setQuestion(){
 
+	defaultOptionsView()
+	val question: Question ...
+
+}
+```
 
 
 
