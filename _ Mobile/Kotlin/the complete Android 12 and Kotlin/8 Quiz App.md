@@ -211,12 +211,25 @@ class MainActivity : AppCompatActivity() {
                 Log.d("mylog", "Please enter your name")  
             } else {  
                 val intent = Intent(this, QuizQuestionsActivity::class.java)  
-                Log.d("mylog", "ok, ${editTextName.text}")  
+                //przekazanie nazwy użytkownika do drugiej aktywności  
+  			    intent.putExtra("playerName", editTextName.text.toString())
                 startActivity(intent)  
                 finish() // to finish MainActivity  
             }  
         }  
     }
+```
+
+In `QuizQuestionsActivity` catch the player name in `onCreateMethod`
+```kotlin
+override fun onCreate(savedInstanceState: Bundle?) {  
+	super.onCreate(savedInstanceState)  
+	setContentView(R.layout.activity_quiz_questions)  
+  
+	//przechwycenie imienia gracza  
+		val userName: String? = intent.getStringExtra("playerName")  
+	Log.i("userName", "$userName")
+
 ```
 
 ### a new file dataclass
