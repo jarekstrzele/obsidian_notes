@@ -436,14 +436,7 @@ and at the end add `Button`:
 -------
 ## Adding the button functionality to the questions activity
 
-### add `selected_option_border_bg.xml`
-in `drawable` folder > new > Drawable resource file > *selected_option_border_bg*
 
-copy content from `default_option_border_bg.xml` and paste it into the new file `selected_option_border_bg.xml`
-and change `color` in `stroke` into <stroke  
-    android:width="5dp"  
-    android:color="@color/design_default_color_primary" />`<stroke android:width="5dp"     android:color="@color/design_default_color_primary" />`
-    
 ### add button submit handler 
 
 - in `active_quiz_questions` add id to the button
@@ -549,6 +542,15 @@ override fun onClick(p0: View?) {
 }
 ```
 
+----
+### add `selected_option_border_bg.xml`
+in `drawable` folder > new > Drawable resource file > *selected_option_border_bg*
+
+copy content from `default_option_border_bg.xml` and paste it into the new file `selected_option_border_bg.xml`
+and change `color` in `stroke` into <stroke  
+    android:width="5dp"  
+    android:color="@color/design_default_color_primary" />`<stroke android:width="5dp"     android:color="@color/design_default_color_primary" />`
+    
 ### add a new function `defaultOptionsView`
 ### In the file `QuizQuestionsActivity`
 when a option will be clicked other become gray
@@ -589,9 +591,13 @@ for(option in options){
 
 #### `selectedOptionView()`
 ```kotlin
-private fun selectedOptionView(textview: TextView, selectedOptionNum : Int){  
-defaultOptionsView() // set buttons/textView to their normal state  
-mSelectedOptionPosition = selectedOptionNum  
+private fun selectedOptionView(
+	textview: TextView, 
+	selectedOptionNum : Int
+	)
+{  
+	defaultOptionsView() // set buttons/textView to their normal state  
+	mSelectedOptionPosition = selectedOptionNum  //mSelectedOptionPosition is defined as an object attribute ("global" in class)
 textview.setTextColor(Color.parseColor("#363a43"))  
 textview.setTypeface(textview.typeface, Typeface.BOLD)  
 textview.background = ContextCompat.getDrawable(  
@@ -607,34 +613,34 @@ R.drawable.selected_option_border_bg
 ####  `onClick()`
  ```kotlin
  override fun onClick(view: View?) {  
-when(view?.id){  
-R.id.textview_option_one -> {  
-textViewOptionOne?.let{  
-selectedOptionView(it, 1)  
-}  
-}  
+	when(view?.id){  
+		R.id.textview_option_one -> {  
+		textViewOptionOne?.let{  
+		selectedOptionView(it, 1)  
+		}  
+		}  
   
-R.id.textview_option_two -> {  
-textViewOptionTwo?.let{  
-selectedOptionView(it, 2)  
-}  
-}  
+		R.id.textview_option_two -> {  
+		textViewOptionTwo?.let{  
+		selectedOptionView(it, 2)  
+		}  
+		}  
+		  
+		R.id.textview_option_three -> {  
+		textViewOptionThree?.let{  
+		selectedOptionView(it, 3)  
+		}  
+		}  
   
-R.id.textview_option_three -> {  
-textViewOptionThree?.let{  
-selectedOptionView(it, 3)  
-}  
-}  
-  
-R.id.textview_option_four -> {  
-textViewOptionFour?.let{  
-selectedOptionView(it, 4)  
-}  
-R.id.btn_submit -> {  
-// TODO "implement submit buttom"  
-}
-}  
-}  
+		R.id.textview_option_four -> {  
+		textViewOptionFour?.let{  
+		selectedOptionView(it, 4)  
+		}  
+		R.id.btn_submit -> {  
+		// TODO "implement submit buttom"  
+		}
+		}  
+	}  
 }
 ```
 
