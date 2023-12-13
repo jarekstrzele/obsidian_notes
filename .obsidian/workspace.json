@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ WEB/N_O_D_E/NODE - the complete guide/_0 Node Complete Guide.md",
+                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,30 +32,6 @@
             }
           },
           {
-            "id": "b03d975eaf3d3552",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_ Desktop/WPF/od Podstaw do app w WPF/10.3 DataContext oraz interfejs INotifyPropertyChanged.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ba9b36a74fbd94cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4ed993e104217901",
             "type": "leaf",
             "state": {
@@ -67,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -150,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md"
               }
             }
           },
@@ -239,8 +214,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ba9b36a74fbd94cd",
+  "active": "ad21e06f6ed0de8b",
   "lastOpenFiles": [
+    "_ Mobile/Kotlin/the complete Android Kotlin/8.6 RadioButton.md",
+    "_ WEB/N_O_D_E/NODE - the complete guide/_0 Node Complete Guide.md",
+    "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md",
+    "_DataBase/MongoDB/MongoDB - The Complete 2023/_ MongoDB Complete.md",
     "_ Desktop/WPF/od Podstaw do app w WPF/10.3 DataContext oraz interfejs INotifyPropertyChanged.md",
     "conflict-files-obsidian-git.md",
     "R U S T/Result.md",
@@ -249,11 +228,8 @@
     "_ Desktop/WPF/od Podstaw do app w WPF/10.2 Eventy i Delegaty.md",
     "_DataBase/MongoDB/Learn MongoDB in 1 hour/_ Learn MongoDB in 1 hour.md",
     "_ Mobile/Kotlin/Kurs Android od podstaw/2 Tworzenie widoków.md",
-    "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md",
     "_DataBase/MongoDB/MongoDB - The Complete 2023/2 Basic and CRUD.md",
-    "_DataBase/MongoDB/MongoDB - The Complete 2023/_ MongoDB Complete.md",
     "_DataBase/MongoDB/Master MongoDB/_ 0 Start.md",
-    "_ WEB/N_O_D_E/NODE - the complete guide/_0 Node Complete Guide.md",
     "PYTHON/GUI/PySimpleGUI.md",
     "PYTHON/GUI/Tkinter/Tkinter 0.md",
     "PYTHON/GUI/Tkinter/Tkinter Pomidoro.md",
