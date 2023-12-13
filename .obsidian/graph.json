@@ -32,7 +32,7 @@
       "query": "tag:haskell",
       "color": {
         "a": 1,
-        "rgb": 10828031
+        "rgb": 7716321
       }
     },
     {
@@ -69,6 +69,13 @@
         "a": 1,
         "rgb": 14701233
       }
+    },
+    {
+      "query": "kotlin",
+      "color": {
+        "a": 1,
+        "rgb": 5184387
+      }
     }
   ],
   "collapse-display": false,
@@ -81,6 +88,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 209,
-  "scale": 0.1290443937860157,
+  "scale": 0.08602959585734378,
   "close": false
 }

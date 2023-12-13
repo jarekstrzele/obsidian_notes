@@ -17,12 +17,13 @@ rusty_time = "0.11.0"
 ```
 
 `crago build && cargo build --release`
->So, when you run `cargo build && cargo build --release`, you are first building the project in a non-optimized mode, and then building it again in an optimized release mode. This is a common practice in Rust development, where the non-optimized build is used for development and debugging, while the optimized release build is used for deploying the final version of the project.
+>- So, when you run `cargo build && cargo build --release`, you are first building the project in a non-optimized mode, and then building it again in an optimized release mode.
+> - This is a common practice in Rust development, where the non-optimized build is used for development and debugging, while the optimized release build is used for deploying the final version of the project.
+
+miałem błędy na POP OS, bo brakowało paczki w systemie:
+`$ sudo apt-get install libasound2-dev`
 
 
-`use crossterm::{terminal, ExecutableCommand} ;`
-- moduł `terminal` zwiera funkcje i typy związane z zarządzaniem terminalem, takie jak przejście do alternatywnego ekranu ...
-- moduł `ExecutableCommand` - to trait, który rozszerza  możliwości strumienia `std::io::stdout()`
 
 Invaders 1.0
 ```rust
@@ -45,9 +46,22 @@ fn main() -> Result<(), Box<dyn Error>>{
 }
 ```
 
+see:
+- [[Box]]
+- [[Result]]
+
 > `Box<dyn Error>` oznacza, że błąd może być dowolnego typu implementującego trait `Error` z biblioteki standardowej.
 
->o wywołanie `audio.wait()` zapewnia, że program nie zakończy się przed upewnieniem się, że wszystkie dźwięki zostały odtworzone w całości.
+> `audio.wait()` zapewnia, że program nie zakończy się przed upewnieniem się, że wszystkie dźwięki zostały odtworzone w całości.
+
+> `Ok(())` This line returns an `Ok` value indicating successful execution of the program. The empty parameter `()` represents the absence of any error or additional data.
+
+
+----
+
+`use crossterm::{terminal, ExecutableCommand} ;`
+- moduł `terminal` zwiera funkcje i typy związane z zarządzaniem terminalem, takie jak przejście do alternatywnego ekranu ...
+- moduł `ExecutableCommand` - to trait, który rozszerza  możliwości strumienia `std::io::stdout()`
 
 version 1.0
 ```rust
