@@ -226,6 +226,8 @@ The MongoDB update command `db.students.updateMany({newField:{$exists:false}}, {
 > "Find all documents in the students collection where the name is not 'piotr'."
 
 
+## `$eq` equal
+
 ## `$lt` less than
 `school> db.students.find({gps: {$lt: 20}})`
 >  "Find all documents in the students collection where the gps field is less than 20."
@@ -280,7 +282,7 @@ school> db.students.find({gpa: {$in:[44.32, 22.1]}})
 ```
 
 
-### `$ntin`
+### `$nin`
 ```bash
 school> db.students.find({gpa: {$nin:[44.32, 22.1]}})
 [
