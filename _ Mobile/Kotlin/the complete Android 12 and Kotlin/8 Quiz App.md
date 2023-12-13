@@ -611,6 +611,7 @@ R.drawable.selected_option_border_bg
 
 
 ####  `onClick()`
+
  ```kotlin
  override fun onClick(view: View?) {  
 	when(view?.id){  
@@ -644,6 +645,11 @@ R.drawable.selected_option_border_bg
 }
 ```
 
+The class must implement interface `View.OnClickListener`
+```kotlin
+class QuizQuestionsActivity : AppCompatActivity(), View.OnClickListener { ...
+
+```
 add onClick to these TextViews
 inside `onCreate` method in `QuizQuestionActivity`
 ```kotlin
@@ -694,7 +700,37 @@ change inside it *green* to *red*
 ```
 
 
-
+create a new function
+```kotlin
+private fun answerView(answer: Int, drawableView: Int){
+	when(answer){
+		1 ->{
+			textViewOptionOne?.background = ContextCompat.getDrawable(
+				this,
+				drawableView
+			)
+		}
+		2 ->{
+			textViewOptionOne?.background = ContextCompat.getDrawable(
+				this,
+				drawableView
+			)
+		}
+		3 ->{
+			textViewOptionOne?.background = ContextCompat.getDrawable(
+				this,
+				drawableView
+			)
+		}
+		4 ->{
+			textViewOptionOne?.background = ContextCompat.getDrawable(
+				this,
+				drawableView
+			)
+		}
+	}
+}
+```
 
 
 
