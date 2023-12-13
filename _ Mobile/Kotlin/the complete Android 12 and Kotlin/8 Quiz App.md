@@ -724,19 +724,19 @@ private fun answerView(answer: Int, drawableView: Int){
 			)
 		}
 		2 ->{
-			textViewOptionOne?.background = ContextCompat.getDrawable(
+			textViewOptionTwo?.background = ContextCompat.getDrawable(
 				this,
 				drawableView
 			)
 		}
 		3 ->{
-			textViewOptionOne?.background = ContextCompat.getDrawable(
+			textViewOptionThree?.background = ContextCompat.getDrawable(
 				this,
 				drawableView
 			)
 		}
 		4 ->{
-			textViewOptionOne?.background = ContextCompat.getDrawable(
+			textViewOptionFour?.background = ContextCompat.getDrawable(
 				this,
 				drawableView
 			)
@@ -757,14 +757,16 @@ R.id.btn_submit ->{
 			mCurrentPosition <= mQuestionsList!!.size ->{
 				setQuestion()
 			}
-			else -> {
+			
 			//after the last question
-			Toast.makeText(this,"You made it to the end")	
+			else -> Toast.makeText(this,  
+"To już jest koniec!",  
+Toast.LENGTH_LONG).show())	
 			}
 		}
 	
 	} else {
-		val question = mQuestionsList?.get(CurrentPosition-1)
+		val question = mQuestionsList?.get(mCurrentPosition-1)
 		if(question!!.correctAnswer != mSelectedOptionPosition) {
 			answerView(mSelectedOptionPositio, R.drawable.wrong_option_border_bg)
 		}
