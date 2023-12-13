@@ -796,6 +796,25 @@ private fun setQuestion(){
 }
 ```
 
+----------
+# GUI for Resutl Activity
+
+- create a new `EmptyViewActivity` -> name it `ResutlActivity`
+- add to drawable an image with trophy
+- go to `activity_result.xml`
+	- main layout will be `Lin`
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

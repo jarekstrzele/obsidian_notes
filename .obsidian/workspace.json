@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d31e26cc78bbc194",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -126,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Desktop/Python/Tkinter/Tkinter 0.md",
+                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Desktop/Python/Tkinter/Tkinter 0.md",
+                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Desktop/Python/Tkinter/Tkinter 0.md"
+                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md"
               }
             }
           },
@@ -215,8 +227,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4ed993e104217901",
+  "active": "d31e26cc78bbc194",
   "lastOpenFiles": [
+    "_ Desktop/Python/Tkinter/Tkinter 0.md",
     "_ Desktop/Python/Tkinter/Tkinter Pomidoro.md",
     "_DataBase/MongoDB/Learn MongoDB in 1 hour/_ Learn MongoDB in 1 hour.md",
     "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md",
@@ -241,7 +254,6 @@
     "HASKELL/The Complete Haskell Course/_ 0 Complete Haskell Course.md",
     "HASKELL/The Complete Haskell Course/2 Basic Types.md",
     "HASKELL/The Complete Haskell Course/1 Basics.md",
-    "HASKELL/Haskell plac ćwiczeń/1 Haskell i Myślenie Funkcyjne.md",
-    "HASKELL/Haskell plac ćwiczeń/_ Haskell plac ćwiczeń dla uczonych.md"
+    "HASKELL/Haskell plac ćwiczeń/1 Haskell i Myślenie Funkcyjne.md"
   ]
 }
