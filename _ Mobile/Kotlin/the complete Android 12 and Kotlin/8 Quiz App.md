@@ -732,7 +732,30 @@ private fun answerView(answer: Int, drawableView: Int){
 }
 ```
 
+change the function `onClick`
+```kotlin
+....
 
+R.id.btn_submit ->{
+	if(mSelectedOptionPosition == 0) {
+		mCurrentPosition++
+
+		when{
+			mCurrentPosition <= mQuestionsList!!.size ->{
+				setQuestion()
+			}
+		}
+	
+	} else {
+		val question = mQuestionsList?.get(CurrentPosition-1)
+		if(question!!.correctAnswer != mSelectedOptionPosition) {
+			answerView(mSelectedOptionPositio, R.drawable.wrong_option_border_bg)
+		}
+		answerView(question.correctAnswer, R.drawable)
+		
+	}
+}
+```
 
 
 
