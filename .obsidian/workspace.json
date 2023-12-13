@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_DataBase/MongoDB/Learn MongoDB in 1 hour/_ Learn MongoDB in 1 hour.md",
+                "file": "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_DataBase/MongoDB/Learn MongoDB in 1 hour/_ Learn MongoDB in 1 hour.md",
+                "file": "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_DataBase/MongoDB/Learn MongoDB in 1 hour/_ Learn MongoDB in 1 hour.md",
+                "file": "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_DataBase/MongoDB/Learn MongoDB in 1 hour/_ Learn MongoDB in 1 hour.md"
+                "file": "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md"
               }
             }
           },
@@ -216,6 +216,7 @@
   },
   "active": "ad21e06f6ed0de8b",
   "lastOpenFiles": [
+    "_DataBase/MongoDB/Learn MongoDB in 1 hour/_ Learn MongoDB in 1 hour.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/8.6 RadioButton.md",
     "_ WEB/N_O_D_E/NODE - the complete guide/_0 Node Complete Guide.md",
@@ -227,7 +228,6 @@
     "_ Desktop/WPF/od Podstaw do app w WPF/10.1 Binding.md",
     "_ Desktop/WPF/od Podstaw do app w WPF/10.24 DataGrid.md",
     "_ Desktop/WPF/od Podstaw do app w WPF/10.2 Eventy i Delegaty.md",
-    "_DataBase/MongoDB/Learn MongoDB in 1 hour/_ Learn MongoDB in 1 hour.md",
     "_ Mobile/Kotlin/Kurs Android od podstaw/2 Tworzenie widoków.md",
     "_DataBase/MongoDB/MongoDB - The Complete 2023/2 Basic and CRUD.md",
     "_DataBase/MongoDB/Master MongoDB/_ 0 Start.md",
