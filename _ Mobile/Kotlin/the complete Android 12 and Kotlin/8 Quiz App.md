@@ -799,6 +799,7 @@ private fun setQuestion(){
 ----------
 # GUI for Resutl Activity
 
+## activity_result.xml
 - create a new `EmptyViewActivity` -> name it `ResutlActivity`
 - add to drawable an image with trophy
 - go to `activity_result.xml`
@@ -815,6 +816,19 @@ private fun setQuestion(){
 		- 
 
 
+## add to `Constants`
+`Constants.kt` --> they will be keys for values
+```kotlin
+
+object Constants {
+ const val USERNAME: String = "user_name"
+ const val TOTAL_QUESTIONS: String = "total_quetions"
+ const val CORRECT_ANSWER: String = "correct_answer"
+
+fun getQuestions(): ....
+
+}
+```
 
 
 
