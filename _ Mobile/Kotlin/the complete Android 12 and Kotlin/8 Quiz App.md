@@ -808,7 +808,7 @@ private fun setQuestion(){
 		- gravity `center_horizontaly`
 		- add `TextView` with `text="Resutl"`
 		- add `ImageView` with `src="@drawable/ic_trophy"`
-		- add `TextView` with `text="Contratulation"`
+		- add `TextView` with `text="Congratulation"`
 		- add `TextView` to display a name of the user (`tools:text="UserName")
 		- add `TextView` with scores 
 		- add `Button` wit `text="FINISH"`
