@@ -882,17 +882,28 @@ override fun onClick(view: View?) {
 	//	"To już jest koniec!",  
 	//	Toast.LENGTH_LONG).show()  
 	//	}
+	// new code
 	val intent = Intent(this. ResultActivity::class.java)
 
 	intent.putExtra(Constants.USER_NAME, userName)
 	intetn.putExtra(Constants.CORRECT_ANWSER, correctAnswer )
 	}  
 } else {
-//...
+	val question = mQuestionsList?.get(mCurrentPosition-1)  
+	if (question!!.correctAnswer != mSelectedOptionPosition){  
+			answerView(mSelectedOptionPosition, R.drawable.wrong_option_border_bg)  
+} else {
+	correctAnwser++
+}  // NEW CODE - else 
 
+answerView(question.correctAnswer, R.drawable.correct_option_border_bg)  
+if (mCurrentPosition == mQuestionsList!!.size){  
+btnSubmit?.text="FINISH"  
+} else {  
+btnSubmit?.text="Go to next question"  
+}  
+mSelectedOptionPosition = 0  
 }
-//...
-
 
 
 ```
