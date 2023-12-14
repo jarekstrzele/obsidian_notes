@@ -849,16 +849,53 @@ finish() // to finish MainActivity
 `QuizActivity.kt`
 ```kotlin
 //..
-// as an object attribute
+// as an object attribute - add it
 private var userName: String? = null  
   
 private var btnSubmit: Button? = null
 //......
 
 //inside onCreate method
+//przechwycenie imienia gracza  
+userName = intent.getStringExtra(Constants.USER_NAME)
 
 ```
 
+add to that file
+```kotlin
+//... as an object attribute
+
+private var correctAnswer: Int = 0
+
+///
+override fun onClick(view: View?) {  
+	when(view?.id){
+	//..
+	  R.id.btn_submit -> {  
+		if (mSelectedOptionPosition == 0){  
+			mCurrentPosition++  
+  
+		when{  
+					mCurrentPosition <= mQuestionsList!!.size -> setQuestion()  
+	else ->{
+	 //Toast.makeText(this,  
+	//	"To już jest koniec!",  
+	//	Toast.LENGTH_LONG).show()  
+	//	}
+	val intent = Intent(this. ResultActivity::class.java)
+
+	intent.putExtra(Constants.USER_NAME, userName)
+	intetn.putExtra(Constants.CORRECT_ANWSER, correctAnswer )
+	}  
+} else {
+//...
+
+}
+//...
+
+
+
+```
 
 
 
