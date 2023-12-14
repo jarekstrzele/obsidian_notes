@@ -821,7 +821,7 @@ private fun setQuestion(){
 ```kotlin
 
 object Constants {
- const val USERNAME: String = "user_name"
+ const val USER_NAME: String = "user_name"
  const val TOTAL_QUESTIONS: String = "total_quetions"
  const val CORRECT_ANSWER: String = "correct_answer"
 
@@ -830,9 +830,34 @@ fun getQuestions(): ....
 }
 ```
 
+in `MainActivity` catch the user_name:
+```kotlin
+//...
+} else {  
+	val intent = Intent(this, QuizQuestionsActivity::class.java)  
+	Log.d("mylog", "ok, ${editTextName.text}")  
+	//przekazanie nazwy użytkownika do drugiej aktywności  
+		//intent.putExtra("playerName",editTextName.text.toString()) 
+	intent.putExtra(Constants.USER_NAME, editTextName.text.toString()) 
+startActivity(intent)  
+finish() // to finish MainActivity
 
+//...
+}
+```
 
+`QuizActivity.kt`
+```kotlin
+//..
+// as an object attribute
+private var userName: String? = null  
+  
+private var btnSubmit: Button? = null
+//......
 
+//inside onCreate method
+
+```
 
 
 
