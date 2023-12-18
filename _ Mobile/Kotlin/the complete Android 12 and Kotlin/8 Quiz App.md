@@ -882,18 +882,23 @@ override fun onClick(view: View?) {
 	//	Toast.LENGTH_LONG).show()  
 	//	}
 	// new code
-	val intent = Intent(this. ResultActivity::class.java)
-
-	intent.putExtra(Constants.USER_NAME, userName)
-	intetn.putExtra(Constants.CORRECT_ANWSER, correctAnswer )
+	val intent = Intent(this, ResultActivity::class.java)  
+  
+intent.putExtra(Constants.USER_NAME, userName)  
+intent.putExtra(Constants.CORRECT_ANSWER, correctAnswer )  
+intent.putExtra(Constants.TOTAL_QUESTIONS, mQuestionsList?.size)  
+startActivity(intent)  
+finish() // finish QuizQuestionsActivity
 	}  
+	//old code
 } else {
 	val question = mQuestionsList?.get(mCurrentPosition-1)  
 	if (question!!.correctAnswer != mSelectedOptionPosition){  
 			answerView(mSelectedOptionPosition, R.drawable.wrong_option_border_bg)  
 } else {
+ // NEW CODE - else 
 	correctAnwser++
-}  // NEW CODE - else 
+} 
 
 answerView(question.correctAnswer, R.drawable.correct_option_border_bg)  
 if (mCurrentPosition == mQuestionsList!!.size){  
