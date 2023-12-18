@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "_ Learn MongoDB in 1 hour",
-      "path": "_DataBase/MongoDB/Learn MongoDB in 1 hour/_ Learn MongoDB in 1 hour.md"
+      "basename": "I 3 The Heart of Rust",
+      "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 3 The Heart of Rust.md"
+    },
+    {
+      "basename": "I 2 Primitive Types & Control Flow",
+      "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 2 Primitive Types & Control Flow.md"
+    },
+    {
+      "basename": "2 Tworzenie widoków",
+      "path": "_ Mobile/Kotlin/Kurs Android od podstaw/2 Tworzenie widoków.md"
     },
     {
       "basename": "Box",
       "path": "R U S T/Box.md"
     },
     {
-      "basename": "2 Tworzenie widoków",
-      "path": "_ Mobile/Kotlin/Kurs Android od podstaw/2 Tworzenie widoków.md"
+      "basename": "_ Learn MongoDB in 1 hour",
+      "path": "_DataBase/MongoDB/Learn MongoDB in 1 hour/_ Learn MongoDB in 1 hour.md"
     },
     {
       "basename": "_ Kurs Android od podstaw",
@@ -191,14 +199,6 @@
     {
       "basename": "Dart Vim",
       "path": "Flutter/Dart/Dart Vim.md"
-    },
-    {
-      "basename": "3.1 Dart Async Programming",
-      "path": "Flutter/Dart/3.1 Dart Async Programming.md"
-    },
-    {
-      "basename": "2.6 File system",
-      "path": "Flutter/Dart/2.6 File system.md"
     }
   ],
   "omittedPaths": [],
