@@ -864,7 +864,6 @@ userName = intent.getStringExtra(Constants.USER_NAME)
 add to that file
 ```kotlin
 //... as an object attribute
-
 private var correctAnswer: Int = 0
 
 ///
