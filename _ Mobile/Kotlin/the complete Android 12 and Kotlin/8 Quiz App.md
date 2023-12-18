@@ -882,13 +882,12 @@ override fun onClick(view: View?) {
 	//	Toast.LENGTH_LONG).show()  
 	//	}
 	// new code
-	val intent = Intent(this, ResultActivity::class.java)  
-  
-intent.putExtra(Constants.USER_NAME, userName)  
-intent.putExtra(Constants.CORRECT_ANSWER, correctAnswer )  
-intent.putExtra(Constants.TOTAL_QUESTIONS, mQuestionsList?.size)  
-startActivity(intent)  
-finish() // finish QuizQuestionsActivity
+	val intent = Intent(this, ResultActivity::class.java)
+	intent.putExtra(Constants.USER_NAME, userName)  
+	intent.putExtra(Constants.CORRECT_ANSWER, correctAnswer )  
+	intent.putExtra(Constants.TOTAL_QUESTIONS, mQuestionsList?.size)  
+	startActivity(intent)  
+	finish() // finish QuizQuestionsActivity
 	}  
 	//old code
 } else {
@@ -912,6 +911,13 @@ mSelectedOptionPosition = 0
 
 ```
 
+
+add ids in `activity_result.xml`
+add the code to `ResultActivity.kt`
+```kotlin
+
+
+```
 
 
 
