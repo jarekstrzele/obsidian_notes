@@ -107,29 +107,29 @@ modifier = Modifier
 	verticalArrangement = Arrangement.Center,  
 	horizontalAlignment = Alignment.CenterHorizontally  
 	){  
-		Text(text="Jestem z MyElement super z MyModifier 123455667" )  
-Text(  
-text="Drugi element",  
-modifier = Modifier  
-.width(75.dp)  
-.background(Color.Yellow, CircleShape)//RectanleShape, CircleShape, RoundedCornerShape(), CutCornerShape()  
-.clip(CircleShape)  
-.padding(10.dp)  
-.rotate(45f)  
-.border(width=2.dp,color=Color.Blue, shape=RoundedCornerShape(5.dp))  
-)  
-Text(  
-text="wielokrotne dodawnie modifierów",  
-modifier = Modifier  
-.width(175.dp)  
-.background(Color.Magenta)  
-.padding(10.dp)  
-.background(Color.LightGray)  
-.padding(15.dp)  
-.background(Color.Cyan)  
-.rotate(45f) // obróci się tylko test bo jest na końcu  
-.border(2.dp, Color.Red) // border też się obróci  
-)  
+	Text(text="Jestem z MyElement super z MyModifier 123455667" )  
+	Text(  
+		text="Drugi element",  
+		modifier = Modifier  
+			.width(75.dp)  
+			.background(Color.Yellow, CircleShape)//RectanleShape, CircleShape, RoundedCornerShape(), CutCornerShape()  
+			.clip(CircleShape)  
+			.padding(10.dp)  
+			.rotate(45f)  
+			.border(width=2.dp,color=Color.Blue, shape=RoundedCornerShape(5.dp))  
+		)  
+	Text(  
+		text="wielokrotne dodawnie modifierów",  
+		modifier = Modifier  
+			.width(175.dp)  
+			.background(Color.Magenta)  
+			.padding(10.dp)  
+			.background(Color.LightGray)  
+			.padding(15.dp)  
+			.background(Color.Cyan)  
+			.rotate(45f) // obróci się tylko test bo jest na końcu  
+			.border(2.dp, Color.Red) // border też się obróci  
+		)  
   
 }  
 }
