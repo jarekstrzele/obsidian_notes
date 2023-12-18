@@ -915,7 +915,24 @@ mSelectedOptionPosition = 0
 add ids in `activity_result.xml`
 add the code to `ResultActivity.kt`
 ```kotlin
-
+override fun onCreate(savedInstanceState: Bundle?) {  
+super.onCreate(savedInstanceState)  
+setContentView(R.layout.activity_result)  
+  
+val textviewUserName: TextView = findViewById(R.id.textview_user_name)  
+val textviewScores: TextView = findViewById(R.id.textview_scores)  
+val buttonFinish: Button = findViewById(R.id.button_finish)  
+  
+textviewUserName.text = intent.getStringExtra(Constants.USER_NAME)  
+val totalQuestions = intent.getIntExtra(Constants.TOTAL_QUESTIONS, 0)  
+val correctAnswers = intent.getIntExtra(Constants.CORRECT_ANSWER, 0)  
+  
+textviewScores.text = "Your Score $correctAnswers/$totalQuestions"  
+  
+buttonFinish.setOnClickListener{  
+startActivity(Intent(this, MainActivity::class.java))  
+}  
+}
 
 ```
 
