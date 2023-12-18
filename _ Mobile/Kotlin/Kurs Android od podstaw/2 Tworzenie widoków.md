@@ -135,9 +135,29 @@ modifier = Modifier
 }
 ```
 
+## Text()
+```kotlin
+@Composable  
+fun MyText(){  
+Text(  
+	text="pTo jest jakiś tekstTo jest jakiś tekstTo jest jakiś tekstTo jest jakiś tekst",  
+	fontSize = 20.sp,  
+	color = Color.Red,  
+	fontWeight = FontWeight.SemiBold,  
+	fontStyle = FontStyle.Italic,  
+	textDecoration = TextDecoration.Underline,  
+	maxLines = 1,  
+	overflow = TextOverflow.Ellipsis ,// ....  
+	modifier = Modifier  
+		.padding(10.dp)  
+		.background(color = Color.Blue)  
+  
+)  
+}
+```
 
 
-
+## TextAlign
 
 
 
