@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "8.3 Button",
-      "path": "_ Mobile/Kotlin/the complete Android Kotlin/8.3 Button.md"
+      "basename": "8.7. Toggle Button",
+      "path": "_ Mobile/Kotlin/the complete Android Kotlin/8.7. Toggle Button.md"
     },
     {
       "basename": "8.4 EditTexts",
       "path": "_ Mobile/Kotlin/the complete Android Kotlin/8.4 EditTexts.md"
+    },
+    {
+      "basename": "8.3 Button",
+      "path": "_ Mobile/Kotlin/the complete Android Kotlin/8.3 Button.md"
     },
     {
       "basename": "8.2 TextView",
@@ -15,10 +19,6 @@
     {
       "basename": "8 Android Components",
       "path": "_ Mobile/Kotlin/the complete Android Kotlin/8 Android Components.md"
-    },
-    {
-      "basename": "8.7. Toggle Button",
-      "path": "_ Mobile/Kotlin/the complete Android Kotlin/8.7. Toggle Button.md"
     },
     {
       "basename": "8.6 RadioButton",
