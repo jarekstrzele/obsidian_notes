@@ -8,7 +8,7 @@
 [[8.4 EditTexts]]
 [[8.5 ImageView]]
 [[8.6 CheckBox]]
-
+[[8.7. Toggle Button]]
 
 
 

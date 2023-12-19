@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.5 ImageView.md",
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.3 Button.md",
                 "mode": "source",
                 "source": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.5 ImageView.md",
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.3 Button.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.5 ImageView.md",
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.3 Button.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.5 ImageView.md"
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.3 Button.md"
               }
             }
           },
@@ -244,8 +244,12 @@
     "_ Mobile/Kotlin/the complete Android Kotlin/8.4 EditTexts.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/8.3 Button.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/8.2 TextView.md",
-    "_ Mobile/Kotlin/the complete Android Kotlin/8.1 Layouts in Android App.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/8 Android Components.md",
+    "_ Mobile/Kotlin/the complete Android Kotlin/8.7. Toggle Button.md",
+    "_ Mobile/Kotlin/the complete Android Kotlin/8.6 RadioButton.md",
+    "_ Mobile/Kotlin/the complete Android Kotlin/8.6 CheckBox.md",
+    "_ Mobile/Kotlin/the complete Android Kotlin/8.5 ImageView.md",
+    "_ Mobile/Kotlin/the complete Android Kotlin/8.1 Layouts in Android App.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/7 Intro to Android App Development.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/4 Loops in Kotlin.md",
@@ -262,10 +266,6 @@
     "conflict-files-obsidian-git.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md",
     "_DataBase/MongoDB/Learn MongoDB in 1 hour/_ Learn MongoDB in 1 hour.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/7.1. Tworzenie rest api.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
-    "_ WEB/N_O_D_E/NODE - the complete guide/24 REST APIs.md",
-    "_ Desktop/Python/Tkinter/Tkinter 0.md",
-    "_ Desktop/Python/Tkinter/Tkinter Pomidoro.md"
+    "_ WEB/N_O_D_E/NodeJS - fullstack/7.1. Tworzenie rest api.md"
   ]
 }
