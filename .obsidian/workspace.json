@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Desktop/WPF/od Podstaw do app w WPF/10.3 DataContext oraz interfejs INotifyPropertyChanged.md",
+                "file": "_ Desktop/WPF/od Podstaw do app w WPF/10.24 DataGrid.md",
                 "mode": "source",
                 "source": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Desktop/WPF/od Podstaw do app w WPF/10.3 DataContext oraz interfejs INotifyPropertyChanged.md",
+                "file": "_ Desktop/WPF/od Podstaw do app w WPF/10.24 DataGrid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Desktop/WPF/od Podstaw do app w WPF/10.3 DataContext oraz interfejs INotifyPropertyChanged.md",
+                "file": "_ Desktop/WPF/od Podstaw do app w WPF/10.24 DataGrid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Desktop/WPF/od Podstaw do app w WPF/10.3 DataContext oraz interfejs INotifyPropertyChanged.md"
+                "file": "_ Desktop/WPF/od Podstaw do app w WPF/10.24 DataGrid.md"
               }
             }
           },
@@ -241,11 +241,11 @@
   },
   "active": "d3393c659c6cc95c",
   "lastOpenFiles": [
+    "_ Desktop/WPF/od Podstaw do app w WPF/10.3 DataContext oraz interfejs INotifyPropertyChanged.md",
     "_ Desktop/WPF/od Podstaw do app w WPF/10.24 DataGrid.md",
     "_ Desktop/WPF/Alien Form.md",
     "_ Desktop/WPF/TicTacToe.md",
     "_ Desktop/WPF/Wyświeltanie info.md",
-    "_ Desktop/WPF/od Podstaw do app w WPF/10.3 DataContext oraz interfejs INotifyPropertyChanged.md",
     "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md",
     "conflict-files-obsidian-git.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md",
