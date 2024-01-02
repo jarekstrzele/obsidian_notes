@@ -8,10 +8,17 @@
 >- jeśli jedna aktywność chce uruchomić drugą, robi to, przesyłając do systemu Android odpowiednią intencję.
 >
 
+
 ```kotlin
 val intent = Intent(this, KlasaDocelowa::class.java)
 
+startActivity(intent) 
 ```
+`this` informuje system, z jakiego obiektu pochodzi intencja.
+`KlasaDocelowa::class.java` nazwa klasy aktywności, do której intencja jest skierowana.
+`startActivity(intent)` uruchamia aktywność określoną w intencji
+
+
 
 >[!definition] class reference
 > - it is an object that represents the class itself

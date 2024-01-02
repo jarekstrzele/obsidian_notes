@@ -70,11 +70,7 @@ app:layout_constraintTop_toTopOf="parent" />
 
 # Druga Aktywność
 
-
-
-
-
-
+[[Intencja]]
 
 
 
