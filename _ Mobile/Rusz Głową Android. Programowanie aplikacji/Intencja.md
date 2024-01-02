@@ -1,5 +1,7 @@
 #android/intention 
 
+[[_ Rusz Głową Android. Programowanie aplikacji]]
+
 >[!info] intencja
 >- to rodzaj komunikatu
 >- zawsze, gdy chcemy uruchomić jedną aktywność z poziomu innej aktywności, musimy w tym celu użyć **intencji**
@@ -11,4 +13,10 @@ val intent = Intent(this, KlasaDocelowa::class.java)
 
 ```
 
-
+>[!definition] class reference
+> - it is an object that represents the class itself
+> - to obtain a class reference use `::class` syntax
+> - the reference is an instance of the `KClass`
+> 	- e.g.:
+> 		- `SomeClass::class` provides a reference to the `SomeClass`
+> 		- `SomeClass::class.java` provides the `Class`  object for the `SomeClass` class

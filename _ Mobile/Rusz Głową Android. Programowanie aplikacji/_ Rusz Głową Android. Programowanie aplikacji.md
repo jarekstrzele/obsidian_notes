@@ -18,6 +18,9 @@
 [[AndroidManifest]]
 
 
+## intencja
+[[Intencja]]
+
 
 
 
