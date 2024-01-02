@@ -163,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Desktop/WPF/od Podstaw do app w WPF/10.24 DataGrid.md",
+                "file": "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Desktop/WPF/od Podstaw do app w WPF/10.24 DataGrid.md",
+                "file": "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Desktop/WPF/od Podstaw do app w WPF/10.24 DataGrid.md"
+                "file": "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md"
               }
             }
           },
