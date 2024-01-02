@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -163,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md",
+                "file": "_ Mobile/Rusz Głową Android. Programowanie aplikacji/Intencja.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md",
+                "file": "_ Mobile/Rusz Głową Android. Programowanie aplikacji/Intencja.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md"
+                "file": "_ Mobile/Rusz Głową Android. Programowanie aplikacji/Intencja.md"
               }
             }
           },
@@ -254,8 +254,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ca32eba7f53d50b9",
+  "active": "ecfdad10cf4b2270",
   "lastOpenFiles": [
+    "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/8.7. Toggle Button.md",
     "_ Mobile/Rusz Głową Android. Programowanie aplikacji/Intencja.md",
     "_ Mobile/Rusz Głową Android. Programowanie aplikacji/3 Wiele aktywności i intencji.md",
@@ -280,7 +281,6 @@
     "_ Mobile/Kotlin/the complete Android Kotlin/8 Android Components.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/8.6 RadioButton.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/8.6 CheckBox.md",
-    "_ Mobile/Kotlin/the complete Android Kotlin/8.5 ImageView.md",
-    "_ Mobile/Kotlin/the complete Android Kotlin/8.1 Layouts in Android App.md"
+    "_ Mobile/Kotlin/the complete Android Kotlin/8.5 ImageView.md"
   ]
 }

@@ -18,7 +18,7 @@ startActivity(intent)
 `KlasaDocelowa::class.java` nazwa klasy aktywności, do której intencja jest skierowana.
 `startActivity(intent)` uruchamia aktywność określoną w intencji
 
-
+> Kiedy Android odbierze intencję, sprawdza, czy wszystko jest w porządku, po czym uruchamia aktywność. Jeśli aktywności nie uda się odnaleźć, zgłaszany jest wyjątek ActivityNotFoundException.
 
 >[!definition] class reference
 > - it is an object that represents the class itself
@@ -27,3 +27,23 @@ startActivity(intent)
 > 	- e.g.:
 > 		- `SomeClass::class` provides a reference to the `SomeClass`
 > 		- `SomeClass::class.java` provides the `Class`  object for the `SomeClass` class
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
