@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "10.24 DataGrid",
+      "path": "_ Desktop/WPF/od Podstaw do app w WPF/10.24 DataGrid.md"
+    },
+    {
+      "basename": "8.7. Toggle Button",
+      "path": "_ Mobile/Kotlin/the complete Android Kotlin/8.7. Toggle Button.md"
+    },
+    {
       "basename": "Intencja",
       "path": "_ Mobile/Rusz Głową Android. Programowanie aplikacji/Intencja.md"
     },
@@ -69,10 +77,6 @@
       "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/6 Age in Minute Calculator.md"
     },
     {
-      "basename": "8.7. Toggle Button",
-      "path": "_ Mobile/Kotlin/the complete Android Kotlin/8.7. Toggle Button.md"
-    },
-    {
       "basename": "8.4 EditTexts",
       "path": "_ Mobile/Kotlin/the complete Android Kotlin/8.4 EditTexts.md"
     },
@@ -131,10 +135,6 @@
     {
       "basename": "_ the complete Android Kotlin",
       "path": "_ Mobile/Kotlin/the complete Android Kotlin/_ the complete Android Kotlin.md"
-    },
-    {
-      "basename": "10.24 DataGrid",
-      "path": "_ Desktop/WPF/od Podstaw do app w WPF/10.24 DataGrid.md"
     },
     {
       "basename": "10.3 DataContext oraz interfejs INotifyPropertyChanged",

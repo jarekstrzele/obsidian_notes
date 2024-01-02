@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Maximilian_Schwarzmuller",
+                "query": "disk",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -142,7 +142,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -162,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Rusz Głową Android. Programowanie aplikacji/Intencja.md",
+                "file": "_ Desktop/WPF/od Podstaw do app w WPF/10.24 DataGrid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Rusz Głową Android. Programowanie aplikacji/Intencja.md",
+                "file": "_ Desktop/WPF/od Podstaw do app w WPF/10.24 DataGrid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Rusz Głową Android. Programowanie aplikacji/Intencja.md"
+                "file": "_ Desktop/WPF/od Podstaw do app w WPF/10.24 DataGrid.md"
               }
             }
           },
@@ -253,10 +254,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ecfdad10cf4b2270",
+  "active": "ca32eba7f53d50b9",
   "lastOpenFiles": [
-    "_ Mobile/Rusz Głową Android. Programowanie aplikacji/3 Wiele aktywności i intencji.md",
+    "_ Mobile/Kotlin/the complete Android Kotlin/8.7. Toggle Button.md",
     "_ Mobile/Rusz Głową Android. Programowanie aplikacji/Intencja.md",
+    "_ Mobile/Rusz Głową Android. Programowanie aplikacji/3 Wiele aktywności i intencji.md",
     "_ Mobile/Rusz Głową Android. Programowanie aplikacji/_ Rusz Głową Android. Programowanie aplikacji.md",
     "_ Mobile/Rusz Głową Android. Programowanie aplikacji/AndroidManifest.md",
     "_ Mobile/Rusz Głową Android. Programowanie aplikacji/2. Tworzenie interaktywnych aplikacji.md",
@@ -272,7 +274,6 @@
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin/7 Calculator.md",
     "_ Mobile/Kotlin/the complete Android 12 and Kotlin/6 Age in Minute Calculator.md",
-    "_ Mobile/Kotlin/the complete Android Kotlin/8.7. Toggle Button.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/8.4 EditTexts.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/8.3 Button.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/8.2 TextView.md",
