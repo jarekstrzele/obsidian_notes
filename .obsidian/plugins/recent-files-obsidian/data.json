@@ -1,6 +1,94 @@
 {
   "recentFiles": [
     {
+      "basename": "14 Connecting to a Database",
+      "path": "_ WEB/REACT/React - the Complete Guide/14 Connecting to a Database.md"
+    },
+    {
+      "basename": "9. Fragments, Portal, refs",
+      "path": "_ WEB/REACT/React - the Complete Guide/9. Fragments, Portal, refs.md"
+    },
+    {
+      "basename": "8 Login Project",
+      "path": "_ WEB/REACT/React - the Complete Guide/8 Login Project.md"
+    },
+    {
+      "basename": "6.1. Styling extra",
+      "path": "_ WEB/REACT/React - the Complete Guide/6.1. Styling extra.md"
+    },
+    {
+      "basename": "6 Styling React Component (Simple React App)",
+      "path": "_ WEB/REACT/React - the Complete Guide/6 Styling React Component (Simple React App).md"
+    },
+    {
+      "basename": "5.2 Chart",
+      "path": "_ WEB/REACT/React - the Complete Guide/5.2 Chart.md"
+    },
+    {
+      "basename": "5 Rendering Lists and Conditional content",
+      "path": "_ WEB/REACT/React - the Complete Guide/5 Rendering Lists and Conditional content.md"
+    },
+    {
+      "basename": "4 React State and Working with Events",
+      "path": "_ WEB/REACT/React - the Complete Guide/4 React State and Working with Events.md"
+    },
+    {
+      "basename": "_ 0 React Full",
+      "path": "_ WEB/REACT/React - the Complete Guide/_ 0 React Full.md"
+    },
+    {
+      "basename": "3 React Basics",
+      "path": "_ WEB/REACT/React - the Complete Guide/3 React Basics.md"
+    },
+    {
+      "basename": "1. React Fundamentals",
+      "path": "_ WEB/REACT/React 18 Tutorial and Projects Course 2023/1. React Fundamentals.md"
+    },
+    {
+      "basename": "_ The React 18 Tutorial (2023)",
+      "path": "_ WEB/REACT/React 18 Tutorial and Projects Course 2023/_ The React 18 Tutorial (2023).md"
+    },
+    {
+      "basename": "_ 0 Modern React 2022",
+      "path": "_ WEB/REACT/modern React/_ 0 Modern React 2022.md"
+    },
+    {
+      "basename": "_ 0 JS Bible",
+      "path": "JAVASCRIPT/JS Bible/_ 0 JS Bible.md"
+    },
+    {
+      "basename": "3.6. Creating elements & Replace & Remove",
+      "path": "JAVASCRIPT/Modern JavaScrip From the Beginning/3.6. Creating elements & Replace & Remove.md"
+    },
+    {
+      "basename": "DOM and Events",
+      "path": "JAVASCRIPT/Podstawy_Włodarczyk/DOM and Events.md"
+    },
+    {
+      "basename": "_ Programowanie w JS od Zera do Mastera",
+      "path": "JAVASCRIPT/Programowanie w JS od Zera do Mastera/_ Programowanie w JS od Zera do Mastera.md"
+    },
+    {
+      "basename": "DAY JS",
+      "path": "JAVASCRIPT/DAY JS.md"
+    },
+    {
+      "basename": "ES refresh",
+      "path": "JAVASCRIPT/ES refresh.md"
+    },
+    {
+      "basename": "2 - React Basics & JSX",
+      "path": "_ WEB/REACT/modern React/2 - React Basics & JSX.md"
+    },
+    {
+      "basename": "useCallback",
+      "path": "_ WEB/REACT/React - the Complete Guide/useCallback.md"
+    },
+    {
+      "basename": "_React Bob Ziroll",
+      "path": "_ WEB/REACT/React Bob Ziroll/_React Bob Ziroll.md"
+    },
+    {
       "basename": "Intencja",
       "path": "_ Mobile/Rusz Głową Android. Programowanie aplikacji/Intencja.md"
     },
@@ -111,94 +199,6 @@
     {
       "basename": "8.1 Layouts in Android App",
       "path": "_ Mobile/Kotlin/the complete Android Kotlin/8.1 Layouts in Android App.md"
-    },
-    {
-      "basename": "7 Intro to Android App Development",
-      "path": "_ Mobile/Kotlin/the complete Android Kotlin/7 Intro to Android App Development.md"
-    },
-    {
-      "basename": "6 Kotlin OOP",
-      "path": "_ Mobile/Kotlin/the complete Android Kotlin/6 Kotlin OOP.md"
-    },
-    {
-      "basename": "4 Loops in Kotlin",
-      "path": "_ Mobile/Kotlin/the complete Android Kotlin/4 Loops in Kotlin.md"
-    },
-    {
-      "basename": "3 Control Flow Statements in Kotlin",
-      "path": "_ Mobile/Kotlin/the complete Android Kotlin/3 Control Flow Statements in Kotlin.md"
-    },
-    {
-      "basename": "2 Operators in Kotlin",
-      "path": "_ Mobile/Kotlin/the complete Android Kotlin/2 Operators in Kotlin.md"
-    },
-    {
-      "basename": "1 Fundamentals of Kotlin",
-      "path": "_ Mobile/Kotlin/the complete Android Kotlin/1 Fundamentals of Kotlin.md"
-    },
-    {
-      "basename": "_ the complete Android Kotlin",
-      "path": "_ Mobile/Kotlin/the complete Android Kotlin/_ the complete Android Kotlin.md"
-    },
-    {
-      "basename": "10.3 DataContext oraz interfejs INotifyPropertyChanged",
-      "path": "_ Desktop/WPF/od Podstaw do app w WPF/10.3 DataContext oraz interfejs INotifyPropertyChanged.md"
-    },
-    {
-      "basename": "Alien Form",
-      "path": "_ Desktop/WPF/Alien Form.md"
-    },
-    {
-      "basename": "TicTacToe",
-      "path": "_ Desktop/WPF/TicTacToe.md"
-    },
-    {
-      "basename": "Wyświeltanie info",
-      "path": "_ Desktop/WPF/Wyświeltanie info.md"
-    },
-    {
-      "basename": "7.1. Tworzenie rest api",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/7.1. Tworzenie rest api.md"
-    },
-    {
-      "basename": "7 Express JS",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md"
-    },
-    {
-      "basename": "24 REST APIs",
-      "path": "_ WEB/N_O_D_E/NODE - the complete guide/24 REST APIs.md"
-    },
-    {
-      "basename": "Tkinter 0",
-      "path": "_ Desktop/Python/Tkinter/Tkinter 0.md"
-    },
-    {
-      "basename": "Tkinter Pomidoro",
-      "path": "_ Desktop/Python/Tkinter/Tkinter Pomidoro.md"
-    },
-    {
-      "basename": "_ MongoDB Complete",
-      "path": "_DataBase/MongoDB/MongoDB - The Complete 2023/_ MongoDB Complete.md"
-    },
-    {
-      "basename": "_0 Node Complete Guide",
-      "path": "_ WEB/N_O_D_E/NODE - the complete guide/_0 Node Complete Guide.md"
-    },
-    {
-      "basename": "10.1 Binding",
-      "path": "_ Desktop/WPF/od Podstaw do app w WPF/10.1 Binding.md"
-    },
-    {
-      "basename": "10.2 Eventy i Delegaty",
-      "path": "_ Desktop/WPF/od Podstaw do app w WPF/10.2 Eventy i Delegaty.md"
-    },
-    {
-      "basename": "2 Basic and CRUD",
-      "path": "_DataBase/MongoDB/MongoDB - The Complete 2023/2 Basic and CRUD.md"
-    },
-    {
-      "basename": "_ 0 Start",
-      "path": "_DataBase/MongoDB/Master MongoDB/_ 0 Start.md"
     }
   ],
   "omittedPaths": [],
