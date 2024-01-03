@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ WEB/REACT/React - the Complete Guide/14 Connecting to a Database.md",
+                "file": "_ WEB/REACT/React - the Complete Guide/_ 0 React Full.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ WEB/REACT/React - the Complete Guide/14 Connecting to a Database.md",
+                "file": "_ WEB/REACT/React - the Complete Guide/_ 0 React Full.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ WEB/REACT/React - the Complete Guide/14 Connecting to a Database.md",
+                "file": "_ WEB/REACT/React - the Complete Guide/_ 0 React Full.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ WEB/REACT/React - the Complete Guide/14 Connecting to a Database.md"
+                "file": "_ WEB/REACT/React - the Complete Guide/_ 0 React Full.md"
               }
             }
           },
@@ -253,8 +253,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ecfdad10cf4b2270",
+  "active": "04bc47a26b7598a7",
   "lastOpenFiles": [
+    "_ WEB/REACT/React - the Complete Guide/14 Connecting to a Database.md",
     "_ WEB/REACT/React - the Complete Guide/9. Fragments, Portal, refs.md",
     "_ WEB/REACT/React - the Complete Guide/8 Login Project.md",
     "_ WEB/REACT/React - the Complete Guide/6.1. Styling extra.md",
@@ -264,7 +265,6 @@
     "_ WEB/REACT/React - the Complete Guide/4 React State and Working with Events.md",
     "_ WEB/REACT/React - the Complete Guide/_ 0 React Full.md",
     "_ WEB/REACT/React - the Complete Guide/3 React Basics.md",
-    "_ WEB/REACT/React - the Complete Guide/14 Connecting to a Database.md",
     "_ WEB/REACT/React 18 Tutorial and Projects Course 2023/1. React Fundamentals.md",
     "_ WEB/REACT/React 18 Tutorial and Projects Course 2023/_ The React 18 Tutorial (2023).md",
     "_ WEB/REACT/modern React/_ 0 Modern React 2022.md",
