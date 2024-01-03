@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ WEB/REACT/React - the Complete Guide/_ 0 React Full.md",
+                "file": "_ Mobile/REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer or Bottom-Tabs Navigators/Drawer Navigator.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "navigator",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ WEB/REACT/React - the Complete Guide/_ 0 React Full.md",
+                "file": "_ Mobile/REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer or Bottom-Tabs Navigators/Drawer Navigator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ WEB/REACT/React - the Complete Guide/_ 0 React Full.md",
+                "file": "_ Mobile/REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer or Bottom-Tabs Navigators/Drawer Navigator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ WEB/REACT/React - the Complete Guide/_ 0 React Full.md"
+                "file": "_ Mobile/REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer or Bottom-Tabs Navigators/Drawer Navigator.md"
               }
             }
           },
@@ -253,8 +253,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "04bc47a26b7598a7",
+  "active": "ecfdad10cf4b2270",
   "lastOpenFiles": [
+    "_ Mobile/REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer or Bottom-Tabs Navigators/BottomNavigator.md",
+    "_ Mobile/REACT NATIVE/React Native Practical Guide/6 Navigation/_ 0 React Native Navigation.md",
+    "_ WEB/REACT/React - the Complete Guide/_ 0 React Full.md",
     "_ WEB/REACT/React - the Complete Guide/14 Connecting to a Database.md",
     "_ WEB/REACT/React - the Complete Guide/9. Fragments, Portal, refs.md",
     "_ WEB/REACT/React - the Complete Guide/8 Login Project.md",
@@ -263,7 +266,6 @@
     "_ WEB/REACT/React - the Complete Guide/5.2 Chart.md",
     "_ WEB/REACT/React - the Complete Guide/5 Rendering Lists and Conditional content.md",
     "_ WEB/REACT/React - the Complete Guide/4 React State and Working with Events.md",
-    "_ WEB/REACT/React - the Complete Guide/_ 0 React Full.md",
     "_ WEB/REACT/React - the Complete Guide/3 React Basics.md",
     "_ WEB/REACT/React 18 Tutorial and Projects Course 2023/1. React Fundamentals.md",
     "_ WEB/REACT/React 18 Tutorial and Projects Course 2023/_ The React 18 Tutorial (2023).md",
@@ -278,8 +280,6 @@
     "_ WEB/REACT/React - the Complete Guide/useCallback.md",
     "_ WEB/REACT/React Bob Ziroll/_React Bob Ziroll.md",
     "_ Mobile/Rusz Głową Android. Programowanie aplikacji/Intencja.md",
-    "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md",
-    "_ Mobile/Kotlin/the complete Android Kotlin/8.7. Toggle Button.md",
-    "_ Mobile/Rusz Głową Android. Programowanie aplikacji/3 Wiele aktywności i intencji.md"
+    "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md"
   ]
 }
