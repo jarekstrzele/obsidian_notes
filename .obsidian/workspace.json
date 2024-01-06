@@ -78,9 +78,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "50e514820a9c9ff5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -236,7 +246,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -259,7 +271,7 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "297356b9b417be7d",
+  "active": "50e514820a9c9ff5",
   "lastOpenFiles": [
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 4 The Meat of Rust.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/8.7. Toggle Button.md",
