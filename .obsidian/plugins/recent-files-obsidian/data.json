@@ -5,6 +5,10 @@
       "path": "linux/UBUNTU.md"
     },
     {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
       "basename": "I 4 The Meat of Rust",
       "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 4 The Meat of Rust.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Dart&Vim",
       "path": "Flutter/Dart/Dart&Vim.md"
-    },
-    {
-      "basename": "Dart Vim",
-      "path": "Flutter/Dart/Dart Vim.md"
     }
   ],
   "omittedPaths": [],
