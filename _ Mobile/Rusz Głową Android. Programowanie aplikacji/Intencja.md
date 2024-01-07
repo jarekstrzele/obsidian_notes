@@ -101,12 +101,13 @@ przykład - *AndroidMainfest.xml*:
 	
 		<action android:name=”android.intent.action.SEND”/>
 		<category android:name=”android.intent.category.DEFAULT”/>
-		<data android:mimeType=”text/plain”/> <data android:mimeType=”image/*”/>
+		<data android:mimeType=”text/plain”/> 
+		<data android:mimeType=”image/*”/>
 
 	</intent-filter>
 </activity>
 ```
 
 `.action.SEND` aktywność jest w stanie obsługiwać akcję *ACTION_SEND*
-`DEFAULT` filtr intencji 
+`DEFAULT` filtr intencji  musi określać kategorię o wartości DEFAULT, aby mógł obsługiwać intencje niejawne
 
