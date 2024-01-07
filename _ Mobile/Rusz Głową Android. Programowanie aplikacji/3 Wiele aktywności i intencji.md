@@ -92,7 +92,14 @@ app:layout_constraintTop_toTopOf="parent" />
 [[Intencja]]
 >[!info] intencje
 >to komunikaty, których komponenty systemy Android używają do wzajemnej komunikacji
->
+
+>[!info] `putExtra()`
+>dodawanie dodatkowych informacji do intencji
+
+>[!info] `get*Extra()`
+>pobieranie dodatkowych informacji zapisanych w intencji
+
+
 ```xml
 <?xml version="1.0" encoding="utf-8"?>  
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"  
