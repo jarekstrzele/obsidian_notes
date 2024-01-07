@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Rusz Głową Android. Programowanie aplikacji/3 Wiele aktywności i intencji.md",
+                "file": "_ Mobile/Rusz Głową Android. Programowanie aplikacji/AndroidManifest.md",
                 "mode": "source",
                 "source": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Rusz Głową Android. Programowanie aplikacji/3 Wiele aktywności i intencji.md",
+                "file": "_ Mobile/Rusz Głową Android. Programowanie aplikacji/AndroidManifest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Rusz Głową Android. Programowanie aplikacji/3 Wiele aktywności i intencji.md",
+                "file": "_ Mobile/Rusz Głową Android. Programowanie aplikacji/AndroidManifest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Rusz Głową Android. Programowanie aplikacji/3 Wiele aktywności i intencji.md"
+                "file": "_ Mobile/Rusz Głową Android. Programowanie aplikacji/AndroidManifest.md"
               }
             }
           },
@@ -243,6 +243,8 @@
   },
   "active": "d3393c659c6cc95c",
   "lastOpenFiles": [
+    "_ Mobile/Rusz Głową Android. Programowanie aplikacji/Intencja.md",
+    "_ Mobile/Rusz Głową Android. Programowanie aplikacji/3 Wiele aktywności i intencji.md",
     "_ Mobile/Rusz Głową Android. Programowanie aplikacji/2. Tworzenie interaktywnych aplikacji.md",
     "_ Mobile/Android Kurs Tworzenia APlikacji/_ 0 Android Kurs Tworzenia Aplikacji.md",
     "_ Mobile/Kotlin/Kurs Android od podstaw/_ Kurs Android od podstaw.md",
@@ -266,8 +268,6 @@
     "_ WEB/REACT/modern React/_ 0 Modern React 2022.md",
     "JAVASCRIPT/JS Bible/_ 0 JS Bible.md",
     "JAVASCRIPT/Modern JavaScrip From the Beginning/3.6. Creating elements & Replace & Remove.md",
-    "JAVASCRIPT/Podstawy_Włodarczyk/DOM and Events.md",
-    "JAVASCRIPT/Programowanie w JS od Zera do Mastera/_ Programowanie w JS od Zera do Mastera.md",
-    "JAVASCRIPT/DAY JS.md"
+    "JAVASCRIPT/Podstawy_Włodarczyk/DOM and Events.md"
   ]
 }
