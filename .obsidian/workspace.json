@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2233362c24b2dcfa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -150,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.7. Toggle Button.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.7. Toggle Button.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.7. Toggle Button.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -241,8 +253,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d3393c659c6cc95c",
+  "active": "2233362c24b2dcfa",
   "lastOpenFiles": [
+    "_ Mobile/Kotlin/the complete Android Kotlin/8.7. Toggle Button.md",
+    "conflict-files-obsidian-git.md",
     "_ Mobile/REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer or Bottom-Tabs Navigators/Drawer Navigator.md",
     "_ Mobile/REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer or Bottom-Tabs Navigators/BottomNavigator.md",
     "_ Mobile/REACT NATIVE/React Native Practical Guide/6 Navigation/_ 0 React Native Navigation.md",
@@ -266,8 +280,6 @@
     "JAVASCRIPT/DAY JS.md",
     "JAVASCRIPT/ES refresh.md",
     "_ WEB/REACT/modern React/2 - React Basics & JSX.md",
-    "_ WEB/REACT/React - the Complete Guide/useCallback.md",
-    "_ WEB/REACT/React Bob Ziroll/_React Bob Ziroll.md",
-    "_ Mobile/Rusz Głową Android. Programowanie aplikacji/Intencja.md"
+    "_ WEB/REACT/React - the Complete Guide/useCallback.md"
   ]
 }
