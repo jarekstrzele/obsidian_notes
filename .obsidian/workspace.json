@@ -66,21 +66,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ecfdad10cf4b2270",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_ Mobile/REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer or Bottom-Tabs Navigators/Drawer Navigator.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -162,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer or Bottom-Tabs Navigators/Drawer Navigator.md",
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.7. Toggle Button.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer or Bottom-Tabs Navigators/Drawer Navigator.md",
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.7. Toggle Button.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer or Bottom-Tabs Navigators/Drawer Navigator.md"
+                "file": "_ Mobile/Kotlin/the complete Android Kotlin/8.7. Toggle Button.md"
               }
             }
           },
@@ -253,8 +241,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ecfdad10cf4b2270",
+  "active": "d3393c659c6cc95c",
   "lastOpenFiles": [
+    "_ Mobile/REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer or Bottom-Tabs Navigators/Drawer Navigator.md",
     "_ Mobile/REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer or Bottom-Tabs Navigators/BottomNavigator.md",
     "_ Mobile/REACT NATIVE/React Native Practical Guide/6 Navigation/_ 0 React Native Navigation.md",
     "_ WEB/REACT/React - the Complete Guide/_ 0 React Full.md",
@@ -279,7 +268,6 @@
     "_ WEB/REACT/modern React/2 - React Basics & JSX.md",
     "_ WEB/REACT/React - the Complete Guide/useCallback.md",
     "_ WEB/REACT/React Bob Ziroll/_React Bob Ziroll.md",
-    "_ Mobile/Rusz Głową Android. Programowanie aplikacji/Intencja.md",
-    "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md"
+    "_ Mobile/Rusz Głową Android. Programowanie aplikacji/Intencja.md"
   ]
 }
