@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "MIME TYPE",
+      "path": "MIME TYPE.md"
+    },
+    {
       "basename": "Intencja",
       "path": "_ Mobile/Rusz Głową Android. Programowanie aplikacji/Intencja.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "8.2 TextView",
       "path": "_ Mobile/Kotlin/the complete Android Kotlin/8.2 TextView.md"
-    },
-    {
-      "basename": "8 Android Components",
-      "path": "_ Mobile/Kotlin/the complete Android Kotlin/8 Android Components.md"
     }
   ],
   "omittedPaths": [],
