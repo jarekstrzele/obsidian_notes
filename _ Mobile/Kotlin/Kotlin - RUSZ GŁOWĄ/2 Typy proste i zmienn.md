@@ -27,6 +27,7 @@ czyli zmienna `x` przechowuje **referencję** do tego obiektu.
 ```kotlin
 var smallNum: Short = 6
 ```
+
 ## zmiennoprzecinkowe
 - `Float` - `var x = 123.5F`
 - `Double` - `var x = 123.5`
@@ -40,9 +41,23 @@ Char: `var letter = 'D'`
 String:`var name = "Fido"`
 
 
+# Konwersja
+```kotlin
+var x = 5
+var z: Long = x.toLong()
+```
 
+`toByte()`
+`toShort()`
+`toInt()`
+`toLong()`
+`toFloat()`
+`toDouble()`
 
+> Próba zapisania dużej wartości w małej zmiennej jest jak próba przelania dużego kubka kawy do maleńkiej filiżanki. Część kawy zmieści się w filiżance, lecz część się wyleje.
 
+-----
+# tablica
 
 
 
