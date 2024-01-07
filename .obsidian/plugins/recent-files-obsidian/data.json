@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "_ 0 Kotlin Rusz Głową",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/_ 0 Kotlin Rusz Głową.md"
+    },
+    {
+      "basename": "Tkinter 0",
+      "path": "_ Desktop/Python/Tkinter/Tkinter 0.md"
+    },
+    {
       "basename": "Intencja",
       "path": "_ Mobile/Rusz Głową Android. Programowanie aplikacji/Intencja.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "8.4 EditTexts",
       "path": "_ Mobile/Kotlin/the complete Android Kotlin/8.4 EditTexts.md"
-    },
-    {
-      "basename": "8.3 Button",
-      "path": "_ Mobile/Kotlin/the complete Android Kotlin/8.3 Button.md"
-    },
-    {
-      "basename": "8.2 TextView",
-      "path": "_ Mobile/Kotlin/the complete Android Kotlin/8.2 TextView.md"
     }
   ],
   "omittedPaths": [],
