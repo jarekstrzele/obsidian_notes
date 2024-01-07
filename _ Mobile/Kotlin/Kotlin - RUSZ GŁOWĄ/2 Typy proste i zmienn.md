@@ -14,13 +14,30 @@ Kompilator potrafi jednak wywnioskować typ zmiennej na podstawie wartości, jak
 `var x = 5` -> kompilator utworzy obiekt `Int` o wartości `5`,
 czyli zmienna `x` przechowuje **referencję** do tego obiektu.
 
+![[kotlin_referencja.excalidraw ]]
 
 
+# TYPY PROSTE
+## liczby całkowite:
+- `Byte`
+- `Short`
+- `Int`
+- `Long`
 
+```kotlin
+var smallNum: Short = 6
+```
+## zmiennoprzecinkowe
+- `Float` - `var x = 123.5F`
+- `Double` - `var x = 123.5`
 
+## wartości logiczne
+`true`
+`false`
 
-
-
+## znaki i łańcuchy
+Char: `var letter = 'D'`
+String:`var name = "Fido"`
 
 
 
