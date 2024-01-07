@@ -57,17 +57,54 @@ intent.type = "text/plain"
 intent.putExtra(Intent.EXTRA_TEXT, messageText)
 
 ```
+`text/plain` to MIME Type: [[MIME TYPE]]
+
+ten sam kod z `apply`
+```kotlin
+val intent = Intent(Intent.ACTION_SEND).apply {
+    type = "text/plain"
+    putExtra(Intent.EXTRA_TEXT, messageText)
+}
+
+```
 
 
+zmiana pliku `CreateMessageActivity`
+```kotlin
+  
+private fun onSendMessage(){  
+  
+	val msg: String = edittextMessage?.text.toString()  
+	println(msg)  
+	  
+	// val intent: Intent = Intent(this, ReceiveMessageActivity::class.java).apply {  
+	// putExtra( "message", msg)  
+	// }  
+	val intent = Intent(Intent.ACTION_SEND).apply {  
+	type = "text/plain"  
+	putExtra(Intent.EXTRA_TEXT, msg)  
+	}  
+	  
+	  
+	startActivity(intent)  
+	  
+}
+```
 
+## Filtr intencji niejawnej *intent filter*
+Filtr intencji określa typ intencji, które mogą być obsługiwane przez dany komponent.
 
+przykład:
+```xml
+<activity android:name=”ShareActivity”>
+	<intent-filter>
+		<action android:name=”android.intent.action.SEND”/>
+|<category android:name=”android.intent.category.DEFAULT”/>
+|<data android:mimeType=”text/plain”/> <data android:mimeType=”image/*”/>
+|</intent-filter>
 
-
-
-
-
-
-
+</activity>
+```
 
 
 
