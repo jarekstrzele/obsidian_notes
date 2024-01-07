@@ -64,10 +64,27 @@ var myArray = arrayOf(1,2,3)
 println(myArray[0])
 println(myArray.size)
 
+myArray = arrayOf(10,20,30) // zmienna myArray będzie przechowywać referencję do nowej tablicy
+
+var myArray2: Array<Byte> = arrayOf(1, 2, 3)
 
 ```
 
+---
+# Random 
+```kotlin
+println("${Math.random()}")
+0.5301868452123193
 
+println("${Math.random()}")
+0.8473722267596359
+
+println("${(Math.random()*10).toInt()}")
+7
+
+println("${(Math.random()*10).toInt()}")
+9
+```
  
 
 
