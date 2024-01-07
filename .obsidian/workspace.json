@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/_ 0 Kotlin Rusz Głową.md",
+                "file": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/2 Typy proste i zmienn.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/_ 0 Kotlin Rusz Głową.md",
+                "file": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/2 Typy proste i zmienn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/_ 0 Kotlin Rusz Głową.md",
+                "file": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/2 Typy proste i zmienn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/_ 0 Kotlin Rusz Głową.md"
+                "file": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/2 Typy proste i zmienn.md"
               }
             }
           },
@@ -255,8 +255,9 @@
   },
   "active": "4ed993e104217901",
   "lastOpenFiles": [
-    "_ Desktop/Python/Tkinter/Tkinter 0.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/_ 0 Kotlin Rusz Głową.md",
+    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/2 Typy proste i zmienn.md",
+    "_ Desktop/Python/Tkinter/Tkinter 0.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ",
     "_ Mobile/Rusz Głową Android. Programowanie aplikacji/Intencja.md",
     "MIME TYPE.md",
@@ -280,7 +281,6 @@
     "_ WEB/REACT/React - the Complete Guide/6 Styling React Component (Simple React App).md",
     "_ WEB/REACT/React - the Complete Guide/5.2 Chart.md",
     "_ WEB/REACT/React - the Complete Guide/5 Rendering Lists and Conditional content.md",
-    "_ WEB/REACT/React - the Complete Guide/4 React State and Working with Events.md",
-    "_ WEB/REACT/React - the Complete Guide/3 React Basics.md"
+    "_ WEB/REACT/React - the Complete Guide/4 React State and Working with Events.md"
   ]
 }
