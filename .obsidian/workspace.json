@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Rusz Głową Android. Programowanie aplikacji/AndroidManifest.md",
+                "file": "_ Mobile/Rusz Głową Android. Programowanie aplikacji/Intencja.md",
                 "mode": "source",
                 "source": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Rusz Głową Android. Programowanie aplikacji/AndroidManifest.md",
+                "file": "_ Mobile/Rusz Głową Android. Programowanie aplikacji/Intencja.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Rusz Głową Android. Programowanie aplikacji/AndroidManifest.md",
+                "file": "_ Mobile/Rusz Głową Android. Programowanie aplikacji/Intencja.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Rusz Głową Android. Programowanie aplikacji/AndroidManifest.md"
+                "file": "_ Mobile/Rusz Głową Android. Programowanie aplikacji/Intencja.md"
               }
             }
           },
@@ -243,6 +243,7 @@
   },
   "active": "d3393c659c6cc95c",
   "lastOpenFiles": [
+    "_ Mobile/Rusz Głową Android. Programowanie aplikacji/AndroidManifest.md",
     "_ Mobile/Rusz Głową Android. Programowanie aplikacji/Intencja.md",
     "_ Mobile/Rusz Głową Android. Programowanie aplikacji/3 Wiele aktywności i intencji.md",
     "_ Mobile/Rusz Głową Android. Programowanie aplikacji/2. Tworzenie interaktywnych aplikacji.md",
@@ -267,7 +268,6 @@
     "_ WEB/REACT/React 18 Tutorial and Projects Course 2023/_ The React 18 Tutorial (2023).md",
     "_ WEB/REACT/modern React/_ 0 Modern React 2022.md",
     "JAVASCRIPT/JS Bible/_ 0 JS Bible.md",
-    "JAVASCRIPT/Modern JavaScrip From the Beginning/3.6. Creating elements & Replace & Remove.md",
-    "JAVASCRIPT/Podstawy_Włodarczyk/DOM and Events.md"
+    "JAVASCRIPT/Modern JavaScrip From the Beginning/3.6. Creating elements & Replace & Remove.md"
   ]
 }
