@@ -8,7 +8,10 @@
 >- jeśli jedna aktywność chce uruchomić drugą, robi to, przesyłając do systemu Android odpowiednią intencję.
 >
 
+# Intencje jawne *explicit intent*
 
+## przykład jawne intencji
+`KlasaDocelowa::class.java` - jawnie informujemy system, którą klasę ma uruchiomić
 ```kotlin
 val intent = Intent(this, KlasaDocelowa::class.java)
 intent.putExtra( "message", value) // przysyłanie wartość przez klucz "message"
@@ -17,6 +20,7 @@ startActivity(intent)
 `this` informuje system, z jakiego obiektu pochodzi intencja.
 `KlasaDocelowa::class.java` nazwa klasy aktywności, do której intencja jest skierowana.
 `startActivity(intent)` uruchamia aktywność określoną w intencji
+
 
 > Kiedy Android odbierze intencję, sprawdza, czy wszystko jest w porządku, po czym uruchamia aktywność. Jeśli aktywności nie uda się odnaleźć, zgłaszany jest wyjątek ActivityNotFoundException.
 
@@ -30,6 +34,8 @@ startActivity(intent)
 
 
 
+# Intencje niejawne *implicit intent*
+Jeżli chcemy wykonać okreśłoną czynność, kecz nie interesuje nas, która aktywność to zrobi, to możemy utworzyć intencję niejawną. W takim pr
 
 
 

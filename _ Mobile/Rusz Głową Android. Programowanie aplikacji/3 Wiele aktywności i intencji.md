@@ -141,6 +141,19 @@ class ReceiveMessageActivity : AppCompatActivity() {
 }
 ```
 
+--------
+
+# Intencje mogą uruchamiać aktywności winnych aplikacjach
+
+>Aktywność należąca do naszej aplikacji przekazuje systemowi intencję, ten ją sprawdza, a następnie nakazuje uruchomienie drugiej aktywności, ==nawet jeśli będzie ona należeć do innej aplikacji==
+
+
+#kotlin/actions
+>[!info] akcje
+>są to sposoby pozwalające na poinformowanie systemu android o tym, jakie standardowe operacje moe wykonywać dana aktywność
+
+
+
 
 
 
