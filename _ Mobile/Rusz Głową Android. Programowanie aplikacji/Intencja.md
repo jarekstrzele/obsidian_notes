@@ -11,7 +11,7 @@
 
 ```kotlin
 val intent = Intent(this, KlasaDocelowa::class.java)
-
+intent.putExtra( "message", value) // przysyłanie wartość przez klucz "message"
 startActivity(intent) 
 ```
 `this` informuje system, z jakiego obiektu pochodzi intencja.
