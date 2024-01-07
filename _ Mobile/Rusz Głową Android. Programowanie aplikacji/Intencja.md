@@ -94,17 +94,19 @@ private fun onSendMessage(){
 ## Filtr intencji niejawnej *intent filter*
 Filtr intencji określa typ intencji, które mogą być obsługiwane przez dany komponent.
 
-przykład:
+przykład - *AndroidMainfest.xml*:
 ```xml
 <activity android:name=”ShareActivity”>
 	<intent-filter>
+	
 		<action android:name=”android.intent.action.SEND”/>
-|<category android:name=”android.intent.category.DEFAULT”/>
-|<data android:mimeType=”text/plain”/> <data android:mimeType=”image/*”/>
-|</intent-filter>
+		<category android:name=”android.intent.category.DEFAULT”/>
+		<data android:mimeType=”text/plain”/> <data android:mimeType=”image/*”/>
 
+	</intent-filter>
 </activity>
 ```
 
-
+`.action.SEND` aktywność jest w stanie obsługiwać akcję *ACTION_SEND*
+`DEFAULT` filtr intencji 
 
