@@ -17,12 +17,11 @@
 ## `AndroidManifest.xml`
 [[AndroidManifest]]
 
-
 ## intencja
 [[Intencja]]
 
-
-
+## `companion object`
+[[companion object]]
 
 
 

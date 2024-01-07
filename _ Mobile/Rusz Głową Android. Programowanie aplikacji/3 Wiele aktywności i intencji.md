@@ -16,16 +16,35 @@ główne pliki:
 
 ```kotlin
 class CreateMessageActivity : AppCompatActivity() {  
-	
+  
+	private var edittextMessage: EditText? = null  
+  
 	override fun onCreate(savedInstanceState: Bundle?) {  
 		super.onCreate(savedInstanceState)  
 		setContentView(R.layout.activity_create_message)  
-		  
+  
+		edittextMessage = findViewById(R.id.edittext_message)  
+  
 		val buttonSender: Button = findViewById(R.id.buttonSend)  
-		buttonSender.setOnClickListener {  
-		  
-		}  
-		}  
+buttonSender.setOnClickListener {  
+		val textviewHello : TextView = findViewById(R.id.textview_hello)  
+		textviewHello.text = edittextMessage?.text.toString()  
+onSendMessage()  
+	}  
+}  
+  
+	private fun onSendMessage(){  
+  
+		val msg: String = edittextMessage?.text.toString()  
+println(msg)  
+  
+		val intent: Intent = Intent(this, ReceiveMessageActivity::class.java).apply {  
+putExtra( "message", msg)  
+}  
+  
+		startActivity(intent)  
+  
+	}  
 }
 ```
 
@@ -71,9 +90,49 @@ app:layout_constraintTop_toTopOf="parent" />
 # Druga Aktywność
 
 [[Intencja]]
+>[!info] intencje
+>to komunikaty, których komponenty systemy Android używają do wzajemnej komunikacji
+>
+```xml
+<?xml version="1.0" encoding="utf-8"?>  
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"  
+xmlns:app="http://schemas.android.com/apk/res-auto"  
+xmlns:tools="http://schemas.android.com/tools"  
+android:layout_width="match_parent"  
+android:layout_height="match_parent"  
+android:padding="16dp"  
+android:orientation="vertical"  
+tools:context=".ReceiveMessageActivity">  
+  
+<TextView  
+android:id="@+id/message"  
+android:layout_width="wrap_content"  
+android:layout_height="wrap_content"  
+  
+/>  
+  
+</LinearLayout>
+```
 
-
-
+[[companion object]]
+```kotlin
+class ReceiveMessageActivity : AppCompatActivity() {  
+	companion object {  
+		const val EXTRA_MESSAGE = "message"  
+	}  
+	
+	override fun onCreate(savedInstanceState: Bundle?) {  
+		super.onCreate(savedInstanceState)  
+		setContentView(R.layout.activity_receive_message)  
+  
+		val intent = intent  
+		val messageText = intent.getStringExtra(EXTRA_MESSAGE)  
+		Log.i("msg", "$messageText")  
+		val textviewMessage = findViewById<TextView>(R.id.message)  
+		textviewMessage.text = messageText  
+	}  
+}
+```
 
 
 
