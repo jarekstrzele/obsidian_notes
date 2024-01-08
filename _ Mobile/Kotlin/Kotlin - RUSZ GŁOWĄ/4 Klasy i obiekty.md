@@ -9,7 +9,16 @@
 
 
 >[!info] obiekt
->- ==wła
+>- ==właściwości==:
+>	- to, co obiekt wie na swój temat
+>	- reprezentują stan obiektu (dane)
+>- ==funkcje składowe== / ==metody==:
+>	- czynności, które obiekt potrafi wykonywać
+>	- mogą korzystać z właściwości
+
+
+
+
 
 
 
