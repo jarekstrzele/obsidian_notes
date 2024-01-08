@@ -4,6 +4,11 @@
 > - Pierwsza z nich będzie umożliwiała wpisanie wiadomości.
 > - Kliknięcie przycisku wyświetlanego w pierwszej aktywności spowoduje uruchomienie drugiej aktywności i przekazanie do niej treści wiadomości. Ta druga aktywność wyświetli wiadomość.
 
+[[#Główna aktywność]]
+[[#Druga Aktywność]]
+[[#Intencje mogą uruchamiać aktywności w innych aplikacjach]]
+
+
 # Główna aktywność
 główne pliki:
 - `CreateMessageActivity.kt`  
@@ -152,6 +157,25 @@ class ReceiveMessageActivity : AppCompatActivity() {
 #kotlin/actions
 >[!info] akcje
 >są to sposoby pozwalające na poinformowanie systemu android o tym, jakie standardowe operacje moe wykonywać dana aktywność
+
+## metoda `Intent.createChooser()`
+- wyświetla okno dialogowe wyboru aktywności
+- Metoda ta pobiera utworzoną intencję i przekazuje ją do okna dialogowego wyboru aktywności.
+- W przypadku zastosowania tej metody wyświetlone okno dialogowe nie daje możliwości określania aktywności domyślnej — użytkownik będzie proszony o wybór aktywności za każdym razem.
+
+```kotlin
+val chosenIntent = Intent.createChooser(intent, "Wysyłanie wiadomości...")
+
+```
+
+> Metoda `createChooser()` 
+> POBIERA dwa parametry:
+> 	- *intencję* i 
+> 	- *opcjonalny* łańcuch znaków określający tytuł wyświetlanego okna dialogowego. 
+> ZWRACA:
+> 	- obiekt `Intent`
+> 
+> Możemy do niej przekazać utworzoną wcześniej intencję, tę, która korzysta z akcji `ACTION_SEND` i używa danych tekstowych.
 
 
 
