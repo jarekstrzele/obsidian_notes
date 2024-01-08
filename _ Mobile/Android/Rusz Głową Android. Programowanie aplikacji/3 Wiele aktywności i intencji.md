@@ -144,7 +144,7 @@ class ReceiveMessageActivity : AppCompatActivity() {
 
 --------
 
-# Intencje mogą uruchamiać aktywności winnych aplikacjach
+# Intencje mogą uruchamiać aktywności w innych aplikacjach
 
 >Aktywność należąca do naszej aplikacji przekazuje systemowi intencję, ten ją sprawdza, a następnie nakazuje uruchomienie drugiej aktywności, ==nawet jeśli będzie ona należeć do innej aplikacji==
 
