@@ -20,6 +20,7 @@
 >	- tworzenie zmiennej `obj`
 >	- tworzenie obiektu `MojaKlasa()`
 >	- połączenie obiektu ze zmienną, która przechowuje referencję do obiektu
+>- miejsce w pamięci dla obiektu przypisuje system
 
 
 >[!inf] konstruktor
@@ -29,6 +30,7 @@
 >	-  określenia ich wartości.
 >`class Dog(val name: String, val age: Int, val breed: String ){  }`
 >*(val name: String, val age: Int, val breed: String )* to podstawowy konstruktor  
+>Konstruktor jedynie inicjuje obiekt, więc upewnia się, czy zostały utworzone jego właściwości i czy zostały im przypisane wartości początkowe. Za zarządzanie pamięcią w całości odpowiada system.
 
 
 
@@ -54,7 +56,9 @@ class Dog(val name: String, val age: Int, val breed: String ){
 
 **Konstruktor** klasy `Dog` definiuje trzy właściwości — `name`, `age` oraz `breed`. Każdy obiekt `Dog` będzie zawierać te trzy właściwości, a podczas jego tworzenia konstruktor określi ich wartości.
 
-
+```kotlin
+class Do
+```
 
 
 
