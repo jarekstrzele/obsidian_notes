@@ -12,7 +12,7 @@
 
 ## przykład jawne intencji
 ### `KlasaDocelowa::class.java`
- jawnie informujemy system, którą klasę ma uruchiomić
+ jawnie informujemy system, którą klasę ma uruchomić
 
 ```kotlin
 val intent = Intent(this, KlasaDocelowa::class.java)
@@ -110,4 +110,31 @@ przykład - *AndroidMainfest.xml*:
 
 `.action.SEND` aktywność jest w stanie obsługiwać akcję *ACTION_SEND*
 `DEFAULT` filtr intencji  musi określać kategorię o wartości DEFAULT, aby mógł obsługiwać intencje niejawne
+
+```kotlin
+val intent = Intent(Intent.ACTION_SEND).apply {
+    type = "text/plain"
+    putExtra(Intent.EXTRA_TEXT, "Witaj")
+}
+
+```
+
+odpowiada temu kodowi
+```xml
+<activity android:name=”SendActivity”> 
+<intent-filter>
+
+		<action android:name=”android.intent.action.SEND” /> 
+		<category android:name=”android.intent.category.DEFAULT” /> 
+		<data android:mimeType=”*/*” />
+
+</intent-filter> 
+</activity>
+```
+
+
+
+
+
+
 
