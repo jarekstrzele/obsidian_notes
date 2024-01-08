@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "8 Quiz App",
+      "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md"
+    },
+    {
+      "basename": "3 Wiele aktywności i intencji",
+      "path": "_ Mobile/Rusz Głową Android. Programowanie aplikacji/3 Wiele aktywności i intencji.md"
+    },
+    {
+      "basename": "2. Tworzenie interaktywnych aplikacji",
+      "path": "_ Mobile/Rusz Głową Android. Programowanie aplikacji/2. Tworzenie interaktywnych aplikacji.md"
+    },
+    {
+      "basename": "2 Tworzenie widoków",
+      "path": "_ Mobile/Kotlin/Kurs Android od podstaw/2 Tworzenie widoków.md"
+    },
+    {
       "basename": "4 Klasy i obiekty",
       "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/4 Klasy i obiekty.md"
     },
@@ -33,10 +49,6 @@
       "path": "MIME TYPE.md"
     },
     {
-      "basename": "3 Wiele aktywności i intencji",
-      "path": "_ Mobile/Rusz Głową Android. Programowanie aplikacji/3 Wiele aktywności i intencji.md"
-    },
-    {
       "basename": "_ Rusz Głową Android. Programowanie aplikacji",
       "path": "_ Mobile/Rusz Głową Android. Programowanie aplikacji/_ Rusz Głową Android. Programowanie aplikacji.md"
     },
@@ -47,10 +59,6 @@
     {
       "basename": "AndroidManifest",
       "path": "_ Mobile/Rusz Głową Android. Programowanie aplikacji/AndroidManifest.md"
-    },
-    {
-      "basename": "2. Tworzenie interaktywnych aplikacji",
-      "path": "_ Mobile/Rusz Głową Android. Programowanie aplikacji/2. Tworzenie interaktywnych aplikacji.md"
     },
     {
       "basename": "_ 0 Android Kurs Tworzenia Aplikacji",
@@ -191,14 +199,6 @@
     {
       "basename": "3.2. View Models",
       "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3.2. View Models.md"
-    },
-    {
-      "basename": "3.1. Fragments",
-      "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3.1. Fragments.md"
-    },
-    {
-      "basename": "2 Tworzenie widoków",
-      "path": "_ Mobile/Kotlin/Kurs Android od podstaw/2 Tworzenie widoków.md"
     }
   ],
   "omittedPaths": [],

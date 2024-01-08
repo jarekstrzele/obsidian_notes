@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/4 Klasy i obiekty.md",
+                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md",
                 "mode": "source",
                 "source": false
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/4 Klasy i obiekty.md",
+                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/4 Klasy i obiekty.md",
+                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/4 Klasy i obiekty.md"
+                "file": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md"
               }
             }
           },
@@ -265,8 +265,11 @@
   },
   "active": "4ed993e104217901",
   "lastOpenFiles": [
-    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/_ 0 Kotlin Rusz Głową.md",
+    "_ Mobile/Rusz Głową Android. Programowanie aplikacji/3 Wiele aktywności i intencji.md",
+    "_ Mobile/Rusz Głową Android. Programowanie aplikacji/2. Tworzenie interaktywnych aplikacji.md",
+    "_ Mobile/Kotlin/Kurs Android od podstaw/2 Tworzenie widoków.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/4 Klasy i obiekty.md",
+    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/_ 0 Kotlin Rusz Głową.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/3 Funkcje - wychodzimy poza `main`.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/2 Typy proste i zmienn.md",
     "Excalidraw/kotlin_referencja.excalidraw.md",
@@ -274,11 +277,9 @@
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ",
     "_ Mobile/Rusz Głową Android. Programowanie aplikacji/Intencja.md",
     "MIME TYPE.md",
-    "_ Mobile/Rusz Głową Android. Programowanie aplikacji/3 Wiele aktywności i intencji.md",
     "_ Mobile/Rusz Głową Android. Programowanie aplikacji/_ Rusz Głową Android. Programowanie aplikacji.md",
     "_ Mobile/Rusz Głową Android. Programowanie aplikacji/companion object.md",
     "_ Mobile/Rusz Głową Android. Programowanie aplikacji/AndroidManifest.md",
-    "_ Mobile/Rusz Głową Android. Programowanie aplikacji/2. Tworzenie interaktywnych aplikacji.md",
     "_ Mobile/Android Kurs Tworzenia APlikacji/_ 0 Android Kurs Tworzenia Aplikacji.md",
     "_ Mobile/Kotlin/Kurs Android od podstaw/_ Kurs Android od podstaw.md",
     "_ Mobile/Kotlin/the complete Android Kotlin/8.7. Toggle Button.md",
@@ -290,7 +291,6 @@
     "_ WEB/REACT/React - the Complete Guide/14 Connecting to a Database.md",
     "_ WEB/REACT/React - the Complete Guide/9. Fragments, Portal, refs.md",
     "_ WEB/REACT/React - the Complete Guide/8 Login Project.md",
-    "_ WEB/REACT/React - the Complete Guide/6.1. Styling extra.md",
-    "_ WEB/REACT/React - the Complete Guide/6 Styling React Component (Simple React App).md"
+    "_ WEB/REACT/React - the Complete Guide/6.1. Styling extra.md"
   ]
 }
