@@ -2,11 +2,14 @@
 
 #kotlin/class
 
+# Klasa
+
 >[!info] klasy
 >Klasy są wzorcami pozwalającymi na tworzenie własnych typów obiektów i definiowanie ich właściwości oraz funkcji.
 
-==typu obiektowe są definiowane przy użyciu klas==
+==typy obiektowe są definiowane przy użyciu klas==
 
+# obiekt
 
 >[!info] obiekt
 >- ==właściwości==:
@@ -23,6 +26,8 @@
 >- miejsce w pamięci dla obiektu przypisuje system
 >- Każdą właściwość obiektu trzeba zainicjować, zanim będzie można jej użyć.
 
+
+# Konstruktor
 
 >[!inf] konstruktor
 >Konstruktor jest wykonywany podczas tworzenia obiektu. 
@@ -80,5 +85,21 @@ class Dog(val name: String, age_param: Int,, breed_param: String){
 
 val reksio = Dog("Reks", 10, "owczarek podhalański")
 ```
+
+## INICJALIZATOR
+#kotlin/init 
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
