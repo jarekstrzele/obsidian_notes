@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "5 Klasy pochodne i bazowe",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/5 Klasy pochodne i bazowe.md"
+    },
+    {
       "basename": "4 Klasy i obiekty",
       "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/4 Klasy i obiekty.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "3.3. View Binding",
       "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3.3. View Binding.md"
-    },
-    {
-      "basename": "3.2. View Models",
-      "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3.2. View Models.md"
     }
   ],
   "omittedPaths": [],

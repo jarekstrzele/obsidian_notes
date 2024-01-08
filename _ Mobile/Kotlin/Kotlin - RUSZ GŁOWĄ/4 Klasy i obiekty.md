@@ -137,10 +137,36 @@ hał
 # getter, setter
 #kotlin/getter #kotlin/setter 
 
+> Usuwanie możliwości bezpośredniego dostępu do wartości właściwości poprzez dodawanie do niej akcesorów get i set jest nazywane ukrywaniem danych.
 
+```kotlin
 
-
-
+fun main() {  
+    val reksio = Dog("Reksio", 3, "mieszaniec")  
+    reksio.bark()  
+    println(reksio.ageInMonth)  
+    reksio.age = -10  
+}  
+  
+class Dog(val name: String, age_param: Int, breed_param: String ){  
+  
+    var age = age_param  
+        get() = field  
+        set(value) {  
+            if (value < 1) println("Błąd. Wiek musi być większy od 0")  
+            else field = value  
+        }  
+    val breed = breed_param.uppercase()  
+    var ageInMonth: Int = 0  
+        get() = age * 12  
+  
+    fun bark() = println(if (age < 6) "hał" else "HAŁHAŁ")  
+  
+}
+```
+hał
+36
+Błąd. Wiek musi być większy od 0
 
 
 
