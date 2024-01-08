@@ -93,7 +93,7 @@ class Dog(val name: String, age_param: Int,, breed_param: String){
 val reksio = Dog("Reks", 10, "owczarek podhalański")
 ```
 
-## Bloki inicjalizatora
+# Bloki inicjalizatora
 #kotlin/init 
 
 > [!info] Bloki inicjalizatora 
@@ -104,7 +104,38 @@ val reksio = Dog("Reks", 10, "owczarek podhalański")
 > 
 > Klasa może zawierać więcej niż jeden blok inicjalizatora.
 
+```kotlin
+fun main() {  
+    val reksio = Dog("Reksio", 3, "mieszaniec")  
+    reksio.bark()  
+}  
+  
+class Dog(val name: String, age_param: Int, breed_param: String ){  
+  
+    init {  
+        println("utworzono psa")  
+    }  
+  
+    var age = age_param  
+    val breed = breed_param.uppercase()  
+  
+    init {  
+        println("rasa: $breed")  
+    }  
+  
+    fun bark() = println(if (age < 6) "hał" else "HAŁHAŁ")  
+  
+}
 
+```
+utworzono psa
+rasa: MIESZANIEC
+hał
+
+
+
+# getter, setter
+#kotlin/getter #kotlin/setter 
 
 
 
