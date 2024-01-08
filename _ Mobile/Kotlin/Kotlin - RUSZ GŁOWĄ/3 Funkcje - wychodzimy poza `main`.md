@@ -74,5 +74,26 @@ fun changeValue(index: Int, myArray: Array<String>) {
 }
 ```
 
+---
+# Pętle
+
+>Trzeba zwrócić uwagę, że operator `..` tworzy zakres, który zawiera górną granicę (czyli drugą z podanych liczb). 
+>Gdybyśmy chcieli utworzyć zakres, który nie zawiera tej górnej granicy, to operator `..` trzeba by zastąpić funkcją `until`. 
+
+`for(x in 1..100) println(x)` od 1 do 100 włącznie
+`for (x until 100) println` od 1 do 99 włącznie
+
+
+```kotlin
+for(x in 1..10) print("$x ")  
+println()  
+for(x in 10 downTo 1) print("$x ")  
+println()  
+for (x in 15 downTo 2 step 3) print("$x ")
+```
+ 1 2 3 4 5 6 7 8 9 10 
+10 9 8 7 6 5 4 3 2 1 
+15 12 9 6 3 
+
 
 
