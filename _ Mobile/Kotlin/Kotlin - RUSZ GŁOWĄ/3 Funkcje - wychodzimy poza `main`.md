@@ -95,5 +95,14 @@ for (x in 15 downTo 2 step 3) print("$x ")
 10 9 8 7 6 5 4 3 2 1 
 15 12 9 6 3 
 
-
-
+```kotlin
+val options = arrayOf("kamień", "papier", "nożyce")  
+for (item in options) print("$item ")  
+println()  
+for(index in options.indices) print("$index ")  
+println()  
+for((index, item) in options.withIndex()) print("index=$index, item=$item")
+```
+kamień papier nożyce 
+0 1 2 
+index=0, item=kamieńindex=1, item=papierindex=2, item=nożyce
