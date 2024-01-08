@@ -12,6 +12,7 @@
 >- ==właściwości==:
 >	- to, co obiekt wie na swój temat
 >	- reprezentują stan obiektu (dane)
+>	- jest zmienną lokalną dostępną w obiekcie
 >- ==funkcje składowe== / ==metody==:
 >	- czynności, które obiekt potrafi wykonywać
 >	- mogą korzystać z właściwości
