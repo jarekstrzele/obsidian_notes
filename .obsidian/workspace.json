@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/3 Wiele aktywności i intencji.md",
+                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Intencja.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/3 Wiele aktywności i intencji.md",
+                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Intencja.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/3 Wiele aktywności i intencji.md",
+                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Intencja.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/3 Wiele aktywności i intencji.md"
+                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Intencja.md"
               }
             }
           },
@@ -256,6 +256,7 @@
   "active": "4ed993e104217901",
   "lastOpenFiles": [
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/companion object.md",
+    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/AndroidManifest.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/3 Wiele aktywności i intencji.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/2. Tworzenie interaktywnych aplikacji.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/1. Skok na głęboką wodę.md",
@@ -273,7 +274,6 @@
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Intencja.md",
     "MIME TYPE.md",
-    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/AndroidManifest.md",
     "_ Mobile/Android/Android Kurs Tworzenia APlikacji/_ 0 Android Kurs Tworzenia Aplikacji.md",
     "_ Mobile/Android/Kurs Android od podstaw/_ Kurs Android od podstaw.md",
     "_ Mobile/Android/the complete Android Kotlin/8.7. Toggle Button.md",
