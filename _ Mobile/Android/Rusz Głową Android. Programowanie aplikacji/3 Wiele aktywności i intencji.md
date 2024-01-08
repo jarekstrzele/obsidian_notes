@@ -159,6 +159,8 @@ class ReceiveMessageActivity : AppCompatActivity() {
 >są to sposoby pozwalające na poinformowanie systemu android o tym, jakie standardowe operacje moe wykonywać dana aktywność
 
 ## metoda `Intent.createChooser()`
+#kotlin/intent #kotlin/createChooser 
+
 - wyświetla okno dialogowe wyboru aktywności
 - Metoda ta pobiera utworzoną intencję i przekazuje ją do okna dialogowego wyboru aktywności.
 - W przypadku zastosowania tej metody wyświetlone okno dialogowe nie daje możliwości określania aktywności domyślnej — użytkownik będzie proszony o wybór aktywności za każdym razem.
@@ -174,8 +176,12 @@ val chosenIntent = Intent.createChooser(intent, "Wysyłanie wiadomości...")
 > 	- *opcjonalny* łańcuch znaków określający tytuł wyświetlanego okna dialogowego. 
 > ZWRACA:
 > 	- obiekt `Intent`
+> 	- Ta nowa intencja jawna zostanie skierowana bezpośrednio do aktywności wybranej przez użytkownika. 
+> 	- Będzie ona także zawierać wszelkie informacje dodatkowe przekazane w początkowej intencji, w tym także wszystkie łańcuchy znaków
 > 
 > Możemy do niej przekazać utworzoną wcześniej intencję, tę, która korzysta z akcji `ACTION_SEND` i używa danych tekstowych.
+
+uruchomienie aktywności: `startActivity(chosenIntent);`
 
 
 
