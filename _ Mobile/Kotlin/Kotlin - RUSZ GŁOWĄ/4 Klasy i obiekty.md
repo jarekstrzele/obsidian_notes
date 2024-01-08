@@ -21,6 +21,7 @@
 >	- tworzenie obiektu `MojaKlasa()`
 >	- połączenie obiektu ze zmienną, która przechowuje referencję do obiektu
 >- miejsce w pamięci dla obiektu przypisuje system
+>- Każdą właściwość obiektu trzeba zainicjować, zanim będzie można jej użyć.
 
 
 >[!inf] konstruktor
@@ -30,6 +31,7 @@
 >	-  określenia ich wartości.
 >`class Dog(val name: String, val age: Int, val breed: String ){  }`
 >*(val name: String, val age: Int, val breed: String )* to podstawowy konstruktor  
+>
 >Konstruktor jedynie inicjuje obiekt, więc upewnia się, czy zostały utworzone jego właściwości i czy zostały im przypisane wartości początkowe. Za zarządzanie pamięcią w całości odpowiada system.
 
 
@@ -56,11 +58,27 @@ class Dog(val name: String, val age: Int, val breed: String ){
 
 **Konstruktor** klasy `Dog` definiuje trzy właściwości — `name`, `age` oraz `breed`. Każdy obiekt `Dog` będzie zawierać te trzy właściwości, a podczas jego tworzenia konstruktor określi ich wartości.
 
+KOD (właściwości zdefiniowane wewnątrz konstruktora)
 ```kotlin
-class Do
+class Dog(val name: String, val age: Int){}
+```
+JEST RÓWNOWAŻNY (właściwości zdefiniowane w ciele klasy):
+```kotlin
+class Dog(name: String, age: Int){
+	val name = name
+	val age = age
+}
 ```
 
+ten drugi sposób jest bardzej elastyczny:
+```kotlin
+class Dog(val name: String, age_param: Int,, breed_param: String){
+	var activities = arrayOf("spaceruje)
+	var age = age_param
+	val breed = breed_param.toUpperCase()
+}
 
-
+val reksio = Dog("Reks", 10, "owczarek podhalański")
+```
 
 
