@@ -9,6 +9,13 @@
 
 ==typy obiektowe są definiowane przy użyciu klas==
 
+>:Słowa kluczowego `lateinit` można używać wyłącznie z właściwościami zdefiniowanymi z użyciem słowa kluczowego `var`, przy czym nie mogą to być właściwości następujących typów: 
+>- `Byte`,  `Short`, `Int`,`Long`, 
+>- `Float`, `Double`, 
+>- `Char` 
+>- `Boolean`. 
+>- Ograniczenie to wiąże się ze sposobem obsługi tych typów danych w JVM. Oznacza to, że właściwości wymienionych typów muszą być inicjowane w momencie definiowania bądź też wewnątrz bloku inicjalizatora.
+
 # obiekt
 
 >[!info] obiekt
@@ -86,8 +93,16 @@ class Dog(val name: String, age_param: Int,, breed_param: String){
 val reksio = Dog("Reks", 10, "owczarek podhalański")
 ```
 
-## INICJALIZATOR
+## Bloki inicjalizatora
 #kotlin/init 
+
+> [!info] Bloki inicjalizatora 
+> są wykonywane 
+> 	-  podczas inicjalizacji obiektu,
+> 	-  bezpośrednio po wywołaniu jego konstruktora, 
+> a w kodzie klasy definiuje się je, poprzedzając blok kodu słowem kluczowym `init`.
+> 
+> Klasa może zawierać więcej niż jeden blok inicjalizatora.
 
 
 
