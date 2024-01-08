@@ -26,6 +26,10 @@
 >Jest on używany do zdefiniowania
 >	-  właściwości obiektu oraz
 >	-  określenia ich wartości.
+>`class Dog(val name: String, val age: Int, val breed: String ){  }`
+>*(val name: String, val age: Int, val breed: String )* to podstawowy konstruktor  
+
+
 
 
 ```kotlin
@@ -47,7 +51,7 @@ class Dog(val name: String, val age: Int, val breed: String ){
 }
 ```
 
-
+**Konstruktor** klasy `Dog` definiuje trzy właściwości — `name`, `age` oraz `breed`. Każdy obiekt `Dog` będzie zawierać te trzy właściwości, a podczas jego tworzenia konstruktor określi ich wartości.
 
 
 
