@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Intencja.md",
+                "file": "_ Mobile/Android/uruchamiania na prawdziwym urządzeniu.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -130,8 +130,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -151,6 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_ Mobile/Android/uruchamiania na prawdziwym urządzeniu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,6 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_ Mobile/Android/uruchamiania na prawdziwym urządzeniu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +189,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_ Mobile/Android/uruchamiania na prawdziwym urządzeniu.md"
+              }
             }
           },
           {
@@ -238,9 +241,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "faa7e67ef6d9a902",
+  "active": "d3393c659c6cc95c",
   "lastOpenFiles": [
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Intencja.md",
+    "_ Mobile/Android/uruchamiania na prawdziwym urządzeniu.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/companion object.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/AndroidManifest.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/3 Wiele aktywności i intencji.md",
@@ -266,7 +270,6 @@
     "_ Mobile/REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer or Bottom-Tabs Navigators/Drawer Navigator.md",
     "_ Mobile/REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer or Bottom-Tabs Navigators/BottomNavigator.md",
     "_ Mobile/REACT NATIVE/React Native Practical Guide/6 Navigation/_ 0 React Native Navigation.md",
-    "_ WEB/REACT/React - the Complete Guide/_ 0 React Full.md",
-    "_ WEB/REACT/React - the Complete Guide/14 Connecting to a Database.md"
+    "_ WEB/REACT/React - the Complete Guide/_ 0 React Full.md"
   ]
 }

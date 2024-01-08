@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "uruchamiania na prawdziwym urządzeniu",
+      "path": "_ Mobile/Android/uruchamiania na prawdziwym urządzeniu.md"
+    },
+    {
       "basename": "Intencja",
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Intencja.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "selector",
       "path": "_ Mobile/Android/selector.md"
-    },
-    {
-      "basename": "3.3. View Binding",
-      "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3.3. View Binding.md"
     }
   ],
   "omittedPaths": [],
