@@ -106,3 +106,72 @@ for((index, item) in options.withIndex()) print("index=$index, item=$item")
 kamień papier nożyce 
 0 1 2 
 index=0, item=kamieńindex=1, item=papierindex=2, item=nożyce
+
+
+-------
+# gra papier, kamień, nożyce
+
+```kotlin
+
+fun main() {  
+    val options = arrayOf("kamień", "papier", "nożyce")  
+    val gameChoice = getGameChoice(options)  
+    val userChoice = getUserChoice(options)  
+    println("komputer: $gameChoice, ty: $userChoice") //, wynik: ${getResult(gameChoice, userChoice)" )  
+    println("wynik: ${getResult(gameChoice,userChoice)}")  
+  
+  
+}  
+  
+fun getGameChoice(optionsParam: Array<String>) = optionsParam[(Math.random() * optionsParam.size).toInt()] 
+
+fun getUserChoice(optionsParam: Array<String>) : String {  
+    var isValideChoice = false  
+    var userChoice = ""  
+  
+    while(!isValideChoice){  
+        print("Wpisz jedną  z opcji:")  
+        for(item in optionsParam) print(" $item")  
+        println(".")  
+  
+        val userInput = readLine()  
+        if (userInput != null && userInput in optionsParam){  
+            isValideChoice = true  
+            userChoice = userInput  
+        }  
+        if(!isValideChoice) println("Musisz wpisać jedną z dostępnych opcji.")  
+    }  
+  
+    return userChoice  
+}  
+  
+fun getResult(computerChoice: String, userChoice: String) : String {  
+   return when{  
+        computerChoice == userChoice -> "Remis"  
+        (computerChoice =="papier" && userChoice == "nożyce") ||  
+        (computerChoice=="nożyce" && userChoice=="kamień") ||  
+        (computerChoice=="kamien" && userChoice=="papier") -> "Wygrałeś"  
+        else -> "przegrałeś"  
+    }  
+}
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "4 Klasy i obiekty",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/4 Klasy i obiekty.md"
+    },
+    {
+      "basename": "_ 0 Kotlin Rusz Głową",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/_ 0 Kotlin Rusz Głową.md"
+    },
+    {
       "basename": "3 Funkcje - wychodzimy poza `main`",
       "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/3 Funkcje - wychodzimy poza `main`.md"
     },
     {
       "basename": "2 Typy proste i zmienn",
       "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/2 Typy proste i zmienn.md"
-    },
-    {
-      "basename": "_ 0 Kotlin Rusz Głową",
-      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/_ 0 Kotlin Rusz Głową.md"
     },
     {
       "basename": "kotlin_referencja.excalidraw",
@@ -195,10 +199,6 @@
     {
       "basename": "2 Tworzenie widoków",
       "path": "_ Mobile/Kotlin/Kurs Android od podstaw/2 Tworzenie widoków.md"
-    },
-    {
-      "basename": "8 Quiz App",
-      "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md"
     }
   ],
   "omittedPaths": [],
