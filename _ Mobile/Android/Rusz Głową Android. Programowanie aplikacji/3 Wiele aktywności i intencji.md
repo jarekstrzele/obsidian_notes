@@ -39,7 +39,7 @@ onSendMessage()
 println(msg)  
   
 		val intent: Intent = Intent(this, ReceiveMessageActivity::class.java).apply {  
-putExtra( "message", msg)  
+	putExtra( "message", msg)  
 }  
   
 		startActivity(intent)  
