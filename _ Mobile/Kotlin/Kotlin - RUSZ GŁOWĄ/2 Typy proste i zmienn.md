@@ -70,6 +70,12 @@ var myArray2: Array<Byte> = arrayOf(1, 2, 3)
 
 ```
 
+`val myArray = arrayOf(1,2,3)`
+>Kiedy zmiennej zostanie przypisana referencja do tablicy, zmienna będzie ją zawierać już na zawsze. Jednak choć zmienna będzie zawierać referencję do tej samej tablicy, to nic nie stoi na przeszkodzie, by zawartość tablicy ulegała zmianom.
+>…jednak zmienne w tablicy będziemy mogli zmieniać|
+
+> Samą tablicę możemy modyfikować, choć zmienna została zadeklarowana z użyciem słowa kluczowego val.
+> 
 ---
 # Random 
 ```kotlin

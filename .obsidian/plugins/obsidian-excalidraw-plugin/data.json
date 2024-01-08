@@ -967,7 +967,7 @@
             "containerId": null,
             "originalText": "system",
             "lineHeight": 1.2,
-            "baseline": 35
+            "baseline": 34
           }
         ],
         "id": "NgPfjqRnTLdaDSvaUMQgc",
@@ -8923,7 +8923,7 @@
             "containerId": null,
             "originalText": "Object Storage",
             "lineHeight": 1.3126433006354734,
-            "baseline": 16
+            "baseline": 15
           }
         ],
         "id": "2r7VF4LRiwe4tSwxno1xw",
@@ -9824,7 +9824,7 @@
             "containerId": null,
             "originalText": "Cold Storage",
             "lineHeight": 1.3119955412599642,
-            "baseline": 16
+            "baseline": 15
           }
         ],
         "id": "iWEdGNzCTEEX4IS9VlzMy",
@@ -10020,7 +10020,7 @@
             "containerId": null,
             "originalText": "{",
             "lineHeight": 1.1978329067229467,
-            "baseline": 28
+            "baseline": 27
           },
           {
             "type": "text",
@@ -10062,7 +10062,7 @@
             "containerId": null,
             "originalText": "}",
             "lineHeight": 1.191103508370571,
-            "baseline": 28
+            "baseline": 27
           },
           {
             "type": "text",
@@ -12340,7 +12340,7 @@
             "containerId": null,
             "originalText": "Cache",
             "lineHeight": 1.2706504267443253,
-            "baseline": 20
+            "baseline": 19
           }
         ],
         "id": "rnz-jspV2iZJm2dQWrG1T",
@@ -13342,7 +13342,7 @@
             "containerId": null,
             "originalText": "DNS",
             "lineHeight": 1.1940035041557016,
-            "baseline": 25
+            "baseline": 24
           },
           {
             "type": "text",
@@ -14244,7 +14244,7 @@
             "containerId": null,
             "originalText": "Message Q",
             "lineHeight": 1.2429172407900155,
-            "baseline": 16
+            "baseline": 15
           }
         ],
         "id": "ju81nKt4tvTt05ZvIx64M",
@@ -16151,7 +16151,7 @@
             "containerId": null,
             "originalText": "Archive",
             "lineHeight": 1.2266250604258317,
-            "baseline": 15
+            "baseline": 14
           }
         ],
         "id": "swveRwhBrodtfIkrMvjp8",
@@ -16543,7 +16543,7 @@
             "containerId": null,
             "originalText": "Web Application",
             "lineHeight": 1.266582418172241,
-            "baseline": 15
+            "baseline": 14
           },
           {
             "type": "rectangle",

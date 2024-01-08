@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "_ 0 Kotlin Rusz Głową",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/_ 0 Kotlin Rusz Głową.md"
+    },
+    {
+      "basename": "3 Funkcje - wychodzimy poza `main`",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/3 Funkcje - wychodzimy poza `main`.md"
+    },
+    {
       "basename": "2 Typy proste i zmienn",
       "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/2 Typy proste i zmienn.md"
     },
     {
       "basename": "kotlin_referencja.excalidraw",
       "path": "Excalidraw/kotlin_referencja.excalidraw.md"
-    },
-    {
-      "basename": "_ 0 Kotlin Rusz Głową",
-      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/_ 0 Kotlin Rusz Głową.md"
     },
     {
       "basename": "Tkinter 0",
@@ -195,10 +199,6 @@
     {
       "basename": "8 Quiz App",
       "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/8 Quiz App.md"
-    },
-    {
-      "basename": "7 Calculator",
-      "path": "_ Mobile/Kotlin/the complete Android 12 and Kotlin/7 Calculator.md"
     }
   ],
   "omittedPaths": [],
