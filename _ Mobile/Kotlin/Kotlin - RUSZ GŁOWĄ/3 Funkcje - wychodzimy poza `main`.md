@@ -14,6 +14,9 @@
 >	- typ, 
 >	- używana wewnątrz ciała funkcji.
 
+
+> kompilator gwarantuje bowiem, że funkcja zawsze będzie wywoływana z argumentami odpowiadającymi zadeklarowanym parametrom, a argumenty są automatycznie przypisywane do tych parametrów.
+
 ```kotlin
 //funkcja zwraca Int
 fun printSum(int1: Int, int2: Int) : Int{
@@ -50,6 +53,26 @@ fun max(a: Int, b: Int) = if (a > b) a else b
 ```
 
 
+zmiana wartości tablicy w funkcji:
+```kotlin
+fun main() {  
+    val options = arrayOf("kamień", "papier", "nożyce")  
+    var newValue = options[0]  
+    newValue = "nowa wartość"  
+  
+    println(options.joinToString(separator = " ", prefix = "[", postfix = "]")) //nie zmienia wartości [kamień papier nożyce]  
+    
+    changeValue(0, options)  
+    
+    println(options.joinToString(separator = " ", prefix = "[", postfix = "]"))  // zmienia wartość [PPP papier nożyce]
+
+}  
+  
+  
+fun changeValue(index: Int, myArray: Array<String>) {  
+    myArray[index] = "PPP"  
+}
+```
 
 
 
