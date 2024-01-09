@@ -229,7 +229,24 @@ open class Car : Vehicle(){
 ```
 
 
->[!important] kolejność 
+>[!important] kolejność wywołania
+>Kiedy wywołujemy funkcję, używając w tym celu referencji do obiektu, wywołujemy najbardziej precyzyjnie określoną wersję funkcji istniejącą dla danego typu obiektu: czyli ==funkcję znajdującą się najniżej w drzewie dziedziczenia==.
+
+*przykład*
+> Na przykład jeśli wywołamy funkcję na rzecz obiektu klasy Wolf, to system w pierwszej kolejności postara się znaleźć ją w samej klasie Wolf. Jeśli uda się znaleźć funkcję w tej klasie, to zostanie ona wykonana. Jeżeli jednak nie uda się znaleźć funkcji w klasie Wolf, to system przejdzie w górę drzewa dziedziczenia, czyli do klasy Canine. Jeśli funkcja została w niej zdefiniowana, to system ją wykona, jeśli nie — przejdzie do następnej klasy położonej wyżej w drzewie dziedziczenia. System kontynuuje to sprawdzanie kolejnych klas aż do momentu znalezienia funkcji.
+
+
+>[!danger] gwarancja z dziedziczenia
+>Dziedziczenie gwarantuje, że wszystkie klasy pochodne będą mieć właściwości i funkcje zdefiniowane w klasie bazowej
+>	
+>	Na przykład *dla wszystkich typów pochodnych zwierząt klasa Animal tworzy wspólny protokół, który stwierdza: „Zwierzę ma właściwości o nazwach image, food, habitat i hunger oraz funkcje: makeNoise, roam, eat oraz sleep”*
+
+>[!important] klasa pochodna -> klasa bazowa
+>Wszędzie, gdzie możemy użyć klasy bazowej, możemy także użyć dowolnej z jej klas pochodnych
+`val animal : Animal = Wolf()`, bo *Wolf* JEST *Animal*
+
+
+
 
 
 
