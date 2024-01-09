@@ -163,6 +163,71 @@ class Hippo : Animal(){
 > 	- dodając je do klasy pochodnej i 
 > 	- poprzedzając słowem kluczowym `override`.
 
+```kotlin
+class Animal {
+	// ...
+	open fun makeNoise(){
+	//..
+	}
+
+	open fun eat(){
+		///
+	}
+	
+}
+
+class Hippo: Animal(){
+	//...
+
+	override fun makeNoise() {
+		println("Hrummm!)
+	}
+	override fun eat(){
+		println("Główne pożywienie to $food")
+	}
+
+}
+
+
+```
+
+> [!imporant] REGUŁY PRZESŁANIANIA FUNKCJI:
+> - parametry funkcji w klasie pochodnej muszą odpowiadać parametrom funkcji w klasie bazowej,
+> - typy wartości zwracanych przez funkcje muszą być zgodne, czyli takie same lub pochodne
+
+> - jeśli chcemy przesłonić funkcję lub właściwość, to w klasie bazowej musimy zadeklarować ją jako otworzoną, używając słowa kluczowego `open`. 
+> - takie funkcje lub właściwości **pozostają otworzone we wszystkich klasach pochodnych** i to nawet jeśli zostaną przesłonięte; dzięki temu w kolejnych klasach pochodnych nie musimy ponownie deklarować ich jako otworzonych.
+
+```kotlin
+open class Vehicle {
+	open fun lowerTemp() {
+		//...
+	}
+}
+
+open class Car: Vehicle(){
+	override fun lowerTemp() {
+		//...
+	}
+}
+
+class ConvertibleCar: Car(){
+	override fun lowerTemp(){
+		//...
+	}
+
+}
+```
+
+ale użycie `final` będzie oznaczać, że w klasach pochodnych nie będzie można jej przesłaniać
+```kotlin
+open class Car : Vehicle(){
+	final override fun lowerTemp() {
+		//...
+	}
+}
+```
+
 
 
 
