@@ -135,9 +135,20 @@ class Hippo : Animal() {
 ```
 >[!danger]
 >jeśli w klasie bazowej zdefiniujemy właściwości, używając słowa kluczowego `val`, i jeśli w klasie pochodnej chcemy przypisać im inne wartości, to musimy przesłonić je w klasie pochodnej.
+>
+> Jeśli natomiast właściwości klasy bazowej zostały zdefiniowane z użyciem słowa kluczowego var, to nie musimy ich przesłaniać, gdyż zmienne zdefiniowane z użyciem var można aktualizować.
+```kotlin
+open class Animal {
+	var image = ""
+	//....
+}
 
-
-
+class Hippo : Animal(){
+	init {
+		image = 
+	}
+}
+```
 
 
 
