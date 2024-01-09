@@ -124,6 +124,18 @@ class ConvertibleCar(make_param: String, model_param: String) : Car(make_param, 
 
 ### Jak i kiedy przesłaniać właściwości?
 
+> Właściwości odziedziczone po klasie bazowej można przesłaniać poprzez dodanie ich do klasy pochodnej i poprzedzenie słowem kluczowym `override`.
+
+```kotlin
+class Hippo : Animal() {
+	override val image = "hippo.jpg"
+	override val food = "trawa"
+	override val habitat = "woda"
+}
+```
+>[!danger]
+>jeśli w klasie bazowej zdefiniujemy właściwości, używając słowa kluczowego `val`, i jeśli w klasie pochodnej chcemy przypisać im inne wartości, to musimy przesłonić je w klasie pochodnej.
+
 
 
 
