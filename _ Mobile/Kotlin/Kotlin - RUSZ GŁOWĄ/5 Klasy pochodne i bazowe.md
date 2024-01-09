@@ -68,13 +68,25 @@ klasa `Hippo` bez zmian, dziedziczy bezpośrednio z klasy `Animal`
 >- to jest test jednokierunkowy: *X jest Y*, ale *Y* nie jest *X*
 >- przykład: *Czy hipopotam JEST zwierzęciem?* , tak, ale zwierzę nie musi być hipopotanem
 >- działa w dowolnym miejscu drzewa dziedziczenia: A jest B, B jest C, więc też A jest C
->- `Wolf` jest `Canine`, więc `Wolf` może zrobić wszystko to samo co Canine, 
->- `Wolf` jest ``
+>	- `Wolf` jest `Canine`, więc `Wolf` może zrobić wszystko to samo co Canine, 
+>	- `Wolf` jest `Animal`, zatem może zrobić wszystko to samo co `Animal`
 >
 
 >[!important] test MA
 >Czy stwierdzenie, że *typ X ma/zawiera typ Y* ma sens?
 >- np. *Czy kuchnia ma lodówkę?*, tak, więc obiekt klasy `Kuchnia` zwiera referencję do obiektu klasy `Lodowka`, czyli klasa `Kuchnia` ma właściwość `Lodowka`
+
+----------
+# Klasy w Kotlinie
+#kotlin/class 
+
+Intellij: *Następnie utwórz plik Animals.kt; w tym celu zaznacz katalog `src` i wybierz z menu głównego opcję `File/New/Kotlin` `File/Class`. Następnie w wyświetlonym oknie dialogowym, w polu Name wpisz Animals, a z listy Kind wybierz opcję `File`.*
+
+
+>[!important] `open` - używanie klasy jako bazowej
+>Aby można było używać klasy jako klasy bazowej, trzeba ją zadeklarować jako otworzoną. Wszystko, co chcemy przesłaniać, musi być poprzedzone słowem kluczowym `open`
+
+
 
 
 
