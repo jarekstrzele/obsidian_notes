@@ -82,9 +82,47 @@ klasa `Hippo` bez zmian, dziedziczy bezpośrednio z klasy `Animal`
 
 Intellij: *Następnie utwórz plik Animals.kt; w tym celu zaznacz katalog `src` i wybierz z menu głównego opcję `File/New/Kotlin` `File/Class`. Następnie w wyświetlonym oknie dialogowym, w polu Name wpisz Animals, a z listy Kind wybierz opcję `File`.*
 
+## klasa bazowa
 
 >[!important] `open` - używanie klasy jako bazowej
 >Aby można było używać klasy jako klasy bazowej, trzeba ją zadeklarować jako otworzoną. Wszystko, co chcemy przesłaniać, musi być poprzedzone słowem kluczowym `open`
+
+```kotlin
+open class Animal {  
+    open val image = ""  
+    open val food = ""  
+    open val habitat = ""  
+    var hunger = 10  // tej właściwości nie będziemy przesłaniać?
+  
+    open fun makeNoise(){  
+        println("Zwierzę wydaje dźwięki,")  
+    }  
+    open fun eat() = println("Zwierzę je.")  
+    open fun roam() = println("Zwierzę wałęsa się.")  
+    fun sleep() = println("Zwierzę śpi.")  // tej metody nie będziemy przesłaniać?
+}
+```
+
+## klasy pochodne
+> jeśli klasa bazowa definiuje konstruktor podstawowy, to musimy wywołać go w nagłówku klasy pochodnej, gdyż w przeciwnym razie nie uda się skompilować kodu
+
+```kotlin
+class Hippo : Animal() {}
+```
+`: Animal()` wywołanie konstruktora klasy `Animal`
+
+> jeśli konstruktor klasy bazowej zawiera parametry, to w jego wywołaniu musimy przekazać wartości tych parametrów
+np.
+```kotlin
+open class Car(val make: String, val model:Sring){}
+
+class ConvertibleCar(make_param: String, model_param: String) : Car(make_param, model_param)
+```
+>> Konstruktor klasy `ConvertibleCar` ma dwa parametry 
+>> — `make_param` oraz `model_param`. Wartości tych parametrów są przekazywane w wywołaniu konstruktora klasy `Car`, który z kolei użyje ich do zainicjowania właściwości `make` i `model`.
+
+
+### Jak i kiedy przesłaniać właściwości?
 
 
 
