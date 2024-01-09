@@ -241,18 +241,54 @@ open class Car : Vehicle(){
 >	
 >	Na przykład *dla wszystkich typów pochodnych zwierząt klasa Animal tworzy wspólny protokół, który stwierdza: „Zwierzę ma właściwości o nazwach image, food, habitat i hunger oraz funkcje: makeNoise, roam, eat oraz sleep”*
 
+
+### Typy bazowa - Typy pochodne
+
 >[!important] klasa pochodna -> klasa bazowa
 >Wszędzie, gdzie możemy użyć klasy bazowej, możemy także użyć dowolnej z jej klas pochodnych
 `val animal : Animal = Wolf()`, bo *Wolf* JEST *Animal*
 
->[!danger] DeDŻER
+>[!danger] DenDŻER
 >Jeśli zmienna typu Animal wskazuje na obiekt typu Wolf, to wywołanie jej funkcji eat() sprawi, że zostanie wykonana funkcja zdefiniowana w klasie Wolf.
+```kotlin
+val animal : Animal = Wolf()
+animal.eat() // --> zostanie wykonana metoda zdefiniowana w klasie `Wolf`
+```
 
+```kotlin
+val animals = arrayOf(
+	Hippo(),
+	Wolf(),
+	Lion(),
+	Cheetah(),
+	Lynx(),
+	Fox()
+)
+```
+Kompilator zauważy, że to wszystko są obiekty klas pochodnych klasy Animal, dlatego też utworzy tablicę typu `Array<Animal>`.
 
+>[!important] typ bazowy w funkcji
+>- jako parametr:
+>	- typów bazowych można używać w parametrach funkcji 
+>- jako typu zwracanego wyniku
+```kotlin
+class Vet {
+	fun giveShot(animal: Animal){
+		animal.makeNoise()
+	}
+}
 
+val vet = Vet()
+val wolf = Wolf()
+val hippo = Hippo()
+vet.giveShot(wolf)
+vet.giveShot(hippo)
 
+```
 
-
+>[!definition] polimorfizm
+>- Możliwość zastosowania obiektów jednego typu w miejscu, w którym jawnie są oczekiwane obiekty innego typu, jest nazywana polimorfizmem.
+>- "wiele form" - różne klasy pochodne mogą mieć odmienne implementacje tej
 
 
 
