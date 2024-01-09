@@ -4,7 +4,7 @@
 [[2 Typy proste i zmienn]]
 [[3 Funkcje - wychodzimy poza `main`]]
 [[4 Klasy i obiekty]]
-
+[[5 Klasy pochodne i bazowe]]
 
 
 
