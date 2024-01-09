@@ -288,7 +288,9 @@ vet.giveShot(hippo)
 
 >[!definition] polimorfizm
 >- Możliwość zastosowania obiektów jednego typu w miejscu, w którym jawnie są oczekiwane obiekty innego typu, jest nazywana polimorfizmem.
->- "wiele form" - różne klasy pochodne mogą mieć odmienne implementacje tej
+>- "wiele form" - różne klasy pochodne mogą mieć odmienne implementacje tej samej funkcji
+
+
 
 
 
