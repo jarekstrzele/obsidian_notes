@@ -245,6 +245,8 @@ open class Car : Vehicle(){
 >Wszędzie, gdzie możemy użyć klasy bazowej, możemy także użyć dowolnej z jej klas pochodnych
 `val animal : Animal = Wolf()`, bo *Wolf* JEST *Animal*
 
+>[!danger] DeDŻER
+>Jeśli zmienna typu Animal wskazuje na obiekt typu Wolf, to wywołanie jej funkcji eat() sprawi, że zostanie wykonana funkcja zdefiniowana w klasie Wolf.
 
 
 
