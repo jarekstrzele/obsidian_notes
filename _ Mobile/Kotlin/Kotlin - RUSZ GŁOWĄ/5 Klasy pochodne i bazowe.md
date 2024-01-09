@@ -219,7 +219,7 @@ class ConvertibleCar: Car(){
 }
 ```
 
-ale użycie `final` będzie oznaczać, że w klasach pochodnych nie będzie można jej przesłaniać
+ALE użycie `final` będzie oznaczać, że w klasach pochodnych nie będzie można jej przesłaniać.
 ```kotlin
 open class Car : Vehicle(){
 	final override fun lowerTemp() {
@@ -229,6 +229,7 @@ open class Car : Vehicle(){
 ```
 
 
+>[!important] kolejność 
 
 
 
