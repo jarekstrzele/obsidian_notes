@@ -16,6 +16,9 @@
 >- `Boolean`. 
 >- Ograniczenie to wiąże się ze sposobem obsługi tych typów danych w JVM. Oznacza to, że właściwości wymienionych typów muszą być inicjowane w momencie definiowania bądź też wewnątrz bloku inicjalizatora.
 
+>[!imporant] klasy domyślnie są `final`
+
+
 # obiekt
 
 >[!info] obiekt

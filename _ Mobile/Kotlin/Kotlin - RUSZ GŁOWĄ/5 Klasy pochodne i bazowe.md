@@ -145,10 +145,36 @@ open class Animal {
 
 class Hippo : Animal(){
 	init {
-		image = 
+		image = "hippo.jpg"
 	}
 }
 ```
+
+==przesłanianie==, aby:
+- określanie innych wartości niż w klasie bazowej,
+- zmieniania akcesorów `get` i `set`,
+- właściwość z `val` z klasy bazowej zamienić na `var` (nie działa z `var` -na-> `val` ),
+- zmienić typ właściwości z klasy bazowej na inny lecz pochodny względem typu bazowego
+
+
+### Jak przesłaniać funkcje?
+
+> Funkcje przesłaniamy w podobny sposób jak właściwości: 
+> 	- dodając je do klasy pochodnej i 
+> 	- poprzedzając słowem kluczowym `override`.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
