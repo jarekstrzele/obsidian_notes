@@ -21,16 +21,41 @@
 
 
 1. **Przyjrzyj się** atrybutom i zachowaniom, które są **wspólne** dla wszystkich obiektów.
-klasa `Animal`:
+
+2. **Zaprojektuj klasę** bazową reprezentującą wspólne stany i zachowania
+klasa bazowa `Animal`:
 - właściwości:
 	- `image`
+	- `food`
+	- `habitat` podstawowe środowisko
+	- `hunger` poziom głodu
+- metody:
+	- `makeNoise()` wydawane odgłosy
+	- `eat()` 
+	- `roam()` co robi, gdy nie je i nie śpi
+	- `sleep()`
+klasy pochodne:
+`Lion`
+`Hippo`
+`Lynnx`
+`Fox`
+`Wolf`
+`Cheetah`
+
+3. **Zdecyduj**, czy klasy pochodne mają mieć charakterystyczne dla siebie **domyślne wartości** właściwości oraz **implementacje** funkcji.
+wszystkie klasy pochodne będą:
+- miały swoje charakterystyczne wartości właściwości (oprócz `hunger`)
+- własna implementacja `makeNoise()` oraz `eat()`
 
 
-1. **Zaprojektuj klasę** bazową reprezentującą wspólne stany i zachowania
-2. **Zdecyduj**, czy klasy pochodne mają mieć charakterystyczne dla siebie **domyślne wartości** właściwości oraz **implementacje** funkcji.
-3. **Szukaj** okazji **do wyodrębniania właściwości i funkcji** poprzez znajdowanie dwóch lub większej liczby klas pochodnych mających wspólne cechy lub zachowania.
-4. Uzupełnij hierarchię klas.
+4. **Szukaj** okazji **do wyodrębniania właściwości i funkcji** poprzez znajdowanie dwóch lub większej liczby klas pochodnych mających wspólne cechy lub zachowania.
+wśród klas pochodnych mamy
+- 2 przedstawicieli rodziny PSOWATYCH `Canine`
+- 3 przedstawicieli kotowatych `Feline`
 
+5. Uzupełnij hierarchię klas.
+nowa klasa `Feline`:
+- ma własną implementację `roam()`
 
 
 
