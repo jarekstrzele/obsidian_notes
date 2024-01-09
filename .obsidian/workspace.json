@@ -134,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 424.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "7036b4a7a06b882e",
@@ -241,7 +242,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d3393c659c6cc95c",
+  "active": "04bc47a26b7598a7",
   "lastOpenFiles": [
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/_ 0 Kotlin Rusz Głową.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/5 Klasy pochodne i bazowe.md",
