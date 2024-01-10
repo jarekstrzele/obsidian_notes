@@ -85,15 +85,45 @@ abstract class Animal {
 }
 ```
 
->[!imporant] klasa abstakcyjna 
+#kotlin/abstract_class 
+>[!imporant] KLASA ABSTRAKCYJNA
 > - Jeśli klasa bazowa zostanie oznaczona jako abstrakcyjna, nie trzeba deklarować jej jako otworzonej `open`
 > - Ogólnie rzecz biorąc, to, czy jakaś klasa będzie abstrakcyjna czy konkretna, zależy od kontekstu aplikacji.
-> - Klasa abstrakcyjna może zawierać abstrakcyjne i nieabstrakcyjne właściwości i funkcje. Nic nie stoi na przeszkodzie, by klasa abstrakcyjna nie zawierała żadnych składowych abstrakcyjnych.
+> - Klasa abstrakcyjna może zawierać
+> 	- abstrakcyjne i nieabstrakcyjne właściwości i funkcje.
+> 	- Nic nie stoi na przeszkodzie, by klasa abstrakcyjna nie zawierała żadnych składowych abstrakcyjnych.
+> - Jeżeli w klasie umieścisz choćby jedną właściwość lub funkcję abstrakcyjną, to także klasę będziesz musiał oznaczyć jako abstrakcyjną.
 
+==Właściwości i funkcji abstrakcyjnych nie trzeba oznaczać jako otworzonych `open`.==
 
+```kotlin
+abstract class Animal {
+	abstract val image: String
+	abstract val food: String
+	abstract val habitat: String
+	var hunger = 10
+}
+```
+>[!info] właściwość abstrakcyjna
+>oznaczając właściwość jako abstrakcyjną, uznajemy, że nie ma żadnej sensownej wartości początkowej, którą można by jej przypisać, ani żadnych sensownych implementacji akcesorów `get` i `set`.
 
+```kotlin
+abstract class Animal {
 
+	abstract fun makeNoise()
+	abstract fun eat()
+	
+	open fun roam(){
+		println("Zwierzę wałęsa się.")
+	}
+	open fun sleep(){
+		println("Zwierzę śpi.")
+	}
+}
+```
 
+`abstract fun makeNoise(){}` --> kodu  nie da się skompilować
+`abstract fun makeNoise()` --> ten kod się skompiluje
 
 
 
