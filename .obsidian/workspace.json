@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/6.2. Interfejsy.md",
+                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Intencja.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 397.5
   },
   "right": {
     "id": "7036b4a7a06b882e",
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/6.2. Interfejsy.md",
+                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Intencja.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/6.2. Interfejsy.md",
+                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Intencja.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/6.2. Interfejsy.md"
+                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Intencja.md"
               }
             }
           },
@@ -255,13 +255,13 @@
   },
   "active": "7ca9892ae7f3deae",
   "lastOpenFiles": [
+    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/3 Wiele aktywności i intencji.md",
+    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/6.2. Interfejsy.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/6 Klasy abstrakcyjne i interfejsy.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/5 Klasy pochodne i bazowe.md",
-    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/6.2. Interfejsy.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/_ 0 Kotlin Rusz Głową.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/6.1 Klasy abstrakcyjne.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/4 Klasy i obiekty.md",
-    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/3 Wiele aktywności i intencji.md",
     "_ Mobile/Android/uruchamiania na prawdziwym urządzeniu.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Intencja.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/companion object.md",
