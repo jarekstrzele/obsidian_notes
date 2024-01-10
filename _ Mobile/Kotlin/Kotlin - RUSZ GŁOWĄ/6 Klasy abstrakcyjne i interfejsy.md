@@ -126,7 +126,11 @@ abstract class Animal {
 `abstract fun makeNoise(){}` --> kodu  nie da się skompilować
 `abstract fun makeNoise()` --> ten kod się skompiluje
 
+> ==Implementacja właściwości i funkcji abstrakcyjnych== sprowadza się do ich przesłonięcia. Czyli wygląda tak samo jak w przypadku, gdy klasa bazowa jest konkretna.
 
+> TRZEBA ==zaimplementować wszystkie== abstrakcyjne właściwości i funkcje.
+
+> Kiedy klasa pochodna dziedziczy po abstrakcyjnej klasie bazowej, to wciąż może ona definiować swoje własne właściwości i funkcje.
 
 
 
