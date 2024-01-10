@@ -5,8 +5,8 @@
 [[3 Funkcje - wychodzimy poza `main`]]
 [[4 Klasy i obiekty]]
 [[5 Klasy pochodne i bazowe]]
-[[6 Klasy abstrakcyjne i interfejsy]]
-
+[[6.1 Klasy abstrakcyjne]]
+[[6.2. Interfejsy]]
 
 
 ----------

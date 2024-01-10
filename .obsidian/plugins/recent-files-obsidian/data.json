@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "6 Klasy abstrakcyjne i interfejsy",
-      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/6 Klasy abstrakcyjne i interfejsy.md"
-    },
-    {
-      "basename": "5 Klasy pochodne i bazowe",
-      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/5 Klasy pochodne i bazowe.md"
+      "basename": "6.2. Interfejsy",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/6.2. Interfejsy.md"
     },
     {
       "basename": "_ 0 Kotlin Rusz Głową",
       "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/_ 0 Kotlin Rusz Głową.md"
+    },
+    {
+      "basename": "6.1 Klasy abstrakcyjne",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/6.1 Klasy abstrakcyjne.md"
+    },
+    {
+      "basename": "5 Klasy pochodne i bazowe",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/5 Klasy pochodne i bazowe.md"
     },
     {
       "basename": "4 Klasy i obiekty",
@@ -195,10 +199,6 @@
     {
       "basename": "10.24 DataGrid",
       "path": "_ Desktop/WPF/od Podstaw do app w WPF/10.24 DataGrid.md"
-    },
-    {
-      "basename": "_ Learn MongoDB in 1 hour",
-      "path": "_DataBase/MongoDB/Learn MongoDB in 1 hour/_ Learn MongoDB in 1 hour.md"
     }
   ],
   "omittedPaths": [],

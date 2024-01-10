@@ -1,7 +1,7 @@
 #kotlin/class 
 [[_ 0 Kotlin Rusz Głową]]
 
-[[6 Klasy abstrakcyjne i interfejsy]]
+[[6.1 Klasy abstrakcyjne]]
 
 
 
