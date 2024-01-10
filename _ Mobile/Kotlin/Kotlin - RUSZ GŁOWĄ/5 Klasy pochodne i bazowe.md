@@ -1,6 +1,10 @@
 #kotlin/class 
 [[_ 0 Kotlin Rusz Głową]]
 
+[[6 Klasy abstrakcyjne i interfejsy]]
+
+
+
 > Projektując z wykorzystaniem dziedziczenia, wspólny kod umieszcza się w jednej klasie, a inne, bardziej wyspecjalizowane klasy mogą po niej dziedziczyć. 
 > W razie konieczności zmodyfikowania kodu trzeba to będzie zrobić tylko w jednym miejscu, a zmiany w zachowaniu zostaną uwzględnione we wszystkich klasach dziedziczących to zachowanie.
 
