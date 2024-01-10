@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "4. Cykl życia aktywnośći",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4. Cykl życia aktywnośći.md"
+    },
+    {
+      "basename": "_ Rusz Głową Android. Programowanie aplikacji",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/_ Rusz Głową Android. Programowanie aplikacji.md"
+    },
+    {
       "basename": "Intencja",
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Intencja.md"
     },
@@ -51,10 +59,6 @@
     {
       "basename": "1. Skok na głęboką wodę",
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/1. Skok na głęboką wodę.md"
-    },
-    {
-      "basename": "_ Rusz Głową Android. Programowanie aplikacji",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/_ Rusz Głową Android. Programowanie aplikacji.md"
     },
     {
       "basename": "8 Quiz App",
@@ -195,10 +199,6 @@
     {
       "basename": "_React Bob Ziroll",
       "path": "_ WEB/REACT/React Bob Ziroll/_React Bob Ziroll.md"
-    },
-    {
-      "basename": "MongoDB Installation on Sys, on Docker",
-      "path": "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md"
     }
   ],
   "omittedPaths": [],
