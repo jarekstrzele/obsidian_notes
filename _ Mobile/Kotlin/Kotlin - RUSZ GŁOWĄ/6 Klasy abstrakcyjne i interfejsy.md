@@ -93,6 +93,7 @@ abstract class Animal {
 > 	- abstrakcyjne i nieabstrakcyjne właściwości i funkcje.
 > 	- Nic nie stoi na przeszkodzie, by klasa abstrakcyjna nie zawierała żadnych składowych abstrakcyjnych.
 > - Jeżeli w klasie umieścisz choćby jedną właściwość lub funkcję abstrakcyjną, to także klasę będziesz musiał oznaczyć jako abstrakcyjną.
+> - Właściwości i funkcje abstrakcyjne definiują wspólny protokół pozwalający na stosowanie polimorfizmu (To oznacza, że możemy dodawać do aplikacji nowe typy pochodne (czyli nowe klasy pochodne klasy Animal), bez konieczności modyfikowania istniejącego kodu czy dodawania nowych funkcji służących do obsługi tych nowych typów.)
 
 ==Właściwości i funkcji abstrakcyjnych nie trzeba oznaczać jako otworzonych `open`.==
 
