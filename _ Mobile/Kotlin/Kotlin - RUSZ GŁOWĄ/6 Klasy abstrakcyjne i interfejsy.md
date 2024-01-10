@@ -74,6 +74,22 @@ fun main(args: Array<String>){
 }
 ```
 
+-----------
+# Klasa abstrakcyjna
+
+> Wiemy, jak wyglądają obiekty `Wolf`, `Hippo` czy `Fox`; ale jak miałby wyglądać obiekt `Animal`? Czy może ma futro? Czym się żywi, jak spędza czas, gdy nie śpi ani nie szuka pożywienia?
+
+```kotlin
+abstract class Animal {
+
+}
+```
+
+>[!imporant] klasa abstakcyjna 
+> - Jeśli klasa bazowa zostanie oznaczona jako abstrakcyjna, nie trzeba deklarować jej jako otworzonej `open`
+> - Ogólnie rzecz biorąc, to, czy jakaś klasa będzie abstrakcyjna czy konkretna, zależy od kontekstu aplikacji.
+> - Klasa abstrakcyjna może zawierać abstrakcyjne i nieabstrakcyjne właściwości i funkcje. Nic nie stoi na przeszkodzie, by klasa abstrakcyjna nie zawierała żadnych składowych abstrakcyjnych.
+
 
 
 
