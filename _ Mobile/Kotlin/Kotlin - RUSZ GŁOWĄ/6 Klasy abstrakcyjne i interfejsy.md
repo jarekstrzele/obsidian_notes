@@ -7,8 +7,8 @@
 
 REGUŁY - kiedy tworzyć klasę, klasę pochodną, klasę abstrakcyjną, interfejs
 
-
-
+>[!inf]
+  
 
 
 
