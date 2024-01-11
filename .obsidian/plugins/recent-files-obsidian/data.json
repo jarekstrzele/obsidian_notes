@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "object",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/object.md"
+    },
+    {
       "basename": "Looper",
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Looper.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2 - React Basics & JSX",
       "path": "_ WEB/REACT/modern React/2 - React Basics & JSX.md"
-    },
-    {
-      "basename": "useCallback",
-      "path": "_ WEB/REACT/React - the Complete Guide/useCallback.md"
     }
   ],
   "omittedPaths": [],
