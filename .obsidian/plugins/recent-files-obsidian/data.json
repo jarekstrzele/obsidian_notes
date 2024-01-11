@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Looper",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Looper.md"
+    },
+    {
       "basename": "4. Cykl życia aktywnośći",
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4. Cykl życia aktywnośći.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "useCallback",
       "path": "_ WEB/REACT/React - the Complete Guide/useCallback.md"
-    },
-    {
-      "basename": "_React Bob Ziroll",
-      "path": "_ WEB/REACT/React Bob Ziroll/_React Bob Ziroll.md"
     }
   ],
   "omittedPaths": [],
