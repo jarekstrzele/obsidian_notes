@@ -7,9 +7,21 @@
 > 
 > W systemie Android każdy wątek ma powiązany z nim `Looper`. `Looper` odpowiada za przetwarzanie wiadomości i obiektów `Runnable` dostarczonych do wątku.
 
-[
 
-](https://medium.com/@caffeine81/leak-free-dependency-injection-in-android-adaf65643dbf)
+
+# Konstruktor
+`fun Looper()`
+ten konstruktor tworzy nowy `Looper` i uruchamia go w tle
+
+# Metody
+Klasa `Looper` ma kilka metod do obsługi wiadomości i obiektów `Runnable`:
+
+- `loop()`: Ta metoda jest używana do uruchamiania `Looper`. `Looper` będzie przetwarzał wiadomości i obiekty `Runnable` do momentu, gdy zostanie wywołana metoda `quit()`.
+- `quit()`: Ta metoda powoduje zatrzymanie `Looper`.
+- `getMainLooper()`: Ta metoda zwraca `Looper` bieżącego wątku głównego.
+- `myLooper()`: Ta metoda zwraca `Looper` bieżącego wątku.
+
+
 
 W systemie Android każdy wątek ma powiązany z nim `Looper`. `Looper` odpowiada za przetwarzanie wiadomości i obiektów `Runnable` dostarczonych do wątku.
 

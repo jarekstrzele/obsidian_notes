@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "4. Cykl życia aktywnośći",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4. Cykl życia aktywnośći.md"
+    },
+    {
+      "basename": "3 Wiele aktywności i intencji",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/3 Wiele aktywności i intencji.md"
+    },
+    {
+      "basename": "Runnable",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Runnable.md"
+    },
+    {
       "basename": "Looper",
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Looper.md"
     },
     {
       "basename": "Handler",
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Handler.md"
-    },
-    {
-      "basename": "4. Cykl życia aktywnośći",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4. Cykl życia aktywnośći.md"
     },
     {
       "basename": "object",
@@ -23,10 +31,6 @@
     {
       "basename": "Intencja",
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Intencja.md"
-    },
-    {
-      "basename": "3 Wiele aktywności i intencji",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/3 Wiele aktywności i intencji.md"
     },
     {
       "basename": "6.2. Interfejsy",
@@ -195,10 +199,6 @@
     {
       "basename": "DAY JS",
       "path": "JAVASCRIPT/DAY JS.md"
-    },
-    {
-      "basename": "ES refresh",
-      "path": "JAVASCRIPT/ES refresh.md"
     }
   ],
   "omittedPaths": [],
