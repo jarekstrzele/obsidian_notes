@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4. Cykl życia aktywnośći.md",
+                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Handler.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4. Cykl życia aktywnośći.md",
+                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Handler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4. Cykl życia aktywnośći.md",
+                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Handler.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4. Cykl życia aktywnośći.md"
+                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Handler.md"
               }
             }
           },
@@ -255,9 +255,10 @@
   },
   "active": "7ca9892ae7f3deae",
   "lastOpenFiles": [
+    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4. Cykl życia aktywnośći.md",
+    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Handler.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Looper.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/object.md",
-    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4. Cykl życia aktywnośći.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/_ Rusz Głową Android. Programowanie aplikacji.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Intencja.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/3 Wiele aktywności i intencji.md",
@@ -281,7 +282,6 @@
     "_ Desktop/Python/Tkinter/Tkinter 0.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ",
     "MIME TYPE.md",
-    "_ Mobile/Android/Android Kurs Tworzenia APlikacji/_ 0 Android Kurs Tworzenia Aplikacji.md",
-    "_ Mobile/Android/Kurs Android od podstaw/_ Kurs Android od podstaw.md"
+    "_ Mobile/Android/Android Kurs Tworzenia APlikacji/_ 0 Android Kurs Tworzenia Aplikacji.md"
   ]
 }
