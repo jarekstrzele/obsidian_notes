@@ -1,8 +1,40 @@
 #kotlin/handler
+[[Looper]]
+
+
+# Definicja 
 
 W języku Kotlin, klasa `Handler` jest często używana w kontekście programowania na platformie Android. Klasa ta pochodzi z pakietu `android.os` i służy do współpracy z wątkami oraz planowania zadań do wykonania w przyszłości, zwłaszcza w kontekście interfejsu użytkownika.
 
-Główne zastosowania klasy `Handler` w Androidzie obejmują:
+>[!definition] Handler
+>To klasa abstrakcyjna, która umożliwia:
+>	- wysyłanie i 
+>	- przetwarzanie 
+> wiadomości oraz obiektów `Runnable` związanych z kolejką wiadomości wątku. 
+> 
+> Każda instancja `Handler` jest powiązana z pojedynczym wątkiem i kolejką wiadomości tego wątku. Gdy tworzysz nowy `Handler`, jest on powiązany z `Looper`. Dostarczy on wiadomości i obiektów `Runnable` do kolejki wiadomości tego `Looper` i wykona je na wątku tego `Looper`.
+
+---------
+# Konstruktory
+
+Klasa `Handler` ma dwa konstruktory:
+
+- `Handler()`: Tworzy nowy `Handler` przy użyciu `Looper` bieżącego wątku.
+- `Handler(looper: Looper)`: Tworzy nowy `Handler` przy użyciu zadanego `Looper`.
+
+----
+# Metody
+
+- `post(runnable: Runnable)` dodaje obiekt `Runnable` do kolejki wiadomośći. Obiekt `Runnable` zostanie wykonany na wątku, z którym powiązany jest `Handler`
+- `postDelayed(runnable: Runnable, uptimeMillis: Long)` dodaje obiekt `Runnable` do kolejki wiadomości, aby został wykonany w określonym położeniu
+
+
+
+
+
+
+----
+# Główne zastosowania klasy `Handler` w Androidzie obejmują:
 
 1. **Aktualizacja Interfejsu Użytkownika z Innych Wątków:**
     
