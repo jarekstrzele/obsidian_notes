@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "4. Cykl życia aktywnośći",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4. Cykl życia aktywnośći.md"
-    },
-    {
       "basename": "4.0. Przewodnik po metodach cyklu życia",
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4.0. Przewodnik po metodach cyklu życia.md"
+    },
+    {
+      "basename": "companion object",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/companion object.md"
+    },
+    {
+      "basename": "Handler",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Handler.md"
+    },
+    {
+      "basename": "Intencja",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Intencja.md"
+    },
+    {
+      "basename": "Looper",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Looper.md"
+    },
+    {
+      "basename": "Runnable",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Runnable.md"
+    },
+    {
+      "basename": "object",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/object.md"
+    },
+    {
+      "basename": "4. Cykl życia aktywnośći",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4. Cykl życia aktywnośći.md"
     },
     {
       "basename": "4.1. Pierwsza wersja stopera",
@@ -17,28 +41,8 @@
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/3 Wiele aktywności i intencji.md"
     },
     {
-      "basename": "Runnable",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Runnable.md"
-    },
-    {
-      "basename": "Looper",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Looper.md"
-    },
-    {
-      "basename": "Handler",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Handler.md"
-    },
-    {
-      "basename": "object",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/object.md"
-    },
-    {
       "basename": "_ Rusz Głową Android. Programowanie aplikacji",
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/_ Rusz Głową Android. Programowanie aplikacji.md"
-    },
-    {
-      "basename": "Intencja",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Intencja.md"
     },
     {
       "basename": "6.2. Interfejsy",
@@ -67,10 +71,6 @@
     {
       "basename": "uruchamiania na prawdziwym urządzeniu",
       "path": "_ Mobile/Android/uruchamiania na prawdziwym urządzeniu.md"
-    },
-    {
-      "basename": "companion object",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/companion object.md"
     },
     {
       "basename": "AndroidManifest",
