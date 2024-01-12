@@ -35,10 +35,14 @@ override fun onRestoreInstanceState(savedInstanceState: Bundle) {
 
 ```
 
+Na obiektach Bundle używamy następujących metod:
 
+- `putXxx()` - metody te służą do dodawania danych do obiektu `Bundle`.
+- `getXxx()` - metody te służą do pobierania danych z obiektu `Bundle`.
+- `containsKey()` - metoda ta sprawdza, czy obiekt `Bundle` zawiera dane o podanym kluczu.
+- `clear()` - metoda ta usuwa wszystkie dane z obiektu `Bundle`.
 
-
-
+np. `putInt(key, value)`, `putBoolean(key, value)`
 
 
 
