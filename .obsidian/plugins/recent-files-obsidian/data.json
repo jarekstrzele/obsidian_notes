@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Bundle",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Bundle.md"
+    },
+    {
       "basename": "4. Cykl życia aktywnośći",
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4. Cykl życia aktywnośći.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "3.6. Creating elements & Replace & Remove",
       "path": "JAVASCRIPT/Modern JavaScrip From the Beginning/3.6. Creating elements & Replace & Remove.md"
-    },
-    {
-      "basename": "DOM and Events",
-      "path": "JAVASCRIPT/Podstawy_Włodarczyk/DOM and Events.md"
     }
   ],
   "omittedPaths": [],

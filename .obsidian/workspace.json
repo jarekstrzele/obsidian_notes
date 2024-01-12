@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4. Cykl życia aktywnośći.md",
+                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Bundle.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 312.5
   },
   "right": {
     "id": "7036b4a7a06b882e",
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4. Cykl życia aktywnośći.md",
+                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Bundle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4. Cykl życia aktywnośći.md",
+                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Bundle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4. Cykl życia aktywnośći.md"
+                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Bundle.md"
               }
             }
           },
@@ -255,9 +255,10 @@
   },
   "active": "7ca9892ae7f3deae",
   "lastOpenFiles": [
+    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4. Cykl życia aktywnośći.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4.0. Przewodnik po metodach cyklu życia.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4.1. Pierwsza wersja stopera.md",
-    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4. Cykl życia aktywnośći.md",
+    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Bundle.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/companion object.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Handler.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Intencja.md",
@@ -281,7 +282,6 @@
     "Excalidraw/kotlin_referencja.excalidraw.md",
     "_ Mobile/Android/Kurs Android od podstaw/2 Tworzenie widoków.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/3 Funkcje - wychodzimy poza `main`.md",
-    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/2 Typy proste i zmienn.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ"
   ]
 }
