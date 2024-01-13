@@ -5,6 +5,10 @@
       "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/6.2. Interfejsy.md"
     },
     {
+      "basename": "_ Rust Build with GPT-4",
+      "path": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/_ Rust Build with GPT-4.md"
+    },
+    {
       "basename": "6 Klasy abstrakcyjne i interfejsy",
       "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/6 Klasy abstrakcyjne i interfejsy.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_ 0 JS Bible",
       "path": "JAVASCRIPT/JS Bible/_ 0 JS Bible.md"
-    },
-    {
-      "basename": "3.6. Creating elements & Replace & Remove",
-      "path": "JAVASCRIPT/Modern JavaScrip From the Beginning/3.6. Creating elements & Replace & Remove.md"
     }
   ],
   "omittedPaths": [],
