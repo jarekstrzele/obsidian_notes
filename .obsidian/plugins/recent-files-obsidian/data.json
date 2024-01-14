@@ -5,6 +5,38 @@
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4.1. Pierwsza wersja stopera.md"
     },
     {
+      "basename": "Bundle",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Bundle.md"
+    },
+    {
+      "basename": "4.0. Przewodnik po metodach cyklu życia",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4.0. Przewodnik po metodach cyklu życia.md"
+    },
+    {
+      "basename": "Runnable",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Runnable.md"
+    },
+    {
+      "basename": "object",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/object.md"
+    },
+    {
+      "basename": "Looper",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Looper.md"
+    },
+    {
+      "basename": "Intencja",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Intencja.md"
+    },
+    {
+      "basename": "Handler",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Handler.md"
+    },
+    {
+      "basename": "AndroidManifest",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/AndroidManifest.md"
+    },
+    {
       "basename": "7.0. Wprowadzenie do  klas danych",
       "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/7.0. Wprowadzenie do  klas danych.md"
     },
@@ -45,36 +77,8 @@
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4. Cykl życia aktywnośći.md"
     },
     {
-      "basename": "Bundle",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Bundle.md"
-    },
-    {
-      "basename": "4.0. Przewodnik po metodach cyklu życia",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4.0. Przewodnik po metodach cyklu życia.md"
-    },
-    {
       "basename": "companion object",
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/companion object.md"
-    },
-    {
-      "basename": "Handler",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Handler.md"
-    },
-    {
-      "basename": "Intencja",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Intencja.md"
-    },
-    {
-      "basename": "Looper",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Looper.md"
-    },
-    {
-      "basename": "Runnable",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Runnable.md"
-    },
-    {
-      "basename": "object",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/object.md"
     },
     {
       "basename": "3 Wiele aktywności i intencji",
@@ -95,10 +99,6 @@
     {
       "basename": "uruchamiania na prawdziwym urządzeniu",
       "path": "_ Mobile/Android/uruchamiania na prawdziwym urządzeniu.md"
-    },
-    {
-      "basename": "AndroidManifest",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/AndroidManifest.md"
     },
     {
       "basename": "2. Tworzenie interaktywnych aplikacji",

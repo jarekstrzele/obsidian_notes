@@ -44,6 +44,8 @@ Na obiektach Bundle używamy następujących metod:
 
 np. `putInt(key, value)`, `putBoolean(key, value)`
 
+Obiekt `Bundle` to coś więcej niż zwykła mapa z Javy:
+>Obiekty klasy Bundle mają dodatkowe możliwości, którymi nie dysponują mapy. Na przykład można je przekazywać pomiędzy procesami. To naprawdę bardzo przydatna możliwość, gdyż pozwala Androidowi mieć dostęp do bieżącego stanu aktywności.
 
 
 
