@@ -1,1 +1,15 @@
-#
+#kotlin/dataclass 
+
+
+# operator ` == `  --   `equals`
+
+
+
+
+
+
+
+
+
+
+
