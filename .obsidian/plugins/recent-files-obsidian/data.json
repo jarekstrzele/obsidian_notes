@@ -5,6 +5,10 @@
       "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/7.1. Klasa danych `data class`.md"
     },
     {
+      "basename": "8. Wartość `null` i  wyjątki",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/8. Wartość `null` i  wyjątki.md"
+    },
+    {
       "basename": "7.0. Wprowadzenie do  klas danych",
       "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/7.0. Wprowadzenie do  klas danych.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "3 React Basics",
       "path": "_ WEB/REACT/React - the Complete Guide/3 React Basics.md"
-    },
-    {
-      "basename": "1. React Fundamentals",
-      "path": "_ WEB/REACT/React 18 Tutorial and Projects Course 2023/1. React Fundamentals.md"
     }
   ],
   "omittedPaths": [],
