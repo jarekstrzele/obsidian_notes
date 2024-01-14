@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "7.1. Klasa danych `data class`",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/7.1. Klasa danych `data class`.md"
+    },
+    {
       "basename": "7 Klasy danych",
       "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/7 Klasy danych.md"
+    },
+    {
+      "basename": "7.0. Wprowadzenie do  klas danych",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/7.0. Wprowadzenie do  klas danych.md"
     },
     {
       "basename": "6.2. Interfejsy",
@@ -191,14 +199,6 @@
     {
       "basename": "1. React Fundamentals",
       "path": "_ WEB/REACT/React 18 Tutorial and Projects Course 2023/1. React Fundamentals.md"
-    },
-    {
-      "basename": "_ The React 18 Tutorial (2023)",
-      "path": "_ WEB/REACT/React 18 Tutorial and Projects Course 2023/_ The React 18 Tutorial (2023).md"
-    },
-    {
-      "basename": "_ 0 Modern React 2022",
-      "path": "_ WEB/REACT/modern React/_ 0 Modern React 2022.md"
     }
   ],
   "omittedPaths": [],
