@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "4.2. Druga wersja Stopera",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4.2. Druga wersja Stopera.md"
+    },
+    {
       "basename": "4.1. Pierwsza wersja stopera",
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4.1. Pierwsza wersja stopera.md"
     },
     {
-      "basename": "Bundle",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Bundle.md"
-    },
-    {
       "basename": "4.0. Przewodnik po metodach cyklu życia",
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4.0. Przewodnik po metodach cyklu życia.md"
+    },
+    {
+      "basename": "4. Cykl życia aktywnośći",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4. Cykl życia aktywnośći.md"
+    },
+    {
+      "basename": "Bundle",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Bundle.md"
     },
     {
       "basename": "Runnable",
@@ -71,10 +79,6 @@
     {
       "basename": "5 Klasy pochodne i bazowe",
       "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/5 Klasy pochodne i bazowe.md"
-    },
-    {
-      "basename": "4. Cykl życia aktywnośći",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4. Cykl życia aktywnośći.md"
     },
     {
       "basename": "companion object",
@@ -195,10 +199,6 @@
     {
       "basename": "4 React State and Working with Events",
       "path": "_ WEB/REACT/React - the Complete Guide/4 React State and Working with Events.md"
-    },
-    {
-      "basename": "3 React Basics",
-      "path": "_ WEB/REACT/React - the Complete Guide/3 React Basics.md"
     }
   ],
   "omittedPaths": [],

@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4.1. Pierwsza wersja stopera.md",
+                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4.2. Druga wersja Stopera.md",
                 "mode": "source",
                 "source": false
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4.1. Pierwsza wersja stopera.md",
+                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4.2. Druga wersja Stopera.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4.1. Pierwsza wersja stopera.md",
+                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4.2. Druga wersja Stopera.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4.1. Pierwsza wersja stopera.md"
+                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4.2. Druga wersja Stopera.md"
               }
             }
           },
@@ -267,9 +267,11 @@
   },
   "active": "d3393c659c6cc95c",
   "lastOpenFiles": [
-    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Bundle.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4.1. Pierwsza wersja stopera.md",
+    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4.2. Druga wersja Stopera.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4.0. Przewodnik po metodach cyklu życia.md",
+    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4. Cykl życia aktywnośći.md",
+    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Bundle.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Runnable.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/object.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Looper.md",
@@ -286,14 +288,12 @@
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/6 Klasy abstrakcyjne i interfejsy.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/6.1 Klasy abstrakcyjne.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/5 Klasy pochodne i bazowe.md",
-    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4. Cykl życia aktywnośći.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/companion object.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/3 Wiele aktywności i intencji.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/_ Rusz Głową Android. Programowanie aplikacji.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/_ 0 Kotlin Rusz Głową.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/4 Klasy i obiekty.md",
     "_ Mobile/Android/uruchamiania na prawdziwym urządzeniu.md",
-    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/2. Tworzenie interaktywnych aplikacji.md",
     "_ Mobile/Android",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ"
   ]
