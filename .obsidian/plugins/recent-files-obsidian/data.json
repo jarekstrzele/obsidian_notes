@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "4.2. Druga wersja Stopera",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4.2. Druga wersja Stopera.md"
-    },
-    {
-      "basename": "4.1. Pierwsza wersja stopera",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4.1. Pierwsza wersja stopera.md"
+      "basename": "4.3 trzecia wersja - aplikacja częściowo widoczna",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4.3 trzecia wersja - aplikacja częściowo widoczna.md"
     },
     {
       "basename": "4.0. Przewodnik po metodach cyklu życia",
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4.0. Przewodnik po metodach cyklu życia.md"
+    },
+    {
+      "basename": "4.2. Druga wersja Stopera - aplikacja zniszczona i utworzona",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4.2. Druga wersja Stopera - aplikacja zniszczona i utworzona.md"
+    },
+    {
+      "basename": "4.1. Pierwsza wersja stopera",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4.1. Pierwsza wersja stopera.md"
     },
     {
       "basename": "4. Cykl życia aktywnośći",
@@ -195,10 +199,6 @@
     {
       "basename": "5 Rendering Lists and Conditional content",
       "path": "_ WEB/REACT/React - the Complete Guide/5 Rendering Lists and Conditional content.md"
-    },
-    {
-      "basename": "4 React State and Working with Events",
-      "path": "_ WEB/REACT/React - the Complete Guide/4 React State and Working with Events.md"
     }
   ],
   "omittedPaths": [],
