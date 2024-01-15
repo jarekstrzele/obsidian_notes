@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "5. Widoki i grupy widoków",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5. Widoki i grupy widoków.md"
+    },
+    {
       "basename": "4.3 trzecia wersja - aplikacja częściowo widoczna",
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4.3 trzecia wersja - aplikacja częściowo widoczna.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "5.2 Chart",
       "path": "_ WEB/REACT/React - the Complete Guide/5.2 Chart.md"
-    },
-    {
-      "basename": "5 Rendering Lists and Conditional content",
-      "path": "_ WEB/REACT/React - the Complete Guide/5 Rendering Lists and Conditional content.md"
     }
   ],
   "omittedPaths": [],
