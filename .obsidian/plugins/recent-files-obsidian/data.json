@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Drawing 2024-01-15 11.16.36.excalidraw",
+      "path": "Excalidraw/Drawing 2024-01-15 11.16.36.excalidraw.md"
+    },
+    {
       "basename": "5. Widoki i grupy widoków",
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5. Widoki i grupy widoków.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "6 Styling React Component (Simple React App)",
       "path": "_ WEB/REACT/React - the Complete Guide/6 Styling React Component (Simple React App).md"
-    },
-    {
-      "basename": "5.2 Chart",
-      "path": "_ WEB/REACT/React - the Complete Guide/5.2 Chart.md"
     }
   ],
   "omittedPaths": [],
