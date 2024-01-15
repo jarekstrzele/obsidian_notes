@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "5.1. Układy i komponenty GUI dziedziczą po `View`",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.1. Układy i komponenty GUI dziedziczą po `View`.md"
+    },
+    {
       "basename": "5. Widoki i grupy widoków",
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5. Widoki i grupy widoków.md"
+    },
+    {
+      "basename": "10.24 DataGrid",
+      "path": "_ Desktop/WPF/od Podstaw do app w WPF/10.24 DataGrid.md"
+    },
+    {
+      "basename": "4.1. Układy i komponenty GUI dziedziczą po `View`",
+      "path": "4.1. Układy i komponenty GUI dziedziczą po `View`.md"
+    },
+    {
+      "basename": "_ Rusz Głową Android. Programowanie aplikacji",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/_ Rusz Głową Android. Programowanie aplikacji.md"
     },
     {
       "basename": "android_padding.excalidraw",
@@ -101,10 +117,6 @@
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/3 Wiele aktywności i intencji.md"
     },
     {
-      "basename": "_ Rusz Głową Android. Programowanie aplikacji",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/_ Rusz Głową Android. Programowanie aplikacji.md"
-    },
-    {
       "basename": "_ 0 Kotlin Rusz Głową",
       "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/_ 0 Kotlin Rusz Głową.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "9. Fragments, Portal, refs",
       "path": "_ WEB/REACT/React - the Complete Guide/9. Fragments, Portal, refs.md"
-    },
-    {
-      "basename": "8 Login Project",
-      "path": "_ WEB/REACT/React - the Complete Guide/8 Login Project.md"
-    },
-    {
-      "basename": "6.1. Styling extra",
-      "path": "_ WEB/REACT/React - the Complete Guide/6.1. Styling extra.md"
-    },
-    {
-      "basename": "6 Styling React Component (Simple React App)",
-      "path": "_ WEB/REACT/React - the Complete Guide/6 Styling React Component (Simple React App).md"
     }
   ],
   "omittedPaths": [],
