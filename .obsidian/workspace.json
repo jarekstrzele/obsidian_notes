@@ -61,7 +61,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-15 11.16.36.excalidraw.md"
+                "file": "Excalidraw/android_padding.excalidraw.md"
               }
             }
           },
@@ -102,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-15 11.16.36.excalidraw.md",
+                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5. Widoki i grupy widoków.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-15 11.16.36.excalidraw.md",
+                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5. Widoki i grupy widoków.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-15 11.16.36.excalidraw.md"
+                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5. Widoki i grupy widoków.md"
               }
             }
           },
@@ -275,10 +275,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "22b916ad80524281",
+  "active": "d3393c659c6cc95c",
   "lastOpenFiles": [
+    "Excalidraw/android_padding.excalidraw.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5. Widoki i grupy widoków.md",
-    "Excalidraw/Drawing 2024-01-15 11.16.36.excalidraw.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4.3 trzecia wersja - aplikacja częściowo widoczna.md",
     "Pasted image 20240115085344.png",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4. Cykl życia aktywnośći.md",
