@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "de023d2decf3acec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5.2.1 komponenty razem w kodzie.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "22b916ad80524281",
             "type": "leaf",
             "state": {
@@ -90,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -172,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md",
+                "file": "5.2.1 komponenty razem w kodzie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md",
+                "file": "5.2.1 komponenty razem w kodzie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md"
+                "file": "5.2.1 komponenty razem w kodzie.md"
               }
             }
           },
@@ -263,10 +275,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d31e26cc78bbc194",
+  "active": "de023d2decf3acec",
   "lastOpenFiles": [
-    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/6. Układy z ograniczeniami ConstraintLayout.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md",
+    "5.2.1 komponenty razem w kodzie.md",
+    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/6. Układy z ograniczeniami ConstraintLayout.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5. Widoki i grupy widoków.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.1. Układy i komponenty GUI dziedziczą po `View`.md",
     "_ Desktop/WPF/od Podstaw do app w WPF/10.24 DataGrid.md",
@@ -295,7 +308,6 @@
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/7 Klasy danych.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/Untitled",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/6.2. Interfejsy.md",
-    "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/_ Rust Build with GPT-4.md",
     "_ Mobile/Android",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ"
   ]

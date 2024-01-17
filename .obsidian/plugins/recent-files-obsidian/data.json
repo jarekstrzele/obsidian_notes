@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "5.2.1 komponenty razem w kodzie",
+      "path": "5.2.1 komponenty razem w kodzie.md"
+    },
+    {
       "basename": "5.2. Najważniejsze komponenty GUI",
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_ 0 React Native Navigation",
       "path": "_ Mobile/REACT NATIVE/React Native Practical Guide/6 Navigation/_ 0 React Native Navigation.md"
-    },
-    {
-      "basename": "_ 0 React Full",
-      "path": "_ WEB/REACT/React - the Complete Guide/_ 0 React Full.md"
     }
   ],
   "omittedPaths": [],
