@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "5.2. Najważniejsze komponenty GUI",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md"
+    },
+    {
       "basename": "5.1. Układy i komponenty GUI dziedziczą po `View`",
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.1. Układy i komponenty GUI dziedziczą po `View`.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "5.2.1 komponenty razem w kodzie",
       "path": "5.2.1 komponenty razem w kodzie.md"
-    },
-    {
-      "basename": "5.2. Najważniejsze komponenty GUI",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md"
     },
     {
       "basename": "6. Układy z ograniczeniami ConstraintLayout",
