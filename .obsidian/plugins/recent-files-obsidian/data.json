@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "6. Układy z ograniczeniami ConstraintLayout",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/6. Układy z ograniczeniami ConstraintLayout.md"
+    },
+    {
       "basename": "5.2. Najważniejsze komponenty GUI",
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_ 0 React Full",
       "path": "_ WEB/REACT/React - the Complete Guide/_ 0 React Full.md"
-    },
-    {
-      "basename": "14 Connecting to a Database",
-      "path": "_ WEB/REACT/React - the Complete Guide/14 Connecting to a Database.md"
     }
   ],
   "omittedPaths": [],
