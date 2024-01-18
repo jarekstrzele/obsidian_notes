@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "8.1. Wyjątki",
-      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/8.1. Wyjątki.md"
+      "basename": "6.2. Interfejsy",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/6.2. Interfejsy.md"
+    },
+    {
+      "basename": "6.1 Klasy abstrakcyjne",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/6.1 Klasy abstrakcyjne.md"
+    },
+    {
+      "basename": "6 Klasy abstrakcyjne i interfejsy",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/6 Klasy abstrakcyjne i interfejsy.md"
     },
     {
       "basename": "8. Wartość `null` i  wyjątki",
       "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/8. Wartość `null` i  wyjątki.md"
+    },
+    {
+      "basename": "8.1. Wyjątki",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/8.1. Wyjątki.md"
     },
     {
       "basename": "Fundamenty Kotlina",
@@ -145,20 +157,8 @@
       "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/7 Klasy danych.md"
     },
     {
-      "basename": "6.2. Interfejsy",
-      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/6.2. Interfejsy.md"
-    },
-    {
       "basename": "_ Rust Build with GPT-4",
       "path": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/_ Rust Build with GPT-4.md"
-    },
-    {
-      "basename": "6 Klasy abstrakcyjne i interfejsy",
-      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/6 Klasy abstrakcyjne i interfejsy.md"
-    },
-    {
-      "basename": "6.1 Klasy abstrakcyjne",
-      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/6.1 Klasy abstrakcyjne.md"
     },
     {
       "basename": "5 Klasy pochodne i bazowe",
