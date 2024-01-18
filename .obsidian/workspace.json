@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Kotlin/Kotlin bez tajemnic/3.3. View Binding.md",
+                "file": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/8.1. Wyjątki.md",
                 "mode": "source",
                 "source": false
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Kotlin/Kotlin bez tajemnic/3.3. View Binding.md",
+                "file": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/8.1. Wyjątki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Kotlin/Kotlin bez tajemnic/3.3. View Binding.md",
+                "file": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/8.1. Wyjątki.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Kotlin/Kotlin bez tajemnic/3.3. View Binding.md"
+                "file": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/8.1. Wyjątki.md"
               }
             }
           },
@@ -277,10 +277,18 @@
   },
   "active": "de023d2decf3acec",
   "lastOpenFiles": [
+    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/8. Wartość `null` i  wyjątki.md",
+    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/8.1. Wyjątki.md",
+    "_ Mobile/Kotlin/Fundamenty Kotlina.md",
+    "_ Mobile/Android/the complete Android 12 and Kotlin/3 Kotlin fundamentals.md",
+    "_ Mobile/Android/the complete Android 12 and Kotlin/2 Getting ready with Android Studio.md",
+    "_ Mobile/Android/the complete Android 12 and Kotlin/_ the complete Android 12.md",
+    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/1. Skok na głęboką wodę.md",
+    "_ Mobile/Android/Kurs Android od podstaw/_ Kurs Android od podstaw.md",
+    "_ Mobile/Kotlin/Kotlin bez tajemnic/3.3. View Binding.md",
     "_ Mobile/Kotlin/Kotlin bez tajemnic/3.2. View Models.md",
     "_ Mobile/Kotlin/Kotlin bez tajemnic/3.1. Fragments.md",
     "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md",
-    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/8. Wartość `null` i  wyjątki.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.1. Układy i komponenty GUI dziedziczą po `View`.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/7.1. Klasa danych `data class`.md",
@@ -299,14 +307,6 @@
     "Pasted image 20240115084911.png",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4.0. Przewodnik po metodach cyklu życia.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4.2. Druga wersja Stopera - aplikacja zniszczona i utworzona.md",
-    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4.1. Pierwsza wersja stopera.md",
-    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Bundle.md",
-    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Runnable.md",
-    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/object.md",
-    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Looper.md",
-    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Intencja.md",
-    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Handler.md",
-    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/AndroidManifest.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/Untitled",
     "_ Mobile/Android",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ"

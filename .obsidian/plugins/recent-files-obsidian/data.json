@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "8.1. Wyjątki",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/8.1. Wyjątki.md"
+    },
+    {
+      "basename": "8. Wartość `null` i  wyjątki",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/8. Wartość `null` i  wyjątki.md"
+    },
+    {
+      "basename": "Fundamenty Kotlina",
+      "path": "_ Mobile/Kotlin/Fundamenty Kotlina.md"
+    },
+    {
+      "basename": "3 Kotlin fundamentals",
+      "path": "_ Mobile/Android/the complete Android 12 and Kotlin/3 Kotlin fundamentals.md"
+    },
+    {
+      "basename": "2 Getting ready with Android Studio",
+      "path": "_ Mobile/Android/the complete Android 12 and Kotlin/2 Getting ready with Android Studio.md"
+    },
+    {
+      "basename": "_ the complete Android 12",
+      "path": "_ Mobile/Android/the complete Android 12 and Kotlin/_ the complete Android 12.md"
+    },
+    {
+      "basename": "1. Skok na głęboką wodę",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/1. Skok na głęboką wodę.md"
+    },
+    {
+      "basename": "_ Kurs Android od podstaw",
+      "path": "_ Mobile/Android/Kurs Android od podstaw/_ Kurs Android od podstaw.md"
+    },
+    {
       "basename": "3.3. View Binding",
       "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3.3. View Binding.md"
     },
@@ -15,10 +47,6 @@
     {
       "basename": "3 Podstawy tworzenia aplikacji",
       "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md"
-    },
-    {
-      "basename": "8. Wartość `null` i  wyjątki",
-      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/8. Wartość `null` i  wyjątki.md"
     },
     {
       "basename": "5.2. Najważniejsze komponenty GUI",
@@ -161,10 +189,6 @@
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/2. Tworzenie interaktywnych aplikacji.md"
     },
     {
-      "basename": "1. Skok na głęboką wodę",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/1. Skok na głęboką wodę.md"
-    },
-    {
       "basename": "8 Quiz App",
       "path": "_ Mobile/Android/the complete Android 12 and Kotlin/8 Quiz App.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "2 Tworzenie widoków",
       "path": "_ Mobile/Android/Kurs Android od podstaw/2 Tworzenie widoków.md"
-    },
-    {
-      "basename": "3 Funkcje - wychodzimy poza `main`",
-      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/3 Funkcje - wychodzimy poza `main`.md"
-    },
-    {
-      "basename": "2 Typy proste i zmienn",
-      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/2 Typy proste i zmienn.md"
-    },
-    {
-      "basename": "Tkinter 0",
-      "path": "_ Desktop/Python/Tkinter/Tkinter 0.md"
-    },
-    {
-      "basename": "MIME TYPE",
-      "path": "MIME TYPE.md"
-    },
-    {
-      "basename": "_ 0 Android Kurs Tworzenia Aplikacji",
-      "path": "_ Mobile/Android/Android Kurs Tworzenia APlikacji/_ 0 Android Kurs Tworzenia Aplikacji.md"
-    },
-    {
-      "basename": "_ Kurs Android od podstaw",
-      "path": "_ Mobile/Android/Kurs Android od podstaw/_ Kurs Android od podstaw.md"
     }
   ],
   "omittedPaths": [],
