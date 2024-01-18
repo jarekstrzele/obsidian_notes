@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "3.3. View Binding",
+      "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3.3. View Binding.md"
+    },
+    {
+      "basename": "3.2. View Models",
+      "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3.2. View Models.md"
+    },
+    {
+      "basename": "3.1. Fragments",
+      "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3.1. Fragments.md"
+    },
+    {
+      "basename": "3 Podstawy tworzenia aplikacji",
+      "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md"
+    },
+    {
       "basename": "8. Wartość `null` i  wyjątki",
       "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/8. Wartość `null` i  wyjątki.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "_ Kurs Android od podstaw",
       "path": "_ Mobile/Android/Kurs Android od podstaw/_ Kurs Android od podstaw.md"
-    },
-    {
-      "basename": "8.7. Toggle Button",
-      "path": "_ Mobile/Android/the complete Android Kotlin/8.7. Toggle Button.md"
-    },
-    {
-      "basename": "Drawer Navigator",
-      "path": "_ Mobile/REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer or Bottom-Tabs Navigators/Drawer Navigator.md"
-    },
-    {
-      "basename": "BottomNavigator",
-      "path": "_ Mobile/REACT NATIVE/React Native Practical Guide/6 Navigation/Drawer or Bottom-Tabs Navigators/BottomNavigator.md"
-    },
-    {
-      "basename": "_ 0 React Native Navigation",
-      "path": "_ Mobile/REACT NATIVE/React Native Practical Guide/6 Navigation/_ 0 React Native Navigation.md"
     }
   ],
   "omittedPaths": [],
