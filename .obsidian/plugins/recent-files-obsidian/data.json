@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "9. Kolekcje",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/9. Kolekcje.md"
+    },
+    {
       "basename": "8.1. Wyjątki",
       "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/8.1. Wyjątki.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "kotlin_referencja.excalidraw",
       "path": "Excalidraw/kotlin_referencja.excalidraw.md"
-    },
-    {
-      "basename": "2 Tworzenie widoków",
-      "path": "_ Mobile/Android/Kurs Android od podstaw/2 Tworzenie widoków.md"
     }
   ],
   "omittedPaths": [],

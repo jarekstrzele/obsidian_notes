@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/8.1. Wyjątki.md",
+                "file": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/9. Kolekcje.md",
                 "mode": "source",
                 "source": false
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/8.1. Wyjątki.md",
+                "file": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/9. Kolekcje.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/8.1. Wyjątki.md",
+                "file": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/9. Kolekcje.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/8.1. Wyjątki.md"
+                "file": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/9. Kolekcje.md"
               }
             }
           },
@@ -277,8 +277,9 @@
   },
   "active": "de023d2decf3acec",
   "lastOpenFiles": [
-    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/8.1. Wyjątki.md",
+    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/9. Kolekcje.md",
+    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/6.2. Interfejsy.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/6.1 Klasy abstrakcyjne.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/6 Klasy abstrakcyjne i interfejsy.md",
@@ -303,7 +304,6 @@
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/_ Rusz Głową Android. Programowanie aplikacji.md",
     "Pasted image 20240115122731.png",
     "Excalidraw/android_padding.excalidraw.md",
-    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4.3 trzecia wersja - aplikacja częściowo widoczna.md",
     "Pasted image 20240115085344.png",
     "Pasted image 20240115085044.png",
     "Pasted image 20240115084911.png",
