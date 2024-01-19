@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "9. Kolekcje",
-      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/9. Kolekcje.md"
+      "basename": "6. Układy z ograniczeniami ConstraintLayout",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/6. Układy z ograniczeniami ConstraintLayout.md"
     },
     {
-      "basename": "8.1. Wyjątki",
-      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/8.1. Wyjątki.md"
+      "basename": "5. Widoki i grupy widoków",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5. Widoki i grupy widoków.md"
+    },
+    {
+      "basename": "5.1. Układy i komponenty GUI dziedziczą po `View`",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.1. Układy i komponenty GUI dziedziczą po `View`.md"
     },
     {
       "basename": "5.2. Najważniejsze komponenty GUI",
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md"
+    },
+    {
+      "basename": "_ Rusz Głową Android. Programowanie aplikacji",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/_ Rusz Głową Android. Programowanie aplikacji.md"
+    },
+    {
+      "basename": "9. Kolekcje",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/9. Kolekcje.md"
+    },
+    {
+      "basename": "android_padding.excalidraw",
+      "path": "Excalidraw/android_padding.excalidraw.md"
+    },
+    {
+      "basename": "8.1. Wyjątki",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/8.1. Wyjątki.md"
     },
     {
       "basename": "6.2. Interfejsy",
@@ -69,10 +89,6 @@
       "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md"
     },
     {
-      "basename": "5.1. Układy i komponenty GUI dziedziczą po `View`",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.1. Układy i komponenty GUI dziedziczą po `View`.md"
-    },
-    {
       "basename": "7.1. Klasa danych `data class`",
       "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/7.1. Klasa danych `data class`.md"
     },
@@ -81,28 +97,12 @@
       "path": "5.2.1 komponenty razem w kodzie.md"
     },
     {
-      "basename": "6. Układy z ograniczeniami ConstraintLayout",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/6. Układy z ograniczeniami ConstraintLayout.md"
-    },
-    {
-      "basename": "5. Widoki i grupy widoków",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5. Widoki i grupy widoków.md"
-    },
-    {
       "basename": "10.24 DataGrid",
       "path": "_ Desktop/WPF/od Podstaw do app w WPF/10.24 DataGrid.md"
     },
     {
       "basename": "4.1. Układy i komponenty GUI dziedziczą po `View`",
       "path": "4.1. Układy i komponenty GUI dziedziczą po `View`.md"
-    },
-    {
-      "basename": "_ Rusz Głową Android. Programowanie aplikacji",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/_ Rusz Głową Android. Programowanie aplikacji.md"
-    },
-    {
-      "basename": "android_padding.excalidraw",
-      "path": "Excalidraw/android_padding.excalidraw.md"
     },
     {
       "basename": "4.3 trzecia wersja - aplikacja częściowo widoczna",
