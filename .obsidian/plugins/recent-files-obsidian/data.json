@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "7. Widoki list i adaptery",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/7. Widoki list i adaptery.md"
+    },
+    {
       "basename": "6. Układy z ograniczeniami ConstraintLayout",
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/6. Układy z ograniczeniami ConstraintLayout.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "8 Quiz App",
       "path": "_ Mobile/Android/the complete Android 12 and Kotlin/8 Quiz App.md"
-    },
-    {
-      "basename": "kotlin_referencja.excalidraw",
-      "path": "Excalidraw/kotlin_referencja.excalidraw.md"
     }
   ],
   "omittedPaths": [],
