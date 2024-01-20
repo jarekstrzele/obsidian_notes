@@ -5,6 +5,18 @@
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/7. Widoki list i adaptery.md"
     },
     {
+      "basename": "companion object",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/companion object.md"
+    },
+    {
+      "basename": "_ MongoDB Complete",
+      "path": "_DataBase/MongoDB/MongoDB - The Complete 2023/_ MongoDB Complete.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Untitled.md"
+    },
+    {
       "basename": "6. Układy z ograniczeniami ConstraintLayout",
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/6. Układy z ograniczeniami ConstraintLayout.md"
     },
@@ -173,10 +185,6 @@
       "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/5 Klasy pochodne i bazowe.md"
     },
     {
-      "basename": "companion object",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/companion object.md"
-    },
-    {
       "basename": "3 Wiele aktywności i intencji",
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/3 Wiele aktywności i intencji.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "uruchamiania na prawdziwym urządzeniu",
       "path": "_ Mobile/Android/uruchamiania na prawdziwym urządzeniu.md"
-    },
-    {
-      "basename": "2. Tworzenie interaktywnych aplikacji",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/2. Tworzenie interaktywnych aplikacji.md"
-    },
-    {
-      "basename": "8 Quiz App",
-      "path": "_ Mobile/Android/the complete Android 12 and Kotlin/8 Quiz App.md"
     }
   ],
   "omittedPaths": [],
