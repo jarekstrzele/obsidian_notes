@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "AdapterView",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/AdapterView.md"
+    },
+    {
       "basename": "7. Widoki list i adaptery",
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/7. Widoki list i adaptery.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "4 Klasy i obiekty",
       "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/4 Klasy i obiekty.md"
-    },
-    {
-      "basename": "uruchamiania na prawdziwym urządzeniu",
-      "path": "_ Mobile/Android/uruchamiania na prawdziwym urządzeniu.md"
     }
   ],
   "omittedPaths": [],
