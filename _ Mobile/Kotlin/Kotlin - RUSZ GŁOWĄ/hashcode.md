@@ -18,7 +18,7 @@ Główne zasady związane z metodą `hashCode` to:
 Jeśli mamy dwie referencje odwołujące się do tego samego obiektu, to wywołanie funkcji *hashCode* z użyciem każdej z tych referencji zwróci ten sam wynik.
 
 
-
+# reguły przesłaniania funkcji `hashcode` i `equals`
 
 
 
