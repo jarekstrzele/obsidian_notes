@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "hashcode",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/hashcode.md"
+    },
+    {
       "basename": "9. Kolekcje",
       "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/9. Kolekcje.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_ 0 Kotlin Rusz Głową",
       "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/_ 0 Kotlin Rusz Głową.md"
-    },
-    {
-      "basename": "4 Klasy i obiekty",
-      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/4 Klasy i obiekty.md"
     }
   ],
   "omittedPaths": [],

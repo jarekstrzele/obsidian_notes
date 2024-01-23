@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/9. Kolekcje.md",
+                "file": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/hashcode.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/9. Kolekcje.md",
+                "file": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/hashcode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/9. Kolekcje.md",
+                "file": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/hashcode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/9. Kolekcje.md"
+                "file": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/hashcode.md"
               }
             }
           },
@@ -255,6 +255,8 @@
   },
   "active": "de023d2decf3acec",
   "lastOpenFiles": [
+    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/9. Kolekcje.md",
+    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/hashcode.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/AdapterView.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/7. Widoki list i adaptery.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/companion object.md",
@@ -265,7 +267,6 @@
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.1. Układy i komponenty GUI dziedziczą po `View`.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/_ Rusz Głową Android. Programowanie aplikacji.md",
-    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/9. Kolekcje.md",
     "Excalidraw/android_padding.excalidraw.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/8.1. Wyjątki.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/6.2. Interfejsy.md",
@@ -280,7 +281,6 @@
     "_ Mobile/Android/Kurs Android od podstaw/_ Kurs Android od podstaw.md",
     "_ Mobile/Kotlin/Kotlin bez tajemnic/3.3. View Binding.md",
     "_ Mobile/Kotlin/Kotlin bez tajemnic/3.2. View Models.md",
-    "_ Mobile/Kotlin/Kotlin bez tajemnic/3.1. Fragments.md",
     "Pasted image 20240115122731.png",
     "Pasted image 20240115085344.png",
     "Pasted image 20240115085044.png",
