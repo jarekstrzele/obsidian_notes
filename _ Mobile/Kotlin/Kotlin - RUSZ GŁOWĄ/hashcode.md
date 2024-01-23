@@ -20,8 +20,11 @@ Jeśli mamy dwie referencje odwołujące się do tego samego obiektu, to wywoła
 
 # reguły przesłaniania funkcji `hashcode` i `equals`
 
-
-
+1. Jeśli dwa obiekty są równe, muszą mieć te same kody mieszające.
+2. Jeżeli dwa obiekty są równe, to wywołanie funkcji `equals` na rzecz każdego z nich musi zwracać `true` (`a.equals(b)`, `b.equals(a`).
+3. Jeśli dwa obiekty mają taką samą wartość kodu mieszającego, to nie muszą być równe. Jeżeli jednak są równe, to muszą tę samą wartość kodu mieszającego.
+4. a zatem jeśli przesłonisz funkcję `equals` . ,  musisz także przesłonić funkcję `hashCOde`.
+5. Domyślne działanie funkcji `equals` polega na
 
 
 
