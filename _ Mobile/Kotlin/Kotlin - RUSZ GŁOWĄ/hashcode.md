@@ -14,7 +14,8 @@ Główne zasady związane z metodą `hashCode` to:
     
 2. **Konsystencja w czasie życia obiektu**: Dla danego obiektu, `hashCode` powinien zawsze zwracać tę samą wartość podczas trwania życia tego obiektu, jeśli żadna zmienna wpływająca na wynik `hashCode` nie została zmieniona.
 
-
+>[!danger] ważne
+Jeśli mamy dwie referencje odwołujące się do tego samego obiektu, to wywołanie funkcji *hashCode* z użyciem każdej z tych referencji zwróci ten sam wynik.
 
 
 
