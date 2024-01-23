@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/hashcode.md",
+                "file": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/9. Kolekcje.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/hashcode.md",
+                "file": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/9. Kolekcje.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/hashcode.md",
+                "file": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/9. Kolekcje.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/hashcode.md"
+                "file": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/9. Kolekcje.md"
               }
             }
           },
@@ -255,8 +255,8 @@
   },
   "active": "de023d2decf3acec",
   "lastOpenFiles": [
-    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/9. Kolekcje.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/hashcode.md",
+    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/9. Kolekcje.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/AdapterView.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/7. Widoki list i adaptery.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/companion object.md",
