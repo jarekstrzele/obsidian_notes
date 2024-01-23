@@ -29,7 +29,12 @@ Jeśli mamy dwie referencje odwołujące się do tego samego obiektu, to wywoła
 
 #### `a.equals(b)` MUSI oznaczać, że `a.hashCOde() == b.hashCode()`
 
-####
+#### `a.hashCode() == b.hashCode()` NIE MUSI oznaczać, że `a.equals(b)`
+
+
+
+
+
 
 
 
