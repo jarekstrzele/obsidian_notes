@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust lang - The complete beginner's guide/_ Rust lang The complete beginner's guide.md",
+                "file": "R U S T/Box.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust lang - The complete beginner's guide/_ Rust lang The complete beginner's guide.md",
+                "file": "R U S T/Box.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Rust lang - The complete beginner's guide/_ Rust lang The complete beginner's guide.md"
+                "file": "R U S T/Box.md"
               }
             }
           },
