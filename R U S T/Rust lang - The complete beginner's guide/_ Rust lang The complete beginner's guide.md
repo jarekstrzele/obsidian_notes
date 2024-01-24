@@ -7,10 +7,13 @@
 >- strongly typed
 
 
+- rust
+- intelliJ
+	- `plugins > Marketplace> Rust`
 
-
-
-
+>[!info] Cargo
+>- it is the package manager for Rust
+>- 
 
 
 
