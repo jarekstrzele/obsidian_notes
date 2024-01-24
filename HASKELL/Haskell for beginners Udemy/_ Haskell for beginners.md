@@ -115,6 +115,11 @@ main = do
 ----
 # Modules
 
+## List Module
+
+to use that module:
+`import Data.List`
+
 
 
 
