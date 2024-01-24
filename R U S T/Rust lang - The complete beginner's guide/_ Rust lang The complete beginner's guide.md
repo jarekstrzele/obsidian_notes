@@ -13,7 +13,7 @@
 
 >[!info] Cargo
 >- it is the package manager for Rust
->- 
+>- `cargo new <projectName>` 
 
 
 
