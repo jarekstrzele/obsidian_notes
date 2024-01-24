@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HASKELL/Haskell for beginners Udemy/_ Haskell for beginners.md",
+                "file": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 1 Fundamentals.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/Haskell for beginners Udemy/_ Haskell for beginners.md",
+                "file": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 1 Fundamentals.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/Haskell for beginners Udemy/_ Haskell for beginners.md",
+                "file": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 1 Fundamentals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/Haskell for beginners Udemy/_ Haskell for beginners.md"
+                "file": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 1 Fundamentals.md"
               }
             }
           },
@@ -239,8 +239,9 @@
   },
   "active": "297356b9b417be7d",
   "lastOpenFiles": [
-    "linux/UBUNTU.md",
+    "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/_ Ultimate Rust Crash Course 1.md",
     "HASKELL/Haskell for beginners Udemy/_ Haskell for beginners.md",
+    "linux/UBUNTU.md",
     "HASKELL/Haskell for beginners Udemy",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/hashcode.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/_ 0 Kotlin Rusz Głową.md",
@@ -266,7 +267,6 @@
     "_ Mobile/Android/the complete Android Kotlin/8.5 ImageView.md",
     "_ Mobile/Android/the complete Android Kotlin/8.4 EditTexts.md",
     "_ Mobile/Android/the complete Android Kotlin/8.3 Button.md",
-    "_ Mobile/Android/the complete Android Kotlin/8.2 TextView.md",
     "_ Mobile/Android/the complete Android Kotlin",
     "_ Mobile/Android/the complete Android 12 and Kotlin",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji",
