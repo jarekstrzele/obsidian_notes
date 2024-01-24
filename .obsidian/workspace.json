@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 1 Fundamentals.md",
+                "file": "R U S T/Rust lang - The complete beginner's guide/_ Rust lang The complete beginner's guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#catalin_stefan",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,7 +118,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -138,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 1 Fundamentals.md",
+                "file": "R U S T/Rust lang - The complete beginner's guide/_ Rust lang The complete beginner's guide.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -155,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 1 Fundamentals.md",
+                "file": "R U S T/Rust lang - The complete beginner's guide/_ Rust lang The complete beginner's guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 1 Fundamentals.md"
+                "file": "R U S T/Rust lang - The complete beginner's guide/_ Rust lang The complete beginner's guide.md"
               }
             }
           },
@@ -237,8 +238,11 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "297356b9b417be7d",
+  "active": "71e065b19cb47489",
   "lastOpenFiles": [
+    "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 1 Fundamentals.md",
+    "R U S T/Rust lang - The complete beginner's guide/_ Rust lang The complete beginner's guide.md",
+    "R U S T/Rust lang - The complete beginner's guide",
     "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/_ Ultimate Rust Crash Course 1.md",
     "HASKELL/Haskell for beginners Udemy/_ Haskell for beginners.md",
     "linux/UBUNTU.md",
@@ -265,8 +269,6 @@
     "_ Mobile/Android/the complete Android Kotlin/8.6 RadioButton.md",
     "_ Mobile/Android/the complete Android Kotlin/8.6 CheckBox.md",
     "_ Mobile/Android/the complete Android Kotlin/8.5 ImageView.md",
-    "_ Mobile/Android/the complete Android Kotlin/8.4 EditTexts.md",
-    "_ Mobile/Android/the complete Android Kotlin/8.3 Button.md",
     "_ Mobile/Android/the complete Android Kotlin",
     "_ Mobile/Android/the complete Android 12 and Kotlin",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji",
@@ -278,7 +280,6 @@
     "Pasted image 20240115085044.png",
     "Pasted image 20240115084911.png",
     "_ Mobile/Kotlin/Kurs Android od podstaw",
-    "_ Desktop/Python/Tkinter/ttkbootstrap - Python Tkinter GUI Design",
     "pexels-alex-fu-1302436.jpg",
     "canvas_moduls_rust.canvas",
     "Untitled 2.canvas",
