@@ -47,7 +47,7 @@ main = do
 >Haskell is an immutable language and you can't use the same variable name more than once
 
 
-## data type
+# data type
 ```haskell
 age :: Int
 age = 16
@@ -75,7 +75,7 @@ main = putStrLn "Hello world!"
 ```
 
 
-## Math
+# Math
 ```haskell
 
 main = do
@@ -88,16 +88,33 @@ main = do
 ```
 
 
-```kotlin
+```haskell
 main = do
   print ( sqrt 81 )      -- 9.0
-  print ( round 5.6 )    -
-  print ( round 5.4 ) 
-  print ( floor 5.679)
-  -- print ( 5 `mod` 4)
-  print ( mod 5 4 )
-  print (rem 5 4)
+  print ( round 5.6 )    -- 6
+  print ( round 5.4 )    -- 5
+  print ( floor 5.679)   -- 5
+  -- print ( 5 `mod` 4) 
+  print ( mod 5 4 )      -- 1, wynik zawsze nieujemny
+  print (rem 5 4)        -- 1
 ```
+
+```haskell
+main = do
+  print( pi ) -- 3.141592653589793
+  -- print ( exp 1)
+  print $ exp 1 -- 2.718281828459045
+  print $ log (exp 1) -- 1.0
+  print $ sin 0 -- 0.0
+  print $ cos 0 -- 1.0
+  print $ tan 0  -- 0.0
+
+```
+
+
+----
+# Modules
+
 
 
 
