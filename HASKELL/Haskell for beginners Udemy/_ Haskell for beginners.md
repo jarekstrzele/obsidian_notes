@@ -120,10 +120,22 @@ main = do
 to use that module:
 `import Data.List`
 
+```haskell
+import Data.List
 
 
+main = do
+  print(intersperse '.' "SPEW") -- "S.P.E.W"
+  print(intercalate " " ["Art", "Of", "War"]) -- "Art Of War"
+  print(splitAt 5 "UdemyCourses")
+  print(sort [84,1,4,8,56,3])
+  print(sort ["zebra", "apple", "dolphin"])
+```
 
 
+("Udemy","Courses")
+[1,3,4,8,56,84]
+["apple","dolphin","zebra"]
 
 
 
