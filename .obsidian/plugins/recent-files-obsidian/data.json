@@ -1,156 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "Box",
-      "path": "R U S T/Box.md"
+      "basename": "7 Klasy danych",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/7 Klasy danych.md"
     },
     {
-      "basename": "_ Learn MongoDB in 1 hour",
-      "path": "_DataBase/MongoDB/Learn MongoDB in 1 hour/_ Learn MongoDB in 1 hour.md"
+      "basename": "8. Wartość `null` i  wyjątki",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/8. Wartość `null` i  wyjątki.md"
     },
     {
-      "basename": "I 4 The Meat of Rust",
-      "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 4 The Meat of Rust.md"
+      "basename": "8.1. Wyjątki",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/8.1. Wyjątki.md"
     },
     {
-      "basename": "_ Rust lang The complete beginner's guide",
-      "path": "R U S T/Rust lang - The complete beginner's guide/_ Rust lang The complete beginner's guide.md"
+      "basename": "9. Kolekcje",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/9. Kolekcje.md"
     },
     {
-      "basename": "I 1 Fundamentals",
-      "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 1 Fundamentals.md"
+      "basename": "_ 0 Kotlin Rusz Głową",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/_ 0 Kotlin Rusz Głową.md"
     },
     {
-      "basename": "_ Ultimate Rust Crash Course 1",
-      "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/_ Ultimate Rust Crash Course 1.md"
+      "basename": "10 Typy sparametryzowane",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/10 Typy sparametryzowane.md"
     },
     {
-      "basename": "_ Haskell for beginners",
-      "path": "HASKELL/Haskell for beginners Udemy/_ Haskell for beginners.md"
+      "basename": "7. Widoki list i adaptery",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/7. Widoki list i adaptery.md"
     },
     {
-      "basename": "UBUNTU",
-      "path": "linux/UBUNTU.md"
+      "basename": "7.1. Klasa danych `data class`",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/7.1. Klasa danych `data class`.md"
     },
     {
-      "basename": "I 3 The Heart of Rust",
-      "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 3 The Heart of Rust.md"
+      "basename": "hashcode",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/hashcode.md"
     },
     {
-      "basename": "I 2 Primitive Types & Control Flow",
-      "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 2 Primitive Types & Control Flow.md"
+      "basename": "AdapterView",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/AdapterView.md"
     },
     {
-      "basename": "_ Kotlin bez tajemnic",
-      "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/_ Kotlin bez tajemnic.md"
-    },
-    {
-      "basename": "3 Podstawy tworzenia aplikacji",
-      "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md"
-    },
-    {
-      "basename": "I 6 Invaders Project",
-      "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 6 Invaders Project.md"
-    },
-    {
-      "basename": "Result",
-      "path": "R U S T/Result.md"
-    },
-    {
-      "basename": "atrybut",
-      "path": "R U S T/atrybut.md"
-    },
-    {
-      "basename": "Tech Stack in Rust",
-      "path": "R U S T/Tech Stack in Rust.md"
-    },
-    {
-      "basename": "Rust Tutorial Full Course",
-      "path": "R U S T/Rust Tutorial Full Course.md"
-    },
-    {
-      "basename": "I 5 Final Lectures",
-      "path": "R U S T/Ultimate Rust Crash Course/Ultimate Rust Crush 1/I 5 Final Lectures.md"
-    },
-    {
-      "basename": "2 Basic and CRUD",
-      "path": "_DataBase/MongoDB/MongoDB - The Complete 2023/2 Basic and CRUD.md"
-    },
-    {
-      "basename": "MongoDB Installation on Sys, on Docker",
-      "path": "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md"
+      "basename": "companion object",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/companion object.md"
     },
     {
       "basename": "_ MongoDB Complete",
       "path": "_DataBase/MongoDB/MongoDB - The Complete 2023/_ MongoDB Complete.md"
     },
     {
-      "basename": "1 - Into MongoDB Cloud",
-      "path": "_DataBase/MongoDB/Master MongoDB/1 - Into MongoDB Cloud.md"
+      "basename": "Untitled",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Untitled.md"
     },
     {
-      "basename": "_ 0 Start",
-      "path": "_DataBase/MongoDB/Master MongoDB/_ 0 Start.md"
+      "basename": "6. Układy z ograniczeniami ConstraintLayout",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/6. Układy z ograniczeniami ConstraintLayout.md"
     },
     {
-      "basename": "5 - Collection Creation and Documents Insertion",
-      "path": "_DataBase/MongoDB/Introduction to the MongoDB/5 - Collection Creation and Documents Insertion.md"
+      "basename": "5. Widoki i grupy widoków",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5. Widoki i grupy widoków.md"
     },
     {
-      "basename": "4 - Data Formats in MongoDb",
-      "path": "_DataBase/MongoDB/Introduction to the MongoDB/4 - Data Formats in MongoDb.md"
+      "basename": "5.1. Układy i komponenty GUI dziedziczą po `View`",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.1. Układy i komponenty GUI dziedziczą po `View`.md"
     },
     {
-      "basename": "_ Intro to MongoDB",
-      "path": "_DataBase/MongoDB/Introduction to the MongoDB/_ Intro to MongoDB.md"
+      "basename": "5.2. Najważniejsze komponenty GUI",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md"
     },
     {
-      "basename": "3 Functions-Methods and how to save time",
-      "path": "C Sharp/Complete CSharp MasterClass/3 Functions-Methods and how to save time.md"
+      "basename": "_ Rusz Głową Android. Programowanie aplikacji",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/_ Rusz Głową Android. Programowanie aplikacji.md"
     },
     {
-      "basename": "8 Aplikacje WPF",
-      "path": "_ Desktop/WPF/od Podstaw do app w WPF/8 Aplikacje WPF.md"
+      "basename": "android_padding.excalidraw",
+      "path": "Excalidraw/android_padding.excalidraw.md"
     },
     {
-      "basename": "4. Making Decisions",
-      "path": "C Sharp/Complete CSharp MasterClass/4. Making Decisions.md"
+      "basename": "6.2. Interfejsy",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/6.2. Interfejsy.md"
     },
     {
-      "basename": "6. OOP",
-      "path": "C Sharp/Complete CSharp MasterClass/6. OOP.md"
+      "basename": "6.1 Klasy abstrakcyjne",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/6.1 Klasy abstrakcyjne.md"
     },
     {
-      "basename": "7. Collections",
-      "path": "C Sharp/Complete CSharp MasterClass/7. Collections.md"
+      "basename": "6 Klasy abstrakcyjne i interfejsy",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/6 Klasy abstrakcyjne i interfejsy.md"
     },
     {
-      "basename": "1.3 First app",
-      "path": "Flutter/Flutter - 2022 a complete guide/1.3 First app.md"
+      "basename": "Fundamenty Kotlina",
+      "path": "_ Mobile/Kotlin/Fundamenty Kotlina.md"
     },
     {
-      "basename": "1.2. Flutter Achitecture",
-      "path": "Flutter/Flutter - 2022 a complete guide/1.2. Flutter Achitecture.md"
+      "basename": "3 Kotlin fundamentals",
+      "path": "_ Mobile/Android/the complete Android 12 and Kotlin/3 Kotlin fundamentals.md"
     },
     {
-      "basename": "1.1 Flutter - what is it",
-      "path": "Flutter/Flutter - 2022 a complete guide/1.1 Flutter - what is it.md"
+      "basename": "2 Getting ready with Android Studio",
+      "path": "_ Mobile/Android/the complete Android 12 and Kotlin/2 Getting ready with Android Studio.md"
     },
     {
-      "basename": "_ 0 Start",
-      "path": "Flutter/Flutter - 2022 a complete guide/_ 0 Start.md"
+      "basename": "_ the complete Android 12",
+      "path": "_ Mobile/Android/the complete Android 12 and Kotlin/_ the complete Android 12.md"
     },
     {
-      "basename": "3.4 Socket programming",
-      "path": "Flutter/Dart/3.4 Socket programming.md"
+      "basename": "1. Skok na głęboką wodę",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/1. Skok na głęboką wodę.md"
     },
     {
-      "basename": "3.5 Database programming",
-      "path": "Flutter/Dart/3.5 Database programming.md"
+      "basename": "_ Kurs Android od podstaw",
+      "path": "_ Mobile/Android/Kurs Android od podstaw/_ Kurs Android od podstaw.md"
     },
     {
-      "basename": "Dart&Vim",
-      "path": "Flutter/Dart/Dart&Vim.md"
+      "basename": "3.3. View Binding",
+      "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3.3. View Binding.md"
+    },
+    {
+      "basename": "3.2. View Models",
+      "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3.2. View Models.md"
+    },
+    {
+      "basename": "3.1. Fragments",
+      "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3.1. Fragments.md"
+    },
+    {
+      "basename": "3 Podstawy tworzenia aplikacji",
+      "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md"
+    },
+    {
+      "basename": "5.2.1 komponenty razem w kodzie",
+      "path": "5.2.1 komponenty razem w kodzie.md"
+    },
+    {
+      "basename": "10.24 DataGrid",
+      "path": "_ Desktop/WPF/od Podstaw do app w WPF/10.24 DataGrid.md"
+    },
+    {
+      "basename": "4.1. Układy i komponenty GUI dziedziczą po `View`",
+      "path": "4.1. Układy i komponenty GUI dziedziczą po `View`.md"
+    },
+    {
+      "basename": "4.3 trzecia wersja - aplikacja częściowo widoczna",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4.3 trzecia wersja - aplikacja częściowo widoczna.md"
+    },
+    {
+      "basename": "4. Cykl życia aktywnośći",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4. Cykl życia aktywnośći.md"
+    },
+    {
+      "basename": "4.0. Przewodnik po metodach cyklu życia",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4.0. Przewodnik po metodach cyklu życia.md"
+    },
+    {
+      "basename": "4.2. Druga wersja Stopera - aplikacja zniszczona i utworzona",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4.2. Druga wersja Stopera - aplikacja zniszczona i utworzona.md"
+    },
+    {
+      "basename": "4.1. Pierwsza wersja stopera",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4.1. Pierwsza wersja stopera.md"
+    },
+    {
+      "basename": "Bundle",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Bundle.md"
+    },
+    {
+      "basename": "Runnable",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Runnable.md"
+    },
+    {
+      "basename": "object",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/object.md"
+    },
+    {
+      "basename": "Looper",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Looper.md"
+    },
+    {
+      "basename": "Intencja",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Intencja.md"
+    },
+    {
+      "basename": "Handler",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Handler.md"
+    },
+    {
+      "basename": "AndroidManifest",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/AndroidManifest.md"
+    },
+    {
+      "basename": "7.0. Wprowadzenie do  klas danych",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/7.0. Wprowadzenie do  klas danych.md"
+    },
+    {
+      "basename": "_ Rust Build with GPT-4",
+      "path": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/_ Rust Build with GPT-4.md"
+    },
+    {
+      "basename": "5 Klasy pochodne i bazowe",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/5 Klasy pochodne i bazowe.md"
     }
   ],
   "omittedPaths": [],

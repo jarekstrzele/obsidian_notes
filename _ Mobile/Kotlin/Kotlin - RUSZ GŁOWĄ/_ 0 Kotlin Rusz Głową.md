@@ -7,6 +7,23 @@
 [[5 Klasy pochodne i bazowe]]
 [[6.1 Klasy abstrakcyjne]]
 [[6.2. Interfejsy]]
+[[7 Klasy danych]]
+[[7.0. Wprowadzenie do  klas danych]]
+[[7.1. Klasa danych `data class`]]
+[[8. Wartość `null` i  wyjątki]]
+[[8.1. Wyjątki]]
+[[9. Kolekcje]]
+[[10 Typy sparametryzowane]]
+
+
+
+
+
+
+
+
+
+
 
 
 ----------
