@@ -1,36 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "7 Klasy danych",
-      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/7 Klasy danych.md"
-    },
-    {
-      "basename": "8. Wartość `null` i  wyjątki",
-      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/8. Wartość `null` i  wyjątki.md"
-    },
-    {
-      "basename": "8.1. Wyjątki",
-      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/8.1. Wyjątki.md"
+      "basename": "10 Typy sparametryzowane",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/10 Typy sparametryzowane.md"
     },
     {
       "basename": "9. Kolekcje",
       "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/9. Kolekcje.md"
     },
     {
-      "basename": "_ 0 Kotlin Rusz Głową",
-      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/_ 0 Kotlin Rusz Głową.md"
+      "basename": "8.1. Wyjątki",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/8.1. Wyjątki.md"
     },
     {
-      "basename": "10 Typy sparametryzowane",
-      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/10 Typy sparametryzowane.md"
-    },
-    {
-      "basename": "7. Widoki list i adaptery",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/7. Widoki list i adaptery.md"
+      "basename": "8. Wartość `null` i  wyjątki",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/8. Wartość `null` i  wyjątki.md"
     },
     {
       "basename": "7.1. Klasa danych `data class`",
       "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/7.1. Klasa danych `data class`.md"
+    },
+    {
+      "basename": "7.0. Wprowadzenie do  klas danych",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/7.0. Wprowadzenie do  klas danych.md"
+    },
+    {
+      "basename": "6.2. Interfejsy",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/6.2. Interfejsy.md"
+    },
+    {
+      "basename": "7 Klasy danych",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/7 Klasy danych.md"
+    },
+    {
+      "basename": "_ 0 Kotlin Rusz Głową",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/_ 0 Kotlin Rusz Głową.md"
+    },
+    {
+      "basename": "7. Widoki list i adaptery",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/7. Widoki list i adaptery.md"
     },
     {
       "basename": "hashcode",
@@ -75,10 +83,6 @@
     {
       "basename": "android_padding.excalidraw",
       "path": "Excalidraw/android_padding.excalidraw.md"
-    },
-    {
-      "basename": "6.2. Interfejsy",
-      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/6.2. Interfejsy.md"
     },
     {
       "basename": "6.1 Klasy abstrakcyjne",
@@ -187,10 +191,6 @@
     {
       "basename": "AndroidManifest",
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/AndroidManifest.md"
-    },
-    {
-      "basename": "7.0. Wprowadzenie do  klas danych",
-      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/7.0. Wprowadzenie do  klas danych.md"
     },
     {
       "basename": "_ Rust Build with GPT-4",
