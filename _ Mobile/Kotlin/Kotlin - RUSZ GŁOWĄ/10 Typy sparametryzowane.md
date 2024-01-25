@@ -36,10 +36,17 @@ class Contest<T: Pet> {
 
 	val scores: MutableMap<T, Int> = mutableMapOf()
 
+	fun addScore(t: T, score: Int = 0) { 
+		if (score >= 0) scores.put(t, score)
+	}
+
 }
 ```
-- klasa generyczna, w której `T` musi być typu `Pet` lub musi być jego typem pochodnym.
+- klasa generyczna, w której `T` musi być typu `Pet` lub musi być jego typem pochodnym,
 - właściwość `scores` będzie mapą typu `MutableMap`, z kluczami typu `T` i wartościami typu `Int`, gdzie `T` jest parametrem typu generycznego klasy `Contest`, przy czym może być typem `Pet` lub jego typem pochodnym.
+- `addScore`  zapisuje obiekt zwierzaka oraz jego wynik w mapie `MutableMap`, o ile tylko uzyskany wynik będzie większy lub równy `0`.
+
+}
 
 
 
