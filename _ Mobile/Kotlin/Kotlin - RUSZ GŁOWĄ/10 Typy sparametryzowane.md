@@ -30,8 +30,16 @@ interface MutableList<E>: List<E>, MutableCollection<E>{
 - funkcje pobierające argumenty generyczne,
 - funkcje zwracające wartości generyczne.
 
+np:
+```kotlin
+class Contest<T: Pet> {
 
+	val scores: MutableMap<T, Int> = mutableMapOf()
 
+}
+```
+- klasa generyczna, w której `T` musi być typu `Pet` lub musi być jego typem pochodnym.
+- właściwość `scores` będzie mapą typu `MutableMap`, z kluczami typu `T` i wartościami typu `Int`, gdzie `T` jest parametrem typu generycznego klasy `Contest`, przy czym może być typem `Pet` lub jego typem pochodnym.
 
 
 
