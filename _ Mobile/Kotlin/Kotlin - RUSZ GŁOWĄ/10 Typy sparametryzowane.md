@@ -46,8 +46,18 @@ class Contest<T: Pet> {
 - właściwość `scores` będzie mapą typu `MutableMap`, z kluczami typu `T` i wartościami typu `Int`, gdzie `T` jest parametrem typu generycznego klasy `Contest`, przy czym może być typem `Pet` lub jego typem pochodnym.
 - `addScore`  zapisuje obiekt zwierzaka oraz jego wynik w mapie `MutableMap`, o ile tylko uzyskany wynik będzie większy lub równy `0`.
 
-}
+```kotlin
+fun getWinners(): MutableSet<T> { 
+	val highScore = scores.values.max()
+	val winners: MutableSet<T> = mutableSetOf()
 
+	for ((t, score) in scores) {
+		if (score == highScore) winners.add(t)
+	}
+
+	return winners
+}
+```
 
 
 
