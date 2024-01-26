@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "9. Kolekcje",
-      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/9. Kolekcje.md"
+      "basename": "_ Rust lang The complete beginner's guide",
+      "path": "R U S T/Rust lang - The complete beginner's guide/_ Rust lang The complete beginner's guide.md"
+    },
+    {
+      "basename": "AdapterView",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/AdapterView.md"
+    },
+    {
+      "basename": "MongoDB Installation on Sys, on Docker",
+      "path": "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md"
+    },
+    {
+      "basename": "MIME TYPE",
+      "path": "MIME TYPE.md"
     },
     {
       "basename": "10 Typy sparametryzowane",
       "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/10 Typy sparametryzowane.md"
+    },
+    {
+      "basename": "9. Kolekcje",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/9. Kolekcje.md"
     },
     {
       "basename": "4. Cykl życia aktywnośći",
@@ -47,10 +63,6 @@
     {
       "basename": "hashcode",
       "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/hashcode.md"
-    },
-    {
-      "basename": "AdapterView",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/AdapterView.md"
     },
     {
       "basename": "companion object",
@@ -187,18 +199,6 @@
     {
       "basename": "Handler",
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Handler.md"
-    },
-    {
-      "basename": "AndroidManifest",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/AndroidManifest.md"
-    },
-    {
-      "basename": "_ Rust Build with GPT-4",
-      "path": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/_ Rust Build with GPT-4.md"
-    },
-    {
-      "basename": "5 Klasy pochodne i bazowe",
-      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/5 Klasy pochodne i bazowe.md"
     }
   ],
   "omittedPaths": [],

@@ -76,3 +76,33 @@ val catList = listPet(Cat("Kocilla")) // kompliator wywnioskuje typ obiektu, na 
 ```
 
 
+KLASA GENERYCZNA Z metodą generyczną akceptującą `null`
+```kotlin
+class MyClass<T> { 
+	fun myFun(): T?
+
+}
+```
+
+
+KLASA GENERYCZNA Z WIĘKSZĄ ILOŚCIĄ PARAMETRÓW
+```kotlin
+class MyMap<K, V> {
+
+// Kod klasy...
+
+}
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
