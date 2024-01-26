@@ -39,7 +39,41 @@ Rust is not a language to user interaction!!!
 import library
 `use std::io;`
 
+```rust
+use std::io ;
+ 
 
+fn main() {
+
+   //input will be mutable	
+   //String::new() create a String object
+   let mut input: String = String::new() ;
+
+   // macro	
+   println!("say something") ;
+
+   //we are receiving the read_line from the standard library
+   // $mut - mutable reference
+   match io::stdin().read_line(&mut input){
+
+    Ok(_) => {
+
+        println!("You say {}", input)
+
+  
+
+    },
+
+    Err(e) => {
+
+        println!("Something went wrond {}", e)
+
+    }
+
+   }
+
+}
+```
 
 
 
