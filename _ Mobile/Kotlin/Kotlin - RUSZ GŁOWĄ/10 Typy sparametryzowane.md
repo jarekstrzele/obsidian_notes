@@ -59,8 +59,20 @@ fun getWinners(): MutableSet<T> {
 }
 ```
 
-
-
-
+>[!danger] funkcja z własnym parameterm typu
+>Jeśli chcemy zdefiniować funkcję, która ma swój własny parametr typu, to możemy to zrobić, deklarując parametr typu jako element definicji funkcji.
+```kotlin
+fun <T: Pet> listPet(t: T): MutableList<T>{
+	println("tworzę i zwracam MutableList")
+	return mytableListOf()
+	
+}
+```
+>[!danger] wywołanie takie funkcji
+```kotlin
+val catLIst = listPet<Cat>(Cat("Kocilla"))
+//lub
+val catList = listPet(Cat("Kocilla")) // kompliator wywnioskuje typ obiektu, na którym funkcja ma operować
+```
 
 
