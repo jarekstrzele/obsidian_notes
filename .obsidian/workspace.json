@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md",
+                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/7. Widoki list i adaptery.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,8 +91,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -174,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust lang - The complete beginner's guide/_ Rust lang The complete beginner's guide.md",
+                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/7. Widoki list i adaptery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust lang - The complete beginner's guide/_ Rust lang The complete beginner's guide.md",
+                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/7. Widoki list i adaptery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Rust lang - The complete beginner's guide/_ Rust lang The complete beginner's guide.md"
+                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/7. Widoki list i adaptery.md"
               }
             }
           },
@@ -265,10 +264,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d76215dd5ceb9255",
+  "active": "ad21e06f6ed0de8b",
   "lastOpenFiles": [
-    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/AdapterView.md",
     "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md",
+    "R U S T/Rust lang - The complete beginner's guide/_ Rust lang The complete beginner's guide.md",
+    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/AdapterView.md",
     "MIME TYPE.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/10 Typy sparametryzowane.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/9. Kolekcje.md",
@@ -280,7 +280,6 @@
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/6.2. Interfejsy.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/7 Klasy danych.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/_ 0 Kotlin Rusz Głową.md",
-    "R U S T/Rust lang - The complete beginner's guide/_ Rust lang The complete beginner's guide.md",
     "R U S T/Rust lang - The complete beginner's guide",
     "HASKELL/Haskell for beginners Udemy/_ Haskell for beginners.md",
     "HASKELL/Haskell for beginners Udemy",
