@@ -5,6 +5,10 @@
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/7. Widoki list i adaptery.md"
     },
     {
+      "basename": "AdapterView",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/AdapterView.md"
+    },
+    {
       "basename": "companion object",
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/companion object.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "_ Rust lang The complete beginner's guide",
       "path": "R U S T/Rust lang - The complete beginner's guide/_ Rust lang The complete beginner's guide.md"
-    },
-    {
-      "basename": "AdapterView",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/AdapterView.md"
     },
     {
       "basename": "MIME TYPE",

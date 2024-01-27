@@ -157,8 +157,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354.5,
-    "collapsed": true
+    "width": 354.5
   },
   "right": {
     "id": "7036b4a7a06b882e",
@@ -267,11 +266,11 @@
   },
   "active": "ad21e06f6ed0de8b",
   "lastOpenFiles": [
-    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/companion object.md",
+    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/AdapterView.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/7. Widoki list i adaptery.md",
+    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/companion object.md",
     "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md",
     "R U S T/Rust lang - The complete beginner's guide/_ Rust lang The complete beginner's guide.md",
-    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/AdapterView.md",
     "MIME TYPE.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/10 Typy sparametryzowane.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/9. Kolekcje.md",
