@@ -6,9 +6,9 @@
 [[3 Wiele aktywności i intencji]]
 [[4. Cykl życia aktywnośći]]
 [[5. Widoki i grupy widoków]]
-
-
-
+[[6. Układy z ograniczeniami ConstraintLayout]]
+[[7. Widoki list i adaptery]]
+[[8. Biblioteki wsparcia i paski aplikacji]]
 
 
 
