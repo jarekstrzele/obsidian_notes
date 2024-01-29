@@ -198,6 +198,13 @@ val petList: List<Pet> = catList
 
 ## klasa `Vet` - kontrawariantny `in`
 
+>[!success] kontravarianty `in`
+>Jeśli typ generyczny  je KONTRAWARIANTNY, oznacza to, że w miejscu typu pochodnego określonego parametrem typu `T` MOŻNA będzie użyć jego typu bazowego.
+>to przeciwieństwo kowariancji
+
+
+
+
 > Weterynarze mogą specjalizować się w leczeniu konkretnych gatunków zwierząt, dlatego też utworzymy sparametryzowaną klasę `Vet` z parametrem typu `T`, która będzie dysponować funkcją `treat` pobierającą argument typu `T`. Zaznaczymy także, że `T` musi być typu `Pet`, dzięki czemu nie będziemy mogli tworzyć obiektów Vet operujących na klasach takich jak Planet lub Broccoli
 
 ```kotlin
@@ -228,6 +235,28 @@ petVet.treat(Cat("Filemon")) // ok
 petVet.treat(Fish("Nemo")) // ok
 
 ```
+
+PROBLEM:
+`val catContest = Contest<Cat>(petVet)` - kompilator nie pozwoli przekazać `Vet<Pet>` do obiektu `Contest<Cat>`
+
+> W naszym przykładzie chcemy móc przekazywać do obiektu `Contest<Cat>` obiekty `Vet<Pet>`, a nie jedynie obiekty `Vet<Cat>`. 
+> Innymi słowy, chcemy móc używać typu bazowego typu określonego parametrem typu `T` w miejscu typu `T`.
+
+problem rozwiązuje słowo kluczowe  `in`:
+	- `out` pozwala  używać typu pochodnego typu okreśłonego parametrem `T` w miejscu typu bazowego  (użycie `Retailer<Cat>` choć oczewkiwano obiektu `Retailer<Pet>`)
+	- `in` słowo kluczowe  pozwala na użycie typu bazowego w miejscu, gdzie jest oczekiwany typ pochodny.
+
+```kotlin
+class Vet<in T: Pet>{
+
+}
+```
+czyli zamiast `Vet<Cat>` będziemy mogli używa `Vet<Pet>`
+
+
+
+
+
 
 
 
