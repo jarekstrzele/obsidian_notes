@@ -326,10 +326,15 @@ abstract class C<in T> {
 	fun myFunction(): T { }
 }
 ```
+Tego kodu nie uda się skompilować, gdyż typ T nie może być używany jako typ wartości zwracanej przez funkcję.
 
-
-
-
+```kotlin
+class E<in T>(t: T) {
+	var y = t
+	fun myFunction(t: T) { } 
+}
+```
+Tego kodu nie uda się skompilować, gdyż typ T nie może być używany jako typ właściwości definiowanych przy użyciu słowa kluczowego var.
 
 
 
