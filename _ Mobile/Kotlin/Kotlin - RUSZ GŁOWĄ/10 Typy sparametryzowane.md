@@ -257,10 +257,21 @@ czyli zamiast `Vet<Cat>` będziemy mogli używa `Vet<Pet>`
 więc kod `val catContest = Contest<Cat>(Vet<Pet>())` zadziała 
 
 
-NOWY PROBLEM:
+### NOWY PROBLEM:
 `val catVet: Vet<Cat> = Vet<Pet>()` kod zostanie skompilowany, choć nie tego oczekiwaliśmy, nie chcieliśmy, aby zawsze `Vet<CaT>` akceptował obiekty `Vet<Pet>`
 
+### lokalnie kontrawarianty typ generyczny
 
+> Jak się przekonałeś, poprzedzanie parametru typu słowem kluczowym in w ramach deklaracji klasy lub interfejsu sparametryzowanego sprawia, że typ ten staje się globalnie kontrawariantny.
+> 
 
+nowa definicja `class Contest`:
+```kotlin
+class Contest<T: Pet>(var vet: Vet<in T>){}
+```
+Ta zmiana oznacza, że wciąż będziemy mogli przekazać obiekt `Vet<Pet>` do konstruktora `Contest<Cat>`:
+`val catContest = Contest<Cat>(Vet<pet>())`
+
+> Jednak kompilator nie pozwoli na przypisanie obiektu`Vet<Pet>` do zmiennej typu `Vet<Cat>`, gdyż typ określony parametrem typu `T` zastosowany w klasie Vet nie jest globalnie kontrawariantny.
 
 
