@@ -14,7 +14,7 @@
 [[8.1. Wyjątki]]
 [[9. Kolekcje]]
 [[10 Typy sparametryzowane]]
-
+[[11. Lambda i funkcje wyższego rzędu]]
 
 
 

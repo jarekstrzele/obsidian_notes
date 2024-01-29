@@ -97,6 +97,8 @@ class MyMap<K, V> {
 -------
 # inwariantny, kowariantny, kontrawariantny
 
+[[#Różne przypadki]]
+
 >[!success] inwariantny
 >typ sparametryzowany jest inwariantny, jeśli akceptuje wyłącznie referencje tego konkretnego typu
 >domyślnie typy sparametryzowane są inwariantne
@@ -106,8 +108,11 @@ class MyMap<K, V> {
 >- typ kowariantny tworzymy, poprzedzając parametr typu słowem kluczowym `out`
 
 >[!success] kontrawariantny `in`
->- typ generyc
+>- typ generyczny jest kontrawariantny, jeśli w miejscu typu pochodnego można użyć typu bazowego
+>- typ kontrawariantny tworzymy, poprzedzając parametr typu słowem kluczowym `in`
 
+[[#klasa `Retailer` i konwariantność - `out`]]
+[[#klasa `Vet` - kontrawariantny `in`]]
 
 
 
@@ -291,5 +296,42 @@ Ta zmiana oznacza, że wciąż będziemy mogli przekazać obiekt `Vet<Pet>` do k
 `val catContest = Contest<Cat>(Vet<pet>())`
 
 > Jednak kompilator nie pozwoli na przypisanie obiektu`Vet<Pet>` do zmiennej typu `Vet<Cat>`, gdyż typ określony parametrem typu `T` zastosowany w klasie Vet nie jest globalnie kontrawariantny.
+
+
+----------
+## Różne przypadki
+[[#inwariantny, kowariantny, kontrawariantny]]
+
+
+```kotlin
+class A<in T>(t: T){
+	fun myFunction(t: T) {
+	
+	}
+}
+```
+Ten kod można skompilować, gdyż w kontrawariantnej klasie `A` typ określony parametrem typu `T` może być używany jako typ parametru konstruktora lub funkcji.
+
+
+```kotlin
+class B<in T>(t: T) {
+	val x = t
+	fun myFunction(t: T) { } 
+}
+```
+Tego kodu nie uda się skompilować, gdyż typ `T` nie może być używany jako typ właściwości definiowanych przy użyciu słowa kluczowego `val`.
+
+```kotlin
+abstract class C<in T> {
+	fun myFunction(): T { }
+}
+```
+
+
+
+
+
+
+
 
 

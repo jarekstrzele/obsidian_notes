@@ -5,6 +5,14 @@
       "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/10 Typy sparametryzowane.md"
     },
     {
+      "basename": "_ 0 Kotlin Rusz Głową",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/_ 0 Kotlin Rusz Głową.md"
+    },
+    {
+      "basename": "11. Lambda i funkcje wyższego rzędu",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/11. Lambda i funkcje wyższego rzędu.md"
+    },
+    {
       "basename": "hashcode",
       "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/hashcode.md"
     },
@@ -71,10 +79,6 @@
     {
       "basename": "7 Klasy danych",
       "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/7 Klasy danych.md"
-    },
-    {
-      "basename": "_ 0 Kotlin Rusz Głową",
-      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/_ 0 Kotlin Rusz Głową.md"
     },
     {
       "basename": "_ MongoDB Complete",
@@ -195,10 +199,6 @@
     {
       "basename": "Looper",
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Looper.md"
-    },
-    {
-      "basename": "Intencja",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Intencja.md"
     }
   ],
   "omittedPaths": [],
