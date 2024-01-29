@@ -108,10 +108,42 @@ interface Retailer<T>{
 ```
 
 ```kotlin
-class CatRetailer: Retailer<Cat>{}
+class CatRetailer: Retailer<Cat>{
+	override fun sell(): Cat {
+		println("Sprzedaję kota.")
+		return Cat("")
+	}
+}
+val carR1 - CatRetailer()
+val carR2: CatRetailer = CatRetailer()
+
+
+
+class DogRetailer: Retailer<Dog>{
+	override fun sell(): Dog {
+		println("Sprzedaję psa.")
+		return Dog("")
+	}
+
+class DogRetailer: Retailer<Fish>{
+	override fun sell(): Fish {
+		println("Sprzedaję psa.")
+		return Fish("")
+	}
+}
 ```
 
+>[!tip]
+>A zatem zastosowanie typów sparametryzowanych oznacza, że możemy narzucić ograniczenia określające, jak klasa może posługiwać się swoimi typami, poprawiając przy tym spójność i niezawodność kodu
 
+### polimorfizm
+kod zadziała, bo klasy implementują interfejs `Retailer`
+```kotlin
+val dogRetailer: Retailer<Dog> = DogRetailer()
+val dogRetailer: Retailer<Dog> = DogRetailer()
+
+
+```
 
 
 
