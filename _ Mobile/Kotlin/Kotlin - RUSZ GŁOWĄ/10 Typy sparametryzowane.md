@@ -236,26 +236,29 @@ petVet.treat(Fish("Nemo")) // ok
 
 ```
 
-PROBLEM:
+### PROBLEM:
 `val catContest = Contest<Cat>(petVet)` - kompilator nie pozwoli przekazać `Vet<Pet>` do obiektu `Contest<Cat>`
 
 > W naszym przykładzie chcemy móc przekazywać do obiektu `Contest<Cat>` obiekty `Vet<Pet>`, a nie jedynie obiekty `Vet<Cat>`. 
 > Innymi słowy, chcemy móc używać typu bazowego typu określonego parametrem typu `T` w miejscu typu `T`.
 
 problem rozwiązuje słowo kluczowe  `in`:
-	- `out` pozwala  używać typu pochodnego typu okreśłonego parametrem `T` w miejscu typu bazowego  (użycie `Retailer<Cat>` choć oczewkiwano obiektu `Retailer<Pet>`)
+	- `out` pozwala  używać typu pochodnego typu określonego parametrem `T` w miejscu typu bazowego  (użycie `Retailer<Cat>` choć oczewkiwano obiektu `Retailer<Pet>`)
 	- `in` słowo kluczowe  pozwala na użycie typu bazowego w miejscu, gdzie jest oczekiwany typ pochodny.
 
 ```kotlin
 class Vet<in T: Pet>{
-
+	fun treat(t: T){
+		println("Leczę zwierzaka ${t.name}")
+	}
 }
 ```
 czyli zamiast `Vet<Cat>` będziemy mogli używa `Vet<Pet>`
 więc kod `val catContest = Contest<Cat>(Vet<Pet>())` zadziała 
 
 
-
+NOWY PROBLEM:
+`val catVet: Vet<Cat> = Vet<Pet>()` kod zostanie skompilowany, choć nie tego oczekiwaliśmy, nie chcieliśmy, aby zawsze `Vet<CaT>` akceptował obiekty `Vet<Pet>`
 
 
 
