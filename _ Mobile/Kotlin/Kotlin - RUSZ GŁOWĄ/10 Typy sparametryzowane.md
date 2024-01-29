@@ -125,13 +125,18 @@ class DogRetailer: Retailer<Dog>{
 		return Dog("")
 	}
 
-class DogRetailer: Retailer<Fish>{
+class FishRetailer: Retailer<Fish>{
 	override fun sell(): Fish {
 		println("Sprzedaję psa.")
 		return Fish("")
 	}
 }
 ```
+
+>[!danger] ważne - o `out`
+>Ogólnie rzecz biorąc, słowa kluczowego out można używać w definicjach klas
+
+i interfejsów sparametryzowanych, jeśli mają one funkcje, które zwracają typ określony parametrem typu T, lub jeśli zawierają właściwości typu T zdefiniowane z użyciem słowa kluczowego val. Słowa kluczowego out nie można jednak używać, kiedy klasa zawiera funkcje mające parametry typu określonego parametrem typu T lub jeśli zawiera ona właściwości typu T zdefiniowane z użyciem słowa kluczowego var.
 
 >[!tip]
 >A zatem zastosowanie typów sparametryzowanych oznacza, że możemy narzucić ograniczenia określające, jak klasa może posługiwać się swoimi typami, poprawiając przy tym spójność i niezawodność kodu
