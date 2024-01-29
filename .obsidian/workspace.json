@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/hashcode.md",
+                "file": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/10 Typy sparametryzowane.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,7 +91,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -173,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/8. Biblioteki wsparcia i paski aplikacji.md",
+                "file": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/10 Typy sparametryzowane.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/8. Biblioteki wsparcia i paski aplikacji.md",
+                "file": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/10 Typy sparametryzowane.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/8. Biblioteki wsparcia i paski aplikacji.md"
+                "file": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/10 Typy sparametryzowane.md"
               }
             }
           },
@@ -264,10 +265,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ad21e06f6ed0de8b",
+  "active": "de023d2decf3acec",
   "lastOpenFiles": [
-    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/_ Rusz Głową Android. Programowanie aplikacji.md",
+    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/hashcode.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/8. Biblioteki wsparcia i paski aplikacji.md",
+    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/_ Rusz Głową Android. Programowanie aplikacji.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/7. Widoki list i adaptery.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/AdapterView.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/companion object.md",
@@ -287,7 +289,6 @@
     "R U S T/Rust lang - The complete beginner's guide",
     "HASKELL/Haskell for beginners Udemy/_ Haskell for beginners.md",
     "HASKELL/Haskell for beginners Udemy",
-    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/hashcode.md",
     "_DataBase/MongoDB/MongoDB - The Complete 2023/_ MongoDB Complete.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Untitled.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/6. Układy z ograniczeniami ConstraintLayout.md",
