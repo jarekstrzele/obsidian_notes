@@ -140,10 +140,45 @@ class DogRetailer: Retailer<Fish>{
 kod zadziała, bo klasy implementują interfejs `Retailer`
 ```kotlin
 val dogRetailer: Retailer<Dog> = DogRetailer()
-val dogRetailer: Retailer<Dog> = DogRetailer()
-
-
+val catRetailer: Retailer<Cat> = CatRetailer()
 ```
+
+ten kod nie zadziała:
+```kotlin
+val petRetailer: Retaier<Pet> = CatRetailer()
+```
+
+jednak:
+> możemy zmodyfikować parametr typu w definicji interfejsu `Retailer` w taki sposób, by kontrolować, jakie typy obiektów będzie można zapisywać w zmiennej typu `Retailer<Pet>`.
+
+#### `out` typ generyczny będzie kowariantny.
+
+#kotlin/out #covariant 
+
+>[!success] kowariantny
+>Jeśłi typ sparametryzowany jest **kowariantny**, to w parametrze typo `T` będzie można używać typu pochodnego w miejscu typu bazowego.
+
+```kotlin
+interface Retailer<out T>{
+	fun sell(): T
+}
+```
+czyli
+> Wprowadzenie powyższej zmiany oznacza, że teraz w zmiennej typu `Retailer<Pet>` będziemy mogli zapisywać obiekty typu `Retailer` operujące na obiektach klas pochodnych klasy `Pet`. A zatem teraz poniższy kod uda się już skompilować:
+```kotlin
+val petRetailer: Retailer<Pet> = CatRet
+```
+
+
+
+
+
+
+
+
+
+
+
 
 
 
