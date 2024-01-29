@@ -166,11 +166,21 @@ interface Retailer<out T>{
 czyli
 > Wprowadzenie powyższej zmiany oznacza, że teraz w zmiennej typu `Retailer<Pet>` będziemy mogli zapisywać obiekty typu `Retailer` operujące na obiektach klas pochodnych klasy `Pet`. A zatem teraz poniższy kod uda się już skompilować:
 ```kotlin
-val petRetailer: Retailer<Pet> = CatRet
+val petRetailer: Retailer<Pet> = CatRetailer()
 ```
 
 
+>[!danger] ważne
+>- parametr typu poprzedzony słowem kluczowym `out` może być używany w miejscu o charakterze „wyjścia”, czyli na przykład jako typ wyniku zwracanego przez funkcję. 
+>- z drugiej strony takiego typu nie można używać w miejscu o charakterze „wejścia”; zatem funkcja nie może mieć parametrów typu kowariantnego.
 
+na przykład
+kolekcja List to `public interface List<out E> ... { ... }`
+więc możemy przypisać listę obiektów `Cat` do listy obiektów `Pet`:
+```kotlin
+val catList: List<Cat> = listOf(Cat(""), Cat(""))
+val petList: List<Pet> = catList
+```
 
 
 
