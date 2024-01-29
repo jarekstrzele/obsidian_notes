@@ -196,7 +196,7 @@ val catList: List<Cat> = listOf(Cat(""), Cat(""))
 val petList: List<Pet> = catList
 ```
 
-## klasa `Vet`
+## klasa `Vet` - kontrawariantny `in`
 
 > Weterynarze mogą specjalizować się w leczeniu konkretnych gatunków zwierząt, dlatego też utworzymy sparametryzowaną klasę `Vet` z parametrem typu `T`, która będzie dysponować funkcją `treat` pobierającą argument typu `T`. Zaznaczymy także, że `T` musi być typu `Pet`, dzięki czemu nie będziemy mogli tworzyć obiektów Vet operujących na klasach takich jak Planet lub Broccoli
 
@@ -221,6 +221,11 @@ val petVet = Vet<Pet>()
 ```
 `petVet` może operować na dowolnej klasie `Pet` lub pochodnej
 ```kotlin
+catVet.treat(Cat("Filemon")) // ok
+catVet.treat(Fish("Nemo")) // error
+
+petVet.treat(Cat("Filemon")) // ok
+petVet.treat(Fish("Nemo")) // ok
 
 ```
 
