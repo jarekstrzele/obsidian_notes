@@ -94,11 +94,22 @@ class MyMap<K, V> {
 }
 ```
 
+## retailer
+> Użyjemy teraz stworzonej wcześniej hierarchii klas Pet do przygotowania hierarchii sprzedawców, którzy będą sprzedawali poszczególne rodzaje zwierzaków. W tym celu zdefiniujemy:
+> -  interfejs `Retailer<T>` mający jedną funkcję — `sell(): T` — oraz trzy klasy konkretne implementujące ten interfejs:
+>> - `CatRetailer` i `sell(): Cat`- sprzedaje jedynie obiekty typu `Cat`,
+>> - `DogRetailer`  i `sell(): Dog`,
+>> - `FishRetailer` i `sell(): Fish`.
 
+```kotlin
+interface Retailer<T>{
+	fun sell(): T
+}
+```
 
-
-
-
+```kotlin
+class CatRetailer: Retailer<Cat>{}
+```
 
 
 
