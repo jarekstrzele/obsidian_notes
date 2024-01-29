@@ -94,6 +94,24 @@ class MyMap<K, V> {
 }
 ```
 
+-------
+# inwariantny, kowariantny, kontrawariantny
+
+>[!success] inwariantny
+>typ sparametryzowany jest inwariantny, jeśli akceptuje wyłącznie referencje tego konkretnego typu
+>domyślnie typy sparametryzowane są inwariantne
+
+>[!success] kowariantny `out`
+>- typ generyczny jest kowariantny, jeśli w miejscu typu bazowego można użyć typu pochodnego
+>- typ kowariantny tworzymy, poprzedzając parametr typu słowem kluczowym `out`
+
+>[!success] kontrawariantny `in`
+>- typ generyc
+
+
+
+
+
 ## klasa `Retailer` i konwariantność -  `out`
 
 > Użyjemy teraz stworzonej wcześniej hierarchii klas Pet do przygotowania hierarchii sprzedawców, którzy będą sprzedawali poszczególne rodzaje zwierzaków. W tym celu zdefiniujemy:
