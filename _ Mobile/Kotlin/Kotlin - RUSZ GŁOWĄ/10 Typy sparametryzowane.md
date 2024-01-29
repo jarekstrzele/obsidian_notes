@@ -252,7 +252,7 @@ class Vet<in T: Pet>{
 }
 ```
 czyli zamiast `Vet<Cat>` będziemy mogli używa `Vet<Pet>`
-
+więc kod `val catContest = Contest<Cat>(Vet<Pet>())` zadziała
 
 
 
