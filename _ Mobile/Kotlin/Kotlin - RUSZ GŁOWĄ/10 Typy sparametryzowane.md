@@ -94,7 +94,8 @@ class MyMap<K, V> {
 }
 ```
 
-## retailer
+## klasa `Retailer` i konwariantność -  `out`
+
 > Użyjemy teraz stworzonej wcześniej hierarchii klas Pet do przygotowania hierarchii sprzedawców, którzy będą sprzedawali poszczególne rodzaje zwierzaków. W tym celu zdefiniujemy:
 > -  interfejs `Retailer<T>` mający jedną funkcję — `sell(): T` — oraz trzy klasy konkretne implementujące ten interfejs:
 >> - `CatRetailer` i `sell(): Cat`- sprzedaje jedynie obiekty typu `Cat`,
@@ -134,10 +135,18 @@ class FishRetailer: Retailer<Fish>{
 ```
 
 >[!danger] ważne - o `out`
->Ogólnie rzecz biorąc, słowa kluczowego out można używać w definicjach klas
+>Ogólnie rzecz biorąc, słowa kluczowego `out` MOŻNA używać w:
+>-  definicjach klas i 
+>-  interfejsów sparametryzowanych, 
+>jeśli mają one funkcje, które:
+>> -  zwracają typ określony parametrem typu `T`, lub 
+>> - jeśli zawierają właściwości typu `T` zdefiniowane z użyciem słowa kluczowego `val`. 
+>
+>Słowa kluczowego `out`  NIE MOŻNA jednak używać, kiedy klasa zawiera funkcje:
+>- mające parametry typu określonego parametrem typu `T` lub
+>- jeśli zawiera ona właściwości typu `T` zdefiniowane z użyciem słowa kluczowego `var`.
 
-i interfejsów sparametryzowanych, jeśli mają one funkcje, które zwracają typ określony parametrem typu T, lub jeśli zawierają właściwości typu T zdefiniowane z użyciem słowa kluczowego val. Słowa kluczowego out nie można jednak używać, kiedy klasa zawiera funkcje mające parametry typu określonego parametrem typu T lub jeśli zawiera ona właściwości typu T zdefiniowane z użyciem słowa kluczowego var.
-
+to samo ale przystępniej:
 >[!tip]
 >A zatem zastosowanie typów sparametryzowanych oznacza, że możemy narzucić ograniczenia określające, jak klasa może posługiwać się swoimi typami, poprawiając przy tym spójność i niezawodność kodu
 
@@ -187,10 +196,23 @@ val catList: List<Cat> = listOf(Cat(""), Cat(""))
 val petList: List<Pet> = catList
 ```
 
+## klasa `Vet`
 
+> Weterynarze mogą specjalizować się w leczeniu konkretnych gatunków zwierząt, dlatego też utworzymy sparametryzowaną klasę `Vet` z parametrem typu `T`, która będzie dysponować funkcją `treat` pobierającą argument typu `T`. Zaznaczymy także, że `T` musi być typu `Pet`, dzięki czemu nie będziemy mogli tworzyć obiektów Vet operujących na klasach takich jak Planet lub Broccoli
 
+```kotlin
+class Vet<T: Pet>{
+	fun treat(t:T){
+		println("Leczę zwierzaka ${t.name}.")
+	}
+}
+```
 
-
+zmiany:
+```kotlin
+class Contest<T: Pet>(var vet: Vet<T>) { .... }
+```
+Do konstruktora klasy `Contest` dodajemy `Vet<T>`, dzięki czemu nie będzie możliwe utworzenie konkursu bez przypisania do niego weterynarza.
 
 
 
