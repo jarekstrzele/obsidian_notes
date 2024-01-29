@@ -214,9 +214,15 @@ class Contest<T: Pet>(var vet: Vet<T>) { .... }
 ```
 Do konstruktora klasy `Contest` dodajemy `Vet<T>`, dzięki czemu nie będzie możliwe utworzenie konkursu bez przypisania do niego weterynarza.
 
+```kotlin
+val catVet = Vet<Cat>()
+val fishVet = Vet<Fish<()
+val petVet = Vet<Pet>()
+```
+`petVet` może operować na dowolnej klasie `Pet` lub pochodnej
+```kotlin
 
-
-
+```
 
 
 
