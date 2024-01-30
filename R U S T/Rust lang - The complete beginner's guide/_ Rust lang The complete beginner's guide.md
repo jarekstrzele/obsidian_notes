@@ -69,7 +69,20 @@ fn main() {
 ```
 
 
+# comments
+```rust
+// a line comment
 
+/*
+mutliline comment
+*/
+
+/// doc comment
+
+//! to document crates
+
+//! # main heading 
+```
 
 
 
