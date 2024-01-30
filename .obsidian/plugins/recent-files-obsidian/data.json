@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "8.2. Nawigacja w górę",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/8.2. Nawigacja w górę.md"
+      "basename": "8.1.2. Dostawcy akcji",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/8.1.2. Dostawcy akcji.md"
+    },
+    {
+      "basename": "8.1.1. Nawigacja w górę",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/8.1.1. Nawigacja w górę.md"
     },
     {
       "basename": "_ Rusz Głową Android. Programowanie aplikacji",
@@ -195,10 +199,6 @@
     {
       "basename": "Bundle",
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Bundle.md"
-    },
-    {
-      "basename": "Runnable",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Runnable.md"
     }
   ],
   "omittedPaths": [],
