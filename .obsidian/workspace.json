@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/8.1. Toolbar i Menu.md",
+                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/8.2. Nawigacja w górę.md",
                 "mode": "source",
                 "source": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/8.1. Toolbar i Menu.md",
+                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/8.2. Nawigacja w górę.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/8.1. Toolbar i Menu.md",
+                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/8.2. Nawigacja w górę.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/8.1. Toolbar i Menu.md"
+                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/8.2. Nawigacja w górę.md"
               }
             }
           },
@@ -242,14 +242,15 @@
   },
   "active": "ad21e06f6ed0de8b",
   "lastOpenFiles": [
-    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/8. Biblioteki wsparcia i paski aplikacji.md",
+    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/_ Rusz Głową Android. Programowanie aplikacji.md",
+    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/8.2. Nawigacja w górę.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/8.1. Toolbar i Menu.md",
+    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/8. Biblioteki wsparcia i paski aplikacji.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4. Cykl życia aktywnośći.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/11. Lambda i funkcje wyższego rzędu.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/10 Typy sparametryzowane.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/_ 0 Kotlin Rusz Głową.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/hashcode.md",
-    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/_ Rusz Głową Android. Programowanie aplikacji.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/7. Widoki list i adaptery.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/AdapterView.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/companion object.md",
@@ -269,7 +270,6 @@
     "_DataBase/MongoDB/MongoDB - The Complete 2023/_ MongoDB Complete.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Untitled.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/6. Układy z ograniczeniami ConstraintLayout.md",
-    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5. Widoki i grupy widoków.md",
     "Pasted image 20240115122731.png",
     "Pasted image 20240115085344.png",
     "Pasted image 20240115085044.png",

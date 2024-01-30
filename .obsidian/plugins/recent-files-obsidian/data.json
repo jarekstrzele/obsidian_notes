@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "8.2. Nawigacja w górę",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/8.2. Nawigacja w górę.md"
+    },
+    {
+      "basename": "_ Rusz Głową Android. Programowanie aplikacji",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/_ Rusz Głową Android. Programowanie aplikacji.md"
+    },
+    {
       "basename": "8.1. Toolbar i Menu",
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/8.1. Toolbar i Menu.md"
     },
@@ -27,10 +35,6 @@
     {
       "basename": "hashcode",
       "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/hashcode.md"
-    },
-    {
-      "basename": "_ Rusz Głową Android. Programowanie aplikacji",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/_ Rusz Głową Android. Programowanie aplikacji.md"
     },
     {
       "basename": "7. Widoki list i adaptery",
@@ -195,10 +199,6 @@
     {
       "basename": "Runnable",
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Runnable.md"
-    },
-    {
-      "basename": "object",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/object.md"
     }
   ],
   "omittedPaths": [],
