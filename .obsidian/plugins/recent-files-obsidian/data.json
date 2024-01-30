@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "8.1. Toolbar i Menu",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/8.1. Toolbar i Menu.md"
+    },
+    {
       "basename": "8. Biblioteki wsparcia i paski aplikacji",
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/8. Biblioteki wsparcia i paski aplikacji.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "object",
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/object.md"
-    },
-    {
-      "basename": "Looper",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Looper.md"
     }
   ],
   "omittedPaths": [],
