@@ -8,60 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ad21e06f6ed0de8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/9. Fragmenty.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d76215dd5ceb9255",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "R U S T/Rust lang - The complete beginner's guide/_ Rust lang The complete beginner's guide.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "de023d2decf3acec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/11. Lambda i funkcje wyższego rzędu.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7ca9892ae7f3deae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4. Cykl życia aktywnośći.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "58928608acebcdca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MIME TYPE.md",
+                "file": "R U S T/Rust lang - The complete beginner's guide/_ Rust lang The complete beginner's guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -149,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/9. Fragmenty.md",
+                "file": "R U S T/Rust lang - The complete beginner's guide/_ Rust lang The complete beginner's guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/9. Fragmenty.md",
+                "file": "R U S T/Rust lang - The complete beginner's guide/_ Rust lang The complete beginner's guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/9. Fragmenty.md"
+                "file": "R U S T/Rust lang - The complete beginner's guide/_ Rust lang The complete beginner's guide.md"
               }
             }
           },
@@ -240,16 +192,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ad21e06f6ed0de8b",
+  "active": "58928608acebcdca",
   "lastOpenFiles": [
-    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/8.1.2. Dostawcy akcji.md",
+    "R U S T/1 - Full Rust Beginner s Course/1 Variables.md",
+    "R U S T/1 - Full Rust Beginner s Course/_ Full Rust Beginners Cours.md",
+    "MIME TYPE.md",
+    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4. Cykl życia aktywnośći.md",
+    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/11. Lambda i funkcje wyższego rzędu.md",
+    "R U S T/Rust lang - The complete beginner's guide/_ Rust lang The complete beginner's guide.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/9. Fragmenty.md",
+    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/8.1.2. Dostawcy akcji.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/8.1.1. Nawigacja w górę.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/_ Rusz Głową Android. Programowanie aplikacji.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/8.1. Toolbar i Menu.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/8. Biblioteki wsparcia i paski aplikacji.md",
-    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4. Cykl życia aktywnośći.md",
-    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/11. Lambda i funkcje wyższego rzędu.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/10 Typy sparametryzowane.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/_ 0 Kotlin Rusz Głową.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/hashcode.md",
@@ -257,8 +213,6 @@
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/AdapterView.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/companion object.md",
     "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md",
-    "R U S T/Rust lang - The complete beginner's guide/_ Rust lang The complete beginner's guide.md",
-    "MIME TYPE.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/9. Kolekcje.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/8.1. Wyjątki.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/8. Wartość `null` i  wyjątki.md",
@@ -267,9 +221,7 @@
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/6.2. Interfejsy.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/7 Klasy danych.md",
     "R U S T/Rust lang - The complete beginner's guide",
-    "HASKELL/Haskell for beginners Udemy/_ Haskell for beginners.md",
     "HASKELL/Haskell for beginners Udemy",
-    "_DataBase/MongoDB/MongoDB - The Complete 2023/_ MongoDB Complete.md",
     "Pasted image 20240115122731.png",
     "Pasted image 20240115085344.png",
     "Pasted image 20240115085044.png",

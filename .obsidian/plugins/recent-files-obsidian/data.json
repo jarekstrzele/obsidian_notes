@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "_ Rust lang The complete beginner's guide",
+      "path": "R U S T/Rust lang - The complete beginner's guide/_ Rust lang The complete beginner's guide.md"
+    },
+    {
+      "basename": "1 Variables",
+      "path": "R U S T/1 - Full Rust Beginner s Course/1 Variables.md"
+    },
+    {
+      "basename": "_ Full Rust Beginners Cours",
+      "path": "R U S T/1 - Full Rust Beginner s Course/_ Full Rust Beginners Cours.md"
+    },
+    {
+      "basename": "MIME TYPE",
+      "path": "MIME TYPE.md"
+    },
+    {
+      "basename": "4. Cykl życia aktywnośći",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4. Cykl życia aktywnośći.md"
+    },
+    {
+      "basename": "11. Lambda i funkcje wyższego rzędu",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/11. Lambda i funkcje wyższego rzędu.md"
+    },
+    {
       "basename": "9. Fragmenty",
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/9. Fragmenty.md"
     },
@@ -23,14 +47,6 @@
     {
       "basename": "8. Biblioteki wsparcia i paski aplikacji",
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/8. Biblioteki wsparcia i paski aplikacji.md"
-    },
-    {
-      "basename": "4. Cykl życia aktywnośći",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4. Cykl życia aktywnośći.md"
-    },
-    {
-      "basename": "11. Lambda i funkcje wyższego rzędu",
-      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/11. Lambda i funkcje wyższego rzędu.md"
     },
     {
       "basename": "10 Typy sparametryzowane",
@@ -59,14 +75,6 @@
     {
       "basename": "MongoDB Installation on Sys, on Docker",
       "path": "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md"
-    },
-    {
-      "basename": "_ Rust lang The complete beginner's guide",
-      "path": "R U S T/Rust lang - The complete beginner's guide/_ Rust lang The complete beginner's guide.md"
-    },
-    {
-      "basename": "MIME TYPE",
-      "path": "MIME TYPE.md"
     },
     {
       "basename": "9. Kolekcje",
@@ -191,14 +199,6 @@
     {
       "basename": "4.0. Przewodnik po metodach cyklu życia",
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4.0. Przewodnik po metodach cyklu życia.md"
-    },
-    {
-      "basename": "4.2. Druga wersja Stopera - aplikacja zniszczona i utworzona",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4.2. Druga wersja Stopera - aplikacja zniszczona i utworzona.md"
-    },
-    {
-      "basename": "4.1. Pierwsza wersja stopera",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4.1. Pierwsza wersja stopera.md"
     }
   ],
   "omittedPaths": [],

@@ -59,19 +59,12 @@ fn main() {
     Ok(_) => {
 
         println!("You say {}", input)
-
-  
-
     },
 
     Err(e) => {
-
         println!("Something went wrond {}", e)
-
     }
-
    }
-
 }
 ```
 
