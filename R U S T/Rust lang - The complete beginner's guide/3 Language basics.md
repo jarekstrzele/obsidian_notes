@@ -27,12 +27,43 @@ let mut length = 34 ;
 length = 35 ;
 ```
 
-
-##### shadowing is allowed
+###### shadowing is allowed
 ```rust
 let color = "blue" ;
-let color = "r"
+let color = "red" ;
+println!("Color is {}", color) ; // --> red
+
+// event that:
+let color: !32 = 86 ;
+let color: $str = "blue"
 ```
+
+##### declaring multiple variables simultaneously
+```rust
+let (a,b,c) = (2,3,4) ;
+```
+
+---
+# scalar data types
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
