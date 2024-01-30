@@ -96,24 +96,25 @@ mutliline comment
 # Printing value
 
 ```rust
-println!("HEllo, world!")
+println!("HEllo, world!");
 
 // formating
-println!("My name id {}  snf I'm {} years old", "Alex", 29)
+println!("My name id {}  snf I'm {} years old", "Alex", 29);
 
 //expressions
-println!("a+b={}", 4+5)
+println!("a+b={}", 4+5);
 
 //positional arguments
-println!("{0} position {2}  position {0} and {1}", "Alex_0", "cat_1", "dog_2")
+println!("{0} position {2}  position {0} and {1}", "Alex_0", "cat_1", "dog_2");
 
 //named arguments
-println!("{name}, {surname}", surname="Smith", name="Alex")
+println!("{name}, {surname}", surname="Smith", name="Alex");
 
 // printing traits
-println!("binary: {:b}, hex: {:x}, octal: {:o}" , 5, 5, 5)
+println!("binary: {:b}, hex: {:x}, octal: {:o}" , 5, 5, 5);
 
-//degub 
+//debug - we can't print complex structures
+println!("Array {:?}", [1,2,3]);
 
 ```
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Rust lang - The complete beginner's guide/_ Rust lang The complete beginner's guide.md",
+                "file": "R U S T/Rust lang - The complete beginner's guide/3 Language basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust lang - The complete beginner's guide/_ Rust lang The complete beginner's guide.md",
+                "file": "R U S T/Rust lang - The complete beginner's guide/3 Language basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust lang - The complete beginner's guide/_ Rust lang The complete beginner's guide.md",
+                "file": "R U S T/Rust lang - The complete beginner's guide/3 Language basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Rust lang - The complete beginner's guide/_ Rust lang The complete beginner's guide.md"
+                "file": "R U S T/Rust lang - The complete beginner's guide/3 Language basics.md"
               }
             }
           },
@@ -194,12 +194,13 @@
   },
   "active": "58928608acebcdca",
   "lastOpenFiles": [
+    "R U S T/Rust lang - The complete beginner's guide/_ Rust lang The complete beginner's guide.md",
+    "R U S T/Rust lang - The complete beginner's guide/3 Language basics.md",
     "R U S T/1 - Full Rust Beginner s Course/1 Variables.md",
     "R U S T/1 - Full Rust Beginner s Course/_ Full Rust Beginners Cours.md",
     "MIME TYPE.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4. Cykl życia aktywnośći.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/11. Lambda i funkcje wyższego rzędu.md",
-    "R U S T/Rust lang - The complete beginner's guide/_ Rust lang The complete beginner's guide.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/9. Fragmenty.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/8.1.2. Dostawcy akcji.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/8.1.1. Nawigacja w górę.md",
@@ -219,7 +220,6 @@
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/7.1. Klasa danych `data class`.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/7.0. Wprowadzenie do  klas danych.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/6.2. Interfejsy.md",
-    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/7 Klasy danych.md",
     "R U S T/Rust lang - The complete beginner's guide",
     "HASKELL/Haskell for beginners Udemy",
     "Pasted image 20240115122731.png",
