@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "`Context`",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/`Context`.md"
+    },
+    {
       "basename": "9. Fragmenty",
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/9. Fragmenty.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "4.1. Układy i komponenty GUI dziedziczą po `View`",
       "path": "4.1. Układy i komponenty GUI dziedziczą po `View`.md"
-    },
-    {
-      "basename": "4.3 trzecia wersja - aplikacja częściowo widoczna",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4.3 trzecia wersja - aplikacja częściowo widoczna.md"
     }
   ],
   "omittedPaths": [],
