@@ -70,17 +70,42 @@ type casting:
 -------
 # Strings
 
+## string slices are immutable
+```rust
+let cat: &str = "Fluffy" ;
+let cat1: &'static str = "fluffy" ; // static  means it lives in the context of the function Or other code where it is calling that function
+println!("{}", cat1) ;
+
+```
+
+>[!tip] lifetime
+>It is basically an indicator of how long this particular variable will live in our program.
+
+## string objects are mutable
+```rust
+let dog = String::new();
+let mut dog = String::from("Rufus") ;
+
+```
 
 
+## `format!`
+```rust
+format!("Hi {} how are you", "Max") ; // it builds a Stirng
 
+```
 
+## `len`
+```rust
+dog.len() ;
+```
 
+## push & push_str
+```rust
+dog.push(' '); // only one character
+dog.push_str("the dog") ; // many character
 
-
-
-
-
-
+```
 
 
 
