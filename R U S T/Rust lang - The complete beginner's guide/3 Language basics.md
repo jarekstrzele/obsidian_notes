@@ -128,7 +128,30 @@ Declaration of a type is necessary
 `&  |   ^  <<   >>>`
 
 # Functions
+```rust
+fn main(){
+	for i in 1..6{
+		say_hi() ;
+	}
 
+	let mut name = "John";
+	hi_borrow(name) ;
+	println("{}", name) ;
+	
+
+}
+
+
+fn say_hi(){
+	println!("Hello");
+}
+
+// passing by value - BORROWING
+fn hi_borrow(name: &str){
+	println!("Hello {}", name) ;
+}
+
+```
 
 
 
