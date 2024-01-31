@@ -29,8 +29,21 @@ fn main() {
 }
 ```
 
+## Module inside the file `mod`
+```rust
+mod player ;
 
+fn main(){
+	player::play_movie("some movie") ;
+	clean::perform_clean() ;
+}
 
+mod clean {
+	pub fn perform_clean(){
+		println("Cleaning hdd") ;
+	}
+}
+```
 
 
 
