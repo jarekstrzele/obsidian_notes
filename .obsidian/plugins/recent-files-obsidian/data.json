@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "4 Modules and Crates",
+      "path": "R U S T/Rust lang - The complete beginner's guide/4 Modules and Crates.md"
+    },
+    {
       "basename": "3 Language basics",
       "path": "R U S T/Rust lang - The complete beginner's guide/3 Language basics.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "3 Podstawy tworzenia aplikacji",
       "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md"
-    },
-    {
-      "basename": "5.2.1 komponenty razem w kodzie",
-      "path": "5.2.1 komponenty razem w kodzie.md"
     }
   ],
   "omittedPaths": [],

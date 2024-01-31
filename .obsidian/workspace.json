@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Rust lang - The complete beginner's guide/3 Language basics.md",
+                "file": "R U S T/Rust lang - The complete beginner's guide/4 Modules and Crates.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust lang - The complete beginner's guide/3 Language basics.md",
+                "file": "R U S T/Rust lang - The complete beginner's guide/4 Modules and Crates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust lang - The complete beginner's guide/3 Language basics.md",
+                "file": "R U S T/Rust lang - The complete beginner's guide/4 Modules and Crates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Rust lang - The complete beginner's guide/3 Language basics.md"
+                "file": "R U S T/Rust lang - The complete beginner's guide/4 Modules and Crates.md"
               }
             }
           },
@@ -218,11 +218,12 @@
   },
   "active": "58928608acebcdca",
   "lastOpenFiles": [
+    "R U S T/Rust lang - The complete beginner's guide/3 Language basics.md",
+    "R U S T/Rust lang - The complete beginner's guide/4 Modules and Crates.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/9.2. Fragment list.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/9.1. Fragmant blank.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/9. Fragmenty.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/_ Rusz Głową Android. Programowanie aplikacji.md",
-    "R U S T/Rust lang - The complete beginner's guide/3 Language basics.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Context.md",
     "P Y T H O N/Lear_Build_Flask/Context.md",
     "Pasted image 20240131102422.png",
@@ -245,7 +246,6 @@
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/companion object.md",
     "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/9. Kolekcje.md",
-    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/8.1. Wyjątki.md",
     "R U S T/Rust lang - The complete beginner's guide",
     "HASKELL/Haskell for beginners Udemy",
     "Pasted image 20240115122731.png",

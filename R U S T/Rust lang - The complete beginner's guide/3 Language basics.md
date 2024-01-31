@@ -137,7 +137,9 @@ fn main(){
 	let mut name = "John";
 	hi_borrow(name) ;
 	println("{}", name) ;
-	
+
+	hi_reference(&mut name) ;
+	println("{}", name) ; // Alex
 
 }
 
@@ -151,12 +153,33 @@ fn hi_borrow(name: &str){
 	println!("Hello {}", name) ;
 }
 
+// pass by reference - we pass an actual variable
+// so we can modify the value inside our function
+fn hi_reference(name: &mut &str){
+	
+	println!("Hello {}", name) ;
+	*name = "Alex" ;
+}
+
 ```
 
 
+RETURN VALUE
+```rust
+fn main(){
+	let mut name: &str = "John" ;
+	let greeting: String = say_hello(&mut name) ;
+	println!("{}", greeting) ;
 
+}
 
+fn say_hello(name: &mut &str) -> String{
+	let greeting = format!("Hellow{}", name) ;
 
+	//return greeting;
+	greeting 
+}
+```
 
 
 
