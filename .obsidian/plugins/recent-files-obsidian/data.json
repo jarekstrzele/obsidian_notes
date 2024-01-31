@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "`Context`",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/`Context`.md"
-    },
-    {
       "basename": "9. Fragmenty",
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/9. Fragmenty.md"
+    },
+    {
+      "basename": "Context",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Context.md"
+    },
+    {
+      "basename": "Context",
+      "path": "P Y T H O N/Lear_Build_Flask/Context.md"
     },
     {
       "basename": "3 Language basics",
@@ -117,10 +121,6 @@
       "path": "_DataBase/MongoDB/MongoDB - The Complete 2023/_ MongoDB Complete.md"
     },
     {
-      "basename": "Untitled",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Untitled.md"
-    },
-    {
       "basename": "6. Układy z ograniczeniami ConstraintLayout",
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/6. Układy z ograniczeniami ConstraintLayout.md"
     },
@@ -195,10 +195,6 @@
     {
       "basename": "10.24 DataGrid",
       "path": "_ Desktop/WPF/od Podstaw do app w WPF/10.24 DataGrid.md"
-    },
-    {
-      "basename": "4.1. Układy i komponenty GUI dziedziczą po `View`",
-      "path": "4.1. Układy i komponenty GUI dziedziczą po `View`.md"
     }
   ],
   "omittedPaths": [],

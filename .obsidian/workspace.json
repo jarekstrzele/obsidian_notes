@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/`Context`.md",
+                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/9. Fragmenty.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/`Context`.md",
+                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/9. Fragmenty.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/`Context`.md",
+                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/9. Fragmenty.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/`Context`.md"
+                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/9. Fragmenty.md"
               }
             }
           },
@@ -205,10 +205,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0a2e7372e5181344",
+  "active": "04bc47a26b7598a7",
   "lastOpenFiles": [
+    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Context.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/9. Fragmenty.md",
-    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/`Context`.md",
+    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Untitled.md",
+    "P Y T H O N/Lear_Build_Flask/Context.md",
     "Pasted image 20240131102422.png",
     "Pasted image 20240131091457.png",
     "R U S T/Rust lang - The complete beginner's guide/3 Language basics.md",
@@ -233,8 +235,6 @@
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/9. Kolekcje.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/8.1. Wyjątki.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/8. Wartość `null` i  wyjątki.md",
-    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/7.1. Klasa danych `data class`.md",
-    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/7.0. Wprowadzenie do  klas danych.md",
     "R U S T/Rust lang - The complete beginner's guide",
     "HASKELL/Haskell for beginners Udemy",
     "Pasted image 20240115122731.png",

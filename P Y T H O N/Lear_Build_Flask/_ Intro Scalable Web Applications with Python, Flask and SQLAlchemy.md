@@ -10,7 +10,7 @@
 [[Jinja 2]]
 [[PostgreSQL]]
 [[P Y T H O N/Lear_Build_Flask/Git]]
-[[Context]]
+[[P Y T H O N/Lear_Build_Flask/Context]]
 [[scalable architecture]]
 [[Databases models]]
 [[Bootstrap and flask]]
