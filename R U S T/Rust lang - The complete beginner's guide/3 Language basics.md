@@ -46,6 +46,41 @@ let (a,b,c) = (2,3,4) ;
 ---
 # scalar data types
 
+## integer
+`i` signed - `8 16 32 64 128`
+`u` unsiged = `8 16 32 64 128`
+`isize` and `usize` size of integer depending on the size that the machine has
+
+## float
+`f32`, `f64`
+
+type casting:
+- `let pi: f32 = 4  ; // mismatched types error `
+- `let pi: f32 = 4.0  ; // ok `
+
+`let million: i32 = 1_000_000 ; // ok`
+
+## Boolean
+`true`, `false`
+
+
+## character
+`let char: char = 'A' ;`
+
+-------
+# Strings
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
