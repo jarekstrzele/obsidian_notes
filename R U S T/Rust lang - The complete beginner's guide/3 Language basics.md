@@ -100,14 +100,14 @@ format!("Hi {} how are you", "Max") ; // it builds a Stirng
 dog.len() ;
 ```
 
-## push & push_str
+## `push` & `push_str`
 ```rust
 dog.push(' '); // only one character
 dog.push_str("the dog") ; // many character
 
 ```
 
-
+## `.replace(var,var2)`
 
 
 
