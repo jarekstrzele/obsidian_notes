@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "9.2. Fragment list",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/9.2. Fragment list.md"
+    },
+    {
       "basename": "9. Fragmenty",
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/9. Fragmenty.md"
+    },
+    {
+      "basename": "9.1. Fragmant blank",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/9.1. Fragmant blank.md"
+    },
+    {
+      "basename": "_ Rusz Głową Android. Programowanie aplikacji",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/_ Rusz Głową Android. Programowanie aplikacji.md"
     },
     {
       "basename": "3 Language basics",
@@ -47,10 +59,6 @@
     {
       "basename": "8.1.1. Nawigacja w górę",
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/8.1.1. Nawigacja w górę.md"
-    },
-    {
-      "basename": "_ Rusz Głową Android. Programowanie aplikacji",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/_ Rusz Głową Android. Programowanie aplikacji.md"
     },
     {
       "basename": "8.1. Toolbar i Menu",
@@ -191,10 +199,6 @@
     {
       "basename": "5.2.1 komponenty razem w kodzie",
       "path": "5.2.1 komponenty razem w kodzie.md"
-    },
-    {
-      "basename": "10.24 DataGrid",
-      "path": "_ Desktop/WPF/od Podstaw do app w WPF/10.24 DataGrid.md"
     }
   ],
   "omittedPaths": [],
