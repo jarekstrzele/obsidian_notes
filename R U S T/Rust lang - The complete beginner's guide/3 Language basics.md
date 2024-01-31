@@ -110,13 +110,24 @@ dog.push_str("the dog") ; // many character
 ## `.replace(var,var2)`
 
 
+# constant
+```rust
+const URL: $str = "google.com"
+```
+Declaration of a type is necessary
 
 
+# Operators
+`+ - * / %`
+`++  --`
 
+`>     >=     <     <=     ==   !`
 
+`&&   ||     ! `
 
+`&  |   ^  <<   >>>`
 
-
+# Functions
 
 
 
