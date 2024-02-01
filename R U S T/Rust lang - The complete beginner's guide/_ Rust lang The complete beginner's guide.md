@@ -2,8 +2,8 @@
 
 --------
 [[3 Language basics]]
-
-
+[[4 Modules and Crates]]
+[[5. Data types]]
 
 
 -----

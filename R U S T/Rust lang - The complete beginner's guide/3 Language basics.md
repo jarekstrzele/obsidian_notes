@@ -1,4 +1,4 @@
-
+[[_ Rust lang The complete beginner's guide]]
 
 # variables
 #rust/variable

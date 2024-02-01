@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Rust lang - The complete beginner's guide/_ Rust lang The complete beginner's guide.md",
+                "file": "R U S T/Rust lang - The complete beginner's guide/5. Data types.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust lang - The complete beginner's guide/_ Rust lang The complete beginner's guide.md",
+                "file": "R U S T/Rust lang - The complete beginner's guide/5. Data types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust lang - The complete beginner's guide/_ Rust lang The complete beginner's guide.md",
+                "file": "R U S T/Rust lang - The complete beginner's guide/5. Data types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Rust lang - The complete beginner's guide/_ Rust lang The complete beginner's guide.md"
+                "file": "R U S T/Rust lang - The complete beginner's guide/5. Data types.md"
               }
             }
           },
@@ -218,9 +218,10 @@
   },
   "active": "58928608acebcdca",
   "lastOpenFiles": [
-    "R U S T/Rust lang - The complete beginner's guide/5. Data types.md",
+    "R U S T/Rust lang - The complete beginner's guide/_ Rust lang The complete beginner's guide.md",
     "R U S T/Rust lang - The complete beginner's guide/4 Modules and Crates.md",
     "R U S T/Rust lang - The complete beginner's guide/3 Language basics.md",
+    "R U S T/Rust lang - The complete beginner's guide/5. Data types.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/9.2. Fragment list.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/9.1. Fragmant blank.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/9. Fragmenty.md",
@@ -229,7 +230,6 @@
     "P Y T H O N/Lear_Build_Flask/Context.md",
     "Pasted image 20240131102422.png",
     "Pasted image 20240131091457.png",
-    "R U S T/Rust lang - The complete beginner's guide/_ Rust lang The complete beginner's guide.md",
     "R U S T/1 - Full Rust Beginner s Course/1 Variables.md",
     "R U S T/1 - Full Rust Beginner s Course/_ Full Rust Beginners Cours.md",
     "MIME TYPE.md",
