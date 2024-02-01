@@ -103,4 +103,43 @@ rand = "0.8.5"
 rebuild the project `cargo build`
 
 
+---
+W języku Rust, instrukcje `use`, `mod` i `crate` służą do organizacji i zarządzania modułami, co pomaga w strukturyzowaniu kodu i kontrolowaniu dostępu do różnych części projektu.
+
+1. **`use`:**    
+    - `use` jest używane do importowania symboli (funkcji, struktur, typów, etc.) z innego modułu do bieżącego zakresu.
+    - Przykład:
+	    - `use crate::some_module::some_function;`
+	    - Ta instrukcja umożliwia użycie `some_function` bez konieczności używania pełnej ścieżki do niego.
+    
+2. **`mod`:**    
+    - `mod` jest używane do definiowania nowego modułu wewnątrz pliku lub w innym pliku.
+    - Przykład:
+	    - `mod some_module;`
+	    - Ta instrukcja informuje kompilator, że w danym pliku istnieje moduł o nazwie `some_module`, który może zawierać różne elementy kodu.
+
+3. **`crate`:**
+    
+    - `crate` odnosi się do korzenia projektu Rust, czyli do samego programu lub biblioteki.
+    - Przykład: `use crate::some_module::some_function;`
+    - W tym kontekście `crate` jest używane, aby wskazać, że `some_module` znajduje się bezpośrednio w projekcie, nie w jakimś zagnieżdżonym module.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
