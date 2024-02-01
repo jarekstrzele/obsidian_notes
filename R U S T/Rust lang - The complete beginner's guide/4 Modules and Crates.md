@@ -101,7 +101,18 @@ external crate are imported into the project must be added to the `toml` file
 rand = "0.8.5"
 ```
 rebuild the project `cargo build`
+```rust
+use rand::Rng ;
 
+// to import mutliple element use rand::{Rng, other} ;
+ 
+
+fn main() {
+    let mut rng = rand::thread_rng() ;
+    let n: i32 = rng.gen() ;
+    println!("{}", n) ;
+}
+```
 
 ---
 W języku Rust, instrukcje `use`, `mod` i `crate` służą do organizacji i zarządzania modułami, co pomaga w strukturyzowaniu kodu i kontrolowaniu dostępu do różnych części projektu.
@@ -124,9 +135,46 @@ W języku Rust, instrukcje `use`, `mod` i `crate` służą do organizacji i zarz
     - W tym kontekście `crate` jest używane, aby wskazać, że `some_module` znajduje się bezpośrednio w projekcie, nie w jakimś zagnieżdżonym module.
 
 
+------
+# Random
+## generate an integer
+```rust
+use rang::Rng ;
+let mut rng = rand:thread_rng();
+rng.gen() ;
+```
 
 
+## bounded generation
+```rust
+rng.gen_range(0,10) ;
+```
 
+```rust
+  
+
+use rand::Rng ;
+
+  
+
+fn main() {
+
+    // generator liczb losowych
+
+    let mut rng = rand::thread_rng();
+
+    let i: i32= rng.gen();
+
+    println!("{}",i) ;
+
+  
+
+    println!("boubded int: {}", rng.gen_range(0..100)) ;
+
+    println!("bounded float {}", rng.gen_range(0.0..100.0)) ;
+
+}
+```
 
 
 
