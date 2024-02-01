@@ -65,9 +65,19 @@ Two types:
 `cargo` is used to manage crates
 
 
+new file `archive.rs`
+```rust
+pub mod arch {
+    pub fn arch_file(name: &str){
+        println("Archiving file {}", name) ;
+    }
+}
+```
 
+in the `main.rs`
+```rust
 
-
+```
 
 
 
