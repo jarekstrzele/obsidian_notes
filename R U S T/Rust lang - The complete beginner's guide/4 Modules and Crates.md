@@ -92,9 +92,15 @@ fn main() {
 > W języku programowania Rust, instrukcje `mod` służą do definiowania modułów, czyli logicznych jednostek strukturalnych organizujących kod. W twoim kodzie masz instrukcję `mod archive;`, co oznacza, że importujesz moduł o nazwie "archive".
 
 
+## import external crates
 
+external crate are imported into the project must be added to the `toml` file
 
-
+```toml
+[dependencies]
+rand = "0.8.5"
+```
+rebuild the project `cargo build`
 
 
 
