@@ -76,12 +76,20 @@ pub mod arch {
 
 in the `main.rs`
 ```rust
+//use crate::archive::arch::arch_file;
+use crate::archive::arch::arch_file as arc; // with alias
 
+mod archive ;
+
+fn main() {
+   // arch_file("somefile.txt") ;
+   arc("some file") ;
+}
 ```
 
+> W Rust, używanie instrukcji `use crate::some_module;` umożliwia dostęp do elementów modułu `some_module` w danym kontekście, ale nie powoduje automatycznego importu całego modułu ani nie wprowadza wszystkich jego elementów do bieżącego zakresu.
 
-
-
+> W języku programowania Rust, instrukcje `mod` służą do definiowania modułów, czyli logicznych jednostek strukturalnych organizujących kod. W twoim kodzie masz instrukcję `mod archive;`, co oznacza, że importujesz moduł o nazwie "archive".
 
 
 
