@@ -46,6 +46,26 @@ mod clean {
 ```
 
 
+----------
+# Crates
+#rust/crate 
+>[!definition] crates
+>- They are an abstraction on top of modules.
+>- it is the way we structure multiple modules together inside one unit that we can perform some action
+
+
+Multiple modules are grouped into a crate.
+Two types:
+- **binary crates*
+	- when you create a new project, you get a new crate and the main component of a binary crate is that has a `main` function (it is an entry point)
+- **library crates**
+	- it does not have an entry point for the functionality
+	- it simply provides functionality for other crates.
+
+`cargo` is used to manage crates
+
+
+
 
 
 
