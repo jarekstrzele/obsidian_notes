@@ -151,11 +151,7 @@ rng.gen_range(0,10) ;
 ```
 
 ```rust
-  
-
 use rand::Rng ;
-
-  
 
 fn main() {
 
@@ -177,7 +173,23 @@ fn main() {
 ```
 
 
+## random string
+```rust
+use rand::distributions::Alphanumeric; // allow to generate the text
 
+use rand::{thread_rng,Rng};
+  
+
+fn main() {
+    let rand_string: String = thread_rng() //Tworzy generator liczb losowych dostępny dla bieżącego wątku.
+        .sample_iter(&Alphanumeric) //Tworzy iterator, który generuje losowe wartości typu Alphanumeric.
+        .map(char::from) //Konwertuje każdą wygenerowaną wartość na znak (char).
+        .take(30) //Ogranicza iterator do 30 elementów, co oznacza, że będziemy mieć 30 losowych znaków.
+        .collect(); //Konwertuje iterator na `String`.
+
+println!("Gen string: {}", rand_string) ;
+}
+```
 
 
 

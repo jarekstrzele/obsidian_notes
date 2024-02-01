@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "_ Rust lang The complete beginner's guide",
+      "path": "R U S T/Rust lang - The complete beginner's guide/_ Rust lang The complete beginner's guide.md"
+    },
+    {
+      "basename": "5. Data types",
+      "path": "R U S T/Rust lang - The complete beginner's guide/5. Data types.md"
+    },
+    {
       "basename": "4 Modules and Crates",
       "path": "R U S T/Rust lang - The complete beginner's guide/4 Modules and Crates.md"
     },
@@ -31,10 +39,6 @@
     {
       "basename": "Context",
       "path": "P Y T H O N/Lear_Build_Flask/Context.md"
-    },
-    {
-      "basename": "_ Rust lang The complete beginner's guide",
-      "path": "R U S T/Rust lang - The complete beginner's guide/_ Rust lang The complete beginner's guide.md"
     },
     {
       "basename": "1 Variables",
@@ -195,10 +199,6 @@
     {
       "basename": "3.1. Fragments",
       "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3.1. Fragments.md"
-    },
-    {
-      "basename": "3 Podstawy tworzenia aplikacji",
-      "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md"
     }
   ],
   "omittedPaths": [],
