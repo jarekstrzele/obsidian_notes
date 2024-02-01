@@ -118,8 +118,7 @@ W języku Rust, instrukcje `use`, `mod` i `crate` służą do organizacji i zarz
 	    - `mod some_module;`
 	    - Ta instrukcja informuje kompilator, że w danym pliku istnieje moduł o nazwie `some_module`, który może zawierać różne elementy kodu.
 
-3. **`crate`:**
-    
+3. **`crate`:**    
     - `crate` odnosi się do korzenia projektu Rust, czyli do samego programu lub biblioteki.
     - Przykład: `use crate::some_module::some_function;`
     - W tym kontekście `crate` jest używane, aby wskazać, że `some_module` znajduje się bezpośrednio w projekcie, nie w jakimś zagnieżdżonym module.
