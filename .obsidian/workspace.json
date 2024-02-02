@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "87af1bee63b40757",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/9.2. Fragment list.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e92853125bc50eab",
             "type": "leaf",
             "state": {
@@ -220,13 +232,13 @@
   "active": "0a2e7372e5181344",
   "lastOpenFiles": [
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/9.2. Fragment list.md",
+    "R U S T/Rust lang - The complete beginner's guide/3 Language basics.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/10. Fragmenty dla większy interfejsów.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/9.1. Fragmant blank.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/9. Fragmenty.md",
     "R U S T/Rust lang - The complete beginner's guide/5. Data types.md",
     "R U S T/Rust lang - The complete beginner's guide/_ Rust lang The complete beginner's guide.md",
     "R U S T/Rust lang - The complete beginner's guide/4 Modules and Crates.md",
-    "R U S T/Rust lang - The complete beginner's guide/3 Language basics.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/_ Rusz Głową Android. Programowanie aplikacji.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Context.md",
     "P Y T H O N/Lear_Build_Flask/Context.md",
