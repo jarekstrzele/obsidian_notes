@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/9.2. Fragment list.md",
+                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/10. Fragmenty dla większy interfejsów.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/9.2. Fragment list.md",
+                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/10. Fragmenty dla większy interfejsów.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/9.2. Fragment list.md",
+                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/10. Fragmenty dla większy interfejsów.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/9.2. Fragment list.md"
+                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/10. Fragmenty dla większy interfejsów.md"
               }
             }
           },
@@ -219,9 +219,10 @@
   },
   "active": "0a2e7372e5181344",
   "lastOpenFiles": [
+    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/9.2. Fragment list.md",
+    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/10. Fragmenty dla większy interfejsów.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/9.1. Fragmant blank.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/9. Fragmenty.md",
-    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/9.2. Fragment list.md",
     "R U S T/Rust lang - The complete beginner's guide/5. Data types.md",
     "R U S T/Rust lang - The complete beginner's guide/_ Rust lang The complete beginner's guide.md",
     "R U S T/Rust lang - The complete beginner's guide/4 Modules and Crates.md",
@@ -246,7 +247,6 @@
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/7. Widoki list i adaptery.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/AdapterView.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/companion object.md",
-    "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md",
     "R U S T/Rust lang - The complete beginner's guide",
     "HASKELL/Haskell for beginners Udemy",
     "Pasted image 20240115122731.png",

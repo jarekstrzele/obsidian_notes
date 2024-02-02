@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "10. Fragmenty dla większy interfejsów",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/10. Fragmenty dla większy interfejsów.md"
+    },
+    {
       "basename": "9.2. Fragment list",
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/9.2. Fragment list.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "3.2. View Models",
       "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3.2. View Models.md"
-    },
-    {
-      "basename": "3.1. Fragments",
-      "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3.1. Fragments.md"
     }
   ],
   "omittedPaths": [],
