@@ -5,6 +5,18 @@
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/10. Fragmenty dla większy interfejsów.md"
     },
     {
+      "basename": "5.1. Układy i komponenty GUI dziedziczą po `View`",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.1. Układy i komponenty GUI dziedziczą po `View`.md"
+    },
+    {
+      "basename": "5.2. Najważniejsze komponenty GUI",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md"
+    },
+    {
+      "basename": "5. Widoki i grupy widoków",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5. Widoki i grupy widoków.md"
+    },
+    {
       "basename": "9.2. Fragment list",
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/9.2. Fragment list.md"
     },
@@ -143,18 +155,6 @@
     {
       "basename": "6. Układy z ograniczeniami ConstraintLayout",
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/6. Układy z ograniczeniami ConstraintLayout.md"
-    },
-    {
-      "basename": "5. Widoki i grupy widoków",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5. Widoki i grupy widoków.md"
-    },
-    {
-      "basename": "5.1. Układy i komponenty GUI dziedziczą po `View`",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.1. Układy i komponenty GUI dziedziczą po `View`.md"
-    },
-    {
-      "basename": "5.2. Najważniejsze komponenty GUI",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md"
     },
     {
       "basename": "android_padding.excalidraw",
