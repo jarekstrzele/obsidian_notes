@@ -53,7 +53,19 @@ if (regex.containsMatchIn(text)) {
 
 ```
 
+## sprawdzenie numeru telefonu
+```kotlin
+fun main() {
+  val regex = Regex("^[0-9]{3}-[0-9]{3}-[0-9]{3}$")
 
+  val phone_OK = "213-321-212"
+  val phone_NO = "123-456-43"
+
+  println(regex.matches(phone_OK)) // true
+  println(regex.matches(phone_NO)) // false
+
+}
+```
 
 
 
