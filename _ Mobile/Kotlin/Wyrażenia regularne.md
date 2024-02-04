@@ -67,11 +67,25 @@ fun main() {
 }
 ```
 
+`^[0-9]{3}(-[0-9]+)*$` 
+Ten wzorzec oznacza:
+- `^[0-9]{3}` - Początek tekstu musi zawierać dokładnie trzy cyfry.
+- `(-[0-9]+)*$` - Następnie może występować zero lub więcej razy myślnik, a po nim co najmniej jedna cyfra, do samego końca tekstu.
 
+```kotlin
+fun main() {
+  val regex = Regex("^[0-9]-[0-9]-[0-9]$")
 
+  val phone_OK = "213-321-212"
+  val phone_NO = "123-456-43"
+  val ok = "1-2-3"
 
+  println(regex.matches(phone_OK)) // false
+  println(regex.matches(phone_NO)) // false
+  println(regex.matches(ok)) // true
 
-
+}
+```
 # czy ciąg znaków jest liczbą?
 ```kotlin
 fun main(args: Array<String>) {
@@ -161,7 +175,18 @@ fun main() {
 ```
 
 
+```kotlin
+fun main() {
+  val regex = Regex("[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\\.[a-zA-Z]{2,}")
 
+  val email1 = "jan.kowalski@gmail.com"
+  val email2 = "jan.kowalski@gmail"
+
+  println(regex.matches(email1)) // true
+  println(regex.matches(email2)) // false
+
+}
+```
 
 
 
