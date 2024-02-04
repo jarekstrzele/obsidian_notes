@@ -2,6 +2,15 @@
 
 # Wprowadzenie
 
+
+## tworzenie
+```kotlin
+val regex: Regex = Regex(pattern)
+val regex = Regex("[0-9]+")
+
+```
+
+
 ## metaznaki
 - `.` - dowolny znak
 - `*` - zero lub więcej powtórzeń poprzedniego znaku
@@ -17,14 +26,19 @@
 - `^` - początek tekstu
 - `$` - koniec tekstu
 
+## przykłady
+regex:
+- pierwsze 3 znaki to małe listery, 
+- potem dwie liczby, 
+- potem zero lub więcej jednego ze znaków "xzy"
+`^[a-z]{3}\d{2}[xzy]*$
+`
+- `Regex("^[0-9]+$")`: Pasuje do ciągu składającego się z jednej lub więcej cyfr.
+- `Regex("^[0-9]*$")`: Pasuje do ciągu składającego się z żadnej, jednej lub więcej cyfr
+- `Regex("^[0-9]$")`: To wyrażenie regularne pasuje do dokładnie jednej cyfry, ponieważ jest ograniczone przez `^` (początek tekstu) i `$` (koniec tekstu).
 
 
 
-## tworzenie
-```kotlin
-val regex: Regex = Regex(pattern)
-
-```
 
 ## sprawdzanie dopasowań
 ```kotlin
