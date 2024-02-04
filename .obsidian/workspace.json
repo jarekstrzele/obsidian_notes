@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/11. Fragmenty dynamiczne.md",
+                "file": "C Sharp/Complete CSharp MasterClass/8. Debugging.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/11. Fragmenty dynamiczne.md",
+                "file": "C Sharp/Complete CSharp MasterClass/8. Debugging.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/11. Fragmenty dynamiczne.md",
+                "file": "C Sharp/Complete CSharp MasterClass/8. Debugging.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/11. Fragmenty dynamiczne.md"
+                "file": "C Sharp/Complete CSharp MasterClass/8. Debugging.md"
               }
             }
           },
@@ -231,7 +231,18 @@
   },
   "active": "0a2e7372e5181344",
   "lastOpenFiles": [
+    "C Sharp/Complete CSharp MasterClass/7. Collections.md",
+    "C Sharp/Complete CSharp MasterClass/6. OOP.md",
+    "C Sharp/Complete CSharp MasterClass/_ CSHarp Complete Masterclass.md",
+    "C Sharp/Complete CSharp MasterClass/5. Loops.md",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.14. Ograniczenia, statyczne i domyślne wartości dziedziczenie typów generycznych.md",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.13. TYPY Generyczne.md",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.12 Indeksery.md",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.9. Enum.md",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.8. Klasy i metody zapieczętowane (sealed).md",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.7 Interfejsy.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/10. Fragmenty dla większy interfejsów.md",
+    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/10.1. Celne spostrzeżenia.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/11. Fragmenty dynamiczne.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.1. Układy i komponenty GUI dziedziczą po `View`.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md",
@@ -248,17 +259,6 @@
     "P Y T H O N/Lear_Build_Flask/Context.md",
     "Pasted image 20240131102422.png",
     "Pasted image 20240131091457.png",
-    "R U S T/1 - Full Rust Beginner s Course/1 Variables.md",
-    "R U S T/1 - Full Rust Beginner s Course/_ Full Rust Beginners Cours.md",
-    "MIME TYPE.md",
-    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4. Cykl życia aktywnośći.md",
-    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/11. Lambda i funkcje wyższego rzędu.md",
-    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/8.1.2. Dostawcy akcji.md",
-    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/8.1.1. Nawigacja w górę.md",
-    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/8.1. Toolbar i Menu.md",
-    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/8. Biblioteki wsparcia i paski aplikacji.md",
-    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/10 Typy sparametryzowane.md",
-    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/_ 0 Kotlin Rusz Głową.md",
     "R U S T/Rust lang - The complete beginner's guide",
     "HASKELL/Haskell for beginners Udemy",
     "Pasted image 20240115122731.png",

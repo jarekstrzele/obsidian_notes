@@ -1,12 +1,60 @@
 {
   "recentFiles": [
     {
-      "basename": "11. Fragmenty dynamiczne",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/11. Fragmenty dynamiczne.md"
+      "basename": "8. Debugging",
+      "path": "C Sharp/Complete CSharp MasterClass/8. Debugging.md"
+    },
+    {
+      "basename": "7. Collections",
+      "path": "C Sharp/Complete CSharp MasterClass/7. Collections.md"
+    },
+    {
+      "basename": "6. OOP",
+      "path": "C Sharp/Complete CSharp MasterClass/6. OOP.md"
+    },
+    {
+      "basename": "_ CSHarp Complete Masterclass",
+      "path": "C Sharp/Complete CSharp MasterClass/_ CSHarp Complete Masterclass.md"
+    },
+    {
+      "basename": "5. Loops",
+      "path": "C Sharp/Complete CSharp MasterClass/5. Loops.md"
+    },
+    {
+      "basename": "1.14. Ograniczenia, statyczne i domyślne wartości dziedziczenie typów generycznych",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.14. Ograniczenia, statyczne i domyślne wartości dziedziczenie typów generycznych.md"
+    },
+    {
+      "basename": "1.13. TYPY Generyczne",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.13. TYPY Generyczne.md"
+    },
+    {
+      "basename": "1.12 Indeksery",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.12 Indeksery.md"
+    },
+    {
+      "basename": "1.9. Enum",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.9. Enum.md"
+    },
+    {
+      "basename": "1.8. Klasy i metody zapieczętowane (sealed)",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.8. Klasy i metody zapieczętowane (sealed).md"
+    },
+    {
+      "basename": "1.7 Interfejsy",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.7 Interfejsy.md"
     },
     {
       "basename": "10. Fragmenty dla większy interfejsów",
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/10. Fragmenty dla większy interfejsów.md"
+    },
+    {
+      "basename": "10.1. Celne spostrzeżenia",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/10.1. Celne spostrzeżenia.md"
+    },
+    {
+      "basename": "11. Fragmenty dynamiczne",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/11. Fragmenty dynamiczne.md"
     },
     {
       "basename": "5.1. Układy i komponenty GUI dziedziczą po `View`",
@@ -151,54 +199,6 @@
     {
       "basename": "7 Klasy danych",
       "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/7 Klasy danych.md"
-    },
-    {
-      "basename": "_ MongoDB Complete",
-      "path": "_DataBase/MongoDB/MongoDB - The Complete 2023/_ MongoDB Complete.md"
-    },
-    {
-      "basename": "6. Układy z ograniczeniami ConstraintLayout",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/6. Układy z ograniczeniami ConstraintLayout.md"
-    },
-    {
-      "basename": "android_padding.excalidraw",
-      "path": "Excalidraw/android_padding.excalidraw.md"
-    },
-    {
-      "basename": "6.1 Klasy abstrakcyjne",
-      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/6.1 Klasy abstrakcyjne.md"
-    },
-    {
-      "basename": "6 Klasy abstrakcyjne i interfejsy",
-      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/6 Klasy abstrakcyjne i interfejsy.md"
-    },
-    {
-      "basename": "Fundamenty Kotlina",
-      "path": "_ Mobile/Kotlin/Fundamenty Kotlina.md"
-    },
-    {
-      "basename": "3 Kotlin fundamentals",
-      "path": "_ Mobile/Android/the complete Android 12 and Kotlin/3 Kotlin fundamentals.md"
-    },
-    {
-      "basename": "2 Getting ready with Android Studio",
-      "path": "_ Mobile/Android/the complete Android 12 and Kotlin/2 Getting ready with Android Studio.md"
-    },
-    {
-      "basename": "_ the complete Android 12",
-      "path": "_ Mobile/Android/the complete Android 12 and Kotlin/_ the complete Android 12.md"
-    },
-    {
-      "basename": "1. Skok na głęboką wodę",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/1. Skok na głęboką wodę.md"
-    },
-    {
-      "basename": "_ Kurs Android od podstaw",
-      "path": "_ Mobile/Android/Kurs Android od podstaw/_ Kurs Android od podstaw.md"
-    },
-    {
-      "basename": "3.3. View Binding",
-      "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3.3. View Binding.md"
     }
   ],
   "omittedPaths": [],
