@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "31d924ec36f8b7ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C Sharp/Rusz Głową C Sharp/_ C Sharp.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -138,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.14. Ograniczenia, statyczne i domyślne wartości dziedziczenie typów generycznych.md",
+                "file": "C Sharp/Rusz Głową C Sharp/_ C Sharp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.14. Ograniczenia, statyczne i domyślne wartości dziedziczenie typów generycznych.md",
+                "file": "C Sharp/Rusz Głową C Sharp/_ C Sharp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.14. Ograniczenia, statyczne i domyślne wartości dziedziczenie typów generycznych.md"
+                "file": "C Sharp/Rusz Głową C Sharp/_ C Sharp.md"
               }
             }
           },
@@ -229,8 +241,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0a2e7372e5181344",
+  "active": "31d924ec36f8b7ef",
   "lastOpenFiles": [
+    "R U S T/Rust lang - The complete beginner's guide/3 Language basics.md",
+    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/9.2. Fragment list.md",
+    "R U S T/Rust lang - The complete beginner's guide/5. Data types.md",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.14. Ograniczenia, statyczne i domyślne wartości dziedziczenie typów generycznych.md",
     "C Sharp/Rusz Głową C Sharp/_ C Sharp.md",
     "C Sharp/Complete CSharp MasterClass/_ CSHarp Complete Masterclass.md",
     "C Sharp/Complete CSharp MasterClass/8. Debugging.md",
@@ -238,7 +254,6 @@
     "C Sharp/Complete CSharp MasterClass/7. Collections.md",
     "C Sharp/Complete CSharp MasterClass/6. OOP.md",
     "C Sharp/Complete CSharp MasterClass/5. Loops.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.14. Ograniczenia, statyczne i domyślne wartości dziedziczenie typów generycznych.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.13. TYPY Generyczne.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.12 Indeksery.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.9. Enum.md",
@@ -250,11 +265,8 @@
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.1. Układy i komponenty GUI dziedziczą po `View`.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5. Widoki i grupy widoków.md",
-    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/9.2. Fragment list.md",
-    "R U S T/Rust lang - The complete beginner's guide/3 Language basics.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/9.1. Fragmant blank.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/9. Fragmenty.md",
-    "R U S T/Rust lang - The complete beginner's guide/5. Data types.md",
     "R U S T/Rust lang - The complete beginner's guide/_ Rust lang The complete beginner's guide.md",
     "R U S T/Rust lang - The complete beginner's guide/4 Modules and Crates.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/_ Rusz Głową Android. Programowanie aplikacji.md",
