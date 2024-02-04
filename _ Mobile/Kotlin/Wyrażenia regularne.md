@@ -137,6 +137,15 @@ Wyjaśnienie:
 > - `(?= ...)` - Jest to składnia "positive lookahead". To sprawdzenie wygląda naprzód, aby sprawdzić, czy w danym miejscu w tekście (ciągu znaków) występuje pewien wzorzec, ale nie przenosi się do tego miejsca.
 > - `.*` dwolony ciąg znaków
 
+Rozbijmy to na części:
+
+- `.*` - Oznacza dowolny ciąg znaków (zero lub więcej powtórzeń dowolnego znaku).
+- `[0-9]` - Oznacza jedną cyfrę.
+- `.*` - Ponownie dowolny ciąg znaków (zero lub więcej powtórzeń dowolnego znaku).
+- `[0-9]` - Kolejna jedna cyfra.
+
+
+
 
 # czy ciąg znaków jest liczbą?
 ```kotlin
@@ -172,6 +181,25 @@ Przykłady:
     - `123` - pasuje (więcej niż jedna cyfra)
 
 Podsumowując, jeśli pominiemy znak `+`, wyrażenie `[0-9]` dopasuje dokładnie jedną cyfrę, podczas gdy `[0-9]+` dopasuje jedną lub więcej cyfr.
+
+# skróty
+## `\d`
+`\d` jest równoznaczne z wyrażeniem `[0-9]`, czyli dopasowuje dowolną cyfrę od 0 do 9.
+Przykłady użycia:
+
+- `\d{3}` - Dopasuje trzy kolejne cyfry.
+- `\d+` - Dopasuje jedną lub więcej cyfr.
+- `^\d{4}$` - Dopasuje dokładnie cztery cyfry na początku i końcu tekstu.
+
+W skrócie, `\d` to jedna cyfra w kontekście wyrażeń regularnych.
+
+
+## inne
+Oto kilka przykładów:
+
+1. `\d` - Oznacza dowolną cyfrę od 0 do 9.
+2. `\w` - Oznacza dowolny znak "word character", który obejmuje litery (małe i duże), cyfry i znak podkreślenia `_`. to skrót dla `[a-zA-Z0-9_]`
+3. `\s` - Oznacza dowolny biały znak (spacja, tabulator, znak nowej linii) - to równoważnik `[\t\n\.
 
 
 # wyodrębnianie adresu email
