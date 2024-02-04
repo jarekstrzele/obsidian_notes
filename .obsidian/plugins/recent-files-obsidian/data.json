@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "_ C Sharp",
+      "path": "C Sharp/Rusz Głową C Sharp/_ C Sharp.md"
+    },
+    {
+      "basename": "_ CSHarp Complete Masterclass",
+      "path": "C Sharp/Complete CSharp MasterClass/_ CSHarp Complete Masterclass.md"
+    },
+    {
       "basename": "8. Debugging",
       "path": "C Sharp/Complete CSharp MasterClass/8. Debugging.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "6. OOP",
       "path": "C Sharp/Complete CSharp MasterClass/6. OOP.md"
-    },
-    {
-      "basename": "_ CSHarp Complete Masterclass",
-      "path": "C Sharp/Complete CSharp MasterClass/_ CSHarp Complete Masterclass.md"
     },
     {
       "basename": "5. Loops",
@@ -195,10 +199,6 @@
     {
       "basename": "6.2. Interfejsy",
       "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/6.2. Interfejsy.md"
-    },
-    {
-      "basename": "7 Klasy danych",
-      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/7 Klasy danych.md"
     }
   ],
   "omittedPaths": [],
