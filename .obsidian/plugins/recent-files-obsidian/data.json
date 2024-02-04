@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "11. Fragmenty dynamiczne",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/11. Fragmenty dynamiczne.md"
+    },
+    {
       "basename": "10. Fragmenty dla większy interfejsów",
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/10. Fragmenty dla większy interfejsów.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "3.3. View Binding",
       "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3.3. View Binding.md"
-    },
-    {
-      "basename": "3.2. View Models",
-      "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3.2. View Models.md"
     }
   ],
   "omittedPaths": [],
