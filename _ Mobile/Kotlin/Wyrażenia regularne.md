@@ -106,7 +106,7 @@ fun main() {
 
 ## hasła
 
-hasło 8 znakowe z dowolnych liter, cyfr i znaków specjalnych
+#### hasło 8 znakowe z dowolnych liter, cyfr i znaków specjalnych
 ```kotlin
 fun main() {
     val password = "Abc123!@"
@@ -121,7 +121,21 @@ fun main() {
 
 ```
 
+#### bez znaków specjalnych
+`^[a-zA-Z0-9]{8}$`
 
+#### hasło od 8 do 16 znaków zawierający dowolne litery w tym przynajmniej dwie cyfry
+`^(?=.*[0-9].*[0-9])[a-zA-Z0-9]{8,16}$`
+
+Wyjaśnienie:
+- `^` - Początek tekstu.
+- `(?=.*[0-9].*[0-9])` - *Positive lookahead*, oznaczające, że w dowolnym miejscu w ciągu muszą wystąpić przynajmniej dwie cyfry.
+- `[a-zA-Z0-9]{8,16}` - Oznacza od 8 do 16 dowolnych znaków będących literami (zarówno małymi, jak i dużymi) lub cyframi.
+- `$` - Koniec tekstu.
+
+>[!tip] POSITIVE LOOKAHEAD
+> - `(?= ...)` - Jest to składnia "positive lookahead". To sprawdzenie wygląda naprzód, aby sprawdzić, czy w danym miejscu w tekście (ciągu znaków) występuje pewien wzorzec, ale nie przenosi się do tego miejsca.
+> - `.*` dwolony ciąg znaków
 
 
 # czy ciąg znaków jest liczbą?
