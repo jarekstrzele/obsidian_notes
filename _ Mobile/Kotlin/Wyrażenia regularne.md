@@ -2,6 +2,24 @@
 
 # Wprowadzenie
 
+## metaznaki
+- `.` - dowolny znak
+- `*` - zero lub więcej powtórzeń poprzedniego znaku
+- `+` - jedno lub więcej powtórzeń poprzedniego znaku
+- `?` - zero lub jedno powtórzenie poprzedniego znaku
+- `|` - alternatywa (np. `a|b` oznacza "a" lub "b")
+- `[]` - zakres znaków (np. `[a-z]` oznacza dowolną małą literę)
+
+## **Operatory:**
+
+- `&&` - iloczyn logiczny
+- `||` - suma logiczna
+- `^` - początek tekstu
+- `$` - koniec tekstu
+
+
+
+
 ## tworzenie
 ```kotlin
 val regex: Regex = Regex(pattern)
@@ -99,7 +117,22 @@ fun main(args: Array<String>) {
 5. `[a-zA-Z]{2,}`: Określa, że na końcu adresu e-mail muszą wystąpić co najmniej dwie litery (małe lub duże).
 6. 
 
+---
+# program sprawdzający poprawność mejla
+```kotlin
+fun main() {
+    println("Podaj adres e-mail:")
+    val email = readLine()
 
+    val regex = Regex("[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\\.[a-zA-Z]{2,}")
+
+    if (email != null && regex.matches(email)) {
+        println("Podany adres e-mail jest poprawny.")
+    } else {
+        println("Podany adres e-mail jest niepoprawny.")
+    }
+}
+```
 
 
 
