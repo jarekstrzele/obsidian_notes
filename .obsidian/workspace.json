@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Kotlin/Wyrażenia regularne.md",
+                "file": "_ Mobile/Kotlin/wyrażenia regularne zadania.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Kotlin/Wyrażenia regularne.md",
+                "file": "_ Mobile/Kotlin/wyrażenia regularne zadania.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Kotlin/Wyrażenia regularne.md",
+                "file": "_ Mobile/Kotlin/wyrażenia regularne zadania.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Kotlin/Wyrażenia regularne.md"
+                "file": "_ Mobile/Kotlin/wyrażenia regularne zadania.md"
               }
             }
           },
@@ -255,8 +255,9 @@
   },
   "active": "b03760bf49fbcee8",
   "lastOpenFiles": [
-    "_ Mobile/Kotlin/Fundamenty Kotlina.md",
     "_ Mobile/Kotlin/Wyrażenia regularne.md",
+    "_ Mobile/Kotlin/wyrażenia regularne zadania.md",
+    "_ Mobile/Kotlin/Fundamenty Kotlina.md",
     "_ Mobile/Kotlin/Kotlin bez tajemnic/3.3. View Binding.md",
     "_ Mobile/Kotlin/Kotlin bez tajemnic/3.2. View Models.md",
     "_ Mobile/Kotlin/Kotlin bez tajemnic/3.1. Fragments.md",
@@ -280,7 +281,6 @@
     "C Sharp/Rusz Głową C Sharp/1. Zacznij pisać programy w języku C Sharp.md",
     "C Sharp/Rusz Głową C Sharp/_ C Sharp.md",
     "R U S T/Rust lang - The complete beginner's guide/3 Language basics.md",
-    "C Sharp/Complete CSharp MasterClass/_ CSHarp Complete Masterclass.md",
     "C Sharp/Rusz Głową C Sharp",
     "Pasted image 20240131102422.png",
     "Pasted image 20240131091457.png",
