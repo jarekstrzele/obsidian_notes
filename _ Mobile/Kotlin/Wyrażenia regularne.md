@@ -26,6 +26,22 @@ val regex = Regex("[0-9]+")
 - `^` - początek tekstu
 - `$` - koniec tekstu
 
+## negacja
+Znak negacji w wyrażeniach regularnych to `^`, ale ma on specyficzne znaczenie w zależności od tego, gdzie jest używany.
+
+1. **Wewnątrz zakresu znaków `[]`:** Wewnątrz zakresu znaków, `^` pełni rolę znaku negacji, oznaczając, że dopasowanie ma zachodzić dla znaków, które nie należą do podanego zakresu. Na przykład:
+    
+    - `[^a-z]` - Oznacza dowolny znak, który nie jest małą literą od 'a' do 'z'.
+    - `[^0-9]` - Oznacza dowolny znak, który nie jest cyfrą od '0' do '9'.
+2. **Na początku wyrażenia regularnego `^`:** Jeśli `^` jest umieszczone na początku wyrażenia regularnego (poza zakresem znaków), to oznacza początek tekstu.
+    
+3. **Wewnątrz wyrażenia regularnego `(?!...)`:** W przypadku wyrażeń regularnych z wyrażeniem "negative lookahead", składnia to `(?!...)`. Na przykład:
+    
+    - `^(?!abc)` - Oznacza, że wyrażenie będzie dopasowane, jeśli tekst na początku nie zaczyna się od "abc".
+
+Warto zauważyć, że znak negacji w kontekście zakresu znaków `[...]` różni się od znaku negacji wykorzystywanego w logicznych operacjach logicznych.
+
+
 ## przykłady
 regex:
 - pierwsze 3 znaki to małe listery, 
@@ -86,6 +102,28 @@ fun main() {
 
 }
 ```
+
+
+## hasła
+
+hasło 8 znakowe z dowolnych liter, cyfr i znaków specjalnych
+```kotlin
+fun main() {
+    val password = "Abc123!@"
+    val regex = "^[a-zA-Z0-9!@#$%^&*()-_+=<>?/\\\\]+$".toRegex()
+
+    if (password.matches(regex)) {
+        println("Hasło jest zgodne z wzorcem.") //spełnia
+    } else {
+        println("Hasło nie spełnia wymagań.")
+    }
+}
+
+```
+
+
+
+
 # czy ciąg znaków jest liczbą?
 ```kotlin
 fun main(args: Array<String>) {
