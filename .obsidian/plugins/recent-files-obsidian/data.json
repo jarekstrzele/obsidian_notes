@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "5.2. Najważniejsze komponenty GUI",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md"
+    },
+    {
+      "basename": "6. Układy z ograniczeniami ConstraintLayout",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/6. Układy z ograniczeniami ConstraintLayout.md"
+    },
+    {
+      "basename": "7. Widoki list i adaptery",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/7. Widoki list i adaptery.md"
+    },
+    {
+      "basename": "5.1. Układy i komponenty GUI dziedziczą po `View`",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.1. Układy i komponenty GUI dziedziczą po `View`.md"
+    },
+    {
+      "basename": "5. Widoki i grupy widoków",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5. Widoki i grupy widoków.md"
+    },
+    {
+      "basename": "9.2. Fragment list",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/9.2. Fragment list.md"
+    },
+    {
+      "basename": "1.14. Ograniczenia, statyczne i domyślne wartości dziedziczenie typów generycznych",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.14. Ograniczenia, statyczne i domyślne wartości dziedziczenie typów generycznych.md"
+    },
+    {
+      "basename": "5. Data types",
+      "path": "R U S T/Rust lang - The complete beginner's guide/5. Data types.md"
+    },
+    {
       "basename": "1. Zacznij pisać programy w języku C Sharp",
       "path": "C Sharp/Rusz Głową C Sharp/1. Zacznij pisać programy w języku C Sharp.md"
     },
@@ -11,18 +43,6 @@
     {
       "basename": "3 Language basics",
       "path": "R U S T/Rust lang - The complete beginner's guide/3 Language basics.md"
-    },
-    {
-      "basename": "9.2. Fragment list",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/9.2. Fragment list.md"
-    },
-    {
-      "basename": "5. Data types",
-      "path": "R U S T/Rust lang - The complete beginner's guide/5. Data types.md"
-    },
-    {
-      "basename": "1.14. Ograniczenia, statyczne i domyślne wartości dziedziczenie typów generycznych",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.14. Ograniczenia, statyczne i domyślne wartości dziedziczenie typów generycznych.md"
     },
     {
       "basename": "_ CSHarp Complete Masterclass",
@@ -75,18 +95,6 @@
     {
       "basename": "11. Fragmenty dynamiczne",
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/11. Fragmenty dynamiczne.md"
-    },
-    {
-      "basename": "5.1. Układy i komponenty GUI dziedziczą po `View`",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.1. Układy i komponenty GUI dziedziczą po `View`.md"
-    },
-    {
-      "basename": "5.2. Najważniejsze komponenty GUI",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md"
-    },
-    {
-      "basename": "5. Widoki i grupy widoków",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5. Widoki i grupy widoków.md"
     },
     {
       "basename": "9.1. Fragmant blank",
@@ -165,10 +173,6 @@
       "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/hashcode.md"
     },
     {
-      "basename": "7. Widoki list i adaptery",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/7. Widoki list i adaptery.md"
-    },
-    {
       "basename": "AdapterView",
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/AdapterView.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "7.1. Klasa danych `data class`",
       "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/7.1. Klasa danych `data class`.md"
-    },
-    {
-      "basename": "7.0. Wprowadzenie do  klas danych",
-      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/7.0. Wprowadzenie do  klas danych.md"
     }
   ],
   "omittedPaths": [],
