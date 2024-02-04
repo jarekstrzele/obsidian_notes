@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "1. Zacznij pisać programy w języku C Sharp",
+      "path": "C Sharp/Rusz Głową C Sharp/1. Zacznij pisać programy w języku C Sharp.md"
+    },
+    {
       "basename": "_ C Sharp",
       "path": "C Sharp/Rusz Głową C Sharp/_ C Sharp.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "7.0. Wprowadzenie do  klas danych",
       "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/7.0. Wprowadzenie do  klas danych.md"
-    },
-    {
-      "basename": "6.2. Interfejsy",
-      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/6.2. Interfejsy.md"
     }
   ],
   "omittedPaths": [],

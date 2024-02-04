@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C Sharp/Rusz Głową C Sharp/_ C Sharp.md",
+                "file": "C Sharp/Rusz Głową C Sharp/1. Zacznij pisać programy w języku C Sharp.md",
                 "mode": "source",
                 "source": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C Sharp/Rusz Głową C Sharp/_ C Sharp.md",
+                "file": "C Sharp/Rusz Głową C Sharp/1. Zacznij pisać programy w języku C Sharp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C Sharp/Rusz Głową C Sharp/_ C Sharp.md",
+                "file": "C Sharp/Rusz Głową C Sharp/1. Zacznij pisać programy w języku C Sharp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C Sharp/Rusz Głową C Sharp/_ C Sharp.md"
+                "file": "C Sharp/Rusz Głową C Sharp/1. Zacznij pisać programy w języku C Sharp.md"
               }
             }
           },
@@ -243,11 +243,12 @@
   },
   "active": "31d924ec36f8b7ef",
   "lastOpenFiles": [
+    "C Sharp/Rusz Głową C Sharp/_ C Sharp.md",
+    "C Sharp/Rusz Głową C Sharp/1. Zacznij pisać programy w języku C Sharp.md",
     "R U S T/Rust lang - The complete beginner's guide/3 Language basics.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/9.2. Fragment list.md",
     "R U S T/Rust lang - The complete beginner's guide/5. Data types.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.14. Ograniczenia, statyczne i domyślne wartości dziedziczenie typów generycznych.md",
-    "C Sharp/Rusz Głową C Sharp/_ C Sharp.md",
     "C Sharp/Complete CSharp MasterClass/_ CSHarp Complete Masterclass.md",
     "C Sharp/Complete CSharp MasterClass/8. Debugging.md",
     "C Sharp/Rusz Głową C Sharp",
@@ -269,7 +270,6 @@
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/9. Fragmenty.md",
     "R U S T/Rust lang - The complete beginner's guide/_ Rust lang The complete beginner's guide.md",
     "R U S T/Rust lang - The complete beginner's guide/4 Modules and Crates.md",
-    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/_ Rusz Głową Android. Programowanie aplikacji.md",
     "Pasted image 20240131102422.png",
     "Pasted image 20240131091457.png",
     "R U S T/Rust lang - The complete beginner's guide",
