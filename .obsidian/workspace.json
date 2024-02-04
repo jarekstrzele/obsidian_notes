@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C Sharp/Rusz Głową C Sharp/_ C Sharp.md",
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.14. Ograniczenia, statyczne i domyślne wartości dziedziczenie typów generycznych.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C Sharp/Rusz Głową C Sharp/_ C Sharp.md",
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.14. Ograniczenia, statyczne i domyślne wartości dziedziczenie typów generycznych.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C Sharp/Rusz Głową C Sharp/_ C Sharp.md",
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.14. Ograniczenia, statyczne i domyślne wartości dziedziczenie typów generycznych.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C Sharp/Rusz Głową C Sharp/_ C Sharp.md"
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.14. Ograniczenia, statyczne i domyślne wartości dziedziczenie typów generycznych.md"
               }
             }
           },
@@ -231,8 +231,8 @@
   },
   "active": "0a2e7372e5181344",
   "lastOpenFiles": [
-    "C Sharp/Complete CSharp MasterClass/_ CSHarp Complete Masterclass.md",
     "C Sharp/Rusz Głową C Sharp/_ C Sharp.md",
+    "C Sharp/Complete CSharp MasterClass/_ CSHarp Complete Masterclass.md",
     "C Sharp/Complete CSharp MasterClass/8. Debugging.md",
     "C Sharp/Rusz Głową C Sharp",
     "C Sharp/Complete CSharp MasterClass/7. Collections.md",
