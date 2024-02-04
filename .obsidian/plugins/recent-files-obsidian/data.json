@@ -1,6 +1,62 @@
 {
   "recentFiles": [
     {
+      "basename": "Wyrażenia regularne",
+      "path": "_ Mobile/Kotlin/Wyrażenia regularne.md"
+    },
+    {
+      "basename": "Fundamenty Kotlina",
+      "path": "_ Mobile/Kotlin/Fundamenty Kotlina.md"
+    },
+    {
+      "basename": "3.3. View Binding",
+      "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3.3. View Binding.md"
+    },
+    {
+      "basename": "3.2. View Models",
+      "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3.2. View Models.md"
+    },
+    {
+      "basename": "3.1. Fragments",
+      "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3.1. Fragments.md"
+    },
+    {
+      "basename": "3 Podstawy tworzenia aplikacji",
+      "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md"
+    },
+    {
+      "basename": "_ Kotlin bez tajemnic",
+      "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/_ Kotlin bez tajemnic.md"
+    },
+    {
+      "basename": "hashcode",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/hashcode.md"
+    },
+    {
+      "basename": "11. Lambda i funkcje wyższego rzędu",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/11. Lambda i funkcje wyższego rzędu.md"
+    },
+    {
+      "basename": "10 Typy sparametryzowane",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/10 Typy sparametryzowane.md"
+    },
+    {
+      "basename": "9. Kolekcje",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/9. Kolekcje.md"
+    },
+    {
+      "basename": "8.1. Wyjątki",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/8.1. Wyjątki.md"
+    },
+    {
+      "basename": "7 Klasy danych",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/7 Klasy danych.md"
+    },
+    {
+      "basename": "4 Klasy i obiekty",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/4 Klasy i obiekty.md"
+    },
+    {
       "basename": "5.2. Najważniejsze komponenty GUI",
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md"
     },
@@ -141,64 +197,8 @@
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4. Cykl życia aktywnośći.md"
     },
     {
-      "basename": "11. Lambda i funkcje wyższego rzędu",
-      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/11. Lambda i funkcje wyższego rzędu.md"
-    },
-    {
       "basename": "8.1.2. Dostawcy akcji",
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/8.1.2. Dostawcy akcji.md"
-    },
-    {
-      "basename": "8.1.1. Nawigacja w górę",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/8.1.1. Nawigacja w górę.md"
-    },
-    {
-      "basename": "8.1. Toolbar i Menu",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/8.1. Toolbar i Menu.md"
-    },
-    {
-      "basename": "8. Biblioteki wsparcia i paski aplikacji",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/8. Biblioteki wsparcia i paski aplikacji.md"
-    },
-    {
-      "basename": "10 Typy sparametryzowane",
-      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/10 Typy sparametryzowane.md"
-    },
-    {
-      "basename": "_ 0 Kotlin Rusz Głową",
-      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/_ 0 Kotlin Rusz Głową.md"
-    },
-    {
-      "basename": "hashcode",
-      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/hashcode.md"
-    },
-    {
-      "basename": "AdapterView",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/AdapterView.md"
-    },
-    {
-      "basename": "companion object",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/companion object.md"
-    },
-    {
-      "basename": "MongoDB Installation on Sys, on Docker",
-      "path": "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md"
-    },
-    {
-      "basename": "9. Kolekcje",
-      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/9. Kolekcje.md"
-    },
-    {
-      "basename": "8.1. Wyjątki",
-      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/8.1. Wyjątki.md"
-    },
-    {
-      "basename": "8. Wartość `null` i  wyjątki",
-      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/8. Wartość `null` i  wyjątki.md"
-    },
-    {
-      "basename": "7.1. Klasa danych `data class`",
-      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/7.1. Klasa danych `data class`.md"
     }
   ],
   "omittedPaths": [],
