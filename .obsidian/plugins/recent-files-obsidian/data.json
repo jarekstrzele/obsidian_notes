@@ -5,6 +5,14 @@
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md"
     },
     {
+      "basename": "2. DataTypes and Variables",
+      "path": "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md"
+    },
+    {
+      "basename": "_ CSHarp Complete Masterclass",
+      "path": "C Sharp/Complete CSharp MasterClass/_ CSHarp Complete Masterclass.md"
+    },
+    {
       "basename": "8 Aplikacje WPF",
       "path": "_ Desktop/WPF/od Podstaw do app w WPF/8 Aplikacje WPF.md"
     },
@@ -133,10 +141,6 @@
       "path": "R U S T/Rust lang - The complete beginner's guide/3 Language basics.md"
     },
     {
-      "basename": "_ CSHarp Complete Masterclass",
-      "path": "C Sharp/Complete CSharp MasterClass/_ CSHarp Complete Masterclass.md"
-    },
-    {
       "basename": "8. Debugging",
       "path": "C Sharp/Complete CSharp MasterClass/8. Debugging.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "4 Modules and Crates",
       "path": "R U S T/Rust lang - The complete beginner's guide/4 Modules and Crates.md"
-    },
-    {
-      "basename": "_ Rusz Głową Android. Programowanie aplikacji",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/_ Rusz Głową Android. Programowanie aplikacji.md"
     }
   ],
   "omittedPaths": [],
