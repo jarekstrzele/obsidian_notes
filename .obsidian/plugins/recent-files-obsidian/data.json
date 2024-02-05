@@ -1,20 +1,60 @@
 {
   "recentFiles": [
     {
-      "basename": "2. DataTypes and Variables",
-      "path": "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md"
+      "basename": "1. Zacznij pisać programy w języku C Sharp",
+      "path": "C Sharp/Rusz Głową C Sharp/1. Zacznij pisać programy w języku C Sharp.md"
     },
     {
-      "basename": "_ C Sharp od Podstaw do WPF i XAML",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md"
+      "basename": "8. Debugging",
+      "path": "C Sharp/Complete CSharp MasterClass/8. Debugging.md"
+    },
+    {
+      "basename": "7. Collections",
+      "path": "C Sharp/Complete CSharp MasterClass/7. Collections.md"
+    },
+    {
+      "basename": "6. OOP",
+      "path": "C Sharp/Complete CSharp MasterClass/6. OOP.md"
+    },
+    {
+      "basename": "5. Loops",
+      "path": "C Sharp/Complete CSharp MasterClass/5. Loops.md"
+    },
+    {
+      "basename": "4. Making Decisions",
+      "path": "C Sharp/Complete CSharp MasterClass/4. Making Decisions.md"
+    },
+    {
+      "basename": "3 Functions-Methods and how to save time",
+      "path": "C Sharp/Complete CSharp MasterClass/3 Functions-Methods and how to save time.md"
+    },
+    {
+      "basename": "2. DataTypes and Variables",
+      "path": "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md"
     },
     {
       "basename": "_ CSHarp Complete Masterclass",
       "path": "C Sharp/Complete CSharp MasterClass/_ CSHarp Complete Masterclass.md"
     },
     {
+      "basename": "1.11 Struktury",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.11 Struktury.md"
+    },
+    {
+      "basename": "1.13. TYPY Generyczne",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.13. TYPY Generyczne.md"
+    },
+    {
+      "basename": "1 OOP w CSharp",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md"
+    },
+    {
       "basename": "8 Aplikacje WPF",
       "path": "_ Desktop/WPF/od Podstaw do app w WPF/8 Aplikacje WPF.md"
+    },
+    {
+      "basename": "_ C Sharp od Podstaw do WPF i XAML",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md"
     },
     {
       "basename": "_ część dalsza od podstaw do app WPF",
@@ -27,14 +67,6 @@
     {
       "basename": "5. Data types",
       "path": "R U S T/Rust lang - The complete beginner's guide/5. Data types.md"
-    },
-    {
-      "basename": "1.11 Struktury",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.11 Struktury.md"
-    },
-    {
-      "basename": "1.13. TYPY Generyczne",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.13. TYPY Generyczne.md"
     },
     {
       "basename": "1.14. Ograniczenia, statyczne i domyślne wartości dziedziczenie typów generycznych",
@@ -129,32 +161,12 @@
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/9.2. Fragment list.md"
     },
     {
-      "basename": "1. Zacznij pisać programy w języku C Sharp",
-      "path": "C Sharp/Rusz Głową C Sharp/1. Zacznij pisać programy w języku C Sharp.md"
-    },
-    {
       "basename": "_ C Sharp",
       "path": "C Sharp/Rusz Głową C Sharp/_ C Sharp.md"
     },
     {
       "basename": "3 Language basics",
       "path": "R U S T/Rust lang - The complete beginner's guide/3 Language basics.md"
-    },
-    {
-      "basename": "8. Debugging",
-      "path": "C Sharp/Complete CSharp MasterClass/8. Debugging.md"
-    },
-    {
-      "basename": "7. Collections",
-      "path": "C Sharp/Complete CSharp MasterClass/7. Collections.md"
-    },
-    {
-      "basename": "6. OOP",
-      "path": "C Sharp/Complete CSharp MasterClass/6. OOP.md"
-    },
-    {
-      "basename": "5. Loops",
-      "path": "C Sharp/Complete CSharp MasterClass/5. Loops.md"
     },
     {
       "basename": "1.12 Indeksery",
@@ -187,18 +199,6 @@
     {
       "basename": "9.1. Fragmant blank",
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/9.1. Fragmant blank.md"
-    },
-    {
-      "basename": "9. Fragmenty",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/9. Fragmenty.md"
-    },
-    {
-      "basename": "_ Rust lang The complete beginner's guide",
-      "path": "R U S T/Rust lang - The complete beginner's guide/_ Rust lang The complete beginner's guide.md"
-    },
-    {
-      "basename": "4 Modules and Crates",
-      "path": "R U S T/Rust lang - The complete beginner's guide/4 Modules and Crates.md"
     }
   ],
   "omittedPaths": [],
