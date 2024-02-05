@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "1.13. TYPY Generyczne",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.13. TYPY Generyczne.md"
+    },
+    {
+      "basename": "1.14. Ograniczenia, statyczne i domyślne wartości dziedziczenie typów generycznych",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.14. Ograniczenia, statyczne i domyślne wartości dziedziczenie typów generycznych.md"
+    },
+    {
       "basename": "3 Kotlin fundamentals",
       "path": "_ Mobile/Android/the complete Android 12 and Kotlin/3 Kotlin fundamentals.md"
     },
@@ -89,10 +97,6 @@
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/9.2. Fragment list.md"
     },
     {
-      "basename": "1.14. Ograniczenia, statyczne i domyślne wartości dziedziczenie typów generycznych",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.14. Ograniczenia, statyczne i domyślne wartości dziedziczenie typów generycznych.md"
-    },
-    {
       "basename": "5. Data types",
       "path": "R U S T/Rust lang - The complete beginner's guide/5. Data types.md"
     },
@@ -127,10 +131,6 @@
     {
       "basename": "5. Loops",
       "path": "C Sharp/Complete CSharp MasterClass/5. Loops.md"
-    },
-    {
-      "basename": "1.13. TYPY Generyczne",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.13. TYPY Generyczne.md"
     },
     {
       "basename": "1.12 Indeksery",
