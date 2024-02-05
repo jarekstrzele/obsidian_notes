@@ -91,7 +91,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md",
+                "file": "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md",
+                "file": "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md"
+                "file": "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md"
               }
             }
           },
@@ -264,11 +265,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "58928608acebcdca",
+  "active": "a96bd2f4ec535887",
   "lastOpenFiles": [
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md",
     "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md",
     "C Sharp/Complete CSharp MasterClass/_ CSHarp Complete Masterclass.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md",
     "_ Desktop/WPF/od Podstaw do app w WPF/8 Aplikacje WPF.md",
     "_ Desktop/WPF/od Podstaw do app w WPF/_ część dalsza od podstaw do app WPF.md",
     "_ Desktop/WPF/Wyświeltanie info.md",
