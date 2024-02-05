@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Wyświeltanie info",
+      "path": "_ Desktop/WPF/Wyświeltanie info.md"
+    },
+    {
+      "basename": "8 Aplikacje WPF",
+      "path": "_ Desktop/WPF/od Podstaw do app w WPF/8 Aplikacje WPF.md"
+    },
+    {
+      "basename": "5. Data types",
+      "path": "R U S T/Rust lang - The complete beginner's guide/5. Data types.md"
+    },
+    {
+      "basename": "_ część dalsza od podstaw do app WPF",
+      "path": "_ Desktop/WPF/od Podstaw do app w WPF/_ część dalsza od podstaw do app WPF.md"
+    },
+    {
       "basename": "1.11 Struktury",
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.11 Struktury.md"
     },
@@ -101,10 +117,6 @@
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/9.2. Fragment list.md"
     },
     {
-      "basename": "5. Data types",
-      "path": "R U S T/Rust lang - The complete beginner's guide/5. Data types.md"
-    },
-    {
       "basename": "1. Zacznij pisać programy w języku C Sharp",
       "path": "C Sharp/Rusz Głową C Sharp/1. Zacznij pisać programy w języku C Sharp.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Context",
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Context.md"
-    },
-    {
-      "basename": "Context",
-      "path": "P Y T H O N/Lear_Build_Flask/Context.md"
-    },
-    {
-      "basename": "1 Variables",
-      "path": "R U S T/1 - Full Rust Beginner s Course/1 Variables.md"
-    },
-    {
-      "basename": "_ Full Rust Beginners Cours",
-      "path": "R U S T/1 - Full Rust Beginner s Course/_ Full Rust Beginners Cours.md"
     }
   ],
   "omittedPaths": [],

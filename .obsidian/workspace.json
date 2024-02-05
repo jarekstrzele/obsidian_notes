@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Rust lang - The complete beginner's guide/5. Data types.md",
+                "file": "_ Desktop/WPF/Wyświeltanie info.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.11 Struktury.md",
+                "file": "_ Desktop/WPF/od Podstaw do app w WPF/8 Aplikacje WPF.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,8 +79,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -162,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.11 Struktury.md",
+                "file": "_ Desktop/WPF/Wyświeltanie info.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.11 Struktury.md",
+                "file": "_ Desktop/WPF/Wyświeltanie info.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.11 Struktury.md"
+                "file": "_ Desktop/WPF/Wyświeltanie info.md"
               }
             }
           },
@@ -253,8 +252,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0a2e7372e5181344",
+  "active": "58928608acebcdca",
   "lastOpenFiles": [
+    "_ Desktop/WPF/od Podstaw do app w WPF/8 Aplikacje WPF.md",
+    "_ Desktop/WPF/Wyświeltanie info.md",
+    "R U S T/Rust lang - The complete beginner's guide/5. Data types.md",
+    "_ Desktop/WPF/od Podstaw do app w WPF/_ część dalsza od podstaw do app WPF.md",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.11 Struktury.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.13. TYPY Generyczne.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.14. Ograniczenia, statyczne i domyślne wartości dziedziczenie typów generycznych.md",
     "_ Mobile/Android/the complete Android 12 and Kotlin/3 Kotlin fundamentals.md",
@@ -276,11 +280,6 @@
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/6. Układy z ograniczeniami ConstraintLayout.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/7. Widoki list i adaptery.md",
-    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.1. Układy i komponenty GUI dziedziczą po `View`.md",
-    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5. Widoki i grupy widoków.md",
-    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/9.2. Fragment list.md",
-    "R U S T/Rust lang - The complete beginner's guide/5. Data types.md",
-    "C Sharp/Rusz Głową C Sharp/1. Zacznij pisać programy w języku C Sharp.md",
     "C Sharp/Rusz Głową C Sharp",
     "Pasted image 20240131102422.png",
     "Pasted image 20240131091457.png",
