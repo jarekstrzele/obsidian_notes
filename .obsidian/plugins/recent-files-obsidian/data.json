@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Wyświeltanie info",
-      "path": "_ Desktop/WPF/Wyświeltanie info.md"
+      "basename": "_ C Sharp od Podstaw do WPF i XAML",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md"
     },
     {
       "basename": "8 Aplikacje WPF",
       "path": "_ Desktop/WPF/od Podstaw do app w WPF/8 Aplikacje WPF.md"
     },
     {
-      "basename": "5. Data types",
-      "path": "R U S T/Rust lang - The complete beginner's guide/5. Data types.md"
-    },
-    {
       "basename": "_ część dalsza od podstaw do app WPF",
       "path": "_ Desktop/WPF/od Podstaw do app w WPF/_ część dalsza od podstaw do app WPF.md"
+    },
+    {
+      "basename": "Wyświeltanie info",
+      "path": "_ Desktop/WPF/Wyświeltanie info.md"
+    },
+    {
+      "basename": "5. Data types",
+      "path": "R U S T/Rust lang - The complete beginner's guide/5. Data types.md"
     },
     {
       "basename": "1.11 Struktury",
@@ -195,10 +199,6 @@
     {
       "basename": "_ Rusz Głową Android. Programowanie aplikacji",
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/_ Rusz Głową Android. Programowanie aplikacji.md"
-    },
-    {
-      "basename": "Context",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Context.md"
     }
   ],
   "omittedPaths": [],
