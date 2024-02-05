@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "1.11 Struktury",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.11 Struktury.md"
+    },
+    {
       "basename": "1.13. TYPY Generyczne",
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.13. TYPY Generyczne.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_ Full Rust Beginners Cours",
       "path": "R U S T/1 - Full Rust Beginner s Course/_ Full Rust Beginners Cours.md"
-    },
-    {
-      "basename": "MIME TYPE",
-      "path": "MIME TYPE.md"
     }
   ],
   "omittedPaths": [],
