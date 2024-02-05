@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5. Widoki i grupy widoków.md",
+                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md",
                 "mode": "source",
                 "source": false
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5. Widoki i grupy widoków.md",
+                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5. Widoki i grupy widoków.md",
+                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5. Widoki i grupy widoków.md"
+                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md"
               }
             }
           },
@@ -267,6 +267,8 @@
   },
   "active": "e92853125bc50eab",
   "lastOpenFiles": [
+    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.1. Układy i komponenty GUI dziedziczą po `View`.md",
+    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5. Widoki i grupy widoków.md",
     "R U S T/Rust lang - The complete beginner's guide/3 Language basics.md",
     "C Sharp/Rusz Głową C Sharp/1. Zacznij pisać programy w języku C Sharp.md",
     "C Sharp/Complete CSharp MasterClass/8. Debugging.md",
@@ -291,8 +293,6 @@
     "_ Mobile/Kotlin/Fundamenty Kotlina.md",
     "_ Mobile/Kotlin/wyrażenia regularne zadania.md",
     "_ Mobile/Kotlin/Wyrażenia regularne.md",
-    "_ Mobile/Kotlin/Kotlin bez tajemnic/3.3. View Binding.md",
-    "_ Mobile/Kotlin/Kotlin bez tajemnic/3.2. View Models.md",
     "C Sharp/Rusz Głową C Sharp",
     "Pasted image 20240131102422.png",
     "Pasted image 20240131091457.png",
