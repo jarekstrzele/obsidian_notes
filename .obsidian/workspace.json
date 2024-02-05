@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Rust lang - The complete beginner's guide/3 Language basics.md",
+                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5. Widoki i grupy widoków.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C Sharp/Rusz Głową C Sharp/1. Zacznij pisać programy w języku C Sharp.md",
+                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5. Widoki i grupy widoków.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C Sharp/Rusz Głową C Sharp/1. Zacznij pisać programy w języku C Sharp.md",
+                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5. Widoki i grupy widoków.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C Sharp/Rusz Głową C Sharp/1. Zacznij pisać programy w języku C Sharp.md"
+                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5. Widoki i grupy widoków.md"
               }
             }
           },
@@ -265,8 +265,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0a2e7372e5181344",
+  "active": "e92853125bc50eab",
   "lastOpenFiles": [
+    "R U S T/Rust lang - The complete beginner's guide/3 Language basics.md",
+    "C Sharp/Rusz Głową C Sharp/1. Zacznij pisać programy w języku C Sharp.md",
     "C Sharp/Complete CSharp MasterClass/8. Debugging.md",
     "C Sharp/Complete CSharp MasterClass/7. Collections.md",
     "C Sharp/Complete CSharp MasterClass/6. OOP.md",
@@ -291,8 +293,6 @@
     "_ Mobile/Kotlin/Wyrażenia regularne.md",
     "_ Mobile/Kotlin/Kotlin bez tajemnic/3.3. View Binding.md",
     "_ Mobile/Kotlin/Kotlin bez tajemnic/3.2. View Models.md",
-    "_ Mobile/Kotlin/Kotlin bez tajemnic/3.1. Fragments.md",
-    "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md",
     "C Sharp/Rusz Głową C Sharp",
     "Pasted image 20240131102422.png",
     "Pasted image 20240131091457.png",
