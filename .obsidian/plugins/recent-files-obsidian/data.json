@@ -5,6 +5,10 @@
       "path": "_DataBase/MongoDB/MongoDB - The Complete 2023/2 Basic and CRUD.md"
     },
     {
+      "basename": "MongoDB Installation on Sys, on Docker",
+      "path": "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md"
+    },
+    {
       "basename": "_ MongoDB Complete",
       "path": "_DataBase/MongoDB/MongoDB - The Complete 2023/_ MongoDB Complete.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "10. Fragmenty dla większy interfejsów",
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/10. Fragmenty dla większy interfejsów.md"
-    },
-    {
-      "basename": "10.1. Celne spostrzeżenia",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/10.1. Celne spostrzeżenia.md"
     }
   ],
   "omittedPaths": [],
