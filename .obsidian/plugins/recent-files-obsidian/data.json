@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "10.1 Binding",
+      "path": "_ Desktop/WPF/od Podstaw do app w WPF/10.1 Binding.md"
+    },
+    {
       "basename": "2 Basic and CRUD",
       "path": "_DataBase/MongoDB/MongoDB - The Complete 2023/2 Basic and CRUD.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "1.7 Interfejsy",
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.7 Interfejsy.md"
-    },
-    {
-      "basename": "10. Fragmenty dla większy interfejsów",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/10. Fragmenty dla większy interfejsów.md"
     }
   ],
   "omittedPaths": [],
