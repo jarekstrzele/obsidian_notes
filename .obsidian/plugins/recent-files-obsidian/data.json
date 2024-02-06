@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "11. Fragmenty dynamiczne",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/11. Fragmenty dynamiczne.md"
+    },
+    {
+      "basename": "10.1. Celne spostrzeżenia",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/10.1. Celne spostrzeżenia.md"
+    },
+    {
+      "basename": "10. Fragmenty dla większy interfejsów",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/10. Fragmenty dla większy interfejsów.md"
+    },
+    {
       "basename": "5.2. Najważniejsze komponenty GUI",
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md"
     },
@@ -27,14 +39,6 @@
     {
       "basename": "1. Skok na głęboką wodę",
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/1. Skok na głęboką wodę.md"
-    },
-    {
-      "basename": "11. Fragmenty dynamiczne",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/11. Fragmenty dynamiczne.md"
-    },
-    {
-      "basename": "10. Fragmenty dla większy interfejsów",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/10. Fragmenty dla większy interfejsów.md"
     },
     {
       "basename": "9.2. Fragment list",
@@ -195,10 +199,6 @@
     {
       "basename": "Fundamenty Kotlina",
       "path": "_ Mobile/Kotlin/Fundamenty Kotlina.md"
-    },
-    {
-      "basename": "wyrażenia regularne zadania",
-      "path": "_ Mobile/Kotlin/wyrażenia regularne zadania.md"
     }
   ],
   "omittedPaths": [],
