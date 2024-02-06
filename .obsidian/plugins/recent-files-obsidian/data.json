@@ -1,8 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "2 Basic and CRUD",
+      "path": "_DataBase/MongoDB/MongoDB - The Complete 2023/2 Basic and CRUD.md"
+    },
+    {
+      "basename": "_ MongoDB Complete",
+      "path": "_DataBase/MongoDB/MongoDB - The Complete 2023/_ MongoDB Complete.md"
+    },
+    {
+      "basename": "_ C Sharp od Podstaw do WPF i XAML",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md"
+    },
+    {
+      "basename": "2. DataTypes and Variables",
+      "path": "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md"
+    },
+    {
+      "basename": "1. Zacznij pisać programy w języku C Sharp",
+      "path": "C Sharp/Rusz Głową C Sharp/1. Zacznij pisać programy w języku C Sharp.md"
+    },
+    {
+      "basename": "9.2. Fragment list",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/9.2. Fragment list.md"
+    },
+    {
       "basename": "5.2. Najważniejsze komponenty GUI",
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md"
+    },
+    {
+      "basename": "3 Kotlin fundamentals",
+      "path": "_ Mobile/Android/the complete Android 12 and Kotlin/3 Kotlin fundamentals.md"
     },
     {
       "basename": "5.1. Układy i komponenty GUI dziedziczą po `View`",
@@ -15,10 +43,6 @@
     {
       "basename": "3 Language basics",
       "path": "R U S T/Rust lang - The complete beginner's guide/3 Language basics.md"
-    },
-    {
-      "basename": "1. Zacznij pisać programy w języku C Sharp",
-      "path": "C Sharp/Rusz Głową C Sharp/1. Zacznij pisać programy w języku C Sharp.md"
     },
     {
       "basename": "8. Debugging",
@@ -45,10 +69,6 @@
       "path": "C Sharp/Complete CSharp MasterClass/3 Functions-Methods and how to save time.md"
     },
     {
-      "basename": "2. DataTypes and Variables",
-      "path": "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md"
-    },
-    {
       "basename": "_ CSHarp Complete Masterclass",
       "path": "C Sharp/Complete CSharp MasterClass/_ CSHarp Complete Masterclass.md"
     },
@@ -69,10 +89,6 @@
       "path": "_ Desktop/WPF/od Podstaw do app w WPF/8 Aplikacje WPF.md"
     },
     {
-      "basename": "_ C Sharp od Podstaw do WPF i XAML",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md"
-    },
-    {
       "basename": "_ część dalsza od podstaw do app WPF",
       "path": "_ Desktop/WPF/od Podstaw do app w WPF/_ część dalsza od podstaw do app WPF.md"
     },
@@ -87,10 +103,6 @@
     {
       "basename": "1.14. Ograniczenia, statyczne i domyślne wartości dziedziczenie typów generycznych",
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.14. Ograniczenia, statyczne i domyślne wartości dziedziczenie typów generycznych.md"
-    },
-    {
-      "basename": "3 Kotlin fundamentals",
-      "path": "_ Mobile/Android/the complete Android 12 and Kotlin/3 Kotlin fundamentals.md"
     },
     {
       "basename": "_ Kotlin bez tajemnic",
@@ -161,10 +173,6 @@
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/7. Widoki list i adaptery.md"
     },
     {
-      "basename": "9.2. Fragment list",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/9.2. Fragment list.md"
-    },
-    {
       "basename": "_ C Sharp",
       "path": "C Sharp/Rusz Głową C Sharp/_ C Sharp.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "10.1. Celne spostrzeżenia",
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/10.1. Celne spostrzeżenia.md"
-    },
-    {
-      "basename": "11. Fragmenty dynamiczne",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/11. Fragmenty dynamiczne.md"
-    },
-    {
-      "basename": "9.1. Fragmant blank",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/9.1. Fragmant blank.md"
     }
   ],
   "omittedPaths": [],
