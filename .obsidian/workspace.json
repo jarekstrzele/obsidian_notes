@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md",
+                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/11. Fragmenty dynamiczne.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md",
+                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/11. Fragmenty dynamiczne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md",
+                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/11. Fragmenty dynamiczne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md"
+                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/11. Fragmenty dynamiczne.md"
               }
             }
           },
@@ -207,6 +207,9 @@
   },
   "active": "be04b817dc1b39c9",
   "lastOpenFiles": [
+    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/10. Fragmenty dla większy interfejsów.md",
+    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/9.2. Fragment list.md",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md",
     "_ Desktop/WPF/Wyświeltanie info.md",
     "_ Desktop/WPF/TicTacToe.md",
     "_ Desktop/WPF/Alien Form.md",
@@ -225,14 +228,11 @@
     "_DataBase/MongoDB/MongoDB - The Complete 2023/2 Basic and CRUD.md",
     "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md",
     "_DataBase/MongoDB/MongoDB - The Complete 2023/_ MongoDB Complete.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md",
     "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md",
     "C Sharp/Rusz Głową C Sharp/1. Zacznij pisać programy w języku C Sharp.md",
-    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/9.2. Fragment list.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md",
     "_ Mobile/Android/the complete Android 12 and Kotlin/3 Kotlin fundamentals.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.1. Układy i komponenty GUI dziedziczą po `View`.md",
-    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5. Widoki i grupy widoków.md",
     "C Sharp/Rusz Głową C Sharp",
     "Pasted image 20240131102422.png",
     "Pasted image 20240131091457.png",
