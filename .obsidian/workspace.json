@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Desktop/WPF/od Podstaw do app w WPF/10.1 Binding.md",
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Desktop/WPF/od Podstaw do app w WPF/10.1 Binding.md",
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Desktop/WPF/od Podstaw do app w WPF/10.1 Binding.md",
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Desktop/WPF/od Podstaw do app w WPF/10.1 Binding.md"
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md"
               }
             }
           },
@@ -207,10 +207,21 @@
   },
   "active": "be04b817dc1b39c9",
   "lastOpenFiles": [
+    "_ Desktop/WPF/Wyświeltanie info.md",
+    "_ Desktop/WPF/TicTacToe.md",
+    "_ Desktop/WPF/Alien Form.md",
+    "_ Desktop/WPF/Fast WFP  C Sharp/_ Fast WFP C Sharp.md",
+    "_ Desktop/WPF/CSharp WPF xaml youtube/_ WPF.md",
+    "_ Desktop/WPF/Fast WFP  C Sharp/2 Controls WPF.md",
+    "_ Desktop/WPF/Fast WFP  C Sharp/1 Grid.md",
+    "_ Desktop/WPF/od Podstaw do app w WPF/10.1 Binding.md",
+    "_ Desktop/WPF/od Podstaw do app w WPF/10 WPF - zaawansowane.md",
+    "_ Desktop/WPF/od Podstaw do app w WPF/8 Aplikacje WPF.md",
+    "_ Desktop/WPF/od Podstaw do app w WPF/9 WPF układy komponentów.md",
+    "_ Desktop/WPF/od Podstaw do app w WPF/9.1. RadioButton, GroupBox, Label.md",
     "_ Desktop/WPF/od Podstaw do app w WPF/10.24 DataGrid.md",
     "_ Desktop/WPF/od Podstaw do app w WPF/10.3 DataContext oraz interfejs INotifyPropertyChanged.md",
     "_ Desktop/WPF/od Podstaw do app w WPF/10.2 Eventy i Delegaty.md",
-    "_ Desktop/WPF/od Podstaw do app w WPF/10.1 Binding.md",
     "_DataBase/MongoDB/MongoDB - The Complete 2023/2 Basic and CRUD.md",
     "_DataBase/MongoDB/MongoDB Installation on Sys, on Docker.md",
     "_DataBase/MongoDB/MongoDB - The Complete 2023/_ MongoDB Complete.md",
@@ -222,17 +233,6 @@
     "_ Mobile/Android/the complete Android 12 and Kotlin/3 Kotlin fundamentals.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.1. Układy i komponenty GUI dziedziczą po `View`.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5. Widoki i grupy widoków.md",
-    "R U S T/Rust lang - The complete beginner's guide/3 Language basics.md",
-    "C Sharp/Complete CSharp MasterClass/8. Debugging.md",
-    "C Sharp/Complete CSharp MasterClass/7. Collections.md",
-    "C Sharp/Complete CSharp MasterClass/6. OOP.md",
-    "C Sharp/Complete CSharp MasterClass/5. Loops.md",
-    "C Sharp/Complete CSharp MasterClass/4. Making Decisions.md",
-    "C Sharp/Complete CSharp MasterClass/3 Functions-Methods and how to save time.md",
-    "C Sharp/Complete CSharp MasterClass/_ CSHarp Complete Masterclass.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.11 Struktury.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.13. TYPY Generyczne.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
     "C Sharp/Rusz Głową C Sharp",
     "Pasted image 20240131102422.png",
     "Pasted image 20240131091457.png",

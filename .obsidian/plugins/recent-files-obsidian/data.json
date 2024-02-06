@@ -1,8 +1,56 @@
 {
   "recentFiles": [
     {
+      "basename": "_ C Sharp od Podstaw do WPF i XAML",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md"
+    },
+    {
+      "basename": "Wyświeltanie info",
+      "path": "_ Desktop/WPF/Wyświeltanie info.md"
+    },
+    {
+      "basename": "TicTacToe",
+      "path": "_ Desktop/WPF/TicTacToe.md"
+    },
+    {
+      "basename": "Alien Form",
+      "path": "_ Desktop/WPF/Alien Form.md"
+    },
+    {
+      "basename": "_ Fast WFP C Sharp",
+      "path": "_ Desktop/WPF/Fast WFP  C Sharp/_ Fast WFP C Sharp.md"
+    },
+    {
+      "basename": "_ WPF",
+      "path": "_ Desktop/WPF/CSharp WPF xaml youtube/_ WPF.md"
+    },
+    {
+      "basename": "2 Controls WPF",
+      "path": "_ Desktop/WPF/Fast WFP  C Sharp/2 Controls WPF.md"
+    },
+    {
+      "basename": "1 Grid",
+      "path": "_ Desktop/WPF/Fast WFP  C Sharp/1 Grid.md"
+    },
+    {
       "basename": "10.1 Binding",
       "path": "_ Desktop/WPF/od Podstaw do app w WPF/10.1 Binding.md"
+    },
+    {
+      "basename": "10 WPF - zaawansowane",
+      "path": "_ Desktop/WPF/od Podstaw do app w WPF/10 WPF - zaawansowane.md"
+    },
+    {
+      "basename": "8 Aplikacje WPF",
+      "path": "_ Desktop/WPF/od Podstaw do app w WPF/8 Aplikacje WPF.md"
+    },
+    {
+      "basename": "9 WPF układy komponentów",
+      "path": "_ Desktop/WPF/od Podstaw do app w WPF/9 WPF układy komponentów.md"
+    },
+    {
+      "basename": "9.1. RadioButton, GroupBox, Label",
+      "path": "_ Desktop/WPF/od Podstaw do app w WPF/9.1. RadioButton, GroupBox, Label.md"
     },
     {
       "basename": "10.24 DataGrid",
@@ -27,10 +75,6 @@
     {
       "basename": "_ MongoDB Complete",
       "path": "_DataBase/MongoDB/MongoDB - The Complete 2023/_ MongoDB Complete.md"
-    },
-    {
-      "basename": "_ C Sharp od Podstaw do WPF i XAML",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md"
     },
     {
       "basename": "2. DataTypes and Variables",
@@ -105,16 +149,8 @@
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md"
     },
     {
-      "basename": "8 Aplikacje WPF",
-      "path": "_ Desktop/WPF/od Podstaw do app w WPF/8 Aplikacje WPF.md"
-    },
-    {
       "basename": "_ część dalsza od podstaw do app WPF",
       "path": "_ Desktop/WPF/od Podstaw do app w WPF/_ część dalsza od podstaw do app WPF.md"
-    },
-    {
-      "basename": "Wyświeltanie info",
-      "path": "_ Desktop/WPF/Wyświeltanie info.md"
     },
     {
       "basename": "5. Data types",
@@ -163,42 +199,6 @@
     {
       "basename": "11. Lambda i funkcje wyższego rzędu",
       "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/11. Lambda i funkcje wyższego rzędu.md"
-    },
-    {
-      "basename": "10 Typy sparametryzowane",
-      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/10 Typy sparametryzowane.md"
-    },
-    {
-      "basename": "9. Kolekcje",
-      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/9. Kolekcje.md"
-    },
-    {
-      "basename": "8.1. Wyjątki",
-      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/8.1. Wyjątki.md"
-    },
-    {
-      "basename": "7 Klasy danych",
-      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/7 Klasy danych.md"
-    },
-    {
-      "basename": "4 Klasy i obiekty",
-      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/4 Klasy i obiekty.md"
-    },
-    {
-      "basename": "6. Układy z ograniczeniami ConstraintLayout",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/6. Układy z ograniczeniami ConstraintLayout.md"
-    },
-    {
-      "basename": "7. Widoki list i adaptery",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/7. Widoki list i adaptery.md"
-    },
-    {
-      "basename": "_ C Sharp",
-      "path": "C Sharp/Rusz Głową C Sharp/_ C Sharp.md"
-    },
-    {
-      "basename": "1.12 Indeksery",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.12 Indeksery.md"
     }
   ],
   "omittedPaths": [],
