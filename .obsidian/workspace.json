@@ -134,6 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_DataBase/MongoDB/MongoDB - The Complete 2023/2 Basic and CRUD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,6 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_DataBase/MongoDB/MongoDB - The Complete 2023/2 Basic and CRUD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +173,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_DataBase/MongoDB/MongoDB - The Complete 2023/2 Basic and CRUD.md"
+              }
             }
           },
           {
