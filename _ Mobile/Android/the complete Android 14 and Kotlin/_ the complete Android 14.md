@@ -9,7 +9,11 @@ OLDER (Android 12)
 [[6 Age in Minute Calculator]]
 
 ---------
+# intro
+`Empty View` is without xml
 
+```
+```
 
 
 
