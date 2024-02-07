@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "8.7. Toggle Button",
+      "path": "_ Mobile/Android/the complete Android Kotlin/8.7. Toggle Button.md"
+    },
+    {
+      "basename": "8.6 RadioButton",
+      "path": "_ Mobile/Android/the complete Android Kotlin/8.6 RadioButton.md"
+    },
+    {
+      "basename": "8.6 CheckBox",
+      "path": "_ Mobile/Android/the complete Android Kotlin/8.6 CheckBox.md"
+    },
+    {
       "basename": "8.5 ImageView",
       "path": "_ Mobile/Android/the complete Android Kotlin/8.5 ImageView.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "8. Debugging",
       "path": "C Sharp/Complete CSharp MasterClass/8. Debugging.md"
-    },
-    {
-      "basename": "7. Collections",
-      "path": "C Sharp/Complete CSharp MasterClass/7. Collections.md"
-    },
-    {
-      "basename": "6. OOP",
-      "path": "C Sharp/Complete CSharp MasterClass/6. OOP.md"
-    },
-    {
-      "basename": "5. Loops",
-      "path": "C Sharp/Complete CSharp MasterClass/5. Loops.md"
     }
   ],
   "omittedPaths": [],

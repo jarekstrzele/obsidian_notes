@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/8.5 ImageView.md",
+                "file": "_ Mobile/Android/the complete Android Kotlin/8.7. Toggle Button.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/8.5 ImageView.md",
+                "file": "_ Mobile/Android/the complete Android Kotlin/8.7. Toggle Button.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/8.5 ImageView.md",
+                "file": "_ Mobile/Android/the complete Android Kotlin/8.7. Toggle Button.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/8.5 ImageView.md"
+                "file": "_ Mobile/Android/the complete Android Kotlin/8.7. Toggle Button.md"
               }
             }
           },
@@ -207,6 +207,9 @@
   },
   "active": "be04b817dc1b39c9",
   "lastOpenFiles": [
+    "_ Mobile/Android/the complete Android Kotlin/8.6 RadioButton.md",
+    "_ Mobile/Android/the complete Android Kotlin/8.6 CheckBox.md",
+    "_ Mobile/Android/the complete Android Kotlin/8.5 ImageView.md",
     "_ Mobile/Android/the complete Android Kotlin/8.4 EditTexts.md",
     "_ Mobile/Android/the complete Android Kotlin/8.3 Button.md",
     "_ Mobile/Android/the complete Android Kotlin/8.2 TextView.md",
@@ -231,9 +234,6 @@
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/9.2. Fragment list.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md",
     "_ Desktop/WPF/Wyświeltanie info.md",
-    "_ Desktop/WPF/TicTacToe.md",
-    "_ Desktop/WPF/Alien Form.md",
-    "_ Desktop/WPF/Fast WFP  C Sharp/_ Fast WFP C Sharp.md",
     "C Sharp/Rusz Głową C Sharp",
     "Pasted image 20240131102422.png",
     "Pasted image 20240131091457.png",
