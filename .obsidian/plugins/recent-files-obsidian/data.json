@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "_ the complete Android 14",
+      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/_ the complete Android 14.md"
+    },
+    {
+      "basename": "2 Getting ready with Android Studio",
+      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/older/2 Getting ready with Android Studio.md"
+    },
+    {
+      "basename": "3 Kotlin fundamentals",
+      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/older/3 Kotlin fundamentals.md"
+    },
+    {
+      "basename": "6 Age in Minute Calculator",
+      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/older/6 Age in Minute Calculator.md"
+    },
+    {
+      "basename": "4. OOP Kotlin",
+      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/older/4. OOP Kotlin.md"
+    },
+    {
       "basename": "8.7. Toggle Button",
       "path": "_ Mobile/Android/the complete Android Kotlin/8.7. Toggle Button.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "2. DataTypes and Variables",
       "path": "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md"
-    },
-    {
-      "basename": "1. Zacznij pisać programy w języku C Sharp",
-      "path": "C Sharp/Rusz Głową C Sharp/1. Zacznij pisać programy w języku C Sharp.md"
-    },
-    {
-      "basename": "3 Kotlin fundamentals",
-      "path": "_ Mobile/Android/the complete Android 12 and Kotlin/3 Kotlin fundamentals.md"
-    },
-    {
-      "basename": "5.1. Układy i komponenty GUI dziedziczą po `View`",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.1. Układy i komponenty GUI dziedziczą po `View`.md"
-    },
-    {
-      "basename": "3 Language basics",
-      "path": "R U S T/Rust lang - The complete beginner's guide/3 Language basics.md"
-    },
-    {
-      "basename": "8. Debugging",
-      "path": "C Sharp/Complete CSharp MasterClass/8. Debugging.md"
     }
   ],
   "omittedPaths": [],

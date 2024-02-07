@@ -1,4 +1,4 @@
-[[_ the complete Android 12]]
+[[_ the complete Android 14]]
 
 - a new project
 - to choose colors https://coolors.co/

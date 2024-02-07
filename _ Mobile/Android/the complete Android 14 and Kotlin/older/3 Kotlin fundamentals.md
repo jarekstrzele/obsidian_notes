@@ -1,5 +1,5 @@
 #kotlin 
-[[_ the complete Android 12]]
+[[_ the complete Android 14]]
 
 ----
 Kotlin programmer dictionary: https://blog.kotlin-academy.com
