@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/11. Fragmenty dynamiczne.md",
+                "file": "_ Mobile/Android/the complete Android Kotlin/8.5 ImageView.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 452.5
+    "width": 353.5
   },
   "right": {
     "id": "7036b4a7a06b882e",
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/11. Fragmenty dynamiczne.md",
+                "file": "_ Mobile/Android/the complete Android Kotlin/8.5 ImageView.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/11. Fragmenty dynamiczne.md",
+                "file": "_ Mobile/Android/the complete Android Kotlin/8.5 ImageView.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/11. Fragmenty dynamiczne.md"
+                "file": "_ Mobile/Android/the complete Android Kotlin/8.5 ImageView.md"
               }
             }
           },
@@ -207,6 +207,17 @@
   },
   "active": "be04b817dc1b39c9",
   "lastOpenFiles": [
+    "_ Mobile/Android/the complete Android Kotlin/8.4 EditTexts.md",
+    "_ Mobile/Android/the complete Android Kotlin/8.3 Button.md",
+    "_ Mobile/Android/the complete Android Kotlin/8.2 TextView.md",
+    "_ Mobile/Android/the complete Android Kotlin/8.1 Layouts in Android App.md",
+    "_ Mobile/Android/the complete Android Kotlin/8 Android Components.md",
+    "_ Mobile/Android/the complete Android Kotlin/7 Intro to Android App Development.md",
+    "_ Mobile/Android/the complete Android Kotlin/6 Kotlin OOP.md",
+    "_ Mobile/Android/the complete Android Kotlin/5 Functions in Android Kotlin.md",
+    "_ Mobile/Android/the complete Android Kotlin/4 Loops in Kotlin.md",
+    "_ Mobile/Android/the complete Android Kotlin/3 Control Flow Statements in Kotlin.md",
+    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/11. Fragmenty dynamiczne.md",
     "Pasted image 20240206220501.png",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/10.1. Celne spostrzeżenia.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/10. Fragmenty dla większy interfejsów.md",
@@ -217,22 +228,12 @@
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4.1. Pierwsza wersja stopera.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/2. Tworzenie interaktywnych aplikacji.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/1. Skok na głęboką wodę.md",
-    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/11. Fragmenty dynamiczne.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/9.2. Fragment list.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md",
     "_ Desktop/WPF/Wyświeltanie info.md",
     "_ Desktop/WPF/TicTacToe.md",
     "_ Desktop/WPF/Alien Form.md",
     "_ Desktop/WPF/Fast WFP  C Sharp/_ Fast WFP C Sharp.md",
-    "_ Desktop/WPF/CSharp WPF xaml youtube/_ WPF.md",
-    "_ Desktop/WPF/Fast WFP  C Sharp/2 Controls WPF.md",
-    "_ Desktop/WPF/Fast WFP  C Sharp/1 Grid.md",
-    "_ Desktop/WPF/od Podstaw do app w WPF/10.1 Binding.md",
-    "_ Desktop/WPF/od Podstaw do app w WPF/10 WPF - zaawansowane.md",
-    "_ Desktop/WPF/od Podstaw do app w WPF/8 Aplikacje WPF.md",
-    "_ Desktop/WPF/od Podstaw do app w WPF/9 WPF układy komponentów.md",
-    "_ Desktop/WPF/od Podstaw do app w WPF/9.1. RadioButton, GroupBox, Label.md",
-    "_ Desktop/WPF/od Podstaw do app w WPF/10.24 DataGrid.md",
     "C Sharp/Rusz Głową C Sharp",
     "Pasted image 20240131102422.png",
     "Pasted image 20240131091457.png",
