@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "1 Fundamentals of Kotlin",
+      "path": "_ Mobile/Android/the complete Android Kotlin/1 Fundamentals of Kotlin.md"
+    },
+    {
       "basename": "6 Kotlin OOP",
       "path": "_ Mobile/Android/the complete Android Kotlin/6 Kotlin OOP.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "10.3 DataContext oraz interfejs INotifyPropertyChanged",
       "path": "_ Desktop/WPF/od Podstaw do app w WPF/10.3 DataContext oraz interfejs INotifyPropertyChanged.md"
-    },
-    {
-      "basename": "10.2 Eventy i Delegaty",
-      "path": "_ Desktop/WPF/od Podstaw do app w WPF/10.2 Eventy i Delegaty.md"
     }
   ],
   "omittedPaths": [],
