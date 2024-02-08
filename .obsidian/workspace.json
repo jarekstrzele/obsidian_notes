@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/3 Control Flow Statements in Kotlin.md",
+                "file": "_ Mobile/Android/the complete Android Kotlin/8 Android Components.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/3 Control Flow Statements in Kotlin.md",
+                "file": "_ Mobile/Android/the complete Android Kotlin/8 Android Components.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/3 Control Flow Statements in Kotlin.md",
+                "file": "_ Mobile/Android/the complete Android Kotlin/8 Android Components.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/3 Control Flow Statements in Kotlin.md"
+                "file": "_ Mobile/Android/the complete Android Kotlin/8 Android Components.md"
               }
             }
           },
@@ -231,6 +231,7 @@
   },
   "active": "5f1e73f425f8c6be",
   "lastOpenFiles": [
+    "_ Mobile/Android/the complete Android Kotlin/3 Control Flow Statements in Kotlin.md",
     "_ Mobile/Android/the complete Android Kotlin/4 Loops in Kotlin.md",
     "_ Mobile/Android/the complete Android Kotlin/2 Operators in Kotlin.md",
     "_ Mobile/Android/the complete Android Kotlin/1 Fundamentals of Kotlin.md",
@@ -257,7 +258,6 @@
     "_ Mobile/Android/the complete Android Kotlin/8 Android Components.md",
     "_ Mobile/Android/the complete Android Kotlin/7 Intro to Android App Development.md",
     "_ Mobile/Android/the complete Android Kotlin/5 Functions in Android Kotlin.md",
-    "_ Mobile/Android/the complete Android Kotlin/3 Control Flow Statements in Kotlin.md",
     "Pasted image 20240206220501.png",
     "C Sharp/Rusz Głową C Sharp",
     "Pasted image 20240131102422.png",
