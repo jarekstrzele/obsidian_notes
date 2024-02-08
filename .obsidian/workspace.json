@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/_ the complete Android 14.md",
+                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,14 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/8 Android Components.md",
+                "file": "_ Mobile/Android/the complete Android Kotlin/8.2 TextView.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/8 Android Components.md",
+                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/8 Android Components.md",
+                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/8 Android Components.md"
+                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md"
               }
             }
           },
@@ -229,8 +229,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5f1e73f425f8c6be",
+  "active": "be04b817dc1b39c9",
   "lastOpenFiles": [
+    "_ Mobile/Android/the complete Android 14 and Kotlin/_ the complete Android 14.md",
+    "_ Mobile/Kotlin/Wyrażenia regularne.md",
+    "_ Mobile/Android/the complete Android Kotlin/8.2 TextView.md",
+    "_ Mobile/Android/the complete Android Kotlin/8.1 Layouts in Android App.md",
+    "_ Mobile/Android/the complete Android Kotlin/8 Android Components.md",
     "_ Mobile/Android/the complete Android Kotlin/3 Control Flow Statements in Kotlin.md",
     "_ Mobile/Android/the complete Android Kotlin/4 Loops in Kotlin.md",
     "_ Mobile/Android/the complete Android Kotlin/2 Operators in Kotlin.md",
@@ -238,11 +243,9 @@
     "_ Mobile/Android/the complete Android Kotlin/6 Kotlin OOP.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/2 Typy proste i zmienn.md",
     "_ Mobile/Kotlin/Fundamenty Kotlina.md",
-    "_ Mobile/Kotlin/Wyrażenia regularne.md",
     "_ Mobile/Kotlin/wyrażenia regularne zadania.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md",
     "_ Mobile/Android/the complete Android Kotlin/8.5 ImageView.md",
-    "_ Mobile/Android/the complete Android 14 and Kotlin/_ the complete Android 14.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/Android 12 XML/2 Getting ready with Android Studio.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/Android 12 XML",
     "_ Mobile/Android/the complete Android 14 and Kotlin/Android 12 XML/3 Kotlin fundamentals.md",
@@ -253,9 +256,6 @@
     "_ Mobile/Android/the complete Android Kotlin/8.6 CheckBox.md",
     "_ Mobile/Android/8.4 EditTexts.md",
     "_ Mobile/Android/the complete Android Kotlin/8.3 Button.md",
-    "_ Mobile/Android/the complete Android Kotlin/8.2 TextView.md",
-    "_ Mobile/Android/the complete Android Kotlin/8.1 Layouts in Android App.md",
-    "_ Mobile/Android/the complete Android Kotlin/8 Android Components.md",
     "_ Mobile/Android/the complete Android Kotlin/7 Intro to Android App Development.md",
     "_ Mobile/Android/the complete Android Kotlin/5 Functions in Android Kotlin.md",
     "Pasted image 20240206220501.png",
