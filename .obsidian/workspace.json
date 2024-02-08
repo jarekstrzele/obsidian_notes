@@ -47,8 +47,12 @@
             "id": "5f1e73f425f8c6be",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_ Mobile/Android/the complete Android Kotlin/6 Kotlin OOP.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -134,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_DataBase/MongoDB/MongoDB - The Complete 2023/2 Basic and CRUD.md",
+                "file": "_ Mobile/Android/the complete Android Kotlin/6 Kotlin OOP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_DataBase/MongoDB/MongoDB - The Complete 2023/2 Basic and CRUD.md",
+                "file": "_ Mobile/Android/the complete Android Kotlin/6 Kotlin OOP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_DataBase/MongoDB/MongoDB - The Complete 2023/2 Basic and CRUD.md"
+                "file": "_ Mobile/Android/the complete Android Kotlin/6 Kotlin OOP.md"
               }
             }
           },
@@ -227,6 +231,8 @@
   },
   "active": "5f1e73f425f8c6be",
   "lastOpenFiles": [
+    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/2 Typy proste i zmienn.md",
+    "_ Mobile/Kotlin/Fundamenty Kotlina.md",
     "_ Mobile/Kotlin/Wyrażenia regularne.md",
     "_ Mobile/Kotlin/wyrażenia regularne zadania.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md",
@@ -253,8 +259,6 @@
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/11. Fragmenty dynamiczne.md",
     "Pasted image 20240206220501.png",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/10.1. Celne spostrzeżenia.md",
-    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/10. Fragmenty dla większy interfejsów.md",
-    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5. Widoki i grupy widoków.md",
     "C Sharp/Rusz Głową C Sharp",
     "Pasted image 20240131102422.png",
     "Pasted image 20240131091457.png",
