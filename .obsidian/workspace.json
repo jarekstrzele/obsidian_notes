@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/1 Fundamentals of Kotlin.md",
+                "file": "_ Mobile/Android/the complete Android Kotlin/3 Control Flow Statements in Kotlin.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/1 Fundamentals of Kotlin.md",
+                "file": "_ Mobile/Android/the complete Android Kotlin/3 Control Flow Statements in Kotlin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/1 Fundamentals of Kotlin.md",
+                "file": "_ Mobile/Android/the complete Android Kotlin/3 Control Flow Statements in Kotlin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/1 Fundamentals of Kotlin.md"
+                "file": "_ Mobile/Android/the complete Android Kotlin/3 Control Flow Statements in Kotlin.md"
               }
             }
           },
@@ -231,6 +231,9 @@
   },
   "active": "5f1e73f425f8c6be",
   "lastOpenFiles": [
+    "_ Mobile/Android/the complete Android Kotlin/4 Loops in Kotlin.md",
+    "_ Mobile/Android/the complete Android Kotlin/2 Operators in Kotlin.md",
+    "_ Mobile/Android/the complete Android Kotlin/1 Fundamentals of Kotlin.md",
     "_ Mobile/Android/the complete Android Kotlin/6 Kotlin OOP.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/2 Typy proste i zmienn.md",
     "_ Mobile/Kotlin/Fundamenty Kotlina.md",
@@ -254,11 +257,8 @@
     "_ Mobile/Android/the complete Android Kotlin/8 Android Components.md",
     "_ Mobile/Android/the complete Android Kotlin/7 Intro to Android App Development.md",
     "_ Mobile/Android/the complete Android Kotlin/5 Functions in Android Kotlin.md",
-    "_ Mobile/Android/the complete Android Kotlin/4 Loops in Kotlin.md",
     "_ Mobile/Android/the complete Android Kotlin/3 Control Flow Statements in Kotlin.md",
-    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/11. Fragmenty dynamiczne.md",
     "Pasted image 20240206220501.png",
-    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/10.1. Celne spostrzeżenia.md",
     "C Sharp/Rusz Głową C Sharp",
     "Pasted image 20240131102422.png",
     "Pasted image 20240131091457.png",

@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "3 Control Flow Statements in Kotlin",
+      "path": "_ Mobile/Android/the complete Android Kotlin/3 Control Flow Statements in Kotlin.md"
+    },
+    {
+      "basename": "4 Loops in Kotlin",
+      "path": "_ Mobile/Android/the complete Android Kotlin/4 Loops in Kotlin.md"
+    },
+    {
+      "basename": "2 Operators in Kotlin",
+      "path": "_ Mobile/Android/the complete Android Kotlin/2 Operators in Kotlin.md"
+    },
+    {
       "basename": "1 Fundamentals of Kotlin",
       "path": "_ Mobile/Android/the complete Android Kotlin/1 Fundamentals of Kotlin.md"
     },
@@ -91,14 +103,6 @@
     {
       "basename": "5 Functions in Android Kotlin",
       "path": "_ Mobile/Android/the complete Android Kotlin/5 Functions in Android Kotlin.md"
-    },
-    {
-      "basename": "4 Loops in Kotlin",
-      "path": "_ Mobile/Android/the complete Android Kotlin/4 Loops in Kotlin.md"
-    },
-    {
-      "basename": "3 Control Flow Statements in Kotlin",
-      "path": "_ Mobile/Android/the complete Android Kotlin/3 Control Flow Statements in Kotlin.md"
     },
     {
       "basename": "11. Fragmenty dynamiczne",
@@ -195,10 +199,6 @@
     {
       "basename": "10.24 DataGrid",
       "path": "_ Desktop/WPF/od Podstaw do app w WPF/10.24 DataGrid.md"
-    },
-    {
-      "basename": "10.3 DataContext oraz interfejs INotifyPropertyChanged",
-      "path": "_ Desktop/WPF/od Podstaw do app w WPF/10.3 DataContext oraz interfejs INotifyPropertyChanged.md"
     }
   ],
   "omittedPaths": [],
