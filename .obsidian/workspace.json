@@ -49,14 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/8.2 TextView.md",
+                "file": "_ Mobile/Android/the complete Android Kotlin/8.6 CheckBox.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md",
+                "file": "_ Mobile/Android/the complete Android Kotlin/8.6 CheckBox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md",
+                "file": "_ Mobile/Android/the complete Android Kotlin/8.6 CheckBox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md"
+                "file": "_ Mobile/Android/the complete Android Kotlin/8.6 CheckBox.md"
               }
             }
           },
@@ -229,12 +229,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "be04b817dc1b39c9",
+  "active": "5f1e73f425f8c6be",
   "lastOpenFiles": [
-    "_ Mobile/Android/the complete Android Kotlin/8.2 TextView.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md",
-    "_ Mobile/Android/the complete Android 14 and Kotlin/_ the complete Android 14.md",
+    "_ Mobile/Android/the complete Android Kotlin/8.6 CheckBox.md",
     "_ Mobile/Kotlin/Wyrażenia regularne.md",
+    "_ Mobile/Android/the complete Android Kotlin/8.6 RadioButton.md",
+    "_ Mobile/Android/the complete Android Kotlin/8.2 TextView.md",
+    "_ Mobile/Android/the complete Android 14 and Kotlin/_ the complete Android 14.md",
     "_ Mobile/Android/the complete Android Kotlin/8.1 Layouts in Android App.md",
     "_ Mobile/Android/the complete Android Kotlin/8 Android Components.md",
     "_ Mobile/Android/the complete Android Kotlin/3 Control Flow Statements in Kotlin.md",
@@ -252,8 +254,6 @@
     "_ Mobile/Android/the complete Android 14 and Kotlin/Android 12 XML/6 Age in Minute Calculator.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/Android 12 XML/4. OOP Kotlin.md",
     "_ Mobile/Android/the complete Android Kotlin/8.7. Toggle Button.md",
-    "_ Mobile/Android/the complete Android Kotlin/8.6 RadioButton.md",
-    "_ Mobile/Android/the complete Android Kotlin/8.6 CheckBox.md",
     "_ Mobile/Android/8.4 EditTexts.md",
     "_ Mobile/Android/the complete Android Kotlin/8.3 Button.md",
     "_ Mobile/Android/the complete Android Kotlin/7 Intro to Android App Development.md",
