@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md",
+                "file": "_DataBase/MongoDB/MongoDB - The Complete 2023/2 Basic and CRUD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md",
+                "file": "_DataBase/MongoDB/MongoDB - The Complete 2023/2 Basic and CRUD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md"
+                "file": "_DataBase/MongoDB/MongoDB - The Complete 2023/2 Basic and CRUD.md"
               }
             }
           },
@@ -229,11 +228,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "be04b817dc1b39c9",
+  "active": "e0cfe39b80cfbe36",
   "lastOpenFiles": [
+    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md",
     "_ Mobile/Android/the complete Android Kotlin/8.6 RadioButton.md",
     "_ Mobile/Android/the complete Android Kotlin/8.6 CheckBox.md",
-    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md",
     "_ Mobile/Kotlin/Wyrażenia regularne.md",
     "_ Mobile/Android/the complete Android Kotlin/8.2 TextView.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/_ the complete Android 14.md",
