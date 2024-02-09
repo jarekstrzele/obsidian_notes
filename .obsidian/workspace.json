@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md",
+                "file": "C Sharp/Rusz Głową C Sharp/1. Zacznij pisać programy w języku C Sharp.md",
                 "mode": "source",
                 "source": false
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md",
+                "file": "C Sharp/Rusz Głową C Sharp/1. Zacznij pisać programy w języku C Sharp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md",
+                "file": "C Sharp/Rusz Głową C Sharp/1. Zacznij pisać programy w języku C Sharp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md"
+                "file": "C Sharp/Rusz Głową C Sharp/1. Zacznij pisać programy w języku C Sharp.md"
               }
             }
           },
@@ -230,12 +230,16 @@
   },
   "active": "e0cfe39b80cfbe36",
   "lastOpenFiles": [
+    "C Sharp/Rusz Głową C Sharp/_ C Sharp.md",
+    "C Sharp/Complete CSharp MasterClass/_ CSHarp Complete Masterclass.md",
+    "C Sharp/Complete CSharp MasterClass/5. Loops.md",
+    "C Sharp/Complete CSharp MasterClass/4. Making Decisions.md",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.9. Enum.md",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.4 Dziedziczenie.md",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
     "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md",
-    "C Sharp/Complete CSharp MasterClass/4. Making Decisions.md",
     "C Sharp/Complete CSharp MasterClass/3 Functions-Methods and how to save time.md",
-    "C Sharp/Complete CSharp MasterClass/_ CSHarp Complete Masterclass.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md",
     "WPF/Wyświeltanie info.md",
     "WPF/Fast WFP  C Sharp/2 Controls WPF.md",
     "WPF/CSharp WPF xaml youtube/_ WPF.md",
@@ -252,10 +256,6 @@
     "_ Mobile/Android/the complete Android Kotlin/4 Loops in Kotlin.md",
     "_ Mobile/Android/the complete Android Kotlin/2 Operators in Kotlin.md",
     "_ Mobile/Android/the complete Android Kotlin/1 Fundamentals of Kotlin.md",
-    "_ Mobile/Android/the complete Android Kotlin/6 Kotlin OOP.md",
-    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/2 Typy proste i zmienn.md",
-    "_ Mobile/Kotlin/Fundamenty Kotlina.md",
-    "_ Mobile/Kotlin/wyrażenia regularne zadania.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/Android 12 XML",
     "Pasted image 20240206220501.png",
     "C Sharp/Rusz Głową C Sharp",

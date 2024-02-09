@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "1. Zacznij pisać programy w języku C Sharp",
+      "path": "C Sharp/Rusz Głową C Sharp/1. Zacznij pisać programy w języku C Sharp.md"
+    },
+    {
+      "basename": "_ C Sharp",
+      "path": "C Sharp/Rusz Głową C Sharp/_ C Sharp.md"
+    },
+    {
+      "basename": "_ CSHarp Complete Masterclass",
+      "path": "C Sharp/Complete CSharp MasterClass/_ CSHarp Complete Masterclass.md"
+    },
+    {
+      "basename": "5. Loops",
+      "path": "C Sharp/Complete CSharp MasterClass/5. Loops.md"
+    },
+    {
+      "basename": "4. Making Decisions",
+      "path": "C Sharp/Complete CSharp MasterClass/4. Making Decisions.md"
+    },
+    {
+      "basename": "1.9. Enum",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.9. Enum.md"
+    },
+    {
+      "basename": "1.4 Dziedziczenie",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.4 Dziedziczenie.md"
+    },
+    {
       "basename": "_ C Sharp od Podstaw do WPF i XAML",
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md"
     },
@@ -13,16 +41,8 @@
       "path": "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md"
     },
     {
-      "basename": "4. Making Decisions",
-      "path": "C Sharp/Complete CSharp MasterClass/4. Making Decisions.md"
-    },
-    {
       "basename": "3 Functions-Methods and how to save time",
       "path": "C Sharp/Complete CSharp MasterClass/3 Functions-Methods and how to save time.md"
-    },
-    {
-      "basename": "_ CSHarp Complete Masterclass",
-      "path": "C Sharp/Complete CSharp MasterClass/_ CSHarp Complete Masterclass.md"
     },
     {
       "basename": "Wyświeltanie info",
@@ -179,26 +199,6 @@
     {
       "basename": "1. Skok na głęboką wodę",
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/1. Skok na głęboką wodę.md"
-    },
-    {
-      "basename": "9.2. Fragment list",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/9.2. Fragment list.md"
-    },
-    {
-      "basename": "TicTacToe",
-      "path": "WPF/TicTacToe.md"
-    },
-    {
-      "basename": "Alien Form",
-      "path": "WPF/Alien Form.md"
-    },
-    {
-      "basename": "_ Fast WFP C Sharp",
-      "path": "WPF/Fast WFP  C Sharp/_ Fast WFP C Sharp.md"
-    },
-    {
-      "basename": "1 Grid",
-      "path": "WPF/Fast WFP  C Sharp/1 Grid.md"
     }
   ],
   "omittedPaths": [],
