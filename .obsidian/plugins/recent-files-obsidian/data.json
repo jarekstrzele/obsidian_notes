@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "2. DataTypes and Variables",
-      "path": "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md"
-    },
-    {
-      "basename": "_ CSHarp Complete Masterclass",
-      "path": "C Sharp/Complete CSharp MasterClass/_ CSHarp Complete Masterclass.md"
-    },
-    {
       "basename": "_ C Sharp od Podstaw do WPF i XAML",
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md"
     },
     {
       "basename": "1 OOP w CSharp",
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md"
+    },
+    {
+      "basename": "2. DataTypes and Variables",
+      "path": "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md"
+    },
+    {
+      "basename": "4. Making Decisions",
+      "path": "C Sharp/Complete CSharp MasterClass/4. Making Decisions.md"
+    },
+    {
+      "basename": "3 Functions-Methods and how to save time",
+      "path": "C Sharp/Complete CSharp MasterClass/3 Functions-Methods and how to save time.md"
+    },
+    {
+      "basename": "_ CSHarp Complete Masterclass",
+      "path": "C Sharp/Complete CSharp MasterClass/_ CSHarp Complete Masterclass.md"
     },
     {
       "basename": "Wyświeltanie info",
@@ -191,14 +199,6 @@
     {
       "basename": "1 Grid",
       "path": "WPF/Fast WFP  C Sharp/1 Grid.md"
-    },
-    {
-      "basename": "10.1 Binding",
-      "path": "WPF/od Podstaw do app w WPF/10.1 Binding.md"
-    },
-    {
-      "basename": "10 WPF - zaawansowane",
-      "path": "WPF/od Podstaw do app w WPF/10 WPF - zaawansowane.md"
     }
   ],
   "omittedPaths": [],
