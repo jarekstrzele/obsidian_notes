@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_DataBase/MongoDB/MongoDB - The Complete 2023/2 Basic and CRUD.md",
+                "file": "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md",
                 "mode": "source",
                 "source": false
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_DataBase/MongoDB/MongoDB - The Complete 2023/2 Basic and CRUD.md",
+                "file": "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_DataBase/MongoDB/MongoDB - The Complete 2023/2 Basic and CRUD.md",
+                "file": "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_DataBase/MongoDB/MongoDB - The Complete 2023/2 Basic and CRUD.md"
+                "file": "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md"
               }
             }
           },
@@ -230,6 +230,13 @@
   },
   "active": "e0cfe39b80cfbe36",
   "lastOpenFiles": [
+    "C Sharp/Complete CSharp MasterClass/_ CSHarp Complete Masterclass.md",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
+    "WPF/Wyświeltanie info.md",
+    "WPF/Fast WFP  C Sharp/2 Controls WPF.md",
+    "WPF/CSharp WPF xaml youtube/_ WPF.md",
+    "_DataBase/MongoDB/MongoDB - The Complete 2023/2 Basic and CRUD.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md",
     "_ Mobile/Android/the complete Android Kotlin/8.6 RadioButton.md",
     "_ Mobile/Android/the complete Android Kotlin/8.6 CheckBox.md",
@@ -250,13 +257,6 @@
     "_ Mobile/Android/the complete Android 14 and Kotlin/Android 12 XML/2 Getting ready with Android Studio.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/Android 12 XML",
     "_ Mobile/Android/the complete Android 14 and Kotlin/Android 12 XML/3 Kotlin fundamentals.md",
-    "_ Mobile/Android/the complete Android 14 and Kotlin/Android 12 XML/6 Age in Minute Calculator.md",
-    "_ Mobile/Android/the complete Android 14 and Kotlin/Android 12 XML/4. OOP Kotlin.md",
-    "_ Mobile/Android/the complete Android Kotlin/8.7. Toggle Button.md",
-    "_ Mobile/Android/8.4 EditTexts.md",
-    "_ Mobile/Android/the complete Android Kotlin/8.3 Button.md",
-    "_ Mobile/Android/the complete Android Kotlin/7 Intro to Android App Development.md",
-    "_ Mobile/Android/the complete Android Kotlin/5 Functions in Android Kotlin.md",
     "Pasted image 20240206220501.png",
     "C Sharp/Rusz Głową C Sharp",
     "Pasted image 20240131102422.png",

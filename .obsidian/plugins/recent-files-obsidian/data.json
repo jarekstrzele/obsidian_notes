@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "2. DataTypes and Variables",
+      "path": "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md"
+    },
+    {
+      "basename": "_ CSHarp Complete Masterclass",
+      "path": "C Sharp/Complete CSharp MasterClass/_ CSHarp Complete Masterclass.md"
+    },
+    {
+      "basename": "_ C Sharp od Podstaw do WPF i XAML",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md"
+    },
+    {
+      "basename": "1 OOP w CSharp",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md"
+    },
+    {
+      "basename": "Wyświeltanie info",
+      "path": "WPF/Wyświeltanie info.md"
+    },
+    {
+      "basename": "2 Controls WPF",
+      "path": "WPF/Fast WFP  C Sharp/2 Controls WPF.md"
+    },
+    {
+      "basename": "_ WPF",
+      "path": "WPF/CSharp WPF xaml youtube/_ WPF.md"
+    },
+    {
       "basename": "2 Basic and CRUD",
       "path": "_DataBase/MongoDB/MongoDB - The Complete 2023/2 Basic and CRUD.md"
     },
@@ -149,56 +177,28 @@
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/9.2. Fragment list.md"
     },
     {
-      "basename": "_ C Sharp od Podstaw do WPF i XAML",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md"
-    },
-    {
-      "basename": "Wyświeltanie info",
-      "path": "_ Desktop/WPF/Wyświeltanie info.md"
-    },
-    {
       "basename": "TicTacToe",
-      "path": "_ Desktop/WPF/TicTacToe.md"
+      "path": "WPF/TicTacToe.md"
     },
     {
       "basename": "Alien Form",
-      "path": "_ Desktop/WPF/Alien Form.md"
+      "path": "WPF/Alien Form.md"
     },
     {
       "basename": "_ Fast WFP C Sharp",
-      "path": "_ Desktop/WPF/Fast WFP  C Sharp/_ Fast WFP C Sharp.md"
-    },
-    {
-      "basename": "_ WPF",
-      "path": "_ Desktop/WPF/CSharp WPF xaml youtube/_ WPF.md"
-    },
-    {
-      "basename": "2 Controls WPF",
-      "path": "_ Desktop/WPF/Fast WFP  C Sharp/2 Controls WPF.md"
+      "path": "WPF/Fast WFP  C Sharp/_ Fast WFP C Sharp.md"
     },
     {
       "basename": "1 Grid",
-      "path": "_ Desktop/WPF/Fast WFP  C Sharp/1 Grid.md"
+      "path": "WPF/Fast WFP  C Sharp/1 Grid.md"
     },
     {
       "basename": "10.1 Binding",
-      "path": "_ Desktop/WPF/od Podstaw do app w WPF/10.1 Binding.md"
+      "path": "WPF/od Podstaw do app w WPF/10.1 Binding.md"
     },
     {
       "basename": "10 WPF - zaawansowane",
-      "path": "_ Desktop/WPF/od Podstaw do app w WPF/10 WPF - zaawansowane.md"
-    },
-    {
-      "basename": "8 Aplikacje WPF",
-      "path": "_ Desktop/WPF/od Podstaw do app w WPF/8 Aplikacje WPF.md"
-    },
-    {
-      "basename": "9 WPF układy komponentów",
-      "path": "_ Desktop/WPF/od Podstaw do app w WPF/9 WPF układy komponentów.md"
-    },
-    {
-      "basename": "9.1. RadioButton, GroupBox, Label",
-      "path": "_ Desktop/WPF/od Podstaw do app w WPF/9.1. RadioButton, GroupBox, Label.md"
+      "path": "WPF/od Podstaw do app w WPF/10 WPF - zaawansowane.md"
     }
   ],
   "omittedPaths": [],
