@@ -200,6 +200,7 @@ Oto kilka przykładów:
 1. `\d` - Oznacza dowolną cyfrę od 0 do 9.
 2. `\w` - Oznacza dowolny znak "word character", który obejmuje litery (małe i duże), cyfry i znak podkreślenia `_`. to skrót dla `[a-zA-Z0-9_]`
 3. `\s` - Oznacza dowolny biały znak (spacja, tabulator, znak nowej linii) - to równoważnik `[\t\n\x0B\f\r].
+4. `\p{L}` dowolny znak z dowolnego języka (w tym polskie znaki)
 
 Przykłady użycia:
 - `\w+` - Dopasuje jedno lub więcej znaków "word character" (litery, cyfry, znaki podkreślenia).
