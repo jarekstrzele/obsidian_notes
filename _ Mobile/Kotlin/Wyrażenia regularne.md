@@ -92,12 +92,12 @@ Ten wzorzec oznacza:
 fun main() {
   val regex = Regex("^[0-9]-[0-9]-[0-9]$")
 
-  val phone_OK = "213-321-212"
-  val phone_NO = "123-456-43"
+  val phone_NO1 = "213-321-212"
+  val phone_NO2 = "123-456-43"
   val ok = "1-2-3"
 
-  println(regex.matches(phone_OK)) // false
-  println(regex.matches(phone_NO)) // false
+  println(regex.matches(phone_NO1)) // false
+  println(regex.matches(phone_NO2)) // false
   println(regex.matches(ok)) // true
 
 }
@@ -106,7 +106,7 @@ fun main() {
 
 ## hasła
 
-#### hasło 8 znakowe z dowolnych liter, cyfr i znaków specjalnych
+#### hasło z dowolną ilością  liter, cyfr i znaków specjalnych
 ```kotlin
 fun main() {
     val password = "Abc123!@"
