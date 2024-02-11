@@ -237,7 +237,7 @@ fun main(args: Array<String>) {
     
 3. `[a-zA-Z0-9.-]+`: Określa, że po znaku '@' musi wystąpić co najmniej jedna lub więcej liter, cyfr lub innych dozwolonych znaków, takich jak kropka (`.`), myślnik (`-`) lub podkreślenie (`_`).
     
-4. `\\.`: Oznacza, że po drugiej części adresu e-mail musi wystąpić kropka, ale ze względu na specyfikę języka Kotlin, używamy dwukropka (`\.``) jako escape character, ponieważ kropka jest znakiem specjalnym w wyrażeniach regularnych.
+4. `\\.`: Oznacza, że po drugiej części adresu e-mail musi wystąpić kropka, ale ze względu na specyfikę języka Kotlin, używamy dwukropka (`\.`) jako escape character, ponieważ kropka jest znakiem specjalnym w wyrażeniach regularnych.
     
 5. `[a-zA-Z]{2,}`: Określa, że na końcu adresu e-mail muszą wystąpić co najmniej dwie litery (małe lub duże).
 6. 
