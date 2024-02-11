@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Wyrażenia regularne",
+      "path": "_ Mobile/Kotlin/Wyrażenia regularne.md"
+    },
+    {
       "basename": "12 Wbudowane funkcje wyższego rzędu",
       "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/12 Wbudowane funkcje wyższego rzędu.md"
     },
@@ -103,10 +107,6 @@
     {
       "basename": "8.6 CheckBox",
       "path": "_ Mobile/Android/the complete Android Kotlin/8.6 CheckBox.md"
-    },
-    {
-      "basename": "Wyrażenia regularne",
-      "path": "_ Mobile/Kotlin/Wyrażenia regularne.md"
     },
     {
       "basename": "8.2 TextView",
