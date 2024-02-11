@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "12 Wbudowane funkcje wyższego rzędu",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/12 Wbudowane funkcje wyższego rzędu.md"
+    },
+    {
       "basename": "11. Lambda i funkcje wyższego rzędu",
       "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/11. Lambda i funkcje wyższego rzędu.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "10.1. Celne spostrzeżenia",
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/10.1. Celne spostrzeżenia.md"
-    },
-    {
-      "basename": "10. Fragmenty dla większy interfejsów",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/10. Fragmenty dla większy interfejsów.md"
     }
   ],
   "omittedPaths": [],
