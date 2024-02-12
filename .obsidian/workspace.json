@@ -20,42 +20,6 @@
             }
           },
           {
-            "id": "be04b817dc1b39c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bbb9c9836b1d7215",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_ Desktop/WPF/od Podstaw do app w WPF/9 WPF układy komponentów.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5f1e73f425f8c6be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/8.6 RadioButton.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "697d20203b4fc01c",
             "type": "leaf",
             "state": {
@@ -66,9 +30,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "79a3aec860332e5e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -150,7 +122,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/3. Functions, Objects and Coffee Machine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +138,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/3. Functions, Objects and Coffee Machine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,9 +159,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/3. Functions, Objects and Coffee Machine.md"
-              }
+              "state": {}
             }
           },
           {
@@ -241,14 +209,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "697d20203b4fc01c",
+  "active": "79a3aec860332e5e",
   "lastOpenFiles": [
-    "_ Mobile/Android/the complete Android 14 and Kotlin/2. Rock, Paper, Scissors.md",
+    "_ Mobile/Kotlin/Wyrażenia regularne.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/3. Functions, Objects and Coffee Machine.md",
-    "_ Mobile/Android/the complete Android 14 and Kotlin/_ the complete Android 14.md",
     "_ Desktop/WPF/od Podstaw do app w WPF/9 WPF układy komponentów.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md",
-    "_ Mobile/Kotlin/Wyrażenia regularne.md",
+    "_ Mobile/Android/the complete Android 14 and Kotlin/2. Rock, Paper, Scissors.md",
+    "_ Mobile/Android/the complete Android 14 and Kotlin/_ the complete Android 14.md",
     "_ Desktop/WPF/Wyświeltanie info.md",
     "_ Desktop/WPF/TicTacToe.md",
     "_ Desktop/WPF/Alien Form.md",
