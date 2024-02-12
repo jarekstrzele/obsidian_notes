@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Alien Form",
+      "path": "_ Desktop/WPF/Alien Form.md"
+    },
+    {
+      "basename": "10 WPF - zaawansowane",
+      "path": "_ Desktop/WPF/od Podstaw do app w WPF/10 WPF - zaawansowane.md"
+    },
+    {
+      "basename": "9.1. RadioButton, GroupBox, Label",
+      "path": "_ Desktop/WPF/od Podstaw do app w WPF/9.1. RadioButton, GroupBox, Label.md"
+    },
+    {
       "basename": "9 WPF układy komponentów",
-      "path": "WPF/od Podstaw do app w WPF/9 WPF układy komponentów.md"
+      "path": "_ Desktop/WPF/od Podstaw do app w WPF/9 WPF układy komponentów.md"
     },
     {
       "basename": "8 Aplikacje WPF",
-      "path": "WPF/od Podstaw do app w WPF/8 Aplikacje WPF.md"
+      "path": "_ Desktop/WPF/od Podstaw do app w WPF/8 Aplikacje WPF.md"
     },
     {
       "basename": "_ C Sharp od Podstaw do WPF i XAML",
@@ -98,15 +110,15 @@
     },
     {
       "basename": "Wyświeltanie info",
-      "path": "WPF/Wyświeltanie info.md"
+      "path": "_ Desktop/WPF/Wyświeltanie info.md"
     },
     {
       "basename": "2 Controls WPF",
-      "path": "WPF/Fast WFP  C Sharp/2 Controls WPF.md"
+      "path": "_ Desktop/WPF/Fast WFP  C Sharp/2 Controls WPF.md"
     },
     {
       "basename": "_ WPF",
-      "path": "WPF/CSharp WPF xaml youtube/_ WPF.md"
+      "path": "_ Desktop/WPF/CSharp WPF xaml youtube/_ WPF.md"
     },
     {
       "basename": "2 Basic and CRUD",
@@ -187,18 +199,6 @@
     {
       "basename": "8.7. Toggle Button",
       "path": "_ Mobile/Android/the complete Android Kotlin/8.7. Toggle Button.md"
-    },
-    {
-      "basename": "8.4 EditTexts",
-      "path": "_ Mobile/Android/8.4 EditTexts.md"
-    },
-    {
-      "basename": "8.3 Button",
-      "path": "_ Mobile/Android/the complete Android Kotlin/8.3 Button.md"
-    },
-    {
-      "basename": "7 Intro to Android App Development",
-      "path": "_ Mobile/Android/the complete Android Kotlin/7 Intro to Android App Development.md"
     }
   ],
   "omittedPaths": [],

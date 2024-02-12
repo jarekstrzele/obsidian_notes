@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WPF/od Podstaw do app w WPF/9 WPF układy komponentów.md",
+                "file": "_ Desktop/WPF/Alien Form.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WPF/od Podstaw do app w WPF/9 WPF układy komponentów.md",
+                "file": "_ Desktop/WPF/Alien Form.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WPF/od Podstaw do app w WPF/9 WPF układy komponentów.md",
+                "file": "_ Desktop/WPF/Alien Form.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WPF/od Podstaw do app w WPF/9 WPF układy komponentów.md"
+                "file": "_ Desktop/WPF/Alien Form.md"
               }
             }
           },
@@ -231,7 +231,10 @@
   },
   "active": "bbb9c9836b1d7215",
   "lastOpenFiles": [
-    "WPF/od Podstaw do app w WPF/8 Aplikacje WPF.md",
+    "_ Desktop/WPF/od Podstaw do app w WPF/10 WPF - zaawansowane.md",
+    "_ Desktop/WPF/od Podstaw do app w WPF/9.1. RadioButton, GroupBox, Label.md",
+    "_ Desktop/WPF/od Podstaw do app w WPF/9 WPF układy komponentów.md",
+    "_ Desktop/WPF/od Podstaw do app w WPF/8 Aplikacje WPF.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/2. Rock, Paper, Scissors.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/_ the complete Android 14.md",
@@ -254,9 +257,6 @@
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
     "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md",
     "C Sharp/Complete CSharp MasterClass/3 Functions-Methods and how to save time.md",
-    "WPF/Wyświeltanie info.md",
-    "WPF/Fast WFP  C Sharp/2 Controls WPF.md",
-    "WPF/CSharp WPF xaml youtube/_ WPF.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/Android 12 XML",
     "Pasted image 20240206220501.png",
     "C Sharp/Rusz Głową C Sharp",
