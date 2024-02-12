@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2. Rock, Paper, Scissors",
+      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/2. Rock, Paper, Scissors.md"
+    },
+    {
+      "basename": "_ the complete Android 14",
+      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/_ the complete Android 14.md"
+    },
+    {
       "basename": "Wyrażenia regularne",
       "path": "_ Mobile/Kotlin/Wyrażenia regularne.md"
     },
@@ -113,10 +121,6 @@
       "path": "_ Mobile/Android/the complete Android Kotlin/8.2 TextView.md"
     },
     {
-      "basename": "_ the complete Android 14",
-      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/_ the complete Android 14.md"
-    },
-    {
       "basename": "8.1 Layouts in Android App",
       "path": "_ Mobile/Android/the complete Android Kotlin/8.1 Layouts in Android App.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "11. Fragmenty dynamiczne",
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/11. Fragmenty dynamiczne.md"
-    },
-    {
-      "basename": "10.1. Celne spostrzeżenia",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/10.1. Celne spostrzeżenia.md"
     }
   ],
   "omittedPaths": [],
