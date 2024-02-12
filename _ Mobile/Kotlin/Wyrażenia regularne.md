@@ -18,6 +18,7 @@ val regex = Regex("[0-9]+")
 - `?` - zero lub jedno powtórzenie poprzedniego znaku
 - `|` - alternatywa (np. `a|b` oznacza "a" lub "b")
 - `[]` - zakres znaków (np. `[a-z]` oznacza dowolną małą literę)
+- `{}` ilość powtórzeń `[a-c]{3}`
 
 ## **Operatory:**
 
