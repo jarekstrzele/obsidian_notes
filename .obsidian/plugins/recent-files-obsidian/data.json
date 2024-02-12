@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "9 WPF układy komponentów",
+      "path": "WPF/od Podstaw do app w WPF/9 WPF układy komponentów.md"
+    },
+    {
+      "basename": "8 Aplikacje WPF",
+      "path": "WPF/od Podstaw do app w WPF/8 Aplikacje WPF.md"
+    },
+    {
+      "basename": "_ C Sharp od Podstaw do WPF i XAML",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md"
+    },
+    {
       "basename": "2. Rock, Paper, Scissors",
       "path": "_ Mobile/Android/the complete Android 14 and Kotlin/2. Rock, Paper, Scissors.md"
     },
@@ -71,10 +83,6 @@
     {
       "basename": "1.4 Dziedziczenie",
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.4 Dziedziczenie.md"
-    },
-    {
-      "basename": "_ C Sharp od Podstaw do WPF i XAML",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md"
     },
     {
       "basename": "1 OOP w CSharp",
@@ -191,14 +199,6 @@
     {
       "basename": "7 Intro to Android App Development",
       "path": "_ Mobile/Android/the complete Android Kotlin/7 Intro to Android App Development.md"
-    },
-    {
-      "basename": "5 Functions in Android Kotlin",
-      "path": "_ Mobile/Android/the complete Android Kotlin/5 Functions in Android Kotlin.md"
-    },
-    {
-      "basename": "11. Fragmenty dynamiczne",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/11. Fragmenty dynamiczne.md"
     }
   ],
   "omittedPaths": [],
