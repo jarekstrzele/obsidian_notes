@@ -8,19 +8,14 @@ OLDER (Android 12)
 
 [[6 Age in Minute Calculator]]
 
----------
-
-
-
-
-
-
-
-
-
-
-------
+---------------
 # intro
+
+[[2. Rock, Paper, Scissors]]
+[[3. Functions, Objects and Coffee Machine]]
+
+
+----
 `Empty View` is without xml
 
 ```kotlin
