@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/3. Functions, Objects and Coffee Machine.md",
+                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/_ the complete Android 14.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md",
+                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/_ the complete Android 14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md",
+                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/_ the complete Android 14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md"
+                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/_ the complete Android 14.md"
               }
             }
           },
@@ -217,16 +217,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "79a3aec860332e5e",
+  "active": "697d20203b4fc01c",
   "lastOpenFiles": [
+    "_ Mobile/Android/the complete Android 14 and Kotlin/3. Functions, Objects and Coffee Machine.md",
+    "_ Mobile/Android/the complete Android 14 and Kotlin/_ the complete Android 14.md",
+    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/5. First Android App - Unit Converter.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/4. Lists and Objects.md",
-    "_ Mobile/Android/the complete Android 14 and Kotlin/3. Functions, Objects and Coffee Machine.md",
     "_ Mobile/Kotlin/Wyrażenia regularne.md",
     "_ Desktop/WPF/od Podstaw do app w WPF/9 WPF układy komponentów.md",
-    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/2. Rock, Paper, Scissors.md",
-    "_ Mobile/Android/the complete Android 14 and Kotlin/_ the complete Android 14.md",
     "_ Desktop/WPF/Wyświeltanie info.md",
     "_ Desktop/WPF/TicTacToe.md",
     "_ Desktop/WPF/Alien Form.md",
