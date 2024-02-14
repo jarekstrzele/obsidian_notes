@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/4. Lists and Objects.md",
+                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/5. First Android App - Unit Converter.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/4. Lists and Objects.md",
+                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/5. First Android App - Unit Converter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/4. Lists and Objects.md",
+                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/5. First Android App - Unit Converter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/4. Lists and Objects.md"
+                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/5. First Android App - Unit Converter.md"
               }
             }
           },
@@ -219,8 +219,9 @@
   },
   "active": "79a3aec860332e5e",
   "lastOpenFiles": [
-    "_ Mobile/Android/the complete Android 14 and Kotlin/3. Functions, Objects and Coffee Machine.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/4. Lists and Objects.md",
+    "_ Mobile/Android/the complete Android 14 and Kotlin/5. First Android App - Unit Converter.md",
+    "_ Mobile/Android/the complete Android 14 and Kotlin/3. Functions, Objects and Coffee Machine.md",
     "_ Mobile/Kotlin/Wyrażenia regularne.md",
     "_ Desktop/WPF/od Podstaw do app w WPF/9 WPF układy komponentów.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md",
@@ -244,7 +245,6 @@
     "C Sharp/Rusz Głową C Sharp/1. Zacznij pisać programy w języku C Sharp.md",
     "C Sharp/Rusz Głową C Sharp/_ C Sharp.md",
     "C Sharp/Complete CSharp MasterClass/_ CSHarp Complete Masterclass.md",
-    "C Sharp/Complete CSharp MasterClass/5. Loops.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/Android 12 XML",
     "Pasted image 20240206220501.png",
     "C Sharp/Rusz Głową C Sharp",
