@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/5. First Android App - Unit Converter.md",
+                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/5. First Android App - Unit Converter.md",
+                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/5. First Android App - Unit Converter.md",
+                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/5. First Android App - Unit Converter.md"
+                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md"
               }
             }
           },
@@ -219,8 +219,8 @@
   },
   "active": "79a3aec860332e5e",
   "lastOpenFiles": [
-    "_ Mobile/Android/the complete Android 14 and Kotlin/4. Lists and Objects.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/5. First Android App - Unit Converter.md",
+    "_ Mobile/Android/the complete Android 14 and Kotlin/4. Lists and Objects.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/3. Functions, Objects and Coffee Machine.md",
     "_ Mobile/Kotlin/Wyrażenia regularne.md",
     "_ Desktop/WPF/od Podstaw do app w WPF/9 WPF układy komponentów.md",
