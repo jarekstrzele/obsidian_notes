@@ -1,24 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "_ the complete Android 14",
-      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/_ the complete Android 14.md"
-    },
-    {
-      "basename": "3. Functions, Objects and Coffee Machine",
-      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/3. Functions, Objects and Coffee Machine.md"
-    },
-    {
-      "basename": "5.2. Najważniejsze komponenty GUI",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md"
+      "basename": "5.1. Converter App",
+      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/5.1. Converter App.md"
     },
     {
       "basename": "5. First Android App - Unit Converter",
       "path": "_ Mobile/Android/the complete Android 14 and Kotlin/5. First Android App - Unit Converter.md"
     },
     {
+      "basename": "3. Functions, Objects and Coffee Machine",
+      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/3. Functions, Objects and Coffee Machine.md"
+    },
+    {
       "basename": "4. Lists and Objects",
       "path": "_ Mobile/Android/the complete Android 14 and Kotlin/4. Lists and Objects.md"
+    },
+    {
+      "basename": "_ the complete Android 14",
+      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/_ the complete Android 14.md"
+    },
+    {
+      "basename": "5.2. Najważniejsze komponenty GUI",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md"
     },
     {
       "basename": "Wyrażenia regularne",
@@ -195,10 +199,6 @@
     {
       "basename": "8.5 ImageView",
       "path": "_ Mobile/Android/the complete Android Kotlin/8.5 ImageView.md"
-    },
-    {
-      "basename": "2 Getting ready with Android Studio",
-      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/Android 12 XML/2 Getting ready with Android Studio.md"
     }
   ],
   "omittedPaths": [],

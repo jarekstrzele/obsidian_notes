@@ -9,14 +9,30 @@ OLDER (Android 12)
 [[6 Age in Minute Calculator]]
 
 ---------------
-# intro
-
+Kotlin basics:
 [[2. Rock, Paper, Scissors]]
 [[3. Functions, Objects and Coffee Machine]]
+[[4. Lists and Objects]]
+
+
+JETPACKAGE
+[[5. First Android App - Unit Converter]]
+
+
+
+
+
+
+
+
+
 
 
 ----
+# Intro
+
 `Empty View` is without xml
+
 
 ```kotlin
 @Preview(showBackground = true)  
