@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "6. State - Unit Converter Part 2",
+      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/6. State - Unit Converter Part 2.md"
+    },
+    {
       "basename": "5.1. Converter App",
       "path": "_ Mobile/Android/the complete Android 14 and Kotlin/5.1. Converter App.md"
     },
     {
-      "basename": "5. First Android App - Unit Converter",
-      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/5. First Android App - Unit Converter.md"
+      "basename": "5. First Android App - Unit Converter Part 1",
+      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/5. First Android App - Unit Converter Part 1.md"
     },
     {
       "basename": "3. Functions, Objects and Coffee Machine",
@@ -195,10 +199,6 @@
     {
       "basename": "wyrażenia regularne zadania",
       "path": "_ Mobile/Kotlin/wyrażenia regularne zadania.md"
-    },
-    {
-      "basename": "8.5 ImageView",
-      "path": "_ Mobile/Android/the complete Android Kotlin/8.5 ImageView.md"
     }
   ],
   "omittedPaths": [],
