@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Wyrażenia regularne",
-      "path": "_ Mobile/Kotlin/Wyrażenia regularne.md"
+      "basename": "9 WPF układy komponentów",
+      "path": "_ Desktop/WPF/od Podstaw do app w WPF/9 WPF układy komponentów.md"
+    },
+    {
+      "basename": "8 Aplikacje WPF",
+      "path": "_ Desktop/WPF/od Podstaw do app w WPF/8 Aplikacje WPF.md"
+    },
+    {
+      "basename": "1 Grid",
+      "path": "_ Desktop/WPF/Fast WFP  C Sharp/1 Grid.md"
+    },
+    {
+      "basename": "_ część dalsza od podstaw do app WPF",
+      "path": "_ Desktop/WPF/od Podstaw do app w WPF/_ część dalsza od podstaw do app WPF.md"
     },
     {
       "basename": "5.2. Najważniejsze komponenty GUI",
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md"
+    },
+    {
+      "basename": "Wyrażenia regularne",
+      "path": "_ Mobile/Kotlin/Wyrażenia regularne.md"
     },
     {
       "basename": "8.6 RadioButton",
@@ -45,10 +61,6 @@
       "path": "_ Mobile/Android/the complete Android 14 and Kotlin/_ the complete Android 14.md"
     },
     {
-      "basename": "9 WPF układy komponentów",
-      "path": "_ Desktop/WPF/od Podstaw do app w WPF/9 WPF układy komponentów.md"
-    },
-    {
       "basename": "Wyświeltanie info",
       "path": "_ Desktop/WPF/Wyświeltanie info.md"
     },
@@ -67,10 +79,6 @@
     {
       "basename": "9.1. RadioButton, GroupBox, Label",
       "path": "_ Desktop/WPF/od Podstaw do app w WPF/9.1. RadioButton, GroupBox, Label.md"
-    },
-    {
-      "basename": "8 Aplikacje WPF",
-      "path": "_ Desktop/WPF/od Podstaw do app w WPF/8 Aplikacje WPF.md"
     },
     {
       "basename": "_ C Sharp od Podstaw do WPF i XAML",
@@ -191,14 +199,6 @@
     {
       "basename": "1 Fundamentals of Kotlin",
       "path": "_ Mobile/Android/the complete Android Kotlin/1 Fundamentals of Kotlin.md"
-    },
-    {
-      "basename": "6 Kotlin OOP",
-      "path": "_ Mobile/Android/the complete Android Kotlin/6 Kotlin OOP.md"
-    },
-    {
-      "basename": "2 Typy proste i zmienn",
-      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/2 Typy proste i zmienn.md"
     }
   ],
   "omittedPaths": [],
