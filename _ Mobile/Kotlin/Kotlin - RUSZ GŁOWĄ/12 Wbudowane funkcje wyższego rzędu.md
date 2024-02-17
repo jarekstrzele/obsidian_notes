@@ -29,6 +29,11 @@ val ints = listOf(1,2,3,4,0,1,2,3)
 println("max=${ints.max()}") // 4
 ```
 
+Te metody pracują na typach implementujących interface `Comparable` - typy proste implementują ten interfejs.
+
+
+
+
 ## `minBy` i `maxBy` na wszystkich typach danych
 
 > Aby znaleźć najmniejszą lub największą wartość bardziej złożonego typu danych, należy użyć odpowiednio funkcji `minBy` lub `maxBy`. 
@@ -36,6 +41,11 @@ println("max=${ints.max()}") // 4
 
 
 > Funkcje `minBy` i `maxBy` mają tylko jeden parametr: wyrażenie lambda określające właściwość, której należy użyć w celu określenia najmniejszego lub największego elementu kolekcji.
+> 
+> `{ i: typ_elementu -> kryterium }`
+>`{ i: Grocery -> kryterium }`
+>
+
 
 `val highestUnitPrice = groceries.maxBy { it.unitPrice}` Ten kod to tak, jakby powiedzieć: „Znajdź w kolekcji groceries element o najwyższej wartości właściwości unitPrice”.
 
@@ -46,6 +56,11 @@ println("max=${ints.max()}") // 4
 >Funkcje `minBy` i `maxBy` działają na kolekcjach zawierających obiekty dowolnego typu, przez co są znacznie bardziej elastyczne od funkcji `min` i `max`
 >
 >Jeśli wywołamy funkcję `minBy` lub `maxBy` na rzecz kolekcji, która nie zawiera żadnego elementu, to wywołanie zwróci wartość `null`.
+>
+>==Typ wyniku zwracanego== przez funkcje `minBy` i `maxBy` odpowiada typowi elementów kolekcji. 
+>Jeśli użyjemy funkcji `minBy` na kolekcji typu `List<Grocery>`, to zwróci ona wynik typu `Grocery`. Jeżeli użyjemy funkcji `maxBy` na zbiorze typu `Set<Duck>`, to zwróci ona wynik typu `Duck`.
+
+
 
 
 
