@@ -77,7 +77,11 @@ zastąpiła `sumBy` i `sumByDouble`
 > Funkcja `sumByDouble` sumuje wartości typu `Double` i zwraca wynik typu `Double`.
 
 
+## `filter`
 
+>[!tip] `filter`
+>Pozwala ona wyszukiwać czy też filtrować kolekcje w oparciu o kryterium przekazane w formie wyrażenia lambda
+>
 
 
 
