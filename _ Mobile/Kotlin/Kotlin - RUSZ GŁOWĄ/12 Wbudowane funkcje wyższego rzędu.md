@@ -129,8 +129,21 @@ println(doubleInts) // [2, 4, 6, 8]
 
 `val groceryNames = groceries.map { it.name }` - To wywołanie tworzy nową kolekcję typu `List`i zapisuje w niej wartości właściwości name wszystkich obiektów `Grocery` z listy `groceries`.
 
+INNE RODZAJA `map`
+- `mapTo` (która dodaje wynik przekształcenia do istniejącej kolekcji), 
+- `mapNotNull` (która pomija wartości null) oraz
+- `mapValues` (która operuje na kolekcji Map i ją zwraca). Więcej informacji o nich można znaleźć na stronie:
 
 
+
+
+## wywołania funkcji można łączyć
+
+```kotlin
+val newPrices = groceries.filter { it.unitPrice > 14.0 }	
+				.map { it.unitPrice * 2 }
+```
+Ta instrukcja najpierw wywołuje funkcję `filter`, a następnie funkcję `map` na rzecz listy zwróconej przez pierwsze wywołanie.
 
 
 
