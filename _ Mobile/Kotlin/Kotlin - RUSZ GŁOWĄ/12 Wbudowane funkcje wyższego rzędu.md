@@ -80,8 +80,16 @@ zastąpiła `sumBy` i `sumByDouble`
 ## `filter`
 
 >[!tip] `filter`
->Pozwala ona wyszukiwać czy też filtrować kolekcje w oparciu o kryterium przekazane w formie wyrażenia lambda
+>Pozwala ona wyszukiwać czy też filtrować kolekcje w oparciu o kryterium przekazane w formie wyrażenia lambda.
 >
+>Dla większości kolekcji funkcja `filter` zwraca kolekcję `List` zawierającą wszystkie elementy spełniające zadane kryterium, której następnie można używać w innych miejscach kodu.
+> 
+> Jednak w przypadku operowania na kolekcji typu `Map` funkcja `filter` także zwraca kolekcję typu `Map`.
+>>  Na przykład w poniższym kodzie użyliśmy funkcji `filter` do przygotowania listy wszystkich elementów kolekcji `groceries`, których właściwość `category` zawiera łańcuch ”Warzywa”.
+>>  `val vegetables = groceries.filter { it.category == “Warzywa” }`
+
+`val unitPriceOver9 = groceries.filter { it.unitPrice > 9.0 }` kod zwraca kolekcję List zawierającą referencje do obiektów Grocery, których właściwość unitPrice ma wartość większą od 9.0.
+
 
 
 
