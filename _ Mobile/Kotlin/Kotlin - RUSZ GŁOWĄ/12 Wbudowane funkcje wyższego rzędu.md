@@ -118,4 +118,29 @@ W języku Kotlin funkcja `filter` ma kilka wariantów, które pozwalają na ró�
 ## `map` do przekształcania kolekcji
 
 >[!tip] `map`
->Funkcja map p
+>Funkcja `map` pobiera kolejno poszczególne elementy kolekcji i przekształca każdy z nich według określonego wzoru. 
+>Funkcja ta ==zwraca kolekcję typu== `List` zawierającą efekt tych przekształceń.
+
+```kotlin
+val ints = listOf(1,2,3,4)  
+val doubleInts = ints.map{it*2}  
+println(doubleInts) // [2, 4, 6, 8]
+```
+
+`val groceryNames = groceries.map { it.name }` - To wywołanie tworzy nową kolekcję typu `List`i zapisuje w niej wartości właściwości name wszystkich obiektów `Grocery` z listy `groceries`.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
