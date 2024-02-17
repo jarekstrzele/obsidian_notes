@@ -67,8 +67,8 @@ println("najwięcej: ${groceries.maxBy { it.quantity }}")  // najwięcej: Grocer
 println("najtańszy: ${groceries.minBy { it.unitPrice }}") // najtańszy: Grocery(name=Obwarzanki, category=Wypieki, unit=Opakowanie, unitPrice=3.5, quantity=2)
 ```
 
-## `sumBy` i `sumByDouble`
-
+## `sumOf` 
+zastąpiła `sumBy` i `sumByDouble`
 >[!tip] `sumBy`
 >Funkcja `sumBy` sumuje wartości typu Int i zwraca wynik typu `Int`.
 
