@@ -91,6 +91,31 @@ zastąpiła `sumBy` i `sumByDouble`
 `val unitPriceOver9 = groceries.filter { it.unitPrice > 9.0 }` kod zwraca kolekcję List zawierającą referencje do obiektów Grocery, których właściwość unitPrice ma wartość większą od 9.0.
 
 
+```kotlin
+println("tylko warzywa: ${groceries.filter { it.category=="Warzywa" }}")  tylko warzywa: // [Grocery(name=Pomidory, category=Warzywa, unit=kg, unitPrice=10.0, quantity=3), Grocery(name=Grzyby, category=Warzywa, unit=kg, unitPrice=12.0, quantity=1)]
+
+println("tylko NIE warzywa: ${groceries.filterNot { it.category=="Warzywa" }}")
+//tylko NIE warzywa: [Grocery(name=Obwarzanki, category=Wypieki, unit=Opakowanie, unitPrice=3.5, quantity=2), Grocery(name=Oliwa z oliwek, category=Spiżarka, unit=Butelka, unitPrice=19.0, quantity=1), Grocery(name=Lody, category=Mrożonki, unit=Opakowanie, unitPrice=14.0, quantity=2)]
+
+```
+
+W języku Kotlin funkcja `filter` ma kilka wariantów, które pozwalają na różne sposoby filtrowania kolekcji. Oto kilka z tych wariantów:
+
+1. **filter**: Funkcja `filter` zwraca nową kolekcję zawierającą elementy, które spełniają określone kryterium.
+    
+2. **filterTo**: Jak już wspomniano, funkcja `filterTo` filtruje kolekcję i dodaje spełniające kryterium elementy do określonej kolekcji docelowej, zamiast tworzyć nową kolekcję.
+    
+3. **filterIndexed**: Funkcja `filterIndexed` działa podobnie do zwykłej funkcji `filter`, ale dodaje indeks elementu jako argument do predykatu.
+    
+4. **filterIndexedTo**: Podobnie jak `filterTo`, ale również dostarcza indeks do funkcji predykatu i dodaje elementy spełniające kryterium do określonej kolekcji docelowej.
+    
+5. **filterNot**: Funkcja `filterNot` zwraca nową kolekcję zawierającą elementy, które nie spełniają określonego kryterium.
+    
+6. **filterNotNull**: Funkcja `filterNotNull` zwraca nową kolekcję, która zawiera wszystkie nie-null elementy oryginalnej kolekcji.
 
 
+--------
+## `map` do przekształcania kolekcji
 
+>[!tip] `map`
+>Funkcja map p
