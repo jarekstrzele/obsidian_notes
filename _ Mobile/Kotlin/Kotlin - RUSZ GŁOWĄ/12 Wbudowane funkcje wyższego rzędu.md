@@ -73,8 +73,8 @@ println("najtańszy: ${groceries.minBy { it.unitPrice }}") // najtańszy: Grocer
 >Funkcja `sumBy` sumuje wartości typu Int i zwraca wynik typu `Int`.
 
 
->[!tip]
-
+>[!tip] `sumByDouble`
+> Funkcja `sumByDouble` sumuje wartości typu `Double` i zwraca wynik typu `Double`.
 
 
 
