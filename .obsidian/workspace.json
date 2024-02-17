@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Kotlin/Wyrażenia regularne.md",
+                "file": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/12 Wbudowane funkcje wyższego rzędu.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -150,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C Sharp/Rusz Głową C Sharp/1. Zacznij pisać programy w języku C Sharp.md",
+                "file": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/12 Wbudowane funkcje wyższego rzędu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C Sharp/Rusz Głową C Sharp/1. Zacznij pisać programy w języku C Sharp.md",
+                "file": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/12 Wbudowane funkcje wyższego rzędu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C Sharp/Rusz Głową C Sharp/1. Zacznij pisać programy w języku C Sharp.md"
+                "file": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/12 Wbudowane funkcje wyższego rzędu.md"
               }
             }
           },
@@ -241,11 +240,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c5e33a7343ecb8cf",
+  "active": "e0cfe39b80cfbe36",
   "lastOpenFiles": [
+    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/11. Lambda i funkcje wyższego rzędu.md",
+    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/12 Wbudowane funkcje wyższego rzędu.md",
+    "_ Mobile/Kotlin/Wyrażenia regularne.md",
+    "C Sharp/Rusz Głową C Sharp/1. Zacznij pisać programy w języku C Sharp.md",
     "C Sharp/Rusz Głową C Sharp/_ C Sharp.md",
     "_ Desktop/WPF/Rusz Głową C Sharp/_ Rusz Głową C Sharp.md",
-    "C Sharp/Rusz Głową C Sharp/1. Zacznij pisać programy w języku C Sharp.md",
     "_ Desktop/WPF/od Podstaw do app w WPF/9.1. RadioButton, GroupBox, Label.md",
     "_ Desktop/WPF/Rusz Głową C Sharp",
     "_ Desktop/WPF/od Podstaw do app w WPF/10.3 DataContext oraz interfejs INotifyPropertyChanged.md",
@@ -255,7 +257,6 @@
     "_ Desktop/WPF/Fast WFP  C Sharp/1 Grid.md",
     "_ Desktop/WPF/od Podstaw do app w WPF/_ część dalsza od podstaw do app WPF.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md",
-    "_ Mobile/Kotlin/Wyrażenia regularne.md",
     "_ Mobile/Android/the complete Android Kotlin/8.6 RadioButton.md",
     "_ Mobile/Android/the complete Android Kotlin/8.7. Toggle Button.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/6. State - Unit Converter Part 2.md",
@@ -268,8 +269,6 @@
     "_ Desktop/WPF/Wyświeltanie info.md",
     "_ Desktop/WPF/TicTacToe.md",
     "_ Desktop/WPF/Alien Form.md",
-    "_ Desktop/WPF/od Podstaw do app w WPF/10 WPF - zaawansowane.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/Android 12 XML",
     "Pasted image 20240206220501.png",
     "C Sharp/Rusz Głową C Sharp",
