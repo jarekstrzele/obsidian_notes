@@ -60,11 +60,20 @@ Te metody pracują na typach implementujących interface `Comparable` - typy pro
 >==Typ wyniku zwracanego== przez funkcje `minBy` i `maxBy` odpowiada typowi elementów kolekcji. 
 >Jeśli użyjemy funkcji `minBy` na kolekcji typu `List<Grocery>`, to zwróci ona wynik typu `Grocery`. Jeżeli użyjemy funkcji `maxBy` na zbiorze typu `Set<Duck>`, to zwróci ona wynik typu `Duck`.
 
+```kotlin
+println("najwięcej: ${groceries.maxBy { it.quantity }}")  // najwięcej: Grocery(name=Pomidory, category=Warzywa, unit=kg, unitPrice=10.0, quantity=3)
 
 
+println("najtańszy: ${groceries.minBy { it.unitPrice }}") // najtańszy: Grocery(name=Obwarzanki, category=Wypieki, unit=Opakowanie, unitPrice=3.5, quantity=2)
+```
+
+## `sumBy` i `sumByDouble`
+
+>[!tip] `sumBy`
+>Funkcja `sumBy` sumuje wartości typu Int i zwraca wynik typu `Int`.
 
 
-
+>[!tip]
 
 
 
