@@ -178,9 +178,18 @@ aby podzielić kolekcję na grupy.
 `groupBy` - pozwala na grupowanie elementów kolekcji na podstawie podanego kryterium, takiego jak wartość właściwości. Można by jej użyć (w połączeniu z wywołaniami innych funkcji) na przykład do wyświetlenia nazw produktów z kolekcji `groceries` pogrupowanych według wartości właściwości`category`:
 
 
+> `val groupByCategory = groceries.groupBy {it.category}` „Pogrupuj wszystkie elementy kolekcji `groceries` na podstawie wartości właściwości `category`”.
 
+==ZWRACA==:
+kolekcję typu `Map`:
+- **klucze**: wartości kryterium przekazanego do funkcji w formie wyrażenia lambda
+- **wartości** kolekcje typypu `List` zawierające elementy pierwotnej kolekcji
+```kotlin
+println("groupBY category: ${groceries.groupBy { it.category} }")
 
+// groupBY category: {Warzywa=[Grocery(name=Pomidory, category=Warzywa, unit=kg, unitPrice=10.0, quantity=3), Grocery(name=Grzyby, category=Warzywa, unit=kg, unitPrice=12.0, quantity=1)], Wypieki=[Grocery(name=Obwarzanki, category=Wypieki, unit=Opakowanie, unitPrice=3.5, quantity=2)], Spiżarka=[Grocery(name=Oliwa z oliwek, category=Spiżarka, unit=Butelka, unitPrice=19.0, quantity=1)], Mrożonki=[Grocery(name=Lody, category=Mrożonki, unit=Opakowanie, unitPrice=14.0, quantity=2)]}
 
+```
 
 
 
