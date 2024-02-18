@@ -234,11 +234,28 @@ it.value.forEach{println(" ${it.name}")}
 >> - połączenia ze sobą nazw wszystkich produktów zapisanych na liście `List<Grocery>`, a wszystko to w jednym wierszu kodu.
 
 ```kotlin
-val ints = listOf(1,2,3)  
+val ints = listOf(1,2,3,4)  
 val sumOfInts = ints.fold(0){ runningSum, item -> runningSum + item}  
-println("sumOfInts=$sumOfInts") // sumOfInts=6
+println("sumOfInts=$sumOfInts") // sumOfInts=10
 ```
-pierwszy parametr funkcji `fold` jest wart
+>[!success] anatomia `fold`
+>- ==pierwszy== parametr funkcji `fold`  to wartość początkowa
+>- ==drugim== parametrem jest wyrażenie lambda opisujące operację, jaką chcemy wykonać na wartości początkowej dla każdego elementu kolekcji:
+	>>- `runningSum` jego typ określany jest na podstawie wartości początkowej,
+	>>- `item` jest tego samego typu co elementy kolekcji,
+	>>- Ciało przekazywanego wyrażenia lambda określa operację, którą chcemy wykonać dla każdego elementu kolekcji i której wynik zostanie następnie zapisany w pierwszym parametrze tego wyrażenia.
+
+ILOCZYN
+```kotlin
+val ints = listOf(1,2,3,4)  
+val iloczyn = ints.fold(1){ runningSum, item -> runningSum * item}  
+println("sumOfInts=$iloczyn") // iloczyn=24
+```
+
+KONKATENACJA
+
+
+
 
 
 
