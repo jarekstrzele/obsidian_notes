@@ -258,10 +258,17 @@ val konkatenacja = groceries.fold(""){ string, item -> string + " " + item.name 
 println("konkatenacja=$konkatenacja") // konkatenacja= Pomidory Grzyby Obwarzanki Oliwa z oliwek Lody
 ```
 
+ODEJMOWANIE
+```kotlin
+println("odejmowanie od wartości początkowej sumy wartości elementów=${groceries.fold(100.0){ change, item -> change - item.unitPrice * item.quantity }}") //odejmowanie od wartości początkowej sumy wartości elementów=4.0
+
+```
+To wyrażenie odejmuje od change iloczyn `(unitPrice * quantity)` dla każdego produktu na liście groceries.
 
 
-
-
+-----------
+>[!danger] Różnica między `List` i `Set` a `Map`
+>W niewidoczny sposób kolekcje `List` i `Set` dziedziczą zachowania po interfejsie Collection, który z kolei dziedziczy je po interfejsie Iterable. Typ Map nie dziedziczy po żadnym z tych interfejsów. Oznacza to, że List i Set są typu Iterable, natomiast Map nie jest.
 
 
 
