@@ -1,5 +1,4 @@
-
-
+https://kotlinlang.org/api/latest/jvm/stdlib/
 
 > Każda funkcja wyższego rzędu ma uogólnioną implementację, a jej konkretne zachowanie jest definiowane przez wyrażenie lambda przekazywane w jej wywołaniu.
 
@@ -239,6 +238,10 @@ it.value.forEach{println(" ${it.name}")}
 >> Można jej użyć na przykład do:
 >> -  pomnożenia przez siebie wszystkich elementów listy `List<Int>` i zwrócenia wyniku,
 >> - połączenia ze sobą nazw wszystkich produktów zapisanych na liście `List<Grocery>`, a wszystko to w jednym wierszu kodu.
+>
+>`foldRight`, `reduceRight` operują na tablicach i kolekcjach `List`, ale nie na kolekcjach `Set`, `Map` - przeglądają kolekcję od prawej
+
+
 
 ```kotlin
 val ints = listOf(1,2,3,4)  
