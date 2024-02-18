@@ -35,6 +35,7 @@ Te metody pracują na typach implementujących interface `Comparable` - typy pro
 
 
 ## `minBy` i `maxBy` na wszystkich typach danych
+#kotlin/minBy  #kotlin/maxBy
 
 > Aby znaleźć najmniejszą lub największą wartość bardziej złożonego typu danych, należy użyć odpowiednio funkcji `minBy` lub `maxBy`. 
 > Funkcje te działają podobnie do funkcji `min` i `max`, z tą różnicą, że musimy do nich przekazać kryteria porównywania wartości.
@@ -68,6 +69,7 @@ println("najtańszy: ${groceries.minBy { it.unitPrice }}") // najtańszy: Grocer
 ```
 
 ## `sumOf` 
+#kotlin/sumOf
 zastąpiła `sumBy` i `sumByDouble`
 >[!tip] `sumBy`
 >Funkcja `sumBy` sumuje wartości typu Int i zwraca wynik typu `Int`.
@@ -78,6 +80,7 @@ zastąpiła `sumBy` i `sumByDouble`
 
 
 ## `filter`
+#kotlin/filter
 
 >[!tip] `filter`
 >Pozwala ona wyszukiwać czy też filtrować kolekcje w oparciu o kryterium przekazane w formie wyrażenia lambda.
@@ -116,6 +119,7 @@ W języku Kotlin funkcja `filter` ma kilka wariantów, które pozwalają na ró�
 
 --------
 ## `map` do przekształcania kolekcji
+#kotlin/map
 
 >[!tip] `map`
 >Funkcja `map` pobiera kolejno poszczególne elementy kolekcji i przekształca każdy z nich według określonego wzoru. 
@@ -144,6 +148,7 @@ Ta instrukcja najpierw wywołuje funkcję `filter`, a następnie funkcję `map` 
 
 
 ### `forEach`
+#kotlin/forEach
 Funkcji `forEach` można używać do operowania na tablicach, kolekcjach `List`, `Set` oraz właściwościach `entries`. `key`, `values` kolekcji `Map`.
 
 `groceries.forEach{println(it.name)}`
@@ -170,6 +175,7 @@ println(”itemNames: $itemNames”)
 
 ---
 ## `groupBy`
+#kotlin/groupBy
 aby podzielić kolekcję na grupy.
 
 >[!danger] ważne
@@ -190,6 +196,52 @@ println("groupBY category: ${groceries.groupBy { it.category} }")
 // groupBY category: {Warzywa=[Grocery(name=Pomidory, category=Warzywa, unit=kg, unitPrice=10.0, quantity=3), Grocery(name=Grzyby, category=Warzywa, unit=kg, unitPrice=12.0, quantity=1)], Wypieki=[Grocery(name=Obwarzanki, category=Wypieki, unit=Opakowanie, unitPrice=3.5, quantity=2)], Spiżarka=[Grocery(name=Oliwa z oliwek, category=Spiżarka, unit=Butelka, unitPrice=19.0, quantity=1)], Mrożonki=[Grocery(name=Lody, category=Mrożonki, unit=Opakowanie, unitPrice=14.0, quantity=2)]}
 
 ```
+
+```kotlin
+groceries.groupBy { it.category} .forEach{  
+println(it.key)  
+it.value.forEach{println(" ${it.name}")}  
+}
+// Warzywa
+//    Pomidory
+//    Grzyby
+// Wypieki
+//   Obwarzanki
+// Spiżarka
+//   Oliwa z oliwek
+// Mrożonki
+//    Lody
+```
+
+
+
+----
+## `fold`
+#kotlin/fold 
+
+>[!tip] fold
+>Funkcja `fold` może operować na wartościach właściwości:
+>- `keys`, 
+>- `values`, 
+>- `entries` 
+>
+>kolekcji typu `Map`, lecz nie bezpośrednio na samej kolekcji.
+> 
+> Pozwala ona określić wartość początkową, a następnie wykonywać na niej jakieś operacje dla każdego elementu kolekcji.
+> 
+>> Można jej użyć na przykład do:
+>> -  pomnożenia przez siebie wszystkich elementów listy `List<Int>` i zwrócenia wyniku,
+>> - połączenia ze sobą nazw wszystkich produktów zapisanych na liście `List<Grocery>`, a wszystko to w jednym wierszu kodu.
+
+```kotlin
+val ints = listOf(1,2,3)  
+val sumOfInts = ints.fold(0){ runningSum, item -> runningSum + item}  
+println("sumOfInts=$sumOfInts") // sumOfInts=6
+```
+pierwszy parametr funkcji `fold` jest wart
+
+
+
 
 
 
