@@ -146,12 +146,19 @@ val newPrices = groceries.filter { it.unitPrice > 14.0 }
 Ta instrukcja najpierw wywołuje funkcję `filter`, a następnie funkcję `map` na rzecz listy zwróconej przez pierwsze wywołanie.
 
 
+### `forEach`
+Funkcji `forEach` można używać do operowania na tablicach, kolekcjach `List`, `Set` oraz właściwościach `entries`. `key`, `values` kolekcji `Map`.
 
+`groceries.forEach{println(it.name)}`
 
+można `forEach` używać w łańcuchach wywołań:
+```kotlin
+groceries.filter { it.unitPrice > 14.0 }
+		 .forEach { println(it.name) }
+```
+ALE `forEach` ZWRACA `Unit`, więc nie można tego wyniku używać do jakiś obliczeń
 
-
-
-
+#kotlin
 
 
 
