@@ -134,9 +134,6 @@ INNE RODZAJA `map`
 - `mapNotNull` (która pomija wartości null) oraz
 - `mapValues` (która operuje na kolekcji Map i ją zwraca). Więcej informacji o nich można znaleźć na stronie:
 
-
-
-
 ## wywołania funkcji można łączyć
 
 ```kotlin
@@ -158,7 +155,36 @@ groceries.filter { it.unitPrice > 14.0 }
 ```
 ALE `forEach` ZWRACA `Unit`, więc nie można tego wyniku używać do jakiś obliczeń
 
-#kotlin
+DOMKNIĘCIE
+#kotlin/closure 
+```kotlin
+var itemNames = ””
+groceries.forEach({ itemNames += ”${it.name} ” }) // domknięcie lambdy przechwyciło zmienną `itemsNames`
+println(”itemNames: $itemNames”)
+
+```
+
+>[!tip] domknięcie
+>> Domknięcie oznacza, że wyrażenie lambda ma dostęp do zmiennych lokalnych, które przechwytuje.
+
+
+---
+## `groupBy`
+aby podzielić kolekcję na grupy.
+
+>[!danger] ważne
+>Zwróć uwagę, że funkcji groupBy nie można używać bezpośrednio do operowania na kolekcjach typu Map; niemniej jednak można jej używać do operowania na kolekcjach zwracanych przez właściwości keys, values oraz entries.
+
+`groupBy` - pozwala na grupowanie elementów kolekcji na podstawie podanego kryterium, takiego jak wartość właściwości. Można by jej użyć (w połączeniu z wywołaniami innych funkcji) na przykład do wyświetlenia nazw produktów z kolekcji `groceries` pogrupowanych według wartości właściwości`category`:
+
+
+
+
+
+
+
+
+
 
 
 
