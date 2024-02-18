@@ -253,7 +253,10 @@ println("sumOfInts=$iloczyn") // iloczyn=24
 ```
 
 KONKATENACJA
-
+```kotlin
+val konkatenacja = groceries.fold(""){ string, item -> string + " " + item.name }  
+println("konkatenacja=$konkatenacja") // konkatenacja= Pomidory Grzyby Obwarzanki Oliwa z oliwek Lody
+```
 
 
 
