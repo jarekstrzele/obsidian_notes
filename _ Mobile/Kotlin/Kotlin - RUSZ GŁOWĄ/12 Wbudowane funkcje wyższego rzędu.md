@@ -219,6 +219,13 @@ it.value.forEach{println(" ${it.name}")}
 ## `fold`
 #kotlin/fold 
 
+>[!tip] reduce
+>W przypadku funkcji `fold` określenie wartości początkowej jest konieczne. Ten parametr jest obowiązkowy i nie można go pominąć. 
+>
+>Jeśli jednak chcesz ==użyć pierwszego elementu kolekcji jako wartości początkowej==, to możesz to zrobić, stosując funkcję `reduce`. 
+>Działa ona podobnie jak `fold`, z tym że podawanie wartości początkowej nie jest konieczne. Ta funkcja automatycznie używa pierwszego elementu kolekcji jako wartości początkowej
+
+
 >[!tip] fold
 >Funkcja `fold` może operować na wartościach właściwości:
 >- `keys`, 
@@ -268,9 +275,14 @@ To wyrażenie odejmuje od change iloczyn `(unitPrice * quantity)` dla każdego p
 
 -----------
 >[!danger] Różnica między `List` i `Set` a `Map`
->W niewidoczny sposób kolekcje `List` i `Set` dziedziczą zachowania po interfejsie Collection, który z kolei dziedziczy je po interfejsie Iterable. Typ Map nie dziedziczy po żadnym z tych interfejsów. Oznacza to, że List i Set są typu Iterable, natomiast Map nie jest.
+>- W niewidoczny sposób kolekcje `List` i `Set` dziedziczą zachowania po interfejsie `Collection`, 
+>- który z kolei dziedziczy je po interfejsie `Iterable`. 
+>Typ `Map` nie dziedziczy po żadnym z tych interfejsów. 
+>Oznacza to, że `List` i `Set` są typu `Iterable`, 
+>natomiast `Map` nie jest.
 
-
+`fold`, `forEach`, `groupBy` zostały zaprojektowane do obsługi typów `Iterable`
+`keys` (to jest `Set`), `values` (to jest `Set`), `entries`  (dziedziczy po `Collection`) są typu `Iterable`
 
 
 
