@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "6.1. Some help",
+      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/6.1. Some help.md"
+    },
+    {
       "basename": "6. State - Unit Converter Part 2",
       "path": "_ Mobile/Android/the complete Android 14 and Kotlin/6. State - Unit Converter Part 2.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_ WPF",
       "path": "_ Desktop/WPF/CSharp WPF xaml youtube/_ WPF.md"
-    },
-    {
-      "basename": "2 Basic and CRUD",
-      "path": "_DataBase/MongoDB/MongoDB - The Complete 2023/2 Basic and CRUD.md"
     }
   ],
   "omittedPaths": [],
