@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "b6b280ecb9b1107f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/6. State - Unit Converter Part 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "79a3aec860332e5e",
             "type": "leaf",
             "state": {
@@ -55,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -228,7 +241,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e0cfe39b80cfbe36",
+  "active": "b6b280ecb9b1107f",
   "lastOpenFiles": [
     "_ Mobile/Android/the complete Android 14 and Kotlin/5.1. Converter App.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/5. First Android App - Unit Converter Part 1.md",
