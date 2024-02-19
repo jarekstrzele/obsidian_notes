@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "TicTacToe",
+      "path": "_ Desktop/WPF/TicTacToe.md"
+    },
+    {
       "basename": "9 WPF układy komponentów",
       "path": "_ Desktop/WPF/od Podstaw do app w WPF/9 WPF układy komponentów.md"
     },
@@ -115,10 +119,6 @@
     {
       "basename": "Wyświeltanie info",
       "path": "_ Desktop/WPF/Wyświeltanie info.md"
-    },
-    {
-      "basename": "TicTacToe",
-      "path": "_ Desktop/WPF/TicTacToe.md"
     },
     {
       "basename": "Alien Form",
