@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "2. Rock, Paper, Scissors",
+      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/2. Rock, Paper, Scissors.md"
+    },
+    {
+      "basename": "4 Klasy i obiekty",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/4 Klasy i obiekty.md"
+    },
+    {
+      "basename": "3 Funkcje - wychodzimy poza `main`",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/3 Funkcje - wychodzimy poza `main`.md"
+    },
+    {
       "basename": "Dodatek B. Testowanie",
       "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/Dodatek B. Testowanie.md"
     },
@@ -79,10 +91,6 @@
     {
       "basename": "6. State - Unit Converter Part 2",
       "path": "_ Mobile/Android/the complete Android 14 and Kotlin/6. State - Unit Converter Part 2.md"
-    },
-    {
-      "basename": "2. Rock, Paper, Scissors",
-      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/2. Rock, Paper, Scissors.md"
     },
     {
       "basename": "5.1. Converter App",
@@ -191,14 +199,6 @@
     {
       "basename": "2 Basic and CRUD",
       "path": "_DataBase/MongoDB/MongoDB - The Complete 2023/2 Basic and CRUD.md"
-    },
-    {
-      "basename": "8.6 CheckBox",
-      "path": "_ Mobile/Android/the complete Android Kotlin/8.6 CheckBox.md"
-    },
-    {
-      "basename": "8.2 TextView",
-      "path": "_ Mobile/Android/the complete Android Kotlin/8.2 TextView.md"
     }
   ],
   "omittedPaths": [],
