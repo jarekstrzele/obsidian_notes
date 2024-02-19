@@ -5,6 +5,10 @@
       "path": "_ Mobile/Android/the complete Android 14 and Kotlin/6. State - Unit Converter Part 2.md"
     },
     {
+      "basename": "6.0. The code Unit Converter app",
+      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/6.0. The code Unit Converter app.md"
+    },
+    {
       "basename": "5.1. Converter App",
       "path": "_ Mobile/Android/the complete Android 14 and Kotlin/5.1. Converter App.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2 Controls WPF",
       "path": "_ Desktop/WPF/Fast WFP  C Sharp/2 Controls WPF.md"
-    },
-    {
-      "basename": "_ WPF",
-      "path": "_ Desktop/WPF/CSharp WPF xaml youtube/_ WPF.md"
     }
   ],
   "omittedPaths": [],
