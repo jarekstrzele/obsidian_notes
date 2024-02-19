@@ -5,6 +5,10 @@
       "path": "_ WEB/REACT/React 18 Tutorial and Projects Course 2023/_ The React 18 Tutorial (2023).md"
     },
     {
+      "basename": "1. React Fundamentals",
+      "path": "_ WEB/REACT/React 18 Tutorial and Projects Course 2023/1. React Fundamentals.md"
+    },
+    {
       "basename": "_ 0 start",
       "path": "_ FullStack/Web Development 2023/_ 0 start.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "1 OOP w CSharp",
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md"
-    },
-    {
-      "basename": "2. DataTypes and Variables",
-      "path": "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md"
     }
   ],
   "omittedPaths": [],

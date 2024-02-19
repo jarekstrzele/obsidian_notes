@@ -29,8 +29,10 @@ requirements:
  BUGS:
  - one solution `npx create-reat-app@latest <projectName>`
 - 
-
+## using `vite`
+#vite 
 ###### a new `vite` (wit) https://vitejs.dev
+#### `npm create vite@latest app-name -- --template react`
 
 
 
