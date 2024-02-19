@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "697d20203b4fc01c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/2. Rock, Paper, Scissors.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "79a3aec860332e5e",
             "type": "leaf",
             "state": {
@@ -61,13 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C Sharp/Rusz Głową C Sharp/_ C Sharp.md",
+                "file": "_ Desktop/WPF/od Podstaw do app w WPF/9 WPF układy komponentów.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -149,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/2. Rock, Paper, Scissors.md",
+                "file": "_ Desktop/WPF/od Podstaw do app w WPF/9 WPF układy komponentów.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/2. Rock, Paper, Scissors.md",
+                "file": "_ Desktop/WPF/od Podstaw do app w WPF/9 WPF układy komponentów.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/2. Rock, Paper, Scissors.md"
+                "file": "_ Desktop/WPF/od Podstaw do app w WPF/9 WPF układy komponentów.md"
               }
             }
           },
@@ -240,8 +229,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e0cfe39b80cfbe36",
+  "active": "84153a42a190b775",
   "lastOpenFiles": [
+    "C Sharp/Rusz Głową C Sharp/_ C Sharp.md",
+    "C Sharp/Rusz Głową C Sharp/1. Zacznij pisać programy w języku C Sharp.md",
+    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md",
+    "_ Mobile/Android/the complete Android 14 and Kotlin/2. Rock, Paper, Scissors.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/4 Klasy i obiekty.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/3 Funkcje - wychodzimy poza `main`.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/Dodatek B. Testowanie.md",
@@ -250,8 +243,6 @@
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/12 Wbudowane funkcje wyższego rzędu.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/11. Lambda i funkcje wyższego rzędu.md",
     "_ Mobile/Kotlin/Wyrażenia regularne.md",
-    "C Sharp/Rusz Głową C Sharp/1. Zacznij pisać programy w języku C Sharp.md",
-    "C Sharp/Rusz Głową C Sharp/_ C Sharp.md",
     "_ Desktop/WPF/Rusz Głową C Sharp/_ Rusz Głową C Sharp.md",
     "_ Desktop/WPF/od Podstaw do app w WPF/9.1. RadioButton, GroupBox, Label.md",
     "_ Desktop/WPF/Rusz Głową C Sharp",
@@ -261,11 +252,9 @@
     "_ Desktop/WPF/od Podstaw do app w WPF/8 Aplikacje WPF.md",
     "_ Desktop/WPF/Fast WFP  C Sharp/1 Grid.md",
     "_ Desktop/WPF/od Podstaw do app w WPF/_ część dalsza od podstaw do app WPF.md",
-    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md",
     "_ Mobile/Android/the complete Android Kotlin/8.6 RadioButton.md",
     "_ Mobile/Android/the complete Android Kotlin/8.7. Toggle Button.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/6. State - Unit Converter Part 2.md",
-    "_ Mobile/Android/the complete Android 14 and Kotlin/2. Rock, Paper, Scissors.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/5.1. Converter App.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/5. First Android App - Unit Converter Part 1.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/3. Functions, Objects and Coffee Machine.md",
