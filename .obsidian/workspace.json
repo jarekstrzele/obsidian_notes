@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b26974032db45cd6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/AdapterView.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/7 Shopping list app.md",
+                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/AdapterView.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/7 Shopping list app.md",
+                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/AdapterView.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/7 Shopping list app.md"
+                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/AdapterView.md"
               }
             }
           },
@@ -192,10 +205,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e0cfe39b80cfbe36",
+  "active": "b26974032db45cd6",
   "lastOpenFiles": [
-    "_ Mobile/Android/the complete Android 14 and Kotlin/_ the complete Android 14.md",
+    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/11. Fragmenty dynamiczne.md",
+    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/9. Fragmenty.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/7 Shopping list app.md",
+    "_ Mobile/Android/the complete Android 14 and Kotlin/_ the complete Android 14.md",
     "_ WEB/REACT/React 18 Tutorial and Projects Course 2023/_ The React 18 Tutorial (2023).md",
     "_ WEB/REACT/React 18 Tutorial and Projects Course 2023/1. React Fundamentals.md",
     "_ FullStack/Web Development 2023/_ 0 start.md",
@@ -218,8 +233,6 @@
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/_ 0 Kotlin Rusz Głową.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/Dodatek A. Koprocedury.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/12 Wbudowane funkcje wyższego rzędu.md",
-    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/11. Lambda i funkcje wyższego rzędu.md",
-    "_ Mobile/Kotlin/Wyrażenia regularne.md",
     "_ Desktop/WPF/Rusz Głową C Sharp",
     "_ Mobile/Android/the complete Android 14 and Kotlin/Android 12 XML",
     "Pasted image 20240206220501.png",
