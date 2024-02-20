@@ -17,8 +17,8 @@ Kotlin basics:
 
 JETPACKAGE
 [[5. First Android App - Unit Converter Part 1]]
-
-
+[[6. State - Unit Converter Part 2]]
+[[7 Shopping list app]]
 
 
 
