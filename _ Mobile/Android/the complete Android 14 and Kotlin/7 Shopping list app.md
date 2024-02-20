@@ -133,5 +133,32 @@ setContent {
 ------
 # Alert Dialog
 
+ShoppingList.kt
+```kotlin
+@OptIn(ExperimentalMaterial3Api::class)  
+@Composable  
+fun ShoppingListApp(){  
+	var shoppingItems by remember { mutableStateOf( listOf<ShoppingItem>() ) }  
 
+// add a new state handler
+var showDialog by remember { mutableStateOf(false) }
+//....
+
+// add a click handler
+Button(  
+	onClick = {showDialog=true},
+//..
+
+
+
+
+  // at the end of the file add if statement
+if(showDialog){  
+	AlertDialog(onDismissRequest = { showDialog=false }) {  
+		Text(text="Alert Dialog is open")  
+	}  
+	}
+	}
+
+```
 
