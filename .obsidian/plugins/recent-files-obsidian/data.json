@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "15. Bazy danych SQLite",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/15. Bazy danych SQLite.md"
+    },
+    {
       "basename": "AdapterView",
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/AdapterView.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_ CSHarp Complete Masterclass",
       "path": "C Sharp/Complete CSharp MasterClass/_ CSHarp Complete Masterclass.md"
-    },
-    {
-      "basename": "5. Loops",
-      "path": "C Sharp/Complete CSharp MasterClass/5. Loops.md"
     }
   ],
   "omittedPaths": [],
