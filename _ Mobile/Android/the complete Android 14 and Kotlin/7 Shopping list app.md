@@ -104,18 +104,12 @@ fun ShoppingListApp(){
       Text(text="Add item")  
 }  
   LazyColumn(  
-modifier = Modifier  
-.fillMaxSize()  
-.padding(16.dp)  
+    modifier = Modifier  
+			    .fillMaxSize()  
+				.padding(16.dp)  
 ){  
 items(shoppingItems){  
-  
-}  
-}  
-  
-}  
-  
-}
+}  } } }
 ```
 
 `MainActivity`
@@ -136,6 +130,8 @@ setContent {
 ```
 
 
+------
+# Alert Dialog
 
 
 
