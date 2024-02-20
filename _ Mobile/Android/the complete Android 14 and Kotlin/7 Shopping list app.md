@@ -135,14 +135,14 @@ setContent {
 
 ShoppingList.kt
 ```kotlin
-@OptIn(ExperimentalMaterial3Api::class)  
 @Composable  
 fun ShoppingListApp(){  
-	var shoppingItems by remember { mutableStateOf( listOf<ShoppingItem>() ) }  
 
-// add a new state handler
-var showDialog by remember { mutableStateOf(false) }
-//....
+// ADD states handler
+var shoppingItems by remember { mutableStateOf( listOf<ShoppingItem>() ) }  
+var showDialog by remember { mutableStateOf(false) }  
+var itemName by remember { mutableStateOf("") }  
+var itemQuantity by remember { mutableStateOf("") }
 
 // add a click handler
 Button(  
@@ -153,12 +153,31 @@ Button(
 
 
   // at the end of the file add if statement
+  
 if(showDialog){  
-	AlertDialog(onDismissRequest = { showDialog=false }) {  
-		Text(text="Alert Dialog is open")  
-	}  
-	}
-	}
+  AlertDialog(
+    onDismissRequest = { showDialog=false },  
+    confirmButton = { /* TODO */},  
+    title = { Text(text="Add Shopping Item") },  
+    text = {  
+      Column {  
+         
+         OutlinedTextField(  
+           value = itemName,  
+           onValueChange = { itemName = it },  
+           modifier = Modifier.fillMaxWidth().padding(8.dp),  
+           singleLine=true  
+    )  
 
+		OutlinedTextField(  
+		  value = itemQuantity,  
+		  onValueChange = { itemQuantity = it },  
+		  modifier = Modifier.fillMaxWidth().padding(8.dp),  
+		  singleLine=true  
+	)  
+}  
+}  
+)  
+}
 ```
 
