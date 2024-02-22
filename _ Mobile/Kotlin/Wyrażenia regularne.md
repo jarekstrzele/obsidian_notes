@@ -1,7 +1,5 @@
 #kotlin/regular_expressions 
-
 # Wprowadzenie
-
 
 ## tworzenie
 ```kotlin
@@ -9,7 +7,6 @@ val regex: Regex = Regex(pattern)
 val regex = Regex("[0-9]+")
 
 ```
-
 
 ## metaznaki
 - `.` - dowolny znak
@@ -144,9 +141,6 @@ Rozbijmy to na części:
 - `[0-9]` - Oznacza jedną cyfrę.
 - `.*` - Ponownie dowolny ciąg znaków (zero lub więcej powtórzeń dowolnego znaku).
 - `[0-9]` - Kolejna jedna cyfra.
-
-
-
 
 # czy ciąg znaków jest liczbą?
 ```kotlin
