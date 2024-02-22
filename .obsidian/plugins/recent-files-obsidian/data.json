@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "FireBase back to the basic",
+      "path": "_DataBase/FireBase/FireBase back to the basic.md"
+    },
+    {
       "basename": "15. Bazy danych SQLite",
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/15. Bazy danych SQLite.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "3.1. Fragments",
       "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3.1. Fragments.md"
-    },
-    {
-      "basename": "3 Podstawy tworzenia aplikacji",
-      "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md"
     }
   ],
   "omittedPaths": [],
