@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md",
+                "file": "_ Desktop/WPF/TicTacToe.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,8 +130,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -151,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md",
+                "file": "_ Desktop/WPF/TicTacToe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md",
+                "file": "_ Desktop/WPF/TicTacToe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md"
+                "file": "_ Desktop/WPF/TicTacToe.md"
               }
             }
           },
@@ -244,6 +243,9 @@
   },
   "active": "3b42b258f92f8068",
   "lastOpenFiles": [
+    "_ Desktop/WPF/od Podstaw do app w WPF/9 WPF układy komponentów.md",
+    "_ Desktop/WPF/TicTacToe.md",
+    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/2. Tworzenie interaktywnych aplikacji.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/AdapterView.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/7 Shopping list app.md",
@@ -268,9 +270,6 @@
     "_ Mobile/Android/the complete Android 14 and Kotlin/5. First Android App - Unit Converter Part 1.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/4. Lists and Objects.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/3. Functions, Objects and Coffee Machine.md",
-    "_ Mobile/Android/the complete Android 14 and Kotlin/2. Rock, Paper, Scissors.md",
-    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md",
-    "_ Desktop/WPF/TicTacToe.md",
     "_ Desktop/WPF/Rusz Głową C Sharp",
     "_ Mobile/Android/the complete Android 14 and Kotlin/Android 12 XML",
     "Pasted image 20240206220501.png",
