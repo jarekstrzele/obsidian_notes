@@ -54,9 +54,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3b42b258f92f8068",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -229,7 +239,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "662e409fa90b0a6c",
+  "active": "3b42b258f92f8068",
   "lastOpenFiles": [
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/AdapterView.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/7 Shopping list app.md",
