@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "5.2. Najważniejsze komponenty GUI",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md"
+    },
+    {
+      "basename": "2. Tworzenie interaktywnych aplikacji",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/2. Tworzenie interaktywnych aplikacji.md"
+    },
+    {
       "basename": "15. Bazy danych SQLite",
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/15. Bazy danych SQLite.md"
     },
@@ -91,10 +99,6 @@
     {
       "basename": "2. Rock, Paper, Scissors",
       "path": "_ Mobile/Android/the complete Android 14 and Kotlin/2. Rock, Paper, Scissors.md"
-    },
-    {
-      "basename": "5.2. Najważniejsze komponenty GUI",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md"
     },
     {
       "basename": "TicTacToe",
@@ -195,10 +199,6 @@
     {
       "basename": "Fundamenty Kotlina",
       "path": "_ Mobile/Kotlin/Fundamenty Kotlina.md"
-    },
-    {
-      "basename": "3.3. View Binding",
-      "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3.3. View Binding.md"
     }
   ],
   "omittedPaths": [],
