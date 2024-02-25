@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "13 WPF",
+      "path": "_ Desktop/WPF/The WPF Guide for beginners/13 WPF.md"
+    },
+    {
       "basename": "_ The Windows Presentation Foundation WPF Giode for beginners",
       "path": "_ Desktop/WPF/The WPF Guide for beginners/_ The Windows Presentation Foundation WPF Giode for beginners.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Alien Form",
       "path": "_ Desktop/WPF/Alien Form.md"
-    },
-    {
-      "basename": "10 WPF - zaawansowane",
-      "path": "_ Desktop/WPF/od Podstaw do app w WPF/10 WPF - zaawansowane.md"
     }
   ],
   "omittedPaths": [],
