@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/7 Shopping list app.md",
+                "file": "_ Desktop/WPF/TicTacToe.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 383
+    "width": 258
   },
   "right": {
     "id": "7036b4a7a06b882e",
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/7 Shopping list app.md",
+                "file": "_ Desktop/WPF/TicTacToe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/7 Shopping list app.md",
+                "file": "_ Desktop/WPF/TicTacToe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/7 Shopping list app.md"
+                "file": "_ Desktop/WPF/TicTacToe.md"
               }
             }
           },
@@ -243,6 +243,7 @@
   },
   "active": "3b42b258f92f8068",
   "lastOpenFiles": [
+    "_ Mobile/Android/the complete Android 14 and Kotlin/7 Shopping list app.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/6.1. Some help.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/6. State - Unit Converter Part 2.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/5.1. Converter App.md",
@@ -261,7 +262,6 @@
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/2. Tworzenie interaktywnych aplikacji.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/AdapterView.md",
-    "_ Mobile/Android/the complete Android 14 and Kotlin/7 Shopping list app.md",
     "_ Mobile/Kotlin/Wyrażenia regularne.md",
     "_ Mobile/Kotlin/wyrażenia regularne zadania.md",
     "_DataBase/FireBase/Firebase Android Kotlin/_ Firebase Android Korlin.md",
