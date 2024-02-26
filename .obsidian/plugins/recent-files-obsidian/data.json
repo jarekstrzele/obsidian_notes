@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "10.2 Eventy i Delegaty",
+      "path": "_ Desktop/WPF/od Podstaw do app w WPF/10.2 Eventy i Delegaty.md"
+    },
+    {
+      "basename": "10.3 DataContext oraz interfejs INotifyPropertyChanged",
+      "path": "_ Desktop/WPF/od Podstaw do app w WPF/10.3 DataContext oraz interfejs INotifyPropertyChanged.md"
+    },
+    {
+      "basename": "10.1 Binding",
+      "path": "_ Desktop/WPF/od Podstaw do app w WPF/10.1 Binding.md"
+    },
+    {
+      "basename": "10 WPF - zaawansowane",
+      "path": "_ Desktop/WPF/od Podstaw do app w WPF/10 WPF - zaawansowane.md"
+    },
+    {
       "basename": "TicTacToe",
       "path": "_ Desktop/WPF/TicTacToe.md"
     },
@@ -31,18 +47,6 @@
     {
       "basename": "3. Functions, Objects and Coffee Machine",
       "path": "_ Mobile/Android/the complete Android 14 and Kotlin/3. Functions, Objects and Coffee Machine.md"
-    },
-    {
-      "basename": "10.2 Eventy i Delegaty",
-      "path": "_ Desktop/WPF/od Podstaw do app w WPF/10.2 Eventy i Delegaty.md"
-    },
-    {
-      "basename": "10.1 Binding",
-      "path": "_ Desktop/WPF/od Podstaw do app w WPF/10.1 Binding.md"
-    },
-    {
-      "basename": "10.3 DataContext oraz interfejs INotifyPropertyChanged",
-      "path": "_ Desktop/WPF/od Podstaw do app w WPF/10.3 DataContext oraz interfejs INotifyPropertyChanged.md"
     },
     {
       "basename": "13 WPF",
@@ -195,10 +199,6 @@
     {
       "basename": "8.6 RadioButton",
       "path": "_ Mobile/Android/the complete Android Kotlin/8.6 RadioButton.md"
-    },
-    {
-      "basename": "8.7. Toggle Button",
-      "path": "_ Mobile/Android/the complete Android Kotlin/8.7. Toggle Button.md"
     }
   ],
   "omittedPaths": [],
