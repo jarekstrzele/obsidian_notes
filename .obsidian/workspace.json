@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Desktop/WPF/od Podstaw do app w WPF/10.2 Eventy i Delegaty.md",
+                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/3. Functions, Objects and Coffee Machine.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252
+    "width": 383
   },
   "right": {
     "id": "7036b4a7a06b882e",
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Desktop/WPF/od Podstaw do app w WPF/10.2 Eventy i Delegaty.md",
+                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/3. Functions, Objects and Coffee Machine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Desktop/WPF/od Podstaw do app w WPF/10.2 Eventy i Delegaty.md",
+                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/3. Functions, Objects and Coffee Machine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Desktop/WPF/od Podstaw do app w WPF/10.2 Eventy i Delegaty.md"
+                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/3. Functions, Objects and Coffee Machine.md"
               }
             }
           },
@@ -243,8 +243,8 @@
   },
   "active": "3b42b258f92f8068",
   "lastOpenFiles": [
-    "_ Desktop/WPF/od Podstaw do app w WPF/10.1 Binding.md",
     "_ Desktop/WPF/od Podstaw do app w WPF/10.2 Eventy i Delegaty.md",
+    "_ Desktop/WPF/od Podstaw do app w WPF/10.1 Binding.md",
     "_ Desktop/WPF/od Podstaw do app w WPF/10.3 DataContext oraz interfejs INotifyPropertyChanged.md",
     "_ Desktop/WPF/The WPF Guide for beginners/13 WPF.md",
     "_ Desktop/WPF/The WPF Guide for beginners/_ The Windows Presentation Foundation WPF Giode for beginners.md",
