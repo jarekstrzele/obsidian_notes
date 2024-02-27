@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "2.1. Zdarzenia",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md"
+    },
+    {
+      "basename": "2. Podstawowe koncepcje",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2. Podstawowe koncepcje.md"
+    },
+    {
+      "basename": "_ 0 NodeJS - zostań fullstack",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md"
+    },
+    {
+      "basename": "AdapterView",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/AdapterView.md"
+    },
+    {
       "basename": "14 Connecting to a Database",
       "path": "_ WEB/REACT/React - the Complete Guide/14 Connecting to a Database.md"
     },
@@ -93,10 +109,6 @@
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/2. Tworzenie interaktywnych aplikacji.md"
     },
     {
-      "basename": "AdapterView",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/AdapterView.md"
-    },
-    {
       "basename": "Wyrażenia regularne",
       "path": "_ Mobile/Kotlin/Wyrażenia regularne.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "_ Rusz Głową C Sharp",
       "path": "_ Desktop/WPF/Rusz Głową C Sharp/_ Rusz Głową C Sharp.md"
-    },
-    {
-      "basename": "9.1. RadioButton, GroupBox, Label",
-      "path": "_ Desktop/WPF/od Podstaw do app w WPF/9.1. RadioButton, GroupBox, Label.md"
-    },
-    {
-      "basename": "10.24 DataGrid",
-      "path": "_ Desktop/WPF/od Podstaw do app w WPF/10.24 DataGrid.md"
-    },
-    {
-      "basename": "8 Aplikacje WPF",
-      "path": "_ Desktop/WPF/od Podstaw do app w WPF/8 Aplikacje WPF.md"
     }
   ],
   "omittedPaths": [],
