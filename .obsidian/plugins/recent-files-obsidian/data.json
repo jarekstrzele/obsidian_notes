@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "14 Connecting to a Database",
+      "path": "_ WEB/REACT/React - the Complete Guide/14 Connecting to a Database.md"
+    },
+    {
+      "basename": "9. Fragments, Portal, refs",
+      "path": "_ WEB/REACT/React - the Complete Guide/9. Fragments, Portal, refs.md"
+    },
+    {
+      "basename": "8 Login Project",
+      "path": "_ WEB/REACT/React - the Complete Guide/8 Login Project.md"
+    },
+    {
+      "basename": "1. React Fundamentals",
+      "path": "_ WEB/REACT/React 18 Tutorial and Projects Course 2023/1. React Fundamentals.md"
+    },
+    {
+      "basename": "15. Bazy danych SQLite",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/15. Bazy danych SQLite.md"
+    },
+    {
       "basename": "10.2 Eventy i Delegaty",
       "path": "_ Desktop/WPF/od Podstaw do app w WPF/10.2 Eventy i Delegaty.md"
     },
@@ -73,10 +93,6 @@
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/2. Tworzenie interaktywnych aplikacji.md"
     },
     {
-      "basename": "15. Bazy danych SQLite",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/15. Bazy danych SQLite.md"
-    },
-    {
       "basename": "AdapterView",
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/AdapterView.md"
     },
@@ -119,10 +135,6 @@
     {
       "basename": "_ The React 18 Tutorial (2023)",
       "path": "_ WEB/REACT/React 18 Tutorial and Projects Course 2023/_ The React 18 Tutorial (2023).md"
-    },
-    {
-      "basename": "1. React Fundamentals",
-      "path": "_ WEB/REACT/React 18 Tutorial and Projects Course 2023/1. React Fundamentals.md"
     },
     {
       "basename": "_ 0 start",
@@ -187,18 +199,6 @@
     {
       "basename": "8 Aplikacje WPF",
       "path": "_ Desktop/WPF/od Podstaw do app w WPF/8 Aplikacje WPF.md"
-    },
-    {
-      "basename": "1 Grid",
-      "path": "_ Desktop/WPF/Fast WFP  C Sharp/1 Grid.md"
-    },
-    {
-      "basename": "_ część dalsza od podstaw do app WPF",
-      "path": "_ Desktop/WPF/od Podstaw do app w WPF/_ część dalsza od podstaw do app WPF.md"
-    },
-    {
-      "basename": "8.6 RadioButton",
-      "path": "_ Mobile/Android/the complete Android Kotlin/8.6 RadioButton.md"
     }
   ],
   "omittedPaths": [],
