@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ WEB/REACT/React - the Complete Guide/14 Connecting to a Database.md",
+                "file": "_ Desktop/WPF/od Podstaw do app w WPF/10.2 Eventy i Delegaty.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ WEB/REACT/React - the Complete Guide/14 Connecting to a Database.md",
+                "file": "_ Desktop/WPF/od Podstaw do app w WPF/10.2 Eventy i Delegaty.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ WEB/REACT/React - the Complete Guide/14 Connecting to a Database.md"
+                "file": "_ Desktop/WPF/od Podstaw do app w WPF/10.2 Eventy i Delegaty.md"
               }
             }
           },
@@ -242,13 +242,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "662e409fa90b0a6c",
+  "active": "3b42b258f92f8068",
   "lastOpenFiles": [
+    "_ WEB/REACT/React - the Complete Guide/14 Connecting to a Database.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/2. Podstawowe koncepcje.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/AdapterView.md",
-    "_ WEB/REACT/React - the Complete Guide/14 Connecting to a Database.md",
     "_ WEB/REACT/React - the Complete Guide/9. Fragments, Portal, refs.md",
     "_ WEB/REACT/React - the Complete Guide/8 Login Project.md",
     "_ WEB/REACT/React 18 Tutorial and Projects Course 2023/1. React Fundamentals.md",
