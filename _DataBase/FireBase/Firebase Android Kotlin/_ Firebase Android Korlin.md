@@ -67,6 +67,26 @@ It is a serverless framework that lets you automatically run back in code in res
 
 ## Release and Monitor
 We can improve app quality in less time with less effort, we can simplify testing, triaging and troublesshooting
+### Crashlytics
+it is lightweight but real time crash reporter that helps your track , prioritize and fix stability issues that erode your app quality
+
+### Performance Monitoring
+It is a service that helps you gain insight into performance characteristics of your Apple, Android and Web apps
+
+
+### Test Lab
+It is a cloud based app testing infrastructure that lets you test your app  on a range of devices and configurations 
+
+
+### App Distribution
+It makes  distributing your apps to trusted testers painless
+
+
+
+
+## Engage
+
+
 
 
 
