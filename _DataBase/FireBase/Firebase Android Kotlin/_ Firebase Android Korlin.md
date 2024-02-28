@@ -16,7 +16,7 @@
 >>- less support for iOS
 
 
-LOGIC:
+# LOGIC:
 - tranditional way:
 	- client app --http api-->your server,
 		- your server -- sdk --> database,
@@ -38,8 +38,11 @@ LOGIC:
 >s **a cloud-hosted NoSQL database** that lets you store and sync data between your users in realtime. NEW: Cloud Firestore enables you to store, sync and query app data at global scale.
 
 
+# Products of Firebase
+## Authentication
 
-
+## Realtime Database
+It is a cloud hosted database that is stored as Json and synchronized in real ti
 
 
 

@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Desktop/WPF/od Podstaw do app w WPF/10.2 Eventy i Delegaty.md",
+                "file": "_DataBase/FireBase/Firebase Android Kotlin/_ Firebase Android Korlin.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,8 +130,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -151,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Desktop/WPF/od Podstaw do app w WPF/10.2 Eventy i Delegaty.md",
+                "file": "_DataBase/FireBase/Firebase Android Kotlin/_ Firebase Android Korlin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Desktop/WPF/od Podstaw do app w WPF/10.2 Eventy i Delegaty.md",
+                "file": "_DataBase/FireBase/Firebase Android Kotlin/_ Firebase Android Korlin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Desktop/WPF/od Podstaw do app w WPF/10.2 Eventy i Delegaty.md"
+                "file": "_DataBase/FireBase/Firebase Android Kotlin/_ Firebase Android Korlin.md"
               }
             }
           },
@@ -244,6 +243,7 @@
   },
   "active": "3b42b258f92f8068",
   "lastOpenFiles": [
+    "_ Desktop/WPF/od Podstaw do app w WPF/10.2 Eventy i Delegaty.md",
     "_ WEB/REACT/React - the Complete Guide/14 Connecting to a Database.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/2. Podstawowe koncepcje.md",
@@ -253,7 +253,6 @@
     "_ WEB/REACT/React - the Complete Guide/8 Login Project.md",
     "_ WEB/REACT/React 18 Tutorial and Projects Course 2023/1. React Fundamentals.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/15. Bazy danych SQLite.md",
-    "_ Desktop/WPF/od Podstaw do app w WPF/10.2 Eventy i Delegaty.md",
     "_ Desktop/WPF/od Podstaw do app w WPF/10.3 DataContext oraz interfejs INotifyPropertyChanged.md",
     "_ Desktop/WPF/od Podstaw do app w WPF/10.1 Binding.md",
     "_ Desktop/WPF/od Podstaw do app w WPF/10 WPF - zaawansowane.md",
