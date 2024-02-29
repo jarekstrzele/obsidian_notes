@@ -1,6 +1,78 @@
 {
   "recentFiles": [
     {
+      "basename": "8.7. Toggle Button",
+      "path": "_ Mobile/Android/the complete Android Kotlin/8.7. Toggle Button.md"
+    },
+    {
+      "basename": "8.6 RadioButton",
+      "path": "_ Mobile/Android/the complete Android Kotlin/8.6 RadioButton.md"
+    },
+    {
+      "basename": "8.6 CheckBox",
+      "path": "_ Mobile/Android/the complete Android Kotlin/8.6 CheckBox.md"
+    },
+    {
+      "basename": "8.5 ImageView",
+      "path": "_ Mobile/Android/the complete Android Kotlin/8.5 ImageView.md"
+    },
+    {
+      "basename": "8.3 Button",
+      "path": "_ Mobile/Android/the complete Android Kotlin/8.3 Button.md"
+    },
+    {
+      "basename": "8.2 TextView",
+      "path": "_ Mobile/Android/the complete Android Kotlin/8.2 TextView.md"
+    },
+    {
+      "basename": "8.1 Layouts in Android App",
+      "path": "_ Mobile/Android/the complete Android Kotlin/8.1 Layouts in Android App.md"
+    },
+    {
+      "basename": "8 Android Components",
+      "path": "_ Mobile/Android/the complete Android Kotlin/8 Android Components.md"
+    },
+    {
+      "basename": "7 Intro to Android App Development",
+      "path": "_ Mobile/Android/the complete Android Kotlin/7 Intro to Android App Development.md"
+    },
+    {
+      "basename": "6 Kotlin OOP",
+      "path": "_ Mobile/Android/the complete Android Kotlin/6 Kotlin OOP.md"
+    },
+    {
+      "basename": "5 Functions in Android Kotlin",
+      "path": "_ Mobile/Android/the complete Android Kotlin/5 Functions in Android Kotlin.md"
+    },
+    {
+      "basename": "4 Loops in Kotlin",
+      "path": "_ Mobile/Android/the complete Android Kotlin/4 Loops in Kotlin.md"
+    },
+    {
+      "basename": "3 Control Flow Statements in Kotlin",
+      "path": "_ Mobile/Android/the complete Android Kotlin/3 Control Flow Statements in Kotlin.md"
+    },
+    {
+      "basename": "2 Operators in Kotlin",
+      "path": "_ Mobile/Android/the complete Android Kotlin/2 Operators in Kotlin.md"
+    },
+    {
+      "basename": "1 Fundamentals of Kotlin",
+      "path": "_ Mobile/Android/the complete Android Kotlin/1 Fundamentals of Kotlin.md"
+    },
+    {
+      "basename": "_ the complete Android Kotlin",
+      "path": "_ Mobile/Android/the complete Android Kotlin/_ the complete Android Kotlin.md"
+    },
+    {
+      "basename": "2 Tworzenie widoków",
+      "path": "_ Mobile/Android/Kurs Android od podstaw/2 Tworzenie widoków.md"
+    },
+    {
+      "basename": "_ Kurs Android od podstaw",
+      "path": "_ Mobile/Android/Kurs Android od podstaw/_ Kurs Android od podstaw.md"
+    },
+    {
       "basename": "3. Functions, Objects and Coffee Machine",
       "path": "_ Mobile/Android/the complete Android 14 and Kotlin/3. Functions, Objects and Coffee Machine.md"
     },
@@ -127,78 +199,6 @@
     {
       "basename": "7. Widoki list i adaptery",
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/7. Widoki list i adaptery.md"
-    },
-    {
-      "basename": "4.2. Druga wersja Stopera - aplikacja zniszczona i utworzona",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4.2. Druga wersja Stopera - aplikacja zniszczona i utworzona.md"
-    },
-    {
-      "basename": "11. Fragmenty dynamiczne",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/11. Fragmenty dynamiczne.md"
-    },
-    {
-      "basename": "9. Fragmenty",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/9. Fragmenty.md"
-    },
-    {
-      "basename": "_ the complete Android 14",
-      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/_ the complete Android 14.md"
-    },
-    {
-      "basename": "_ The React 18 Tutorial (2023)",
-      "path": "_ WEB/REACT/React 18 Tutorial and Projects Course 2023/_ The React 18 Tutorial (2023).md"
-    },
-    {
-      "basename": "_ 0 start",
-      "path": "_ FullStack/Web Development 2023/_ 0 start.md"
-    },
-    {
-      "basename": "6.0. The code Unit Converter app",
-      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/6.0. The code Unit Converter app.md"
-    },
-    {
-      "basename": "2. Rock, Paper, Scissors",
-      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/2. Rock, Paper, Scissors.md"
-    },
-    {
-      "basename": "_ C Sharp",
-      "path": "C Sharp/Rusz Głową C Sharp/_ C Sharp.md"
-    },
-    {
-      "basename": "1. Zacznij pisać programy w języku C Sharp",
-      "path": "C Sharp/Rusz Głową C Sharp/1. Zacznij pisać programy w języku C Sharp.md"
-    },
-    {
-      "basename": "4 Klasy i obiekty",
-      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/4 Klasy i obiekty.md"
-    },
-    {
-      "basename": "3 Funkcje - wychodzimy poza `main`",
-      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/3 Funkcje - wychodzimy poza `main`.md"
-    },
-    {
-      "basename": "Dodatek B. Testowanie",
-      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/Dodatek B. Testowanie.md"
-    },
-    {
-      "basename": "_ 0 Kotlin Rusz Głową",
-      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/_ 0 Kotlin Rusz Głową.md"
-    },
-    {
-      "basename": "Dodatek A. Koprocedury",
-      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/Dodatek A. Koprocedury.md"
-    },
-    {
-      "basename": "12 Wbudowane funkcje wyższego rzędu",
-      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/12 Wbudowane funkcje wyższego rzędu.md"
-    },
-    {
-      "basename": "11. Lambda i funkcje wyższego rzędu",
-      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/11. Lambda i funkcje wyższego rzędu.md"
-    },
-    {
-      "basename": "_ Rusz Głową C Sharp",
-      "path": "_ Desktop/WPF/Rusz Głową C Sharp/_ Rusz Głową C Sharp.md"
     }
   ],
   "omittedPaths": [],

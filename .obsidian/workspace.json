@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/3. Functions, Objects and Coffee Machine.md",
+                "file": "_ Mobile/Android/the complete Android Kotlin/8.7. Toggle Button.md",
                 "mode": "source",
                 "source": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/3. Functions, Objects and Coffee Machine.md",
+                "file": "_ Mobile/Android/the complete Android Kotlin/8.7. Toggle Button.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/3. Functions, Objects and Coffee Machine.md",
+                "file": "_ Mobile/Android/the complete Android Kotlin/8.7. Toggle Button.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/3. Functions, Objects and Coffee Machine.md"
+                "file": "_ Mobile/Android/the complete Android Kotlin/8.7. Toggle Button.md"
               }
             }
           },
@@ -243,8 +243,25 @@
   },
   "active": "662e409fa90b0a6c",
   "lastOpenFiles": [
-    "_ Mobile/Android/the complete Android 14 and Kotlin/4. Lists and Objects.md",
+    "_ Mobile/Android/the complete Android Kotlin/8.6 RadioButton.md",
+    "_ Mobile/Android/the complete Android Kotlin/8.6 CheckBox.md",
+    "_ Mobile/Android/the complete Android Kotlin/8.5 ImageView.md",
+    "_ Mobile/Android/the complete Android Kotlin/8.3 Button.md",
+    "_ Mobile/Android/the complete Android Kotlin/8.2 TextView.md",
+    "_ Mobile/Android/the complete Android Kotlin/8.1 Layouts in Android App.md",
+    "_ Mobile/Android/the complete Android Kotlin/8 Android Components.md",
+    "_ Mobile/Android/the complete Android Kotlin/7 Intro to Android App Development.md",
+    "_ Mobile/Android/the complete Android Kotlin/6 Kotlin OOP.md",
+    "_ Mobile/Android/the complete Android Kotlin/5 Functions in Android Kotlin.md",
+    "_ Mobile/Android/the complete Android Kotlin/4 Loops in Kotlin.md",
+    "_ Mobile/Android/the complete Android Kotlin/3 Control Flow Statements in Kotlin.md",
+    "_ Mobile/Android/the complete Android Kotlin/2 Operators in Kotlin.md",
+    "_ Mobile/Android/the complete Android Kotlin/1 Fundamentals of Kotlin.md",
+    "_ Mobile/Android/the complete Android Kotlin/_ the complete Android Kotlin.md",
+    "_ Mobile/Android/Kurs Android od podstaw/2 Tworzenie widoków.md",
+    "_ Mobile/Android/Kurs Android od podstaw/_ Kurs Android od podstaw.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/3. Functions, Objects and Coffee Machine.md",
+    "_ Mobile/Android/the complete Android 14 and Kotlin/4. Lists and Objects.md",
     "_ WEB/REACT/React - the Complete Guide/14 Connecting to a Database.md",
     "_DataBase/FireBase/Firebase Android Kotlin/_ Firebase Android Korlin.md",
     "_ Desktop/WPF/od Podstaw do app w WPF/10.2 Eventy i Delegaty.md",
@@ -252,24 +269,7 @@
     "_ WEB/N_O_D_E/NodeJS - fullstack/2. Podstawowe koncepcje.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/AdapterView.md",
-    "_ WEB/REACT/React - the Complete Guide/9. Fragments, Portal, refs.md",
-    "_ WEB/REACT/React - the Complete Guide/8 Login Project.md",
-    "_ WEB/REACT/React 18 Tutorial and Projects Course 2023/1. React Fundamentals.md",
-    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/15. Bazy danych SQLite.md",
-    "_ Desktop/WPF/od Podstaw do app w WPF/10.3 DataContext oraz interfejs INotifyPropertyChanged.md",
-    "_ Desktop/WPF/od Podstaw do app w WPF/10.1 Binding.md",
-    "_ Desktop/WPF/od Podstaw do app w WPF/10 WPF - zaawansowane.md",
-    "_ Desktop/WPF/TicTacToe.md",
-    "_ Mobile/Android/the complete Android 14 and Kotlin/7 Shopping list app.md",
-    "_ Mobile/Android/the complete Android 14 and Kotlin/6.1. Some help.md",
-    "_ Mobile/Android/the complete Android 14 and Kotlin/6. State - Unit Converter Part 2.md",
-    "_ Mobile/Android/the complete Android 14 and Kotlin/5.1. Converter App.md",
-    "_ Mobile/Android/the complete Android 14 and Kotlin/5. First Android App - Unit Converter Part 1.md",
-    "_ Desktop/WPF/The WPF Guide for beginners/13 WPF.md",
-    "_ Desktop/WPF/The WPF Guide for beginners/_ The Windows Presentation Foundation WPF Giode for beginners.md",
-    "_ Desktop/WPF/Fast WFP  C Sharp/_ Fast WFP C Sharp.md",
     "_ Desktop/WPF/The WPF Guide for beginners",
-    "_ Desktop/WPF/od Podstaw do app w WPF/9 WPF układy komponentów.md",
     "_DataBase/FireBase/Firebase Android Kotlin",
     "_ Desktop/WPF/Rusz Głową C Sharp",
     "_ Mobile/Android/the complete Android 14 and Kotlin/Android 12 XML",
