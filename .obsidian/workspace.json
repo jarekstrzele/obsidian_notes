@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/8.9 Top App Bar.md",
+                "file": "_ FullStack/Web Development 2023/5 Bootstrap.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#kotlin/top_app_bar",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,12 +130,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 258
+    "width": 483
   },
   "right": {
     "id": "7036b4a7a06b882e",
@@ -151,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/8.9 Top App Bar.md",
+                "file": "_ FullStack/Web Development 2023/5 Bootstrap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/8.9 Top App Bar.md",
+                "file": "_ FullStack/Web Development 2023/5 Bootstrap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/8.9 Top App Bar.md"
+                "file": "_ FullStack/Web Development 2023/5 Bootstrap.md"
               }
             }
           },
@@ -242,34 +241,37 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ca32eba7f53d50b9",
+  "active": "04bc47a26b7598a7",
   "lastOpenFiles": [
-    "_ Mobile/Android/the complete Android Kotlin/8.8. Spinner.md",
-    "_ Mobile/Android/the complete Android Kotlin/8.9 Top App Bar.md",
-    "_ Mobile/Android/the complete Android Kotlin/8.7. Toggle Button.md",
-    "_ Mobile/Android/the complete Android Kotlin/8.6 RadioButton.md",
-    "_ Mobile/Android/the complete Android Kotlin/8.6 CheckBox.md",
-    "_ Mobile/Android/the complete Android Kotlin/8.5 ImageView.md",
-    "_ Mobile/Android/the complete Android Kotlin/8.3 Button.md",
-    "_ Mobile/Android/the complete Android Kotlin/8.2 TextView.md",
-    "_ Mobile/Android/the complete Android Kotlin/8.1 Layouts in Android App.md",
-    "_ Mobile/Android/the complete Android Kotlin/8 Android Components.md",
-    "_ Mobile/Android/the complete Android Kotlin/7 Intro to Android App Development.md",
-    "_ Mobile/Android/the complete Android Kotlin/6 Kotlin OOP.md",
-    "_ Mobile/Android/the complete Android Kotlin/5 Functions in Android Kotlin.md",
-    "_ Mobile/Android/the complete Android Kotlin/4 Loops in Kotlin.md",
-    "_ Mobile/Android/the complete Android Kotlin/3 Control Flow Statements in Kotlin.md",
-    "_ Mobile/Android/the complete Android Kotlin/2 Operators in Kotlin.md",
-    "_ Mobile/Android/the complete Android Kotlin/1 Fundamentals of Kotlin.md",
-    "_ Mobile/Android/the complete Android Kotlin/_ the complete Android Kotlin.md",
-    "_ Mobile/Android/Kurs Android od podstaw/2 Tworzenie widoków.md",
-    "_ Mobile/Android/Kurs Android od podstaw/_ Kurs Android od podstaw.md",
-    "_ Mobile/Android/the complete Android 14 and Kotlin/3. Functions, Objects and Coffee Machine.md",
-    "_ Mobile/Android/the complete Android 14 and Kotlin/4. Lists and Objects.md",
-    "_ WEB/REACT/React - the Complete Guide/14 Connecting to a Database.md",
-    "_DataBase/FireBase/Firebase Android Kotlin/_ Firebase Android Korlin.md",
-    "_ Desktop/WPF/od Podstaw do app w WPF/10.2 Eventy i Delegaty.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md",
+    "_ FullStack/Web Development 2023/_ 0 start.md",
+    "_ FullStack/Web Development 2023/5 Bootstrap.md",
+    "JAVASCRIPT/Functional/Currying.md",
+    "JAVASCRIPT/Functional/8.2. View Function.md",
+    "JAVASCRIPT/Functional/7 Counter App vs3 - with Virtual DOM.md",
+    "JAVASCRIPT/Functional/7 Counter App vs2.md",
+    "JAVASCRIPT/Functional/5 - HTML and CSS.md",
+    "JAVASCRIPT/Functional/0- Intro functional programming (beginner udemy).md",
+    "JAVASCRIPT/Functional Programming for JS Developers/_ Functional Programming for JS Developers.md",
+    "JAVASCRIPT/JS Bible/_ 0 JS Bible.md",
+    "JAVASCRIPT/JS współczesny/_ 0 intro JS dzisiaj.md",
+    "JAVASCRIPT/JS. Programowanie obiektowe/4 Konstruktory i prototypy.md",
+    "JAVASCRIPT/JS. Programowanie obiektowe/3 Obiekty.md",
+    "JAVASCRIPT/JSON/Learn JSON in 10 minuts.md",
+    "JAVASCRIPT/ES refresh.md",
+    "JAVASCRIPT/DAY JS.md",
+    "JAVASCRIPT/Podstawy_Włodarczyk/11.6 preventDefault.md",
+    "JAVASCRIPT/Podstawy_Włodarczyk/11.5 Propagacja eventów.md",
+    "JAVASCRIPT/Podstawy_Włodarczyk/11.4 obiekt Event.md",
+    "JAVASCRIPT/Podstawy_Włodarczyk/11.3 nasłuchiwacz zdarzeń.md",
+    "JAVASCRIPT/Lear Node.js and Javascript/_ Node and JavaScript.md",
+    "JAVASCRIPT/Lear Node.js and Javascript/- 3 Node.md",
+    "JAVASCRIPT/Lear Node.js and Javascript/- 4 MySQL with Node.js.md",
+    "JAVASCRIPT/Modern JavaScrip From the Beginning/3.8. Local & Session Storage.md",
+    "JAVASCRIPT/Modern JavaScrip From the Beginning/3.7.  Event Listeners & the Event Object.md",
+    "JAVASCRIPT/Modern JavaScrip From the Beginning/3.6. Creating elements & Replace & Remove.md",
+    "methodology/images/bar_matplotlib.png",
+    "methodology/images/age_rating_barh.png",
+    "methodology/images/age_rating_bar.png",
     "_ Desktop/WPF/The WPF Guide for beginners",
     "_DataBase/FireBase/Firebase Android Kotlin",
     "_ Desktop/WPF/Rusz Głową C Sharp",
