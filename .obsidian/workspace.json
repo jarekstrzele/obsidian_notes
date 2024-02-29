@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/8.8. Spinner.md",
+                "file": "_ Mobile/Android/the complete Android Kotlin/8.9 Top App Bar.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "node",
+                "query": "tag:#kotlin/top_app_bar",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,7 +130,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -150,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/8.8. Spinner.md",
+                "file": "_ Mobile/Android/the complete Android Kotlin/8.9 Top App Bar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/8.8. Spinner.md",
+                "file": "_ Mobile/Android/the complete Android Kotlin/8.9 Top App Bar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/8.8. Spinner.md"
+                "file": "_ Mobile/Android/the complete Android Kotlin/8.9 Top App Bar.md"
               }
             }
           },
@@ -241,10 +242,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "662e409fa90b0a6c",
+  "active": "ca32eba7f53d50b9",
   "lastOpenFiles": [
-    "_ Mobile/Android/the complete Android Kotlin/8.7. Toggle Button.md",
     "_ Mobile/Android/the complete Android Kotlin/8.8. Spinner.md",
+    "_ Mobile/Android/the complete Android Kotlin/8.9 Top App Bar.md",
+    "_ Mobile/Android/the complete Android Kotlin/8.7. Toggle Button.md",
     "_ Mobile/Android/the complete Android Kotlin/8.6 RadioButton.md",
     "_ Mobile/Android/the complete Android Kotlin/8.6 CheckBox.md",
     "_ Mobile/Android/the complete Android Kotlin/8.5 ImageView.md",
@@ -268,7 +270,6 @@
     "_DataBase/FireBase/Firebase Android Kotlin/_ Firebase Android Korlin.md",
     "_ Desktop/WPF/od Podstaw do app w WPF/10.2 Eventy i Delegaty.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/2. Podstawowe koncepcje.md",
     "_ Desktop/WPF/The WPF Guide for beginners",
     "_DataBase/FireBase/Firebase Android Kotlin",
     "_ Desktop/WPF/Rusz Głową C Sharp",

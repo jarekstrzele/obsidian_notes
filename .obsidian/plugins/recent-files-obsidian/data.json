@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "8.9 Top App Bar",
+      "path": "_ Mobile/Android/the complete Android Kotlin/8.9 Top App Bar.md"
+    },
+    {
       "basename": "8.8. Spinner",
       "path": "_ Mobile/Android/the complete Android Kotlin/8.8. Spinner.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "wyrażenia regularne zadania",
       "path": "_ Mobile/Kotlin/wyrażenia regularne zadania.md"
-    },
-    {
-      "basename": "FireBase back to the basic",
-      "path": "_DataBase/FireBase/FireBase back to the basic.md"
     }
   ],
   "omittedPaths": [],
