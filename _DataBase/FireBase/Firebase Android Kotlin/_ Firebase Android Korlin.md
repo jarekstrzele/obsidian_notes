@@ -39,34 +39,36 @@
 
 
 # Products of Firebase
-## Authentication
 
-## Realtime Database
+## Build
+Accelerate app development with fully managed backend infrastructure
+### Authentication
+
+### Realtime Database
 It is a cloud hosted database that is stored as JSON and synchronized in real time to every connected client.
 All of your clients share one real time database instance and automatically receive updates with the newest data
 
-
-## Cloud Firestore
+### Cloud Firestore
 it is a flexible, scalable database for mobile  web and server development .
 It keeps your data in sync across client apps through real time listeners and offers offline support 
 
-
-## Cloud Storage
+### Cloud Storage
 It is built for app developers who need to store and serve user generated content (photos, videos)
 
-## Machine Learning
+### Machine Learning
 It is a mobile SDK that brings Google's machine learning expertise to Android  and Apple Maps in a powerful, yet easy to use package.
 
 Firebase ML provides convenient APIs that helo you use your custom TensorFlow Lite models in   your mobile app. 
 
-## Hosting
+### Hosting
 It provides fast and secure hosting for your web app.
 
-## Cloud Functions
+### Cloud Functions
 It is a serverless framework that lets you automatically run back in code in response to events triggered by Firebase and HDB requests.
 
 ## Release and Monitor
-We can improve app quality in less time with less effort, we can simplify testing, triaging and troublesshooting
+Release with confidence and monitor performancee and stability.
+We can improve app quality in less time with less effort, we can simplify testing, triaging and troubleshooting.
 ### Crashlytics
 it is lightweight but real time crash reporter that helps your track , prioritize and fix stability issues that erode your app quality
 
@@ -95,14 +97,18 @@ It is a cloud service that lets you change the behaviour and appearance of your 
 
 
 ### A/B Testing
-It helps you optimize your app experience by making it easier to tun, analyse and scale product and marketing experiments gives you
+It helps you optimize your app experience by making it easier to tun, analyze and scale product and marketing experiments.
 
 
+### FCM Cloud Messaging
+it is a cross-platform messaging solution that lets you reliably send messages at no cost
 
 
+### In-App Messaging
+Enage active app users with contextual messages.
 
-
-
+------
+# Firebase pricing, limits, Quotas on Firebase
 
 
 
