@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ WEB/REACT/React - the Complete Guide/14 Connecting to a Database.md",
+                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/3. Functions, Objects and Coffee Machine.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_DataBase/FireBase/Firebase Android Kotlin/_ Firebase Android Korlin.md",
+                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/3. Functions, Objects and Coffee Machine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_DataBase/FireBase/Firebase Android Kotlin/_ Firebase Android Korlin.md",
+                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/3. Functions, Objects and Coffee Machine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_DataBase/FireBase/Firebase Android Kotlin/_ Firebase Android Korlin.md"
+                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/3. Functions, Objects and Coffee Machine.md"
               }
             }
           },
@@ -241,10 +241,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3b42b258f92f8068",
+  "active": "662e409fa90b0a6c",
   "lastOpenFiles": [
-    "_ Desktop/WPF/od Podstaw do app w WPF/10.2 Eventy i Delegaty.md",
     "_ WEB/REACT/React - the Complete Guide/14 Connecting to a Database.md",
+    "_DataBase/FireBase/Firebase Android Kotlin/_ Firebase Android Korlin.md",
+    "_ Desktop/WPF/od Podstaw do app w WPF/10.2 Eventy i Delegaty.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/2. Podstawowe koncepcje.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md",
@@ -269,7 +270,6 @@
     "_ Desktop/WPF/Fast WFP  C Sharp/_ Fast WFP C Sharp.md",
     "_ Desktop/WPF/The WPF Guide for beginners",
     "_ Desktop/WPF/od Podstaw do app w WPF/9 WPF układy komponentów.md",
-    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md",
     "_DataBase/FireBase/Firebase Android Kotlin",
     "_ Desktop/WPF/Rusz Głową C Sharp",
     "_ Mobile/Android/the complete Android 14 and Kotlin/Android 12 XML",
