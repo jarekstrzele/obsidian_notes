@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "8.8. Spinner",
+      "path": "_ Mobile/Android/the complete Android Kotlin/8.8. Spinner.md"
+    },
+    {
       "basename": "8.7. Toggle Button",
       "path": "_ Mobile/Android/the complete Android Kotlin/8.7. Toggle Button.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "FireBase back to the basic",
       "path": "_DataBase/FireBase/FireBase back to the basic.md"
-    },
-    {
-      "basename": "7. Widoki list i adaptery",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/7. Widoki list i adaptery.md"
     }
   ],
   "omittedPaths": [],
