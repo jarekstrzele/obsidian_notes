@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "7 Express JS",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md"
+    },
+    {
+      "basename": "7.1. Tworzenie rest api",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/7.1. Tworzenie rest api.md"
+    },
+    {
       "basename": "5 Bootstrap",
       "path": "_ FullStack/Web Development 2023/5 Bootstrap.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "6 Kotlin OOP",
       "path": "_ Mobile/Android/the complete Android Kotlin/6 Kotlin OOP.md"
-    },
-    {
-      "basename": "5 Functions in Android Kotlin",
-      "path": "_ Mobile/Android/the complete Android Kotlin/5 Functions in Android Kotlin.md"
-    },
-    {
-      "basename": "4 Loops in Kotlin",
-      "path": "_ Mobile/Android/the complete Android Kotlin/4 Loops in Kotlin.md"
     }
   ],
   "omittedPaths": [],

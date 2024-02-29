@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ FullStack/Web Development 2023/5 Bootstrap.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
                 "mode": "source",
                 "source": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ FullStack/Web Development 2023/5 Bootstrap.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ FullStack/Web Development 2023/5 Bootstrap.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ FullStack/Web Development 2023/5 Bootstrap.md"
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md"
               }
             }
           },
@@ -241,10 +241,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "04bc47a26b7598a7",
+  "active": "662e409fa90b0a6c",
   "lastOpenFiles": [
-    "_ FullStack/Web Development 2023/_ 0 start.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/7.1. Tworzenie rest api.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
     "_ FullStack/Web Development 2023/5 Bootstrap.md",
+    "_ FullStack/Web Development 2023/_ 0 start.md",
     "JAVASCRIPT/Functional/Currying.md",
     "JAVASCRIPT/Functional/8.2. View Function.md",
     "JAVASCRIPT/Functional/7 Counter App vs3 - with Virtual DOM.md",
@@ -267,8 +269,6 @@
     "JAVASCRIPT/Lear Node.js and Javascript/- 3 Node.md",
     "JAVASCRIPT/Lear Node.js and Javascript/- 4 MySQL with Node.js.md",
     "JAVASCRIPT/Modern JavaScrip From the Beginning/3.8. Local & Session Storage.md",
-    "JAVASCRIPT/Modern JavaScrip From the Beginning/3.7.  Event Listeners & the Event Object.md",
-    "JAVASCRIPT/Modern JavaScrip From the Beginning/3.6. Creating elements & Replace & Remove.md",
     "methodology/images/bar_matplotlib.png",
     "methodology/images/age_rating_barh.png",
     "methodology/images/age_rating_bar.png",
