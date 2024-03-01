@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "_ 0 start",
+      "path": "_ FullStack/Web Development 2024/_ 0 start.md"
+    },
+    {
+      "basename": "28 Application Programming Interfaces (APIs)",
+      "path": "_ FullStack/Web Development 2024/28 Application Programming Interfaces (APIs).md"
+    },
+    {
+      "basename": "3 Flexbox",
+      "path": "_ FullStack/Web Development 2024/3 Flexbox.md"
+    },
+    {
+      "basename": "19 jQuery",
+      "path": "_ FullStack/Web Development 2024/19 jQuery.md"
+    },
+    {
       "basename": "Wyrażenia regularne",
       "path": "_ Mobile/Kotlin/Wyrażenia regularne.md"
     },
@@ -14,11 +30,7 @@
     },
     {
       "basename": "5 Bootstrap",
-      "path": "_ FullStack/Web Development 2023/5 Bootstrap.md"
-    },
-    {
-      "basename": "_ 0 start",
-      "path": "_ FullStack/Web Development 2023/_ 0 start.md"
+      "path": "_ FullStack/Web Development 2024/5 Bootstrap.md"
     },
     {
       "basename": "Currying",
@@ -187,18 +199,6 @@
     {
       "basename": "8.2 TextView",
       "path": "_ Mobile/Android/the complete Android Kotlin/8.2 TextView.md"
-    },
-    {
-      "basename": "8.1 Layouts in Android App",
-      "path": "_ Mobile/Android/the complete Android Kotlin/8.1 Layouts in Android App.md"
-    },
-    {
-      "basename": "8 Android Components",
-      "path": "_ Mobile/Android/the complete Android Kotlin/8 Android Components.md"
-    },
-    {
-      "basename": "7 Intro to Android App Development",
-      "path": "_ Mobile/Android/the complete Android Kotlin/7 Intro to Android App Development.md"
     }
   ],
   "omittedPaths": [],

@@ -1,5 +1,5 @@
 #jquery 
-[[_ FullStack/Web Development 2023/_ 0 start]]
+[[_ FullStack/Web Development 2024/_ 0 start]]
 
 John Resig  invented a library jQuery
 - `document.querySelector("h1)"` ---> 
