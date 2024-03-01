@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Wyrażenia regularne",
+      "path": "_ Mobile/Kotlin/Wyrażenia regularne.md"
+    },
+    {
       "basename": "7 Express JS",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "7 Intro to Android App Development",
       "path": "_ Mobile/Android/the complete Android Kotlin/7 Intro to Android App Development.md"
-    },
-    {
-      "basename": "6 Kotlin OOP",
-      "path": "_ Mobile/Android/the complete Android Kotlin/6 Kotlin OOP.md"
     }
   ],
   "omittedPaths": [],
