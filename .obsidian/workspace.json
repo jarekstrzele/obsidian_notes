@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Kotlin/Wyrażenia regularne.md",
+                "file": "_ Mobile/Android/the complete Android Kotlin/8.9 Top App Bar.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md",
+                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/15. Bazy danych SQLite.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 483
+    "width": 300.0026054382324
   },
   "right": {
     "id": "7036b4a7a06b882e",
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ FullStack/Web Development 2024/_ 0 start.md",
+                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/15. Bazy danych SQLite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ FullStack/Web Development 2024/_ 0 start.md",
+                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/15. Bazy danych SQLite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ FullStack/Web Development 2024/_ 0 start.md"
+                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/15. Bazy danych SQLite.md"
               }
             }
           },
@@ -241,13 +241,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "662e409fa90b0a6c",
+  "active": "a1ee0278c4a39085",
   "lastOpenFiles": [
+    "_ WEB/N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md",
+    "_ Mobile/Android/the complete Android Kotlin/8.9 Top App Bar.md",
+    "_ Mobile/Android/the complete Android Kotlin/8.8. Spinner.md",
+    "_ Mobile/Android/the complete Android Kotlin/8.7. Toggle Button.md",
+    "_ Mobile/Kotlin/Wyrażenia regularne.md",
+    "_ Mobile/Android/the complete Android 14 and Kotlin/7 Shopping list app.md",
+    "_ FullStack/Web Development 2024/_ 0 start.md",
     "_ FullStack/Web Development 2024/28 Application Programming Interfaces (APIs).md",
     "_ FullStack/Web Development 2024/3 Flexbox.md",
     "_ FullStack/Web Development 2024/19 jQuery.md",
-    "_ FullStack/Web Development 2024/_ 0 start.md",
-    "_ Mobile/Kotlin/Wyrażenia regularne.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/7.1. Tworzenie rest api.md",
     "_ FullStack/Web Development 2024/5 Bootstrap.md",
@@ -264,11 +269,6 @@
     "JAVASCRIPT/JS. Programowanie obiektowe/3 Obiekty.md",
     "JAVASCRIPT/JSON/Learn JSON in 10 minuts.md",
     "JAVASCRIPT/ES refresh.md",
-    "JAVASCRIPT/DAY JS.md",
-    "JAVASCRIPT/Podstawy_Włodarczyk/11.6 preventDefault.md",
-    "JAVASCRIPT/Podstawy_Włodarczyk/11.5 Propagacja eventów.md",
-    "JAVASCRIPT/Podstawy_Włodarczyk/11.4 obiekt Event.md",
-    "JAVASCRIPT/Podstawy_Włodarczyk/11.3 nasłuchiwacz zdarzeń.md",
     "methodology/images/bar_matplotlib.png",
     "methodology/images/age_rating_barh.png",
     "methodology/images/age_rating_bar.png",
