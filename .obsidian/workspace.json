@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/8.9 Top App Bar.md",
+                "file": "_ Mobile/Android/the complete Android Kotlin/11 Toast, Snackbar, Dialog.md",
                 "mode": "source",
                 "source": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/8.9 Top App Bar.md",
+                "file": "_ Mobile/Android/the complete Android Kotlin/11 Toast, Snackbar, Dialog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/8.9 Top App Bar.md",
+                "file": "_ Mobile/Android/the complete Android Kotlin/11 Toast, Snackbar, Dialog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/8.9 Top App Bar.md"
+                "file": "_ Mobile/Android/the complete Android Kotlin/11 Toast, Snackbar, Dialog.md"
               }
             }
           },
@@ -243,11 +243,19 @@
   },
   "active": "b26974032db45cd6",
   "lastOpenFiles": [
+    "_ Mobile/Android/the complete Android Kotlin/10.9 Top App Bar.md",
+    "_ Mobile/Android/the complete Android Kotlin/11 Toast, Snackbar, Dialog.md",
+    "_ Mobile/Android/the complete Android Kotlin/10.8. Spinner.md",
+    "_ Mobile/Android/the complete Android Kotlin/10.7. Toggle Button.md",
+    "_ Mobile/Android/the complete Android Kotlin/10.6 RadioButton.md",
+    "_ Mobile/Android/the complete Android Kotlin/10.6 CheckBox.md",
+    "_ Mobile/Android/the complete Android Kotlin/10.5 ImageView.md",
+    "_ Mobile/Android/the complete Android Kotlin/10.3 Button.md",
+    "_ Mobile/Android/the complete Android Kotlin/10.2 TextView.md",
+    "_ Mobile/Android/the complete Android Kotlin/10.1 Layouts in Android App.md",
+    "_ Mobile/Android/the complete Android Kotlin/10 Android Components.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/15. Bazy danych SQLite.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md",
-    "_ Mobile/Android/the complete Android Kotlin/8.9 Top App Bar.md",
-    "_ Mobile/Android/the complete Android Kotlin/8.8. Spinner.md",
-    "_ Mobile/Android/the complete Android Kotlin/8.7. Toggle Button.md",
     "_ Mobile/Kotlin/Wyrażenia regularne.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/7 Shopping list app.md",
     "_ FullStack/Web Development 2024/_ 0 start.md",
@@ -261,14 +269,6 @@
     "JAVASCRIPT/Functional/8.2. View Function.md",
     "JAVASCRIPT/Functional/7 Counter App vs3 - with Virtual DOM.md",
     "JAVASCRIPT/Functional/7 Counter App vs2.md",
-    "JAVASCRIPT/Functional/5 - HTML and CSS.md",
-    "JAVASCRIPT/Functional/0- Intro functional programming (beginner udemy).md",
-    "JAVASCRIPT/Functional Programming for JS Developers/_ Functional Programming for JS Developers.md",
-    "JAVASCRIPT/JS Bible/_ 0 JS Bible.md",
-    "JAVASCRIPT/JS współczesny/_ 0 intro JS dzisiaj.md",
-    "JAVASCRIPT/JS. Programowanie obiektowe/4 Konstruktory i prototypy.md",
-    "JAVASCRIPT/JS. Programowanie obiektowe/3 Obiekty.md",
-    "JAVASCRIPT/JSON/Learn JSON in 10 minuts.md",
     "methodology/images/bar_matplotlib.png",
     "methodology/images/age_rating_barh.png",
     "methodology/images/age_rating_bar.png",

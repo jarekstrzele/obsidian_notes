@@ -1,8 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "8.9 Top App Bar",
-      "path": "_ Mobile/Android/the complete Android Kotlin/8.9 Top App Bar.md"
+      "basename": "11 Toast, Snackbar, Dialog",
+      "path": "_ Mobile/Android/the complete Android Kotlin/11 Toast, Snackbar, Dialog.md"
+    },
+    {
+      "basename": "10.9 Top App Bar",
+      "path": "_ Mobile/Android/the complete Android Kotlin/10.9 Top App Bar.md"
+    },
+    {
+      "basename": "10.8. Spinner",
+      "path": "_ Mobile/Android/the complete Android Kotlin/10.8. Spinner.md"
+    },
+    {
+      "basename": "10.7. Toggle Button",
+      "path": "_ Mobile/Android/the complete Android Kotlin/10.7. Toggle Button.md"
+    },
+    {
+      "basename": "10.6 RadioButton",
+      "path": "_ Mobile/Android/the complete Android Kotlin/10.6 RadioButton.md"
+    },
+    {
+      "basename": "10.6 CheckBox",
+      "path": "_ Mobile/Android/the complete Android Kotlin/10.6 CheckBox.md"
+    },
+    {
+      "basename": "10.5 ImageView",
+      "path": "_ Mobile/Android/the complete Android Kotlin/10.5 ImageView.md"
+    },
+    {
+      "basename": "10.3 Button",
+      "path": "_ Mobile/Android/the complete Android Kotlin/10.3 Button.md"
+    },
+    {
+      "basename": "10.2 TextView",
+      "path": "_ Mobile/Android/the complete Android Kotlin/10.2 TextView.md"
+    },
+    {
+      "basename": "10.1 Layouts in Android App",
+      "path": "_ Mobile/Android/the complete Android Kotlin/10.1 Layouts in Android App.md"
+    },
+    {
+      "basename": "10 Android Components",
+      "path": "_ Mobile/Android/the complete Android Kotlin/10 Android Components.md"
     },
     {
       "basename": "15. Bazy danych SQLite",
@@ -11,14 +51,6 @@
     {
       "basename": "2.1. Zdarzenia",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md"
-    },
-    {
-      "basename": "8.8. Spinner",
-      "path": "_ Mobile/Android/the complete Android Kotlin/8.8. Spinner.md"
-    },
-    {
-      "basename": "8.7. Toggle Button",
-      "path": "_ Mobile/Android/the complete Android Kotlin/8.7. Toggle Button.md"
     },
     {
       "basename": "Wyrażenia regularne",
@@ -167,38 +199,6 @@
     {
       "basename": "_ 0 Rusz głową Agile",
       "path": "methodology/Agile/Rusz głową Agile/_ 0 Rusz głową Agile.md"
-    },
-    {
-      "basename": "Conditionals and Error Handling",
-      "path": "methodology/clean code/Conditionals and Error Handling.md"
-    },
-    {
-      "basename": "Classes and Data Structures",
-      "path": "methodology/clean code/Classes and Data Structures.md"
-    },
-    {
-      "basename": "bar_matplotlib",
-      "path": "methodology/images/bar_matplotlib.png"
-    },
-    {
-      "basename": "age_rating_barh",
-      "path": "methodology/images/age_rating_barh.png"
-    },
-    {
-      "basename": "age_rating_bar",
-      "path": "methodology/images/age_rating_bar.png"
-    },
-    {
-      "basename": "1 Wprowadzenie Wzorce projektowe",
-      "path": "methodology/Wzorce projektowe Rusz Głową/1 Wprowadzenie Wzorce projektowe.md"
-    },
-    {
-      "basename": "8.6 RadioButton",
-      "path": "_ Mobile/Android/the complete Android Kotlin/8.6 RadioButton.md"
-    },
-    {
-      "basename": "8.6 CheckBox",
-      "path": "_ Mobile/Android/the complete Android Kotlin/8.6 CheckBox.md"
     }
   ],
   "omittedPaths": [],
