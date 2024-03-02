@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/15. Bazy danych SQLite.md",
+                "file": "_ Mobile/Android/the complete Android Kotlin/8.9 Top App Bar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/15. Bazy danych SQLite.md",
+                "file": "_ Mobile/Android/the complete Android Kotlin/8.9 Top App Bar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/15. Bazy danych SQLite.md"
+                "file": "_ Mobile/Android/the complete Android Kotlin/8.9 Top App Bar.md"
               }
             }
           },
@@ -241,8 +241,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a1ee0278c4a39085",
+  "active": "b26974032db45cd6",
   "lastOpenFiles": [
+    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/15. Bazy danych SQLite.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md",
     "_ Mobile/Android/the complete Android Kotlin/8.9 Top App Bar.md",
     "_ Mobile/Android/the complete Android Kotlin/8.8. Spinner.md",
@@ -268,7 +269,6 @@
     "JAVASCRIPT/JS. Programowanie obiektowe/4 Konstruktory i prototypy.md",
     "JAVASCRIPT/JS. Programowanie obiektowe/3 Obiekty.md",
     "JAVASCRIPT/JSON/Learn JSON in 10 minuts.md",
-    "JAVASCRIPT/ES refresh.md",
     "methodology/images/bar_matplotlib.png",
     "methodology/images/age_rating_barh.png",
     "methodology/images/age_rating_bar.png",
