@@ -116,7 +116,56 @@ class MainActivity : AppCompatActivity() {
 
 ### Input Dialog
 
+You have to make a new lay
 
+```kotlin
+  
+class MainActivity : AppCompatActivity() {  
+  
+  
+    lateinit var mylayout: ConstraintLayout  
+    lateinit var showDialog: Button  
+    lateinit var showData:TextView  
+  
+  
+    override fun onCreate(savedInstanceState: Bundle?) {  
+        super.onCreate(savedInstanceState)  
+        enableEdgeToEdge()  
+        setContentView(R.layout.activity_main)  
+  
+        mylayout=findViewById(R.id.main)  
+        showData=findViewById(R.id.textview_input)  
+  
+        showDialog=findViewById(R.id.buttonDialog)  
+  
+        showDialog.setOnClickListener{  
+            showInputDialog()  
+        }  
+    }  
+  
+    fun showInputDialog(){  
+        val inputView = LayoutInflater.from(this@MainActivity).inflate(R.layout.dialog_input, null)  
+        var alertDialog = AlertDialog.Builder(this@MainActivity)  
+        alertDialog.setView(inputView)  
+            .setTitle("Input dialog")  
+            .setCancelable(false)  
+            .setNegativeButton("Cancel", DialogInterface.OnClickListener { dialog, _ ->  
+                dialog.dismiss()  
+            })  
+            .setPositiveButton("OK", DialogInterface.OnClickListener { dialog, _ ->  
+                val editText = inputView.findViewById<EditText>(R.id.edittext_input)  
+                val userInput = editText.text.toString()  
+                showData.text= userInput  
+                dialog.dismiss()  
+            } )  
+  
+        alertDialog.create().show()  
+    }  
+  
+  
+  
+}
+```
 
 
 
