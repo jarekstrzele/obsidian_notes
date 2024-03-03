@@ -18,7 +18,8 @@ activity_main.xml
     android:background="#123abc"  
     >  
   
-    <Toolbar        android:layout_width="match_parent"  
+    <Toolbar        
+	    android:layout_width="match_parent"  
         android:layout_height="wrap_content"  
         android:titleTextColor="@color/white"  
         android:title="My ListView"  
