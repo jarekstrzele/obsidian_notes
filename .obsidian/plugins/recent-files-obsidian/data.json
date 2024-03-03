@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "12.1 Recycler View",
+      "path": "_ Mobile/Android/the complete Android Kotlin/12.1 Recycler View.md"
+    },
+    {
       "basename": "12 ListView",
       "path": "_ Mobile/Android/the complete Android Kotlin/12 ListView.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "3 Scrum Values",
       "path": "methodology/Agile/Master Agile principles udemy/3 Scrum Values.md"
-    },
-    {
-      "basename": "1 Czym jest metodyka zwinna",
-      "path": "methodology/Agile/Rusz głową Agile/1 Czym jest metodyka zwinna.md"
     }
   ],
   "omittedPaths": [],
