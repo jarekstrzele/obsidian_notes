@@ -116,7 +116,42 @@ class MainActivity : AppCompatActivity() {
 
 ### Input Dialog
 
-You have to make a new lay
+You have to make a new layout for input data dialog:
+`input_dialog.xml`
+```xml
+<?xml version="1.0" encoding="utf-8"?>  
+<LinearLayout 
+	xmlns:android="http://schemas.android.com/apk/res/android"  
+    android:layout_width="match_parent"  
+    android:layout_height="wrap_content"  
+    android:orientation="vertical"  
+    android:padding="16dp"  
+    >  
+  
+    <TextView        
+	    android:layout_width="wrap_content"  
+        android:layout_height="wrap_content"  
+        android:text="Enter your name:"  
+        android:textSize="18sp"  
+        android:textColor="@color/black"  
+        android:layout_marginBottom="8dp" />  
+  
+    <EditText        
+	    android:id="@+id/edittext_input"  
+        android:layout_width="match_parent"  
+        android:layout_height="wrap_content"  
+        android:hint="Your name"  
+        android:textSize="16sp" />  
+  
+</LinearLayout>
+```
+
+>[!tip] `LayoutInflater` 
+>> - jest klasą, która służy do tworzenia widoków z plików XML layout.
+>> - `from(this@MainActivity)` pobiera inflater powiązany z bieżącą aktywnością (`MainActivity`).
+>> - `LayoutInflater.from(this@MainActivity)`: Tworzy instancję `LayoutInflater` związanej z daną aktywnością (`MainActivity`). `LayoutInflater` jest obiektem, który może przekształcać pliki XML na obiekty widoku.
+>> - **inflater** to narzędzie służące do tworzenia widoków z plików XML layout. Jest to klasa o nazwie `LayoutInflater`, która posiada metody do konwersji layoutów XML na obiekty `View`.
+
 
 ```kotlin
   
@@ -133,7 +168,7 @@ class MainActivity : AppCompatActivity() {
         enableEdgeToEdge()  
         setContentView(R.layout.activity_main)  
   
-        mylayout=findViewById(R.id.main)  
+        mylayout=findViewById(R.id.main)  //this is id of main layout
         showData=findViewById(R.id.textview_input)  
   
         showDialog=findViewById(R.id.buttonDialog)  
@@ -161,9 +196,7 @@ class MainActivity : AppCompatActivity() {
   
         alertDialog.create().show()  
     }  
-  
-  
-  
+
 }
 ```
 

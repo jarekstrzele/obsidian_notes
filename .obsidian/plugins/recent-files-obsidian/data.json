@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "12 ListView",
+      "path": "_ Mobile/Android/the complete Android Kotlin/12 ListView.md"
+    },
+    {
       "basename": "11 Toast, Snackbar, Dialog",
       "path": "_ Mobile/Android/the complete Android Kotlin/11 Toast, Snackbar, Dialog.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "1 Czym jest metodyka zwinna",
       "path": "methodology/Agile/Rusz głową Agile/1 Czym jest metodyka zwinna.md"
-    },
-    {
-      "basename": "_ 0 Rusz głową Agile",
-      "path": "methodology/Agile/Rusz głową Agile/_ 0 Rusz głową Agile.md"
     }
   ],
   "omittedPaths": [],
