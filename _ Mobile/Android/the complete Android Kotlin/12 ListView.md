@@ -45,9 +45,29 @@ add:
     app:layout_constraintTop_toBottomOf="@+id/appBarLayout" />
 ```
 
-
-
-
+resource:
+```xml
+<resources>  
+    <string name="app_name">MyListView</string>  
+  
+    <string-array name="countries">  
+        <item>England</item>  
+        <item>Netherlands</item>  
+        <item>Belgium</item>  
+        <item>Germany</item>  
+        <item>Finland</item>  
+        <item>America</item>  
+        <item>Thailand</item>  
+        <item>China</item>  
+        <item>Mexico</item>  
+        <item>Greece</item>  
+        <item>Italy</item>  
+        <item>Russia</item>  
+        <item>Spain</item>  
+        <item>Australia</item>  
+        <item>Turkey</item>  
+    </string-array></resources>
+```
 
 MainActivity.kt
 ```kotlin
@@ -74,7 +94,6 @@ class MainActivity : AppCompatActivity() {
         listView.setOnItemClickListener { parent, view, position, id ->  
             val countryName: String = parent.getItemAtPosition(position).toString()  
             Toast.makeText(applicationContext, countryName, Toast.LENGTH_SHORT).show()  
-  
         }  
   
     }  
