@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "3. Functions, Objects and Coffee Machine",
+      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/3. Functions, Objects and Coffee Machine.md"
+    },
+    {
+      "basename": "7 Shopping list app",
+      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/7 Shopping list app.md"
+    },
+    {
       "basename": "12.1 Recycler View",
       "path": "_ Mobile/Android/the complete Android Kotlin/12.1 Recycler View.md"
     },
@@ -63,10 +71,6 @@
     {
       "basename": "Wyrażenia regularne",
       "path": "_ Mobile/Kotlin/Wyrażenia regularne.md"
-    },
-    {
-      "basename": "7 Shopping list app",
-      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/7 Shopping list app.md"
     },
     {
       "basename": "_ 0 start",
@@ -195,10 +199,6 @@
     {
       "basename": "_ 0 Agile fundamentals",
       "path": "methodology/Agile/Master Agile principles udemy/_ 0 Agile fundamentals.md"
-    },
-    {
-      "basename": "3 Scrum Values",
-      "path": "methodology/Agile/Master Agile principles udemy/3 Scrum Values.md"
     }
   ],
   "omittedPaths": [],

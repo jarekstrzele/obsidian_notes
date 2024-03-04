@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/7 Shopping list app.md",
+                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/3. Functions, Objects and Coffee Machine.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -150,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/12.1 Recycler View.md",
+                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/3. Functions, Objects and Coffee Machine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/12.1 Recycler View.md",
+                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/3. Functions, Objects and Coffee Machine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/12.1 Recycler View.md"
+                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/3. Functions, Objects and Coffee Machine.md"
               }
             }
           },
@@ -241,10 +240,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b26974032db45cd6",
+  "active": "e0cfe39b80cfbe36",
   "lastOpenFiles": [
-    "_ Mobile/Android/the complete Android Kotlin/12 ListView.md",
+    "_ Mobile/Android/the complete Android 14 and Kotlin/7 Shopping list app.md",
     "_ Mobile/Android/the complete Android Kotlin/12.1 Recycler View.md",
+    "_ Mobile/Android/the complete Android Kotlin/12 ListView.md",
     "_ Mobile/Android/the complete Android Kotlin/10.9 Top App Bar.md",
     "_ Mobile/Android/the complete Android Kotlin/11 Toast, Snackbar, Dialog.md",
     "_ Mobile/Android/the complete Android Kotlin/10.8. Spinner.md",
@@ -259,7 +259,6 @@
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/15. Bazy danych SQLite.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md",
     "_ Mobile/Kotlin/Wyrażenia regularne.md",
-    "_ Mobile/Android/the complete Android 14 and Kotlin/7 Shopping list app.md",
     "_ FullStack/Web Development 2024/_ 0 start.md",
     "_ FullStack/Web Development 2024/28 Application Programming Interfaces (APIs).md",
     "_ FullStack/Web Development 2024/3 Flexbox.md",
