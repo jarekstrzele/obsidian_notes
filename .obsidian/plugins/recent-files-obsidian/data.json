@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "4. Lists and Objects",
+      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/4. Lists and Objects.md"
+    },
+    {
       "basename": "3. Functions, Objects and Coffee Machine",
       "path": "_ Mobile/Android/the complete Android 14 and Kotlin/3. Functions, Objects and Coffee Machine.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "3.6. Creating elements & Replace & Remove",
       "path": "JAVASCRIPT/Modern JavaScrip From the Beginning/3.6. Creating elements & Replace & Remove.md"
-    },
-    {
-      "basename": "_ 0 Agile fundamentals",
-      "path": "methodology/Agile/Master Agile principles udemy/_ 0 Agile fundamentals.md"
     }
   ],
   "omittedPaths": [],

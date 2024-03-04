@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/3. Functions, Objects and Coffee Machine.md",
+                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/4. Lists and Objects.md",
                 "mode": "source",
                 "source": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/3. Functions, Objects and Coffee Machine.md",
+                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/4. Lists and Objects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/3. Functions, Objects and Coffee Machine.md",
+                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/4. Lists and Objects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/3. Functions, Objects and Coffee Machine.md"
+                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/4. Lists and Objects.md"
               }
             }
           },
@@ -242,6 +242,7 @@
   },
   "active": "e0cfe39b80cfbe36",
   "lastOpenFiles": [
+    "_ Mobile/Android/the complete Android 14 and Kotlin/3. Functions, Objects and Coffee Machine.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/7 Shopping list app.md",
     "_ Mobile/Android/the complete Android Kotlin/12.1 Recycler View.md",
     "_ Mobile/Android/the complete Android Kotlin/12 ListView.md",
@@ -267,7 +268,6 @@
     "_ WEB/N_O_D_E/NodeJS - fullstack/7.1. Tworzenie rest api.md",
     "_ FullStack/Web Development 2024/5 Bootstrap.md",
     "JAVASCRIPT/Functional/Currying.md",
-    "JAVASCRIPT/Functional/8.2. View Function.md",
     "methodology/images/bar_matplotlib.png",
     "methodology/images/age_rating_barh.png",
     "methodology/images/age_rating_bar.png",
