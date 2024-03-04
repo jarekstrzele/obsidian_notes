@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Wyświeltanie info",
+      "path": "_ Desktop/WPF/Wyświeltanie info.md"
+    },
+    {
+      "basename": "_ 0 start",
+      "path": "_ FullStack/Web Development 2024/_ 0 start.md"
+    },
+    {
       "basename": "12.1 Recycler View",
       "path": "_ Mobile/Android/the complete Android Kotlin/12.1 Recycler View.md"
     },
@@ -75,10 +83,6 @@
     {
       "basename": "Wyrażenia regularne",
       "path": "_ Mobile/Kotlin/Wyrażenia regularne.md"
-    },
-    {
-      "basename": "_ 0 start",
-      "path": "_ FullStack/Web Development 2024/_ 0 start.md"
     },
     {
       "basename": "28 Application Programming Interfaces (APIs)",
@@ -195,10 +199,6 @@
     {
       "basename": "3.7.  Event Listeners & the Event Object",
       "path": "JAVASCRIPT/Modern JavaScrip From the Beginning/3.7.  Event Listeners & the Event Object.md"
-    },
-    {
-      "basename": "3.6. Creating elements & Replace & Remove",
-      "path": "JAVASCRIPT/Modern JavaScrip From the Beginning/3.6. Creating elements & Replace & Remove.md"
     }
   ],
   "omittedPaths": [],
