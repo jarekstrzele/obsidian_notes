@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "12.1 Recycler View",
+      "path": "_ Mobile/Android/the complete Android Kotlin/12.1 Recycler View.md"
+    },
+    {
       "basename": "4. Lists and Objects",
       "path": "_ Mobile/Android/the complete Android 14 and Kotlin/4. Lists and Objects.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "7 Shopping list app",
       "path": "_ Mobile/Android/the complete Android 14 and Kotlin/7 Shopping list app.md"
-    },
-    {
-      "basename": "12.1 Recycler View",
-      "path": "_ Mobile/Android/the complete Android Kotlin/12.1 Recycler View.md"
     },
     {
       "basename": "12 ListView",
