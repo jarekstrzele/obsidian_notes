@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/12.1 Recycler View.md",
+                "file": "_ Mobile/Android/the complete Android Kotlin/10.9 Top App Bar.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Desktop/WPF/Wyświeltanie info.md",
+                "file": "_ Mobile/Android/the complete Android Kotlin/10.9 Top App Bar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Desktop/WPF/Wyświeltanie info.md",
+                "file": "_ Mobile/Android/the complete Android Kotlin/10.9 Top App Bar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Desktop/WPF/Wyświeltanie info.md"
+                "file": "_ Mobile/Android/the complete Android Kotlin/10.9 Top App Bar.md"
               }
             }
           },
@@ -241,17 +241,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "662e409fa90b0a6c",
+  "active": "b26974032db45cd6",
   "lastOpenFiles": [
-    "_ FullStack/Web Development 2024/_ 0 start.md",
+    "_ Mobile/Android/the complete Android Kotlin/10.8. Spinner.md",
     "_ Mobile/Android/the complete Android Kotlin/12.1 Recycler View.md",
+    "_ Desktop/WPF/Wyświeltanie info.md",
+    "_ FullStack/Web Development 2024/_ 0 start.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/4. Lists and Objects.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/3. Functions, Objects and Coffee Machine.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/7 Shopping list app.md",
     "_ Mobile/Android/the complete Android Kotlin/12 ListView.md",
     "_ Mobile/Android/the complete Android Kotlin/10.9 Top App Bar.md",
     "_ Mobile/Android/the complete Android Kotlin/11 Toast, Snackbar, Dialog.md",
-    "_ Mobile/Android/the complete Android Kotlin/10.8. Spinner.md",
     "_ Mobile/Android/the complete Android Kotlin/10.7. Toggle Button.md",
     "_ Mobile/Android/the complete Android Kotlin/10.6 RadioButton.md",
     "_ Mobile/Android/the complete Android Kotlin/10.6 CheckBox.md",
@@ -268,7 +269,6 @@
     "_ FullStack/Web Development 2024/19 jQuery.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/7.1. Tworzenie rest api.md",
-    "_ FullStack/Web Development 2024/5 Bootstrap.md",
     "methodology/images/bar_matplotlib.png",
     "methodology/images/age_rating_barh.png",
     "methodology/images/age_rating_bar.png",
