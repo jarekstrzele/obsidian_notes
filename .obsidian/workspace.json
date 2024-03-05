@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/10.9 Top App Bar.md",
+                "file": "_ WEB/REACT/React - the Complete Guide/14 Connecting to a Database.md",
                 "mode": "source",
                 "source": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/10.9 Top App Bar.md",
+                "file": "_ WEB/REACT/React - the Complete Guide/14 Connecting to a Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/10.9 Top App Bar.md",
+                "file": "_ WEB/REACT/React - the Complete Guide/14 Connecting to a Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/10.9 Top App Bar.md"
+                "file": "_ WEB/REACT/React - the Complete Guide/14 Connecting to a Database.md"
               }
             }
           },
@@ -243,6 +243,9 @@
   },
   "active": "b26974032db45cd6",
   "lastOpenFiles": [
+    "_ WEB/REACT/DB/Fetch.md",
+    "_ WEB/REACT/React - the Complete Guide/8 Login Project.md",
+    "_ Mobile/Android/the complete Android Kotlin/10.9 Top App Bar.md",
     "_ Mobile/Android/the complete Android Kotlin/10.8. Spinner.md",
     "_ Mobile/Android/the complete Android Kotlin/12.1 Recycler View.md",
     "_ Desktop/WPF/Wyświeltanie info.md",
@@ -251,7 +254,6 @@
     "_ Mobile/Android/the complete Android 14 and Kotlin/3. Functions, Objects and Coffee Machine.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/7 Shopping list app.md",
     "_ Mobile/Android/the complete Android Kotlin/12 ListView.md",
-    "_ Mobile/Android/the complete Android Kotlin/10.9 Top App Bar.md",
     "_ Mobile/Android/the complete Android Kotlin/11 Toast, Snackbar, Dialog.md",
     "_ Mobile/Android/the complete Android Kotlin/10.7. Toggle Button.md",
     "_ Mobile/Android/the complete Android Kotlin/10.6 RadioButton.md",
@@ -267,8 +269,6 @@
     "_ FullStack/Web Development 2024/28 Application Programming Interfaces (APIs).md",
     "_ FullStack/Web Development 2024/3 Flexbox.md",
     "_ FullStack/Web Development 2024/19 jQuery.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/7.1. Tworzenie rest api.md",
     "methodology/images/bar_matplotlib.png",
     "methodology/images/age_rating_barh.png",
     "methodology/images/age_rating_bar.png",

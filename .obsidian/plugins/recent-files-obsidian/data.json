@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "14 Connecting to a Database",
+      "path": "_ WEB/REACT/React - the Complete Guide/14 Connecting to a Database.md"
+    },
+    {
+      "basename": "Fetch",
+      "path": "_ WEB/REACT/DB/Fetch.md"
+    },
+    {
+      "basename": "8 Login Project",
+      "path": "_ WEB/REACT/React - the Complete Guide/8 Login Project.md"
+    },
+    {
       "basename": "10.9 Top App Bar",
       "path": "_ Mobile/Android/the complete Android Kotlin/10.9 Top App Bar.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "- 3 Node",
       "path": "JAVASCRIPT/Lear Node.js and Javascript/- 3 Node.md"
-    },
-    {
-      "basename": "- 4 MySQL with Node.js",
-      "path": "JAVASCRIPT/Lear Node.js and Javascript/- 4 MySQL with Node.js.md"
-    },
-    {
-      "basename": "3.8. Local & Session Storage",
-      "path": "JAVASCRIPT/Modern JavaScrip From the Beginning/3.8. Local & Session Storage.md"
-    },
-    {
-      "basename": "3.7.  Event Listeners & the Event Object",
-      "path": "JAVASCRIPT/Modern JavaScrip From the Beginning/3.7.  Event Listeners & the Event Object.md"
     }
   ],
   "omittedPaths": [],
