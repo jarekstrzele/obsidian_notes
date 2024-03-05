@@ -4,71 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "cd50423fa913da95",
+        "id": "758c057cbdf16900",
         "type": "tabs",
         "children": [
           {
-            "id": "e0cfe39b80cfbe36",
+            "id": "47a00471371697d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/4. Lists and Objects.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b26974032db45cd6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_ WEB/REACT/React - the Complete Guide/14 Connecting to a Database.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a1ee0278c4a39085",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/15. Bazy danych SQLite.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "662e409fa90b0a6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_ Desktop/WPF/Wyświeltanie info.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3b42b258f92f8068",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_DataBase/FireBase/Firebase Android Kotlin/_ Firebase Android Korlin.md",
+                "file": "_ Mobile/Android/Kurs Android od podstaw/_ Kurs Android od podstaw.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -150,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ WEB/REACT/React - the Complete Guide/14 Connecting to a Database.md",
+                "file": "_ Mobile/Android/Kurs Android od podstaw/_ Kurs Android od podstaw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ WEB/REACT/React - the Complete Guide/14 Connecting to a Database.md",
+                "file": "_ Mobile/Android/Kurs Android od podstaw/_ Kurs Android od podstaw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ WEB/REACT/React - the Complete Guide/14 Connecting to a Database.md"
+                "file": "_ Mobile/Android/Kurs Android od podstaw/_ Kurs Android od podstaw.md"
               }
             }
           },
@@ -241,8 +192,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b26974032db45cd6",
+  "active": "47a00471371697d9",
   "lastOpenFiles": [
+    "_ Mobile/Android/Kurs Android od podstaw/2 Tworzenie widoków.md",
+    "_ Mobile/Android/Kurs Android od podstaw/_ Kurs Android od podstaw.md",
+    "_ Mobile/Android/the complete Android 14 and Kotlin/4. Lists and Objects.md",
+    "_ WEB/REACT/React - the Complete Guide/14 Connecting to a Database.md",
     "_ WEB/REACT/DB/Fetch.md",
     "_ WEB/REACT/React - the Complete Guide/8 Login Project.md",
     "_ Mobile/Android/the complete Android Kotlin/10.9 Top App Bar.md",
@@ -250,7 +205,6 @@
     "_ Mobile/Android/the complete Android Kotlin/12.1 Recycler View.md",
     "_ Desktop/WPF/Wyświeltanie info.md",
     "_ FullStack/Web Development 2024/_ 0 start.md",
-    "_ Mobile/Android/the complete Android 14 and Kotlin/4. Lists and Objects.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/3. Functions, Objects and Coffee Machine.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/7 Shopping list app.md",
     "_ Mobile/Android/the complete Android Kotlin/12 ListView.md",
@@ -266,9 +220,6 @@
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/15. Bazy danych SQLite.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md",
     "_ Mobile/Kotlin/Wyrażenia regularne.md",
-    "_ FullStack/Web Development 2024/28 Application Programming Interfaces (APIs).md",
-    "_ FullStack/Web Development 2024/3 Flexbox.md",
-    "_ FullStack/Web Development 2024/19 jQuery.md",
     "methodology/images/bar_matplotlib.png",
     "methodology/images/age_rating_barh.png",
     "methodology/images/age_rating_bar.png",

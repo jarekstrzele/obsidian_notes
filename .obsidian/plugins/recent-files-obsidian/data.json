@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "_ Kurs Android od podstaw",
+      "path": "_ Mobile/Android/Kurs Android od podstaw/_ Kurs Android od podstaw.md"
+    },
+    {
+      "basename": "2 Tworzenie widoków",
+      "path": "_ Mobile/Android/Kurs Android od podstaw/2 Tworzenie widoków.md"
+    },
+    {
+      "basename": "4. Lists and Objects",
+      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/4. Lists and Objects.md"
+    },
+    {
       "basename": "14 Connecting to a Database",
       "path": "_ WEB/REACT/React - the Complete Guide/14 Connecting to a Database.md"
     },
@@ -31,10 +43,6 @@
     {
       "basename": "_ 0 start",
       "path": "_ FullStack/Web Development 2024/_ 0 start.md"
-    },
-    {
-      "basename": "4. Lists and Objects",
-      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/4. Lists and Objects.md"
     },
     {
       "basename": "3. Functions, Objects and Coffee Machine",
@@ -191,14 +199,6 @@
     {
       "basename": "11.3 nasłuchiwacz zdarzeń",
       "path": "JAVASCRIPT/Podstawy_Włodarczyk/11.3 nasłuchiwacz zdarzeń.md"
-    },
-    {
-      "basename": "_ Node and JavaScript",
-      "path": "JAVASCRIPT/Lear Node.js and Javascript/_ Node and JavaScript.md"
-    },
-    {
-      "basename": "- 3 Node",
-      "path": "JAVASCRIPT/Lear Node.js and Javascript/- 3 Node.md"
     }
   ],
   "omittedPaths": [],
