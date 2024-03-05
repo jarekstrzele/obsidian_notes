@@ -1,12 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "_ Kurs Android od podstaw",
-      "path": "_ Mobile/Android/Kurs Android od podstaw/_ Kurs Android od podstaw.md"
+      "basename": "3 Podstawy tworzenia aplikacji",
+      "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md"
+    },
+    {
+      "basename": "_ Kotlin bez tajemnic",
+      "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/_ Kotlin bez tajemnic.md"
+    },
+    {
+      "basename": "3.1. Fragments",
+      "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3.1. Fragments.md"
+    },
+    {
+      "basename": "3.3. View Binding",
+      "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3.3. View Binding.md"
+    },
+    {
+      "basename": "Fundamenty Kotlina",
+      "path": "_ Mobile/Kotlin/Fundamenty Kotlina.md"
+    },
+    {
+      "basename": "_ React, TypeScript, Node",
+      "path": "_ WEB/React,TypeScript,Node/_ React, TypeScript, Node.md"
+    },
+    {
+      "basename": "_ 0 Android Kurs Tworzenia Aplikacji",
+      "path": "_ Mobile/Android/Android Kurs Tworzenia APlikacji/_ 0 Android Kurs Tworzenia Aplikacji.md"
     },
     {
       "basename": "2 Tworzenie widoków",
       "path": "_ Mobile/Android/Kurs Android od podstaw/2 Tworzenie widoków.md"
+    },
+    {
+      "basename": "_ Kurs Android od podstaw",
+      "path": "_ Mobile/Android/Kurs Android od podstaw/_ Kurs Android od podstaw.md"
     },
     {
       "basename": "4. Lists and Objects",
@@ -171,34 +199,6 @@
     {
       "basename": "3 Obiekty",
       "path": "JAVASCRIPT/JS. Programowanie obiektowe/3 Obiekty.md"
-    },
-    {
-      "basename": "Learn JSON in 10 minuts",
-      "path": "JAVASCRIPT/JSON/Learn JSON in 10 minuts.md"
-    },
-    {
-      "basename": "ES refresh",
-      "path": "JAVASCRIPT/ES refresh.md"
-    },
-    {
-      "basename": "DAY JS",
-      "path": "JAVASCRIPT/DAY JS.md"
-    },
-    {
-      "basename": "11.6 preventDefault",
-      "path": "JAVASCRIPT/Podstawy_Włodarczyk/11.6 preventDefault.md"
-    },
-    {
-      "basename": "11.5 Propagacja eventów",
-      "path": "JAVASCRIPT/Podstawy_Włodarczyk/11.5 Propagacja eventów.md"
-    },
-    {
-      "basename": "11.4 obiekt Event",
-      "path": "JAVASCRIPT/Podstawy_Włodarczyk/11.4 obiekt Event.md"
-    },
-    {
-      "basename": "11.3 nasłuchiwacz zdarzeń",
-      "path": "JAVASCRIPT/Podstawy_Włodarczyk/11.3 nasłuchiwacz zdarzeń.md"
     }
   ],
   "omittedPaths": [],

@@ -151,7 +151,7 @@ fun showAmount(amount:Int){
 rozwiązanie
 ```kotlin
 fun showAmount(amount:Int, currency: String? = null){
- pintln(amount)
+ println(amount)
  currency?.let{ println(currency)}
 }
 ```

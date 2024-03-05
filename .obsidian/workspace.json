@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Android/Kurs Android od podstaw/_ Kurs Android od podstaw.md",
+                "file": "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Android/Kurs Android od podstaw/_ Kurs Android od podstaw.md",
+                "file": "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Android/Kurs Android od podstaw/_ Kurs Android od podstaw.md",
+                "file": "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Android/Kurs Android od podstaw/_ Kurs Android od podstaw.md"
+                "file": "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md"
               }
             }
           },
@@ -194,6 +194,13 @@
   },
   "active": "47a00471371697d9",
   "lastOpenFiles": [
+    "_ Mobile/Kotlin/Kotlin bez tajemnic/_ Kotlin bez tajemnic.md",
+    "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md",
+    "_ Mobile/Kotlin/Kotlin bez tajemnic/3.1. Fragments.md",
+    "_ Mobile/Kotlin/Kotlin bez tajemnic/3.3. View Binding.md",
+    "_ Mobile/Kotlin/Fundamenty Kotlina.md",
+    "_ WEB/React,TypeScript,Node/_ React, TypeScript, Node.md",
+    "_ Mobile/Android/Android Kurs Tworzenia APlikacji/_ 0 Android Kurs Tworzenia Aplikacji.md",
     "_ Mobile/Android/Kurs Android od podstaw/2 Tworzenie widoków.md",
     "_ Mobile/Android/Kurs Android od podstaw/_ Kurs Android od podstaw.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/4. Lists and Objects.md",
@@ -213,13 +220,6 @@
     "_ Mobile/Android/the complete Android Kotlin/10.6 RadioButton.md",
     "_ Mobile/Android/the complete Android Kotlin/10.6 CheckBox.md",
     "_ Mobile/Android/the complete Android Kotlin/10.5 ImageView.md",
-    "_ Mobile/Android/the complete Android Kotlin/10.3 Button.md",
-    "_ Mobile/Android/the complete Android Kotlin/10.2 TextView.md",
-    "_ Mobile/Android/the complete Android Kotlin/10.1 Layouts in Android App.md",
-    "_ Mobile/Android/the complete Android Kotlin/10 Android Components.md",
-    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/15. Bazy danych SQLite.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md",
-    "_ Mobile/Kotlin/Wyrażenia regularne.md",
     "methodology/images/bar_matplotlib.png",
     "methodology/images/age_rating_barh.png",
     "methodology/images/age_rating_bar.png",
