@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "_ app z Node i Express",
+      "path": "_ WEB/React,TypeScript,Node/III Express, GraphQL tworzenie usług internetowych/_ app z Node i Express.md"
+    },
+    {
       "basename": "0. Testowanie jednostkowe i integracyjne",
       "path": "Testowanie/CSharp Testy jednostkowe i integracyjne/0. Testowanie jednostkowe i integracyjne.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_ Functional Programming for JS Developers",
       "path": "JAVASCRIPT/Functional Programming for JS Developers/_ Functional Programming for JS Developers.md"
-    },
-    {
-      "basename": "_ 0 JS Bible",
-      "path": "JAVASCRIPT/JS Bible/_ 0 JS Bible.md"
     }
   ],
   "omittedPaths": [],
