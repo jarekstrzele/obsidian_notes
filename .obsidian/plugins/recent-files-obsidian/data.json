@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "0. Testowanie jednostkowe i integracyjne",
+      "path": "Testowanie/CSharp Testy jednostkowe i integracyjne/0. Testowanie jednostkowe i integracyjne.md"
+    },
+    {
+      "basename": "2. PyTest",
+      "path": "Testowanie/Testy automatyczne w języku Python/2. PyTest.md"
+    },
+    {
+      "basename": "_ 0 Testy automatyczne Python",
+      "path": "Testowanie/Testy automatyczne w języku Python/_ 0 Testy automatyczne Python.md"
+    },
+    {
       "basename": "3 Podstawy tworzenia aplikacji",
       "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "_ 0 JS Bible",
       "path": "JAVASCRIPT/JS Bible/_ 0 JS Bible.md"
-    },
-    {
-      "basename": "_ 0 intro JS dzisiaj",
-      "path": "JAVASCRIPT/JS współczesny/_ 0 intro JS dzisiaj.md"
-    },
-    {
-      "basename": "4 Konstruktory i prototypy",
-      "path": "JAVASCRIPT/JS. Programowanie obiektowe/4 Konstruktory i prototypy.md"
-    },
-    {
-      "basename": "3 Obiekty",
-      "path": "JAVASCRIPT/JS. Programowanie obiektowe/3 Obiekty.md"
     }
   ],
   "omittedPaths": [],

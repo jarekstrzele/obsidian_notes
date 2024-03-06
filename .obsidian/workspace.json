@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md",
+                "file": "Testowanie/CSharp Testy jednostkowe i integracyjne/0. Testowanie jednostkowe i integracyjne.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md",
+                "file": "Testowanie/CSharp Testy jednostkowe i integracyjne/0. Testowanie jednostkowe i integracyjne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md",
+                "file": "Testowanie/CSharp Testy jednostkowe i integracyjne/0. Testowanie jednostkowe i integracyjne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md"
+                "file": "Testowanie/CSharp Testy jednostkowe i integracyjne/0. Testowanie jednostkowe i integracyjne.md"
               }
             }
           },
@@ -194,8 +194,12 @@
   },
   "active": "47a00471371697d9",
   "lastOpenFiles": [
-    "_ Mobile/Kotlin/Kotlin bez tajemnic/_ Kotlin bez tajemnic.md",
+    "Testowanie/Testy automatyczne w języku Python/2. PyTest.md",
+    "Testowanie/CSharp Testy jednostkowe i integracyjne/0. Testowanie jednostkowe i integracyjne.md",
+    "Testowanie/CSharp Testy jednostkowe i integracyjne",
+    "Testowanie/Testy automatyczne w języku Python/_ 0 Testy automatyczne Python.md",
     "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md",
+    "_ Mobile/Kotlin/Kotlin bez tajemnic/_ Kotlin bez tajemnic.md",
     "_ Mobile/Kotlin/Kotlin bez tajemnic/3.1. Fragments.md",
     "_ Mobile/Kotlin/Kotlin bez tajemnic/3.3. View Binding.md",
     "_ Mobile/Kotlin/Fundamenty Kotlina.md",
@@ -217,9 +221,6 @@
     "_ Mobile/Android/the complete Android Kotlin/12 ListView.md",
     "_ Mobile/Android/the complete Android Kotlin/11 Toast, Snackbar, Dialog.md",
     "_ Mobile/Android/the complete Android Kotlin/10.7. Toggle Button.md",
-    "_ Mobile/Android/the complete Android Kotlin/10.6 RadioButton.md",
-    "_ Mobile/Android/the complete Android Kotlin/10.6 CheckBox.md",
-    "_ Mobile/Android/the complete Android Kotlin/10.5 ImageView.md",
     "methodology/images/bar_matplotlib.png",
     "methodology/images/age_rating_barh.png",
     "methodology/images/age_rating_bar.png",
@@ -238,7 +239,6 @@
     "Pasted image 20240115085044.png",
     "Pasted image 20240115084911.png",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/Untitled",
-    "_ Mobile/Android",
-    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ"
+    "_ Mobile/Android"
   ]
 }
