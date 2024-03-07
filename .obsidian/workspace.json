@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/10.9 Top App Bar.md",
+                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/3 Wiele aktywności i intencji.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/10.9 Top App Bar.md",
+                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/3 Wiele aktywności i intencji.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/10.9 Top App Bar.md",
+                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/3 Wiele aktywności i intencji.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/10.9 Top App Bar.md"
+                "file": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/3 Wiele aktywności i intencji.md"
               }
             }
           },
@@ -219,6 +219,9 @@
   },
   "active": "a865191958dd6110",
   "lastOpenFiles": [
+    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/2. Tworzenie interaktywnych aplikacji.md",
+    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/1. Skok na głęboką wodę.md",
+    "_ Mobile/Android/the complete Android Kotlin/10.9 Top App Bar.md",
     "_ Mobile/Android/the complete Android Kotlin/11 Toast, Snackbar, Dialog.md",
     "Testowanie/CSharp Testy jednostkowe i integracyjne/1. Utworzenie projektu testowego.md",
     "_ Mobile/Android/8.4 EditTexts.md",
@@ -226,7 +229,6 @@
     "_ Mobile/Android/the complete Android Kotlin/10 Android Components.md",
     "_ Mobile/Android/the complete Android Kotlin/12.1 Recycler View.md",
     "_ Mobile/Android/the complete Android Kotlin/12 ListView.md",
-    "_ Mobile/Android/the complete Android Kotlin/10.9 Top App Bar.md",
     "_ Mobile/Android/the complete Android Kotlin/10.8. Spinner.md",
     "_ Mobile/Android/the complete Android Kotlin/10.5 ImageView.md",
     "_ Mobile/Android/the complete Android Kotlin/10.3 Button.md",
@@ -244,8 +246,6 @@
     "_ Mobile/Kotlin/Kotlin bez tajemnic/3.1. Fragments.md",
     "_ Mobile/Kotlin/Kotlin bez tajemnic/3.3. View Binding.md",
     "_ Mobile/Kotlin/Fundamenty Kotlina.md",
-    "_ WEB/React,TypeScript,Node/_ React, TypeScript, Node.md",
-    "_ Mobile/Android/the complete Android 14 and Kotlin/4. Lists and Objects.md",
     "methodology/images/bar_matplotlib.png",
     "methodology/images/age_rating_barh.png",
     "methodology/images/age_rating_bar.png",
