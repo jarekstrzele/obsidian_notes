@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "10.9 Top App Bar",
+      "path": "_ Mobile/Android/the complete Android Kotlin/10.9 Top App Bar.md"
+    },
+    {
+      "basename": "10.8. Spinner",
+      "path": "_ Mobile/Android/the complete Android Kotlin/10.8. Spinner.md"
+    },
+    {
+      "basename": "10.5 ImageView",
+      "path": "_ Mobile/Android/the complete Android Kotlin/10.5 ImageView.md"
+    },
+    {
+      "basename": "10.3 Button",
+      "path": "_ Mobile/Android/the complete Android Kotlin/10.3 Button.md"
+    },
+    {
+      "basename": "2 Tworzenie widoków",
+      "path": "_ Mobile/Android/Kurs Android od podstaw/2 Tworzenie widoków.md"
+    },
+    {
+      "basename": "_ Kurs Android od podstaw",
+      "path": "_ Mobile/Android/Kurs Android od podstaw/_ Kurs Android od podstaw.md"
+    },
+    {
+      "basename": "_ 0 Android Kurs Tworzenia Aplikacji",
+      "path": "_ Mobile/Android/Android Kurs Tworzenia APlikacji/_ 0 Android Kurs Tworzenia Aplikacji.md"
+    },
+    {
       "basename": "1. Utworzenie projektu testowego",
       "path": "Testowanie/CSharp Testy jednostkowe i integracyjne/1. Utworzenie projektu testowego.md"
     },
@@ -49,18 +77,6 @@
       "path": "_ WEB/React,TypeScript,Node/_ React, TypeScript, Node.md"
     },
     {
-      "basename": "_ 0 Android Kurs Tworzenia Aplikacji",
-      "path": "_ Mobile/Android/Android Kurs Tworzenia APlikacji/_ 0 Android Kurs Tworzenia Aplikacji.md"
-    },
-    {
-      "basename": "2 Tworzenie widoków",
-      "path": "_ Mobile/Android/Kurs Android od podstaw/2 Tworzenie widoków.md"
-    },
-    {
-      "basename": "_ Kurs Android od podstaw",
-      "path": "_ Mobile/Android/Kurs Android od podstaw/_ Kurs Android od podstaw.md"
-    },
-    {
       "basename": "4. Lists and Objects",
       "path": "_ Mobile/Android/the complete Android 14 and Kotlin/4. Lists and Objects.md"
     },
@@ -75,14 +91,6 @@
     {
       "basename": "8 Login Project",
       "path": "_ WEB/REACT/React - the Complete Guide/8 Login Project.md"
-    },
-    {
-      "basename": "10.9 Top App Bar",
-      "path": "_ Mobile/Android/the complete Android Kotlin/10.9 Top App Bar.md"
-    },
-    {
-      "basename": "10.8. Spinner",
-      "path": "_ Mobile/Android/the complete Android Kotlin/10.8. Spinner.md"
     },
     {
       "basename": "12.1 Recycler View",
@@ -123,14 +131,6 @@
     {
       "basename": "10.6 CheckBox",
       "path": "_ Mobile/Android/the complete Android Kotlin/10.6 CheckBox.md"
-    },
-    {
-      "basename": "10.5 ImageView",
-      "path": "_ Mobile/Android/the complete Android Kotlin/10.5 ImageView.md"
-    },
-    {
-      "basename": "10.3 Button",
-      "path": "_ Mobile/Android/the complete Android Kotlin/10.3 Button.md"
     },
     {
       "basename": "10.2 TextView",
