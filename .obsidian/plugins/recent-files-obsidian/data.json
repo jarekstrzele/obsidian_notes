@@ -5,6 +5,26 @@
       "path": "_ Mobile/Android/the complete Android Kotlin/11 Toast, Snackbar, Dialog.md"
     },
     {
+      "basename": "8.4 EditTexts",
+      "path": "_ Mobile/Android/8.4 EditTexts.md"
+    },
+    {
+      "basename": "DatePicker Dialog",
+      "path": "_ Mobile/Android/DatePicker Dialog.md"
+    },
+    {
+      "basename": "10 Android Components",
+      "path": "_ Mobile/Android/the complete Android Kotlin/10 Android Components.md"
+    },
+    {
+      "basename": "12.1 Recycler View",
+      "path": "_ Mobile/Android/the complete Android Kotlin/12.1 Recycler View.md"
+    },
+    {
+      "basename": "12 ListView",
+      "path": "_ Mobile/Android/the complete Android Kotlin/12 ListView.md"
+    },
+    {
       "basename": "10.9 Top App Bar",
       "path": "_ Mobile/Android/the complete Android Kotlin/10.9 Top App Bar.md"
     },
@@ -97,10 +117,6 @@
       "path": "_ WEB/REACT/React - the Complete Guide/8 Login Project.md"
     },
     {
-      "basename": "12.1 Recycler View",
-      "path": "_ Mobile/Android/the complete Android Kotlin/12.1 Recycler View.md"
-    },
-    {
       "basename": "Wyświeltanie info",
       "path": "_ Desktop/WPF/Wyświeltanie info.md"
     },
@@ -115,10 +131,6 @@
     {
       "basename": "7 Shopping list app",
       "path": "_ Mobile/Android/the complete Android 14 and Kotlin/7 Shopping list app.md"
-    },
-    {
-      "basename": "12 ListView",
-      "path": "_ Mobile/Android/the complete Android Kotlin/12 ListView.md"
     },
     {
       "basename": "10.7. Toggle Button",
@@ -139,10 +151,6 @@
     {
       "basename": "10.1 Layouts in Android App",
       "path": "_ Mobile/Android/the complete Android Kotlin/10.1 Layouts in Android App.md"
-    },
-    {
-      "basename": "10 Android Components",
-      "path": "_ Mobile/Android/the complete Android Kotlin/10 Android Components.md"
     },
     {
       "basename": "15. Bazy danych SQLite",
@@ -191,14 +199,6 @@
     {
       "basename": "7 Counter App vs3 - with Virtual DOM",
       "path": "JAVASCRIPT/Functional/7 Counter App vs3 - with Virtual DOM.md"
-    },
-    {
-      "basename": "7 Counter App vs2",
-      "path": "JAVASCRIPT/Functional/7 Counter App vs2.md"
-    },
-    {
-      "basename": "5 - HTML and CSS",
-      "path": "JAVASCRIPT/Functional/5 - HTML and CSS.md"
     }
   ],
   "omittedPaths": [],
