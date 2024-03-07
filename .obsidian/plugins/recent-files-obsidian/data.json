@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "4.1. Pierwsza wersja stopera",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4.1. Pierwsza wersja stopera.md"
+    },
+    {
+      "basename": "4.0. Przewodnik po metodach cyklu życia",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4.0. Przewodnik po metodach cyklu życia.md"
+    },
+    {
+      "basename": "4. Cykl życia aktywnośći",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4. Cykl życia aktywnośći.md"
+    },
+    {
       "basename": "3 Wiele aktywności i intencji",
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/3 Wiele aktywności i intencji.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "19 jQuery",
       "path": "_ FullStack/Web Development 2024/19 jQuery.md"
-    },
-    {
-      "basename": "7 Express JS",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md"
-    },
-    {
-      "basename": "7.1. Tworzenie rest api",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/7.1. Tworzenie rest api.md"
-    },
-    {
-      "basename": "5 Bootstrap",
-      "path": "_ FullStack/Web Development 2024/5 Bootstrap.md"
     }
   ],
   "omittedPaths": [],
