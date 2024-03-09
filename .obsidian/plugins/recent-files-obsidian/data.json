@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "12.1 Recycler View",
+      "path": "_ Mobile/Android/the complete Android Kotlin/12.1 Recycler View.md"
+    },
+    {
       "basename": "12 ListView",
       "path": "_ Mobile/Android/the complete Android Kotlin/12 ListView.md"
     },
@@ -59,10 +63,6 @@
     {
       "basename": "10 Android Components",
       "path": "_ Mobile/Android/the complete Android Kotlin/10 Android Components.md"
-    },
-    {
-      "basename": "12.1 Recycler View",
-      "path": "_ Mobile/Android/the complete Android Kotlin/12.1 Recycler View.md"
     },
     {
       "basename": "10.8. Spinner",
