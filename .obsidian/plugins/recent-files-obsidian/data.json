@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "12 ListView",
+      "path": "_ Mobile/Android/the complete Android Kotlin/12 ListView.md"
+    },
+    {
+      "basename": "10.9 Top App Bar",
+      "path": "_ Mobile/Android/the complete Android Kotlin/10.9 Top App Bar.md"
+    },
+    {
       "basename": "0. Testowanie jednostkowe i integracyjne",
       "path": "Testowanie/CSharp Testy jednostkowe i integracyjne/0. Testowanie jednostkowe i integracyjne.md"
     },
@@ -23,10 +31,6 @@
     {
       "basename": "3 Wiele aktywności i intencji",
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/3 Wiele aktywności i intencji.md"
-    },
-    {
-      "basename": "10.9 Top App Bar",
-      "path": "_ Mobile/Android/the complete Android Kotlin/10.9 Top App Bar.md"
     },
     {
       "basename": "1. Utworzenie projektu testowego",
@@ -59,10 +63,6 @@
     {
       "basename": "12.1 Recycler View",
       "path": "_ Mobile/Android/the complete Android Kotlin/12.1 Recycler View.md"
-    },
-    {
-      "basename": "12 ListView",
-      "path": "_ Mobile/Android/the complete Android Kotlin/12 ListView.md"
     },
     {
       "basename": "10.8. Spinner",
