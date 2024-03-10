@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ WEB/REACT/React18+TypeScript/_ 0 React 18 Utlimate , TypeScript.md",
+                "file": "_ Mobile/Android/the complete Android Kotlin/12.2 GridView.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ WEB/REACT/React18+TypeScript/_ 0 React 18 Utlimate , TypeScript.md",
+                "file": "_ Mobile/Android/the complete Android Kotlin/12.2 GridView.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ WEB/REACT/React18+TypeScript/_ 0 React 18 Utlimate , TypeScript.md"
+                "file": "_ Mobile/Android/the complete Android Kotlin/12.2 GridView.md"
               }
             }
           },
@@ -229,10 +229,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a865191958dd6110",
+  "active": "85f199c1b69bb2b3",
   "lastOpenFiles": [
-    "_ WEB/REACT/React - the Complete Guide/_ 0 React Full.md",
     "_ WEB/REACT/React18+TypeScript/_ 0 React 18 Utlimate , TypeScript.md",
+    "_ WEB/REACT/React - the Complete Guide/_ 0 React Full.md",
     "_ WEB/REACT/React 18 Tutorial and Projects Course 2023/_ The React 18 Tutorial (2023).md",
     "_ Desktop/WPF/Wyświeltanie info.md",
     "_ WEB/REACT/React18+TypeScript",
