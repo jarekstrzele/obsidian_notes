@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "_ Rusz Głową C Sharp",
+      "path": "_ Desktop/WPF/Rusz Głową C Sharp/_ Rusz Głową C Sharp.md"
+    },
+    {
+      "basename": "1. Utworzenie projektu testowego",
+      "path": "Testowanie/CSharp Testy jednostkowe i integracyjne/1. Utworzenie projektu testowego.md"
+    },
+    {
       "basename": "12.2 GridView",
       "path": "_ Mobile/Android/the complete Android Kotlin/12.2 GridView.md"
     },
@@ -51,10 +59,6 @@
     {
       "basename": "3 Wiele aktywności i intencji",
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/3 Wiele aktywności i intencji.md"
-    },
-    {
-      "basename": "1. Utworzenie projektu testowego",
-      "path": "Testowanie/CSharp Testy jednostkowe i integracyjne/1. Utworzenie projektu testowego.md"
     },
     {
       "basename": "2. Tworzenie interaktywnych aplikacji",
@@ -195,10 +199,6 @@
     {
       "basename": "15. Bazy danych SQLite",
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/15. Bazy danych SQLite.md"
-    },
-    {
-      "basename": "2.1. Zdarzenia",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md"
     }
   ],
   "omittedPaths": [],
