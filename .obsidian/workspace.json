@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Desktop/WPF/Wyświeltanie info.md",
+                "file": "_ WEB/REACT/React18+TypeScript/_ 0 React 18 Utlimate , TypeScript.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Desktop/WPF/Wyświeltanie info.md",
+                "file": "_ WEB/REACT/React18+TypeScript/_ 0 React 18 Utlimate , TypeScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Desktop/WPF/Wyświeltanie info.md",
+                "file": "_ WEB/REACT/React18+TypeScript/_ 0 React 18 Utlimate , TypeScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Desktop/WPF/Wyświeltanie info.md"
+                "file": "_ WEB/REACT/React18+TypeScript/_ 0 React 18 Utlimate , TypeScript.md"
               }
             }
           },
@@ -231,6 +231,11 @@
   },
   "active": "a865191958dd6110",
   "lastOpenFiles": [
+    "_ WEB/REACT/React - the Complete Guide/_ 0 React Full.md",
+    "_ WEB/REACT/React18+TypeScript/_ 0 React 18 Utlimate , TypeScript.md",
+    "_ WEB/REACT/React 18 Tutorial and Projects Course 2023/_ The React 18 Tutorial (2023).md",
+    "_ Desktop/WPF/Wyświeltanie info.md",
+    "_ WEB/REACT/React18+TypeScript",
     "_ Mobile/Android/the complete Android Kotlin/12.2 GridView.md",
     "_ Mobile/Android/the complete Android Kotlin/12.1 Recycler View.md",
     "_ Mobile/Android/the complete Android Kotlin/12 ListView.md",
@@ -253,11 +258,7 @@
     "_ Mobile/Android/Kurs Android od podstaw/2 Tworzenie widoków.md",
     "_ Mobile/Android/Kurs Android od podstaw/_ Kurs Android od podstaw.md",
     "_ Mobile/Android/Android Kurs Tworzenia APlikacji/_ 0 Android Kurs Tworzenia Aplikacji.md",
-    "Testowanie/CSharp Testy jednostkowe i integracyjne/3. Testy jednostkowe.md",
-    "_ WEB/React,TypeScript,Node/III Express, GraphQL tworzenie usług internetowych/_ app z Node i Express.md",
-    "Testowanie/Testy automatyczne w języku Python/2. PyTest.md",
     "Testowanie/CSharp Testy jednostkowe i integracyjne",
-    "Testowanie/Testy automatyczne w języku Python/_ 0 Testy automatyczne Python.md",
     "methodology/images/bar_matplotlib.png",
     "methodology/images/age_rating_barh.png",
     "methodology/images/age_rating_bar.png",
@@ -275,7 +276,6 @@
     "Pasted image 20240115085344.png",
     "Pasted image 20240115085044.png",
     "Pasted image 20240115084911.png",
-    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/Untitled",
-    "_ Mobile/Android"
+    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/Untitled"
   ]
 }
