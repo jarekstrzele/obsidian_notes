@@ -49,14 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/12.2 GridView.md",
+                "file": "_ Mobile/Android/the complete Android Kotlin/12.1 Recycler View.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Desktop/WPF/Rusz Głową C Sharp/_ Rusz Głową C Sharp.md",
+                "file": "_ Mobile/Android/the complete Android Kotlin/12.1 Recycler View.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Desktop/WPF/Rusz Głową C Sharp/_ Rusz Głową C Sharp.md",
+                "file": "_ Mobile/Android/the complete Android Kotlin/12.1 Recycler View.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Desktop/WPF/Rusz Głową C Sharp/_ Rusz Głową C Sharp.md"
+                "file": "_ Mobile/Android/the complete Android Kotlin/12.1 Recycler View.md"
               }
             }
           },
@@ -229,17 +229,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ca090c70e716f0de",
+  "active": "85f199c1b69bb2b3",
   "lastOpenFiles": [
-    "Testowanie/CSharp Testy jednostkowe i integracyjne/1. Utworzenie projektu testowego.md",
+    "_ Mobile/Android/the complete Android Kotlin/12 ListView.md",
     "_ Mobile/Android/the complete Android Kotlin/12.2 GridView.md",
     "_ WEB/REACT/React18+TypeScript/_ 0 React 18 Utlimate , TypeScript.md",
+    "_ Desktop/WPF/Rusz Głową C Sharp/_ Rusz Głową C Sharp.md",
+    "Testowanie/CSharp Testy jednostkowe i integracyjne/1. Utworzenie projektu testowego.md",
     "_ WEB/REACT/React - the Complete Guide/_ 0 React Full.md",
     "_ WEB/REACT/React 18 Tutorial and Projects Course 2023/_ The React 18 Tutorial (2023).md",
     "_ Desktop/WPF/Wyświeltanie info.md",
     "_ WEB/REACT/React18+TypeScript",
     "_ Mobile/Android/the complete Android Kotlin/12.1 Recycler View.md",
-    "_ Mobile/Android/the complete Android Kotlin/12 ListView.md",
     "_ Mobile/Android/the complete Android Kotlin/10.9 Top App Bar.md",
     "Testowanie/CSharp Testy jednostkowe i integracyjne/0. Testowanie jednostkowe i integracyjne.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4.1. Pierwsza wersja stopera.md",
@@ -257,7 +258,6 @@
     "_ Mobile/Android/the complete Android Kotlin/10.3 Button.md",
     "_ Mobile/Android/Kurs Android od podstaw/2 Tworzenie widoków.md",
     "_ Mobile/Android/Kurs Android od podstaw/_ Kurs Android od podstaw.md",
-    "_ Mobile/Android/Android Kurs Tworzenia APlikacji/_ 0 Android Kurs Tworzenia Aplikacji.md",
     "Testowanie/CSharp Testy jednostkowe i integracyjne",
     "methodology/images/bar_matplotlib.png",
     "methodology/images/age_rating_barh.png",
