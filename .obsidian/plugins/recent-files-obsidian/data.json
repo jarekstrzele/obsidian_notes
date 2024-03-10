@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "12.2 GridView",
+      "path": "_ Mobile/Android/the complete Android Kotlin/12.2 GridView.md"
+    },
+    {
       "basename": "12.1 Recycler View",
       "path": "_ Mobile/Android/the complete Android Kotlin/12.1 Recycler View.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "3 Flexbox",
       "path": "_ FullStack/Web Development 2024/3 Flexbox.md"
-    },
-    {
-      "basename": "19 jQuery",
-      "path": "_ FullStack/Web Development 2024/19 jQuery.md"
     }
   ],
   "omittedPaths": [],
