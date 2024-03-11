@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "5. First Android App - Unit Converter Part 1",
+      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/5. First Android App - Unit Converter Part 1.md"
+    },
+    {
       "basename": "12.1 Recycler View",
       "path": "_ Mobile/Android/the complete Android Kotlin/12.1 Recycler View.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "10.1 Layouts in Android App",
       "path": "_ Mobile/Android/the complete Android Kotlin/10.1 Layouts in Android App.md"
-    },
-    {
-      "basename": "15. Bazy danych SQLite",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/15. Bazy danych SQLite.md"
     }
   ],
   "omittedPaths": [],
