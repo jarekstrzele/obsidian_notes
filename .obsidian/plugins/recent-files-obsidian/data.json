@@ -5,6 +5,10 @@
       "path": "_ Mobile/Android/the complete Android 14 and Kotlin/5. First Android App - Unit Converter Part 1.md"
     },
     {
+      "basename": "5.1. Converter App",
+      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/5.1. Converter App.md"
+    },
+    {
       "basename": "12.1 Recycler View",
       "path": "_ Mobile/Android/the complete Android Kotlin/12.1 Recycler View.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "10.2 TextView",
       "path": "_ Mobile/Android/the complete Android Kotlin/10.2 TextView.md"
-    },
-    {
-      "basename": "10.1 Layouts in Android App",
-      "path": "_ Mobile/Android/the complete Android Kotlin/10.1 Layouts in Android App.md"
     }
   ],
   "omittedPaths": [],
