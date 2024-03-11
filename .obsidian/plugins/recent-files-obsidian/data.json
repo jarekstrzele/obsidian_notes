@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "6.0. The code Unit Converter app",
+      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/6.0. The code Unit Converter app.md"
+    },
+    {
       "basename": "5.1. Converter App",
       "path": "_ Mobile/Android/the complete Android 14 and Kotlin/5.1. Converter App.md"
+    },
+    {
+      "basename": "6. State - Unit Converter Part 2",
+      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/6. State - Unit Converter Part 2.md"
     },
     {
       "basename": "5. First Android App - Unit Converter Part 1",
@@ -191,14 +199,6 @@
     {
       "basename": "10.6 RadioButton",
       "path": "_ Mobile/Android/the complete Android Kotlin/10.6 RadioButton.md"
-    },
-    {
-      "basename": "10.6 CheckBox",
-      "path": "_ Mobile/Android/the complete Android Kotlin/10.6 CheckBox.md"
-    },
-    {
-      "basename": "10.2 TextView",
-      "path": "_ Mobile/Android/the complete Android Kotlin/10.2 TextView.md"
     }
   ],
   "omittedPaths": [],

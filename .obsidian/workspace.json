@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/5.1. Converter App.md",
+                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/6.0. The code Unit Converter app.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/5.1. Converter App.md",
+                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/6.0. The code Unit Converter app.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/5.1. Converter App.md",
+                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/6.0. The code Unit Converter app.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/5.1. Converter App.md"
+                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/6.0. The code Unit Converter app.md"
               }
             }
           },
@@ -231,8 +231,9 @@
   },
   "active": "04bc47a26b7598a7",
   "lastOpenFiles": [
-    "_ Mobile/Android/the complete Android 14 and Kotlin/5. First Android App - Unit Converter Part 1.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/5.1. Converter App.md",
+    "_ Mobile/Android/the complete Android 14 and Kotlin/6. State - Unit Converter Part 2.md",
+    "_ Mobile/Android/the complete Android 14 and Kotlin/5. First Android App - Unit Converter Part 1.md",
     "_ Mobile/Android/the complete Android Kotlin/12.1 Recycler View.md",
     "_ Mobile/Android/the complete Android Kotlin/12 ListView.md",
     "_ Mobile/Android/the complete Android Kotlin/12.2 GridView.md",
@@ -257,7 +258,6 @@
     "_ Mobile/Android/the complete Android Kotlin/10 Android Components.md",
     "_ Mobile/Android/the complete Android Kotlin/10.8. Spinner.md",
     "_ Mobile/Android/the complete Android Kotlin/10.5 ImageView.md",
-    "_ Mobile/Android/the complete Android Kotlin/10.3 Button.md",
     "Testowanie/CSharp Testy jednostkowe i integracyjne",
     "methodology/images/bar_matplotlib.png",
     "methodology/images/age_rating_barh.png",
