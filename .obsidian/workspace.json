@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testowanie/CSharp Testy jednostkowe i integracyjne/0. Testowanie jednostkowe i integracyjne.md",
+                "file": "Testowanie/CSharp Testy jednostkowe i integracyjne/1. Utworzenie projektu testowego.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/12 ListView.md",
+                "file": "Testowanie/CSharp Testy jednostkowe i integracyjne/1. Utworzenie projektu testowego.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/12 ListView.md",
+                "file": "Testowanie/CSharp Testy jednostkowe i integracyjne/1. Utworzenie projektu testowego.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/12 ListView.md"
+                "file": "Testowanie/CSharp Testy jednostkowe i integracyjne/1. Utworzenie projektu testowego.md"
               }
             }
           },
@@ -229,17 +228,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "85f199c1b69bb2b3",
+  "active": "47a00471371697d9",
   "lastOpenFiles": [
-    "_ Mobile/Android/the complete Android 14 and Kotlin/7 Shopping list app.md",
+    "Testowanie/CSharp Testy jednostkowe i integracyjne/3. Testy jednostkowe.md",
     "Testowanie/CSharp Testy jednostkowe i integracyjne/0. Testowanie jednostkowe i integracyjne.md",
+    "_ Mobile/Android/the complete Android Kotlin/12 ListView.md",
+    "_ Mobile/Android/the complete Android 14 and Kotlin/7 Shopping list app.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/6.1. Some help.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/6.0. The code Unit Converter app.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/5.1. Converter App.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/6. State - Unit Converter Part 2.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/5. First Android App - Unit Converter Part 1.md",
     "_ Mobile/Android/the complete Android Kotlin/12.1 Recycler View.md",
-    "_ Mobile/Android/the complete Android Kotlin/12 ListView.md",
     "_ Mobile/Android/the complete Android Kotlin/12.2 GridView.md",
     "_ WEB/REACT/React18+TypeScript/_ 0 React 18 Utlimate , TypeScript.md",
     "_ Desktop/WPF/Rusz Głową C Sharp/_ Rusz Głową C Sharp.md",
@@ -257,7 +257,6 @@
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/1. Skok na głęboką wodę.md",
     "_ Mobile/Android/the complete Android Kotlin/11 Toast, Snackbar, Dialog.md",
     "_ Mobile/Android/8.4 EditTexts.md",
-    "_ Mobile/Android/DatePicker Dialog.md",
     "Testowanie/CSharp Testy jednostkowe i integracyjne",
     "methodology/images/bar_matplotlib.png",
     "methodology/images/age_rating_barh.png",
