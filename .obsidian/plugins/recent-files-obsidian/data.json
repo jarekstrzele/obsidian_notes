@@ -5,6 +5,18 @@
       "path": "Testowanie/CSharp Testy jednostkowe i integracyjne/1. Utworzenie projektu testowego.md"
     },
     {
+      "basename": "LINQ",
+      "path": "C Sharp/LINQ.md"
+    },
+    {
+      "basename": "_ 0 React 18 Utlimate , TypeScript",
+      "path": "_ WEB/REACT/React18+TypeScript/_ 0 React 18 Utlimate , TypeScript.md"
+    },
+    {
+      "basename": "_ Rusz Głową C Sharp",
+      "path": "_ Desktop/WPF/Rusz Głową C Sharp/_ Rusz Głową C Sharp.md"
+    },
+    {
       "basename": "3. Testy jednostkowe",
       "path": "Testowanie/CSharp Testy jednostkowe i integracyjne/3. Testy jednostkowe.md"
     },
@@ -47,14 +59,6 @@
     {
       "basename": "12.2 GridView",
       "path": "_ Mobile/Android/the complete Android Kotlin/12.2 GridView.md"
-    },
-    {
-      "basename": "_ 0 React 18 Utlimate , TypeScript",
-      "path": "_ WEB/REACT/React18+TypeScript/_ 0 React 18 Utlimate , TypeScript.md"
-    },
-    {
-      "basename": "_ Rusz Głową C Sharp",
-      "path": "_ Desktop/WPF/Rusz Głową C Sharp/_ Rusz Głową C Sharp.md"
     },
     {
       "basename": "_ 0 React Full",
@@ -195,10 +199,6 @@
     {
       "basename": "3. Functions, Objects and Coffee Machine",
       "path": "_ Mobile/Android/the complete Android 14 and Kotlin/3. Functions, Objects and Coffee Machine.md"
-    },
-    {
-      "basename": "10.7. Toggle Button",
-      "path": "_ Mobile/Android/the complete Android Kotlin/10.7. Toggle Button.md"
     }
   ],
   "omittedPaths": [],
