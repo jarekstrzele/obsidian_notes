@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "_ Fast WFP C Sharp",
+      "path": "_ Desktop/WPF/Fast WFP  C Sharp/_ Fast WFP C Sharp.md"
+    },
+    {
+      "basename": "2 Controls WPF",
+      "path": "_ Desktop/WPF/Fast WFP  C Sharp/2 Controls WPF.md"
+    },
+    {
       "basename": "Alien Form",
       "path": "_ Desktop/WPF/Alien Form.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "3.3. View Binding",
       "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3.3. View Binding.md"
-    },
-    {
-      "basename": "Fundamenty Kotlina",
-      "path": "_ Mobile/Kotlin/Fundamenty Kotlina.md"
-    },
-    {
-      "basename": "_ React, TypeScript, Node",
-      "path": "_ WEB/React,TypeScript,Node/_ React, TypeScript, Node.md"
     }
   ],
   "omittedPaths": [],
