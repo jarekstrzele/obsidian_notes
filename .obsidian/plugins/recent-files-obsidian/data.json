@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Alien Form",
+      "path": "_ Desktop/WPF/Alien Form.md"
+    },
+    {
+      "basename": "10.1 Binding",
+      "path": "_ Desktop/WPF/od Podstaw do app w WPF/10.1 Binding.md"
+    },
+    {
+      "basename": "10 WPF - zaawansowane",
+      "path": "_ Desktop/WPF/od Podstaw do app w WPF/10 WPF - zaawansowane.md"
+    },
+    {
+      "basename": "9.1. RadioButton, GroupBox, Label",
+      "path": "_ Desktop/WPF/od Podstaw do app w WPF/9.1. RadioButton, GroupBox, Label.md"
+    },
+    {
+      "basename": "9 WPF układy komponentów",
+      "path": "_ Desktop/WPF/od Podstaw do app w WPF/9 WPF układy komponentów.md"
+    },
+    {
+      "basename": "8 Aplikacje WPF",
+      "path": "_ Desktop/WPF/od Podstaw do app w WPF/8 Aplikacje WPF.md"
+    },
+    {
       "basename": "12.2 GridView",
       "path": "_ Mobile/Android/the complete Android Kotlin/12.2 GridView.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "_ React, TypeScript, Node",
       "path": "_ WEB/React,TypeScript,Node/_ React, TypeScript, Node.md"
-    },
-    {
-      "basename": "4. Lists and Objects",
-      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/4. Lists and Objects.md"
-    },
-    {
-      "basename": "14 Connecting to a Database",
-      "path": "_ WEB/REACT/React - the Complete Guide/14 Connecting to a Database.md"
-    },
-    {
-      "basename": "Fetch",
-      "path": "_ WEB/REACT/DB/Fetch.md"
-    },
-    {
-      "basename": "8 Login Project",
-      "path": "_ WEB/REACT/React - the Complete Guide/8 Login Project.md"
-    },
-    {
-      "basename": "_ 0 start",
-      "path": "_ FullStack/Web Development 2024/_ 0 start.md"
-    },
-    {
-      "basename": "3. Functions, Objects and Coffee Machine",
-      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/3. Functions, Objects and Coffee Machine.md"
     }
   ],
   "omittedPaths": [],
