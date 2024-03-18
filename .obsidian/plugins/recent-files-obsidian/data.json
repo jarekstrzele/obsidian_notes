@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "6. State - Unit Converter Part 2",
+      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/6. State - Unit Converter Part 2.md"
+    },
+    {
+      "basename": "5.1. Converter App",
+      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/5.1. Converter App.md"
+    },
+    {
+      "basename": "DatePicker Dialog",
+      "path": "_ Mobile/Android/DatePicker Dialog.md"
+    },
+    {
+      "basename": "_ the complete Android Kotlin",
+      "path": "_ Mobile/Android/the complete Android Kotlin/_ the complete Android Kotlin.md"
+    },
+    {
+      "basename": "_ 0 React 18 Utlimate , TypeScript",
+      "path": "_ WEB/REACT/React18+TypeScript/_ 0 React 18 Utlimate , TypeScript.md"
+    },
+    {
       "basename": "_ Fast WFP C Sharp",
       "path": "_ Desktop/WPF/Fast WFP  C Sharp/_ Fast WFP C Sharp.md"
     },
@@ -41,10 +61,6 @@
       "path": "_ Mobile/Android/the complete Android Kotlin/12 ListView.md"
     },
     {
-      "basename": "_ 0 React 18 Utlimate , TypeScript",
-      "path": "_ WEB/REACT/React18+TypeScript/_ 0 React 18 Utlimate , TypeScript.md"
-    },
-    {
       "basename": "_ Rusz Głową C Sharp",
       "path": "_ Desktop/WPF/Rusz Głową C Sharp/_ Rusz Głową C Sharp.md"
     },
@@ -75,14 +91,6 @@
     {
       "basename": "6.0. The code Unit Converter app",
       "path": "_ Mobile/Android/the complete Android 14 and Kotlin/6.0. The code Unit Converter app.md"
-    },
-    {
-      "basename": "5.1. Converter App",
-      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/5.1. Converter App.md"
-    },
-    {
-      "basename": "6. State - Unit Converter Part 2",
-      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/6. State - Unit Converter Part 2.md"
     },
     {
       "basename": "5. First Android App - Unit Converter Part 1",
@@ -141,10 +149,6 @@
       "path": "_ Mobile/Android/8.4 EditTexts.md"
     },
     {
-      "basename": "DatePicker Dialog",
-      "path": "_ Mobile/Android/DatePicker Dialog.md"
-    },
-    {
       "basename": "10 Android Components",
       "path": "_ Mobile/Android/the complete Android Kotlin/10 Android Components.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "3.1. Fragments",
       "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3.1. Fragments.md"
-    },
-    {
-      "basename": "3.3. View Binding",
-      "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3.3. View Binding.md"
     }
   ],
   "omittedPaths": [],
