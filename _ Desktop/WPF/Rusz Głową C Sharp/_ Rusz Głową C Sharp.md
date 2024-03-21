@@ -21,6 +21,94 @@ W kodzie *XAML* tej kontrolki *TextBlock* jest pięć właściwości:
 - `TextWrapping` określa, czy tekst w kontrolce ma być zawijany.
 
 
+## GUI
+```xml
+        Title="MainWindow" Height="450" Width="800">
+<Grid x:Name="mainGrid" >
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+<TextBlock Grid.Column="1" HorizontalAlignment="Center" Grid.Row="1" TextWrapping="Wrap" Text="?" VerticalAlignment="Center" FontSize="36"/>
+<TextBlock Grid.Column="0" HorizontalAlignment="Center" Grid.Row="0" TextWrapping="Wrap" Text="?" VerticalAlignment="Center" FontSize="36" MouseDown="TextBlock_MouseDown"/>
+        <TextBlock Grid.Column="1" HorizontalAlignment="Center" 
+           Grid.Row="0" TextWrapping="Wrap" Text="?" VerticalAlignment="Center"
+           FontSize="36"/>
+        <TextBlock Grid.Column="2" HorizontalAlignment="Center" 
+           Grid.Row="0" TextWrapping="Wrap" Text="?" VerticalAlignment="Center"
+           FontSize="36"/>
+        <TextBlock Grid.Column="3" HorizontalAlignment="Center" 
+           Grid.Row="0" TextWrapping="Wrap" Text="?" VerticalAlignment="Center"
+           FontSize="36"/>
+        <TextBlock Grid.Column="0" HorizontalAlignment="Center" 
+           Grid.Row="1" TextWrapping="Wrap" Text="?" VerticalAlignment="Center"
+           FontSize="36"/>
+        <TextBlock Grid.Column="2" HorizontalAlignment="Center" 
+           Grid.Row="1" TextWrapping="Wrap" Text="?" VerticalAlignment="Center"
+           FontSize="36"/>
+        <TextBlock Grid.Column="3" HorizontalAlignment="Center" 
+           Grid.Row="1" TextWrapping="Wrap" Text="?" VerticalAlignment="Center"
+           FontSize="36"/>
+        <TextBlock Grid.Column="0" HorizontalAlignment="Center" 
+           Grid.Row="2" TextWrapping="Wrap" Text="?" VerticalAlignment="Center"
+           FontSize="36"/>
+        <TextBlock Grid.Column="1" HorizontalAlignment="Center" 
+           Grid.Row="2" TextWrapping="Wrap" Text="?" VerticalAlignment="Center"
+           FontSize="36"/>
+        <TextBlock Grid.Column="2" HorizontalAlignment="Center" 
+           Grid.Row="2" TextWrapping="Wrap" Text="?" VerticalAlignment="Center"
+           FontSize="36"/>
+        <TextBlock Grid.Column="3" HorizontalAlignment="Center" 
+           Grid.Row="2" TextWrapping="Wrap" Text="?" VerticalAlignment="Center"
+           FontSize="36"/>
+        <TextBlock Grid.Column="0" HorizontalAlignment="Center" 
+           Grid.Row="3" TextWrapping="Wrap" Text="?" VerticalAlignment="Center"
+           FontSize="36"/>
+        <TextBlock Grid.Column="1" HorizontalAlignment="Center" 
+           Grid.Row="3" TextWrapping="Wrap" Text="?" VerticalAlignment="Center"
+           FontSize="36"/>
+        <TextBlock Grid.Column="2" HorizontalAlignment="Center" 
+           Grid.Row="3" TextWrapping="Wrap" Text="?" VerticalAlignment="Center"
+           FontSize="36"/>
+        <TextBlock Grid.Column="3" HorizontalAlignment="Center" 
+           Grid.Row="3" TextWrapping="Wrap" Text="?" VerticalAlignment="Center"
+           FontSize="36"/>
+
+    </Grid>
+</Window>
+
+```
+
+
+## Logika
+```c#
+List<string> animalEmoji = new List<string>()
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
