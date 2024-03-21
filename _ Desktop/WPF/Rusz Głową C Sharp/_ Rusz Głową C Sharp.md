@@ -90,9 +90,18 @@ W kodzie *XAML* tej kontrolki *TextBlock* jest pięć właściwości:
 ```
 
 
-## Logika
+## Logika - metoda SetUpGame
 dodanie emoji przez klawisz `Windows i .` Emoji umieść w cudzysłowach
 ```c#
+
+public MainWindow()
+{
+    InitializeComponent();
+    SetUpGame();
+}
+
+private void SetUpGame()
+{
 List<string> animalEmoji = new List<string>(){
 
     "🐸","🐸",
@@ -104,10 +113,6 @@ List<string> animalEmoji = new List<string>(){
     "🐘","🐘",
     "🐳","🐳"
 };     
-
-```
-dodaj emoji do `TextBlock`s
-```c#
 Random random = new Random();
 foreach(TextBlock textblock in mainGrid.Children.OfType<TextBlock>())
 {
@@ -156,6 +161,42 @@ Więcej o systemie Git dowiesz się na stronie https://git-scm.com.
 - do pola obok wpisz *TextBlock_MouseDown* i kliknij dwa razy  --> do wybranego wcześniej `TextBlock` zostanie metoda
 
 
+```C#
+    //....
+    foreach(TextBlock textblock in mainGrid.Children.OfType<TextBlock>())
+    {
+        int index = random.Next(animalEmoji.Count);
+        string nextEmoji = animalEmoji[index];
+        textblock.Text = nextEmoji;
+        animalEmoji.RemoveAt(index);
+    }
+}
+
+private async void TextBlock_MouseDown(object sender, MouseButtonEventArgs e)
+{
+    TextBlock textBlock = (TextBlock)sender;
+    textBlock.Visibility = Visibility.Hidden;
+    if (findingMatch == false)
+    {
+        
+        lastTextBlockClicked = textBlock;
+        findingMatch = true;
+    }else if(textBlock.Text == lastTextBlockClicked.Text)
+    {
+        
+        findingMatch = false;
+    } else
+    {
+
+        await Task.Delay(1000); ;
+        textBlock.Visibility = Visibility.Visible;
+        lastTextBlockClicked.Visibility = Visibility.Visible;
+        findingMatch = false;
+    }
+}
+```
+
+## Dodanie zegara
 
 
 
