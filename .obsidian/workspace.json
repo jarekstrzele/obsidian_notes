@@ -37,19 +37,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/6.1. Some help.md",
+                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/5. First Android App - Unit Converter Part 1.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "33a42dc821a63aa1",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.11"
               }
             }
           },
@@ -66,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -148,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/6.1. Some help.md",
+                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/5. First Android App - Unit Converter Part 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/6.1. Some help.md",
+                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/5. First Android App - Unit Converter Part 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/6.1. Some help.md"
+                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/5. First Android App - Unit Converter Part 1.md"
               }
             }
           },
@@ -239,8 +229,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "33a42dc821a63aa1",
+  "active": "a865191958dd6110",
   "lastOpenFiles": [
+    "_ Mobile/Android/the complete Android 14 and Kotlin/6.1. Some help.md",
+    "Testowanie/CSharp Testy jednostkowe i integracyjne/1. Utworzenie projektu testowego.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/6. State - Unit Converter Part 2.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/5.1. Converter App.md",
     "_ Mobile/Android/DatePicker Dialog.md",
@@ -257,12 +249,10 @@
     "_ Mobile/Android/the complete Android Kotlin/12.2 GridView.md",
     "_ Mobile/Android/the complete Android Kotlin/12 ListView.md",
     "_ Desktop/WPF/Rusz Głową C Sharp/_ Rusz Głową C Sharp.md",
-    "Testowanie/CSharp Testy jednostkowe i integracyjne/1. Utworzenie projektu testowego.md",
     "C Sharp/LINQ.md",
     "Testowanie/CSharp Testy jednostkowe i integracyjne/3. Testy jednostkowe.md",
     "Testowanie/CSharp Testy jednostkowe i integracyjne/0. Testowanie jednostkowe i integracyjne.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/7 Shopping list app.md",
-    "_ Mobile/Android/the complete Android 14 and Kotlin/6.1. Some help.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/6.0. The code Unit Converter app.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/5. First Android App - Unit Converter Part 1.md",
     "_ Mobile/Android/the complete Android Kotlin/12.1 Recycler View.md",
