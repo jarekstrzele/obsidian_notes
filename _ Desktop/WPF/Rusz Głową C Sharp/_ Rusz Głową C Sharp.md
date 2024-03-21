@@ -91,13 +91,52 @@ W kodzie *XAML* tej kontrolki *TextBlock* jest pięć właściwości:
 
 
 ## Logika
+dodanie emoji przez klawisz `Windows i .` Emoji umieść w cudzysłowach
 ```c#
-List<string> animalEmoji = new List<string>()
+List<string> animalEmoji = new List<string>(){
+
+    "🐸","🐸",
+    "🙊","🙊",
+    "🐷","🐷",
+    "👽","👽",
+    "🐭","🐭",
+    "🐔","🐔",
+    "🐘","🐘",
+    "🐳","🐳"
+};     
+
 ```
+dodaj emoji do `TextBlock`s
+```c#
+Random random = new Random();
+foreach(TextBlock textblock in mainGrid.Children.OfType<TextBlock>())
+{
+    int index = random.Next(animalEmoji.Count);
+    string nextEmoji = animalEmoji[index];
+    textblock.Text = nextEmoji;
+    animalEmoji.RemoveAt(index);
+}
+```
+**wyjaśnienie**
+Ten fragment kodu wykonuje iterację przez wszystkie elementy `TextBlock` znajdujące się w kolekcji `Children` kontrolki `mainGrid` i aktualizuje ich tekst losowym emoji zwierzęcia. Aby to zrobić, korzysta z kilku kluczowych elementów:
+
+1. **Obiekt `Random`:**
+    
+    - `Random random = new Random();` tworzy nową instancję klasy `Random`, która służy do generowania liczb pseudolosowych.
+2. **Pętla `foreach`:**
+    
+    - `foreach(TextBlock textblock in mainGrid.Children.OfType<TextBlock>())` iteruje przez wszystkie elementy w `mainGrid.Children`, które są typu `TextBlock`. `mainGrid.Children` zawiera wszystkie elementy potomne kontrolki `mainGrid`, a metoda `.OfType<TextBlock>()` filtruje te elementy, zwracając tylko te, które są typu `TextBlock`.
+3. **Losowanie i aktualizacja tekstu:**
+    
+    - W ciele pętli, `int index = random.Next(animalEmoji.Count);` losuje indeks z zakresu od 0 do liczby elementów w liście `animalEmoji` (nie włączając wartości maksymalnej, czyli `Count`).
+    - `string nextEmoji = animalEmoji[index];` pobiera emoji zwierzęcia znajdujące się na wylosowanym indeksie z listy `animalEmoji`.
+    - `textblock.Text = nextEmoji;` aktualizuje właściwość `Text` aktualnie przetwarzanego `TextBlock` wylosowanym emoji.
+4. **Usuwanie użytego emoji:**
+    
+    - `animalEmoji.RemoveAt(index);` usuwa emoji, które zostało przypisane do `TextBlock`, z listy `animalEmoji`. Zapobiega to ponownemu użyciu tego samego emoji w innym `TextBlock` w ramach tego samego procesu losowania i aktualizacji.
 
 
-
-
+## gi
 
 
 
