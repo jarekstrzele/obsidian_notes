@@ -40,7 +40,7 @@ W kodzie *XAML* tej kontrolki *TextBlock* jest pięć właściwości:
         </Grid.RowDefinitions>
 
 <TextBlock Grid.Column="1" HorizontalAlignment="Center" Grid.Row="1" TextWrapping="Wrap" Text="?" VerticalAlignment="Center" FontSize="36"/>
-<TextBlock Grid.Column="0" HorizontalAlignment="Center" Grid.Row="0" TextWrapping="Wrap" Text="?" VerticalAlignment="Center" FontSize="36" MouseDown="TextBlock_MouseDown"/>
+<TextBlock Grid.Column="0" HorizontalAlignment="Center" Grid.Row="0" TextWrapping="Wrap" Text="?" VerticalAlignment="Center" FontSize="36"/>
         <TextBlock Grid.Column="1" HorizontalAlignment="Center" 
            Grid.Row="0" TextWrapping="Wrap" Text="?" VerticalAlignment="Center"
            FontSize="36"/>
@@ -136,13 +136,24 @@ Ten fragment kodu wykonuje iterację przez wszystkie elementy `TextBlock` znajdu
     - `animalEmoji.RemoveAt(index);` usuwa emoji, które zostało przypisane do `TextBlock`, z listy `animalEmoji`. Zapobiega to ponownemu użyciu tego samego emoji w innym `TextBlock` w ramach tego samego procesu losowania i aktualizacji.
 
 
-## gi
+## git
+>Git jest otwartym systemem kontroli wersji. Istnieje wiele niezależnych serwisów takich jak GitHub, które udostępniają usługi związane z systemem Git (na przykład przestrzeń dyskową na kod i dostęp do repozytorium z poziomu internetu).
+
+Więcej o systemie Git dowiesz się na stronie https://git-scm.com.
 
 
+## dodanie kliknięcia myszą
+- kliknij w `xaml` znacznik `<TextBlock>` po prawej stronie będzie we właściwościach ikonka błyskawicy - kliknij ją,
 
+> **Procedura obsługi zdarzeń** jest metodą wywoływaną przez aplikację po zajściu określonych zdarzeń.
+> Takie **zdarzenia to**
+> - wciśnięcie klawisza, 
+> - przeciągnięcie elementu, 
+> - zmiana wielkości okna lub, naturalnie, 
+> - ruchy i kliknięcia myszą.
 
-
-
+- znajdź zdarzenie `MouseDown` 
+- do pola obok wpisz *TextBlock_MouseDown* i kliknij dwa razy  --> do wybranego wcześniej `TextBlock` zostanie metoda
 
 
 
