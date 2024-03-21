@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/5. First Android App - Unit Converter Part 1.md",
+                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/5.1. Converter App.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/5. First Android App - Unit Converter Part 1.md",
+                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/5.1. Converter App.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/5. First Android App - Unit Converter Part 1.md",
+                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/5.1. Converter App.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/5. First Android App - Unit Converter Part 1.md"
+                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/5.1. Converter App.md"
               }
             }
           },
@@ -231,6 +231,7 @@
   },
   "active": "a865191958dd6110",
   "lastOpenFiles": [
+    "_ Mobile/Android/the complete Android 14 and Kotlin/5. First Android App - Unit Converter Part 1.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/6.1. Some help.md",
     "Testowanie/CSharp Testy jednostkowe i integracyjne/1. Utworzenie projektu testowego.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/6. State - Unit Converter Part 2.md",
@@ -254,7 +255,6 @@
     "Testowanie/CSharp Testy jednostkowe i integracyjne/0. Testowanie jednostkowe i integracyjne.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/7 Shopping list app.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/6.0. The code Unit Converter app.md",
-    "_ Mobile/Android/the complete Android 14 and Kotlin/5. First Android App - Unit Converter Part 1.md",
     "_ Mobile/Android/the complete Android Kotlin/12.1 Recycler View.md",
     "_ WEB/REACT/React - the Complete Guide/_ 0 React Full.md",
     "_ WEB/REACT/React18+TypeScript",
