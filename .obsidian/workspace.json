@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Desktop/WPF/Rusz Głową C Sharp/_ Rusz Głową C Sharp.md",
+                "file": "_ Desktop/WPF/od Podstaw do app w WPF/9.1. RadioButton, GroupBox, Label.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Desktop/WPF/Rusz Głową C Sharp/_ Rusz Głową C Sharp.md",
+                "file": "_ Desktop/WPF/od Podstaw do app w WPF/9.1. RadioButton, GroupBox, Label.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Desktop/WPF/Rusz Głową C Sharp/_ Rusz Głową C Sharp.md",
+                "file": "_ Desktop/WPF/od Podstaw do app w WPF/9.1. RadioButton, GroupBox, Label.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Desktop/WPF/Rusz Głową C Sharp/_ Rusz Głową C Sharp.md"
+                "file": "_ Desktop/WPF/od Podstaw do app w WPF/9.1. RadioButton, GroupBox, Label.md"
               }
             }
           },
@@ -231,8 +231,11 @@
   },
   "active": "85f199c1b69bb2b3",
   "lastOpenFiles": [
-    "_ Desktop/WPF/Fast WFP  C Sharp/_ Fast WFP C Sharp.md",
+    "_ Desktop/WPF/Fast WFP  C Sharp/2 Controls WPF.md",
+    "_ Desktop/WPF/Fast WFP  C Sharp/1 Grid.md",
+    "_ Desktop/WPF/Rusz Głową C Sharp/_ Rusz Głową C Sharp.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/5.1. Converter App.md",
+    "_ Desktop/WPF/Fast WFP  C Sharp/_ Fast WFP C Sharp.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/5. First Android App - Unit Converter Part 1.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/6.1. Some help.md",
     "Testowanie/CSharp Testy jednostkowe i integracyjne/1. Utworzenie projektu testowego.md",
@@ -240,7 +243,6 @@
     "_ Mobile/Android/DatePicker Dialog.md",
     "_ Mobile/Android/the complete Android Kotlin/_ the complete Android Kotlin.md",
     "_ WEB/REACT/React18+TypeScript/_ 0 React 18 Utlimate , TypeScript.md",
-    "_ Desktop/WPF/Fast WFP  C Sharp/2 Controls WPF.md",
     "_ Desktop/WPF/Alien Form.md",
     "_ Desktop/WPF/od Podstaw do app w WPF/10.1 Binding.md",
     "_ Desktop/WPF/od Podstaw do app w WPF/10 WPF - zaawansowane.md",
@@ -249,14 +251,12 @@
     "_ Desktop/WPF/od Podstaw do app w WPF/8 Aplikacje WPF.md",
     "_ Mobile/Android/the complete Android Kotlin/12.2 GridView.md",
     "_ Mobile/Android/the complete Android Kotlin/12 ListView.md",
-    "_ Desktop/WPF/Rusz Głową C Sharp/_ Rusz Głową C Sharp.md",
     "C Sharp/LINQ.md",
     "Testowanie/CSharp Testy jednostkowe i integracyjne/3. Testy jednostkowe.md",
     "Testowanie/CSharp Testy jednostkowe i integracyjne/0. Testowanie jednostkowe i integracyjne.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/7 Shopping list app.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/6.0. The code Unit Converter app.md",
     "_ Mobile/Android/the complete Android Kotlin/12.1 Recycler View.md",
-    "_ WEB/REACT/React - the Complete Guide/_ 0 React Full.md",
     "_ WEB/REACT/React18+TypeScript",
     "Testowanie/CSharp Testy jednostkowe i integracyjne",
     "methodology/images/bar_matplotlib.png",

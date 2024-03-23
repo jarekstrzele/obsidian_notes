@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "9.1. RadioButton, GroupBox, Label",
+      "path": "_ Desktop/WPF/od Podstaw do app w WPF/9.1. RadioButton, GroupBox, Label.md"
+    },
+    {
+      "basename": "2 Controls WPF",
+      "path": "_ Desktop/WPF/Fast WFP  C Sharp/2 Controls WPF.md"
+    },
+    {
+      "basename": "1 Grid",
+      "path": "_ Desktop/WPF/Fast WFP  C Sharp/1 Grid.md"
+    },
+    {
       "basename": "_ Rusz Głową C Sharp",
       "path": "_ Desktop/WPF/Rusz Głową C Sharp/_ Rusz Głową C Sharp.md"
     },
     {
-      "basename": "_ Fast WFP C Sharp",
-      "path": "_ Desktop/WPF/Fast WFP  C Sharp/_ Fast WFP C Sharp.md"
-    },
-    {
       "basename": "5.1. Converter App",
       "path": "_ Mobile/Android/the complete Android 14 and Kotlin/5.1. Converter App.md"
+    },
+    {
+      "basename": "_ Fast WFP C Sharp",
+      "path": "_ Desktop/WPF/Fast WFP  C Sharp/_ Fast WFP C Sharp.md"
     },
     {
       "basename": "5. First Android App - Unit Converter Part 1",
@@ -41,10 +53,6 @@
       "path": "_ WEB/REACT/React18+TypeScript/_ 0 React 18 Utlimate , TypeScript.md"
     },
     {
-      "basename": "2 Controls WPF",
-      "path": "_ Desktop/WPF/Fast WFP  C Sharp/2 Controls WPF.md"
-    },
-    {
       "basename": "Alien Form",
       "path": "_ Desktop/WPF/Alien Form.md"
     },
@@ -55,10 +63,6 @@
     {
       "basename": "10 WPF - zaawansowane",
       "path": "_ Desktop/WPF/od Podstaw do app w WPF/10 WPF - zaawansowane.md"
-    },
-    {
-      "basename": "9.1. RadioButton, GroupBox, Label",
-      "path": "_ Desktop/WPF/od Podstaw do app w WPF/9.1. RadioButton, GroupBox, Label.md"
     },
     {
       "basename": "9 WPF układy komponentów",
@@ -195,10 +199,6 @@
     {
       "basename": "_ Kotlin bez tajemnic",
       "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/_ Kotlin bez tajemnic.md"
-    },
-    {
-      "basename": "3.1. Fragments",
-      "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3.1. Fragments.md"
     }
   ],
   "omittedPaths": [],
