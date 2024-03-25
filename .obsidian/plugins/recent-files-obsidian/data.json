@@ -1,12 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "9 WPF układy komponentów",
-      "path": "_ Desktop/WPF/od Podstaw do app w WPF/9 WPF układy komponentów.md"
+      "basename": "Alien Form",
+      "path": "_ Desktop/WPF/Alien Form.md"
     },
     {
       "basename": "2 Controls WPF",
       "path": "_ Desktop/WPF/Fast WFP  C Sharp/2 Controls WPF.md"
+    },
+    {
+      "basename": "1 Grid",
+      "path": "_ Desktop/WPF/Fast WFP  C Sharp/1 Grid.md"
+    },
+    {
+      "basename": "_ Fast WFP C Sharp",
+      "path": "_ Desktop/WPF/Fast WFP  C Sharp/_ Fast WFP C Sharp.md"
+    },
+    {
+      "basename": "_ WPF",
+      "path": "_ Desktop/WPF/CSharp WPF xaml youtube/_ WPF.md"
+    },
+    {
+      "basename": "8 Aplikacje WPF",
+      "path": "_ Desktop/WPF/od Podstaw do app w WPF/8 Aplikacje WPF.md"
+    },
+    {
+      "basename": "10 WPF - zaawansowane",
+      "path": "_ Desktop/WPF/od Podstaw do app w WPF/10 WPF - zaawansowane.md"
+    },
+    {
+      "basename": "9.1. RadioButton, GroupBox, Label",
+      "path": "_ Desktop/WPF/od Podstaw do app w WPF/9.1. RadioButton, GroupBox, Label.md"
+    },
+    {
+      "basename": "9 WPF układy komponentów",
+      "path": "_ Desktop/WPF/od Podstaw do app w WPF/9 WPF układy komponentów.md"
     },
     {
       "basename": "8.4 EditTexts",
@@ -41,20 +69,8 @@
       "path": "_ Mobile/Android/the complete Android 14 and Kotlin/3. Functions, Objects and Coffee Machine.md"
     },
     {
-      "basename": "9.1. RadioButton, GroupBox, Label",
-      "path": "_ Desktop/WPF/od Podstaw do app w WPF/9.1. RadioButton, GroupBox, Label.md"
-    },
-    {
-      "basename": "1 Grid",
-      "path": "_ Desktop/WPF/Fast WFP  C Sharp/1 Grid.md"
-    },
-    {
       "basename": "_ Rusz Głową C Sharp",
       "path": "_ Desktop/WPF/Rusz Głową C Sharp/_ Rusz Głową C Sharp.md"
-    },
-    {
-      "basename": "_ Fast WFP C Sharp",
-      "path": "_ Desktop/WPF/Fast WFP  C Sharp/_ Fast WFP C Sharp.md"
     },
     {
       "basename": "5. First Android App - Unit Converter Part 1",
@@ -77,20 +93,8 @@
       "path": "_ WEB/REACT/React18+TypeScript/_ 0 React 18 Utlimate , TypeScript.md"
     },
     {
-      "basename": "Alien Form",
-      "path": "_ Desktop/WPF/Alien Form.md"
-    },
-    {
       "basename": "10.1 Binding",
       "path": "_ Desktop/WPF/od Podstaw do app w WPF/10.1 Binding.md"
-    },
-    {
-      "basename": "10 WPF - zaawansowane",
-      "path": "_ Desktop/WPF/od Podstaw do app w WPF/10 WPF - zaawansowane.md"
-    },
-    {
-      "basename": "8 Aplikacje WPF",
-      "path": "_ Desktop/WPF/od Podstaw do app w WPF/8 Aplikacje WPF.md"
     },
     {
       "basename": "12.2 GridView",
@@ -195,10 +199,6 @@
     {
       "basename": "2. PyTest",
       "path": "Testowanie/Testy automatyczne w języku Python/2. PyTest.md"
-    },
-    {
-      "basename": "_ 0 Testy automatyczne Python",
-      "path": "Testowanie/Testy automatyczne w języku Python/_ 0 Testy automatyczne Python.md"
     }
   ],
   "omittedPaths": [],
