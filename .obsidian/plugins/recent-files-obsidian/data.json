@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "8.4 EditTexts",
+      "path": "_ Mobile/Android/8.4 EditTexts.md"
+    },
+    {
       "basename": "7 Shopping list app",
       "path": "_ Mobile/Android/the complete Android 14 and Kotlin/7 Shopping list app.md"
     },
@@ -155,10 +159,6 @@
     {
       "basename": "11 Toast, Snackbar, Dialog",
       "path": "_ Mobile/Android/the complete Android Kotlin/11 Toast, Snackbar, Dialog.md"
-    },
-    {
-      "basename": "8.4 EditTexts",
-      "path": "_ Mobile/Android/8.4 EditTexts.md"
     },
     {
       "basename": "10 Android Components",
