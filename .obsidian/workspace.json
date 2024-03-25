@@ -54,9 +54,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "75401f5cc8c3c426",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -229,7 +239,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "85f199c1b69bb2b3",
+  "active": "75401f5cc8c3c426",
   "lastOpenFiles": [
     "_ Desktop/WPF/Fast WFP  C Sharp/2 Controls WPF.md",
     "_ Desktop/WPF/Fast WFP  C Sharp/1 Grid.md",
