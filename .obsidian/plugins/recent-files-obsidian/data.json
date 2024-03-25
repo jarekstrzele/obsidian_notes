@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "UBUNTU",
+      "path": "linux/UBUNTU.md"
+    },
+    {
+      "basename": "5.1. Converter App",
+      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/5.1. Converter App.md"
+    },
+    {
       "basename": "3.2. View Models",
       "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3.2. View Models.md"
     },
@@ -75,10 +83,6 @@
     {
       "basename": "Funkcje lambda",
       "path": "_ Mobile/Android/Funkcje lambda.md"
-    },
-    {
-      "basename": "5.1. Converter App",
-      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/5.1. Converter App.md"
     },
     {
       "basename": "3. Functions, Objects and Coffee Machine",
@@ -195,10 +199,6 @@
     {
       "basename": "2 Tworzenie widoków",
       "path": "_ Mobile/Android/Kurs Android od podstaw/2 Tworzenie widoków.md"
-    },
-    {
-      "basename": "_ Kurs Android od podstaw",
-      "path": "_ Mobile/Android/Kurs Android od podstaw/_ Kurs Android od podstaw.md"
     }
   ],
   "omittedPaths": [],
