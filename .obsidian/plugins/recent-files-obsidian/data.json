@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "6. State - Unit Converter Part 2",
+      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/6. State - Unit Converter Part 2.md"
+    },
+    {
+      "basename": "Funkcje lambda",
+      "path": "_ Mobile/Android/Funkcje lambda.md"
+    },
+    {
+      "basename": "5.1. Converter App",
+      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/5.1. Converter App.md"
+    },
+    {
+      "basename": "3. Functions, Objects and Coffee Machine",
+      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/3. Functions, Objects and Coffee Machine.md"
+    },
+    {
       "basename": "9.1. RadioButton, GroupBox, Label",
       "path": "_ Desktop/WPF/od Podstaw do app w WPF/9.1. RadioButton, GroupBox, Label.md"
     },
@@ -17,10 +33,6 @@
       "path": "_ Desktop/WPF/Rusz Głową C Sharp/_ Rusz Głową C Sharp.md"
     },
     {
-      "basename": "5.1. Converter App",
-      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/5.1. Converter App.md"
-    },
-    {
       "basename": "_ Fast WFP C Sharp",
       "path": "_ Desktop/WPF/Fast WFP  C Sharp/_ Fast WFP C Sharp.md"
     },
@@ -35,10 +47,6 @@
     {
       "basename": "1. Utworzenie projektu testowego",
       "path": "Testowanie/CSharp Testy jednostkowe i integracyjne/1. Utworzenie projektu testowego.md"
-    },
-    {
-      "basename": "6. State - Unit Converter Part 2",
-      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/6. State - Unit Converter Part 2.md"
     },
     {
       "basename": "DatePicker Dialog",
@@ -191,14 +199,6 @@
     {
       "basename": "_ 0 Testy automatyczne Python",
       "path": "Testowanie/Testy automatyczne w języku Python/_ 0 Testy automatyczne Python.md"
-    },
-    {
-      "basename": "3 Podstawy tworzenia aplikacji",
-      "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md"
-    },
-    {
-      "basename": "_ Kotlin bez tajemnic",
-      "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/_ Kotlin bez tajemnic.md"
     }
   ],
   "omittedPaths": [],
