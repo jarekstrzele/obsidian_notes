@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "3.3. View Binding",
+      "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3.3. View Binding.md"
+    },
+    {
+      "basename": "3.2. View Models",
+      "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3.2. View Models.md"
+    },
+    {
+      "basename": "_ Rusz Głową C Sharp",
+      "path": "_ Desktop/WPF/Rusz Głową C Sharp/_ Rusz Głową C Sharp.md"
+    },
+    {
       "basename": "UBUNTU",
       "path": "linux/UBUNTU.md"
     },
     {
       "basename": "5.1. Converter App",
       "path": "_ Mobile/Android/the complete Android 14 and Kotlin/5.1. Converter App.md"
-    },
-    {
-      "basename": "3.2. View Models",
-      "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3.2. View Models.md"
     },
     {
       "basename": "3.1. Fragments",
@@ -87,10 +95,6 @@
     {
       "basename": "3. Functions, Objects and Coffee Machine",
       "path": "_ Mobile/Android/the complete Android 14 and Kotlin/3. Functions, Objects and Coffee Machine.md"
-    },
-    {
-      "basename": "_ Rusz Głową C Sharp",
-      "path": "_ Desktop/WPF/Rusz Głową C Sharp/_ Rusz Głową C Sharp.md"
     },
     {
       "basename": "5. First Android App - Unit Converter Part 1",
@@ -195,10 +199,6 @@
     {
       "basename": "10.3 Button",
       "path": "_ Mobile/Android/the complete Android Kotlin/10.3 Button.md"
-    },
-    {
-      "basename": "2 Tworzenie widoków",
-      "path": "_ Mobile/Android/Kurs Android od podstaw/2 Tworzenie widoków.md"
     }
   ],
   "omittedPaths": [],
