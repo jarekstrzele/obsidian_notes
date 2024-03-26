@@ -96,17 +96,65 @@ function ListGroup(){
         <h1>List</h1>
         {citiesList.length === 0 && <p>No city was found</p>}
             <ul className="list-group">
-               {citiesList.map(city=><li key={city}>{city}</li>)}
+               {citiesList.map(city=><li  className="list-group-item" key={city}>{city}</li>)}
             </ul>
         </>
         )
 }
 ```
 
+# event handler
+after a click event in the console will be written the name of a city
+```typescript
+function ListGroup(){
+    let citiesList = ["Olsztyn", "Paris", "London", "Tokyo"]
+    //citiesList = []
+    return (
+        <>
+        <h1>List</h1>
+        {citiesList.length===0 && <p>no city was found</p>}
+            <ul className="list-group">
+               {citiesList.map( (city, index)=><li
+                        className="list-group-item"
+                        key={city}
+                        onClick={(event)=>console.log(city, index)}
+                        >{city}</li>)
+                }
+            </ul>
+        </>
+        )
+}
+```
 
+**with an event object**
+`event` is an object of `MouseEvent` class => `import { MouseEvent } from "react"`
 
+```typescript
+import { MouseEvent } from "react"
 
+function ListGroup(){
+    let citiesList = ["Olsztyn", "Paris", "London", "Tokyo"]
+    function handleClick(event: MouseEvent){
+        console.log(event)
+    }
 
+    return (
+        <>
+        <h1>List</h1>
+        {citiesList.length===0 && <p>no city was found</p>}
+            <ul className="list-group">
+               {citiesList.map( (city, index)=><li
+                        className="list-group-item"
+                        key={city}
+                        onClick={handleClick}
+                        >{city}</li>)}
+            </ul>
+        </>
+        )
+}
+
+export default ListGroup
+```
 
 
 
