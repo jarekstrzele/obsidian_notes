@@ -158,6 +158,27 @@ export default ListGroup
 
 
 
+# Managing States
+ ```typescript
+import {  useState } from "react"
+
+function ListGroup(){
+    let citiesList = ["Olsztyn", "Paris", "London", "Tokyo"]
+    const [selectedIndex, setSelectedIndex] = useState(-1)
+	
+    return (
+        <>
+        <h1>List</h1>
+        {citiesList.length===0 && <p>no city was found</p>}
+            <ul className="list-group">
+               {citiesList.map( (city, index)=><li
+                        className={selectedIndex===index ? "list-group-item active" :"list-group-item"}
+                        key={city}
+                        onClick={()=>setSelectedIndex(index)}
+                        >{city}</li>)}
+            </ul>
+```
+
 
 
 
