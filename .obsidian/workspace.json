@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Kotlin/Kotlin bez tajemnic/3.3. View Binding.md",
+                "file": "_ Mobile/Kotlin/Kotlin bez tajemnic/3.1. Fragments.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -137,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Kotlin/Kotlin bez tajemnic/3.3. View Binding.md",
+                "file": "_ Desktop/WPF/Alien Form.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Kotlin/Kotlin bez tajemnic/3.3. View Binding.md",
+                "file": "_ Desktop/WPF/Alien Form.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Kotlin/Kotlin bez tajemnic/3.3. View Binding.md"
+                "file": "_ Desktop/WPF/Alien Form.md"
               }
             }
           },
@@ -228,14 +229,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "47a00471371697d9",
+  "active": "85f199c1b69bb2b3",
   "lastOpenFiles": [
+    "linux/UBUNTU.md",
+    "_ Desktop/WPF/Rusz Głową C Sharp/_ Rusz Głową C Sharp.md",
+    "_ Mobile/Kotlin/Kotlin bez tajemnic/3.1. Fragments.md",
+    "_ Mobile/Kotlin/Kotlin bez tajemnic/3.3. View Binding.md",
     "_ WEB/REACT/React18+TypeScript/1 Building Components - React 18 Utlimate.md",
     "_ Mobile/Kotlin/Kotlin bez tajemnic/3.2. View Models.md",
-    "_ Desktop/WPF/Rusz Głową C Sharp/_ Rusz Głową C Sharp.md",
-    "linux/UBUNTU.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/5.1. Converter App.md",
-    "_ Mobile/Kotlin/Kotlin bez tajemnic/3.1. Fragments.md",
     "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md",
     "Testowanie/CSharp Testy jednostkowe i integracyjne/1. Utworzenie projektu testowego.md",
     "_ Desktop/WPF/Alien Form.md",
@@ -255,7 +257,6 @@
     "_ Mobile/Android/Funkcje lambda.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/3. Functions, Objects and Coffee Machine.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/5. First Android App - Unit Converter Part 1.md",
-    "_ Mobile/Android/DatePicker Dialog.md",
     "_ WEB/REACT/React18+TypeScript",
     "Testowanie/CSharp Testy jednostkowe i integracyjne",
     "methodology/images/bar_matplotlib.png",
