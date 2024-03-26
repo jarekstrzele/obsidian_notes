@@ -86,7 +86,22 @@ function ListGroup(){
 
 
 # Rendering List
+```typescript
+function ListGroup(){
 
+	let citiesList = ["Olsztyn", "Paris", "London", "Tokyo"]
+	citiesList = []
+    return (
+        <>
+        <h1>List</h1>
+        {citiesList.length === 0 && <p>No city was found</p>}
+            <ul className="list-group">
+               {citiesList.map(city=><li key={city}>{city}</li>)}
+            </ul>
+        </>
+        )
+}
+```
 
 
 
