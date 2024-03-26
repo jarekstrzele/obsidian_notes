@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "1 Building Components - React 18 Utlimate",
+      "path": "_ WEB/REACT/React18+TypeScript/1 Building Components - React 18 Utlimate.md"
+    },
+    {
       "basename": "_ 0 React 18 Utlimate , TypeScript",
       "path": "_ WEB/REACT/React18+TypeScript/_ 0 React 18 Utlimate , TypeScript.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_ app z Node i Express",
       "path": "_ WEB/React,TypeScript,Node/III Express, GraphQL tworzenie usług internetowych/_ app z Node i Express.md"
-    },
-    {
-      "basename": "2. PyTest",
-      "path": "Testowanie/Testy automatyczne w języku Python/2. PyTest.md"
     }
   ],
   "omittedPaths": [],
