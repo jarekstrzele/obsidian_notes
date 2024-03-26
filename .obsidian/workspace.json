@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Desktop/WPF/Alien Form.md",
+                "file": "_ Mobile/Kotlin/Kotlin bez tajemnic/3.1. Fragments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Desktop/WPF/Alien Form.md",
+                "file": "_ Mobile/Kotlin/Kotlin bez tajemnic/3.1. Fragments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Desktop/WPF/Alien Form.md"
+                "file": "_ Mobile/Kotlin/Kotlin bez tajemnic/3.1. Fragments.md"
               }
             }
           },
@@ -229,10 +228,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "85f199c1b69bb2b3",
+  "active": "47a00471371697d9",
   "lastOpenFiles": [
-    "linux/UBUNTU.md",
     "_ Desktop/WPF/Rusz Głową C Sharp/_ Rusz Głową C Sharp.md",
+    "linux/UBUNTU.md",
+    "_ Desktop/WPF/Alien Form.md",
     "_ Mobile/Kotlin/Kotlin bez tajemnic/3.1. Fragments.md",
     "_ Mobile/Kotlin/Kotlin bez tajemnic/3.3. View Binding.md",
     "_ WEB/REACT/React18+TypeScript/1 Building Components - React 18 Utlimate.md",
@@ -240,7 +240,6 @@
     "_ Mobile/Android/the complete Android 14 and Kotlin/5.1. Converter App.md",
     "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md",
     "Testowanie/CSharp Testy jednostkowe i integracyjne/1. Utworzenie projektu testowego.md",
-    "_ Desktop/WPF/Alien Form.md",
     "_ Desktop/WPF/Fast WFP  C Sharp/2 Controls WPF.md",
     "_ Desktop/WPF/Fast WFP  C Sharp/1 Grid.md",
     "_ Desktop/WPF/Fast WFP  C Sharp/_ Fast WFP C Sharp.md",
