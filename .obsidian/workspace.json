@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Kotlin/Kotlin bez tajemnic/3.3. View Binding.md",
+                "file": "Testowanie/CSharp Testy jednostkowe i integracyjne/1. Utworzenie projektu testowego.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Desktop/WPF/Rusz Głową C Sharp/_ Rusz Głową C Sharp.md",
+                "file": "_ WEB/REACT/React18+TypeScript/_ 0 React 18 Utlimate , TypeScript.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/UBUNTU.md",
+                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/5.1. Converter App.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -137,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Kotlin/Kotlin bez tajemnic/3.3. View Binding.md",
+                "file": "_ WEB/REACT/React18+TypeScript/_ 0 React 18 Utlimate , TypeScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Kotlin/Kotlin bez tajemnic/3.3. View Binding.md",
+                "file": "_ WEB/REACT/React18+TypeScript/_ 0 React 18 Utlimate , TypeScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Kotlin/Kotlin bez tajemnic/3.3. View Binding.md"
+                "file": "_ WEB/REACT/React18+TypeScript/_ 0 React 18 Utlimate , TypeScript.md"
               }
             }
           },
@@ -228,15 +229,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "47a00471371697d9",
+  "active": "ca090c70e716f0de",
   "lastOpenFiles": [
-    "_ Mobile/Kotlin/Kotlin bez tajemnic/3.2. View Models.md",
+    "_ WEB/REACT/React 18 Tutorial and Projects Course 2023/_ The React 18 Tutorial (2023).md",
     "_ Desktop/WPF/Rusz Głową C Sharp/_ Rusz Głową C Sharp.md",
-    "linux/UBUNTU.md",
-    "_ Mobile/Android/the complete Android 14 and Kotlin/5.1. Converter App.md",
-    "_ Mobile/Kotlin/Kotlin bez tajemnic/3.1. Fragments.md",
-    "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md",
-    "Testowanie/CSharp Testy jednostkowe i integracyjne/1. Utworzenie projektu testowego.md",
     "_ Desktop/WPF/Alien Form.md",
     "_ Desktop/WPF/Fast WFP  C Sharp/2 Controls WPF.md",
     "_ Desktop/WPF/Fast WFP  C Sharp/1 Grid.md",
@@ -252,10 +248,15 @@
     "_ Mobile/Android/the complete Android 14 and Kotlin/6.0. The code Unit Converter app.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/6. State - Unit Converter Part 2.md",
     "_ Mobile/Android/Funkcje lambda.md",
+    "_ Mobile/Android/the complete Android 14 and Kotlin/5.1. Converter App.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/3. Functions, Objects and Coffee Machine.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/5. First Android App - Unit Converter Part 1.md",
+    "Testowanie/CSharp Testy jednostkowe i integracyjne/1. Utworzenie projektu testowego.md",
     "_ Mobile/Android/DatePicker Dialog.md",
     "_ Mobile/Android/the complete Android Kotlin/_ the complete Android Kotlin.md",
+    "_ WEB/REACT/React18+TypeScript/_ 0 React 18 Utlimate , TypeScript.md",
+    "_ Desktop/WPF/od Podstaw do app w WPF/10.1 Binding.md",
+    "_ Mobile/Android/the complete Android Kotlin/12.2 GridView.md",
     "_ WEB/REACT/React18+TypeScript",
     "Testowanie/CSharp Testy jednostkowe i integracyjne",
     "methodology/images/bar_matplotlib.png",

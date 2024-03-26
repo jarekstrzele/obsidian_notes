@@ -1,36 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "3.3. View Binding",
-      "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3.3. View Binding.md"
+      "basename": "_ 0 React 18 Utlimate , TypeScript",
+      "path": "_ WEB/REACT/React18+TypeScript/_ 0 React 18 Utlimate , TypeScript.md"
     },
     {
-      "basename": "3.2. View Models",
-      "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3.2. View Models.md"
+      "basename": "_ The React 18 Tutorial (2023)",
+      "path": "_ WEB/REACT/React 18 Tutorial and Projects Course 2023/_ The React 18 Tutorial (2023).md"
     },
     {
       "basename": "_ Rusz Głową C Sharp",
       "path": "_ Desktop/WPF/Rusz Głową C Sharp/_ Rusz Głową C Sharp.md"
-    },
-    {
-      "basename": "UBUNTU",
-      "path": "linux/UBUNTU.md"
-    },
-    {
-      "basename": "5.1. Converter App",
-      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/5.1. Converter App.md"
-    },
-    {
-      "basename": "3.1. Fragments",
-      "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3.1. Fragments.md"
-    },
-    {
-      "basename": "3 Podstawy tworzenia aplikacji",
-      "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md"
-    },
-    {
-      "basename": "1. Utworzenie projektu testowego",
-      "path": "Testowanie/CSharp Testy jednostkowe i integracyjne/1. Utworzenie projektu testowego.md"
     },
     {
       "basename": "Alien Form",
@@ -93,6 +73,10 @@
       "path": "_ Mobile/Android/Funkcje lambda.md"
     },
     {
+      "basename": "5.1. Converter App",
+      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/5.1. Converter App.md"
+    },
+    {
       "basename": "3. Functions, Objects and Coffee Machine",
       "path": "_ Mobile/Android/the complete Android 14 and Kotlin/3. Functions, Objects and Coffee Machine.md"
     },
@@ -101,16 +85,16 @@
       "path": "_ Mobile/Android/the complete Android 14 and Kotlin/5. First Android App - Unit Converter Part 1.md"
     },
     {
+      "basename": "1. Utworzenie projektu testowego",
+      "path": "Testowanie/CSharp Testy jednostkowe i integracyjne/1. Utworzenie projektu testowego.md"
+    },
+    {
       "basename": "DatePicker Dialog",
       "path": "_ Mobile/Android/DatePicker Dialog.md"
     },
     {
       "basename": "_ the complete Android Kotlin",
       "path": "_ Mobile/Android/the complete Android Kotlin/_ the complete Android Kotlin.md"
-    },
-    {
-      "basename": "_ 0 React 18 Utlimate , TypeScript",
-      "path": "_ WEB/REACT/React18+TypeScript/_ 0 React 18 Utlimate , TypeScript.md"
     },
     {
       "basename": "10.1 Binding",
@@ -143,10 +127,6 @@
     {
       "basename": "_ 0 React Full",
       "path": "_ WEB/REACT/React - the Complete Guide/_ 0 React Full.md"
-    },
-    {
-      "basename": "_ The React 18 Tutorial (2023)",
-      "path": "_ WEB/REACT/React 18 Tutorial and Projects Course 2023/_ The React 18 Tutorial (2023).md"
     },
     {
       "basename": "Wyświeltanie info",
@@ -199,6 +179,26 @@
     {
       "basename": "10.3 Button",
       "path": "_ Mobile/Android/the complete Android Kotlin/10.3 Button.md"
+    },
+    {
+      "basename": "2 Tworzenie widoków",
+      "path": "_ Mobile/Android/Kurs Android od podstaw/2 Tworzenie widoków.md"
+    },
+    {
+      "basename": "_ Kurs Android od podstaw",
+      "path": "_ Mobile/Android/Kurs Android od podstaw/_ Kurs Android od podstaw.md"
+    },
+    {
+      "basename": "_ 0 Android Kurs Tworzenia Aplikacji",
+      "path": "_ Mobile/Android/Android Kurs Tworzenia APlikacji/_ 0 Android Kurs Tworzenia Aplikacji.md"
+    },
+    {
+      "basename": "_ app z Node i Express",
+      "path": "_ WEB/React,TypeScript,Node/III Express, GraphQL tworzenie usług internetowych/_ app z Node i Express.md"
+    },
+    {
+      "basename": "2. PyTest",
+      "path": "Testowanie/Testy automatyczne w języku Python/2. PyTest.md"
     }
   ],
   "omittedPaths": [],

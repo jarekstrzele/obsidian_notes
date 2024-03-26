@@ -6,6 +6,12 @@
 
 `npm run dev`
 
+in this project:
+- `npm create@latest app-name`
+- select React
+- select TypeScript  `.ts` or `.tsx`
+
+# First Component
 
 
 
