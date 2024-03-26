@@ -223,6 +223,53 @@ export default App
 
 # Passing Function via Props
 
+change `App.tsx` (add `handleSelectItem` function and a new attribute `obSelectItem`)
+```typescript
+function App(){
+
+  let citiesList = ["Olsztyn", "Paris", "London", "Tokyo"]
+  const handleSelectItem = (item: string )=> {
+    console.log(item)
+  }
+
+  return <div><ListGroup items={citiesList} heading="Cities" onSelectItem={handleSelectItem} /> </div>
+
+}
+```
+
+change `ListGroup` component (add a new attribute in `interface`)
+```typescript
+interface Props{
+    items: string[],
+    heading: string,
+    onSelectItem: (item: string) => void
+}
+  
+
+function ListGroup({items, heading, onSelectItem}: Props){
+```
+and add it in jsx
+```typescript
+{items.map( (city, index)=><li
+                        className={selectedIndex===index ? "list-group-item active" :"list-group-item"}
+                        key={city}
+                        onClick={()=>{
+                            setSelectedIndex(index)
+                            onSelectItem(city)
+                        }}
+                        >{city}</li>)}
+```
+
+
+# Passing children
+
+
+
+
+
+
+
+
 
 
 
