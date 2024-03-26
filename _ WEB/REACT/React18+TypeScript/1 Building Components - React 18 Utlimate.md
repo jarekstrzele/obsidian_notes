@@ -179,9 +179,46 @@ function ListGroup(){
             </ul>
 ```
 
+# Props and interface
+#react/interface
 
+`ListGroup.tsx`
+```typescript
+import {useState } from "react"
 
+interface Props{
+    items: string[],
+    heading: string
+}
 
+function ListGroup({items, heading}: Props){
+    const [selectedIndex, setSelectedIndex] = useState(-1)
+
+    return (
+        <>
+        <h1>{heading}</h1>
+        {items.length===0 && <p>no city was found</p>}
+          <ul className="list-group">
+               {items.map( (city, index)=><li
+                        className={selectedIndex===index ? "list-group-item active" :"list-group-item"}
+                        key={city}
+                        onClick={()=>setSelectedIndex(index)}
+                        >{city}</li>)}
+            </ul>
+        </>
+        )
+}
+```
+
+`App.tsx`
+```typescript
+function App(){
+  let citiesList = ["Olsztyn", "Paris", "London", "Tokyo"]
+  return <div><ListGroup items={citiesList} heading="Cities"/> </div>
+}
+
+export default App
+```
 
 
 
