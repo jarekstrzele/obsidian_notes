@@ -221,6 +221,8 @@ export default App
 ```
 
 
+# Passing Function via Props
+
 
 
 
