@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ WEB/REACT/React18+TypeScript/2 Styling Components.md",
+                "file": "Testowanie/CSharp Testy jednostkowe i integracyjne/1. Utworzenie projektu testowego.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ WEB/REACT/React18+TypeScript/2 Styling Components.md",
+                "file": "Testowanie/CSharp Testy jednostkowe i integracyjne/1. Utworzenie projektu testowego.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ WEB/REACT/React18+TypeScript/2 Styling Components.md"
+                "file": "Testowanie/CSharp Testy jednostkowe i integracyjne/1. Utworzenie projektu testowego.md"
               }
             }
           },
@@ -229,10 +228,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ca090c70e716f0de",
+  "active": "47a00471371697d9",
   "lastOpenFiles": [
-    "_ WEB/REACT/React18+TypeScript/1 Building Components - React 18 Utlimate.md",
     "_ WEB/REACT/React18+TypeScript/2 Styling Components.md",
+    "_ WEB/REACT/React18+TypeScript/1 Building Components - React 18 Utlimate.md",
     "_ Desktop/WPF/Alien Form.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/5.1. Converter App.md",
     "_ WEB/REACT/React18+TypeScript/_ 0 React 18 Utlimate , TypeScript.md",
