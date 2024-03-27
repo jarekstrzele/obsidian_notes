@@ -262,7 +262,7 @@ and add it in jsx
 
 
 # Passing children
-How to create component that accept children?
+How to create component that accept children? — use the `children Props`
 
 ==Extension for VS Code - `ES7+`==
 
@@ -271,9 +271,7 @@ a new component `Alert.tsx`
 const Alert = () => {
   return (
     <div>
-      <h1 ```html
-"alert alert-primary"
-```>Aleert</h1>
+      <h1 className="alert alert-primary">Aleert</h1>
     </div>
   )
 }
@@ -284,15 +282,51 @@ export default Alert
 on the page `bootstrap>component>Alert`
 https://getbootstrap.com/docs/5.3/components/alerts/
 
+```typescript
+interface Props{
+    children: string
+}
+
+const Alert = ({children}: Props) => {
+  return (
+    <div>
+      <h1 className="alert alert-primary">{children}</h1>
+    </div>
+  )
+}
+```
 
 
+`App`
+```typescript
+return (
+    <div>
+      <Alert>
+        Hello world
+      </Alert>
+    </div>
+  )
+```
+
+If you want to pass HTML content, change the type of children to `ReactNode`.
+`Alert`
+```typescript
+interface Props{
+    children: ReactNode
+}
+```
 
 
-
-
-
-
-
+`App`
+```typescript
+ return (
+    <div>
+      <Alert>
+        Hello <span>world</span>
+      </Alert>
+    </div>
+  )
+```
 
 
 
