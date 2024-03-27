@@ -328,6 +328,19 @@ interface Props{
   )
 ```
 
+# Inspecting component `React Developer Tools`
+
+
+
+# Building a button component
+
+
+
+
+
+
+
+
 
 
 
