@@ -333,14 +333,13 @@ interface Props{
 
 
 # Building a button component
+https://getbootstrap.com/docs/5.3/components/buttons/
 
 `App`
 ```typescript
 return (
   <MyButton color="danger"  onClick={()=>console.log("ok")}>
-
         Mój superek
-
       </MyButton>
 ```
 
@@ -354,34 +353,26 @@ interface Props{
     onClick: ()=>void
 }
 
+// color="primary" - this parameter has a default value
 const MyButton = ({children, color="primary", onClick}: Props) => {
 
   return (
-
     <div>
-
       <button type="button"
-
               className={"btn btn-"+color}
-
               onClick={onClick}>
-
                 {children}
-
     </button>
-
     </div>
-
   )
-
 }
 
-  
 
 export default MyButton
 ```
 
 
+# Showing Alert component using button
 
 
 
