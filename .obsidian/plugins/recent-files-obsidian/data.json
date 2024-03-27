@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2 Styling Components",
+      "path": "_ WEB/REACT/React18+TypeScript/2 Styling Components.md"
+    },
+    {
       "basename": "1 Building Components - React 18 Utlimate",
       "path": "_ WEB/REACT/React18+TypeScript/1 Building Components - React 18 Utlimate.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_ 0 Android Kurs Tworzenia Aplikacji",
       "path": "_ Mobile/Android/Android Kurs Tworzenia APlikacji/_ 0 Android Kurs Tworzenia Aplikacji.md"
-    },
-    {
-      "basename": "_ app z Node i Express",
-      "path": "_ WEB/React,TypeScript,Node/III Express, GraphQL tworzenie usług internetowych/_ app z Node i Express.md"
     }
   ],
   "omittedPaths": [],
