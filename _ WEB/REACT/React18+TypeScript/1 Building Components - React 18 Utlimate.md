@@ -262,7 +262,27 @@ and add it in jsx
 
 
 # Passing children
+How to create component that accept children?
 
+==Extension for VS Code - `ES7+`==
+
+a new component `Alert.tsx`
+```typescript
+const Alert = () => {
+  return (
+    <div>
+      <h1 ```html
+"alert alert-primary"
+```>Aleert</h1>
+    </div>
+  )
+}
+
+export default Alert
+```
+
+on the page `bootstrap>component>Alert`
+https://getbootstrap.com/docs/5.3/components/alerts/
 
 
 
