@@ -334,10 +334,52 @@ interface Props{
 
 # Building a button component
 
+`App`
+```typescript
+return (
+  <MyButton color="danger"  onClick={()=>console.log("ok")}>
 
+        Mój superek
 
+      </MyButton>
+```
 
+`MyButton`
+```typescript
+//color? - optional
+// color?: ''primary' | 'secondary' | 'success' | 'danger' - this attribut can have only these values
+interface Props{
+    children:String,
+    color?: 'primary' | 'secondary' | 'success' | 'danger',
+    onClick: ()=>void
+}
 
+const MyButton = ({children, color="primary", onClick}: Props) => {
+
+  return (
+
+    <div>
+
+      <button type="button"
+
+              className={"btn btn-"+color}
+
+              onClick={onClick}>
+
+                {children}
+
+    </button>
+
+    </div>
+
+  )
+
+}
+
+  
+
+export default MyButton
+```
 
 
 
