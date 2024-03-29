@@ -45,29 +45,32 @@ Pracującym przy monitorze ekranowym jest pracownik użytkujący go: 
  zimno, pragnienie;
 
 
+. Sąsiadujące ze sobą monitory należy ustawić w odległości: 
+ co najmniej 50 cm;  
+ **co najmniej 60 cm;**  
+ co najmniej 80 cm;
+
+Czynnikiem szkodliwym i uciążliwym jest:
+**mikroklimat;**   
+**drobnoustroje komórkowe;**   
+elementy ostre i wystające;
 
 
-
-
+ Organami nadzoru i kontroli w dziedzinie bezpieczeństwa i higieny pracą są:   
+ **Państwowa Inspekcja Pracy;**  
+ **Państwowa Inspekcja Sanitarna;**  
+ **Urząd Dozoru Technicznego;**
 
 
 
 
 
 ## niepoprawne
-zynnikiem szkodliwym i uciążliwym jest: ![](https://studia-online.pl/images/admin/fail.png)==mikroklimat;   
-drobnoustroje komórkowe;   
-elementy ostre i wystające;==
-
-
- Organami nadzoru i kontroli w dziedzinie bezpieczeństwa i higieny pracą są:   
- **Państwowa Inspekcja Pracy;**  
- Państwowa Inspekcja Sanitarna;  
- **Urząd Dozoru Technicznego;**
 
 
 
-8. Według przepisów ocenę ryzyka zawodowego sporządza:   
+
+ Według przepisów ocenę ryzyka zawodowego sporządza:   
  prawdopodobieństwo szkód i stopień szkód;  
  potencjalne skutki zdarzenia, ekspozycja na zagrożenie, prawdopodobieństwo wystąpienia zagrożenia;  
  **stopień prawdopodobieństwa zaistnienia zdarzenia, ciężkość szkodliwych następstw;**
@@ -87,13 +90,11 @@ elementy ostre i wystające;==
  wykonania zaleceń lekarza sprawującego opiekę zdrowotną nad pracownikami;  
  **organizacja stanowiska pracy zgodnie z przepisami i zasadami BHP;**  
  instruktaż stanowiskowy dla nowo zatrudnionych osób;
+(dwie ostatnie zaznaczyłem i tez było źle)
 
 
 
-. Sąsiadujące ze sobą monitory należy ustawić w odległości: 
- **co najmniej 50 cm;**  
- co najmniej 60 cm;  
- co najmniej 80 cm;
+
 
 
 . Podstawy prawne w dziedzinie BHP to: 
