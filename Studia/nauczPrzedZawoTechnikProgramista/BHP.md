@@ -61,32 +61,32 @@ elementy ostre i wystające;
  **Państwowa Inspekcja Sanitarna;**  
  **Urząd Dozoru Technicznego;**
 
+ Według przepisów ocenę ryzyka zawodowego sporządza:   
+ prawdopodobieństwo szkód i stopień szkód;  
+ **potencjalne skutki zdarzenia, ekspozycja na zagrożenie, prawdopodobieństwo wystąpienia zagrożenia;**  
+ stopień prawdopodobieństwa zaistnienia zdarzenia, ciężkość szkodliwych następstw;
 
 
+Jeżeli w pomieszczeniu przebywa trzech pracowników, to na każdego z nich powinno przypadać: 
+ **co najmniej 13m3 wolnej objętości pomieszczenia;**  
+ co najmniej 15m3 wolnej objętości pomieszczenia;  
+ **co najmniej 2m2 wolnej podłogi;**
+
+. Podstawy prawne w dziedzinie BHP to: 
+ **Polskie Normy;**  
+ Kodeks cywilny;  
+ **Konstytucja RP;**
+
+
+
+14. Wstępnym badaniom lekarskim podlegają  
+ **pracownicy młodociani przenoszeni na inne stanowiska pracy;**  
+ osoby przyjmowane do pracy u tego samego pracodawcy na to samo stanowisko lub na takich samych warunkach pracy w ciągu 30 dni po rozwiązaniu lub wygaśnięciu poprzedniego stosunku pracy z tym pracodawcą;  
+ pracownicy przenoszeni na stanowiska pracy, na których nie występują szkodliwe dla zdrowia lub warunki uciążliwe**
 
 
 ## niepoprawne
-
-
-
-
- Według przepisów ocenę ryzyka zawodowego sporządza:   
- prawdopodobieństwo szkód i stopień szkód;  
- potencjalne skutki zdarzenia, ekspozycja na zagrożenie, prawdopodobieństwo wystąpienia zagrożenia;  
- **stopień prawdopodobieństwa zaistnienia zdarzenia, ciężkość szkodliwych następstw;**
-
-8. Według przepisów ocenę ryzyka zawodowego sporządza:  
- **prawdopodobieństwo szkód i stopień szkód;**  
- **potencjalne skutki zdarzenia, ekspozycja na zagrożenie, prawdopodobieństwo wystąpienia zagrożenia;**  
- **stopień prawdopodobieństwa zaistnienia zdarzenia, ciężkość szkodliwych następstw;**
-
-
-10. Jeżeli w pomieszczeniu przebywa trzech pracowników, to na każdego z nich powinno przypadać: 
- **co najmniej 13m3 wolnej objętości pomieszczenia;**  
- co najmniej 15m3 wolnej objętości pomieszczenia;  
- co najmniej 2m2 wolnej podłogi;
-
-. Obowiązkiem osoby kierującej pracownikami wynikającym z art. 212 Kodeksu pracy jest: 
+Obowiązkiem osoby kierującej pracownikami wynikającym z art. 212 Kodeksu pracy jest: 
  wykonania zaleceń lekarza sprawującego opiekę zdrowotną nad pracownikami;  
  **organizacja stanowiska pracy zgodnie z przepisami i zasadami BHP;**  
  instruktaż stanowiskowy dla nowo zatrudnionych osób;
@@ -97,17 +97,7 @@ elementy ostre i wystające;
 
 
 
-. Podstawy prawne w dziedzinie BHP to: 
- Polskie Normy;  
- Kodeks cywilny;  
- **Konstytucja RP;**
 
-
-14. Wstępnym badaniom lekarskim podlegają  
- **pracownicy młodociani przenoszeni na inne stanowiska pracy;**  
- osoby przyjmowane do pracy u tego samego pracodawcy na to samo stanowisko lub na takich samych warunkach pracy w ciągu 30 dni po rozwiązaniu lub wygaśnięciu poprzedniego stosunku pracy z tym pracodawcą;  
- **pracownicy przenoszeni na stanowiska pracy, na których nie występują szkodliwe dla zdrowia lub warunki uciążliwe****
-**
 
 
 
