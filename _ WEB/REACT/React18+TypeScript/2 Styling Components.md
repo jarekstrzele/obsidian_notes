@@ -26,13 +26,35 @@ and in `App`  use this notation `import ListGroup from "./components/ListGroup"`
 It is a file in which all class names are scoped locally, so you cane use the same CSS class name in different files without worrying about name clashes
 
 - the css file name e.g. `ListGroup.module.css` 
-- and in a tsx  file `import style from "./ListGroup.module.css` , soe every classes defined in that module will be a property of `style` object 
+- and in a tsx  file `import styles from "./ListGroup.module.css` , so all classes defined in that module will be a property of `styles` object:
+	-  access  `styles['propertyName']` if you use the class name `list-group` like this or
+	- access `style.listGroup` if you use the class name like this `listGroup`
+- 
 
 
 
 
 
 # CSS-in-JS
+
+benefits:
+- scoped styles
+- all the CSS and JS/TS code in one place
+- easier to delete a component
+- easier to style based on props/state
+
+Necessary library:
+- styled components
+- emotion
+- polished
+- 
+we will be use `Styled components`
+## `npm i styled-components`
+
+
+
+
+
 
 
 
