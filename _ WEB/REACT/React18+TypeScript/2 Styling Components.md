@@ -30,10 +30,19 @@ It is a file in which all class names are scoped locally, so you cane use the sa
 	-  access  `styles['propertyName']` if you use the class name `list-group` like this or
 	- access `style.listGroup` if you use the class name like this `listGroup`
 - 
+to use in a file `import styles from './ListGroup.module.css'`
+```typescript
+ <ul className={styles.listGroup}>
 
+               {items.map( (city, index)=><li
+```
 
+if you want o to use more than one class
+```typescript
+ <ul className={[styles.listGroup, styles.container].join(" ")}>
 
-
+               {items.map( (city, index)=><li
+```
 
 # CSS-in-JS
 
