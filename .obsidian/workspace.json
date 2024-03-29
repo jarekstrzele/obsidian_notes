@@ -20,6 +20,30 @@
             }
           },
           {
+            "id": "aa3f77079c7fac1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studia/nauczPrzedZawoTechnikProgramista/BHP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ba476df31f471b32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ca090c70e716f0de",
             "type": "leaf",
             "state": {
@@ -55,7 +79,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -137,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Kotlin/Kotlin bez tajemnic/3.1. Fragments.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Kotlin/Kotlin bez tajemnic/3.1. Fragments.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Kotlin/Kotlin bez tajemnic/3.1. Fragments.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -228,13 +253,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "47a00471371697d9",
+  "active": "ba476df31f471b32",
   "lastOpenFiles": [
+    "Studia/nauczPrzedZawoTechnikProgramista/BHP.md",
+    "conflict-files-obsidian-git.md",
+    "Studia/nauczPrzedZawoTechnikProgramista",
+    "_ Mobile/Kotlin/Kotlin bez tajemnic/3.1. Fragments.md",
     "_ WEB/REACT/React18+TypeScript/2 Styling Components.md",
     "_ Desktop/WPF/Rusz Głową C Sharp/_ Rusz Głową C Sharp.md",
     "linux/UBUNTU.md",
     "_ Desktop/WPF/Alien Form.md",
-    "_ Mobile/Kotlin/Kotlin bez tajemnic/3.1. Fragments.md",
     "_ Mobile/Kotlin/Kotlin bez tajemnic/3.3. View Binding.md",
     "_ WEB/REACT/React18+TypeScript/1 Building Components - React 18 Utlimate.md",
     "_ Mobile/Kotlin/Kotlin bez tajemnic/3.2. View Models.md",
@@ -254,8 +282,6 @@
     "_ Mobile/Android/the complete Android 14 and Kotlin/6.1. Some help.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/6.0. The code Unit Converter app.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/6. State - Unit Converter Part 2.md",
-    "_ Mobile/Android/Funkcje lambda.md",
-    "_ Mobile/Android/the complete Android 14 and Kotlin/3. Functions, Objects and Coffee Machine.md",
     "_ WEB/REACT/React18+TypeScript",
     "Testowanie/CSharp Testy jednostkowe i integracyjne",
     "methodology/images/bar_matplotlib.png",
@@ -274,7 +300,6 @@
     "Pasted image 20240115122731.png",
     "Pasted image 20240115085344.png",
     "Pasted image 20240115085044.png",
-    "Pasted image 20240115084911.png",
-    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/Untitled"
+    "Pasted image 20240115084911.png"
   ]
 }
