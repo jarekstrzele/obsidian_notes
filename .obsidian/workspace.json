@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "eb34749eb0ccda93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_ Mobile/Android/the complete Android Kotlin/12.2 GridView.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -138,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/6. State - Unit Converter Part 2.md",
+                "file": "_ Mobile/Android/the complete Android Kotlin/12.2 GridView.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/6. State - Unit Converter Part 2.md",
+                "file": "_ Mobile/Android/the complete Android Kotlin/12.2 GridView.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/6. State - Unit Converter Part 2.md"
+                "file": "_ Mobile/Android/the complete Android Kotlin/12.2 GridView.md"
               }
             }
           },
@@ -229,8 +241,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "464a893da53a28f7",
+  "active": "eb34749eb0ccda93",
   "lastOpenFiles": [
+    "_ Mobile/Android/the complete Android Kotlin/10.9 Top App Bar.md",
+    "_ Mobile/Android/the complete Android Kotlin/4 Loops in Kotlin.md",
+    "_ Mobile/Android/the complete Android Kotlin/_ the complete Android Kotlin.md",
+    "_ Mobile/Kotlin/Kotlin bez tajemnic/_ Kotlin bez tajemnic.md",
+    "_ Mobile/Kotlin/Fundamenty Kotlina.md",
+    "_ Mobile/Kotlin/Wyrażenia regularne.md",
+    "_ Mobile/Kotlin/wyrażenia regularne zadania.md",
+    "_ Mobile/Android/the complete Android 14 and Kotlin/6. State - Unit Converter Part 2.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/7 Shopping list app.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/4. Lists and Objects.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/6.1. Some help.md",
@@ -250,14 +270,6 @@
     "_ WEB/REACT/React 18 Tutorial and Projects Course 2023/_ The React 18 Tutorial (2023).md",
     "_ Desktop/WPF/Rusz Głową C Sharp/_ Rusz Głową C Sharp.md",
     "_ Desktop/WPF/Fast WFP  C Sharp/2 Controls WPF.md",
-    "_ Desktop/WPF/Fast WFP  C Sharp/1 Grid.md",
-    "_ Desktop/WPF/Fast WFP  C Sharp/_ Fast WFP C Sharp.md",
-    "_ Desktop/WPF/CSharp WPF xaml youtube/_ WPF.md",
-    "_ Desktop/WPF/od Podstaw do app w WPF/8 Aplikacje WPF.md",
-    "_ Desktop/WPF/od Podstaw do app w WPF/10 WPF - zaawansowane.md",
-    "_ Desktop/WPF/od Podstaw do app w WPF/9.1. RadioButton, GroupBox, Label.md",
-    "_ Desktop/WPF/od Podstaw do app w WPF/9 WPF układy komponentów.md",
-    "_ Mobile/Android/8.4 EditTexts.md",
     "_ WEB/REACT/React18+TypeScript",
     "Testowanie/CSharp Testy jednostkowe i integracyjne",
     "methodology/images/bar_matplotlib.png",
