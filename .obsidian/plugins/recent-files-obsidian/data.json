@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "12.3 Scroll View",
-      "path": "_ Mobile/Android/the complete Android Kotlin/12.3 Scroll View.md"
-    },
-    {
       "basename": "12.2 GridView",
       "path": "_ Mobile/Android/the complete Android Kotlin/12.2 GridView.md"
+    },
+    {
+      "basename": "12.4 WebView",
+      "path": "_ Mobile/Android/the complete Android Kotlin/12.4 WebView.md"
+    },
+    {
+      "basename": "12.3 Scroll View",
+      "path": "_ Mobile/Android/the complete Android Kotlin/12.3 Scroll View.md"
     },
     {
       "basename": "10.9 Top App Bar",
@@ -195,10 +199,6 @@
     {
       "basename": "4.1. Pierwsza wersja stopera",
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4.1. Pierwsza wersja stopera.md"
-    },
-    {
-      "basename": "4.0. Przewodnik po metodach cyklu życia",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4.0. Przewodnik po metodach cyklu życia.md"
     }
   ],
   "omittedPaths": [],
