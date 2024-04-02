@@ -5,6 +5,10 @@
       "path": "_ Mobile/Android/the complete Android Kotlin/12.4 WebView.md"
     },
     {
+      "basename": "12.1 Recycler View",
+      "path": "_ Mobile/Android/the complete Android Kotlin/12.1 Recycler View.md"
+    },
+    {
       "basename": "12.2 GridView",
       "path": "_ Mobile/Android/the complete Android Kotlin/12.2 GridView.md"
     },
@@ -183,10 +187,6 @@
     {
       "basename": "0. Testowanie jednostkowe i integracyjne",
       "path": "Testowanie/CSharp Testy jednostkowe i integracyjne/0. Testowanie jednostkowe i integracyjne.md"
-    },
-    {
-      "basename": "12.1 Recycler View",
-      "path": "_ Mobile/Android/the complete Android Kotlin/12.1 Recycler View.md"
     },
     {
       "basename": "_ 0 React Full",
