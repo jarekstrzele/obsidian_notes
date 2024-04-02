@@ -61,14 +61,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/12.2 GridView.md",
+                "file": "_ Mobile/Android/the complete Android Kotlin/12.3 Scroll View.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fec4fcf22a3d16c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_ Mobile/Android/the complete Android Kotlin/12.3 Scroll View.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -97,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "route",
+                "query": "tag:#kotlin/scrollview",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -150,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/12.2 GridView.md",
+                "file": "_ Mobile/Android/the complete Android Kotlin/12.3 Scroll View.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/12.2 GridView.md",
+                "file": "_ Mobile/Android/the complete Android Kotlin/12.3 Scroll View.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/12.2 GridView.md"
+                "file": "_ Mobile/Android/the complete Android Kotlin/12.3 Scroll View.md"
               }
             }
           },
@@ -241,8 +253,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "eb34749eb0ccda93",
+  "active": "fec4fcf22a3d16c6",
   "lastOpenFiles": [
+    "_ Mobile/Android/the complete Android Kotlin/12.2 GridView.md",
+    "_ Mobile/Android/the complete Android Kotlin/12.3 Scroll View.md",
     "_ Mobile/Android/the complete Android Kotlin/10.9 Top App Bar.md",
     "_ Mobile/Android/the complete Android Kotlin/4 Loops in Kotlin.md",
     "_ Mobile/Android/the complete Android Kotlin/_ the complete Android Kotlin.md",
@@ -268,8 +282,6 @@
     "_ Mobile/Android/the complete Android 14 and Kotlin/5.1. Converter App.md",
     "_ WEB/REACT/React18+TypeScript/_ 0 React 18 Utlimate , TypeScript.md",
     "_ WEB/REACT/React 18 Tutorial and Projects Course 2023/_ The React 18 Tutorial (2023).md",
-    "_ Desktop/WPF/Rusz Głową C Sharp/_ Rusz Głową C Sharp.md",
-    "_ Desktop/WPF/Fast WFP  C Sharp/2 Controls WPF.md",
     "_ WEB/REACT/React18+TypeScript",
     "Testowanie/CSharp Testy jednostkowe i integracyjne",
     "methodology/images/bar_matplotlib.png",
