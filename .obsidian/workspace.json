@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/12.2 GridView.md",
+                "file": "_ Mobile/Android/the complete Android Kotlin/12.4 WebView.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/12.2 GridView.md",
+                "file": "_ Mobile/Android/the complete Android Kotlin/12.4 WebView.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/12.2 GridView.md",
+                "file": "_ Mobile/Android/the complete Android Kotlin/12.4 WebView.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/12.2 GridView.md"
+                "file": "_ Mobile/Android/the complete Android Kotlin/12.4 WebView.md"
               }
             }
           },
@@ -255,9 +255,9 @@
   },
   "active": "fec4fcf22a3d16c6",
   "lastOpenFiles": [
+    "_ Mobile/Android/the complete Android Kotlin/12.2 GridView.md",
     "_ Mobile/Android/the complete Android Kotlin/12.4 WebView.md",
     "_ Mobile/Android/the complete Android Kotlin/12.3 Scroll View.md",
-    "_ Mobile/Android/the complete Android Kotlin/12.2 GridView.md",
     "_ Mobile/Android/the complete Android Kotlin/10.9 Top App Bar.md",
     "_ Mobile/Android/the complete Android Kotlin/4 Loops in Kotlin.md",
     "_ Mobile/Android/the complete Android Kotlin/_ the complete Android Kotlin.md",
