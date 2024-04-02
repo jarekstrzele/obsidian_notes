@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "12.4 WebView",
-      "path": "_ Mobile/Android/the complete Android Kotlin/12.4 WebView.md"
+      "basename": "13.  Intent and Lifecycles",
+      "path": "_ Mobile/Android/the complete Android Kotlin/13.  Intent and Lifecycles.md"
+    },
+    {
+      "basename": "12.1.1 Adapter for Recycler",
+      "path": "_ Mobile/Android/the complete Android Kotlin/12.1.1 Adapter for Recycler.md"
     },
     {
       "basename": "12.1 Recycler View",
       "path": "_ Mobile/Android/the complete Android Kotlin/12.1 Recycler View.md"
+    },
+    {
+      "basename": "12.4 WebView",
+      "path": "_ Mobile/Android/the complete Android Kotlin/12.4 WebView.md"
     },
     {
       "basename": "12.2 GridView",
@@ -191,14 +199,6 @@
     {
       "basename": "_ 0 React Full",
       "path": "_ WEB/REACT/React - the Complete Guide/_ 0 React Full.md"
-    },
-    {
-      "basename": "Wyświeltanie info",
-      "path": "_ Desktop/WPF/Wyświeltanie info.md"
-    },
-    {
-      "basename": "4.1. Pierwsza wersja stopera",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4.1. Pierwsza wersja stopera.md"
     }
   ],
   "omittedPaths": [],

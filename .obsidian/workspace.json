@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/12.4 WebView.md",
+                "file": "_ Mobile/Android/the complete Android Kotlin/13.  Intent and Lifecycles.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/12.4 WebView.md",
+                "file": "_ Mobile/Android/the complete Android Kotlin/13.  Intent and Lifecycles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/12.4 WebView.md",
+                "file": "_ Mobile/Android/the complete Android Kotlin/13.  Intent and Lifecycles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/12.4 WebView.md"
+                "file": "_ Mobile/Android/the complete Android Kotlin/13.  Intent and Lifecycles.md"
               }
             }
           },
@@ -255,6 +255,8 @@
   },
   "active": "fec4fcf22a3d16c6",
   "lastOpenFiles": [
+    "_ Mobile/Android/the complete Android Kotlin/12.1.1 Adapter for Recycler.md",
+    "_ Mobile/Android/the complete Android Kotlin/13.  Intent and Lifecycles.md",
     "_ Mobile/Android/the complete Android Kotlin/12.1 Recycler View.md",
     "_ Mobile/Android/the complete Android Kotlin/12.4 WebView.md",
     "_ Mobile/Android/the complete Android Kotlin/12.2 GridView.md",
@@ -280,8 +282,6 @@
     "_ WEB/REACT/React 18 Tutorial and Projects Course 2023/1. React Fundamentals.md",
     "Testowanie/CSharp Testy jednostkowe i integracyjne/1. Utworzenie projektu testowego.md",
     "_ WEB/REACT/React18+TypeScript/1 Building Components - React 18 Utlimate.md",
-    "_ Desktop/WPF/Alien Form.md",
-    "_ Mobile/Android/the complete Android 14 and Kotlin/5.1. Converter App.md",
     "_ WEB/REACT/React18+TypeScript",
     "Testowanie/CSharp Testy jednostkowe i integracyjne",
     "methodology/images/bar_matplotlib.png",
