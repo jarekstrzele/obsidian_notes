@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "ca090c70e716f0de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_ WEB/REACT/React18+TypeScript/2 Styling Components.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a865191958dd6110",
             "type": "leaf",
             "state": {
@@ -54,8 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "464a893da53a28f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/6. State - Unit Converter Part 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -137,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ WEB/REACT/React18+TypeScript/2 Styling Components.md",
+                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/6. State - Unit Converter Part 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ WEB/REACT/React18+TypeScript/2 Styling Components.md",
+                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/6. State - Unit Converter Part 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ WEB/REACT/React18+TypeScript/2 Styling Components.md"
+                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/6. State - Unit Converter Part 2.md"
               }
             }
           },
@@ -228,10 +229,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "47a00471371697d9",
+  "active": "464a893da53a28f7",
   "lastOpenFiles": [
-    "Untitled.md",
+    "_ Mobile/Android/the complete Android 14 and Kotlin/7 Shopping list app.md",
+    "_ Mobile/Android/the complete Android 14 and Kotlin/4. Lists and Objects.md",
+    "_ Mobile/Android/the complete Android 14 and Kotlin/6.1. Some help.md",
+    "_ Mobile/Android/Kurs Android od podstaw/2 Tworzenie widoków.md",
+    "_ Mobile/Android/Kurs Android od podstaw/_ Kurs Android od podstaw.md",
+    "_ Mobile/Android/Android Kurs Tworzenia APlikacji/_ 0 Android Kurs Tworzenia Aplikacji.md",
     "_ WEB/REACT/React18+TypeScript/2 Styling Components.md",
+    "Untitled.md",
     "Studia/nauczPrzedZawoTechnikProgramista/BHP.md",
     "Studia/nauczPrzedZawoTechnikProgramista",
     "_ WEB/REACT/React 18 Tutorial and Projects Course 2023/1. React Fundamentals.md",
@@ -251,12 +258,6 @@
     "_ Desktop/WPF/od Podstaw do app w WPF/9.1. RadioButton, GroupBox, Label.md",
     "_ Desktop/WPF/od Podstaw do app w WPF/9 WPF układy komponentów.md",
     "_ Mobile/Android/8.4 EditTexts.md",
-    "_ Mobile/Android/the complete Android 14 and Kotlin/7 Shopping list app.md",
-    "_ Mobile/Android/the complete Android 14 and Kotlin/6.1. Some help.md",
-    "_ Mobile/Android/the complete Android 14 and Kotlin/6.0. The code Unit Converter app.md",
-    "_ Mobile/Android/the complete Android 14 and Kotlin/6. State - Unit Converter Part 2.md",
-    "_ Mobile/Android/Funkcje lambda.md",
-    "_ Mobile/Android/the complete Android 14 and Kotlin/3. Functions, Objects and Coffee Machine.md",
     "_ WEB/REACT/React18+TypeScript",
     "Testowanie/CSharp Testy jednostkowe i integracyjne",
     "methodology/images/bar_matplotlib.png",
