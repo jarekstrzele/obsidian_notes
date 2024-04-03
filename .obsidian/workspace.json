@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/6. State - Unit Converter Part 2.md",
+                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/6.1. Some help.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,19 +78,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "52fbe04b69863cdd",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.12"
-              }
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -172,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/13.  Intent and Lifecycles.md",
+                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/6.1. Some help.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/13.  Intent and Lifecycles.md",
+                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/6.1. Some help.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/13.  Intent and Lifecycles.md"
+                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/6.1. Some help.md"
               }
             }
           },
@@ -263,14 +253,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "52fbe04b69863cdd",
+  "active": "464a893da53a28f7",
   "lastOpenFiles": [
-    "_ Mobile/Android/the complete Android Kotlin/12.1.1 Adapter for Recycler.md",
+    "_ Mobile/Android/the complete Android 14 and Kotlin/5.1. Converter App.md",
+    "_ Mobile/Android/the complete Android 14 and Kotlin/6. State - Unit Converter Part 2.md",
+    "_ Mobile/Android/the complete Android Kotlin/12.3 Scroll View.md",
     "_ Mobile/Android/the complete Android Kotlin/13.  Intent and Lifecycles.md",
+    "_ Mobile/Android/the complete Android Kotlin/12.1.1 Adapter for Recycler.md",
     "_ Mobile/Android/the complete Android Kotlin/12.1 Recycler View.md",
     "_ Mobile/Android/the complete Android Kotlin/12.4 WebView.md",
     "_ Mobile/Android/the complete Android Kotlin/12.2 GridView.md",
-    "_ Mobile/Android/the complete Android Kotlin/12.3 Scroll View.md",
     "_ Mobile/Android/the complete Android Kotlin/10.9 Top App Bar.md",
     "_ Mobile/Android/the complete Android Kotlin/4 Loops in Kotlin.md",
     "_ Mobile/Android/the complete Android Kotlin/_ the complete Android Kotlin.md",
@@ -278,7 +270,6 @@
     "_ Mobile/Kotlin/Fundamenty Kotlina.md",
     "_ Mobile/Kotlin/Wyrażenia regularne.md",
     "_ Mobile/Kotlin/wyrażenia regularne zadania.md",
-    "_ Mobile/Android/the complete Android 14 and Kotlin/6. State - Unit Converter Part 2.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/7 Shopping list app.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/4. Lists and Objects.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/6.1. Some help.md",
@@ -291,7 +282,6 @@
     "Studia/nauczPrzedZawoTechnikProgramista",
     "_ WEB/REACT/React 18 Tutorial and Projects Course 2023/1. React Fundamentals.md",
     "Testowanie/CSharp Testy jednostkowe i integracyjne/1. Utworzenie projektu testowego.md",
-    "_ WEB/REACT/React18+TypeScript/1 Building Components - React 18 Utlimate.md",
     "_ WEB/REACT/React18+TypeScript",
     "Testowanie/CSharp Testy jednostkowe i integracyjne",
     "methodology/images/bar_matplotlib.png",
