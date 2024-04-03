@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "6.1. Some help",
-      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/6.1. Some help.md"
-    },
-    {
       "basename": "5.1. Converter App",
       "path": "_ Mobile/Android/the complete Android 14 and Kotlin/5.1. Converter App.md"
     },
     {
       "basename": "6. State - Unit Converter Part 2",
       "path": "_ Mobile/Android/the complete Android 14 and Kotlin/6. State - Unit Converter Part 2.md"
+    },
+    {
+      "basename": "6.0. The code Unit Converter app",
+      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/6.0. The code Unit Converter app.md"
+    },
+    {
+      "basename": "6.1. Some help CaptainGame",
+      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/6.1. Some help CaptainGame.md"
     },
     {
       "basename": "12.3 Scroll View",
@@ -155,10 +159,6 @@
     {
       "basename": "8.4 EditTexts",
       "path": "_ Mobile/Android/8.4 EditTexts.md"
-    },
-    {
-      "basename": "6.0. The code Unit Converter app",
-      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/6.0. The code Unit Converter app.md"
     },
     {
       "basename": "Funkcje lambda",

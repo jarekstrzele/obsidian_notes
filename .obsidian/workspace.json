@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/6.1. Some help.md",
+                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/5.1. Converter App.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/6.1. Some help.md",
+                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/5.1. Converter App.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/6.1. Some help.md",
+                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/5.1. Converter App.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/6.1. Some help.md"
+                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/5.1. Converter App.md"
               }
             }
           },
@@ -255,8 +255,10 @@
   },
   "active": "464a893da53a28f7",
   "lastOpenFiles": [
-    "_ Mobile/Android/the complete Android 14 and Kotlin/5.1. Converter App.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/6. State - Unit Converter Part 2.md",
+    "_ Mobile/Android/the complete Android 14 and Kotlin/6.0. The code Unit Converter app.md",
+    "_ Mobile/Android/the complete Android 14 and Kotlin/6.1. Some help CaptainGame.md",
+    "_ Mobile/Android/the complete Android 14 and Kotlin/5.1. Converter App.md",
     "_ Mobile/Android/the complete Android Kotlin/12.3 Scroll View.md",
     "_ Mobile/Android/the complete Android Kotlin/13.  Intent and Lifecycles.md",
     "_ Mobile/Android/the complete Android Kotlin/12.1.1 Adapter for Recycler.md",
@@ -272,7 +274,6 @@
     "_ Mobile/Kotlin/wyrażenia regularne zadania.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/7 Shopping list app.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/4. Lists and Objects.md",
-    "_ Mobile/Android/the complete Android 14 and Kotlin/6.1. Some help.md",
     "_ Mobile/Android/Kurs Android od podstaw/2 Tworzenie widoków.md",
     "_ Mobile/Android/Kurs Android od podstaw/_ Kurs Android od podstaw.md",
     "_ Mobile/Android/Android Kurs Tworzenia APlikacji/_ 0 Android Kurs Tworzenia Aplikacji.md",
@@ -281,7 +282,6 @@
     "Studia/nauczPrzedZawoTechnikProgramista/BHP.md",
     "Studia/nauczPrzedZawoTechnikProgramista",
     "_ WEB/REACT/React 18 Tutorial and Projects Course 2023/1. React Fundamentals.md",
-    "Testowanie/CSharp Testy jednostkowe i integracyjne/1. Utworzenie projektu testowego.md",
     "_ WEB/REACT/React18+TypeScript",
     "Testowanie/CSharp Testy jednostkowe i integracyjne",
     "methodology/images/bar_matplotlib.png",
