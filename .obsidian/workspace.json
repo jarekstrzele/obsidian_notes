@@ -78,9 +78,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "52fbe04b69863cdd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -253,7 +263,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fec4fcf22a3d16c6",
+  "active": "52fbe04b69863cdd",
   "lastOpenFiles": [
     "_ Mobile/Android/the complete Android Kotlin/12.1.1 Adapter for Recycler.md",
     "_ Mobile/Android/the complete Android Kotlin/13.  Intent and Lifecycles.md",
