@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Desktop/WPF/Alien Form.md",
+                "file": "_ Desktop/WPF/Wyświeltanie info.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Desktop/WPF/Alien Form.md",
+                "file": "_ Desktop/WPF/Wyświeltanie info.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Desktop/WPF/Alien Form.md",
+                "file": "_ Desktop/WPF/Wyświeltanie info.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Desktop/WPF/Alien Form.md"
+                "file": "_ Desktop/WPF/Wyświeltanie info.md"
               }
             }
           },
@@ -255,6 +255,7 @@
   },
   "active": "464a893da53a28f7",
   "lastOpenFiles": [
+    "_ Desktop/WPF/Alien Form.md",
     "_ Desktop/WPF/The WPF Guide for beginners/13 WPF.md",
     "_ Desktop/WPF/The WPF Guide for beginners/_ The Windows Presentation Foundation WPF Giode for beginners.md",
     "_ Desktop/WPF/Rusz Głową C Sharp/_ Rusz Głową C Sharp.md",
@@ -265,7 +266,6 @@
     "_ Desktop/WPF/od Podstaw do app w WPF/9 WPF układy komponentów.md",
     "_ Desktop/WPF/od Podstaw do app w WPF/8 Aplikacje WPF.md",
     "_ Desktop/WPF/Wyświeltanie info.md",
-    "_ Desktop/WPF/Alien Form.md",
     "_ Desktop/WPF/Fast WFP  C Sharp/1 Grid.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/5.1. Converter App.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/6. State - Unit Converter Part 2.md",
