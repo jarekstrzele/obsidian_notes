@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "9 WPF układy komponentów",
-      "path": "_ Desktop/WPF/od Podstaw do app w WPF/9 WPF układy komponentów.md"
-    },
-    {
-      "basename": "8 Aplikacje WPF",
-      "path": "_ Desktop/WPF/od Podstaw do app w WPF/8 Aplikacje WPF.md"
-    },
-    {
       "basename": "Alien Form",
       "path": "_ Desktop/WPF/Alien Form.md"
+    },
+    {
+      "basename": "13 WPF",
+      "path": "_ Desktop/WPF/The WPF Guide for beginners/13 WPF.md"
+    },
+    {
+      "basename": "_ The Windows Presentation Foundation WPF Giode for beginners",
+      "path": "_ Desktop/WPF/The WPF Guide for beginners/_ The Windows Presentation Foundation WPF Giode for beginners.md"
+    },
+    {
+      "basename": "_ Rusz Głową C Sharp",
+      "path": "_ Desktop/WPF/Rusz Głową C Sharp/_ Rusz Głową C Sharp.md"
+    },
+    {
+      "basename": "10 WPF - zaawansowane",
+      "path": "_ Desktop/WPF/od Podstaw do app w WPF/10 WPF - zaawansowane.md"
     },
     {
       "basename": "9.1. RadioButton, GroupBox, Label",
@@ -21,8 +29,20 @@
       "path": "_ Desktop/WPF/Fast WFP  C Sharp/2 Controls WPF.md"
     },
     {
-      "basename": "10 WPF - zaawansowane",
-      "path": "_ Desktop/WPF/od Podstaw do app w WPF/10 WPF - zaawansowane.md"
+      "basename": "10.1 Binding",
+      "path": "_ Desktop/WPF/od Podstaw do app w WPF/10.1 Binding.md"
+    },
+    {
+      "basename": "9 WPF układy komponentów",
+      "path": "_ Desktop/WPF/od Podstaw do app w WPF/9 WPF układy komponentów.md"
+    },
+    {
+      "basename": "8 Aplikacje WPF",
+      "path": "_ Desktop/WPF/od Podstaw do app w WPF/8 Aplikacje WPF.md"
+    },
+    {
+      "basename": "Wyświeltanie info",
+      "path": "_ Desktop/WPF/Wyświeltanie info.md"
     },
     {
       "basename": "1 Grid",
@@ -145,10 +165,6 @@
       "path": "_ WEB/REACT/React 18 Tutorial and Projects Course 2023/_ The React 18 Tutorial (2023).md"
     },
     {
-      "basename": "_ Rusz Głową C Sharp",
-      "path": "_ Desktop/WPF/Rusz Głową C Sharp/_ Rusz Głową C Sharp.md"
-    },
-    {
       "basename": "_ Fast WFP C Sharp",
       "path": "_ Desktop/WPF/Fast WFP  C Sharp/_ Fast WFP C Sharp.md"
     },
@@ -177,28 +193,12 @@
       "path": "_ Mobile/Android/DatePicker Dialog.md"
     },
     {
-      "basename": "10.1 Binding",
-      "path": "_ Desktop/WPF/od Podstaw do app w WPF/10.1 Binding.md"
-    },
-    {
       "basename": "12 ListView",
       "path": "_ Mobile/Android/the complete Android Kotlin/12 ListView.md"
     },
     {
       "basename": "LINQ",
       "path": "C Sharp/LINQ.md"
-    },
-    {
-      "basename": "3. Testy jednostkowe",
-      "path": "Testowanie/CSharp Testy jednostkowe i integracyjne/3. Testy jednostkowe.md"
-    },
-    {
-      "basename": "0. Testowanie jednostkowe i integracyjne",
-      "path": "Testowanie/CSharp Testy jednostkowe i integracyjne/0. Testowanie jednostkowe i integracyjne.md"
-    },
-    {
-      "basename": "_ 0 React Full",
-      "path": "_ WEB/REACT/React - the Complete Guide/_ 0 React Full.md"
     }
   ],
   "omittedPaths": [],
