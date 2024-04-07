@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ WEB/REACT/React18+TypeScript/2 Styling Components.md",
+                "file": "_ Mobile/Kotlin/Kotlin bez tajemnic/3.1. Fragments.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aa3f77079c7fac1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_ Desktop/AvaloniaUI/Ubuntu instalacja.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ca090c70e716f0de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_ Desktop/WPF/Rusz Głową C Sharp/_ Rusz Głową C Sharp.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/5.1. Converter App.md",
+                "file": "linux/UBUNTU.md",
                 "mode": "source",
                 "source": false
               }
@@ -42,45 +66,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "464a893da53a28f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_ Desktop/WPF/Alien Form.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eb34749eb0ccda93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/12.3 Scroll View.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fec4fcf22a3d16c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/13.  Intent and Lifecycles.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#kotlin/scrollview",
+                "query": "route",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 332.5
   },
   "right": {
     "id": "7036b4a7a06b882e",
@@ -162,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Desktop/WPF/Alien Form.md",
+                "file": "_ Desktop/AvaloniaUI/Ubuntu instalacja.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Desktop/WPF/Alien Form.md",
+                "file": "_ Desktop/AvaloniaUI/Ubuntu instalacja.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Desktop/WPF/Alien Form.md"
+                "file": "_ Desktop/AvaloniaUI/Ubuntu instalacja.md"
               }
             }
           },
@@ -253,35 +241,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "464a893da53a28f7",
+  "active": "aa3f77079c7fac1a",
   "lastOpenFiles": [
-    "_ Desktop/WPF/Wyświeltanie info.md",
-    "_ Desktop/WPF/Alien Form.md",
-    "_ Desktop/WPF/The WPF Guide for beginners/13 WPF.md",
-    "_ Desktop/WPF/The WPF Guide for beginners/_ The Windows Presentation Foundation WPF Giode for beginners.md",
-    "_ Desktop/WPF/Rusz Głową C Sharp/_ Rusz Głową C Sharp.md",
-    "_ Desktop/WPF/od Podstaw do app w WPF/10 WPF - zaawansowane.md",
-    "_ Desktop/WPF/od Podstaw do app w WPF/9.1. RadioButton, GroupBox, Label.md",
-    "_ Desktop/WPF/Fast WFP  C Sharp/2 Controls WPF.md",
-    "_ Desktop/WPF/od Podstaw do app w WPF/10.1 Binding.md",
-    "_ Desktop/WPF/od Podstaw do app w WPF/9 WPF układy komponentów.md",
-    "_ Desktop/WPF/od Podstaw do app w WPF/8 Aplikacje WPF.md",
-    "_ Desktop/WPF/Fast WFP  C Sharp/1 Grid.md",
-    "_ Mobile/Android/the complete Android 14 and Kotlin/5.1. Converter App.md",
-    "_ Mobile/Android/the complete Android 14 and Kotlin/6. State - Unit Converter Part 2.md",
-    "_ Mobile/Android/the complete Android 14 and Kotlin/6.0. The code Unit Converter app.md",
-    "_ Mobile/Android/the complete Android 14 and Kotlin/6.1. Some help CaptainGame.md",
-    "_ Mobile/Android/the complete Android Kotlin/12.3 Scroll View.md",
+    "Studia/nauczPrzedZawoTechnikProgramista/BHP.md",
+    "_ Desktop/AvaloniaUI/Ubuntu instalacja.md",
+    "_ Desktop/AvaloniaUI",
     "_ Mobile/Android/the complete Android Kotlin/13.  Intent and Lifecycles.md",
-    "_ Mobile/Android/the complete Android Kotlin/12.1.1 Adapter for Recycler.md",
-    "_ Mobile/Android/the complete Android Kotlin/12.1 Recycler View.md",
     "_ Mobile/Android/the complete Android Kotlin/12.4 WebView.md",
-    "_ Mobile/Android/the complete Android Kotlin/12.2 GridView.md",
-    "_ Mobile/Android/the complete Android Kotlin/10.9 Top App Bar.md",
-    "_ Mobile/Android/the complete Android Kotlin/4 Loops in Kotlin.md",
-    "_ Mobile/Android/the complete Android Kotlin/_ the complete Android Kotlin.md",
-    "_ Mobile/Kotlin/Kotlin bez tajemnic/_ Kotlin bez tajemnic.md",
+    "_ Mobile/Android/the complete Android Kotlin/12.3 Scroll View.md",
+    "_ Mobile/Android/the complete Android Kotlin/12.1.1 Adapter for Recycler.md",
+    "_ Mobile/Android/the complete Android 14 and Kotlin/6.1. Some help CaptainGame.md",
+    "Untitled.md",
+    "conflict-files-obsidian-git.md",
     "Studia/nauczPrzedZawoTechnikProgramista",
+    "_ Mobile/Kotlin/Kotlin bez tajemnic/3.1. Fragments.md",
+    "_ WEB/REACT/React18+TypeScript/2 Styling Components.md",
+    "_ Desktop/WPF/Rusz Głową C Sharp/_ Rusz Głową C Sharp.md",
+    "linux/UBUNTU.md",
+    "_ Desktop/WPF/Alien Form.md",
+    "_ Mobile/Kotlin/Kotlin bez tajemnic/3.3. View Binding.md",
+    "_ WEB/REACT/React18+TypeScript/1 Building Components - React 18 Utlimate.md",
+    "_ Mobile/Kotlin/Kotlin bez tajemnic/3.2. View Models.md",
+    "_ Mobile/Android/the complete Android 14 and Kotlin/5.1. Converter App.md",
+    "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md",
+    "Testowanie/CSharp Testy jednostkowe i integracyjne/1. Utworzenie projektu testowego.md",
+    "_ Desktop/WPF/Fast WFP  C Sharp/2 Controls WPF.md",
+    "_ Desktop/WPF/Fast WFP  C Sharp/1 Grid.md",
+    "_ Desktop/WPF/Fast WFP  C Sharp/_ Fast WFP C Sharp.md",
+    "_ Desktop/WPF/CSharp WPF xaml youtube/_ WPF.md",
+    "_ Desktop/WPF/od Podstaw do app w WPF/8 Aplikacje WPF.md",
+    "_ Desktop/WPF/od Podstaw do app w WPF/10 WPF - zaawansowane.md",
     "_ WEB/REACT/React18+TypeScript",
     "Testowanie/CSharp Testy jednostkowe i integracyjne",
     "methodology/images/bar_matplotlib.png",
@@ -296,7 +285,6 @@
     "Pasted image 20240131102422.png",
     "Pasted image 20240131091457.png",
     "R U S T/Rust lang - The complete beginner's guide",
-    "HASKELL/Haskell for beginners Udemy",
     "Pasted image 20240115122731.png",
     "Pasted image 20240115085344.png",
     "Pasted image 20240115085044.png",
