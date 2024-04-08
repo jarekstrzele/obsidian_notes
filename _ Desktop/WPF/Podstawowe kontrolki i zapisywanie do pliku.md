@@ -114,18 +114,6 @@ private void RadioButton_Checked(object sender, RoutedEventArgs e)
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 ### 5. ComboBox (Lista rozwijana)
 
 Umożliwia wybór jednej opcji z rozwijanej listy.
