@@ -248,6 +248,20 @@ public void SaveDataToJsonFile(FormData data, string filePath)
 
 ### cvs
 
+```c#
+public void SaveDataToCsvFile(FormData data, string filePath)
+{
+    string csvLine = $"{data.Name},{data.Email}";
+    // Dodaj nagłówek, jeśli plik jest tworzony od nowa
+    // string header = "Name,Email";
+    // File.WriteAllText(filePath, header + Environment.NewLine + csvLine);
+    File.AppendAllText(filePath, csvLine + Environment.NewLine);
+}
+
+```
+
+
+
 
 
 
