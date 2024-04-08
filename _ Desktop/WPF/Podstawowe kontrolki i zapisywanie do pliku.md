@@ -45,15 +45,12 @@ xamlCopy code
 
 Obsługa w C# (sprawdzanie stanu):
 
-csharpCopy code
 
 `bool isChecked = checkBoxExample.IsChecked ?? false;`
 
 ### 4. RadioButton (Przycisk opcji)
 
 Umożliwia wybór jednej opcji z grupy.
-
-xamlCopy code
 
 ```xml
 <RadioButton Name="radioButton1" Content="Opcja 1" GroupName="Group1" Margin="10"/> 
