@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Desktop/WPF/Podstawowe kontrolki.md",
+                "file": "_ Desktop/WPF/Alien Form.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Desktop/WPF/Podstawowe kontrolki.md",
+                "file": "_ Desktop/WPF/Alien Form.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Desktop/WPF/Podstawowe kontrolki.md"
+                "file": "_ Desktop/WPF/Alien Form.md"
               }
             }
           },
@@ -253,10 +253,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a865191958dd6110",
+  "active": "85f199c1b69bb2b3",
   "lastOpenFiles": [
-    "_ Mobile/Android/the complete Android 14 and Kotlin/6.1. Some help CaptainGame.md",
     "_ Desktop/WPF/Podstawowe kontrolki.md",
+    "_ Mobile/Android/the complete Android 14 and Kotlin/6.1. Some help CaptainGame.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/6. State - Unit Converter Part 2.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/6.0. The code Unit Converter app.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/5.1. Converter App.md",

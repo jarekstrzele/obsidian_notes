@@ -88,6 +88,40 @@ private void RadioButton_Checked(object sender, RoutedEventArgs e)
 
 ```
 
+### przez użycie `Tag`
+```xml
+<RadioButton Name="radioButton1" Content="Opcja 1" Tag="1" GroupName="Group1" Checked="RadioButton_Checked" />
+<RadioButton Name="radioButton2" Content="Opcja 2" Tag="2" GroupName="Group1" Checked="RadioButton_Checked" />
+
+```
+
+```c#
+private void RadioButton_Checked(object sender, RoutedEventArgs e)
+{
+    var radioButton = sender as RadioButton;
+    if (radioButton != null)
+    {
+        string tagValue = radioButton.Tag.ToString();
+        // Wykonaj działanie w zależności od wartości Tag
+        MessageBox.Show($"Wybrano opcję o tagu: {tagValue}");
+    }
+}
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ### 5. ComboBox (Lista rozwijana)
