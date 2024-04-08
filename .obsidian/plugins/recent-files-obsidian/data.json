@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Podstawowe kontrolki",
+      "path": "_ Desktop/WPF/Podstawowe kontrolki.md"
+    },
+    {
       "basename": "6.1. Some help CaptainGame",
       "path": "_ Mobile/Android/the complete Android 14 and Kotlin/6.1. Some help CaptainGame.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "12 ListView",
       "path": "_ Mobile/Android/the complete Android Kotlin/12 ListView.md"
-    },
-    {
-      "basename": "LINQ",
-      "path": "C Sharp/LINQ.md"
     }
   ],
   "omittedPaths": [],
