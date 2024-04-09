@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "7 Klasy danych",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/7 Klasy danych.md"
+    },
+    {
+      "basename": "7.1. Klasa danych `data class`",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/7.1. Klasa danych `data class`.md"
+    },
+    {
+      "basename": "Dodatek B. Testowanie",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/Dodatek B. Testowanie.md"
+    },
+    {
+      "basename": "Dodatek A. Koprocedury",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/Dodatek A. Koprocedury.md"
+    },
+    {
+      "basename": "12 Wbudowane funkcje wyższego rzędu",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/12 Wbudowane funkcje wyższego rzędu.md"
+    },
+    {
+      "basename": "11. Lambda i funkcje wyższego rzędu",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/11. Lambda i funkcje wyższego rzędu.md"
+    },
+    {
+      "basename": "8.1. Wyjątki",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/8.1. Wyjątki.md"
+    },
+    {
+      "basename": "9. Kolekcje",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/9. Kolekcje.md"
+    },
+    {
+      "basename": "6.2. Interfejsy",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/6.2. Interfejsy.md"
+    },
+    {
       "basename": "3 Podstawy tworzenia aplikacji",
       "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md"
     },
@@ -163,42 +199,6 @@
     {
       "basename": "1 Building Components - React 18 Utlimate",
       "path": "_ WEB/REACT/React18+TypeScript/1 Building Components - React 18 Utlimate.md"
-    },
-    {
-      "basename": "_ 0 React 18 Utlimate , TypeScript",
-      "path": "_ WEB/REACT/React18+TypeScript/_ 0 React 18 Utlimate , TypeScript.md"
-    },
-    {
-      "basename": "_ The React 18 Tutorial (2023)",
-      "path": "_ WEB/REACT/React 18 Tutorial and Projects Course 2023/_ The React 18 Tutorial (2023).md"
-    },
-    {
-      "basename": "_ Fast WFP C Sharp",
-      "path": "_ Desktop/WPF/Fast WFP  C Sharp/_ Fast WFP C Sharp.md"
-    },
-    {
-      "basename": "_ WPF",
-      "path": "_ Desktop/WPF/CSharp WPF xaml youtube/_ WPF.md"
-    },
-    {
-      "basename": "8.4 EditTexts",
-      "path": "_ Mobile/Android/8.4 EditTexts.md"
-    },
-    {
-      "basename": "Funkcje lambda",
-      "path": "_ Mobile/Android/Funkcje lambda.md"
-    },
-    {
-      "basename": "3. Functions, Objects and Coffee Machine",
-      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/3. Functions, Objects and Coffee Machine.md"
-    },
-    {
-      "basename": "5. First Android App - Unit Converter Part 1",
-      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/5. First Android App - Unit Converter Part 1.md"
-    },
-    {
-      "basename": "DatePicker Dialog",
-      "path": "_ Mobile/Android/DatePicker Dialog.md"
     }
   ],
   "omittedPaths": [],

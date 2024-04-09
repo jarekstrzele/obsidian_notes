@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Desktop/WPF/Podstawowe kontrolki i zapisywanie do pliku.md",
+                "file": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/7 Klasy danych.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Desktop/WPF/Podstawowe kontrolki i zapisywanie do pliku.md",
+                "file": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/7 Klasy danych.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Desktop/WPF/Podstawowe kontrolki i zapisywanie do pliku.md",
+                "file": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/7 Klasy danych.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Desktop/WPF/Podstawowe kontrolki i zapisywanie do pliku.md"
+                "file": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/7 Klasy danych.md"
               }
             }
           },
@@ -255,8 +255,17 @@
   },
   "active": "a865191958dd6110",
   "lastOpenFiles": [
-    "_ Desktop/WPF/Alien Form.md",
+    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/7.1. Klasa danych `data class`.md",
+    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/Dodatek B. Testowanie.md",
+    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/Dodatek A. Koprocedury.md",
+    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/12 Wbudowane funkcje wyższego rzędu.md",
+    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/11. Lambda i funkcje wyższego rzędu.md",
+    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/8.1. Wyjątki.md",
+    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/9. Kolekcje.md",
+    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/6.2. Interfejsy.md",
+    "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md",
     "_ Desktop/WPF/Podstawowe kontrolki i zapisywanie do pliku.md",
+    "_ Desktop/WPF/Alien Form.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/6.1. Some help CaptainGame.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/6. State - Unit Converter Part 2.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/6.0. The code Unit Converter app.md",
@@ -273,15 +282,6 @@
     "_ Desktop/WPF/od Podstaw do app w WPF/10.1 Binding.md",
     "_ Desktop/WPF/od Podstaw do app w WPF/9 WPF układy komponentów.md",
     "_ Desktop/WPF/od Podstaw do app w WPF/8 Aplikacje WPF.md",
-    "_ Desktop/WPF/Fast WFP  C Sharp/1 Grid.md",
-    "_ Mobile/Android/the complete Android Kotlin/12.3 Scroll View.md",
-    "_ Mobile/Android/the complete Android Kotlin/13.  Intent and Lifecycles.md",
-    "_ Mobile/Android/the complete Android Kotlin/12.1.1 Adapter for Recycler.md",
-    "_ Mobile/Android/the complete Android Kotlin/12.1 Recycler View.md",
-    "_ Mobile/Android/the complete Android Kotlin/12.4 WebView.md",
-    "_ Mobile/Android/the complete Android Kotlin/12.2 GridView.md",
-    "_ Mobile/Android/the complete Android Kotlin/10.9 Top App Bar.md",
-    "_ Mobile/Android/the complete Android Kotlin/4 Loops in Kotlin.md",
     "Studia/nauczPrzedZawoTechnikProgramista",
     "_ WEB/REACT/React18+TypeScript",
     "Testowanie/CSharp Testy jednostkowe i integracyjne",
