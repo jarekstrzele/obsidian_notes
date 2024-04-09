@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "3 Podstawy tworzenia aplikacji",
+      "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md"
+    },
+    {
       "basename": "Podstawowe kontrolki i zapisywanie do pliku",
       "path": "_ Desktop/WPF/Podstawowe kontrolki i zapisywanie do pliku.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "DatePicker Dialog",
       "path": "_ Mobile/Android/DatePicker Dialog.md"
-    },
-    {
-      "basename": "12 ListView",
-      "path": "_ Mobile/Android/the complete Android Kotlin/12 ListView.md"
     }
   ],
   "omittedPaths": [],
