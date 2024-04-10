@@ -5,6 +5,10 @@
       "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/7 Klasy danych.md"
     },
     {
+      "basename": "Alien Form",
+      "path": "_ Desktop/WPF/Alien Form.md"
+    },
+    {
       "basename": "7.1. Klasa danych `data class`",
       "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/7.1. Klasa danych `data class`.md"
     },
@@ -43,10 +47,6 @@
     {
       "basename": "Podstawowe kontrolki i zapisywanie do pliku",
       "path": "_ Desktop/WPF/Podstawowe kontrolki i zapisywanie do pliku.md"
-    },
-    {
-      "basename": "Alien Form",
-      "path": "_ Desktop/WPF/Alien Form.md"
     },
     {
       "basename": "6.1. Some help CaptainGame",

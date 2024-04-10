@@ -30,54 +30,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "85f199c1b69bb2b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_ Desktop/WPF/Alien Form.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "464a893da53a28f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_ Desktop/WPF/Alien Form.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eb34749eb0ccda93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/12.3 Scroll View.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fec4fcf22a3d16c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/13.  Intent and Lifecycles.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 1
@@ -255,6 +207,8 @@
   },
   "active": "a865191958dd6110",
   "lastOpenFiles": [
+    "_ Desktop/WPF/Alien Form.md",
+    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/7 Klasy danych.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/7.1. Klasa danych `data class`.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/Dodatek B. Testowanie.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/Dodatek A. Koprocedury.md",
@@ -265,7 +219,6 @@
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/6.2. Interfejsy.md",
     "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md",
     "_ Desktop/WPF/Podstawowe kontrolki i zapisywanie do pliku.md",
-    "_ Desktop/WPF/Alien Form.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/6.1. Some help CaptainGame.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/6. State - Unit Converter Part 2.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/6.0. The code Unit Converter app.md",
@@ -281,7 +234,6 @@
     "_ Desktop/WPF/Fast WFP  C Sharp/2 Controls WPF.md",
     "_ Desktop/WPF/od Podstaw do app w WPF/10.1 Binding.md",
     "_ Desktop/WPF/od Podstaw do app w WPF/9 WPF układy komponentów.md",
-    "_ Desktop/WPF/od Podstaw do app w WPF/8 Aplikacje WPF.md",
     "Studia/nauczPrzedZawoTechnikProgramista",
     "_ WEB/REACT/React18+TypeScript",
     "Testowanie/CSharp Testy jednostkowe i integracyjne",
