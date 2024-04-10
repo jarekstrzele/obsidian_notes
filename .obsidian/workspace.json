@@ -13,13 +13,98 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/13.  Intent and Lifecycles.md",
+                "file": "_ Mobile/Android/the complete Android Kotlin/10 Android Components.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1177599b2574bfb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.1 Layouts in Android App.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "90ff715e3f155d47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.2 TextView.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eb84c73b7f2a0f77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.3 Button.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f90959a8330a1a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.5 ImageView.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "afb81e6e74490abf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.6 CheckBox.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f726006cb2c4cdb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.6 RadioButton.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2ad6bbe145063cd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_ Mobile/Android/the complete Android Kotlin/12 Lists and Views/12.4 WebView.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -101,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/13.  Intent and Lifecycles.md",
+                "file": "_ Mobile/Android/the complete Android Kotlin/12 Lists and Views/12.4 WebView.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/13.  Intent and Lifecycles.md",
+                "file": "_ Mobile/Android/the complete Android Kotlin/12 Lists and Views/12.4 WebView.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/13.  Intent and Lifecycles.md"
+                "file": "_ Mobile/Android/the complete Android Kotlin/12 Lists and Views/12.4 WebView.md"
               }
             }
           },
@@ -192,34 +277,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3d3d211d7b8eb595",
+  "active": "04bc47a26b7598a7",
   "lastOpenFiles": [
+    "_ Mobile/Android/the complete Android Kotlin/Untitled",
+    "_ Mobile/Android/the complete Android Kotlin/12 Lists and Views/12.3 Scroll View.md",
+    "_ Mobile/Android/the complete Android Kotlin/12 Lists and Views/12.2 GridView.md",
+    "_ Mobile/Android/the complete Android Kotlin/12 Lists and Views/12.1.1 Adapter for Recycler.md",
+    "_ Mobile/Android/the complete Android Kotlin/12 Lists and Views/12.1 Recycler View.md",
+    "_ Mobile/Android/the complete Android Kotlin/12 Lists and Views/12 ListView.md",
+    "_ Mobile/Android/the complete Android Kotlin/12 Lists and Views.md",
+    "_ Mobile/Android/the complete Android Kotlin/12 Lists and Views/Untitled.md",
+    "_ Mobile/Android/the complete Android Kotlin/_ the complete Android Kotlin.md",
+    "_ Mobile/Android/the complete Android Kotlin/12 Lists and Views/12.4 WebView.md",
+    "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.1 Layouts in Android App.md",
+    "_ Mobile/Android/the complete Android Kotlin/12 Lists and Views",
+    "_ Mobile/Android/the complete Android Kotlin/10 Android Components.md",
+    "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.2 TextView.md",
+    "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.7. Toggle Button.md",
+    "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.6 RadioButton.md",
+    "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.6 CheckBox.md",
+    "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.5 ImageView.md",
+    "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.3 Button.md",
+    "_ Mobile/Android/the complete Android Kotlin/13.2 Activity Life Cycle.md",
+    "_ Mobile/Android/the complete Android Kotlin/10 Android Components",
+    "_ Mobile/Android/the complete Android Kotlin/13 Intent and life cycle.md",
+    "_ Mobile/Android/the complete Android Kotlin/13.2 Application Life Cycle.md",
+    "_ Mobile/Android/the complete Android Kotlin/13.1.   Intent.md",
     "_ Mobile/Android/składnia operowania na klasach.md",
-    "_ Mobile/Android/the complete Android Kotlin/13.  Intent and Lifecycles.md",
-    "_ Mobile/Android/the complete Android Kotlin/12.4 WebView.md",
-    "_ Mobile/Android/the complete Android Kotlin/12.3 Scroll View.md",
-    "_ Mobile/Android/the complete Android Kotlin/12.2 GridView.md",
-    "_ Mobile/Android/the complete Android Kotlin/12.1.1 Adapter for Recycler.md",
-    "_ Mobile/Android/the complete Android Kotlin/12.1 Recycler View.md",
-    "_ Mobile/Android/the complete Android Kotlin/12 ListView.md",
-    "_ Mobile/Android/the complete Android Kotlin/10.9 Top App Bar.md",
+    "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.9 Top App Bar.md",
     "_ WEB/REACT/React18+TypeScript/2 Styling Components.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/7 Klasy danych.md",
-    "_ Desktop/WPF/Alien Form.md",
-    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/7.1. Klasa danych `data class`.md",
-    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/Dodatek B. Testowanie.md",
-    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/Dodatek A. Koprocedury.md",
-    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/12 Wbudowane funkcje wyższego rzędu.md",
-    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/11. Lambda i funkcje wyższego rzędu.md",
-    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/8.1. Wyjątki.md",
-    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/9. Kolekcje.md",
-    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/6.2. Interfejsy.md",
-    "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md",
-    "_ Desktop/WPF/Podstawowe kontrolki i zapisywanie do pliku.md",
-    "_ Mobile/Android/the complete Android 14 and Kotlin/6.1. Some help CaptainGame.md",
-    "_ Mobile/Android/the complete Android 14 and Kotlin/6. State - Unit Converter Part 2.md",
-    "_ Mobile/Android/the complete Android 14 and Kotlin/6.0. The code Unit Converter app.md",
-    "_ Mobile/Android/the complete Android 14 and Kotlin/5.1. Converter App.md",
     "_ Desktop/AvaloniaUI",
     "Studia/nauczPrzedZawoTechnikProgramista",
     "_ WEB/REACT/React18+TypeScript",
@@ -232,10 +319,8 @@
     "_ Desktop/WPF/Rusz Głową C Sharp",
     "_ Mobile/Android/the complete Android 14 and Kotlin/Android 12 XML",
     "Pasted image 20240206220501.png",
-    "C Sharp/Rusz Głową C Sharp",
     "Pasted image 20240131102422.png",
     "Pasted image 20240131091457.png",
-    "R U S T/Rust lang - The complete beginner's guide",
     "Pasted image 20240115122731.png",
     "Pasted image 20240115085344.png",
     "Pasted image 20240115085044.png",
