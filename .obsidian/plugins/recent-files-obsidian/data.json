@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "13.  Intent and Lifecycles",
+      "path": "_ Mobile/Android/the complete Android Kotlin/13.  Intent and Lifecycles.md"
+    },
+    {
+      "basename": "12.4 WebView",
+      "path": "_ Mobile/Android/the complete Android Kotlin/12.4 WebView.md"
+    },
+    {
+      "basename": "12.3 Scroll View",
+      "path": "_ Mobile/Android/the complete Android Kotlin/12.3 Scroll View.md"
+    },
+    {
+      "basename": "12.2 GridView",
+      "path": "_ Mobile/Android/the complete Android Kotlin/12.2 GridView.md"
+    },
+    {
+      "basename": "12.1.1 Adapter for Recycler",
+      "path": "_ Mobile/Android/the complete Android Kotlin/12.1.1 Adapter for Recycler.md"
+    },
+    {
+      "basename": "12.1 Recycler View",
+      "path": "_ Mobile/Android/the complete Android Kotlin/12.1 Recycler View.md"
+    },
+    {
+      "basename": "12 ListView",
+      "path": "_ Mobile/Android/the complete Android Kotlin/12 ListView.md"
+    },
+    {
+      "basename": "10.9 Top App Bar",
+      "path": "_ Mobile/Android/the complete Android Kotlin/10.9 Top App Bar.md"
+    },
+    {
+      "basename": "2 Styling Components",
+      "path": "_ WEB/REACT/React18+TypeScript/2 Styling Components.md"
+    },
+    {
       "basename": "7 Klasy danych",
       "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/7 Klasy danych.md"
     },
@@ -109,34 +145,6 @@
       "path": "_ Desktop/WPF/Fast WFP  C Sharp/1 Grid.md"
     },
     {
-      "basename": "12.3 Scroll View",
-      "path": "_ Mobile/Android/the complete Android Kotlin/12.3 Scroll View.md"
-    },
-    {
-      "basename": "13.  Intent and Lifecycles",
-      "path": "_ Mobile/Android/the complete Android Kotlin/13.  Intent and Lifecycles.md"
-    },
-    {
-      "basename": "12.1.1 Adapter for Recycler",
-      "path": "_ Mobile/Android/the complete Android Kotlin/12.1.1 Adapter for Recycler.md"
-    },
-    {
-      "basename": "12.1 Recycler View",
-      "path": "_ Mobile/Android/the complete Android Kotlin/12.1 Recycler View.md"
-    },
-    {
-      "basename": "12.4 WebView",
-      "path": "_ Mobile/Android/the complete Android Kotlin/12.4 WebView.md"
-    },
-    {
-      "basename": "12.2 GridView",
-      "path": "_ Mobile/Android/the complete Android Kotlin/12.2 GridView.md"
-    },
-    {
-      "basename": "10.9 Top App Bar",
-      "path": "_ Mobile/Android/the complete Android Kotlin/10.9 Top App Bar.md"
-    },
-    {
       "basename": "4 Loops in Kotlin",
       "path": "_ Mobile/Android/the complete Android Kotlin/4 Loops in Kotlin.md"
     },
@@ -181,10 +189,6 @@
       "path": "_ Mobile/Android/Android Kurs Tworzenia APlikacji/_ 0 Android Kurs Tworzenia Aplikacji.md"
     },
     {
-      "basename": "2 Styling Components",
-      "path": "_ WEB/REACT/React18+TypeScript/2 Styling Components.md"
-    },
-    {
       "basename": "Untitled",
       "path": "Untitled.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "1. Utworzenie projektu testowego",
       "path": "Testowanie/CSharp Testy jednostkowe i integracyjne/1. Utworzenie projektu testowego.md"
-    },
-    {
-      "basename": "1 Building Components - React 18 Utlimate",
-      "path": "_ WEB/REACT/React18+TypeScript/1 Building Components - React 18 Utlimate.md"
     }
   ],
   "omittedPaths": [],
