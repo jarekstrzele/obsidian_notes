@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "składnia operowania na kalsach",
+      "path": "_ Mobile/Android/składnia operowania na kalsach.md"
+    },
+    {
       "basename": "13.  Intent and Lifecycles",
       "path": "_ Mobile/Android/the complete Android Kotlin/13.  Intent and Lifecycles.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "1. React Fundamentals",
       "path": "_ WEB/REACT/React 18 Tutorial and Projects Course 2023/1. React Fundamentals.md"
-    },
-    {
-      "basename": "1. Utworzenie projektu testowego",
-      "path": "Testowanie/CSharp Testy jednostkowe i integracyjne/1. Utworzenie projektu testowego.md"
     }
   ],
   "omittedPaths": [],
