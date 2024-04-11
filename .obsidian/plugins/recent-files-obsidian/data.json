@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "LiveData and MutableLiveData",
+      "path": "_ Mobile/Android/LiveData and MutableLiveData.md"
+    },
+    {
+      "basename": "uruchamiania na prawdziwym urządzeniu",
+      "path": "_ Mobile/Android/uruchamiania na prawdziwym urządzeniu.md"
+    },
+    {
+      "basename": "Spinner",
+      "path": "_ Mobile/Android/Spinner.md"
+    },
+    {
+      "basename": "składnia operowania na klasach",
+      "path": "_ Mobile/Android/składnia operowania na klasach.md"
+    },
+    {
+      "basename": "selector",
+      "path": "_ Mobile/Android/selector.md"
+    },
+    {
       "basename": "12 Lists and Views",
       "path": "_ Mobile/Android/the complete Android Kotlin/12 Lists and Views.md"
     },
@@ -83,10 +103,6 @@
     {
       "basename": "10.3 Button",
       "path": "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.3 Button.md"
-    },
-    {
-      "basename": "składnia operowania na klasach",
-      "path": "_ Mobile/Android/składnia operowania na klasach.md"
     },
     {
       "basename": "10.9 Top App Bar",
@@ -183,22 +199,6 @@
     {
       "basename": "9.1. RadioButton, GroupBox, Label",
       "path": "_ Desktop/WPF/od Podstaw do app w WPF/9.1. RadioButton, GroupBox, Label.md"
-    },
-    {
-      "basename": "2 Controls WPF",
-      "path": "_ Desktop/WPF/Fast WFP  C Sharp/2 Controls WPF.md"
-    },
-    {
-      "basename": "10.1 Binding",
-      "path": "_ Desktop/WPF/od Podstaw do app w WPF/10.1 Binding.md"
-    },
-    {
-      "basename": "9 WPF układy komponentów",
-      "path": "_ Desktop/WPF/od Podstaw do app w WPF/9 WPF układy komponentów.md"
-    },
-    {
-      "basename": "8 Aplikacje WPF",
-      "path": "_ Desktop/WPF/od Podstaw do app w WPF/8 Aplikacje WPF.md"
     }
   ],
   "omittedPaths": [],

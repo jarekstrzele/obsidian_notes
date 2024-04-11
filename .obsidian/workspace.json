@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/12 Lists and Views.md",
+                "file": "_ Mobile/Android/LiveData and MutableLiveData.md",
                 "mode": "source",
                 "source": false
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/12 Lists and Views.md",
+                "file": "_ Mobile/Android/LiveData and MutableLiveData.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/12 Lists and Views.md",
+                "file": "_ Mobile/Android/LiveData and MutableLiveData.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/12 Lists and Views.md"
+                "file": "_ Mobile/Android/LiveData and MutableLiveData.md"
               }
             }
           },
@@ -279,6 +279,12 @@
   },
   "active": "2ad6bbe145063cd4",
   "lastOpenFiles": [
+    "_ Mobile/Android/uruchamiania na prawdziwym urządzeniu.md",
+    "_ Mobile/Android/LiveData and MutableLiveData.md",
+    "_ Mobile/Android/Spinner.md",
+    "_ Mobile/Android/składnia operowania na klasach.md",
+    "_ Mobile/Android/selector.md",
+    "_ Mobile/Android/the complete Android Kotlin/12 Lists and Views.md",
     "12.3 Activity Life Cycle.md",
     "_ Mobile/Android/the complete Android Kotlin/13 Intent and life cycle.md",
     "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.2 Application Life Cycle.md",
@@ -291,7 +297,6 @@
     "_ Mobile/Android/the complete Android Kotlin/12 Lists and Views/12.1.1 Adapter for Recycler.md",
     "_ Mobile/Android/the complete Android Kotlin/12 Lists and Views/12.1 Recycler View.md",
     "_ Mobile/Android/the complete Android Kotlin/12 Lists and Views/12 ListView.md",
-    "_ Mobile/Android/the complete Android Kotlin/12 Lists and Views.md",
     "_ Mobile/Android/the complete Android Kotlin/12 Lists and Views/Untitled.md",
     "_ Mobile/Android/the complete Android Kotlin/_ the complete Android Kotlin.md",
     "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.1 Layouts in Android App.md",
@@ -302,12 +307,7 @@
     "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.6 RadioButton.md",
     "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.6 CheckBox.md",
     "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.5 ImageView.md",
-    "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.3 Button.md",
     "_ Mobile/Android/the complete Android Kotlin/10 Android Components",
-    "_ Mobile/Android/składnia operowania na klasach.md",
-    "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.9 Top App Bar.md",
-    "_ WEB/REACT/React18+TypeScript/2 Styling Components.md",
-    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/7 Klasy danych.md",
     "_ Desktop/AvaloniaUI",
     "Studia/nauczPrzedZawoTechnikProgramista",
     "_ WEB/REACT/React18+TypeScript",
