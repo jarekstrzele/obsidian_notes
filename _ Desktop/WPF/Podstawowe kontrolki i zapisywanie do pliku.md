@@ -1,8 +1,9 @@
 #wpf/controls 
 
-
-
 Podstawowe kontrolki WPF (Windows Presentation Foundation), które są często używane do budowy formularzy, to między innymi TextBox (pole tekstowe), Button (przycisk), CheckBox (pole wyboru), RadioButton (przycisk opcji), ComboBox (lista rozwijana), Label (etykieta) oraz ListBox (lista wyboru). Poniżej opiszę każdą z tych kontrolek wraz z przykładem kodu, pokazując, jak je zaimplementować w aplikacji WPF z użyciem C#.
+
+> `Content` jest ogólnym terminem używanym w WPF do określenia zawartości, którą można umieścić wewnątrz kontrolki, takiej jak `RadioButton`. Może to być prawie cokolwiek, ponieważ `Content` przyjmuje obiekt typu `object`. Możesz umieścić w nim tekst, obraz, panel z kolejnymi kontrolkami lub nawet niestandardowy układ kontrolki złożony z wielu elementów. To bardzo elastyczna funkcjonalność, która pozwala na rozbudowaną personalizację interfejsu użytkownika.
+
 
 # KONTROLKI
 
