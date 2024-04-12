@@ -45,7 +45,7 @@ xamlCopy code
 
 Obsługa w C# (sprawdzanie stanu):
 
-
+*null-coalescing* 
 `bool isChecked = checkBoxExample.IsChecked ?? false;`
 
 ### 4. RadioButton (Przycisk opcji)

@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Podstawowe kontrolki i zapisywanie do pliku",
+      "path": "_ Desktop/WPF/Podstawowe kontrolki i zapisywanie do pliku.md"
+    },
+    {
+      "basename": "10 Android Components",
+      "path": "_ Mobile/Android/the complete Android Kotlin/10 Android Components.md"
+    },
+    {
+      "basename": "10.1 Layouts in Android App",
+      "path": "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.1 Layouts in Android App.md"
+    },
+    {
+      "basename": "10.2 TextView",
+      "path": "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.2 TextView.md"
+    },
+    {
+      "basename": "10.3 Button",
+      "path": "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.3 Button.md"
+    },
+    {
       "basename": "LiveData and MutableLiveData",
       "path": "_ Mobile/Android/LiveData and MutableLiveData.md"
     },
@@ -73,18 +93,6 @@
       "path": "_ Mobile/Android/the complete Android Kotlin/_ the complete Android Kotlin.md"
     },
     {
-      "basename": "10.1 Layouts in Android App",
-      "path": "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.1 Layouts in Android App.md"
-    },
-    {
-      "basename": "10 Android Components",
-      "path": "_ Mobile/Android/the complete Android Kotlin/10 Android Components.md"
-    },
-    {
-      "basename": "10.2 TextView",
-      "path": "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.2 TextView.md"
-    },
-    {
       "basename": "10.7. Toggle Button",
       "path": "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.7. Toggle Button.md"
     },
@@ -99,10 +107,6 @@
     {
       "basename": "10.5 ImageView",
       "path": "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.5 ImageView.md"
-    },
-    {
-      "basename": "10.3 Button",
-      "path": "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.3 Button.md"
     },
     {
       "basename": "10.9 Top App Bar",
@@ -155,10 +159,6 @@
     {
       "basename": "3 Podstawy tworzenia aplikacji",
       "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md"
-    },
-    {
-      "basename": "Podstawowe kontrolki i zapisywanie do pliku",
-      "path": "_ Desktop/WPF/Podstawowe kontrolki i zapisywanie do pliku.md"
     },
     {
       "basename": "6.1. Some help CaptainGame",
