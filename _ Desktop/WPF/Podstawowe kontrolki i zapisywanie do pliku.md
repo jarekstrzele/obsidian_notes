@@ -183,9 +183,15 @@ Każda z tych kontrolek ma swoje specyficzne zastosowanie i może być konfiguro
 	- `Build Action` określa, jak dany plik jest traktowany podczas procesu budowania (kompilacji) aplikacji.
 	- Gdy ustawisz `Build Action` pliku obrazu na `Resource` w projekcie WPF, oznacza to, że obraz zostanie włączony do głównego pliku wykonywalnego aplikacji (EXE) lub biblioteki (DLL) jako zasób.
 
+#### `<Image Source="pack://application:,,,/Resources/example.jpg" Width="100" Height="100"/>`
+
+wyjaśnienie:
+- `pack://application:,,,` - Wskazuje, że zasób jest pakietem wbudowanym w aplikację.
+- `/` - Początek ścieżki względem głównego katalogu projektu.
+- `Resources/example.jpg` - Ścieżka względna do pliku wewnątrz projektu.
 
 
-
+Ustawienie obrazu jako tła:
 
 
 
