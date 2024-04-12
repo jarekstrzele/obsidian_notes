@@ -172,17 +172,62 @@ foreach (ListBoxItem item in listBoxExample.SelectedItems) {
 }
 ```
 
-8. *DataPicker*
+### 8.  `<DataPicker>` wybór daty
 
 `d` - short date pattern - krótki format daty
 `D` - długi format daty
 `t` - krótki format czasu
 `T` - długi format czasu
 
+```xml
+<StackPanel Margin="30" HorizontalAlignment="Center" VerticalAlignment="Center">
+    <DatePicker x:Name="myDatePicker" />
+    <Button Content="Submit" Margin="10" Click="Button_Click" />
+</StackPanel>
+```
+
+```c#
+private void Button_Click(object sender, RoutedEventArgs e)
+{
+    DateTime? selectedDate = myDatePicker.SelectedDate;
+    /* if (selectedDate.HasValue) 
+     {
+         MessageBox.Show("Wybrana data: " + selectedDate.Value.ToString("d"), "Informacja o Dacie");
+     } else
+     {
+         MessageBox.Show("nie wybrano daty", "tytuł");
+     }*/
+    MessageBox.Show(selectedDate.HasValue ? "Wybrana data: " + selectedDate.Value.ToString("d") : "Nie wybrano daty", "Informacja o Dacie");
+
+}
+
+```
+
+
+### 9. `<Slider>` suwak
+
+```xml
+<StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+    <StackPanel Margin="20">
+        <Slider Name="mySlider" Minimum="0" Maximum="100" Value="50" Margin="10"
+                TickFrequency="10" 
+                IsSnapToTickEnabled="True" 
+                AutoToolTipPlacement="BottomRight" 
+                AutoToolTipPrecision="2" />
+        <TextBlock Name="sliderValueTextBlock" 
+                   Text="{Binding ElementName=mySlider,  Path=Value, StringFormat='Current Value: {0:N0}'}"/>
+    </StackPanel>
+  
+    <Button Content="Submit" Click="Button_Click" Margin="10"/>
+```
 
 
 
-### 8. Praca z obrazkiem `<Image>`
+
+
+
+
+### 10. Praca z obrazkiem `<Image>`
 
 - w projekcie zrób folder `Resources`, do którego skopiuj obrazki
 - we właściwościach każdego obrazka `Build Action` ustaw na `Resource`
