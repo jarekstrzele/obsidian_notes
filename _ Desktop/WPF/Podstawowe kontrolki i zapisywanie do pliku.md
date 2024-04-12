@@ -48,6 +48,10 @@ Obsługa w C# (sprawdzanie stanu):
 *null-coalescing* 
 `bool isChecked = checkBoxExample.IsChecked ?? false;`
 
+> W WPF, właściwość `Content` kontrolki, takiej jak `CheckBox`, jest typu `object`. Oznacza to, że może przechowywać dowolny typ danych, nie tylko ciągi znaków. Gdy chcesz wyświetlić zawartość kontrolki `CheckBox` w kontrolce takiej jak `MessageBox`, musisz zapewnić, że wartość, którą próbujesz wyświetlić, jest ciągiem znaków (`string`).
+
+
+
 ### 4. RadioButton (Przycisk opcji)
 
 Umożliwia wybór jednej opcji z grupy.
