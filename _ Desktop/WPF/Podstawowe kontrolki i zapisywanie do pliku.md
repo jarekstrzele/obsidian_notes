@@ -172,8 +172,14 @@ foreach (ListBoxItem item in listBoxExample.SelectedItems) {
 }
 ```
 
+8. *DataPicker*
 
-Każda z tych kontrolek ma swoje specyficzne zastosowanie i może być konfigurowana oraz stylizowana w różnoraki sposób, aby dopasować się do potrzeb aplikacji. Kod XAML odpowiada za deklarację i wizualny aspekt kontrolki, natomiast logika w C# pozwala na obsługę zdarzeń i interakcję z użytkownikiem.
+`d` - short date pattern - krótki format daty
+`D` - długi format daty
+`t` - krótki format czasu
+`T` - długi format czasu
+
+
 
 
 ### 8. Praca z obrazkiem `<Image>`
