@@ -176,6 +176,20 @@ foreach (ListBoxItem item in listBoxExample.SelectedItems) {
 Każda z tych kontrolek ma swoje specyficzne zastosowanie i może być konfigurowana oraz stylizowana w różnoraki sposób, aby dopasować się do potrzeb aplikacji. Kod XAML odpowiada za deklarację i wizualny aspekt kontrolki, natomiast logika w C# pozwala na obsługę zdarzeń i interakcję z użytkownikiem.
 
 
+### 8. Praca z obrazkiem `<Image>`
+
+- w projekcie zrób folder `Resources`, do którego skopiuj obrazki
+- we właściwościach każdego obrazka `Build Action` ustaw na `Resource`
+	- `Build Action` określa, jak dany plik jest traktowany podczas procesu budowania (kompilacji) aplikacji.
+	- Gdy ustawisz `Build Action` pliku obrazu na `Resource` w projekcie WPF, oznacza to, że obraz zostanie włączony do głównego pliku wykonywalnego aplikacji (EXE) lub biblioteki (DLL) jako zasób.
+
+
+
+
+
+
+
+
 
 --------------
 # Zapisywanie i odczytywanie danych.
