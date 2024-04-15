@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Alien Form",
+      "path": "_ Desktop/WPF/Alien Form.md"
+    },
+    {
       "basename": "Podstawowe kontrolki i zapisywanie do pliku",
       "path": "_ Desktop/WPF/Podstawowe kontrolki i zapisywanie do pliku.md"
     },
@@ -119,10 +123,6 @@
     {
       "basename": "7 Klasy danych",
       "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/7 Klasy danych.md"
-    },
-    {
-      "basename": "Alien Form",
-      "path": "_ Desktop/WPF/Alien Form.md"
     },
     {
       "basename": "7.1. Klasa danych `data class`",

@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "b4cb92ff2b313ce8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_ Desktop/WPF/Alien Form.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "1177599b2574bfb8",
             "type": "leaf",
             "state": {
@@ -91,7 +103,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Desktop/WPF/Podstawowe kontrolki i zapisywanie do pliku.md",
+                "file": "_ Desktop/WPF/Alien Form.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Desktop/WPF/Podstawowe kontrolki i zapisywanie do pliku.md",
+                "file": "_ Desktop/WPF/Alien Form.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Desktop/WPF/Podstawowe kontrolki i zapisywanie do pliku.md"
+                "file": "_ Desktop/WPF/Alien Form.md"
               }
             }
           },
@@ -264,8 +277,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3d3d211d7b8eb595",
+  "active": "b4cb92ff2b313ce8",
   "lastOpenFiles": [
+    "_ Desktop/WPF/Podstawowe kontrolki i zapisywanie do pliku.md",
     "_ Mobile/Android/the complete Android Kotlin/10 Android Components.md",
     "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.1 Layouts in Android App.md",
     "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.2 TextView.md",
@@ -293,7 +307,6 @@
     "_ Mobile/Android/the complete Android Kotlin/12 Lists and Views",
     "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.7. Toggle Button.md",
     "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.6 RadioButton.md",
-    "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.6 CheckBox.md",
     "_ Mobile/Android/the complete Android Kotlin/10 Android Components",
     "_ Desktop/AvaloniaUI",
     "Studia/nauczPrzedZawoTechnikProgramista",
