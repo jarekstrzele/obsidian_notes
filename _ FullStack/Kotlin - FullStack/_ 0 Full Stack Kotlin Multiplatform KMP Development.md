@@ -1,6 +1,6 @@
 #jovanovic_stefan
 
-**K P M** - Kotlin Multiplatform
+**K M P** - Kotlin Multiplatform
 
 
 FRONTEND: *Kobweb* is an opinionated Kotlin framework for creating websites and web apps, built on top of Compose HTML and inspired by Next.js and Chakra UI
@@ -14,7 +14,7 @@ DATABASE: *MongoDB*
 WEB HOSTING: *Render* it is a unified cloud to build and run all your apps and websited with free TLS certificated, global CDN, private networks and auto deploys from Git
 
 
-
+# Install `Kobweb`
 
 
 
