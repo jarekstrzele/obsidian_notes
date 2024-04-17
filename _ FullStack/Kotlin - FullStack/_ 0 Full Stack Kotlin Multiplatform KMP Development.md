@@ -48,8 +48,13 @@ you can find a link for `JDK` on that `GitHub` repo
 - write `BlogMultiplatform` (the name of the project)
 - write the same
 
+------
 #### `settings.gradle.kts`  file !!!!!!!!!!!!!
-`rootProject.name=` it can't have capital letters!
+`rootProject.name=` it can't have capital letters!!!!!
+
+-----
+
+
 
 OPEN that project in *Android Studio*
 in terminal in `site` folder 
