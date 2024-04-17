@@ -19,14 +19,25 @@ WEB HOSTING: *Render* it is a unified cloud to build and run all your apps and w
 ## Go to `Kobweb` repo on GitHub
 https://github.com/varabyte/kobweb
 
+### install `Kobweb` binary
 - Install `Kobweb` binary (https://github.com/varabyte/kobweb-cli/releases/tag/v0.9.15)
 - for windows choose `.zip`
 - extract it on `C:/` 
-- go to `bin` folder and copy the path
+- go to `bin` folder and copy the path (`C:\kobweb-0.9.15\bin`)
+- add that path to environment variables (*Edit the system environment*) and choose *Environment Variables*
+- *user variables for ...* find `path` and add a new path
+- make the same steps for *system variables*
 
+check in `cmd`
+```
+C:\Users\jaros>kobweb --version
+kobweb 0.9.15
+```
 
-
-
+### install JDK
+you can find a link for `JDK` on that `GitHub` repo
+- download `.zip` file and extract all on `C:/`
+- add a path to *Environment Variables* in *system variable* find `JAVA_HOME`
 
 
 
