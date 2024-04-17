@@ -42,7 +42,9 @@ you can find a link for `JDK` on that `GitHub` repo
 
 
 
-
+# Create a first project template
+- `kobweb create`
+- choose 
 
 
 
