@@ -16,6 +16,21 @@ WEB HOSTING: *Render* it is a unified cloud to build and run all your apps and w
 
 # Install `Kobweb`
 
+## Go to `Kobweb` repo on GitHub
+https://github.com/varabyte/kobweb
+
+- Install `Kobweb` binary (https://github.com/varabyte/kobweb-cli/releases/tag/v0.9.15)
+- for windows choose `.zip`
+- extract it on `C:/` 
+- go to `bin` folder and copy the path
+
+
+
+
+
+
+
+
 
 
 
