@@ -44,8 +44,16 @@ you can find a link for `JDK` on that `GitHub` repo
 
 # Create a first project template
 - `kobweb create`
-- choose 
+- choose `app/empty`
+- write `BlogMultiplatform` (the name of the project)
+- write the same
 
+#### `settings.gradle.kts`  file !!!!!!!!!!!!!
+`rootProject.name=` it can't have capital letters!
+
+OPEN that project in *Android Studio*
+in terminal in `site` folder 
+#### `kobweb run`
 
 
 
