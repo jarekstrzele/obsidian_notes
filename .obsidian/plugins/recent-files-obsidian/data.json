@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "argument",
+      "path": "_ Mobile/argument.md"
+    },
+    {
+      "basename": "10.5 ImageView",
+      "path": "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.5 ImageView.md"
+    },
+    {
+      "basename": "10.1 Layouts in Android App",
+      "path": "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.1 Layouts in Android App.md"
+    },
+    {
+      "basename": "Alien Form",
+      "path": "_ Desktop/WPF/Alien Form.md"
+    },
+    {
       "basename": "_ 0 Full Stack Kotlin Multiplatform KMP Development",
       "path": "_ FullStack/Kotlin - FullStack/_ 0 Full Stack Kotlin Multiplatform KMP Development.md"
     },
@@ -9,16 +25,8 @@
       "path": "_ Desktop/WPF/Podstawowe kontrolki i zapisywanie do pliku.md"
     },
     {
-      "basename": "Alien Form",
-      "path": "_ Desktop/WPF/Alien Form.md"
-    },
-    {
       "basename": "10 Android Components",
       "path": "_ Mobile/Android/the complete Android Kotlin/10 Android Components.md"
-    },
-    {
-      "basename": "10.1 Layouts in Android App",
-      "path": "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.1 Layouts in Android App.md"
     },
     {
       "basename": "10.2 TextView",
@@ -113,10 +121,6 @@
       "path": "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.6 CheckBox.md"
     },
     {
-      "basename": "10.5 ImageView",
-      "path": "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.5 ImageView.md"
-    },
-    {
       "basename": "10.9 Top App Bar",
       "path": "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.9 Top App Bar.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_ Rusz Głową C Sharp",
       "path": "_ Desktop/WPF/Rusz Głową C Sharp/_ Rusz Głową C Sharp.md"
-    },
-    {
-      "basename": "10 WPF - zaawansowane",
-      "path": "_ Desktop/WPF/od Podstaw do app w WPF/10 WPF - zaawansowane.md"
     }
   ],
   "omittedPaths": [],
