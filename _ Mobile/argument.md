@@ -1,4 +1,27 @@
-#andoird/argument
+#andoird/arguments
+
+## definicja
+>[!important] `arguments`
+> W Kotlinie i w platformie Android, `arguments` jest
+>  **predefiniowanym właściwością każdego fragmentu**, 
+>  która **zwraca** `Bundle` z argumentami skojarzonymi z fragmentem. 
+>  Nie musisz deklarować `arguments` w metodzie `onCreateView` ani w żadnej innej metodzie, ponieważ `arguments` jest już zintegrowaną właściwością klasy `Fragment`.
+
+## ustawianie
+```kotlin
+val fragment = MyFragment()
+val args = Bundle()
+args.putInt("key", value)
+fragment.arguments = args
+
+```
+
+
+## odczytywanie
+```kotlin
+val value = arguments?.getInt("key", defaultValue)
+
+```
 
 
 W kontekście Androida i fragmentów, **argument** to zestaw danych, które mogą być przekazane do fragmentu przed jego załączeniem do aktywności. Argumenty są używane do przekazywania informacji do fragmentu, zwykle podczas jego tworzenia. Są one podobne do "intent extras" używanych w aktywnościach do przekazywania danych między różnymi komponentami.
