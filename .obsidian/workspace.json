@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/argument.md",
+                "file": "_ Desktop/WPF/Podstawowe kontrolki i zapisywanie do pliku.md",
                 "mode": "source",
                 "source": false
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/argument.md",
+                "file": "_ Desktop/WPF/Podstawowe kontrolki i zapisywanie do pliku.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/argument.md",
+                "file": "_ Desktop/WPF/Podstawowe kontrolki i zapisywanie do pliku.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/argument.md"
+                "file": "_ Desktop/WPF/Podstawowe kontrolki i zapisywanie do pliku.md"
               }
             }
           },
@@ -279,8 +279,8 @@
   },
   "active": "7f90959a8330a1a1",
   "lastOpenFiles": [
-    "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.5 ImageView.md",
     "_ Mobile/argument.md",
+    "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.5 ImageView.md",
     "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.1 Layouts in Android App.md",
     "_ Desktop/WPF/Alien Form.md",
     "_ FullStack/Kotlin - FullStack/_ 0 Full Stack Kotlin Multiplatform KMP Development.md",
