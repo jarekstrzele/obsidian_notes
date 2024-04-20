@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Komunikaty w Commitach",
+      "path": "Git/Komunikaty w Commitach.md"
+    },
+    {
       "basename": "Podstawowe kontrolki i zapisywanie do pliku",
       "path": "_ Desktop/WPF/Podstawowe kontrolki i zapisywanie do pliku.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_ The Windows Presentation Foundation WPF Giode for beginners",
       "path": "_ Desktop/WPF/The WPF Guide for beginners/_ The Windows Presentation Foundation WPF Giode for beginners.md"
-    },
-    {
-      "basename": "_ Rusz Głową C Sharp",
-      "path": "_ Desktop/WPF/Rusz Głową C Sharp/_ Rusz Głową C Sharp.md"
     }
   ],
   "omittedPaths": [],
