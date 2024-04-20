@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Desktop/WPF/Alien Form.md",
+                "file": "_ Desktop/WPF/Podstawowe kontrolki i zapisywanie do pliku.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Komunikaty w Commitach.md",
+                "file": "_ Desktop/WPF/Podstawowe kontrolki i zapisywanie do pliku.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Komunikaty w Commitach.md",
+                "file": "_ Desktop/WPF/Podstawowe kontrolki i zapisywanie do pliku.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Komunikaty w Commitach.md"
+                "file": "_ Desktop/WPF/Podstawowe kontrolki i zapisywanie do pliku.md"
               }
             }
           },
@@ -277,14 +277,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7f90959a8330a1a1",
+  "active": "b4cb92ff2b313ce8",
   "lastOpenFiles": [
+    "_ Desktop/WPF/Alien Form.md",
+    "_ Desktop/WPF/TicTacToe.md",
     "_ Desktop/WPF/Podstawowe kontrolki i zapisywanie do pliku.md",
     "Git/Komunikaty w Commitach.md",
     "_ Mobile/argument.md",
     "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.5 ImageView.md",
     "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.1 Layouts in Android App.md",
-    "_ Desktop/WPF/Alien Form.md",
     "_ FullStack/Kotlin - FullStack/_ 0 Full Stack Kotlin Multiplatform KMP Development.md",
     "_ FullStack/Kotlin - FullStack",
     "_ Mobile/Android/the complete Android Kotlin/10 Android Components.md",
@@ -306,7 +307,6 @@
     "_ Mobile/Android/the complete Android Kotlin/12 Lists and Views/12.3 Scroll View.md",
     "_ Mobile/Android/the complete Android Kotlin/12 Lists and Views/12.2 GridView.md",
     "_ Mobile/Android/the complete Android Kotlin/12 Lists and Views/12.1.1 Adapter for Recycler.md",
-    "_ Mobile/Android/the complete Android Kotlin/12 Lists and Views/12.1 Recycler View.md",
     "_ Mobile/Android/the complete Android Kotlin/12 Lists and Views",
     "_ Mobile/Android/the complete Android Kotlin/10 Android Components",
     "_ Desktop/AvaloniaUI",

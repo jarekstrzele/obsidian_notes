@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Komunikaty w Commitach",
-      "path": "Git/Komunikaty w Commitach.md"
-    },
-    {
       "basename": "Podstawowe kontrolki i zapisywanie do pliku",
       "path": "_ Desktop/WPF/Podstawowe kontrolki i zapisywanie do pliku.md"
+    },
+    {
+      "basename": "Alien Form",
+      "path": "_ Desktop/WPF/Alien Form.md"
+    },
+    {
+      "basename": "TicTacToe",
+      "path": "_ Desktop/WPF/TicTacToe.md"
+    },
+    {
+      "basename": "Komunikaty w Commitach",
+      "path": "Git/Komunikaty w Commitach.md"
     },
     {
       "basename": "argument",
@@ -19,10 +27,6 @@
     {
       "basename": "10.1 Layouts in Android App",
       "path": "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.1 Layouts in Android App.md"
-    },
-    {
-      "basename": "Alien Form",
-      "path": "_ Desktop/WPF/Alien Form.md"
     },
     {
       "basename": "_ 0 Full Stack Kotlin Multiplatform KMP Development",
@@ -195,10 +199,6 @@
     {
       "basename": "13 WPF",
       "path": "_ Desktop/WPF/The WPF Guide for beginners/13 WPF.md"
-    },
-    {
-      "basename": "_ The Windows Presentation Foundation WPF Giode for beginners",
-      "path": "_ Desktop/WPF/The WPF Guide for beginners/_ The Windows Presentation Foundation WPF Giode for beginners.md"
     }
   ],
   "omittedPaths": [],
