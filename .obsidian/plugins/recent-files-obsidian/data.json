@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Podstawowe kontrolki i zapisywanie do pliku",
-      "path": "_ Desktop/WPF/Podstawowe kontrolki i zapisywanie do pliku.md"
-    },
-    {
       "basename": "Alien Form",
       "path": "_ Desktop/WPF/Alien Form.md"
+    },
+    {
+      "basename": "Wyświeltanie info",
+      "path": "_ Desktop/WPF/Wyświeltanie info.md"
+    },
+    {
+      "basename": "Podstawowe kontrolki i zapisywanie do pliku",
+      "path": "_ Desktop/WPF/Podstawowe kontrolki i zapisywanie do pliku.md"
     },
     {
       "basename": "TicTacToe",
@@ -191,10 +195,6 @@
     {
       "basename": "5.1. Converter App",
       "path": "_ Mobile/Android/the complete Android 14 and Kotlin/5.1. Converter App.md"
-    },
-    {
-      "basename": "Wyświeltanie info",
-      "path": "_ Desktop/WPF/Wyświeltanie info.md"
     },
     {
       "basename": "13 WPF",
