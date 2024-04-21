@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.2 TextView.md",
+                "file": "Git/Komunikaty w Commitach.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Desktop/WPF/Alien Form.md",
+                "file": "Git/Komunikaty w Commitach.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Desktop/WPF/Alien Form.md",
+                "file": "Git/Komunikaty w Commitach.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Desktop/WPF/Alien Form.md"
+                "file": "Git/Komunikaty w Commitach.md"
               }
             }
           },
@@ -277,20 +277,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b4cb92ff2b313ce8",
+  "active": "90ff715e3f155d47",
   "lastOpenFiles": [
+    "_ Mobile/argument.md",
+    "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.2 TextView.md",
+    "_ Desktop/WPF/Alien Form.md",
     "_ Desktop/WPF/Wyświeltanie info.md",
     "_ Desktop/WPF/Podstawowe kontrolki i zapisywanie do pliku.md",
-    "_ Desktop/WPF/Alien Form.md",
     "_ Desktop/WPF/TicTacToe.md",
     "Git/Komunikaty w Commitach.md",
-    "_ Mobile/argument.md",
     "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.5 ImageView.md",
     "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.1 Layouts in Android App.md",
     "_ FullStack/Kotlin - FullStack/_ 0 Full Stack Kotlin Multiplatform KMP Development.md",
     "_ FullStack/Kotlin - FullStack",
     "_ Mobile/Android/the complete Android Kotlin/10 Android Components.md",
-    "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.2 TextView.md",
     "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.3 Button.md",
     "_ Mobile/Android/LiveData and MutableLiveData.md",
     "_ Mobile/Android/uruchamiania na prawdziwym urządzeniu.md",
