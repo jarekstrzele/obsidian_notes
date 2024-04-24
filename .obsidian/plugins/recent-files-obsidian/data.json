@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Podstawowe kontrolki i zapisywanie do pliku",
-      "path": "_ Desktop/WPF/Podstawowe kontrolki i zapisywanie do pliku.md"
+      "basename": "13.1.   Intent",
+      "path": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.1.   Intent.md"
     },
     {
-      "basename": "Alien Form",
-      "path": "_ Desktop/WPF/Alien Form.md"
+      "basename": "13.2 Application Life Cycle",
+      "path": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.2 Application Life Cycle.md"
     },
     {
       "basename": "10.1 Layouts in Android App",
@@ -15,6 +15,14 @@
     {
       "basename": "Komunikaty w Commitach",
       "path": "Git/Komunikaty w Commitach.md"
+    },
+    {
+      "basename": "Podstawowe kontrolki i zapisywanie do pliku",
+      "path": "_ Desktop/WPF/Podstawowe kontrolki i zapisywanie do pliku.md"
+    },
+    {
+      "basename": "Alien Form",
+      "path": "_ Desktop/WPF/Alien Form.md"
     },
     {
       "basename": "argument",
@@ -79,14 +87,6 @@
     {
       "basename": "13 Intent and life cycle",
       "path": "_ Mobile/Android/the complete Android Kotlin/13 Intent and life cycle.md"
-    },
-    {
-      "basename": "13.2 Application Life Cycle",
-      "path": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.2 Application Life Cycle.md"
-    },
-    {
-      "basename": "13.1.   Intent",
-      "path": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.1.   Intent.md"
     },
     {
       "basename": "13.3 Activity Life Cycle",
