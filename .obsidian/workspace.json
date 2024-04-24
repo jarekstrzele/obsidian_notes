@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ FullStack/Kotlin - FullStack/_ 0 Full Stack Kotlin Multiplatform KMP Development.md",
+                "file": "_ FullStack/Kotlin - FullStack/2 Admin Panel - Login Screen.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ FullStack/Kotlin - FullStack/_ 0 Full Stack Kotlin Multiplatform KMP Development.md",
+                "file": "_ FullStack/Kotlin - FullStack/2 Admin Panel - Login Screen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ FullStack/Kotlin - FullStack/_ 0 Full Stack Kotlin Multiplatform KMP Development.md",
+                "file": "_ FullStack/Kotlin - FullStack/2 Admin Panel - Login Screen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ FullStack/Kotlin - FullStack/_ 0 Full Stack Kotlin Multiplatform KMP Development.md"
+                "file": "_ FullStack/Kotlin - FullStack/2 Admin Panel - Login Screen.md"
               }
             }
           },
@@ -231,6 +231,8 @@
   },
   "active": "1177599b2574bfb8",
   "lastOpenFiles": [
+    "_ FullStack/Kotlin - FullStack/_ 0 Full Stack Kotlin Multiplatform KMP Development.md",
+    "_ FullStack/Kotlin - FullStack/2 Admin Panel - Login Screen.md",
     "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.2 Application Life Cycle.md",
     "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.1.   Intent.md",
     "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.1 Layouts in Android App.md",
@@ -242,7 +244,6 @@
     "_ Desktop/WPF/Wyświeltanie info.md",
     "_ Desktop/WPF/TicTacToe.md",
     "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.5 ImageView.md",
-    "_ FullStack/Kotlin - FullStack/_ 0 Full Stack Kotlin Multiplatform KMP Development.md",
     "_ FullStack/Kotlin - FullStack",
     "_ Mobile/Android/the complete Android Kotlin/10 Android Components.md",
     "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.3 Button.md",
@@ -258,7 +259,6 @@
     "_ Mobile/Android/the complete Android Kotlin/12 Lists and Views/12.4 WebView.md",
     "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle",
     "_ Mobile/Android/the complete Android Kotlin/12 Lists and Views/12.3 Scroll View.md",
-    "_ Mobile/Android/the complete Android Kotlin/12 Lists and Views/12.2 GridView.md",
     "_ Mobile/Android/the complete Android Kotlin/12 Lists and Views",
     "_ Mobile/Android/the complete Android Kotlin/10 Android Components",
     "_ Desktop/AvaloniaUI",

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2 Admin Panel - Login Screen",
+      "path": "_ FullStack/Kotlin - FullStack/2 Admin Panel - Login Screen.md"
+    },
+    {
       "basename": "_ 0 Full Stack Kotlin Multiplatform KMP Development",
       "path": "_ FullStack/Kotlin - FullStack/_ 0 Full Stack Kotlin Multiplatform KMP Development.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "5.1. Converter App",
       "path": "_ Mobile/Android/the complete Android 14 and Kotlin/5.1. Converter App.md"
-    },
-    {
-      "basename": "13 WPF",
-      "path": "_ Desktop/WPF/The WPF Guide for beginners/13 WPF.md"
     }
   ],
   "omittedPaths": [],
