@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Podstawowe kontrolki i zapisywanie do pliku",
+      "path": "_ Desktop/WPF/Podstawowe kontrolki i zapisywanie do pliku.md"
+    },
+    {
+      "basename": "Alien Form",
+      "path": "_ Desktop/WPF/Alien Form.md"
+    },
+    {
+      "basename": "10.1 Layouts in Android App",
+      "path": "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.1 Layouts in Android App.md"
+    },
+    {
       "basename": "Komunikaty w Commitach",
       "path": "Git/Komunikaty w Commitach.md"
     },
@@ -13,16 +25,8 @@
       "path": "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.2 TextView.md"
     },
     {
-      "basename": "Alien Form",
-      "path": "_ Desktop/WPF/Alien Form.md"
-    },
-    {
       "basename": "Wyświeltanie info",
       "path": "_ Desktop/WPF/Wyświeltanie info.md"
-    },
-    {
-      "basename": "Podstawowe kontrolki i zapisywanie do pliku",
-      "path": "_ Desktop/WPF/Podstawowe kontrolki i zapisywanie do pliku.md"
     },
     {
       "basename": "TicTacToe",
@@ -31,10 +35,6 @@
     {
       "basename": "10.5 ImageView",
       "path": "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.5 ImageView.md"
-    },
-    {
-      "basename": "10.1 Layouts in Android App",
-      "path": "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.1 Layouts in Android App.md"
     },
     {
       "basename": "_ 0 Full Stack Kotlin Multiplatform KMP Development",
