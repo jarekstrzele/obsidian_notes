@@ -1,5 +1,11 @@
 #android/listview
 
+[[12 Lists and Views]]
+
+
+
+
+
 >[!definition] **ListView**
 >
 > It is a view which groups several items and display them in vertical scrollable list

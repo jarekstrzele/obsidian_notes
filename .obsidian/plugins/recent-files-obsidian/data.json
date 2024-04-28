@@ -117,14 +117,6 @@
       "path": "_ Desktop/WPF/od Podstaw do app w WPF/10.1 Binding.md"
     },
     {
-      "basename": "12.2 GridView",
-      "path": "_ Mobile/Android/the complete Android Kotlin/12.2 GridView.md"
-    },
-    {
-      "basename": "12 ListView",
-      "path": "_ Mobile/Android/the complete Android Kotlin/12 ListView.md"
-    },
-    {
       "basename": "LINQ",
       "path": "C Sharp/LINQ.md"
     },
@@ -137,20 +129,12 @@
       "path": "Testowanie/CSharp Testy jednostkowe i integracyjne/0. Testowanie jednostkowe i integracyjne.md"
     },
     {
-      "basename": "12.1 Recycler View",
-      "path": "_ Mobile/Android/the complete Android Kotlin/12.1 Recycler View.md"
-    },
-    {
       "basename": "_ 0 React Full",
       "path": "_ WEB/REACT/React - the Complete Guide/_ 0 React Full.md"
     },
     {
       "basename": "Wyświeltanie info",
       "path": "_ Desktop/WPF/Wyświeltanie info.md"
-    },
-    {
-      "basename": "10.9 Top App Bar",
-      "path": "_ Mobile/Android/the complete Android Kotlin/10.9 Top App Bar.md"
     },
     {
       "basename": "4.1. Pierwsza wersja stopera",
@@ -183,18 +167,6 @@
     {
       "basename": "10 Android Components",
       "path": "_ Mobile/Android/the complete Android Kotlin/10 Android Components.md"
-    },
-    {
-      "basename": "10.8. Spinner",
-      "path": "_ Mobile/Android/the complete Android Kotlin/10.8. Spinner.md"
-    },
-    {
-      "basename": "10.5 ImageView",
-      "path": "_ Mobile/Android/the complete Android Kotlin/10.5 ImageView.md"
-    },
-    {
-      "basename": "10.3 Button",
-      "path": "_ Mobile/Android/the complete Android Kotlin/10.3 Button.md"
     }
   ],
   "omittedPaths": [],
