@@ -32,6 +32,16 @@
             }
           },
           {
+            "id": "3a363545459eca46",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
+          },
+          {
             "id": "ca090c70e716f0de",
             "type": "leaf",
             "state": {
@@ -68,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -241,7 +251,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "aa3f77079c7fac1a",
+  "active": "3a363545459eca46",
   "lastOpenFiles": [
     "Studia/nauczPrzedZawoTechnikProgramista/BHP.md",
     "_ Desktop/AvaloniaUI/Ubuntu instalacja.md",
