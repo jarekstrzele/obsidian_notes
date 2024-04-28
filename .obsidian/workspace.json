@@ -42,18 +42,6 @@
             }
           },
           {
-            "id": "0b811536088a55f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ca090c70e716f0de",
             "type": "leaf",
             "state": {
@@ -83,14 +71,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Desktop/WPF/Alien Form.md",
+                "file": "R U S T/RUST FROM AI/_ 0 Rust.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -172,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "R U S T/RUST FROM AI/_ 0 Rust.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "R U S T/RUST FROM AI/_ 0 Rust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "R U S T/RUST FROM AI/_ 0 Rust.md"
               }
             }
           },
@@ -263,8 +251,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0b811536088a55f9",
+  "active": "85f199c1b69bb2b3",
   "lastOpenFiles": [
+    "_ Desktop/WPF/Alien Form.md",
+    "R U S T/RUST FROM AI/_ 0 Rust.md",
+    "R U S T/RUST FROM AI",
+    "linux/UBUNTU.md",
+    "_ Desktop/WPF/Rusz Głową C Sharp/_ Rusz Głową C Sharp.md",
+    "_ Desktop/AvaloniaUI/Ubuntu instalacja.md",
     "conflict-files-obsidian-git.md",
     "_ Mobile/argument.md",
     "_ Mobile/Android/the complete Android Kotlin/13 Intent and life cycle.md",
@@ -288,12 +282,7 @@
     "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.5 ImageView.md",
     "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.3 Button.md",
     "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.2 TextView.md",
-    "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.1 Layouts in Android App.md",
     "_ Mobile/Android/the complete Android Kotlin/10 Android Components",
-    "_ Mobile/Android/składnia operowania na klasach.md",
-    "_ Mobile/Android/LiveData and MutableLiveData.md",
-    "_ FullStack/Kotlin - FullStack/_ 0 Full Stack Kotlin Multiplatform KMP Development.md",
-    "_ FullStack/Kotlin - FullStack/2 Admin Panel - Login Screen.md",
     "_ FullStack/Kotlin - FullStack",
     "_ Desktop/AvaloniaUI",
     "Studia/nauczPrzedZawoTechnikProgramista",
@@ -303,7 +292,6 @@
     "methodology/images/age_rating_barh.png",
     "methodology/images/age_rating_bar.png",
     "_ Desktop/WPF/The WPF Guide for beginners",
-    "_DataBase/FireBase/Firebase Android Kotlin",
     "Pasted image 20240206220501.png",
     "Pasted image 20240131102422.png",
     "Pasted image 20240131091457.png",

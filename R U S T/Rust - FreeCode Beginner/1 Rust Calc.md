@@ -1,6 +1,6 @@
 #rust #rust/format #rust/match #rust/return
 
-[[_ 0 Rust]]
+[[R U S T/Rust - FreeCode Beginner/_ 0 Rust]]
 
 ## Calc first version
 ```rust

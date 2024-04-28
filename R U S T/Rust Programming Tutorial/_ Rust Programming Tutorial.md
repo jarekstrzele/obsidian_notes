@@ -3,7 +3,7 @@ other courses:
 [[_ Rust Programming for Beginners]]
 [[_ Rust by Example]]
 [[_ Rust 101 Crash Course]]
-[[_ 0 Rust]]
+[[R U S T/Rust - FreeCode Beginner/_ 0 Rust]]
 [[_ Programowanie w języku Rust]]
 [[_ Learn Rust by Building Apps]]
 [[_ 0 Rust Web Book]]
