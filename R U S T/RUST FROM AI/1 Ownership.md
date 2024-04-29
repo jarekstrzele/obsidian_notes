@@ -4,8 +4,13 @@
 >- gdy właściciel wychodzi poza zakres swojego działania, wartość jest automatycznie usunięta
 
 
-*(=*Borrowing**
-
+**Borrowing**
+>- watość poże być pożyczona przez inne zmienne
+>- pożyczanie jest kontrolowane przez *wskaźniki*:
+>	- `&` referencja  niezmieniająca
+>			   pozwala na dostęp  do wartości bez możliwości jej zmiany
+>	- `&mut` referencja niezmieniająca 
+>				pozwala na modyfikację wartości
 
 
 
