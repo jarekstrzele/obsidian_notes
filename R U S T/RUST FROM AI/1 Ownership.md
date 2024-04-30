@@ -13,7 +13,22 @@
 >				pozwala na modyfikację wartości
 
 
+**Przykład**
+W tym przykładzie, po wywołaniu funkcji `take`, wektor `v` jest przekazywany do funkcji i staje się jej "właścicielem". Po zakończeniu funkcji `take`, wektor jest zwalniany, więc próba użycia `v` w funkcji `main` kończy się błędem kompilacji. Właśnie tak działa mechanizm własności w Rust.
 
+```rust
+fn take(vec: Vec<i32>){
+
+}
+
+
+fn main(){
+	println!("Cześć");
+	let v= vec![1,2,3];
+	take(v);
+	println!("{:?}", v);
+}
+```
 
 
 
