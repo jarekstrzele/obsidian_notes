@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "b4cb92ff2b313ce8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_ Desktop/WPF/Podstawowe kontrolki i zapisywanie do pliku.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1177599b2574bfb8",
             "type": "leaf",
             "state": {
@@ -49,14 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Desktop/WPF/Podstawowe kontrolki i zapisywanie do pliku.md",
+                "file": "R U S T/RUST FROM AI/1 Ownership.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -138,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Desktop/WPF/Podstawowe kontrolki i zapisywanie do pliku.md",
+                "file": "R U S T/RUST FROM AI/1 Ownership.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Desktop/WPF/Podstawowe kontrolki i zapisywanie do pliku.md",
+                "file": "R U S T/RUST FROM AI/1 Ownership.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Desktop/WPF/Podstawowe kontrolki i zapisywanie do pliku.md"
+                "file": "R U S T/RUST FROM AI/1 Ownership.md"
               }
             }
           },
@@ -231,11 +219,11 @@
   },
   "active": "90ff715e3f155d47",
   "lastOpenFiles": [
+    "_ Desktop/WPF/Podstawowe kontrolki i zapisywanie do pliku.md",
     "R U S T/RUST FROM AI/1 Ownership.md",
     "Git/Komunikaty w Commitach.md",
     "R U S T/RUST FROM AI/_ 0 Rust.md",
     "R U S T/RUST FROM AI",
-    "_ Desktop/WPF/Podstawowe kontrolki i zapisywanie do pliku.md",
     "_ FullStack/Kotlin - FullStack/2 Admin Panel - Login Screen.md",
     "_ FullStack/Kotlin - FullStack/_ 0 Full Stack Kotlin Multiplatform KMP Development.md",
     "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.2 Application Life Cycle.md",
