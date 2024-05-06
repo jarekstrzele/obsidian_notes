@@ -86,7 +86,14 @@ fn main() {
 **użycie wycinka**
 > Wycinki są bardziej uniwersalne i mogą być używane z różnymi rodzajami kontenerów danych, nie tylko z `Vec`.
 
+```rust
+fn showElems(myVector: &[i32]){
 
+	for elem in myVector{
+		println!("{}", elem);
+	}
+}
+```
 
 
 
