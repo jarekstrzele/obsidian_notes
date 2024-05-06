@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ FullStack/Kotlin - FullStack/_ 0 Full Stack Kotlin Multiplatform KMP Development.md",
+                "file": "_ Mobile/Kotlin/Kotlin bez tajemnic/_ Kotlin bez tajemnic.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/RUST FROM AI/3.  Moduły i organizacja kodu.md",
+                "file": "_ Mobile/Kotlin/Kotlin bez tajemnic/_ Kotlin bez tajemnic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/RUST FROM AI/3.  Moduły i organizacja kodu.md",
+                "file": "_ Mobile/Kotlin/Kotlin bez tajemnic/_ Kotlin bez tajemnic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/RUST FROM AI/3.  Moduły i organizacja kodu.md"
+                "file": "_ Mobile/Kotlin/Kotlin bez tajemnic/_ Kotlin bez tajemnic.md"
               }
             }
           },
@@ -216,10 +215,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "90ff715e3f155d47",
+  "active": "3d3d211d7b8eb595",
   "lastOpenFiles": [
-    "R U S T/RUST FROM AI/_ 0 Rust.md",
+    "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md",
+    "_ Mobile/Kotlin/Kotlin bez tajemnic/_ Kotlin bez tajemnic.md",
+    "_ FullStack/Kotlin - FullStack/_ 0 Full Stack Kotlin Multiplatform KMP Development.md",
+    "_ FullStack/Kotlin - FullStack/2 Admin Panel - Login Screen.md",
     "R U S T/RUST FROM AI/3.  Moduły i organizacja kodu.md",
+    "R U S T/RUST FROM AI/_ 0 Rust.md",
     "R U S T/RUST FROM AI/7. Zarządzanie błędami..md",
     "R U S T/RUST FROM AI/6. Asynchroniczność.md",
     "R U S T/RUST FROM AI/5. Iteratory.md",
@@ -227,11 +230,9 @@
     "R U S T/RUST FROM AI/2 Struct, Enum, Traits.md",
     "R U S T/RUST FROM AI/1 Ownership.md",
     "linux/UBUNTU.md",
-    "_ FullStack/Kotlin - FullStack/2 Admin Panel - Login Screen.md",
     "_ Desktop/WPF/Podstawowe kontrolki i zapisywanie do pliku.md",
     "Git/Komunikaty w Commitach.md",
     "R U S T/RUST FROM AI",
-    "_ FullStack/Kotlin - FullStack/_ 0 Full Stack Kotlin Multiplatform KMP Development.md",
     "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.2 Application Life Cycle.md",
     "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.1.   Intent.md",
     "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.1 Layouts in Android App.md",
@@ -244,8 +245,6 @@
     "_ FullStack/Kotlin - FullStack",
     "_ Mobile/Android/the complete Android Kotlin/10 Android Components.md",
     "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.3 Button.md",
-    "_ Mobile/Android/LiveData and MutableLiveData.md",
-    "_ Mobile/Android/uruchamiania na prawdziwym urządzeniu.md",
     "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle",
     "_ Mobile/Android/the complete Android Kotlin/12 Lists and Views",
     "_ Mobile/Android/the complete Android Kotlin/10 Android Components",
