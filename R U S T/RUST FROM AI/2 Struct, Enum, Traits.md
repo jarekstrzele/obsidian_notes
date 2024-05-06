@@ -109,7 +109,7 @@ Rust rozróżnia dwa główne typy reprezentacji tekstu:
 
 # ZADANIA
 
-## pierwsze - ``
+## pierwsze - `struct`
 
 
 >Utwórz strukturę `Car` reprezentującą samochód, która zawiera trzy pola: `make` (marka) typu `String`, `model` (model) typu `String`, oraz `year` (rok produkcji) typu `u32`. Następnie, w funkcji `main`, stwórz instancję tej struktury dla samochodu marki "Toyota", modelu "Corolla", z rokiem produkcji 2021. Wyświetl informacje o samochodzie w formacie: "Marka: Model (Rok produkcji)".
@@ -130,10 +130,33 @@ fn main(){
 }
 ```
 
+## drugie - `enum`
+> Zdefiniuj wyliczenie `TrafficLight`, które reprezentuje sygnalizację świetlną z trzema możliwymi stanami: `Red`, `Yellow`, i `Green`. Napisz funkcję `print_signal`, która przyjmuje argument typu `TrafficLight` i wyświetla odpowiedni komunikat w zależności od stanu światła: "Stop" dla czerwonego, "Caution" dla żółtego, i "Go" dla zielonego.
 
 
+```rust
+enum TrafficLights{
+	Red,
+	Yellow,
+	Green,
+}
+
+  
+
+fn print_signal(light: &TrafficLights){
+	match light{
+		TrafficLights::Green => println!("Go"),
+		TrafficLights::Yellow => println!("Caustion"),
+		TrafficLights::Red => println!("Stop")
+	}
+}
 
 
+fn main(){
+	let light = TrafficLights::Yellow;
+	print_signal(&light);
+}
+```
 
 
 
