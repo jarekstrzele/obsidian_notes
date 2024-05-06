@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/RUST FROM AI/3 Moduły i organizacja kodu.md",
+                "file": "R U S T/RUST FROM AI/3.  Moduły i organizacja kodu.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/RUST FROM AI/3 Moduły i organizacja kodu.md",
+                "file": "R U S T/RUST FROM AI/3.  Moduły i organizacja kodu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/RUST FROM AI/3 Moduły i organizacja kodu.md",
+                "file": "R U S T/RUST FROM AI/3.  Moduły i organizacja kodu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/RUST FROM AI/3 Moduły i organizacja kodu.md"
+                "file": "R U S T/RUST FROM AI/3.  Moduły i organizacja kodu.md"
               }
             }
           },
@@ -216,13 +216,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "04bc47a26b7598a7",
+  "active": "90ff715e3f155d47",
   "lastOpenFiles": [
+    "R U S T/RUST FROM AI/_ 0 Rust.md",
+    "R U S T/RUST FROM AI/3.  Moduły i organizacja kodu.md",
+    "R U S T/RUST FROM AI/7. Zarządzanie błędami..md",
+    "R U S T/RUST FROM AI/6. Asynchroniczność.md",
+    "R U S T/RUST FROM AI/5. Iteratory.md",
     "R U S T/RUST FROM AI/4. Wskaźniki *Smart Pointers* (`Box`, `Rc`, `RefCell`).md",
-    "R U S T/RUST FROM AI/3 Moduły i organizacja kodu.md",
     "R U S T/RUST FROM AI/2 Struct, Enum, Traits.md",
     "R U S T/RUST FROM AI/1 Ownership.md",
-    "R U S T/RUST FROM AI/_ 0 Rust.md",
     "linux/UBUNTU.md",
     "_ FullStack/Kotlin - FullStack/2 Admin Panel - Login Screen.md",
     "_ Desktop/WPF/Podstawowe kontrolki i zapisywanie do pliku.md",
@@ -243,9 +246,6 @@
     "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.3 Button.md",
     "_ Mobile/Android/LiveData and MutableLiveData.md",
     "_ Mobile/Android/uruchamiania na prawdziwym urządzeniu.md",
-    "_ Mobile/Android/Spinner.md",
-    "_ Mobile/Android/składnia operowania na klasach.md",
-    "_ Mobile/Android/selector.md",
     "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle",
     "_ Mobile/Android/the complete Android Kotlin/12 Lists and Views",
     "_ Mobile/Android/the complete Android Kotlin/10 Android Components",
