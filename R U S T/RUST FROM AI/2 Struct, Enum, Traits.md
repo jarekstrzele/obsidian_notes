@@ -109,11 +109,26 @@ Rust rozróżnia dwa główne typy reprezentacji tekstu:
 
 # ZADANIA
 
-## pierwsze
+## pierwsze - ``
+
+
 >Utwórz strukturę `Car` reprezentującą samochód, która zawiera trzy pola: `make` (marka) typu `String`, `model` (model) typu `String`, oraz `year` (rok produkcji) typu `u32`. Następnie, w funkcji `main`, stwórz instancję tej struktury dla samochodu marki "Toyota", modelu "Corolla", z rokiem produkcji 2021. Wyświetl informacje o samochodzie w formacie: "Marka: Model (Rok produkcji)".
 
 
+```rust
+struct Car{
+	make: String,
+	model: String,
+	year: u32
+}
 
+fn main(){
+
+	let car = Car{make: String::from("Toyota"), model: String::from("Corolla"), year:2008};
+	
+	println!("Marka: {make}, Model: {model}, Year: {year}", make=car.make, model=car.model, year=car.year);
+}
+```
 
 
 
