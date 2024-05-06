@@ -60,6 +60,7 @@ fn main() {
 >[!important] `traits`
 >Cechy (ang. traits) to w pewnym sensie odpowiedniki interfejsów z innych języków, ale posiadają również inne możliwości. Pozwalają na definiowanie zbioru metod, które muszą być zaimplementowane przez struktury czy wyliczenia, które je implementują.
 
+> Parametr `&self` oznacza, że metoda ma dostęp tylko do odczytu do struktury (nie może modyfikować pól).
 
 ```rust
 use std::fmt::format;
@@ -92,6 +93,41 @@ fn main() {
 	println!("{}", my_pet.describe());
 }
 ```
+
+>[!danger] `format!`
+> Makro `format!` działa podobnie do `println!`, ale zamiast wypisywać wynik na standardowe wyjście, ==zwraca sformatowany łańcuch znaków== (`String`). 
+> 
+> Używane jest często do tworzenia tekstu, który później może być przetwarzany w inny sposób.
+
+
+### Literały łańcuchowe i typ `String`
+
+Rust rozróżnia dwa główne typy reprezentacji tekstu:
+
+- **Literały łańcuchowe (`&str`)**: Są to niewielkie i niezmienne widoki na sekwencję znaków. Są zazwyczaj zapisywane bezpośrednio w kodzie jako ciągi znaków w cudzysłowach i są zapisywane w pamięci wykonywalnej programu.
+- **Obiekty `String`**: Są to zmienne, dynamicznie alokowane ciągi znaków, które można modyfikować po utworzeniu (np. dodawać do nich inne ciągi, zmieniać je itp.). Są one bardziej elastyczne niż `&str` i używane, gdy potrzebujesz zmieniać tekst w trakcie działania programu.
+
+# ZADANIA
+
+## pierwsze
+>Utwórz strukturę `Car` reprezentującą samochód, która zawiera trzy pola: `make` (marka) typu `String`, `model` (model) typu `String`, oraz `year` (rok produkcji) typu `u32`. Następnie, w funkcji `main`, stwórz instancję tej struktury dla samochodu marki "Toyota", modelu "Corolla", z rokiem produkcji 2021. Wyświetl informacje o samochodzie w formacie: "Marka: Model (Rok produkcji)".
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
