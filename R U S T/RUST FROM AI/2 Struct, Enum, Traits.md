@@ -23,6 +23,7 @@ fn main() {
 ```
 
 # Enum
+#rust/enum 
 >[!important] `Enum`
 >Wyliczenia (ang. *enums*) pozwalają na zdefiniowanie
 >> typu, który może przyjmować różne warianty. 
@@ -50,6 +51,49 @@ fn main() {
 	}
 }
 ```
+
+
+
+# `traits`
+#rust/traits
+
+>[!important] `traits`
+>Cechy (ang. traits) to w pewnym sensie odpowiedniki interfejsów z innych języków, ale posiadają również inne możliwości. Pozwalają na definiowanie zbioru metod, które muszą być zaimplementowane przez struktury czy wyliczenia, które je implementują.
+
+
+```rust
+use std::fmt::format;
+
+trait Describable{
+	fn describe(&self) -> String;
+}
+
+struct Animal{
+	name: String,
+	species: String,
+	age: i32,
+}
+
+
+impl Describable for Animal{
+	fn describe(&self) -> String {
+		format!("{} jest zwierzęciem z gatunku {} i ma lat {}", self.name, self.species, self.age)
+	}
+}
+
+
+fn main() {
+	let my_pet = Animal {
+		name: String::from("Burek"),
+		species: String::from("Pies"),
+		age: 11,
+	};
+
+	println!("{}", my_pet.describe());
+}
+```
+
+
 
 
 
