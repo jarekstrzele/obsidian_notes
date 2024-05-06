@@ -164,7 +164,28 @@ fn main(){
 > Zdefiniuj cechę `Printable`, która posiada metodę `print`. Metoda ta nie przyjmuje argumentów i niczego nie zwraca. Następnie zaimplementuj tę cechę dla struktury `Book`, która zawiera jedno pole `title` typu `String`. Implementacja metody `print` dla `Book` powinna wyświetlać tytuł książki. W funkcji `main`, stwórz instancję `Book` z tytułem "Rust Programming" i wywołaj metodę `print`.
 
 
+```rust
+trait Printable{
+	fn print(&self);
+}
 
+struct Book{
+	title:String,
+}
+ 
+
+impl Printable for Book{
+	fn print(&self){
+		println!("title: {}", self.title)
+	}
+}
+
+
+fn main(){
+	let book = Book{title: String::from("Rust Programming")};
+	book.print();
+}
+```
 
 
 
