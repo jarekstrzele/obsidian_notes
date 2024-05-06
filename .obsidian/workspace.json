@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/UBUNTU.md",
+                "file": "R U S T/RUST FROM AI/1 Ownership.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/UBUNTU.md",
+                "file": "R U S T/RUST FROM AI/1 Ownership.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/UBUNTU.md",
+                "file": "R U S T/RUST FROM AI/1 Ownership.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/UBUNTU.md"
+                "file": "R U S T/RUST FROM AI/1 Ownership.md"
               }
             }
           },
@@ -219,12 +219,13 @@
   },
   "active": "90ff715e3f155d47",
   "lastOpenFiles": [
+    "R U S T/RUST FROM AI/_ 0 Rust.md",
     "R U S T/RUST FROM AI/1 Ownership.md",
+    "linux/UBUNTU.md",
+    "_ FullStack/Kotlin - FullStack/2 Admin Panel - Login Screen.md",
     "_ Desktop/WPF/Podstawowe kontrolki i zapisywanie do pliku.md",
     "Git/Komunikaty w Commitach.md",
-    "R U S T/RUST FROM AI/_ 0 Rust.md",
     "R U S T/RUST FROM AI",
-    "_ FullStack/Kotlin - FullStack/2 Admin Panel - Login Screen.md",
     "_ FullStack/Kotlin - FullStack/_ 0 Full Stack Kotlin Multiplatform KMP Development.md",
     "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.2 Application Life Cycle.md",
     "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.1.   Intent.md",
@@ -246,7 +247,6 @@
     "_ Mobile/Android/the complete Android Kotlin/12 Lists and Views.md",
     "12.3 Activity Life Cycle.md",
     "_ Mobile/Android/the complete Android Kotlin/13 Intent and life cycle.md",
-    "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.3 Activity Life Cycle.md",
     "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle",
     "_ Mobile/Android/the complete Android Kotlin/12 Lists and Views",
     "_ Mobile/Android/the complete Android Kotlin/10 Android Components",
