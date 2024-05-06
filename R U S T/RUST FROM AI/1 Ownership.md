@@ -64,7 +64,27 @@ for i in 10..=15{
 }
 ```
 
-## iterowanie po
+### iterowanie po wektorze - zadanie
+> napisz prostą funkcję w Rust, która przyjmuje wektor liczb całkowitych jako parametr (poprzez **pożyczenie**) i wypisuje każdy element tego wektora. Możesz użyć pętli `for` do iteracji przez elementy wektora.
+
+```rust
+fn showElems(myVector: &Vec<i32>){
+
+	for elem in myVector{
+		println!("{}", elem);
+	}
+}
+
+
+fn main() {
+
+	let v = vec![11,22,33,44];
+	showElems(&v);
+}
+```
+
+**użycie wycinka**
+> Wycinki są bardziej uniwersalne i mogą być używane z różnymi rodzajami kontenerów danych, nie tylko z `Vec`.
 
 
 
