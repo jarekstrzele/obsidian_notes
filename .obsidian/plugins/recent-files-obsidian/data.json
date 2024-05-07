@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "13.4. Fragment Life Cycle",
+      "path": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.4. Fragment Life Cycle.md"
+    },
+    {
       "basename": "13.3 Activity Life Cycle",
       "path": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.3 Activity Life Cycle.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "LINQ",
       "path": "C Sharp/LINQ.md"
-    },
-    {
-      "basename": "3. Testy jednostkowe",
-      "path": "Testowanie/CSharp Testy jednostkowe i integracyjne/3. Testy jednostkowe.md"
     }
   ],
   "omittedPaths": [],
