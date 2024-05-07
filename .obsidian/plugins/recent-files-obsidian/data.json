@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "13.3 Activity Life Cycle",
+      "path": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.3 Activity Life Cycle.md"
+    },
+    {
+      "basename": "13.2 Application Life Cycle",
+      "path": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.2 Application Life Cycle.md"
+    },
+    {
+      "basename": "13.1.   Intent",
+      "path": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.1.   Intent.md"
+    },
+    {
       "basename": "3 Podstawy tworzenia aplikacji",
       "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "3. Testy jednostkowe",
       "path": "Testowanie/CSharp Testy jednostkowe i integracyjne/3. Testy jednostkowe.md"
-    },
-    {
-      "basename": "0. Testowanie jednostkowe i integracyjne",
-      "path": "Testowanie/CSharp Testy jednostkowe i integracyjne/0. Testowanie jednostkowe i integracyjne.md"
-    },
-    {
-      "basename": "_ 0 React Full",
-      "path": "_ WEB/REACT/React - the Complete Guide/_ 0 React Full.md"
-    },
-    {
-      "basename": "Wyświeltanie info",
-      "path": "_ Desktop/WPF/Wyświeltanie info.md"
     }
   ],
   "omittedPaths": [],

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md",
+                "file": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.3 Activity Life Cycle.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md",
+                "file": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.3 Activity Life Cycle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md",
+                "file": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.3 Activity Life Cycle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md"
+                "file": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.3 Activity Life Cycle.md"
               }
             }
           },
@@ -217,8 +217,13 @@
   },
   "active": "3d3d211d7b8eb595",
   "lastOpenFiles": [
-    "_ Mobile/Kotlin/Kotlin bez tajemnic/_ Kotlin bez tajemnic.md",
+    "Pasted image 20240507112050.png",
+    "Pasted image 20240507112024.png",
+    "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.2 Application Life Cycle.md",
+    "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.3 Activity Life Cycle.md",
+    "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.1.   Intent.md",
     "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md",
+    "_ Mobile/Kotlin/Kotlin bez tajemnic/_ Kotlin bez tajemnic.md",
     "_ Mobile/Kotlin/Kotlin bez tajemnic/3.1. Fragments.md",
     "_ Mobile/Kotlin/Kotlin bez tajemnic/3.2. View Models.md",
     "_ Mobile/Kotlin/Kotlin bez tajemnic/3.3. View Binding.md",
@@ -236,14 +241,10 @@
     "_ Desktop/WPF/Podstawowe kontrolki i zapisywanie do pliku.md",
     "Git/Komunikaty w Commitach.md",
     "R U S T/RUST FROM AI",
-    "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.2 Application Life Cycle.md",
-    "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.1.   Intent.md",
     "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.1 Layouts in Android App.md",
     "_ Desktop/WPF/Alien Form.md",
     "_ Mobile/argument.md",
     "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.2 TextView.md",
-    "_ Desktop/WPF/Wyświeltanie info.md",
-    "_ Desktop/WPF/TicTacToe.md",
     "_ FullStack/Kotlin - FullStack",
     "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle",
     "_ Mobile/Android/the complete Android Kotlin/12 Lists and Views",
@@ -261,7 +262,6 @@
     "Pasted image 20240131091457.png",
     "Pasted image 20240115122731.png",
     "Pasted image 20240115085344.png",
-    "Pasted image 20240115085044.png",
-    "Pasted image 20240115084911.png"
+    "Pasted image 20240115085044.png"
   ]
 }
