@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "1. Typy danych",
+      "path": "HASKELL/Haskell GPT - od podstaw/1. Typy danych.md"
+    },
+    {
       "basename": "_ 0 Wprowadzenie",
       "path": "HASKELL/Haskell GPT - od podstaw/_ 0 Wprowadzenie.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_ the complete Android Kotlin",
       "path": "_ Mobile/Android/the complete Android Kotlin/_ the complete Android Kotlin.md"
-    },
-    {
-      "basename": "10.1 Binding",
-      "path": "_ Desktop/WPF/od Podstaw do app w WPF/10.1 Binding.md"
     }
   ],
   "omittedPaths": [],

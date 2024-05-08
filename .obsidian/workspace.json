@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HASKELL/Haskell GPT - od podstaw/_ 0 Wprowadzenie.md",
+                "file": "HASKELL/Haskell GPT - od podstaw/1. Typy danych.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/Haskell GPT - od podstaw/_ 0 Wprowadzenie.md",
+                "file": "HASKELL/Haskell GPT - od podstaw/1. Typy danych.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/Haskell GPT - od podstaw/_ 0 Wprowadzenie.md",
+                "file": "HASKELL/Haskell GPT - od podstaw/1. Typy danych.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/Haskell GPT - od podstaw/_ 0 Wprowadzenie.md"
+                "file": "HASKELL/Haskell GPT - od podstaw/1. Typy danych.md"
               }
             }
           },
@@ -231,6 +231,7 @@
   "active": "d2db4edac05dbe79",
   "lastOpenFiles": [
     "HASKELL/Haskell GPT - od podstaw/_ 0 Wprowadzenie.md",
+    "HASKELL/Haskell GPT - od podstaw/1. Typy danych.md",
     "HASKELL/Haskell GPT - od podstaw",
     "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.4. Fragment Life Cycle.md",
     "Pasted image 20240507114353.png",
@@ -260,7 +261,6 @@
     "R U S T/RUST FROM AI",
     "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.1 Layouts in Android App.md",
     "_ Desktop/WPF/Alien Form.md",
-    "_ Mobile/argument.md",
     "_ FullStack/Kotlin - FullStack",
     "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle",
     "_ Mobile/Android/the complete Android Kotlin/12 Lists and Views",
