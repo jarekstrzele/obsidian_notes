@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "_ 0 Wprowadzenie",
+      "path": "HASKELL/Haskell GPT - od podstaw/_ 0 Wprowadzenie.md"
+    },
+    {
       "basename": "13.4. Fragment Life Cycle",
       "path": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.4. Fragment Life Cycle.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "10.1 Binding",
       "path": "_ Desktop/WPF/od Podstaw do app w WPF/10.1 Binding.md"
-    },
-    {
-      "basename": "LINQ",
-      "path": "C Sharp/LINQ.md"
     }
   ],
   "omittedPaths": [],
