@@ -16,12 +16,23 @@ cabal --version
 
 ```
 
+`HelloWorld.hs`
+```haskell
+main :: IO ()
+main = putStrLn "Hello, Haskell"
+```
+
+```bash
+ghc HelloWorld.hs -o hello
+
+./hello
+
+```
 
 
-
-
-
-
+wyjaśnienie:
+- Każdy program w Haskellu potrzebuje funkcji `main`, która służy jako punkt wejścia programu. Funkcja ta jest specjalna, ponieważ jest wywoływana, kiedy uruchamiasz skompilowany program.
+	- `main`
 
 
 
