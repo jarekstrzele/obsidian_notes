@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HASKELL/Haskell GPT - od podstaw/1. Typy danych.md",
+                "file": "HASKELL/Haskell GPT - od podstaw/_ 0 Wprowadzenie.md",
                 "mode": "source",
                 "source": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/Haskell GPT - od podstaw/1. Typy danych.md",
+                "file": "HASKELL/Haskell GPT - od podstaw/_ 0 Wprowadzenie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/Haskell GPT - od podstaw/1. Typy danych.md",
+                "file": "HASKELL/Haskell GPT - od podstaw/_ 0 Wprowadzenie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/Haskell GPT - od podstaw/1. Typy danych.md"
+                "file": "HASKELL/Haskell GPT - od podstaw/_ 0 Wprowadzenie.md"
               }
             }
           },
@@ -242,11 +242,12 @@
   },
   "active": "d2db4edac05dbe79",
   "lastOpenFiles": [
+    "HASKELL/Haskell GPT - od podstaw/1. Typy danych.md",
+    "R U S T/RUST FROM AI/_ 0 Rust.md",
     "R U S T/RUST FROM AI/4. Wskaźniki Smart Pointers (Box,  Rc, RefCell).md",
     "linux/UBUNTU.md",
     "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.4. Fragment Life Cycle.md",
     "HASKELL/Haskell GPT - od podstaw/_ 0 Wprowadzenie.md",
-    "HASKELL/Haskell GPT - od podstaw/1. Typy danych.md",
     "HASKELL/Haskell GPT - od podstaw",
     "Pasted image 20240507114353.png",
     "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.3 Activity Life Cycle.md",
@@ -262,7 +263,6 @@
     "_ FullStack/Kotlin - FullStack/_ 0 Full Stack Kotlin Multiplatform KMP Development.md",
     "_ FullStack/Kotlin - FullStack/2 Admin Panel - Login Screen.md",
     "R U S T/RUST FROM AI/3.  Moduły i organizacja kodu.md",
-    "R U S T/RUST FROM AI/_ 0 Rust.md",
     "R U S T/RUST FROM AI/7. Zarządzanie błędami..md",
     "R U S T/RUST FROM AI/6. Asynchroniczność.md",
     "R U S T/RUST FROM AI/5. Iteratory.md",
