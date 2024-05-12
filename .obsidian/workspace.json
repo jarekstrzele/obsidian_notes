@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "b4cb92ff2b313ce8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_ Desktop/WPF/Podstawowe kontrolki i zapisywanie do pliku.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1177599b2574bfb8",
             "type": "leaf",
             "state": {
@@ -44,19 +32,15 @@
             }
           },
           {
-            "id": "90ff715e3f155d47",
+            "id": "72704e6db7f87f89",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_ Desktop/WPF/Podstawowe kontrolki i zapisywanie do pliku.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -138,7 +122,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Desktop/WPF/Podstawowe kontrolki i zapisywanie do pliku.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +138,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Desktop/WPF/Podstawowe kontrolki i zapisywanie do pliku.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,9 +159,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_ Desktop/WPF/Podstawowe kontrolki i zapisywanie do pliku.md"
-              }
+              "state": {}
             }
           },
           {
@@ -229,14 +209,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "90ff715e3f155d47",
+  "active": "72704e6db7f87f89",
   "lastOpenFiles": [
+    "_ FullStack/Kotlin - FullStack/2 Admin Panel - Login Screen.md",
+    "_ Desktop/WPF/Podstawowe kontrolki i zapisywanie do pliku.md",
     "R U S T/RUST FROM AI/1 Ownership.md",
     "Git/Komunikaty w Commitach.md",
     "R U S T/RUST FROM AI/_ 0 Rust.md",
     "R U S T/RUST FROM AI",
-    "_ Desktop/WPF/Podstawowe kontrolki i zapisywanie do pliku.md",
-    "_ FullStack/Kotlin - FullStack/2 Admin Panel - Login Screen.md",
     "_ FullStack/Kotlin - FullStack/_ 0 Full Stack Kotlin Multiplatform KMP Development.md",
     "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.2 Application Life Cycle.md",
     "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.1.   Intent.md",
