@@ -1,4 +1,4 @@
-[[_ Haskell plac ćwiczeń dla uczonych]]
+**[[_ Haskell plac ćwiczeń dla uczonych]]
 
 ----
 # Haskell i myślenie funkcyjne
