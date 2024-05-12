@@ -61,14 +61,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/UBUNTU.md",
+                "file": "R U S T/RUST FROM AI/4. Wskaźniki Smart Pointers (Box,  Rc, RefCell).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/UBUNTU.md",
+                "file": "HASKELL/Haskell GPT - od podstaw/1. Typy danych.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/UBUNTU.md",
+                "file": "HASKELL/Haskell GPT - od podstaw/1. Typy danych.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/UBUNTU.md"
+                "file": "HASKELL/Haskell GPT - od podstaw/1. Typy danych.md"
               }
             }
           },
@@ -240,8 +240,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "149e71776b7d1e3a",
+  "active": "d2db4edac05dbe79",
   "lastOpenFiles": [
+    "R U S T/RUST FROM AI/4. Wskaźniki Smart Pointers (Box,  Rc, RefCell).md",
+    "linux/UBUNTU.md",
     "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.4. Fragment Life Cycle.md",
     "HASKELL/Haskell GPT - od podstaw/_ 0 Wprowadzenie.md",
     "HASKELL/Haskell GPT - od podstaw/1. Typy danych.md",
@@ -264,10 +266,8 @@
     "R U S T/RUST FROM AI/7. Zarządzanie błędami..md",
     "R U S T/RUST FROM AI/6. Asynchroniczność.md",
     "R U S T/RUST FROM AI/5. Iteratory.md",
-    "R U S T/RUST FROM AI/4. Wskaźniki *Smart Pointers* (`Box`, `Rc`, `RefCell`).md",
     "R U S T/RUST FROM AI/2 Struct, Enum, Traits.md",
     "R U S T/RUST FROM AI/1 Ownership.md",
-    "linux/UBUNTU.md",
     "_ Desktop/WPF/Podstawowe kontrolki i zapisywanie do pliku.md",
     "Git/Komunikaty w Commitach.md",
     "R U S T/RUST FROM AI",
