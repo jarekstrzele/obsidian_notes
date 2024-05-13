@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HASKELL/Haskell GPT - od podstaw/1. Typy danych.md",
+                "file": "HASKELL/Haskell GPT - od podstaw/2. Funkcje.md",
                 "mode": "source",
                 "source": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/Haskell GPT - od podstaw/1. Typy danych.md",
+                "file": "HASKELL/Haskell GPT - od podstaw/2. Funkcje.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/Haskell GPT - od podstaw/1. Typy danych.md",
+                "file": "HASKELL/Haskell GPT - od podstaw/2. Funkcje.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/Haskell GPT - od podstaw/1. Typy danych.md"
+                "file": "HASKELL/Haskell GPT - od podstaw/2. Funkcje.md"
               }
             }
           },
@@ -242,8 +242,9 @@
   },
   "active": "d2db4edac05dbe79",
   "lastOpenFiles": [
-    "HASKELL/Haskell GPT - od podstaw/_ 0 Wprowadzenie.md",
     "HASKELL/Haskell GPT - od podstaw/1. Typy danych.md",
+    "HASKELL/Haskell GPT - od podstaw/2. Funkcje.md",
+    "HASKELL/Haskell GPT - od podstaw/_ 0 Wprowadzenie.md",
     "R U S T/RUST FROM AI/_ 0 Rust.md",
     "R U S T/RUST FROM AI/4. Wskaźniki Smart Pointers (Box,  Rc, RefCell).md",
     "linux/UBUNTU.md",
@@ -272,7 +273,6 @@
     "Git/Komunikaty w Commitach.md",
     "R U S T/RUST FROM AI",
     "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.1 Layouts in Android App.md",
-    "_ Desktop/WPF/Alien Form.md",
     "_ FullStack/Kotlin - FullStack",
     "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle",
     "_ Mobile/Android/the complete Android Kotlin/12 Lists and Views",
