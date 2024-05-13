@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "3. Monady i Funktory",
+      "path": "HASKELL/Haskell GPT - od podstaw/3. Monady i Funktory.md"
+    },
+    {
       "basename": "2. Funkcje",
       "path": "HASKELL/Haskell GPT - od podstaw/2. Funkcje.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "5. First Android App - Unit Converter Part 1",
       "path": "_ Mobile/Android/the complete Android 14 and Kotlin/5. First Android App - Unit Converter Part 1.md"
-    },
-    {
-      "basename": "DatePicker Dialog",
-      "path": "_ Mobile/Android/DatePicker Dialog.md"
     }
   ],
   "omittedPaths": [],
