@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "4. Wskaźniki Smart Pointers (Box,  Rc, RefCell)",
+      "path": "R U S T/RUST FROM AI/4. Wskaźniki Smart Pointers (Box,  Rc, RefCell).md"
+    },
+    {
       "basename": "3.  Moduły i organizacja kodu",
       "path": "R U S T/RUST FROM AI/3.  Moduły i organizacja kodu.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "1 Ownership",
       "path": "R U S T/RUST FROM AI/1 Ownership.md"
-    },
-    {
-      "basename": "4. Wskaźniki Smart Pointers (Box,  Rc, RefCell)",
-      "path": "R U S T/RUST FROM AI/4. Wskaźniki Smart Pointers (Box,  Rc, RefCell).md"
     },
     {
       "basename": "5. Iteratory",
