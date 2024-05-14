@@ -5,16 +5,16 @@
       "path": "R U S T/RUST FROM AI/3.  Moduły i organizacja kodu.md"
     },
     {
+      "basename": "_ 0 Rust",
+      "path": "R U S T/RUST FROM AI/_ 0 Rust.md"
+    },
+    {
       "basename": "2 Struct, Enum, Traits",
       "path": "R U S T/RUST FROM AI/2 Struct, Enum, Traits.md"
     },
     {
       "basename": "1 Ownership",
       "path": "R U S T/RUST FROM AI/1 Ownership.md"
-    },
-    {
-      "basename": "_ 0 Rust",
-      "path": "R U S T/RUST FROM AI/_ 0 Rust.md"
     },
     {
       "basename": "4. Wskaźniki Smart Pointers (Box,  Rc, RefCell)",
