@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/RUST FROM AI/2 Struct, Enum, Traits.md",
+                "file": "R U S T/RUST FROM AI/3.  Moduły i organizacja kodu.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/RUST FROM AI/2 Struct, Enum, Traits.md",
+                "file": "R U S T/RUST FROM AI/3.  Moduły i organizacja kodu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/RUST FROM AI/2 Struct, Enum, Traits.md",
+                "file": "R U S T/RUST FROM AI/3.  Moduły i organizacja kodu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/RUST FROM AI/2 Struct, Enum, Traits.md"
+                "file": "R U S T/RUST FROM AI/3.  Moduły i organizacja kodu.md"
               }
             }
           },
@@ -231,10 +231,10 @@
   },
   "active": "72704e6db7f87f89",
   "lastOpenFiles": [
-    "R U S T/RUST FROM AI/1 Ownership.md",
-    "R U S T/RUST FROM AI/_ 0 Rust.md",
     "R U S T/RUST FROM AI/2 Struct, Enum, Traits.md",
+    "R U S T/RUST FROM AI/1 Ownership.md",
     "R U S T/RUST FROM AI/3.  Moduły i organizacja kodu.md",
+    "R U S T/RUST FROM AI/_ 0 Rust.md",
     "R U S T/RUST FROM AI/4. Wskaźniki Smart Pointers (Box,  Rc, RefCell).md",
     "R U S T/RUST FROM AI/5. Iteratory.md",
     "R U S T/RUST FROM AI/7. Zarządzanie błędami..md",

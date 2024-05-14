@@ -1,4 +1,4 @@
-
+[[R U S T/RUST FROM AI/_ 0 Rust]]
 # **Ownership**
 >-  Każda wartość  ma jednego właściciela/zmienną, która jest odpowiedzialna za czas życia tej wartości.
 >- gdy właściciel wychodzi poza zakres swojego działania, wartość jest automatycznie usunięta
