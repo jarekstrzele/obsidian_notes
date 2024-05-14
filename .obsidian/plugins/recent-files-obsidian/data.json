@@ -5,6 +5,10 @@
       "path": "R U S T/RUST FROM AI/4. Wskaźniki Smart Pointers (Box,  Rc, RefCell).md"
     },
     {
+      "basename": "Stack And Heap",
+      "path": "R U S T/RUST FROM AI/Stack And Heap.md"
+    },
+    {
       "basename": "3.  Moduły i organizacja kodu",
       "path": "R U S T/RUST FROM AI/3.  Moduły i organizacja kodu.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_ 0 React Full",
       "path": "_ WEB/REACT/React - the Complete Guide/_ 0 React Full.md"
-    },
-    {
-      "basename": "Wyświeltanie info",
-      "path": "_ Desktop/WPF/Wyświeltanie info.md"
     }
   ],
   "omittedPaths": [],
