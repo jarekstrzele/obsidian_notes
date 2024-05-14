@@ -1,20 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "13.5. Services",
-      "path": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.5. Services.md"
+      "basename": "2 Struct, Enum, Traits",
+      "path": "R U S T/RUST FROM AI/2 Struct, Enum, Traits.md"
     },
     {
-      "basename": "13.4. Fragment Life Cycle",
-      "path": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.4. Fragment Life Cycle.md"
+      "basename": "1 Ownership",
+      "path": "R U S T/RUST FROM AI/1 Ownership.md"
     },
     {
       "basename": "_ 0 Rust",
       "path": "R U S T/RUST FROM AI/_ 0 Rust.md"
     },
     {
-      "basename": "1 Ownership",
-      "path": "R U S T/RUST FROM AI/1 Ownership.md"
+      "basename": "3.  Moduły i organizacja kodu",
+      "path": "R U S T/RUST FROM AI/3.  Moduły i organizacja kodu.md"
+    },
+    {
+      "basename": "4. Wskaźniki Smart Pointers (Box,  Rc, RefCell)",
+      "path": "R U S T/RUST FROM AI/4. Wskaźniki Smart Pointers (Box,  Rc, RefCell).md"
+    },
+    {
+      "basename": "5. Iteratory",
+      "path": "R U S T/RUST FROM AI/5. Iteratory.md"
+    },
+    {
+      "basename": "7. Zarządzanie błędami.",
+      "path": "R U S T/RUST FROM AI/7. Zarządzanie błędami..md"
+    },
+    {
+      "basename": "6. Asynchroniczność",
+      "path": "R U S T/RUST FROM AI/6. Asynchroniczność.md"
+    },
+    {
+      "basename": "13.5. Services",
+      "path": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.5. Services.md"
+    },
+    {
+      "basename": "13.4. Fragment Life Cycle",
+      "path": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.4. Fragment Life Cycle.md"
     },
     {
       "basename": "_ 0 Full Stack Kotlin Multiplatform KMP Development",
@@ -175,30 +199,6 @@
     {
       "basename": "Wyświeltanie info",
       "path": "_ Desktop/WPF/Wyświeltanie info.md"
-    },
-    {
-      "basename": "4.1. Pierwsza wersja stopera",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4.1. Pierwsza wersja stopera.md"
-    },
-    {
-      "basename": "4.0. Przewodnik po metodach cyklu życia",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4.0. Przewodnik po metodach cyklu życia.md"
-    },
-    {
-      "basename": "4. Cykl życia aktywnośći",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4. Cykl życia aktywnośći.md"
-    },
-    {
-      "basename": "3 Wiele aktywności i intencji",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/3 Wiele aktywności i intencji.md"
-    },
-    {
-      "basename": "2. Tworzenie interaktywnych aplikacji",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/2. Tworzenie interaktywnych aplikacji.md"
-    },
-    {
-      "basename": "1. Skok na głęboką wodę",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/1. Skok na głęboką wodę.md"
     }
   ],
   "omittedPaths": [],

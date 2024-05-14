@@ -16,7 +16,6 @@ struct Point{
 }
 
 fn main() {
-
 	let p = Point{x:10, y:20};
 	println!("{}, {}", p.x, p.y);
 }
@@ -29,7 +28,6 @@ fn main() {
 >> typu, który może przyjmować różne warianty. 
 > 
 >Są one używane w wielu sytuacjach, gdzie struktury byłyby zbyt sztywne.
-
 
 ```rust
 enum Message{
@@ -51,8 +49,6 @@ fn main() {
 	}
 }
 ```
-
-
 
 # `traits`
 #rust/traits

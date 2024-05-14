@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/RUST FROM AI/_ 0 Rust.md",
+                "file": "R U S T/RUST FROM AI/2 Struct, Enum, Traits.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.5. Services.md",
+                "file": "R U S T/RUST FROM AI/2 Struct, Enum, Traits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.5. Services.md",
+                "file": "R U S T/RUST FROM AI/2 Struct, Enum, Traits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.5. Services.md"
+                "file": "R U S T/RUST FROM AI/2 Struct, Enum, Traits.md"
               }
             }
           },
@@ -229,18 +229,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8182139a8854814e",
+  "active": "72704e6db7f87f89",
   "lastOpenFiles": [
-    "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.4. Fragment Life Cycle.md",
-    "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.5. Services.md",
+    "R U S T/RUST FROM AI/1 Ownership.md",
     "R U S T/RUST FROM AI/_ 0 Rust.md",
-    "conflict-files-obsidian-git.md",
+    "R U S T/RUST FROM AI/2 Struct, Enum, Traits.md",
+    "R U S T/RUST FROM AI/3.  Moduły i organizacja kodu.md",
+    "R U S T/RUST FROM AI/4. Wskaźniki Smart Pointers (Box,  Rc, RefCell).md",
+    "R U S T/RUST FROM AI/5. Iteratory.md",
     "R U S T/RUST FROM AI/7. Zarządzanie błędami..md",
     "R U S T/RUST FROM AI/6. Asynchroniczność.md",
-    "R U S T/RUST FROM AI/5. Iteratory.md",
-    "R U S T/RUST FROM AI/4. Wskaźniki Smart Pointers (Box,  Rc, RefCell).md",
-    "R U S T/RUST FROM AI/3.  Moduły i organizacja kodu.md",
-    "R U S T/RUST FROM AI/2 Struct, Enum, Traits.md",
+    "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.5. Services.md",
+    "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.4. Fragment Life Cycle.md",
+    "conflict-files-obsidian-git.md",
     "Pasted image 20240507114353.png",
     "Pasted image 20240507112050.png",
     "Pasted image 20240507112024.png",
@@ -251,7 +252,6 @@
     "HASKELL/Haskell GPT - od podstaw/1.2. Klasy typów.md",
     "HASKELL/Haskell GPT - od podstaw/1. 2. Typy danych.md",
     "HASKELL/Haskell GPT - od podstaw",
-    "R U S T/RUST FROM AI/1 Ownership.md",
     "_ FullStack/Kotlin - FullStack/_ 0 Full Stack Kotlin Multiplatform KMP Development.md",
     "HASKELL/Haskell plac ćwiczeń/_ Haskell plac ćwiczeń dla uczonych.md",
     "_ FullStack/Kotlin - FullStack/2 Admin Panel - Login Screen.md",

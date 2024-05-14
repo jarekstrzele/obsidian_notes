@@ -5,30 +5,25 @@
 
 
 # **Borrowing**
->- watość poże być pożyczona przez inne zmienne
+>- wartość może być pożyczona przez inne zmienne
 >- pożyczanie jest kontrolowane przez *wskaźniki*:
 >	- `&` referencja  niezmieniająca
 >			   pozwala na dostęp  do wartości bez możliwości jej zmiany
->	- `&mut` referencja niezmieniająca 
+>	- `&mut` referencja zmieniająca 
 >				pozwala na modyfikację wartości
 
 
 # **Przykład**
 W tym przykładzie, po wywołaniu funkcji `take`, wektor `v` jest przekazywany do funkcji i staje się jej "właścicielem". Po zakończeniu funkcji `take`, wektor jest zwalniany, więc próba użycia `v` w funkcji `main` kończy się błędem kompilacji. Właśnie tak działa mechanizm własności w Rust.
-
-
 ## przez przekazanie
 ```rust
-fn take(vec: Vec<i32>){
-
-}
-
+fn take(vec: Vec<i32>){}
 
 fn main(){
 	println!("Cześć");
 	let v= vec![1,2,3];
 	take(v);
-	println!("{:?}", v);
+	println!("{:?}", v); // error
 }
 ```
 
@@ -50,17 +45,13 @@ fn main() {
 ### pętla for
 ```rust
 for i in 10..15{
-
 	println!("{}", i);
-
 }
 
 println!("--------- z = ----------");
 
 for i in 10..=15{
-
 	println!("{}", i);
-
 }
 ```
 
@@ -69,15 +60,12 @@ for i in 10..=15{
 
 ```rust
 fn showElems(myVector: &Vec<i32>){
-
 	for elem in myVector{
 		println!("{}", elem);
 	}
 }
 
-
 fn main() {
-
 	let v = vec![11,22,33,44];
 	showElems(&v);
 }
