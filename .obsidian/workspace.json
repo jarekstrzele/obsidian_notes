@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HASKELL/Haskell GPT - od podstaw/4. Klasy typów - interfejsy.md",
+                "file": "HASKELL/Haskell GPT - od podstaw/3. Monady i Funktory.md",
                 "mode": "source",
                 "source": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HASKELL/Haskell GPT - od podstaw/4. Klasy typów - interfejsy.md",
+                "file": "HASKELL/Haskell GPT - od podstaw/3. Monady i Funktory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HASKELL/Haskell GPT - od podstaw/4. Klasy typów - interfejsy.md",
+                "file": "HASKELL/Haskell GPT - od podstaw/3. Monady i Funktory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HASKELL/Haskell GPT - od podstaw/4. Klasy typów - interfejsy.md"
+                "file": "HASKELL/Haskell GPT - od podstaw/3. Monady i Funktory.md"
               }
             }
           },
@@ -242,8 +242,8 @@
   },
   "active": "d2db4edac05dbe79",
   "lastOpenFiles": [
-    "HASKELL/Haskell GPT - od podstaw/3. Monady i Funktory.md",
     "HASKELL/Haskell GPT - od podstaw/4. Klasy typów - interfejsy.md",
+    "HASKELL/Haskell GPT - od podstaw/3. Monady i Funktory.md",
     "HASKELL/Haskell GPT - od podstaw/2. Funkcje.md",
     "HASKELL/Haskell GPT - od podstaw/1. Typy danych.md",
     "HASKELL/Haskell GPT - od podstaw/_ 0 Wprowadzenie.md",
