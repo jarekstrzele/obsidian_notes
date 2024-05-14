@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4bc2dd43f41c0cda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -126,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/RUST FROM AI/_ 0 Rust.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/RUST FROM AI/_ 0 Rust.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/RUST FROM AI/_ 0 Rust.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -217,36 +229,40 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "72704e6db7f87f89",
+  "active": "4bc2dd43f41c0cda",
   "lastOpenFiles": [
+    "R U S T/RUST FROM AI/_ 0 Rust.md",
+    "conflict-files-obsidian-git.md",
+    "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.4. Fragment Life Cycle.md",
+    "R U S T/RUST FROM AI/7. Zarządzanie błędami..md",
+    "R U S T/RUST FROM AI/6. Asynchroniczność.md",
+    "R U S T/RUST FROM AI/5. Iteratory.md",
+    "R U S T/RUST FROM AI/4. Wskaźniki Smart Pointers (Box,  Rc, RefCell).md",
+    "R U S T/RUST FROM AI/3.  Moduły i organizacja kodu.md",
+    "R U S T/RUST FROM AI/2 Struct, Enum, Traits.md",
+    "Pasted image 20240507114353.png",
+    "Pasted image 20240507112050.png",
+    "Pasted image 20240507112024.png",
+    "HASKELL/Haskell GPT - od podstaw/_ 0 Wprowadzenie.md",
+    "HASKELL/Haskell GPT - od podstaw/3. Monady i Funktory.md",
+    "HASKELL/Haskell GPT - od podstaw/4. Klasy typów - interfejsy.md",
+    "HASKELL/Haskell GPT - od podstaw/2. Funkcje.md",
+    "HASKELL/Haskell GPT - od podstaw/1.2. Klasy typów.md",
+    "HASKELL/Haskell GPT - od podstaw/1. 2. Typy danych.md",
+    "HASKELL/Haskell GPT - od podstaw",
     "R U S T/RUST FROM AI/1 Ownership.md",
     "_ FullStack/Kotlin - FullStack/_ 0 Full Stack Kotlin Multiplatform KMP Development.md",
     "HASKELL/Haskell plac ćwiczeń/_ Haskell plac ćwiczeń dla uczonych.md",
     "_ FullStack/Kotlin - FullStack/2 Admin Panel - Login Screen.md",
     "_ Desktop/WPF/Podstawowe kontrolki i zapisywanie do pliku.md",
     "Git/Komunikaty w Commitach.md",
-    "R U S T/RUST FROM AI/_ 0 Rust.md",
     "R U S T/RUST FROM AI",
     "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.2 Application Life Cycle.md",
     "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.1.   Intent.md",
     "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.1 Layouts in Android App.md",
     "_ Desktop/WPF/Alien Form.md",
     "_ Mobile/argument.md",
-    "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.2 TextView.md",
-    "_ Desktop/WPF/Wyświeltanie info.md",
-    "_ Desktop/WPF/TicTacToe.md",
-    "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.5 ImageView.md",
     "_ FullStack/Kotlin - FullStack",
-    "_ Mobile/Android/the complete Android Kotlin/10 Android Components.md",
-    "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.3 Button.md",
-    "_ Mobile/Android/LiveData and MutableLiveData.md",
-    "_ Mobile/Android/uruchamiania na prawdziwym urządzeniu.md",
-    "_ Mobile/Android/Spinner.md",
-    "_ Mobile/Android/składnia operowania na klasach.md",
-    "_ Mobile/Android/selector.md",
-    "_ Mobile/Android/the complete Android Kotlin/12 Lists and Views.md",
-    "12.3 Activity Life Cycle.md",
-    "_ Mobile/Android/the complete Android Kotlin/13 Intent and life cycle.md",
     "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle",
     "_ Mobile/Android/the complete Android Kotlin/12 Lists and Views",
     "_ Mobile/Android/the complete Android Kotlin/10 Android Components",
@@ -257,13 +273,9 @@
     "methodology/images/bar_matplotlib.png",
     "methodology/images/age_rating_barh.png",
     "methodology/images/age_rating_bar.png",
-    "_ Desktop/WPF/The WPF Guide for beginners",
     "Pasted image 20240206220501.png",
     "Pasted image 20240131102422.png",
     "Pasted image 20240131091457.png",
-    "Pasted image 20240115122731.png",
-    "Pasted image 20240115085344.png",
-    "Pasted image 20240115085044.png",
-    "Pasted image 20240115084911.png"
+    "Pasted image 20240115122731.png"
   ]
 }

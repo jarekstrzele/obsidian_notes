@@ -1,4 +1,18 @@
 
+----------------
+
+[[1 Ownership]]
+[[2 Struct, Enum, Traits]]
+[[3.  Moduły i organizacja kodu]]
+[[4. Wskaźniki Smart Pointers (Box,  Rc, RefCell)]]
+[[5. Iteratory]]
+[[6. Asynchroniczność]]
+[[7. Zarządzanie błędami.]]
+
+
+
+
+---------------
 # Potrzebny kompilator 
 
 ```bush
