@@ -1,24 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "3. Monady i Funktory",
-      "path": "HASKELL/Haskell GPT - od podstaw/3. Monady i Funktory.md"
+      "basename": "1.2. Klasy typów",
+      "path": "HASKELL/Haskell GPT - od podstaw/1.2. Klasy typów.md"
+    },
+    {
+      "basename": "1. 2. Typy danych",
+      "path": "HASKELL/Haskell GPT - od podstaw/1. 2. Typy danych.md"
     },
     {
       "basename": "4. Klasy typów - interfejsy",
       "path": "HASKELL/Haskell GPT - od podstaw/4. Klasy typów - interfejsy.md"
     },
     {
-      "basename": "2. Funkcje",
-      "path": "HASKELL/Haskell GPT - od podstaw/2. Funkcje.md"
-    },
-    {
-      "basename": "1. Typy danych",
-      "path": "HASKELL/Haskell GPT - od podstaw/1. Typy danych.md"
-    },
-    {
       "basename": "_ 0 Wprowadzenie",
       "path": "HASKELL/Haskell GPT - od podstaw/_ 0 Wprowadzenie.md"
+    },
+    {
+      "basename": "3. Monady i Funktory",
+      "path": "HASKELL/Haskell GPT - od podstaw/3. Monady i Funktory.md"
+    },
+    {
+      "basename": "2. Funkcje",
+      "path": "HASKELL/Haskell GPT - od podstaw/2. Funkcje.md"
     },
     {
       "basename": "_ 0 Rust",
@@ -195,10 +199,6 @@
     {
       "basename": "Funkcje lambda",
       "path": "_ Mobile/Android/Funkcje lambda.md"
-    },
-    {
-      "basename": "3. Functions, Objects and Coffee Machine",
-      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/3. Functions, Objects and Coffee Machine.md"
     }
   ],
   "omittedPaths": [],

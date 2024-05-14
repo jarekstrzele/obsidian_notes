@@ -1,5 +1,12 @@
 
-praca na Ubuntu
+----
+
+[[1. 2. Typy danych]]
+[[1.2. Klasy typów]]
+[[2. Funkcje]]
+[[3. Monady i Funktory]]
+[[4. Klasy typów - interfejsy]]
+
 
 ------
 # Instalacja
