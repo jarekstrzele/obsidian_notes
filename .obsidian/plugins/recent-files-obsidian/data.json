@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "13.5. Services",
+      "path": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.5. Services.md"
+    },
+    {
+      "basename": "13.4. Fragment Life Cycle",
+      "path": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.4. Fragment Life Cycle.md"
+    },
+    {
       "basename": "_ 0 Rust",
       "path": "R U S T/RUST FROM AI/_ 0 Rust.md"
     },
@@ -191,10 +199,6 @@
     {
       "basename": "1. Skok na głęboką wodę",
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/1. Skok na głęboką wodę.md"
-    },
-    {
-      "basename": "11 Toast, Snackbar, Dialog",
-      "path": "_ Mobile/Android/the complete Android Kotlin/11 Toast, Snackbar, Dialog.md"
     }
   ],
   "omittedPaths": [],
