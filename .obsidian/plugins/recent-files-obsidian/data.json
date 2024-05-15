@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "13.5. Services",
+      "path": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.5. Services.md"
+    },
+    {
       "basename": "4. Wskaźniki Smart Pointers (Box,  Rc, RefCell)",
       "path": "R U S T/RUST FROM AI/4. Wskaźniki Smart Pointers (Box,  Rc, RefCell).md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "6. Asynchroniczność",
       "path": "R U S T/RUST FROM AI/6. Asynchroniczność.md"
-    },
-    {
-      "basename": "13.5. Services",
-      "path": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.5. Services.md"
     },
     {
       "basename": "13.4. Fragment Life Cycle",
