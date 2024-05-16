@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "4. Wskaźniki Smart Pointers (Box,  Rc, RefCell)",
+      "path": "R U S T/RUST FROM AI/4. Wskaźniki Smart Pointers (Box,  Rc, RefCell).md"
+    },
+    {
+      "basename": "Stack And Heap",
+      "path": "R U S T/RUST FROM AI/Stack And Heap.md"
+    },
+    {
+      "basename": "7. Zarządzanie błędami.",
+      "path": "R U S T/RUST FROM AI/7. Zarządzanie błędami..md"
+    },
+    {
+      "basename": "6. Asynchroniczność",
+      "path": "R U S T/RUST FROM AI/6. Asynchroniczność.md"
+    },
+    {
+      "basename": "5. Iteratory",
+      "path": "R U S T/RUST FROM AI/5. Iteratory.md"
+    },
+    {
+      "basename": "3.  Moduły i organizacja kodu",
+      "path": "R U S T/RUST FROM AI/3.  Moduły i organizacja kodu.md"
+    },
+    {
       "basename": "2 Struct, Enum, Traits",
       "path": "R U S T/RUST FROM AI/2 Struct, Enum, Traits.md"
     },
@@ -15,10 +39,6 @@
     {
       "basename": "1.2. Klasy typów",
       "path": "HASKELL/Haskell GPT - od podstaw/1.2. Klasy typów.md"
-    },
-    {
-      "basename": "3.  Moduły i organizacja kodu",
-      "path": "R U S T/RUST FROM AI/3.  Moduły i organizacja kodu.md"
     },
     {
       "basename": "1. 2. Typy danych",
@@ -39,10 +59,6 @@
     {
       "basename": "2. Funkcje",
       "path": "HASKELL/Haskell GPT - od podstaw/2. Funkcje.md"
-    },
-    {
-      "basename": "4. Wskaźniki Smart Pointers (Box,  Rc, RefCell)",
-      "path": "R U S T/RUST FROM AI/4. Wskaźniki Smart Pointers (Box,  Rc, RefCell).md"
     },
     {
       "basename": "UBUNTU",
@@ -91,18 +107,6 @@
     {
       "basename": "2 Admin Panel - Login Screen",
       "path": "_ FullStack/Kotlin - FullStack/2 Admin Panel - Login Screen.md"
-    },
-    {
-      "basename": "7. Zarządzanie błędami.",
-      "path": "R U S T/RUST FROM AI/7. Zarządzanie błędami..md"
-    },
-    {
-      "basename": "6. Asynchroniczność",
-      "path": "R U S T/RUST FROM AI/6. Asynchroniczność.md"
-    },
-    {
-      "basename": "5. Iteratory",
-      "path": "R U S T/RUST FROM AI/5. Iteratory.md"
     },
     {
       "basename": "Podstawowe kontrolki i zapisywanie do pliku",
@@ -195,10 +199,6 @@
     {
       "basename": "6. State - Unit Converter Part 2",
       "path": "_ Mobile/Android/the complete Android 14 and Kotlin/6. State - Unit Converter Part 2.md"
-    },
-    {
-      "basename": "Funkcje lambda",
-      "path": "_ Mobile/Android/Funkcje lambda.md"
     }
   ],
   "omittedPaths": [],
