@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "4.1. Aplikacja podsumowująca 1,2,3,4",
+      "path": "R U S T/RUST FROM AI/4.1. Aplikacja podsumowująca 1,2,3,4.md"
+    },
+    {
       "basename": "4. Wskaźniki i Smart Pointers (Box,  Rc, RefCell)",
       "path": "R U S T/RUST FROM AI/4. Wskaźniki i Smart Pointers (Box,  Rc, RefCell).md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "6.0. The code Unit Converter app",
       "path": "_ Mobile/Android/the complete Android 14 and Kotlin/6.0. The code Unit Converter app.md"
-    },
-    {
-      "basename": "6. State - Unit Converter Part 2",
-      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/6. State - Unit Converter Part 2.md"
     }
   ],
   "omittedPaths": [],
