@@ -1,8 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "13.6. Receivers",
+      "path": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.6. Receivers.md"
+    },
+    {
+      "basename": "13.0. Intent and Life Cycle",
+      "path": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.0. Intent and Life Cycle.md"
+    },
+    {
+      "basename": "_ the complete Android Kotlin",
+      "path": "_ Mobile/Android/the complete Android Kotlin/_ the complete Android Kotlin.md"
+    },
+    {
       "basename": "13.5. Services",
       "path": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.5. Services.md"
+    },
+    {
+      "basename": "13.4. Fragment Life Cycle",
+      "path": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.4. Fragment Life Cycle.md"
+    },
+    {
+      "basename": "13.3 Activity Life Cycle",
+      "path": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.3 Activity Life Cycle.md"
+    },
+    {
+      "basename": "13.2 Application Life Cycle",
+      "path": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.2 Application Life Cycle.md"
+    },
+    {
+      "basename": "13.1.   Intent",
+      "path": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.1.   Intent.md"
     },
     {
       "basename": "Stack And Heap",
@@ -35,10 +63,6 @@
     {
       "basename": "6. Asynchroniczność",
       "path": "R U S T/RUST FROM AI/6. Asynchroniczność.md"
-    },
-    {
-      "basename": "13.4. Fragment Life Cycle",
-      "path": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.4. Fragment Life Cycle.md"
     },
     {
       "basename": "_ 0 Full Stack Kotlin Multiplatform KMP Development",
@@ -173,28 +197,8 @@
       "path": "_ Mobile/Android/DatePicker Dialog.md"
     },
     {
-      "basename": "_ the complete Android Kotlin",
-      "path": "_ Mobile/Android/the complete Android Kotlin/_ the complete Android Kotlin.md"
-    },
-    {
       "basename": "10.1 Binding",
       "path": "_ Desktop/WPF/od Podstaw do app w WPF/10.1 Binding.md"
-    },
-    {
-      "basename": "LINQ",
-      "path": "C Sharp/LINQ.md"
-    },
-    {
-      "basename": "3. Testy jednostkowe",
-      "path": "Testowanie/CSharp Testy jednostkowe i integracyjne/3. Testy jednostkowe.md"
-    },
-    {
-      "basename": "0. Testowanie jednostkowe i integracyjne",
-      "path": "Testowanie/CSharp Testy jednostkowe i integracyjne/0. Testowanie jednostkowe i integracyjne.md"
-    },
-    {
-      "basename": "_ 0 React Full",
-      "path": "_ WEB/REACT/React - the Complete Guide/_ 0 React Full.md"
     }
   ],
   "omittedPaths": [],
