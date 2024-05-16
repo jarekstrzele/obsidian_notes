@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "UBUNTU",
-      "path": "linux/UBUNTU.md"
-    },
-    {
       "basename": "4. Wskaźniki Smart Pointers (Box,  Rc, RefCell)",
       "path": "R U S T/RUST FROM AI/4. Wskaźniki Smart Pointers (Box,  Rc, RefCell).md"
+    },
+    {
+      "basename": "UBUNTU",
+      "path": "linux/UBUNTU.md"
     },
     {
       "basename": "Stack And Heap",
