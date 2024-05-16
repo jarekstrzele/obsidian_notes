@@ -13,6 +13,9 @@ aby sprawdzić, jaki program nasłuchuje na danym porcie
 
 #ubuntu #linux #opera
 ###### problem z odtwarzaniem filmów w operze
+
+link do pliku: https://onedrive.live.com/?authkey=%21AC7ddalBsUiWsUE&id=75D48EF8D3750510%21234&cid=75D48EF8D3750510
+
 #opera
 https://gist.github.com/Thomas-Ln/c4ae803e90f9984b6612c8983c8fde1f
 chodzi o plik `libffmpeg.so`
