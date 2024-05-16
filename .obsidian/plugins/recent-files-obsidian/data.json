@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "4. Wskaźniki Smart Pointers (Box,  Rc, RefCell)",
-      "path": "R U S T/RUST FROM AI/4. Wskaźniki Smart Pointers (Box,  Rc, RefCell).md"
-    },
-    {
-      "basename": "UBUNTU",
-      "path": "linux/UBUNTU.md"
+      "basename": "4. Wskaźniki i Smart Pointers (Box,  Rc, RefCell)",
+      "path": "R U S T/RUST FROM AI/4. Wskaźniki i Smart Pointers (Box,  Rc, RefCell).md"
     },
     {
       "basename": "Stack And Heap",
       "path": "R U S T/RUST FROM AI/Stack And Heap.md"
+    },
+    {
+      "basename": "UBUNTU",
+      "path": "linux/UBUNTU.md"
     },
     {
       "basename": "7. Zarządzanie błędami.",
