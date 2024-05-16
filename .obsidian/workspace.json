@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ FullStack/Kotlin - FullStack/_ 0 Full Stack Kotlin Multiplatform KMP Development.md",
+                "file": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.4. Fragment Life Cycle.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,31 @@
             }
           },
           {
-            "id": "72704e6db7f87f89",
+            "id": "90ff715e3f155d47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "R U S T/RUST FROM AI/2 Struct, Enum, Traits.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d2db4edac05dbe79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HASKELL/Haskell GPT - od podstaw/1.2. Klasy typów.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "149e71776b7d1e3a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -42,21 +66,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "8182139a8854814e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.5. Services.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319.5
+    "width": 297.5
   },
   "right": {
     "id": "7036b4a7a06b882e",
@@ -138,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.5. Services.md",
+                "file": "R U S T/RUST FROM AI/2 Struct, Enum, Traits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.5. Services.md",
+                "file": "R U S T/RUST FROM AI/2 Struct, Enum, Traits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.5. Services.md"
+                "file": "R U S T/RUST FROM AI/2 Struct, Enum, Traits.md"
               }
             }
           },
@@ -214,8 +226,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -229,39 +240,39 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8182139a8854814e",
+  "active": "90ff715e3f155d47",
   "lastOpenFiles": [
-    "R U S T/RUST FROM AI/4. Wskaźniki Smart Pointers (Box,  Rc, RefCell).md",
-    "R U S T/RUST FROM AI/Stack And Heap.md",
-    "R U S T/RUST FROM AI/3.  Moduły i organizacja kodu.md",
-    "R U S T/RUST FROM AI/_ 0 Rust.md",
-    "R U S T/RUST FROM AI/2 Struct, Enum, Traits.md",
     "R U S T/RUST FROM AI/1 Ownership.md",
-    "R U S T/RUST FROM AI/5. Iteratory.md",
-    "R U S T/RUST FROM AI/7. Zarządzanie błędami..md",
-    "R U S T/RUST FROM AI/6. Asynchroniczność.md",
+    "R U S T/RUST FROM AI/_ 0 Rust.md",
+    "HASKELL/Haskell GPT - od podstaw/1.2. Klasy typów.md",
+    "R U S T/RUST FROM AI/3.  Moduły i organizacja kodu.md",
     "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.5. Services.md",
-    "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.4. Fragment Life Cycle.md",
-    "conflict-files-obsidian-git.md",
-    "Pasted image 20240507114353.png",
-    "Pasted image 20240507112050.png",
-    "Pasted image 20240507112024.png",
+    "R U S T/RUST FROM AI/Stack And Heap.md",
+    "HASKELL/Haskell GPT - od podstaw/1. 2. Typy danych.md",
+    "HASKELL/Haskell GPT - od podstaw/4. Klasy typów - interfejsy.md",
     "HASKELL/Haskell GPT - od podstaw/_ 0 Wprowadzenie.md",
     "HASKELL/Haskell GPT - od podstaw/3. Monady i Funktory.md",
-    "HASKELL/Haskell GPT - od podstaw/4. Klasy typów - interfejsy.md",
     "HASKELL/Haskell GPT - od podstaw/2. Funkcje.md",
-    "HASKELL/Haskell GPT - od podstaw/1.2. Klasy typów.md",
-    "HASKELL/Haskell GPT - od podstaw/1. 2. Typy danych.md",
+    "R U S T/RUST FROM AI/4. Wskaźniki Smart Pointers (Box,  Rc, RefCell).md",
+    "linux/UBUNTU.md",
+    "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.4. Fragment Life Cycle.md",
     "HASKELL/Haskell GPT - od podstaw",
-    "_ FullStack/Kotlin - FullStack/_ 0 Full Stack Kotlin Multiplatform KMP Development.md",
-    "HASKELL/Haskell plac ćwiczeń/_ Haskell plac ćwiczeń dla uczonych.md",
-    "_ FullStack/Kotlin - FullStack/2 Admin Panel - Login Screen.md",
-    "_ Desktop/WPF/Podstawowe kontrolki i zapisywanie do pliku.md",
-    "Git/Komunikaty w Commitach.md",
-    "R U S T/RUST FROM AI",
+    "Pasted image 20240507114353.png",
+    "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.3 Activity Life Cycle.md",
+    "Pasted image 20240507112050.png",
+    "Pasted image 20240507112024.png",
     "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.2 Application Life Cycle.md",
     "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.1.   Intent.md",
-    "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.1 Layouts in Android App.md",
+    "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md",
+    "_ Mobile/Kotlin/Kotlin bez tajemnic/_ Kotlin bez tajemnic.md",
+    "_ Mobile/Kotlin/Kotlin bez tajemnic/3.1. Fragments.md",
+    "_ Mobile/Kotlin/Kotlin bez tajemnic/3.2. View Models.md",
+    "_ Mobile/Kotlin/Kotlin bez tajemnic/3.3. View Binding.md",
+    "_ FullStack/Kotlin - FullStack/_ 0 Full Stack Kotlin Multiplatform KMP Development.md",
+    "_ FullStack/Kotlin - FullStack/2 Admin Panel - Login Screen.md",
+    "R U S T/RUST FROM AI/7. Zarządzanie błędami..md",
+    "R U S T/RUST FROM AI/6. Asynchroniczność.md",
+    "R U S T/RUST FROM AI",
     "_ FullStack/Kotlin - FullStack",
     "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle",
     "_ Mobile/Android/the complete Android Kotlin/12 Lists and Views",
