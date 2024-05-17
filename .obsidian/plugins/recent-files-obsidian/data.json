@@ -5,16 +5,20 @@
       "path": "R U S T/RUST FROM AI/4.1. Aplikacja podsumowująca 1,2,3,4.md"
     },
     {
+      "basename": "1.2. Klasy typów",
+      "path": "HASKELL/Haskell GPT - od podstaw/1.2. Klasy typów.md"
+    },
+    {
+      "basename": "4. Wskaźniki i Smart Pointers (Box,  Rc, RefCell)",
+      "path": "R U S T/RUST FROM AI/4. Wskaźniki i Smart Pointers (Box,  Rc, RefCell).md"
+    },
+    {
       "basename": "3.  Moduły i organizacja kodu",
       "path": "R U S T/RUST FROM AI/3.  Moduły i organizacja kodu.md"
     },
     {
       "basename": "UBUNTU",
       "path": "linux/UBUNTU.md"
-    },
-    {
-      "basename": "4. Wskaźniki i Smart Pointers (Box,  Rc, RefCell)",
-      "path": "R U S T/RUST FROM AI/4. Wskaźniki i Smart Pointers (Box,  Rc, RefCell).md"
     },
     {
       "basename": "Stack And Heap",
@@ -43,10 +47,6 @@
     {
       "basename": "_ 0 Rust",
       "path": "R U S T/RUST FROM AI/_ 0 Rust.md"
-    },
-    {
-      "basename": "1.2. Klasy typów",
-      "path": "HASKELL/Haskell GPT - od podstaw/1.2. Klasy typów.md"
     },
     {
       "basename": "1. 2. Typy danych",
