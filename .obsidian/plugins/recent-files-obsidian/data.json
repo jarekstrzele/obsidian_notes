@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "3.  Moduły i organizacja kodu",
+      "path": "R U S T/RUST FROM AI/3.  Moduły i organizacja kodu.md"
+    },
+    {
       "basename": "4.1. Aplikacja podsumowująca 1,2,3,4",
       "path": "R U S T/RUST FROM AI/4.1. Aplikacja podsumowująca 1,2,3,4.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "5. Iteratory",
       "path": "R U S T/RUST FROM AI/5. Iteratory.md"
-    },
-    {
-      "basename": "3.  Moduły i organizacja kodu",
-      "path": "R U S T/RUST FROM AI/3.  Moduły i organizacja kodu.md"
     },
     {
       "basename": "2 Struct, Enum, Traits",
