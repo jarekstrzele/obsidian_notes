@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/RUST FROM AI/3.  Moduły i organizacja kodu.md",
+                "file": "R U S T/RUST FROM AI/4.1. Aplikacja podsumowująca 1,2,3,4.md",
                 "mode": "source",
                 "source": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/RUST FROM AI/3.  Moduły i organizacja kodu.md",
+                "file": "R U S T/RUST FROM AI/4.1. Aplikacja podsumowująca 1,2,3,4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/RUST FROM AI/3.  Moduły i organizacja kodu.md",
+                "file": "R U S T/RUST FROM AI/4.1. Aplikacja podsumowująca 1,2,3,4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/RUST FROM AI/3.  Moduły i organizacja kodu.md"
+                "file": "R U S T/RUST FROM AI/4.1. Aplikacja podsumowująca 1,2,3,4.md"
               }
             }
           },
@@ -242,11 +242,11 @@
   },
   "active": "149e71776b7d1e3a",
   "lastOpenFiles": [
+    "R U S T/RUST FROM AI/3.  Moduły i organizacja kodu.md",
     "linux/UBUNTU.md",
     "conflict-files-obsidian-git.md",
     "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.6. Receivers.md",
     "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.0. Intent and Life Cycle.md",
-    "R U S T/RUST FROM AI/3.  Moduły i organizacja kodu.md",
     "R U S T/RUST FROM AI/4.1. Aplikacja podsumowująca 1,2,3,4.md",
     "R U S T/RUST FROM AI/4. Wskaźniki i Smart Pointers (Box,  Rc, RefCell).md",
     "R U S T/RUST FROM AI/Stack And Heap.md",
