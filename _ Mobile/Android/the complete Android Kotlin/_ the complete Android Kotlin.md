@@ -8,9 +8,9 @@
 [[5 Functions in Android Kotlin]]
 [[6 Kotlin OOP]]
 [[7 Intro to Android App Development]]
-
-
-
+[[10 Android Components]]
+[[12 Lists and Views]]
+[[13.0. Intent and Life Cycle]]
 
 
 
