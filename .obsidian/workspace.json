@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/RUST FROM AI/3.  Moduły i organizacja kodu.md",
+                "file": "linux/UBUNTU.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/RUST FROM AI/3.  Moduły i organizacja kodu.md",
+                "file": "linux/UBUNTU.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/RUST FROM AI/3.  Moduły i organizacja kodu.md"
+                "file": "linux/UBUNTU.md"
               }
             }
           },
@@ -252,8 +252,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "149e71776b7d1e3a",
+  "active": "1c00f303b97609e7",
   "lastOpenFiles": [
+    "R U S T/RUST FROM AI/3.  Moduły i organizacja kodu.md",
     "R U S T/RUST FROM AI/4.1. Aplikacja podsumowująca 1,2,3,4.md",
     "R U S T/RUST FROM AI/4. Wskaźniki i Smart Pointers (Box,  Rc, RefCell).md",
     "R U S T/RUST FROM AI/Stack And Heap.md",
@@ -261,7 +262,6 @@
     "R U S T/RUST FROM AI/7. Zarządzanie błędami..md",
     "R U S T/RUST FROM AI/6. Asynchroniczność.md",
     "R U S T/RUST FROM AI/5. Iteratory.md",
-    "R U S T/RUST FROM AI/3.  Moduły i organizacja kodu.md",
     "R U S T/RUST FROM AI/2 Struct, Enum, Traits.md",
     "R U S T/RUST FROM AI/1 Ownership.md",
     "R U S T/RUST FROM AI/_ 0 Rust.md",
