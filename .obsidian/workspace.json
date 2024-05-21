@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/RUST FROM AI/4.1. Aplikacja podsumowująca 1,2,3,4.md",
+                "file": "R U S T/RUST FROM AI/Funkcje lambda closure.md",
                 "mode": "source",
                 "source": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/RUST FROM AI/4.1. Aplikacja podsumowująca 1,2,3,4.md",
+                "file": "R U S T/RUST FROM AI/Funkcje lambda closure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/RUST FROM AI/4.1. Aplikacja podsumowująca 1,2,3,4.md",
+                "file": "R U S T/RUST FROM AI/Funkcje lambda closure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/RUST FROM AI/4.1. Aplikacja podsumowująca 1,2,3,4.md"
+                "file": "R U S T/RUST FROM AI/Funkcje lambda closure.md"
               }
             }
           },
@@ -242,21 +242,22 @@
   },
   "active": "149e71776b7d1e3a",
   "lastOpenFiles": [
+    "R U S T/RUST FROM AI/Stack And Heap.md",
+    "R U S T/RUST FROM AI/Funkcje lambda closure.md",
+    "R U S T/RUST FROM AI/7. Zarządzanie błędami..md",
+    "R U S T/RUST FROM AI/6. Asynchroniczność.md",
+    "R U S T/RUST FROM AI/5. Iteratory.md",
+    "R U S T/RUST FROM AI/4.1. Aplikacja podsumowująca 1,2,3,4.md",
+    "HASKELL/Haskell GPT - od podstaw/1.2. Klasy typów.md",
     "R U S T/RUST FROM AI/4. Wskaźniki i Smart Pointers (Box,  Rc, RefCell).md",
     "R U S T/RUST FROM AI/3.  Moduły i organizacja kodu.md",
-    "R U S T/RUST FROM AI/1 Ownership.md",
     "linux/UBUNTU.md",
     "conflict-files-obsidian-git.md",
     "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.6. Receivers.md",
     "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.0. Intent and Life Cycle.md",
-    "R U S T/RUST FROM AI/4.1. Aplikacja podsumowująca 1,2,3,4.md",
-    "R U S T/RUST FROM AI/Stack And Heap.md",
-    "R U S T/RUST FROM AI/7. Zarządzanie błędami..md",
-    "R U S T/RUST FROM AI/6. Asynchroniczność.md",
-    "R U S T/RUST FROM AI/5. Iteratory.md",
     "R U S T/RUST FROM AI/2 Struct, Enum, Traits.md",
+    "R U S T/RUST FROM AI/1 Ownership.md",
     "R U S T/RUST FROM AI/_ 0 Rust.md",
-    "HASKELL/Haskell GPT - od podstaw/1.2. Klasy typów.md",
     "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.5. Services.md",
     "HASKELL/Haskell GPT - od podstaw/1. 2. Typy danych.md",
     "HASKELL/Haskell GPT - od podstaw/4. Klasy typów - interfejsy.md",
@@ -271,7 +272,6 @@
     "Pasted image 20240507112024.png",
     "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.2 Application Life Cycle.md",
     "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.1.   Intent.md",
-    "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md",
     "R U S T/RUST FROM AI",
     "_ FullStack/Kotlin - FullStack",
     "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle",
