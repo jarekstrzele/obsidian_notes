@@ -5,8 +5,20 @@
       "path": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.7. View Binding.md"
     },
     {
+      "basename": "13.1.   Intent",
+      "path": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.1.   Intent.md"
+    },
+    {
       "basename": "13.0. Intent and Life Cycle",
       "path": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.0. Intent and Life Cycle.md"
+    },
+    {
+      "basename": "13 Intent and life cycle",
+      "path": "_ Mobile/Android/the complete Android Kotlin/13 Intent and life cycle.md"
+    },
+    {
+      "basename": "14 SharedPreferences Class",
+      "path": "_ Mobile/Android/the complete Android Kotlin/14 SharedPreferences Class.md"
     },
     {
       "basename": "13.6. Receivers",
@@ -91,10 +103,6 @@
     {
       "basename": "13.2 Application Life Cycle",
       "path": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.2 Application Life Cycle.md"
-    },
-    {
-      "basename": "13.1.   Intent",
-      "path": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.1.   Intent.md"
     },
     {
       "basename": "3 Podstawy tworzenia aplikacji",
@@ -191,14 +199,6 @@
     {
       "basename": "10 WPF - zaawansowane",
       "path": "_ Desktop/WPF/od Podstaw do app w WPF/10 WPF - zaawansowane.md"
-    },
-    {
-      "basename": "9.1. RadioButton, GroupBox, Label",
-      "path": "_ Desktop/WPF/od Podstaw do app w WPF/9.1. RadioButton, GroupBox, Label.md"
-    },
-    {
-      "basename": "9 WPF układy komponentów",
-      "path": "_ Desktop/WPF/od Podstaw do app w WPF/9 WPF układy komponentów.md"
     }
   ],
   "omittedPaths": [],
