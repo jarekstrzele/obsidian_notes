@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.7. View Binding.md",
+                "file": "_ Mobile/Android/the complete Android Kotlin/14 SharedPreferences Class.md",
                 "mode": "source",
                 "source": false
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.7. View Binding.md",
+                "file": "_ Mobile/Android/the complete Android Kotlin/14 SharedPreferences Class.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.7. View Binding.md",
+                "file": "_ Mobile/Android/the complete Android Kotlin/14 SharedPreferences Class.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.7. View Binding.md"
+                "file": "_ Mobile/Android/the complete Android Kotlin/14 SharedPreferences Class.md"
               }
             }
           },
@@ -229,11 +229,12 @@
   },
   "active": "3d3d211d7b8eb595",
   "lastOpenFiles": [
+    "_ Mobile/Android/the complete Android Kotlin/_ the complete Android Kotlin.md",
+    "_ Mobile/Android/the complete Android Kotlin/14 SharedPreferences Class.md",
+    "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.7. View Binding.md",
     "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.1.   Intent.md",
     "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.0. Intent and Life Cycle.md",
     "_ Mobile/Android/the complete Android Kotlin/13 Intent and life cycle.md",
-    "_ Mobile/Android/the complete Android Kotlin/14 SharedPreferences Class.md",
-    "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.7. View Binding.md",
     "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.6. Receivers.md",
     "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.4. Fragment Life Cycle.md",
     "HASKELL/Haskell GPT - od podstaw/1.2. Klasy typów.md",
@@ -254,7 +255,6 @@
     "HASKELL/Haskell GPT - od podstaw/1. 2. Typy danych.md",
     "HASKELL/Haskell GPT - od podstaw/4. Klasy typów - interfejsy.md",
     "HASKELL/Haskell GPT - od podstaw/_ 0 Wprowadzenie.md",
-    "HASKELL/Haskell GPT - od podstaw/3. Monady i Funktory.md",
     "HASKELL/Haskell GPT - od podstaw",
     "Pasted image 20240507114353.png",
     "Pasted image 20240507112050.png",

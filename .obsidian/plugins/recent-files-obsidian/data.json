@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "14 SharedPreferences Class",
+      "path": "_ Mobile/Android/the complete Android Kotlin/14 SharedPreferences Class.md"
+    },
+    {
+      "basename": "_ the complete Android Kotlin",
+      "path": "_ Mobile/Android/the complete Android Kotlin/_ the complete Android Kotlin.md"
+    },
+    {
       "basename": "13.7. View Binding",
       "path": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.7. View Binding.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "13 Intent and life cycle",
       "path": "_ Mobile/Android/the complete Android Kotlin/13 Intent and life cycle.md"
-    },
-    {
-      "basename": "14 SharedPreferences Class",
-      "path": "_ Mobile/Android/the complete Android Kotlin/14 SharedPreferences Class.md"
     },
     {
       "basename": "13.6. Receivers",
@@ -195,10 +199,6 @@
     {
       "basename": "8 Aplikacje WPF",
       "path": "_ Desktop/WPF/od Podstaw do app w WPF/8 Aplikacje WPF.md"
-    },
-    {
-      "basename": "10 WPF - zaawansowane",
-      "path": "_ Desktop/WPF/od Podstaw do app w WPF/10 WPF - zaawansowane.md"
     }
   ],
   "omittedPaths": [],
