@@ -1,8 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "Funkcje lambda closure",
-      "path": "R U S T/RUST FROM AI/Funkcje lambda closure.md"
+      "basename": "13.7. View Binding",
+      "path": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.7. View Binding.md"
+    },
+    {
+      "basename": "13.0. Intent and Life Cycle",
+      "path": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.0. Intent and Life Cycle.md"
+    },
+    {
+      "basename": "13.6. Receivers",
+      "path": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.6. Receivers.md"
+    },
+    {
+      "basename": "13.4. Fragment Life Cycle",
+      "path": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.4. Fragment Life Cycle.md"
+    },
+    {
+      "basename": "1.2. Klasy typów",
+      "path": "HASKELL/Haskell GPT - od podstaw/1.2. Klasy typów.md"
+    },
+    {
+      "basename": "4.1. Aplikacja podsumowująca 1,2,3,4",
+      "path": "R U S T/RUST FROM AI/4.1. Aplikacja podsumowująca 1,2,3,4.md"
+    },
+    {
+      "basename": "4. Wskaźniki i Smart Pointers (Box,  Rc, RefCell)",
+      "path": "R U S T/RUST FROM AI/4. Wskaźniki i Smart Pointers (Box,  Rc, RefCell).md"
+    },
+    {
+      "basename": "3.  Moduły i organizacja kodu",
+      "path": "R U S T/RUST FROM AI/3.  Moduły i organizacja kodu.md"
+    },
+    {
+      "basename": "1 Ownership",
+      "path": "R U S T/RUST FROM AI/1 Ownership.md"
+    },
+    {
+      "basename": "UBUNTU",
+      "path": "linux/UBUNTU.md"
     },
     {
       "basename": "Stack And Heap",
@@ -21,32 +57,8 @@
       "path": "R U S T/RUST FROM AI/5. Iteratory.md"
     },
     {
-      "basename": "4.1. Aplikacja podsumowująca 1,2,3,4",
-      "path": "R U S T/RUST FROM AI/4.1. Aplikacja podsumowująca 1,2,3,4.md"
-    },
-    {
-      "basename": "1.2. Klasy typów",
-      "path": "HASKELL/Haskell GPT - od podstaw/1.2. Klasy typów.md"
-    },
-    {
-      "basename": "4. Wskaźniki i Smart Pointers (Box,  Rc, RefCell)",
-      "path": "R U S T/RUST FROM AI/4. Wskaźniki i Smart Pointers (Box,  Rc, RefCell).md"
-    },
-    {
-      "basename": "3.  Moduły i organizacja kodu",
-      "path": "R U S T/RUST FROM AI/3.  Moduły i organizacja kodu.md"
-    },
-    {
-      "basename": "UBUNTU",
-      "path": "linux/UBUNTU.md"
-    },
-    {
       "basename": "2 Struct, Enum, Traits",
       "path": "R U S T/RUST FROM AI/2 Struct, Enum, Traits.md"
-    },
-    {
-      "basename": "1 Ownership",
-      "path": "R U S T/RUST FROM AI/1 Ownership.md"
     },
     {
       "basename": "_ 0 Rust",
@@ -71,10 +83,6 @@
     {
       "basename": "2. Funkcje",
       "path": "HASKELL/Haskell GPT - od podstaw/2. Funkcje.md"
-    },
-    {
-      "basename": "13.4. Fragment Life Cycle",
-      "path": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.4. Fragment Life Cycle.md"
     },
     {
       "basename": "13.3 Activity Life Cycle",
@@ -191,14 +199,6 @@
     {
       "basename": "9 WPF układy komponentów",
       "path": "_ Desktop/WPF/od Podstaw do app w WPF/9 WPF układy komponentów.md"
-    },
-    {
-      "basename": "8.4 EditTexts",
-      "path": "_ Mobile/Android/8.4 EditTexts.md"
-    },
-    {
-      "basename": "7 Shopping list app",
-      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/7 Shopping list app.md"
     }
   ],
   "omittedPaths": [],
