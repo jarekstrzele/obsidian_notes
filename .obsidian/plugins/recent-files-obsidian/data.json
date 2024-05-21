@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "13.7. View Binding",
-      "path": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.7. View Binding.md"
+      "basename": "14 SharedPreferences Class",
+      "path": "_ Mobile/Android/the complete Android Kotlin/14 SharedPreferences Class.md"
     },
     {
       "basename": "13 Intent and life cycle",
       "path": "_ Mobile/Android/the complete Android Kotlin/13 Intent and life cycle.md"
+    },
+    {
+      "basename": "13.7. View Binding",
+      "path": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.7. View Binding.md"
+    },
+    {
+      "basename": "4. Wskaźniki i Smart Pointers (Box,  Rc, RefCell)",
+      "path": "R U S T/RUST FROM AI/4. Wskaźniki i Smart Pointers (Box,  Rc, RefCell).md"
+    },
+    {
+      "basename": "2 Admin Panel - Login Screen",
+      "path": "_ FullStack/Kotlin - FullStack/2 Admin Panel - Login Screen.md"
     },
     {
       "basename": "13.0. Intent and Life Cycle",
@@ -25,10 +37,6 @@
       "path": "13.3 Activity Life Cycle.md"
     },
     {
-      "basename": "14 SharedPreferences Class",
-      "path": "_ Mobile/Android/the complete Android Kotlin/14 SharedPreferences Class.md"
-    },
-    {
       "basename": "_ the complete Android Kotlin",
       "path": "_ Mobile/Android/the complete Android Kotlin/_ the complete Android Kotlin.md"
     },
@@ -43,10 +51,6 @@
     {
       "basename": "4.1. Aplikacja podsumowująca 1,2,3,4",
       "path": "R U S T/RUST FROM AI/4.1. Aplikacja podsumowująca 1,2,3,4.md"
-    },
-    {
-      "basename": "4. Wskaźniki i Smart Pointers (Box,  Rc, RefCell)",
-      "path": "R U S T/RUST FROM AI/4. Wskaźniki i Smart Pointers (Box,  Rc, RefCell).md"
     },
     {
       "basename": "3.  Moduły i organizacja kodu",
@@ -135,10 +139,6 @@
     {
       "basename": "_ 0 Full Stack Kotlin Multiplatform KMP Development",
       "path": "_ FullStack/Kotlin - FullStack/_ 0 Full Stack Kotlin Multiplatform KMP Development.md"
-    },
-    {
-      "basename": "2 Admin Panel - Login Screen",
-      "path": "_ FullStack/Kotlin - FullStack/2 Admin Panel - Login Screen.md"
     },
     {
       "basename": "Podstawowe kontrolki i zapisywanie do pliku",
