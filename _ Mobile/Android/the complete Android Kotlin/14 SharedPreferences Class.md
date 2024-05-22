@@ -20,7 +20,29 @@
 
 # Saving Data Local Memory
 
+## `getSharedPreferences`
 
+Metoda `getSharedPreferences` jest używana do uzyskania instancji `SharedPreferences`, która jest specyficzna dla Twojej aplikacji. `SharedPreferences` pozwala na przechowywanie par klucz-wartość, które są zachowywane pomiędzy sesjami aplikacji.
+
+### Argumenty `getSharedPreferences`
+
+1. **Pierwszy argument: `"saveData"`**
+    
+    - **Typ:** `String`
+    - **Opis:** Nazwa pliku, w którym będą przechowywane dane.
+    - **Szczegóły:**
+        - Jest to nazwa pliku preferencji, który będzie przechowywany w wewnętrznej przestrzeni dyskowej Twojej aplikacji. Plik ten będzie dostępny tylko dla Twojej aplikacji.
+        - Możesz użyć dowolnej unikalnej nazwy, aby odróżnić różne zestawy preferencji, np. `"userPreferences"`, `"appSettings"` itp.
+2. **Drugi argument: `Context.MODE_PRIVATE`**
+    
+    - **Typ:** `Int`
+    - **Opis:** Tryb dostępu do pliku preferencji.
+    - **Szczegóły:**
+        - `Context.MODE_PRIVATE` oznacza, że plik preferencji jest dostępny tylko dla Twojej aplikacji (nie może być odczytywany ani zapisywany przez inne aplikacje). Jest to najczęściej używany tryb, ponieważ zapewnia prywatność danych.
+        - Inne dostępne tryby (które obecnie są przestarzałe i zazwyczaj nie są używane) to:
+            - `Context.MODE_APPEND`: Otwiera plik preferencji w trybie dołączania, co oznacza, że nowe dane będą dołączane do istniejących danych.
+            - `Context.MODE_WORLD_READABLE` (przestarzałe): Umożliwia odczyt danych przez inne aplikacje.
+            - `Context.MODE_WORLD_WRITEABLE` (przestarzałe): Umożliwia zapis danych przez inne aplikacje.
 
 
 
