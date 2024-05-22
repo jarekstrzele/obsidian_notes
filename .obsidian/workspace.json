@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/14 SharedPreferences Class.md",
+                "file": "_ Mobile/Android/SharedPreferences - when use.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 224.5
   },
   "right": {
     "id": "7036b4a7a06b882e",
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/14 SharedPreferences Class.md",
+                "file": "_ Mobile/Android/SharedPreferences - when use.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/14 SharedPreferences Class.md",
+                "file": "_ Mobile/Android/SharedPreferences - when use.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/14 SharedPreferences Class.md"
+                "file": "_ Mobile/Android/SharedPreferences - when use.md"
               }
             }
           },
@@ -213,7 +213,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -229,10 +230,12 @@
   },
   "active": "3d3d211d7b8eb595",
   "lastOpenFiles": [
+    "_ Mobile/Android/the complete Android Kotlin/Untitled.md",
+    "_ Mobile/Android/SharedPreferences - when use.md",
+    "_ Mobile/Android/the complete Android Kotlin/14 SharedPreferences Class.md",
     "R U S T/RUST FROM AI/5. LifeTime (czas życia).md",
     "R U S T/RUST FROM AI/3. Stringi.md",
     "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.7. View Binding.md",
-    "_ Mobile/Android/the complete Android Kotlin/14 SharedPreferences Class.md",
     "_ Mobile/Android/the complete Android Kotlin/13 Intent and life cycle.md",
     "R U S T/RUST FROM AI/4. Wskaźniki i Smart Pointers (Box,  Rc, RefCell).md",
     "_ FullStack/Kotlin - FullStack/2 Admin Panel - Login Screen.md",
@@ -253,8 +256,6 @@
     "R U S T/RUST FROM AI/7. Zarządzanie błędami..md",
     "R U S T/RUST FROM AI/6. Asynchroniczność.md",
     "R U S T/RUST FROM AI/5. Iteratory.md",
-    "R U S T/RUST FROM AI/2 Struct, Enum, Traits.md",
-    "R U S T/RUST FROM AI/_ 0 Rust.md",
     "HASKELL/Haskell GPT - od podstaw",
     "Pasted image 20240507114353.png",
     "Pasted image 20240507112050.png",

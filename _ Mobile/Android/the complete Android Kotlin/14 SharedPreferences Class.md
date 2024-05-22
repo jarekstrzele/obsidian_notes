@@ -44,7 +44,13 @@ Metoda `getSharedPreferences` jest używana do uzyskania instancji `SharedPrefer
             - `Context.MODE_WORLD_READABLE` (przestarzałe): Umożliwia odczyt danych przez inne aplikacje.
             - `Context.MODE_WORLD_WRITEABLE` (przestarzałe): Umożliwia zapis danych przez inne aplikacje.
 
+### Poprawny sposób użycia `SharedPreferences`
 
+1. **Inicjalizacja `SharedPreferences`**: `getSharedPreferences` jest używane do uzyskania instancji `SharedPreferences`, która identyfikuje plik, w którym będą przechowywane dane.
+    
+2. **Zapis danych**: Za pomocą metody `edit` uzyskujesz edytor (`SharedPreferences.Editor`), który umożliwia zapisanie danych.
+    
+3. **Odczyt danych**: Metody takie jak `getString`, `getInt`, `getBoolean` są używane do odczytywania zapisanych danych.
 
 
 
