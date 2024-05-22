@@ -1,5 +1,8 @@
 [[_ the complete Android Kotlin]]
 
+# kiedy używać [[SharedPreferences - when to use]]
+
+
 # SharedPreference Class Description
 
 - Android provides many ways of storing data
@@ -53,6 +56,7 @@ Metoda `getSharedPreferences` jest używana do uzyskania instancji `SharedPrefer
 3. **Odczyt danych**: Metody takie jak `getString`, `getInt`, `getBoolean` są używane do odczytywania zapisanych danych.
 
 
+# Calling Back Data
 
 
 

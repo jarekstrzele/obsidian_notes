@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "SharedPreferences - when use",
-      "path": "_ Mobile/Android/SharedPreferences - when use.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "_ Mobile/Android/the complete Android Kotlin/Untitled.md"
-    },
-    {
       "basename": "14 SharedPreferences Class",
       "path": "_ Mobile/Android/the complete Android Kotlin/14 SharedPreferences Class.md"
+    },
+    {
+      "basename": "SharedPreferences - when to use",
+      "path": "_ Mobile/Android/SharedPreferences - when to use.md"
+    },
+    {
+      "basename": "2 Admin Panel - Login Screen",
+      "path": "_ FullStack/Kotlin - FullStack/2 Admin Panel - Login Screen.md"
     },
     {
       "basename": "13.7. View Binding",
@@ -23,10 +23,6 @@
     {
       "basename": "4. Wskaźniki i Smart Pointers (Box,  Rc, RefCell)",
       "path": "R U S T/RUST FROM AI/4. Wskaźniki i Smart Pointers (Box,  Rc, RefCell).md"
-    },
-    {
-      "basename": "2 Admin Panel - Login Screen",
-      "path": "_ FullStack/Kotlin - FullStack/2 Admin Panel - Login Screen.md"
     },
     {
       "basename": "13.0. Intent and Life Cycle",
