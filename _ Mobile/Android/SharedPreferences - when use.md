@@ -37,11 +37,23 @@ editor.apply()
 ```
 
 # 4. **Przechowywanie tokenów i sesji**
-
 Możesz używać `SharedPreferences` do przechowywania tokenów autoryzacyjnych lub identyfikatorów sesji.
+```kotlin
+val sharedPreferences = getSharedPreferences("authPrefs", Context.MODE_PRIVATE)
+val editor = sharedPreferences.edit()
+editor.putString("authToken", "abcdef123456")
+editor.apply()
 
+```
 
+# 5. **Konfiguracja interfejsu użytkownika**
+Przechowywanie ustawień dotyczących interfejsu użytkownika, takich jak układ siatki, rozmiar czcionki, itd.
+```kotlin
+val sharedPreferences = getSharedPreferences("uiPrefs", Context.MODE_PRIVATE)
+val editor = sharedPreferences.edit()
+editor.putInt("gridSize", 4)
+editor.putString("fontSize", "medium")
+editor.apply()
 
-
-
+```
 
