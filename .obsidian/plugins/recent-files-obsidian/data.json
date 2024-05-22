@@ -5,6 +5,10 @@
       "path": "R U S T/RUST FROM AI/5. Iteratory.md"
     },
     {
+      "basename": "Funkcje lambda closure",
+      "path": "R U S T/RUST FROM AI/Funkcje lambda closure.md"
+    },
+    {
       "basename": "6. Asynchroniczność",
       "path": "R U S T/RUST FROM AI/6. Asynchroniczność.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "_ 0 Rust",
       "path": "R U S T/RUST FROM AI/_ 0 Rust.md"
-    },
-    {
-      "basename": "Funkcje lambda closure",
-      "path": "R U S T/RUST FROM AI/Funkcje lambda closure.md"
     },
     {
       "basename": "Stack And Heap",
