@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "3. Stringi",
+      "path": "R U S T/RUST FROM AI/3. Stringi.md"
+    },
+    {
+      "basename": "5. LifeTime (czas życia)",
+      "path": "R U S T/RUST FROM AI/5. LifeTime (czas życia).md"
+    },
+    {
       "basename": "5. Iteratory",
       "path": "R U S T/RUST FROM AI/5. Iteratory.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "9 WPF układy komponentów",
       "path": "_ Desktop/WPF/od Podstaw do app w WPF/9 WPF układy komponentów.md"
-    },
-    {
-      "basename": "8.4 EditTexts",
-      "path": "_ Mobile/Android/8.4 EditTexts.md"
-    },
-    {
-      "basename": "7 Shopping list app",
-      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/7 Shopping list app.md"
     }
   ],
   "omittedPaths": [],
