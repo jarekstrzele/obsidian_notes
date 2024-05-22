@@ -26,7 +26,19 @@ fn main(){
 > Jedną z unikalnych cech funkcji strzałkowych w Rust jest to, że mogą przechwytywać zmienne z ich zewnętrznego kontekstu (zamknięcia), co czyni je bardzo elastycznymi.
 
 
+```rust
+fn main(){
 
+	let x: i32 = 5;
+	let add_to_x = |y: i32| -> i32 {
+		x+y
+	};
+
+	let result = add_to_x(33);	
+	println!("Add_to_x=5 (33):{}", result); // Add_to_x=5 (33):38
+
+}
+```
 
 
 

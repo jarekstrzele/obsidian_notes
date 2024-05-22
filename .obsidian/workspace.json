@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/14 SharedPreferences Class.md",
+                "file": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.4. Fragment Life Cycle.md",
                 "mode": "source",
                 "source": false
               }
@@ -54,8 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "149e71776b7d1e3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "R U S T/RUST FROM AI/5. Iteratory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -137,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/14 SharedPreferences Class.md",
+                "file": "R U S T/RUST FROM AI/5. Iteratory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/14 SharedPreferences Class.md",
+                "file": "R U S T/RUST FROM AI/5. Iteratory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/14 SharedPreferences Class.md"
+                "file": "R U S T/RUST FROM AI/5. Iteratory.md"
               }
             }
           },
@@ -227,34 +240,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3d3d211d7b8eb595",
+  "active": "149e71776b7d1e3a",
   "lastOpenFiles": [
-    "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.7. View Binding.md",
-    "_ Mobile/Android/the complete Android Kotlin/14 SharedPreferences Class.md",
-    "_ Mobile/Android/the complete Android Kotlin/13 Intent and life cycle.md",
-    "R U S T/RUST FROM AI/4. Wskaźniki i Smart Pointers (Box,  Rc, RefCell).md",
-    "_ FullStack/Kotlin - FullStack/2 Admin Panel - Login Screen.md",
-    "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.0. Intent and Life Cycle.md",
-    "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.6. Receivers.md",
-    "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.1.   Intent.md",
-    "13.3 Activity Life Cycle.md",
-    "_ Mobile/Android/the complete Android Kotlin/_ the complete Android Kotlin.md",
-    "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.4. Fragment Life Cycle.md",
-    "HASKELL/Haskell GPT - od podstaw/1.2. Klasy typów.md",
-    "R U S T/RUST FROM AI/4.1. Aplikacja podsumowująca 1,2,3,4.md",
-    "R U S T/RUST FROM AI/Funkcje lambda closure.md",
-    "R U S T/RUST FROM AI/3.  Moduły i organizacja kodu.md",
-    "R U S T/RUST FROM AI/1 Ownership.md",
-    "linux/UBUNTU.md",
-    "conflict-files-obsidian-git.md",
-    "R U S T/RUST FROM AI/Stack And Heap.md",
-    "R U S T/RUST FROM AI/7. Zarządzanie błędami..md",
     "R U S T/RUST FROM AI/6. Asynchroniczność.md",
     "R U S T/RUST FROM AI/5. Iteratory.md",
+    "R U S T/RUST FROM AI/4.1. Aplikacja podsumowująca 1,2,3,4.md",
+    "R U S T/RUST FROM AI/4. Wskaźniki i Smart Pointers (Box,  Rc, RefCell).md",
     "R U S T/RUST FROM AI/2 Struct, Enum, Traits.md",
+    "R U S T/RUST FROM AI/1 Ownership.md",
     "R U S T/RUST FROM AI/_ 0 Rust.md",
+    "R U S T/RUST FROM AI/Funkcje lambda closure.md",
+    "_ Mobile/Android/the complete Android Kotlin/14 SharedPreferences Class.md",
+    "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.7. View Binding.md",
+    "13.3 Activity Life Cycle.md",
+    "R U S T/RUST FROM AI/Stack And Heap.md",
+    "R U S T/RUST FROM AI/7. Zarządzanie błędami..md",
+    "HASKELL/Haskell GPT - od podstaw/1.2. Klasy typów.md",
+    "R U S T/RUST FROM AI/3.  Moduły i organizacja kodu.md",
+    "linux/UBUNTU.md",
+    "conflict-files-obsidian-git.md",
+    "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.6. Receivers.md",
+    "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.0. Intent and Life Cycle.md",
     "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.5. Services.md",
     "HASKELL/Haskell GPT - od podstaw/1. 2. Typy danych.md",
+    "HASKELL/Haskell GPT - od podstaw/4. Klasy typów - interfejsy.md",
+    "HASKELL/Haskell GPT - od podstaw/_ 0 Wprowadzenie.md",
+    "HASKELL/Haskell GPT - od podstaw/3. Monady i Funktory.md",
+    "HASKELL/Haskell GPT - od podstaw/2. Funkcje.md",
+    "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.4. Fragment Life Cycle.md",
     "HASKELL/Haskell GPT - od podstaw",
     "Pasted image 20240507114353.png",
     "Pasted image 20240507112050.png",
