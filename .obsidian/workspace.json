@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.4. Fragment Life Cycle.md",
+                "file": "linux/UBUNTU.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.4. Fragment Life Cycle.md",
+                "file": "linux/UBUNTU.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.4. Fragment Life Cycle.md"
+                "file": "linux/UBUNTU.md"
               }
             }
           },
@@ -240,8 +240,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "04bc47a26b7598a7",
+  "active": "1177599b2574bfb8",
   "lastOpenFiles": [
+    "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.4. Fragment Life Cycle.md",
     "_ FullStack/Kotlin - FullStack/2 Admin Panel - Login Screen.md",
     "R U S T/RUST FROM AI/3. Stringi.md",
     "_ Mobile/Android/the complete Android Kotlin/15 Device Compablility.md",
@@ -267,7 +268,6 @@
     "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.6. Receivers.md",
     "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.0. Intent and Life Cycle.md",
     "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.5. Services.md",
-    "HASKELL/Haskell GPT - od podstaw/1. 2. Typy danych.md",
     "HASKELL/Haskell GPT - od podstaw",
     "Pasted image 20240507114353.png",
     "Pasted image 20240507112050.png",
