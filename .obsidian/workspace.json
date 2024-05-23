@@ -61,14 +61,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/RUST FROM AI/3. Stringi.md",
+                "file": "R U S T/Rust Programming Course/_ 0 Rust From Beginner to Expert 2.0.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/UBUNTU.md",
+                "file": "R U S T/Rust Programming Course/_ 0 Rust From Beginner to Expert 2.0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/UBUNTU.md",
+                "file": "R U S T/Rust Programming Course/_ 0 Rust From Beginner to Expert 2.0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/UBUNTU.md"
+                "file": "R U S T/Rust Programming Course/_ 0 Rust From Beginner to Expert 2.0.md"
               }
             }
           },
@@ -240,11 +240,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1177599b2574bfb8",
+  "active": "149e71776b7d1e3a",
   "lastOpenFiles": [
+    "R U S T/RUST FROM AI/3. Stringi.md",
+    "R U S T/Rust Programming Course/_ 0 Rust From Beginner to Expert 2.0.md",
+    "R U S T/Rust Programming Course",
+    "linux/UBUNTU.md",
     "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.4. Fragment Life Cycle.md",
     "_ FullStack/Kotlin - FullStack/2 Admin Panel - Login Screen.md",
-    "R U S T/RUST FROM AI/3. Stringi.md",
     "_ Mobile/Android/the complete Android Kotlin/15 Device Compablility.md",
     "_ Mobile/Android/SharedPreferences - when to use.md",
     "R U S T/RUST FROM AI/5. LifeTime (czas życia).md",
@@ -263,11 +266,9 @@
     "R U S T/RUST FROM AI/7. Zarządzanie błędami..md",
     "HASKELL/Haskell GPT - od podstaw/1.2. Klasy typów.md",
     "R U S T/RUST FROM AI/3.  Moduły i organizacja kodu.md",
-    "linux/UBUNTU.md",
     "conflict-files-obsidian-git.md",
     "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.6. Receivers.md",
     "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.0. Intent and Life Cycle.md",
-    "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.5. Services.md",
     "HASKELL/Haskell GPT - od podstaw",
     "Pasted image 20240507114353.png",
     "Pasted image 20240507112050.png",
@@ -280,7 +281,6 @@
     "_ Desktop/AvaloniaUI",
     "Studia/nauczPrzedZawoTechnikProgramista",
     "_ WEB/REACT/React18+TypeScript",
-    "Testowanie/CSharp Testy jednostkowe i integracyjne",
     "methodology/images/bar_matplotlib.png",
     "methodology/images/age_rating_barh.png",
     "methodology/images/age_rating_bar.png",

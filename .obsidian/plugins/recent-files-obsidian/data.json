@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "_ 0 Rust From Beginner to Expert 2.0",
+      "path": "R U S T/Rust Programming Course/_ 0 Rust From Beginner to Expert 2.0.md"
+    },
+    {
+      "basename": "3. Stringi",
+      "path": "R U S T/RUST FROM AI/3. Stringi.md"
+    },
+    {
       "basename": "UBUNTU",
       "path": "linux/UBUNTU.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "2 Admin Panel - Login Screen",
       "path": "_ FullStack/Kotlin - FullStack/2 Admin Panel - Login Screen.md"
-    },
-    {
-      "basename": "3. Stringi",
-      "path": "R U S T/RUST FROM AI/3. Stringi.md"
     },
     {
       "basename": "5. LifeTime (czas życia)",
@@ -195,10 +199,6 @@
     {
       "basename": "9.1. RadioButton, GroupBox, Label",
       "path": "_ Desktop/WPF/od Podstaw do app w WPF/9.1. RadioButton, GroupBox, Label.md"
-    },
-    {
-      "basename": "9 WPF układy komponentów",
-      "path": "_ Desktop/WPF/od Podstaw do app w WPF/9 WPF układy komponentów.md"
     }
   ],
   "omittedPaths": [],
