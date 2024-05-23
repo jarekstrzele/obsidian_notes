@@ -1,7 +1,7 @@
 [[_ the complete Android Kotlin]]
 
-# kiedy używać [[SharedPreferences - when to use]]
-
+# kiedy używać:
+[[SharedPreferences - when to use]]
 
 # SharedPreference Class Description
 
@@ -18,10 +18,10 @@
 		- you do a text msg, and a call is coming, so your app with text will be stopped)
 		- you play a game and a phone call is coming, so game data have to be saved
 		- in a logg-in situation
-	- 
 
 
-# Saving Data Local Memory
+
+# Saving Data Local Memory and Calling Back Data
 
 ## `getSharedPreferences`
 
@@ -56,7 +56,6 @@ Metoda `getSharedPreferences` jest używana do uzyskania instancji `SharedPrefer
 3. **Odczyt danych**: Metody takie jak `getString`, `getInt`, `getBoolean` są używane do odczytywania zapisanych danych.
 
 
-# Calling Back Data
 
 
 

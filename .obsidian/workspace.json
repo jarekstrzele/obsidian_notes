@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/14 SharedPreferences Class.md",
+                "file": "_ Mobile/Android/the complete Android Kotlin/15 Device Compablility.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/14 SharedPreferences Class.md",
+                "file": "_ Mobile/Android/the complete Android Kotlin/15 Device Compablility.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/14 SharedPreferences Class.md",
+                "file": "_ Mobile/Android/the complete Android Kotlin/15 Device Compablility.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/14 SharedPreferences Class.md"
+                "file": "_ Mobile/Android/the complete Android Kotlin/15 Device Compablility.md"
               }
             }
           },
@@ -231,13 +231,13 @@
   },
   "active": "1177599b2574bfb8",
   "lastOpenFiles": [
-    "_ Mobile/Android/SharedPreferences - when to use.md",
     "_ Mobile/Android/the complete Android Kotlin/14 SharedPreferences Class.md",
+    "_ Mobile/Android/the complete Android Kotlin/15 Device Compablility.md",
+    "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.7. View Binding.md",
+    "_ Mobile/Android/SharedPreferences - when to use.md",
     "_ FullStack/Kotlin - FullStack/2 Admin Panel - Login Screen.md",
-    "_ Mobile/Android/the complete Android Kotlin/Untitled.md",
     "R U S T/RUST FROM AI/5. LifeTime (czas życia).md",
     "R U S T/RUST FROM AI/3. Stringi.md",
-    "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.7. View Binding.md",
     "_ Mobile/Android/the complete Android Kotlin/13 Intent and life cycle.md",
     "R U S T/RUST FROM AI/4. Wskaźniki i Smart Pointers (Box,  Rc, RefCell).md",
     "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.0. Intent and Life Cycle.md",

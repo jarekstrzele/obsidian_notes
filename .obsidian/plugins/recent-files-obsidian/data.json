@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "15 Device Compablility",
+      "path": "_ Mobile/Android/the complete Android Kotlin/15 Device Compablility.md"
+    },
+    {
       "basename": "14 SharedPreferences Class",
       "path": "_ Mobile/Android/the complete Android Kotlin/14 SharedPreferences Class.md"
+    },
+    {
+      "basename": "13.7. View Binding",
+      "path": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.7. View Binding.md"
     },
     {
       "basename": "SharedPreferences - when to use",
@@ -11,10 +19,6 @@
     {
       "basename": "2 Admin Panel - Login Screen",
       "path": "_ FullStack/Kotlin - FullStack/2 Admin Panel - Login Screen.md"
-    },
-    {
-      "basename": "13.7. View Binding",
-      "path": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.7. View Binding.md"
     },
     {
       "basename": "13 Intent and life cycle",
