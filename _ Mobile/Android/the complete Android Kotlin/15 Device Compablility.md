@@ -41,7 +41,10 @@ a new `string.xml(pl)` with translation
 
 
 # Supporting different pixel densities
-
+> Android Devices come different screen sizes (phone, tablets, TVs, and so on) and different pixel sizes
+> 	> one device has 160 pixels per square inch, another device fits 480 pixels in the same space  
+> 	> if you don't consider these variations in pixel density, the images might appear at the completely wrong size
+>  
 
 
 
