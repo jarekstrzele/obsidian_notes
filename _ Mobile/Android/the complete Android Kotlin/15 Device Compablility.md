@@ -12,9 +12,35 @@
 	- select `String Value`
 		- resource name `hello`
 		- resource value `Hello World`
-		- 
+		tak samo dla button i toast (`R.string.<nazwaInfoDlaTosta>`)
+- otwórz `string.xml` masz na górze `open editor`
+	- add `+` a new language and add analogiczne tłumaczenia dla stringów and Android add a new `string.xml` file with translation
+`string.xml` (English version):
+```xml
+<resources>  
+    <string name="app_name">MultipleLanguages</string>  
+    <string name="hello">Hello World</string>  
+    <string name="show_toast">show a toast message</string>  
+    <string name="toast">This is a toast message </string>  
+</resources>
+```
+
+a new `string.xml(pl)` with translation
+```xml
+<?xml version="1.0" encoding="utf-8"?>  
+<resources>  
+    <string name="app_name">Wiele języków</string>  
+    <string name="hello">Witaj Świecie</string>  
+    <string name="show_toast">pokaż wiadomość w toście</string>  
+    <string name="toast">to jest nowa wiadomość</string>  
+</resources>
+```
+
+- change language in your smartphone into Polish (`Settings`>`Languages`>`Add` Polish - move it as the first language)
+- 
 
 
+# Supporting different pixel densities
 
 
 
