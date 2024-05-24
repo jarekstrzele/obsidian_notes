@@ -76,7 +76,11 @@ let mut felxible_str: String = String::from("This string will grow")
 flexible_str.push('s') ;
 ```
 
-## arrays - they hold multiple values of the same type
+## arrays  `[<type>, numberOfElements]— they hold multiple values of the same type
+
+```rust
+let myt array_1 = 
+```
 
 
 
