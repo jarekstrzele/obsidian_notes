@@ -23,6 +23,37 @@ settings in VS Code
 
 
 
+----------
+# Variable and Constants
+variables are immutable by default
+
+```rust
+fn main() {
+    let x: i16 = 1221;
+    println!("x = {x}");
+    // x = 22; // error
+    
+    let mut y = 21; // mutable y
+    y=100;
+    println!("y={y}");
+}
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
