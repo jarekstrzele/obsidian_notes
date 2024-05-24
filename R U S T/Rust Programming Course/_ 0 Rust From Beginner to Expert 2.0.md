@@ -9,6 +9,10 @@
 
 
 
+VS CODE:
+- `rustc fileName.rs` ->
+- `./fileName` to execute the program
+
 
 
 
