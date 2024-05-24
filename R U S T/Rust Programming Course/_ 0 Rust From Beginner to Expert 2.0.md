@@ -76,14 +76,40 @@ let mut felxible_str: String = String::from("This string will grow")
 flexible_str.push('s') ;
 ```
 
-## arrays  `[<type>, numberOfElements]— they hold multiple values of the same type
+## arrays and vectors
+W Rust, `Vector` (typ `Vec`) i `Array` (typ `array` lub `[T; N]`) są dwoma różnymi typami struktur danych do przechowywania kolekcji elementów, ale różnią się one pod kilkoma względami:
+
+1. **Rozmiar**:
+    
+    - **Array**: Rozmiar jest stały i musi być określony w momencie kompilacji. Przykład: `[i32; 5]` oznacza tablicę pięciu elementów typu `i32`.
+    - **Vector**: Rozmiar jest dynamiczny i może zmieniać się w czasie wykonywania programu. Przykład: `Vec<i32>` to wektor, który może zmieniać swój rozmiar.
+2. **Alokacja pamięci**:
+    
+    - **Array**: Tablica jest alokowana na stosie, jeśli jej rozmiar jest znany w czasie kompilacji.
+    - **Vector**: Wektor jest alokowany na stercie, co pozwala na dynamiczne zarządzanie pamięcią.
+3. **Wydajność**:
+    
+    - **Array**: Dostęp do elementów jest bardzo szybki, ponieważ elementy są przechowywane w sposób ciągły w pamięci.
+    - **Vector**: Dostęp do elementów jest również szybki, ale nieco wolniejszy niż w przypadku tablicy, ponieważ może wymagać realokacji pamięci podczas dodawania elementów.
+4. **Funkcjonalność**:
+    
+    - **Array**: Oferuje podstawowe operacje na elementach, ale jest mniej elastyczny niż wektor.
+    - **Vector**: Oferuje zaawansowane operacje, takie jak dodawanie, usuwanie elementów oraz zmiana rozmiaru.
+5. **Użycie**:
+    
+    - **Array**: Używane, gdy rozmiar jest znany z góry i nie zmienia się, np. `[1, 2, 3, 4, 5]`.
+    - **Vector**: Używane, gdy potrzebna jest elastyczność w zakresie zmiany rozmiaru, np. `Vec::new()` lub `vec![1, 2, 3]`.
+
+### array
+
+`[<type>, numberOfElements]— they hold multiple values of the same type
 
 ```rust
 let myt array_1 = 
 ```
 
 
-
+### vector
 
 
 
