@@ -39,6 +39,10 @@ fn main() {
 }
 ```
 
+---
+# Primitive Data Types
+`char` , `bool`, `u32`, `i32`  
+
 
 
 
