@@ -145,8 +145,13 @@ fn main() {
 }
 ```
 
-
-
+### unit
+```rust
+fn main() {
+    let my_unit: () = () ;
+    println!("unit : {:?}", my_unit) ; //unit : ()
+}
+```
 
 
 
