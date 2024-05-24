@@ -226,6 +226,106 @@ fn main() {
 ```
 
 
+```rust
+fn main() {
+   println!("{:?}",multiply(10,20)) ;
+   let result = basic_math(22,33);
+   let (mul, add, sub) = result ;
+   
+   // scope block like function can have return value
+   let full_name = {
+       let name = "Tom" ;
+       let surname = "Doe" ;
+       
+       format!("{name}, {surname}") // bez ;
+   } ;
+   println!("full name {full_name}") ;
+   
+}
+
+fn multiply(a: i32, b: i32) -> i32 {
+    println!("Multiplying") ;
+    
+    a*b //bez ;
+}
+
+fn basic_math(a: i32, b:i32) -> (i32, i32, i32){
+    (a*b, a+b, a-b)
+}
+```
+
+
+# condition
+
+
+```rust
+
+fn main() {
+   
+   let marks: i32 = 95 ;
+   let mut grade: char = 'W' ;
+   
+   let g: char = if marks < 100 {
+       'F'
+   } else {
+       'A'
+   } ;
+   
+   println!("g: {g}") ;
+   
+   match marks {
+       90..=100 => grade = 'A',
+       80..=89  => grade = 'B',
+       70..=79  => grade = 'C',
+       _ => grade = 'F',
+   }
+   
+   println!("grade: {}", grade) ;
+}
+
+
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
