@@ -125,12 +125,25 @@ fn main() {
 
 
 ### vector
+```rust
+let mut vector: Vec<i32> = Vec::new();
+vector.push(1);
+vector.push(2);
+vector.push(3);
+println!("{:?}", vector); // Wyjście: [1, 2, 3]
 
+let my_vec = vec![10,20,30] ;
+    println!("my vec: {:?}", my_vec) ;
 
+```
 
-
-
-
+### typle
+```rust
+fn main() {
+    let tuple: (&str, i32) = ("tom", 32) ;
+    println!("my typle: {:#?}", tuple) ;
+}
+```
 
 
 
