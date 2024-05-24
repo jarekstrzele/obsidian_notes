@@ -105,7 +105,22 @@ W Rust, `Vector` (typ `Vec`) i `Array` (typ `array` lub `[T; N]`) są dwoma ró�
 `[<type>, numberOfElements]— they hold multiple values of the same type
 
 ```rust
-let myt array_1 = 
+fn main() {
+  
+  let arr1: [i32; 4] = [1,2,3,4] ;
+  let n = arr1[1];
+  println!("arr1 {:?}", arr1) ; // arr1 [1, 2, 3, 4]
+  println!("arr1 {:#?}", arr1) ; 
+  // arr1 [
+ //    1,
+ //    2,
+  //   3,
+ //    4,
+  //  ]
+  
+  println!("n = {n}") ; //2
+ 
+}
 ```
 
 
