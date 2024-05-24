@@ -43,9 +43,40 @@ fn main() {
 # Primitive Data Types
 `char` , `bool`, `u32`, `i32`  
 
+### type aliasing
+```rust
+type Age = u8;
+let peter_age: Age = 42;
+```
+
+### conversion
+```rust
+let a: i32 = 10 ;
+let b: f64 = a as f64;
+```
 
 
+----
+# Compound Data Types
 
+
+> The colon syntax `::` in Rust  is used to access associated functions or methods on a type or module
+
+
+## string
+### `&str` - it is immutable
+```rust
+let fixed_str: &str = "Fixed length string";
+```
+
+
+### `String` - it is mutable
+```rust
+let mut felxible_str: String = String::from("This string will grow")
+flexible_str.push('s') ;
+```
+
+## arrays - they hold multiple values of the same type
 
 
 
