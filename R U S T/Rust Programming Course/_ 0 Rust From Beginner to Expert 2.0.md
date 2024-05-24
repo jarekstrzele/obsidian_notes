@@ -13,7 +13,9 @@ VS CODE:
 - `rustc fileName.rs` ->
 - `./fileName` to execute the program
 
-
+settings in VS Code
+- format on save
+- Mouse Wheel Zoom
 
 # project
 - `cargo new projectName`
