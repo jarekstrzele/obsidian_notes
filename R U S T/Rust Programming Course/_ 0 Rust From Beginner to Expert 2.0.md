@@ -395,11 +395,59 @@ fn cars_produced_per_minutes(hours: u8, speed: u8) -> f32 {
 ```
 
 
+```rust
+// Problem 5:
+// Solution:
+/*
+A Pythagorean triple consists of three positive integers a, b, and c, satisfying the condition a^2 + b^2 = c^2.
+These triples are commonly written as (a, b, c), and a well-known example is (3, 4, 5).
+
+Write a program that computes the Pythagorean triplet such that a < b < c and a + b + c = 1000.
+*/
+
+fn main() {
+    for a in 1..=1000 {
+        for b in a..=1000 - a {
+            let c = 1000 - a - b;
+            if a * a + b * b == c * c {
+                println!("Got a triplet {:?}", (a, b, c));
+            }
+        }
+    }
+}
+
+```
 
 
+------
+# Comments
+#rust/comment
+
+```rust
+// inline comment
+
+/*
+
+multiline comments
+
+*/
+```
 
 
+# print
+```rust
+print!("abc\n") ;
+println!("abc") ;
+println!(" \" double quotes \"  \\  ");
 
+ println!("Second argument is \"text\" {1} first argument is 20 {0} ", 20, "text") ; // Second argument is "text" text first argument is 20 20 
+
+
+println!("Your are {name}, you are {age} old", age=23, name="Tom");
+// Your are Tom, you are 23 old
+
+
+```
 
 
 
