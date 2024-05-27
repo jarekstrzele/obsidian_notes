@@ -46,6 +46,8 @@ a new `string.xml(pl)` with translation
 > 	> if you don't consider these variations in pixel density, the images might appear at the completely wrong size
 >  
 
+- `res`>`mipmap` > `ic_launcher` > there are icons with different density
+- to make your own different icons `res` -> new -> image asset
 
 
 
