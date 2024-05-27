@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/15 Device Compablility.md",
+                "file": "_ Mobile/Android/the complete Android Kotlin/16 ToDoApp.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/15 Device Compablility.md",
+                "file": "_ Mobile/Android/the complete Android Kotlin/16 ToDoApp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/15 Device Compablility.md",
+                "file": "_ Mobile/Android/the complete Android Kotlin/16 ToDoApp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/15 Device Compablility.md"
+                "file": "_ Mobile/Android/the complete Android Kotlin/16 ToDoApp.md"
               }
             }
           },
@@ -231,11 +231,12 @@
   },
   "active": "1177599b2574bfb8",
   "lastOpenFiles": [
+    "_ Mobile/Android/the complete Android Kotlin/15 Device Compablility.md",
+    "_ Mobile/Android/the complete Android Kotlin/16 ToDoApp.md",
     "R U S T/Rust Programming Course/_ 0 Rust From Beginner to Expert 2.0.md",
     "R U S T/Rust Programming Course/4 Ownership.md",
     "R U S T/Rust Programming Course",
     "_ Mobile/Android/the complete Android Kotlin/14 SharedPreferences Class.md",
-    "_ Mobile/Android/the complete Android Kotlin/15 Device Compablility.md",
     "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.7. View Binding.md",
     "_ Mobile/Android/SharedPreferences - when to use.md",
     "_ FullStack/Kotlin - FullStack/2 Admin Panel - Login Screen.md",
@@ -257,7 +258,6 @@
     "linux/UBUNTU.md",
     "conflict-files-obsidian-git.md",
     "R U S T/RUST FROM AI/Stack And Heap.md",
-    "R U S T/RUST FROM AI/7. Zarządzanie błędami..md",
     "HASKELL/Haskell GPT - od podstaw",
     "Pasted image 20240507114353.png",
     "Pasted image 20240507112050.png",
