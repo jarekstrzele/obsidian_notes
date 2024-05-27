@@ -450,7 +450,20 @@ println!("Your are {name}, you are {age} old", age=23, name="Tom");
 ```
 
 
+# read data
+```rust
 
+fn main() {
+    let mut n: String = String::new();
+    std::io::stdin()
+        .read_line(&mut n)
+        .expect("fail to read input") ;
+        
+    let n: f64 = n.trim().parse().expect("invalid input") ;
+    println!("n={n}") ;
+        
+}
+```
 
 
 
