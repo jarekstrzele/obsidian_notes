@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "16 ToDoApp",
-      "path": "_ Mobile/Android/the complete Android Kotlin/16 ToDoApp.md"
+      "basename": "13.7. View Binding",
+      "path": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.7. View Binding.md"
     },
     {
       "basename": "15 Device Compablility",
@@ -13,12 +13,16 @@
       "path": "_ Mobile/Android/the complete Android Kotlin/14 SharedPreferences Class.md"
     },
     {
-      "basename": "13.7. View Binding",
-      "path": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.7. View Binding.md"
-    },
-    {
       "basename": "SharedPreferences - when to use",
       "path": "_ Mobile/Android/SharedPreferences - when to use.md"
+    },
+    {
+      "basename": "1.2. Klasy typów",
+      "path": "HASKELL/Haskell GPT - od podstaw/1.2. Klasy typów.md"
+    },
+    {
+      "basename": "16 ToDoApp",
+      "path": "_ Mobile/Android/the complete Android Kotlin/16 ToDoApp.md"
     },
     {
       "basename": "2 Admin Panel - Login Screen",
@@ -55,10 +59,6 @@
     {
       "basename": "13.4. Fragment Life Cycle",
       "path": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.4. Fragment Life Cycle.md"
-    },
-    {
-      "basename": "1.2. Klasy typów",
-      "path": "HASKELL/Haskell GPT - od podstaw/1.2. Klasy typów.md"
     },
     {
       "basename": "4.1. Aplikacja podsumowująca 1,2,3,4",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Android/SharedPreferences - when to use.md",
+                "file": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.7. View Binding.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.5
+    "width": 336.5
   },
   "right": {
     "id": "7036b4a7a06b882e",
@@ -138,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/16 ToDoApp.md",
+                "file": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.7. View Binding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/16 ToDoApp.md",
+                "file": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.7. View Binding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/16 ToDoApp.md"
+                "file": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.7. View Binding.md"
               }
             }
           },
@@ -229,16 +228,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1177599b2574bfb8",
+  "active": "04bc47a26b7598a7",
   "lastOpenFiles": [
     "_ Mobile/Android/the complete Android Kotlin/15 Device Compablility.md",
+    "_ Mobile/Android/the complete Android Kotlin/14 SharedPreferences Class.md",
+    "_ Mobile/Android/SharedPreferences - when to use.md",
+    "HASKELL/Haskell GPT - od podstaw/1.2. Klasy typów.md",
     "_ Mobile/Android/the complete Android Kotlin/16 ToDoApp.md",
     "R U S T/Rust Programming Course/_ 0 Rust From Beginner to Expert 2.0.md",
     "R U S T/Rust Programming Course/4 Ownership.md",
     "R U S T/Rust Programming Course",
-    "_ Mobile/Android/the complete Android Kotlin/14 SharedPreferences Class.md",
     "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.7. View Binding.md",
-    "_ Mobile/Android/SharedPreferences - when to use.md",
     "_ FullStack/Kotlin - FullStack/2 Admin Panel - Login Screen.md",
     "R U S T/RUST FROM AI/5. LifeTime (czas życia).md",
     "R U S T/RUST FROM AI/3. Stringi.md",
@@ -250,7 +250,6 @@
     "13.3 Activity Life Cycle.md",
     "_ Mobile/Android/the complete Android Kotlin/_ the complete Android Kotlin.md",
     "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.4. Fragment Life Cycle.md",
-    "HASKELL/Haskell GPT - od podstaw/1.2. Klasy typów.md",
     "R U S T/RUST FROM AI/4.1. Aplikacja podsumowująca 1,2,3,4.md",
     "R U S T/RUST FROM AI/Funkcje lambda closure.md",
     "R U S T/RUST FROM AI/3.  Moduły i organizacja kodu.md",
