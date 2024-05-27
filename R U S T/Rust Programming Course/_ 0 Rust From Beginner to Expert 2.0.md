@@ -1,5 +1,23 @@
 #rust #udemy  #azam_nouman
 
+
+------------
+
+[[4 Ownership]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+-------------
 - `rustc --version`
 - `cargo --version`
 - `rustup update`

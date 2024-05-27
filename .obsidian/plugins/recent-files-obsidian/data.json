@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "4 Ownership",
+      "path": "R U S T/Rust Programming Course/4 Ownership.md"
+    },
+    {
       "basename": "_ 0 Rust From Beginner to Expert 2.0",
       "path": "R U S T/Rust Programming Course/_ 0 Rust From Beginner to Expert 2.0.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "10 WPF - zaawansowane",
       "path": "_ Desktop/WPF/od Podstaw do app w WPF/10 WPF - zaawansowane.md"
-    },
-    {
-      "basename": "9.1. RadioButton, GroupBox, Label",
-      "path": "_ Desktop/WPF/od Podstaw do app w WPF/9.1. RadioButton, GroupBox, Label.md"
     }
   ],
   "omittedPaths": [],
