@@ -42,7 +42,22 @@
 
 # move ownership to a function
 
+```rust
+fn main() {
+  
+   let vec1: Vec<i32> = vec![1,2,3] ;
+   takes_ownership(vec1) ;
+   // println!("vec 1: {:?}", vec1); //
+    
+    let vec2: Vec<i32> = vec![1,2,3] ;
+    takes_ownership(vec2.clone()) ;
+    println!("vec 2: {:?}", vec2) ;
+}
 
+fn takes_ownership(v: Vec<i32>){
+    println!("vec in function: {:?}", v) ;
+}
+```
 
 
 
