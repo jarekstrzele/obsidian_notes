@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.7. View Binding.md",
+                "file": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.4. Fragment Life Cycle.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/16 ToDoApp.md",
+                "file": "linux/UBUNTU.md",
                 "mode": "source",
                 "source": false
               }
@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "149e71776b7d1e3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "R U S T/Rust Programming Course/4 Ownership.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 336.5
+    "width": 297.5
   },
   "right": {
     "id": "7036b4a7a06b882e",
@@ -138,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/16 ToDoApp.md",
+                "file": "R U S T/Rust Programming Course/4 Ownership.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/16 ToDoApp.md",
+                "file": "R U S T/Rust Programming Course/4 Ownership.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/16 ToDoApp.md"
+                "file": "R U S T/Rust Programming Course/4 Ownership.md"
               }
             }
           },
@@ -214,8 +226,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -229,35 +240,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1177599b2574bfb8",
+  "active": "149e71776b7d1e3a",
   "lastOpenFiles": [
-    "_ Mobile/Android/the complete Android Kotlin/FileOutputStream.md",
     "_ Mobile/Android/the complete Android Kotlin/ObjectOutputStream.md",
+    "_ Mobile/Android/the complete Android Kotlin/FileOutputStream.md",
     "_ Mobile/Android/the complete Android Kotlin/16 ToDoApp.md",
-    "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.7. View Binding.md",
-    "_ Mobile/Android/the complete Android Kotlin/15 Device Compablility.md",
-    "_ Mobile/Android/the complete Android Kotlin/14 SharedPreferences Class.md",
-    "_ Mobile/Android/SharedPreferences - when to use.md",
-    "HASKELL/Haskell GPT - od podstaw/1.2. Klasy typów.md",
     "R U S T/Rust Programming Course/_ 0 Rust From Beginner to Expert 2.0.md",
     "R U S T/Rust Programming Course/4 Ownership.md",
-    "R U S T/Rust Programming Course",
-    "_ FullStack/Kotlin - FullStack/2 Admin Panel - Login Screen.md",
-    "R U S T/RUST FROM AI/5. LifeTime (czas życia).md",
     "R U S T/RUST FROM AI/3. Stringi.md",
-    "_ Mobile/Android/the complete Android Kotlin/13 Intent and life cycle.md",
-    "R U S T/RUST FROM AI/4. Wskaźniki i Smart Pointers (Box,  Rc, RefCell).md",
-    "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.0. Intent and Life Cycle.md",
-    "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.6. Receivers.md",
-    "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.1.   Intent.md",
-    "13.3 Activity Life Cycle.md",
-    "_ Mobile/Android/the complete Android Kotlin/_ the complete Android Kotlin.md",
-    "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.4. Fragment Life Cycle.md",
-    "R U S T/RUST FROM AI/4.1. Aplikacja podsumowująca 1,2,3,4.md",
-    "R U S T/RUST FROM AI/Funkcje lambda closure.md",
-    "R U S T/RUST FROM AI/3.  Moduły i organizacja kodu.md",
-    "R U S T/RUST FROM AI/1 Ownership.md",
+    "R U S T/Rust Programming Course",
     "linux/UBUNTU.md",
+    "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.4. Fragment Life Cycle.md",
+    "_ FullStack/Kotlin - FullStack/2 Admin Panel - Login Screen.md",
+    "_ Mobile/Android/the complete Android Kotlin/15 Device Compablility.md",
+    "_ Mobile/Android/SharedPreferences - when to use.md",
+    "R U S T/RUST FROM AI/5. LifeTime (czas życia).md",
+    "R U S T/RUST FROM AI/5. Iteratory.md",
+    "R U S T/RUST FROM AI/Funkcje lambda closure.md",
+    "R U S T/RUST FROM AI/6. Asynchroniczność.md",
+    "R U S T/RUST FROM AI/4.1. Aplikacja podsumowująca 1,2,3,4.md",
+    "R U S T/RUST FROM AI/4. Wskaźniki i Smart Pointers (Box,  Rc, RefCell).md",
+    "R U S T/RUST FROM AI/2 Struct, Enum, Traits.md",
+    "R U S T/RUST FROM AI/1 Ownership.md",
+    "R U S T/RUST FROM AI/_ 0 Rust.md",
+    "_ Mobile/Android/the complete Android Kotlin/14 SharedPreferences Class.md",
+    "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.7. View Binding.md",
+    "13.3 Activity Life Cycle.md",
+    "R U S T/RUST FROM AI/Stack And Heap.md",
+    "R U S T/RUST FROM AI/7. Zarządzanie błędami..md",
+    "HASKELL/Haskell GPT - od podstaw/1.2. Klasy typów.md",
     "HASKELL/Haskell GPT - od podstaw",
     "Pasted image 20240507114353.png",
     "Pasted image 20240507112050.png",
