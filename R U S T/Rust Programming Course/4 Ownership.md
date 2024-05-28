@@ -40,6 +40,7 @@
 
 
 
+# move ownership to a function
 
 
 
