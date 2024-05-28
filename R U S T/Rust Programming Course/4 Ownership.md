@@ -52,17 +52,46 @@ fn main() {
     let vec2: Vec<i32> = vec![1,2,3] ;
     takes_ownership(vec2.clone()) ;
     println!("vec 2: {:?}", vec2) ;
+
+	let vec3 = gives_ownership() ;
+    println!("vec3 : {:?}", vec3);
+    println!("vec3 : {:?}", vec3);
 }
 
 fn takes_ownership(v: Vec<i32>){
     println!("vec in function: {:?}", v) ;
 }
+
+
+fn gives_ownership() -> Vec<i32>{
+
+    vec![10,20,30]
+}
 ```
 
 
+# by value
+```rust
+fn main() {
+  let a: i32 = 99 ;
+  println!("a: {a}");
+  change_int(a) ;
+  println!("a: {a}");
+    
+}
 
 
+fn change_int(mut x: i32) {
+    x = 59 ;
+    println!("x inside function: {x} ") ;
+}
+```
 
+```
+a: 99
+x inside function: 59 
+a: 99
+```
 
 
 
