@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "16 ToDoApp",
+      "path": "_ Mobile/Android/the complete Android Kotlin/16 ToDoApp.md"
+    },
+    {
+      "basename": "FileOutputStream",
+      "path": "_ Mobile/Android/the complete Android Kotlin/FileOutputStream.md"
+    },
+    {
+      "basename": "ObjectOutputStream",
+      "path": "_ Mobile/Android/the complete Android Kotlin/ObjectOutputStream.md"
+    },
+    {
       "basename": "13.7. View Binding",
       "path": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.7. View Binding.md"
     },
@@ -19,10 +31,6 @@
     {
       "basename": "1.2. Klasy typów",
       "path": "HASKELL/Haskell GPT - od podstaw/1.2. Klasy typów.md"
-    },
-    {
-      "basename": "16 ToDoApp",
-      "path": "_ Mobile/Android/the complete Android Kotlin/16 ToDoApp.md"
     },
     {
       "basename": "2 Admin Panel - Login Screen",
@@ -191,14 +199,6 @@
     {
       "basename": "_ 0 React 18 Utlimate , TypeScript",
       "path": "_ WEB/REACT/React18+TypeScript/_ 0 React 18 Utlimate , TypeScript.md"
-    },
-    {
-      "basename": "_ The React 18 Tutorial (2023)",
-      "path": "_ WEB/REACT/React 18 Tutorial and Projects Course 2023/_ The React 18 Tutorial (2023).md"
-    },
-    {
-      "basename": "2 Controls WPF",
-      "path": "_ Desktop/WPF/Fast WFP  C Sharp/2 Controls WPF.md"
     }
   ],
   "omittedPaths": [],
