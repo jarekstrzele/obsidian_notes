@@ -1,88 +1,72 @@
 {
   "recentFiles": [
     {
-      "basename": "16 ToDoApp",
-      "path": "_ Mobile/Android/the complete Android Kotlin/16 ToDoApp.md"
-    },
-    {
-      "basename": "FileOutputStream",
-      "path": "_ Mobile/Android/the complete Android Kotlin/FileOutputStream.md"
-    },
-    {
-      "basename": "ObjectOutputStream",
-      "path": "_ Mobile/Android/the complete Android Kotlin/ObjectOutputStream.md"
-    },
-    {
-      "basename": "13.7. View Binding",
-      "path": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.7. View Binding.md"
-    },
-    {
-      "basename": "15 Device Compablility",
-      "path": "_ Mobile/Android/the complete Android Kotlin/15 Device Compablility.md"
-    },
-    {
-      "basename": "14 SharedPreferences Class",
-      "path": "_ Mobile/Android/the complete Android Kotlin/14 SharedPreferences Class.md"
-    },
-    {
-      "basename": "SharedPreferences - when to use",
-      "path": "_ Mobile/Android/SharedPreferences - when to use.md"
+      "basename": "4.1 Borrowing",
+      "path": "R U S T/Rust Programming Course/4.1 Borrowing.md"
     },
     {
       "basename": "1.2. Klasy typów",
       "path": "HASKELL/Haskell GPT - od podstaw/1.2. Klasy typów.md"
     },
     {
-      "basename": "2 Admin Panel - Login Screen",
-      "path": "_ FullStack/Kotlin - FullStack/2 Admin Panel - Login Screen.md"
-    },
-    {
-      "basename": "13 Intent and life cycle",
-      "path": "_ Mobile/Android/the complete Android Kotlin/13 Intent and life cycle.md"
-    },
-    {
       "basename": "4. Wskaźniki i Smart Pointers (Box,  Rc, RefCell)",
       "path": "R U S T/RUST FROM AI/4. Wskaźniki i Smart Pointers (Box,  Rc, RefCell).md"
     },
     {
-      "basename": "13.0. Intent and Life Cycle",
-      "path": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.0. Intent and Life Cycle.md"
+      "basename": "4 Ownership",
+      "path": "R U S T/Rust Programming Course/4 Ownership.md"
     },
     {
-      "basename": "13.6. Receivers",
-      "path": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.6. Receivers.md"
+      "basename": "_ 0 Rust From Beginner to Expert 2.0",
+      "path": "R U S T/Rust Programming Course/_ 0 Rust From Beginner to Expert 2.0.md"
     },
     {
-      "basename": "13.1.   Intent",
-      "path": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.1.   Intent.md"
+      "basename": "3. Stringi",
+      "path": "R U S T/RUST FROM AI/3. Stringi.md"
     },
     {
-      "basename": "13.3 Activity Life Cycle",
-      "path": "13.3 Activity Life Cycle.md"
-    },
-    {
-      "basename": "_ the complete Android Kotlin",
-      "path": "_ Mobile/Android/the complete Android Kotlin/_ the complete Android Kotlin.md"
+      "basename": "UBUNTU",
+      "path": "linux/UBUNTU.md"
     },
     {
       "basename": "13.4. Fragment Life Cycle",
       "path": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.4. Fragment Life Cycle.md"
     },
     {
+      "basename": "2 Admin Panel - Login Screen",
+      "path": "_ FullStack/Kotlin - FullStack/2 Admin Panel - Login Screen.md"
+    },
+    {
+      "basename": "5. LifeTime (czas życia)",
+      "path": "R U S T/RUST FROM AI/5. LifeTime (czas życia).md"
+    },
+    {
+      "basename": "5. Iteratory",
+      "path": "R U S T/RUST FROM AI/5. Iteratory.md"
+    },
+    {
+      "basename": "Funkcje lambda closure",
+      "path": "R U S T/RUST FROM AI/Funkcje lambda closure.md"
+    },
+    {
+      "basename": "6. Asynchroniczność",
+      "path": "R U S T/RUST FROM AI/6. Asynchroniczność.md"
+    },
+    {
       "basename": "4.1. Aplikacja podsumowująca 1,2,3,4",
       "path": "R U S T/RUST FROM AI/4.1. Aplikacja podsumowująca 1,2,3,4.md"
     },
     {
-      "basename": "3.  Moduły i organizacja kodu",
-      "path": "R U S T/RUST FROM AI/3.  Moduły i organizacja kodu.md"
+      "basename": "2 Struct, Enum, Traits",
+      "path": "R U S T/RUST FROM AI/2 Struct, Enum, Traits.md"
     },
     {
       "basename": "1 Ownership",
       "path": "R U S T/RUST FROM AI/1 Ownership.md"
     },
     {
-      "basename": "UBUNTU",
-      "path": "linux/UBUNTU.md"
+      "basename": "_ 0 Rust",
+      "path": "R U S T/RUST FROM AI/_ 0 Rust.md"
     },
     {
       "basename": "Stack And Heap",
@@ -93,20 +77,8 @@
       "path": "R U S T/RUST FROM AI/7. Zarządzanie błędami..md"
     },
     {
-      "basename": "6. Asynchroniczność",
-      "path": "R U S T/RUST FROM AI/6. Asynchroniczność.md"
-    },
-    {
-      "basename": "5. Iteratory",
-      "path": "R U S T/RUST FROM AI/5. Iteratory.md"
-    },
-    {
-      "basename": "2 Struct, Enum, Traits",
-      "path": "R U S T/RUST FROM AI/2 Struct, Enum, Traits.md"
-    },
-    {
-      "basename": "_ 0 Rust",
-      "path": "R U S T/RUST FROM AI/_ 0 Rust.md"
+      "basename": "3.  Moduły i organizacja kodu",
+      "path": "R U S T/RUST FROM AI/3.  Moduły i organizacja kodu.md"
     },
     {
       "basename": "1. 2. Typy danych",
@@ -135,6 +107,10 @@
     {
       "basename": "13.2 Application Life Cycle",
       "path": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.2 Application Life Cycle.md"
+    },
+    {
+      "basename": "13.1.   Intent",
+      "path": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.1.   Intent.md"
     },
     {
       "basename": "3 Podstawy tworzenia aplikacji",
@@ -199,6 +175,30 @@
     {
       "basename": "_ 0 React 18 Utlimate , TypeScript",
       "path": "_ WEB/REACT/React18+TypeScript/_ 0 React 18 Utlimate , TypeScript.md"
+    },
+    {
+      "basename": "_ The React 18 Tutorial (2023)",
+      "path": "_ WEB/REACT/React 18 Tutorial and Projects Course 2023/_ The React 18 Tutorial (2023).md"
+    },
+    {
+      "basename": "2 Controls WPF",
+      "path": "_ Desktop/WPF/Fast WFP  C Sharp/2 Controls WPF.md"
+    },
+    {
+      "basename": "1 Grid",
+      "path": "_ Desktop/WPF/Fast WFP  C Sharp/1 Grid.md"
+    },
+    {
+      "basename": "_ Fast WFP C Sharp",
+      "path": "_ Desktop/WPF/Fast WFP  C Sharp/_ Fast WFP C Sharp.md"
+    },
+    {
+      "basename": "_ WPF",
+      "path": "_ Desktop/WPF/CSharp WPF xaml youtube/_ WPF.md"
+    },
+    {
+      "basename": "8 Aplikacje WPF",
+      "path": "_ Desktop/WPF/od Podstaw do app w WPF/8 Aplikacje WPF.md"
     }
   ],
   "omittedPaths": [],
