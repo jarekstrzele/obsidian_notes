@@ -25,13 +25,18 @@
 		- very fast
 	- **heap**:
 		- deals with data which is of unknown size at compile time
-		- data are stored all over the place 
+		- data are stored all over the place where a suitable fit for the data
+		- slow, require a lot of memory management during program execution
 	- **static** — it is used to:
 		- store programs,
 		- binary instructions
 		- static variables
 		- clean up of values from it is automatic
 
+
+>[!info] important
+> - primitives such as integer, floats, bools, chars
+> - are entirely stored on stack with no reference to heap, and they are copied and not moved by default
 
 
 
