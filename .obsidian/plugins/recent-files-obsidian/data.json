@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "_ 0 Rust From Beginner to Expert 2.0",
+      "path": "R U S T/Rust Programming Course/_ 0 Rust From Beginner to Expert 2.0.md"
+    },
+    {
+      "basename": "5 Types",
+      "path": "R U S T/Rust Programming Course/5 Types.md"
+    },
+    {
       "basename": "4.1 Borrowing",
       "path": "R U S T/Rust Programming Course/4.1 Borrowing.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "4 Ownership",
       "path": "R U S T/Rust Programming Course/4 Ownership.md"
-    },
-    {
-      "basename": "_ 0 Rust From Beginner to Expert 2.0",
-      "path": "R U S T/Rust Programming Course/_ 0 Rust From Beginner to Expert 2.0.md"
     },
     {
       "basename": "3. Stringi",
@@ -195,10 +199,6 @@
     {
       "basename": "_ WPF",
       "path": "_ Desktop/WPF/CSharp WPF xaml youtube/_ WPF.md"
-    },
-    {
-      "basename": "8 Aplikacje WPF",
-      "path": "_ Desktop/WPF/od Podstaw do app w WPF/8 Aplikacje WPF.md"
     }
   ],
   "omittedPaths": [],
