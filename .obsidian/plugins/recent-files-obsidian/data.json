@@ -5,6 +5,10 @@
       "path": "R U S T/Rust Programming Course/5 Types.md"
     },
     {
+      "basename": "5.1. Struct",
+      "path": "R U S T/Rust Programming Course/5.1. Struct.md"
+    },
+    {
       "basename": "_ 0 Rust From Beginner to Expert 2.0",
       "path": "R U S T/Rust Programming Course/_ 0 Rust From Beginner to Expert 2.0.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_ Fast WFP C Sharp",
       "path": "_ Desktop/WPF/Fast WFP  C Sharp/_ Fast WFP C Sharp.md"
-    },
-    {
-      "basename": "_ WPF",
-      "path": "_ Desktop/WPF/CSharp WPF xaml youtube/_ WPF.md"
     }
   ],
   "omittedPaths": [],
