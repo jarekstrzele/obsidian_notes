@@ -13,6 +13,10 @@
       "path": "R U S T/RUST FROM AI/4. Wskaźniki i Smart Pointers (Box,  Rc, RefCell).md"
     },
     {
+      "basename": "UBUNTU",
+      "path": "linux/UBUNTU.md"
+    },
+    {
       "basename": "4 Ownership",
       "path": "R U S T/Rust Programming Course/4 Ownership.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "3. Stringi",
       "path": "R U S T/RUST FROM AI/3. Stringi.md"
-    },
-    {
-      "basename": "UBUNTU",
-      "path": "linux/UBUNTU.md"
     },
     {
       "basename": "13.4. Fragment Life Cycle",
