@@ -54,7 +54,7 @@ When you change `versionCode` on the top you will see `Sync now` button
 > - In Android if you delete this file, you will not be able to update your application.
 > - You create this file once and you can use it for all your applications.
 
-
+- add a password for this file in Android Studio 
 
 
 
