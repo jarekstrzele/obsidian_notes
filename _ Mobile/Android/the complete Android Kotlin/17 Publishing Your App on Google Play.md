@@ -40,7 +40,22 @@ When you change `versionCode` on the top you will see `Sync now` button
 > 
 > Podpisywanie aplikacji jest kluczowym krokiem w procesie publikacji aplikacji na Google Play, ponieważ gwarantuje integralność aplikacji i pozwala użytkownikom na bezpieczne aktualizacje.
 
-`create new`
+
+### `create new`
+##### Kluczowe Informacje o Plikach `.jks`
+1. **Format Pliku:**
+    - `.jks` to binarny format pliku, który jest używany do przechowywania par klucz-certyfikat i certyfikatów (np. certyfikatów zaufanych stron trzecich).
+2. **Użycie:**
+    - **Podpisywanie Aplikacji:** Plik keystore `.jks` jest wykorzystywany do podpisywania aplikacji przed ich publikacją. Podpis cyfrowy gwarantuje, że aplikacja nie została zmodyfikowana od czasu jej podpisania przez dewelopera.
+    - **Zabezpieczanie Komunikacji:** Może być również używany do przechowywania certyfikatów SSL/TLS, co jest istotne w kontekście bezpiecznej komunikacji sieciowej.
+
+
+>[!danger] .jks file in Android
+> - In Android if you delete this file, you will not be able to update your application.
+> - You create this file once and you can use it for all your applications.
+
+
+
 
 
 
