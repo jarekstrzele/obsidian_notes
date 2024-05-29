@@ -49,6 +49,31 @@ car AbC, new car new_owner
 ```
 
 
+# tuple and tuple struct
+
+```rust
+fn main() {
+   let point_2D: (i32, i32) = (10,23);
+   println!("point {:?}", point_2D) ; //point (10, 23)
+   
+   struct Point2d (i32, i32) ; // tuple struct - their fields are not named
+   let p_2d: Point2d = Point2d(1,99) ;
+ 
+}
+
+```
+
+
+# unit struct
+it has a name but no fileds
+```rust
+fn main() {
+ 
+	struct ABC;
+ 
+}
+```
+
 
 
 
