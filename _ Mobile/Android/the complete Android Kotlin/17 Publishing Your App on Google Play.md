@@ -29,7 +29,14 @@ When you change `versionCode` on the top you will see `Sync now` button
 
 # Building APK File
 
-`Build` > 
+`Build` > `Generate Signed App Bundle /APK`
+
+`Android App Bundle` - it is a new version of Android APK (this works only in Google Play)
+`APK` - a old version of Android APK (it works on Google Play and Other Platform: e.g. Amazon market)
+
+
+
+
 
 
 
