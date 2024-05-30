@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust Programming Course/5 Types.md",
+                "file": "R U S T/Rust Programming Course/5.1. Struct.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust Programming Course/5 Types.md",
+                "file": "R U S T/Rust Programming Course/5.1. Struct.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Rust Programming Course/5 Types.md"
+                "file": "R U S T/Rust Programming Course/5.1. Struct.md"
               }
             }
           },
@@ -252,10 +252,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "149e71776b7d1e3a",
+  "active": "51d01fee68904071",
   "lastOpenFiles": [
-    "R U S T/Rust Programming Course/5.1. Struct.md",
     "R U S T/Rust Programming Course/5 Types.md",
+    "R U S T/Rust Programming Course/5.1. Struct.md",
     "R U S T/Rust Programming Course/_ 0 Rust From Beginner to Expert 2.0.md",
     "R U S T/Rust Programming Course/4.1 Borrowing.md",
     "HASKELL/Haskell GPT - od podstaw/1.2. Klasy typów.md",
