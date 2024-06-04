@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "15 Device Compablility",
+      "path": "_ Mobile/Android/the complete Android Kotlin/15 Device Compablility.md"
+    },
+    {
       "basename": "14 SharedPreferences Class",
       "path": "_ Mobile/Android/the complete Android Kotlin/14 SharedPreferences Class.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_ 0 React 18 Utlimate , TypeScript",
       "path": "_ WEB/REACT/React18+TypeScript/_ 0 React 18 Utlimate , TypeScript.md"
-    },
-    {
-      "basename": "_ The React 18 Tutorial (2023)",
-      "path": "_ WEB/REACT/React 18 Tutorial and Projects Course 2023/_ The React 18 Tutorial (2023).md"
     }
   ],
   "omittedPaths": [],

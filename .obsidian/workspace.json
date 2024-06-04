@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/14 SharedPreferences Class.md",
+                "file": "_ Mobile/Android/the complete Android Kotlin/15 Device Compablility.md",
                 "mode": "source",
                 "source": false
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/14 SharedPreferences Class.md",
+                "file": "_ Mobile/Android/the complete Android Kotlin/15 Device Compablility.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/14 SharedPreferences Class.md",
+                "file": "_ Mobile/Android/the complete Android Kotlin/15 Device Compablility.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/14 SharedPreferences Class.md"
+                "file": "_ Mobile/Android/the complete Android Kotlin/15 Device Compablility.md"
               }
             }
           },
@@ -265,8 +265,8 @@
   },
   "active": "3d3d211d7b8eb595",
   "lastOpenFiles": [
-    "_ Mobile/Android/SharedPreferences - when to use.md",
     "_ Mobile/Android/the complete Android Kotlin/14 SharedPreferences Class.md",
+    "_ Mobile/Android/SharedPreferences - when to use.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/2. Rock, Paper, Scissors.md",
     "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.4. Fragment Life Cycle.md",
     "R U S T/Rust Programming Course/5.1. Struct.md",
