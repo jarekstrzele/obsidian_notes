@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "16 ToDoApp",
+      "path": "_ Mobile/Android/the complete Android Kotlin/16 ToDoApp.md"
+    },
+    {
       "basename": "15 Device Compablility",
       "path": "_ Mobile/Android/the complete Android Kotlin/15 Device Compablility.md"
+    },
+    {
+      "basename": "ObjectOutputStream",
+      "path": "_ Mobile/Android/the complete Android Kotlin/ObjectOutputStream.md"
+    },
+    {
+      "basename": "FileOutputStream",
+      "path": "_ Mobile/Android/the complete Android Kotlin/FileOutputStream.md"
+    },
+    {
+      "basename": "17 Publishing Your App on Google Play",
+      "path": "_ Mobile/Android/the complete Android Kotlin/17 Publishing Your App on Google Play.md"
     },
     {
       "basename": "14 SharedPreferences Class",
@@ -183,22 +199,6 @@
     {
       "basename": "1. Utworzenie projektu testowego",
       "path": "Testowanie/CSharp Testy jednostkowe i integracyjne/1. Utworzenie projektu testowego.md"
-    },
-    {
-      "basename": "2 Styling Components",
-      "path": "_ WEB/REACT/React18+TypeScript/2 Styling Components.md"
-    },
-    {
-      "basename": "1 Building Components - React 18 Utlimate",
-      "path": "_ WEB/REACT/React18+TypeScript/1 Building Components - React 18 Utlimate.md"
-    },
-    {
-      "basename": "5.1. Converter App",
-      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/5.1. Converter App.md"
-    },
-    {
-      "basename": "_ 0 React 18 Utlimate , TypeScript",
-      "path": "_ WEB/REACT/React18+TypeScript/_ 0 React 18 Utlimate , TypeScript.md"
     }
   ],
   "omittedPaths": [],
