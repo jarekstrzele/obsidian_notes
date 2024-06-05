@@ -14,6 +14,32 @@ Change `theme.xml`:
 </style>
 ```
 
+Add to `activity_main.xml`:
+- background
+- three buttons: `ADDITION`,`SUBSTRACTION`, `MUTLIPLICATION`
+
+
+![[Pasted image 20240605114748.png]]
+
+
+in `MainActivity.kt`
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

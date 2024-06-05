@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "13.7. View Binding",
+      "path": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.7. View Binding.md"
+    },
+    {
+      "basename": "SharedPreferences - when to use",
+      "path": "_ Mobile/Android/SharedPreferences - when to use.md"
+    },
+    {
       "basename": "18 Math Game Project",
       "path": "_ Mobile/Android/the complete Android Kotlin/18 Math Game Project.md"
     },
@@ -27,10 +35,6 @@
     {
       "basename": "14 SharedPreferences Class",
       "path": "_ Mobile/Android/the complete Android Kotlin/14 SharedPreferences Class.md"
-    },
-    {
-      "basename": "SharedPreferences - when to use",
-      "path": "_ Mobile/Android/SharedPreferences - when to use.md"
     },
     {
       "basename": "2. Rock, Paper, Scissors",
@@ -195,10 +199,6 @@
     {
       "basename": "Ubuntu instalacja",
       "path": "_ Desktop/AvaloniaUI/Ubuntu instalacja.md"
-    },
-    {
-      "basename": "BHP",
-      "path": "Studia/nauczPrzedZawoTechnikProgramista/BHP.md"
     }
   ],
   "omittedPaths": [],
