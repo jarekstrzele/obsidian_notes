@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "18 Math Game Project",
+      "path": "_ Mobile/Android/the complete Android Kotlin/18 Math Game Project.md"
+    },
+    {
       "basename": "16 ToDoApp",
       "path": "_ Mobile/Android/the complete Android Kotlin/16 ToDoApp.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "BHP",
       "path": "Studia/nauczPrzedZawoTechnikProgramista/BHP.md"
-    },
-    {
-      "basename": "1. Utworzenie projektu testowego",
-      "path": "Testowanie/CSharp Testy jednostkowe i integracyjne/1. Utworzenie projektu testowego.md"
     }
   ],
   "omittedPaths": [],

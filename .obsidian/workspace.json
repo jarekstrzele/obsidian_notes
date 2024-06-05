@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/16 ToDoApp.md",
+                "file": "_ Mobile/Android/the complete Android Kotlin/18 Math Game Project.md",
                 "mode": "source",
                 "source": false
               }
@@ -157,8 +157,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5,
-    "collapsed": true
+    "width": 297.5
   },
   "right": {
     "id": "7036b4a7a06b882e",
@@ -174,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/16 ToDoApp.md",
+                "file": "_ Mobile/Android/the complete Android Kotlin/18 Math Game Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/16 ToDoApp.md",
+                "file": "_ Mobile/Android/the complete Android Kotlin/18 Math Game Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/16 ToDoApp.md"
+                "file": "_ Mobile/Android/the complete Android Kotlin/18 Math Game Project.md"
               }
             }
           },
@@ -265,13 +264,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "04bc47a26b7598a7",
+  "active": "3d3d211d7b8eb595",
   "lastOpenFiles": [
+    "_ Mobile/Android/the complete Android Kotlin/16 ToDoApp.md",
+    "_ Mobile/Android/the complete Android Kotlin/18 Math Game Project.md",
     "_ Mobile/Android/the complete Android Kotlin/15 Device Compablility.md",
     "_ Mobile/Android/the complete Android Kotlin/ObjectOutputStream.md",
     "_ Mobile/Android/the complete Android Kotlin/FileOutputStream.md",
     "_ Mobile/Android/the complete Android Kotlin/17 Publishing Your App on Google Play.md",
-    "_ Mobile/Android/the complete Android Kotlin/16 ToDoApp.md",
     "_ Mobile/Android/the complete Android Kotlin/14 SharedPreferences Class.md",
     "_ Mobile/Android/SharedPreferences - when to use.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/2. Rock, Paper, Scissors.md",
@@ -293,7 +293,6 @@
     "R U S T/RUST FROM AI/Funkcje lambda closure.md",
     "R U S T/RUST FROM AI/6. Asynchroniczność.md",
     "R U S T/RUST FROM AI/4.1. Aplikacja podsumowująca 1,2,3,4.md",
-    "R U S T/RUST FROM AI/2 Struct, Enum, Traits.md",
     "HASKELL/Haskell GPT - od podstaw",
     "Pasted image 20240507114353.png",
     "Pasted image 20240507112050.png",
