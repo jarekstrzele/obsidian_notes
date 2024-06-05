@@ -23,7 +23,12 @@ Add to `activity_main.xml`:
 
 
 in `MainActivity.kt`
-
+- bindingview in gradle 
+```  
+buildFeatures{  
+    viewBinding=true  
+}
+```
 
 
 
