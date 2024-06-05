@@ -7,7 +7,12 @@ Add new colors in `colors.xml`:
 ```
 
 Change `theme.xml`:
-
+```xml
+  <item name="colorPrimary">@color/green</item>  
+    <item name="colorPrimaryVariant">@color/green</item>  
+    <item name="colorOnPrimary">@color/white</item>  
+</style>
+```
 
 
 
