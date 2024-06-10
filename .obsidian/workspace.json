@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.7. View Binding.md",
+                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/4. Lists and Objects.md",
                 "mode": "source",
                 "source": false
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.7. View Binding.md",
+                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/4. Lists and Objects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.7. View Binding.md",
+                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/4. Lists and Objects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.7. View Binding.md"
+                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/4. Lists and Objects.md"
               }
             }
           },
@@ -267,8 +267,11 @@
   },
   "active": "7af34d1b6b3e26b2",
   "lastOpenFiles": [
-    "_ Mobile/Android/the complete Android Kotlin/18 Math Game Project.md",
+    "_ Mobile/Android/the complete Android 14 and Kotlin/3. Functions, Objects and Coffee Machine.md",
+    "_ Mobile/Android/the complete Android 14 and Kotlin/2. Rock, Paper, Scissors.md",
+    "_ Mobile/Android/the complete Android 14 and Kotlin/Android 12 XML/6 Age in Minute Calculator.md",
     "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.7. View Binding.md",
+    "_ Mobile/Android/the complete Android Kotlin/18 Math Game Project.md",
     "_ Mobile/Android/SharedPreferences - when to use.md",
     "Pasted image 20240605114748.png",
     "_ Mobile/Android/the complete Android Kotlin/16 ToDoApp.md",
@@ -277,7 +280,6 @@
     "_ Mobile/Android/the complete Android Kotlin/FileOutputStream.md",
     "_ Mobile/Android/the complete Android Kotlin/17 Publishing Your App on Google Play.md",
     "_ Mobile/Android/the complete Android Kotlin/14 SharedPreferences Class.md",
-    "_ Mobile/Android/the complete Android 14 and Kotlin/2. Rock, Paper, Scissors.md",
     "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.4. Fragment Life Cycle.md",
     "R U S T/Rust Programming Course/5.1. Struct.md",
     "R U S T/Rust Programming Course/5 Types.md",
@@ -293,8 +295,6 @@
     "_ FullStack/Kotlin - FullStack/2 Admin Panel - Login Screen.md",
     "R U S T/RUST FROM AI/5. LifeTime (czas życia).md",
     "R U S T/RUST FROM AI/5. Iteratory.md",
-    "R U S T/RUST FROM AI/Funkcje lambda closure.md",
-    "R U S T/RUST FROM AI/6. Asynchroniczność.md",
     "HASKELL/Haskell GPT - od podstaw",
     "Pasted image 20240507114353.png",
     "Pasted image 20240507112050.png",

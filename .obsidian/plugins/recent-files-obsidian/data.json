@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "4. Lists and Objects",
+      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/4. Lists and Objects.md"
+    },
+    {
+      "basename": "3. Functions, Objects and Coffee Machine",
+      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/3. Functions, Objects and Coffee Machine.md"
+    },
+    {
+      "basename": "2. Rock, Paper, Scissors",
+      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/2. Rock, Paper, Scissors.md"
+    },
+    {
+      "basename": "6 Age in Minute Calculator",
+      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/Android 12 XML/6 Age in Minute Calculator.md"
+    },
+    {
       "basename": "13.7. View Binding",
       "path": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.7. View Binding.md"
     },
@@ -35,10 +51,6 @@
     {
       "basename": "14 SharedPreferences Class",
       "path": "_ Mobile/Android/the complete Android Kotlin/14 SharedPreferences Class.md"
-    },
-    {
-      "basename": "2. Rock, Paper, Scissors",
-      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/2. Rock, Paper, Scissors.md"
     },
     {
       "basename": "13.4. Fragment Life Cycle",
@@ -187,18 +199,6 @@
     {
       "basename": "Podstawowe kontrolki i zapisywanie do pliku",
       "path": "_ Desktop/WPF/Podstawowe kontrolki i zapisywanie do pliku.md"
-    },
-    {
-      "basename": "Alien Form",
-      "path": "_ Desktop/WPF/Alien Form.md"
-    },
-    {
-      "basename": "_ Rusz Głową C Sharp",
-      "path": "_ Desktop/WPF/Rusz Głową C Sharp/_ Rusz Głową C Sharp.md"
-    },
-    {
-      "basename": "Ubuntu instalacja",
-      "path": "_ Desktop/AvaloniaUI/Ubuntu instalacja.md"
     }
   ],
   "omittedPaths": [],
