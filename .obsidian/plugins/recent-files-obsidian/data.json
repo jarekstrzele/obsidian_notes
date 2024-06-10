@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "3 Language basics",
+      "path": "R U S T/Rust lang - The complete beginner's guide/3 Language basics.md"
+    },
+    {
       "basename": "_ Rust lang The complete beginner's guide",
       "path": "R U S T/Rust lang - The complete beginner's guide/_ Rust lang The complete beginner's guide.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "3.3. View Binding",
       "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3.3. View Binding.md"
-    },
-    {
-      "basename": "_ 0 Full Stack Kotlin Multiplatform KMP Development",
-      "path": "_ FullStack/Kotlin - FullStack/_ 0 Full Stack Kotlin Multiplatform KMP Development.md"
     }
   ],
   "omittedPaths": [],
