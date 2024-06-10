@@ -32,67 +32,19 @@
             }
           },
           {
-            "id": "1177599b2574bfb8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linux/UBUNTU.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "90ff715e3f155d47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "R U S T/RUST FROM AI/4. Wskaźniki i Smart Pointers (Box,  Rc, RefCell).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d2db4edac05dbe79",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HASKELL/Haskell GPT - od podstaw/1.2. Klasy typów.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "149e71776b7d1e3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "R U S T/Rust Programming Course/5 Types.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "51d01fee68904071",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Rust Programming Course/5.1. Struct.md",
+                "file": "R U S T/Rust lang - The complete beginner's guide/_ Rust lang The complete beginner's guide.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -174,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/4. Lists and Objects.md",
+                "file": "R U S T/Rust lang - The complete beginner's guide/_ Rust lang The complete beginner's guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/4. Lists and Objects.md",
+                "file": "R U S T/Rust lang - The complete beginner's guide/_ Rust lang The complete beginner's guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/4. Lists and Objects.md"
+                "file": "R U S T/Rust lang - The complete beginner's guide/_ Rust lang The complete beginner's guide.md"
               }
             }
           },
@@ -265,8 +217,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7af34d1b6b3e26b2",
+  "active": "51d01fee68904071",
   "lastOpenFiles": [
+    "R U S T/Rust Programming Course/5.1. Struct.md",
+    "_ Mobile/Android/the complete Android 14 and Kotlin/4. Lists and Objects.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/3. Functions, Objects and Coffee Machine.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/2. Rock, Paper, Scissors.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/Android 12 XML/6 Age in Minute Calculator.md",
@@ -281,7 +235,6 @@
     "_ Mobile/Android/the complete Android Kotlin/17 Publishing Your App on Google Play.md",
     "_ Mobile/Android/the complete Android Kotlin/14 SharedPreferences Class.md",
     "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.4. Fragment Life Cycle.md",
-    "R U S T/Rust Programming Course/5.1. Struct.md",
     "R U S T/Rust Programming Course/5 Types.md",
     "R U S T/Rust Programming Course/4.1 Borrowing.md",
     "conflict-files-obsidian-git.md",
@@ -294,7 +247,6 @@
     "R U S T/Rust Programming Course",
     "_ FullStack/Kotlin - FullStack/2 Admin Panel - Login Screen.md",
     "R U S T/RUST FROM AI/5. LifeTime (czas życia).md",
-    "R U S T/RUST FROM AI/5. Iteratory.md",
     "HASKELL/Haskell GPT - od podstaw",
     "Pasted image 20240507114353.png",
     "Pasted image 20240507112050.png",

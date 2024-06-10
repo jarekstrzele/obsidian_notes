@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "_ Rust lang The complete beginner's guide",
+      "path": "R U S T/Rust lang - The complete beginner's guide/_ Rust lang The complete beginner's guide.md"
+    },
+    {
+      "basename": "5.1. Struct",
+      "path": "R U S T/Rust Programming Course/5.1. Struct.md"
+    },
+    {
       "basename": "4. Lists and Objects",
       "path": "_ Mobile/Android/the complete Android 14 and Kotlin/4. Lists and Objects.md"
     },
@@ -55,10 +63,6 @@
     {
       "basename": "13.4. Fragment Life Cycle",
       "path": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.4. Fragment Life Cycle.md"
-    },
-    {
-      "basename": "5.1. Struct",
-      "path": "R U S T/Rust Programming Course/5.1. Struct.md"
     },
     {
       "basename": "5 Types",
@@ -195,10 +199,6 @@
     {
       "basename": "_ 0 Full Stack Kotlin Multiplatform KMP Development",
       "path": "_ FullStack/Kotlin - FullStack/_ 0 Full Stack Kotlin Multiplatform KMP Development.md"
-    },
-    {
-      "basename": "Podstawowe kontrolki i zapisywanie do pliku",
-      "path": "_ Desktop/WPF/Podstawowe kontrolki i zapisywanie do pliku.md"
     }
   ],
   "omittedPaths": [],
