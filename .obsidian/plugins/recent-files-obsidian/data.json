@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "_ 0 Rust",
+      "path": "R U S T/RUST FROM AI/_ 0 Rust.md"
+    },
+    {
+      "basename": "_ Haskell for beginners",
+      "path": "HASKELL/Haskell for beginners Udemy/_ Haskell for beginners.md"
+    },
+    {
+      "basename": "_ Haskell plac ćwiczeń dla uczonych",
+      "path": "HASKELL/Haskell plac ćwiczeń/_ Haskell plac ćwiczeń dla uczonych.md"
+    },
+    {
+      "basename": "6.2. Interfejsy",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/6.2. Interfejsy.md"
+    },
+    {
       "basename": "3 Language basics",
       "path": "R U S T/Rust lang - The complete beginner's guide/3 Language basics.md"
     },
@@ -133,10 +149,6 @@
       "path": "R U S T/RUST FROM AI/1 Ownership.md"
     },
     {
-      "basename": "_ 0 Rust",
-      "path": "R U S T/RUST FROM AI/_ 0 Rust.md"
-    },
-    {
       "basename": "Stack And Heap",
       "path": "R U S T/RUST FROM AI/Stack And Heap.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "_ Kotlin bez tajemnic",
       "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/_ Kotlin bez tajemnic.md"
-    },
-    {
-      "basename": "3.1. Fragments",
-      "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3.1. Fragments.md"
-    },
-    {
-      "basename": "3.2. View Models",
-      "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3.2. View Models.md"
-    },
-    {
-      "basename": "3.3. View Binding",
-      "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3.3. View Binding.md"
     }
   ],
   "omittedPaths": [],

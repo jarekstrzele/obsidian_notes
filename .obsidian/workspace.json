@@ -37,24 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Rust lang - The complete beginner's guide/3 Language basics.md",
+                "file": "R U S T/RUST FROM AI/_ 0 Rust.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "62b9c0edfbe650ca",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.3"
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -136,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust lang - The complete beginner's guide/3 Language basics.md",
+                "file": "R U S T/RUST FROM AI/_ 0 Rust.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust lang - The complete beginner's guide/3 Language basics.md",
+                "file": "R U S T/RUST FROM AI/_ 0 Rust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Rust lang - The complete beginner's guide/3 Language basics.md"
+                "file": "R U S T/RUST FROM AI/_ 0 Rust.md"
               }
             }
           },
@@ -227,8 +217,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "62b9c0edfbe650ca",
+  "active": "04bc47a26b7598a7",
   "lastOpenFiles": [
+    "HASKELL/Haskell for beginners Udemy/_ Haskell for beginners.md",
+    "HASKELL/Haskell plac ćwiczeń/_ Haskell plac ćwiczeń dla uczonych.md",
+    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/6.2. Interfejsy.md",
+    "R U S T/Rust lang - The complete beginner's guide/3 Language basics.md",
     "R U S T/Rust lang - The complete beginner's guide/_ Rust lang The complete beginner's guide.md",
     "R U S T/Rust Programming Course/5.1. Struct.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/4. Lists and Objects.md",
@@ -252,11 +246,7 @@
     "R U S T/Rust Programming Course/_ 0 Rust From Beginner to Expert 2.0.md",
     "HASKELL/Haskell GPT - od podstaw/1.2. Klasy typów.md",
     "R U S T/RUST FROM AI/4. Wskaźniki i Smart Pointers (Box,  Rc, RefCell).md",
-    "linux/UBUNTU.md",
-    "R U S T/Rust Programming Course/4 Ownership.md",
-    "R U S T/RUST FROM AI/3. Stringi.md",
     "R U S T/Rust Programming Course",
-    "_ FullStack/Kotlin - FullStack/2 Admin Panel - Login Screen.md",
     "HASKELL/Haskell GPT - od podstaw",
     "Pasted image 20240507114353.png",
     "Pasted image 20240507112050.png",
