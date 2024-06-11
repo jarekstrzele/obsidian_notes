@@ -42,9 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "62b9c0edfbe650ca",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -217,7 +227,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "51d01fee68904071",
+  "active": "62b9c0edfbe650ca",
   "lastOpenFiles": [
     "R U S T/Rust lang - The complete beginner's guide/_ Rust lang The complete beginner's guide.md",
     "R U S T/Rust Programming Course/5.1. Struct.md",
