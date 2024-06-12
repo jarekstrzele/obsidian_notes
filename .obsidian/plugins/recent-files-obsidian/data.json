@@ -5,6 +5,10 @@
       "path": "_ Mobile/Android/the complete Android Kotlin/18 Math Game Project.md"
     },
     {
+      "basename": "17 Publishing Your App on Google Play",
+      "path": "_ Mobile/Android/the complete Android Kotlin/17 Publishing Your App on Google Play.md"
+    },
+    {
       "basename": "_ 0 Rust",
       "path": "R U S T/RUST FROM AI/_ 0 Rust.md"
     },
@@ -71,10 +75,6 @@
     {
       "basename": "FileOutputStream",
       "path": "_ Mobile/Android/the complete Android Kotlin/FileOutputStream.md"
-    },
-    {
-      "basename": "17 Publishing Your App on Google Play",
-      "path": "_ Mobile/Android/the complete Android Kotlin/17 Publishing Your App on Google Play.md"
     },
     {
       "basename": "14 SharedPreferences Class",
