@@ -13,19 +13,55 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/18 Math Game Project.md",
+                "file": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.4. Fragment Life Cycle.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7af34d1b6b3e26b2",
+            "id": "1177599b2574bfb8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/4. Lists and Objects.md",
+                "file": "linux/UBUNTU.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "90ff715e3f155d47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "R U S T/RUST FROM AI/4. Wskaźniki i Smart Pointers (Box,  Rc, RefCell).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d2db4edac05dbe79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HASKELL/Haskell GPT - od podstaw/1.2. Klasy typów.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "149e71776b7d1e3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "R U S T/Rust Programming Course/5 Types.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +73,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/18 Math Game Project.md",
+                "file": "R U S T/Rust Programming Course/5.1. Struct.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -126,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/18 Math Game Project.md",
+                "file": "R U S T/Rust Programming Course/5.1. Struct.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/18 Math Game Project.md",
+                "file": "R U S T/Rust Programming Course/5.1. Struct.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/18 Math Game Project.md"
+                "file": "R U S T/Rust Programming Course/5.1. Struct.md"
               }
             }
           },
@@ -202,8 +238,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,34 +254,34 @@
   },
   "active": "51d01fee68904071",
   "lastOpenFiles": [
-    "_ Mobile/Android/the complete Android Kotlin/17 Publishing Your App on Google Play.md",
     "_ Mobile/Android/the complete Android Kotlin/18 Math Game Project.md",
-    "HASKELL/Haskell for beginners Udemy/_ Haskell for beginners.md",
-    "HASKELL/Haskell plac ćwiczeń/_ Haskell plac ćwiczeń dla uczonych.md",
-    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/6.2. Interfejsy.md",
-    "R U S T/Rust lang - The complete beginner's guide/3 Language basics.md",
-    "R U S T/Rust lang - The complete beginner's guide/_ Rust lang The complete beginner's guide.md",
-    "R U S T/Rust Programming Course/5.1. Struct.md",
-    "_ Mobile/Android/the complete Android 14 and Kotlin/4. Lists and Objects.md",
-    "_ Mobile/Android/the complete Android 14 and Kotlin/3. Functions, Objects and Coffee Machine.md",
-    "_ Mobile/Android/the complete Android 14 and Kotlin/2. Rock, Paper, Scissors.md",
-    "_ Mobile/Android/the complete Android 14 and Kotlin/Android 12 XML/6 Age in Minute Calculator.md",
-    "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.7. View Binding.md",
-    "_ Mobile/Android/SharedPreferences - when to use.md",
     "Pasted image 20240605114748.png",
-    "_ Mobile/Android/the complete Android Kotlin/16 ToDoApp.md",
-    "_ Mobile/Android/the complete Android Kotlin/15 Device Compablility.md",
-    "_ Mobile/Android/the complete Android Kotlin/ObjectOutputStream.md",
-    "_ Mobile/Android/the complete Android Kotlin/FileOutputStream.md",
-    "_ Mobile/Android/the complete Android Kotlin/14 SharedPreferences Class.md",
-    "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.4. Fragment Life Cycle.md",
     "R U S T/Rust Programming Course/5 Types.md",
     "R U S T/Rust Programming Course/4.1 Borrowing.md",
+    "R U S T/Rust Programming Course/5.1. Struct.md",
     "conflict-files-obsidian-git.md",
+    "_ Mobile/Android/the complete Android Kotlin/17 Publishing Your App on Google Play.md",
     "R U S T/Rust Programming Course/_ 0 Rust From Beginner to Expert 2.0.md",
     "HASKELL/Haskell GPT - od podstaw/1.2. Klasy typów.md",
     "R U S T/RUST FROM AI/4. Wskaźniki i Smart Pointers (Box,  Rc, RefCell).md",
+    "linux/UBUNTU.md",
+    "R U S T/Rust Programming Course/4 Ownership.md",
+    "_ Mobile/Android/the complete Android Kotlin/ObjectOutputStream.md",
+    "_ Mobile/Android/the complete Android Kotlin/FileOutputStream.md",
+    "_ Mobile/Android/the complete Android Kotlin/16 ToDoApp.md",
+    "R U S T/RUST FROM AI/3. Stringi.md",
     "R U S T/Rust Programming Course",
+    "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.4. Fragment Life Cycle.md",
+    "_ FullStack/Kotlin - FullStack/2 Admin Panel - Login Screen.md",
+    "_ Mobile/Android/the complete Android Kotlin/15 Device Compablility.md",
+    "_ Mobile/Android/SharedPreferences - when to use.md",
+    "R U S T/RUST FROM AI/5. LifeTime (czas życia).md",
+    "R U S T/RUST FROM AI/5. Iteratory.md",
+    "R U S T/RUST FROM AI/Funkcje lambda closure.md",
+    "R U S T/RUST FROM AI/6. Asynchroniczność.md",
+    "R U S T/RUST FROM AI/4.1. Aplikacja podsumowująca 1,2,3,4.md",
+    "R U S T/RUST FROM AI/2 Struct, Enum, Traits.md",
+    "R U S T/RUST FROM AI/1 Ownership.md",
     "HASKELL/Haskell GPT - od podstaw",
     "Pasted image 20240507114353.png",
     "Pasted image 20240507112050.png",
