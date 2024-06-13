@@ -69,7 +69,7 @@ class MainActivity : AppCompatActivity() {
 ```xml
 <!-- ...  -->
 <activity  
-    android:name=".GameActivity"  
+    android:name=".GameActivity" 
     android:exported="false"  
     android:parentActivityName=".MainActivity"  
     />  
