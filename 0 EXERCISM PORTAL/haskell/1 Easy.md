@@ -1,3 +1,5 @@
+#haskell
+
 https://exercism.org
 
 # hello world

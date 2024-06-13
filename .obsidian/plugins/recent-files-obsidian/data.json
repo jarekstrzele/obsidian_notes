@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
+      "basename": "1 easy",
+      "path": "0 EXERCISM PORTAL/rust/1 easy.md"
+    },
+    {
       "basename": "1 Easy",
-      "path": "HASKELL/exercism - portal/1 Easy.md"
+      "path": "0 EXERCISM PORTAL/haskell/1 Easy.md"
     },
     {
       "basename": "18 Math Game Project",
@@ -195,10 +199,6 @@
     {
       "basename": "3. Stringi",
       "path": "R U S T/RUST FROM AI/3. Stringi.md"
-    },
-    {
-      "basename": "2 Admin Panel - Login Screen",
-      "path": "_ FullStack/Kotlin - FullStack/2 Admin Panel - Login Screen.md"
     }
   ],
   "omittedPaths": [],
