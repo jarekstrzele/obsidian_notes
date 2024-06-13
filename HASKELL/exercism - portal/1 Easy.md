@@ -62,7 +62,14 @@ Some examples:
 - Turn `"strops"` into `"sports"`.
 - Turn `"racecar"` into `"racecar"`.
 
+```haskell
+reverseString :: String -> String
+reverseString [] = []
+reverseString (x : xs) = reverseString xs ++ [x]  
 
+main :: IO()
+main = putStrLn $ reverseString "strops" -- sport
+```
 
 
 
