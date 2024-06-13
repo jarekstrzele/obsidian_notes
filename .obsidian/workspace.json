@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.4. Fragment Life Cycle.md",
+                "file": "_ Mobile/Android/the complete Android Kotlin/18 Math Game Project.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,8 +79,7 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -162,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust Programming Course/5.1. Struct.md",
+                "file": "_ Mobile/Android/the complete Android Kotlin/18 Math Game Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust Programming Course/5.1. Struct.md",
+                "file": "_ Mobile/Android/the complete Android Kotlin/18 Math Game Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Rust Programming Course/5.1. Struct.md"
+                "file": "_ Mobile/Android/the complete Android Kotlin/18 Math Game Project.md"
               }
             }
           },
@@ -252,36 +251,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "51d01fee68904071",
+  "active": "3d3d211d7b8eb595",
   "lastOpenFiles": [
+    "_ Mobile/Android/the complete Android Kotlin/16 ToDoApp.md",
+    "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.7. View Binding.md",
+    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Runnable.md",
+    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Handler.md",
+    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/15. Bazy danych SQLite.md",
+    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/11. Fragmenty dynamiczne.md",
+    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/10.1. Celne spostrzeżenia.md",
+    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/10. Fragmenty dla większy interfejsów.md",
+    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/9.2. Fragment list.md",
+    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/9.1. Fragmant blank.md",
+    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/9. Fragmenty.md",
+    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/8.1.2. Dostawcy akcji.md",
+    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/8.1.1. Nawigacja w górę.md",
+    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/8.1. Toolbar i Menu.md",
+    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/8. Biblioteki wsparcia i paski aplikacji.md",
+    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/7. Widoki list i adaptery.md",
+    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/6. Układy z ograniczeniami ConstraintLayout.md",
+    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4. Cykl życia aktywnośći.md",
+    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/3 Wiele aktywności i intencji.md",
+    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/2. Tworzenie interaktywnych aplikacji.md",
+    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/1. Skok na głęboką wodę.md",
+    "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.4. Fragment Life Cycle.md",
+    "R U S T/Rust Programming Course/5.1. Struct.md",
     "_ Mobile/Android/the complete Android Kotlin/18 Math Game Project.md",
     "Pasted image 20240605114748.png",
     "R U S T/Rust Programming Course/5 Types.md",
     "R U S T/Rust Programming Course/4.1 Borrowing.md",
-    "R U S T/Rust Programming Course/5.1. Struct.md",
-    "conflict-files-obsidian-git.md",
-    "_ Mobile/Android/the complete Android Kotlin/17 Publishing Your App on Google Play.md",
-    "R U S T/Rust Programming Course/_ 0 Rust From Beginner to Expert 2.0.md",
-    "HASKELL/Haskell GPT - od podstaw/1.2. Klasy typów.md",
-    "R U S T/RUST FROM AI/4. Wskaźniki i Smart Pointers (Box,  Rc, RefCell).md",
-    "linux/UBUNTU.md",
-    "R U S T/Rust Programming Course/4 Ownership.md",
-    "_ Mobile/Android/the complete Android Kotlin/ObjectOutputStream.md",
-    "_ Mobile/Android/the complete Android Kotlin/FileOutputStream.md",
-    "_ Mobile/Android/the complete Android Kotlin/16 ToDoApp.md",
-    "R U S T/RUST FROM AI/3. Stringi.md",
     "R U S T/Rust Programming Course",
-    "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.4. Fragment Life Cycle.md",
-    "_ FullStack/Kotlin - FullStack/2 Admin Panel - Login Screen.md",
-    "_ Mobile/Android/the complete Android Kotlin/15 Device Compablility.md",
-    "_ Mobile/Android/SharedPreferences - when to use.md",
-    "R U S T/RUST FROM AI/5. LifeTime (czas życia).md",
-    "R U S T/RUST FROM AI/5. Iteratory.md",
-    "R U S T/RUST FROM AI/Funkcje lambda closure.md",
-    "R U S T/RUST FROM AI/6. Asynchroniczność.md",
-    "R U S T/RUST FROM AI/4.1. Aplikacja podsumowująca 1,2,3,4.md",
-    "R U S T/RUST FROM AI/2 Struct, Enum, Traits.md",
-    "R U S T/RUST FROM AI/1 Ownership.md",
     "HASKELL/Haskell GPT - od podstaw",
     "Pasted image 20240507114353.png",
     "Pasted image 20240507112050.png",

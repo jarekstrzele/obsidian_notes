@@ -1,12 +1,100 @@
 {
   "recentFiles": [
     {
-      "basename": "5.1. Struct",
-      "path": "R U S T/Rust Programming Course/5.1. Struct.md"
-    },
-    {
       "basename": "18 Math Game Project",
       "path": "_ Mobile/Android/the complete Android Kotlin/18 Math Game Project.md"
+    },
+    {
+      "basename": "16 ToDoApp",
+      "path": "_ Mobile/Android/the complete Android Kotlin/16 ToDoApp.md"
+    },
+    {
+      "basename": "13.7. View Binding",
+      "path": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.7. View Binding.md"
+    },
+    {
+      "basename": "Runnable",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Runnable.md"
+    },
+    {
+      "basename": "Handler",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Handler.md"
+    },
+    {
+      "basename": "15. Bazy danych SQLite",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/15. Bazy danych SQLite.md"
+    },
+    {
+      "basename": "11. Fragmenty dynamiczne",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/11. Fragmenty dynamiczne.md"
+    },
+    {
+      "basename": "10.1. Celne spostrzeżenia",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/10.1. Celne spostrzeżenia.md"
+    },
+    {
+      "basename": "10. Fragmenty dla większy interfejsów",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/10. Fragmenty dla większy interfejsów.md"
+    },
+    {
+      "basename": "9.2. Fragment list",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/9.2. Fragment list.md"
+    },
+    {
+      "basename": "9.1. Fragmant blank",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/9.1. Fragmant blank.md"
+    },
+    {
+      "basename": "9. Fragmenty",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/9. Fragmenty.md"
+    },
+    {
+      "basename": "8.1.2. Dostawcy akcji",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/8.1.2. Dostawcy akcji.md"
+    },
+    {
+      "basename": "8.1.1. Nawigacja w górę",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/8.1.1. Nawigacja w górę.md"
+    },
+    {
+      "basename": "8.1. Toolbar i Menu",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/8.1. Toolbar i Menu.md"
+    },
+    {
+      "basename": "8. Biblioteki wsparcia i paski aplikacji",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/8. Biblioteki wsparcia i paski aplikacji.md"
+    },
+    {
+      "basename": "7. Widoki list i adaptery",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/7. Widoki list i adaptery.md"
+    },
+    {
+      "basename": "6. Układy z ograniczeniami ConstraintLayout",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/6. Układy z ograniczeniami ConstraintLayout.md"
+    },
+    {
+      "basename": "4. Cykl życia aktywnośći",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4. Cykl życia aktywnośći.md"
+    },
+    {
+      "basename": "3 Wiele aktywności i intencji",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/3 Wiele aktywności i intencji.md"
+    },
+    {
+      "basename": "2. Tworzenie interaktywnych aplikacji",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/2. Tworzenie interaktywnych aplikacji.md"
+    },
+    {
+      "basename": "1. Skok na głęboką wodę",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/1. Skok na głęboką wodę.md"
+    },
+    {
+      "basename": "13.4. Fragment Life Cycle",
+      "path": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.4. Fragment Life Cycle.md"
+    },
+    {
+      "basename": "5.1. Struct",
+      "path": "R U S T/Rust Programming Course/5.1. Struct.md"
     },
     {
       "basename": "17 Publishing Your App on Google Play",
@@ -53,16 +141,8 @@
       "path": "_ Mobile/Android/the complete Android 14 and Kotlin/Android 12 XML/6 Age in Minute Calculator.md"
     },
     {
-      "basename": "13.7. View Binding",
-      "path": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.7. View Binding.md"
-    },
-    {
       "basename": "SharedPreferences - when to use",
       "path": "_ Mobile/Android/SharedPreferences - when to use.md"
-    },
-    {
-      "basename": "16 ToDoApp",
-      "path": "_ Mobile/Android/the complete Android Kotlin/16 ToDoApp.md"
     },
     {
       "basename": "15 Device Compablility",
@@ -79,10 +159,6 @@
     {
       "basename": "14 SharedPreferences Class",
       "path": "_ Mobile/Android/the complete Android Kotlin/14 SharedPreferences Class.md"
-    },
-    {
-      "basename": "13.4. Fragment Life Cycle",
-      "path": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.4. Fragment Life Cycle.md"
     },
     {
       "basename": "5 Types",
@@ -123,82 +199,6 @@
     {
       "basename": "5. LifeTime (czas życia)",
       "path": "R U S T/RUST FROM AI/5. LifeTime (czas życia).md"
-    },
-    {
-      "basename": "5. Iteratory",
-      "path": "R U S T/RUST FROM AI/5. Iteratory.md"
-    },
-    {
-      "basename": "Funkcje lambda closure",
-      "path": "R U S T/RUST FROM AI/Funkcje lambda closure.md"
-    },
-    {
-      "basename": "6. Asynchroniczność",
-      "path": "R U S T/RUST FROM AI/6. Asynchroniczność.md"
-    },
-    {
-      "basename": "4.1. Aplikacja podsumowująca 1,2,3,4",
-      "path": "R U S T/RUST FROM AI/4.1. Aplikacja podsumowująca 1,2,3,4.md"
-    },
-    {
-      "basename": "2 Struct, Enum, Traits",
-      "path": "R U S T/RUST FROM AI/2 Struct, Enum, Traits.md"
-    },
-    {
-      "basename": "1 Ownership",
-      "path": "R U S T/RUST FROM AI/1 Ownership.md"
-    },
-    {
-      "basename": "Stack And Heap",
-      "path": "R U S T/RUST FROM AI/Stack And Heap.md"
-    },
-    {
-      "basename": "7. Zarządzanie błędami.",
-      "path": "R U S T/RUST FROM AI/7. Zarządzanie błędami..md"
-    },
-    {
-      "basename": "3.  Moduły i organizacja kodu",
-      "path": "R U S T/RUST FROM AI/3.  Moduły i organizacja kodu.md"
-    },
-    {
-      "basename": "1. 2. Typy danych",
-      "path": "HASKELL/Haskell GPT - od podstaw/1. 2. Typy danych.md"
-    },
-    {
-      "basename": "4. Klasy typów - interfejsy",
-      "path": "HASKELL/Haskell GPT - od podstaw/4. Klasy typów - interfejsy.md"
-    },
-    {
-      "basename": "_ 0 Wprowadzenie",
-      "path": "HASKELL/Haskell GPT - od podstaw/_ 0 Wprowadzenie.md"
-    },
-    {
-      "basename": "3. Monady i Funktory",
-      "path": "HASKELL/Haskell GPT - od podstaw/3. Monady i Funktory.md"
-    },
-    {
-      "basename": "2. Funkcje",
-      "path": "HASKELL/Haskell GPT - od podstaw/2. Funkcje.md"
-    },
-    {
-      "basename": "13.3 Activity Life Cycle",
-      "path": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.3 Activity Life Cycle.md"
-    },
-    {
-      "basename": "13.2 Application Life Cycle",
-      "path": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.2 Application Life Cycle.md"
-    },
-    {
-      "basename": "13.1.   Intent",
-      "path": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.1.   Intent.md"
-    },
-    {
-      "basename": "3 Podstawy tworzenia aplikacji",
-      "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md"
-    },
-    {
-      "basename": "_ Kotlin bez tajemnic",
-      "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/_ Kotlin bez tajemnic.md"
     }
   ],
   "omittedPaths": [],
