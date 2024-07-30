@@ -78,19 +78,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "91aca8b004318ec2",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.3"
-              }
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -262,7 +252,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "91aca8b004318ec2",
+  "active": "51d01fee68904071",
   "lastOpenFiles": [
     "_ Mobile/Android/the complete Android Kotlin/18 Math Game Project.md",
     "Pasted image 20240605114748.png",
