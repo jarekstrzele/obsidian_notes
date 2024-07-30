@@ -20,40 +20,6 @@
             }
           },
           {
-            "id": "e9480b1d5b13274e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.5"
-              }
-            }
-          },
-          {
-            "id": "3e62fbcce20d579f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1177599b2574bfb8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linux/UBUNTU.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "90ff715e3f155d47",
             "type": "leaf",
             "state": {
@@ -101,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -168,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5,
-    "collapsed": true
+    "width": 202.50260543823242
   },
   "right": {
     "id": "7036b4a7a06b882e",
@@ -185,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "0 EXERCISM PORTAL/haskell/1 Easy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "0 EXERCISM PORTAL/haskell/1 Easy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "0 EXERCISM PORTAL/haskell/1 Easy.md"
               }
             }
           },
@@ -276,12 +240,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3e62fbcce20d579f",
+  "active": "3d3d211d7b8eb595",
   "lastOpenFiles": [
+    "linux/UBUNTU.md",
+    "0 EXERCISM PORTAL/haskell/1 Easy.md",
     "conflict-files-obsidian-git.md",
     "0 EXERCISM PORTAL/rust/1 easy.md",
     "0 EXERCISM PORTAL/Python",
-    "0 EXERCISM PORTAL/haskell/1 Easy.md",
     "0 EXERCISM PORTAL/rust",
     "0 EXERCISM PORTAL",
     "_ Mobile/Android/the complete Android Kotlin/18 Math Game Project.md",
@@ -307,7 +272,6 @@
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/3 Wiele aktywności i intencji.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/2. Tworzenie interaktywnych aplikacji.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/1. Skok na głęboką wodę.md",
-    "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.4. Fragment Life Cycle.md",
     "Pasted image 20240605114748.png",
     "R U S T/Rust Programming Course",
     "HASKELL/Haskell GPT - od podstaw",

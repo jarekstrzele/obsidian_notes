@@ -5,6 +5,10 @@
       "path": "0 EXERCISM PORTAL/haskell/1 Easy.md"
     },
     {
+      "basename": "UBUNTU",
+      "path": "linux/UBUNTU.md"
+    },
+    {
       "basename": "1 easy",
       "path": "0 EXERCISM PORTAL/rust/1 easy.md"
     },
@@ -187,10 +191,6 @@
     {
       "basename": "4. Wskaźniki i Smart Pointers (Box,  Rc, RefCell)",
       "path": "R U S T/RUST FROM AI/4. Wskaźniki i Smart Pointers (Box,  Rc, RefCell).md"
-    },
-    {
-      "basename": "UBUNTU",
-      "path": "linux/UBUNTU.md"
     },
     {
       "basename": "4 Ownership",
