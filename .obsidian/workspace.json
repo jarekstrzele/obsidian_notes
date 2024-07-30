@@ -78,9 +78,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "23eda9cab31def86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linux/UBUNTU.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b717784ac36b2538",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -162,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust Programming Course/5.1. Struct.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust Programming Course/5.1. Struct.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Rust Programming Course/5.1. Struct.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -252,19 +276,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "51d01fee68904071",
+  "active": "b717784ac36b2538",
   "lastOpenFiles": [
+    "linux/UBUNTU.md",
+    "conflict-files-obsidian-git.md",
+    "R U S T/Rust Programming Course/5.1. Struct.md",
+    "0 EXERCISM PORTAL/rust/1 easy.md",
+    "0 EXERCISM PORTAL/haskell/1 Easy.md",
+    "0 EXERCISM PORTAL/rust",
+    "0 EXERCISM PORTAL/haskell",
+    "0 EXERCISM PORTAL",
     "_ Mobile/Android/the complete Android Kotlin/18 Math Game Project.md",
     "Pasted image 20240605114748.png",
     "R U S T/Rust Programming Course/5 Types.md",
     "R U S T/Rust Programming Course/4.1 Borrowing.md",
-    "R U S T/Rust Programming Course/5.1. Struct.md",
-    "conflict-files-obsidian-git.md",
     "_ Mobile/Android/the complete Android Kotlin/17 Publishing Your App on Google Play.md",
     "R U S T/Rust Programming Course/_ 0 Rust From Beginner to Expert 2.0.md",
     "HASKELL/Haskell GPT - od podstaw/1.2. Klasy typów.md",
     "R U S T/RUST FROM AI/4. Wskaźniki i Smart Pointers (Box,  Rc, RefCell).md",
-    "linux/UBUNTU.md",
     "R U S T/Rust Programming Course/4 Ownership.md",
     "_ Mobile/Android/the complete Android Kotlin/ObjectOutputStream.md",
     "_ Mobile/Android/the complete Android Kotlin/FileOutputStream.md",
@@ -280,8 +309,6 @@
     "R U S T/RUST FROM AI/Funkcje lambda closure.md",
     "R U S T/RUST FROM AI/6. Asynchroniczność.md",
     "R U S T/RUST FROM AI/4.1. Aplikacja podsumowująca 1,2,3,4.md",
-    "R U S T/RUST FROM AI/2 Struct, Enum, Traits.md",
-    "R U S T/RUST FROM AI/1 Ownership.md",
     "HASKELL/Haskell GPT - od podstaw",
     "Pasted image 20240507114353.png",
     "Pasted image 20240507112050.png",
@@ -291,9 +318,6 @@
     "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle",
     "_ Mobile/Android/the complete Android Kotlin/12 Lists and Views",
     "_ Mobile/Android/the complete Android Kotlin/10 Android Components",
-    "_ Desktop/AvaloniaUI",
-    "Studia/nauczPrzedZawoTechnikProgramista",
-    "_ WEB/REACT/React18+TypeScript",
     "methodology/images/bar_matplotlib.png",
     "methodology/images/age_rating_barh.png",
     "methodology/images/age_rating_bar.png",
