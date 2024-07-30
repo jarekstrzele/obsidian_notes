@@ -30,6 +30,18 @@
             }
           },
           {
+            "id": "3e62fbcce20d579f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "1177599b2574bfb8",
             "type": "leaf",
             "state": {
@@ -90,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -173,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 EXERCISM PORTAL/haskell/1 Easy.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0 EXERCISM PORTAL/haskell/1 Easy.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 EXERCISM PORTAL/haskell/1 Easy.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -264,8 +276,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e9480b1d5b13274e",
+  "active": "3e62fbcce20d579f",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "0 EXERCISM PORTAL/rust/1 easy.md",
     "0 EXERCISM PORTAL/Python",
     "0 EXERCISM PORTAL/haskell/1 Easy.md",
