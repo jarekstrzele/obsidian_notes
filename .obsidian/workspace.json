@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "e9480b1d5b13274e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
+          },
+          {
             "id": "1177599b2574bfb8",
             "type": "leaf",
             "state": {
@@ -79,7 +89,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -253,7 +264,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3d3d211d7b8eb595",
+  "active": "e9480b1d5b13274e",
   "lastOpenFiles": [
     "0 EXERCISM PORTAL/rust/1 easy.md",
     "0 EXERCISM PORTAL/Python",
