@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c19a297fb13bad87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -150,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust Programming Course/5.1. Struct.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust Programming Course/5.1. Struct.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Rust Programming Course/5.1. Struct.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -240,11 +252,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "51d01fee68904071",
+  "active": "c19a297fb13bad87",
   "lastOpenFiles": [
-    "linux/UBUNTU.md",
-    "conflict-files-obsidian-git.md",
     "R U S T/Rust Programming Course/5.1. Struct.md",
+    "conflict-files-obsidian-git.md",
+    "linux/UBUNTU.md",
     "0 EXERCISM PORTAL/rust/1 easy.md",
     "0 EXERCISM PORTAL/haskell/1 Easy.md",
     "0 EXERCISM PORTAL/rust",
