@@ -90,21 +90,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b717784ac36b2538",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -186,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "linux/UBUNTU.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "linux/UBUNTU.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "linux/UBUNTU.md"
               }
             }
           },
@@ -276,10 +264,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b717784ac36b2538",
+  "active": "23eda9cab31def86",
   "lastOpenFiles": [
-    "linux/UBUNTU.md",
     "conflict-files-obsidian-git.md",
+    "linux/UBUNTU.md",
     "R U S T/Rust Programming Course/5.1. Struct.md",
     "0 EXERCISM PORTAL/rust/1 easy.md",
     "0 EXERCISM PORTAL/haskell/1 Easy.md",
