@@ -1,12 +1,64 @@
 {
   "recentFiles": [
     {
-      "basename": "conflict-files-obsidian-git",
-      "path": "conflict-files-obsidian-git.md"
+      "basename": "_ 0 Rust From Beginner to Expert 2.0",
+      "path": "R U S T/Rust Programming Course/_ 0 Rust From Beginner to Expert 2.0.md"
     },
     {
       "basename": "5.1. Struct",
       "path": "R U S T/Rust Programming Course/5.1. Struct.md"
+    },
+    {
+      "basename": "5 Types",
+      "path": "R U S T/Rust Programming Course/5 Types.md"
+    },
+    {
+      "basename": "4.1 Borrowing",
+      "path": "R U S T/Rust Programming Course/4.1 Borrowing.md"
+    },
+    {
+      "basename": "4 Ownership",
+      "path": "R U S T/Rust Programming Course/4 Ownership.md"
+    },
+    {
+      "basename": "_ Rust lang The complete beginner's guide",
+      "path": "R U S T/Rust lang - The complete beginner's guide/_ Rust lang The complete beginner's guide.md"
+    },
+    {
+      "basename": "3 Language basics",
+      "path": "R U S T/Rust lang - The complete beginner's guide/3 Language basics.md"
+    },
+    {
+      "basename": "4 Modules and Crates",
+      "path": "R U S T/Rust lang - The complete beginner's guide/4 Modules and Crates.md"
+    },
+    {
+      "basename": "5. Data types",
+      "path": "R U S T/Rust lang - The complete beginner's guide/5. Data types.md"
+    },
+    {
+      "basename": "_ 0 Rust",
+      "path": "R U S T/Rust - FreeCode Beginner/_ 0 Rust.md"
+    },
+    {
+      "basename": "2. Pierwsze spotkanie z Rustem",
+      "path": "R U S T/Programmowanie_w Rust/2. Pierwsze spotkanie z Rustem.md"
+    },
+    {
+      "basename": "_ Programowanie w języku Rust",
+      "path": "R U S T/Programmowanie_w Rust/_ Programowanie w języku Rust.md"
+    },
+    {
+      "basename": "2 Numbers",
+      "path": "R U S T/1 - Full Rust Beginner s Course/2 Numbers.md"
+    },
+    {
+      "basename": "1 Variables",
+      "path": "R U S T/1 - Full Rust Beginner s Course/1 Variables.md"
+    },
+    {
+      "basename": "_ Full Rust Beginners Cours",
+      "path": "R U S T/1 - Full Rust Beginner s Course/_ Full Rust Beginners Cours.md"
     },
     {
       "basename": "UBUNTU",
@@ -35,14 +87,6 @@
     {
       "basename": "6.2. Interfejsy",
       "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/6.2. Interfejsy.md"
-    },
-    {
-      "basename": "3 Language basics",
-      "path": "R U S T/Rust lang - The complete beginner's guide/3 Language basics.md"
-    },
-    {
-      "basename": "_ Rust lang The complete beginner's guide",
-      "path": "R U S T/Rust lang - The complete beginner's guide/_ Rust lang The complete beginner's guide.md"
     },
     {
       "basename": "4. Lists and Objects",
@@ -93,28 +137,12 @@
       "path": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.4. Fragment Life Cycle.md"
     },
     {
-      "basename": "5 Types",
-      "path": "R U S T/Rust Programming Course/5 Types.md"
-    },
-    {
-      "basename": "4.1 Borrowing",
-      "path": "R U S T/Rust Programming Course/4.1 Borrowing.md"
-    },
-    {
-      "basename": "_ 0 Rust From Beginner to Expert 2.0",
-      "path": "R U S T/Rust Programming Course/_ 0 Rust From Beginner to Expert 2.0.md"
-    },
-    {
       "basename": "1.2. Klasy typów",
       "path": "HASKELL/Haskell GPT - od podstaw/1.2. Klasy typów.md"
     },
     {
       "basename": "4. Wskaźniki i Smart Pointers (Box,  Rc, RefCell)",
       "path": "R U S T/RUST FROM AI/4. Wskaźniki i Smart Pointers (Box,  Rc, RefCell).md"
-    },
-    {
-      "basename": "4 Ownership",
-      "path": "R U S T/Rust Programming Course/4 Ownership.md"
     },
     {
       "basename": "3. Stringi",
@@ -171,34 +199,6 @@
     {
       "basename": "4. Klasy typów - interfejsy",
       "path": "HASKELL/Haskell GPT - od podstaw/4. Klasy typów - interfejsy.md"
-    },
-    {
-      "basename": "_ 0 Wprowadzenie",
-      "path": "HASKELL/Haskell GPT - od podstaw/_ 0 Wprowadzenie.md"
-    },
-    {
-      "basename": "3. Monady i Funktory",
-      "path": "HASKELL/Haskell GPT - od podstaw/3. Monady i Funktory.md"
-    },
-    {
-      "basename": "2. Funkcje",
-      "path": "HASKELL/Haskell GPT - od podstaw/2. Funkcje.md"
-    },
-    {
-      "basename": "13.3 Activity Life Cycle",
-      "path": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.3 Activity Life Cycle.md"
-    },
-    {
-      "basename": "13.2 Application Life Cycle",
-      "path": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.2 Application Life Cycle.md"
-    },
-    {
-      "basename": "13.1.   Intent",
-      "path": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.1.   Intent.md"
-    },
-    {
-      "basename": "3 Podstawy tworzenia aplikacji",
-      "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md"
     }
   ],
   "omittedPaths": [],
