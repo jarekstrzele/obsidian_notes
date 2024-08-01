@@ -5,6 +5,10 @@
       "path": "R U S T/Rust Programming Course/4.1 Borrowing.md"
     },
     {
+      "basename": "5.1. Struct",
+      "path": "R U S T/Rust Programming Course/5.1. Struct.md"
+    },
+    {
       "basename": "5 Types",
       "path": "R U S T/Rust Programming Course/5 Types.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "_ 0 Rust From Beginner to Expert 2.0",
       "path": "R U S T/Rust Programming Course/_ 0 Rust From Beginner to Expert 2.0.md"
-    },
-    {
-      "basename": "5.1. Struct",
-      "path": "R U S T/Rust Programming Course/5.1. Struct.md"
     },
     {
       "basename": "_ Rust lang The complete beginner's guide",
