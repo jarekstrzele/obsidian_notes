@@ -155,7 +155,7 @@ let my_vec = vec![10,20,30] ;
 
 ```
 
-### typle
+### tuple
 ```rust
 fn main() {
     let tuple: (&str, i32) = ("tom", 32) ;
