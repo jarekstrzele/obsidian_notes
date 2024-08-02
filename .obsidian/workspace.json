@@ -20,58 +20,12 @@
             }
           },
           {
-            "id": "75844ab22fbd484f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
-              }
-            }
-          },
-          {
-            "id": "9d38ceaf883685ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "90ff715e3f155d47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "R U S T/RUST FROM AI/4. Wskaźniki i Smart Pointers (Box,  Rc, RefCell).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d2db4edac05dbe79",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "HASKELL/Haskell GPT - od podstaw/1.2. Klasy typów.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "149e71776b7d1e3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "R U S T/Rust Programming Course/5 Types.md",
                 "mode": "source",
                 "source": false
               }
@@ -88,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "35f22f2fe38c77ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_ Mobile/Kotlin/Kotlin bez tajemnic/_ Kotlin bez tajemnic.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -156,7 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 202.50260543823242
+    "width": 287.5026054382324
   },
   "right": {
     "id": "7036b4a7a06b882e",
@@ -172,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "_ Mobile/Kotlin/Kotlin bez tajemnic/_ Kotlin bez tajemnic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "_ Mobile/Kotlin/Kotlin bez tajemnic/_ Kotlin bez tajemnic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "_ Mobile/Kotlin/Kotlin bez tajemnic/_ Kotlin bez tajemnic.md"
               }
             }
           },
@@ -263,11 +229,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9d38ceaf883685ce",
+  "active": "35f22f2fe38c77ea",
   "lastOpenFiles": [
+    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/hashcode.md",
+    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/Dodatek B. Testowanie.md",
+    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/Dodatek A. Koprocedury.md",
+    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/12 Wbudowane funkcje wyższego rzędu.md",
+    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/11. Lambda i funkcje wyższego rzędu.md",
+    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/5 Klasy pochodne i bazowe.md",
+    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/4 Klasy i obiekty.md",
+    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/3 Funkcje - wychodzimy poza `main`.md",
+    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/2 Typy proste i zmienn.md",
+    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/_ 0 Kotlin Rusz Głową.md",
+    "_ Mobile/Android/Android Kurs Tworzenia APlikacji/_ 0 Android Kurs Tworzenia Aplikacji.md",
+    "_ Mobile/Android/Kurs Android od podstaw/_ Kurs Android od podstaw.md",
+    "HASKELL/Haskell GPT - od podstaw/1.2. Klasy typów.md",
+    "R U S T/Rust Programming Course/5 Types.md",
+    "0 EXERCISM PORTAL/haskell/1 Easy.md",
+    "R U S T/RUST FROM AI/4. Wskaźniki i Smart Pointers (Box,  Rc, RefCell).md",
+    "R U S T/Rust Programming Course/5.1. Struct.md",
     "conflict-files-obsidian-git.md",
     "linux/UBUNTU.md",
-    "0 EXERCISM PORTAL/haskell/1 Easy.md",
     "0 EXERCISM PORTAL/rust/1 easy.md",
     "0 EXERCISM PORTAL/Python",
     "0 EXERCISM PORTAL/rust",
@@ -279,22 +261,6 @@
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Runnable.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Handler.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/15. Bazy danych SQLite.md",
-    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/11. Fragmenty dynamiczne.md",
-    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/10.1. Celne spostrzeżenia.md",
-    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/10. Fragmenty dla większy interfejsów.md",
-    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/9.2. Fragment list.md",
-    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/9.1. Fragmant blank.md",
-    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/9. Fragmenty.md",
-    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/8.1.2. Dostawcy akcji.md",
-    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/8.1.1. Nawigacja w górę.md",
-    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/8.1. Toolbar i Menu.md",
-    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/8. Biblioteki wsparcia i paski aplikacji.md",
-    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/7. Widoki list i adaptery.md",
-    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/6. Układy z ograniczeniami ConstraintLayout.md",
-    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4. Cykl życia aktywnośći.md",
-    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/3 Wiele aktywności i intencji.md",
-    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/2. Tworzenie interaktywnych aplikacji.md",
-    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/1. Skok na głęboką wodę.md",
     "Pasted image 20240605114748.png",
     "R U S T/Rust Programming Course",
     "HASKELL/Haskell GPT - od podstaw",
