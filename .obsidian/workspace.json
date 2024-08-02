@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Rust Programming Course/4.1 Borrowing.md",
+                "file": "R U S T/Rust Programming Course/5.1. Struct.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust Programming Course/4.1 Borrowing.md",
+                "file": "R U S T/Rust Programming Course/5.1. Struct.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust Programming Course/4.1 Borrowing.md",
+                "file": "R U S T/Rust Programming Course/5.1. Struct.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Rust Programming Course/4.1 Borrowing.md"
+                "file": "R U S T/Rust Programming Course/5.1. Struct.md"
               }
             }
           },
@@ -206,9 +206,9 @@
   },
   "active": "1a20f928e14687a5",
   "lastOpenFiles": [
-    "R U S T/Rust Programming Course/5.1. Struct.md",
     "R U S T/Rust Programming Course/5 Types.md",
     "R U S T/Rust Programming Course/4.1 Borrowing.md",
+    "R U S T/Rust Programming Course/5.1. Struct.md",
     "R U S T/Rust Programming Course/4 Ownership.md",
     "R U S T/Rust Programming Course/_ 0 Rust From Beginner to Expert 2.0.md",
     "R U S T/Rust lang - The complete beginner's guide/_ Rust lang The complete beginner's guide.md",
