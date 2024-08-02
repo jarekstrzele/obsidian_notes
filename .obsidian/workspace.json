@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "75844ab22fbd484f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
+          },
+          {
             "id": "90ff715e3f155d47",
             "type": "leaf",
             "state": {
@@ -67,7 +77,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -240,7 +251,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3d3d211d7b8eb595",
+  "active": "75844ab22fbd484f",
   "lastOpenFiles": [
     "linux/UBUNTU.md",
     "0 EXERCISM PORTAL/haskell/1 Easy.md",
