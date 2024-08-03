@@ -3,8 +3,8 @@
 ------------
 
 [[3.1. Fragments]]
-
-
+[[3.2. View Models]]
+[[3.3. View Binding]]
 
 
 
@@ -116,7 +116,6 @@ class HomeFragmentViewModel: ViewModel(){
 ```
 
 --------
-# View binding
 
 
 
