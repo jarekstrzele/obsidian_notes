@@ -7,10 +7,6 @@
 [[3.3. View Binding]]
 
 
-
-
-
-
 -----------------
 # Android Studio 
 - `File>Settings>Plugin`:
