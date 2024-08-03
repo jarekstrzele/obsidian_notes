@@ -1,6 +1,54 @@
 {
   "recentFiles": [
     {
+      "basename": "7.1. Klasa danych `data class`",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/7.1. Klasa danych `data class`.md"
+    },
+    {
+      "basename": "7.0. Wprowadzenie do  klas danych",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/7.0. Wprowadzenie do  klas danych.md"
+    },
+    {
+      "basename": "7 Klasy danych",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/7 Klasy danych.md"
+    },
+    {
+      "basename": "hashcode",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/hashcode.md"
+    },
+    {
+      "basename": "11. Lambda i funkcje wyższego rzędu",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/11. Lambda i funkcje wyższego rzędu.md"
+    },
+    {
+      "basename": "10 Typy sparametryzowane",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/10 Typy sparametryzowane.md"
+    },
+    {
+      "basename": "9. Kolekcje",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/9. Kolekcje.md"
+    },
+    {
+      "basename": "8.1. Wyjątki",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/8.1. Wyjątki.md"
+    },
+    {
+      "basename": "8. Wartość `null` i  wyjątki",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/8. Wartość `null` i  wyjątki.md"
+    },
+    {
+      "basename": "6.2. Interfejsy",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/6.2. Interfejsy.md"
+    },
+    {
+      "basename": "6.1 Klasy abstrakcyjne",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/6.1 Klasy abstrakcyjne.md"
+    },
+    {
+      "basename": "6 Klasy abstrakcyjne i interfejsy",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/6 Klasy abstrakcyjne i interfejsy.md"
+    },
+    {
       "basename": "5 Klasy pochodne i bazowe",
       "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/5 Klasy pochodne i bazowe.md"
     },
@@ -53,20 +101,12 @@
       "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/_ Kotlin bez tajemnic.md"
     },
     {
-      "basename": "hashcode",
-      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/hashcode.md"
-    },
-    {
       "basename": "Dodatek B. Testowanie",
       "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/Dodatek B. Testowanie.md"
     },
     {
       "basename": "Dodatek A. Koprocedury",
       "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/Dodatek A. Koprocedury.md"
-    },
-    {
-      "basename": "11. Lambda i funkcje wyższego rzędu",
-      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/11. Lambda i funkcje wyższego rzędu.md"
     },
     {
       "basename": "_ 0 Android Kurs Tworzenia Aplikacji",
@@ -159,46 +199,6 @@
     {
       "basename": "8.1.1. Nawigacja w górę",
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/8.1.1. Nawigacja w górę.md"
-    },
-    {
-      "basename": "8.1. Toolbar i Menu",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/8.1. Toolbar i Menu.md"
-    },
-    {
-      "basename": "8. Biblioteki wsparcia i paski aplikacji",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/8. Biblioteki wsparcia i paski aplikacji.md"
-    },
-    {
-      "basename": "7. Widoki list i adaptery",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/7. Widoki list i adaptery.md"
-    },
-    {
-      "basename": "6. Układy z ograniczeniami ConstraintLayout",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/6. Układy z ograniczeniami ConstraintLayout.md"
-    },
-    {
-      "basename": "4. Cykl życia aktywnośći",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4. Cykl życia aktywnośći.md"
-    },
-    {
-      "basename": "3 Wiele aktywności i intencji",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/3 Wiele aktywności i intencji.md"
-    },
-    {
-      "basename": "2. Tworzenie interaktywnych aplikacji",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/2. Tworzenie interaktywnych aplikacji.md"
-    },
-    {
-      "basename": "1. Skok na głęboką wodę",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/1. Skok na głęboką wodę.md"
-    },
-    {
-      "basename": "13.4. Fragment Life Cycle",
-      "path": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.4. Fragment Life Cycle.md"
-    },
-    {
-      "basename": "17 Publishing Your App on Google Play",
-      "path": "_ Mobile/Android/the complete Android Kotlin/17 Publishing Your App on Google Play.md"
     }
   ],
   "omittedPaths": [],
