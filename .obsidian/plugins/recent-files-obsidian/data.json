@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "2. Wprowadzenie do TypeScriptu",
+      "path": "TYPESCRIPT/React i TypeScript/2. Wprowadzenie do TypeScriptu.md"
+    },
+    {
+      "basename": "1 Wprowadzenie do React",
+      "path": "TYPESCRIPT/React i TypeScript/1 Wprowadzenie do React.md"
+    },
+    {
+      "basename": "_ 0 React i TypeScript reaktywne tworzenie stron internetowych dla początkujących",
+      "path": "TYPESCRIPT/React i TypeScript/_ 0 React i TypeScript reaktywne tworzenie stron internetowych dla początkujących.md"
+    },
+    {
+      "basename": "_ Learn TypeScript",
+      "path": "TYPESCRIPT/Learn TypeScript - Full Tutorial/_ Learn TypeScript.md"
+    },
+    {
+      "basename": "_ app z Node i Express",
+      "path": "_ WEB/React,TypeScript,Node/III Express, GraphQL tworzenie usług internetowych/_ app z Node i Express.md"
+    },
+    {
+      "basename": "_ React, TypeScript, Node",
+      "path": "_ WEB/React,TypeScript,Node/_ React, TypeScript, Node.md"
+    },
+    {
       "basename": "10 Typy sparametryzowane",
       "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/10 Typy sparametryzowane.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "10.1. Celne spostrzeżenia",
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/10.1. Celne spostrzeżenia.md"
-    },
-    {
-      "basename": "10. Fragmenty dla większy interfejsów",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/10. Fragmenty dla większy interfejsów.md"
-    },
-    {
-      "basename": "9.2. Fragment list",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/9.2. Fragment list.md"
-    },
-    {
-      "basename": "9.1. Fragmant blank",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/9.1. Fragmant blank.md"
-    },
-    {
-      "basename": "9. Fragmenty",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/9. Fragmenty.md"
-    },
-    {
-      "basename": "8.1.2. Dostawcy akcji",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/8.1.2. Dostawcy akcji.md"
-    },
-    {
-      "basename": "8.1.1. Nawigacja w górę",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/8.1.1. Nawigacja w górę.md"
     }
   ],
   "omittedPaths": [],

@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/10 Typy sparametryzowane.md",
+                "file": "TYPESCRIPT/React i TypeScript/2. Wprowadzenie do TypeScriptu.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/10 Typy sparametryzowane.md",
+                "file": "TYPESCRIPT/React i TypeScript/2. Wprowadzenie do TypeScriptu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/10 Typy sparametryzowane.md",
+                "file": "TYPESCRIPT/React i TypeScript/2. Wprowadzenie do TypeScriptu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/10 Typy sparametryzowane.md"
+                "file": "TYPESCRIPT/React i TypeScript/2. Wprowadzenie do TypeScriptu.md"
               }
             }
           },
@@ -231,12 +231,19 @@
   },
   "active": "35f22f2fe38c77ea",
   "lastOpenFiles": [
+    "TYPESCRIPT/React i TypeScript/1 Wprowadzenie do React.md",
+    "TYPESCRIPT/React i TypeScript/2. Wprowadzenie do TypeScriptu.md",
+    "TYPESCRIPT/React i TypeScript/_ 0 React i TypeScript reaktywne tworzenie stron internetowych dla początkujących.md",
+    "TYPESCRIPT/Learn TypeScript - Full Tutorial/_ Learn TypeScript.md",
+    "TYPESCRIPT/React i TypeScript",
+    "_ WEB/React,TypeScript,Node/III Express, GraphQL tworzenie usług internetowych/_ app z Node i Express.md",
+    "_ WEB/React,TypeScript,Node/_ React, TypeScript, Node.md",
+    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/10 Typy sparametryzowane.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/9. Kolekcje.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/8.1. Wyjątki.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/8. Wartość `null` i  wyjątki.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/7.1. Klasa danych `data class`.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/11. Lambda i funkcje wyższego rzędu.md",
-    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/10 Typy sparametryzowane.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/7.0. Wprowadzenie do  klas danych.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/7 Klasy danych.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/hashcode.md",
@@ -251,12 +258,6 @@
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/12 Wbudowane funkcje wyższego rzędu.md",
     "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md",
     "_ Mobile/Kotlin/Kotlin bez tajemnic/3.1. Fragments.md",
-    "_ Mobile/Kotlin/Wyrażenia regularne.md",
-    "_ Mobile/Kotlin/Fundamenty Kotlina.md",
-    "_ Mobile/Kotlin/Kotlin bez tajemnic/3.3. View Binding.md",
-    "_ Mobile/Kotlin/Kotlin bez tajemnic/3.2. View Models.md",
-    "_ Mobile/Kotlin/Kotlin bez tajemnic/_ Kotlin bez tajemnic.md",
-    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/Dodatek B. Testowanie.md",
     "0 EXERCISM PORTAL/Python",
     "0 EXERCISM PORTAL/rust",
     "0 EXERCISM PORTAL",
@@ -270,7 +271,6 @@
     "R U S T/RUST FROM AI",
     "_ FullStack/Kotlin - FullStack",
     "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle",
-    "_ Mobile/Android/the complete Android Kotlin/12 Lists and Views",
     "methodology/images/bar_matplotlib.png",
     "methodology/images/age_rating_barh.png",
     "methodology/images/age_rating_bar.png",
