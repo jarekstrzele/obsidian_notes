@@ -9,6 +9,20 @@
 ------
 # użycie `tsc --init` - uruchomianie w sposób zorganizowany `tsconfig.json`
 
+==struktura projektu==
+
+```
+TwójProjekt/
+├── src/          // Katalog z plikami TypeScript
+│   ├── app.ts    // Przykładowy plik TypeScript
+├── dist/         // Katalog na skompilowane pliki JavaScript
+├── tsconfig.json // Plik konfiguracyjny TypeScript
+```
+
+
+
+`tsconfig.json`
+
 ```json
 {
   "compilerOptions": {
@@ -28,8 +42,14 @@
 ```
 
 
+w głównej ścieżce: `
+```powershell
+tsc
 
+```
 
+---
+# można dodać `package.json`
 
 
 
