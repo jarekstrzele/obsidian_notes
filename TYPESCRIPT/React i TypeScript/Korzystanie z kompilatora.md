@@ -1,10 +1,41 @@
 
+# Podstawa
 - `npm install -g typescript`
 - `tsc nazwaPliku.ts` -> generuje plik `.js`
 - `node nazwaPliku.js`
 
 
+
+------
+# użycie `tsc --init` - uruchomianie w sposób zorganizowany `tsconfig.json`
+
+```json
+{
+  "compilerOptions": {
+    "target": "es6",           // Kompiluj do ECMAScript 6
+    "module": "commonjs",      // Używaj systemu modułów CommonJS (popularne w Node.js)
+    "outDir": "./dist",        // Wygenerowane pliki umieść w katalogu "dist"
+    "rootDir": "./src",        // Pliki źródłowe znajdują się w katalogu "src"
+    "strict": true,            // Włącz wszystkie rygorystyczne sprawdzenia typów
+    "esModuleInterop": true,   // Umożliwia interoperacyjność z ECMAScript
+    "skipLibCheck": true,      // Pomija sprawdzanie plików definicji bibliotek
+    "forceConsistentCasingInFileNames": true // Wymusza zgodność wielkości liter w nazwach plików
+  },
+  "include": ["src"],           // Zawiera pliki do kompilacji (np. wszystkie pliki w katalogu "src")
+  "exclude": ["node_modules", "dist"] // Wyklucza pliki z kompilacji
+}
+
+```
+
+
+
+
+
+
+
 ----
+# BŁĄD 
+
 Jeżeli pojawia się ==błąd==:
 ```
 tsc : File C:\Users\jaros\AppData\Roaming\npm\tsc.ps1 cannot be loaded because running scripts is disabled on this system. For more information, see 
@@ -31,7 +62,10 @@ PS C:\Windows\system32>
 
 **Polityka `RemoteSigned`:** Umożliwia uruchamianie lokalnych skryptów bez podpisu, ale wymaga podpisu dla skryptów pobranych z internetu.`
 
+POWRÓT do poprzednich ustaleń
+`Set-ExecutionPolicy Restricted`
 
+-------------
 
 
 
