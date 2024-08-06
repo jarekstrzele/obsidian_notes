@@ -21,6 +21,8 @@ TWORZENIE WERSJI PRODUKCYJNEJ: `npm run build` a jej uruchomienie lokalnie to `n
 
 
 
+--------
+# Tworzenie komponentu
 
 
 
