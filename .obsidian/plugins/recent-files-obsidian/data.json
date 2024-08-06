@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Korzystanie z kompilatora",
-      "path": "TYPESCRIPT/React i TypeScript/Korzystanie z kompilatora.md"
+      "basename": "3 Konfiguracja Reacta i TypeScriptu",
+      "path": "TYPESCRIPT/React i TypeScript/3 Konfiguracja Reacta i TypeScriptu.md"
+    },
+    {
+      "basename": "_ 0 React i TypeScript reaktywne tworzenie stron internetowych dla początkujących",
+      "path": "TYPESCRIPT/React i TypeScript/_ 0 React i TypeScript reaktywne tworzenie stron internetowych dla początkujących.md"
     },
     {
       "basename": "2. Wprowadzenie do TypeScriptu",
       "path": "TYPESCRIPT/React i TypeScript/2. Wprowadzenie do TypeScriptu.md"
     },
     {
-      "basename": "1 Wprowadzenie do React",
-      "path": "TYPESCRIPT/React i TypeScript/1 Wprowadzenie do React.md"
+      "basename": "Korzystanie z kompilatora",
+      "path": "TYPESCRIPT/Korzystanie z kompilatora.md"
     },
     {
-      "basename": "_ 0 React i TypeScript reaktywne tworzenie stron internetowych dla początkujących",
-      "path": "TYPESCRIPT/React i TypeScript/_ 0 React i TypeScript reaktywne tworzenie stron internetowych dla początkujących.md"
+      "basename": "1 Wprowadzenie do React",
+      "path": "TYPESCRIPT/React i TypeScript/1 Wprowadzenie do React.md"
     },
     {
       "basename": "_ Learn TypeScript",
@@ -195,10 +199,6 @@
     {
       "basename": "15. Bazy danych SQLite",
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/15. Bazy danych SQLite.md"
-    },
-    {
-      "basename": "11. Fragmenty dynamiczne",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/11. Fragmenty dynamiczne.md"
     }
   ],
   "omittedPaths": [],

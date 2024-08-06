@@ -50,7 +50,19 @@ tsc
 
 ---
 # można dodać `package.json`
+```json
+{
+    "name": "tsc-play",
+    "dependencies": {
+    "typescript": "^5.5.4"
+    },
+    "scripts": {
+	    "build": "tsc src/przyklad.ts"
+    }
+    }
+```
 
+wykonaj komendę `npm run  build`
 
 
 ----
