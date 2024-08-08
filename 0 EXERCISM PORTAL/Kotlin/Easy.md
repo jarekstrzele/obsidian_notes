@@ -27,6 +27,8 @@ object ArmstrongNumber {
 ```
 
 
+# Circular buffer
+https://en.wikipedia.org/wiki/Circular_buffer
 
 
 
