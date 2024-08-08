@@ -68,7 +68,21 @@ class CircularBuffer<T>(private val capacity: Int){
 	}
 
 	fun write(value: T){
-		if(buffer.size >= capacity)
+		if(buffer.size >= capacity){
+			throw BufferFullException()
+		}
+		buffer.addLast(value)
+	}
+
+	fun overWrite(value: T){
+		if (buffer.size >= capacity){
+			buffer.removeFirst()
+		}
+		buffer.addLast(value)
+	}
+
+	fun clear(){
+		buffer.clear()
 	}
 	
 }
