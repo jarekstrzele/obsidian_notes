@@ -166,9 +166,36 @@ export default function myFunc1() { ...
 Za pomocą instrukcji import można używać publicznych elementów z modułu. 
 
 #### import nazwany
-
+`import { myFunc1, myFunc3 } from './myModule'`
 
 #### import domyślny
 ==Import domyślny może zostać użyty tylko w odniesieniu do eksportu domyślnego.==
+
+`import myFunc1 from './myModule';`
+
+
+
+## dodawanie komponentu
+- komponent `Alert` musi być wyeksportowany: `export function Alert()`
+- dobra praktyka: **jeden komponent, jeden plik**
+- import `import { Alert} from './Alert'`
+- użycie `<Alert />`
+
+
+--------
+
+# Korzystanie z propsów
+
+>[!definition] props
+>Słowo props to skrócona forma angielskiego słowa *properties*, które oznacza „właściwości”. 
+>W środowisku osób pracujących z Reactem jest ono powszechnie używane, więc również w tej książce będziemy posługiwać się tym terminem.
+
+
+
+
+
+
+
+
 
 
