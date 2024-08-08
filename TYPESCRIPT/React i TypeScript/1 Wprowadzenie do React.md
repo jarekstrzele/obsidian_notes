@@ -97,8 +97,78 @@ function Alert() {
 ```
 
 
+## `import`, `export`
+Instrukcje `import` i `eksport` pozwalają organizować napisany w JavaScripcie kod w moduły.
+
+- Funkcje i zmienne w module są izolowane, dzięki czemu funkcje o tych samych nazwach nie będą ze sobą kolidowały. 
+- Taka organizacja kodu jest szeroko stosowana w aplikacjach Reacta, ponieważ jest znacznie bezpieczniejsza.
+
+## definiowanie modułów
+>[!definition] moduł
+> - Moduł to plik z co najmniej jednym poleceniem `export`. 
+> - Polecenie to wskazuje, które elementy są dostępne dla innych modułów. 
+> - Pomyśl o tym jak o publicznych elementach. Element może być 
+> 	- funkcją, 
+> 	- klasą lub 
+> 	- zmienną w pliku. 
+> - Jeśli element nie jest zawarty w instrukcji `eksport`, oznacza to, że jest prywatny i nie jest dostępny poza modułem.
+
+### eksport
+#### eksport nazwany
+```javascript
+function myFunc1() { ...
+
+}
+
+function myFunc2() { ...
+
+}
+
+function myFunc3() { ...
+
+}
+
+export { myFunc1, myFunc3 };
+```
+
+`myFunc2` - jest prywatna
+
+alternatywnie:
+```javascript
+export function myFunc1() { ...
+
+}
+
+function myFunc2() { ...
+
+}
+
+export function myFunc3() { ...
+
+}
+
+```
+
+
+#### eksport domyślny
+można użyć do eksportowania pojedynczego, publicznego elementu.
+```javascript
+export default myFunc1; 
+// lub 
+export default function myFunc1() { ...
+
+}
+```
 
 
 
+### import 
+Za pomocą instrukcji import można używać publicznych elementów z modułu. 
+
+#### import nazwany
+
+
+#### import domyślny
+==Import domyślny może zostać użyty tylko w odniesieniu do eksportu domyślnego.==
 
 
