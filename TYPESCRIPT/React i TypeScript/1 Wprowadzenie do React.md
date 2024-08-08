@@ -189,12 +189,49 @@ Za pomocą instrukcji import można używać publicznych elementów z modułu.
 >[!definition] props
 >Słowo props to skrócona forma angielskiego słowa *properties*, które oznacza „właściwości”. 
 >W środowisku osób pracujących z Reactem jest ono powszechnie używane, więc również w tej książce będziemy posługiwać się tym terminem.
+> 
+> `Props` to opcjonalny parametr przekazywany do komponentu Reacta. 
+> Ten parametr to obiekt zawierający wybrane przez nas właściwości.
+
+np.
+```javascript
+function ContactDetails(props) { 
+	console.log(props.name); 
+	console.log(props.email);
+	... }
+```
+
+Propsy są przekazywane do komponentu w JSX jako atrybuty.
+```javascript
+<ContactDetails name="Fred" email="fred@somewhere.com" />
+```
 
 
+```javascript
+export function Alert({ type, heading, children }) {
 
+return (
+<div>
+	<div>
+		<span
+			role="img"
+			aria-label={
+			type === "warning"
+				? "Ostrzeżenie"
+				: "Informacja"
+			}
+    	>			
 
+	{type === "warning" ? "⚠" : "i"}
 
-
+	</span>
+	<span>{heading}</span>
+	</div>
+	<div>{children}</div>
+</div>
+);
+}
+```
 
 
 
