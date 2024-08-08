@@ -50,7 +50,33 @@ https://www.baeldung.com/kotlin/arraydeque
 	- `deque.get(<index>)`
 
 
+```kotlin
+import kotlin.collections.ArrayDeque
 
+class EmptyBufferException: Exception("Buffer is empty")
+
+class BufferFullException: Exception("Buffer is full")
+
+class CircularBuffer<T>(private val capacity: Int){
+	private val buffer: ArrayDeque<T> = ArrayDeque(capacity)
+
+	fun read(): T {
+		if (buffer.isEmpty()){
+			throw EmptyBufferException()
+		}
+		return buffer.removeFirst()
+	}
+
+	fun write(value: T){
+		if(buffer.size >= capacity)
+	}
+	
+}
+
+
+
+
+```
 
 
 
