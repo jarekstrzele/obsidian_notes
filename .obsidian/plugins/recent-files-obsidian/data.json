@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "1 Wprowadzenie do React",
+      "path": "TYPESCRIPT/React i TypeScript/1 Wprowadzenie do React.md"
+    },
+    {
+      "basename": "_ 0 React i TypeScript reaktywne tworzenie stron internetowych dla początkujących",
+      "path": "TYPESCRIPT/React i TypeScript/_ 0 React i TypeScript reaktywne tworzenie stron internetowych dla początkujących.md"
+    },
+    {
+      "basename": "3 Konfiguracja Reacta i TypeScriptu",
+      "path": "TYPESCRIPT/React i TypeScript/3 Konfiguracja Reacta i TypeScriptu.md"
+    },
+    {
       "basename": "easy",
       "path": "0 EXERCISM PORTAL/Python/easy.md"
-    },
-    {
-      "basename": "Easy",
-      "path": "0 EXERCISM PORTAL/Kotlin/Easy.md"
-    },
-    {
-      "basename": "1 Easy",
-      "path": "0 EXERCISM PORTAL/haskell/1 Easy.md"
     },
     {
       "basename": "1.2. Klasy typów",
@@ -21,12 +25,12 @@
       "path": "R U S T/Rust Programming Course/5.1. Struct.md"
     },
     {
-      "basename": "3 Konfiguracja Reacta i TypeScriptu",
-      "path": "TYPESCRIPT/React i TypeScript/3 Konfiguracja Reacta i TypeScriptu.md"
+      "basename": "Easy",
+      "path": "0 EXERCISM PORTAL/Kotlin/Easy.md"
     },
     {
-      "basename": "_ 0 React i TypeScript reaktywne tworzenie stron internetowych dla początkujących",
-      "path": "TYPESCRIPT/React i TypeScript/_ 0 React i TypeScript reaktywne tworzenie stron internetowych dla początkujących.md"
+      "basename": "1 Easy",
+      "path": "0 EXERCISM PORTAL/haskell/1 Easy.md"
     },
     {
       "basename": "2. Wprowadzenie do TypeScriptu",
@@ -35,10 +39,6 @@
     {
       "basename": "Korzystanie z kompilatora",
       "path": "TYPESCRIPT/Korzystanie z kompilatora.md"
-    },
-    {
-      "basename": "1 Wprowadzenie do React",
-      "path": "TYPESCRIPT/React i TypeScript/1 Wprowadzenie do React.md"
     },
     {
       "basename": "_ Learn TypeScript",
