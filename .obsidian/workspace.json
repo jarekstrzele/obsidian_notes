@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 EXERCISM PORTAL/Kotlin/Amstrong Number.md",
+                "file": "0 EXERCISM PORTAL/Kotlin/Easy.md",
                 "mode": "source",
                 "source": false
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 EXERCISM PORTAL/Kotlin/Amstrong Number.md",
+                "file": "0 EXERCISM PORTAL/Kotlin/Easy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0 EXERCISM PORTAL/Kotlin/Amstrong Number.md",
+                "file": "0 EXERCISM PORTAL/Kotlin/Easy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 EXERCISM PORTAL/Kotlin/Amstrong Number.md"
+                "file": "0 EXERCISM PORTAL/Kotlin/Easy.md"
               }
             }
           },
@@ -231,7 +231,7 @@
   "active": "3d3d211d7b8eb595",
   "lastOpenFiles": [
     "0 EXERCISM PORTAL/haskell/1 Easy.md",
-    "0 EXERCISM PORTAL/Kotlin/Amstrong Number.md",
+    "0 EXERCISM PORTAL/Kotlin/Easy.md",
     "0 EXERCISM PORTAL/Kotlin",
     "HASKELL/Haskell GPT - od podstaw/1.2. Klasy typów.md",
     "R U S T/Rust Programming Course/5.1. Struct.md",

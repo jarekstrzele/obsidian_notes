@@ -1,3 +1,9 @@
+
+
+# Amstrong Number
+10 -> 1^2 + 0^0 = 1 + 0 = 1 - is not
+9 -> 9^1 = 9 - it is
+153 -> 1^3 + 5^3 + 3^3 = 3 + 125 + 27 = 153 - it is
 ```kotlin
 object ArmstrongNumber {
 
