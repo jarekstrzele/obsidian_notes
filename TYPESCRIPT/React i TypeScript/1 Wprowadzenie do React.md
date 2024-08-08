@@ -233,6 +233,48 @@ return (
 }
 ```
 
+`App.js`
+```javascript
+import "./styles.css";
+import { Alert } from "./Alert";
+
+export default function App() {
+	return (
+		<div className="App">
+		<Alert type="information" heading="Sukces">
+			Wszystko jest naprawdę dobrze!
+		</Alert>
+		</div>
+);
+
+}
+```
+
+-------
+
+# stany komponentu
+
+- Stan komponentu to specjalna zmienna zawierająca informacje o bieżącym stanie komponentu
+- stan jest kluczowym elementem interaktywności komponentu -np.
+	- użytkownik może kliknąć komponent, powodując zmianę stanu, co skutkuje niewidocznością pewnego elementu w komponencie.
+- Stan jest definiowany za pomocą funkcji `useState` - `const [state, setState] = useState(initialState);`
+- 
+
+## Wprowadzanie stanu widoczności w komponencie Alert
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
