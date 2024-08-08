@@ -38,7 +38,8 @@ https://en.wikipedia.org/wiki/Circular_buffer
 https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-array-deque/
 
 https://www.baeldung.com/kotlin/arraydeque
-
+- create `val deque = ArrayDeque<Int>()` or `val deque = ArrayDeque<Int>(listOf(1,2,3,4))`
+- add `deque.addFirst(2)`
 
 
 
