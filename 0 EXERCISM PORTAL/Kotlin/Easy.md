@@ -39,7 +39,15 @@ https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-array-deque/
 
 https://www.baeldung.com/kotlin/arraydeque
 - create `val deque = ArrayDeque<Int>()` or `val deque = ArrayDeque<Int>(listOf(1,2,3,4))`
-- add `deque.addFirst(2)`
+- add `deque.addFirst(2)`, `deque.addLast(5)`
+- remove 
+	- `val elem: Int = deque.removeFirst()`, 
+	- `val elem: Int = deque.removeFirst()`
+	- `val removedElement: Int? = deque.removeFirstOrNull()`
+- retrieve:
+	- `val firstElemem: Int = deque.first()` without removing
+	- `val firstElemem: Int? = deque.firstOrNull()`
+	- `deque.get(<index>)`
 
 
 
