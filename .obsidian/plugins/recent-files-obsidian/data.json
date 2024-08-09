@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "_ 0 React i TypeScript reaktywne tworzenie stron internetowych dla początkujących",
+      "path": "TYPESCRIPT/React i TypeScript/_ 0 React i TypeScript reaktywne tworzenie stron internetowych dla początkujących.md"
+    },
+    {
+      "basename": "4 Korzystanie z hooków React",
+      "path": "TYPESCRIPT/React i TypeScript/4 Korzystanie z hooków React.md"
+    },
+    {
       "basename": "3 Konfiguracja Reacta i TypeScriptu",
       "path": "TYPESCRIPT/React i TypeScript/3 Konfiguracja Reacta i TypeScriptu.md"
     },
@@ -23,10 +31,6 @@
     {
       "basename": "5.1. Struct",
       "path": "R U S T/Rust Programming Course/5.1. Struct.md"
-    },
-    {
-      "basename": "_ 0 React i TypeScript reaktywne tworzenie stron internetowych dla początkujących",
-      "path": "TYPESCRIPT/React i TypeScript/_ 0 React i TypeScript reaktywne tworzenie stron internetowych dla początkujących.md"
     },
     {
       "basename": "1 Easy",
@@ -195,10 +199,6 @@
     {
       "basename": "13.7. View Binding",
       "path": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.7. View Binding.md"
-    },
-    {
-      "basename": "Runnable",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/Runnable.md"
     }
   ],
   "omittedPaths": [],
