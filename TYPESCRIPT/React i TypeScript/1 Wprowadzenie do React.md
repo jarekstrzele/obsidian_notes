@@ -257,7 +257,8 @@ export default function App() {
 - Stan komponentu to specjalna zmienna zawierająca informacje o bieżącym stanie komponentu
 - stan jest kluczowym elementem interaktywności komponentu -np.
 	- użytkownik może kliknąć komponent, powodując zmianę stanu, co skutkuje niewidocznością pewnego elementu w komponencie.
-- Stan jest definiowany za pomocą funkcji `useState` - `const [state, setState] = useState(initialState);`
+- Stan jest definiowany za pomocą funkcji `useState` 
+	- `const [state, setState] = useState(initialState);`
 - 
 
 ## Wprowadzanie stanu widoczności w komponencie Alert
