@@ -284,12 +284,60 @@ export default function App() {
 ```
 
 
+```javascript
+import { useState } from "react";
+
+export function Alert({
+  type = "information",
+  heading,
+  children,
+  closable,
+  onClose,
+}) {
+
+  const [visible, setVisible] = useState(true);
+
+  if (!visible) {
+    return null;
+  }
+
+  const handleCloseClick = () => {
+    setVisible(false);
+    if (onClose) {
+      onClose();
+    }
+  };
+
+  
+
+  return (
+    <div>
+      <div>
+        <span
+          role="img"
+          aria-label={type === "warning" ? "Ostrzeżenie" : "Informacja"}
+        >
+          {type === "warning" ? "⚠" : "i"}
+        </span>
+        <span>{heading}</span>
+      </div>
+      {closable && (
+        <button aria-label="Close" onClick={handleCloseClick}>
+          <span role="img" aria-label="Close">
+            X
+          </span>
+        </button>
+      )}
+      <div>{children}</div>
+    </div>
+  );
+}
+```
 
 
+> Atrybut `role="img"` informuje przeglądarki oraz narzędzia dostępności (jak czytniki ekranowe), że element jest obrazem lub ikoną. To ważne dla zapewnienia dostępności, ponieważ pozwala użytkownikom na interakcję z elementem w sposób podobny do obrazów.
 
-
-
-
+> `aria-label` dostarcza tekst alternatywny, który jest odczytywany przez czytniki ekranowe. Jest używany do opisywania treści elementu, co jest istotne dla osób korzystających z narzędzi wspomagających.
 
 
 

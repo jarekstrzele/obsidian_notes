@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TYPESCRIPT/React i TypeScript/1 Wprowadzenie do React.md",
+                "file": "TYPESCRIPT/React i TypeScript/3 Konfiguracja Reacta i TypeScriptu.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TYPESCRIPT/React i TypeScript/1 Wprowadzenie do React.md",
+                "file": "TYPESCRIPT/React i TypeScript/3 Konfiguracja Reacta i TypeScriptu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TYPESCRIPT/React i TypeScript/1 Wprowadzenie do React.md",
+                "file": "TYPESCRIPT/React i TypeScript/3 Konfiguracja Reacta i TypeScriptu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TYPESCRIPT/React i TypeScript/1 Wprowadzenie do React.md"
+                "file": "TYPESCRIPT/React i TypeScript/3 Konfiguracja Reacta i TypeScriptu.md"
               }
             }
           },
@@ -231,11 +231,11 @@
   },
   "active": "35f22f2fe38c77ea",
   "lastOpenFiles": [
+    "TYPESCRIPT/React i TypeScript/1 Wprowadzenie do React.md",
     "0 EXERCISM PORTAL/Kotlin/Easy.md",
     "0 EXERCISM PORTAL/Python/easy.md",
     "HASKELL/Haskell GPT - od podstaw/1.2. Klasy typów.md",
     "R U S T/Rust Programming Course/5.1. Struct.md",
-    "TYPESCRIPT/React i TypeScript/1 Wprowadzenie do React.md",
     "TYPESCRIPT/React i TypeScript/_ 0 React i TypeScript reaktywne tworzenie stron internetowych dla początkujących.md",
     "TYPESCRIPT/React i TypeScript/3 Konfiguracja Reacta i TypeScriptu.md",
     "0 EXERCISM PORTAL/haskell/1 Easy.md",
