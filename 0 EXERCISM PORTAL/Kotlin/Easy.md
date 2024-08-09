@@ -93,6 +93,37 @@ class CircularBuffer<T>(private val capacity: Int){
 ```
 
 
+-------------
+
+# CryptoSquare
+1. First, the input is normalized: 
+	1. the spaces and punctuation are removed from the English text and
+	2. the message is down-cased.
+	3. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
