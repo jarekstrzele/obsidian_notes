@@ -149,7 +149,38 @@ val text = " This, is  : ; interesting thing. Or something else or "
 
 
 wersja bardziej funkcyjna
-
+```kotlin
+fun ciphertext(plaintext: String): String {
+        
+        // Jeśli wejściowy string jest pusty lub zawiera tylko białe znaki, zwróć pusty string
+        if (plaintext.isBlank()) {
+            return ""
+        }
+        val textPrepared = plaintext
+            .replace("[.,!:; ]".toRegex(), "")
+            .lowercase()
+        
+        val textLength = textPrepared.length
+        var r = kotlin.math.sqrt(textLength.toDouble()).toInt()
+        var c = kotlin.math.ceil(textLength.toDouble() / r).toInt()
+        
+        while (r * c < textLength || c - r > 1) {
+            r--
+            c = kotlin.math.ceil(textLength.toDouble() / r).toInt()
+        }
+    	
+        val chunkedText = textPrepared.chunked(c)
+        val codedText = (0 until c).joinToString(""){index -> 
+        	chunkedText.mapNotNull {str ->
+            	str.getOrNull(index)?.toString()
+            }.joinToString("")
+        }
+         
+      
+    
+        return codedText
+}
+```
 
 
 
