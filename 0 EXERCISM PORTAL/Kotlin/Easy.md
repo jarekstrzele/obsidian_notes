@@ -96,12 +96,19 @@ class CircularBuffer<T>(private val capacity: Int){
 -------------
 
 # CryptoSquare
-1. First, the input is normalized: 
-	1. the spaces and punctuation are removed from the English text and
-	2. the message is down-cased.
-	3. 
+- First, the input is normalized: 
+	- the spaces and punctuation are removed from the English text and
+	- the message is down-cased.
+```kotlin
+val text = " This, is some : ; interesting thing. Or something else "
+    println(text.replace("[.,!:; ]".toRegex(), "").lowercase())
+```
 
-
+- Then, the normalized characters are broken into rows. These rows can be regarded as forming a rectangle when printed with intervening newlines.
+	- If `c` is the number of columns and `r` is the number of rows, then for the rectangle `r` x `c` find the smallest possible integer `c` such that:
+		- `r * c >= length of message`,
+		- and `c >= r`,
+		- and `c - r <= 1`.
 
 
 
