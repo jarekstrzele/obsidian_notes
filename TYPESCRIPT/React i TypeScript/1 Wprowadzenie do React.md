@@ -263,7 +263,25 @@ export default function App() {
 
 ## Wprowadzanie stanu widoczności w komponencie Alert
 
+```javascript
+import "./styles.css";
+import { Alert } from "./Alert";
+export default function App() {
 
+  return (
+    <div className="App">
+      <Alert
+        type="information"
+        heading="Sukces"
+        closable
+        onClose={() => console.log("zamknięty")}
+      >
+        Wszystko jest naprawdę dobrze!fff
+      </Alert>
+    </div>
+  );
+}
+```
 
 
 
