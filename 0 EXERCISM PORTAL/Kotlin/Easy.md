@@ -186,7 +186,49 @@ fun ciphertext(plaintext: String): String {
 
 
 
+```kotlin
+ fun ciphertext(plaintext: String): String {
+        
+        // Jeśli wejściowy string jest pusty lub zawiera tylko białe znaki, zwróć pusty string
+        if (plaintext.isBlank()) {
+            return ""
+        }
+        val textPrepared = plaintext
+            .replace("[.,!:; ?@%]".toRegex(), "")
+            .lowercase()
+        if(textPrepared.length <= 0 ){
+           return ""
+        }
+        
+        val textLength = textPrepared.length
+        var r = kotlin.math.sqrt(textLength.toDouble()).toInt()
+        var c = kotlin.math.ceil(textLength.toDouble() / r).toInt()
+        
+        while ( c - r > 1) {
+            r++
+            c = kotlin.math.ceil(textLength.toDouble() / r).toInt()
+        }
+    	
+        val chunkedText = textPrepared.chunked(c)
+         // Dodanie wypełnienia do ostatnich fragmentów, aby były równe długości c
+        val paddedChunkedText = chunkedText.map { chunk ->
+            chunk.padEnd(c, ' ')
+        }
+        
+        // Utwórz zaszyfrowany tekst poprzez pobieranie znaków według kolumn
+        val codedText = (0 until c).joinToString("") { index ->
+            paddedChunkedText.mapNotNull { str ->
+                str.getOrNull(index)?.toString()
+            }.joinToString("")
+        }
+        
+        // Podziel zaszyfrowany tekst na fragmenty i połącz je spacjami
+        val output = codedText.chunked(r).joinToString(" ")
+        
+        return output
+}
 
+```
 
 
 
