@@ -110,9 +110,45 @@ val text = " This, is some : ; interesting thing. Or something else "
 		- and `c >= r`,
 		- and `c - r <= 1`.
 
+```kotlin
+val text = " This, is  : ; interesting thing. Or something else or "
+    val textPrepared = text
+        .replace("[.,!:; ]".toRegex(), "")
+        .lowercase()
+    
+    val textLength = textPrepared.length
+    var r = kotlin.math.sqrt(textLength.toDouble())
+        .toInt()
+    var c = kotlin.math.ceil(textLength.toDouble() / r)
+        .toInt()
+    println("r=$r, c=$c")
+    while (r * c <= textLength || c - r > 1) {
+        println("c=$c, r=$r")
+        r--
+        c = kotlin.math.ceil(textLength.toDouble() / r)
+            .toInt()
+    }
+	r = r.toInt()
+    c = c
+    println("r = $r, c = $c")
+    val chunkedText = textPrepared.chunked(c)
+    println(chunkedText)
+    val codedText = StringBuilder(textPrepared.length)
+    for(index in 0 until  c){
+        for (str in chunkedText){
+            if(index < str.length){
+                codedText.append(str[index])
+            }
+            
+        }
+    }
+    println(codedText)
+    
+}
+```
 
 
-
+wersja bardziej funkcyjna
 
 
 
