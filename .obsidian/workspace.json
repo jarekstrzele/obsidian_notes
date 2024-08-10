@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TYPESCRIPT/React i TypeScript/_ 0 React i TypeScript reaktywne tworzenie stron internetowych dla początkujących.md",
+                "file": "TYPESCRIPT/React i TypeScript/4 Korzystanie z hooków React.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TYPESCRIPT/React i TypeScript/_ 0 React i TypeScript reaktywne tworzenie stron internetowych dla początkujących.md",
+                "file": "TYPESCRIPT/React i TypeScript/4 Korzystanie z hooków React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TYPESCRIPT/React i TypeScript/_ 0 React i TypeScript reaktywne tworzenie stron internetowych dla początkujących.md",
+                "file": "TYPESCRIPT/React i TypeScript/4 Korzystanie z hooków React.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TYPESCRIPT/React i TypeScript/_ 0 React i TypeScript reaktywne tworzenie stron internetowych dla początkujących.md"
+                "file": "TYPESCRIPT/React i TypeScript/4 Korzystanie z hooków React.md"
               }
             }
           },
@@ -231,6 +231,7 @@
   },
   "active": "35f22f2fe38c77ea",
   "lastOpenFiles": [
+    "TYPESCRIPT/React i TypeScript/_ 0 React i TypeScript reaktywne tworzenie stron internetowych dla początkujących.md",
     "TYPESCRIPT/React i TypeScript/4 Korzystanie z hooków React.md",
     "TYPESCRIPT/React i TypeScript/3 Konfiguracja Reacta i TypeScriptu.md",
     "TYPESCRIPT/React i TypeScript/1 Wprowadzenie do React.md",
@@ -238,7 +239,6 @@
     "0 EXERCISM PORTAL/Python/easy.md",
     "HASKELL/Haskell GPT - od podstaw/1.2. Klasy typów.md",
     "R U S T/Rust Programming Course/5.1. Struct.md",
-    "TYPESCRIPT/React i TypeScript/_ 0 React i TypeScript reaktywne tworzenie stron internetowych dla początkujących.md",
     "0 EXERCISM PORTAL/haskell/1 Easy.md",
     "0 EXERCISM PORTAL/Kotlin",
     "TYPESCRIPT/React i TypeScript/2. Wprowadzenie do TypeScriptu.md",
