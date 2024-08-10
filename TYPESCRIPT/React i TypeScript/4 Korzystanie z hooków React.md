@@ -18,6 +18,53 @@ export function AnotherComponent() {
 return <button onClick={handleClick}>Przyczyna efektu</button>; }
 ```
 
+WERSJA POPRAWNA
+```javascript
+export function AnotherComponent() {
+	const [clicked, setClicked] = useState(false); 
+	useEffect(() => {
+		if (clicked) { console.log("Jakiś efekt");
+		} },
+		[clicked]);
+
+function handleClick() { setClicked(true);
+
+}
+
+return <button onClick={handleClick}>Przyczyna efektu</button>; }
+```
+
+### hook błędnie użyty warunkowo
+```javascript
+function YetAnotherComponent({ someProp }) { 
+
+	if (!someProp) {
+		return null; 
+	}
+
+	useEffect(() => { console.log("Jakiś efekt");
+
+	}); 
+	
+	return ...
+}
+```
+
+WERSJA POPRAWIONA
+```javascript
+function YetAnotherComponent({someProp}) { 
+
+	useEffect(() => {
+		if (someProp) { console.log("Jakiś efekt");
+	} });
+
+	if (!someProp) { return null
+	}
+
+	return ... }
+```
+
+
 
 
 
