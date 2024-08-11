@@ -123,12 +123,27 @@ function SomeOtherComponent({ search }) {
 - ten hook może zwracać funkcję, która będzie czyścić, gdy komponent będzie odmontowywany (nie będzie wycieku pamięci)
 - 
 
+```javascript
+function ExampleComponent({ onClickAnywhere }) { 
+	useEffect(() => {
+		function handleClick() { onClickAnywhere(); }
+		document.addEventListener("click", handleClick);
+		
+		return () => { 
+			document.removeEventListener("click", handleClick);
+		};
+
+	});
+
+	return ...; 
+}
+```
+
+Jeżeli nie zwrócimy funkcji, to przy każdym uruchomieniu będzie dodawana kolejna funkcja do obsługi zdarzenia.
 
 
-
-
-
-
+----------
+# Nowy projekt React + TypeScript
 
 
 
