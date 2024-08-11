@@ -15,7 +15,9 @@ export function AnotherComponent() {
 		useEffect(() => { console.log("Jakiś efekt");
 	}); }
 
-return <button onClick={handleClick}>Przyczyna efektu</button>; }
+	return <button onClick={handleClick}>Przyczyna efektu</button>; 
+	
+}
 ```
 
 WERSJA POPRAWNA
@@ -31,16 +33,16 @@ function handleClick() { setClicked(true);
 
 }
 
-return <button onClick={handleClick}>Przyczyna efektu</button>; }
+	return <button onClick={handleClick}>Przyczyna efektu</button>; 
+
+}
 ```
 
 ### hook błędnie użyty warunkowo
 ```javascript
 function YetAnotherComponent({ someProp }) { 
 
-	if (!someProp) {
-		return null; 
-	}
+	if (!someProp) { return null; }
 
 	useEffect(() => { console.log("Jakiś efekt");
 
@@ -58,15 +60,10 @@ function YetAnotherComponent({someProp}) {
 		if (someProp) { console.log("Jakiś efekt");
 	} });
 
-	if (!someProp) { return null
-	}
+	if (!someProp) { return null }
 
 	return ... }
 ```
-
-
-
-
 
 
 
@@ -122,7 +119,9 @@ function SomeOtherComponent({ search }) {
 ```
 
 
-
+## Czyszczenie po `useEffect`
+- ten hook może zwracać funkcję, która będzie czyścić, gdy komponent będzie odmontowywany (nie będzie wycieku pamięci)
+- 
 
 
 
