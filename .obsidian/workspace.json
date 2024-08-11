@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TYPESCRIPT/React i TypeScript/4.2. hook `useState`.md",
+                "file": "TYPESCRIPT/React i TypeScript/4.3. Hook `useReducer`.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TYPESCRIPT/React i TypeScript/4.2. hook `useState`.md",
+                "file": "TYPESCRIPT/React i TypeScript/4.3. Hook `useReducer`.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TYPESCRIPT/React i TypeScript/4.2. hook `useState`.md",
+                "file": "TYPESCRIPT/React i TypeScript/4.3. Hook `useReducer`.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TYPESCRIPT/React i TypeScript/4.2. hook `useState`.md"
+                "file": "TYPESCRIPT/React i TypeScript/4.3. Hook `useReducer`.md"
               }
             }
           },
@@ -231,8 +231,9 @@
   },
   "active": "35f22f2fe38c77ea",
   "lastOpenFiles": [
-    "TYPESCRIPT/React i TypeScript/4.1. `useEffect`.md",
     "TYPESCRIPT/React i TypeScript/4.2. hook `useState`.md",
+    "TYPESCRIPT/React i TypeScript/4.3. Hook `useReducer`.md",
+    "TYPESCRIPT/React i TypeScript/4.1. `useEffect`.md",
     "TYPESCRIPT/React i TypeScript/4 Korzystanie z hooków React.md",
     "TYPESCRIPT/React i TypeScript/_ 0 React i TypeScript reaktywne tworzenie stron internetowych dla początkujących.md",
     "TYPESCRIPT/React i TypeScript/3 Konfiguracja Reacta i TypeScriptu.md",
@@ -258,7 +259,6 @@
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/7.0. Wprowadzenie do  klas danych.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/7 Klasy danych.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/hashcode.md",
-    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/6.2. Interfejsy.md",
     "0 EXERCISM PORTAL/Python",
     "0 EXERCISM PORTAL/rust",
     "0 EXERCISM PORTAL",

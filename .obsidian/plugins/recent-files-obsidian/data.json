@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "4.3. Hook `useReducer`",
+      "path": "TYPESCRIPT/React i TypeScript/4.3. Hook `useReducer`.md"
+    },
+    {
       "basename": "4.2. hook `useState`",
       "path": "TYPESCRIPT/React i TypeScript/4.2. hook `useState`.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "1 easy",
       "path": "0 EXERCISM PORTAL/rust/1 easy.md"
-    },
-    {
-      "basename": "18 Math Game Project",
-      "path": "_ Mobile/Android/the complete Android Kotlin/18 Math Game Project.md"
     }
   ],
   "omittedPaths": [],
