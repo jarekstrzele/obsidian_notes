@@ -164,15 +164,47 @@ function App() {
 ## pobieranie danych - `useEffect` - to jedno z głównych zastosowań tego hooka
 
 ### plik symulujący żądanie `getPerson.tsx`
+```typescript
+
+type Person = {
+    name: string
+}
+ 
+
+export function getPerson(): Promise<Person>{
+
+    return new Promise((resolve)=>
+        setTimeout( () => resolve({name: "Bob"}), 1000)
+    )
+}
+```
 
 
+#promise 
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise
+> Zwróć uwagę na adnotację dotyczącą zwracanego typu, czyli `Promise<Person>`.
+> Typ `Promise` to reprezentacja `Promise` w `JavaScripcie`, czyli ==coś, co musi zostać spełnione w pewnym momencie==.
 
 
+## komponent `PersonScore.tsx`
 
+```typescript
+import { useEffect } from 'react';
+import { getPerson } from './getPerson';
+  
 
+export function PersonScore() {
 
+    useEffect( ()=> {
+        getPerson().then(person => console.log(person))
+    }, [])
 
+    return null;
+}
+```
 
+> Efekt wzywa funkcję `getPerson` i wypisuje osoby zwrócone z tej funkcji w konsoli. 
+> Efekt jest uruchamiany jedynie po pierwszym wyrenderowaniu komponentu, dlatego że **pusta tablica** została zdefiniowana jako zależności efektu, w drugim elemencie funkcji.
 
 
 
