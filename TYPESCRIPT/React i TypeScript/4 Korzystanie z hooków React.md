@@ -209,7 +209,41 @@ export function PersonScore() {
 
 użyj komponentu `PersonScore` w `App.jsx`
 
+>[!danger] `useEffect` i funkcja asynchroniczna
+>FUNKCJI OZNACZONEJ JAKO `async` nie można przekazywać do hooka `useEffect`!!!!!!!!
 
+błędny kod:
+```typescript
+export function PersonScore() {
+
+    useEffect( async ()=> {
+        const person = await getPerson()
+        console.log(person)
+    }, [])
+
+    return null;
+}
+```
+
+poprawny:
+```typescript
+export function PersonScore() {
+
+    useEffect( () => {
+        async function getThePerson(){
+            const person = await getPerson()
+            console.log(person)
+        }
+
+        getThePerson()
+
+    }
+    , [])
+
+    return null;
+
+}
+```
 
 
 
