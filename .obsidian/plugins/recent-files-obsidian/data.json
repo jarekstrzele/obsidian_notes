@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "4.2. hook `useState`",
+      "path": "TYPESCRIPT/React i TypeScript/4.2. hook `useState`.md"
+    },
+    {
+      "basename": "4.1. `useEffect`",
+      "path": "TYPESCRIPT/React i TypeScript/4.1. `useEffect`.md"
+    },
+    {
       "basename": "4 Korzystanie z hooków React",
       "path": "TYPESCRIPT/React i TypeScript/4 Korzystanie z hooków React.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "18 Math Game Project",
       "path": "_ Mobile/Android/the complete Android Kotlin/18 Math Game Project.md"
-    },
-    {
-      "basename": "16 ToDoApp",
-      "path": "_ Mobile/Android/the complete Android Kotlin/16 ToDoApp.md"
-    },
-    {
-      "basename": "13.7. View Binding",
-      "path": "_ Mobile/Android/the complete Android Kotlin/13 Intent and Life Cycle/13.7. View Binding.md"
     }
   ],
   "omittedPaths": [],
