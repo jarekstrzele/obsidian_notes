@@ -195,9 +195,13 @@ import { getPerson } from './getPerson';
 
 export function PersonScore() {
 
-    useEffect( ()=> {
-        getPerson().then(person => console.log(person))
-    }, [])
+    // useEffect( ()=> {
+    //    getPerson().then(person => console.log(person))
+    // }, [])
+    useEffect(async ()=> {
+	    const person = await  getPerson()
+	    console.log(person)
+    })
 
     return null;
 }
@@ -206,6 +210,7 @@ export function PersonScore() {
 > Efekt wzywa funkcję `getPerson` i wypisuje osoby zwrócone z tej funkcji w konsoli. 
 > Efekt jest uruchamiany jedynie po pierwszym wyrenderowaniu komponentu, dlatego że **pusta tablica** została zdefiniowana jako zależności efektu, w drugim elemencie funkcji.
 
+użyj komponentu `PersonScore` w `App.jsx`
 
 
 
