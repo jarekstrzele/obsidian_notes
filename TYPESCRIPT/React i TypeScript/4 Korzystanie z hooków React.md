@@ -149,6 +149,37 @@ Jeżeli nie zwrócimy funkcji, to przy każdym uruchomieniu będzie dodawana kol
 
 `SWC Speedy Web Compiler`
 
+Zamień `App.jsx`
+```typescript
+function App() {
+
+  return (
+    <>
+     <div className="App"></div>
+    </>
+  )
+}
+```
+
+## pobieranie danych - `useEffect` - to jedno z głównych zastosowań tego hooka
+
+### plik symulujący żądanie `getPerson.tsx`
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
