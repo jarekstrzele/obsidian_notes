@@ -195,13 +195,10 @@ import { getPerson } from './getPerson';
 
 export function PersonScore() {
 
-    // useEffect( ()=> {
-    //    getPerson().then(person => console.log(person))
-    // }, [])
-    useEffect(async ()=> {
-	    const person = await  getPerson()
-	    console.log(person)
-    })
+     useEffect( ()=> {
+        getPerson().then(person => console.log(person))
+     }, [])
+   
 
     return null;
 }
