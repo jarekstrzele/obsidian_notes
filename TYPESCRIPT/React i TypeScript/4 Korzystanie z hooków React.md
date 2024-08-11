@@ -145,6 +145,11 @@ Jeżeli nie zwrócimy funkcji, to przy każdym uruchomieniu będzie dodawana kol
 ----------
 # Nowy projekt React + TypeScript
 
+`npm create vite <nazwaprojektu>` -> `React` -> `TypeScript` 
+
+`SWC Speedy Web Compiler`
+
+
 
 
 
