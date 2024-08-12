@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "4.5. Hook `useMemo()`",
+      "path": "TYPESCRIPT/React i TypeScript/4.5. Hook `useMemo()`.md"
+    },
+    {
       "basename": "4.4. Hook `useRef`",
       "path": "TYPESCRIPT/React i TypeScript/4.4. Hook `useRef`.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "4. Wskaźniki i Smart Pointers (Box,  Rc, RefCell)",
       "path": "R U S T/RUST FROM AI/4. Wskaźniki i Smart Pointers (Box,  Rc, RefCell).md"
-    },
-    {
-      "basename": "UBUNTU",
-      "path": "linux/UBUNTU.md"
     }
   ],
   "omittedPaths": [],
