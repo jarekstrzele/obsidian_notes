@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "4.4. Hook `useRef`",
+      "path": "TYPESCRIPT/React i TypeScript/4.4. Hook `useRef`.md"
+    },
+    {
+      "basename": "4 Korzystanie z hooków React",
+      "path": "TYPESCRIPT/React i TypeScript/4 Korzystanie z hooków React.md"
+    },
+    {
       "basename": "4.3. Hook `useReducer`",
       "path": "TYPESCRIPT/React i TypeScript/4.3. Hook `useReducer`.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "4.1. `useEffect`",
       "path": "TYPESCRIPT/React i TypeScript/4.1. `useEffect`.md"
-    },
-    {
-      "basename": "4 Korzystanie z hooków React",
-      "path": "TYPESCRIPT/React i TypeScript/4 Korzystanie z hooków React.md"
     },
     {
       "basename": "_ 0 React i TypeScript reaktywne tworzenie stron internetowych dla początkujących",
@@ -195,10 +199,6 @@
     {
       "basename": "UBUNTU",
       "path": "linux/UBUNTU.md"
-    },
-    {
-      "basename": "1 easy",
-      "path": "0 EXERCISM PORTAL/rust/1 easy.md"
     }
   ],
   "omittedPaths": [],
