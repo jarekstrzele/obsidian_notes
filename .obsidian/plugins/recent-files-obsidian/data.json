@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "4.6. Hook `useCallBack`",
+      "path": "TYPESCRIPT/React i TypeScript/4.6. Hook `useCallBack`.md"
+    },
+    {
       "basename": "4.5. Hook `useMemo()`",
       "path": "TYPESCRIPT/React i TypeScript/4.5. Hook `useMemo()`.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "5 Types",
       "path": "R U S T/Rust Programming Course/5 Types.md"
-    },
-    {
-      "basename": "4. Wskaźniki i Smart Pointers (Box,  Rc, RefCell)",
-      "path": "R U S T/RUST FROM AI/4. Wskaźniki i Smart Pointers (Box,  Rc, RefCell).md"
     }
   ],
   "omittedPaths": [],
