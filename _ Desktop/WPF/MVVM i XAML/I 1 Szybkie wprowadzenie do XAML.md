@@ -101,8 +101,8 @@ ZMIANA METODY
 
 #wpf/brushes 
 >[!important] `Brushes`
->- klasa Statyczna ma wbudowane, statyczne właściwości reprezentujące predefiniowane pędzile `Brush`
->- każda 
+>- klasa Statyczna z `System.Windows.Media` ma wbudowane, statyczne właściwości reprezentujące predefiniowane pędzle `Brush`
+>- każda z właściwości klasy `Brushes` jest obiektem `SolidColorBrush`, który  reprezentuje jednolity kolor
 
 
 
