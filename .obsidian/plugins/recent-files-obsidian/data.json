@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "I 1 Szybkie wprowadzenie do XAML",
+      "path": "_ Desktop/WPF/MVVM i XAML/I 1 Szybkie wprowadzenie do XAML.md"
+    },
+    {
       "basename": "_ I część - Wzorzec MVVM. Podstawy XAML",
       "path": "_ Desktop/WPF/MVVM i XAML/_ I część - Wzorzec MVVM. Podstawy XAML.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_ 0 Android Kurs Tworzenia Aplikacji",
       "path": "_ Mobile/Android/Android Kurs Tworzenia APlikacji/_ 0 Android Kurs Tworzenia Aplikacji.md"
-    },
-    {
-      "basename": "_ Kurs Android od podstaw",
-      "path": "_ Mobile/Android/Kurs Android od podstaw/_ Kurs Android od podstaw.md"
     }
   ],
   "omittedPaths": [],
