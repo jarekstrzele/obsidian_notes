@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "_ I część - Wzorzec MVVM. Podstawy XAML",
+      "path": "_ Desktop/WPF/MVVM i XAML/_ I część - Wzorzec MVVM. Podstawy XAML.md"
+    },
+    {
       "basename": "4.6. Hook `useCallBack`",
       "path": "TYPESCRIPT/React i TypeScript/4.6. Hook `useCallBack`.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "_ Kurs Android od podstaw",
       "path": "_ Mobile/Android/Kurs Android od podstaw/_ Kurs Android od podstaw.md"
-    },
-    {
-      "basename": "5 Types",
-      "path": "R U S T/Rust Programming Course/5 Types.md"
     }
   ],
   "omittedPaths": [],
