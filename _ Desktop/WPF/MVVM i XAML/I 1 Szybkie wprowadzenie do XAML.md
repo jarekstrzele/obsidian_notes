@@ -59,6 +59,58 @@ private void sliderR_ValueChanged(object sender, RoutedPropertyChangedEventArgs<
 ```
 
 
+zamykanie okna:
+- dodanie atrybutu ` KeyDown="Window_KeyDown"` do `<Window>` , wartość tego atrybutu to nazwa metody, która powstała 
+- kliknięcie na `KeyDown` + F12 przeniesie do metody:
+
+```c# 
+private void Window_KeyDown(object sender, KeyEventArgs e)
+{
+    if (e.Key == Key.Escape) Close();
+}
+```
+
+ZMIANA konstruktura:
+```c#
+ public MainWindow()
+ {
+     InitializeComponent();
+     // Ustawienie domyślnego koloru prostokąta na czarny
+     rectangle.Fill = Brushes.Black;
+     // Zaktualizowanie koloru prostokąta przy starcie aplikacji
+     sliderR_ValueChanged(null, null);
+ }
+```
+
+ZMIANA METODY
+```c#
+ private void sliderR_ValueChanged(object sender, RoutedPropertyChangedEventArgs<double> e)
+ {
+     // Tworzenie nowego koloru na podstawie wartości suwaków
+     System.Windows.Media.Color kolor = System.Windows.Media.Color.FromRgb(
+         (byte)sliderR.Value,
+         (byte)sliderG.Value,
+         (byte)sliderB.Value);
+
+     // Ustawienie koloru prostokąta na nowo utworzony kolor
+     rectangle.Fill = new SolidColorBrush(kolor);
+ }
+
+```
+
+
+#wpf/brushes 
+>[!important] `Brushes`
+>- klasa Statyczna ma wbudowane, statyczne właściwości reprezentujące predefiniowane pędzile `Brush`
+>- każda 
+
+
+
+
+
+
+
+
 
 
 
