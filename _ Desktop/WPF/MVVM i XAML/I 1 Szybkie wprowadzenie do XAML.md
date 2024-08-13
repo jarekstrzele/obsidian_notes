@@ -36,7 +36,25 @@ ten kod `<Window x:Class="KoloryWPF.MainWindow" ...` łączy plik `MainWindow.xa
 
 ## `xmlns`
 ten atrybut określa domyślną przestrzeń nazw używaną w bieżącym elemencie XAML:
-- `... /xaml/presentation ` zawiera definicję większości elementów XAML
-- 
+- `xmlns="... /xaml/presentation ` zawiera definicję większości elementów XAML
+- `xmlns:x="http://sc...` - w tej przestrzeni znajduje się między innymi atrybut `Name`
+-  `xmlns:local="clr-namespace:KoloryWPF"` pod `local` widoczna jest przestrzeń nazw `KoloryWPF`
+
+----
+# Zdarzenie
+
+Zmieniamy nazwy `Slider`, bo za ich pomocą będziemy zmieniać kolor prostokąta:
+- `<Slider x:Name="sliderR" ...`
+- `<Slider x:Name="sliderG" ...`
+- `<Slider x:Name="sliderB" ...`
+
+
+
+
+
+
+
+
+
 
 
