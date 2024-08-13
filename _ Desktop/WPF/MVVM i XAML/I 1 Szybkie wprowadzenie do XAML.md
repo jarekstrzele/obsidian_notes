@@ -48,9 +48,15 @@ Zmieniamy nazwy `Slider`, bo za ich pomocą będziemy zmieniać kolor prostokąt
 - `<Slider x:Name="sliderG" ...`
 - `<Slider x:Name="sliderB" ...`
 
-
-
-
+Podwójne kliknięcie na kontrolkę `Slider` tworzy metodę
+- `Stroke` obramowanie
+- `Fill` - wypełnienie
+```c#
+private void sliderR_ValueChanged(object sender, RoutedPropertyChangedEventArgs<double> e)
+{
+    rectangle.Fill = Brushes.GreenYellow;
+}
+```
 
 
 
