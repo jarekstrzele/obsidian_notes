@@ -97,29 +97,27 @@ flexible_str.push('s') ;
 ## arrays and vectors
 W Rust, `Vector` (typ `Vec`) i `Array` (typ `array` lub `[T; N]`) są dwoma różnymi typami struktur danych do przechowywania kolekcji elementów, ale różnią się one pod kilkoma względami:
 
-1. **Rozmiar**:
-    
+1. **Rozmiar**:    
     - **Array**: Rozmiar jest stały i musi być określony w momencie kompilacji. Przykład: `[i32; 5]` oznacza tablicę pięciu elementów typu `i32`.
     - **Vector**: Rozmiar jest dynamiczny i może zmieniać się w czasie wykonywania programu. Przykład: `Vec<i32>` to wektor, który może zmieniać swój rozmiar.
-2. **Alokacja pamięci**:
     
+1. **Alokacja pamięci**:
     - **Array**: Tablica jest alokowana na stosie, jeśli jej rozmiar jest znany w czasie kompilacji.
     - **Vector**: Wektor jest alokowany na stercie, co pozwala na dynamiczne zarządzanie pamięcią.
-3. **Wydajność**:
-    
+
+1. **Wydajność**:
     - **Array**: Dostęp do elementów jest bardzo szybki, ponieważ elementy są przechowywane w sposób ciągły w pamięci.
     - **Vector**: Dostęp do elementów jest również szybki, ale nieco wolniejszy niż w przypadku tablicy, ponieważ może wymagać realokacji pamięci podczas dodawania elementów.
-4. **Funkcjonalność**:
-    
+
+1. **Funkcjonalność**:
     - **Array**: Oferuje podstawowe operacje na elementach, ale jest mniej elastyczny niż wektor.
     - **Vector**: Oferuje zaawansowane operacje, takie jak dodawanie, usuwanie elementów oraz zmiana rozmiaru.
-5. **Użycie**:
-    
+
+1. **Użycie**:  
     - **Array**: Używane, gdy rozmiar jest znany z góry i nie zmienia się, np. `[1, 2, 3, 4, 5]`.
     - **Vector**: Używane, gdy potrzebna jest elastyczność w zakresie zmiany rozmiaru, np. `Vec::new()` lub `vec![1, 2, 3]`.
 
 ### array
-
 `[<type>, numberOfElements]— they hold multiple values of the same type
 
 ```rust
@@ -151,7 +149,7 @@ vector.push(3);
 println!("{:?}", vector); // Wyjście: [1, 2, 3]
 
 let my_vec = vec![10,20,30] ;
-    println!("my vec: {:?}", my_vec) ;
+println!("my vec: {:?}", my_vec) ;
 
 ```
 
@@ -159,7 +157,7 @@ let my_vec = vec![10,20,30] ;
 ```rust
 fn main() {
     let tuple: (&str, i32) = ("tom", 32) ;
-    println!("my typle: {:#?}", tuple) ;
+    println!("my tuple: {:#?}", tuple) ;
 }
 ```
 
@@ -274,8 +272,6 @@ fn basic_math(a: i32, b:i32) -> (i32, i32, i32){
 
 
 # condition
-
-
 ```rust
 
 fn main() {
@@ -300,9 +296,6 @@ fn main() {
    
    println!("grade: {}", grade) ;
 }
-
-
-
 ```
 
 
@@ -332,8 +325,6 @@ fn main() {
     /* Complete the code after this line */ 
     for i in 1..=n{
         square_of_sum += i ;
-       
-        
     }
     square_of_sum = square_of_sum.pow(2) ;
     
