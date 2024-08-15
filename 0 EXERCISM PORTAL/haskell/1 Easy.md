@@ -73,7 +73,15 @@ main :: IO()
 main = putStrLn $ reverseString "strops" -- sport
 ```
 
+```haskell
+reverseString :: String -> String
+reverseString str = reverse str
 
+main :: IO ()
+main = do
+  print(reverseString "some test")
+  
+```
 
 
 

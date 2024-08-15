@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 EXERCISM PORTAL/Kotlin/Easy.md",
+                "file": "0 EXERCISM PORTAL/haskell/1 Easy.md",
                 "mode": "source",
                 "source": false
               }
@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6b01ee3c716a9358",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "R U S T/Rust Programming Course/5.1. Struct.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -126,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 EXERCISM PORTAL/Kotlin/Easy.md",
+                "file": "R U S T/Rust Programming Course/5.1. Struct.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0 EXERCISM PORTAL/Kotlin/Easy.md",
+                "file": "R U S T/Rust Programming Course/5.1. Struct.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 EXERCISM PORTAL/Kotlin/Easy.md"
+                "file": "R U S T/Rust Programming Course/5.1. Struct.md"
               }
             }
           },
@@ -217,11 +229,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "51d01fee68904071",
+  "active": "6b01ee3c716a9358",
   "lastOpenFiles": [
+    "R U S T/Rust Programming Course/5 Types.md",
+    "R U S T/Rust Programming Course/5.1. Struct.md",
+    "_ Desktop/WPF/MVVM i XAML/I 1 Szybkie wprowadzenie do XAML.md",
+    "HASKELL/Haskell GPT - od podstaw/1.2. Klasy typów.md",
+    "0 EXERCISM PORTAL/haskell/1 Easy.md",
+    "0 EXERCISM PORTAL/Kotlin/Easy.md",
     "0 EXERCISM PORTAL/rust/1 easy.md",
     "R U S T/Rust Programming Course/4.1 Borrowing.md",
-    "R U S T/Rust Programming Course/5 Types.md",
     "R U S T/Rust Programming Course/4 Ownership.md",
     "R U S T/Rust Programming Course/_ 0 Rust From Beginner to Expert 2.0.md",
     "R U S T/Rust Programming For Beginners/_ Rust Programming for Beginners.md",
@@ -234,10 +251,6 @@
     "R U S T/RUST FROM AI/_ 0 Rust.md",
     "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/_ Rust Build with GPT-4.md",
     "R U S T/1 - Full Rust Beginner s Course/_ Full Rust Beginners Cours.md",
-    "R U S T/Rust Programming Course/5.1. Struct.md",
-    "HASKELL/Haskell GPT - od podstaw/1.2. Klasy typów.md",
-    "0 EXERCISM PORTAL/Kotlin/Easy.md",
-    "_ Desktop/WPF/MVVM i XAML/I 1 Szybkie wprowadzenie do XAML.md",
     "Pasted image 20240813203159.png",
     "_ Desktop/WPF/MVVM i XAML/_ I część - Wzorzec MVVM. Podstawy XAML.md",
     "TYPESCRIPT/React i TypeScript/4.6. Hook `useCallBack`.md",
@@ -246,7 +259,6 @@
     "TYPESCRIPT/React i TypeScript/4.4. Hook `useRef`.md",
     "TYPESCRIPT/React i TypeScript/4 Korzystanie z hooków React.md",
     "TYPESCRIPT/React i TypeScript/4.3. Hook `useReducer`.md",
-    "TYPESCRIPT/React i TypeScript/4.2. hook `useState`.md",
     "0 EXERCISM PORTAL/Kotlin",
     "TYPESCRIPT/React i TypeScript",
     "0 EXERCISM PORTAL/Python",

@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "5.1. Struct",
+      "path": "R U S T/Rust Programming Course/5.1. Struct.md"
+    },
+    {
+      "basename": "5 Types",
+      "path": "R U S T/Rust Programming Course/5 Types.md"
+    },
+    {
+      "basename": "I 1 Szybkie wprowadzenie do XAML",
+      "path": "_ Desktop/WPF/MVVM i XAML/I 1 Szybkie wprowadzenie do XAML.md"
+    },
+    {
+      "basename": "1.2. Klasy typów",
+      "path": "HASKELL/Haskell GPT - od podstaw/1.2. Klasy typów.md"
+    },
+    {
+      "basename": "1 Easy",
+      "path": "0 EXERCISM PORTAL/haskell/1 Easy.md"
+    },
+    {
       "basename": "Easy",
       "path": "0 EXERCISM PORTAL/Kotlin/Easy.md"
     },
@@ -11,10 +31,6 @@
     {
       "basename": "4.1 Borrowing",
       "path": "R U S T/Rust Programming Course/4.1 Borrowing.md"
-    },
-    {
-      "basename": "5 Types",
-      "path": "R U S T/Rust Programming Course/5 Types.md"
     },
     {
       "basename": "4 Ownership",
@@ -65,18 +81,6 @@
       "path": "R U S T/1 - Full Rust Beginner s Course/_ Full Rust Beginners Cours.md"
     },
     {
-      "basename": "5.1. Struct",
-      "path": "R U S T/Rust Programming Course/5.1. Struct.md"
-    },
-    {
-      "basename": "1.2. Klasy typów",
-      "path": "HASKELL/Haskell GPT - od podstaw/1.2. Klasy typów.md"
-    },
-    {
-      "basename": "I 1 Szybkie wprowadzenie do XAML",
-      "path": "_ Desktop/WPF/MVVM i XAML/I 1 Szybkie wprowadzenie do XAML.md"
-    },
-    {
       "basename": "_ I część - Wzorzec MVVM. Podstawy XAML",
       "path": "_ Desktop/WPF/MVVM i XAML/_ I część - Wzorzec MVVM. Podstawy XAML.md"
     },
@@ -123,10 +127,6 @@
     {
       "basename": "easy",
       "path": "0 EXERCISM PORTAL/Python/easy.md"
-    },
-    {
-      "basename": "1 Easy",
-      "path": "0 EXERCISM PORTAL/haskell/1 Easy.md"
     },
     {
       "basename": "2. Wprowadzenie do TypeScriptu",
