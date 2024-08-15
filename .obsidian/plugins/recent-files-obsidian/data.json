@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "1 easy",
+      "path": "0 EXERCISM PORTAL/rust/1 easy.md"
+    },
+    {
       "basename": "4.1 Borrowing",
       "path": "R U S T/Rust Programming Course/4.1 Borrowing.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "5 Klasy pochodne i bazowe",
       "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/5 Klasy pochodne i bazowe.md"
-    },
-    {
-      "basename": "4 Klasy i obiekty",
-      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/4 Klasy i obiekty.md"
     }
   ],
   "omittedPaths": [],
