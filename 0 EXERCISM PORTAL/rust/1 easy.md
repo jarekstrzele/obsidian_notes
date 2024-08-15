@@ -21,7 +21,7 @@ fn main(){
 
 ```rust
 let s = "example" ;
-let mut uter = s.chars() ; // zwraca iterator znaków
+let mut iter = s.chars() ; // zwraca iterator znaków
 
 //iter.next() zwraca kolejną wartość iteratora
 while let Some(c) = iter.next(){
