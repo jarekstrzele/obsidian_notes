@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Rust Programming Course/_ 0 Rust From Beginner to Expert 2.0.md",
+                "file": "R U S T/Rust Programming Course/4.1 Borrowing.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust Programming Course/_ 0 Rust From Beginner to Expert 2.0.md",
+                "file": "R U S T/Rust Programming Course/4.1 Borrowing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust Programming Course/_ 0 Rust From Beginner to Expert 2.0.md",
+                "file": "R U S T/Rust Programming Course/4.1 Borrowing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Rust Programming Course/_ 0 Rust From Beginner to Expert 2.0.md"
+                "file": "R U S T/Rust Programming Course/4.1 Borrowing.md"
               }
             }
           },
@@ -219,6 +219,10 @@
   },
   "active": "51d01fee68904071",
   "lastOpenFiles": [
+    "R U S T/Rust Programming Course/5 Types.md",
+    "R U S T/Rust Programming Course/4.1 Borrowing.md",
+    "R U S T/Rust Programming Course/4 Ownership.md",
+    "R U S T/Rust Programming Course/_ 0 Rust From Beginner to Expert 2.0.md",
     "R U S T/Rust Programming For Beginners/_ Rust Programming for Beginners.md",
     "R U S T/atrybut.md",
     "R U S T/Box.md",
@@ -243,10 +247,6 @@
     "TYPESCRIPT/React i TypeScript/4.3. Hook `useReducer`.md",
     "TYPESCRIPT/React i TypeScript/4.2. hook `useState`.md",
     "TYPESCRIPT/React i TypeScript/4.1. `useEffect`.md",
-    "TYPESCRIPT/React i TypeScript/_ 0 React i TypeScript reaktywne tworzenie stron internetowych dla początkujących.md",
-    "TYPESCRIPT/React i TypeScript/3 Konfiguracja Reacta i TypeScriptu.md",
-    "TYPESCRIPT/React i TypeScript/1 Wprowadzenie do React.md",
-    "0 EXERCISM PORTAL/Python/easy.md",
     "0 EXERCISM PORTAL/Kotlin",
     "TYPESCRIPT/React i TypeScript",
     "0 EXERCISM PORTAL/Python",

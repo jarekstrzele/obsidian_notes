@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "4.1 Borrowing",
+      "path": "R U S T/Rust Programming Course/4.1 Borrowing.md"
+    },
+    {
+      "basename": "5 Types",
+      "path": "R U S T/Rust Programming Course/5 Types.md"
+    },
+    {
+      "basename": "4 Ownership",
+      "path": "R U S T/Rust Programming Course/4 Ownership.md"
+    },
+    {
       "basename": "_ 0 Rust From Beginner to Expert 2.0",
       "path": "R U S T/Rust Programming Course/_ 0 Rust From Beginner to Expert 2.0.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "4 Klasy i obiekty",
       "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/4 Klasy i obiekty.md"
-    },
-    {
-      "basename": "3 Funkcje - wychodzimy poza `main`",
-      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/3 Funkcje - wychodzimy poza `main`.md"
-    },
-    {
-      "basename": "2 Typy proste i zmienn",
-      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/2 Typy proste i zmienn.md"
-    },
-    {
-      "basename": "_ 0 Kotlin Rusz Głową",
-      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/_ 0 Kotlin Rusz Głową.md"
     }
   ],
   "omittedPaths": [],

@@ -2,7 +2,6 @@
 
 [[_ 0 Rust From Beginner to Expert 2.0]]
 
-
 # basic
 1. Each value has a variable that is its "owner".
 2. A value can have only one owner at a time.
@@ -77,9 +76,7 @@ fn main() {
   println!("a: {a}");
   change_int(a) ;
   println!("a: {a}");
-    
 }
-
 
 fn change_int(mut x: i32) {
     x = 59 ;

@@ -337,8 +337,6 @@ fn main() {
 ```
 
 
-
-
 ```rust
 // Problem 3:
 
