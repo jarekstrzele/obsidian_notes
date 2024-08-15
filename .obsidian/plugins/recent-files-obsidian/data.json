@@ -1,6 +1,54 @@
 {
   "recentFiles": [
     {
+      "basename": "atrybut",
+      "path": "R U S T/atrybut.md"
+    },
+    {
+      "basename": "Box",
+      "path": "R U S T/Box.md"
+    },
+    {
+      "basename": "Result",
+      "path": "R U S T/Result.md"
+    },
+    {
+      "basename": "Rust Tutorial Full Course",
+      "path": "R U S T/Rust Tutorial Full Course.md"
+    },
+    {
+      "basename": "Tech Stack in Rust",
+      "path": "R U S T/Tech Stack in Rust.md"
+    },
+    {
+      "basename": "1 Ownership",
+      "path": "R U S T/RUST FROM AI/1 Ownership.md"
+    },
+    {
+      "basename": "_ 0 Rust",
+      "path": "R U S T/RUST FROM AI/_ 0 Rust.md"
+    },
+    {
+      "basename": "_ Rust Build with GPT-4",
+      "path": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/_ Rust Build with GPT-4.md"
+    },
+    {
+      "basename": "_ Full Rust Beginners Cours",
+      "path": "R U S T/1 - Full Rust Beginner s Course/_ Full Rust Beginners Cours.md"
+    },
+    {
+      "basename": "5.1. Struct",
+      "path": "R U S T/Rust Programming Course/5.1. Struct.md"
+    },
+    {
+      "basename": "1.2. Klasy typów",
+      "path": "HASKELL/Haskell GPT - od podstaw/1.2. Klasy typów.md"
+    },
+    {
+      "basename": "Easy",
+      "path": "0 EXERCISM PORTAL/Kotlin/Easy.md"
+    },
+    {
       "basename": "I 1 Szybkie wprowadzenie do XAML",
       "path": "_ Desktop/WPF/MVVM i XAML/I 1 Szybkie wprowadzenie do XAML.md"
     },
@@ -49,20 +97,8 @@
       "path": "TYPESCRIPT/React i TypeScript/1 Wprowadzenie do React.md"
     },
     {
-      "basename": "Easy",
-      "path": "0 EXERCISM PORTAL/Kotlin/Easy.md"
-    },
-    {
       "basename": "easy",
       "path": "0 EXERCISM PORTAL/Python/easy.md"
-    },
-    {
-      "basename": "1.2. Klasy typów",
-      "path": "HASKELL/Haskell GPT - od podstaw/1.2. Klasy typów.md"
-    },
-    {
-      "basename": "5.1. Struct",
-      "path": "R U S T/Rust Programming Course/5.1. Struct.md"
     },
     {
       "basename": "1 Easy",
@@ -163,42 +199,6 @@
     {
       "basename": "3 Podstawy tworzenia aplikacji",
       "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md"
-    },
-    {
-      "basename": "3.1. Fragments",
-      "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3.1. Fragments.md"
-    },
-    {
-      "basename": "Wyrażenia regularne",
-      "path": "_ Mobile/Kotlin/Wyrażenia regularne.md"
-    },
-    {
-      "basename": "Fundamenty Kotlina",
-      "path": "_ Mobile/Kotlin/Fundamenty Kotlina.md"
-    },
-    {
-      "basename": "3.3. View Binding",
-      "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3.3. View Binding.md"
-    },
-    {
-      "basename": "3.2. View Models",
-      "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3.2. View Models.md"
-    },
-    {
-      "basename": "_ Kotlin bez tajemnic",
-      "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/_ Kotlin bez tajemnic.md"
-    },
-    {
-      "basename": "Dodatek B. Testowanie",
-      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/Dodatek B. Testowanie.md"
-    },
-    {
-      "basename": "Dodatek A. Koprocedury",
-      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/Dodatek A. Koprocedury.md"
-    },
-    {
-      "basename": "_ 0 Android Kurs Tworzenia Aplikacji",
-      "path": "_ Mobile/Android/Android Kurs Tworzenia APlikacji/_ 0 Android Kurs Tworzenia Aplikacji.md"
     }
   ],
   "omittedPaths": [],
