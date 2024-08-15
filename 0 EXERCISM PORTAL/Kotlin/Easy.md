@@ -237,7 +237,11 @@ fun ciphertext(plaintext: String): String {
 
 
 
-
+-------
+# reverse string
+```kotlin
+fun reverse(input: String) = input.reversed()
+```
 
 
 
