@@ -15,6 +15,20 @@ fn main(){
 
 # reverse string
 
+>[!important] iterator znaków
+>- to obiekt, który pozwala przechodzić (iterować) przez ciąg znaków (*String*, *&str*) jeden po drugi,
+>- w Rust to efektywny i idiomatyczny sposób na przetwarzanie danych
+
+```rust
+let s = "example" ;
+let mut uter = s.chars() ; // zwraca iterator znaków
+
+//iter.next() zwraca kolejną wartość iteratora
+while let Some(c) = iter.next(){
+	println!("{}", c) ;
+}
+```
+>
 
 
 
