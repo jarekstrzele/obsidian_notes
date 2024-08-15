@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "5.2 Enum",
+      "path": "R U S T/Rust Programming Course/5.2 Enum.md"
+    },
+    {
       "basename": "5.1. Struct",
       "path": "R U S T/Rust Programming Course/5.1. Struct.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "6 Klasy abstrakcyjne i interfejsy",
       "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/6 Klasy abstrakcyjne i interfejsy.md"
-    },
-    {
-      "basename": "5 Klasy pochodne i bazowe",
-      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/5 Klasy pochodne i bazowe.md"
     }
   ],
   "omittedPaths": [],
