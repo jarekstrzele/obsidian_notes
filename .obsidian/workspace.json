@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HASKELL/Haskell GPT - od podstaw/1.2. Klasy typów.md",
+                "file": "R U S T/Programmowanie_w Rust/2. Pierwsze spotkanie z Rustem.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Desktop/WPF/MVVM i XAML/I 1 Szybkie wprowadzenie do XAML.md",
+                "file": "R U S T/Programmowanie_w Rust/2. Pierwsze spotkanie z Rustem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Desktop/WPF/MVVM i XAML/I 1 Szybkie wprowadzenie do XAML.md",
+                "file": "R U S T/Programmowanie_w Rust/2. Pierwsze spotkanie z Rustem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Desktop/WPF/MVVM i XAML/I 1 Szybkie wprowadzenie do XAML.md"
+                "file": "R U S T/Programmowanie_w Rust/2. Pierwsze spotkanie z Rustem.md"
               }
             }
           },
@@ -229,14 +228,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "35f22f2fe38c77ea",
+  "active": "d2db4edac05dbe79",
   "lastOpenFiles": [
+    "R U S T/Programmowanie_w Rust/_ Programowanie w języku Rust.md",
+    "HASKELL/Haskell GPT - od podstaw/1.2. Klasy typów.md",
+    "0 EXERCISM PORTAL/haskell/1 Easy.md",
+    "_ Desktop/WPF/MVVM i XAML/I 1 Szybkie wprowadzenie do XAML.md",
     "R U S T/Rust Programming Course/5.2 Enum.md",
     "R U S T/Rust Programming Course/5.1. Struct.md",
     "R U S T/Rust Programming Course/5 Types.md",
-    "_ Desktop/WPF/MVVM i XAML/I 1 Szybkie wprowadzenie do XAML.md",
-    "HASKELL/Haskell GPT - od podstaw/1.2. Klasy typów.md",
-    "0 EXERCISM PORTAL/haskell/1 Easy.md",
     "0 EXERCISM PORTAL/Kotlin/Easy.md",
     "0 EXERCISM PORTAL/rust/1 easy.md",
     "R U S T/Rust Programming Course/4.1 Borrowing.md",
@@ -258,7 +258,6 @@
     "_ Desktop/WPF/MVVM i XAML",
     "TYPESCRIPT/React i TypeScript/4.5. Hook `useMemo()`.md",
     "TYPESCRIPT/React i TypeScript/4.4. Hook `useRef`.md",
-    "TYPESCRIPT/React i TypeScript/4 Korzystanie z hooków React.md",
     "0 EXERCISM PORTAL/Kotlin",
     "TYPESCRIPT/React i TypeScript",
     "0 EXERCISM PORTAL/Python",
