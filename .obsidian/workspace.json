@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Rust Programming Course/5.2 Enum.md",
+                "file": "_ Desktop/WPF/MVVM i XAML/I 1 Szybkie wprowadzenie do XAML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Rust Programming Course/5.2 Enum.md",
+                "file": "_ Desktop/WPF/MVVM i XAML/I 1 Szybkie wprowadzenie do XAML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Rust Programming Course/5.2 Enum.md"
+                "file": "_ Desktop/WPF/MVVM i XAML/I 1 Szybkie wprowadzenie do XAML.md"
               }
             }
           },
@@ -229,10 +229,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6b01ee3c716a9358",
+  "active": "35f22f2fe38c77ea",
   "lastOpenFiles": [
-    "R U S T/Rust Programming Course/5.1. Struct.md",
     "R U S T/Rust Programming Course/5.2 Enum.md",
+    "R U S T/Rust Programming Course/5.1. Struct.md",
     "R U S T/Rust Programming Course/5 Types.md",
     "_ Desktop/WPF/MVVM i XAML/I 1 Szybkie wprowadzenie do XAML.md",
     "HASKELL/Haskell GPT - od podstaw/1.2. Klasy typów.md",
