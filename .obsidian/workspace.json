@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Programmowanie_w Rust/2. Pierwsze spotkanie z Rustem.md",
+                "file": "R U S T/Programmowanie_w Rust/3.  Type proste.md",
                 "mode": "source",
                 "source": false
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Programmowanie_w Rust/2. Pierwsze spotkanie z Rustem.md",
+                "file": "R U S T/Programmowanie_w Rust/3.  Type proste.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Programmowanie_w Rust/2. Pierwsze spotkanie z Rustem.md",
+                "file": "R U S T/Programmowanie_w Rust/3.  Type proste.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Programmowanie_w Rust/2. Pierwsze spotkanie z Rustem.md"
+                "file": "R U S T/Programmowanie_w Rust/3.  Type proste.md"
               }
             }
           },
@@ -230,6 +230,7 @@
   },
   "active": "d2db4edac05dbe79",
   "lastOpenFiles": [
+    "R U S T/Programmowanie_w Rust/2. Pierwsze spotkanie z Rustem.md",
     "R U S T/Programmowanie_w Rust/_ Programowanie w języku Rust.md",
     "HASKELL/Haskell GPT - od podstaw/1.2. Klasy typów.md",
     "0 EXERCISM PORTAL/haskell/1 Easy.md",
@@ -257,7 +258,6 @@
     "TYPESCRIPT/React i TypeScript/4.6. Hook `useCallBack`.md",
     "_ Desktop/WPF/MVVM i XAML",
     "TYPESCRIPT/React i TypeScript/4.5. Hook `useMemo()`.md",
-    "TYPESCRIPT/React i TypeScript/4.4. Hook `useRef`.md",
     "0 EXERCISM PORTAL/Kotlin",
     "TYPESCRIPT/React i TypeScript",
     "0 EXERCISM PORTAL/Python",
