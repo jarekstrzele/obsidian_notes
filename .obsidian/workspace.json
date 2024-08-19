@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Programmowanie_w Rust/3.  Type proste.md",
+                "file": "R U S T/Programmowanie_w Rust/4. Reguła własności i przenoszenia.md",
                 "mode": "source",
                 "source": false
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Programmowanie_w Rust/3.  Type proste.md",
+                "file": "R U S T/Programmowanie_w Rust/4. Reguła własności i przenoszenia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Programmowanie_w Rust/3.  Type proste.md",
+                "file": "R U S T/Programmowanie_w Rust/4. Reguła własności i przenoszenia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Programmowanie_w Rust/3.  Type proste.md"
+                "file": "R U S T/Programmowanie_w Rust/4. Reguła własności i przenoszenia.md"
               }
             }
           },
@@ -230,8 +230,10 @@
   },
   "active": "d2db4edac05dbe79",
   "lastOpenFiles": [
-    "R U S T/Programmowanie_w Rust/2. Pierwsze spotkanie z Rustem.md",
     "R U S T/Programmowanie_w Rust/_ Programowanie w języku Rust.md",
+    "R U S T/Programmowanie_w Rust/4. Reguła własności i przenoszenia.md",
+    "R U S T/Programmowanie_w Rust/3.  Type proste.md",
+    "R U S T/Programmowanie_w Rust/2. Pierwsze spotkanie z Rustem.md",
     "HASKELL/Haskell GPT - od podstaw/1.2. Klasy typów.md",
     "0 EXERCISM PORTAL/haskell/1 Easy.md",
     "_ Desktop/WPF/MVVM i XAML/I 1 Szybkie wprowadzenie do XAML.md",
@@ -255,9 +257,7 @@
     "R U S T/1 - Full Rust Beginner s Course/_ Full Rust Beginners Cours.md",
     "Pasted image 20240813203159.png",
     "_ Desktop/WPF/MVVM i XAML/_ I część - Wzorzec MVVM. Podstawy XAML.md",
-    "TYPESCRIPT/React i TypeScript/4.6. Hook `useCallBack`.md",
     "_ Desktop/WPF/MVVM i XAML",
-    "TYPESCRIPT/React i TypeScript/4.5. Hook `useMemo()`.md",
     "0 EXERCISM PORTAL/Kotlin",
     "TYPESCRIPT/React i TypeScript",
     "0 EXERCISM PORTAL/Python",

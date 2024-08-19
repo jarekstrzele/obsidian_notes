@@ -1,7 +1,14 @@
-#rust #ebook #blandy_jim 
-#orendorff_jason
-#tindall_leaonora
-#helion 
+#rust #ebook #blandy_jim #orendorff_jason #tindall_leaonora #helion 
+
+--------
+[[2. Pierwsze spotkanie z Rustem]]
+[[3.  Type proste]]
+[[4. Reguła własności i przenoszenia]]
+
+
+
+
+----
 
 > Rust to język, który został opracowany z myślą o programowaniu systemowym.
 

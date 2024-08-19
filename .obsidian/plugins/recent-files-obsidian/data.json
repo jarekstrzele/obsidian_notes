@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "4. Reguła własności i przenoszenia",
+      "path": "R U S T/Programmowanie_w Rust/4. Reguła własności i przenoszenia.md"
+    },
+    {
+      "basename": "_ Programowanie w języku Rust",
+      "path": "R U S T/Programmowanie_w Rust/_ Programowanie w języku Rust.md"
+    },
+    {
       "basename": "3.  Type proste",
       "path": "R U S T/Programmowanie_w Rust/3.  Type proste.md"
     },
     {
       "basename": "2. Pierwsze spotkanie z Rustem",
       "path": "R U S T/Programmowanie_w Rust/2. Pierwsze spotkanie z Rustem.md"
-    },
-    {
-      "basename": "_ Programowanie w języku Rust",
-      "path": "R U S T/Programmowanie_w Rust/_ Programowanie w języku Rust.md"
     },
     {
       "basename": "1.2. Klasy typów",
@@ -195,10 +199,6 @@
     {
       "basename": "7 Klasy danych",
       "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/7 Klasy danych.md"
-    },
-    {
-      "basename": "hashcode",
-      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/hashcode.md"
     }
   ],
   "omittedPaths": [],
