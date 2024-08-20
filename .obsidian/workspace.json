@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d2db4edac05dbe79",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "R U S T/Programmowanie_w Rust/4. Reguła własności i przenoszenia.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "51d01fee68904071",
             "type": "leaf",
             "state": {
@@ -54,8 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "21eb71cd1868302e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "R U S T/Programmowanie_w Rust/4. Reguła własności i przenoszenia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -228,18 +229,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d2db4edac05dbe79",
+  "active": "21eb71cd1868302e",
   "lastOpenFiles": [
+    "Untitled 1.canvas",
+    "R U S T/Programmowanie_w Rust/4. Reguła własności i przenoszenia.md",
+    "R U S T/Rust Programming Course/5.2 Enum.md",
+    "_ Desktop/WPF/MVVM i XAML/I 1 Szybkie wprowadzenie do XAML.md",
+    "0 EXERCISM PORTAL/haskell/1 Easy.md",
+    "Untitled.canvas",
     "Pasted image 20240820213623.png",
     "Pasted image 20240820213048.png",
     "R U S T/Programmowanie_w Rust/_ Programowanie w języku Rust.md",
-    "R U S T/Programmowanie_w Rust/4. Reguła własności i przenoszenia.md",
     "R U S T/Programmowanie_w Rust/3.  Type proste.md",
     "R U S T/Programmowanie_w Rust/2. Pierwsze spotkanie z Rustem.md",
     "HASKELL/Haskell GPT - od podstaw/1.2. Klasy typów.md",
-    "0 EXERCISM PORTAL/haskell/1 Easy.md",
-    "_ Desktop/WPF/MVVM i XAML/I 1 Szybkie wprowadzenie do XAML.md",
-    "R U S T/Rust Programming Course/5.2 Enum.md",
     "R U S T/Rust Programming Course/5.1. Struct.md",
     "R U S T/Rust Programming Course/5 Types.md",
     "0 EXERCISM PORTAL/Kotlin/Easy.md",
@@ -274,7 +277,6 @@
     "R U S T/RUST FROM AI",
     "methodology/images/bar_matplotlib.png",
     "methodology/images/age_rating_barh.png",
-    "methodology/images/age_rating_bar.png",
-    "Pasted image 20240206220501.png"
+    "methodology/images/age_rating_bar.png"
   ]
 }

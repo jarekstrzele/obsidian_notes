@@ -5,6 +5,26 @@
       "path": "R U S T/Programmowanie_w Rust/4. Reguła własności i przenoszenia.md"
     },
     {
+      "basename": "Untitled 1",
+      "path": "Untitled 1.canvas"
+    },
+    {
+      "basename": "5.2 Enum",
+      "path": "R U S T/Rust Programming Course/5.2 Enum.md"
+    },
+    {
+      "basename": "I 1 Szybkie wprowadzenie do XAML",
+      "path": "_ Desktop/WPF/MVVM i XAML/I 1 Szybkie wprowadzenie do XAML.md"
+    },
+    {
+      "basename": "1 Easy",
+      "path": "0 EXERCISM PORTAL/haskell/1 Easy.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.canvas"
+    },
+    {
       "basename": "_ Programowanie w języku Rust",
       "path": "R U S T/Programmowanie_w Rust/_ Programowanie w języku Rust.md"
     },
@@ -19,18 +39,6 @@
     {
       "basename": "1.2. Klasy typów",
       "path": "HASKELL/Haskell GPT - od podstaw/1.2. Klasy typów.md"
-    },
-    {
-      "basename": "1 Easy",
-      "path": "0 EXERCISM PORTAL/haskell/1 Easy.md"
-    },
-    {
-      "basename": "I 1 Szybkie wprowadzenie do XAML",
-      "path": "_ Desktop/WPF/MVVM i XAML/I 1 Szybkie wprowadzenie do XAML.md"
-    },
-    {
-      "basename": "5.2 Enum",
-      "path": "R U S T/Rust Programming Course/5.2 Enum.md"
     },
     {
       "basename": "5.1. Struct",
@@ -191,14 +199,6 @@
     {
       "basename": "11. Lambda i funkcje wyższego rzędu",
       "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/11. Lambda i funkcje wyższego rzędu.md"
-    },
-    {
-      "basename": "7.0. Wprowadzenie do  klas danych",
-      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/7.0. Wprowadzenie do  klas danych.md"
-    },
-    {
-      "basename": "7 Klasy danych",
-      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/7 Klasy danych.md"
     }
   ],
   "omittedPaths": [],
