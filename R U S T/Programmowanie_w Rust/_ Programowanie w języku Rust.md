@@ -4,7 +4,7 @@
 [[2. Pierwsze spotkanie z Rustem]]
 [[3.  Type proste]]
 [[4. Reguła własności i przenoszenia]]
-
+[[5. Referencje]]
 
 
 

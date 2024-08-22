@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "5. Referencje",
+      "path": "R U S T/Programmowanie_w Rust/5. Referencje.md"
+    },
+    {
+      "basename": "_ Programowanie w języku Rust",
+      "path": "R U S T/Programmowanie_w Rust/_ Programowanie w języku Rust.md"
+    },
+    {
       "basename": "4. Reguła własności i przenoszenia",
       "path": "R U S T/Programmowanie_w Rust/4. Reguła własności i przenoszenia.md"
     },
@@ -23,10 +31,6 @@
     {
       "basename": "Untitled",
       "path": "Untitled.canvas"
-    },
-    {
-      "basename": "_ Programowanie w języku Rust",
-      "path": "R U S T/Programmowanie_w Rust/_ Programowanie w języku Rust.md"
     },
     {
       "basename": "3.  Type proste",
@@ -195,10 +199,6 @@
     {
       "basename": "7.1. Klasa danych `data class`",
       "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/7.1. Klasa danych `data class`.md"
-    },
-    {
-      "basename": "11. Lambda i funkcje wyższego rzędu",
-      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/11. Lambda i funkcje wyższego rzędu.md"
     }
   ],
   "omittedPaths": [],
