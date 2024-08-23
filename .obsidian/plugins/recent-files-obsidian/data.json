@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "1 easy",
+      "path": "0 EXERCISM PORTAL/rust/1 easy.md"
+    },
+    {
       "basename": "5. Referencje",
       "path": "R U S T/Programmowanie_w Rust/5. Referencje.md"
     },
@@ -55,10 +59,6 @@
     {
       "basename": "Easy",
       "path": "0 EXERCISM PORTAL/Kotlin/Easy.md"
-    },
-    {
-      "basename": "1 easy",
-      "path": "0 EXERCISM PORTAL/rust/1 easy.md"
     },
     {
       "basename": "4.1 Borrowing",

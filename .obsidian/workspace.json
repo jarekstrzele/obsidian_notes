@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Programmowanie_w Rust/5. Referencje.md",
+                "file": "0 EXERCISM PORTAL/rust/1 easy.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Programmowanie_w Rust/5. Referencje.md",
+                "file": "0 EXERCISM PORTAL/rust/1 easy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Programmowanie_w Rust/5. Referencje.md",
+                "file": "0 EXERCISM PORTAL/rust/1 easy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Programmowanie_w Rust/5. Referencje.md"
+                "file": "0 EXERCISM PORTAL/rust/1 easy.md"
               }
             }
           },
@@ -231,11 +231,11 @@
   },
   "active": "21eb71cd1868302e",
   "lastOpenFiles": [
+    "R U S T/Programmowanie_w Rust/5. Referencje.md",
     "Pasted image 20240823090225.png",
     "Pasted image 20240823085931.png",
     "Pasted image 20240823083104.png",
     "R U S T/Programmowanie_w Rust/_ Programowanie w języku Rust.md",
-    "R U S T/Programmowanie_w Rust/5. Referencje.md",
     "R U S T/Programmowanie_w Rust/4. Reguła własności i przenoszenia.md",
     "Untitled 1.canvas",
     "R U S T/Rust Programming Course/5.2 Enum.md",
@@ -277,7 +277,6 @@
     "Pasted image 20240507114353.png",
     "Pasted image 20240507112050.png",
     "Pasted image 20240507112024.png",
-    "R U S T/RUST FROM AI",
-    "methodology/images/bar_matplotlib.png"
+    "R U S T/RUST FROM AI"
   ]
 }
