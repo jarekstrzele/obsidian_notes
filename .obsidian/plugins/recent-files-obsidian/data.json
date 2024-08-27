@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "1.10. Przestrzeń nazw",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.10. Przestrzeń nazw.md"
+    },
+    {
+      "basename": "1.12 Indeksery",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.12 Indeksery.md"
+    },
+    {
+      "basename": "1.11 Struktury",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.11 Struktury.md"
+    },
+    {
+      "basename": "1.9. Enum",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.9. Enum.md"
+    },
+    {
+      "basename": "1.8. Klasy i metody zapieczętowane (sealed)",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.8. Klasy i metody zapieczętowane (sealed).md"
+    },
+    {
+      "basename": "1.7 Interfejsy",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.7 Interfejsy.md"
+    },
+    {
       "basename": "1.6 Klasy abstrakcyjne",
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.6 Klasy abstrakcyjne.md"
     },
@@ -27,10 +51,6 @@
     {
       "basename": "1 OOP w CSharp",
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md"
-    },
-    {
-      "basename": "1.12 Indeksery",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.12 Indeksery.md"
     },
     {
       "basename": "3 Functions-Methods and how to save time",
@@ -179,26 +199,6 @@
     {
       "basename": "Untitled 1",
       "path": "Untitled 1.canvas"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Untitled.canvas"
-    },
-    {
-      "basename": "3.  Type proste",
-      "path": "R U S T/Programmowanie_w Rust/3.  Type proste.md"
-    },
-    {
-      "basename": "2. Pierwsze spotkanie z Rustem",
-      "path": "R U S T/Programmowanie_w Rust/2. Pierwsze spotkanie z Rustem.md"
-    },
-    {
-      "basename": "1.2. Klasy typów",
-      "path": "HASKELL/Haskell GPT - od podstaw/1.2. Klasy typów.md"
-    },
-    {
-      "basename": "5.1. Struct",
-      "path": "R U S T/Rust Programming Course/5.1. Struct.md"
     }
   ],
   "omittedPaths": [],
