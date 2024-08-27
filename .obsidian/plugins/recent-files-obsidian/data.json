@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "3 Functions-Methods and how to save time",
+      "path": "C Sharp/Complete CSharp MasterClass/3 Functions-Methods and how to save time.md"
+    },
+    {
+      "basename": "2. DataTypes and Variables",
+      "path": "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md"
+    },
+    {
+      "basename": "_ CSHarp Complete Masterclass",
+      "path": "C Sharp/Complete CSharp MasterClass/_ CSHarp Complete Masterclass.md"
+    },
+    {
+      "basename": "6. OOP",
+      "path": "C Sharp/Complete CSharp MasterClass/6. OOP.md"
+    },
+    {
       "basename": "Classes and Data Structures",
       "path": "methodology/clean code/Classes and Data Structures.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "Box",
       "path": "R U S T/Box.md"
-    },
-    {
-      "basename": "Result",
-      "path": "R U S T/Result.md"
-    },
-    {
-      "basename": "Rust Tutorial Full Course",
-      "path": "R U S T/Rust Tutorial Full Course.md"
-    },
-    {
-      "basename": "Tech Stack in Rust",
-      "path": "R U S T/Tech Stack in Rust.md"
-    },
-    {
-      "basename": "1 Ownership",
-      "path": "R U S T/RUST FROM AI/1 Ownership.md"
     }
   ],
   "omittedPaths": [],
