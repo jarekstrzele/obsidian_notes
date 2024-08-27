@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 EXERCISM PORTAL/haskell/1 Easy.md",
+                "file": "TYPESCRIPT/React i TypeScript/4.6. Hook `useCallBack`.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Programmowanie_w Rust/6. Wyrażenia.md",
+                "file": "TYPESCRIPT/React i TypeScript/4.6. Hook `useCallBack`.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Programmowanie_w Rust/6. Wyrażenia.md",
+                "file": "TYPESCRIPT/React i TypeScript/4.6. Hook `useCallBack`.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Programmowanie_w Rust/6. Wyrażenia.md"
+                "file": "TYPESCRIPT/React i TypeScript/4.6. Hook `useCallBack`.md"
               }
             }
           },
@@ -229,13 +228,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6b01ee3c716a9358",
+  "active": "51d01fee68904071",
   "lastOpenFiles": [
-    "R U S T/Programmowanie_w Rust/5. Referencje.md",
-    "R U S T/Programmowanie_w Rust/6. Wyrażenia.md",
-    "R U S T/Rust Programming Course/5.2 Enum.md",
+    "TYPESCRIPT/React i TypeScript/4.5. Hook `useMemo()`.md",
+    "TYPESCRIPT/React i TypeScript/4.4. Hook `useRef`.md",
+    "TYPESCRIPT/React i TypeScript/4.2. hook `useState`.md",
+    "TYPESCRIPT/React i TypeScript/4.1. `useEffect`.md",
+    "TYPESCRIPT/React i TypeScript/4 Korzystanie z hooków React.md",
+    "TYPESCRIPT/React i TypeScript/_ 0 React i TypeScript reaktywne tworzenie stron internetowych dla początkujących.md",
+    "_ FullStack/Kotlin - FullStack/_ 0 Full Stack Kotlin Multiplatform KMP Development.md",
     "0 EXERCISM PORTAL/haskell/1 Easy.md",
     "_ Desktop/WPF/MVVM i XAML/I 1 Szybkie wprowadzenie do XAML.md",
+    "R U S T/Programmowanie_w Rust/6. Wyrażenia.md",
+    "R U S T/Programmowanie_w Rust/5. Referencje.md",
+    "R U S T/Rust Programming Course/5.2 Enum.md",
     "0 EXERCISM PORTAL/rust/1 easy.md",
     "Pasted image 20240823090225.png",
     "Pasted image 20240823085931.png",
@@ -257,13 +263,6 @@
     "R U S T/Rust Programming Course/_ 0 Rust From Beginner to Expert 2.0.md",
     "R U S T/Rust Programming For Beginners/_ Rust Programming for Beginners.md",
     "R U S T/atrybut.md",
-    "R U S T/Box.md",
-    "R U S T/Result.md",
-    "R U S T/Rust Tutorial Full Course.md",
-    "R U S T/Tech Stack in Rust.md",
-    "R U S T/RUST FROM AI/1 Ownership.md",
-    "R U S T/RUST FROM AI/_ 0 Rust.md",
-    "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/_ Rust Build with GPT-4.md",
     "Pasted image 20240813203159.png",
     "_ Desktop/WPF/MVVM i XAML",
     "0 EXERCISM PORTAL/Kotlin",

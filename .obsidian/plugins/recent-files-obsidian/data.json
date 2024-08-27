@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "4.6. Hook `useCallBack`",
+      "path": "TYPESCRIPT/React i TypeScript/4.6. Hook `useCallBack`.md"
+    },
+    {
+      "basename": "4.5. Hook `useMemo()`",
+      "path": "TYPESCRIPT/React i TypeScript/4.5. Hook `useMemo()`.md"
+    },
+    {
+      "basename": "4.4. Hook `useRef`",
+      "path": "TYPESCRIPT/React i TypeScript/4.4. Hook `useRef`.md"
+    },
+    {
+      "basename": "4.2. hook `useState`",
+      "path": "TYPESCRIPT/React i TypeScript/4.2. hook `useState`.md"
+    },
+    {
+      "basename": "4.1. `useEffect`",
+      "path": "TYPESCRIPT/React i TypeScript/4.1. `useEffect`.md"
+    },
+    {
+      "basename": "4 Korzystanie z hooków React",
+      "path": "TYPESCRIPT/React i TypeScript/4 Korzystanie z hooków React.md"
+    },
+    {
+      "basename": "_ 0 React i TypeScript reaktywne tworzenie stron internetowych dla początkujących",
+      "path": "TYPESCRIPT/React i TypeScript/_ 0 React i TypeScript reaktywne tworzenie stron internetowych dla początkujących.md"
+    },
+    {
+      "basename": "_ 0 Full Stack Kotlin Multiplatform KMP Development",
+      "path": "_ FullStack/Kotlin - FullStack/_ 0 Full Stack Kotlin Multiplatform KMP Development.md"
+    },
+    {
+      "basename": "1 Easy",
+      "path": "0 EXERCISM PORTAL/haskell/1 Easy.md"
+    },
+    {
+      "basename": "I 1 Szybkie wprowadzenie do XAML",
+      "path": "_ Desktop/WPF/MVVM i XAML/I 1 Szybkie wprowadzenie do XAML.md"
+    },
+    {
       "basename": "6. Wyrażenia",
       "path": "R U S T/Programmowanie_w Rust/6. Wyrażenia.md"
     },
@@ -11,14 +51,6 @@
     {
       "basename": "5.2 Enum",
       "path": "R U S T/Rust Programming Course/5.2 Enum.md"
-    },
-    {
-      "basename": "1 Easy",
-      "path": "0 EXERCISM PORTAL/haskell/1 Easy.md"
-    },
-    {
-      "basename": "I 1 Szybkie wprowadzenie do XAML",
-      "path": "_ Desktop/WPF/MVVM i XAML/I 1 Szybkie wprowadzenie do XAML.md"
     },
     {
       "basename": "1 easy",
@@ -121,36 +153,8 @@
       "path": "_ Desktop/WPF/MVVM i XAML/_ I część - Wzorzec MVVM. Podstawy XAML.md"
     },
     {
-      "basename": "4.6. Hook `useCallBack`",
-      "path": "TYPESCRIPT/React i TypeScript/4.6. Hook `useCallBack`.md"
-    },
-    {
-      "basename": "4.5. Hook `useMemo()`",
-      "path": "TYPESCRIPT/React i TypeScript/4.5. Hook `useMemo()`.md"
-    },
-    {
-      "basename": "4.4. Hook `useRef`",
-      "path": "TYPESCRIPT/React i TypeScript/4.4. Hook `useRef`.md"
-    },
-    {
-      "basename": "4 Korzystanie z hooków React",
-      "path": "TYPESCRIPT/React i TypeScript/4 Korzystanie z hooków React.md"
-    },
-    {
       "basename": "4.3. Hook `useReducer`",
       "path": "TYPESCRIPT/React i TypeScript/4.3. Hook `useReducer`.md"
-    },
-    {
-      "basename": "4.2. hook `useState`",
-      "path": "TYPESCRIPT/React i TypeScript/4.2. hook `useState`.md"
-    },
-    {
-      "basename": "4.1. `useEffect`",
-      "path": "TYPESCRIPT/React i TypeScript/4.1. `useEffect`.md"
-    },
-    {
-      "basename": "_ 0 React i TypeScript reaktywne tworzenie stron internetowych dla początkujących",
-      "path": "TYPESCRIPT/React i TypeScript/_ 0 React i TypeScript reaktywne tworzenie stron internetowych dla początkujących.md"
     },
     {
       "basename": "3 Konfiguracja Reacta i TypeScriptu",
@@ -195,10 +199,6 @@
     {
       "basename": "8.1. Wyjątki",
       "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/8.1. Wyjątki.md"
-    },
-    {
-      "basename": "8. Wartość `null` i  wyjątki",
-      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/8. Wartość `null` i  wyjątki.md"
     }
   ],
   "omittedPaths": [],
