@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C Sharp/Complete CSharp MasterClass/3 Functions-Methods and how to save time.md",
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.6 Klasy abstrakcyjne.md",
                 "mode": "source",
                 "source": false
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C Sharp/Complete CSharp MasterClass/3 Functions-Methods and how to save time.md",
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.6 Klasy abstrakcyjne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C Sharp/Complete CSharp MasterClass/3 Functions-Methods and how to save time.md",
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.6 Klasy abstrakcyjne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C Sharp/Complete CSharp MasterClass/3 Functions-Methods and how to save time.md"
+                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.6 Klasy abstrakcyjne.md"
               }
             }
           },
@@ -230,6 +230,14 @@
   },
   "active": "51d01fee68904071",
   "lastOpenFiles": [
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.5 Polimorfizm i rzutowanie.md",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.4 Dziedziczenie.md",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.3 Klasy zagnieżdżone.md",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.2 Metody i Właściwości.md",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.1 Konstruktory.md",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.12 Indeksery.md",
+    "C Sharp/Complete CSharp MasterClass/3 Functions-Methods and how to save time.md",
     "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md",
     "C Sharp/Complete CSharp MasterClass/_ CSHarp Complete Masterclass.md",
     "C Sharp/Complete CSharp MasterClass/6. OOP.md",
@@ -250,14 +258,6 @@
     "Pasted image 20240823083104.png",
     "Pasted image 20240820213048.png",
     "TYPESCRIPT/React i TypeScript/4.6. Hook `useCallBack`.md",
-    "TYPESCRIPT/React i TypeScript/4.5. Hook `useMemo()`.md",
-    "TYPESCRIPT/React i TypeScript/4.4. Hook `useRef`.md",
-    "TYPESCRIPT/React i TypeScript/4.2. hook `useState`.md",
-    "TYPESCRIPT/React i TypeScript/4.1. `useEffect`.md",
-    "TYPESCRIPT/React i TypeScript/4 Korzystanie z hooków React.md",
-    "TYPESCRIPT/React i TypeScript/_ 0 React i TypeScript reaktywne tworzenie stron internetowych dla początkujących.md",
-    "_ FullStack/Kotlin - FullStack/_ 0 Full Stack Kotlin Multiplatform KMP Development.md",
-    "0 EXERCISM PORTAL/haskell/1 Easy.md",
     "Pasted image 20240823090225.png",
     "Pasted image 20240823085931.png",
     "Untitled 1.canvas",
