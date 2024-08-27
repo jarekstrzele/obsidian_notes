@@ -1,6 +1,70 @@
 {
   "recentFiles": [
     {
+      "basename": "Classes and Data Structures",
+      "path": "methodology/clean code/Classes and Data Structures.md"
+    },
+    {
+      "basename": "_ Clean Code",
+      "path": "methodology/clean code/_ Clean Code.md"
+    },
+    {
+      "basename": "Conditionals and Error Handling",
+      "path": "methodology/clean code/Conditionals and Error Handling.md"
+    },
+    {
+      "basename": "Functions and Methods",
+      "path": "methodology/clean code/Functions and Methods.md"
+    },
+    {
+      "basename": "Structure and Comments",
+      "path": "methodology/clean code/Structure and Comments.md"
+    },
+    {
+      "basename": "Clean Code Names",
+      "path": "methodology/clean code/Clean Code Names.md"
+    },
+    {
+      "basename": "Harvard CS50 Full Computer Science University Course",
+      "path": "Harvard CS50 Full Computer Science University Course.md"
+    },
+    {
+      "basename": "From Local to Remote - GitHub",
+      "path": "From Local to Remote - GitHub.md"
+    },
+    {
+      "basename": "Formatowanie dysku w wierszu poleceń Windows",
+      "path": "Formatowanie dysku w wierszu poleceń Windows.md"
+    },
+    {
+      "basename": "Dziwny kalkulator",
+      "path": "Dziwny kalkulator.md"
+    },
+    {
+      "basename": "24.1 Create Rest API",
+      "path": "24.1 Create Rest API.md"
+    },
+    {
+      "basename": "13.3 Activity Life Cycle",
+      "path": "13.3 Activity Life Cycle.md"
+    },
+    {
+      "basename": "9 Reference",
+      "path": "9 Reference.md"
+    },
+    {
+      "basename": "1.1 Book List",
+      "path": "1.1 Book List.md"
+    },
+    {
+      "basename": "Pasted image 20240823083104",
+      "path": "Pasted image 20240823083104.png"
+    },
+    {
+      "basename": "Pasted image 20240820213048",
+      "path": "Pasted image 20240820213048.png"
+    },
+    {
       "basename": "4.6. Hook `useCallBack`",
       "path": "TYPESCRIPT/React i TypeScript/4.6. Hook `useCallBack`.md"
     },
@@ -135,70 +199,6 @@
     {
       "basename": "1 Ownership",
       "path": "R U S T/RUST FROM AI/1 Ownership.md"
-    },
-    {
-      "basename": "_ 0 Rust",
-      "path": "R U S T/RUST FROM AI/_ 0 Rust.md"
-    },
-    {
-      "basename": "_ Rust Build with GPT-4",
-      "path": "R U S T/Build an AutoGPT Code Writing AI Tool with Rust and GPT-4/_ Rust Build with GPT-4.md"
-    },
-    {
-      "basename": "_ Full Rust Beginners Cours",
-      "path": "R U S T/1 - Full Rust Beginner s Course/_ Full Rust Beginners Cours.md"
-    },
-    {
-      "basename": "_ I część - Wzorzec MVVM. Podstawy XAML",
-      "path": "_ Desktop/WPF/MVVM i XAML/_ I część - Wzorzec MVVM. Podstawy XAML.md"
-    },
-    {
-      "basename": "4.3. Hook `useReducer`",
-      "path": "TYPESCRIPT/React i TypeScript/4.3. Hook `useReducer`.md"
-    },
-    {
-      "basename": "3 Konfiguracja Reacta i TypeScriptu",
-      "path": "TYPESCRIPT/React i TypeScript/3 Konfiguracja Reacta i TypeScriptu.md"
-    },
-    {
-      "basename": "1 Wprowadzenie do React",
-      "path": "TYPESCRIPT/React i TypeScript/1 Wprowadzenie do React.md"
-    },
-    {
-      "basename": "easy",
-      "path": "0 EXERCISM PORTAL/Python/easy.md"
-    },
-    {
-      "basename": "2. Wprowadzenie do TypeScriptu",
-      "path": "TYPESCRIPT/React i TypeScript/2. Wprowadzenie do TypeScriptu.md"
-    },
-    {
-      "basename": "Korzystanie z kompilatora",
-      "path": "TYPESCRIPT/Korzystanie z kompilatora.md"
-    },
-    {
-      "basename": "_ Learn TypeScript",
-      "path": "TYPESCRIPT/Learn TypeScript - Full Tutorial/_ Learn TypeScript.md"
-    },
-    {
-      "basename": "_ app z Node i Express",
-      "path": "_ WEB/React,TypeScript,Node/III Express, GraphQL tworzenie usług internetowych/_ app z Node i Express.md"
-    },
-    {
-      "basename": "_ React, TypeScript, Node",
-      "path": "_ WEB/React,TypeScript,Node/_ React, TypeScript, Node.md"
-    },
-    {
-      "basename": "10 Typy sparametryzowane",
-      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/10 Typy sparametryzowane.md"
-    },
-    {
-      "basename": "9. Kolekcje",
-      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/9. Kolekcje.md"
-    },
-    {
-      "basename": "8.1. Wyjątki",
-      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/8.1. Wyjątki.md"
     }
   ],
   "omittedPaths": [],
