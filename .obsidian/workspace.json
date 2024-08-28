@@ -55,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -137,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.10. Przestrzeń nazw.md",
+                "file": "R U S T/Programmowanie_w Rust/6. Wyrażenia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.10. Przestrzeń nazw.md",
+                "file": "R U S T/Programmowanie_w Rust/6. Wyrażenia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.10. Przestrzeń nazw.md"
+                "file": "R U S T/Programmowanie_w Rust/6. Wyrażenia.md"
               }
             }
           },
@@ -228,8 +229,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "51d01fee68904071",
+  "active": "6b01ee3c716a9358",
   "lastOpenFiles": [
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.10. Przestrzeń nazw.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.12 Indeksery.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.11 Struktury.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.9. Enum.md",
@@ -255,7 +257,6 @@
     "Harvard CS50 Full Computer Science University Course.md",
     "From Local to Remote - GitHub.md",
     "Formatowanie dysku w wierszu poleceń Windows.md",
-    "Dziwny kalkulator.md",
     "Pasted image 20240823083104.png",
     "Pasted image 20240820213048.png",
     "Pasted image 20240823090225.png",
