@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#kotlin/scrollview",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -229,7 +229,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6b01ee3c716a9358",
+  "active": "04bc47a26b7598a7",
   "lastOpenFiles": [
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.10. Przestrzeń nazw.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.12 Indeksery.md",
