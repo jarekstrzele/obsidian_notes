@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "_ 0",
+      "path": "TYPESCRIPT/Learn TypeScript 2h - Full Course for beginners/_ 0.md"
+    },
+    {
+      "basename": "_React Bob Ziroll",
+      "path": "_ WEB/REACT/React Bob Ziroll/_React Bob Ziroll.md"
+    },
+    {
+      "basename": "_ Learn TypeScript",
+      "path": "TYPESCRIPT/Learn TypeScript 4h - Full Tutorial/_ Learn TypeScript.md"
+    },
+    {
       "basename": "6. Wyrażenia",
       "path": "R U S T/Programmowanie_w Rust/6. Wyrażenia.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "1 easy",
       "path": "0 EXERCISM PORTAL/rust/1 easy.md"
-    },
-    {
-      "basename": "_ Programowanie w języku Rust",
-      "path": "R U S T/Programmowanie_w Rust/_ Programowanie w języku Rust.md"
-    },
-    {
-      "basename": "4. Reguła własności i przenoszenia",
-      "path": "R U S T/Programmowanie_w Rust/4. Reguła własności i przenoszenia.md"
-    },
-    {
-      "basename": "Untitled 1",
-      "path": "Untitled 1.canvas"
     }
   ],
   "omittedPaths": [],

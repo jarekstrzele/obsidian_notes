@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R U S T/Programmowanie_w Rust/6. Wyrażenia.md",
+                "file": "TYPESCRIPT/Learn TypeScript 2h - Full Course for beginners/_ 0.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#bob_ziroll",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,7 +118,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -138,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R U S T/Programmowanie_w Rust/6. Wyrażenia.md",
+                "file": "TYPESCRIPT/Learn TypeScript 2h - Full Course for beginners/_ 0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R U S T/Programmowanie_w Rust/6. Wyrażenia.md",
+                "file": "TYPESCRIPT/Learn TypeScript 2h - Full Course for beginners/_ 0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R U S T/Programmowanie_w Rust/6. Wyrażenia.md"
+                "file": "TYPESCRIPT/Learn TypeScript 2h - Full Course for beginners/_ 0.md"
               }
             }
           },
@@ -231,6 +232,11 @@
   },
   "active": "6b01ee3c716a9358",
   "lastOpenFiles": [
+    "_ WEB/REACT/React Bob Ziroll/_React Bob Ziroll.md",
+    "TYPESCRIPT/Learn TypeScript 2h - Full Course for beginners/_ 0.md",
+    "TYPESCRIPT/Learn TypeScript 4h - Full Tutorial/_ Learn TypeScript.md",
+    "TYPESCRIPT/Learn TypeScript 2h - Full Course for beginners",
+    "R U S T/Programmowanie_w Rust/6. Wyrażenia.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.10. Przestrzeń nazw.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.12 Indeksery.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.11 Struktury.md",
@@ -253,10 +259,6 @@
     "methodology/clean code/Conditionals and Error Handling.md",
     "methodology/clean code/Functions and Methods.md",
     "methodology/clean code/Structure and Comments.md",
-    "methodology/clean code/Clean Code Names.md",
-    "Harvard CS50 Full Computer Science University Course.md",
-    "From Local to Remote - GitHub.md",
-    "Formatowanie dysku w wierszu poleceń Windows.md",
     "Pasted image 20240823083104.png",
     "Pasted image 20240820213048.png",
     "Pasted image 20240823090225.png",
@@ -277,7 +279,6 @@
     "HASKELL/Haskell GPT - od podstaw",
     "Pasted image 20240507114353.png",
     "Pasted image 20240507112050.png",
-    "Pasted image 20240507112024.png",
-    "R U S T/RUST FROM AI"
+    "Pasted image 20240507112024.png"
   ]
 }
