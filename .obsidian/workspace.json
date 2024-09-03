@@ -49,14 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 EXERCISM PORTAL/rust/1 easy.md",
+                "file": "_ Mobile/Android/8.4 EditTexts.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.5026054382324
+    "width": 373.5
   },
   "right": {
     "id": "7036b4a7a06b882e",
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/1 Moduły.md",
+                "file": "_ Mobile/Android/8.4 EditTexts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/1 Moduły.md",
+                "file": "_ Mobile/Android/8.4 EditTexts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/1 Moduły.md"
+                "file": "_ Mobile/Android/8.4 EditTexts.md"
               }
             }
           },
@@ -229,35 +229,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6b01ee3c716a9358",
+  "active": "21eb71cd1868302e",
   "lastOpenFiles": [
-    "_ WEB/N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/1 Moduły.md",
-    "_ WEB/N_O_D_E/NODE - the complete guide/5 Working with Express.js.md",
-    "_ WEB/N_O_D_E/NODE - the complete guide/3 Node Basics.md",
-    "_ WEB/N_O_D_E/NODE - the complete guide/_0 Node Complete Guide.md",
-    "_ WEB/N_O_D_E/Mosh Node/1 Node Module System.md",
-    "_ WEB/N_O_D_E/Mosh Node/2 Node Package Manager.md",
-    "_ WEB/N_O_D_E/Mosh Node/_ 0 Node (Mosh).md",
-    "_ WEB/N_O_D_E/Lear Node.js and Javascript/_ Node and JavaScript.md",
-    "_ WEB/N_O_D_E/Lear Node.js and Javascript/- 2 JavaScript.md",
-    "_ WEB/N_O_D_E/Lear Node.js and Javascript/- 3 Node.md",
-    "TYPESCRIPT/Learn TypeScript 2h - Full Course for beginners/_ 0.md",
-    "_ WEB/REACT/React Bob Ziroll/_React Bob Ziroll.md",
-    "TYPESCRIPT/Learn TypeScript 4h - Full Tutorial/_ Learn TypeScript.md",
+    "_ Mobile/Android/the complete Android Kotlin/ObjectOutputStream.md",
+    "_ Mobile/Android/the complete Android Kotlin/FileOutputStream.md",
+    "_ Mobile/Android/the complete Android Kotlin/18 Math Game Project.md",
+    "_ Mobile/Android/the complete Android Kotlin/17 Publishing Your App on Google Play.md",
+    "_ Mobile/Android/the complete Android Kotlin/16 ToDoApp.md",
+    "_ Mobile/Android/the complete Android Kotlin/15 Device Compablility.md",
+    "_ Mobile/Android/the complete Android Kotlin/14 SharedPreferences Class.md",
+    "_ Mobile/Android/the complete Android Kotlin/13 Intent and life cycle.md",
+    "_ Mobile/Android/the complete Android Kotlin/12 Lists and Views.md",
+    "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.2 TextView.md",
+    "_ Mobile/Android/the complete Android Kotlin/10 Android Components.md",
+    "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.1 Layouts in Android App.md",
+    "_ Mobile/Android/the complete Android Kotlin/7 Intro to Android App Development.md",
+    "_ Mobile/Android/the complete Android Kotlin/6 Kotlin OOP.md",
+    "_ Mobile/Android/the complete Android Kotlin/5 Functions in Android Kotlin.md",
+    "_ Mobile/Android/the complete Android Kotlin/4 Loops in Kotlin.md",
+    "_ Mobile/Android/the complete Android Kotlin/3 Control Flow Statements in Kotlin.md",
+    "_ Mobile/Android/the complete Android Kotlin/2 Operators in Kotlin.md",
+    "_ Mobile/Android/the complete Android Kotlin/1 Fundamentals of Kotlin.md",
+    "_ Mobile/Android/the complete Android Kotlin/_ the complete Android Kotlin.md",
+    "_ Mobile/Android/the complete Android 14 and Kotlin/3. Functions, Objects and Coffee Machine.md",
+    "_ Mobile/Android/the complete Android 14 and Kotlin/Android 12 XML/7 Calculator.md",
+    "_ Mobile/Android/the complete Android 14 and Kotlin/Android 12 XML/6 Age in Minute Calculator.md",
+    "_ Mobile/Android/the complete Android 14 and Kotlin/Android 12 XML/4. OOP Kotlin.md",
+    "_ Mobile/Android/the complete Android 14 and Kotlin/Android 12 XML/3 Kotlin fundamentals.md",
+    "_ Mobile/Android/the complete Android 14 and Kotlin/Android 12 XML/2 Getting ready with Android Studio.md",
     "TYPESCRIPT/Learn TypeScript 2h - Full Course for beginners",
-    "R U S T/Programmowanie_w Rust/6. Wyrażenia.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.10. Przestrzeń nazw.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.12 Indeksery.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.11 Struktury.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.9. Enum.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.8. Klasy i metody zapieczętowane (sealed).md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.7 Interfejsy.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.6 Klasy abstrakcyjne.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.5 Polimorfizm i rzutowanie.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.4 Dziedziczenie.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.3 Klasy zagnieżdżone.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.2 Metody i Właściwości.md",
     "Pasted image 20240823083104.png",
     "Pasted image 20240820213048.png",
     "Pasted image 20240823090225.png",

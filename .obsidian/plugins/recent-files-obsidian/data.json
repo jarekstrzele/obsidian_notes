@@ -1,6 +1,130 @@
 {
   "recentFiles": [
     {
+      "basename": "8.4 EditTexts",
+      "path": "_ Mobile/Android/8.4 EditTexts.md"
+    },
+    {
+      "basename": "ObjectOutputStream",
+      "path": "_ Mobile/Android/the complete Android Kotlin/ObjectOutputStream.md"
+    },
+    {
+      "basename": "FileOutputStream",
+      "path": "_ Mobile/Android/the complete Android Kotlin/FileOutputStream.md"
+    },
+    {
+      "basename": "18 Math Game Project",
+      "path": "_ Mobile/Android/the complete Android Kotlin/18 Math Game Project.md"
+    },
+    {
+      "basename": "17 Publishing Your App on Google Play",
+      "path": "_ Mobile/Android/the complete Android Kotlin/17 Publishing Your App on Google Play.md"
+    },
+    {
+      "basename": "16 ToDoApp",
+      "path": "_ Mobile/Android/the complete Android Kotlin/16 ToDoApp.md"
+    },
+    {
+      "basename": "15 Device Compablility",
+      "path": "_ Mobile/Android/the complete Android Kotlin/15 Device Compablility.md"
+    },
+    {
+      "basename": "14 SharedPreferences Class",
+      "path": "_ Mobile/Android/the complete Android Kotlin/14 SharedPreferences Class.md"
+    },
+    {
+      "basename": "13 Intent and life cycle",
+      "path": "_ Mobile/Android/the complete Android Kotlin/13 Intent and life cycle.md"
+    },
+    {
+      "basename": "12 Lists and Views",
+      "path": "_ Mobile/Android/the complete Android Kotlin/12 Lists and Views.md"
+    },
+    {
+      "basename": "10.2 TextView",
+      "path": "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.2 TextView.md"
+    },
+    {
+      "basename": "10 Android Components",
+      "path": "_ Mobile/Android/the complete Android Kotlin/10 Android Components.md"
+    },
+    {
+      "basename": "10.1 Layouts in Android App",
+      "path": "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.1 Layouts in Android App.md"
+    },
+    {
+      "basename": "7 Intro to Android App Development",
+      "path": "_ Mobile/Android/the complete Android Kotlin/7 Intro to Android App Development.md"
+    },
+    {
+      "basename": "6 Kotlin OOP",
+      "path": "_ Mobile/Android/the complete Android Kotlin/6 Kotlin OOP.md"
+    },
+    {
+      "basename": "5 Functions in Android Kotlin",
+      "path": "_ Mobile/Android/the complete Android Kotlin/5 Functions in Android Kotlin.md"
+    },
+    {
+      "basename": "4 Loops in Kotlin",
+      "path": "_ Mobile/Android/the complete Android Kotlin/4 Loops in Kotlin.md"
+    },
+    {
+      "basename": "3 Control Flow Statements in Kotlin",
+      "path": "_ Mobile/Android/the complete Android Kotlin/3 Control Flow Statements in Kotlin.md"
+    },
+    {
+      "basename": "2 Operators in Kotlin",
+      "path": "_ Mobile/Android/the complete Android Kotlin/2 Operators in Kotlin.md"
+    },
+    {
+      "basename": "1 Fundamentals of Kotlin",
+      "path": "_ Mobile/Android/the complete Android Kotlin/1 Fundamentals of Kotlin.md"
+    },
+    {
+      "basename": "_ the complete Android Kotlin",
+      "path": "_ Mobile/Android/the complete Android Kotlin/_ the complete Android Kotlin.md"
+    },
+    {
+      "basename": "3. Functions, Objects and Coffee Machine",
+      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/3. Functions, Objects and Coffee Machine.md"
+    },
+    {
+      "basename": "7 Calculator",
+      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/Android 12 XML/7 Calculator.md"
+    },
+    {
+      "basename": "6 Age in Minute Calculator",
+      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/Android 12 XML/6 Age in Minute Calculator.md"
+    },
+    {
+      "basename": "4. OOP Kotlin",
+      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/Android 12 XML/4. OOP Kotlin.md"
+    },
+    {
+      "basename": "3 Kotlin fundamentals",
+      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/Android 12 XML/3 Kotlin fundamentals.md"
+    },
+    {
+      "basename": "2 Getting ready with Android Studio",
+      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/Android 12 XML/2 Getting ready with Android Studio.md"
+    },
+    {
+      "basename": "2 Tworzenie widoków",
+      "path": "_ Mobile/Android/Kurs Android od podstaw/2 Tworzenie widoków.md"
+    },
+    {
+      "basename": "_ Kurs Android od podstaw",
+      "path": "_ Mobile/Android/Kurs Android od podstaw/_ Kurs Android od podstaw.md"
+    },
+    {
+      "basename": "_ 0 Android Kurs Tworzenia Aplikacji",
+      "path": "_ Mobile/Android/Android Kurs Tworzenia APlikacji/_ 0 Android Kurs Tworzenia Aplikacji.md"
+    },
+    {
+      "basename": "1 easy",
+      "path": "0 EXERCISM PORTAL/rust/1 easy.md"
+    },
+    {
       "basename": "1 Moduły",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/1 Moduły.md"
     },
@@ -75,130 +199,6 @@
     {
       "basename": "1.9. Enum",
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.9. Enum.md"
-    },
-    {
-      "basename": "1.8. Klasy i metody zapieczętowane (sealed)",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.8. Klasy i metody zapieczętowane (sealed).md"
-    },
-    {
-      "basename": "1.7 Interfejsy",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.7 Interfejsy.md"
-    },
-    {
-      "basename": "1.6 Klasy abstrakcyjne",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.6 Klasy abstrakcyjne.md"
-    },
-    {
-      "basename": "1.5 Polimorfizm i rzutowanie",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.5 Polimorfizm i rzutowanie.md"
-    },
-    {
-      "basename": "1.4 Dziedziczenie",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.4 Dziedziczenie.md"
-    },
-    {
-      "basename": "1.3 Klasy zagnieżdżone",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.3 Klasy zagnieżdżone.md"
-    },
-    {
-      "basename": "1.2 Metody i Właściwości",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.2 Metody i Właściwości.md"
-    },
-    {
-      "basename": "1.1 Konstruktory",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.1 Konstruktory.md"
-    },
-    {
-      "basename": "1 OOP w CSharp",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md"
-    },
-    {
-      "basename": "3 Functions-Methods and how to save time",
-      "path": "C Sharp/Complete CSharp MasterClass/3 Functions-Methods and how to save time.md"
-    },
-    {
-      "basename": "2. DataTypes and Variables",
-      "path": "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md"
-    },
-    {
-      "basename": "_ CSHarp Complete Masterclass",
-      "path": "C Sharp/Complete CSharp MasterClass/_ CSHarp Complete Masterclass.md"
-    },
-    {
-      "basename": "6. OOP",
-      "path": "C Sharp/Complete CSharp MasterClass/6. OOP.md"
-    },
-    {
-      "basename": "Classes and Data Structures",
-      "path": "methodology/clean code/Classes and Data Structures.md"
-    },
-    {
-      "basename": "_ Clean Code",
-      "path": "methodology/clean code/_ Clean Code.md"
-    },
-    {
-      "basename": "Conditionals and Error Handling",
-      "path": "methodology/clean code/Conditionals and Error Handling.md"
-    },
-    {
-      "basename": "Functions and Methods",
-      "path": "methodology/clean code/Functions and Methods.md"
-    },
-    {
-      "basename": "Structure and Comments",
-      "path": "methodology/clean code/Structure and Comments.md"
-    },
-    {
-      "basename": "Clean Code Names",
-      "path": "methodology/clean code/Clean Code Names.md"
-    },
-    {
-      "basename": "Harvard CS50 Full Computer Science University Course",
-      "path": "Harvard CS50 Full Computer Science University Course.md"
-    },
-    {
-      "basename": "From Local to Remote - GitHub",
-      "path": "From Local to Remote - GitHub.md"
-    },
-    {
-      "basename": "Formatowanie dysku w wierszu poleceń Windows",
-      "path": "Formatowanie dysku w wierszu poleceń Windows.md"
-    },
-    {
-      "basename": "Dziwny kalkulator",
-      "path": "Dziwny kalkulator.md"
-    },
-    {
-      "basename": "24.1 Create Rest API",
-      "path": "24.1 Create Rest API.md"
-    },
-    {
-      "basename": "13.3 Activity Life Cycle",
-      "path": "13.3 Activity Life Cycle.md"
-    },
-    {
-      "basename": "9 Reference",
-      "path": "9 Reference.md"
-    },
-    {
-      "basename": "1.1 Book List",
-      "path": "1.1 Book List.md"
-    },
-    {
-      "basename": "Pasted image 20240823083104",
-      "path": "Pasted image 20240823083104.png"
-    },
-    {
-      "basename": "Pasted image 20240820213048",
-      "path": "Pasted image 20240820213048.png"
-    },
-    {
-      "basename": "4.6. Hook `useCallBack`",
-      "path": "TYPESCRIPT/React i TypeScript/4.6. Hook `useCallBack`.md"
-    },
-    {
-      "basename": "4.5. Hook `useMemo()`",
-      "path": "TYPESCRIPT/React i TypeScript/4.5. Hook `useMemo()`.md"
     }
   ],
   "omittedPaths": [],
