@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TYPESCRIPT/Learn TypeScript 2h - Full Course for beginners/_ 0.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/1 Moduły.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,8 +118,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -139,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TYPESCRIPT/Learn TypeScript 2h - Full Course for beginners/_ 0.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/1 Moduły.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TYPESCRIPT/Learn TypeScript 2h - Full Course for beginners/_ 0.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/1 Moduły.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TYPESCRIPT/Learn TypeScript 2h - Full Course for beginners/_ 0.md"
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/1 Moduły.md"
               }
             }
           },
@@ -232,8 +231,19 @@
   },
   "active": "6b01ee3c716a9358",
   "lastOpenFiles": [
-    "_ WEB/REACT/React Bob Ziroll/_React Bob Ziroll.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/1 Moduły.md",
+    "_ WEB/N_O_D_E/NODE - the complete guide/5 Working with Express.js.md",
+    "_ WEB/N_O_D_E/NODE - the complete guide/3 Node Basics.md",
+    "_ WEB/N_O_D_E/NODE - the complete guide/_0 Node Complete Guide.md",
+    "_ WEB/N_O_D_E/Mosh Node/1 Node Module System.md",
+    "_ WEB/N_O_D_E/Mosh Node/2 Node Package Manager.md",
+    "_ WEB/N_O_D_E/Mosh Node/_ 0 Node (Mosh).md",
+    "_ WEB/N_O_D_E/Lear Node.js and Javascript/_ Node and JavaScript.md",
+    "_ WEB/N_O_D_E/Lear Node.js and Javascript/- 2 JavaScript.md",
+    "_ WEB/N_O_D_E/Lear Node.js and Javascript/- 3 Node.md",
     "TYPESCRIPT/Learn TypeScript 2h - Full Course for beginners/_ 0.md",
+    "_ WEB/REACT/React Bob Ziroll/_React Bob Ziroll.md",
     "TYPESCRIPT/Learn TypeScript 4h - Full Tutorial/_ Learn TypeScript.md",
     "TYPESCRIPT/Learn TypeScript 2h - Full Course for beginners",
     "R U S T/Programmowanie_w Rust/6. Wyrażenia.md",
@@ -248,17 +258,6 @@
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.4 Dziedziczenie.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.3 Klasy zagnieżdżone.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/1.2 Metody i Właściwości.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.1 Konstruktory.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
-    "C Sharp/Complete CSharp MasterClass/3 Functions-Methods and how to save time.md",
-    "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md",
-    "C Sharp/Complete CSharp MasterClass/_ CSHarp Complete Masterclass.md",
-    "C Sharp/Complete CSharp MasterClass/6. OOP.md",
-    "methodology/clean code/Classes and Data Structures.md",
-    "methodology/clean code/_ Clean Code.md",
-    "methodology/clean code/Conditionals and Error Handling.md",
-    "methodology/clean code/Functions and Methods.md",
-    "methodology/clean code/Structure and Comments.md",
     "Pasted image 20240823083104.png",
     "Pasted image 20240820213048.png",
     "Pasted image 20240823090225.png",

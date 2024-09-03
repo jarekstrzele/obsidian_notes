@@ -1,6 +1,50 @@
 {
   "recentFiles": [
     {
+      "basename": "1 Moduły",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/1 Moduły.md"
+    },
+    {
+      "basename": "_ 0 NodeJS - zostań fullstack",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md"
+    },
+    {
+      "basename": "5 Working with Express.js",
+      "path": "_ WEB/N_O_D_E/NODE - the complete guide/5 Working with Express.js.md"
+    },
+    {
+      "basename": "3 Node Basics",
+      "path": "_ WEB/N_O_D_E/NODE - the complete guide/3 Node Basics.md"
+    },
+    {
+      "basename": "_0 Node Complete Guide",
+      "path": "_ WEB/N_O_D_E/NODE - the complete guide/_0 Node Complete Guide.md"
+    },
+    {
+      "basename": "1 Node Module System",
+      "path": "_ WEB/N_O_D_E/Mosh Node/1 Node Module System.md"
+    },
+    {
+      "basename": "2 Node Package Manager",
+      "path": "_ WEB/N_O_D_E/Mosh Node/2 Node Package Manager.md"
+    },
+    {
+      "basename": "_ 0 Node (Mosh)",
+      "path": "_ WEB/N_O_D_E/Mosh Node/_ 0 Node (Mosh).md"
+    },
+    {
+      "basename": "_ Node and JavaScript",
+      "path": "_ WEB/N_O_D_E/Lear Node.js and Javascript/_ Node and JavaScript.md"
+    },
+    {
+      "basename": "- 2 JavaScript",
+      "path": "_ WEB/N_O_D_E/Lear Node.js and Javascript/- 2 JavaScript.md"
+    },
+    {
+      "basename": "- 3 Node",
+      "path": "_ WEB/N_O_D_E/Lear Node.js and Javascript/- 3 Node.md"
+    },
+    {
       "basename": "_ 0",
       "path": "TYPESCRIPT/Learn TypeScript 2h - Full Course for beginners/_ 0.md"
     },
@@ -155,50 +199,6 @@
     {
       "basename": "4.5. Hook `useMemo()`",
       "path": "TYPESCRIPT/React i TypeScript/4.5. Hook `useMemo()`.md"
-    },
-    {
-      "basename": "4.4. Hook `useRef`",
-      "path": "TYPESCRIPT/React i TypeScript/4.4. Hook `useRef`.md"
-    },
-    {
-      "basename": "4.2. hook `useState`",
-      "path": "TYPESCRIPT/React i TypeScript/4.2. hook `useState`.md"
-    },
-    {
-      "basename": "4.1. `useEffect`",
-      "path": "TYPESCRIPT/React i TypeScript/4.1. `useEffect`.md"
-    },
-    {
-      "basename": "4 Korzystanie z hooków React",
-      "path": "TYPESCRIPT/React i TypeScript/4 Korzystanie z hooków React.md"
-    },
-    {
-      "basename": "_ 0 React i TypeScript reaktywne tworzenie stron internetowych dla początkujących",
-      "path": "TYPESCRIPT/React i TypeScript/_ 0 React i TypeScript reaktywne tworzenie stron internetowych dla początkujących.md"
-    },
-    {
-      "basename": "_ 0 Full Stack Kotlin Multiplatform KMP Development",
-      "path": "_ FullStack/Kotlin - FullStack/_ 0 Full Stack Kotlin Multiplatform KMP Development.md"
-    },
-    {
-      "basename": "1 Easy",
-      "path": "0 EXERCISM PORTAL/haskell/1 Easy.md"
-    },
-    {
-      "basename": "I 1 Szybkie wprowadzenie do XAML",
-      "path": "_ Desktop/WPF/MVVM i XAML/I 1 Szybkie wprowadzenie do XAML.md"
-    },
-    {
-      "basename": "5. Referencje",
-      "path": "R U S T/Programmowanie_w Rust/5. Referencje.md"
-    },
-    {
-      "basename": "5.2 Enum",
-      "path": "R U S T/Rust Programming Course/5.2 Enum.md"
-    },
-    {
-      "basename": "1 easy",
-      "path": "0 EXERCISM PORTAL/rust/1 easy.md"
     }
   ],
   "omittedPaths": [],
