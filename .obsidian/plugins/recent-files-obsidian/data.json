@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "5.1. Układy i komponenty GUI dziedziczą po `View`",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.1. Układy i komponenty GUI dziedziczą po `View`.md"
+    },
+    {
+      "basename": "5. Widoki i grupy widoków",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5. Widoki i grupy widoków.md"
+    },
+    {
+      "basename": "4. Cykl życia aktywnośći",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4. Cykl życia aktywnośći.md"
+    },
+    {
+      "basename": "3 Wiele aktywności i intencji",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/3 Wiele aktywności i intencji.md"
+    },
+    {
+      "basename": "2. Tworzenie interaktywnych aplikacji",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/2. Tworzenie interaktywnych aplikacji.md"
+    },
+    {
+      "basename": "1. Skok na głęboką wodę",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/1. Skok na głęboką wodę.md"
+    },
+    {
+      "basename": "2 Tworzenie widoków",
+      "path": "_ Mobile/Android/Kurs Android od podstaw/2 Tworzenie widoków.md"
+    },
+    {
+      "basename": "_ Kurs Android od podstaw",
+      "path": "_ Mobile/Android/Kurs Android od podstaw/_ Kurs Android od podstaw.md"
+    },
+    {
+      "basename": "Funkcje lambda",
+      "path": "_ Mobile/Android/Funkcje lambda.md"
+    },
+    {
+      "basename": "DatePicker Dialog",
+      "path": "_ Mobile/Android/DatePicker Dialog.md"
+    },
+    {
       "basename": "8.4 EditTexts",
       "path": "_ Mobile/Android/8.4 EditTexts.md"
     },
@@ -109,14 +149,6 @@
       "path": "_ Mobile/Android/the complete Android 14 and Kotlin/Android 12 XML/2 Getting ready with Android Studio.md"
     },
     {
-      "basename": "2 Tworzenie widoków",
-      "path": "_ Mobile/Android/Kurs Android od podstaw/2 Tworzenie widoków.md"
-    },
-    {
-      "basename": "_ Kurs Android od podstaw",
-      "path": "_ Mobile/Android/Kurs Android od podstaw/_ Kurs Android od podstaw.md"
-    },
-    {
       "basename": "_ 0 Android Kurs Tworzenia Aplikacji",
       "path": "_ Mobile/Android/Android Kurs Tworzenia APlikacji/_ 0 Android Kurs Tworzenia Aplikacji.md"
     },
@@ -167,38 +199,6 @@
     {
       "basename": "- 3 Node",
       "path": "_ WEB/N_O_D_E/Lear Node.js and Javascript/- 3 Node.md"
-    },
-    {
-      "basename": "_ 0",
-      "path": "TYPESCRIPT/Learn TypeScript 2h - Full Course for beginners/_ 0.md"
-    },
-    {
-      "basename": "_React Bob Ziroll",
-      "path": "_ WEB/REACT/React Bob Ziroll/_React Bob Ziroll.md"
-    },
-    {
-      "basename": "_ Learn TypeScript",
-      "path": "TYPESCRIPT/Learn TypeScript 4h - Full Tutorial/_ Learn TypeScript.md"
-    },
-    {
-      "basename": "6. Wyrażenia",
-      "path": "R U S T/Programmowanie_w Rust/6. Wyrażenia.md"
-    },
-    {
-      "basename": "1.10. Przestrzeń nazw",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.10. Przestrzeń nazw.md"
-    },
-    {
-      "basename": "1.12 Indeksery",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.12 Indeksery.md"
-    },
-    {
-      "basename": "1.11 Struktury",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.11 Struktury.md"
-    },
-    {
-      "basename": "1.9. Enum",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.9. Enum.md"
     }
   ],
   "omittedPaths": [],
