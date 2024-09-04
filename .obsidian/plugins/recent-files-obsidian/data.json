@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "10.2 TextView",
+      "path": "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.2 TextView.md"
+    },
+    {
       "basename": "10 Android Components",
       "path": "_ Mobile/Android/the complete Android Kotlin/10 Android Components.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "10.3 Button",
       "path": "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.3 Button.md"
-    },
-    {
-      "basename": "10.2 TextView",
-      "path": "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.2 TextView.md"
     },
     {
       "basename": "10.1 Layouts in Android App",
