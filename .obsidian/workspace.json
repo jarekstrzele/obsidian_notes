@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/1 Moduły.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/1 Moduły.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/1 Moduły.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/1 Moduły.md"
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md"
               }
             }
           },
@@ -231,32 +231,32 @@
   },
   "active": "35f22f2fe38c77ea",
   "lastOpenFiles": [
+    "_ WEB/N_O_D_E/NodeJS - fullstack/6 Zewnętrzne moduły.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/5 Jak Działa NodeJS.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/4.4. HTTPS Node.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/4.3. pliki statyczne.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/4.1.1. tworzenie własnego klienta.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/4.1. Prosty serwer i klient TCP.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/4. Tworzenie serwerów.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/3.6. Obserwowanie zmian w plikach.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/3.5. usuwanie plików i katalogów.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/3.4. Przenoszenie i zmiana nazw plików.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/3.3. Tworzenie plików i katalogów.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/3.2. Odczytywanie plików.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/3 Node praca z Sys. Plików.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/2.4. Process.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/2.3. Stream.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/2.2. Buffer.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/2. Podstawowe koncepcje.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/1 Moduły.md",
     "_ WEB/N_O_D_E/Mosh Node/1 Node Module System.md",
     "_ WEB/N_O_D_E/Mosh Node/_ 0 Node (Mosh).md",
     "_ WEB/N_O_D_E/Lear Node.js and Javascript/- 5 Stock Market App with Node and JavaScript.md",
     "_ WEB/N_O_D_E/Lear Node.js and Javascript/- 4 MySQL with Node.js.md",
     "_ WEB/N_O_D_E/Lear Node.js and Javascript/- 3 Node.md",
-    "_ WEB/N_O_D_E/Lear Node.js and Javascript/- 2 JavaScript.md",
-    "_ WEB/N_O_D_E/Lear Node.js and Javascript/_ Node and JavaScript.md",
-    "_ Desktop/WPF/MVVM i XAML/I 1 Szybkie wprowadzenie do XAML.md",
-    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/3 Funkcje - wychodzimy poza `main`.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.10. Przestrzeń nazw.md",
-    "_ Mobile/Android/the complete Android 14 and Kotlin/Android 12 XML/3 Kotlin fundamentals.md",
-    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/2 Typy proste i zmienn.md",
-    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/_ 0 Kotlin Rusz Głową.md",
-    "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.3 Button.md",
-    "Excalidraw/kotlin_referencja.excalidraw.md",
-    "_ Mobile/Kotlin/Fundamenty Kotlina.md",
-    "_ Mobile/Kotlin/Wyrażenia regularne.md",
-    "_ Mobile/Kotlin/Kotlin bez tajemnic/3.1. Fragments.md",
-    "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md",
-    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/12 Wbudowane funkcje wyższego rzędu.md",
-    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/Dodatek B. Testowanie.md",
-    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/Dodatek A. Koprocedury.md",
-    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/11. Lambda i funkcje wyższego rzędu.md",
-    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/10 Typy sparametryzowane.md",
-    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/9. Kolekcje.md",
-    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/8.1. Wyjątki.md",
     "TYPESCRIPT/Learn TypeScript 2h - Full Course for beginners",
     "Pasted image 20240823083104.png",
     "Pasted image 20240820213048.png",

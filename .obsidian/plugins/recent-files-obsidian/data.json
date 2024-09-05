@@ -1,6 +1,90 @@
 {
   "recentFiles": [
     {
+      "basename": "7 Express JS",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md"
+    },
+    {
+      "basename": "6 Zewnętrzne moduły",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/6 Zewnętrzne moduły.md"
+    },
+    {
+      "basename": "5 Jak Działa NodeJS",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/5 Jak Działa NodeJS.md"
+    },
+    {
+      "basename": "4.4. HTTPS Node",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/4.4. HTTPS Node.md"
+    },
+    {
+      "basename": "4.3. pliki statyczne",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/4.3. pliki statyczne.md"
+    },
+    {
+      "basename": "4.2. Serwer HTTP",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md"
+    },
+    {
+      "basename": "4.1.1. tworzenie własnego klienta",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/4.1.1. tworzenie własnego klienta.md"
+    },
+    {
+      "basename": "4.1. Prosty serwer i klient TCP",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/4.1. Prosty serwer i klient TCP.md"
+    },
+    {
+      "basename": "4. Tworzenie serwerów",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/4. Tworzenie serwerów.md"
+    },
+    {
+      "basename": "3.6. Obserwowanie zmian w plikach",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3.6. Obserwowanie zmian w plikach.md"
+    },
+    {
+      "basename": "3.5. usuwanie plików i katalogów",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3.5. usuwanie plików i katalogów.md"
+    },
+    {
+      "basename": "3.4. Przenoszenie i zmiana nazw plików",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3.4. Przenoszenie i zmiana nazw plików.md"
+    },
+    {
+      "basename": "3.3. Tworzenie plików i katalogów",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3.3. Tworzenie plików i katalogów.md"
+    },
+    {
+      "basename": "3.2. Odczytywanie plików",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3.2. Odczytywanie plików.md"
+    },
+    {
+      "basename": "3.1. Odczytywanie info o plikach",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md"
+    },
+    {
+      "basename": "3 Node praca z Sys. Plików",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3 Node praca z Sys. Plików.md"
+    },
+    {
+      "basename": "2.4. Process",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.4. Process.md"
+    },
+    {
+      "basename": "2.3. Stream",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.3. Stream.md"
+    },
+    {
+      "basename": "2.2. Buffer",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.2. Buffer.md"
+    },
+    {
+      "basename": "2.1. Zdarzenia",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md"
+    },
+    {
+      "basename": "2. Podstawowe koncepcje",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2. Podstawowe koncepcje.md"
+    },
+    {
       "basename": "1 Moduły",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/1 Moduły.md"
     },
@@ -115,90 +199,6 @@
     {
       "basename": "10.1 Layouts in Android App",
       "path": "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.1 Layouts in Android App.md"
-    },
-    {
-      "basename": "10.2 TextView",
-      "path": "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.2 TextView.md"
-    },
-    {
-      "basename": "10 Android Components",
-      "path": "_ Mobile/Android/the complete Android Kotlin/10 Android Components.md"
-    },
-    {
-      "basename": "_ the complete Android Kotlin",
-      "path": "_ Mobile/Android/the complete Android Kotlin/_ the complete Android Kotlin.md"
-    },
-    {
-      "basename": "2 Tworzenie widoków",
-      "path": "_ Mobile/Android/Kurs Android od podstaw/2 Tworzenie widoków.md"
-    },
-    {
-      "basename": "_ 0 Android Kurs Tworzenia Aplikacji",
-      "path": "_ Mobile/Android/Android Kurs Tworzenia APlikacji/_ 0 Android Kurs Tworzenia Aplikacji.md"
-    },
-    {
-      "basename": "5.1. Układy i komponenty GUI dziedziczą po `View`",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.1. Układy i komponenty GUI dziedziczą po `View`.md"
-    },
-    {
-      "basename": "5. Widoki i grupy widoków",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5. Widoki i grupy widoków.md"
-    },
-    {
-      "basename": "4.3 trzecia wersja - aplikacja częściowo widoczna",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4.3 trzecia wersja - aplikacja częściowo widoczna.md"
-    },
-    {
-      "basename": "4.2. Druga wersja Stopera - aplikacja zniszczona i utworzona",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4.2. Druga wersja Stopera - aplikacja zniszczona i utworzona.md"
-    },
-    {
-      "basename": "4.1. Pierwsza wersja stopera",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4.1. Pierwsza wersja stopera.md"
-    },
-    {
-      "basename": "6 Age in Minute Calculator",
-      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/Android 12 XML/6 Age in Minute Calculator.md"
-    },
-    {
-      "basename": "4. OOP Kotlin",
-      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/Android 12 XML/4. OOP Kotlin.md"
-    },
-    {
-      "basename": "2 Getting ready with Android Studio",
-      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/Android 12 XML/2 Getting ready with Android Studio.md"
-    },
-    {
-      "basename": "5. First Android App - Unit Converter Part 1",
-      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/5. First Android App - Unit Converter Part 1.md"
-    },
-    {
-      "basename": "4. Lists and Objects",
-      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/4. Lists and Objects.md"
-    },
-    {
-      "basename": "3. Functions, Objects and Coffee Machine",
-      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/3. Functions, Objects and Coffee Machine.md"
-    },
-    {
-      "basename": "_ the complete Android 14",
-      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/_ the complete Android 14.md"
-    },
-    {
-      "basename": "4. Cykl życia aktywnośći",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4. Cykl życia aktywnośći.md"
-    },
-    {
-      "basename": "3 Wiele aktywności i intencji",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/3 Wiele aktywności i intencji.md"
-    },
-    {
-      "basename": "2. Tworzenie interaktywnych aplikacji",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/2. Tworzenie interaktywnych aplikacji.md"
-    },
-    {
-      "basename": "1. Skok na głęboką wodę",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/1. Skok na głęboką wodę.md"
     }
   ],
   "omittedPaths": [],
