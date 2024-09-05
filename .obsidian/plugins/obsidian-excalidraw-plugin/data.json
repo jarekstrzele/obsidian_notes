@@ -967,7 +967,7 @@
             "containerId": null,
             "originalText": "system",
             "lineHeight": 1.2,
-            "baseline": 35
+            "baseline": 34
           }
         ],
         "id": "NgPfjqRnTLdaDSvaUMQgc",
@@ -11596,7 +11596,7 @@
             "containerId": null,
             "originalText": "Stack\nStorage",
             "lineHeight": 1.2795850860882005,
-            "baseline": 32
+            "baseline": 31
           }
         ],
         "id": "1YqrmPGvOU-qjfDs_GVLS",
@@ -12176,7 +12176,7 @@
             "containerId": null,
             "originalText": "Key",
             "lineHeight": 1.155514895132067,
-            "baseline": 5
+            "baseline": 4
           },
           {
             "type": "text",
@@ -12216,7 +12216,7 @@
             "containerId": null,
             "originalText": "Key",
             "lineHeight": 1.155514895132067,
-            "baseline": 5
+            "baseline": 4
           },
           {
             "type": "text",
@@ -12256,7 +12256,7 @@
             "containerId": null,
             "originalText": "Value",
             "lineHeight": 1.1555148951320642,
-            "baseline": 5
+            "baseline": 4
           },
           {
             "type": "text",
@@ -12296,7 +12296,7 @@
             "containerId": null,
             "originalText": "Value",
             "lineHeight": 1.1555148951320642,
-            "baseline": 5
+            "baseline": 4
           },
           {
             "type": "text",
@@ -12340,7 +12340,7 @@
             "containerId": null,
             "originalText": "Cache",
             "lineHeight": 1.2706504267443253,
-            "baseline": 20
+            "baseline": 19
           }
         ],
         "id": "rnz-jspV2iZJm2dQWrG1T",
@@ -13384,7 +13384,7 @@
             "containerId": null,
             "originalText": "www     127.0.0.1",
             "lineHeight": 1.055075666169421,
-            "baseline": 9
+            "baseline": 8
           },
           {
             "type": "arrow",
@@ -16110,7 +16110,7 @@
             "containerId": null,
             "originalText": "7",
             "lineHeight": 1.285035777588966,
-            "baseline": 9
+            "baseline": 8
           },
           {
             "type": "text",
@@ -16151,7 +16151,7 @@
             "containerId": null,
             "originalText": "Archive",
             "lineHeight": 1.2266250604258317,
-            "baseline": 15
+            "baseline": 14
           }
         ],
         "id": "swveRwhBrodtfIkrMvjp8",
