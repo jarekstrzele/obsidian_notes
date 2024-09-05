@@ -1,6 +1,70 @@
 {
   "recentFiles": [
     {
+      "basename": "2 Typy proste i zmienn",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/2 Typy proste i zmienn.md"
+    },
+    {
+      "basename": "3 Funkcje - wychodzimy poza `main`",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/3 Funkcje - wychodzimy poza `main`.md"
+    },
+    {
+      "basename": "_ 0 Kotlin Rusz Głową",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/_ 0 Kotlin Rusz Głową.md"
+    },
+    {
+      "basename": "3 Kotlin fundamentals",
+      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/Android 12 XML/3 Kotlin fundamentals.md"
+    },
+    {
+      "basename": "Fundamenty Kotlina",
+      "path": "_ Mobile/Kotlin/Fundamenty Kotlina.md"
+    },
+    {
+      "basename": "Wyrażenia regularne",
+      "path": "_ Mobile/Kotlin/Wyrażenia regularne.md"
+    },
+    {
+      "basename": "3.1. Fragments",
+      "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3.1. Fragments.md"
+    },
+    {
+      "basename": "3 Podstawy tworzenia aplikacji",
+      "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md"
+    },
+    {
+      "basename": "12 Wbudowane funkcje wyższego rzędu",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/12 Wbudowane funkcje wyższego rzędu.md"
+    },
+    {
+      "basename": "Dodatek B. Testowanie",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/Dodatek B. Testowanie.md"
+    },
+    {
+      "basename": "Dodatek A. Koprocedury",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/Dodatek A. Koprocedury.md"
+    },
+    {
+      "basename": "11. Lambda i funkcje wyższego rzędu",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/11. Lambda i funkcje wyższego rzędu.md"
+    },
+    {
+      "basename": "10 Typy sparametryzowane",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/10 Typy sparametryzowane.md"
+    },
+    {
+      "basename": "9. Kolekcje",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/9. Kolekcje.md"
+    },
+    {
+      "basename": "8.1. Wyjątki",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/8.1. Wyjątki.md"
+    },
+    {
+      "basename": "8. Wartość `null` i  wyjątki",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/8. Wartość `null` i  wyjątki.md"
+    },
+    {
       "basename": "1 Moduły",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/1 Moduły.md"
     },
@@ -135,70 +199,6 @@
     {
       "basename": "15 Device Compablility",
       "path": "_ Mobile/Android/the complete Android Kotlin/15 Device Compablility.md"
-    },
-    {
-      "basename": "14 SharedPreferences Class",
-      "path": "_ Mobile/Android/the complete Android Kotlin/14 SharedPreferences Class.md"
-    },
-    {
-      "basename": "13 Intent and life cycle",
-      "path": "_ Mobile/Android/the complete Android Kotlin/13 Intent and life cycle.md"
-    },
-    {
-      "basename": "12 Lists and Views",
-      "path": "_ Mobile/Android/the complete Android Kotlin/12 Lists and Views.md"
-    },
-    {
-      "basename": "7 Intro to Android App Development",
-      "path": "_ Mobile/Android/the complete Android Kotlin/7 Intro to Android App Development.md"
-    },
-    {
-      "basename": "6 Kotlin OOP",
-      "path": "_ Mobile/Android/the complete Android Kotlin/6 Kotlin OOP.md"
-    },
-    {
-      "basename": "5 Functions in Android Kotlin",
-      "path": "_ Mobile/Android/the complete Android Kotlin/5 Functions in Android Kotlin.md"
-    },
-    {
-      "basename": "4 Loops in Kotlin",
-      "path": "_ Mobile/Android/the complete Android Kotlin/4 Loops in Kotlin.md"
-    },
-    {
-      "basename": "3 Control Flow Statements in Kotlin",
-      "path": "_ Mobile/Android/the complete Android Kotlin/3 Control Flow Statements in Kotlin.md"
-    },
-    {
-      "basename": "2 Operators in Kotlin",
-      "path": "_ Mobile/Android/the complete Android Kotlin/2 Operators in Kotlin.md"
-    },
-    {
-      "basename": "1 Fundamentals of Kotlin",
-      "path": "_ Mobile/Android/the complete Android Kotlin/1 Fundamentals of Kotlin.md"
-    },
-    {
-      "basename": "7 Calculator",
-      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/Android 12 XML/7 Calculator.md"
-    },
-    {
-      "basename": "3 Kotlin fundamentals",
-      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/Android 12 XML/3 Kotlin fundamentals.md"
-    },
-    {
-      "basename": "1 easy",
-      "path": "0 EXERCISM PORTAL/rust/1 easy.md"
-    },
-    {
-      "basename": "_ 0 NodeJS - zostań fullstack",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/_ 0 NodeJS - zostań fullstack.md"
-    },
-    {
-      "basename": "5 Working with Express.js",
-      "path": "_ WEB/N_O_D_E/NODE - the complete guide/5 Working with Express.js.md"
-    },
-    {
-      "basename": "3 Node Basics",
-      "path": "_ WEB/N_O_D_E/NODE - the complete guide/3 Node Basics.md"
     }
   ],
   "omittedPaths": [],
