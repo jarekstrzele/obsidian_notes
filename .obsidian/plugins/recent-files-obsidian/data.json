@@ -1,12 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "3 Kotlin fundamentals",
-      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/Android 12 XML/3 Kotlin fundamentals.md"
+      "basename": "1 Moduły",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/1 Moduły.md"
+    },
+    {
+      "basename": "1 Node Module System",
+      "path": "_ WEB/N_O_D_E/Mosh Node/1 Node Module System.md"
+    },
+    {
+      "basename": "_ 0 Node (Mosh)",
+      "path": "_ WEB/N_O_D_E/Mosh Node/_ 0 Node (Mosh).md"
+    },
+    {
+      "basename": "- 5 Stock Market App with Node and JavaScript",
+      "path": "_ WEB/N_O_D_E/Lear Node.js and Javascript/- 5 Stock Market App with Node and JavaScript.md"
+    },
+    {
+      "basename": "- 4 MySQL with Node.js",
+      "path": "_ WEB/N_O_D_E/Lear Node.js and Javascript/- 4 MySQL with Node.js.md"
+    },
+    {
+      "basename": "- 3 Node",
+      "path": "_ WEB/N_O_D_E/Lear Node.js and Javascript/- 3 Node.md"
+    },
+    {
+      "basename": "- 2 JavaScript",
+      "path": "_ WEB/N_O_D_E/Lear Node.js and Javascript/- 2 JavaScript.md"
+    },
+    {
+      "basename": "_ Node and JavaScript",
+      "path": "_ WEB/N_O_D_E/Lear Node.js and Javascript/_ Node and JavaScript.md"
+    },
+    {
+      "basename": "I 1 Szybkie wprowadzenie do XAML",
+      "path": "_ Desktop/WPF/MVVM i XAML/I 1 Szybkie wprowadzenie do XAML.md"
     },
     {
       "basename": "3 Funkcje - wychodzimy poza `main`",
       "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/3 Funkcje - wychodzimy poza `main`.md"
+    },
+    {
+      "basename": "1.10. Przestrzeń nazw",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.10. Przestrzeń nazw.md"
+    },
+    {
+      "basename": "3 Kotlin fundamentals",
+      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/Android 12 XML/3 Kotlin fundamentals.md"
     },
     {
       "basename": "2 Typy proste i zmienn",
@@ -71,10 +111,6 @@
     {
       "basename": "8. Wartość `null` i  wyjątki",
       "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/8. Wartość `null` i  wyjątki.md"
-    },
-    {
-      "basename": "1 Moduły",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/1 Moduły.md"
     },
     {
       "basename": "10.1 Layouts in Android App",
@@ -163,42 +199,6 @@
     {
       "basename": "1. Skok na głęboką wodę",
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/1. Skok na głęboką wodę.md"
-    },
-    {
-      "basename": "_ Kurs Android od podstaw",
-      "path": "_ Mobile/Android/Kurs Android od podstaw/_ Kurs Android od podstaw.md"
-    },
-    {
-      "basename": "Funkcje lambda",
-      "path": "_ Mobile/Android/Funkcje lambda.md"
-    },
-    {
-      "basename": "DatePicker Dialog",
-      "path": "_ Mobile/Android/DatePicker Dialog.md"
-    },
-    {
-      "basename": "8.4 EditTexts",
-      "path": "_ Mobile/Android/8.4 EditTexts.md"
-    },
-    {
-      "basename": "ObjectOutputStream",
-      "path": "_ Mobile/Android/the complete Android Kotlin/ObjectOutputStream.md"
-    },
-    {
-      "basename": "FileOutputStream",
-      "path": "_ Mobile/Android/the complete Android Kotlin/FileOutputStream.md"
-    },
-    {
-      "basename": "18 Math Game Project",
-      "path": "_ Mobile/Android/the complete Android Kotlin/18 Math Game Project.md"
-    },
-    {
-      "basename": "17 Publishing Your App on Google Play",
-      "path": "_ Mobile/Android/the complete Android Kotlin/17 Publishing Your App on Google Play.md"
-    },
-    {
-      "basename": "16 ToDoApp",
-      "path": "_ Mobile/Android/the complete Android Kotlin/16 ToDoApp.md"
     }
   ],
   "omittedPaths": [],

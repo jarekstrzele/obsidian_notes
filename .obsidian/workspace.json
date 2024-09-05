@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Desktop/WPF/MVVM i XAML/I 1 Szybkie wprowadzenie do XAML.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/1 Moduły.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/Android 12 XML/3 Kotlin fundamentals.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/1 Moduły.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/Android 12 XML/3 Kotlin fundamentals.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/1 Moduły.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Android/the complete Android 14 and Kotlin/Android 12 XML/3 Kotlin fundamentals.md"
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/1 Moduły.md"
               }
             }
           },
@@ -229,11 +229,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "21eb71cd1868302e",
+  "active": "35f22f2fe38c77ea",
   "lastOpenFiles": [
+    "_ WEB/N_O_D_E/Mosh Node/1 Node Module System.md",
+    "_ WEB/N_O_D_E/Mosh Node/_ 0 Node (Mosh).md",
+    "_ WEB/N_O_D_E/Lear Node.js and Javascript/- 5 Stock Market App with Node and JavaScript.md",
+    "_ WEB/N_O_D_E/Lear Node.js and Javascript/- 4 MySQL with Node.js.md",
+    "_ WEB/N_O_D_E/Lear Node.js and Javascript/- 3 Node.md",
+    "_ WEB/N_O_D_E/Lear Node.js and Javascript/- 2 JavaScript.md",
+    "_ WEB/N_O_D_E/Lear Node.js and Javascript/_ Node and JavaScript.md",
+    "_ Desktop/WPF/MVVM i XAML/I 1 Szybkie wprowadzenie do XAML.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/3 Funkcje - wychodzimy poza `main`.md",
-    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/2 Typy proste i zmienn.md",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.10. Przestrzeń nazw.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/Android 12 XML/3 Kotlin fundamentals.md",
+    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/2 Typy proste i zmienn.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/_ 0 Kotlin Rusz Głową.md",
     "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.3 Button.md",
     "Excalidraw/kotlin_referencja.excalidraw.md",
@@ -248,15 +257,6 @@
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/10 Typy sparametryzowane.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/9. Kolekcje.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/8.1. Wyjątki.md",
-    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/8. Wartość `null` i  wyjątki.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/1 Moduły.md",
-    "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.1 Layouts in Android App.md",
-    "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.2 TextView.md",
-    "_ Mobile/Android/the complete Android Kotlin/10 Android Components.md",
-    "_ Mobile/Android/the complete Android Kotlin/_ the complete Android Kotlin.md",
-    "_ Mobile/Android/Kurs Android od podstaw/2 Tworzenie widoków.md",
-    "_ Mobile/Android/Android Kurs Tworzenia APlikacji/_ 0 Android Kurs Tworzenia Aplikacji.md",
-    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.1. Układy i komponenty GUI dziedziczą po `View`.md",
     "TYPESCRIPT/Learn TypeScript 2h - Full Course for beginners",
     "Pasted image 20240823083104.png",
     "Pasted image 20240820213048.png",
