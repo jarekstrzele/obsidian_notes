@@ -1,6 +1,62 @@
 {
   "recentFiles": [
     {
+      "basename": "2 Node Package Manager",
+      "path": "_ WEB/N_O_D_E/Mosh Node/2 Node Package Manager.md"
+    },
+    {
+      "basename": "1 Node Module System",
+      "path": "_ WEB/N_O_D_E/Mosh Node/1 Node Module System.md"
+    },
+    {
+      "basename": "_ 0 Node (Mosh)",
+      "path": "_ WEB/N_O_D_E/Mosh Node/_ 0 Node (Mosh).md"
+    },
+    {
+      "basename": "3 Node Basics",
+      "path": "_ WEB/N_O_D_E/NODE - the complete guide/3 Node Basics.md"
+    },
+    {
+      "basename": "_0 Node Complete Guide",
+      "path": "_ WEB/N_O_D_E/NODE - the complete guide/_0 Node Complete Guide.md"
+    },
+    {
+      "basename": "7 Project",
+      "path": "_ WEB/N_O_D_E/Node JS 101 Crash/7 Project.md"
+    },
+    {
+      "basename": "6.the Node Package Manager",
+      "path": "_ WEB/N_O_D_E/Node JS 101 Crash/6.the Node Package Manager.md"
+    },
+    {
+      "basename": "5. `index.js`",
+      "path": "_ WEB/N_O_D_E/Node JS 101 Crash/5. `index.js`.md"
+    },
+    {
+      "basename": "4.  Modules",
+      "path": "_ WEB/N_O_D_E/Node JS 101 Crash/4.  Modules.md"
+    },
+    {
+      "basename": "3 Observer design pattern",
+      "path": "_ WEB/N_O_D_E/Node JS 101 Crash/3 Observer design pattern.md"
+    },
+    {
+      "basename": "2. what is node.js best at",
+      "path": "_ WEB/N_O_D_E/Node JS 101 Crash/2. what is node.js best at.md"
+    },
+    {
+      "basename": "1. synchronous vs asynchronous",
+      "path": "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md"
+    },
+    {
+      "basename": "7.10 Express and FireBase",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/7.10 Express and FireBase.md"
+    },
+    {
+      "basename": "7.1. Tworzenie rest api",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/7.1. Tworzenie rest api.md"
+    },
+    {
       "basename": "7 Express JS",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md"
     },
@@ -89,14 +145,6 @@
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/1 Moduły.md"
     },
     {
-      "basename": "1 Node Module System",
-      "path": "_ WEB/N_O_D_E/Mosh Node/1 Node Module System.md"
-    },
-    {
-      "basename": "_ 0 Node (Mosh)",
-      "path": "_ WEB/N_O_D_E/Mosh Node/_ 0 Node (Mosh).md"
-    },
-    {
       "basename": "- 5 Stock Market App with Node and JavaScript",
       "path": "_ WEB/N_O_D_E/Lear Node.js and Javascript/- 5 Stock Market App with Node and JavaScript.md"
     },
@@ -151,54 +199,6 @@
     {
       "basename": "Fundamenty Kotlina",
       "path": "_ Mobile/Kotlin/Fundamenty Kotlina.md"
-    },
-    {
-      "basename": "Wyrażenia regularne",
-      "path": "_ Mobile/Kotlin/Wyrażenia regularne.md"
-    },
-    {
-      "basename": "3.1. Fragments",
-      "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3.1. Fragments.md"
-    },
-    {
-      "basename": "3 Podstawy tworzenia aplikacji",
-      "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md"
-    },
-    {
-      "basename": "12 Wbudowane funkcje wyższego rzędu",
-      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/12 Wbudowane funkcje wyższego rzędu.md"
-    },
-    {
-      "basename": "Dodatek B. Testowanie",
-      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/Dodatek B. Testowanie.md"
-    },
-    {
-      "basename": "Dodatek A. Koprocedury",
-      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/Dodatek A. Koprocedury.md"
-    },
-    {
-      "basename": "11. Lambda i funkcje wyższego rzędu",
-      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/11. Lambda i funkcje wyższego rzędu.md"
-    },
-    {
-      "basename": "10 Typy sparametryzowane",
-      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/10 Typy sparametryzowane.md"
-    },
-    {
-      "basename": "9. Kolekcje",
-      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/9. Kolekcje.md"
-    },
-    {
-      "basename": "8.1. Wyjątki",
-      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/8.1. Wyjątki.md"
-    },
-    {
-      "basename": "8. Wartość `null` i  wyjątki",
-      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/8. Wartość `null` i  wyjątki.md"
-    },
-    {
-      "basename": "10.1 Layouts in Android App",
-      "path": "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.1 Layouts in Android App.md"
     }
   ],
   "omittedPaths": [],

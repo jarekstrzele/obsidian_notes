@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
+                "file": "_ WEB/N_O_D_E/Mosh Node/2 Node Package Manager.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
+                "file": "_ WEB/N_O_D_E/Mosh Node/2 Node Package Manager.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
+                "file": "_ WEB/N_O_D_E/Mosh Node/2 Node Package Manager.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md"
+                "file": "_ WEB/N_O_D_E/Mosh Node/2 Node Package Manager.md"
               }
             }
           },
@@ -231,6 +231,20 @@
   },
   "active": "35f22f2fe38c77ea",
   "lastOpenFiles": [
+    "_ WEB/N_O_D_E/Mosh Node/1 Node Module System.md",
+    "_ WEB/N_O_D_E/Mosh Node/_ 0 Node (Mosh).md",
+    "_ WEB/N_O_D_E/NODE - the complete guide/3 Node Basics.md",
+    "_ WEB/N_O_D_E/NODE - the complete guide/_0 Node Complete Guide.md",
+    "_ WEB/N_O_D_E/Node JS 101 Crash/7 Project.md",
+    "_ WEB/N_O_D_E/Node JS 101 Crash/6.the Node Package Manager.md",
+    "_ WEB/N_O_D_E/Node JS 101 Crash/5. `index.js`.md",
+    "_ WEB/N_O_D_E/Node JS 101 Crash/4.  Modules.md",
+    "_ WEB/N_O_D_E/Node JS 101 Crash/3 Observer design pattern.md",
+    "_ WEB/N_O_D_E/Node JS 101 Crash/2. what is node.js best at.md",
+    "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/7.10 Express and FireBase.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/7.1. Tworzenie rest api.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/6 Zewnętrzne moduły.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/5 Jak Działa NodeJS.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/4.4. HTTPS Node.md",
@@ -243,20 +257,6 @@
     "_ WEB/N_O_D_E/NodeJS - fullstack/3.5. usuwanie plików i katalogów.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/3.4. Przenoszenie i zmiana nazw plików.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/3.3. Tworzenie plików i katalogów.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/3.2. Odczytywanie plików.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/3 Node praca z Sys. Plików.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/2.4. Process.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/2.3. Stream.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/2.2. Buffer.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/2. Podstawowe koncepcje.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/1 Moduły.md",
-    "_ WEB/N_O_D_E/Mosh Node/1 Node Module System.md",
-    "_ WEB/N_O_D_E/Mosh Node/_ 0 Node (Mosh).md",
-    "_ WEB/N_O_D_E/Lear Node.js and Javascript/- 5 Stock Market App with Node and JavaScript.md",
-    "_ WEB/N_O_D_E/Lear Node.js and Javascript/- 4 MySQL with Node.js.md",
-    "_ WEB/N_O_D_E/Lear Node.js and Javascript/- 3 Node.md",
     "TYPESCRIPT/Learn TypeScript 2h - Full Course for beginners",
     "Pasted image 20240823083104.png",
     "Pasted image 20240820213048.png",
