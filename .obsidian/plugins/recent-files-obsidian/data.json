@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "5. First Android App - Unit Converter Part 1",
+      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/5. First Android App - Unit Converter Part 1.md"
+    },
+    {
+      "basename": "4. Lists and Objects",
+      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/4. Lists and Objects.md"
+    },
+    {
+      "basename": "6 Age in Minute Calculator",
+      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/Android 12 XML/6 Age in Minute Calculator.md"
+    },
+    {
+      "basename": "4. OOP Kotlin",
+      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/Android 12 XML/4. OOP Kotlin.md"
+    },
+    {
+      "basename": "2 Getting ready with Android Studio",
+      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/Android 12 XML/2 Getting ready with Android Studio.md"
+    },
+    {
+      "basename": "3 Kotlin fundamentals",
+      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/Android 12 XML/3 Kotlin fundamentals.md"
+    },
+    {
+      "basename": "3 Funkcje - wychodzimy poza `main`",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/3 Funkcje - wychodzimy poza `main`.md"
+    },
+    {
       "basename": "1 Moduły",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/1 Moduły.md"
     },
@@ -11,14 +39,6 @@
     {
       "basename": "2 Node Package Manager",
       "path": "_ WEB/N_O_D_E/Mosh Node/2 Node Package Manager.md"
-    },
-    {
-      "basename": "3 Kotlin fundamentals",
-      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/Android 12 XML/3 Kotlin fundamentals.md"
-    },
-    {
-      "basename": "3 Funkcje - wychodzimy poza `main`",
-      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/3 Funkcje - wychodzimy poza `main`.md"
     },
     {
       "basename": "1 Node Module System",
@@ -179,26 +199,6 @@
     {
       "basename": "1.10. Przestrzeń nazw",
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.10. Przestrzeń nazw.md"
-    },
-    {
-      "basename": "2 Typy proste i zmienn",
-      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/2 Typy proste i zmienn.md"
-    },
-    {
-      "basename": "_ 0 Kotlin Rusz Głową",
-      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/_ 0 Kotlin Rusz Głową.md"
-    },
-    {
-      "basename": "10.3 Button",
-      "path": "_ Mobile/Android/the complete Android Kotlin/10 Android Components/10.3 Button.md"
-    },
-    {
-      "basename": "kotlin_referencja.excalidraw",
-      "path": "Excalidraw/kotlin_referencja.excalidraw.md"
-    },
-    {
-      "basename": "Fundamenty Kotlina",
-      "path": "_ Mobile/Kotlin/Fundamenty Kotlina.md"
     }
   ],
   "omittedPaths": [],
