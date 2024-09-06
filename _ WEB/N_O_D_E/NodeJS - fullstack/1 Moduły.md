@@ -87,7 +87,7 @@ zmieńmy nazwę `index.js` na `my_calc.js`
 "main": "my_calc.js"
 }
 ```
-`node main` -> będzie szukał pliku `index` w folderze `calc`,
+	`node main` -> będzie szukał pliku `index` w folderze `calc`,
 	nie znajdzie go, więc
 	zacznie szukać `package.json`, znalazł, więc
 	sprawdzi wartość atrybutu `main` i wykona plik, który jest wartością tego atrybutu, czyli `my_calc.js`
