@@ -1,6 +1,50 @@
 {
   "recentFiles": [
     {
+      "basename": "3 Podstawy tworzenia aplikacji",
+      "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md"
+    },
+    {
+      "basename": "_ Kotlin bez tajemnic",
+      "path": "_ Mobile/Kotlin/Kotlin bez tajemnic/_ Kotlin bez tajemnic.md"
+    },
+    {
+      "basename": "1 Moduły",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/1 Moduły.md"
+    },
+    {
+      "basename": "_ 0 Kotlin Rusz Głową",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/_ 0 Kotlin Rusz Głową.md"
+    },
+    {
+      "basename": "3 Funkcje - wychodzimy poza `main`",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/3 Funkcje - wychodzimy poza `main`.md"
+    },
+    {
+      "basename": "2 Typy proste i zmienn",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/2 Typy proste i zmienn.md"
+    },
+    {
+      "basename": "2. Tworzenie interaktywnych aplikacji",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/2. Tworzenie interaktywnych aplikacji.md"
+    },
+    {
+      "basename": "3 Wiele aktywności i intencji",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/3 Wiele aktywności i intencji.md"
+    },
+    {
+      "basename": "4. Cykl życia aktywnośći",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4. Cykl życia aktywnośći.md"
+    },
+    {
+      "basename": "4.0. Przewodnik po metodach cyklu życia",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4.0. Przewodnik po metodach cyklu życia.md"
+    },
+    {
+      "basename": "4.1. Pierwsza wersja stopera",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4.1. Pierwsza wersja stopera.md"
+    },
+    {
       "basename": "5.2. Najważniejsze komponenty GUI",
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md"
     },
@@ -39,14 +83,6 @@
     {
       "basename": "3 Kotlin fundamentals",
       "path": "_ Mobile/Android/the complete Android 14 and Kotlin/Android 12 XML/3 Kotlin fundamentals.md"
-    },
-    {
-      "basename": "3 Funkcje - wychodzimy poza `main`",
-      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/3 Funkcje - wychodzimy poza `main`.md"
-    },
-    {
-      "basename": "1 Moduły",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/1 Moduły.md"
     },
     {
       "basename": "4.  Modules",
@@ -163,42 +199,6 @@
     {
       "basename": "3.1. Odczytywanie info o plikach",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md"
-    },
-    {
-      "basename": "3 Node praca z Sys. Plików",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3 Node praca z Sys. Plików.md"
-    },
-    {
-      "basename": "2.4. Process",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.4. Process.md"
-    },
-    {
-      "basename": "2.3. Stream",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.3. Stream.md"
-    },
-    {
-      "basename": "2.2. Buffer",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.2. Buffer.md"
-    },
-    {
-      "basename": "2.1. Zdarzenia",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md"
-    },
-    {
-      "basename": "2. Podstawowe koncepcje",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2. Podstawowe koncepcje.md"
-    },
-    {
-      "basename": "- 5 Stock Market App with Node and JavaScript",
-      "path": "_ WEB/N_O_D_E/Lear Node.js and Javascript/- 5 Stock Market App with Node and JavaScript.md"
-    },
-    {
-      "basename": "- 4 MySQL with Node.js",
-      "path": "_ WEB/N_O_D_E/Lear Node.js and Javascript/- 4 MySQL with Node.js.md"
-    },
-    {
-      "basename": "- 3 Node",
-      "path": "_ WEB/N_O_D_E/Lear Node.js and Javascript/- 3 Node.md"
     }
   ],
   "omittedPaths": [],
