@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2. DataTypes and Variables",
+      "path": "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md"
+    },
+    {
+      "basename": "_ CSHarp Complete Masterclass",
+      "path": "C Sharp/Complete CSharp MasterClass/_ CSHarp Complete Masterclass.md"
+    },
+    {
       "basename": "_ C Sharp",
       "path": "C Sharp/Rusz Głową C Sharp/_ C Sharp.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "LINQ",
       "path": "C Sharp/LINQ.md"
-    },
-    {
-      "basename": "2. DataTypes and Variables",
-      "path": "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md"
     },
     {
       "basename": "_ C Sharp od Podstaw do WPF i XAML",
@@ -195,10 +199,6 @@
     {
       "basename": "6 Zewnętrzne moduły",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/6 Zewnętrzne moduły.md"
-    },
-    {
-      "basename": "5 Jak Działa NodeJS",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/5 Jak Działa NodeJS.md"
     }
   ],
   "omittedPaths": [],

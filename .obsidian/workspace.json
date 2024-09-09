@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C Sharp/Rusz Głową C Sharp/_ C Sharp.md",
+                "file": "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md",
                 "mode": "source",
                 "source": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C Sharp/Rusz Głową C Sharp/_ C Sharp.md",
+                "file": "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C Sharp/Rusz Głową C Sharp/_ C Sharp.md",
+                "file": "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C Sharp/Rusz Głową C Sharp/_ C Sharp.md"
+                "file": "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md"
               }
             }
           },
@@ -243,9 +243,11 @@
   },
   "active": "f0fde06833789377",
   "lastOpenFiles": [
+    "C Sharp/Complete CSharp MasterClass/_ CSHarp Complete Masterclass.md",
+    "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md",
+    "C Sharp/Rusz Głową C Sharp/_ C Sharp.md",
     "C Sharp/Rusz Głową C Sharp/1. Zacznij pisać programy w języku C Sharp.md",
     "C Sharp/LINQ.md",
-    "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md",
     "_ Desktop/WPF/TicTacToe.md",
     "_ Desktop/WPF/Alien Form.md",
@@ -267,8 +269,6 @@
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4. Cykl życia aktywnośći.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4.0. Przewodnik po metodach cyklu życia.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4.1. Pierwsza wersja stopera.md",
-    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.1. Układy i komponenty GUI dziedziczą po `View`.md",
-    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5. Widoki i grupy widoków.md",
     "TYPESCRIPT/Learn TypeScript 2h - Full Course for beginners",
     "Pasted image 20240823083104.png",
     "Pasted image 20240820213048.png",
