@@ -1,6 +1,66 @@
 {
   "recentFiles": [
     {
+      "basename": "ES refresh",
+      "path": "JAVASCRIPT/ES refresh.md"
+    },
+    {
+      "basename": "_ Programowanie w JS od Zera do Mastera",
+      "path": "JAVASCRIPT/Programowanie w JS od Zera do Mastera/_ Programowanie w JS od Zera do Mastera.md"
+    },
+    {
+      "basename": "11.4 obiekt Event",
+      "path": "JAVASCRIPT/Podstawy_Włodarczyk/11.4 obiekt Event.md"
+    },
+    {
+      "basename": "11.3 nasłuchiwacz zdarzeń",
+      "path": "JAVASCRIPT/Podstawy_Włodarczyk/11.3 nasłuchiwacz zdarzeń.md"
+    },
+    {
+      "basename": "11.2 onload",
+      "path": "JAVASCRIPT/Podstawy_Włodarczyk/11.2 onload.md"
+    },
+    {
+      "basename": "11 - Event",
+      "path": "JAVASCRIPT/Podstawy_Włodarczyk/11 - Event.md"
+    },
+    {
+      "basename": "_Intro JS Włodarczyk",
+      "path": "JAVASCRIPT/Podstawy_Włodarczyk/_Intro JS Włodarczyk.md"
+    },
+    {
+      "basename": "3.5. Traversing the  DOM",
+      "path": "JAVASCRIPT/Modern JavaScrip From the Beginning/3.5. Traversing the  DOM.md"
+    },
+    {
+      "basename": "3.8. Local & Session Storage",
+      "path": "JAVASCRIPT/Modern JavaScrip From the Beginning/3.8. Local & Session Storage.md"
+    },
+    {
+      "basename": "3.7.  Event Listeners & the Event Object",
+      "path": "JAVASCRIPT/Modern JavaScrip From the Beginning/3.7.  Event Listeners & the Event Object.md"
+    },
+    {
+      "basename": "3.2. DOM Selectors for single Elements",
+      "path": "JAVASCRIPT/Modern JavaScrip From the Beginning/3.2. DOM Selectors for single Elements.md"
+    },
+    {
+      "basename": "3.1. The Document Object",
+      "path": "JAVASCRIPT/Modern JavaScrip From the Beginning/3.1. The Document Object.md"
+    },
+    {
+      "basename": "0-Modern JS from the Beginner",
+      "path": "JAVASCRIPT/Modern JavaScrip From the Beginning/0-Modern JS from the Beginner.md"
+    },
+    {
+      "basename": "- 2 JavaScript",
+      "path": "JAVASCRIPT/Lear Node.js and Javascript/- 2 JavaScript.md"
+    },
+    {
+      "basename": "1.10. Przestrzeń nazw",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.10. Przestrzeń nazw.md"
+    },
+    {
       "basename": "2. DataTypes and Variables",
       "path": "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md"
     },
@@ -139,66 +199,6 @@
     {
       "basename": "4.  Modules",
       "path": "_ WEB/N_O_D_E/Node JS 101 Crash/4.  Modules.md"
-    },
-    {
-      "basename": "2 Node Package Manager",
-      "path": "_ WEB/N_O_D_E/Mosh Node/2 Node Package Manager.md"
-    },
-    {
-      "basename": "1 Node Module System",
-      "path": "_ WEB/N_O_D_E/Mosh Node/1 Node Module System.md"
-    },
-    {
-      "basename": "_ 0 Node (Mosh)",
-      "path": "_ WEB/N_O_D_E/Mosh Node/_ 0 Node (Mosh).md"
-    },
-    {
-      "basename": "3 Node Basics",
-      "path": "_ WEB/N_O_D_E/NODE - the complete guide/3 Node Basics.md"
-    },
-    {
-      "basename": "_0 Node Complete Guide",
-      "path": "_ WEB/N_O_D_E/NODE - the complete guide/_0 Node Complete Guide.md"
-    },
-    {
-      "basename": "7 Project",
-      "path": "_ WEB/N_O_D_E/Node JS 101 Crash/7 Project.md"
-    },
-    {
-      "basename": "6.the Node Package Manager",
-      "path": "_ WEB/N_O_D_E/Node JS 101 Crash/6.the Node Package Manager.md"
-    },
-    {
-      "basename": "5. `index.js`",
-      "path": "_ WEB/N_O_D_E/Node JS 101 Crash/5. `index.js`.md"
-    },
-    {
-      "basename": "3 Observer design pattern",
-      "path": "_ WEB/N_O_D_E/Node JS 101 Crash/3 Observer design pattern.md"
-    },
-    {
-      "basename": "2. what is node.js best at",
-      "path": "_ WEB/N_O_D_E/Node JS 101 Crash/2. what is node.js best at.md"
-    },
-    {
-      "basename": "1. synchronous vs asynchronous",
-      "path": "_ WEB/N_O_D_E/Node JS 101 Crash/1. synchronous vs asynchronous.md"
-    },
-    {
-      "basename": "7.10 Express and FireBase",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/7.10 Express and FireBase.md"
-    },
-    {
-      "basename": "7.1. Tworzenie rest api",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/7.1. Tworzenie rest api.md"
-    },
-    {
-      "basename": "7 Express JS",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md"
-    },
-    {
-      "basename": "6 Zewnętrzne moduły",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/6 Zewnętrzne moduły.md"
     }
   ],
   "omittedPaths": [],

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.10. Przestrzeń nazw.md",
+                "file": "JAVASCRIPT/ES refresh.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -150,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md",
+                "file": "JAVASCRIPT/ES refresh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md",
+                "file": "JAVASCRIPT/ES refresh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md"
+                "file": "JAVASCRIPT/ES refresh.md"
               }
             }
           },
@@ -241,10 +240,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f0fde06833789377",
+  "active": "51d01fee68904071",
   "lastOpenFiles": [
-    "C Sharp/Complete CSharp MasterClass/_ CSHarp Complete Masterclass.md",
+    "JAVASCRIPT/Programowanie w JS od Zera do Mastera/_ Programowanie w JS od Zera do Mastera.md",
+    "JAVASCRIPT/Podstawy_Włodarczyk/11.4 obiekt Event.md",
+    "JAVASCRIPT/Podstawy_Włodarczyk/11.3 nasłuchiwacz zdarzeń.md",
+    "JAVASCRIPT/Podstawy_Włodarczyk/11.2 onload.md",
+    "JAVASCRIPT/Podstawy_Włodarczyk/11 - Event.md",
+    "JAVASCRIPT/Podstawy_Włodarczyk/_Intro JS Włodarczyk.md",
+    "JAVASCRIPT/Modern JavaScrip From the Beginning/3.5. Traversing the  DOM.md",
+    "JAVASCRIPT/Modern JavaScrip From the Beginning/3.8. Local & Session Storage.md",
+    "JAVASCRIPT/Modern JavaScrip From the Beginning/3.7.  Event Listeners & the Event Object.md",
+    "JAVASCRIPT/Modern JavaScrip From the Beginning/3.2. DOM Selectors for single Elements.md",
+    "JAVASCRIPT/Modern JavaScrip From the Beginning/3.1. The Document Object.md",
+    "JAVASCRIPT/Modern JavaScrip From the Beginning/0-Modern JS from the Beginner.md",
+    "JAVASCRIPT/Lear Node.js and Javascript/- 2 JavaScript.md",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.10. Przestrzeń nazw.md",
     "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md",
+    "C Sharp/Complete CSharp MasterClass/_ CSHarp Complete Masterclass.md",
     "C Sharp/Rusz Głową C Sharp/_ C Sharp.md",
     "C Sharp/Rusz Głową C Sharp/1. Zacznij pisać programy w języku C Sharp.md",
     "C Sharp/LINQ.md",
@@ -255,20 +268,6 @@
     "_ Desktop/WPF/od Podstaw do app w WPF/9.1. RadioButton, GroupBox, Label.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/2. Rock, Paper, Scissors.md",
-    "_ Mobile/Android/the complete Android 14 and Kotlin/Android 12 XML/3 Kotlin fundamentals.md",
-    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/15. Bazy danych SQLite.md",
-    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/1. Skok na głęboką wodę.md",
-    "_ Mobile/Kotlin/Kotlin bez tajemnic/3 Podstawy tworzenia aplikacji.md",
-    "_ Mobile/Kotlin/Kotlin bez tajemnic/_ Kotlin bez tajemnic.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/1 Moduły.md",
-    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/_ 0 Kotlin Rusz Głową.md",
-    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/3 Funkcje - wychodzimy poza `main`.md",
-    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/2 Typy proste i zmienn.md",
-    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/2. Tworzenie interaktywnych aplikacji.md",
-    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/3 Wiele aktywności i intencji.md",
-    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4. Cykl życia aktywnośći.md",
-    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4.0. Przewodnik po metodach cyklu życia.md",
-    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/4.1. Pierwsza wersja stopera.md",
     "TYPESCRIPT/Learn TypeScript 2h - Full Course for beginners",
     "Pasted image 20240823083104.png",
     "Pasted image 20240820213048.png",
