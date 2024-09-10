@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVASCRIPT/ES refresh.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/7.10 Express and FireBase.md",
                 "mode": "source",
                 "source": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVASCRIPT/ES refresh.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/7.10 Express and FireBase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVASCRIPT/ES refresh.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/7.10 Express and FireBase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVASCRIPT/ES refresh.md"
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/7.10 Express and FireBase.md"
               }
             }
           },
@@ -242,6 +242,10 @@
   },
   "active": "51d01fee68904071",
   "lastOpenFiles": [
+    "_ WEB/N_O_D_E/NodeJS - fullstack/7.1. Tworzenie rest api.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/5 Jak Działa NodeJS.md",
+    "JAVASCRIPT/ES refresh.md",
     "JAVASCRIPT/Programowanie w JS od Zera do Mastera/_ Programowanie w JS od Zera do Mastera.md",
     "JAVASCRIPT/Podstawy_Włodarczyk/11.4 obiekt Event.md",
     "JAVASCRIPT/Podstawy_Włodarczyk/11.3 nasłuchiwacz zdarzeń.md",
@@ -264,10 +268,6 @@
     "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md",
     "_ Desktop/WPF/TicTacToe.md",
     "_ Desktop/WPF/Alien Form.md",
-    "_ Desktop/WPF/Rusz Głową C Sharp/_ Rusz Głową C Sharp.md",
-    "_ Desktop/WPF/od Podstaw do app w WPF/9.1. RadioButton, GroupBox, Label.md",
-    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md",
-    "_ Mobile/Android/the complete Android 14 and Kotlin/2. Rock, Paper, Scissors.md",
     "TYPESCRIPT/Learn TypeScript 2h - Full Course for beginners",
     "Pasted image 20240823083104.png",
     "Pasted image 20240820213048.png",
