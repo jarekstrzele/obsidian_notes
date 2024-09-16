@@ -61,13 +61,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md",
+                "file": "C Sharp/Complete CSharp MasterClass/5. Loops.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -149,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/3 Funkcje - wychodzimy poza `main`.md",
+                "file": "C Sharp/Complete CSharp MasterClass/5. Loops.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/3 Funkcje - wychodzimy poza `main`.md",
+                "file": "C Sharp/Complete CSharp MasterClass/5. Loops.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/3 Funkcje - wychodzimy poza `main`.md"
+                "file": "C Sharp/Complete CSharp MasterClass/5. Loops.md"
               }
             }
           },
@@ -240,8 +241,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "51d01fee68904071",
+  "active": "f0fde06833789377",
   "lastOpenFiles": [
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md",
+    "C Sharp/Rusz Głową C Sharp/1. Zacznij pisać programy w języku C Sharp.md",
+    "C Sharp/Rusz Głową C Sharp/_ C Sharp.md",
+    "C Sharp/Complete CSharp MasterClass/5. Loops.md",
+    "C Sharp/Complete CSharp MasterClass/4. Making Decisions.md",
+    "C Sharp/Complete CSharp MasterClass/3 Functions-Methods and how to save time.md",
+    "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md",
+    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md",
+    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/3 Funkcje - wychodzimy poza `main`.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/2 Typy proste i zmienn.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/7.10 Express and FireBase.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/7.1. Tworzenie rest api.md",
@@ -258,16 +269,6 @@
     "JAVASCRIPT/Modern JavaScrip From the Beginning/3.8. Local & Session Storage.md",
     "JAVASCRIPT/Modern JavaScrip From the Beginning/3.7.  Event Listeners & the Event Object.md",
     "JAVASCRIPT/Modern JavaScrip From the Beginning/3.2. DOM Selectors for single Elements.md",
-    "JAVASCRIPT/Modern JavaScrip From the Beginning/3.1. The Document Object.md",
-    "JAVASCRIPT/Modern JavaScrip From the Beginning/0-Modern JS from the Beginner.md",
-    "JAVASCRIPT/Lear Node.js and Javascript/- 2 JavaScript.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/1.10. Przestrzeń nazw.md",
-    "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md",
-    "C Sharp/Complete CSharp MasterClass/_ CSHarp Complete Masterclass.md",
-    "C Sharp/Rusz Głową C Sharp/_ C Sharp.md",
-    "C Sharp/Rusz Głową C Sharp/1. Zacznij pisać programy w języku C Sharp.md",
-    "C Sharp/LINQ.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md",
     "TYPESCRIPT/Learn TypeScript 2h - Full Course for beginners",
     "Pasted image 20240823083104.png",
     "Pasted image 20240820213048.png",

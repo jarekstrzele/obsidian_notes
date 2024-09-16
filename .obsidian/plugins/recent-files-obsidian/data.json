@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "5. Loops",
+      "path": "C Sharp/Complete CSharp MasterClass/5. Loops.md"
+    },
+    {
+      "basename": "1 OOP w CSharp",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md"
+    },
+    {
+      "basename": "_ C Sharp od Podstaw do WPF i XAML",
+      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md"
+    },
+    {
+      "basename": "1. Zacznij pisać programy w języku C Sharp",
+      "path": "C Sharp/Rusz Głową C Sharp/1. Zacznij pisać programy w języku C Sharp.md"
+    },
+    {
+      "basename": "_ C Sharp",
+      "path": "C Sharp/Rusz Głową C Sharp/_ C Sharp.md"
+    },
+    {
+      "basename": "4. Making Decisions",
+      "path": "C Sharp/Complete CSharp MasterClass/4. Making Decisions.md"
+    },
+    {
+      "basename": "3 Functions-Methods and how to save time",
+      "path": "C Sharp/Complete CSharp MasterClass/3 Functions-Methods and how to save time.md"
+    },
+    {
+      "basename": "2. DataTypes and Variables",
+      "path": "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md"
+    },
+    {
+      "basename": "5.2. Najważniejsze komponenty GUI",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md"
+    },
+    {
       "basename": "3 Funkcje - wychodzimy poza `main`",
       "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/3 Funkcje - wychodzimy poza `main`.md"
     },
@@ -85,28 +121,12 @@
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.10. Przestrzeń nazw.md"
     },
     {
-      "basename": "2. DataTypes and Variables",
-      "path": "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md"
-    },
-    {
       "basename": "_ CSHarp Complete Masterclass",
       "path": "C Sharp/Complete CSharp MasterClass/_ CSHarp Complete Masterclass.md"
     },
     {
-      "basename": "_ C Sharp",
-      "path": "C Sharp/Rusz Głową C Sharp/_ C Sharp.md"
-    },
-    {
-      "basename": "1. Zacznij pisać programy w języku C Sharp",
-      "path": "C Sharp/Rusz Głową C Sharp/1. Zacznij pisać programy w języku C Sharp.md"
-    },
-    {
       "basename": "LINQ",
       "path": "C Sharp/LINQ.md"
-    },
-    {
-      "basename": "_ C Sharp od Podstaw do WPF i XAML",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md"
     },
     {
       "basename": "TicTacToe",
@@ -123,10 +143,6 @@
     {
       "basename": "9.1. RadioButton, GroupBox, Label",
       "path": "_ Desktop/WPF/od Podstaw do app w WPF/9.1. RadioButton, GroupBox, Label.md"
-    },
-    {
-      "basename": "5.2. Najważniejsze komponenty GUI",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md"
     },
     {
       "basename": "2. Rock, Paper, Scissors",
@@ -183,22 +199,6 @@
     {
       "basename": "5.1. Układy i komponenty GUI dziedziczą po `View`",
       "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.1. Układy i komponenty GUI dziedziczą po `View`.md"
-    },
-    {
-      "basename": "5. Widoki i grupy widoków",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5. Widoki i grupy widoków.md"
-    },
-    {
-      "basename": "2 Tworzenie widoków",
-      "path": "_ Mobile/Android/Kurs Android od podstaw/2 Tworzenie widoków.md"
-    },
-    {
-      "basename": "5. First Android App - Unit Converter Part 1",
-      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/5. First Android App - Unit Converter Part 1.md"
-    },
-    {
-      "basename": "4. Lists and Objects",
-      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/4. Lists and Objects.md"
     }
   ],
   "omittedPaths": [],
