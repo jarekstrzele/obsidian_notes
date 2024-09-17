@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/5 Jak Działa NodeJS.md",
                 "mode": "source",
                 "source": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/5 Jak Działa NodeJS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/5 Jak Działa NodeJS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md"
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/5 Jak Działa NodeJS.md"
               }
             }
           },
@@ -243,9 +243,18 @@
   },
   "active": "f0fde06833789377",
   "lastOpenFiles": [
+    "_ WEB/N_O_D_E/NodeJS - fullstack/4.4. HTTPS Node.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/4.3. pliki statyczne.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/4.1.1. tworzenie własnego klienta.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/4.1. Prosty serwer i klient TCP.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/4. Tworzenie serwerów.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/3 Node praca z Sys. Plików.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/2.4. Process.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/2.3. Stream.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/2.2. Buffer.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/2. Podstawowe koncepcje.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/1 Moduły.md",
     "_ WEB/N_O_D_E/Lear Node.js and Javascript/- 4 MySQL with Node.js.md",
@@ -260,15 +269,6 @@
     "C Sharp/Complete CSharp MasterClass/3 Functions-Methods and how to save time.md",
     "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/3 Funkcje - wychodzimy poza `main`.md",
-    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/2 Typy proste i zmienn.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/7.10 Express and FireBase.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/7.1. Tworzenie rest api.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/5 Jak Działa NodeJS.md",
-    "JAVASCRIPT/ES refresh.md",
-    "JAVASCRIPT/Programowanie w JS od Zera do Mastera/_ Programowanie w JS od Zera do Mastera.md",
-    "JAVASCRIPT/Podstawy_Włodarczyk/11.4 obiekt Event.md",
-    "JAVASCRIPT/Podstawy_Włodarczyk/11.3 nasłuchiwacz zdarzeń.md",
     "TYPESCRIPT/Learn TypeScript 2h - Full Course for beginners",
     "Pasted image 20240823083104.png",
     "Pasted image 20240820213048.png",
