@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md",
                 "mode": "source",
                 "source": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md"
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md"
               }
             }
           },
@@ -243,9 +243,16 @@
   },
   "active": "f0fde06833789377",
   "lastOpenFiles": [
+    "_ WEB/N_O_D_E/NodeJS - fullstack/3 Node praca z Sys. Plików.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/2. Podstawowe koncepcje.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/1 Moduły.md",
+    "_ WEB/N_O_D_E/Lear Node.js and Javascript/- 4 MySQL with Node.js.md",
+    "_ WEB/N_O_D_E/Lear Node.js and Javascript/- 2 JavaScript.md",
+    "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
     "C Sharp/Complete CSharp MasterClass/5. Loops.md",
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md",
-    "C Sharp/C Sharp od Podstaw do WPF i XAML/1 OOP w CSharp.md",
     "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md",
     "C Sharp/Rusz Głową C Sharp/1. Zacznij pisać programy w języku C Sharp.md",
     "C Sharp/Rusz Głową C Sharp/_ C Sharp.md",
@@ -262,13 +269,6 @@
     "JAVASCRIPT/Programowanie w JS od Zera do Mastera/_ Programowanie w JS od Zera do Mastera.md",
     "JAVASCRIPT/Podstawy_Włodarczyk/11.4 obiekt Event.md",
     "JAVASCRIPT/Podstawy_Włodarczyk/11.3 nasłuchiwacz zdarzeń.md",
-    "JAVASCRIPT/Podstawy_Włodarczyk/11.2 onload.md",
-    "JAVASCRIPT/Podstawy_Włodarczyk/11 - Event.md",
-    "JAVASCRIPT/Podstawy_Włodarczyk/_Intro JS Włodarczyk.md",
-    "JAVASCRIPT/Modern JavaScrip From the Beginning/3.5. Traversing the  DOM.md",
-    "JAVASCRIPT/Modern JavaScrip From the Beginning/3.8. Local & Session Storage.md",
-    "JAVASCRIPT/Modern JavaScrip From the Beginning/3.7.  Event Listeners & the Event Object.md",
-    "JAVASCRIPT/Modern JavaScrip From the Beginning/3.2. DOM Selectors for single Elements.md",
     "TYPESCRIPT/Learn TypeScript 2h - Full Course for beginners",
     "Pasted image 20240823083104.png",
     "Pasted image 20240820213048.png",
