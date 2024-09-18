@@ -5,6 +5,14 @@
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md"
     },
     {
+      "basename": "2.3. Stream",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.3. Stream.md"
+    },
+    {
+      "basename": "2.2. Buffer",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.2. Buffer.md"
+    },
+    {
       "basename": "7 Express JS",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md"
     },
@@ -51,14 +59,6 @@
     {
       "basename": "2.4. Process",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.4. Process.md"
-    },
-    {
-      "basename": "2.3. Stream",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.3. Stream.md"
-    },
-    {
-      "basename": "2.2. Buffer",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.2. Buffer.md"
     },
     {
       "basename": "2. Podstawowe koncepcje",
