@@ -1,28 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "2.1. Zdarzenia",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md"
-    },
-    {
       "basename": "2.3. Stream",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.3. Stream.md"
-    },
-    {
-      "basename": "2.2. Buffer",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.2. Buffer.md"
-    },
-    {
-      "basename": "7 Express JS",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md"
-    },
-    {
-      "basename": "6 Zewnętrzne moduły",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/6 Zewnętrzne moduły.md"
-    },
-    {
-      "basename": "5 Jak Działa NodeJS",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/5 Jak Działa NodeJS.md"
     },
     {
       "basename": "4.4. HTTPS Node",
@@ -49,6 +29,22 @@
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/4. Tworzenie serwerów.md"
     },
     {
+      "basename": "3.6. Obserwowanie zmian w plikach",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3.6. Obserwowanie zmian w plikach.md"
+    },
+    {
+      "basename": "3.4. Przenoszenie i zmiana nazw plików",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3.4. Przenoszenie i zmiana nazw plików.md"
+    },
+    {
+      "basename": "3.3. Tworzenie plików i katalogów",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3.3. Tworzenie plików i katalogów.md"
+    },
+    {
+      "basename": "3.2. Odczytywanie plików",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3.2. Odczytywanie plików.md"
+    },
+    {
       "basename": "3.1. Odczytywanie info o plikach",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md"
     },
@@ -59,6 +55,26 @@
     {
       "basename": "2.4. Process",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.4. Process.md"
+    },
+    {
+      "basename": "2.1. Zdarzenia",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md"
+    },
+    {
+      "basename": "2.2. Buffer",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.2. Buffer.md"
+    },
+    {
+      "basename": "7 Express JS",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md"
+    },
+    {
+      "basename": "6 Zewnętrzne moduły",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/6 Zewnętrzne moduły.md"
+    },
+    {
+      "basename": "5 Jak Działa NodeJS",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/5 Jak Działa NodeJS.md"
     },
     {
       "basename": "2. Podstawowe koncepcje",
@@ -183,22 +199,6 @@
     {
       "basename": "- 2 JavaScript",
       "path": "JAVASCRIPT/Lear Node.js and Javascript/- 2 JavaScript.md"
-    },
-    {
-      "basename": "1.10. Przestrzeń nazw",
-      "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/1.10. Przestrzeń nazw.md"
-    },
-    {
-      "basename": "_ CSHarp Complete Masterclass",
-      "path": "C Sharp/Complete CSharp MasterClass/_ CSHarp Complete Masterclass.md"
-    },
-    {
-      "basename": "LINQ",
-      "path": "C Sharp/LINQ.md"
-    },
-    {
-      "basename": "TicTacToe",
-      "path": "_ Desktop/WPF/TicTacToe.md"
     }
   ],
   "omittedPaths": [],
