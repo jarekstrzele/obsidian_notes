@@ -5,24 +5,16 @@
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md"
     },
     {
-      "basename": "2. Podstawowe koncepcje",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2. Podstawowe koncepcje.md"
-    },
-    {
-      "basename": "7.1. Tworzenie rest api",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/7.1. Tworzenie rest api.md"
-    },
-    {
-      "basename": "5 Jak Działa NodeJS",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/5 Jak Działa NodeJS.md"
+      "basename": "7 Express JS",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md"
     },
     {
       "basename": "6 Zewnętrzne moduły",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/6 Zewnętrzne moduły.md"
     },
     {
-      "basename": "7 Express JS",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/7 Express JS.md"
+      "basename": "5 Jak Działa NodeJS",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/5 Jak Działa NodeJS.md"
     },
     {
       "basename": "4.4. HTTPS Node",
@@ -49,6 +41,10 @@
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/4. Tworzenie serwerów.md"
     },
     {
+      "basename": "3.1. Odczytywanie info o plikach",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md"
+    },
+    {
       "basename": "3 Node praca z Sys. Plików",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3 Node praca z Sys. Plików.md"
     },
@@ -65,8 +61,12 @@
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.2. Buffer.md"
     },
     {
-      "basename": "3.1. Odczytywanie info o plikach",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md"
+      "basename": "2. Podstawowe koncepcje",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2. Podstawowe koncepcje.md"
+    },
+    {
+      "basename": "7.1. Tworzenie rest api",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/7.1. Tworzenie rest api.md"
     },
     {
       "basename": "1 Moduły",
