@@ -1,6 +1,50 @@
 {
   "recentFiles": [
     {
+      "basename": "UBUNTU",
+      "path": "linux/UBUNTU.md"
+    },
+    {
+      "basename": "5 - Regex with Grep and Sed",
+      "path": "linux/Lear Linux Shell Programming/5 - Regex with Grep and Sed.md"
+    },
+    {
+      "basename": "6 Intro to Sed",
+      "path": "linux/Lear Linux Shell Programming/6 Intro to Sed.md"
+    },
+    {
+      "basename": "_ 0 Start Master Bash Shell",
+      "path": "linux/Master Bash Shell/_ 0 Start Master Bash Shell.md"
+    },
+    {
+      "basename": "1 - Bash Scripts",
+      "path": "linux/Master Bash Shell/1 - Bash Scripts.md"
+    },
+    {
+      "basename": "pop!sys",
+      "path": "linux/pop!sys.md"
+    },
+    {
+      "basename": "Shell 18 commands that will change the way you use linux forever",
+      "path": "linux/Shell 18 commands that will change the way you use linux forever.md"
+    },
+    {
+      "basename": "3 - Shell Environment",
+      "path": "linux/Lear Linux Shell Programming/3 - Shell Environment.md"
+    },
+    {
+      "basename": "2 - Directories",
+      "path": "linux/Lear Linux Shell Programming/2 - Directories.md"
+    },
+    {
+      "basename": "_ Intro Linux Shell",
+      "path": "linux/Lear Linux Shell Programming/_ Intro Linux Shell.md"
+    },
+    {
+      "basename": "3 Funkcje - wychodzimy poza `main`",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/3 Funkcje - wychodzimy poza `main`.md"
+    },
+    {
       "basename": "2.3. Stream",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.3. Stream.md"
     },
@@ -133,10 +177,6 @@
       "path": "C Sharp/Complete CSharp MasterClass/2. DataTypes and Variables.md"
     },
     {
-      "basename": "3 Funkcje - wychodzimy poza `main`",
-      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/3 Funkcje - wychodzimy poza `main`.md"
-    },
-    {
       "basename": "2 Typy proste i zmienn",
       "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/2 Typy proste i zmienn.md"
     },
@@ -159,46 +199,6 @@
     {
       "basename": "11.3 nasłuchiwacz zdarzeń",
       "path": "JAVASCRIPT/Podstawy_Włodarczyk/11.3 nasłuchiwacz zdarzeń.md"
-    },
-    {
-      "basename": "11.2 onload",
-      "path": "JAVASCRIPT/Podstawy_Włodarczyk/11.2 onload.md"
-    },
-    {
-      "basename": "11 - Event",
-      "path": "JAVASCRIPT/Podstawy_Włodarczyk/11 - Event.md"
-    },
-    {
-      "basename": "_Intro JS Włodarczyk",
-      "path": "JAVASCRIPT/Podstawy_Włodarczyk/_Intro JS Włodarczyk.md"
-    },
-    {
-      "basename": "3.5. Traversing the  DOM",
-      "path": "JAVASCRIPT/Modern JavaScrip From the Beginning/3.5. Traversing the  DOM.md"
-    },
-    {
-      "basename": "3.8. Local & Session Storage",
-      "path": "JAVASCRIPT/Modern JavaScrip From the Beginning/3.8. Local & Session Storage.md"
-    },
-    {
-      "basename": "3.7.  Event Listeners & the Event Object",
-      "path": "JAVASCRIPT/Modern JavaScrip From the Beginning/3.7.  Event Listeners & the Event Object.md"
-    },
-    {
-      "basename": "3.2. DOM Selectors for single Elements",
-      "path": "JAVASCRIPT/Modern JavaScrip From the Beginning/3.2. DOM Selectors for single Elements.md"
-    },
-    {
-      "basename": "3.1. The Document Object",
-      "path": "JAVASCRIPT/Modern JavaScrip From the Beginning/3.1. The Document Object.md"
-    },
-    {
-      "basename": "0-Modern JS from the Beginner",
-      "path": "JAVASCRIPT/Modern JavaScrip From the Beginning/0-Modern JS from the Beginner.md"
-    },
-    {
-      "basename": "- 2 JavaScript",
-      "path": "JAVASCRIPT/Lear Node.js and Javascript/- 2 JavaScript.md"
     }
   ],
   "omittedPaths": [],
