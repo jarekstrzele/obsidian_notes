@@ -8,7 +8,7 @@ https://support.system76.com/articles/pop-shell/
 aby sprawdzić, jaki program nasłuchuje na danym porcie 
 `sudo lsof -i :8000`
 `sudo lsof -i numer portu`
-
+   
 
 
 #ubuntu #linux #opera
