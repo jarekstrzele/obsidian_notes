@@ -1,6 +1,54 @@
 {
   "recentFiles": [
     {
+      "basename": "2.3. Stream",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.3. Stream.md"
+    },
+    {
+      "basename": "2.4. Process",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.4. Process.md"
+    },
+    {
+      "basename": "5 Jak Działa NodeJS",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/5 Jak Działa NodeJS.md"
+    },
+    {
+      "basename": "4.4. HTTPS Node",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/4.4. HTTPS Node.md"
+    },
+    {
+      "basename": "4.3. pliki statyczne",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/4.3. pliki statyczne.md"
+    },
+    {
+      "basename": "4.2. Serwer HTTP",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md"
+    },
+    {
+      "basename": "3.2. Odczytywanie plików",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3.2. Odczytywanie plików.md"
+    },
+    {
+      "basename": "3.1. Odczytywanie info o plikach",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md"
+    },
+    {
+      "basename": "3 Node praca z Sys. Plików",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3 Node praca z Sys. Plików.md"
+    },
+    {
+      "basename": "5.2. Najważniejsze komponenty GUI",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md"
+    },
+    {
+      "basename": "_ 0 Kotlin Rusz Głową",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/_ 0 Kotlin Rusz Głową.md"
+    },
+    {
+      "basename": "2. Rock, Paper, Scissors",
+      "path": "_ Mobile/Android/the complete Android 14 and Kotlin/2. Rock, Paper, Scissors.md"
+    },
+    {
       "basename": "UBUNTU",
       "path": "linux/UBUNTU.md"
     },
@@ -45,22 +93,6 @@
       "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/3 Funkcje - wychodzimy poza `main`.md"
     },
     {
-      "basename": "2.3. Stream",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.3. Stream.md"
-    },
-    {
-      "basename": "4.4. HTTPS Node",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/4.4. HTTPS Node.md"
-    },
-    {
-      "basename": "4.3. pliki statyczne",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/4.3. pliki statyczne.md"
-    },
-    {
-      "basename": "4.2. Serwer HTTP",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md"
-    },
-    {
       "basename": "4.1.1. tworzenie własnego klienta",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/4.1.1. tworzenie własnego klienta.md"
     },
@@ -85,22 +117,6 @@
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3.3. Tworzenie plików i katalogów.md"
     },
     {
-      "basename": "3.2. Odczytywanie plików",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3.2. Odczytywanie plików.md"
-    },
-    {
-      "basename": "3.1. Odczytywanie info o plikach",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md"
-    },
-    {
-      "basename": "3 Node praca z Sys. Plików",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3 Node praca z Sys. Plików.md"
-    },
-    {
-      "basename": "2.4. Process",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.4. Process.md"
-    },
-    {
       "basename": "2.1. Zdarzenia",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md"
     },
@@ -115,10 +131,6 @@
     {
       "basename": "6 Zewnętrzne moduły",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/6 Zewnętrzne moduły.md"
-    },
-    {
-      "basename": "5 Jak Działa NodeJS",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/5 Jak Działa NodeJS.md"
     },
     {
       "basename": "2. Podstawowe koncepcje",
@@ -147,10 +159,6 @@
     {
       "basename": "5. Loops",
       "path": "C Sharp/Complete CSharp MasterClass/5. Loops.md"
-    },
-    {
-      "basename": "5.2. Najważniejsze komponenty GUI",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md"
     },
     {
       "basename": "_ C Sharp od Podstaw do WPF i XAML",
@@ -191,14 +199,6 @@
     {
       "basename": "_ Programowanie w JS od Zera do Mastera",
       "path": "JAVASCRIPT/Programowanie w JS od Zera do Mastera/_ Programowanie w JS od Zera do Mastera.md"
-    },
-    {
-      "basename": "11.4 obiekt Event",
-      "path": "JAVASCRIPT/Podstawy_Włodarczyk/11.4 obiekt Event.md"
-    },
-    {
-      "basename": "11.3 nasłuchiwacz zdarzeń",
-      "path": "JAVASCRIPT/Podstawy_Włodarczyk/11.3 nasłuchiwacz zdarzeń.md"
     }
   ],
   "omittedPaths": [],
