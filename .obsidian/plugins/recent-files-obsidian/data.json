@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "2.3. Stream",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.3. Stream.md"
+      "basename": "3.1. Odczytywanie info o plikach",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md"
     },
     {
       "basename": "3 Node praca z Sys. Plików",
@@ -11,6 +11,10 @@
     {
       "basename": "2.4. Process",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.4. Process.md"
+    },
+    {
+      "basename": "2.3. Stream",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.3. Stream.md"
     },
     {
       "basename": "7 Express JS",
@@ -43,10 +47,6 @@
     {
       "basename": "3.2. Odczytywanie plików",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3.2. Odczytywanie plików.md"
-    },
-    {
-      "basename": "3.1. Odczytywanie info o plikach",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md"
     },
     {
       "basename": "5.2. Najważniejsze komponenty GUI",
