@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/3 Funkcje - wychodzimy poza `main`.md",
+                "file": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/4 Klasy i obiekty.md",
                 "mode": "source",
                 "source": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/3 Funkcje - wychodzimy poza `main`.md",
+                "file": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/4 Klasy i obiekty.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/3 Funkcje - wychodzimy poza `main`.md",
+                "file": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/4 Klasy i obiekty.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/3 Funkcje - wychodzimy poza `main`.md"
+                "file": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/4 Klasy i obiekty.md"
               }
             }
           },
@@ -243,6 +243,25 @@
   },
   "active": "6b01ee3c716a9358",
   "lastOpenFiles": [
+    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/3 Funkcje - wychodzimy poza `main`.md",
+    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/4 Klasy i obiekty.md",
+    "_ Mobile/Android/Funkcje lambda.md",
+    "_ Mobile/Android/the complete Android 14 and Kotlin/5.1. Converter App.md",
+    "_ Mobile/Android/the complete Android 14 and Kotlin/5. First Android App - Unit Converter Part 1.md",
+    "_ Mobile/Android/the complete Android 14 and Kotlin/4. Lists and Objects.md",
+    "_ Mobile/Android/the complete Android 14 and Kotlin/2. Rock, Paper, Scissors.md",
+    "_ Mobile/Android/the complete Android 14 and Kotlin/3. Functions, Objects and Coffee Machine.md",
+    "_ Mobile/Kotlin/Kotlin bez tajemnic/_ Kotlin bez tajemnic.md",
+    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/9. Kolekcje.md",
+    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/8.1. Wyjątki.md",
+    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/8. Wartość `null` i  wyjątki.md",
+    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/7.1. Klasa danych `data class`.md",
+    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/7.0. Wprowadzenie do  klas danych.md",
+    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/7 Klasy danych.md",
+    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/6.2. Interfejsy.md",
+    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/6.1 Klasy abstrakcyjne.md",
+    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/6 Klasy abstrakcyjne i interfejsy.md",
+    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/5 Klasy pochodne i bazowe.md",
     "_ Mobile/Kotlin/wyrażenia regularne zadania.md",
     "_ Mobile/Kotlin/Wyrażenia regularne.md",
     "_ Mobile/Kotlin/Fundamenty Kotlina.md",
@@ -250,25 +269,6 @@
     "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/2.3. Stream.md",
     "conflict-files-obsidian-git.md",
-    "linux/UBUNTU.md",
-    "linux/Lear Linux Shell Programming/5 - Regex with Grep and Sed.md",
-    "linux/Lear Linux Shell Programming/6 Intro to Sed.md",
-    "linux/Master Bash Shell/_ 0 Start Master Bash Shell.md",
-    "linux/Master Bash Shell/1 - Bash Scripts.md",
-    "linux/pop!sys.md",
-    "linux/Shell 18 commands that will change the way you use linux forever.md",
-    "linux/Lear Linux Shell Programming/3 - Shell Environment.md",
-    "linux/Lear Linux Shell Programming/2 - Directories.md",
-    "linux/Lear Linux Shell Programming/_ Intro Linux Shell.md",
-    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/3 Funkcje - wychodzimy poza `main`.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/4.4. HTTPS Node.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/4.3. pliki statyczne.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/4.1.1. tworzenie własnego klienta.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/4.1. Prosty serwer i klient TCP.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/4. Tworzenie serwerów.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/3.6. Obserwowanie zmian w plikach.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/3.4. Przenoszenie i zmiana nazw plików.md",
     "TYPESCRIPT/Learn TypeScript 2h - Full Course for beginners",
     "Pasted image 20240823083104.png",
     "Pasted image 20240820213048.png",
