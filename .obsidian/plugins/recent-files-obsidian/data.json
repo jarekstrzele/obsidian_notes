@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "conflict-files-obsidian-git",
-      "path": "conflict-files-obsidian-git.md"
+      "basename": "3 Funkcje - wychodzimy poza `main`",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/3 Funkcje - wychodzimy poza `main`.md"
+    },
+    {
+      "basename": "wyrażenia regularne zadania",
+      "path": "_ Mobile/Kotlin/wyrażenia regularne zadania.md"
+    },
+    {
+      "basename": "Wyrażenia regularne",
+      "path": "_ Mobile/Kotlin/Wyrażenia regularne.md"
+    },
+    {
+      "basename": "Fundamenty Kotlina",
+      "path": "_ Mobile/Kotlin/Fundamenty Kotlina.md"
+    },
+    {
+      "basename": "_ 0 Kotlin Rusz Głową",
+      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/_ 0 Kotlin Rusz Głową.md"
+    },
+    {
+      "basename": "5.2. Najważniejsze komponenty GUI",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md"
+    },
+    {
+      "basename": "2.3. Stream",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.3. Stream.md"
     },
     {
       "basename": "UBUNTU",
@@ -43,14 +67,6 @@
     {
       "basename": "_ Intro Linux Shell",
       "path": "linux/Lear Linux Shell Programming/_ Intro Linux Shell.md"
-    },
-    {
-      "basename": "3 Funkcje - wychodzimy poza `main`",
-      "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/3 Funkcje - wychodzimy poza `main`.md"
-    },
-    {
-      "basename": "2.3. Stream",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.3. Stream.md"
     },
     {
       "basename": "4.4. HTTPS Node",
@@ -153,10 +169,6 @@
       "path": "C Sharp/Complete CSharp MasterClass/5. Loops.md"
     },
     {
-      "basename": "5.2. Najważniejsze komponenty GUI",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md"
-    },
-    {
       "basename": "_ C Sharp od Podstaw do WPF i XAML",
       "path": "C Sharp/C Sharp od Podstaw do WPF i XAML/_ C Sharp od Podstaw do WPF i XAML.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "7.10 Express and FireBase",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/7.10 Express and FireBase.md"
-    },
-    {
-      "basename": "ES refresh",
-      "path": "JAVASCRIPT/ES refresh.md"
-    },
-    {
-      "basename": "_ Programowanie w JS od Zera do Mastera",
-      "path": "JAVASCRIPT/Programowanie w JS od Zera do Mastera/_ Programowanie w JS od Zera do Mastera.md"
-    },
-    {
-      "basename": "11.4 obiekt Event",
-      "path": "JAVASCRIPT/Podstawy_Włodarczyk/11.4 obiekt Event.md"
     }
   ],
   "omittedPaths": [],

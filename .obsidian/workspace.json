@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/_ 0 Kotlin Rusz Głową.md",
+                "file": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/3 Funkcje - wychodzimy poza `main`.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,21 +66,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "542ec655a686a91d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -142,8 +130,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -163,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/3 Funkcje - wychodzimy poza `main`.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/3 Funkcje - wychodzimy poza `main`.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/3 Funkcje - wychodzimy poza `main`.md"
               }
             }
           },
@@ -254,10 +241,16 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "542ec655a686a91d",
+  "active": "6b01ee3c716a9358",
   "lastOpenFiles": [
-    "linux/UBUNTU.md",
+    "_ Mobile/Kotlin/wyrażenia regularne zadania.md",
+    "_ Mobile/Kotlin/Wyrażenia regularne.md",
+    "_ Mobile/Kotlin/Fundamenty Kotlina.md",
+    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/_ 0 Kotlin Rusz Głową.md",
+    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/2.3. Stream.md",
     "conflict-files-obsidian-git.md",
+    "linux/UBUNTU.md",
     "linux/Lear Linux Shell Programming/5 - Regex with Grep and Sed.md",
     "linux/Lear Linux Shell Programming/6 Intro to Sed.md",
     "linux/Master Bash Shell/_ 0 Start Master Bash Shell.md",
@@ -268,7 +261,6 @@
     "linux/Lear Linux Shell Programming/2 - Directories.md",
     "linux/Lear Linux Shell Programming/_ Intro Linux Shell.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/3 Funkcje - wychodzimy poza `main`.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/2.3. Stream.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/4.4. HTTPS Node.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/4.3. pliki statyczne.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/4.2. Serwer HTTP.md",
@@ -277,11 +269,6 @@
     "_ WEB/N_O_D_E/NodeJS - fullstack/4. Tworzenie serwerów.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/3.6. Obserwowanie zmian w plikach.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/3.4. Przenoszenie i zmiana nazw plików.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/3.3. Tworzenie plików i katalogów.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/3.2. Odczytywanie plików.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/3 Node praca z Sys. Plików.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/2.4. Process.md",
     "TYPESCRIPT/Learn TypeScript 2h - Full Course for beginners",
     "Pasted image 20240823083104.png",
     "Pasted image 20240820213048.png",
