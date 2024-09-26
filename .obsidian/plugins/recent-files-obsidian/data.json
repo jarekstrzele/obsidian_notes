@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
       "basename": "UBUNTU",
       "path": "linux/UBUNTU.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "11.4 obiekt Event",
       "path": "JAVASCRIPT/Podstawy_Włodarczyk/11.4 obiekt Event.md"
-    },
-    {
-      "basename": "11.3 nasłuchiwacz zdarzeń",
-      "path": "JAVASCRIPT/Podstawy_Włodarczyk/11.3 nasłuchiwacz zdarzeń.md"
     }
   ],
   "omittedPaths": [],

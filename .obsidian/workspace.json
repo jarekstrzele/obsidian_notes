@@ -66,8 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "542ec655a686a91d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -150,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/UBUNTU.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/UBUNTU.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/UBUNTU.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -241,15 +254,16 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "faa7e67ef6d9a902",
+  "active": "542ec655a686a91d",
   "lastOpenFiles": [
+    "linux/UBUNTU.md",
+    "conflict-files-obsidian-git.md",
     "linux/Lear Linux Shell Programming/5 - Regex with Grep and Sed.md",
     "linux/Lear Linux Shell Programming/6 Intro to Sed.md",
     "linux/Master Bash Shell/_ 0 Start Master Bash Shell.md",
     "linux/Master Bash Shell/1 - Bash Scripts.md",
     "linux/pop!sys.md",
     "linux/Shell 18 commands that will change the way you use linux forever.md",
-    "linux/UBUNTU.md",
     "linux/Lear Linux Shell Programming/3 - Shell Environment.md",
     "linux/Lear Linux Shell Programming/2 - Directories.md",
     "linux/Lear Linux Shell Programming/_ Intro Linux Shell.md",
@@ -268,7 +282,6 @@
     "_ WEB/N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/3 Node praca z Sys. Plików.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/2.4. Process.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md",
     "TYPESCRIPT/Learn TypeScript 2h - Full Course for beginners",
     "Pasted image 20240823083104.png",
     "Pasted image 20240820213048.png",
