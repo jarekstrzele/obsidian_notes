@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "sito erastotenesa",
+      "path": "A I/sito erastotenesa.md"
+    },
+    {
       "basename": "4. Tworzenie serwerów",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/4. Tworzenie serwerów.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "3.3. Tworzenie plików i katalogów",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3.3. Tworzenie plików i katalogów.md"
-    },
-    {
-      "basename": "2.1. Zdarzenia",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md"
     }
   ],
   "omittedPaths": [],

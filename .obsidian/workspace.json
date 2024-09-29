@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/4. Tworzenie serwerów.md",
+                "file": "A I/sito erastotenesa.md",
                 "mode": "source",
                 "source": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/4. Tworzenie serwerów.md",
+                "file": "A I/sito erastotenesa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/4. Tworzenie serwerów.md",
+                "file": "A I/sito erastotenesa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/4. Tworzenie serwerów.md"
+                "file": "A I/sito erastotenesa.md"
               }
             }
           },
@@ -243,6 +243,8 @@
   },
   "active": "f0fde06833789377",
   "lastOpenFiles": [
+    "_ WEB/N_O_D_E/NodeJS - fullstack/4. Tworzenie serwerów.md",
+    "A I/sito erastotenesa.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/3.6. Obserwowanie zmian w plikach.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/3.5. usuwanie plików i katalogów.md",
     "_ WEB/N_O_D_E/NodeJS - fullstack/3.4. Przenoszenie i zmiana nazw plików.md",
@@ -267,8 +269,6 @@
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/8. Wartość `null` i  wyjątki.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/7.1. Klasa danych `data class`.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/7.0. Wprowadzenie do  klas danych.md",
-    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/7 Klasy danych.md",
-    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/6.2. Interfejsy.md",
     "TYPESCRIPT/Learn TypeScript 2h - Full Course for beginners",
     "Pasted image 20240823083104.png",
     "Pasted image 20240820213048.png",
