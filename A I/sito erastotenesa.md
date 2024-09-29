@@ -55,17 +55,22 @@ liczby[0]=liczby[1]= False # indeksy 0 i 1 ustawiamy na False, bo nie są liczba
 for i in range(2, int(n**0.5)+1):
 	if liczby[i]:
 		# wielokrotności i zamieniamy True na False
-		
-
-
-
-
-
-
-
-
+		for j in range(i*i, n+1, i):
+			liczby[j] = False
 ```
-
-
+pierwsza iteracja:
+- `i = 2`
+- `liczby[2]==True` , więc warunek się wykona
+	- `j= 4`, bo `i*i=2*2=4`, będziemy iterować do `n`, w kroku `2`
+		- `liczby[4]=False`
+	- `j=6`, bo `4+2`
+		- `liczby[6]=False`
+	- `j=8`, bo `6+8`
+		- `liczby[8]=False`
+	- `j=10`, bo `8+2`
+		- `liczby[10]=False`
+- `i=3`
+	- `liczb[3]==True`, więc warunek się wykonuje
+		- `j=6`, bo `i*i=`
 
 
