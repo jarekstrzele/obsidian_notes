@@ -16,6 +16,31 @@ Algorytm Sito Eratostenesa działa na zasadzie **wykreślania** wielokrotności 
 
 
 
+## Sito implementacja w Pythonie
+wstęp
+```python
+for i in range(0,10):
+    print(i, end="") # 0123456789
+
+for i in range(0,10,2):
+    print(i, end="") # 02468
+```
+
+W **Sicie Eratostenesa**, każda liczba jest reprezentowana przez **indeks** w liście , przy czym wartość `True`, będzie wskazywać na liczbę pierwszą, a wartość `False` na liczbę złożóną.
+
+- Na początku wszystkie elementy listy są ustawione na `True`, czyli potencjalnie są liczbami pierwszymi
+- indeksy odpowiadające liczbom złożonym (czyli wielokrotnościom liczb pierwszych) są zmieniane na `False`, a te, które pozostają `True`, są liczbami pierwszymi.
+
+**przykład** dla `n=10`
+``
+
+
+
+
+
+
+
+
 
 
 
