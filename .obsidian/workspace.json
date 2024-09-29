@@ -61,14 +61,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/2.3. Stream.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/4. Tworzenie serwerów.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/4 Klasy i obiekty.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/4. Tworzenie serwerów.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/4 Klasy i obiekty.md",
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/4. Tworzenie serwerów.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/4 Klasy i obiekty.md"
+                "file": "_ WEB/N_O_D_E/NodeJS - fullstack/4. Tworzenie serwerów.md"
               }
             }
           },
@@ -241,10 +241,20 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "6b01ee3c716a9358",
+  "active": "f0fde06833789377",
   "lastOpenFiles": [
-    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/3 Funkcje - wychodzimy poza `main`.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/3.6. Obserwowanie zmian w plikach.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/3.5. usuwanie plików i katalogów.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/3.4. Przenoszenie i zmiana nazw plików.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/3.2. Odczytywanie plików.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/3 Node praca z Sys. Plików.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/2.4. Process.md",
+    "_ WEB/N_O_D_E/NodeJS - fullstack/2.3. Stream.md",
+    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md",
+    "linux/UBUNTU.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/4 Klasy i obiekty.md",
+    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/3 Funkcje - wychodzimy poza `main`.md",
     "_ Mobile/Android/Funkcje lambda.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/5.1. Converter App.md",
     "_ Mobile/Android/the complete Android 14 and Kotlin/5. First Android App - Unit Converter Part 1.md",
@@ -259,16 +269,6 @@
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/7.0. Wprowadzenie do  klas danych.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/7 Klasy danych.md",
     "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/6.2. Interfejsy.md",
-    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/6.1 Klasy abstrakcyjne.md",
-    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/6 Klasy abstrakcyjne i interfejsy.md",
-    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/5 Klasy pochodne i bazowe.md",
-    "_ Mobile/Kotlin/wyrażenia regularne zadania.md",
-    "_ Mobile/Kotlin/Wyrażenia regularne.md",
-    "_ Mobile/Kotlin/Fundamenty Kotlina.md",
-    "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/_ 0 Kotlin Rusz Głową.md",
-    "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md",
-    "_ WEB/N_O_D_E/NodeJS - fullstack/2.3. Stream.md",
-    "conflict-files-obsidian-git.md",
     "TYPESCRIPT/Learn TypeScript 2h - Full Course for beginners",
     "Pasted image 20240823083104.png",
     "Pasted image 20240820213048.png",

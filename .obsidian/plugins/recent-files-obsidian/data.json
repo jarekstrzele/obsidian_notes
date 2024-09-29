@@ -1,6 +1,50 @@
 {
   "recentFiles": [
     {
+      "basename": "4. Tworzenie serwerów",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/4. Tworzenie serwerów.md"
+    },
+    {
+      "basename": "3.6. Obserwowanie zmian w plikach",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3.6. Obserwowanie zmian w plikach.md"
+    },
+    {
+      "basename": "3.5. usuwanie plików i katalogów",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3.5. usuwanie plików i katalogów.md"
+    },
+    {
+      "basename": "3.4. Przenoszenie i zmiana nazw plików",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3.4. Przenoszenie i zmiana nazw plików.md"
+    },
+    {
+      "basename": "3.2. Odczytywanie plików",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3.2. Odczytywanie plików.md"
+    },
+    {
+      "basename": "3.1. Odczytywanie info o plikach",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md"
+    },
+    {
+      "basename": "3 Node praca z Sys. Plików",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3 Node praca z Sys. Plików.md"
+    },
+    {
+      "basename": "2.4. Process",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.4. Process.md"
+    },
+    {
+      "basename": "2.3. Stream",
+      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.3. Stream.md"
+    },
+    {
+      "basename": "5.2. Najważniejsze komponenty GUI",
+      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md"
+    },
+    {
+      "basename": "UBUNTU",
+      "path": "linux/UBUNTU.md"
+    },
+    {
       "basename": "4 Klasy i obiekty",
       "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/4 Klasy i obiekty.md"
     },
@@ -93,18 +137,6 @@
       "path": "_ Mobile/Kotlin/Kotlin - RUSZ GŁOWĄ/_ 0 Kotlin Rusz Głową.md"
     },
     {
-      "basename": "5.2. Najważniejsze komponenty GUI",
-      "path": "_ Mobile/Android/Rusz Głową Android. Programowanie aplikacji/5.2. Najważniejsze komponenty GUI.md"
-    },
-    {
-      "basename": "2.3. Stream",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.3. Stream.md"
-    },
-    {
-      "basename": "UBUNTU",
-      "path": "linux/UBUNTU.md"
-    },
-    {
       "basename": "5 - Regex with Grep and Sed",
       "path": "linux/Lear Linux Shell Programming/5 - Regex with Grep and Sed.md"
     },
@@ -161,44 +193,12 @@
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/4.1. Prosty serwer i klient TCP.md"
     },
     {
-      "basename": "4. Tworzenie serwerów",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/4. Tworzenie serwerów.md"
-    },
-    {
-      "basename": "3.6. Obserwowanie zmian w plikach",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3.6. Obserwowanie zmian w plikach.md"
-    },
-    {
-      "basename": "3.4. Przenoszenie i zmiana nazw plików",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3.4. Przenoszenie i zmiana nazw plików.md"
-    },
-    {
       "basename": "3.3. Tworzenie plików i katalogów",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3.3. Tworzenie plików i katalogów.md"
     },
     {
-      "basename": "3.2. Odczytywanie plików",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3.2. Odczytywanie plików.md"
-    },
-    {
-      "basename": "3.1. Odczytywanie info o plikach",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3.1. Odczytywanie info o plikach.md"
-    },
-    {
-      "basename": "3 Node praca z Sys. Plików",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/3 Node praca z Sys. Plików.md"
-    },
-    {
-      "basename": "2.4. Process",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.4. Process.md"
-    },
-    {
       "basename": "2.1. Zdarzenia",
       "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.1. Zdarzenia.md"
-    },
-    {
-      "basename": "2.2. Buffer",
-      "path": "_ WEB/N_O_D_E/NodeJS - fullstack/2.2. Buffer.md"
     }
   ],
   "omittedPaths": [],
