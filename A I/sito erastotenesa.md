@@ -32,7 +32,30 @@ W **Sicie Eratostenesa**, każda liczba jest reprezentowana przez **indeks** w l
 - indeksy odpowiadające liczbom złożonym (czyli wielokrotnościom liczb pierwszych) są zmieniane na `False`, a te, które pozostają `True`, są liczbami pierwszymi.
 
 **przykład** dla `n=10`
-``
+`[False, False, True, True, True, True, True, True, True, True, True]`
+- `False` dla indeksów `0` i `1`, ponieważ 0 i 1 nie są liczbami pierwszymi
+
+po działaniu algorytmu
+`[False, False, True, True, False, True, False, True, False, False, False]`
+- `True` pozostaje na indeksach 2, 3, 5, 7, ponieważ są to liczby pierwsze.
+- `False` oznacza liczby złożone (np. 4, 6, 8, 9, 10).
+
+==implementacja==
+`liczby = [True] * (n+1)` wypełniamy listę wartościami True
+
+```python
+n=10
+liczby = [True] *(n+1)
+print(liczby) # [True, True, True, True, True, True, True, True, True, True, True]
+
+liczby[0]=liczby[1]= False # indeksy 0 i 1 ustawiamy na False, bo nie są liczbami pierwszymi
+
+# iterujemy od indeksu 2, czyli od pierwszej liczby pierwszej
+# ustawiamy zakres od 2 do pierwiastek z 10 + 1 (range tworzy zakres otwarty)
+for i in range(2, int(n**0.5)+1):
+	if liczby[i]:
+		# wielokrotności i zamieniamy True na False
+		
 
 
 
@@ -41,6 +64,7 @@ W **Sicie Eratostenesa**, każda liczba jest reprezentowana przez **indeks** w l
 
 
 
+```
 
 
 
