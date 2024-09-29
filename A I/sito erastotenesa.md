@@ -71,6 +71,13 @@ pierwsza iteracja:
 		- `liczby[10]=False`
 - `i=3`
 	- `liczb[3]==True`, więc warunek się wykonuje
-		- `j=6`, bo `i*i=`
+		- `j=6`, bo `i*i=9` 
+			- `liczby[9]=False`
+		- `j=12` poza zakresem
+
+
+`[x for x in range(2, n + 1) if liczby[x]]`
+tworzy listę, liczb pierwszych, bo zwraca liczby indeksów, dla których wartości są `True`
+
 
 
