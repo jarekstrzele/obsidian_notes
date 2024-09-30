@@ -26,7 +26,7 @@ for i in range(0,10,2):
     print(i, end="") # 02468
 ```
 
-W **Sicie Eratostenesa**, każda liczba jest reprezentowana przez **indeks** w liście , przy czym wartość `True`, będzie wskazywać na liczbę pierwszą, a wartość `False` na liczbę złożóną.
+W **Sicie Eratostenesa**, każda liczba jest reprezentowana przez **indeks** w liście , przy czym wartość `True`, będzie wskazywać na liczbę pierwszą, a wartość `False` na liczbę złożoną.
 
 - Na początku wszystkie elementy listy są ustawione na `True`, czyli potencjalnie są liczbami pierwszymi
 - indeksy odpowiadające liczbom złożonym (czyli wielokrotnościom liczb pierwszych) są zmieniane na `False`, a te, które pozostają `True`, są liczbami pierwszymi.
@@ -41,7 +41,7 @@ po działaniu algorytmu
 - `False` oznacza liczby złożone (np. 4, 6, 8, 9, 10).
 
 ==implementacja==
-`liczby = [True] * (n+1)` wypełniamy listę wartościami True
+`liczby = [True] * (n+1)` wypełniamy listę wartościami True, dajemy n+1, aby indeksy odpowiadały liczbą, czyli jeżeli n=10, to tablica musi mieć 11 elementów (ostatni element ma indeks 10).
 
 ```python
 n=10
