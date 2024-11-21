@@ -1,4 +1,4 @@
-[[_ 0 Kotlin Rusz Głową]]
+**[[_ 0 Kotlin Rusz Głową]]
 
 #kotlin/class
 
